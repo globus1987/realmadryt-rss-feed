@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Mar 2024 14:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 14:38:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga atakuje i oficjalnie potępia skargę Realu na Martíneza Munuerę</title>
+        <link>https://www.realmadryt.pl/news/128195-la-liga-atakuje-i-oficjalnie-potepia-skarge-realu-na-martineza-munuere</link>
+        <pubDate>Wed, 20 Mar 2024 15:27:00 GMT</pubDate>
+        <description>Komitet Wykonawczy La Ligi odrzuca skargę złożoną przez Real Madryt na sędziego Juana Martíneza Munuerę i popiera kolektyw sędziowski.</description>
+    </item>
     
     <item>
         <title>Dyrektor sportowy Barçy: Real z Mbappé będzie mieć pewne problemy taktyczne</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128191-oficjalnie-courtois-przeszedl-operacje-lakotki</link>
         <pubDate>Wed, 20 Mar 2024 10:51:00 GMT</pubDate>
         <description>Wszystko przebiegło pomyślnie i przed Belgiem rehabilitacja, która ma potrwać dwa miesiące. Prawdopodobnie bramkarz nie pojawi się już w tym sezonie na boisku.</description>
-    </item>
-    
-    <item>
-        <title>400 zł za triumf Polaków nad Estończykami!</title>
-        <link>https://www.realmadryt.pl/news/128161-400-zl-za-triumf-polakow-nad-estonczykami</link>
-        <pubDate>Wed, 20 Mar 2024 10:30:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
