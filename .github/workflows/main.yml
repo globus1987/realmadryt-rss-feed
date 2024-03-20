@@ -10,9 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v2
-      with:
-        persist-credentials: false
+      uses: actions/checkout@v3
 
     - name: Setup Python
       uses: actions/setup-python@v2
@@ -30,9 +28,9 @@ jobs:
 
     - name: Commit and push if it changed
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
-        git commit -am "Update XML feed" || exit 0
-        git push https://${{ secrets.GH_PAT }}@github.com/globus1987/realmadryt-rss-feed.git HEAD:master
+        git config --global user.email github-actions@github.com
+        git config --global user.name github-actions
+        git commit -m "Update XML feed" || exit 0
+        git push
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
