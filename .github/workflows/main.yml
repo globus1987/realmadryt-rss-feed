@@ -31,7 +31,7 @@ jobs:
       run: |
         git config --global user.email github-actions@github.com
         git config --global user.name github-actions
-        git commit -m "Update XML feed" || exit 0
+        git commit -am "Update XML feed" || exit 0
         git push
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
