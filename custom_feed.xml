@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Mar 2024 10:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 10:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joselu: Są gesty, których Vini może się wystrzegać</title>
+        <link>https://www.realmadryt.pl/news/128164-joselu-sa-gesty-ktorych-vini-moze-sie-wystrzegac</link>
+        <pubDate>Wed, 20 Mar 2024 11:40:00 GMT</pubDate>
+        <description>Napastnik Realu na zgrupowaniu reprezentacji Hiszpanii udzielił wywiadu ElDesmarque, w którym opowiadał o Viníciusie, Mbappé czy swojej przyszłości na Estadio Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 20 marca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128185-dzisiejsze-okladki</link>
         <pubDate>Wed, 20 Mar 2024 00:12:00 GMT</pubDate>
         <description>Kontuzja Thibaut Courtois i młodzież Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Operacja Courtois w środę</title>
-        <link>https://www.realmadryt.pl/news/128183-the-athletic-operacja-courtois-w-srode</link>
-        <pubDate>Tue, 19 Mar 2024 23:41:00 GMT</pubDate>
-        <description>Belg przejdzie operację związaną z wtorkową kontuzją łąkotki i ma pauzować około 7 tygodni. Najpewniej w tym sezonie nie wróci już do gry.</description>
     </item>
     
 </channel>
