@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Mar 2024 22:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 23:19:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128207-dzisiejsze-okladki</link>
+        <pubDate>Thu, 21 Mar 2024 00:03:00 GMT</pubDate>
+        <description>Skandal w Hiszpańskiej Federacji Piłkarskiej i decyzja Barcelony w sprawie jej młodzieży to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>5x19: Dystans Realu Madryt do Manchesteru City to…</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128190-dlaczego-real-zagral-w-berlinie-w-domowych-strojach</link>
         <pubDate>Wed, 20 Mar 2024 15:55:00 GMT</pubDate>
         <description>Zespół Chusa Mateo założył swój pierwszy komplet koszulek w spotkaniu z Albą, bo drugi został pozostawiony na lotnisku Barajas.</description>
-    </item>
-    
-    <item>
-        <title>La Liga atakuje i oficjalnie potępia skargę Realu na Martíneza Munuerę</title>
-        <link>https://www.realmadryt.pl/news/128195-la-liga-atakuje-i-oficjalnie-potepia-skarge-realu-na-martineza-munuere</link>
-        <pubDate>Wed, 20 Mar 2024 15:27:00 GMT</pubDate>
-        <description>Komitet Wykonawczy La Ligi odrzuca skargę złożoną przez Real Madryt na sędziego Juana Martíneza Munuerę i popiera kolektyw sędziowski.</description>
     </item>
     
 </channel>
