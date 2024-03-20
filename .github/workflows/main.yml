@@ -32,6 +32,6 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git commit -am "Update XML feed" || exit 0
-        echo $GH_PAT | git push https://github-actions[bot]:$GH_PAT@github.com/globus1987/realmadryt-rss-feed.git
+        echo ${{ secrets.GH_PAT }} | git push https://x-oauth-basic:${{ secrets.GH_PAT }}@github.com/globus1987/realmadryt-rss-feed.git HEAD:master
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
