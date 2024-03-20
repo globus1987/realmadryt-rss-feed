@@ -1,0 +1,34 @@
+name: Scheduled Python Script
+
+on:
+  schedule:
+    - cron: '* * * * *' # This means the action runs every minute
+
+jobs:
+  print_rss_feed:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.10'
+
+    - name: Install Requirements
+      run: |
+        pip install requests
+        pip install beautifulsoup4
+
+    - name: Run Python script and create the XML file
+      run: |
+        echo "$(python build_feed.py)" > custom_feed.xml
+
+    - name: Commit and push if it changed
+      run: |
+        git diff
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git commit -am "Update XML feed" || exit 0
+        git push
