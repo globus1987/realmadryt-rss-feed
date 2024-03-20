@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '*/15 * * * *' # This means the action runs every minute
   workflow_dispatch:
+permissions: write-all
 
 jobs:
   print_rss_feed:
