@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+      with:
+        persist-credentials: false
 
     - name: Setup Python
       uses: actions/setup-python@v2
@@ -28,10 +30,7 @@ jobs:
 
     - name: Commit and push if it changed
       run: |
-        git diff
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git commit -am "Update XML feed" || exit 0
-        echo ${{ secrets.GH_PAT }} | git push https://x-oauth-basic:${{ secrets.GH_PAT }}@github.com/globus1987/realmadryt-rss-feed.git HEAD:master
-      env:
-        GH_PAT: ${{ secrets.GH_PAT }}
+        git push https://${{ secrets.GH_PAT }}@github.com/globus1987/realmadryt-rss-feed.git HEAD:master
