@@ -1,4 +1,4 @@
-name: Scheduled Python Script
+  name: Scheduled Python Script
 
 on:
   schedule:
@@ -32,4 +32,6 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git commit -am "Update XML feed" || exit 0
-        git push
+        echo $GH_PAT | git push https://github-actions[bot]:$GH_PAT@github.com/globus1987/realmadryt-rss-feed.git
+      env:
+        GH_PAT: ${{ secrets.GH_PAT }}
