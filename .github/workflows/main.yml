@@ -2,7 +2,8 @@ name: Scheduled Python Script
 
 on:
   schedule:
-    - cron: '* * * * *' # This means the action runs every minute
+    - cron: '*/15 * * * *' # This means the action runs every minute
+  workflow_dispatch:
 
 jobs:
   print_rss_feed:
