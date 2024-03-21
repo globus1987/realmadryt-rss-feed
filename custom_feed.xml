@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Mar 2024 21:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 22:17:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt zwycięzcą sezonu zasadniczego Euroligi</title>
+        <link>https://www.realmadryt.pl/news/128224-real-madryt-zwyciezca-sezonu-zasadniczego-euroligi</link>
+        <pubDate>Thu, 21 Mar 2024 22:54:00 GMT</pubDate>
+        <description>W 31. kolejce Real Madryt pokonał na wyjeździe Partizan i zagwarantował sobie pierwsze miejsce w sezonie zasadniczym. Pozostałe trzy spotkania Królewscy mogą potraktować jak sparingi.</description>
+    </item>
     
     <item>
         <title>Łunin i Ukraina awansują do finału baraży o EURO</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128206-dorival-junior-w-sytuacji-z-viniciusem-granica-zostala-przekroczona</link>
         <pubDate>Thu, 21 Mar 2024 15:17:00 GMT</pubDate>
         <description>Dorival Júnior, selekcjoner reprezentacji Brazylii, udzielił wywiadu dziennikowi The Guardian, w którym mówił m.in. o fali rasizmu, z jaką musi mierzyć się na hiszpańskich stadionach Vinícius. Przedstawiamy wypowiedzi trenera Canarinhos.</description>
-    </item>
-    
-    <item>
-        <title>Komitet Rozgrywek nie anulował żółtej kartki Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/128214-komitet-rozgrywek-nie-anulowal-zoltej-kartki-viniciusa</link>
-        <pubDate>Thu, 21 Mar 2024 14:26:00 GMT</pubDate>
-        <description>Brazylijczyk nie zagra w najbliższej kolejce ligowej, gdy rywalem Królewskich będzie Athletic. Królewscy bezskutecznie odwoływali się od kartki, którą obejrzał w meczu z Osasuną.</description>
     </item>
     
 </channel>
