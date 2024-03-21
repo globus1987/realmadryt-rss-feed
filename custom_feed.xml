@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Mar 2024 13:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 13:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Komitet Rozgrywek nie anulował żółtej kartki Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/128214-komitet-rozgrywek-nie-anulowal-zoltej-kartki-viniciusa</link>
+        <pubDate>Thu, 21 Mar 2024 14:26:00 GMT</pubDate>
+        <description>Brazylijczyk nie zagra w najbliższej kolejce ligowej, gdy rywalem Królewskich będzie Athletic. Królewscy bezskutecznie odwoływali się od kartki, którą obejrzał w meczu z Osasuną.</description>
+    </item>
+    
+    <item>
+        <title>Błędne koło Reiniera</title>
+        <link>https://www.realmadryt.pl/news/128180-bledne-kolo-reiniera</link>
+        <pubDate>Thu, 21 Mar 2024 14:26:00 GMT</pubDate>
+        <description>Real Madryt nie trafił z Reinierem. Po kilku wypożyczeniach Królewscy minionego lata doszli do porozumienia z Frosinone, by oddać Brazylijczyka na kolejny rok. Po obiecującym początku i wywalczeniu sobie miejsca w wyjściowym składzie wszystko wróciło jednak na dawne tory.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Z Judem rozmawialiśmy o Dierze i Dayocie, a nie o Mbappé i Haalandzie</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128209-400-zl-za-wytypowanie-wygranej-polski-nad-estonia</link>
         <pubDate>Thu, 21 Mar 2024 09:07:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Meczyki.pl: Liga Mistrzów wróci w Polsce do CANAL+</title>
-        <link>https://www.realmadryt.pl/news/128208-meczyki-pl-liga-mistrzow-wroci-w-polsce-do-canal</link>
-        <pubDate>Thu, 21 Mar 2024 08:16:00 GMT</pubDate>
-        <description>Portal Meczyki poinformował w newsie Tomasza Włodarczyka, że od następnego sezonu mecze Ligi Mistrzów w Polsce może pokazywać inny nadawca. Przypomnijmy, że kolejne rozgrywki Champions League odbędą się w nowym formacie.</description>
-    </item>
-    
-    <item>
-        <title>AS: Łunin chce „przetestować” rynek transferowy</title>
-        <link>https://www.realmadryt.pl/news/128198-as-lunin-chce-przetestowac-rynek-transferowy</link>
-        <pubDate>Thu, 21 Mar 2024 07:25:00 GMT</pubDate>
-        <description>Jak informuje AS, odejście Andrija Łunina już najbliższego lata wcale nie jest wykluczone. Królewscy chcą, aby Ukrainiec pozostał na Santiago Bernabéu przynajmniej do 2025 roku, ale Andrij chce latem sprawdzić, jaka jest jego realna wartość i na jakie oferty może liczyć.</description>
     </item>
     
 </channel>
