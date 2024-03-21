@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Mar 2024 14:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 15:18:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak konkretnie wygląda sytuacja Daviesa?</title>
+        <link>https://www.realmadryt.pl/news/128215-jak-konkretnie-wyglada-sytuacja-daviesa</link>
+        <pubDate>Thu, 21 Mar 2024 16:08:00 GMT</pubDate>
+        <description>Bayern nie zamierza brać udziału w licytacjach. Działacze mistrzów Niemiec widzą sprawę jasno i zakomunikowały to Alphonso Daviesowi.</description>
+    </item>
     
     <item>
         <title>Dorival Júnior: W sytuacji z Viníciusem granica została przekroczona</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128153-50-milionow-euro-dla-kazdego-z-klubowego-mundialu-to-fake-news</link>
         <pubDate>Thu, 21 Mar 2024 10:49:00 GMT</pubDate>
         <description>José Félix Díaz z dziennika MARCA w jednym z programów dziennikarskich na platformie Twitch skomentował plotki dotyczące puli nagród na nowym Klubowym Mundialu. Niektórzy podali, że kwota startowa dla każdego klubu to 50 milionów euro, a zwycięzca zgarnie od FIFA nawet 100 milionów euro. Real Madryt ma awans na turniej zaplanowany na czerwiec i lipiec 2025 roku jako mistrz Europy z 2022 roku.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 21 marca</title>
-        <link>https://www.realmadryt.pl/news/128205-kartka-z-kalendarza-21-marca</link>
-        <pubDate>Thu, 21 Mar 2024 09:58:00 GMT</pubDate>
-        <description>Rocznica śmierci byłego prezesa Realu Madryt, wizyta Rafy Beníteza na Santiago Bernabéu i ważne mecze ligowe. Co działo się 21 marca?</description>
     </item>
     
 </channel>
