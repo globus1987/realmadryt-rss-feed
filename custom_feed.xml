@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Mar 2024 23:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 23:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128229-dzisiejsze-okladki</link>
+        <pubDate>Fri, 22 Mar 2024 00:44:00 GMT</pubDate>
+        <description>Mecz Hiszpanii i wywiad z Joanem Laportą to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt zwycięzcą sezonu zasadniczego Euroligi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128215-jak-konkretnie-wyglada-sytuacja-daviesa</link>
         <pubDate>Thu, 21 Mar 2024 16:08:00 GMT</pubDate>
         <description>Bayern nie zamierza brać udziału w licytacjach. Działacze mistrzów Niemiec widzą sprawę jasno i zakomunikowały to Alphonso Daviesowi.</description>
-    </item>
-    
-    <item>
-        <title>Dorival Júnior: W sytuacji z Viníciusem granica została przekroczona</title>
-        <link>https://www.realmadryt.pl/news/128206-dorival-junior-w-sytuacji-z-viniciusem-granica-zostala-przekroczona</link>
-        <pubDate>Thu, 21 Mar 2024 15:17:00 GMT</pubDate>
-        <description>Dorival Júnior, selekcjoner reprezentacji Brazylii, udzielił wywiadu dziennikowi The Guardian, w którym mówił m.in. o fali rasizmu, z jaką musi mierzyć się na hiszpańskich stadionach Vinícius. Przedstawiamy wypowiedzi trenera Canarinhos.</description>
     </item>
     
 </channel>
