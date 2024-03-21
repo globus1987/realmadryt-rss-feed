@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Mar 2024 19:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 19:38:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Laporta: Liczby w sprawie Mbappé na pewno zakłócą szatnię Realu</title>
+        <link>https://www.realmadryt.pl/news/128220-laporta-liczby-w-sprawie-mbappe-na-pewno-zakloca-szatnie-realu</link>
+        <pubDate>Thu, 21 Mar 2024 20:35:00 GMT</pubDate>
+        <description>Joan Laporta udzielił wywiadu Mundo Deportivo. Przedstawiamy opublikowane wypowiedzi prezesa Barcelony dotyczące Realu Madryt i Kyliana Mbappé.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Courtois miał zagrać przeciwko Athletikowi</title>
+        <link>https://www.realmadryt.pl/news/128219-marca-courtois-mial-zagrac-przeciwko-athletikowi</link>
+        <pubDate>Thu, 21 Mar 2024 20:28:00 GMT</pubDate>
+        <description>Kontuzja Belga przyszła na jego ostatnim etapie wracania do pełnej dyspozycji po poważnej kontuzji kolana. MARCA informuje, że uraz boli tym bardziej, że bramkarz miał wrócić do gry już w najbliższym meczu z Athletikiem.</description>
+    </item>
     
     <item>
         <title>Dubaj o krok bliżej Euroligi</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128180-bledne-kolo-reiniera</link>
         <pubDate>Thu, 21 Mar 2024 14:26:00 GMT</pubDate>
         <description>Real Madryt nie trafił z Reinierem. Po kilku wypożyczeniach Królewscy minionego lata doszli do porozumienia z Frosinone, by oddać Brazylijczyka na kolejny rok. Po obiecującym początku i wywalczeniu sobie miejsca w wyjściowym składzie wszystko wróciło jednak na dawne tory.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Z Judem rozmawialiśmy o Dierze i Dayocie, a nie o Mbappé i Haalandzie</title>
-        <link>https://www.realmadryt.pl/news/128213-tchouameni-z-judem-rozmawialismy-o-dierze-i-dayocie-a-nie-o-mbappe-i-haalandzie</link>
-        <pubDate>Thu, 21 Mar 2024 13:35:00 GMT</pubDate>
-        <description>Pomocnik wziął udział w konferencji prasowej przed sobotnim spotkaniem reprezentacji Francji z Niemcami.</description>
-    </item>
-    
-    <item>
-        <title>Pierwsza drużyna ponownie trenowała z Castillą</title>
-        <link>https://www.realmadryt.pl/news/128212-pierwsza-druzyna-ponownie-trenowala-z-castilla</link>
-        <pubDate>Thu, 21 Mar 2024 13:20:00 GMT</pubDate>
-        <description>Na zgrupowania reprezentacji rozjechało się czternastu piłkarzy Realu Madryt. Pozostali zawodnicy kontynuowali dzisiaj treningi w Valdebebas. Kolejny mecz Królewskich odbędzie się za dziesięć dni.</description>
     </item>
     
 </channel>
