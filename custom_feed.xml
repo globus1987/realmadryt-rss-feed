@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Mar 2024 10:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 10:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Robinho został już zatrzymany i trafił do aresztu</title>
+        <link>https://www.realmadryt.pl/news/128233-robinho-zostal-juz-zatrzymany-i-trafil-do-aresztu</link>
+        <pubDate>Fri, 22 Mar 2024 11:46:00 GMT</pubDate>
+        <description>Brazylijczyka skazano na dziewięć lat pozbawienia wolności i piłkarz trafił już do aresztu, skąd zostanie przetransportowany do więzienia.</description>
+    </item>
     
     <item>
         <title>Relevo: Trent Alexander-Arnold na radarze Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128224-real-madryt-zwyciezca-sezonu-zasadniczego-euroligi</link>
         <pubDate>Thu, 21 Mar 2024 22:54:00 GMT</pubDate>
         <description>W 31. kolejce Real Madryt pokonał na wyjeździe Partizan i zagwarantował sobie pierwsze miejsce w sezonie zasadniczym. Pozostałe trzy spotkania Królewscy mogą potraktować jak sparingi.</description>
-    </item>
-    
-    <item>
-        <title>Łunin i Ukraina awansują do finału baraży o EURO</title>
-        <link>https://www.realmadryt.pl/news/128221-lunin-i-ukraina-awansuja-do-finalu-barazy-o-euro</link>
-        <pubDate>Thu, 21 Mar 2024 22:44:00 GMT</pubDate>
-        <description>Ukraina awansowała do finału baraży o awans na EURO, chociaż przegrywała w półfinałowym starciu z Bośnią i Hercegowiną. Andrij Łunin rozegrał pełny mecz i był pośrednio zamieszany w utratę gola, ale poza tym zaprezentował się z solidnej strony.</description>
     </item>
     
 </channel>
