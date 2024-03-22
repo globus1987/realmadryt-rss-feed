@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Mar 2024 16:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 16:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Co słychać u Jesúsa Vallejo?</title>
+        <link>https://www.realmadryt.pl/news/128223-co-slychac-u-jesusa-vallejo</link>
+        <pubDate>Fri, 22 Mar 2024 17:43:00 GMT</pubDate>
+        <description>Defensor Granady wypożyczony z Realu Madryt zaliczył w tym sezonie zaledwie 106 minut w trzech meczach. To tylko 4% możliwego czasu gry.</description>
+    </item>
     
     <item>
         <title>Agent Endricka: On nie jest taki jak Vini czy Neymar, ma inny charakter</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128226-kartka-z-kalendarza-22-marca</link>
         <pubDate>Fri, 22 Mar 2024 10:40:00 GMT</pubDate>
         <description>Debiut Varane'a w reprezentacji, urodziny byłego trenera, święto koszykarza i przegrany Klasyk na Camp Nou. Co działo się 22 marca?</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Liga Mistrzów od przyszłego sezonu w CANAL+</title>
-        <link>https://www.realmadryt.pl/news/128230-oficjalnie-liga-mistrzow-od-przyszlego-sezonu-w-canal</link>
-        <pubDate>Fri, 22 Mar 2024 09:52:00 GMT</pubDate>
-        <description>CANAL+ pozyskał wyłączne prawa do transmisji wszystkich meczów Ligi Mistrzów UEFA, Ligi Młodzieżowej UEFA i Superpucharu UEFA w sezonach 2024/25, 2025/26 i 2026/27 na terenie Polski.</description>
     </item>
     
 </channel>
