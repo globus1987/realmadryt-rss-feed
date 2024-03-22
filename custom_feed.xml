@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Mar 2024 08:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 08:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Liga Mistrzów od przyszłego sezonu w CANAL+</title>
+        <link>https://www.realmadryt.pl/news/128230-oficjalnie-liga-mistrzow-od-przyszlego-sezonu-w-canal</link>
+        <pubDate>Fri, 22 Mar 2024 09:52:00 GMT</pubDate>
+        <description>CANAL+ pozyskał wyłączne prawa do transmisji wszystkich meczów Ligi Mistrzów UEFA, Ligi Młodzieżowej UEFA i Superpucharu UEFA w sezonach 2024/25, 2025/26 i 2026/27 na terenie Polski.</description>
+    </item>
     
     <item>
         <title>Bałagan</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128219-marca-courtois-mial-zagrac-przeciwko-athletikowi</link>
         <pubDate>Thu, 21 Mar 2024 20:28:00 GMT</pubDate>
         <description>Kontuzja Belga przyszła na jego ostatnim etapie wracania do pełnej dyspozycji po poważnej kontuzji kolana. MARCA informuje, że uraz boli tym bardziej, że bramkarz miał wrócić do gry już w najbliższym meczu z Athletikiem.</description>
-    </item>
-    
-    <item>
-        <title>Dubaj o krok bliżej Euroligi</title>
-        <link>https://www.realmadryt.pl/news/128203-dubaj-o-krok-blizej-euroligi</link>
-        <pubDate>Thu, 21 Mar 2024 19:35:00 GMT</pubDate>
-        <description>Dubaj będzie miał swój klub w ABA League od nowego sezonu. To był niezbędny krok, żeby później móc dołączyć do szeregów Euroligi.</description>
     </item>
     
 </channel>
