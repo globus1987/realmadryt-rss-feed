@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Mar 2024 04:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 04:38:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Specyficzny duet</title>
+        <link>https://www.realmadryt.pl/news/128155-specyficzny-duet</link>
+        <pubDate>Fri, 22 Mar 2024 05:30:00 GMT</pubDate>
+        <description>Mecz z Athletikiem po przerwie reprezentacyjnej będzie trzecim spotkaniem z rzędu, w którym nie obejrzymy razem na boisku Jude'a Bellinghama oraz Viníciusa. Duet ten ma ogromny wpływ na wyniki i grę Królewskich, ale w 41 oficjalnych meczach obaj pikarze zagrali razem tylko 19 razy.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128201-mateo-zagramy-z-druzynami-ktore-ciagle-nie-osiagnely-swojego-celu</link>
         <pubDate>Thu, 21 Mar 2024 16:59:00 GMT</pubDate>
         <description>Chus Mateo wypowiedział się dla klubowych mediów przed spotkaniem z Partizanem w Belgradzie. Powiedział, że drużyna będzie potrzebowała energii, żeby mieć szanse na zwycięstwo.</description>
-    </item>
-    
-    <item>
-        <title>Jak konkretnie wygląda sytuacja Daviesa?</title>
-        <link>https://www.realmadryt.pl/news/128215-jak-konkretnie-wyglada-sytuacja-daviesa</link>
-        <pubDate>Thu, 21 Mar 2024 16:08:00 GMT</pubDate>
-        <description>Bayern nie zamierza brać udziału w licytacjach. Działacze mistrzów Niemiec widzą sprawę jasno i zakomunikowały to Alphonso Daviesowi.</description>
     </item>
     
 </channel>
