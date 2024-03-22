@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Mar 2024 11:27:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 11:40:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/128235-dzisiejszy-trening</link>
+        <pubDate>Fri, 22 Mar 2024 12:37:00 GMT</pubDate>
+        <description>Na zgrupowania reprezentacji rozjechało się czternastu piłkarzy Realu Madryt. Pozostali zawodnicy kontynuowali dzisiaj treningi w Valdebebas. Kolejny mecz Królewskich odbędzie się za dziewięć dni.</description>
+    </item>
     
     <item>
         <title>Robinho został już zatrzymany i trafił do aresztu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128229-dzisiejsze-okladki</link>
         <pubDate>Fri, 22 Mar 2024 00:44:00 GMT</pubDate>
         <description>Mecz Hiszpanii i wywiad z Joanem Laportą to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt zwycięzcą sezonu zasadniczego Euroligi</title>
-        <link>https://www.realmadryt.pl/news/128224-real-madryt-zwyciezca-sezonu-zasadniczego-euroligi</link>
-        <pubDate>Thu, 21 Mar 2024 22:54:00 GMT</pubDate>
-        <description>W 31. kolejce Real Madryt pokonał na wyjeździe Partizan i zagwarantował sobie pierwsze miejsce w sezonie zasadniczym. Pozostałe trzy spotkania Królewscy mogą potraktować jak sparingi.</description>
     </item>
     
 </channel>
