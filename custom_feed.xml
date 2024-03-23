@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Mar 2024 10:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 10:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Legendy Realu Madryt vs Legendy Porto [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/128258-legendy-realu-madryt-vs-legendy-porto-na-zywo</link>
+        <pubDate>Sat, 23 Mar 2024 11:45:00 GMT</pubDate>
+        <description>Po pięciu latach na Santiago Bernabéu wraca charytatywny mecz Corazón Classic Match. Legendy Realu Madryt od 12:00 grają z legendami Porto, a zebrane środki zostaną przekazane między innymi na walkę ze stwardnieniem zanikowym bocznym.</description>
+    </item>
     
     <item>
         <title>Policja ostrzegła Real, że Ultras Sur będzie chciało dostać się dziś na Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128246-hiszpania-przegrywa-z-kolumbia</link>
         <pubDate>Fri, 22 Mar 2024 23:28:00 GMT</pubDate>
         <description>Hiszpania przegrała 0:1 z Kolumbią w towarzyskim meczu rozegranym na Stadionie Olimpijskim w Londynie. Joselu rozegrał 62 minuty, a Dani Carvajal całe spotkanie przesiedział na ławce rezerwowych.</description>
-    </item>
-    
-    <item>
-        <title>Turcja przegrywa z Węgrami, pół godziny Ardy</title>
-        <link>https://www.realmadryt.pl/news/128248-turcja-przegrywa-z-wegrami-pol-godziny-ardy</link>
-        <pubDate>Fri, 22 Mar 2024 22:43:00 GMT</pubDate>
-        <description>Turcja przegrała 0:1 sparing z Węgrami, a Arda Güler pojawił się na boisku w drugiej połowie.</description>
     </item>
     
 </channel>
