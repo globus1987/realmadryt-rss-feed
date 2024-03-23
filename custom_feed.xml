@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Mar 2024 07:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 07:38:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś mecz Legend Realu Madryt z Legendami Porto</title>
+        <link>https://www.realmadryt.pl/news/128251-dzis-mecz-legend-realu-madryt-z-legendami-porto</link>
+        <pubDate>Sat, 23 Mar 2024 08:18:00 GMT</pubDate>
+        <description>Po pięciu latach na Santiago Bernabéu wraca charytatywny mecz Corazón Classic Match. Legendy Realu Madryt zagrają z legendami Porto, a zebrane środki zostaną przekazane między innymi na walkę ze stwardnieniem zanikowym bocznym.</description>
+    </item>
     
     <item>
         <title>Powrót Miguela coraz częściej brany pod uwagę</title>
         <link>https://www.realmadryt.pl/news/128243-powrot-miguela-coraz-czesciej-brany-pod-uwage</link>
         <pubDate>Sat, 23 Mar 2024 07:25:00 GMT</pubDate>
-        <description>Najbliższe miesiące okażą się kluczowe w kontekście przyszłości Miguela Gutierreza. Jego fantastyczny sezon w Gironie musiał zwrócić uwagę wielkich klubów. Real Madryt cały czas jest jednak właścicielem połowy praw do zawodnika i zapewnił sobie prawo ewentualnego wykupu lewego obrońcy za 8 milionów. Dla każdego innego zainteresowanego cena wynosi 35 milionów.</description>
+        <description>Najbliższe miesiące okażą się kluczowe w kontekście przyszłości Miguela Gutierreza. Jego fantastyczny sezon w Gironie musiał zwrócić uwagę wielkich klubów. Real Madryt cały czas jest jednak właścicielem połowy praw do zawodnika i zapewnił sobie ewentualny wykup lewego obrońcy za 8 milionów. Dla każdego innego zainteresowanego cena wynosi 35 milionów.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128237-del-bosque-vinicius-kazdego-trzeba-akceptowac-takim-jaki-jest</link>
         <pubDate>Fri, 22 Mar 2024 20:14:00 GMT</pubDate>
         <description>Były trener Realu Madryt i były selekcjoner reprezentacji Hiszpanii, Vicente del Bosque, był gościem programu El Larguero na falach radia SER. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>„Bądźcie bardzo ostrożni…”</title>
-        <link>https://www.realmadryt.pl/news/128239-badzcie-bardzo-ostrozni</link>
-        <pubDate>Fri, 22 Mar 2024 19:23:00 GMT</pubDate>
-        <description>Podczas przerwy na reprezentacje w listopadzie zeszłego roku drużyna Carlo Ancelottiego posypała się jak nigdy wcześniej. Teraz trener postanowił przestrzec zawodników, by się nie forsowali.</description>
     </item>
     
 </channel>
