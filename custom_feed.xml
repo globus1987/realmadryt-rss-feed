@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Mar 2024 14:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 14:53:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pojedynek z liderem</title>
+        <link>https://www.realmadryt.pl/news/128257-pojedynek-z-liderem</link>
+        <pubDate>Sat, 23 Mar 2024 15:48:00 GMT</pubDate>
+        <description>W 29. kolejce Primera Federación Castilla podejmie Castellón, który jest obecnie liderem. Królewscy potrzebują punktów, żeby oddalić się od strefy spadkowej.</description>
+    </item>
     
     <item>
         <title>Brahim: Jeśli Real mi pozwoli, chciałbym zagrać na wszystkich turniejach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128251-dzis-mecz-legend-realu-madryt-z-legendami-porto</link>
         <pubDate>Sat, 23 Mar 2024 08:18:00 GMT</pubDate>
         <description>Po pięciu latach na Santiago Bernabéu wraca charytatywny mecz Corazón Classic Match. Legendy Realu Madryt zagrają z legendami Porto, a zebrane środki zostaną przekazane między innymi na walkę ze stwardnieniem zanikowym bocznym.</description>
-    </item>
-    
-    <item>
-        <title>Powrót Miguela coraz częściej brany pod uwagę</title>
-        <link>https://www.realmadryt.pl/news/128243-powrot-miguela-coraz-czesciej-brany-pod-uwage</link>
-        <pubDate>Sat, 23 Mar 2024 07:25:00 GMT</pubDate>
-        <description>Najbliższe miesiące okażą się kluczowe w kontekście przyszłości Miguela Gutierreza. Jego fantastyczny sezon w Gironie musiał zwrócić uwagę wielkich klubów. Real Madryt cały czas jest jednak właścicielem połowy praw do zawodnika i zapewnił sobie ewentualny wykup lewego obrońcy za 8 milionów. Dla każdego innego zainteresowanego cena wynosi 35 milionów.</description>
     </item>
     
 </channel>
