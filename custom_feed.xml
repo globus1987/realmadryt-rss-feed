@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Mar 2024 23:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 01:14:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128249-dzisiejsze-okladki</link>
+        <pubDate>Sat, 23 Mar 2024 01:10:00 GMT</pubDate>
+        <description>Porażka Hiszpanii to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Brahim zadebiutował w barwach Maroka</title>
+        <link>https://www.realmadryt.pl/news/128247-brahim-zadebiutowal-w-barwach-maroka</link>
+        <pubDate>Sat, 23 Mar 2024 00:58:00 GMT</pubDate>
+        <description>Maroko pokonało w sparingu Angolę, a Brahim zadebiutował w swojej nowej reprezentacji. Atakujący rozegrał prawie pełny mecz i był jednym z najlepszych graczy na boisku.</description>
+    </item>
     
     <item>
         <title>Hiszpania przegrywa z Kolumbią</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128223-co-slychac-u-jesusa-vallejo</link>
         <pubDate>Fri, 22 Mar 2024 17:43:00 GMT</pubDate>
         <description>Defensor Granady wypożyczony z Realu Madryt zaliczył w tym sezonie zaledwie 106 minut w trzech meczach. To tylko 4% możliwego czasu gry.</description>
-    </item>
-    
-    <item>
-        <title>Agent Endricka: On nie jest taki jak Vini czy Neymar, ma inny charakter</title>
-        <link>https://www.realmadryt.pl/news/128236-agent-endricka-on-nie-jest-taki-jak-vini-czy-neymar-ma-inny-charakter</link>
-        <pubDate>Fri, 22 Mar 2024 16:52:00 GMT</pubDate>
-        <description>Frederico Peña udzielił wywiadu dziennikowi The Telegraph. Agent Endricka wypowiedział się na kilka tematów związanych z 17-latkiem.</description>
-    </item>
-    
-    <item>
-        <title>Podwójny cel Lucasa</title>
-        <link>https://www.realmadryt.pl/news/128231-podwojny-cel-lucasa</link>
-        <pubDate>Fri, 22 Mar 2024 16:01:00 GMT</pubDate>
-        <description>W końcowej części sezonu Lucas Vázquez ma przed sobą dwa indywidualne cele. Hiszpan chce przedłużyć kontrakt z Realem Madryt, a dodatkowo ma nadzieję, że jego dobre występy pozwolą mu na powrót do reprezentacji i udział w zbliżających się mistrzostwach Europy.</description>
     </item>
     
 </channel>
