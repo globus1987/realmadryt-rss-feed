@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Mar 2024 23:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 23:38:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128277-dzisiejsze-okladki</link>
+        <pubDate>Sun, 24 Mar 2024 00:27:00 GMT</pubDate>
+        <description>Pokaz Endricka, wywiad z Nico Williamsem i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Niemcy lepsze od Francji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128263-dopoki-istnieje-mozliwosc-meczu-psg-z-realem-mbappe-nie-bedzie-niczego-oglaszal</link>
         <pubDate>Sat, 23 Mar 2024 19:10:00 GMT</pubDate>
         <description>Jérôme Rothen na łamach RMC Sport skomentował aktualną sytuację Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Nieodgadniony mistrz</title>
-        <link>https://www.realmadryt.pl/news/128238-nieodgadniony-mistrz</link>
-        <pubDate>Sat, 23 Mar 2024 18:21:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że Toni Kroos pozostanie w Realu Madryt na kolejny rok, ale on sam jeszcze nie przekazał klubowi swojej ostatecznej decyzji.</description>
     </item>
     
 </channel>
