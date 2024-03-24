@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 23:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 23:38:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128295-dzisiejsze-okladki</link>
+        <pubDate>Mon, 25 Mar 2024 00:27:00 GMT</pubDate>
+        <description>Trumf Carlosa Sainza i wygrana piłkarek Barcelony to najważniejsze kwestie poruszana na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kroos: Moja przyszłość? Muszę zdecydować w ciągu miesiąca czy dwóch</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128282-endrick-olsniewal-juz-jako-13-latek</link>
         <pubDate>Sun, 24 Mar 2024 16:06:00 GMT</pubDate>
         <description>Endrick nie przepuści żadnej okazji, by udowodnić, że jest wyjątkowy. Jego gol na Wembley dał Brazylijczykom zwycięstwo nad Anglią. Tym samym 17-latek stał się czwartym najmłodszym strzelcem w historii Canarinhos. Młodsi od niego byli jedynie Pelé, Edú i Ronaldo.</description>
-    </item>
-    
-    <item>
-        <title>Nie żyje Manuel Ruiz de Lopera</title>
-        <link>https://www.realmadryt.pl/news/128280-nie-zyje-manuel-ruiz-de-lopera</link>
-        <pubDate>Sun, 24 Mar 2024 15:15:00 GMT</pubDate>
-        <description>Legendarny prezes Betisu zmarł w wieku 79 lat. Królewscy złożyli kondolencje jego rodzinie, bliskim i całej społeczności Betisu.</description>
     </item>
     
 </channel>
