@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 06:22:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 06:38:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Southgate: Walker nie miał wielu kontuzji, więc nie jest pewny, co czuje</title>
+        <link>https://www.realmadryt.pl/news/128278-southgate-walker-nie-mial-wielu-kontuzji-wiec-nie-jest-pewny-co-czuje</link>
+        <pubDate>Sun, 24 Mar 2024 07:25:00 GMT</pubDate>
+        <description>Selekcjoner Anglii po sparingu z Brazylią potwierdził, ze Kyle Walker opuścił boisko z powodu problemów mięśniowych. Pierwszy mecz Manchesteru City z Realem Madryt odbędzie się za 16 dni.</description>
+    </item>
     
     <item>
         <title>Endrick: Cały czas to przetwarzam</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128272-bez-niespodzianki-na-di-stefano</link>
         <pubDate>Sat, 23 Mar 2024 20:11:00 GMT</pubDate>
         <description>W 29. kolejce Primera Federación Castilla przegrała na własnym stadionie z Castellónem. Królewskim wystarczyło sił i pomysłów na pierwsze 45 minut, bo później gra wyglądała bardzo słabo.</description>
-    </item>
-    
-    <item>
-        <title>Valverde nie zagra z Krajem Basków</title>
-        <link>https://www.realmadryt.pl/news/128270-valverde-nie-zagra-z-krajem-baskow</link>
-        <pubDate>Sat, 23 Mar 2024 19:40:00 GMT</pubDate>
-        <description>Fede Valverde nie zagra w dzisiejszym towarzyskim meczu pomiędzy reprezentacją Kraju Basków a Urugwajem. Pomocnik Królewskich dostał wolne od selekcjonera Marcelo Bielsy.</description>
     </item>
     
 </channel>
