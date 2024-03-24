@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 20:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 20:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Czułem się jak zero”</title>
+        <link>https://www.realmadryt.pl/news/128283-czulem-sie-jak-zero</link>
+        <pubDate>Sun, 24 Mar 2024 21:30:00 GMT</pubDate>
+        <description>Młody zawodnik, obecnie wypożyczony z Realu do rezerw Castellónu, w rozmowie z Relevo dokonał refleksji nad swoim życiem i wyznał, że był o krok od zakończenia kariery.</description>
+    </item>
     
     <item>
         <title>Karembeu: Real wygra Ligę Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128284-palencia-pokonana</link>
         <pubDate>Sun, 24 Mar 2024 14:51:00 GMT</pubDate>
         <description>W 26. kolejce Ligi Endesa Real Madryt pokonał na wyjeździe Palencię i utrzymał przewagę dwóch zwycięstw nad Unicają. Beniaminek postawił się Królewskim w ostatniej kwarcie i był bliski odrobienia dużej straty.</description>
-    </item>
-    
-    <item>
-        <title>James ma coś do udowodnienia</title>
-        <link>https://www.realmadryt.pl/news/128259-james-ma-cos-do-udowodnienia</link>
-        <pubDate>Sun, 24 Mar 2024 14:23:00 GMT</pubDate>
-        <description>Prawie 13 lat po debiucie w reprezentacji James Rodríguez chce wciąż stanowić ważny element drużyny narodowej. Były piłkarz Realu Madryt zamierza się odkuć i wsiąść do odjeżdżającego pociągu, który może okazać się tym ostatnim.</description>
     </item>
     
 </channel>
