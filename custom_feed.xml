@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 11:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 11:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zaufany człowiek Guardioli, który podziwiał Casillasa</title>
+        <link>https://www.realmadryt.pl/news/128078-zaufany-czlowiek-guardioli-ktory-podziwial-casillasa</link>
+        <pubDate>Sun, 24 Mar 2024 12:36:00 GMT</pubDate>
+        <description>Manchester City podejdzie do starcia z Realem Madryt z istotną zmianą w wyjściowej jedenastce. W obliczu kontuzji Edersona, który wypada z gry na cztery tygodnie, między słupki wskoczy Stefan Ortega. 31-latek wystąpi z pewnością przynajmniej w pierwszym starciu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 24 marca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128274-niemcy-lepsze-od-francji</link>
         <pubDate>Sat, 23 Mar 2024 23:27:00 GMT</pubDate>
         <description>W towarzyskim meczu rozgrywanym w Lyonie Niemcy pokonały Francję 2:0. Udział w tej potyczce wzięli wszyscy czterej madridistas, a wyjątkowo udane zawody zaliczył powracający do reprezentacji Toni Kroos.</description>
-    </item>
-    
-    <item>
-        <title>Chorwacja z awansem po karnych, 59 minut Modricia</title>
-        <link>https://www.realmadryt.pl/news/128275-chorwacja-z-awansem-po-karnych-59-minut-modricia</link>
-        <pubDate>Sat, 23 Mar 2024 23:25:00 GMT</pubDate>
-        <description>W półfinałowym meczu w ACUD Cup (nowy cykl turniejów FIFA, które mają zwiększyć liczbę spotkań pomiędzy drużynami z różnych kontynentów) Chorwacja pokonała Tunezję po rzutach karnych. 59 minut na boisku spędził Luka Modrić.</description>
     </item>
     
 </channel>
