@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 10:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 10:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 24 marca</title>
+        <link>https://www.realmadryt.pl/news/128279-kartka-z-kalendarza-24-marca</link>
+        <pubDate>Sun, 24 Mar 2024 11:46:00 GMT</pubDate>
+        <description>Wygrana z Monaco, która nie zwiastowała nadchodzącej katastrofy, pierwszy hat-trick Sępa, urodziny pierwszego syna Zidane'a, który nie pójdzie śladami ojca, a także ligowy debiut Jesé, gdy na ławce Realu zasiadał… Aitor Karanka. Co działo się 24 marca?</description>
+    </item>
     
     <item>
         <title>Mateo: Za nami bardzo produktywne dwa tygodnie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128275-chorwacja-z-awansem-po-karnych-59-minut-modricia</link>
         <pubDate>Sat, 23 Mar 2024 23:25:00 GMT</pubDate>
         <description>W półfinałowym meczu w ACUD Cup (nowy cykl turniejów FIFA, które mają zwiększyć liczbę spotkań pomiędzy drużynami z różnych kontynentów) Chorwacja pokonała Tunezję po rzutach karnych. 59 minut na boisku spędził Luka Modrić.</description>
-    </item>
-    
-    <item>
-        <title>Brazylia wygrywa z Anglią po golu Endricka</title>
-        <link>https://www.realmadryt.pl/news/128271-brazylia-wygrywa-z-anglia-po-golu-endricka</link>
-        <pubDate>Sat, 23 Mar 2024 21:56:00 GMT</pubDate>
-        <description>W towarzyskim meczu na Wembley Brazylijczycy wygrali z Anglią 1:0 po bramce wprowadzonego w drugiej połowie Endricka, który zmienił Rodrygo. 67 minut na placu gry spędził Bellingham, a 89 Vini.</description>
     </item>
     
 </channel>
