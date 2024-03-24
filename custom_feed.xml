@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 04:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 04:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick: Cały czas to przetwarzam</title>
+        <link>https://www.realmadryt.pl/news/128276-endrick-caly-czas-to-przetwarzam</link>
+        <pubDate>Sun, 24 Mar 2024 05:30:00 GMT</pubDate>
+        <description>Endrick udzielił wypowiedzi brazylijskim mediom po wygranym 1:0 meczu z Anglią na Wembley, w którym zdobył swoją pierwszą bramkę w historii występów dla Canarinhos. Przedstawiamy odczucia piłkarza, który w sobotni wieczór stał się czwartym najmłodszym piłkarzem, który zdobył bramkę dla reprezentacji Brazylii.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128270-valverde-nie-zagra-z-krajem-baskow</link>
         <pubDate>Sat, 23 Mar 2024 19:40:00 GMT</pubDate>
         <description>Fede Valverde nie zagra w dzisiejszym towarzyskim meczu pomiędzy reprezentacją Kraju Basków a Urugwajem. Pomocnik Królewskich dostał wolne od selekcjonera Marcelo Bielsy.</description>
-    </item>
-    
-    <item>
-        <title>„Dopóki istnieje możliwość meczu PSG z Realem, Mbappé nie będzie niczego ogłaszał”</title>
-        <link>https://www.realmadryt.pl/news/128263-dopoki-istnieje-mozliwosc-meczu-psg-z-realem-mbappe-nie-bedzie-niczego-oglaszal</link>
-        <pubDate>Sat, 23 Mar 2024 19:10:00 GMT</pubDate>
-        <description>Jérôme Rothen na łamach RMC Sport skomentował aktualną sytuację Kyliana Mbappé.</description>
     </item>
     
 </channel>
