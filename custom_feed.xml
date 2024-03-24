@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Mar 2024 13:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 13:38:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>James ma coś do udowodnienia</title>
+        <link>https://www.realmadryt.pl/news/128259-james-ma-cos-do-udowodnienia</link>
+        <pubDate>Sun, 24 Mar 2024 14:23:00 GMT</pubDate>
+        <description>Prawie 13 lat po debiucie w reprezentacji James Rodríguez chce wciąż stanowić ważny element drużyny narodowej. Były piłkarz Realu Madryt zamierza się odkuć i wsiąść do odjeżdżającego pociągu, który może okazać się tym ostatnim.</description>
+    </item>
     
     <item>
         <title>„Real Madryt nie narzuca na młodych graczy niepotrzebnej presji”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128276-endrick-caly-czas-to-przetwarzam</link>
         <pubDate>Sun, 24 Mar 2024 05:30:00 GMT</pubDate>
         <description>Endrick udzielił wypowiedzi brazylijskim mediom po wygranym 1:0 meczu z Anglią na Wembley, w którym zdobył swoją pierwszą bramkę w historii występów dla Canarinhos. Przedstawiamy odczucia piłkarza, który w sobotni wieczór stał się czwartym najmłodszym piłkarzem, który zdobył bramkę dla reprezentacji Brazylii.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128277-dzisiejsze-okladki</link>
-        <pubDate>Sun, 24 Mar 2024 00:27:00 GMT</pubDate>
-        <description>Pokaz Endricka, wywiad z Nico Williamsem i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
