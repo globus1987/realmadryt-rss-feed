@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Mar 2024 23:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 23:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128312-dzisiejsze-okladki</link>
+        <pubDate>Tue, 26 Mar 2024 00:29:00 GMT</pubDate>
+        <description>Spotkanie Hiszpanii z Brazylią i wyjście Daniego Alvesa z więzienia to najważniejsze kwestie poruszana na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Real nie potrzebuje Mbappé, to tylko dla zaspokojenia ego Florentino”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128302-carvajal-nie-uwazam-hiszpanii-za-rasistowski-kraj</link>
         <pubDate>Mon, 25 Mar 2024 14:59:00 GMT</pubDate>
         <description>Obrońca wziął udział w konferencji prasowej przed jutrzejszym spotkaniem z reprezentacją Brazylii na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>400 zł za awans Polski na EURO</title>
-        <link>https://www.realmadryt.pl/news/128300-400-zl-za-awans-polski-na-euro</link>
-        <pubDate>Mon, 25 Mar 2024 14:08:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
