@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Mar 2024 06:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 06:39:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mihić: Żyłem życiem 25-letnich piłkarzy, od których jestem starszy o dwie generacje</title>
+        <link>https://www.realmadryt.pl/news/128218-mihic-zylem-zyciem-25-letnich-pilkarzy-od-ktorych-jestem-starszy-o-dwie-generacje</link>
+        <pubDate>Mon, 25 Mar 2024 07:25:00 GMT</pubDate>
+        <description>Niko Mihić wziął udział w kongresie medycznym w Madrycie. Przedstawiamy wypowiedzi byłego szefa sztabu medycznego Realu Madryt, który opuścił klub w listopadzie.</description>
+    </item>
     
     <item>
         <title>Sky: Bayern oczekuje decyzji Daviesa w tym tygodniu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128286-tchouameni-zdradzil-ze-mbappe-trafi-do-realu</link>
         <pubDate>Sun, 24 Mar 2024 17:50:00 GMT</pubDate>
         <description>Francuski pomocnik w wywiadzie dla Téléfoot zasugerował, że przejście jego kolegi z reprezentacji do zespołu Królewskich jest już pewne.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Mam nadzieję, że dokonamy z Endrickiem wielkich rzeczy w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/128285-vinicius-mam-nadzieje-ze-dokonamy-z-endrickiem-wielkich-rzeczy-w-realu-madryt</link>
-        <pubDate>Sun, 24 Mar 2024 16:57:00 GMT</pubDate>
-        <description>Vinícius Júnior udzielił wywiadu brazylijskim mediom po wygranym 1:0 meczu z Anglią na Wembley. Przedstawiamy najważniejsze wypowiedzi napastnika Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
