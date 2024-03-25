@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Mar 2024 19:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 20:18:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Leny Yoro na celowniku</title>
+        <link>https://www.realmadryt.pl/news/128310-as-leny-yoro-na-celowniku</link>
+        <pubDate>Mon, 25 Mar 2024 20:55:00 GMT</pubDate>
+        <description>Leny Yoro znajduje się na celowniku Królewskich i w tym momencie jest głównym kandydatem do wzmocnienia środka obrony Realu Madryt na sezon 2024/25. Obecny kontrakt 18-letniego stopera obowiązuje do 2025 roku, ale mimo to Lille oczekuje za niego około 60 milionów euro.</description>
+    </item>
     
     <item>
         <title>„O kulach, ale z uśmiechem na twarzy”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128301-komitet-arbitrow-apeluje-o-pomoc-w-obronie-sedziow</link>
         <pubDate>Mon, 25 Mar 2024 13:17:00 GMT</pubDate>
         <description>Komitet Techniczny Arbitrów wystosował oficjalny komunikat, w którym prosi o wsparcie.</description>
-    </item>
-    
-    <item>
-        <title>Real walczy z każdym</title>
-        <link>https://www.realmadryt.pl/news/128297-real-walczy-z-kazdym</link>
-        <pubDate>Mon, 25 Mar 2024 12:26:00 GMT</pubDate>
-        <description>Real Madryt nie stroni od instytucjonalnych wojen, aby odpowiedzieć „na każdy atak”, taką taktykę obrano w Valdebebas.</description>
     </item>
     
 </channel>
