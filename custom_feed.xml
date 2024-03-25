@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Mar 2024 08:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 09:17:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 marca</title>
+        <link>https://www.realmadryt.pl/news/128291-kartka-z-kalendarza-25-marca</link>
+        <pubDate>Mon, 25 Mar 2024 10:00:00 GMT</pubDate>
+        <description>Urodziny jedynego zawodnika Realu Madryt z zastrzeżonym numerem, świetne debiuty napastników w reprezentacji i wysokie wygrane Realu w meczach ligowych. Co działo się 25 marca?</description>
+    </item>
     
     <item>
         <title>MARCA: Mastantuono na radarze Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128289-barcelona-wyraznie-lepsza-na-di-stefano</link>
         <pubDate>Sun, 24 Mar 2024 19:53:00 GMT</pubDate>
         <description>W meczu 21. kolejki Ligi F piłkarki Realu Madryt przegrały na Estadio Alfredo Di Stéfano z Barceloną 0:3. Bramki dla Blaugrany zdobywały Fridolina Rolfö, Aitana Bonmatí i Graham Hansen.</description>
-    </item>
-    
-    <item>
-        <title>Sky Sport: Milan wykupi Álexa Jiméneza z Realu</title>
-        <link>https://www.realmadryt.pl/news/128288-sky-sport-milan-wykupi-alexa-jimeneza-z-realu</link>
-        <pubDate>Sun, 24 Mar 2024 19:35:00 GMT</pubDate>
-        <description>Jak podał Manuele Baiocchini z włoskiego Sky Sport, Rossoneri zapłacą Realowi za wychowanka ponad 5 milionów euro przy aktywowaniu wszystkich zmiennych.</description>
     </item>
     
 </channel>
