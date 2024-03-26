@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Mar 2024 20:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 21:17:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Camavinga zszedł z kontuzją</title>
+        <link>https://www.realmadryt.pl/news/128331-camavinga-zszedl-z-kontuzja</link>
+        <pubDate>Tue, 26 Mar 2024 21:58:00 GMT</pubDate>
+        <description>Eduardo Camavinga opuścił mecz reprezentacji Francji z kontuzją.</description>
+    </item>
     
     <item>
         <title>Diego: Jestem dumny z tego, jak postępuje Vinícius</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128317-vinicius-bedzie-dzis-kapitanem-a-ancelotti-zasiadzie-na-trybunach</link>
         <pubDate>Tue, 26 Mar 2024 14:08:00 GMT</pubDate>
         <description>Pod nieobecność kontuzjowanego Neymara piłkarz Realu Madryt wyrasta na lidera reprezentacji Brazylii i dzisiaj wybiegnie na Santiago Bernabéu z opaską kapitańską.</description>
-    </item>
-    
-    <item>
-        <title>Z Athletikiem na fioletowo</title>
-        <link>https://www.realmadryt.pl/news/128315-z-athletikiem-na-fioletowo</link>
-        <pubDate>Tue, 26 Mar 2024 13:10:00 GMT</pubDate>
-        <description>Wczoraj Real Madryt zaprezentował czwarty komplet strojów na sezon 2023/2024, w którym piłkarze wystąpią już w najbliższym meczu z Athletikiem Bilbao.</description>
     </item>
     
 </channel>
