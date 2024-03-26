@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Mar 2024 09:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 10:21:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola Polski z Walią!</title>
+        <link>https://www.realmadryt.pl/news/128314-400-zl-za-gola-polski-z-walia</link>
+        <pubDate>Tue, 26 Mar 2024 11:14:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 26 marca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128306-o-kulach-ale-z-usmiechem-na-twarzy</link>
         <pubDate>Mon, 25 Mar 2024 20:04:00 GMT</pubDate>
         <description>Belgijski bramkarz wspierał swojego syna Nicolása, który gra w juniorskiej drużynie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Tchouaméniemu chodziło o coś innego</title>
-        <link>https://www.realmadryt.pl/news/128309-mbappe-tchouameniemu-chodzilo-o-cos-innego</link>
-        <pubDate>Mon, 25 Mar 2024 19:13:00 GMT</pubDate>
-        <description>Zawodnik PSG znów pojawił się na konferencji prasowej i został zapytany między innymi o ostatni komentarz ze strony Tchouaméniego.</description>
     </item>
     
 </channel>
