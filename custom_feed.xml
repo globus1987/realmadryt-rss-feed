@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 07:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 08:23:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Morata wygwizdany na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/128345-morata-wygwizdany-na-bernabeu</link>
+        <pubDate>Wed, 27 Mar 2024 09:09:00 GMT</pubDate>
+        <description>Wychowanek Realu, grający obecnie dla Los Colchoneros, nie miał łatwego wieczoru na stadionie Królewskich. Chociaż był w koszulce La Roja, kibice nie omieszkali na niego gwizdać i buczeć.</description>
+    </item>
     
     <item>
         <title>¡Feliz cumpleaños, Joselu!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128334-francja-ogrywa-chile-kontuzja-camavingi</link>
         <pubDate>Tue, 26 Mar 2024 23:03:00 GMT</pubDate>
         <description>Reprezentacja Francji pokonała w sparingu Chile. Pełne 90 minut rozegrał Aurelién Tchouaméni, a z kontuzją jeszcze w pierwszej połowie zszedł Camavinga.</description>
-    </item>
-    
-    <item>
-        <title>Anglia remisuje z Belgią, gol Bellinghama w ostatniej akcji meczu</title>
-        <link>https://www.realmadryt.pl/news/128330-anglia-remisuje-z-belgia-gol-bellinghama-w-ostatniej-akcji-meczu</link>
-        <pubDate>Tue, 26 Mar 2024 22:46:00 GMT</pubDate>
-        <description>Anglicy zremisowali na Wembley z Belgią 2:2. Dobry mecz rozegrał Jude Bellingham, który w ostatniej minucie doliczonego czasu gry zdobył bramkę na 2:2, a na samym początku spotkania z kontuzją zszedł obrońca Manchesteru City, John Stones.</description>
     </item>
     
 </channel>
