@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 07:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 07:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>¡Feliz cumpleaños, Joselu!</title>
+        <link>https://www.realmadryt.pl/news/128342-feliz-cumpleanos-joselu</link>
+        <pubDate>Wed, 27 Mar 2024 08:18:00 GMT</pubDate>
+        <description>José Luís Sanmartín Mato kończy dziś 34-lata. Życzymy jemu i sobie, żebyśmy nadal byli z niego zadowoleni i by dalej był jednym z nas.</description>
+    </item>
     
     <item>
         <title>Haaland nadal myśli o Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128330-anglia-remisuje-z-belgia-gol-bellinghama-w-ostatniej-akcji-meczu</link>
         <pubDate>Tue, 26 Mar 2024 22:46:00 GMT</pubDate>
         <description>Anglicy zremisowali na Wembley z Belgią 2:2. Dobry mecz rozegrał Jude Bellingham, który w ostatniej minucie doliczonego czasu gry zdobył bramkę na 2:2, a na samym początku spotkania z kontuzją zszedł obrońca Manchesteru City, John Stones.</description>
-    </item>
-    
-    <item>
-        <title>Ukraina zagra na EURO!</title>
-        <link>https://www.realmadryt.pl/news/128329-ukraina-zagra-na-euro</link>
-        <pubDate>Tue, 26 Mar 2024 22:43:00 GMT</pubDate>
-        <description>Reprezentacja Ukrainy wygrała we Wrocławiu z Islandią 2:1 i zapewniła sobie udział na Mistrzostwach Europy w Niemczech. Andrij Łunin po raz drugi z rzędu rozegrał cały mecz.</description>
     </item>
     
 </channel>
