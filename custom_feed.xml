@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 22:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 23:17:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128362-dzisiejsze-okladki</link>
+        <pubDate>Thu, 28 Mar 2024 00:04:00 GMT</pubDate>
+        <description>Pojedynek Lamine'a z Endrickiem, przyszłość Toniego Kroosa i wybór trenera w Barcelonie to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Jednolita grafika na całej długości telebimu 360 stopni [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128348-rodrygo-endrick-mogl-poczuc-sie-jak-w-domu</link>
         <pubDate>Wed, 27 Mar 2024 14:51:00 GMT</pubDate>
         <description>Rodrygo udzielił wywiadu oficjalnym mediom Brazylijskiej Federacji Piłkarskiej po zremisowanym 3:3 meczu z Hiszpanią na Santiago Bernabéu. Przedstawiamy wypowiedzi zawodnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Fabrizio Romano: Kroos przedłuży kontrakt z Realem Madryt!</title>
-        <link>https://www.realmadryt.pl/news/128352-fabrizio-romano-kroos-przedluzy-kontrakt-z-realem-madryt</link>
-        <pubDate>Wed, 27 Mar 2024 14:00:00 GMT</pubDate>
-        <description>Niemiec ma zostać w stolicy Hiszpanii na kolejny sezon.</description>
     </item>
     
 </channel>
