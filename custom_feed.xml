@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Mar 2024 23:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 01:15:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128343-dzisiejsze-okladki</link>
+        <pubDate>Wed, 27 Mar 2024 01:25:00 GMT</pubDate>
+        <description>Remis Hiszpanii z Brazylią to najważniejsza kwestia poruszana na środowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Maroko i Mauretania uśpiły kibiców</title>
+        <link>https://www.realmadryt.pl/news/128340-maroko-i-mauretania-uspily-kibicow</link>
+        <pubDate>Wed, 27 Mar 2024 01:00:00 GMT</pubDate>
+        <description>Spotkanie w Agadirze zakończyło się bezbramkowym remisem. Brahim Díaz spędził na boisku 90 minut.</description>
+    </item>
     
     <item>
         <title>Niemcy wygrały z Holandią, kolejna asysta Kroosa [VIDEO]</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128332-turcja-rozbita-przez-austrie</link>
         <pubDate>Tue, 26 Mar 2024 22:42:00 GMT</pubDate>
         <description>Arda Güler spędził na boisku 77 minuty, ale jego reprezentacja musiała uznać wyższość gospodarzy.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga zszedł z kontuzją</title>
-        <link>https://www.realmadryt.pl/news/128331-camavinga-zszedl-z-kontuzja</link>
-        <pubDate>Tue, 26 Mar 2024 21:58:00 GMT</pubDate>
-        <description>Eduardo Camavinga opuścił mecz reprezentacji Francji z kontuzją.</description>
-    </item>
-    
-    <item>
-        <title>Diego: Jestem dumny z tego, jak postępuje Vinícius</title>
-        <link>https://www.realmadryt.pl/news/128328-diego-jestem-dumny-z-tego-jak-postepuje-vinicius</link>
-        <pubDate>Tue, 26 Mar 2024 21:25:00 GMT</pubDate>
-        <description>Diego Ribas da Cunha w trakcie swojej piłkarskiej kariery występował w takich klubach jak FC Porto, Werder Brema czy Atlético Madryt. Teraz przy okazji Corazón Classic Match na Santiago Bernabéu udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
