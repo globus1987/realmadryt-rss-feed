@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 11:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 11:40:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pełny obraz Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/128350-pelny-obraz-viniciusa</link>
+        <pubDate>Wed, 27 Mar 2024 12:34:00 GMT</pubDate>
+        <description>Vinícius Júnior był pierwszoplanowym bohaterem meczu z Hiszpanią przez swoje zachowania pozapiłkarskie. Niektóre media oraz pewni dziennikarze wskazują jednak, że wszystko miało swoje powody i należy pokazywać pełny obraz zdarzeń, a nie jedynie ucięte materiały z określonych incydentów z udziałem zawodnika Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Relevo: Camavinga może być gotowy na Athletic</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128340-maroko-i-mauretania-uspily-kibicow</link>
         <pubDate>Wed, 27 Mar 2024 01:00:00 GMT</pubDate>
         <description>Spotkanie w Agadirze zakończyło się bezbramkowym remisem. Brahim Díaz spędził na boisku 90 minut.</description>
-    </item>
-    
-    <item>
-        <title>Niemcy wygrały z Holandią, kolejna asysta Kroosa [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/128337-niemcy-wygraly-z-holandia-kolejna-asysta-kroosa-video</link>
-        <pubDate>Tue, 26 Mar 2024 23:55:00 GMT</pubDate>
-        <description>Niemcy wygrały w Hamburgu z Holandią 2:1. Antonio Rüdiger i Toni Kroos rozegrali całe spotkanie.</description>
     </item>
     
 </channel>
