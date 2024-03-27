@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 19:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 19:40:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>„W przyszłym sezonie nie zmieni się liczba drużyn w Eurolidze”</title>
+        <link>https://www.realmadryt.pl/news/128339-w-przyszlym-sezonie-nie-zmieni-sie-liczba-druzyn-w-eurolidze</link>
+        <pubDate>Wed, 27 Mar 2024 20:40:00 GMT</pubDate>
+        <description>Paulius Motiejūnas, prezes Euroligi, udzielił wywiadu portalowi Skweek. Potwierdził w nim, że liczba zespołów biorących udział w rozgrywkach nie zmieni się w przyszłym sezonie.</description>
+    </item>
     
     <item>
         <title>Xavi pozywa autora hymnu Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128351-ostatni-trening-bez-kadrowiczow</link>
         <pubDate>Wed, 27 Mar 2024 13:25:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do niedzielnego spotkania z Athletikiem. Razem z drużyną nie trenowało kilku zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Pełny obraz Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/128350-pelny-obraz-viniciusa</link>
-        <pubDate>Wed, 27 Mar 2024 12:34:00 GMT</pubDate>
-        <description>Vinícius Júnior był pierwszoplanowym bohaterem meczu z Hiszpanią przez swoje zachowania pozapiłkarskie. Niektóre media oraz pewni dziennikarze wskazują jednak, że wszystko miało swoje powody i należy pokazywać pełny obraz zdarzeń, a nie jedynie ucięte materiały z określonych incydentów z udziałem zawodnika Realu Madryt.</description>
     </item>
     
 </channel>
