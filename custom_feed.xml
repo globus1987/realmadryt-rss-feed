@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 04:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 04:39:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kyle Walker, Akanji i Stones wracają do Manchesteru z urazami</title>
+        <link>https://www.realmadryt.pl/news/128338-kyle-walker-akanji-i-stones-wracaja-do-manchesteru-z-urazami</link>
+        <pubDate>Wed, 27 Mar 2024 05:30:00 GMT</pubDate>
+        <description>Manchester City ma coraz większe problemy kadrowe przed nadchodzącymi meczami z Arsenalem czy Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128333-urugwaj-przegral-z-wybrzezem-kosci-sloniowej</link>
         <pubDate>Tue, 26 Mar 2024 22:42:00 GMT</pubDate>
         <description>Pomocnik Realu zaliczył ponad 90 minut w towarzyskim spotkaniu, w którym Urugwajczycy ulegli 1:2 Wybrzeżu Kości Słoniowej.</description>
-    </item>
-    
-    <item>
-        <title>Turcja rozbita przez Austrię</title>
-        <link>https://www.realmadryt.pl/news/128332-turcja-rozbita-przez-austrie</link>
-        <pubDate>Tue, 26 Mar 2024 22:42:00 GMT</pubDate>
-        <description>Arda Güler spędził na boisku 77 minuty, ale jego reprezentacja musiała uznać wyższość gospodarzy.</description>
     </item>
     
 </channel>
