@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Mar 2024 08:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 09:18:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 27 marca</title>
+        <link>https://www.realmadryt.pl/news/128341-kartka-z-kalendarza-27-marca</link>
+        <pubDate>Wed, 27 Mar 2024 10:00:00 GMT</pubDate>
+        <description>Wygrana w Pucharze Europy, urodziny byłego zawodnika, porażka w finale i udana wizyta w Nikozji. Co działo się 27 marca?</description>
+    </item>
     
     <item>
         <title>Morata wygwizdany na Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128335-chorwacja-lepsza-od-egiptu-dwie-asysty-modricia</link>
         <pubDate>Tue, 26 Mar 2024 23:07:00 GMT</pubDate>
         <description>Chorwacja wygrała towarzyski turniej ACUD organizowany z inicjatywy FIFA. W finale pokonała Egipt 4:2, a dwie asysty na koncie zapisał Modrić.</description>
-    </item>
-    
-    <item>
-        <title>Francja ogrywa Chile, kontuzja Camavingi</title>
-        <link>https://www.realmadryt.pl/news/128334-francja-ogrywa-chile-kontuzja-camavingi</link>
-        <pubDate>Tue, 26 Mar 2024 23:03:00 GMT</pubDate>
-        <description>Reprezentacja Francji pokonała w sparingu Chile. Pełne 90 minut rozegrał Aurelién Tchouaméni, a z kontuzją jeszcze w pierwszej połowie zszedł Camavinga.</description>
     </item>
     
 </channel>
