@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Mar 2024 23:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 23:38:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128386-dzisiejsze-okladki</link>
+        <pubDate>Fri, 29 Mar 2024 00:37:00 GMT</pubDate>
+        <description>Sytuacje Xabiego Alonso i Endricka oraz triumf piłkarek Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii. Pojawiają się na nich informacje także na sobotę, gdyż niektóre okładki są na dwa dni, bo Wielki Piątek to w Hiszpanii dzień świąteczny i zależnie od regionu w piątku lub w sobotę nie wydaje się drukowanych gazet. Można jednak tradycyjnie spodziewać się aktualizacji na okładkach dzięki wydaniom internetowym.</description>
+    </item>
     
     <item>
         <title>The Times: Xabi Alonso nastawiony na pozostanie w Leverkusen</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128370-real-powaznie-mysli-o-transferze-mastantuono</link>
         <pubDate>Thu, 28 Mar 2024 15:42:00 GMT</pubDate>
         <description>Mówi się, że Franco Mastantuono obok Claudio Echeverriego to największy talent argentyńskiego futbolu w ostatnich latach. 16-letni pomocnik wystąpił już w 10 meczach pierwszego zespołu River, którego trenerem jest Martín Demichelis.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Nie powiedziałbym, że już jestem na szczycie</title>
-        <link>https://www.realmadryt.pl/news/128375-bellingham-nie-powiedzialbym-ze-juz-jestem-na-szczycie</link>
-        <pubDate>Thu, 28 Mar 2024 14:51:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu Sky Sports w trakcie zgrupowania reprezentacji Anglii. Przedstawiamy opublikowane wypowiedzi pomocnika Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
