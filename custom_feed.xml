@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Mar 2024 06:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 07:17:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Coraz bliższe pożegnanie</title>
+        <link>https://www.realmadryt.pl/news/128367-coraz-blizsze-pozegnanie</link>
+        <pubDate>Fri, 29 Mar 2024 08:17:00 GMT</pubDate>
+        <description>Toni Kroos jest o krok od przedłużenia kontraktu z Realem Madryt o kolejny rok. Jeśli nic nie wydarzy się na ostatniej prostej, oficjalny komunikat powinien zostać podany w ciągu kilku najbliższych dni. Nowa umowa dla Niemca skłania jednak także do pewnej refleksji. Od dłuższego na drugim planie pozostaje bowiem przyszłość Modricia.</description>
+    </item>
     
     <item>
         <title>Dyrektor Bayernu o Daviesie: Nasza oferta jest sprawiedliwa i poprawna</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128366-relevo-manchester-united-pytal-o-joselu</link>
         <pubDate>Thu, 28 Mar 2024 18:15:00 GMT</pubDate>
         <description>Dwóch wysłanników angielskiego klubu było w Madrycie, by wyrazić zainteresowanie sytuacją napastnika, dla którego priorytetem jest dalsze noszenie koszulki Los Blancos.</description>
-    </item>
-    
-    <item>
-        <title>Tavares: Nie każdy jest w stanie być w tym klubie tak długo</title>
-        <link>https://www.realmadryt.pl/news/128363-tavares-nie-kazdy-jest-w-stanie-byc-w-tym-klubie-tak-dlugo</link>
-        <pubDate>Thu, 28 Mar 2024 17:24:00 GMT</pubDate>
-        <description>Edy Tavares rozegrał już 500 meczów w koszulce Realu Madryt. Udzielił z tej okazji wywiadu klubowej telewizji.</description>
     </item>
     
 </channel>
