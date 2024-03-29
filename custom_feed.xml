@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Mar 2024 09:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 09:38:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kepa nie załamuje rąk</title>
+        <link>https://www.realmadryt.pl/news/128383-kepa-nie-zalamuje-rak</link>
+        <pubDate>Fri, 29 Mar 2024 10:27:00 GMT</pubDate>
+        <description>Golkiper nie gra od 21 stycznia i zakłada, że ​​wróci do Chelsea. Ucieka w codzienną pracę i ma nadzieję rozegrać jeszcze jakiś mecz przed końcem tej kampanii.</description>
+    </item>
     
     <item>
         <title>Relevo: Eva Navarro, Sheila García i María Méndez dołączą do Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128382-camavinga-ma-wrocic-w-piatek-do-pelnego-treningu</link>
         <pubDate>Thu, 28 Mar 2024 20:48:00 GMT</pubDate>
         <description>Eduardo Camavinga pozostał w czwartek poza grupą treningową, ale jego skręcenie kostki ma być lekkie i już w piątek spodziewany jest z powrotem na boisku. Razem z nim do pracy wrócą też Jude Bellingham i Federico Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Maroko buduje największy stadion na świecie, by przejąć finał mundialu</title>
-        <link>https://www.realmadryt.pl/news/128378-maroko-buduje-najwiekszy-stadion-na-swiecie-by-przejac-final-mundialu</link>
-        <pubDate>Thu, 28 Mar 2024 19:57:00 GMT</pubDate>
-        <description>Hiszpania zorganizuje mundial w 2030 roku z Portugalią i Marokiem. Ten pierwszy kraj zmaga się jednak z kryzysami korupcyjnymi i wizerunkowymi, co chcą wykorzystać Afrykanie, którzy poważnie myślą o przejęciu finału wspomnianej imprezy.</description>
     </item>
     
 </channel>
