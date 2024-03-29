@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Mar 2024 18:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 18:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Szach mat Viníciusa Tobiasa</title>
+        <link>https://www.realmadryt.pl/news/128389-szach-mat-viniciusa-tobiasa</link>
+        <pubDate>Fri, 29 Mar 2024 19:24:00 GMT</pubDate>
+        <description>Po zakończeniu obecnego sezonu Vinícius Tobias opuści Real Madryt. Klub nie zamierza korzystać z opcji transferu definitywnego w kwocie 15 milionów euro.</description>
+    </item>
     
     <item>
         <title>Vinícius Júnior piłkarzem miesiąca w La Lidze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128397-camavinga-trenowal-z-druzyna</link>
         <pubDate>Fri, 29 Mar 2024 13:15:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do niedzielnego spotkania z Athletikiem. Razem z drużyną nie trenowało kilku zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Ulga</title>
-        <link>https://www.realmadryt.pl/news/128377-ulga</link>
-        <pubDate>Fri, 29 Mar 2024 12:37:00 GMT</pubDate>
-        <description>W Valdebebas odetchnęli z ulgą. Są zresztą ku temu konkretne powody. Odejście Kroosa wstrząsnęłoby projektem na kolejny sezon. W pełni okresu przejściowego Królewscy musieliby bowiem ruszyć na rynek w poszukiwaniu nieplanowanych wzmocnień.</description>
     </item>
     
 </channel>
