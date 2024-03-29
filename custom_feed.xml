@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Mar 2024 22:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 23:16:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128411-dzisiejsze-okladki</link>
+        <pubDate>Sat, 30 Mar 2024 00:01:00 GMT</pubDate>
+        <description>Przyszłość Realu Madryt i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze z rekordem zwycięstw w Eurolidze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128395-po-rekord-zwyciestw</link>
         <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
         <description>W 32. kolejce Euroligi Real Madryt podejmie Crvenę zvezdę. Królewscy mają już pewne pierwsze miejsce, więc pozostała im walka o pobicie rekordu liczby zwycięstw w sezonie zasadniczym.</description>
-    </item>
-    
-    <item>
-        <title>Postaw na wygraną kogokolwiek w La Lidze… i zgarnij 300 zł!</title>
-        <link>https://www.realmadryt.pl/news/128393-postaw-na-wygrana-kogokolwiek-w-la-lidze-i-zgarnij-300-zl</link>
-        <pubDate>Fri, 29 Mar 2024 15:15:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
