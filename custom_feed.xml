@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Mar 2024 11:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 11:38:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ulga</title>
+        <link>https://www.realmadryt.pl/news/128377-ulga</link>
+        <pubDate>Fri, 29 Mar 2024 12:37:00 GMT</pubDate>
+        <description>W Valdebebas odetchnęli z ulgą. Są zresztą ku temu konkretne powody. Odejście Kroosa wstrząsnęłoby projektem na kolejny sezon. W pełni okresu przejściowego Królewscy musieliby bowiem ruszyć na rynek w poszukiwaniu nieplanowanych wzmocnień.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 29 marca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128386-dzisiejsze-okladki</link>
         <pubDate>Fri, 29 Mar 2024 00:37:00 GMT</pubDate>
         <description>Sytuacje Xabiego Alonso i Endricka oraz triumf piłkarek Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii. Pojawiają się na nich informacje także na sobotę, gdyż niektóre okładki są na dwa dni, bo Wielki Piątek to w Hiszpanii dzień świąteczny i zależnie od regionu w piątku lub w sobotę nie wydaje się drukowanych gazet. Można jednak tradycyjnie spodziewać się aktualizacji na okładkach dzięki wydaniom internetowym.</description>
-    </item>
-    
-    <item>
-        <title>The Times: Xabi Alonso nastawiony na pozostanie w Leverkusen</title>
-        <link>https://www.realmadryt.pl/news/128384-the-times-xabi-alonso-nastawiony-na-pozostanie-w-leverkusen</link>
-        <pubDate>Thu, 28 Mar 2024 22:33:00 GMT</pubDate>
-        <description>W Anglii odczuwa się, że Bask pozostanie na kolejny sezon w Leverkusen. Dodaje się, że w dłuższym okresie jego główną opcją może być Real Madryt.</description>
     </item>
     
 </channel>
