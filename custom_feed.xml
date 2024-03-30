@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 11:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 11:54:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Athletikiem</title>
+        <link>https://www.realmadryt.pl/news/128423-ostatni-trening-przed-athletikiem</link>
+        <pubDate>Sat, 30 Mar 2024 12:46:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do niedzielnego spotkania z Athletikiem. Razem z drużyną nie trenowało tylko dwóch zawodników.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Militão wraca do kadry, ale potrzebuje gry w piłkę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128404-kulisy-codziennej-pracy-kyliana-mbappe</link>
         <pubDate>Sat, 30 Mar 2024 05:30:00 GMT</pubDate>
         <description>Tomás Gonzáles-Martín z El Debate odsłania kulisy ciężkiej pracy Francuza, która najprawdopodobniej doprowadzi go do spełnienia swojego wielkiego marzenia z dzieciństwa, czyli gry na Santiago Bernabéu. Od restrykcyjnej diety, przez indywidualne treningi szybkości i siły, aż po specjalne zabiegi mające na celu maksymalną dbałość o kondycję fizyczną.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128411-dzisiejsze-okladki</link>
-        <pubDate>Sat, 30 Mar 2024 00:01:00 GMT</pubDate>
-        <description>Przyszłość Realu Madryt i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
