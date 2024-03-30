@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 15:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 15:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin ma już wszystko</title>
+        <link>https://www.realmadryt.pl/news/128365-lunin-ma-juz-wszystko</link>
+        <pubDate>Sat, 30 Mar 2024 16:30:00 GMT</pubDate>
+        <description>Andrij przejął bramkę Realu Madryt i kadry Ukrainy, która zdobyła z nim bilet na mistrzostwa Europy.</description>
+    </item>
     
     <item>
         <title>Mateo: Momentami brakowało nam presji związanej z rozgrywkami</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128398-athletic-zmieni-bramkarza-na-mecz-z-realem</link>
         <pubDate>Sat, 30 Mar 2024 10:40:00 GMT</pubDate>
         <description>Julen Agirrezabala ma realne szanse na występ od pierwszej minuty na Santiago Bernabéu. Jeśli 23-letni bramkarz w stolicy Hiszpanii rzeczywiście zagra od początku, śmiało będzie mógł stwierdzić, że czeka go najbardziej intensywny tydzień w karierze. Starcie z Królewskimi byłoby jego pierwszym ligowym spotkaniem w bieżącym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Od rekordu do rekordu</title>
-        <link>https://www.realmadryt.pl/news/128402-od-rekordu-do-rekordu</link>
-        <pubDate>Sat, 30 Mar 2024 09:54:00 GMT</pubDate>
-        <description>Data 9 kwietnia jest zaznaczona na czerwono u każdego kibica Realu Madryt. Nie każdy chętny będzie mógł jednak obejrzeć potyczkę z Manchesterem City ze stadionu. Bilety rozeszły się… zanim trafił do otwartej sprzedaży.</description>
     </item>
     
 </channel>
