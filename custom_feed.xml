@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 09:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 09:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Athletic zmieni bramkarza na mecz z Realem?</title>
+        <link>https://www.realmadryt.pl/news/128398-athletic-zmieni-bramkarza-na-mecz-z-realem</link>
+        <pubDate>Sat, 30 Mar 2024 10:40:00 GMT</pubDate>
+        <description>Julen Agirrezabala ma realne szanse na występ od pierwszej minuty na Santiago Bernabéu. Jeśli 23-letni bramkarz w stolicy Hiszpanii rzeczywiście zagra od początku, śmiało będzie mógł stwierdzić, że czeka go najbardziej intensywny tydzień w karierze. Starcie z Królewskimi byłoby jego pierwszym ligowym spotkaniem w bieżącym sezonie.</description>
+    </item>
     
     <item>
         <title>Od rekordu do rekordu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128380-ile-bedzie-mozna-zarobic-w-nowej-lidze-mistrzow</link>
         <pubDate>Fri, 29 Mar 2024 21:06:00 GMT</pubDate>
         <description>UEFA rozesłała do krajowych związków i klubów plan finansowy na Ligę Mistrzów w cyklu 2024-2027, w którym rozgrywki będą poszerzone do 36 ekip. Na jaki wzrost przychodów mogą liczyć kluby?</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 30. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/128403-telewizyjny-terminarz-30-kolejki-la-ligi</link>
-        <pubDate>Fri, 29 Mar 2024 20:15:00 GMT</pubDate>
-        <description>Real Madryt w niedzielę zagra u siebie z Athletikiem. Tego samego dnia Girona zmierzy się z Betisem, a w sobotę Barcelona podejmie Las Palmas.</description>
     </item>
     
 </channel>
