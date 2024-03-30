@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 23:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 23:38:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128443-dzisiejsze-okladki</link>
+        <pubDate>Sun, 31 Mar 2024 00:25:00 GMT</pubDate>
+        <description>Powroty w Realu Madryt i wygrana Barcelony to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Mecze nie mogą być kontynuowane z rasistami na trybunach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128406-unai-simon-kepa-w-zadnym-momencie-sie-nie-podda</link>
         <pubDate>Sat, 30 Mar 2024 19:49:00 GMT</pubDate>
         <description>Unai Simón udzielił wywiadu dziennikarzom Asa przed meczem z Realem Madryt na Santiago Bernabéu. W trakcie rozmowy bramkarz Athleticu poruszył tematy związane ze zbliżającą się potyczką, ale nie tylko.</description>
-    </item>
-    
-    <item>
-        <title>Brazylijsko-francuska mieszanka wybuchowa</title>
-        <link>https://www.realmadryt.pl/news/128425-brazylijsko-francuska-mieszanka-wybuchowa</link>
-        <pubDate>Sat, 30 Mar 2024 18:58:00 GMT</pubDate>
-        <description>Vinícius, Rodrygo i Endrick wystąpili razem w barwach reprezentacji Brazylii w towarzyskim meczu z Hiszpanią rozgrywanym we wtorek na Santiago Bernabéu. Pewne przybycie zawodnika Palmeiras oraz niemal potwierdzone zakontraktowanie Kyliana Mbappé pozwoliłoby ofensywie Realu Madryt wykonać potężny skok jakościowy.</description>
     </item>
     
 </channel>
