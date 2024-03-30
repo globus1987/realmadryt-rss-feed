@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 12:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 12:49:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostateczny ruch po Daviesa</title>
+        <link>https://www.realmadryt.pl/news/128415-ostateczny-ruch-po-daviesa</link>
+        <pubDate>Sat, 30 Mar 2024 13:30:00 GMT</pubDate>
+        <description>Real Madryt chce zamknąć transfer Alphonso Daviesa w kwocie 30 milionów euro. Bayern Monachium stawia swojemu zawodnikowi ultimatum i nie zamierza się zbliżać do jego oczekiwań finansowych. Sam Kanadyjczyk chce grać na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed Athletikiem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128408-xavi-mozemy-narzucic-presje-na-real-madryt</link>
         <pubDate>Sat, 30 Mar 2024 07:25:00 GMT</pubDate>
         <description>Trener Barcelony, Xavi Hernández, stawił się na konferencji prasowej przed ligowym meczem z Las Palmas. Poniżej przedstawiamy zapis jego najważniejszych wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy codziennej pracy Kyliana Mbappé</title>
-        <link>https://www.realmadryt.pl/news/128404-kulisy-codziennej-pracy-kyliana-mbappe</link>
-        <pubDate>Sat, 30 Mar 2024 05:30:00 GMT</pubDate>
-        <description>Tomás Gonzáles-Martín z El Debate odsłania kulisy ciężkiej pracy Francuza, która najprawdopodobniej doprowadzi go do spełnienia swojego wielkiego marzenia z dzieciństwa, czyli gry na Santiago Bernabéu. Od restrykcyjnej diety, przez indywidualne treningi szybkości i siły, aż po specjalne zabiegi mające na celu maksymalną dbałość o kondycję fizyczną.</description>
     </item>
     
 </channel>
