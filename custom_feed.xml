@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 11:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 11:40:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Militão wraca do kadry, ale potrzebuje gry w piłkę</title>
+        <link>https://www.realmadryt.pl/news/128421-ancelotti-militao-wraca-do-kadry-ale-potrzebuje-gry-w-pilke</link>
+        <pubDate>Sat, 30 Mar 2024 12:31:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym meczem La Ligi z Athletikiem. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami. Pełny zapis tej konferencji pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 30 marca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128411-dzisiejsze-okladki</link>
         <pubDate>Sat, 30 Mar 2024 00:01:00 GMT</pubDate>
         <description>Przyszłość Realu Madryt i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze z rekordem zwycięstw w Eurolidze</title>
-        <link>https://www.realmadryt.pl/news/128409-koszykarze-z-rekordem-zwyciestw-w-eurolidze</link>
-        <pubDate>Fri, 29 Mar 2024 23:20:00 GMT</pubDate>
-        <description>W 32. kolejce Euroligi Real Madryt pokonał Crvenę zvezdę i pobił dzięki temu rekord liczby zwycięstw w sezonie zasadniczym. Chus Mateo wykorzystał to spotkanie na rotacje składem.</description>
     </item>
     
 </channel>
