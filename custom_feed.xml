@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 04:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 04:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kulisy codziennej pracy Kyliana Mbappé</title>
+        <link>https://www.realmadryt.pl/news/128404-kulisy-codziennej-pracy-kyliana-mbappe</link>
+        <pubDate>Sat, 30 Mar 2024 05:30:00 GMT</pubDate>
+        <description>Tomás Gonzáles-Martín z El Debate odsłania kulisy ciężkiej pracy Francuza, która najprawdopodobniej doprowadzi go do spełnienia swojego wielkiego marzenia z dzieciństwa, czyli gry na Santiago Bernabéu. Od restrykcyjnej diety, przez indywidualne treningi szybkości i siły, aż po specjalne zabiegi mające na celu maksymalną dbałość o kondycję fizyczną.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128326-koszmar-cunninghama</link>
         <pubDate>Fri, 29 Mar 2024 16:51:00 GMT</pubDate>
         <description>Laurie Cunningham był pierwszym czarnoskórym piłkarzem w historii reprezentacji Anglii, a cztery lata swojej klubowej kariery spędził w Realu Madryt. W związku z ostatnimi wydarzeniami wokół Viníciusa do tematu rasistowskich incydentów sprzed lat wrócił syn nieżyjącego już Anglika, Sergio Cunningham.</description>
-    </item>
-    
-    <item>
-        <title>Po rekord zwycięstw</title>
-        <link>https://www.realmadryt.pl/news/128395-po-rekord-zwyciestw</link>
-        <pubDate>Fri, 29 Mar 2024 16:00:00 GMT</pubDate>
-        <description>W 32. kolejce Euroligi Real Madryt podejmie Crvenę zvezdę. Królewscy mają już pewne pierwsze miejsce, więc pozostała im walka o pobicie rekordu liczby zwycięstw w sezonie zasadniczym.</description>
     </item>
     
 </channel>
