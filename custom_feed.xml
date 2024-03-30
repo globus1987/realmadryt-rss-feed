@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Mar 2024 08:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 09:15:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od rekordu do rekordu</title>
+        <link>https://www.realmadryt.pl/news/128402-od-rekordu-do-rekordu</link>
+        <pubDate>Sat, 30 Mar 2024 09:54:00 GMT</pubDate>
+        <description>Data 9 kwietnia jest zaznaczona na czerwono u każdego kibica Realu Madryt. Nie każdy chętny będzie mógł jednak obejrzeć potyczkę z Manchesterem City ze stadionu. Bilety rozeszły się… zanim trafił do otwartej sprzedaży.</description>
+    </item>
     
     <item>
         <title>200 zł za wygraną Realu z Athletikiem!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128403-telewizyjny-terminarz-30-kolejki-la-ligi</link>
         <pubDate>Fri, 29 Mar 2024 20:15:00 GMT</pubDate>
         <description>Real Madryt w niedzielę zagra u siebie z Athletikiem. Tego samego dnia Girona zmierzy się z Betisem, a w sobotę Barcelona podejmie Las Palmas.</description>
-    </item>
-    
-    <item>
-        <title>Szach mat Viníciusa Tobiasa</title>
-        <link>https://www.realmadryt.pl/news/128389-szach-mat-viniciusa-tobiasa</link>
-        <pubDate>Fri, 29 Mar 2024 19:24:00 GMT</pubDate>
-        <description>Po zakończeniu obecnego sezonu Vinícius Tobias opuści Real Madryt. Klub nie zamierza korzystać z opcji transferu definitywnego w kwocie 15 milionów euro.</description>
     </item>
     
 </channel>
