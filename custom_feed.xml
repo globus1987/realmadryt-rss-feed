@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Mar 2024 08:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 09:17:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Powrót na ligowe podwórko</title>
+        <link>https://www.realmadryt.pl/news/128431-powrot-na-ligowe-podworko</link>
+        <pubDate>Sun, 31 Mar 2024 11:00:00 GMT</pubDate>
+        <description>W 27. kolejce Ligi Endesa Real Madryt podejmie Manresę. Katalończycy walczą o udział w play-offach, a Królewscy chcą wykonać kolejny krok w kierunku pierwszego miejsca w tabeli.</description>
+    </item>
     
     <item>
         <title>City zagra dziś z Arsenalem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128442-vinicius-mecze-nie-moga-byc-kontynuowane-z-rasistami-na-trybunach</link>
         <pubDate>Sat, 30 Mar 2024 23:18:00 GMT</pubDate>
         <description>Vinícius Júnior wystosował komunikat na portalach społecznościowych w sprawie sobotnich przypadków rasizmu w hiszpańskim futbolu. Przedstawiamy jego pełną treść.</description>
-    </item>
-    
-    <item>
-        <title>30. kolejka: Barcelona wygrywa z Las Palmas</title>
-        <link>https://www.realmadryt.pl/news/128441-30-kolejka-barcelona-wygrywa-z-las-palmas</link>
-        <pubDate>Sat, 30 Mar 2024 22:59:00 GMT</pubDate>
-        <description>Barcelona pokonała Las Palmas w meczu 30. kolejki Primera División i wywiera presję na Real Madryt przed meczem z Athletikiem.</description>
     </item>
     
 </channel>
