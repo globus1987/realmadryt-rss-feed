@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Mar 2024 19:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 19:53:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 1:0</title>
+        <link>https://www.realmadryt.pl/news/128463-do-przerwy-1-0</link>
+        <pubDate>Sun, 31 Mar 2024 21:47:00 GMT</pubDate>
+        <description>W meczu 30. kolejki La Ligi Real Madryt prowadzi z Athletikiem 1:0 po pięknym golu Rodrygo zza pola karnego.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Athletikiem [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128420-udane-powroty-po-przerwach-reprezentacyjnych</link>
         <pubDate>Sun, 31 Mar 2024 14:50:00 GMT</pubDate>
         <description>Powrót do gry w klubie po przerwie na kadrę może być problematyczny dla zawodników wielu zespołów, ale nie dla piłkarzy obecnego Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Słaby występ i porażka z Manresą</title>
-        <link>https://www.realmadryt.pl/news/128453-slaby-wystep-i-porazka-z-manresa</link>
-        <pubDate>Sun, 31 Mar 2024 14:47:00 GMT</pubDate>
-        <description>W 27. kolejce Ligi Endesa Real Madryt przegrał z Manresą. Był to słaby mecz w wykonaniu Królewskich i całkowicie zasłużona porażka.</description>
     </item>
     
 </channel>
