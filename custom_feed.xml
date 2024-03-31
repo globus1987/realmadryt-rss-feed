@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Mar 2024 21:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 22:17:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo: Powrót Édera cieszy mnie o wiele bardziej niż dwie bramki</title>
+        <link>https://www.realmadryt.pl/news/128470-rodrygo-powrot-edera-cieszy-mnie-o-wiele-bardziej-niz-dwie-bramki</link>
+        <pubDate>Sun, 31 Mar 2024 23:59:00 GMT</pubDate>
+        <description>Rodrygo udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Atletikiem. Przedstawiamy wypowiedzi gracza Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Skargi Guardioli oceniam dobrze, mają trudniejszy terminarz</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128461-rozgrzewka-przed-athletikiem-video</link>
         <pubDate>Sun, 31 Mar 2024 20:16:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Estadio Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Athletikiem. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>City remisuje z Arsenalem, możliwa kontuzja Aké</title>
-        <link>https://www.realmadryt.pl/news/128459-city-remisuje-z-arsenalem-mozliwa-kontuzja-ake</link>
-        <pubDate>Sun, 31 Mar 2024 19:23:00 GMT</pubDate>
-        <description>Manchester City w hicie Premier League zremisował u siebie bezbramkowo z Arsenalem. Obywatele pozostają na trzecim miejscu w tabeli i w tym meczu mogli stracić przez kontuzję Nathana Aké. Pierwszy ćwierćfinał Ligi Mistrzów z Realem Madryt już za 9 dni.</description>
     </item>
     
 </channel>
