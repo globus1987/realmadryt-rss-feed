@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Mar 2024 10:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 11:15:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Początek prawdziwego sezonu</title>
+        <link>https://www.realmadryt.pl/news/128426-poczatek-prawdziwego-sezonu</link>
+        <pubDate>Sun, 31 Mar 2024 13:15:00 GMT</pubDate>
+        <description>Dziś polecimy banałem, ponieważ stygnie nam świąteczny żurek. Wybaczcie.</description>
+    </item>
     
     <item>
         <title>Guardiola: Real ma 9 dni na przygotowanie meczu, ja chciałbym chociaż jeden więcej</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128447-real-madryt-athletic-przewidywane-sklady</link>
         <pubDate>Sun, 31 Mar 2024 07:25:00 GMT</pubDate>
         <description>Królewscy podchodzą do meczu na szczycie bez kontuzjowanych Thibaut Courtois i Davida Alaby oraz zawieszonego Viníciusa Júniora. Madryckie dzienniki są zgodne co do jedenastki w ostatnim meczu przed pierwszym ćwierćfinałem Ligi Mistrzów z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Militão na City? Zobaczymy, nie jest to wykluczone</title>
-        <link>https://www.realmadryt.pl/news/128428-ancelotti-militao-na-city-zobaczymy-nie-jest-to-wykluczone</link>
-        <pubDate>Sun, 31 Mar 2024 05:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym meczem La Ligi z Athletikiem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
