@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Mar 2024 15:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 15:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Mama nie wybaczyła mi, że nie podpisałem kontraktu z Realem”</title>
+        <link>https://www.realmadryt.pl/news/128451-mama-nie-wybaczyla-mi-ze-nie-podpisalem-kontraktu-z-realem</link>
+        <pubDate>Sun, 31 Mar 2024 17:50:00 GMT</pubDate>
+        <description>Dziennik AS przeprowadził wywiad z Javim Martínezem, byłym zawodnikiem Athleticu, a obecnie graczem Qatar SC. 35-latek opowiedział między innymi o marzeniu swojej mamy, pracy z Carlo Ancelottim czy projekcie Xabiego Alonso w Bayerze.</description>
+    </item>
     
     <item>
         <title>Manchester City vs Arsenal: Kluczowy mecz w Premier League</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128448-guardiola-real-ma-9-dni-na-przygotowanie-meczu-ja-chcialbym-chociaz-jeden-wiecej</link>
         <pubDate>Sun, 31 Mar 2024 12:30:00 GMT</pubDate>
         <description>Pep Guardiola przed dzisiejszym spotkaniem Premier League z Arsenalem poruszył temat Realu Madryt jedynie w pytaniach o trudny terminarz, jaki teraz czeka Obywateli. Przedstawiamy zapis tej części konferencji prasowej z piątku, która do dzisiaj była objęta embargo publikacyjnym.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 31 marca</title>
-        <link>https://www.realmadryt.pl/news/128450-kartka-z-kalendarza-31-marca</link>
-        <pubDate>Sun, 31 Mar 2024 12:20:00 GMT</pubDate>
-        <description>Urodziny byłych zawodników, ostatni mecz na Chamartín, pierwsze spotkanie ligowe koszykarzy oraz wygrane piłkarzy z Osasuną, Las Palmas czy Huescą. Co działo się 31 marca?</description>
     </item>
     
 </channel>
