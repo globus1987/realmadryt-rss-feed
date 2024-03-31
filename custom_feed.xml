@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Mar 2024 22:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 22:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128474-dzisiejsze-okladki</link>
+        <pubDate>Mon, 01 Apr 2024 00:34:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i zachwyty nad Barceloną to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Powrót Édera cieszy mnie o wiele bardziej niż dwie bramki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128463-dwa-blyski</link>
         <pubDate>Sun, 31 Mar 2024 21:47:00 GMT</pubDate>
         <description>W meczu 30. kolejki La Ligi Real Madryt wygrał z Athletikiem 2:0 po dwóch golach Rodrygo.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Athletikiem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/128461-rozgrzewka-przed-athletikiem-video</link>
-        <pubDate>Sun, 31 Mar 2024 20:16:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Estadio Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Athletikiem. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
     </item>
     
 </channel>
