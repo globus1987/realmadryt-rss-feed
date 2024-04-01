@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Apr 2024 21:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 22:17:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128497-dzisiejsze-okladki</link>
+        <pubDate>Tue, 02 Apr 2024 00:11:00 GMT</pubDate>
+        <description>Plany Realu Madryt i Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>30. kolejka: Atlético wraca do TOP4</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128473-ancelotti-moglismy-naciskac-wyzej-ale-nie-mielismy-wystarczajacej-energii</link>
         <pubDate>Mon, 01 Apr 2024 15:54:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Atletikiem. Przedstawiamy wypowiedzi szkoleniowca Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Wszyscy na biało</title>
-        <link>https://www.realmadryt.pl/news/128483-wszyscy-na-bialo</link>
-        <pubDate>Mon, 01 Apr 2024 15:03:00 GMT</pubDate>
-        <description>Kibicowska grupa Grada Fans RMCF poprosiła podczas meczu z Athletikiem, aby wszyscy fani na spotkanie z Manchesterem City przyszli ubrani na biało.</description>
     </item>
     
 </channel>
