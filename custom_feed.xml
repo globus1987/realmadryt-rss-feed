@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Apr 2024 12:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 13:20:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszyscy na biało</title>
+        <link>https://www.realmadryt.pl/news/128483-wszyscy-na-bialo</link>
+        <pubDate>Mon, 01 Apr 2024 15:03:00 GMT</pubDate>
+        <description>Kibicowska grupa Grada Fans RMCF poprosiła podczas meczu z Athletikiem, aby wszyscy fani na spotkanie z Manchesterem City przyszli ubrani na biało.</description>
+    </item>
     
     <item>
         <title>Czekając na Bellinghama</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128476-lunin-zawsze-latwiej-jest-wygrac-kiedy-nie-tracisz-bramki</link>
         <pubDate>Mon, 01 Apr 2024 07:25:00 GMT</pubDate>
         <description>Andrij Łunin udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Athletikiem Bilbao. Przedstawiamy zapis rozmowy z bramkarzem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>The Times: Chelsea chce sprzedać Reece'a Jamesa</title>
-        <link>https://www.realmadryt.pl/news/128455-the-times-chelsea-chce-sprzedac-reecea-jamesa</link>
-        <pubDate>Mon, 01 Apr 2024 05:30:00 GMT</pubDate>
-        <description>The Blues potrzebują sprzedaży zawodników, by zrównoważyć swoje finanse i uniknąć kary od Premier League. Największe zyski księgowe mogą uzyskać na swoich wychowankach, a wśród nich znajduje się piłkarz, którym od długiego czasu interesuje się Real Madryt.</description>
     </item>
     
 </channel>
