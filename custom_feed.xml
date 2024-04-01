@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Apr 2024 11:16:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 11:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé przy zmianie obraził Luisa Enrique?</title>
+        <link>https://www.realmadryt.pl/news/128481-mbappe-przy-zmianie-obrazil-luisa-enrique</link>
+        <pubDate>Mon, 01 Apr 2024 13:21:00 GMT</pubDate>
+        <description>Francuz kolejny raz został zdjęty z boiska. Tym razem pokazał swoje niezadowolenie minami, ale także rzuconym hasłem, najprawdopodobniej w kierunku trenera Luisa Enrique.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Athletikiem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128474-dzisiejsze-okladki</link>
         <pubDate>Mon, 01 Apr 2024 00:34:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i zachwyty nad Barceloną to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Powrót Édera cieszy mnie o wiele bardziej niż dwie bramki</title>
-        <link>https://www.realmadryt.pl/news/128470-rodrygo-powrot-edera-cieszy-mnie-o-wiele-bardziej-niz-dwie-bramki</link>
-        <pubDate>Sun, 31 Mar 2024 23:59:00 GMT</pubDate>
-        <description>Rodrygo udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Atletikiem. Przedstawiamy wypowiedzi gracza Realu Madryt.</description>
     </item>
     
 </channel>
