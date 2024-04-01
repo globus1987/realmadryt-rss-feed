@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Apr 2024 05:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 05:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin: Zawsze łatwiej jest wygrać, kiedy nie tracisz bramki</title>
+        <link>https://www.realmadryt.pl/news/128476-lunin-zawsze-latwiej-jest-wygrac-kiedy-nie-tracisz-bramki</link>
+        <pubDate>Mon, 01 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Andrij Łunin udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Athletikiem Bilbao. Przedstawiamy zapis rozmowy z bramkarzem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>The Times: Chelsea chce sprzedać Reece'a Jamesa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128467-30-kolejka-real-nadal-8-punktow-nad-barcelona</link>
         <pubDate>Sun, 31 Mar 2024 22:54:00 GMT</pubDate>
         <description>Real Madryt, Barcelona i Girona wygrały swoje mecze. Na szczycie tabeli nie doszło do żadnych poważnych zmian.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo MVP meczu z Athletikiem</title>
-        <link>https://www.realmadryt.pl/news/128465-rodrygo-mvp-meczu-z-athletikiem</link>
-        <pubDate>Sun, 31 Mar 2024 22:53:00 GMT</pubDate>
-        <description>Rodrygo Goes był jedną z najważniejszych postaci Realu Madryt w domowym starciu z Athletkiem.</description>
     </item>
     
 </channel>
