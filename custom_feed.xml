@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Apr 2024 09:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 09:53:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Nie mieliśmy naszego dnia</title>
+        <link>https://www.realmadryt.pl/news/128460-mateo-nie-mielismy-naszego-dnia</link>
+        <pubDate>Mon, 01 Apr 2024 11:40:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko przegrane spotkanie z Manresą. Przyznał, że Królewscy dzisiaj nie mieli swojego dnia.</description>
+    </item>
     
     <item>
         <title>Guardiola: Aké i Walker wypadają na dłużej</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128462-ancelotti-skargi-guardioli-oceniam-dobrze-maja-trudniejszy-terminarz</link>
         <pubDate>Sun, 31 Mar 2024 23:52:00 GMT</pubDate>
         <description>Carlo Ancelotti po spotkaniu La Ligi z Athletikiem pojawił się na konferencji prasowej. Przedstawiamy zapis tego spotkania trenera z dziennikarzami na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:0 Athletic [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/128466-real-madryt-2-0-athletic-video</link>
-        <pubDate>Sun, 31 Mar 2024 23:26:00 GMT</pubDate>
-        <description>Real Madryt wygrał w 30. kolejce ligowej z Athletikiem 2:0. Obie bramki dla Królewskich zdobył Rodrygo Goes.</description>
     </item>
     
 </channel>
