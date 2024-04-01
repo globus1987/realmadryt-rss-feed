@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Apr 2024 10:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 10:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Athletikiem</title>
+        <link>https://www.realmadryt.pl/news/128480-oceny-zawodnikow-po-meczu-z-athletikiem</link>
+        <pubDate>Mon, 01 Apr 2024 12:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Athletikiem 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Mateo: Nie mieliśmy naszego dnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128470-rodrygo-powrot-edera-cieszy-mnie-o-wiele-bardziej-niz-dwie-bramki</link>
         <pubDate>Sun, 31 Mar 2024 23:59:00 GMT</pubDate>
         <description>Rodrygo udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Atletikiem. Przedstawiamy wypowiedzi gracza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Skargi Guardioli oceniam dobrze, mają trudniejszy terminarz</title>
-        <link>https://www.realmadryt.pl/news/128462-ancelotti-skargi-guardioli-oceniam-dobrze-maja-trudniejszy-terminarz</link>
-        <pubDate>Sun, 31 Mar 2024 23:52:00 GMT</pubDate>
-        <description>Carlo Ancelotti po spotkaniu La Ligi z Athletikiem pojawił się na konferencji prasowej. Przedstawiamy zapis tego spotkania trenera z dziennikarzami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
