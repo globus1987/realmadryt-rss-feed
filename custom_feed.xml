@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Apr 2024 11:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 12:34:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Déjà vu</title>
+        <link>https://www.realmadryt.pl/news/128482-deja-vu</link>
+        <pubDate>Tue, 02 Apr 2024 14:15:00 GMT</pubDate>
+        <description>Pepowi Guardioli poza krótszym odpoczynkiem przez meczem z Realem Madryt dochodzi jeszcze jedno zmartwienie. Na horyzoncie znów pojawił się bowiem jego koszmar sprzed dwóch lat, czyli Rodrygo.</description>
+    </item>
     
     <item>
         <title>TyC Sports: River nie będzie negocjować w sprawie Mastantuono</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128484-matthaeus-davies-jest-cieniem-samego-siebie</link>
         <pubDate>Tue, 02 Apr 2024 05:30:00 GMT</pubDate>
         <description>Po domowej porażce z Borussią Dortmund na piłkarzy Bayernu Monachium spadła ogromna fala krytyki. Jednym z najbardziej krytykowanych piłkarzy jest wiązany z Realem Madryt Alphonso Davies. Formę Kanadyjczyka skomentowała jedna z legend Die Roten, Lothar Matthäus.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128497-dzisiejsze-okladki</link>
-        <pubDate>Tue, 02 Apr 2024 00:11:00 GMT</pubDate>
-        <description>Plany Realu Madryt i Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
