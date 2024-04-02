@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Apr 2024 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 22:19:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128518-dzisiejsze-okladki</link>
+        <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+        <description>Protest w sprawie rasizmu i przygotowania do meczu Barcelony z PSG to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Athenea: Nie zagrałabym w Barçy, nawet gdyby to była ostatnia drużyna na Ziemi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128501-blogoslawiony-spokoj</link>
         <pubDate>Tue, 02 Apr 2024 16:20:00 GMT</pubDate>
         <description>Real Madryt w pierwszym meczu po przerwie reprezentacyjnej w teorii miał stawić czoła wymagającemu zadaniu. Potyczkę z Athletikiem udało się jednak wygrać bez wrzucania najwyższego biegu. Królewscy po prostu spełnili wszelkie kryteria, by przy stosunkowo niewielkim nakładzie sił zwyczajnie wygrać.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Aké nie będzie gotowy na najbliższe mecze</title>
-        <link>https://www.realmadryt.pl/news/128506-guardiola-ake-nie-bedzie-gotowy-na-najblizsze-mecze</link>
-        <pubDate>Tue, 02 Apr 2024 15:29:00 GMT</pubDate>
-        <description>Pep Guardiola pojawił się na konferencji prasowej przed meczem Premier League z Aston Villą. Przedstawiamy najważniejsze wypowiedzi trenera Manchesteru City, z którym Real Madryt za tydzień zmierzy się w pierwszym ćwierćfinale Ligi Mistrzów.</description>
     </item>
     
 </channel>
