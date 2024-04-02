@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Apr 2024 14:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 14:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Błogosławiony spokój</title>
+        <link>https://www.realmadryt.pl/news/128501-blogoslawiony-spokoj</link>
+        <pubDate>Tue, 02 Apr 2024 16:20:00 GMT</pubDate>
+        <description>Real Madryt w pierwszym meczu po przerwie reprezentacyjnej w teorii miał stawić czoła wymagającemu zadaniu. Potyczkę z Athletikiem udało się jednak wygrać bez wrzucania najwyższego biegu. Królewscy po prostu spełnili wszelkie kryteria, by przy stosunkowo niewielkim nakładzie sił zwyczajnie wygrać.</description>
+    </item>
     
     <item>
         <title>Guardiola: Aké nie będzie gotowy na najbliższe mecze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128496-pichichi-zamora-asistencias</link>
         <pubDate>Tue, 02 Apr 2024 09:09:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 30. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Zaktualizowany projekt wyjazdowej koszulki na nowy sezon</title>
-        <link>https://www.realmadryt.pl/news/128494-zaktualizowany-projekt-wyjazdowej-koszulki-na-nowy-sezon</link>
-        <pubDate>Tue, 02 Apr 2024 08:17:00 GMT</pubDate>
-        <description>Portal FootyHeadlines na podstawie swoich nowych przecieków pokazał uaktualniony projekt wyjazdowych koszulek Realu Madryt na sezon 2024/25. Drugi trykot ma być pomarańczowy.</description>
     </item>
     
 </channel>
