@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Apr 2024 03:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 03:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé „bardzo źle” znosi decyzje Luisa Enrique</title>
+        <link>https://www.realmadryt.pl/news/128520-mbappe-bardzo-zle-znosi-decyzje-luisa-enrique</link>
+        <pubDate>Wed, 03 Apr 2024 05:30:00 GMT</pubDate>
+        <description>Trener bagatelizuje robienie kontrowersji z zarządzania minutami Francuza, ale otoczenie zawodnika przekazuje, że uznaje to za brak szacunku.</description>
+    </item>
     
     <item>
         <title>Guardiola: Doktor powiedział, że Walker nie ma szans zagrać z Realem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128500-czekajac-na-nacho-i-alabe</link>
         <pubDate>Tue, 02 Apr 2024 17:31:00 GMT</pubDate>
         <description>Los Blancos rozważają zmianę planu lub też jego utrzymanie i ściągnięcie nowego obrońcy dopiero w 2025, lub 2026 roku.</description>
-    </item>
-    
-    <item>
-        <title>Luis Enrique: Chciałbym, aby wszystko skończyło się dobrze dla PSG i w cudowny sposób również dla Kyliana</title>
-        <link>https://www.realmadryt.pl/news/128507-luis-enrique-chcialbym-aby-wszystko-skonczylo-sie-dobrze-dla-psg-i-w-cudowny-sposob-rowniez-dla-kyliana</link>
-        <pubDate>Tue, 02 Apr 2024 16:40:00 GMT</pubDate>
-        <description>Luis Enrique wziął udział w konferencji prasowej przed półfinałem Pucharu Francji z Rennes i nie uniknął pytań o Kyliana Mbappé.</description>
     </item>
     
 </channel>
