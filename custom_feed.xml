@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Apr 2024 18:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 19:15:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Manchester City vs Aston Villa: Kolejny mecz na szczycie</title>
+        <link>https://www.realmadryt.pl/news/128537-manchester-city-vs-aston-villa-kolejny-mecz-na-szczycie</link>
+        <pubDate>Wed, 03 Apr 2024 21:00:00 GMT</pubDate>
+        <description>O 21:15 rozpocznie się starcie pomiędzy Manchesterem City a Aston Villą na City of Manchester Stadium. Drużyna Pepa Guardioli rozgrywa kolejny kluczowy mecz dla losów mistrzostwa. Za 6 dni odbędzie się pierwszy ćwierćfinał Ligi Mistrzów między Obywatelami i Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Odrodzenie Lucasa Silvy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128529-oficjalnie-lewandowski-bedzie-mogl-zagrac-w-klasyku</link>
         <pubDate>Wed, 03 Apr 2024 14:08:00 GMT</pubDate>
         <description>Komitet Dyscyplinarny podjął decyzje w sprawie ostatniej kolejki. Potwierdzono zawieszenie Polaka, który ostatecznie nie zostanie ukarany za wymuszenie kartki.</description>
-    </item>
-    
-    <item>
-        <title>Rubiales wrócił do Hiszpanii i został aresztowany</title>
-        <link>https://www.realmadryt.pl/news/128528-rubiales-wrocil-do-hiszpanii-i-zostal-aresztowany</link>
-        <pubDate>Wed, 03 Apr 2024 13:25:00 GMT</pubDate>
-        <description>Policja zatrzymała dzisiaj byłego prezesa RFEF na lotnisku w związku z licznymi oskarżeniami.</description>
     </item>
     
 </channel>
