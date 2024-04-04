@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Apr 2024 17:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 18:23:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wątpliwości wokół kolejnego sezonu Euroligi</title>
+        <link>https://www.realmadryt.pl/news/128543-watpliwosci-wokol-kolejnego-sezonu-euroligi</link>
+        <pubDate>Thu, 04 Apr 2024 20:17:00 GMT</pubDate>
+        <description>Sezon zasadniczy w Eurolidze powoli dobiega końca, a władze rozgrywek ciągle nie określiły, jaki będzie skład klubów w sezonie 2024/25.</description>
+    </item>
     
     <item>
         <title>Nacho czy Tchouaméni?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128550-espn-walker-ma-szanse-zagrac-przeciwko-realowi-madryt</link>
         <pubDate>Thu, 04 Apr 2024 13:22:00 GMT</pubDate>
         <description>Kyle Walker od 23 marca zmaga się z urazem mięśni uda. Pep Guardiola wstępnie wykluczył go z występu przeciwko Realowi Madryt, ale ESPN donosi, że Anglik wcale nie jest jeszcze skreślony.</description>
-    </item>
-    
-    <item>
-        <title>Premier Hiszpanii nie popiera finału na Bernabéu, uginając się przed Katalonią, Marokiem i Francją</title>
-        <link>https://www.realmadryt.pl/news/128548-premier-hiszpanii-nie-popiera-finalu-na-bernabeu-uginajac-sie-przed-katalonia-marokiem-i-francja</link>
-        <pubDate>Thu, 04 Apr 2024 12:54:00 GMT</pubDate>
-        <description>Real Madryt musi walczyć samemu o prawo do rozegrania ostatniego meczu podczas finałów Mistrzostw Świata w 2030 roku. Króla Maroka i prezydent Francji naciskają z każdej strony, aby finał rozegrano na jeszcze niewybudowanym obiekcie w Afryce Północnej.</description>
     </item>
     
 </channel>
