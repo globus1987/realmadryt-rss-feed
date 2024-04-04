@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Apr 2024 22:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 22:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128571-dzisiejsze-okladki</link>
+        <pubDate>Fri, 05 Apr 2024 00:31:00 GMT</pubDate>
+        <description>Przygotowania do finału Pucharu Króla i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Podcast 5x20: Na ten moment czekaliśmy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128490-zamora-bez-statuetki</link>
         <pubDate>Thu, 04 Apr 2024 16:02:00 GMT</pubDate>
         <description>Andrij Łunin ma monopol na pierwszy skład. Ukrainiec zdecydowanie wygrał rywalizację z Kepą i będzie stał między słupkami aż do końca sezonu. Efekty jego pracy są zaś naprawdę godne podziwu.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Terminarz jest straszny</title>
-        <link>https://www.realmadryt.pl/news/128552-guardiola-terminarz-jest-straszny</link>
-        <pubDate>Thu, 04 Apr 2024 15:11:00 GMT</pubDate>
-        <description>Pep Guardiola pojawił się na konferencji prasowej po środowym zwycięstwie nad Aston Villą. Przedstawiamy najważniejsze wypowiedzi trenera Manchesteru City z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
