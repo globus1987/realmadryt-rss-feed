@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Apr 2024 11:54:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 12:33:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/128549-dzisiejszy-trening</link>
+        <pubDate>Thu, 04 Apr 2024 14:20:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
+    </item>
     
     <item>
         <title>Rudy Fernández chce zakończyć karierę po tym sezonie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128539-plan-na-militao</link>
         <pubDate>Thu, 04 Apr 2024 08:16:00 GMT</pubDate>
         <description>Założeniem Realu Madryt jest odzyskanie najlepszej wersji Brazylijczyka na rewanż na Etihad, gdzie jedenastka może być bardziej przetrzebiona i gdzie rozstrzygnie się awans.</description>
-    </item>
-    
-    <item>
-        <title>Hiszpański labirynt bezkarności w sprawie rasizmu</title>
-        <link>https://www.realmadryt.pl/news/128525-hiszpanski-labirynt-bezkarnosci-w-sprawie-rasizmu</link>
-        <pubDate>Thu, 04 Apr 2024 07:25:00 GMT</pubDate>
-        <description>Skargi na rasizm piętrzą się w sądach bez wyroków, a eksperci wzywają do nakładania grzywien i zamykania stadionów.</description>
     </item>
     
 </channel>
