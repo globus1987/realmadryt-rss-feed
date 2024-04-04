@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Apr 2024 15:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 15:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>FIFA wręczyła piłkarzom Realu statuetki za jedenastkę roku</title>
+        <link>https://www.realmadryt.pl/news/128557-fifa-wreczyla-pilkarzom-realu-statuetki-za-jedenastke-roku</link>
+        <pubDate>Thu, 04 Apr 2024 17:44:00 GMT</pubDate>
+        <description>Na styczniowej gali nie pojawili się zawodnicy Królewskich, którzy dopiero wczoraj otrzymali od FIFA statuetki za obecność w jedenastce roku FIFPro.</description>
+    </item>
     
     <item>
         <title>„Obecna wartość koszulki Realu to 260 milionów euro”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128508-bellingham-wciaz-jest-decydujacy</link>
         <pubDate>Thu, 04 Apr 2024 11:12:00 GMT</pubDate>
         <description>Mimo tego, że Anglik nie trafił do siatki od 10 lutego, opuścił w tym okresie cztery mecze i zdobył zaledwie trzy bramki w 2024 roku, niezmiennie pozostaje najskuteczniejszym i niewątpliwie kluczowym piłkarzem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 4 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/128546-kartka-z-kalendarza-4-kwietnia</link>
-        <pubDate>Thu, 04 Apr 2024 10:21:00 GMT</pubDate>
-        <description>Pierwszy mecz Realu Madryt z Polakami, urodziny byłych piłkarzy, koszykarskiej legendy i byłego prezesa, a także spotkania z Manchesterem United i APOEL-em. Co działo się 4 kwietnia?</description>
     </item>
     
 </channel>
