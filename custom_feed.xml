@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Apr 2024 07:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 08:23:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 4 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/128546-kartka-z-kalendarza-4-kwietnia</link>
+        <pubDate>Thu, 04 Apr 2024 10:21:00 GMT</pubDate>
+        <description>Pierwszy mecz Realu Madryt z Polakami, urodziny byłych piłkarzy, koszykarskiej legendy i byłego prezesa, a także spotkania z Manchesterem United i APOEL-em. Co działo się 4 kwietnia?</description>
+    </item>
     
     <item>
         <title>MARCA: Mbappé sam zdecyduje, kiedy ogłosi swój transfer do Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128502-rodrygo-konsekwentnie-robi-swoje</link>
         <pubDate>Wed, 03 Apr 2024 21:45:00 GMT</pubDate>
         <description>Rodrygo przechodzi przez tydzień, w którym ma prawo odczuwać radość i ulgę. Brazylijczyk dzięki dubletowi z Athletikiem przełamał swoją strzelecką niemoc i raczej nie ma w tym przypadku, że oba gole strzelił, będąc ustawionym bliżej lewej strony.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City vs Aston Villa: Kolejny mecz na szczycie</title>
-        <link>https://www.realmadryt.pl/news/128537-manchester-city-vs-aston-villa-kolejny-mecz-na-szczycie</link>
-        <pubDate>Wed, 03 Apr 2024 21:00:00 GMT</pubDate>
-        <description>O 21:15 rozpocznie się starcie pomiędzy Manchesterem City a Aston Villą na City of Manchester Stadium. Drużyna Pepa Guardioli rozgrywa kolejny kluczowy mecz dla losów mistrzostwa. Za 6 dni odbędzie się pierwszy ćwierćfinał Ligi Mistrzów między Obywatelami i Realem Madryt.</description>
     </item>
     
 </channel>
