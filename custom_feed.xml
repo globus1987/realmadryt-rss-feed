@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Apr 2024 07:18:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 07:38:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Mbappé sam zdecyduje, kiedy ogłosi swój transfer do Realu</title>
+        <link>https://www.realmadryt.pl/news/128547-marca-mbappe-sam-zdecyduje-kiedy-oglosi-swoj-transfer-do-realu</link>
+        <pubDate>Thu, 04 Apr 2024 09:30:00 GMT</pubDate>
+        <description>MARCA szczegółowo analizuje to, co dzieje się obecnie wokół francuskiego piłkarza i jak ma wyglądać najbliższa przyszłość.</description>
+    </item>
     
     <item>
         <title>Joselu uzupełnieniem galaktycznego planu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128537-manchester-city-vs-aston-villa-kolejny-mecz-na-szczycie</link>
         <pubDate>Wed, 03 Apr 2024 21:00:00 GMT</pubDate>
         <description>O 21:15 rozpocznie się starcie pomiędzy Manchesterem City a Aston Villą na City of Manchester Stadium. Drużyna Pepa Guardioli rozgrywa kolejny kluczowy mecz dla losów mistrzostwa. Za 6 dni odbędzie się pierwszy ćwierćfinał Ligi Mistrzów między Obywatelami i Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Odrodzenie Lucasa Silvy</title>
-        <link>https://www.realmadryt.pl/news/128396-odrodzenie-lucasa-silvy</link>
-        <pubDate>Wed, 03 Apr 2024 19:58:00 GMT</pubDate>
-        <description>Lucas Silva przeszedł przez Real Madryt praktycznie niezauważony. Brazylijczyk wylądował w stolicy Hiszpanii zimą 2015 roku i w zasadzie nie miał okazji zaistnieć. Od jego ostatniego meczu w białej koszulce minęło już prawie dziewięć lat. Łącznie uzbierał ich zaś osiem (424 minuty).</description>
     </item>
     
 </channel>
