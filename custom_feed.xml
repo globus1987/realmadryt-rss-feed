@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 10:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 10:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ruszyły prace nad Bernabéu Market</title>
+        <link>https://www.realmadryt.pl/news/128573-ruszyly-prace-nad-bernabeu-market</link>
+        <pubDate>Fri, 05 Apr 2024 12:31:00 GMT</pubDate>
+        <description>Pod Santiago Bernabéu rozpoczęły się prace nad publicznym targiem gastronomicznym, który przyjmie 25 lokali i wzbogaci ofertę stadionu.</description>
+    </item>
     
     <item>
         <title>Mingueza: Starcie z Vinim na Bernabéu? To zamknięty temat</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128568-podcast-5x20-na-ten-moment-czekalismy</link>
         <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest pierwszemu ćwierćfinałowi Ligi Mistrzów z Manchesterem City. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze z wizytą u króla Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/128561-koszykarze-z-wizyta-u-krola-hiszpanii</link>
-        <pubDate>Thu, 04 Apr 2024 22:00:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt z lekkim opóźnieniem udali się na tradycyjną wizytę w Pałacu Zarzuela, by zaprezentować królowi Filipowi VI Puchar Króla zdobyty 18 lutego w Maladze.</description>
     </item>
     
 </channel>
