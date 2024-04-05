@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 07:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 08:46:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie ma tego złego…</title>
+        <link>https://www.realmadryt.pl/news/128562-nie-ma-tego-zlego</link>
+        <pubDate>Fri, 05 Apr 2024 09:58:00 GMT</pubDate>
+        <description>Andrij Łunin i Real Madryt. Mecz pomiędzy tymi dwiema stronami rozpoczął się w najlepszym możliwym dla Ukraińca momencie. Ma jedną z najniższych pensji w drużynie, jego kontrakt wygasa już za rok i dopiero co związał się z Jorge Mendesem.</description>
+    </item>
     
     <item>
         <title>Mur, który ma zatrzymać Haalanda</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128543-watpliwosci-wokol-kolejnego-sezonu-euroligi</link>
         <pubDate>Thu, 04 Apr 2024 20:17:00 GMT</pubDate>
         <description>Sezon zasadniczy w Eurolidze powoli dobiega końca, a władze rozgrywek ciągle nie określiły, jaki będzie skład klubów w sezonie 2024/25.</description>
-    </item>
-    
-    <item>
-        <title>Nacho czy Tchouaméni?</title>
-        <link>https://www.realmadryt.pl/news/128559-nacho-czy-tchouameni</link>
-        <pubDate>Thu, 04 Apr 2024 19:26:00 GMT</pubDate>
-        <description>Na bokach Carvajal i Mendy. W środku zaś Rüdiger i… nie wiadomo, kto. Ancelotti i jego sztab wciąż nie podjęli decyzji, kto będzie towarzyszył Niemcowi w konfrontacji z Manchesterem City. Wątpliwości są zaś w pełni zrozumiałe, ponieważ naprzeciwko stanie prawdziwy drapieżnik w postaci Erlinga Haalanda.</description>
     </item>
     
 </channel>
