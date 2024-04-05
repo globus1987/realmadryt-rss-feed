@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 12:56:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 13:20:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius piłkarzem na Pięć Gwiazdek za marzec</title>
+        <link>https://www.realmadryt.pl/news/128554-vinicius-pilkarzem-na-piec-gwiazdek-za-marzec</link>
+        <pubDate>Fri, 05 Apr 2024 15:05:00 GMT</pubDate>
+        <description>Brazylijczyk po raz drugi w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128534-galaktyczny-real-madryt-3-0</link>
         <pubDate>Fri, 05 Apr 2024 07:25:00 GMT</pubDate>
         <description>Klub kompletuje ofensywę złożoną z młodych atakujących światowej klasy. W przyszłym sezonie Carlo Ancelotti będzie mógł liczyć na Mbappé, Viníciusa, Bellinghama, Rodrygo, Brahima, Gülera i Endricka. Cała siódemka łącznie wyceniana jest na 715 milionów euro.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Czy dziewięć dni bez gry przed City nam pomoże? Nie wiem</title>
-        <link>https://www.realmadryt.pl/news/128566-kroos-czy-dziewiec-dni-bez-gry-przed-city-nam-pomoze-nie-wiem</link>
-        <pubDate>Fri, 05 Apr 2024 05:30:00 GMT</pubDate>
-        <description>Toni Kroos w trakcie swojego cyklicznego podcastu Einfach mal Luppen mówił m.in. o relatywnie długim czasie bez gry przed pierwszym meczem ćwierćfinałowym z Manchesterem City oraz o kluczowych czynnikach dobrego funkcjonowania kadry narodowej. Przedstawiamy wypowiedzi Niemca.</description>
     </item>
     
 </channel>
