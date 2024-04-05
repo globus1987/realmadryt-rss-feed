@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 22:17:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 22:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128585-dzisiejsze-okladki</link>
+        <pubDate>Sat, 06 Apr 2024 00:24:00 GMT</pubDate>
+        <description>Finał Pucharu Króla to najważniejsza kwestia poruszana na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Porażka bez konsekwencji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128554-vinicius-pilkarzem-na-piec-gwiazdek-za-marzec</link>
         <pubDate>Fri, 05 Apr 2024 15:05:00 GMT</pubDate>
         <description>Brazylijczyk po raz drugi w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/128575-dzisiejszy-trening</link>
-        <pubDate>Fri, 05 Apr 2024 14:14:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
     </item>
     
 </channel>
