@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 11:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 12:31:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/128575-dzisiejszy-trening</link>
+        <pubDate>Fri, 05 Apr 2024 14:14:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
+    </item>
     
     <item>
         <title>Przetarcie przed Klasykiem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128566-kroos-czy-dziewiec-dni-bez-gry-przed-city-nam-pomoze-nie-wiem</link>
         <pubDate>Fri, 05 Apr 2024 05:30:00 GMT</pubDate>
         <description>Toni Kroos w trakcie swojego cyklicznego podcastu Einfach mal Luppen mówił m.in. o relatywnie długim czasie bez gry przed pierwszym meczem ćwierćfinałowym z Manchesterem City oraz o kluczowych czynnikach dobrego funkcjonowania kadry narodowej. Przedstawiamy wypowiedzi Niemca.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128571-dzisiejsze-okladki</link>
-        <pubDate>Fri, 05 Apr 2024 00:31:00 GMT</pubDate>
-        <description>Przygotowania do finału Pucharu Króla, wywiad z Lamine'em Yamalem i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
