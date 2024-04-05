@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 17:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 18:22:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ćwierćfinały Ligi Mistrzów nie mogły być bardziej wyrównane</title>
+        <link>https://www.realmadryt.pl/news/128536-cwiercfinaly-ligi-mistrzow-nie-mogly-byc-bardziej-wyrownane</link>
+        <pubDate>Fri, 05 Apr 2024 20:11:00 GMT</pubDate>
+        <description>Dziennik MARCA przy współpracy z Football Benchmark przeanalizował finanse ośmiu ćwierćfinalistów Ligi Mistrzów. Gazeta stwierdza, że starcia nie mogły być bardziej wyrównane.</description>
+    </item>
     
     <item>
         <title>Mateo: Skupiamy się na Baskonii i nie myślimy o Klasyku</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128573-ruszyly-prace-nad-bernabeu-market</link>
         <pubDate>Fri, 05 Apr 2024 12:31:00 GMT</pubDate>
         <description>Pod Santiago Bernabéu rozpoczęły się prace nad publicznym targiem gastronomicznym, który przyjmie 25 lokali i wzbogaci ofertę stadionu.</description>
-    </item>
-    
-    <item>
-        <title>Mingueza: Starcie z Vinim na Bernabéu? To zamknięty temat</title>
-        <link>https://www.realmadryt.pl/news/128544-mingueza-starcie-z-vinim-na-bernabeu-to-zamkniety-temat</link>
-        <pubDate>Fri, 05 Apr 2024 11:40:00 GMT</pubDate>
-        <description>Óscar Mingueza udzielił wywiadu dziennikowi Sport, w którym był pytany m.in. o starcie z Viníciusem podczas marcowego meczu Celta Vigo z Realem Madryt na Bernabéu. Mimo prowokacyjnego pytania były defensor Barcelony uciął ten temat, nie wdając się w zbędną w polemikę.</description>
     </item>
     
 </channel>
