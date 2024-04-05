@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 11:15:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 11:28:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przetarcie przed Klasykiem</title>
+        <link>https://www.realmadryt.pl/news/128564-przetarcie-przed-klasykiem</link>
+        <pubDate>Fri, 05 Apr 2024 13:23:00 GMT</pubDate>
+        <description>W 33. kolejce Euroligi Real Madryt podejmie Baskonię. Królewscy w sezonie zasadniczym nie walczą już o nic, a w niedzielę czeka ich ważny Klasyk w lidze.</description>
+    </item>
     
     <item>
         <title>Ruszyły prace nad Bernabéu Market</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128571-dzisiejsze-okladki</link>
         <pubDate>Fri, 05 Apr 2024 00:31:00 GMT</pubDate>
         <description>Przygotowania do finału Pucharu Króla, wywiad z Lamine'em Yamalem i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x20: Na ten moment czekaliśmy</title>
-        <link>https://www.realmadryt.pl/news/128568-podcast-5x20-na-ten-moment-czekalismy</link>
-        <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest pierwszemu ćwierćfinałowi Ligi Mistrzów z Manchesterem City. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
