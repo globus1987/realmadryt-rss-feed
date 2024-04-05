@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Apr 2024 15:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 15:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Couto: Zainteresowanie Realu? Tak, nie zamierzam kłamać</title>
+        <link>https://www.realmadryt.pl/news/128578-couto-zainteresowanie-realu-tak-nie-zamierzam-klamac</link>
+        <pubDate>Fri, 05 Apr 2024 17:38:00 GMT</pubDate>
+        <description>Brazylijski obrońca udzielił szczerej odpowiedzi na jedno z pytań, które zadano mu podczas wywiadu w Catalunya Radio.</description>
+    </item>
     
     <item>
         <title>Guardiola: Ederson może jutro zagrać, Walker i Aké nie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128562-nie-ma-tego-zlego</link>
         <pubDate>Fri, 05 Apr 2024 09:58:00 GMT</pubDate>
         <description>Andrij Łunin i Real Madryt. Mecz pomiędzy tymi dwiema stronami rozpoczął się w najlepszym możliwym dla Ukraińca momencie. Ma jedną z najniższych pensji w drużynie, jego kontrakt wygasa już za rok i dopiero co związał się z Jorge Mendesem.</description>
-    </item>
-    
-    <item>
-        <title>Mur, który ma zatrzymać Haalanda</title>
-        <link>https://www.realmadryt.pl/news/128555-mur-ktory-ma-zatrzymac-haalanda</link>
-        <pubDate>Fri, 05 Apr 2024 09:07:00 GMT</pubDate>
-        <description>W obecnym sezonie Real Madryt zachwyca w defensywie. Pomimo wielu absencji Królewscy są drugim zespołem w pięciu najmocniejszych ligach Europy pod względem średniej liczby traconych bramek na mecz. Teraz obrona, której szefem jest Antonio Rüdiger, ma przed sobą kolejne, wielkie wyzwanie.</description>
     </item>
     
 </channel>
