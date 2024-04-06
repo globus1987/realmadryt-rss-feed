@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 08:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 08:53:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hezonja: To jest wstyd, co zrobiliśmy</title>
+        <link>https://www.realmadryt.pl/news/128589-hezonja-to-jest-wstyd-co-zrobilismy</link>
+        <pubDate>Sat, 06 Apr 2024 10:51:00 GMT</pubDate>
+        <description>Mario Hezonja nie krył zdenerwowania po przegranym meczu z Baskonią. Powiedział, że niezależnie od sytuacji w tabeli, drużyna musi walczyć o zwycięstwo.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 6 kwietnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128536-cwiercfinaly-ligi-mistrzow-nie-mogly-byc-bardziej-wyrownane</link>
         <pubDate>Fri, 05 Apr 2024 20:11:00 GMT</pubDate>
         <description>Dziennik MARCA przy współpracy z Football Benchmark przeanalizował finanse ośmiu ćwierćfinalistów Ligi Mistrzów. Gazeta stwierdza, że starcia nie mogły być bardziej wyrównane.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Skupiamy się na Baskonii i nie myślimy o Klasyku</title>
-        <link>https://www.realmadryt.pl/news/128560-mateo-skupiamy-sie-na-baskonii-i-nie-myslimy-o-klasyku</link>
-        <pubDate>Fri, 05 Apr 2024 19:20:00 GMT</pubDate>
-        <description>Chus Mateo wypowiadał się przed spotkaniem z Baskonią w Eurolidze. Powiedział, że mimo pewnego miejsca w tabeli, drużyna skupia się tylko na tym meczu, nie myśląc o starciu z Barceloną w niedzielę.</description>
     </item>
     
 </channel>
