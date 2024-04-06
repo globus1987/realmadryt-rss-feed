@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 16:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 16:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Real ma bardzo szybkich piłkarzy</title>
+        <link>https://www.realmadryt.pl/news/128599-guardiola-real-ma-bardzo-szybkich-pilkarzy</link>
+        <pubDate>Sat, 06 Apr 2024 18:53:00 GMT</pubDate>
+        <description>Pep wziął udział w kolejnej konferencji prasowej i tym razem odpowiadał na pytania dziennikarzy po wygranym spotkaniu z Crystal Palace.</description>
+    </item>
     
     <item>
         <title>Lyon zainteresowany Lindą Caicedo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128563-liga-mistrzow-to-rozgrywki-realu-madryt</link>
         <pubDate>Sat, 06 Apr 2024 12:33:00 GMT</pubDate>
         <description>Francisco González Pérez, a przez hiszpańskich kibiców znany po prostu jako Fran, to żywa legenda Deportivo La Coruña. Po zakończeniu piłkarskiej kariery w latach 2017-2019 miał okazję pracować w szkółce Manchesteru City. Teraz przed zbliżającym się starciem Anglików z Realem Madryt udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Wspólne interesy Bayeru i Realu</title>
-        <link>https://www.realmadryt.pl/news/128580-wspolne-interesy-bayeru-i-realu</link>
-        <pubDate>Sat, 06 Apr 2024 11:42:00 GMT</pubDate>
-        <description>Xabi Alonso znajduje się na radarze Realu Madryt i nie przeszkadza w tym fakt, że były pomocnik ogłosił pozostanie na dłużej w Leverkusen. Tak naprawdę decyzja ta sprawia, że jego kandydatura w przyszłości jedynie nabierze na sile. Królewskich i Bayer łączą jednak nie tylko kwestie związane z trenerem rewelacji Bundesligi.</description>
     </item>
     
 </channel>
