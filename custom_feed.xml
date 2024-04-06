@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 11:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 12:30:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/128595-dzisiejszy-trening</link>
+        <pubDate>Sat, 06 Apr 2024 14:11:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
+    </item>
     
     <item>
         <title>Manchester City vs Crystal Palace: Kolejny odcinek walki o tytuł</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128586-courtois-pod-koniec-miesiaca-wracam-do-treningow</link>
         <pubDate>Sat, 06 Apr 2024 07:25:00 GMT</pubDate>
         <description>W piątkowe popołudnie Thibaut Courtois był gościem na Twitchu hiszpańskiego streamera DjMaRiio, z którym rozegrał partyjkę w FC 24 i przy okazji podzielił się swoimi odczuciami z rehabilitacji oraz zbliżającego się meczu z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Zaliczona próba przetrwania</title>
-        <link>https://www.realmadryt.pl/news/128556-zaliczona-proba-przetrwania</link>
-        <pubDate>Sat, 06 Apr 2024 05:30:00 GMT</pubDate>
-        <description>Zerwanie więzadeł przez Davida Alabę rozpoczęło debatę w sprawie pozyskania stopera. Austriak wypadł z gry 17 grudnia, a w obliczu wcześniejszego poważnego urazu Militão jedynymi dostępnymi nominalnymi stoperami pozostali Rüdiger i Nacho. Ancelotti poprosił działaczy o ściągnięcie posiłków w postaci doświadczonego weterana lub czołowego młodego gracza. Klub jednak się do tej prośby nie przychylił.</description>
     </item>
     
 </channel>
