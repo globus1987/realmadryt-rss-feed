@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 14:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 15:17:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzień, w którym Morientes zniszczył Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/128588-dzien-w-ktorym-morientes-zniszczyl-real-madryt</link>
+        <pubDate>Sat, 06 Apr 2024 17:11:00 GMT</pubDate>
+        <description>Dzisiaj mija 20 lat od słynnego rewanżowano starcia Realu Madryt z AS Monaco w ćwierćfinale Ligi Mistrzów. Los Galácticos przegrali wtedy 1:3 i odpadli z rozgrywek, a jednym z katów Królewskich okazał się… Fernando Morientes. W tamtym sezonie napastnik przebywał na wypożyczeniu w monakijskim klubie.</description>
+    </item>
     
     <item>
         <title>„Dlaczego nie strzelam tyle, co w Realu? Bo Al-Ittihad to inna drużyna”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128589-hezonja-to-jest-wstyd-co-zrobilismy</link>
         <pubDate>Sat, 06 Apr 2024 10:51:00 GMT</pubDate>
         <description>Mario Hezonja nie krył zdenerwowania po przegranym meczu z Baskonią. Powiedział, że niezależnie od sytuacji w tabeli, drużyna musi walczyć o zwycięstwo.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 6 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/128569-kartka-z-kalendarza-6-kwietnia</link>
-        <pubDate>Sat, 06 Apr 2024 10:00:00 GMT</pubDate>
-        <description>Śmierć byłego trenera Realu Madryt, Barcelony i Atlético, porażki w Lidze Mistrzów, mecz Pucharu Europy prowadzony przez Polaka i szósty Puchar Europy koszykarzy. Co działo się 6 kwietnia?</description>
     </item>
     
 </channel>
