@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 10:18:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 10:38:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Liga Mistrzów to rozgrywki Realu Madryt”</title>
+        <link>https://www.realmadryt.pl/news/128563-liga-mistrzow-to-rozgrywki-realu-madryt</link>
+        <pubDate>Sat, 06 Apr 2024 12:33:00 GMT</pubDate>
+        <description>Francisco González Pérez, a przez hiszpańskich kibiców znany po prostu jako Fran, to żywa legenda Deportivo La Coruña. Po zakończeniu piłkarskiej kariery w latach 2017-2019 miał okazję pracować w szkółce Manchesteru City. Teraz przed zbliżającym się starciem Anglików z Realem Madryt udzielił wywiadu dziennikowi AS.</description>
+    </item>
     
     <item>
         <title>Wspólne interesy Bayeru i Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128583-porazka-bez-konsekwencji</link>
         <pubDate>Fri, 05 Apr 2024 23:15:00 GMT</pubDate>
         <description>Real Madryt przegrał z Baskonią w 33. kolejce sezonu zasadniczego Euroligi. Królewscy dali się zaskoczyć świetną grą Howarda i Costello.</description>
-    </item>
-    
-    <item>
-        <title>„Wszyscy pasują do 3-4-3”</title>
-        <link>https://www.realmadryt.pl/news/128576-wszyscy-pasuja-do-3-4-3</link>
-        <pubDate>Fri, 05 Apr 2024 21:02:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat kształtu kadry Realu Madryt w sezonie 2024/25. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
