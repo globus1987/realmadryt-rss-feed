@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 05:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 06:22:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rasistowski wstyd w hiszpańskim futbolu</title>
+        <link>https://www.realmadryt.pl/news/128582-rasistowski-wstyd-w-hiszpanskim-futbolu</link>
+        <pubDate>Sat, 06 Apr 2024 08:18:00 GMT</pubDate>
+        <description>Władze sportowe muszą nałożyć surowe sankcje na kluby, których kibice nie przestają obrażać zawodników, sugeruje El País.</description>
+    </item>
     
     <item>
         <title>Courtois: Pod koniec miesiąca wracam do treningów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128578-couto-zainteresowanie-realu-tak-nie-zamierzam-klamac</link>
         <pubDate>Fri, 05 Apr 2024 17:38:00 GMT</pubDate>
         <description>Brazylijski obrońca udzielił szczerej odpowiedzi na jedno z pytań, które zadano mu podczas wywiadu w Catalunya Radio.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Ederson może jutro zagrać, Walker i Aké nie</title>
-        <link>https://www.realmadryt.pl/news/128577-guardiola-ederson-moze-jutro-zagrac-walker-i-ake-nie</link>
-        <pubDate>Fri, 05 Apr 2024 16:47:00 GMT</pubDate>
-        <description>Trener Manchesteu City wziął udział w konferencji prasowej przed jutrzejszym spotkaniem z Crystal Palace.</description>
     </item>
     
 </channel>
