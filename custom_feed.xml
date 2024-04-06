@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Apr 2024 22:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 23:17:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Athletic z Pucharem Króla!</title>
+        <link>https://www.realmadryt.pl/news/128606-athletic-z-pucharem-krola</link>
+        <pubDate>Sun, 07 Apr 2024 00:54:00 GMT</pubDate>
+        <description>Athletic po 40 latach znów triumfatorem Copa del Rey. Klub z Bilbao po serii jedenastek wygrał finał z rywalem z Balearów.</description>
+    </item>
     
     <item>
         <title>Relevo: Transfer Yoro tylko pod pewnymi warunkami</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128591-mateo-zabraklo-nam-koncentracji</link>
         <pubDate>Sat, 06 Apr 2024 15:02:00 GMT</pubDate>
         <description>Chus Mateo podsumował przegrane spotkanie z Baskonią i odniósł się do decyzji Rudy’ego o zakończeniu kariery.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/128595-dzisiejszy-trening</link>
-        <pubDate>Sat, 06 Apr 2024 14:11:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
     </item>
     
 </channel>
