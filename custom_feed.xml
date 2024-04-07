@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Apr 2024 11:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 12:30:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/128610-dzisiejszy-trening</link>
+        <pubDate>Sun, 07 Apr 2024 14:00:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
+    </item>
     
     <item>
         <title>Czy najbardziej wzorowym klubem świata jest… Real Madryt?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128607-dzisiejsze-okladki</link>
         <pubDate>Sun, 07 Apr 2024 02:15:00 GMT</pubDate>
         <description>Finał Pucharu Króla to najważniejsza kwestia poruszana na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Athletic z Pucharem Króla!</title>
-        <link>https://www.realmadryt.pl/news/128606-athletic-z-pucharem-krola</link>
-        <pubDate>Sun, 07 Apr 2024 00:54:00 GMT</pubDate>
-        <description>Athletic po 40 latach znów triumfatorem Copa del Rey. Klub z Bilbao po serii jedenastek wygrał finał z rywalem z Balearów.</description>
     </item>
     
 </channel>
