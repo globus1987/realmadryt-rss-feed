@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Apr 2024 06:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 07:15:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wicelider przyjeżdża na Di Stéfano</title>
+        <link>https://www.realmadryt.pl/news/128601-wicelider-przyjezdza-na-di-stefano</link>
+        <pubDate>Sun, 07 Apr 2024 09:15:00 GMT</pubDate>
+        <description>W 31. kolejce Primera Federación Castilla zagra z Córdobą. Rywale zajmują obecnie drugie miejsce w lidze i mają za sobą dwanaście meczów bez porażki.</description>
+    </item>
     
     <item>
         <title>„Rambo” ze szkółki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128599-guardiola-real-ma-bardzo-szybkich-pilkarzy</link>
         <pubDate>Sat, 06 Apr 2024 18:53:00 GMT</pubDate>
         <description>Pep wziął udział w kolejnej konferencji prasowej i tym razem odpowiadał na pytania dziennikarzy po wygranym spotkaniu z Crystal Palace.</description>
-    </item>
-    
-    <item>
-        <title>Lyon zainteresowany Lindą Caicedo</title>
-        <link>https://www.realmadryt.pl/news/128584-lyon-zainteresowany-linda-caicedo</link>
-        <pubDate>Sat, 06 Apr 2024 18:02:00 GMT</pubDate>
-        <description>Linda Caicedo gra w Realu Madryt od nieco ponad roku, jednak już pytają o nią najsilniejsze kluby Europy. Ostatnim z nich ma być Olympique Lyon, najbardziej utytułowana ekipa ligi francuskiej.</description>
     </item>
     
 </channel>
