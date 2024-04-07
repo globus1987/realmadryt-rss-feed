@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Apr 2024 09:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 10:17:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Szósty Klasyk w sezonie</title>
+        <link>https://www.realmadryt.pl/news/128605-szosty-klasyk-w-sezonie</link>
+        <pubDate>Sun, 07 Apr 2024 12:04:00 GMT</pubDate>
+        <description>W 28. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Barceloną. To będzie już szósty pojedynek obu drużyn w tym sezonie.</description>
+    </item>
     
     <item>
         <title>François Letexier na pierwszy mecz z City</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128596-relevo-transfer-yoro-tylko-pod-pewnymi-warunkami</link>
         <pubDate>Sat, 06 Apr 2024 21:26:00 GMT</pubDate>
         <description>18-letni Francuz od początku tego sezonu cieszy się zainteresowaniem najlepszych klubów w Europie, ale chciałby trafić do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Gvardiol zakończył mecz z Crystal Palace z problemami fizycznymi</title>
-        <link>https://www.realmadryt.pl/news/128600-gvardiol-zakonczyl-mecz-z-crystal-palace-z-problemami-fizycznymi</link>
-        <pubDate>Sat, 06 Apr 2024 20:35:00 GMT</pubDate>
-        <description>Występ chorwackiego obrońcy w spotkaniu z Realem Madryt stanął pod znakiem zapytania. Dzisiaj Gvardiol został zmieniony już w przerwie meczu.</description>
     </item>
     
 </channel>
