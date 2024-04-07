@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Apr 2024 18:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 18:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarze tracą pozycję lidera w lidze</title>
+        <link>https://www.realmadryt.pl/news/128616-koszykarze-traca-pozycje-lidera-w-lidze</link>
+        <pubDate>Sun, 07 Apr 2024 20:53:00 GMT</pubDate>
+        <description>W 28. kolejce Ligi Endesa Real Madryt przegrał na wyjeździe z Barceloną i spadł na drugie miejsce w tabeli. Królewscy zawalili początek meczu i nie byli w stanie odwrócić losów rywalizacji.</description>
+    </item>
     
     <item>
         <title>Porażka Castilli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128605-szosty-klasyk-w-sezonie</link>
         <pubDate>Sun, 07 Apr 2024 12:04:00 GMT</pubDate>
         <description>W 28. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Barceloną. To będzie już szósty pojedynek obu drużyn w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>François Letexier na pierwszy mecz z City</title>
-        <link>https://www.realmadryt.pl/news/128608-francois-letexier-na-pierwszy-mecz-z-city</link>
-        <pubDate>Sun, 07 Apr 2024 11:07:00 GMT</pubDate>
-        <description>UEFA zdecydowała, że mecz między Realem Madryt a Manchesterem City poprowadzi 34-letni François Letexier. Będzie to dla niego trzecie spotkanie z udziałem Królewskich.</description>
     </item>
     
 </channel>
