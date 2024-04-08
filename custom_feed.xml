@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Apr 2024 10:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 10:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>City trenuje bez trzech piłkarzy</title>
+        <link>https://www.realmadryt.pl/news/128634-city-trenuje-bez-trzech-pilkarzy</link>
+        <pubDate>Mon, 08 Apr 2024 12:51:00 GMT</pubDate>
+        <description>Obywatele po raz kolejny nie skorzystali z opcji treningu na stadionie rywala i ostatnie zajęcia przed wyjazdowym spotkaniem w Lidze Mistrzów odbyli w swoim ośrodku.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 8 kwietnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128623-dzisiejsze-okladki</link>
         <pubDate>Mon, 08 Apr 2024 00:53:00 GMT</pubDate>
         <description>Ćwierćfinały Ligi Mistrzów i wygrana koszykarzy Barcelony z Realem to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze tracą pozycję lidera w lidze</title>
-        <link>https://www.realmadryt.pl/news/128616-koszykarze-traca-pozycje-lidera-w-lidze</link>
-        <pubDate>Sun, 07 Apr 2024 20:53:00 GMT</pubDate>
-        <description>W 28. kolejce Ligi Endesa Real Madryt przegrał na wyjeździe z Barceloną i spadł na drugie miejsce w tabeli. Królewscy zawalili początek meczu i nie byli w stanie odwrócić losów rywalizacji.</description>
     </item>
     
 </channel>
