@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Apr 2024 17:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 17:38:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystko się kręci wokół Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/128643-wszystko-sie-kreci-wokol-tchouameniego</link>
+        <pubDate>Mon, 08 Apr 2024 19:37:00 GMT</pubDate>
+        <description>Wciąż nie wiadomo, czy Aurélien Tchouaméni zagra z Manchesterem City na pozycji pivota czy stopera. Decyzja dotycząca Francuza mocno warunkuje to, co się stanie z Nacho i Eduardo Camavingą.</description>
+    </item>
     
     <item>
         <title>Na najtrudniejszej drodze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128631-ancelotti-nie-pomylisz-sie-z-wytypowaniem-jedenastki-spokojnie</link>
         <pubDate>Mon, 08 Apr 2024 13:16:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej przed pierwszym ćwierćfinałem Ligi Mistrzów z Manchesterem City. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis tradycyjnie pojawi się na portalu w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Dwóch piłkarzy nie trenowało z drużyną</title>
-        <link>https://www.realmadryt.pl/news/128633-dwoch-pilkarzy-nie-trenowalo-z-druzyna</link>
-        <pubDate>Mon, 08 Apr 2024 12:54:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało dwóch zawodników.</description>
     </item>
     
 </channel>
