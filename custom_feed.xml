@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Apr 2024 19:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 19:53:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick wypada z gry</title>
+        <link>https://www.realmadryt.pl/news/128647-endrick-wypada-z-gry</link>
+        <pubDate>Mon, 08 Apr 2024 21:46:00 GMT</pubDate>
+        <description>Napastnik zmagał się w ostatnich tygodniach z urazem, który teraz musi w końcu zaleczyć po zdobyciu pierwszego trofeum w brazylijskim sezonie.</description>
+    </item>
     
     <item>
         <title>Guardiola: Myślę, że jesteśmy na dosyć podobnym poziomie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128637-ruediger-rok-temu-trudno-bylo-mi-zaakceptowac-decyzje-ancelottiego</link>
         <pubDate>Mon, 08 Apr 2024 15:15:00 GMT</pubDate>
         <description>Antonio Rüdiger pojawił się na konferencji prasowej przed pierwszym ćwierćfinałem Ligi Mistrzów z Manchesterem City. Przedstawiamy zapis tego spotkania obrońcy Realu Madryt z dziennikarzami w Valdebebas. Niemiec odpowiadał na pytania po angielsku, ale nie potrzebował tłumaczenia pytań po hiszpańsku.</description>
-    </item>
-    
-    <item>
-        <title>300 zł za gola Realu… lub City!</title>
-        <link>https://www.realmadryt.pl/news/128635-300-zl-za-gola-realu-lub-city</link>
-        <pubDate>Mon, 08 Apr 2024 14:24:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
