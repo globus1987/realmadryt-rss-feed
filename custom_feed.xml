@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Apr 2024 21:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 22:20:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128653-dzisiejsze-okladki</link>
+        <pubDate>Tue, 09 Apr 2024 00:09:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Manchesterem City to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed City [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128622-mateo-pozwolilismy-barcelonie-na-zbyt-wiele-latwych-rzutow</link>
         <pubDate>Mon, 08 Apr 2024 16:57:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko przegrane spotkanie z Barceloną. Przyznał, że początek rywalizacji był bardzo słaby w wykonaniu jego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Prawie trafiłem do Liverpoolu</title>
-        <link>https://www.realmadryt.pl/news/128640-rodrygo-prawie-trafilem-do-liverpoolu</link>
-        <pubDate>Mon, 08 Apr 2024 16:06:00 GMT</pubDate>
-        <description>Brazylijczyk udzielił wywiadu angielskiemu dziennikowi The Guardian przed jutrzejszym spotkaniem z Manchesterem City.</description>
     </item>
     
 </channel>
