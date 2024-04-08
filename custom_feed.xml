@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Apr 2024 05:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 05:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger: Tutaj liczą się tylko zwycięstwa</title>
+        <link>https://www.realmadryt.pl/news/128621-ruediger-tutaj-licza-sie-tylko-zwyciestwa</link>
+        <pubDate>Mon, 08 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Anotnio Rüdiger udzielił wywiadu dla oficjalnych mediów UEFA przed wtorkowym meczem Ligi Mistrzów z Manchesterem City. Przedstawiamy wypowiedzi niemieckiego stopera Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Czy we wtorek na Bernabéu wszyscy będą ubrani na biało?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128604-mateo-klasyk-jest-trudnym-skomplikowanym-i-wyjatkowym-meczem</link>
         <pubDate>Sun, 07 Apr 2024 14:59:00 GMT</pubDate>
         <description>Chus Mateo wypowiadał się dla klubowych mediów na temat ligowego Klasyku. Mówił o tym, że to wyjątkowe spotkanie i że zbliża się najważniejszy moment sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/128610-dzisiejszy-trening</link>
-        <pubDate>Sun, 07 Apr 2024 14:00:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Manchestetem City. Razem z drużyną nie trenowało kilku zawodników.</description>
     </item>
     
 </channel>
