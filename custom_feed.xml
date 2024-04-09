@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Apr 2024 04:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 04:38:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 złotych za gola kogokolwiek w Lidze Mistrzów!</title>
+        <link>https://www.realmadryt.pl/news/128656-200-zlotych-za-gola-kogokolwiek-w-lidze-mistrzow</link>
+        <pubDate>Tue, 09 Apr 2024 06:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Rok temu zagraliśmy bez odwagi i osobowości</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128643-wszystko-sie-kreci-wokol-tchouameniego</link>
         <pubDate>Mon, 08 Apr 2024 19:37:00 GMT</pubDate>
         <description>Wciąż nie wiadomo, czy Aurélien Tchouaméni zagra z Manchesterem City na pozycji pivota czy stopera. Decyzja dotycząca Francuza mocno warunkuje to, co się stanie z Nacho i Eduardo Camavingą.</description>
-    </item>
-    
-    <item>
-        <title>Na najtrudniejszej drodze</title>
-        <link>https://www.realmadryt.pl/news/128620-na-najtrudniejszej-drodze</link>
-        <pubDate>Mon, 08 Apr 2024 18:46:00 GMT</pubDate>
-        <description>Część drabinki finałowej Ligi Mistrzów, po której znajduje się Real Madryt, gromadzi łącznie 21 Pucharów Europy oraz cztery z pięciu najbardziej wartościowych drużyn na świecie. Dla porównania – druga strona tejże drabinki wyceniana jest niżej o 1,618 miliardów euro i wydała o wiele mniej na transfery.</description>
     </item>
     
 </channel>
