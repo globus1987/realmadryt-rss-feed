@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Apr 2024 21:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 21:38:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Musimy być zadowoleni</title>
+        <link>https://www.realmadryt.pl/news/128673-ancelotti-musimy-byc-zadowoleni</link>
+        <pubDate>Tue, 09 Apr 2024 23:29:00 GMT</pubDate>
+        <description>Carlo Ancelotti po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy zapis tej rozmowy trenera Realu Madryt z dziennikarzem na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Foden MVP</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128665-rodrygo-moze-zagrac-na-lewym-boku</link>
         <pubDate>Tue, 09 Apr 2024 18:31:00 GMT</pubDate>
         <description>Relevo podaje, że w tym tygodniu Carlo Ancelotti testował system z Rodrygo na lewym boku i pozostawienie w ataku Jude'a Bellinghama i Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>Bez graczy Realu wśród najszybszych w tej edycji Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/128644-bez-graczy-realu-wsrod-najszybszych-w-tej-edycji-ligi-mistrzow</link>
-        <pubDate>Tue, 09 Apr 2024 18:15:00 GMT</pubDate>
-        <description>Media obiegła statystyka najszybszych piłkarzy tej edycji Ligi Mistrzów. W czołowej 30 znalazł się tylko jeden zawodnik Realu Madryt. Na podstawie tych statystyk przedstawiamy zestawienie najszybszych graczy Królewskich i Manchesteru City.</description>
     </item>
     
 </channel>
