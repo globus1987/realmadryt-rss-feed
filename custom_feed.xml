@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Apr 2024 08:38:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 08:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tak musi być</title>
+        <link>https://www.realmadryt.pl/news/128593-tak-musi-byc</link>
+        <pubDate>Tue, 09 Apr 2024 10:45:00 GMT</pubDate>
+        <description>A co to za różnica?</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 9 kwietnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128653-dzisiejsze-okladki</link>
         <pubDate>Tue, 09 Apr 2024 00:09:00 GMT</pubDate>
         <description>Mecz Realu Madryt z Manchesterem City to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed City [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/128649-ostatni-trening-przed-city-video</link>
-        <pubDate>Mon, 08 Apr 2024 22:11:00 GMT</pubDate>
-        <description>Królewscy w poniedziałek zakończyli boiskowe przygotowania do pierwszego ćwierćfinału Ligi Mistrzów przeciwko Manchesterowi City. Klub opublikował kulisy tych zajęć w filmiku na YouTubie.</description>
     </item>
     
 </channel>
