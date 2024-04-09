@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Apr 2024 19:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 19:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 2:1</title>
+        <link>https://www.realmadryt.pl/news/128668-do-przerwy-2-1</link>
+        <pubDate>Tue, 09 Apr 2024 21:49:00 GMT</pubDate>
+        <description>W pierwszym meczu ćwierćfinałowym Ligi Mistrzów Real Madryt prowadzi z Manchesterem City 2:1. Gole dla Królewskich padły po uderzeniach Eduardo Camavingi i Rodrygo.</description>
+    </item>
     
     <item>
         <title>Ancelotti: O postawieniu na Tchouaméniego zdecydowały małe szczegóły</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128663-krolewscy-przyjeli-city-na-przedmeczowym-obiedzie</link>
         <pubDate>Tue, 09 Apr 2024 16:24:00 GMT</pubDate>
         <description>Po południu działacze Realu Madryt ugościli gości z Manchesteru City na tradycyjnym przedmeczowym obiedzie.</description>
-    </item>
-    
-    <item>
-        <title>Mecz warty 1,6 miliarda euro</title>
-        <link>https://www.realmadryt.pl/news/128617-mecz-warty-1-6-miliarda-euro</link>
-        <pubDate>Tue, 09 Apr 2024 16:00:00 GMT</pubDate>
-        <description>Wyjściowa jedenastka Realu na wtorkowy mecz najprawdopodobniej będzie warta 709 milionów euro, a Manchesteru City aż 900 milionów.</description>
     </item>
     
 </channel>
