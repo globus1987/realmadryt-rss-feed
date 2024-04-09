@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Apr 2024 22:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 22:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Stadion jest imponujący, ale muszą zadbać o murawę</title>
+        <link>https://www.realmadryt.pl/news/128677-guardiola-stadion-jest-imponujacy-ale-musza-zadbac-o-murawe</link>
+        <pubDate>Wed, 10 Apr 2024 00:50:00 GMT</pubDate>
+        <description>Trener Manchesteru City, Pep Guardiola, po zremisowanym meczu z Realem Madryt udzielił wypowiedzi dla Movistar+. Poniżej przedstawiamy ich zapis.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128678-dzisiejsze-okladki</link>
+        <pubDate>Wed, 10 Apr 2024 00:49:00 GMT</pubDate>
+        <description>Remis Realu Madryt z Manchesterem City to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Musimy być zadowoleni</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128666-przywitanie-autokaru-pod-bernabeu-video</link>
         <pubDate>Tue, 09 Apr 2024 19:17:00 GMT</pubDate>
         <description>Królewscy opuścili ośrodek w Valdebebas i kierują się na stadion. Przedstawiamy odpowiednie transmisje do obejrzenia przywitania graczy pod Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Manchester City: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/128664-real-madryt-manchester-city-znamy-sklady</link>
-        <pubDate>Tue, 09 Apr 2024 19:06:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City. Mecz rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo może zagrać na lewym boku?</title>
-        <link>https://www.realmadryt.pl/news/128665-rodrygo-moze-zagrac-na-lewym-boku</link>
-        <pubDate>Tue, 09 Apr 2024 18:31:00 GMT</pubDate>
-        <description>Relevo podaje, że w tym tygodniu Carlo Ancelotti testował system z Rodrygo na lewym boku i pozostawienie w ataku Jude'a Bellinghama i Viníciusa.</description>
     </item>
     
 </channel>
