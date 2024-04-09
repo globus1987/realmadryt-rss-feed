@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Apr 2024 15:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 15:38:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham wie, jak strzelać City</title>
+        <link>https://www.realmadryt.pl/news/128652-bellingham-wie-jak-strzelac-city</link>
+        <pubDate>Tue, 09 Apr 2024 17:30:00 GMT</pubDate>
+        <description>W czterech meczach przeciwko Machesterowi City Jude Bellingham zdobył dwie bramki. Ani razu jednak nie potrafił wygrać z drużyną Pepa Guardioli.</description>
+    </item>
     
     <item>
         <title>Rüdiger: Trochę chcemy rewanżu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128612-autokrytyka-nacho</link>
         <pubDate>Tue, 09 Apr 2024 13:45:00 GMT</pubDate>
         <description>Carlo Ancelotti ma wątpliwość dużej wagi. Włoch wciąż bowiem nie zdecydował, kto będzie towarzyszył w środku obrony Antonio Rüdigerowi w konfrontacji z Manchesterem City. We wtorek poznamy odpowiedź na pytanie, czy trener stracił zaufanie wobec kapitana.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Nigdy nie powiedziałem piłkarzom, by wymusili czyjąś kartkę</title>
-        <link>https://www.realmadryt.pl/news/128651-guardiola-nigdy-nie-powiedzialem-pilkarzom-by-wymusili-czyjas-kartke</link>
-        <pubDate>Tue, 09 Apr 2024 13:00:00 GMT</pubDate>
-        <description>Pep Guardiola po poniedziałkowej konferencji na Santiago Bernabéu udzielił także wywiadu telewizji Movistar+, która jest oficjalnym nadawcą Ligi Mistrzów w Hiszpanii. Przedstawiamy opublikowane wypowiedzi trenera Manchesteru City z tej rozmowy.</description>
     </item>
     
 </channel>
