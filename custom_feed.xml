@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 09:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 09:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dobra taktyka nie pomogła uniknąć rozczarowania</title>
+        <link>https://www.realmadryt.pl/news/128685-dobra-taktyka-nie-pomogla-uniknac-rozczarowania</link>
+        <pubDate>Wed, 10 Apr 2024 11:40:00 GMT</pubDate>
+        <description>Królewscy rozegrali świetny mecz na nowym Santiago Bernabéu, ale tylko zremisowali z Manchesterem City. W klubie panuje niezadowolenie z osiągniętego rezultatu.</description>
+    </item>
     
     <item>
         <title>Camavinga: Trener i tata zawsze mówią, bym częściej uderzał</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128673-ancelotti-musimy-byc-zadowoleni</link>
         <pubDate>Tue, 09 Apr 2024 23:29:00 GMT</pubDate>
         <description>Carlo Ancelotti po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy zapis tej rozmowy trenera Realu Madryt z dziennikarzem na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Foden MVP</title>
-        <link>https://www.realmadryt.pl/news/128670-foden-mvp</link>
-        <pubDate>Tue, 09 Apr 2024 23:11:00 GMT</pubDate>
-        <description>Phil Foden otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Manchesterem City (3:3). Reprezentant Anglii strzelił drugiego gola dla Obywateli w tym spotkaniu.</description>
     </item>
     
 </channel>
