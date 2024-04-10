@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 10:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 10:39:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z City</title>
+        <link>https://www.realmadryt.pl/news/128688-oceny-zawodnikow-po-meczu-z-city</link>
+        <pubDate>Wed, 10 Apr 2024 12:31:00 GMT</pubDate>
+        <description>Real Madryt zremisował u siebie z Manchesterem City 3:3. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Dobra taktyka nie pomogła uniknąć rozczarowania</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128678-dzisiejsze-okladki</link>
         <pubDate>Wed, 10 Apr 2024 00:49:00 GMT</pubDate>
         <description>Remis Realu Madryt z Manchesterem City to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Musimy być zadowoleni</title>
-        <link>https://www.realmadryt.pl/news/128673-ancelotti-musimy-byc-zadowoleni</link>
-        <pubDate>Tue, 09 Apr 2024 23:29:00 GMT</pubDate>
-        <description>Carlo Ancelotti po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy zapis tej rozmowy trenera Realu Madryt z dziennikarzem na Santiago Bernabéu.</description>
     </item>
     
 </channel>
