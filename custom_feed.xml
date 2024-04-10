@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 15:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 16:24:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Jesteś z Anglii, nie wiesz, co to znaczy grać na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/128696-guardiola-jestes-z-anglii-nie-wiesz-co-to-znaczy-grac-na-bernabeu</link>
+        <pubDate>Wed, 10 Apr 2024 18:03:00 GMT</pubDate>
+        <description>Pep Guardiola pojawił się na konferencji prasowej po pierwszym ćwierćfinale Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis tego spotkania trenera Manchesteru City z dziennikarzami na Santiago Bernabéu. Pierwsze pytania zadawali dziennikarze z Anglii.</description>
+    </item>
     
     <item>
         <title>Cień Haalanda</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128685-dobra-taktyka-nie-pomogla-uniknac-rozczarowania</link>
         <pubDate>Wed, 10 Apr 2024 11:40:00 GMT</pubDate>
         <description>Królewscy rozegrali świetny mecz na nowym Santiago Bernabéu, ale tylko zremisowali z Manchesterem City. W klubie panuje niezadowolenie z osiągniętego rezultatu.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga: Trener i tata zawsze mówią, bym częściej uderzał</title>
-        <link>https://www.realmadryt.pl/news/128682-camavinga-trener-i-tata-zawsze-mowia-bym-czesciej-uderzal</link>
-        <pubDate>Wed, 10 Apr 2024 10:49:00 GMT</pubDate>
-        <description>Eduardo Camavinga po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi gracza Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
