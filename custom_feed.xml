@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 14:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 15:19:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cień Haalanda</title>
+        <link>https://www.realmadryt.pl/news/128694-cien-haalanda</link>
+        <pubDate>Wed, 10 Apr 2024 17:12:00 GMT</pubDate>
+        <description>Erling Haaland znów przeszedł niezauważony w meczu na Santiago Bernabéu. Po raz kolejny wielka w tym zasługa Antonio Rüdigera. Norweg w tym sezonie zaliczył już wiele bezbarwnych występów, a wtorkowy jest kolejnym do kolekcji.</description>
+    </item>
     
     <item>
         <title>Valverde: Nasz poziom pewności przed rewanżem? Ogromny</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128682-camavinga-trener-i-tata-zawsze-mowia-bym-czesciej-uderzal</link>
         <pubDate>Wed, 10 Apr 2024 10:49:00 GMT</pubDate>
         <description>Eduardo Camavinga po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi gracza Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 10 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/128676-kartka-z-kalendarza-10-kwietnia</link>
-        <pubDate>Wed, 10 Apr 2024 09:58:00 GMT</pubDate>
-        <description>Klasyki, pokonanie Bayernu Monachium w drodze po La Novenę, urodziny byłych piłkarzy i słowa Juanito, które powtarzamy do dziś. Co działo się 10 kwietnia?</description>
     </item>
     
 </channel>
