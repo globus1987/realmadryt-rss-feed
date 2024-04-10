@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 05:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 05:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy istnieje problem z murawą na Santiago Bernabéu?</title>
+        <link>https://www.realmadryt.pl/news/128679-czy-istnieje-problem-z-murawa-na-santiago-bernabeu</link>
+        <pubDate>Wed, 10 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Pep Guardiola po meczu poskarżył się na stan murawy Santiago Bernabéu. Co wiemy o tej sprawie?</description>
+    </item>
     
     <item>
         <title>Valverde: Nie odpoczywaliśmy i to był trochę nasz błąd…</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128668-bez-zaliczki-i-bez-straty</link>
         <pubDate>Tue, 09 Apr 2024 21:49:00 GMT</pubDate>
         <description>W pierwszym meczu ćwierćfinałowym Ligi Mistrzów Real Madryt zremisował u siebie z Manchesterem City 3:3. Gole dla Królewskich padły po uderzeniach Eduardo Camavingi, Rodrygo i Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: O postawieniu na Tchouaméniego zdecydowały małe szczegóły</title>
-        <link>https://www.realmadryt.pl/news/128667-ancelotti-o-postawieniu-na-tchouameniego-zdecydowaly-male-szczegoly</link>
-        <pubDate>Tue, 09 Apr 2024 20:20:00 GMT</pubDate>
-        <description>Carlo Ancelotti przed pierwszym meczem 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
