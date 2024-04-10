@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 22:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 22:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128710-dzisiejsze-okladki</link>
+        <pubDate>Thu, 11 Apr 2024 00:51:00 GMT</pubDate>
+        <description>Wygrane Atlético i Barcelony w Lidze Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Atlético i Barcelona z przewagą po środowych meczach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128690-valverde-nasz-poziom-pewnosci-przed-rewanzem-ogromny</link>
         <pubDate>Wed, 10 Apr 2024 16:21:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu dla klubowej telewizji po zremisowanym 3:3 meczu z Manchesterem City w pierwszym ćwierćfinale Ligi Mistrzów. Przedstawiamy zapis wypowiedzi Urugwajczyka</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 34. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/128697-terminarz-34-kolejki-la-ligi</link>
-        <pubDate>Wed, 10 Apr 2024 15:30:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz kolejki, która zostanie rozegrana na początku przyszłego miesiąca. Real Madryt zmierzy się u siebie z Cádizem.</description>
     </item>
     
 </channel>
