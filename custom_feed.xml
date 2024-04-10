@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 19:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 19:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Butragueño: To było święto futbolu dla kibiców</title>
+        <link>https://www.realmadryt.pl/news/128675-butragueno-to-bylo-swieto-futbolu-dla-kibicow</link>
+        <pubDate>Wed, 10 Apr 2024 21:47:00 GMT</pubDate>
+        <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla telewizji Movistar+ po zremisowanym 3:3 meczu z Manchesterem City. Przedstawiamy słowa działacza Królewskich.</description>
+    </item>
     
     <item>
         <title>Relevo: Ramos nie chce zostawać w Sevilli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128684-bernabeu-bylo-biale</link>
         <pubDate>Wed, 10 Apr 2024 15:15:00 GMT</pubDate>
         <description>We wtorkowy wieczór widzieliśmy ogromny odzew fanów Realu, którzy przyszli na stadion w białych koszulkach. Była też mozaika i transparent: „Historia, którą stworzyliście, historia, którą należy stworzyć”.</description>
-    </item>
-    
-    <item>
-        <title>Brahim: To był niesamowity mecz dla fanów i miłośników futbolu</title>
-        <link>https://www.realmadryt.pl/news/128683-brahim-to-byl-niesamowity-mecz-dla-fanow-i-milosnikow-futbolu</link>
-        <pubDate>Wed, 10 Apr 2024 14:30:00 GMT</pubDate>
-        <description>Brahim Díaz udzielił wywiadu dla klubowej telewizji po zremisowanym 3:3 pierwszym ćwierćfinale Ligi Mistrzów z Manchesterem City. Przedstawiamy wypowiedzi Hiszpana.</description>
     </item>
     
 </channel>
