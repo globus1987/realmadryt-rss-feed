@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 13:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 13:38:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 34. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/128697-terminarz-34-kolejki-la-ligi</link>
+        <pubDate>Wed, 10 Apr 2024 15:30:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz kolejki, która zostanie rozegrana na początku przyszłego miesiąca. Real Madryt zmierzy się u siebie z Cádizem.</description>
+    </item>
     
     <item>
         <title>Bernabéu było białe</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128681-ancelotti-dopoki-mielismy-energie-na-pressing-wszystko-szlo-swietnie</link>
         <pubDate>Wed, 10 Apr 2024 09:07:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Foden: Wierzę w to powiedzenie, że czasami strzelasz gola za szybko</title>
-        <link>https://www.realmadryt.pl/news/128680-foden-wierze-w-to-powiedzenie-ze-czasami-strzelasz-gola-za-szybko</link>
-        <pubDate>Wed, 10 Apr 2024 08:16:00 GMT</pubDate>
-        <description>Phil Foden po pierwszym meczu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji TNT Sports Przedstawiamy wypowiedzi gracza Manchesteru City z tej rozmowy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
