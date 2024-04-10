@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Apr 2024 07:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 08:25:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/128676-kartka-z-kalendarza-10-kwietnia</link>
+        <pubDate>Wed, 10 Apr 2024 09:58:00 GMT</pubDate>
+        <description>Dwa Klasyki, pokonanie Bayernu Monachium w drodze po La Novenę, urodziny byłych piłkarzy i słowa Juanito, które powtarzamy do dziś. Co działo się 10 kwietnia?</description>
+    </item>
     
     <item>
         <title>Ancelotti: Dopóki mieliśmy energię na pressing, wszystko szło świetnie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128672-tchouameni-nie-zagra-w-rewanzu-z-city</link>
         <pubDate>Tue, 09 Apr 2024 23:09:00 GMT</pubDate>
         <description>Francuz obejrzał żółtą kartkę, która eliminuje go z rewanżowego spotkania na City of Manchester Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z City</title>
-        <link>https://www.realmadryt.pl/news/128669-ocen-pilkarzy-po-meczu-z-city</link>
-        <pubDate>Tue, 09 Apr 2024 23:06:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
