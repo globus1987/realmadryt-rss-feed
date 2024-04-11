@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 06:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 07:17:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Czasami nie mogę przez to spać”</title>
+        <link>https://www.realmadryt.pl/news/128706-czasami-nie-moge-przez-to-spac</link>
+        <pubDate>Thu, 11 Apr 2024 09:07:00 GMT</pubDate>
+        <description>Brazylijczyk przyznał, że miewa bezsenne noce z powodu odpadnięcia Manchesteru United z walki o tytuły. 32-latek nie przeżywa dobrego okresu po odejściu z Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Niewygodny odpoczynek?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128700-jednolita-jasnosc-na-calej-dlugosci-telebimu-360-stopni-video</link>
         <pubDate>Wed, 10 Apr 2024 19:45:00 GMT</pubDate>
         <description>Telebim 360 stopni działa już w pełni i dookoła całego Santiago Bernabéu. W środę po meczu z Manchesterem City przyszedł czas na testowanie jednolitej jasności na całej jego długości. Obecnie spekuluje się, że rozwiązanie może zadebiutować w Klasyku z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x21: Zadowolenie czy niedosyt?</title>
-        <link>https://www.realmadryt.pl/news/128699-podcast-5x21-zadowolenie-czy-niedosyt</link>
-        <pubDate>Wed, 10 Apr 2024 18:54:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest pierwszemu ćwierćfinałowi Ligi Mistrzów z Manchesterem City. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
