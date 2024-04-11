@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 09:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 09:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Krótkowzroczność</title>
+        <link>https://www.realmadryt.pl/news/128689-krotkowzrocznosc</link>
+        <pubDate>Thu, 11 Apr 2024 11:40:00 GMT</pubDate>
+        <description>Real Madryt rozpoczął dwumecz z City od bardzo szybkiej straty bramki. Później wyszedł na prowadzenie, by ponownie pozwolić wyjść rywalowi osiągnąć przewagę, a na koniec zdołał wyrównać. Choć remis 3:3 pozostawia kwestię awansu otwartą, to jednak wyjątkowo niepokoić może to, w jaki sposób Królewscy dawali się pokonać. W obliczu rewanżu na Etihad martwi także fakt, że w dwóch ostatnich potyczkach na tym terenie drużyna dwukrotnie pozwoliła strzelić sobie cztery gole.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 11 kwietnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128675-butragueno-to-bylo-swieto-futbolu-dla-kibicow</link>
         <pubDate>Wed, 10 Apr 2024 21:47:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla telewizji Movistar+ po zremisowanym 3:3 meczu z Manchesterem City. Przedstawiamy słowa działacza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Ramos nie chce zostawać w Sevilli</title>
-        <link>https://www.realmadryt.pl/news/128686-relevo-ramos-nie-chce-zostawac-w-sevilli</link>
-        <pubDate>Wed, 10 Apr 2024 21:20:00 GMT</pubDate>
-        <description>Przedstawiciel byłego kapitana Realu przed Wielkanocą udał się do Stanów Zjednoczonych.</description>
     </item>
     
 </channel>
