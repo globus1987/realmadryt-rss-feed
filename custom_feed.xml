@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 10:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 10:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zakończenie sezonu zasadniczego Euroligi</title>
+        <link>https://www.realmadryt.pl/news/128708-zakonczenie-sezonu-zasadniczego-euroligi</link>
+        <pubDate>Thu, 11 Apr 2024 12:31:00 GMT</pubDate>
+        <description>W 34. kolejce Euroligi Real Madryt zagra na wyjeździe z Žalgirisem. Królewscy już o nic nie grają, ale będą chcieli przerwać passę porażek i pozytywnym akcentem zakończyć rekordowy pod względem zwycięstw sezon zasadniczy.</description>
+    </item>
     
     <item>
         <title>Krótkowzroczność</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128707-atletico-i-barcelona-z-przewaga-po-srodowych-meczach</link>
         <pubDate>Wed, 10 Apr 2024 22:55:00 GMT</pubDate>
         <description>Środowe mecze 1/4 finału Ligi Mistrzów przyniosły wygrane hiszpańskich klubów. Rewanże już w następnym tygodniu.</description>
-    </item>
-    
-    <item>
-        <title>Butragueño: To było święto futbolu dla kibiców</title>
-        <link>https://www.realmadryt.pl/news/128675-butragueno-to-bylo-swieto-futbolu-dla-kibicow</link>
-        <pubDate>Wed, 10 Apr 2024 21:47:00 GMT</pubDate>
-        <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla telewizji Movistar+ po zremisowanym 3:3 meczu z Manchesterem City. Przedstawiamy słowa działacza Królewskich.</description>
     </item>
     
 </channel>
