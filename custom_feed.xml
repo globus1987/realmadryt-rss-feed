@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 22:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 22:38:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128731-dzisiejsze-okladki</link>
+        <pubDate>Fri, 12 Apr 2024 00:19:00 GMT</pubDate>
+        <description>Świętowanie w Bilbao i radość w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zwycięski rzut Decka na zakończenie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128692-kapitan-bez-opaski</link>
         <pubDate>Thu, 11 Apr 2024 15:55:00 GMT</pubDate>
         <description>Fede Valverde był prawdziwym liderem Królewskich. Choć na jego ramieniu nie widnieje kapitańska opaska, Urugwajczyk włożył całe serce w spotkanie z City, a jego znakomity strzał wprawił stadion w ekstazę.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Czasem trzeba przegrać mecz, żeby później zdobyć tytuł</title>
-        <link>https://www.realmadryt.pl/news/128703-mateo-czasem-trzeba-przegrac-mecz-zeby-pozniej-zdobyc-tytul</link>
-        <pubDate>Thu, 11 Apr 2024 15:04:00 GMT</pubDate>
-        <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Žalgirisem. Mówił między innymi o tym, że powrót do Kowna wiąże się dla niego z pięknymi wspomnieniami.</description>
     </item>
     
 </channel>
