@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 15:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 15:38:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Strzelecki kryzys w Castilii</title>
+        <link>https://www.realmadryt.pl/news/128716-strzelecki-kryzys-w-castilii</link>
+        <pubDate>Thu, 11 Apr 2024 17:37:00 GMT</pubDate>
+        <description>Zespół strzelił dwa gole w ostatnich sześciu meczach i ma o dwanaście mniej trafień niż na tym samym etapie zeszłego sezonu.</description>
+    </item>
     
     <item>
         <title>Bellingham: Luka i Toni widzą na boisku rzeczy, nim one się wydarzą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128698-guardiola-czy-ancelotti-kto-powinien-sie-cieszyc</link>
         <pubDate>Thu, 11 Apr 2024 09:58:00 GMT</pubDate>
         <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje wtorkowe spotkanie między Realem Madryt a Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>„Czasami nie mogę przez to spać”</title>
-        <link>https://www.realmadryt.pl/news/128706-czasami-nie-moge-przez-to-spac</link>
-        <pubDate>Thu, 11 Apr 2024 09:07:00 GMT</pubDate>
-        <description>Brazylijczyk przyznał, że miewa bezsenne noce z powodu odpadnięcia Manchesteru United z walki o tytuły. 32-latek nie przeżywa dobrego okresu po odejściu z Realu Madryt.</description>
     </item>
     
 </channel>
