@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 05:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 05:38:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Najgorsze spotkanie Bellinghama w Realu”</title>
+        <link>https://www.realmadryt.pl/news/128704-najgorsze-spotkanie-bellinghama-w-realu</link>
+        <pubDate>Thu, 11 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Pomocnik nie potrafił przystosować się do roli, jaką powierzył mu Ancelotti. Angielska prasa podkreśla też jego nerwowość wobec sędziego.</description>
+    </item>
     
     <item>
         <title>COPE: Ancelotti chce wystawić Militão w jedenastce na Mallorcę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128696-guardiola-jestes-z-anglii-nie-wiesz-co-to-znaczy-grac-na-bernabeu</link>
         <pubDate>Wed, 10 Apr 2024 18:03:00 GMT</pubDate>
         <description>Pep Guardiola pojawił się na konferencji prasowej po pierwszym ćwierćfinale Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis tego spotkania trenera Manchesteru City z dziennikarzami na Santiago Bernabéu. Pierwsze pytania zadawali dziennikarze z Anglii.</description>
-    </item>
-    
-    <item>
-        <title>Cień Haalanda</title>
-        <link>https://www.realmadryt.pl/news/128694-cien-haalanda</link>
-        <pubDate>Wed, 10 Apr 2024 17:12:00 GMT</pubDate>
-        <description>Erling Haaland znów przeszedł niezauważony w meczu na Santiago Bernabéu. Po raz kolejny wielka w tym zasługa Antonio Rüdigera. Norweg w tym sezonie zaliczył już wiele bezbarwnych występów, a wtorkowy jest kolejnym do kolekcji.</description>
     </item>
     
 </channel>
