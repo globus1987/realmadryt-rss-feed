@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 08:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 08:54:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/128712-kartka-z-kalendarza-11-kwietnia</link>
+        <pubDate>Thu, 11 Apr 2024 10:49:00 GMT</pubDate>
+        <description>Wygrana Juventusu na Santiago Bernabéu, wysokie zwycięstwo w derbach i bolesna porażka z Osasuną. Co działo się 11 kwietnia?</description>
+    </item>
     
     <item>
         <title>Guardiola czy Ancelotti – kto powinien się cieszyć?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128686-relevo-ramos-nie-chce-zostawac-w-sevilli</link>
         <pubDate>Wed, 10 Apr 2024 21:20:00 GMT</pubDate>
         <description>Przedstawiciel byłego kapitana Realu przed Wielkanocą udał się do Stanów Zjednoczonych.</description>
-    </item>
-    
-    <item>
-        <title>PSG gra z Barceloną w ćwiercfinałach Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/128701-psg-gra-z-barcelona-w-cwiercfinalach-ligi-mistrzow</link>
-        <pubDate>Wed, 10 Apr 2024 20:30:00 GMT</pubDate>
-        <description>Królewscy po remisie z Manchesterem City teraz mogą obserwować poczynania innych zespołów w fazie pucharowej Ligi Mistrzów. Dzisiaj zamykamy pierwszą serię spotkań 1/4 finału.</description>
     </item>
     
 </channel>
