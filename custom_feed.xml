@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 20:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 21:16:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięski rzut Decka na zakończenie</title>
+        <link>https://www.realmadryt.pl/news/128728-zwycieski-rzut-decka-na-zakonczenie</link>
+        <pubDate>Thu, 11 Apr 2024 23:13:00 GMT</pubDate>
+        <description>W ostatniej kolejce sezonu zasadniczego Real Madryt pokonał Žalgiris, śrubując rekord zwycięstw. Wygraną Królewskim zapewnił Deck celnym rzutem równo z końcową syreną.</description>
+    </item>
     
     <item>
         <title>Mallorca w komplecie na Real Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128703-mateo-czasem-trzeba-przegrac-mecz-zeby-pozniej-zdobyc-tytul</link>
         <pubDate>Thu, 11 Apr 2024 15:04:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Žalgirisem. Mówił między innymi o tym, że powrót do Kowna wiąże się dla niego z pięknymi wspomnieniami.</description>
-    </item>
-    
-    <item>
-        <title>Kovačić zawiódł na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/128691-kovacic-zawiodl-na-bernabeu</link>
-        <pubDate>Thu, 11 Apr 2024 14:13:00 GMT</pubDate>
-        <description>Mateo Kovačić wrócił we wtorek na Santiago Bernabéu, gdzie jednak wypadł bardzo blado. Wypadnięcie ze składu Kevina de Bruyne w ostatniej chwili otworzyło przed Chorwatem drzwi do wyjściowej jedenastki. Były gracz Realu nie wykorzystał jednak szansy.</description>
     </item>
     
 </channel>
