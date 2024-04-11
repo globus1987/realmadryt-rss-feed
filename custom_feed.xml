@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Apr 2024 11:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 12:33:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kovačić zawiódł na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/128691-kovacic-zawiodl-na-bernabeu</link>
+        <pubDate>Thu, 11 Apr 2024 14:13:00 GMT</pubDate>
+        <description>Mateo Kovačić wrócił we wtorek na Santiago Bernabéu, gdzie jednak wypadł bardzo blado. Wypadnięcie ze składu Kevina de Bruyne w ostatniej chwili otworzyło przed Chorwatem drzwi do wyjściowej jedenastki. Były gracz Realu nie wykorzystał jednak szansy.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128711-cope-ancelotti-chce-wystawic-militao-w-jedenastce-na-mallorce</link>
         <pubDate>Thu, 11 Apr 2024 05:30:00 GMT</pubDate>
         <description>Carlo Ancelotti chce przetestować Édera Militão od pierwszej minuty w starciu z Mallorcą z myślą o rewanżu z City w Manchesterze. Brazylijczyk ostatni raz w jedenastce wyszedł prawie dokładnie 8 miesięcy temu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128710-dzisiejsze-okladki</link>
-        <pubDate>Thu, 11 Apr 2024 00:51:00 GMT</pubDate>
-        <description>Wygrane Atlético i Barcelony w Lidze Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
