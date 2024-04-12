@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Apr 2024 03:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 03:38:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Odzyskać Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/128721-odzyskac-bellinghama</link>
+        <pubDate>Fri, 12 Apr 2024 05:30:00 GMT</pubDate>
+        <description>Anglik we wtorek przeżywał swoją pierwszą wielką europejską noc jako piłkarz Realu Madryt, ale nie zdołał stanąć na wysokości zadania. Nie zmaga się z żadnym problemem fizycznym, jednak panuje w jego sprawie pewien niepokój, a drużyna i Carlo Ancelotti potrzebują najlepszej wersji 20-latka na rewanż z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128717-bellingham-luka-i-toni-widza-na-boisku-rzeczy-nim-one-sie-wydarza</link>
         <pubDate>Thu, 11 Apr 2024 16:46:00 GMT</pubDate>
         <description>Jude Bellingham udzielił wywiadu angielskiemu kanałowi Topps UK. Rozmowa była przeprowadzona przed meczem z Manchesterem City i dotyczyła głównie Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Kapitan bez opaski</title>
-        <link>https://www.realmadryt.pl/news/128692-kapitan-bez-opaski</link>
-        <pubDate>Thu, 11 Apr 2024 15:55:00 GMT</pubDate>
-        <description>Fede Valverde był prawdziwym liderem Królewskich. Choć na jego ramieniu nie widnieje kapitańska opaska, Urugwajczyk włożył całe serce w spotkanie z City, a jego znakomity strzał wprawił stadion w ekstazę.</description>
     </item>
     
 </channel>
