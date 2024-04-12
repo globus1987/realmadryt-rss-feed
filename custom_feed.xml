@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Apr 2024 08:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 08:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 12 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/128732-kartka-z-kalendarza-12-kwietnia</link>
+        <pubDate>Fri, 12 Apr 2024 10:49:00 GMT</pubDate>
+        <description>Urodziny honorowego socio i byłego prawego obrońcy, mistrzostwo Hiszpanii i Puchar Króla sprzed lat, ale też niezwykłe mecze w Lidze Mistrzów. Co działo się 12 kwietnia?</description>
+    </item>
     
     <item>
         <title>Relevo: W sobotę będą zmiany w składzie, ale nie będzie rewolucji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128723-prezes-la-ligi-florentino-ma-za-duze-wplywy-to-nic-dobrego</link>
         <pubDate>Thu, 11 Apr 2024 21:01:00 GMT</pubDate>
         <description>Prezes La Ligi wystąpił na kongresie uczelni ISDE. Przedstawiamy jego najważniejsze wypowiedzi zebrane przez media.</description>
-    </item>
-    
-    <item>
-        <title>„City również nauczyło się powracać z martwych”</title>
-        <link>https://www.realmadryt.pl/news/128687-city-rowniez-nauczylo-sie-powracac-z-martwych</link>
-        <pubDate>Thu, 11 Apr 2024 20:10:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat wtorkowego meczu Realu Madryt z Manchesterem City w ćwierćfinale Ligi Mistrzów. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
