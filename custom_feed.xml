@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Apr 2024 17:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:18:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 31. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/128750-telewizyjny-terminarz-31-kolejki-la-ligi</link>
+        <pubDate>Fri, 12 Apr 2024 20:15:00 GMT</pubDate>
+        <description>Real Madryt w sobotę zagra na wyjeździe z Mallorcą. Tego samego dnia Atlético zagra z Gironą, a Barcelona wybierze się do Kadyksu.</description>
+    </item>
     
     <item>
         <title>Na rewanż z City „wyjściowa” obrona Ancelottiego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128736-postaw-na-wygrana-kogokolwiek-w-hitach-weekendu-i-zgarnij-200-zl</link>
         <pubDate>Fri, 12 Apr 2024 13:40:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Wystawię najlepszy skład</title>
-        <link>https://www.realmadryt.pl/news/128738-ancelotti-wystawie-najlepszy-sklad</link>
-        <pubDate>Fri, 12 Apr 2024 12:56:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed meczem La Ligi z Mallorcą. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis tradycyjnie pojawi się na portalu w dniu meczu.</description>
     </item>
     
 </channel>
