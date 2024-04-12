@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Apr 2024 05:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 05:38:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Posiłki na Etihad</title>
+        <link>https://www.realmadryt.pl/news/128722-posilki-na-etihad</link>
+        <pubDate>Fri, 12 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Manchester City ma odzyskać Kyle'a Walkera i Kevina De Bruyne na rewanżowy mecz Ligi Mistrzów z Realem Madryt. Wszystko wskazuje na to, że Pep Guardiola będzie mógł wystawić na Etihad Stadium swoją najsilniejszą jedenastkę.</description>
+    </item>
     
     <item>
         <title>Odzyskać Bellinghama</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128716-strzelecki-kryzys-w-castilii</link>
         <pubDate>Thu, 11 Apr 2024 17:37:00 GMT</pubDate>
         <description>Zespół strzelił dwa gole w ostatnich sześciu meczach i ma o dwanaście mniej trafień niż na tym samym etapie zeszłego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Luka i Toni widzą na boisku rzeczy, nim one się wydarzą</title>
-        <link>https://www.realmadryt.pl/news/128717-bellingham-luka-i-toni-widza-na-boisku-rzeczy-nim-one-sie-wydarza</link>
-        <pubDate>Thu, 11 Apr 2024 16:46:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu angielskiemu kanałowi Topps UK. Rozmowa była przeprowadzona przed meczem z Manchesterem City i dotyczyła głównie Ligi Mistrzów.</description>
     </item>
     
 </channel>
