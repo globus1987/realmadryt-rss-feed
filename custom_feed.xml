@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 09:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 10:15:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy dotarli na Majorkę</title>
+        <link>https://www.realmadryt.pl/news/128764-krolewscy-dotarli-na-majorke</link>
+        <pubDate>Sat, 13 Apr 2024 12:10:00 GMT</pubDate>
+        <description>Drużyna dotarła na Majorkę po godzinnym locie. Początek spotkania o 18:30.</description>
+    </item>
+    
+    <item>
+        <title>Alarm w La Fábrice</title>
+        <link>https://www.realmadryt.pl/news/128763-alarm-w-la-fabrice</link>
+        <pubDate>Sat, 13 Apr 2024 11:55:00 GMT</pubDate>
+        <description>Niebezpieczna sytuacja Castilli zagraża awansowi trzeciej drużyny. Podopieczni Raúla mają cztery punkty przewagi nad strefą spadkową, ale też trudny kalendarz.</description>
+    </item>
     
     <item>
         <title>Dzisiaj gwiżdże sędzia od korków Maffeo w kolanie Viníciusa</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128758-dzisiejsze-okladki</link>
         <pubDate>Sat, 13 Apr 2024 00:35:00 GMT</pubDate>
         <description>Walka w La Lidze i kolejny skandal w Federacji to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Sánchez Martínez na Mallorcę</title>
-        <link>https://www.realmadryt.pl/news/128751-sanchez-martinez-na-mallorce</link>
-        <pubDate>Fri, 12 Apr 2024 21:55:00 GMT</pubDate>
-        <description>Spotkanie pomiędzy Mallorcą a Realem Madryt na Estadi Mallorca Son Moix poprowadzi arbiter pochodzący z Lorki. Dotychczas sędziował aż 34 spotkania z udziałem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Real „post-Benzema” ma już 101 goli</title>
-        <link>https://www.realmadryt.pl/news/128726-real-post-benzema-ma-juz-101-goli</link>
-        <pubDate>Fri, 12 Apr 2024 21:05:00 GMT</pubDate>
-        <description>Po wtorkowym meczu z Manchesterem City Real Madryt przebił barierę 100 zdobytych bramek w bieżącym sezonie. Ponad połowę z nich (54) zdobyli Bellingham, Vini i Rodrygo.</description>
     </item>
     
 </channel>
