@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 21:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 22:15:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziecko z rasistowskim gestem po bramce Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/128788-dziecko-z-rasistowskim-gestem-po-bramce-tchouameniego</link>
+        <pubDate>Sun, 14 Apr 2024 00:04:00 GMT</pubDate>
+        <description>Movistar+ pokazał, że po golu Auréliena Tchouaméniego na trybunach Son Moix pojawił się gest rasistowski. Telewizja podkreśliła, że osoba była małoletnia i właśnie ona wrzuciła na boisko butelkę, którą widać było w transmisji telewizyjnej.</description>
+    </item>
     
     <item>
         <title>31. kolejka: Barcelona pozostaje 8 punktów za Realem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128774-ocen-pilkarzy-po-meczu-z-mallorca</link>
         <pubDate>Sat, 13 Apr 2024 20:27:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Trzy punkty na ciepło-zimno</title>
-        <link>https://www.realmadryt.pl/news/128773-trzy-punkty-na-cieplo-zimno</link>
-        <pubDate>Sat, 13 Apr 2024 19:15:00 GMT</pubDate>
-        <description>W meczu 31. kolejki La Ligi Real Madryt wygrał na wyjeździe z Mallorcą 1:0. Autorem jedynego trafienia dla gości był Aurélien Tchouaméni.</description>
     </item>
     
 </channel>
