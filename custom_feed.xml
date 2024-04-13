@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 18:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dani Rodríguez: Kończymy z niczym, wykonując świetną pracę</title>
+        <link>https://www.realmadryt.pl/news/128777-dani-rodriguez-konczymy-z-niczym-wykonujac-swietna-prace</link>
+        <pubDate>Sat, 13 Apr 2024 20:38:00 GMT</pubDate>
+        <description>Dani Rodríguez udzielił wywiadu z murawy dla telewizji DAZN tuż po zakończeniu spotkania z Realem Madryt. Przedstawiamy pierwsze odczucia z meczu gracza Mallorki.</description>
+    </item>
     
     <item>
         <title>Tchouaméni MVP meczu z Mallorcą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128771-31-kolejka-atletico-pokonuje-girone-i-umacnia-sie-w-czworce</link>
         <pubDate>Sat, 13 Apr 2024 16:06:00 GMT</pubDate>
         <description>Zakończył się jeden z hitów bieżącej kolejki Primera División, więc czas rzucić okiem na tabelę.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City vs Luton Town: Walker i Aké w kadrze</title>
-        <link>https://www.realmadryt.pl/news/128768-manchester-city-vs-luton-town-walker-i-ake-w-kadrze</link>
-        <pubDate>Sat, 13 Apr 2024 15:45:00 GMT</pubDate>
-        <description>O 16:00 rozpocznie się starcie pomiędzy Manchesterem City a Luton Town na Etihad Stadium. Drużyna Pepa Guardioli w przypadku wygranej przynajmniej do jutra zostanie liderem Premier League. Za 4 dni zagra na tym samym obiekcie z Realem o awans do półfinału Ligi Mistrzów.</description>
     </item>
     
 </channel>
