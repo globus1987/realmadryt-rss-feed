@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 18:38:14 GMT</lastBuildDate>
     
     <item>
-        <title>Do przerwy 0:0</title>
-        <link>https://www.realmadryt.pl/news/128773-do-przerwy-0-0</link>
+        <title>Tchouaméni MVP meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/128775-tchouameni-mvp-meczu-z-mallorca</link>
+        <pubDate>Sat, 13 Apr 2024 20:30:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni był jedną z najważniejszych postaci Realu Madryt w wyjazdowym starciu z Mallorcą.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/128774-ocen-pilkarzy-po-meczu-z-mallorca</link>
+        <pubDate>Sat, 13 Apr 2024 20:27:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Trzy punkty na ciepło-zimno</title>
+        <link>https://www.realmadryt.pl/news/128773-trzy-punkty-na-cieplo-zimno</link>
         <pubDate>Sat, 13 Apr 2024 19:15:00 GMT</pubDate>
-        <description>W meczu 31. kolejki La Ligi Real Madryt remisuje na wyjeździe z Mallorcą 0:0.</description>
+        <description>W meczu 31. kolejki La Ligi Real Madryt wygrał na wyjeździe z Mallorcą 1:0. Autorem jedynego trafienia dla gości był Aurélien Tchouaméni.</description>
     </item>
     
     <item>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128768-manchester-city-vs-luton-town-walker-i-ake-w-kadrze</link>
         <pubDate>Sat, 13 Apr 2024 15:45:00 GMT</pubDate>
         <description>O 16:00 rozpocznie się starcie pomiędzy Manchesterem City a Luton Town na Etihad Stadium. Drużyna Pepa Guardioli w przypadku wygranej przynajmniej do jutra zostanie liderem Premier League. Za 4 dni zagra na tym samym obiekcie z Realem o awans do półfinału Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>„Nie wykluczam niespodzianki w wykonaniu Mallorki”</title>
-        <link>https://www.realmadryt.pl/news/128760-nie-wykluczam-niespodzianki-w-wykonaniu-mallorki</link>
-        <pubDate>Sat, 13 Apr 2024 15:30:00 GMT</pubDate>
-        <description>Carlos Roa był jedną z ikon najlepszej Mallorki w swojej historii, a obecnie jest członkiem sztabu technicznego AEK Ateny. W przeddzień meczu swojego byłego klubu z Realem Madryt udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos myśli o przyszłości</title>
-        <link>https://www.realmadryt.pl/news/128766-ceballos-mysli-o-przyszlosci</link>
-        <pubDate>Sat, 13 Apr 2024 15:20:00 GMT</pubDate>
-        <description>Andaluzyjczyk jest drugim, po Ardzie Gülerze, zawodnikiem w kadrze, z najmniejszą liczbą minut spędzonych na boisku w tym sezonie.</description>
     </item>
     
 </channel>
