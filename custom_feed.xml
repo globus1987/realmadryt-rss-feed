@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 17:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 17:25:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 0:0</title>
+        <link>https://www.realmadryt.pl/news/128773-do-przerwy-0-0</link>
+        <pubDate>Sat, 13 Apr 2024 19:15:00 GMT</pubDate>
+        <description>W meczu 31. kolejki La Ligi Real Madryt remisuje na wyjeździe z Mallorcą 0:0.</description>
+    </item>
     
     <item>
         <title>City wygrywa przy ogromnej dominacji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128766-ceballos-mysli-o-przyszlosci</link>
         <pubDate>Sat, 13 Apr 2024 15:20:00 GMT</pubDate>
         <description>Andaluzyjczyk jest drugim, po Ardzie Gülerze, zawodnikiem w kadrze, z najmniejszą liczbą minut spędzonych na boisku w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Odbicie Valverde</title>
-        <link>https://www.realmadryt.pl/news/128753-odbicie-valverde</link>
-        <pubDate>Sat, 13 Apr 2024 14:46:00 GMT</pubDate>
-        <description>W obecnym sezonie Fede Valverde musiał się przyzwyczaić do zmiany swojej pozycji na boisku. Teraz zaangażowany jest w dużo więcej zadań defensywnych niż wcześniej. Mimo to ma na koncie 8 asyst i popisał się piękną bramką we wtorkowym meczu z City.</description>
     </item>
     
 </channel>
