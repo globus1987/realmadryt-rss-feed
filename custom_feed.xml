@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 07:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 07:38:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chwila przed momentem prawdy</title>
+        <link>https://www.realmadryt.pl/news/128724-chwila-przed-momentem-prawdy</link>
+        <pubDate>Sat, 13 Apr 2024 09:33:00 GMT</pubDate>
+        <description>Czas jest zjawiskiem, które staramy się spiąć konkretnymi ramami, ale nie w każdej sytuacji jest to możliwe.</description>
+    </item>
     
     <item>
         <title>Aguirre: Puchar Króla był deserem, ale La Liga jest daniem głównym</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128745-na-rewanz-z-city-wyjsciowa-obrona-ancelottiego</link>
         <pubDate>Fri, 12 Apr 2024 19:29:00 GMT</pubDate>
         <description>Zestawienie defensywy złożone z Carvajala, Rüdigera, Nacho i Mendy’ego jest tym najczęściej używanym przez Carlo Ancelottiego w trwającym sezonie. I właśnie tak może wyglądać obrona w środowym rewanżu na Etihad.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt wspiera Dončicia w walce o nagrodę MVP w NBA</title>
-        <link>https://www.realmadryt.pl/news/128746-real-madryt-wspiera-doncicia-w-walce-o-nagrode-mvp-w-nba</link>
-        <pubDate>Fri, 12 Apr 2024 18:38:00 GMT</pubDate>
-        <description>Real Madryt dołączył do kampanii promującej Lukę Dončicia jako MVP sezonu zasadniczego NBA. Słoweniec najprawdopodobniej pozostanie jednak w głosowaniu na drugim miejscu.</description>
     </item>
     
 </channel>
