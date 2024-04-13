@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Apr 2024 04:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 05:19:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zł za wygraną Realu z Mallorcą!</title>
+        <link>https://www.realmadryt.pl/news/128754-200-zl-za-wygrana-realu-z-mallorca</link>
+        <pubDate>Sat, 13 Apr 2024 07:00:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Uwaga na Mbappé, Haalanda i Bellinghama</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128715-myslelismy-ze-mamy-bellinghama-w-garsci</link>
         <pubDate>Fri, 12 Apr 2024 16:56:00 GMT</pubDate>
         <description>Bryan Robson wspomina w wywiadzie dla The Telegraph, jak Manchester United próbował sprowadzić Anglika, ale ten ostatecznie wybrał Borussię Dortmund.</description>
-    </item>
-    
-    <item>
-        <title>Karol G na koszulkach Barcelony w Klasyku</title>
-        <link>https://www.realmadryt.pl/news/128743-karol-g-na-koszulkach-barcelony-w-klasyku</link>
-        <pubDate>Fri, 12 Apr 2024 16:05:00 GMT</pubDate>
-        <description>Współpraca Blaugrany ze Spotify trwa nadal. Po Drake'u, Rosalíi i The Rolling Stones, w kolejnym El Clásico na koszulkach drużyny z Katalonii ma pojawić się logo Karol G.</description>
     </item>
     
 </channel>
