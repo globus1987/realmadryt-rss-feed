@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Apr 2024 18:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 18:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Ty wiesz, czym jest rodzina?”</title>
+        <link>https://www.realmadryt.pl/news/128834-ty-wiesz-czym-jest-rodzina</link>
+        <pubDate>Mon, 15 Apr 2024 20:52:00 GMT</pubDate>
+        <description>W środę wychodzi książka „Prawda o sprawie Negreiry - moja walka z korupcją sędziowską” stworzona przez byłego sędziego La Ligi Estradę Fernándeza. El Mundo przedstawiło na swoich łamach jej fragment. Przedstawiamy jego tłumaczenie.</description>
+    </item>
     
     <item>
         <title>Labirynt Gülera</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128824-mbappe-doswiadczyl-wiele-cierpienia-ze-strony-trenera-i-klubu</link>
         <pubDate>Mon, 15 Apr 2024 14:27:00 GMT</pubDate>
         <description>Adil Rami, były reprezentacyjny kolega Kyliana Mbappé, skomentował jego sytuację w jednym z francuskich programów na platformie Amazon Prime. Przedstawiamy słowa 38-latka.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening w Madrycie przed City</title>
-        <link>https://www.realmadryt.pl/news/128823-ostatni-trening-w-madrycie-przed-city</link>
-        <pubDate>Mon, 15 Apr 2024 13:36:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do rewanżu z Manchesterem City. Poza grupą pozostaje dwóch zawodników.</description>
     </item>
     
 </channel>
