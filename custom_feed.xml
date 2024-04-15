@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Apr 2024 14:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 14:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złote gole Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/128794-zlote-gole-tchouameniego</link>
+        <pubDate>Mon, 15 Apr 2024 16:36:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni zdobył w tym sezonie trzy bramki, które dały Realowi Madryt cztery punkty w La Lidze. Zwycięskie trafienia notował w meczach z Las Palmas i Mallorcą.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Raúl García kończy karierę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128820-daniele-orsato-na-rewanz-z-city</link>
         <pubDate>Mon, 15 Apr 2024 10:23:00 GMT</pubDate>
         <description>Znamy nazwisko sędziego, który poprowadzi wyjazdową potyczkę Realu Madryt z Manchesterem City. UEFA postawiła na jednego z najbardziej doświadczonych arbitrów. Będzie to jego trzecie starcie między Królewskimi a Obywatelami.</description>
-    </item>
-    
-    <item>
-        <title>Modrić czuje się graczem pierwszego składu</title>
-        <link>https://www.realmadryt.pl/news/128802-modric-czuje-sie-graczem-pierwszego-skladu</link>
-        <pubDate>Mon, 15 Apr 2024 09:33:00 GMT</pubDate>
-        <description>Luka Modrić wystąpił w meczu z Mallorcą od początku i na pewno może być ze swojej postawy zadowolony. Był to 18. występ Chorwata od pierwszej minuty. Dla porównania Kroos ma ich 28.</description>
     </item>
     
 </channel>
