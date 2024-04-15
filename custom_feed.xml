@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Apr 2024 19:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 20:18:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rekordowa frekwencja na Son Moix</title>
+        <link>https://www.realmadryt.pl/news/128826-rekordowa-frekwencja-na-son-moix</link>
+        <pubDate>Mon, 15 Apr 2024 22:16:00 GMT</pubDate>
+        <description>Mecz z Realem Madryt przeszedł do historii obiektu Realu Mallorca. Na trybunach zasiadły 23 244 osoby.</description>
+    </item>
     
     <item>
         <title>Decyzja Raúla nie wpływa na przyszłość Arbeloi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128828-200-zlotych-za-gola-kogokolwiek-w-lidze-mistrzow</link>
         <pubDate>Mon, 15 Apr 2024 14:54:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Manchester City</title>
-        <link>https://www.realmadryt.pl/news/128827-kadra-realu-madryt-na-manchester-city</link>
-        <pubDate>Mon, 15 Apr 2024 14:40:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Manchesterem City na Etihad Stadium. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
     </item>
     
 </channel>
