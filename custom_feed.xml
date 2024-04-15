@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Apr 2024 11:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 11:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening w Madrycie przed City</title>
+        <link>https://www.realmadryt.pl/news/128823-ostatni-trening-w-madrycie-przed-city</link>
+        <pubDate>Mon, 15 Apr 2024 13:36:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do rewanżu z Manchesterem City. Poza grupą pozostaje dwóch zawodników.</description>
+    </item>
     
     <item>
         <title>Z kim w ćwierćfinale Euroligi?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128819-dzisiejsze-okladki</link>
         <pubDate>Mon, 15 Apr 2024 00:33:00 GMT</pubDate>
         <description>Triumf Xabiego Alonso oraz przygotowania Barcelony na PSG to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Walker czuje się dużo lepiej, ale zobaczymy</title>
-        <link>https://www.realmadryt.pl/news/128817-guardiola-walker-czuje-sie-duzo-lepiej-ale-zobaczymy</link>
-        <pubDate>Mon, 15 Apr 2024 00:05:00 GMT</pubDate>
-        <description>Pep Guardiola pojawił się na konferencji prasowej po sobotnim meczu z Luton. Przedstawiamy wypowiedzi z tej części konferencji prasowej, która do niedzieli była objęta embargo publikacyjnym.</description>
     </item>
     
 </channel>
