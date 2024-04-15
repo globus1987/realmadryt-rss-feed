@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Apr 2024 07:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 07:39:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić czuje się graczem pierwszego składu</title>
+        <link>https://www.realmadryt.pl/news/128802-modric-czuje-sie-graczem-pierwszego-skladu</link>
+        <pubDate>Mon, 15 Apr 2024 09:33:00 GMT</pubDate>
+        <description>Luka Modrić wystąpił w meczu z Mallorcą od początku i na pewno może być ze swojej postawy zadowolony. Był to 18. występ Chorwata od pierwszej minuty. Dla porównania Kroos ma ich 28.</description>
+    </item>
     
     <item>
         <title>Vinícius dobrze nastrojony przed rewanżem z City</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128811-deck-znow-bohaterem-ostatniej-akcji</link>
         <pubDate>Sun, 14 Apr 2024 20:43:00 GMT</pubDate>
         <description>W 29. kolejce Ligi Endesa Real Madryt pokonał Joventut po zaciętym meczu. Królewscy wygrali po celnym rzucie Decka w końcówce i zrównali się liczbą zwycięstw z Unicają.</description>
-    </item>
-    
-    <item>
-        <title>Castilla pogarsza swoją sytuację</title>
-        <link>https://www.realmadryt.pl/news/128810-castilla-pogarsza-swoja-sytuacje</link>
-        <pubDate>Sun, 14 Apr 2024 20:09:00 GMT</pubDate>
-        <description>Castilla przegrała na wyjeździe z Recreativo Huelva w 32. kolejce Primera Federación. Sytuacja Królewskich w tabeli robi się coraz bardziej niebezpieczna, ponieważ przewaga nad strefą spadkową zmalała do trzech punktów.</description>
     </item>
     
 </channel>
