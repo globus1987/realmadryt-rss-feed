@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 05:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 05:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Macron: Skład na Igrzyska? Wierzę we francuskie i europejskie kluby</title>
+        <link>https://www.realmadryt.pl/news/128842-macron-sklad-na-igrzyska-wierze-we-francuskie-i-europejskie-kluby</link>
+        <pubDate>Tue, 16 Apr 2024 07:25:00 GMT</pubDate>
+        <description>W środę pozostanie symboliczna granica 100 dni do rozpoczęcia Igrzysk w Paryżu. Jednym z głównych tematów poza bezpieczeństwem jest między innymi występ Kyliana Mbappé w drużynie piłkarskiej.</description>
+    </item>
     
     <item>
         <title>Relevo: Ancelotti zabiera do Manchesteru piłkarza Castilli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128830-oficjalnie-zidentyfikowano-dziecko-rasiste-ze-stadionu-mallorki</link>
         <pubDate>Mon, 15 Apr 2024 17:27:00 GMT</pubDate>
         <description>Policja zidentyfikowała osobę od rasistowskiego gestu w meczu Mallorki z Realem Madryt. Potwierdzono, że chodzi o małoletniego.</description>
-    </item>
-    
-    <item>
-        <title>Złote gole Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/128794-zlote-gole-tchouameniego</link>
-        <pubDate>Mon, 15 Apr 2024 16:36:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni zdobył w tym sezonie trzy bramki, które dały Realowi Madryt cztery punkty w La Lidze. Zwycięskie trafienia notował w meczach z Las Palmas i Mallorcą.</description>
     </item>
     
 </channel>
