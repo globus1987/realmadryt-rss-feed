@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 16:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 16:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Pep może być spokojny, nie będę czarować</title>
+        <link>https://www.realmadryt.pl/news/128854-ancelotti-pep-moze-byc-spokojny-nie-bede-czarowac</link>
+        <pubDate>Tue, 16 Apr 2024 18:41:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiejszej na konferencji prasowej przed jutrzejszym rewanżowym ćwierćfinałem Ligi Mistrzów z Manchesterem City. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Etihad Stadium. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Specjalista od Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128807-dobry-mecz-chusta-z-barcelona-slabe-zawody-blanco-i-kubo</link>
         <pubDate>Tue, 16 Apr 2024 12:00:00 GMT</pubDate>
         <description>Nie był to udany weekend dla byłych lub cały czas obecnych madridistas. Z dobrej strony pokazał się Chust, choć jego drużyna i tak przegrała z Barceloną, więc niezwykle trudno jest wybrać najlepszego. Ale mimo wszystko – spróbujmy.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy wylecieli do Manchesteru</title>
-        <link>https://www.realmadryt.pl/news/128846-krolewscy-wylecieli-do-manchesteru</link>
-        <pubDate>Tue, 16 Apr 2024 11:25:00 GMT</pubDate>
-        <description>22 powołanych zawodników jest już w drodze do Anglii, gdzie Królewscy zmierzą się jutro w rewanżowym ćwierćfinale Ligi Mistrzów z Manchesterem City.</description>
     </item>
     
 </channel>
