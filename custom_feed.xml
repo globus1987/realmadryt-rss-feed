@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 05:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:23:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 złotych za gola Realu lub City!</title>
+        <link>https://www.realmadryt.pl/news/128841-300-zlotych-za-gola-realu-lub-city</link>
+        <pubDate>Tue, 16 Apr 2024 08:16:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Macron: Skład na Igrzyska? Wierzę we francuskie i europejskie kluby</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128829-ancelotti-wysyla-jasne-komunikaty</link>
         <pubDate>Mon, 15 Apr 2024 18:18:00 GMT</pubDate>
         <description>Włoch w ostatniej fazie sezonu i mając zapewnioną przyszłość w klubie, pokazuje, że przy podejmowaniu decyzji nie drży mu ręka.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Zidentyfikowano dziecko-rasistę ze stadionu Mallorki</title>
-        <link>https://www.realmadryt.pl/news/128830-oficjalnie-zidentyfikowano-dziecko-rasiste-ze-stadionu-mallorki</link>
-        <pubDate>Mon, 15 Apr 2024 17:27:00 GMT</pubDate>
-        <description>Policja zidentyfikowała osobę od rasistowskiego gestu w meczu Mallorki z Realem Madryt. Potwierdzono, że chodzi o małoletniego.</description>
     </item>
     
 </channel>
