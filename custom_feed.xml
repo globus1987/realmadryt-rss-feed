@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 11:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 11:28:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Anglli</title>
+        <link>https://www.realmadryt.pl/news/128847-krolewscy-sa-juz-w-anglli</link>
+        <pubDate>Tue, 16 Apr 2024 13:27:00 GMT</pubDate>
+        <description>22 powołanych zawodników dotarło już do Anglii, gdzie Królewscy zmierzą się jutro w rewanżowym ćwierćfinale Ligi Mistrzów z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Gol, na którego czekał Ancelotti</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128840-relevo-ancelotti-zabiera-do-manchesteru-pilkarza-castilli</link>
         <pubDate>Tue, 16 Apr 2024 05:30:00 GMT</pubDate>
         <description>Piłkarz Castilli ma znaleźć się w grupie piłkarzy, która wyleci dzisiaj przed południem do Manchesteru na rewanż z City. Nie jest jednak zarejestrowany w Lidze Mistrzów i nie może pomóc Królewskim w środowym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128839-dzisiejsze-okladki</link>
-        <pubDate>Tue, 16 Apr 2024 00:21:00 GMT</pubDate>
-        <description>Pierwsze rewanżowe ćwierćfinały Ligi Mistrzów to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
