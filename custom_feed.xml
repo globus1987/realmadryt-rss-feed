@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 03:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 03:38:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Ancelotti zabiera do Manchesteru piłkarza Castilli</title>
+        <link>https://www.realmadryt.pl/news/128840-relevo-ancelotti-zabiera-do-manchesteru-pilkarza-castilli</link>
+        <pubDate>Tue, 16 Apr 2024 05:30:00 GMT</pubDate>
+        <description>Piłkarz Castilli ma znaleźć się w grupie piłkarzy, która wyleci dzisiaj przed południem do Manchesteru City. Nie jest jednak zarejestrowany w Lidze Mistrzów i nie może pomóc Królewskim w środowym meczu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128794-zlote-gole-tchouameniego</link>
         <pubDate>Mon, 15 Apr 2024 16:36:00 GMT</pubDate>
         <description>Aurélien Tchouaméni zdobył w tym sezonie trzy bramki, które dały Realowi Madryt cztery punkty w La Lidze. Zwycięskie trafienia notował w meczach z Las Palmas i Mallorcą.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Raúl García kończy karierę</title>
-        <link>https://www.realmadryt.pl/news/128822-oficjalnie-raul-garcia-konczy-kariere</link>
-        <pubDate>Mon, 15 Apr 2024 15:45:00 GMT</pubDate>
-        <description>Po sezonie grę w La Lidze zakończy jedna z jej najbardziej znanych postaci i odwieczny rywal Królewskich, z którymi rozegrał najwięcej meczów w karierze. Gratulujemy!</description>
     </item>
     
 </channel>
