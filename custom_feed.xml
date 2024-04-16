@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 22:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 22:53:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Czy to może zmienić moją decyzję? Nie, nie, nie</title>
+        <link>https://www.realmadryt.pl/news/128868-mbappe-czy-to-moze-zmienic-moja-decyzje-nie-nie-nie</link>
+        <pubDate>Wed, 17 Apr 2024 00:52:00 GMT</pubDate>
+        <description>Kylian Mbappé po meczu Ligi Mistrzów z Barceloną wyszedł do mediów w strefie mieszanej. Francuz odpowiadał na pytania po francusku i hiszpańsku, a na koniec krótko odpowiedział na pytanie o swoją przyszłość.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128866-dzisiejsze-okladki</link>
+        <pubDate>Wed, 17 Apr 2024 00:41:00 GMT</pubDate>
+        <description>Porażki Atlético i Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Paris Saint-Germain i Borussia Dortmund w półfinałach Ligi Mistrzów</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128854-ancelotti-pep-moze-byc-spokojny-nie-bede-czarowac</link>
         <pubDate>Tue, 16 Apr 2024 18:41:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na dzisiejszej konferencji prasowej przed jutrzejszym rewanżowym ćwierćfinałem Ligi Mistrzów z Manchesterem City. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Etihad Stadium. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Specjalista od Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/128821-specjalista-od-ligi-mistrzow</link>
-        <pubDate>Tue, 16 Apr 2024 18:15:00 GMT</pubDate>
-        <description>Manchester City to jedna z ulubionych ofiar Rodrygo w Lidze Mistrzów. Brazylijczyk doskonale czuje się w tych rozgrywkach i na europejskiej arenie strzela dwukrotnie częściej niż w La Lidze. W sobotę pierwszy raz w tym sezonie nie pojawił się na boisku, aby w pełni zregenerować się na rewanż z The Citizens.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Potrzebowaliśmy tej wygranej u siebie</title>
-        <link>https://www.realmadryt.pl/news/128816-mateo-potrzebowalismy-tej-wygranej-u-siebie</link>
-        <pubDate>Tue, 16 Apr 2024 17:27:00 GMT</pubDate>
-        <description>Chus Mateo podsumował krótko zwycięskie spotkanie z Joventutem. Powiedział, że myśli już o zbliżających się play-offach w Eurolidze.</description>
     </item>
     
 </channel>
