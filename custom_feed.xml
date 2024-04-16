@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Apr 2024 09:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 09:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wylecieli do Manchesteru</title>
+        <link>https://www.realmadryt.pl/news/128846-krolewscy-wylecieli-do-manchesteru</link>
+        <pubDate>Tue, 16 Apr 2024 11:25:00 GMT</pubDate>
+        <description>22 powołanych zawodników jest już w drodze do Anglii, gdzie Królewscy zmierzą się jutro w rewanżowym ćwierćfinale Ligi Mistrzów z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 16 kwietnia</title>
@@ -45,7 +52,7 @@
         <title>Relevo: Ancelotti zabiera do Manchesteru piłkarza Castilli</title>
         <link>https://www.realmadryt.pl/news/128840-relevo-ancelotti-zabiera-do-manchesteru-pilkarza-castilli</link>
         <pubDate>Tue, 16 Apr 2024 05:30:00 GMT</pubDate>
-        <description>Piłkarz Castilli ma znaleźć się w grupie piłkarzy, która wyleci dzisiaj przed południem do Manchesteru City. Nie jest jednak zarejestrowany w Lidze Mistrzów i nie może pomóc Królewskim w środowym meczu.</description>
+        <description>Piłkarz Castilli ma znaleźć się w grupie piłkarzy, która wyleci dzisiaj przed południem do Manchesteru na rewanż z City. Nie jest jednak zarejestrowany w Lidze Mistrzów i nie może pomóc Królewskim w środowym meczu.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128833-decyzja-raula-nie-wplywa-na-przyszlosc-arbeloi</link>
         <pubDate>Mon, 15 Apr 2024 21:40:00 GMT</pubDate>
         <description>Álvaro wie, że Raúl zamierza kontynuować karierę w Castilli, ale poczeka, aż odejdzie, ponieważ chce trenować drużynę rezerw.</description>
-    </item>
-    
-    <item>
-        <title>„Ty wiesz, czym jest rodzina?”</title>
-        <link>https://www.realmadryt.pl/news/128834-ty-wiesz-czym-jest-rodzina</link>
-        <pubDate>Mon, 15 Apr 2024 20:52:00 GMT</pubDate>
-        <description>W środę wychodzi książka „Prawda o sprawie Negreiry - moja walka z korupcją sędziowską” stworzona przez byłego sędziego La Ligi Estradę Fernándeza. El Mundo przedstawiło na swoich łamach jej fragment. Przedstawiamy jego tłumaczenie.</description>
     </item>
     
 </channel>
