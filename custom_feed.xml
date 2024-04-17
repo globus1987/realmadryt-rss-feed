@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 21:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 22:17:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nacho: Jesteśmy Realem Madryt i walczymy do końca</title>
+        <link>https://www.realmadryt.pl/news/128888-nacho-jestesmy-realem-madryt-i-walczymy-do-konca</link>
+        <pubDate>Thu, 18 Apr 2024 00:03:00 GMT</pubDate>
+        <description>Nacho po rewanżu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Etihad Stadium.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z City</title>
+        <link>https://www.realmadryt.pl/news/128885-ocen-pilkarzy-po-meczu-z-city</link>
+        <pubDate>Wed, 17 Apr 2024 23:59:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>REAL W PÓŁFINALE LIGI MISTRZÓW!</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128836-precedensy-ktore-napawaja-optymizmem</link>
         <pubDate>Wed, 17 Apr 2024 16:16:00 GMT</pubDate>
         <description>Real Madryt pięciokrotnie eliminował z Ligi Mistrzów obrońcę tytułu przed zdobyciem Pucharu Europy. Miało to miejsce w 1998, 2000, 2002, 2014 i 2022 roku.</description>
-    </item>
-    
-    <item>
-        <title>Znów odnaleźć zgranie</title>
-        <link>https://www.realmadryt.pl/news/128837-znow-odnalezc-zgranie</link>
-        <pubDate>Wed, 17 Apr 2024 15:35:00 GMT</pubDate>
-        <description>Ancelotti potrzebuje lepszej komunikacji między Bellinghamem, Rodrygo i Viniciusem: w pierwszym meczu przeciwko City ta trójka wymieniła między sobą zaledwie 30 podań. Przyszłość Realu w Lidze Mistrzów będzie zależeć od Brazylijczyków i Anglika.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni naprawia „paryski” błąd</title>
-        <link>https://www.realmadryt.pl/news/128877-tchouameni-naprawia-paryski-blad</link>
-        <pubDate>Wed, 17 Apr 2024 15:15:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni dziś nie będzie mógł wystąpić z powodu zawieszenia za kartki. Pomimo tego Francuz udał się z resztą drużyny do Manchesteru.</description>
     </item>
     
 </channel>
