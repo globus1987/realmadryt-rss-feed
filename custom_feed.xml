@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 12:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 13:21:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni naprawia „paryski” błąd</title>
+        <link>https://www.realmadryt.pl/news/128877-tchouameni-naprawia-paryski-blad</link>
+        <pubDate>Wed, 17 Apr 2024 15:15:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni dziś nie będzie mógł wystąpić z powodu zawieszenia za kartki. Pomimo tego Francuz udał się z resztą drużyny do Manchesteru.</description>
+    </item>
+    
+    <item>
+        <title>7001 euro grzywny dla rasisty z Son Moix</title>
+        <link>https://www.realmadryt.pl/news/128875-7001-euro-grzywny-dla-rasisty-z-son-moix</link>
+        <pubDate>Wed, 17 Apr 2024 14:57:00 GMT</pubDate>
+        <description>Państwowa Komisja przeciwko Przemocy, Rasizmowi, Ksenofobii i Nietolerancji w Sporcie ukarała nieletniego, który wykonywał rasistowskie gesty w kierunku Auréliena Tchouaméniego podczas ostatniego meczu Son Moix. Przy okazji ukarano też rasistów z Vallecas i Mestalli.</description>
+    </item>
     
     <item>
         <title>Bunkier Manchesteru City</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128850-mcmanaman-real-madryt-nie-jest-tak-silny-jak-manchester-city</link>
         <pubDate>Wed, 17 Apr 2024 12:11:00 GMT</pubDate>
         <description>Były zawodnik Królewskich, Steve McManaman, wypowiedział się na temat rewanżowego starcia Realu Madryt z Manchesterem City w ćwierćfinale Ligi Mistrzów. Przedstawiamy przewidywania Anglika.</description>
-    </item>
-    
-    <item>
-        <title>W rytmie Fede Valverde</title>
-        <link>https://www.realmadryt.pl/news/128872-w-rytmie-fede-valverde</link>
-        <pubDate>Wed, 17 Apr 2024 11:54:00 GMT</pubDate>
-        <description>Sprzeczka Fede z Brahimem na Majorce nie była dobra, ale przypomina, że Real Madryt zawsze musi rywalizować jako zespół, a tym bardziej w tak ważnym meczu jak dzisiejszy z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Od Milanu Sacchiego (i Ancelottiego) do City Guardioli?</title>
-        <link>https://www.realmadryt.pl/news/128702-od-milanu-sacchiego-i-ancelottiego-do-city-guardioli</link>
-        <pubDate>Wed, 17 Apr 2024 11:30:00 GMT</pubDate>
-        <description>Tylko jedna drużyna zdołała wyeliminować Real Madryt z Pucharu Europy dwa razy z rzędu i był to wielki Milan prowadzony przez Arrigo Sacchiego. Sztuka ta udała się także PSG, ale już w dwóch odrębnych rozgrywkach – Pucharze UEFA i Pucharze Zdobywców Pucharów.</description>
     </item>
     
 </channel>
