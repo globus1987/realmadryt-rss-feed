@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 19:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 19:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 1:0 dla Realu</title>
+        <link>https://www.realmadryt.pl/news/128884-do-przerwy-1-0-dla-realu</link>
+        <pubDate>Wed, 17 Apr 2024 21:49:00 GMT</pubDate>
+        <description>W rewanżowym meczu ćwierćfinału Ligi Mistrzów Real Madryt prowadzi na wyjeździe z Manchesterem City 1:0 po trafieniu Rodrygo. W pierwszym meczu padł wynik 3:3.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Coś zmienimy względem rewanżu sprzed roku</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128877-tchouameni-naprawia-paryski-blad</link>
         <pubDate>Wed, 17 Apr 2024 15:15:00 GMT</pubDate>
         <description>Aurélien Tchouaméni dziś nie będzie mógł wystąpić z powodu zawieszenia za kartki. Pomimo tego Francuz udał się z resztą drużyny do Manchesteru.</description>
-    </item>
-    
-    <item>
-        <title>7001 euro grzywny dla rasisty z Son Moix</title>
-        <link>https://www.realmadryt.pl/news/128875-7001-euro-grzywny-dla-rasisty-z-son-moix</link>
-        <pubDate>Wed, 17 Apr 2024 14:57:00 GMT</pubDate>
-        <description>Państwowa Komisja przeciwko Przemocy, Rasizmowi, Ksenofobii i Nietolerancji w Sporcie ukarała nieletniego, który wykonywał rasistowskie gesty w kierunku Auréliena Tchouaméniego podczas ostatniego meczu na Son Moix. Przy okazji ukarano też rasistów z Vallecas i Mestalli.</description>
     </item>
     
 </channel>
