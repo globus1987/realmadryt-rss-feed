@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 07:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 07:39:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Atlético z awansem na Klubowy Mundial kosztem Barcelony</title>
+        <link>https://www.realmadryt.pl/news/128869-atletico-z-awansem-na-klubowy-mundial-kosztem-barcelony</link>
+        <pubDate>Wed, 17 Apr 2024 09:27:00 GMT</pubDate>
+        <description>Pierwsze rozstrzygnięcia w 1/4 finału Ligi Mistrzów przybliżyły nas do poznania pełnej stawki europejskich zespołów, które zagrają na nowym Klubowym Mundialu. Real Madryt ma pewny awans jako mistrz Europy z 2022 roku.</description>
+    </item>
     
     <item>
         <title>Bernardo Silva: Gramy przeciwko królowi tych rozgrywek</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128860-real-madryt-trenowal-w-manchesterze</link>
         <pubDate>Tue, 16 Apr 2024 21:25:00 GMT</pubDate>
         <description>Królewscy odbyli ostatni trening przed meczem z Manchesterem City, pracując na Etihad Stadium. W Madrycie pozostało dwóch piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona gra z PSG w rewanżowym ćwierćfinale Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/128858-barcelona-gra-z-psg-w-rewanzowym-cwiercfinale-ligi-mistrzow</link>
-        <pubDate>Tue, 16 Apr 2024 20:40:00 GMT</pubDate>
-        <description>Królewscy przed rewanżem z Manchesterem City poznają dzisiaj pierwszych półfinalistów Ligi Mistrzów. Dzisiaj rozpoczynamy serię drugich spotkań 1/4 finału.</description>
     </item>
     
 </channel>
