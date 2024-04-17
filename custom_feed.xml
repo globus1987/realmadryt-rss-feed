@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 15:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:38:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czterech piłkarzy zagrożonych zawieszeniem na potencjalny półfinał</title>
+        <link>https://www.realmadryt.pl/news/128849-czterech-pilkarzy-zagrozonych-zawieszeniem-na-potencjalny-polfinal</link>
+        <pubDate>Wed, 17 Apr 2024 17:38:00 GMT</pubDate>
+        <description>Dani Carvajal, Eduardo Camavinga, Jude Bellingham i Vinícius Júnior mogą przegapić pierwszy mecz półfinałowy Ligi Mistrzów, jeśli na Etihad obejrzą żółtą kartkę i oczywiście Real Madryt pokona Manchester City.</description>
+    </item>
     
     <item>
         <title>Szczególny wieczór dla Brahima</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128876-florentino-perez-dolaczyl-do-druzyny</link>
         <pubDate>Wed, 17 Apr 2024 13:52:00 GMT</pubDate>
         <description>Florentino Pérez przyleciał do Manchesteru i spotkał się z drużyną w hotelu. Wieczorem prezes obejrzy z trybun rewanżowe starcie z City.</description>
-    </item>
-    
-    <item>
-        <title>Huragan na wyjazdach</title>
-        <link>https://www.realmadryt.pl/news/128793-huragan-na-wyjazdach</link>
-        <pubDate>Wed, 17 Apr 2024 13:32:00 GMT</pubDate>
-        <description>Real Madryt ma za sobą kolejną wygraną na wyjeździe. W bieżącym sezonie ligowym Królewscy wygrali już 11 spotkań poza własnym obiektem, notując przy tym cztery remisy i zaledwie jedną porażkę. Drużyna regularnie punktuje na terenach rywali i jest bardzo bliska wyrównania wyniku z sezonu 1968/69.</description>
     </item>
     
 </channel>
