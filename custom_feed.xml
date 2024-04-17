@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 09:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 09:38:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od Milanu Sacchiego (i Ancelottiego) do City Guardioli?</title>
+        <link>https://www.realmadryt.pl/news/128702-od-milanu-sacchiego-i-ancelottiego-do-city-guardioli</link>
+        <pubDate>Wed, 17 Apr 2024 11:30:00 GMT</pubDate>
+        <description>Tylko jedna drużyna zdołała wyeliminować Real Madryt z Pucharu Europy dwa razy z rzędu i był to wielki Milan prowadzony przez Arrigo Sacchiego. Sztuka ta udała się także PSG, ale już w dwóch odrębnych rozgrywkach – Pucharze UEFA i Pucharze Zdobywców Pucharów.</description>
+    </item>
     
     <item>
         <title>Bądźmy konsekwentni</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128866-dzisiejsze-okladki</link>
         <pubDate>Wed, 17 Apr 2024 00:41:00 GMT</pubDate>
         <description>Porażki Atlético i Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Paris Saint-Germain i Borussia Dortmund w półfinałach Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/128863-paris-saint-germain-i-borussia-dortmund-w-polfinalach-ligi-mistrzow</link>
-        <pubDate>Tue, 16 Apr 2024 23:00:00 GMT</pubDate>
-        <description>Królewscy przed rewanżem z Manchesterem City poznali dzisiaj pierwszych półfinalistów Ligi Mistrzów. Dalej grają Francuzi i Niemcy, a poza turniejem są dwa hiszpańskie zespoły, które nie obroniły swoich przewag.</description>
     </item>
     
 </channel>
