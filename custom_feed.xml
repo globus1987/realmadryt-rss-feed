@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Apr 2024 10:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 10:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Baskonia czy Virtus?</title>
+        <link>https://www.realmadryt.pl/news/128864-baskonia-czy-virtus</link>
+        <pubDate>Wed, 17 Apr 2024 12:52:00 GMT</pubDate>
+        <description>Rozpoczął się pierwszy w historii Play-In Showdown w Eurolidze. Rozegrano pierwsze dwa mecze i z rozgrywkami niespodziewanie pożegnał się Efes.</description>
+    </item>
     
     <item>
         <title>McManaman: Real Madryt nie jest tak silny jak Manchester City</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128870-manchester-city-real-madryt-przewidywane-sklady</link>
         <pubDate>Wed, 17 Apr 2024 07:25:00 GMT</pubDate>
         <description>Królewscy przystępują do gry bez dwóch zawodników wracających po zerwaniu więzadeł krzyżowych w kolanach oraz zawieszonego Auréliena Tchouaméniego. Główna zagadka dotyczy tym razem rywali i występu Kyle'a Walkera.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Kibic Realu Madryt w Lidze Mistrzów nie powinien być nerwowy, a szczęśliwy</title>
-        <link>https://www.realmadryt.pl/news/128865-ancelotti-kibic-realu-madryt-w-lidze-mistrzow-nie-powinien-byc-nerwowy-a-szczesliwy</link>
-        <pubDate>Wed, 17 Apr 2024 05:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na wczorajszej konferencji prasowej przed dzisiejszym rewanżowym ćwierćfinałem Ligi Mistrzów z Manchesterem City. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Etihad Stadium.</description>
     </item>
     
 </channel>
