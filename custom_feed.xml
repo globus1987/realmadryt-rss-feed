@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 09:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 10:21:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt jest sercem, gdy inni są tylko rozumem</title>
+        <link>https://www.realmadryt.pl/news/128902-real-madryt-jest-sercem-gdy-inni-sa-tylko-rozumem</link>
+        <pubDate>Thu, 18 Apr 2024 12:15:00 GMT</pubDate>
+        <description>Przemyślenia Mateusza Wojtylaka po wczorajszym spotkaniu Manchesteru City z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Carvajal nie zagra w pierwszym meczu z Bayernem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128895-oficjalne-terminy-polfinalow-z-bayernem-monachium</link>
         <pubDate>Thu, 18 Apr 2024 03:58:00 GMT</pubDate>
         <description>Real Madryt w półfinałach Ligi Mistrzów zagra z Bayernem Monachium, który pokonał Arsenal. UEFA potwierdziła już oficjalne terminy tych meczów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/128892-dzisiejsze-okladki</link>
-        <pubDate>Thu, 18 Apr 2024 01:04:00 GMT</pubDate>
-        <description>Awans Realu Madryt i przyszłość Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
