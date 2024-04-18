@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 04:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 05:19:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak poważne są urazy Viníciusa, Carvajala i Bellinghama?</title>
+        <link>https://www.realmadryt.pl/news/128893-jak-powazne-sa-urazy-viniciusa-carvajala-i-bellinghama</link>
+        <pubDate>Thu, 18 Apr 2024 07:00:00 GMT</pubDate>
+        <description>Wszyscy zawodnicy Realu Madryt skończyli bitwę z Manchesterem City wyczerpani i zmęczeni. Trzech graczy odczuwało jednak wyraźnie większe problemy od reszty, w tym jeden wydaje się najpoważniejsze.</description>
+    </item>
     
     <item>
         <title>Oficjalne terminy półfinałów z Bayernem Monachium</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128883-ancelotti-cos-zmienimy-wzgledem-rewanzu-sprzed-roku</link>
         <pubDate>Wed, 17 Apr 2024 20:17:00 GMT</pubDate>
         <description>Carlo Ancelotti przed rewanżowym meczem 1/4 finału Ligi Mistrzów z City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/128882-manchester-city-real-madryt-znamy-sklady</link>
-        <pubDate>Wed, 17 Apr 2024 18:52:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w rewanżowym meczu 1/4 finału Ligi Mistrzów z Manchesterem City. Mecz rozpocznie się o godzinie 21:00 na Etihad Stadium.</description>
     </item>
     
 </channel>
