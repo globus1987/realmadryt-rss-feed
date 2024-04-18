@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 06:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 06:53:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Dzisiaj chodziło o mentalność</title>
+        <link>https://www.realmadryt.pl/news/128894-bellingham-dzisiaj-chodzilo-o-mentalnosc</link>
+        <pubDate>Thu, 18 Apr 2024 08:42:00 GMT</pubDate>
+        <description>Jude Bellingham po rewanżowym meczu z Manchesterem City pojawił się w studiu brytyjskiego TNT Sports. Przedstawiamy zapis tej rozmowy z Anglikiem na murawie Etihad Stadium.</description>
+    </item>
     
     <item>
         <title>Guardiola: W futbolu chodzi o strzelanie goli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128885-ocen-pilkarzy-po-meczu-z-city</link>
         <pubDate>Wed, 17 Apr 2024 23:59:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>REAL W PÓŁFINALE LIGI MISTRZÓW!</title>
-        <link>https://www.realmadryt.pl/news/128884-real-w-polfinale-ligi-mistrzow</link>
-        <pubDate>Wed, 17 Apr 2024 21:49:00 GMT</pubDate>
-        <description>W rewanżowym meczu ćwierćfinału Ligi Mistrzów Real Madryt zremisował na wyjeździe z Manchesterem City 1:1 po trafieniach Rodrygo i De Bruyne. W pierwszym meczu padł wynik 3:3, ale w rzutach karnych lepsi byli Królewscy.</description>
     </item>
     
 </channel>
