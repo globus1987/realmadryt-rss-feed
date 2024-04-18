@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 08:23:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 08:38:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Soto Grado na Klasyk</title>
+        <link>https://www.realmadryt.pl/news/128886-soto-grado-na-klasyk</link>
+        <pubDate>Thu, 18 Apr 2024 10:29:00 GMT</pubDate>
+        <description>43-letni sędzia poprowadzi niedzielne spotkanie Realu Madryt z Barceloną. Arbitrem VAR będzie José María Sánchez Martínez. Dla Cesara Soto Grado będzie to pierwszy Klasyk w karierze..</description>
+    </item>
+    
+    <item>
+        <title>Kroos: Karny Rüdigera? Był jedynym graczem, o którego się bałem!</title>
+        <link>https://www.realmadryt.pl/news/128898-kroos-karny-ruedigera-byl-jedynym-graczem-o-ktorego-sie-balem</link>
+        <pubDate>Thu, 18 Apr 2024 10:24:00 GMT</pubDate>
+        <description>Toni Kroos udzielił wywiadu w strefie mieszanej po rewanżowym starciu z Manchesterem City w ćwierćfinale Ligi Mistrzów. Przedstawiamy rozmowę piłkarza Realu Madryt z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Kandydat do prowadzenia Klasyku spotykał się z synem Negreiry przed meczami</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128890-ancelotti-chcielismy-grac-troche-inaczej-ale-strzelilismy-gola</link>
         <pubDate>Thu, 18 Apr 2024 00:25:00 GMT</pubDate>
         <description>Carlo Ancelotti po rewanżu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Valverde MVP</title>
-        <link>https://www.realmadryt.pl/news/128889-valverde-mvp</link>
-        <pubDate>Thu, 18 Apr 2024 00:19:00 GMT</pubDate>
-        <description>Fede Valverde otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Manchesterem City (1:1 k. 4:3).</description>
-    </item>
-    
-    <item>
-        <title>Nacho: Jesteśmy Realem Madryt i walczymy do końca</title>
-        <link>https://www.realmadryt.pl/news/128888-nacho-jestesmy-realem-madryt-i-walczymy-do-konca</link>
-        <pubDate>Thu, 18 Apr 2024 00:03:00 GMT</pubDate>
-        <description>Nacho po rewanżu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Etihad Stadium.</description>
     </item>
     
 </channel>
