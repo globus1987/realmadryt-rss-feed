@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 14:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 15:18:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ekstremalny surwiwal</title>
+        <link>https://www.realmadryt.pl/news/128909-ekstremalny-surwiwal</link>
+        <pubDate>Thu, 18 Apr 2024 17:15:00 GMT</pubDate>
+        <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje środowe spotkanie między Realem Madryt a Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Rúben Dias: Nie wiem nawet, co mam powiedzieć</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128904-carvajal-nie-zagra-w-pierwszym-meczu-z-bayernem</link>
         <pubDate>Thu, 18 Apr 2024 11:37:00 GMT</pubDate>
         <description>Hiszpański obrońca nie będzie mógł wystąpić w pierwszym półfinałowym spotkaniu z bawarskim klubem.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 18 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/128901-kartka-z-kalendarza-18-kwietnia</link>
-        <pubDate>Thu, 18 Apr 2024 11:15:00 GMT</pubDate>
-        <description>Śmierć legendarnego delegata, ważne zwycięstwa w Lidze Mistrzów, pierwszy Puchar Króla i zdobycie dwóch mistrzostw Hiszpanii. Co działo się 18 kwietnia?</description>
     </item>
     
 </channel>
