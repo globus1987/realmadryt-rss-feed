@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 18:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 18:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Mecz z Realem Sociedad przesunięty</title>
+        <link>https://www.realmadryt.pl/news/128924-oficjalnie-mecz-z-realem-sociedad-przesuniety</link>
+        <pubDate>Thu, 18 Apr 2024 20:35:00 GMT</pubDate>
+        <description>La Liga przychyliła się do prośby Realu Madryt o przesunięcie meczu z Realem Sociedad z uwagi na awans Królewskich do półfinału Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Skuteczna defensywa to sztuka</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128911-araujo-slowa-guendogana-wole-nie-mowic-co-mysle-mam-swoj-kodeks-wartosci</link>
         <pubDate>Thu, 18 Apr 2024 15:06:00 GMT</pubDate>
         <description>Ronald Araujo pojawił się na jednym z charytatywnych wydarzeń, gdzie dziennikarze mieli okazję zadać mu kilka pytań.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/128903-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Thu, 18 Apr 2024 14:45:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Barceloną, z którą zmierzą się w niedzielę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
     </item>
     
 </channel>
