@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 10:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 10:39:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé sprowokował przepychankę po meczu z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/128907-mbappe-sprowokowal-przepychanke-po-meczu-z-barcelona</link>
+        <pubDate>Thu, 18 Apr 2024 12:29:00 GMT</pubDate>
+        <description>Francuz miał schodzić do szatni bardzo podekscytowany, co nie spodobało się piłkarzom Barcelony. W tunelu miała stworzyć się przepychanka między nawet 60 osobami.</description>
+    </item>
     
     <item>
         <title>Real Madryt jest sercem, gdy inni są tylko rozumem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128893-jak-powazne-sa-urazy-viniciusa-carvajala-i-bellinghama</link>
         <pubDate>Thu, 18 Apr 2024 07:00:00 GMT</pubDate>
         <description>Wszyscy zawodnicy Realu Madryt skończyli bitwę z Manchesterem City wyczerpani i zmęczeni. Trzech graczy odczuwało jednak wyraźnie większe problemy od reszty, w tym jeden wydaje się najpoważniejsze.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalne terminy półfinałów z Bayernem Monachium</title>
-        <link>https://www.realmadryt.pl/news/128895-oficjalne-terminy-polfinalow-z-bayernem-monachium</link>
-        <pubDate>Thu, 18 Apr 2024 03:58:00 GMT</pubDate>
-        <description>Real Madryt w półfinałach Ligi Mistrzów zagra z Bayernem Monachium, który pokonał Arsenal. UEFA potwierdziła już oficjalne terminy tych meczów.</description>
     </item>
     
 </channel>
