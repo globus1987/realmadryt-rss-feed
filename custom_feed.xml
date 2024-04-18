@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 16:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 16:39:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 5x22: Czy dało się zagrać lepiej?</title>
+        <link>https://www.realmadryt.pl/news/128917-podcast-5x22-czy-dalo-sie-zagrac-lepiej</link>
+        <pubDate>Thu, 18 Apr 2024 18:30:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy awans w starciu z Manchesterem City oraz nadchodzący Klasyk z Barceloną.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Przesłanie dla wątpiących? Oni i tak nie zamilkną</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128907-mbappe-sprowokowal-przepychanke-po-meczu-z-barcelona</link>
         <pubDate>Thu, 18 Apr 2024 12:29:00 GMT</pubDate>
         <description>Francuz miał schodzić do szatni bardzo podekscytowany, co nie spodobało się piłkarzom Barcelony. W tunelu miała stworzyć się przepychanka między nawet 60 osobami.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt jest sercem, gdy inni są tylko rozumem</title>
-        <link>https://www.realmadryt.pl/news/128902-real-madryt-jest-sercem-gdy-inni-sa-tylko-rozumem</link>
-        <pubDate>Thu, 18 Apr 2024 12:15:00 GMT</pubDate>
-        <description>Przemyślenia Mateusza Wojtylaka po wczorajszym spotkaniu Manchesteru City z Realem Madryt.</description>
     </item>
     
 </channel>
