@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 08:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:18:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 18 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/128901-kartka-z-kalendarza-18-kwietnia</link>
+        <pubDate>Thu, 18 Apr 2024 11:15:00 GMT</pubDate>
+        <description>Śmierć legendarnego delegata, ważne zwycięstwa w Lidze Mistrzów, pierwszy Puchar Króla i zdobycie dwóch mistrzostw Hiszpanii. Co działo się 18 kwietnia?</description>
+    </item>
     
     <item>
         <title>Soto Grado na Klasyk</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128891-lunin-byly-trzy-opcje-by-zostac-na-srodku-i-wybralismy-jedna</link>
         <pubDate>Thu, 18 Apr 2024 00:29:00 GMT</pubDate>
         <description>Andrij Łunin udzielił wywiadu dla telewizji Movistar+ po rewanżowym ćwierćfinale Ligi Mistrzów z Manchesterem City, który Real Madryt wygrał w serii rzutów karnych. Przedstawiamy wypowiedzi bohatera Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Chcieliśmy grać trochę inaczej, ale strzeliliśmy gola</title>
-        <link>https://www.realmadryt.pl/news/128890-ancelotti-chcielismy-grac-troche-inaczej-ale-strzelilismy-gola</link>
-        <pubDate>Thu, 18 Apr 2024 00:25:00 GMT</pubDate>
-        <description>Carlo Ancelotti po rewanżu 1/4 finału Ligi Mistrzów z Manchesterem City udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Etihad Stadium.</description>
     </item>
     
 </channel>
