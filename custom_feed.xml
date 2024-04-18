@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Apr 2024 22:16:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 22:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128927-dzisiejsze-okladki</link>
+        <pubDate>Fri, 19 Apr 2024 00:32:00 GMT</pubDate>
+        <description>Echa awansu Realu Madryt i napięcie w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Wszyscy piłkarze do dyspozycji Ancelottiego na Klasyk</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128909-ekstremalny-surwiwal</link>
         <pubDate>Thu, 18 Apr 2024 17:15:00 GMT</pubDate>
         <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje środowe spotkanie między Realem Madryt a Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Rúben Dias: Nie wiem nawet, co mam powiedzieć</title>
-        <link>https://www.realmadryt.pl/news/128897-ruben-dias-nie-wiem-nawet-co-mam-powiedziec</link>
-        <pubDate>Thu, 18 Apr 2024 16:30:00 GMT</pubDate>
-        <description>Rúben Dias po wczorajszym meczu rozmawiał z dziennikarką TNT Sports. Przedstawiamy zapis tej rozmowy z Portugalczykiem.</description>
     </item>
     
 </channel>
