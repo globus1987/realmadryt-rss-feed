@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Apr 2024 21:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 22:17:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Z Baskonią o Final Four</title>
+        <link>https://www.realmadryt.pl/news/128950-z-baskonia-o-final-four</link>
+        <pubDate>Sat, 20 Apr 2024 00:09:00 GMT</pubDate>
+        <description>Real Madryt jako ostatni poznał swojego ćwierćfinałowego rywala. Będzie nim Baskonia, która w decydującym meczu pokonała Virtusa.</description>
+    </item>
     
     <item>
         <title>Nieregularny Bayern</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128871-baggio-mialem-oferty-z-realu-madryt-i-barcelony</link>
         <pubDate>Fri, 19 Apr 2024 15:42:00 GMT</pubDate>
         <description>Roberto Baggio podczas swojej piłkarskiej kariery miał okazję odrzucić oferty Realu Madryt i Barcelony. W tamtym czasie jego priorytetem była reprezentacja Włoch.</description>
-    </item>
-    
-    <item>
-        <title>Tytanowa obrona</title>
-        <link>https://www.realmadryt.pl/news/128915-tytanowa-obrona</link>
-        <pubDate>Fri, 19 Apr 2024 14:51:00 GMT</pubDate>
-        <description>Występ Realu Madryt na Etihad stanowił kluczowy dowód kapitalnej pracy, jaką zespół wykonuje w tym sezonie w defensywie. A wszystko to pomimo wielu niesprzyjających okoliczności.</description>
     </item>
     
 </channel>
