@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Apr 2024 15:18:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 15:38:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real budzi panikę</title>
+        <link>https://www.realmadryt.pl/news/128939-real-budzi-panike</link>
+        <pubDate>Fri, 19 Apr 2024 17:24:00 GMT</pubDate>
+        <description>Awans Los Blancos i ich najnowsza historia w Lidze Mistrzów budzą zaniepokojenie w Europie, zwłaszcza w Niemczech ze względu na Bayern, a we Francji ze względu na możliwy finał z PSG.</description>
+    </item>
     
     <item>
         <title>Niespotykany cud</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128887-rodrygo-koszmarem-city</link>
         <pubDate>Fri, 19 Apr 2024 12:15:00 GMT</pubDate>
         <description>Rodrygo zdobył w sumie cztery bramki w siedmiu meczach z Manchesterem City. Brazylijczyk już dwukrotnie walnie przyczyniał się do eliminowania Anglików z Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Po 22 latach La Liga poszła Realowi na rękę i przełożyła mecz na piątek</title>
-        <link>https://www.realmadryt.pl/news/128933-po-22-latach-la-liga-poszla-realowi-na-reke-i-przelozyla-mecz-na-piatek</link>
-        <pubDate>Fri, 19 Apr 2024 11:48:00 GMT</pubDate>
-        <description>Królewscy w końcu doczekali się „gestu” ze strony La Ligi, która przełożyła im spotkanie z Realem Sociedad na dzień wcześniej przed półfinałem Ligi Mistrzów.</description>
     </item>
     
 </channel>
