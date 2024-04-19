@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Apr 2024 22:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 22:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128952-dzisiejsze-okladki</link>
+        <pubDate>Sat, 20 Apr 2024 00:30:00 GMT</pubDate>
+        <description>Przyszłość Nacho, słowa Xabiego Alonso i mecz piłkarek Barcelony to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Z Baskonią o Final Four</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128910-niespotykany-cud</link>
         <pubDate>Fri, 19 Apr 2024 16:33:00 GMT</pubDate>
         <description>Real przetrwał na Etihad, wykazując się niewyobrażalną odpornością na rywala. 33 strzały City to był za mało. Los Blancos czekają teraz na półfinał z Bayernem.</description>
-    </item>
-    
-    <item>
-        <title>Baggio: Miałem oferty z Realu Madryt i Barcelony</title>
-        <link>https://www.realmadryt.pl/news/128871-baggio-mialem-oferty-z-realu-madryt-i-barcelony</link>
-        <pubDate>Fri, 19 Apr 2024 15:42:00 GMT</pubDate>
-        <description>Roberto Baggio podczas swojej piłkarskiej kariery miał okazję odrzucić oferty Realu Madryt i Barcelony. W tamtym czasie jego priorytetem była reprezentacja Włoch.</description>
     </item>
     
 </channel>
