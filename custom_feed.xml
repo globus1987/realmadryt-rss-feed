@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Apr 2024 05:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 06:24:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za bramkę Realu albo Barcelony!</title>
+        <link>https://www.realmadryt.pl/news/128916-400-zl-za-bramke-realu-albo-barcelony</link>
+        <pubDate>Fri, 19 Apr 2024 08:16:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Walker: Czapki z głów przed Realem Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128919-real-prosi-la-lige-o-przelozenie-meczu-z-sociedadem-na-piatek</link>
         <pubDate>Thu, 18 Apr 2024 18:40:00 GMT</pubDate>
         <description>Królewscy muszą liczyć na łaskę Javiera Tebasa i spółki, by mieć nieco więcej czasu na przygotowanie się do pierwszego spotkania z Bayernem Monachium w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x22: Czy dało się zagrać lepiej?</title>
-        <link>https://www.realmadryt.pl/news/128917-podcast-5x22-czy-dalo-sie-zagrac-lepiej</link>
-        <pubDate>Thu, 18 Apr 2024 18:30:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy awans w starciu z Manchesterem City oraz nadchodzący Klasyk z Barceloną.</description>
     </item>
     
 </channel>
