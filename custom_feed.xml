@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Apr 2024 05:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 05:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Walker: Czapki z głów przed Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/128926-walker-czapki-z-glow-przed-realem-madryt</link>
+        <pubDate>Fri, 19 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Kyle Walker udzielił wypowiedzi klubowym mediom City przed sobotnim półfinałem Pucharu Anglii z Chelsea. Przedstawiamy wypowiedzi obrońcy dotyczące starcia z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Casemiro: Ancelotti rozpłakał się, gdy odchodziłem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128917-podcast-5x22-czy-dalo-sie-zagrac-lepiej</link>
         <pubDate>Thu, 18 Apr 2024 18:30:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy awans w starciu z Manchesterem City oraz nadchodzący Klasyk z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Przesłanie dla wątpiących? Oni i tak nie zamilkną</title>
-        <link>https://www.realmadryt.pl/news/128906-ancelotti-przeslanie-dla-watpiacych-oni-i-tak-nie-zamilkna</link>
-        <pubDate>Thu, 18 Apr 2024 18:00:00 GMT</pubDate>
-        <description>Carlo Ancelotti nie pojawił się na konferencji prasowej po rewanżowym meczu z Manchesterem City i wyszedł jedynie do dziennikarzy w strefie mieszanej. Przedstawiamy wypowiedzi trenera na Etihad Stadium.</description>
     </item>
     
 </channel>
