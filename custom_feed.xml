@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Apr 2024 15:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 16:24:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Nacho zdecydowany na odejście</title>
+        <link>https://www.realmadryt.pl/news/128946-marca-nacho-zdecydowany-na-odejscie</link>
+        <pubDate>Fri, 19 Apr 2024 18:18:00 GMT</pubDate>
+        <description>MARCA informuje, że Nacho poinformował klub i trenera o swojej chęci spróbowania czegoś nowego.</description>
+    </item>
     
     <item>
         <title>Real budzi panikę</title>
@@ -38,7 +45,7 @@
         <title>Figo podgrzewa Klasyk… reklamą ze świńskim łbem</title>
         <link>https://www.realmadryt.pl/news/128934-figo-podgrzewa-klasyk-reklama-ze-swinskim-lbem</link>
         <pubDate>Fri, 19 Apr 2024 14:00:00 GMT</pubDate>
-        <description>Luís Figo, bohater jednego z najbardziej kontrowersyjnych transferów w historii futbolu, wziąć udział w kampanii reklamowej, która w ciekawy sposób nawiązuje do słynnego Klasyku i świńskiego łba rzuconego w kierunku Portugalczyka.</description>
+        <description>Luís Figo, bohater jednego z najbardziej kontrowersyjnych transferów w historii futbolu, wziął udział w kampanii reklamowej, która w ciekawy sposób nawiązuje do słynnego Klasyku i świńskiego łba rzuconego w kierunku Portugalczyka.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128935-oezil-barca-powinna-spojrzec-na-siebie-a-nie-zawsze-narzekac-na-sedziow</link>
         <pubDate>Fri, 19 Apr 2024 12:30:00 GMT</pubDate>
         <description>Mesut Özil udzielił wywiadu dziennikowi MARCA. Były piłkarz Realu Madryt był pytany o sprawy bieżące, ale także o swoją przeszłość w klubie.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo koszmarem City</title>
-        <link>https://www.realmadryt.pl/news/128887-rodrygo-koszmarem-city</link>
-        <pubDate>Fri, 19 Apr 2024 12:15:00 GMT</pubDate>
-        <description>Rodrygo zdobył w sumie cztery bramki w siedmiu meczach z Manchesterem City. Brazylijczyk już dwukrotnie walnie przyczyniał się do eliminowania Anglików z Ligi Mistrzów.</description>
     </item>
     
 </channel>
