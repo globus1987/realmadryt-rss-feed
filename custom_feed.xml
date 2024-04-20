@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 13:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 13:38:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bardzo ważne zwycięstwo piłkarek w Walencji</title>
+        <link>https://www.realmadryt.pl/news/128968-bardzo-wazne-zwyciestwo-pilkarek-w-walencji</link>
+        <pubDate>Sat, 20 Apr 2024 15:26:00 GMT</pubDate>
+        <description>W meczu 24. kolejki Ligi F piłkarki Realu Madryt odniosły bardzo ważne zwycięstwo w Walencji, gdzie pokonały trzecie w tabeli Levante 4:2. Dubletem popisała się Linda Caicedo, a po jednej bramce dołożyły Claudia Zornoza i Maite Oroz.</description>
+    </item>
     
     <item>
         <title>Zrobić krok w kierunku utrzymania</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128955-marca-mls-kierunkiem-dla-nacho</link>
         <pubDate>Sat, 20 Apr 2024 11:00:00 GMT</pubDate>
         <description>Nacho podjął decyzję o opuszczeniu Realu Madryt i jego kolejnym kierunkiem będzie najprawdopodobniej amerykańska MLS. Wychowanek Królewskich w ogóle nie patrzy tutaj na aspekt finansowy.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Dwie lub trzy zmiany w składzie na Klasyk</title>
-        <link>https://www.realmadryt.pl/news/128959-relevo-dwie-lub-trzy-zmiany-w-skladzie-na-klasyk</link>
-        <pubDate>Sat, 20 Apr 2024 10:30:00 GMT</pubDate>
-        <description>Zmęczenie po bitwie na Etihad dotknęło niektórych graczy, ale żaden nie chce przegapić pojedynku z Barceloną. Trener desygnuje skład po konsultacji z piłkarzami w sprawie ich dyspozycji fizycznej.</description>
     </item>
     
 </channel>
