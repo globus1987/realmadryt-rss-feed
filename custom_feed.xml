@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 16:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 16:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Iker Bravo na wylocie</title>
+        <link>https://www.realmadryt.pl/news/128914-iker-bravo-na-wylocie</link>
+        <pubDate>Sat, 20 Apr 2024 18:50:00 GMT</pubDate>
+        <description>Najbliższa przyszłość Ikera Bravo nie będzie związana z Realem Madryt. Klub nie zamierza skorzystać z opcji wykupu zawodnika za 10 milionów euro. Wszystko wskazuje na to, że młody napastnik wróci po sezonie do Leverkusen.</description>
+    </item>
     
     <item>
         <title>Santillana: Widzę w Realu Madryt mistrza Europy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128963-ostatni-trening-przed-barcelona</link>
         <pubDate>Sat, 20 Apr 2024 12:34:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Barceloną. Razem z drużyną nie trenowało trzech zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Bayern zagra dziś z Unionem</title>
-        <link>https://www.realmadryt.pl/news/128954-bayern-zagra-dzis-z-unionem</link>
-        <pubDate>Sat, 20 Apr 2024 12:10:00 GMT</pubDate>
-        <description>Bayern Monachium rozegra dziś swój pierwszy z dwóch meczów między spotkaniami ćwierćfinału i półfinału Ligi Mistrzów. Bawarczycy wybiorą się dziś do Berlina, gdzie zagrają z Unionem.</description>
     </item>
     
 </channel>
