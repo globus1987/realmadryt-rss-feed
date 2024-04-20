@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 09:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mendy nabawił się przeciążenia mięśniowego</title>
+        <link>https://www.realmadryt.pl/news/128962-mendy-nabawil-sie-przeciazenia-miesniowego</link>
+        <pubDate>Sat, 20 Apr 2024 11:41:00 GMT</pubDate>
+        <description>Francuski obrońca nie trenuje dzisiaj z zespołem, ale jego występ w jutrzejszym Klasyku nie jest jeszcze wykluczony.</description>
+    </item>
     
     <item>
         <title>Czy Carvajal trenuje z drużyną? [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128952-dzisiejsze-okladki</link>
         <pubDate>Sat, 20 Apr 2024 00:30:00 GMT</pubDate>
         <description>Przyszłość Nacho, słowa Xabiego Alonso i mecz piłkarek Barcelony to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Z Baskonią o Final Four</title>
-        <link>https://www.realmadryt.pl/news/128950-z-baskonia-o-final-four</link>
-        <pubDate>Sat, 20 Apr 2024 00:09:00 GMT</pubDate>
-        <description>Real Madryt jako ostatni poznał swojego ćwierćfinałowego rywala. Będzie nim Baskonia, która w decydującym meczu pokonała Virtusa.</description>
     </item>
     
 </channel>
