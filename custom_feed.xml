@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 09:16:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy Carvajal trenuje z drużyną? [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/128957-czy-carvajal-trenuje-z-druzyna-video</link>
+        <pubDate>Sat, 20 Apr 2024 11:30:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Barceloną w La Lidze. Oficjalnie kontuzjowanych jest dwóch piłkarzy.</description>
+    </item>
     
     <item>
         <title>MARCA: MLS kierunkiem dla Nacho</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128950-z-baskonia-o-final-four</link>
         <pubDate>Sat, 20 Apr 2024 00:09:00 GMT</pubDate>
         <description>Real Madryt jako ostatni poznał swojego ćwierćfinałowego rywala. Będzie nim Baskonia, która w decydującym meczu pokonała Virtusa.</description>
-    </item>
-    
-    <item>
-        <title>Nieregularny Bayern</title>
-        <link>https://www.realmadryt.pl/news/128945-nieregularny-bayern</link>
-        <pubDate>Fri, 19 Apr 2024 22:00:00 GMT</pubDate>
-        <description>Zespół Thomasa Tuchela w tym sezonie nie zachwyca, ale mimo to ma sporo zalet.</description>
     </item>
     
 </channel>
