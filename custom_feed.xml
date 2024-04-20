@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 10:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 10:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Barceloną</title>
+        <link>https://www.realmadryt.pl/news/128963-ostatni-trening-przed-barcelona</link>
+        <pubDate>Sat, 20 Apr 2024 12:34:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Barceloną. Razem z drużyną nie trenowało trzech zawodników.</description>
+    </item>
     
     <item>
         <title>Bayern zagra dziś z Unionem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128913-lawka-klasy-swiatowej</link>
         <pubDate>Sat, 20 Apr 2024 07:25:00 GMT</pubDate>
         <description>Awans do półfinału Ligi Mistrzów zapewnili Realowi w znacznej mierze rezerwowi. Carlo Ancelotti zdołał sprawić, by wszystkie ogniwa zespołu były gotowe do gry niezależnie od okoliczności.</description>
-    </item>
-    
-    <item>
-        <title>Goal: Bellingham faworytem do zdobycia Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/128947-goal-bellingham-faworytem-do-zdobycia-zlotej-pilki</link>
-        <pubDate>Sat, 20 Apr 2024 05:30:00 GMT</pubDate>
-        <description>Po odpadnięciu z Ligi Mistrzów Erlinga Haalanda zawęża się grono potencjalnych kandydatów do wygrania Złotej Piłki za sezon 2023/24. Obecnie faworytem do otrzymania nagrody ma być Jude Bellingham.</description>
     </item>
     
 </channel>
