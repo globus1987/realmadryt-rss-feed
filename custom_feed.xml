@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 11:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 12:31:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Barcelonę</title>
+        <link>https://www.realmadryt.pl/news/128964-kadra-na-barcelone</link>
+        <pubDate>Sat, 20 Apr 2024 14:26:00 GMT</pubDate>
+        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Barceloną na Santiago Bernabéu. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
+    </item>
     
     <item>
         <title>Xavi: Wyjdziemy po zwycięstwo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128956-kartka-z-kalendarza-20-kwietnia</link>
         <pubDate>Sat, 20 Apr 2024 09:50:00 GMT</pubDate>
         <description>Pierwszy finał José Mourinho, wygrane ligowe, urodziny koszykarskich legend i awans do finału Pucharu Europy. Co działo się 20 kwietnia?</description>
-    </item>
-    
-    <item>
-        <title>Przegrywanie jest normalne, anormalny jest Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/128940-przegrywanie-jest-normalne-anormalny-jest-real-madryt</link>
-        <pubDate>Sat, 20 Apr 2024 09:09:00 GMT</pubDate>
-        <description>Królewscy znaleźli sposób na to, żeby w Lidze Mistrzów przegrywać jak najmniej. Albo wygrywać jak najwięcej. Tylko oni są do czegoś takiego zdolni.</description>
     </item>
     
 </channel>
