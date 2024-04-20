@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 08:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 09:16:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: MLS kierunkiem dla Nacho</title>
+        <link>https://www.realmadryt.pl/news/128955-marca-mls-kierunkiem-dla-nacho</link>
+        <pubDate>Sat, 20 Apr 2024 11:00:00 GMT</pubDate>
+        <description>Nacho podjął decyzję o opuszczeniu Realu Madryt i jego kolejnym kierunkiem będzie najprawdopodobniej amerykańska MLS. Wychowanek Królewskich w ogóle nie patrzy tutaj na aspekt finansowy.</description>
+    </item>
     
     <item>
         <title>Relevo: Dwie lub trzy zmiany w składzie na Klasyk</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128945-nieregularny-bayern</link>
         <pubDate>Fri, 19 Apr 2024 22:00:00 GMT</pubDate>
         <description>Zespół Thomasa Tuchela w tym sezonie nie zachwyca, ale mimo to ma sporo zalet.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Daliśmy z siebie wszystko, ale to nie było wystarczające</title>
-        <link>https://www.realmadryt.pl/news/128944-guardiola-dalismy-z-siebie-wszystko-ale-to-nie-bylo-wystarczajace</link>
-        <pubDate>Fri, 19 Apr 2024 21:15:00 GMT</pubDate>
-        <description>Trener Manchesteru City, Pep Guardiola, pojawił się na konferencji prasowej przed meczem z Chelsea w półfinale FA Cup. W jej trakcie nie zabrakło pytań związanych ze środowym odpadnięciem z Ligi Mistrzów z Realem Madryt.</description>
     </item>
     
 </channel>
