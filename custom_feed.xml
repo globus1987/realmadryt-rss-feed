@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Apr 2024 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 22:17:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/128982-dzisiejsze-okladki</link>
+        <pubDate>Sun, 21 Apr 2024 00:00:00 GMT</pubDate>
+        <description>Dzisiejszy Klasyk, wyścig w Chinach, porażka Katalonek i koniec kariery hiszpańskiej tenisistki to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Idol, który robi wszystko po swojemu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128922-santillana-widze-w-realu-madryt-mistrza-europy</link>
         <pubDate>Sat, 20 Apr 2024 17:59:00 GMT</pubDate>
         <description>Byli zawodnicy Realu Madryt i Barcelony, Carlos Santillana, Alfonso Pérez, Quique Estebaranz i Julio Salinas, spotkali się na meczu padla zorganizowanym przez Nacex. Przy okazji podzielili się swoimi odczuciami po batalii Realu Madryt na Etihad Stadium i w związku ze zbliżającym się Klasykiem.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal na pole position po opaskę</title>
-        <link>https://www.realmadryt.pl/news/128961-carvajal-na-pole-position-po-opaske</link>
-        <pubDate>Sat, 20 Apr 2024 17:08:00 GMT</pubDate>
-        <description>Kapitan Nacho chce opuścić okręt. Modrić także jest już jedną nogą poza Realem. Tak więc Dani Carvajal to obecny faworyt do przejęcia sterów.</description>
     </item>
     
 </channel>
