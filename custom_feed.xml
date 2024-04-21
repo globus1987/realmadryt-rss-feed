@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 05:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 06:23:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za pierwszego gola w Klasyku!</title>
+        <link>https://www.realmadryt.pl/news/128960-300-zl-za-pierwszego-gola-w-klasyku</link>
+        <pubDate>Sun, 21 Apr 2024 08:11:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Ter Stegen: Mamy szansę zbliżyć się do Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128953-militao-realna-opcja-na-monachium</link>
         <pubDate>Sat, 20 Apr 2024 20:59:00 GMT</pubDate>
         <description>Éder Militão zebrał już swoje pierwsze minuty i teraz ma zacząć wracać na pełny rytm meczowy. Brazylijczyk będzie jedną z realnych opcji do zastąpienia Daniego Carvajala w pierwszym meczu z Bayernem Monachium.</description>
-    </item>
-    
-    <item>
-        <title>Bayern rotuje i miażdży Union</title>
-        <link>https://www.realmadryt.pl/news/128972-bayern-rotuje-i-miazdzy-union</link>
-        <pubDate>Sat, 20 Apr 2024 20:22:00 GMT</pubDate>
-        <description>W 30. kolejce Bundesligi najbliższy rywal Realu Madryt w Lidze Mistrzów, Bayern Monachium, bezproblemowo wygrał na wyjeździe z Unionem Berlin aż 5:1. Gole dla Bawarczyków zdobyli Thomas Müller (dwa), Leon Goretzka, Harry Kane i Mathys Tel.</description>
     </item>
     
 </channel>
