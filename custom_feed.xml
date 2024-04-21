@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 18:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 18:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rozgrzewka przed Barceloną [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/128999-rozgrzewka-przed-barcelona-video</link>
+        <pubDate>Sun, 21 Apr 2024 20:23:00 GMT</pubDate>
+        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Barceloną. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
+    </item>
     
     <item>
         <title>Real – Barcelona: Znamy składy!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128976-ktory-prezes-wygral-wiecej-klasykow</link>
         <pubDate>Sun, 21 Apr 2024 15:08:00 GMT</pubDate>
         <description>Przyjrzyjmy się danym porównawczym Realu Florentino Péreza i Barcelony Joana Laporty w Clásicos.</description>
-    </item>
-    
-    <item>
-        <title>Klasyk nr 256</title>
-        <link>https://www.realmadryt.pl/news/128995-klasyk-nr-256</link>
-        <pubDate>Sun, 21 Apr 2024 14:44:00 GMT</pubDate>
-        <description>Real ma niewielką przewagę nad Barceloną, jeśli chodzi o bilans bezpośrednich starć. Wygrał 104 Clásicos, natomiast Blaugrana 99.</description>
     </item>
     
 </channel>
