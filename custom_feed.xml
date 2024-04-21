@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 13:19:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Który prezes wygrał więcej Klasyków?</title>
+        <link>https://www.realmadryt.pl/news/128976-ktory-prezes-wygral-wiecej-klasykow</link>
+        <pubDate>Sun, 21 Apr 2024 15:08:00 GMT</pubDate>
+        <description>Przyjrzyjmy się danym porównawczym Realu Florentino Péreza i Barcelony Joana Laporty w Clásicos.</description>
+    </item>
     
     <item>
         <title>Klasyk nr 256</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128974-mateo-zbliza-sie-ostatnia-prosta-sezonu-i-musimy-dac-z-siebie-maksimum</link>
         <pubDate>Sun, 21 Apr 2024 11:25:00 GMT</pubDate>
         <description>Chus Mateo udzielił wywiadu klubowym mediom przed meczem z Saragossą w Lidze Endesa. Królewscy walczą o odzyskanie pozycji lidera.</description>
-    </item>
-    
-    <item>
-        <title>Pierwszy Klasyk pod zasuniętym dachem</title>
-        <link>https://www.realmadryt.pl/news/128990-pierwszy-klasyk-pod-zasunietym-dachem</link>
-        <pubDate>Sun, 21 Apr 2024 11:20:00 GMT</pubDate>
-        <description>Real zdecydował, że dach Estadio Santiago Bernabéu na El Clásico będzie dziś wieczorem zamknięty. Taka jest wola klubu, a to on rządzi swoim obiektem w rozgrywkach ligowych.</description>
     </item>
     
 </channel>
