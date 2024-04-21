@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 11:27:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 11:40:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Przepaść między Realem a Barceloną jest coraz większa”</title>
+        <link>https://www.realmadryt.pl/news/128938-przepasc-miedzy-realem-a-barcelona-jest-coraz-wieksza</link>
+        <pubDate>Sun, 21 Apr 2024 13:35:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat sytuacji Realu Madryt i Barcelony przed zbliżającym się Klasykiem. Przedstawiamy przemyślenia dziennikarza.</description>
+    </item>
     
     <item>
         <title>Mijatović: W historii było wiele Klasyków, w których wygrywał zespół w gorszej formie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128980-kartka-z-kalendarza-21-kwietnia</link>
         <pubDate>Sun, 21 Apr 2024 09:44:00 GMT</pubDate>
         <description>Słynny gol i cieszynka Cristiano na Camp Nou w drodze po mistrzostwo Hiszpanii, wygrana z Getafe z czerwoną kartką dla Pepe czy urodziny Isco. Co działo się 21 kwietnia?</description>
-    </item>
-    
-    <item>
-        <title>Klasyk kontra murawa</title>
-        <link>https://www.realmadryt.pl/news/128965-klasyk-kontra-murawa</link>
-        <pubDate>Sun, 21 Apr 2024 08:57:00 GMT</pubDate>
-        <description>Barcelona w niedzielę stanie przed ostatnią szansą podłączenia się do walki o mistrzowski tytuł. Obie drużyny poza silnym rywalem będą musiały też stawić czoła jeszcze jednej rzeczy. Mowa o murawie, której stan budzi nieustanne wątpliwości.</description>
     </item>
     
 </channel>
