@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 16:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 17:16:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real – Barcelona: Znamy składy!</title>
+        <link>https://www.realmadryt.pl/news/128997-real-barcelona-znamy-sklady</link>
+        <pubDate>Sun, 21 Apr 2024 19:08:00 GMT</pubDate>
+        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu przeciwko Barcelonie. Mecz rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Dzisiaj debiut telebimu 360 stopni</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128995-klasyk-nr-256</link>
         <pubDate>Sun, 21 Apr 2024 14:44:00 GMT</pubDate>
         <description>Real ma niewielką przewagę nad Barceloną, jeśli chodzi o bilans bezpośrednich starć. Wygrał 104 Clásicos, natomiast Blaugrana 99.</description>
-    </item>
-    
-    <item>
-        <title>Pewnie zwycięstwo w Saragossie</title>
-        <link>https://www.realmadryt.pl/news/128993-pewnie-zwyciestwo-w-saragossie</link>
-        <pubDate>Sun, 21 Apr 2024 14:25:00 GMT</pubDate>
-        <description>W 30. kolejce Ligi Endesa Real Madryt pokonał na wyjeździe Saragossę. Królewscy odzyskali tymczasowo pozycję lidera i pozostaną na niej, jeśli Baskonia pokona dzisiaj Unicaję.</description>
     </item>
     
 </channel>
