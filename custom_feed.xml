@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 21:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 21:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: To była wspaniała noc, jakich wiele na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/129006-modric-to-byla-wspaniala-noc-jakich-wiele-na-bernabeu</link>
+        <pubDate>Sun, 21 Apr 2024 23:38:00 GMT</pubDate>
+        <description>Luka Modrić udzielił wywiadu klubowej telewizji po wygranej 3:2 z Barceloną. Przedstawiamy słowa pomocnika Królewskich.</description>
+    </item>
     
     <item>
         <title>Lamine Yamal MVP Klasyku</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128985-ancelotti-jedynym-zagrozonym-zawieszeniem</link>
         <pubDate>Sun, 21 Apr 2024 18:13:00 GMT</pubDate>
         <description>Królewscy przystępują do meczu z Barceloną z jednym zagrożonym zawieszeniem. Za pięć dni zagrają na wyjeździe z Realem Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Specjalna piłka i potencjalnie ponad 650 milionów widzów</title>
-        <link>https://www.realmadryt.pl/news/128969-specjalna-pilka-i-potencjalnie-ponad-650-milionow-widzow</link>
-        <pubDate>Sun, 21 Apr 2024 17:27:00 GMT</pubDate>
-        <description>Dedykowana piłka, milionowa widownia na całym świecie, 36 kamer na stadionie. La Liga chwali się bogata oprawą ligowego Klasyku na Santiago Bernabéu.</description>
     </item>
     
 </channel>
