@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 22:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 23:18:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius obśmiał celebrację Fermína Lópeza</title>
+        <link>https://www.realmadryt.pl/news/129015-vinicius-obsmial-celebracje-fermina-lopeza</link>
+        <pubDate>Mon, 22 Apr 2024 01:12:00 GMT</pubDate>
+        <description>Brazylijczyk kilka chwil po zakończeniu Klasyku skomentował post jednego z kibiców na portalu X.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129014-dzisiejsze-okladki</link>
+        <pubDate>Mon, 22 Apr 2024 00:58:00 GMT</pubDate>
+        <description>Klasyk to najważniejsza kwestia poruszana na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Będąc razem, możemy osiągnąć coś pozytywnego w tym sezonie</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129000-ocen-pilkarzy-po-meczu-z-barcelona</link>
         <pubDate>Sun, 21 Apr 2024 23:08:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Na autostradzie do mistrzostwa!</title>
-        <link>https://www.realmadryt.pl/news/129001-na-autostradzie-do-mistrzostwa</link>
-        <pubDate>Sun, 21 Apr 2024 21:56:00 GMT</pubDate>
-        <description>W meczu 32. kolejki La Ligi Real Madryt wygrał u siebie z Barceloną 3:2. Bramki dla Królewskich zdobyli Vinícius Júnior (z rzutu karnego), Lucas Vázquez i Jude Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Barceloną [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/128999-rozgrzewka-przed-barcelona-video</link>
-        <pubDate>Sun, 21 Apr 2024 20:23:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Barceloną. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
     </item>
     
 </channel>
