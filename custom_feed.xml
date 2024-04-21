@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 19:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 20:18:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 1:1</title>
+        <link>https://www.realmadryt.pl/news/129001-do-przerwy-1-1</link>
+        <pubDate>Sun, 21 Apr 2024 21:56:00 GMT</pubDate>
+        <description>W meczu 32. kolejki La Ligi Real Madryt remisuje u siebie z Barceloną 1:1. Pierwszą bramkę zdobyli goście po strzale Andreasa Christensena. Królewscy odpowiedzieli w 18. minucie po trafieniu Viniego z rzutu karnego, podyktowanego po faulu Paua Cubarsíego na Lucasie.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Barceloną [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128994-lekarz-hotelarz-dramaturg-i-napastnik-realu-madryt</link>
         <pubDate>Sun, 21 Apr 2024 15:44:00 GMT</pubDate>
         <description>Choć Klasyk sam w sobie kipi historią, to jednak wciąż niektóre jej rozdziały nie są aż tak znane. Dziś przedstawimy jeden z nich, a jego bohaterem będzie Jaime Lazcano.</description>
-    </item>
-    
-    <item>
-        <title>Który prezes wygrał więcej Klasyków?</title>
-        <link>https://www.realmadryt.pl/news/128976-ktory-prezes-wygral-wiecej-klasykow</link>
-        <pubDate>Sun, 21 Apr 2024 15:08:00 GMT</pubDate>
-        <description>Przyjrzyjmy się danym porównawczym Realu Florentino Péreza i Barcelony Joana Laporty w Clásicos.</description>
     </item>
     
 </channel>
