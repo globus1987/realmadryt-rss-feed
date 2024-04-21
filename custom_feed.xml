@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 09:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 09:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Barcelony na Klasyk</title>
+        <link>https://www.realmadryt.pl/news/128991-kadra-barcelony-na-klasyk</link>
+        <pubDate>Sun, 21 Apr 2024 11:39:00 GMT</pubDate>
+        <description>Xavi Hernández ogłosił listę powołanych na dzisiejsze stracie. W kadrze nie znalazło się tylko dwóch piłkarzy pierwszego zespołu, którzy od dłuższego czasu pozostają poza grą.</description>
+    </item>
     
     <item>
         <title>Mateo: Zbliża się ostatnia prosta sezonu i musimy dać z siebie maksimum</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128978-ter-stegen-mamy-szanse-zblizyc-sie-do-realu</link>
         <pubDate>Sun, 21 Apr 2024 07:30:00 GMT</pubDate>
         <description>Marc-André ter Stegen udzielił wywiadu dla platformy DAZN przed dzisiejszym meczem z Realem Madryt. Przedstawiamy wybrane wypowiedzi kapitana FC Barcelona z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Barcelona: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/128983-real-madryt-barcelona-przewidywane-sklady</link>
-        <pubDate>Sun, 21 Apr 2024 06:15:00 GMT</pubDate>
-        <description>Królewscy podejdą do dzisiejszego meczu jedynie bez dwóch zawodników: Thibaut Courtois i Davida Alaby. Nikt nie jest zawieszony i wstępnie wszyscy poza tą dwójką są dostępni na Klasyk.</description>
     </item>
     
 </channel>
