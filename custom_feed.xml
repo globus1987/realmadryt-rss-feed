@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 03:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 04:24:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/128983-przewidywane-sklady</link>
+        <pubDate>Sun, 21 Apr 2024 06:15:00 GMT</pubDate>
+        <description>Królewscy podejdą do dzisiejszego meczu jedynie bez dwóch zawodników: Thibaut Courtois i Davida Alaby. Nikt nie jest zawieszony i wstępnie wszyscy poza tą dwójką są dostępni na Klasyk.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Do dziś nie widziałem żadnego kibica, który byłby smutny z powodu awansu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128942-baptista-real-madryt-ma-dna-ktore-pomaga-mu-wytrwac-w-najtrudniejszych-momentach</link>
         <pubDate>Sat, 20 Apr 2024 19:40:00 GMT</pubDate>
         <description>Júlio Baptista i Carles Puyol wzięli udział w wydarzeniu zorganizowanym przez Mahou z okazji zbliżającego się Klasyku. Byli piłkarze Realu Madryt i Barcelony podzielili się swoimi odczuciami przed niedzielnym spotkaniem.</description>
-    </item>
-    
-    <item>
-        <title>Iker Bravo na wylocie</title>
-        <link>https://www.realmadryt.pl/news/128914-iker-bravo-na-wylocie</link>
-        <pubDate>Sat, 20 Apr 2024 18:50:00 GMT</pubDate>
-        <description>Najbliższa przyszłość Ikera Bravo nie będzie związana z Realem Madryt. Klub nie zamierza skorzystać z opcji wykupu zawodnika za 10 milionów euro. Wszystko wskazuje na to, że młody napastnik wróci po sezonie do Leverkusen.</description>
     </item>
     
 </channel>
