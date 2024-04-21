@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:56:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klasyk nr 256</title>
+        <link>https://www.realmadryt.pl/news/128995-klasyk-nr-256</link>
+        <pubDate>Sun, 21 Apr 2024 14:44:00 GMT</pubDate>
+        <description>Real ma niewielką przewagę nad Barceloną, jeśli chodzi o bilans bezpośrednich starć. Wygrał 104 Clásicos, natomiast Blaugrana 99.</description>
+    </item>
     
     <item>
         <title>Pewnie zwycięstwo w Saragossie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/128990-pierwszy-klasyk-pod-zasunietym-dachem</link>
         <pubDate>Sun, 21 Apr 2024 11:20:00 GMT</pubDate>
         <description>Real zdecydował, że dach Estadio Santiago Bernabéu na El Clásico będzie dziś wieczorem zamknięty. Taka jest wola klubu, a to on rządzi swoim obiektem w rozgrywkach ligowych.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti i Xavi po raz dziesiąty</title>
-        <link>https://www.realmadryt.pl/news/128981-ancelotti-i-xavi-po-raz-dziesiaty</link>
-        <pubDate>Sun, 21 Apr 2024 11:16:00 GMT</pubDate>
-        <description>Carlo Ancelotti i Xavi Hernández zmierzą się dzisiaj ze sobą po raz dziesiąty w roli trenerów Realu Madryt i Barcelony. Dotychczasowy bilans to pięć zwycięstw na korzyść Włocha i cztery zwycięstwa na korzyść Katalończyka.</description>
     </item>
     
 </channel>
