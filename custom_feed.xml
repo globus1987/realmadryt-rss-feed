@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Apr 2024 08:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 09:19:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti i Xavi po raz dziesiąty</title>
+        <link>https://www.realmadryt.pl/news/128981-ancelotti-i-xavi-po-raz-dziesiaty</link>
+        <pubDate>Sun, 21 Apr 2024 11:16:00 GMT</pubDate>
+        <description>Carlo Ancelotti i Xavi Hernández zmierzą się dzisiaj ze sobą po raz dziesiąty w roli trenerów Realu Madryt i Barcelony. Dotychczasowy bilans to pięć zwycięstw na korzyść Włocha i cztery zwycięstwa na korzyść Katalończyka.</description>
+    </item>
+    
+    <item>
+        <title>Raúl: Żyję teraźniejszością, a teraźniejszość to Castilla</title>
+        <link>https://www.realmadryt.pl/news/128988-raul-zyje-terazniejszoscia-a-terazniejszosc-to-castilla</link>
+        <pubDate>Sun, 21 Apr 2024 10:58:00 GMT</pubDate>
+        <description>Trener Castilli, Raúl González, rozmawiał z mediami po wczorajszym spotkaniu z Alcoyano. Poniżej możecie zapoznać się z wybranymi słowami szkoleniowca.</description>
+    </item>
     
     <item>
         <title>Odzyskać pozycję lidera</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/128982-dzisiejsze-okladki</link>
         <pubDate>Sun, 21 Apr 2024 00:00:00 GMT</pubDate>
         <description>Dzisiejszy Klasyk, wyścig w Chinach, porażka Katalonek i koniec kariery hiszpańskiej tenisistki to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Idol, który robi wszystko po swojemu</title>
-        <link>https://www.realmadryt.pl/news/128966-idol-ktory-robi-wszystko-po-swojemu</link>
-        <pubDate>Sat, 20 Apr 2024 22:52:00 GMT</pubDate>
-        <description>Xabi Alonso jest w Leverkusen kimś więcej niż idolem. Nikt wcześniej nie dał fanom Bayeru tego, co dał im Bask. Aptekarze po raz pierwszy w historii zdobyli mistrzostwo Niemiec.</description>
-    </item>
-    
-    <item>
-        <title>Fala, która ma zatopić Barcelonę</title>
-        <link>https://www.realmadryt.pl/news/128932-fala-ktora-ma-zatopic-barcelone</link>
-        <pubDate>Sat, 20 Apr 2024 22:14:00 GMT</pubDate>
-        <description>Potencjalna wygrana w Klasyku sprawi, że Real Madryt odjedzie Barcelonie na 11 punktów i ze spokojem będzie mógł przygotowywać się do półfinałów z Bayernem. Królewscy są na fali i nie myślą o zmęczeniu. Drużyna chce wykorzystać fantastyczny moment, aby na swoim obiekcie przesądzić o losach ligowego tytułu.</description>
     </item>
     
 </channel>
