@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 13:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 14:18:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jubileusz Fede Valverde</title>
+        <link>https://www.realmadryt.pl/news/129021-jubileusz-fede-valverde</link>
+        <pubDate>Mon, 22 Apr 2024 16:03:00 GMT</pubDate>
+        <description>Urugwajski pomocnik mógł wczoraj cieszyć się nie tylko z wygranej w Klasyku, ale również z tego powodu, że rozegrał 250. mecz w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Laporta: Jeśli potwierdzimy legalność gola-widmo, poprosimy o powtórzenie meczu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129020-bellingham-lucas-rozegral-niewiarygodny-mecz</link>
         <pubDate>Mon, 22 Apr 2024 10:00:00 GMT</pubDate>
         <description>Jude Bellingham rozmawiał z klubową telewizją po zakończeniu Klasyku.</description>
-    </item>
-    
-    <item>
-        <title>Dončić finalistą do nagrody MVP</title>
-        <link>https://www.realmadryt.pl/news/129018-doncic-finalista-do-nagrody-mvp</link>
-        <pubDate>Mon, 22 Apr 2024 09:27:00 GMT</pubDate>
-        <description>Słoweński koszykarz znalazł się trójce nominowanych do nagrody dla najlepszego zawodnika ligi w sezonie zasadniczym.</description>
     </item>
     
 </channel>
