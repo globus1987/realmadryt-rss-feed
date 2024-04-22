@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 11:54:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 12:35:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają wolne do środy</title>
+        <link>https://www.realmadryt.pl/news/129019-krolewscy-maja-wolne-do-srody</link>
+        <pubDate>Mon, 22 Apr 2024 14:34:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero pojutrze i wówczas rozpoczną przygotowania do meczu z Realem Sociedad, z którym zmierzą się w piątek. Dzisiaj i jutro w Valdebebas można spodziewać się obecności tylko poważnie kontuzjowanych graczy.</description>
+    </item>
     
     <item>
         <title>Koniec sezonu dla De Jonga</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129017-swiatek-brady-dokovic-czy-nadal-ogladali-klasyk-na-santiago-bernabeu</link>
         <pubDate>Mon, 22 Apr 2024 09:00:00 GMT</pubDate>
         <description>Wiele gwiazd sportu pojawiło się wczoraj na stadionie. Niektóre z nich otrzymały pamiątkowe koszulki od Florentino Péreza.</description>
-    </item>
-    
-    <item>
-        <title>Mendy i Davies – miejsce jest tylko dla jednego</title>
-        <link>https://www.realmadryt.pl/news/128987-mendy-i-davies-miejsce-jest-tylko-dla-jednego</link>
-        <pubDate>Mon, 22 Apr 2024 08:18:00 GMT</pubDate>
-        <description>Tego lata Real Madryt będzie musiał podjąć decyzję, na kogo postawić na lewej obronie – Ferlanda Mendy'ego czy Alphonso Daviesa. Francuz umacnia swoją pozycję w zespole i ma nieoceniony wkład w defensywę Królewskich. Kanadyjczyk z kolei w dalszym ciągu nie chce przedłużać kontraktu z Bayernem Monachium.</description>
     </item>
     
 </channel>
