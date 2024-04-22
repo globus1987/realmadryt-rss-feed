@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 07:17:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 07:38:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dončić finalistą do nagrody MVP</title>
+        <link>https://www.realmadryt.pl/news/129018-doncic-finalista-do-nagrody-mvp</link>
+        <pubDate>Mon, 22 Apr 2024 09:27:00 GMT</pubDate>
+        <description>Słoweński koszykarz znalazł się trójce nominowanych do nagrody dla najlepszego zawodnika ligi w sezonie zasadniczym.</description>
+    </item>
     
     <item>
         <title>Świątek, Brady, Đoković czy Nadal oglądali Klasyk na Santiago Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129008-ter-stegen-brak-mi-slow-to-hanba-dla-futbolu</link>
         <pubDate>Sun, 21 Apr 2024 23:53:00 GMT</pubDate>
         <description>Niemiecki bramkarz pojawił się w strefie mieszanej i na gorąco skomentował wydarzenia z boiska.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: To była wspaniała noc, jakich wiele na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/129006-modric-to-byla-wspaniala-noc-jakich-wiele-na-bernabeu</link>
-        <pubDate>Sun, 21 Apr 2024 23:38:00 GMT</pubDate>
-        <description>Luka Modrić udzielił wywiadu klubowej telewizji po wygranej 3:2 z Barceloną. Przedstawiamy słowa pomocnika Królewskich.</description>
     </item>
     
 </channel>
