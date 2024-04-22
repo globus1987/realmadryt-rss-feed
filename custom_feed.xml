@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 19:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 20:19:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Olympiakos zwycięzcą Ligi Młodzieżowej</title>
+        <link>https://www.realmadryt.pl/news/129040-olympiakos-zwyciezca-ligi-mlodziezowej</link>
+        <pubDate>Mon, 22 Apr 2024 22:00:00 GMT</pubDate>
+        <description>Olympiakos po raz pierwszy w swojej historii sięgnął po zwycięstwo w Lidze Młodzieżowej. W finale pokonał Milan 3:0.</description>
+    </item>
     
     <item>
         <title>Bellingham otrzymał nagrodę Laureus!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129021-jubileusz-fede-valverde</link>
         <pubDate>Mon, 22 Apr 2024 16:03:00 GMT</pubDate>
         <description>Urugwajski pomocnik mógł wczoraj cieszyć się nie tylko z wygranej w Klasyku, ale również z tego powodu, że rozegrał 250. mecz w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Jeśli potwierdzimy legalność gola-widmo, poprosimy o powtórzenie meczu</title>
-        <link>https://www.realmadryt.pl/news/129029-laporta-jesli-potwierdzimy-legalnosc-gola-widmo-poprosimy-o-powtorzenie-meczu</link>
-        <pubDate>Mon, 22 Apr 2024 15:12:00 GMT</pubDate>
-        <description>Joan Laporta wystosował przemowę instytucjonalną za pośrednictwem mediów Barcelony. Przedstawiamy wypowiedzi jej prezesa dotyczące niedzielnego Klasyku.</description>
     </item>
     
 </channel>
