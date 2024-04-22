@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 05:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 05:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 5x23 – pytania</title>
+        <link>https://www.realmadryt.pl/news/129007-podcast-5x23-pytania</link>
+        <pubDate>Mon, 22 Apr 2024 07:25:00 GMT</pubDate>
+        <description>Rozpoczęliśmy przygotowania do nagrania kolejnego odcinka piątego sezonu podcastu RealMadryt.pl. Ponownie zbieramy pytania od użytkowników przed kolejną publikacją.</description>
+    </item>
     
     <item>
         <title>Xavi: Byliśmy lepsi i zasłużyliśmy na zwycięstwo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129005-lucas-zrobilismy-wielki-krok-ku-zdobyciu-mistrzostwa</link>
         <pubDate>Sun, 21 Apr 2024 23:27:00 GMT</pubDate>
         <description>Lucas Vázquez udzielił wywiadu dla klubowej telewizji po wygranym 3:2 meczu z FC Barcelona. Przedstawiamy wypowiedzi</description>
-    </item>
-    
-    <item>
-        <title>CANAL+: Piłka nie przekroczyła linii bramkowej</title>
-        <link>https://www.realmadryt.pl/news/129004-canal-pilka-nie-przekroczyla-linii-bramkowej</link>
-        <pubDate>Sun, 21 Apr 2024 23:27:00 GMT</pubDate>
-        <description>Gol dla Barcelony słusznie został nieuznany, co udowodniła polska telewizja, która skorzystała ze swojej technologii mapowania obrazu.</description>
     </item>
     
 </channel>
