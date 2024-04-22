@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 17:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 17:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Kartka dla ciebie! I dla ciebie! Macie się uspokoić! Relax!”</title>
+        <link>https://www.realmadryt.pl/news/129036-kartka-dla-ciebie-i-dla-ciebie-macie-sie-uspokoic-relax</link>
+        <pubDate>Mon, 22 Apr 2024 19:30:00 GMT</pubDate>
+        <description>Hiszpańska Federacja Piłkarska udostępniła publicznie nagrania rozmów między sędziami w czasie Klasyku. Przedstawiamy pełne tłumaczenie zamieszczonego ponad 6-minutowego filmiku z kontrowersyjnych sytuacji w spotkaniu.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Barceloną</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129027-koniec-sezonu-dla-de-jonga</link>
         <pubDate>Mon, 22 Apr 2024 13:43:00 GMT</pubDate>
         <description>Holender nabawił się kontuzji po starciu z Valverde, choć Urugwajczyk w tej sytuacji nie faulował De Jonga.</description>
-    </item>
-    
-    <item>
-        <title>Media: Xavi otwarty na pozostanie w Barcelonie</title>
-        <link>https://www.realmadryt.pl/news/129026-media-xavi-otwarty-na-pozostanie-w-barcelonie</link>
-        <pubDate>Mon, 22 Apr 2024 13:20:00 GMT</pubDate>
-        <description>Trener Barcelony 27 stycznia publicznie przekazał, że odejdzie z Barcelony po zakończeniu tego sezonu. Dzisiaj po porażce w Klasyku media w Katalonii zgodnie zaczęły podawać, że szkoleniowiec jest otwarty na pozostanie w klubie i czeka na spotkanie z włodarzami.</description>
     </item>
     
 </channel>
