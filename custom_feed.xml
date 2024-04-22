@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 07:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 08:24:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Lucas rozegrał niewiarygodny mecz</title>
+        <link>https://www.realmadryt.pl/news/129020-bellingham-lucas-rozegral-niewiarygodny-mecz</link>
+        <pubDate>Mon, 22 Apr 2024 10:00:00 GMT</pubDate>
+        <description>Jude Bellingham rozmawiał z klubową telewizją po zakończeniu Klasyku.</description>
+    </item>
     
     <item>
         <title>Dončić finalistą do nagrody MVP</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129009-real-madryt-3-2-barcelona-video</link>
         <pubDate>Sun, 21 Apr 2024 23:58:00 GMT</pubDate>
         <description>Real Madryt wygrał w 32. kolejce ligowej z Barceloną 3:2.</description>
-    </item>
-    
-    <item>
-        <title>Ter Stegen: Brak mi słów, to hańba dla futbolu</title>
-        <link>https://www.realmadryt.pl/news/129008-ter-stegen-brak-mi-slow-to-hanba-dla-futbolu</link>
-        <pubDate>Sun, 21 Apr 2024 23:53:00 GMT</pubDate>
-        <description>Niemiecki bramkarz pojawił się w strefie mieszanej i na gorąco skomentował wydarzenia z boiska.</description>
     </item>
     
 </channel>
