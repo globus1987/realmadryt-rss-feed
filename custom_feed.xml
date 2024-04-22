@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 03:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 03:39:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xavi: Byliśmy lepsi i zasłużyliśmy na zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/129013-xavi-bylismy-lepsi-i-zasluzylismy-na-zwyciestwo</link>
+        <pubDate>Mon, 22 Apr 2024 05:30:00 GMT</pubDate>
+        <description>Trener Barcelony, Xavi Hernández, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>Vinícius obśmiał celebrację Fermína Lópeza</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129004-canal-pilka-nie-przekroczyla-linii-bramkowej</link>
         <pubDate>Sun, 21 Apr 2024 23:27:00 GMT</pubDate>
         <description>Gol dla Barcelony słusznie został nieuznany, co udowodniła polska telewizja, która skorzystała ze swojej technologii mapowania obrazu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/129000-ocen-pilkarzy-po-meczu-z-barcelona</link>
-        <pubDate>Sun, 21 Apr 2024 23:08:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
