@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Apr 2024 22:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 22:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129047-dzisiejsze-okladki</link>
+        <pubDate>Tue, 23 Apr 2024 00:19:00 GMT</pubDate>
+        <description>Rozdanie nagród Laureus i atak prezesa Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Podcast 5x23: Wygrany Klasyk</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129033-federacja-opublikowala-nagranie-z-rozmow-sedziow-nie-mamy-dowodow-na-to-ze-pilka-wpadla-do-bramki</link>
         <pubDate>Mon, 22 Apr 2024 17:48:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska postawiła na przejrzystość i zdecydowała się udostępnić publicznie nagrania rozmów między sędziami w czasie Klasyku.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Komitet Arbitrów nie zamierza udostępniać Barcelonie żadnych nagrań</title>
-        <link>https://www.realmadryt.pl/news/129031-marca-komitet-arbitrow-nie-zamierza-udostepniac-barcelonie-zadnych-nagran</link>
-        <pubDate>Mon, 22 Apr 2024 17:14:00 GMT</pubDate>
-        <description>Real Madryt nie przejmuje się słowami czy zawoalowanymi groźbami ze strony prezesa Barcelony.</description>
     </item>
     
 </channel>
