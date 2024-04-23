@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Apr 2024 04:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 05:17:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Luka Modrić chce zostać w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/129048-luka-modric-chce-zostac-w-realu-madryt</link>
+        <pubDate>Tue, 23 Apr 2024 07:00:00 GMT</pubDate>
+        <description>Chorwat chce pozostać w klubie. Na razie jednak Królewscy nie wysłali mu żadnego sygnału w sprawie przedłużenia kontraktu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129035-pique-czy-to-byla-kradziez-juz-samo-pytanie-na-to-wskazuje</link>
         <pubDate>Mon, 22 Apr 2024 18:24:00 GMT</pubDate>
         <description>Gerard Piqué nie ma wątpliwości, że w niedzielę na Santiago Bernabéu doszło do kradzieży. Jego zdaniem sędzia nie powinien dyktować rzutu karnego po faulu na Lucasie Vázquezie, a jednocześnie powinien uznać bramkę Lamine'a Yamala.</description>
-    </item>
-    
-    <item>
-        <title>Federacja opublikowała nagranie z rozmów sędziów: „Nie mamy dowodów na to, że piłka wpadła do bramki”</title>
-        <link>https://www.realmadryt.pl/news/129033-federacja-opublikowala-nagranie-z-rozmow-sedziow-nie-mamy-dowodow-na-to-ze-pilka-wpadla-do-bramki</link>
-        <pubDate>Mon, 22 Apr 2024 17:48:00 GMT</pubDate>
-        <description>Hiszpańska Federacja Piłkarska postawiła na przejrzystość i zdecydowała się udostępnić publicznie nagrania rozmów między sędziami w czasie Klasyku.</description>
     </item>
     
 </channel>
