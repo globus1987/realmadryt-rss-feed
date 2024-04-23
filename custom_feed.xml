@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Apr 2024 21:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 22:18:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129066-dzisiejsze-okladki</link>
+        <pubDate>Wed, 24 Apr 2024 00:10:00 GMT</pubDate>
+        <description>Wywiad z Jamalem Musialą, sytuacja Kyliana Mbappé i strategiczny transfer Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Świetny start play-offów okraszony rekordem Llulla</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129041-poczatek-rywalizacji-o-final-four</link>
         <pubDate>Tue, 23 Apr 2024 15:06:00 GMT</pubDate>
         <description>Real Madryt i Baskonia w najbliższym czasie zagrają ze sobą przynajmniej trzykrotnie w Eurolidze. Pierwszy mecz w tej ćwierćfinałowej rywalizacji odbędzie się dzisiaj w WiZink Center.</description>
-    </item>
-    
-    <item>
-        <title>To jest liga Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/129028-to-jest-liga-bellinghama</link>
-        <pubDate>Tue, 23 Apr 2024 14:15:00 GMT</pubDate>
-        <description>W niedzielnej rywalizacji z Barceloną Anglik strzelił zwycięskiego gola, który niemal definitywnie zagwarantował Królewskim tytuł mistrzowski. To kolejny akt jego znakomitej postawy w tym sezonie La Ligi. Co istotne – w jego pierwszym sezonie na Santiago Bernabéu.</description>
     </item>
     
 </channel>
