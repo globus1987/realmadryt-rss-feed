@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 06:53:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/129045-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 23 Apr 2024 08:42:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 32. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Jakie są szanse, że Barcelonie uda się doprowadzić do powtórzenia Klasyku?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129036-kartka-dla-ciebie-i-dla-ciebie-macie-sie-uspokoic-relax</link>
         <pubDate>Mon, 22 Apr 2024 19:30:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska udostępniła publicznie nagrania rozmów między sędziami w czasie Klasyku. Przedstawiamy pełne tłumaczenie zamieszczonego ponad 6-minutowego filmiku z kontrowersyjnych sytuacji w spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/129034-oceny-zawodnikow-po-meczu-z-barcelona</link>
-        <pubDate>Mon, 22 Apr 2024 18:39:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Barceloną 3:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
