@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Apr 2024 09:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 09:53:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Jestem trochę zmęczony, więc wybaczcie, jeśli nie wyglądam za dobrze</title>
+        <link>https://www.realmadryt.pl/news/129049-bellingham-jestem-troche-zmeczony-wiec-wybaczcie-jesli-nie-wygladam-za-dobrze</link>
+        <pubDate>Tue, 23 Apr 2024 11:42:00 GMT</pubDate>
+        <description>Jude Bellingham w poniedziałek odebrał w Madrycie nagrodę Laureus dla Odkrycia Roku. Przedstawiamy wypowiedzi pomocnika Realu Madryt udzielone po odebraniu statuetki.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 23 kwietnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129042-32-kolejka-real-powieksza-przewage-do-11-punktow</link>
         <pubDate>Mon, 22 Apr 2024 23:04:00 GMT</pubDate>
         <description>Zakończyła się rywalizacja w ramach 32. kolejki Primera División, więc czas na podsumowanie sytuacji w tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Olympiakos zwycięzcą Ligi Młodzieżowej</title>
-        <link>https://www.realmadryt.pl/news/129040-olympiakos-zwyciezca-ligi-mlodziezowej</link>
-        <pubDate>Mon, 22 Apr 2024 22:00:00 GMT</pubDate>
-        <description>Olympiakos po raz pierwszy w swojej historii sięgnął po zwycięstwo w Lidze Młodzieżowej. W finale pokonał Milan 3:0.</description>
     </item>
     
 </channel>
