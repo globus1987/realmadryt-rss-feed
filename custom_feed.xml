@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Apr 2024 21:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 21:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Komitet Techniczny Arbitrów przekazał, że nie spotka się z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/129088-media-komitet-techniczny-arbitrow-przekazal-ze-nie-spotka-sie-z-barcelona</link>
+        <pubDate>Wed, 24 Apr 2024 23:45:00 GMT</pubDate>
+        <description>W komentarzu wysłanym do hiszpańskich mediów Komitet Techniczny Arbitrów przekazał, że nie zamierza spotykać się Barceloną, która… nawet nie poprosiła o spotkanie, choć sam Laporta głośno zapowiadał, że zrobi to „natychmiastowo”</description>
+    </item>
     
     <item>
         <title>Euroliga jednak bez Dubaju?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129025-wielki-tydzien-lucasa</link>
         <pubDate>Wed, 24 Apr 2024 15:47:00 GMT</pubDate>
         <description>Santiago Bernabéu zgotowało w niedzielę Lucasowi w pełni zasłużoną owację. Galisyjczyk miał udział przy wszystkich trzech golach, a fantastyczny występ w Klasyku dopełnił jego wielkiego tygodnia.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Tym razem La Liga rozegra oficjalne mecze za granicą</title>
-        <link>https://www.realmadryt.pl/news/129077-tebas-tym-razem-la-liga-rozegra-oficjalne-mecze-za-granica</link>
-        <pubDate>Wed, 24 Apr 2024 14:56:00 GMT</pubDate>
-        <description>Javier Tebas ponownie zabrał głos w kontrowersyjnych tematach.</description>
     </item>
     
 </channel>
