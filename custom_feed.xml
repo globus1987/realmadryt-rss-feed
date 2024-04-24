@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Apr 2024 13:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 13:55:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wielki tydzień Lucasa</title>
+        <link>https://www.realmadryt.pl/news/129025-wielki-tydzien-lucasa</link>
+        <pubDate>Wed, 24 Apr 2024 15:47:00 GMT</pubDate>
+        <description>Santiago Bernabéu zgotowało w niedzielę Lucasowi w pełni zasłużoną owację. Galisyjczyk miał udział przy wszystkich trzech golach, a fantastyczny występ w Klasyku dopełnił jego wielkiego tygodnia.</description>
+    </item>
     
     <item>
         <title>Tebas: Tym razem La Liga rozegra oficjalne mecze za granicą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129068-najdrozsze-transfery-w-historii-pilki-noznej</link>
         <pubDate>Wed, 24 Apr 2024 09:07:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Łunin gra bardzo dobrze, więc nie ma pośpiechu z moim powrotem</title>
-        <link>https://www.realmadryt.pl/news/129062-courtois-lunin-gra-bardzo-dobrze-wiec-nie-ma-pospiechu-z-moim-powrotem</link>
-        <pubDate>Wed, 24 Apr 2024 08:16:00 GMT</pubDate>
-        <description>Thibaut Courtois zatrzymał się przy wjeździe do Valdebebas, by rozdać kilka autografów zgromadzonym pod ośrodkiem treningowym kibicom. Przy okazji bramkarz udzielił krótkiego wywiadu dziennikarce telewizji GOL, w którym mówił o swoim powrocie i skomentował skargi Barcelony na sędziowanie w niedzielnym Klasyku.</description>
     </item>
     
 </channel>
