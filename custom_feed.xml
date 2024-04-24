@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Apr 2024 09:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 09:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sergio Llull ustanowił nowy rekord Euroligi</title>
+        <link>https://www.realmadryt.pl/news/129064-sergio-llull-ustanowil-nowy-rekord-euroligi</link>
+        <pubDate>Wed, 24 Apr 2024 11:40:00 GMT</pubDate>
+        <description>Sergio Llull zapisał na koncie kolejny indywidualny rekord. Pobił Juana Carlosa Navarro i stał się zawodnikiem z największą liczbą trafionych rzutów za trzy punkty w historii Euroligi.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 24 kwietnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129057-marca-girona-zainteresowana-raulem-asencio</link>
         <pubDate>Tue, 23 Apr 2024 21:03:00 GMT</pubDate>
         <description>Środkowy obrońca rezerw jest pod obserwacją kilku hiszpańskich klubów i latem może opuścić Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Członek zarządu Realu o Laporcie: Mowa jest srebrem, a milczenie złotem</title>
-        <link>https://www.realmadryt.pl/news/129058-czlonek-zarzadu-realu-o-laporcie-mowa-jest-srebrem-a-milczenie-zlotem</link>
-        <pubDate>Tue, 23 Apr 2024 20:12:00 GMT</pubDate>
-        <description>Jerónimo Farré to jeden z członków zarządu Realu Madryt, który towarzyszył Florentino Pérezowi zawsze w jego obu okresach prezesury. Zasiada w zarządzie klubu także w tym momencie. Były kardiolog i osobiście bliski przyjaciel prezesa Królewskich wziął udział w sympozjum organizowanym przez dziennik MARCA i Hiszpański Komitet Olimpijski. Przedstawiamy jego wypowiedzi w tematach piłkarskich.</description>
     </item>
     
 </channel>
