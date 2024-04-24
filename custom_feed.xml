@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Apr 2024 22:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 22:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129089-dzisiejsze-okladki</link>
+        <pubDate>Thu, 25 Apr 2024 00:25:00 GMT</pubDate>
+        <description>Pozostanie Xaviego to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Media: Komitet Techniczny Arbitrów przekazał, że nie spotka się z Barceloną</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129071-musiala-jude-i-ja-zawsze-marzylismy-by-grac-w-takich-meczach-jak-te</link>
         <pubDate>Wed, 24 Apr 2024 16:38:00 GMT</pubDate>
         <description>Jamal Musiala udzielił wywiadu na wyłączność dziennikowi MARCA na 6 dni przed pierwszym meczem półfinałowym Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis rozmowy z gwiazdorem Bayernu, który opowiada m.in. o swojej przyjaźni z Jude'em Bellinghamem, klasie Toniego Kroosa czy starciach z Antonio Rüdigerem.</description>
-    </item>
-    
-    <item>
-        <title>Wielki tydzień Lucasa</title>
-        <link>https://www.realmadryt.pl/news/129025-wielki-tydzien-lucasa</link>
-        <pubDate>Wed, 24 Apr 2024 15:47:00 GMT</pubDate>
-        <description>Santiago Bernabéu zgotowało w niedzielę Lucasowi w pełni zasłużoną owację. Galisyjczyk miał udział przy wszystkich trzech golach, a fantastyczny występ w Klasyku dopełnił jego wielkiego tygodnia.</description>
     </item>
     
 </channel>
