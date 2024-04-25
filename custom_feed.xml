@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Apr 2024 10:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 10:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Decyzja o pozostaniu Xaviego jest poprawna, zmiana zdania jest legalna</title>
+        <link>https://www.realmadryt.pl/news/129094-ancelotti-decyzja-o-pozostaniu-xaviego-jest-poprawna-zmiana-zdania-jest-legalna</link>
+        <pubDate>Thu, 25 Apr 2024 12:31:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed jutrzejszym meczem La Ligi z Realem Sociedad. Przedstawiamy pierwsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Jego pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
+    
+    <item>
+        <title>Ostatni trening przed Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/129095-ostatni-trening-przed-realem-sociedad</link>
+        <pubDate>Thu, 25 Apr 2024 12:30:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Realem Sociedad. Razem z drużyną nie trenowało czterech zawodników.</description>
+    </item>
     
     <item>
         <title>Pójść za ciosem</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129069-ceballos-jest-na-skraju-wytrzymalosci</link>
         <pubDate>Thu, 25 Apr 2024 05:30:00 GMT</pubDate>
         <description>Tylko odpowiednio wysoka oferta zmieniłaby zamysł klubu, wobec pomocnika, który przedłużył latem umowę do 2027 roku. Atleti liczy na jego sprowadzenie, będąc bezpośrednim rywalem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129089-dzisiejsze-okladki</link>
-        <pubDate>Thu, 25 Apr 2024 00:25:00 GMT</pubDate>
-        <description>Pozostanie Xaviego to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Media: Komitet Techniczny Arbitrów przekazał, że nie spotka się z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/129088-media-komitet-techniczny-arbitrow-przekazal-ze-nie-spotka-sie-z-barcelona</link>
-        <pubDate>Wed, 24 Apr 2024 23:45:00 GMT</pubDate>
-        <description>W komentarzu wysłanym do hiszpańskich mediów Komitet Techniczny Arbitrów przekazał, że nie zamierza spotykać się Barceloną, która… nawet nie poprosiła o spotkanie, choć sam Laporta głośno zapowiadał, że zrobi to „natychmiastowo”</description>
     </item>
     
 </channel>
