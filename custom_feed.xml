@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Apr 2024 03:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 03:38:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ceballos jest na skraju wytrzymałości</title>
+        <link>https://www.realmadryt.pl/news/129069-ceballos-jest-na-skraju-wytrzymalosci</link>
+        <pubDate>Thu, 25 Apr 2024 05:30:00 GMT</pubDate>
+        <description>Tylko odpowiednio wysoka oferta zmieniłaby zamysł klubu, wobec pomocnika, który przedłużył latem umowę do 2027 roku. Atleti liczy na jego sprowadzenie, będąc bezpośrednim rywalem Królewskich.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129080-zespol-zaskoczony-wypowiedziami-laporty</link>
         <pubDate>Wed, 24 Apr 2024 17:29:00 GMT</pubDate>
         <description>Drużyna Realu Madryt spodziewała się jakiejś reakcji Barcelony, która miała usprawiedliwić porażkę w Klasyku, jednak zachowanie Laporty wyglądało dla niej na akt desperacji.</description>
-    </item>
-    
-    <item>
-        <title>Musiala: Jude i ja zawsze marzyliśmy, by grać w takich meczach, jak te</title>
-        <link>https://www.realmadryt.pl/news/129071-musiala-jude-i-ja-zawsze-marzylismy-by-grac-w-takich-meczach-jak-te</link>
-        <pubDate>Wed, 24 Apr 2024 16:38:00 GMT</pubDate>
-        <description>Jamal Musiala udzielił wywiadu na wyłączność dziennikowi MARCA na 6 dni przed pierwszym meczem półfinałowym Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis rozmowy z gwiazdorem Bayernu, który opowiada m.in. o swojej przyjaźni z Jude'em Bellinghamem, klasie Toniego Kroosa czy starciach z Antonio Rüdigerem.</description>
     </item>
     
 </channel>
