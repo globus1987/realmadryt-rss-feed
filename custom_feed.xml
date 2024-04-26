@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:24:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti jedynym zagrożonym zawieszeniem</title>
+        <link>https://www.realmadryt.pl/news/129121-ancelotti-jedynym-zagrozonym-zawieszeniem</link>
+        <pubDate>Fri, 26 Apr 2024 18:15:00 GMT</pubDate>
+        <description>Królewscy przystępują do meczu z Realem Sociedad z jednym zagrożonym zawieszeniem. Za tydzień zagrają z Cádizem.</description>
+    </item>
     
     <item>
         <title>Imanol z patentem na Królewskich</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129123-oficjalnie-pedro-rocha-prezesem-hiszpanskiej-federacji-pilkarskiej</link>
         <pubDate>Fri, 26 Apr 2024 12:52:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska poinformowała oficjalnie o wyborze nowego prezesa.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w San Sebastián</title>
-        <link>https://www.realmadryt.pl/news/129122-krolewscy-sa-juz-w-san-sebastian</link>
-        <pubDate>Fri, 26 Apr 2024 12:49:00 GMT</pubDate>
-        <description>Drużyna Realu Madryt jest już w Kraju Basków, gdzie dziś o 21:00 zagra na Reale Arena z Realem Sociedad spotkanie w ramach 33. kolejki La Ligi.</description>
     </item>
     
 </channel>
