@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Apr 2024 22:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 22:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129143-dzisiejsze-okladki</link>
+        <pubDate>Sat, 27 Apr 2024 00:43:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt, plan Barcelony i wielki rewanż piłkarek Blaugrany to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Arda Güler: Cierpliwie czekam i codziennie ciężko pracuję</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129121-ancelotti-jedynym-zagrozonym-zawieszeniem</link>
         <pubDate>Fri, 26 Apr 2024 18:15:00 GMT</pubDate>
         <description>Królewscy przystępują do meczu z Realem Sociedad z jednym zagrożonym zawieszeniem. Za tydzień zagrają z Cádizem.</description>
-    </item>
-    
-    <item>
-        <title>Imanol z patentem na Królewskich</title>
-        <link>https://www.realmadryt.pl/news/129109-imanol-z-patentem-na-krolewskich</link>
-        <pubDate>Fri, 26 Apr 2024 17:30:00 GMT</pubDate>
-        <description>Szkoleniowiec drużyny z Donostii wygrał z Los Blancos aż cztery razy, czyli więcej niż z Barçą i Atlético.</description>
     </item>
     
 </channel>
