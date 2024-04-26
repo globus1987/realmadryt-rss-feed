@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Apr 2024 09:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 09:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jedyne niezaprzeczalne fakty</title>
+        <link>https://www.realmadryt.pl/news/129102-jedyne-niezaprzeczalne-fakty</link>
+        <pubDate>Fri, 26 Apr 2024 11:40:00 GMT</pubDate>
+        <description>Witamy serdecznie i zapraszamy do udziału w anonimowej ankiecie.</description>
+    </item>
     
     <item>
         <title>Zmiany w kadrze na Real Sociedad!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129111-real-madryt-po-raz-drugi</link>
         <pubDate>Thu, 25 Apr 2024 23:13:00 GMT</pubDate>
         <description>Real Madryt pokonał Baskonię, wychodząc na prowadzenie 2:0 w ćwierćfinale. Królewscy zaprezentowali się dzisiaj z bardzo dobrej strony, prezentując efektowną i skuteczną koszykówkę.</description>
-    </item>
-    
-    <item>
-        <title>Del Piero: Ancelotti tworzy idealną atmosferę pracy</title>
-        <link>https://www.realmadryt.pl/news/129084-del-piero-ancelotti-tworzy-idealna-atmosfere-pracy</link>
-        <pubDate>Thu, 25 Apr 2024 21:36:00 GMT</pubDate>
-        <description>Były włoski napastnik, Alessandro Del Piero, odwiedził Valdebebas podczas dzisiejszego treningu Realu Madryt. Przy okazji udzielił kilku wypowiedzi dla klubowych mediów.</description>
     </item>
     
 </channel>
