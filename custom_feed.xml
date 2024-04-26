@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Apr 2024 07:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 08:22:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Imanol: Spodziewam się tak samo mocnego Realu co zawsze</title>
+        <link>https://www.realmadryt.pl/news/129104-imanol-spodziewam-sie-tak-samo-mocnego-realu-co-zawsze</link>
+        <pubDate>Fri, 26 Apr 2024 09:58:00 GMT</pubDate>
+        <description>Imanol Alguacil wziął udział w konferencji prasowej przed meczem z Realem Madryt. Przestawiamy zapis spotkania z dziennikarzami szkoleniowca Realu Sociedad.</description>
+    </item>
     
     <item>
         <title>200 zł za wytypowanie zwycięzcy w hitach weekendu!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129105-vinicius-musimy-wyniesc-real-na-szczyt-czyli-wygrac-lige-mistrzow</link>
         <pubDate>Thu, 25 Apr 2024 19:55:00 GMT</pubDate>
         <description>Brazylijczyk odebrał nagrodę klubowego sponsora za marzec i tradycyjnie udzielił krótkich wypowiedzi klubowym mediom.</description>
-    </item>
-    
-    <item>
-        <title>200 zł za gola Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/129103-200-zl-za-gola-realu-madryt</link>
-        <pubDate>Thu, 25 Apr 2024 19:04:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
