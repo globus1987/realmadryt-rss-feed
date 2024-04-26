@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Apr 2024 20:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 21:16:13 GMT</lastBuildDate>
     
     <item>
-        <title>Do przerwy 1:0 dla Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/129132-do-przerwy-1-0-dla-realu-madryt</link>
+        <title>Arda Güler MVP meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/129134-arda-gueler-mvp-meczu-z-realem-sociedad</link>
+        <pubDate>Fri, 26 Apr 2024 23:02:00 GMT</pubDate>
+        <description>Arda Güler był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania w Kraju Basków.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/129133-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
+        <pubDate>Fri, 26 Apr 2024 23:00:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Real B też zrobił swoje</title>
+        <link>https://www.realmadryt.pl/news/129132-real-b-tez-zrobil-swoje</link>
         <pubDate>Fri, 26 Apr 2024 21:49:00 GMT</pubDate>
-        <description>W meczu 33. kolejki La Ligi Real Madryt prowadzi z Realem Sociedad 1:0. Jedyną bramkę zdobył Arda Güler, który wykorzystał dogranie Daniego Carvajala.</description>
+        <description>W meczu 33. kolejki La Ligi Real Madryt wygrał z Realem Sociedad 1:0. Jedyną bramkę zdobył Arda Güler, który wykorzystał dogranie Daniego Carvajala.</description>
     </item>
     
     <item>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129126-wielkie-wyzwanie-ancelottiego</link>
         <pubDate>Fri, 26 Apr 2024 15:55:00 GMT</pubDate>
         <description>Po matematycznym przypieczętowaniu mistrzostwa Hiszpanii Włoch wyprzedzi Zinédine’a Zidane’a pod względem liczby zdobytych trofeów (12) i w następnym sezonie będzie mógł spoglądać w kierunku dogonienia lub nawet wyprzedzenia samego Miguela Muñoza, najbardziej utytułowanego trenera w historii klubu.</description>
-    </item>
-    
-    <item>
-        <title>Czas Gülera</title>
-        <link>https://www.realmadryt.pl/news/129107-czas-guelera</link>
-        <pubDate>Fri, 26 Apr 2024 15:30:00 GMT</pubDate>
-        <description>Końcówka sezonu ligowego wydaje się być idealną szansą dla Ardy Gülera, aby zacząć grać częściej i pokazać pełnię swoich możliwości. Wobec praktycznie pewnego już mistrzostwa Hiszpanii i zbliżającego się dwumeczu z Bayernem Monachium Carlo Ancelotti musi zacząć stawiać na bardziej wypoczętych zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Najlepszy atak i najlepsza defensywa La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129061-najlepszy-atak-i-najlepsza-defensywa-la-ligi</link>
-        <pubDate>Fri, 26 Apr 2024 14:50:00 GMT</pubDate>
-        <description>Real Madryt króluje w najważniejszych statystykach La Ligi – po 32 kolejkach ma najwięcej zdobytych i jednocześnie najmniej straconych bramek.</description>
     </item>
     
 </channel>
