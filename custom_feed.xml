@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 21:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 21:28:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Spokój dla Castilli</title>
+        <link>https://www.realmadryt.pl/news/129173-spokoj-dla-castilli</link>
+        <pubDate>Sat, 27 Apr 2024 23:23:00 GMT</pubDate>
+        <description>Castilla sięgnęła po komplet punktów w istotnym, z punktu widzenia walki o utrzymanie, meczu z San Fernando. Królewscy byli drużyną lepszą, chociaż do samego końca musieli walczyć o zwycięstwo.</description>
+    </item>
     
     <item>
         <title>33. kolejka: Atlético wygrywa i jest krok od awansu do Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129145-pierwsze-pelne-zdjecie-trzeciej-koszulki-realu-madryt-na-nowy-sezon</link>
         <pubDate>Sat, 27 Apr 2024 18:00:00 GMT</pubDate>
         <description>W Internecie pojawiły się pierwsze potencjalne zdjęcia trzeciej koszulki Królewskich na nowy sezon. Dotychczas znaliśmy jedynie jej kolorystykę.</description>
-    </item>
-    
-    <item>
-        <title>Bayern wygrał z Eintrachtem</title>
-        <link>https://www.realmadryt.pl/news/129167-bayern-wygral-z-eintrachtem</link>
-        <pubDate>Sat, 27 Apr 2024 17:26:00 GMT</pubDate>
-        <description>Bawarczycy w ostatnim występie przed pierwszym półfinałem Ligi Mistrzów z Realem Madryt pokonali u siebie Eintracht Frankfurt. Dwa gole strzelił Harry Kane, ale Bayern mógł też potencjalnie stracić dwóch kolejnych graczy przez kontuzje.</description>
     </item>
     
 </channel>
