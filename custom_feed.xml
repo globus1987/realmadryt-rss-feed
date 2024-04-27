@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 12:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 12:55:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Santiago Bernabéu przyjęło pierwszy koncert po przebudowie</title>
+        <link>https://www.realmadryt.pl/news/129159-santiago-bernabeu-przyjelo-pierwszy-koncert-po-przebudowie</link>
+        <pubDate>Sat, 27 Apr 2024 14:45:00 GMT</pubDate>
+        <description>Stadion Królewskich przyjął swój pierwszy koncert po przebudowie. Wydarzenie odbyło się, gdy drużyna rozgrywała swój mecz ligowych w Kraju Basków.</description>
+    </item>
     
     <item>
         <title>Bellingham i Rodrygo wrócili do treningów z grupą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129125-tuchel-wiem-co-czeka-nas-we-wtorek</link>
         <pubDate>Sat, 27 Apr 2024 09:58:00 GMT</pubDate>
         <description>Thomas Tuchel wziął udział w konferencji prasowej przed domowym meczem Bayernu z Eintrechtem Frankfurt, na której odpowiadał również na pytania dotyczące zbliżajacego się pierwszego spotkania półfinałowego Ligi Mistrzów z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi szkoleniowca Bawarczyków.</description>
-    </item>
-    
-    <item>
-        <title>33. kolejka: Real Madryt 4 punkty od mistrzostwa</title>
-        <link>https://www.realmadryt.pl/news/129147-33-kolejka-real-madryt-4-punkty-od-mistrzostwa</link>
-        <pubDate>Sat, 27 Apr 2024 09:07:00 GMT</pubDate>
-        <description>Królewscy otworzyli 32. kolejką kolejnym kluczowym dla siebie zwycięstwem w walce o tytuł. Teraz pozostaje im czekać na wynik Barcelony, który pozwoli dokładniej określić, kiedy możliwe będzie domknięcie potencjalnego mistrzostwa.</description>
     </item>
     
 </channel>
