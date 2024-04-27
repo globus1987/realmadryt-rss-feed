@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 15:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 15:38:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bayern wygrał z Eintrachtem</title>
+        <link>https://www.realmadryt.pl/news/129167-bayern-wygral-z-eintrachtem</link>
+        <pubDate>Sat, 27 Apr 2024 17:26:00 GMT</pubDate>
+        <description>Bawarczycy w ostatnim występie przed pierwszym półfinałem Ligi Mistrzów z Realem Madryt pokonali u siebie Eintracht Frankfurt. Dwa gole strzelił Harry Kane, ale Bayern mógł też potencjalnie stracić dwóch kolejnych graczy przez kontuzje.</description>
+    </item>
     
     <item>
         <title>Fran García: Przybyliśmy tu, aby pokazać, że ta liga musi być nasza</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129160-real-madrid-tv-o-arbitrze-wygralismy-ale-sedzia-byl-slaby</link>
         <pubDate>Sat, 27 Apr 2024 12:49:00 GMT</pubDate>
         <description>Real Madrid TV nie zlitowała się nad arbitrem piątkowego meczu Realu Madryt. Królewscy wygrali, ale sędzia główny nie popisał się przynajmniej w kilku sytuacjach.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/129158-oceny-zawodnikow-po-meczu-z-realem-sociedad</link>
-        <pubDate>Sat, 27 Apr 2024 12:33:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Realem Sociedad 1:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
