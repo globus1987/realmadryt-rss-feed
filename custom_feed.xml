@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 17:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:21:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rekordowa liga</title>
+        <link>https://www.realmadryt.pl/news/129164-rekordowa-liga</link>
+        <pubDate>Sat, 27 Apr 2024 20:18:00 GMT</pubDate>
+        <description>Real Madryt jest na ostatniej prostej do ligowego tytułu, a po drodze piłkarze Carlo Ancelottiego mogą jeszcze wykręcić kilka rekordów.</description>
+    </item>
     
     <item>
         <title>Tuchel: U Musiali znowu wrócił ból</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129162-bayern-monachium-vs-eintracht-ostatni-wystep-przed-polfinalem</link>
         <pubDate>Sat, 27 Apr 2024 15:15:00 GMT</pubDate>
         <description>O 15:30 rozpocznie się starcie pomiędzy Bayernem Monachium a Eintrachtem Frankfurt na Allianz Arenie. Drużyna Thomasa Tuchela walczy już tylko o wicemistrzostwo Niemiec. We wtorek odbędzie się pierwszy półfinał Ligi Mistrzów między Bawarczykami i Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Santiago Bernabéu przyjęło pierwszy koncert po przebudowie</title>
-        <link>https://www.realmadryt.pl/news/129159-santiago-bernabeu-przyjelo-pierwszy-koncert-po-przebudowie</link>
-        <pubDate>Sat, 27 Apr 2024 14:45:00 GMT</pubDate>
-        <description>Stadion Królewskich przyjął swój pierwszy koncert po przebudowie. Wydarzenie odbyło się, gdy drużyna rozgrywała swój mecz ligowych w Kraju Basków.</description>
     </item>
     
 </channel>
