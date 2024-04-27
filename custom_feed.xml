@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 06:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Sociedad 0:1 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/129150-real-sociedad-0-1-real-madryt-video</link>
+        <pubDate>Sat, 27 Apr 2024 08:28:00 GMT</pubDate>
+        <description>Real Madryt wygrał w 33. kolejce ligowej z Realem Sociedad 1:0.</description>
+    </item>
     
     <item>
         <title>AS: Raúl może pójść drogą Xabiego Alonso</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129134-arda-gueler-mvp-meczu-z-realem-sociedad</link>
         <pubDate>Fri, 26 Apr 2024 23:02:00 GMT</pubDate>
         <description>Arda Güler był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania w Kraju Basków.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/129133-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
-        <pubDate>Fri, 26 Apr 2024 23:00:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
