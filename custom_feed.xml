@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 09:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 09:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 27 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/129152-kartka-z-kalendarza-27-kwietnia</link>
+        <pubDate>Sat, 27 Apr 2024 11:50:00 GMT</pubDate>
+        <description>Zwycięski remis z Atlético, mistrzostwa Hiszpanii, wygrana na Camp Nou, urodziny etatowego rezerwowego, śmierć byłego trenera i słynna czerwona kartka dla Pepe… Co wydarzyło się 27 kwietnia?</description>
+    </item>
     
     <item>
         <title>Bayern zagra dziś z Eintrachtem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129146-tchouameni-z-odpowiedzia-dla-kubo</link>
         <pubDate>Sat, 27 Apr 2024 02:09:00 GMT</pubDate>
         <description>Francuz odpowiedział na ostre słowa Kubo o sędziowaniu jedną emotikoną na portalu X.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129143-dzisiejsze-okladki</link>
-        <pubDate>Sat, 27 Apr 2024 00:43:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt, plan Barcelony i wielki rewanż piłkarek Blaugrany to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
