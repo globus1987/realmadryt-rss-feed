@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Apr 2024 13:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 14:15:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>33. kolejka: Girona wskakuje na drugie miejsce</title>
+        <link>https://www.realmadryt.pl/news/129165-33-kolejka-girona-wskakuje-na-drugie-miejsce</link>
+        <pubDate>Sat, 27 Apr 2024 16:09:00 GMT</pubDate>
+        <description>Girona wygrała na wyjeździe z Las Palmas 2:0 i przeskoczyła, przynajmniej na dwa dni, Barcelonę w tabeli.</description>
+    </item>
     
     <item>
         <title>Ważny mecz w walce o utrzymanie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129152-kartka-z-kalendarza-27-kwietnia</link>
         <pubDate>Sat, 27 Apr 2024 11:50:00 GMT</pubDate>
         <description>Zwycięski remis z Atlético, mistrzostwa Hiszpanii, wygrana na Camp Nou, urodziny etatowego rezerwowego, śmierć byłego trenera i słynna czerwona kartka dla Pepe… Co wydarzyło się 27 kwietnia?</description>
-    </item>
-    
-    <item>
-        <title>Bayern zagra dziś z Eintrachtem</title>
-        <link>https://www.realmadryt.pl/news/129156-bayern-zagra-dzis-z-eintrachtem</link>
-        <pubDate>Sat, 27 Apr 2024 11:08:00 GMT</pubDate>
-        <description>O 15:30 Bayern Monachium zagra z Eintrachtem Frankfurt. Do spotkania z Realem Madryt pozostały 3 dni.</description>
     </item>
     
 </channel>
