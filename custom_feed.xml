@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Apr 2024 21:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 22:17:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129202-dzisiejsze-okladki</link>
+        <pubDate>Mon, 29 Apr 2024 00:08:00 GMT</pubDate>
+        <description>Przygotowania do półfinału Ligi Mistrzów między Realem i Bayernem oraz mecz ligowy Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>11 bramek pod znakiem Carvajala</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129194-bayern-prosi-kibicow-o-pomoc-wszyscy-na-czerwono</link>
         <pubDate>Sun, 28 Apr 2024 17:04:00 GMT</pubDate>
         <description>Bayern Monachium poprzez oficjalną stronę i media społecznościowe wystosował apel do swoich fanów. Allianz Arena ma być we wtorek czerwona.</description>
-    </item>
-    
-    <item>
-        <title>Militão przeszedł próbę stresową</title>
-        <link>https://www.realmadryt.pl/news/129153-militao-przeszedl-probe-stresowa</link>
-        <pubDate>Sun, 28 Apr 2024 16:38:00 GMT</pubDate>
-        <description>Po 11 miesiącach Éder Militão rozegrał swoje pierwsze pełne spotkanie. Carlo Ancelotti bierze pod uwagę wystawienie go w konfrontacji z Bayernem, gdzie stoper miałby za zadanie powstrzymać Harry'ego Kane'a.</description>
     </item>
     
 </channel>
