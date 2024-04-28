@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Apr 2024 05:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 06:23:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>List FIFA i UEFA do hiszpańskiego rządu</title>
+        <link>https://www.realmadryt.pl/news/129177-list-fifa-i-uefa-do-hiszpanskiego-rzadu</link>
+        <pubDate>Sun, 28 Apr 2024 08:16:00 GMT</pubDate>
+        <description>UEFA i FIFA wysłały wspólny list do rządu Hiszpanii w związku z powołaniem Komisji Nadzoru, Normalizacji i Reprezentacji, która ma kontrolować Hiszpańską Federację Piłkarską do jesiennych wyborów na prezesa. Przedstawiamy jej pełną treść.</description>
+    </item>
     
     <item>
         <title>Sędzia o anulowanym golu Kubo: Kopie go</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129164-rekordowa-liga</link>
         <pubDate>Sat, 27 Apr 2024 20:18:00 GMT</pubDate>
         <description>Real Madryt jest na ostatniej prostej do ligowego tytułu, a po drodze piłkarze Carlo Ancelottiego mogą jeszcze wykręcić kilka rekordów.</description>
-    </item>
-    
-    <item>
-        <title>Tuchel: U Musiali znowu wrócił ból</title>
-        <link>https://www.realmadryt.pl/news/129170-tuchel-u-musiali-znowu-wrocil-bol</link>
-        <pubDate>Sat, 27 Apr 2024 19:27:00 GMT</pubDate>
-        <description>Bawarczycy zakończyli mecz z Eintrachtem z kolejnymi kontuzjowanymi. Na ten moment sytuacja zdrowotna i skład rywali na wtorkowy mecz pozostaje kompletną zagadką.</description>
     </item>
     
 </channel>
