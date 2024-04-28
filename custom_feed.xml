@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Apr 2024 10:19:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 10:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Real Madryt ma wpływy we wszystkich instytucjach”</title>
+        <link>https://www.realmadryt.pl/news/129185-real-madryt-ma-wplywy-we-wszystkich-instytucjach</link>
+        <pubDate>Sun, 28 Apr 2024 12:25:00 GMT</pubDate>
+        <description>El Confidencial przeprowadził wywiad z Rogerem Vintonem (pseudonim), katalońskim blogerem i autorem książek, w tym najnowszej: „La Teleraña Azulgrana: la historia del poder en el FC Barcelona”. Autor opisuje w niej sukcesy, błędy i powiązania polityczne prezesów Blaugrany. W rozmowie z gazetą sporo wypowiedział się jednak też na temat Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Gnabry i Sané wrócili do treningów z drużyną</title>
+        <link>https://www.realmadryt.pl/news/129187-gnabry-i-sane-wrocili-do-treningow-z-druzyna</link>
+        <pubDate>Sun, 28 Apr 2024 12:22:00 GMT</pubDate>
+        <description>Podczas niedzielnego treningu Bayernu Monachium Serge Gnabry i Leroy Sané pracowali na pełnych obrotach razem z zespołem.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 28 kwietnia</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129178-valverde-trenerzy-wybrali-mnie-do-karnych-ale-bylem-zmeczony-jak-nigdy</link>
         <pubDate>Sun, 28 Apr 2024 05:30:00 GMT</pubDate>
         <description>Federico Valverde udzielił wywiadu ESPN Uruguay. Przedstawiamy opublikowane wypowiedzi z tej rozmowy z pomocnikiem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129176-dzisiejsze-okladki</link>
-        <pubDate>Sun, 28 Apr 2024 00:29:00 GMT</pubDate>
-        <description>Wygrane Atlético i kobiecej Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Spokój dla Castilli</title>
-        <link>https://www.realmadryt.pl/news/129173-spokoj-dla-castilli</link>
-        <pubDate>Sat, 27 Apr 2024 23:23:00 GMT</pubDate>
-        <description>Castilla sięgnęła po komplet punktów w istotnym, z punktu widzenia walki o utrzymanie, meczu z San Fernando. Królewscy byli drużyną lepszą, chociaż do samego końca musieli walczyć o zwycięstwo.</description>
     </item>
     
 </channel>
