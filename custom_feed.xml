@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Apr 2024 05:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 05:38:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sędzia o anulowanym golu Kubo: Kopie go</title>
+        <link>https://www.realmadryt.pl/news/129180-sedzia-o-anulowanym-golu-kubo-kopie-go</link>
+        <pubDate>Sun, 28 Apr 2024 07:25:00 GMT</pubDate>
+        <description>W 32. minucie piątkowego meczu Sociedadu z Realem Madryt gospodarze doprowadzili do wyrównania dzięki bramce Take Kubo i sędzia boiskowy wskazał na środek boiska. Po chwili VAR zaprosił go jednak do obejrzenia sytuacji, w której do gola doprowadził faul Andera Barrenetxei na Aurélienie Tchouaménim. Ostatecznie bramka została cofnięta. Przedstawiamy nagranie z systemu VAR z anulowania tego gola. Federacja udostępnia je od tego sezonu w przypadku wszystkich interwencji VAR-u. Spotkanie na murawie prowadził José Luis Munuera Montero.</description>
+    </item>
     
     <item>
         <title>Valverde: Trenerzy wybrali mnie do karnych, ale byłem zmęczony jak nigdy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129170-tuchel-u-musiali-znowu-wrocil-bol</link>
         <pubDate>Sat, 27 Apr 2024 19:27:00 GMT</pubDate>
         <description>Bawarczycy zakończyli mecz z Eintrachtem z kolejnymi kontuzjowanymi. Na ten moment sytuacja zdrowotna i skład rywali na wtorkowy mecz pozostaje kompletną zagadką.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Wszyscy myśleli, że będziemy tu spacerować</title>
-        <link>https://www.realmadryt.pl/news/129142-ancelotti-wszyscy-mysleli-ze-bedziemy-tu-spacerowac</link>
-        <pubDate>Sat, 27 Apr 2024 18:58:00 GMT</pubDate>
-        <description>Carlo Ancelotti udzielił wywiadu klubowym mediom po wygranej 1:0 z Realem Sociedad. Przedstawiamy wypowiedzi szkoleniowca Królewskich.</description>
     </item>
     
 </channel>
