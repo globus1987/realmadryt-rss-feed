@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Apr 2024 17:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 18:23:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Jestem zadowolony ze zwycięstwa</title>
+        <link>https://www.realmadryt.pl/news/129197-mateo-jestem-zadowolony-ze-zwyciestwa</link>
+        <pubDate>Mon, 29 Apr 2024 20:03:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko wygrane spotkanie z Obradoiro. Wyjaśnił przyczynę nieobecności Decka i mówił o tym, że drużyna już się skupia na Eurolidze.</description>
+    </item>
     
     <item>
         <title>Valverde: Ancelotti otworzył mi oczy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129209-coraz-realniejsze-zawieszenie-hiszpanskich-ekip-przez-fifa-i-uefa</link>
         <pubDate>Mon, 29 Apr 2024 13:37:00 GMT</pubDate>
         <description>Prezes Krajowej Rady Sportu odpowiedział na list FIFA i UEFA. Te nie są zadowolone i grożą karami.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy dotarli do Monachium</title>
-        <link>https://www.realmadryt.pl/news/129208-krolewscy-dotarli-do-monachium</link>
-        <pubDate>Mon, 29 Apr 2024 12:46:00 GMT</pubDate>
-        <description>Królewscy dotarli do Monachium. Wieczorem czeka ich trening na Allianz Arenie i konferencje prasowe. Pierwszy półfinał Ligi Mistrzów odbędzie się we wtorek.</description>
     </item>
     
 </channel>
