@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Apr 2024 14:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 14:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>De Ligt nie wyszedł na ostatni trening Bayernu</title>
+        <link>https://www.realmadryt.pl/news/129215-de-ligt-nie-wyszedl-na-ostatni-trening-bayernu</link>
+        <pubDate>Mon, 29 Apr 2024 16:30:00 GMT</pubDate>
+        <description>O 16:00 rozpoczął się ostatni trening Bayernu Monachium przed półfinałem Ligi Mistrzów. Poznaliśmy ważne informacje kadrowe i zdrowotne w ekipie rywala.</description>
+    </item>
     
     <item>
         <title>Kimmich: To wspaniałe uczucie grać z Realem w półfinale</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129204-300-zl-za-pierwszego-gola-w-meczu-bayernu-z-realem</link>
         <pubDate>Mon, 29 Apr 2024 09:58:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti i spisek monachijski</title>
-        <link>https://www.realmadryt.pl/news/129184-ancelotti-i-spisek-monachijski</link>
-        <pubDate>Mon, 29 Apr 2024 09:07:00 GMT</pubDate>
-        <description>Carletto wraca na Allianz Arenę, gdzie wygrał Bundesligę i starł się z wpływowymi zawodnikami Bayernu.</description>
     </item>
     
 </channel>
