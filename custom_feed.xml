@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Apr 2024 14:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 15:20:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sokół jak rekin</title>
+        <link>https://www.realmadryt.pl/news/129154-sokol-jak-rekin</link>
+        <pubDate>Mon, 29 Apr 2024 17:16:00 GMT</pubDate>
+        <description>Fede Valverde jest nie do zdarcia. Jest niczym rekin, który po prostu nie może przestać pływać.</description>
+    </item>
     
     <item>
         <title>De Ligt nie wyszedł na ostatni trening Bayernu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129205-kartka-z-kalendarza-29-kwietnia</link>
         <pubDate>Mon, 29 Apr 2024 10:51:00 GMT</pubDate>
         <description>Pierwszy mecz na nowym stadionie, przegrane mistrzostwo i dwie ważne wygrane, w tym jedna w spektakularnym stylu. Co działo się 29 kwietnia?</description>
-    </item>
-    
-    <item>
-        <title>300 zł za pierwszego gola w meczu Bayernu z Realem!</title>
-        <link>https://www.realmadryt.pl/news/129204-300-zl-za-pierwszego-gola-w-meczu-bayernu-z-realem</link>
-        <pubDate>Mon, 29 Apr 2024 09:58:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
