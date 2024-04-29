@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Apr 2024 10:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 10:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy dotarli do Monachium</title>
+        <link>https://www.realmadryt.pl/news/129208-krolewscy-dotarli-do-monachium</link>
+        <pubDate>Mon, 29 Apr 2024 12:46:00 GMT</pubDate>
+        <description>Królewscy dotarli do Monachium. Wieczorem czeka ich trening na Allianz Arenie i konferencje prasowe. Pierwszy półfinał Ligi Mistrzów odbędzie się we wtorek.</description>
+    </item>
     
     <item>
         <title>Bernardo Silva: Real Madryt to dziwna drużyna</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129203-baena-rok-po-sprawie-z-valverde-wiemy-jakie-sa-tam-media-klub-i-prezes</link>
         <pubDate>Mon, 29 Apr 2024 05:30:00 GMT</pubDate>
         <description>Álex Baena po meczu z Rayo Vallecano udzielił wywiadu radiu SER. Przedstawiamy wypowiedzi pomocnika Villarrealu związane z ubiegłoroczną sprawą o uderzenie go przez Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129202-dzisiejsze-okladki</link>
-        <pubDate>Mon, 29 Apr 2024 00:08:00 GMT</pubDate>
-        <description>Przygotowania do półfinału Ligi Mistrzów między Realem i Bayernem oraz mecz ligowy Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
