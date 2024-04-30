@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 19:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 19:53:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 1:0 dla Realu</title>
+        <link>https://www.realmadryt.pl/news/129242-do-przerwy-1-0-dla-realu</link>
+        <pubDate>Tue, 30 Apr 2024 21:46:00 GMT</pubDate>
+        <description>W pierwszym meczu półfinałowym Real Madryt prowadzi z Bayernem Monachium 1:0. Jedynego gola strzelił Vinicius Júnior, który wykorzystał podanie Toniego Kroosa.</description>
+    </item>
     
     <item>
         <title>Ancelotti: To będzie otwarty mecz</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129236-florentino-dolaczyl-do-druzyny-w-monachium</link>
         <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
         <description>Florentino Pérez przyleciał do Monachium i spotkał się z drużyną w hotelu. Wieczorem prezes obejrzy z wysokości trybun pierwszy półfinał Ligi Mistrzów z Bayernem.</description>
-    </item>
-    
-    <item>
-        <title>Drugi rewanż Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/129218-drugi-rewanz-bellinghama</link>
-        <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
-        <description>Jude Bellingham w swoich dotychczasowych starciach z Bayernem Monachium zanotował siedem porażek i jeden remis. Po tym, jak w poprzedniej rundzie zrewanżował się Manchesterowi City, teraz na celownik obiera sobie właśnie Bawarczyków.</description>
     </item>
     
 </channel>
