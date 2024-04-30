@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 14:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 14:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejna bestia dla Rüdigera</title>
+        <link>https://www.realmadryt.pl/news/129220-kolejna-bestia-dla-ruedigera</link>
+        <pubDate>Tue, 30 Apr 2024 16:40:00 GMT</pubDate>
+        <description>W poprzedniej rundzie Erling Haaland, a teraz Harry Kane – przed Antonio Rüdigerem kolejne trudne zadanie w Lidze Mistrzów. Angielski napastnik zdobył w tym sezonie w sumie 42 bramki i jego rytm strzelecki utrzymuje tylko Kylian Mbappé.</description>
+    </item>
     
     <item>
         <title>Zabójcza prawa flanka</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129234-gol-endricka-asensio-zdobywa-mistrzostwo-francji</link>
         <pubDate>Tue, 30 Apr 2024 12:27:00 GMT</pubDate>
         <description>Endrick trafił do siatki, rozpoczynając remontadę Palmeiras w Copa Libertadores, a Marco Asensio i jego PSG przypieczętowali mistrzostwo Francji. Co jeszcze słychać u zawodników wypożyczonych lub sprzedanych z Realu Madryt?</description>
-    </item>
-    
-    <item>
-        <title>Od niedoboru do overbookingu</title>
-        <link>https://www.realmadryt.pl/news/129216-od-niedoboru-do-overbookingu</link>
-        <pubDate>Tue, 30 Apr 2024 12:19:00 GMT</pubDate>
-        <description>Na mecz z Gironą wszyscy stoperzy byli kontuzjowani, a do Monachium Real poleciał z czterema opcjami na dwie pozycje.</description>
     </item>
     
 </channel>
