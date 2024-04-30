@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 17:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:25:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: To będzie otwarty mecz</title>
+        <link>https://www.realmadryt.pl/news/129240-ancelotti-to-bedzie-otwarty-mecz</link>
+        <pubDate>Tue, 30 Apr 2024 20:14:00 GMT</pubDate>
+        <description>Carlo Ancelotti przed pierwszym meczem 1/2 finału Ligi Mistrzów z Bayernem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Allianz Arenie.</description>
+    </item>
     
     <item>
         <title>Bayern Monachium – Real Madryt: Znamy składy!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129218-drugi-rewanz-bellinghama</link>
         <pubDate>Tue, 30 Apr 2024 15:00:00 GMT</pubDate>
         <description>Jude Bellingham w swoich dotychczasowych starciach z Bayernem Monachium zanotował siedem porażek i jeden remis. Po tym, jak w poprzedniej rundzie zrewanżował się Manchesterowi City, teraz na celownik obiera sobie właśnie Bawarczyków.</description>
-    </item>
-    
-    <item>
-        <title>Real kontra „transfery”</title>
-        <link>https://www.realmadryt.pl/news/129186-real-kontra-transfery</link>
-        <pubDate>Tue, 30 Apr 2024 14:20:00 GMT</pubDate>
-        <description>Real Madryt we wtorek zmierzy się w Monachium z Bayernem, w którego barwach występują dwaj piłkarze wymieniani na poważnie w gronie kandydatów do gry w białej koszulce. W barwach gospodarzy ujrzymy bowiem Harry'ego Kane'a i Alphonso Daviesa.</description>
     </item>
     
 </channel>
