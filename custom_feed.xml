@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 09:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 10:20:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od niedoboru do overbookingu</title>
+        <link>https://www.realmadryt.pl/news/129216-od-niedoboru-do-overbookingu</link>
+        <pubDate>Tue, 30 Apr 2024 12:19:00 GMT</pubDate>
+        <description>Na mecz z Gironą wszyscy stoperzy byli kontuzjowani, a do Monachium Real poleciał z czterema opcjami na dwie pozycje.</description>
+    </item>
     
     <item>
         <title>Z Bayernem po raz 27. i 28.</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129226-33-kolejka-barcelona-oddala-swietowanie</link>
         <pubDate>Mon, 29 Apr 2024 23:04:00 GMT</pubDate>
         <description>W ostatnim meczu 33. kolejki La Ligi Barcelona pokonała Valencię 4:2. Katalończycy grali całą drugą połowę z przewagą zawodnika. Dzięki trafieniom Roberta Lewandowskiego odwrócili losy meczu i sięgnęli po trzy punkty.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt trenował w Monachium</title>
-        <link>https://www.realmadryt.pl/news/129225-real-madryt-trenowal-w-monachium</link>
-        <pubDate>Mon, 29 Apr 2024 21:50:00 GMT</pubDate>
-        <description>Królewscy odbyli ostatni trening przed meczem z Bayernem Monachium, pracując na Allianz Arenie. Na murawę nie wyszedł jeden zawodnik.</description>
     </item>
     
 </channel>
