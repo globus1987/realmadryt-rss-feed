@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 13:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 14:17:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zabójcza prawa flanka</title>
+        <link>https://www.realmadryt.pl/news/129210-zabojcza-prawa-flanka</link>
+        <pubDate>Tue, 30 Apr 2024 15:55:00 GMT</pubDate>
+        <description>W obecnym sezonie ligowym Real Madryt wygenerował 25 bramek po akcjach z prawej flanki, o 10 więcej niż z lewej (15). Duża w tym zasługa fenomenalnego w tym sezonie Carvajala, choć Królewscy pokazali, że potrafią radzić sobie również bez niego.</description>
+    </item>
     
     <item>
         <title>De Ligt wykluczony z meczu z Realem Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129216-od-niedoboru-do-overbookingu</link>
         <pubDate>Tue, 30 Apr 2024 12:19:00 GMT</pubDate>
         <description>Na mecz z Gironą wszyscy stoperzy byli kontuzjowani, a do Monachium Real poleciał z czterema opcjami na dwie pozycje.</description>
-    </item>
-    
-    <item>
-        <title>Z Bayernem po raz 27. i 28.</title>
-        <link>https://www.realmadryt.pl/news/129196-z-bayernem-po-raz-27-i-28</link>
-        <pubDate>Tue, 30 Apr 2024 11:40:00 GMT</pubDate>
-        <description>W ramach tegorocznego półfinału Ligi Mistrzów Real Madryt i Bayern Monachium zmierzą się ze sobą po raz 27. i 28. Dotychczasowy bilans starć pomiędzy oboma klubami jest bardzo wyrównany.</description>
     </item>
     
 </channel>
