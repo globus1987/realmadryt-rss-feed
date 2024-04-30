@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 21:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Bayern pokazał najlepszą wersję, a my nie</title>
+        <link>https://www.realmadryt.pl/news/129246-ancelotti-bayern-pokazal-najlepsza-wersje-a-my-nie</link>
+        <pubDate>Tue, 30 Apr 2024 23:22:00 GMT</pubDate>
+        <description>Carlo Ancelotti po pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu Movistar+. Przedstawiamy zapis tej rozmowy z trenerem Realu Madryt na Allianz Arenie.</description>
+    </item>
     
     <item>
         <title>Vinícius MVP meczu z Bayernem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129220-kolejna-bestia-dla-ruedigera</link>
         <pubDate>Tue, 30 Apr 2024 16:40:00 GMT</pubDate>
         <description>W poprzedniej rundzie Erling Haaland, a teraz Harry Kane – przed Antonio Rüdigerem kolejne trudne zadanie w Lidze Mistrzów. Angielski napastnik zdobył w tym sezonie w sumie 42 bramki i jego rytm strzelecki utrzymuje tylko Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Zabójcza prawa flanka</title>
-        <link>https://www.realmadryt.pl/news/129210-zabojcza-prawa-flanka</link>
-        <pubDate>Tue, 30 Apr 2024 15:55:00 GMT</pubDate>
-        <description>W obecnym sezonie ligowym Real Madryt wygenerował 25 bramek po akcjach z prawej flanki, o 10 więcej niż z lewej (15). Duża w tym zasługa fenomenalnego w tym sezonie Carvajala, choć Królewscy pokazali, że potrafią radzić sobie również bez niego.</description>
     </item>
     
 </channel>
