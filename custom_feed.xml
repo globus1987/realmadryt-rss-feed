@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Apr 2024 10:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 10:38:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gol Endricka, Asensio zdobywa mistrzostwo Francji</title>
+        <link>https://www.realmadryt.pl/news/129234-gol-endricka-asensio-zdobywa-mistrzostwo-francji</link>
+        <pubDate>Tue, 30 Apr 2024 12:27:00 GMT</pubDate>
+        <description>Endrick trafił do siatki, rozpoczynając remontadę Palmeiras w Copa Libertadores, a Marco Asensio i jego PSG przypieczętowali mistrzostwo Francji. Co jeszcze słychać u zawodników wypożyczonych lub sprzedanych z Realu Madryt?</description>
+    </item>
     
     <item>
         <title>Od niedoboru do overbookingu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129229-dzisiejsze-okladki</link>
         <pubDate>Tue, 30 Apr 2024 00:43:00 GMT</pubDate>
         <description>Półfinał Bayernu z Realem Madryt i hat-trick Roberta Lewandowskiego to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>33. kolejka: Barcelona oddala świętowanie</title>
-        <link>https://www.realmadryt.pl/news/129226-33-kolejka-barcelona-oddala-swietowanie</link>
-        <pubDate>Mon, 29 Apr 2024 23:04:00 GMT</pubDate>
-        <description>W ostatnim meczu 33. kolejki La Ligi Barcelona pokonała Valencię 4:2. Katalończycy grali całą drugą połowę z przewagą zawodnika. Dzięki trafieniom Roberta Lewandowskiego odwrócili losy meczu i sięgnęli po trzy punkty.</description>
     </item>
     
 </channel>
