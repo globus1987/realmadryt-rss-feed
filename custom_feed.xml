@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 13:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 14:18:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 5x24: Są tak podobni do nas</title>
+        <link>https://www.realmadryt.pl/news/129269-podcast-5x24-sa-tak-podobni-do-nas</link>
+        <pubDate>Wed, 01 May 2024 16:15:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest głównie półfinałowi Ligi Mistrzów z Bayernem Monachium. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: Zapomnieliśmy o tym, że prowadzimy 2:0</title>
+        <link>https://www.realmadryt.pl/news/129241-mateo-zapomnielismy-o-tym-ze-prowadzimy-2-0</link>
+        <pubDate>Wed, 01 May 2024 15:56:00 GMT</pubDate>
+        <description>Chus Mateo wziął udział w konferencji prasowej przed trzecim spotkaniem z Baskonią. Podkreślał, że drużyna podchodzi do tej rywalizacji jak przy wyniku 0:0. Dodał również, że do Vitorii pojedzie cała kadra.</description>
+    </item>
     
     <item>
         <title>The Athletic: Łunin blisko podpisania nowej umowy</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129258-kartka-z-kalendarza-1-maja</link>
         <pubDate>Wed, 01 May 2024 10:49:00 GMT</pubDate>
         <description>Piękne pożegnanie kapitana Królewskich, zaciekłe boje z Bayernem Monachium w Lidze Mistrzów i bardzo poważne zagrożenie zdrowia dla legendy Królewskich. Co wydarzyło się 1 maja?</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Byliśmy za miękcy</title>
-        <link>https://www.realmadryt.pl/news/129254-ancelotti-bylismy-za-miekcy</link>
-        <pubDate>Wed, 01 May 2024 09:58:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Allianz Arenie.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy otrzymali dzień wolny</title>
-        <link>https://www.realmadryt.pl/news/129255-krolewscy-otrzymali-dzien-wolny</link>
-        <pubDate>Wed, 01 May 2024 09:07:00 GMT</pubDate>
-        <description>Real wrócił do Madrytu w środku nocy, a piłkarze otrzymali od trenerów dzień wolny.</description>
     </item>
     
 </channel>
