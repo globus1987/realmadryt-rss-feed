@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 21:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 22:19:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129282-dzisiejsze-okladki</link>
+        <pubDate>Thu, 02 May 2024 00:16:00 GMT</pubDate>
+        <description>Plany świętowania Realu Madryt, decyzja Toniego Kroosa i plany transferowe Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Benzema pojawi się w Madrycie na konsultację w sprawie kontuzji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129272-projekt-wyjazdowej-koszulki-na-sezon-2024-25</link>
         <pubDate>Wed, 01 May 2024 17:56:00 GMT</pubDate>
         <description>Öpaleak na portalu X pokazał zaktualizowany projekt wyjazdowej koszulki Realu na przyszły sezon.</description>
-    </item>
-    
-    <item>
-        <title>Kyle Guy ponownie na celowniku Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/129262-kyle-guy-ponownie-na-celowniku-realu-madryt</link>
-        <pubDate>Wed, 01 May 2024 17:05:00 GMT</pubDate>
-        <description>Kyle Guy nie po raz pierwszy jest obiektem zainteresowania ze strony Realu Madryt. Królewscy chcieliby pozyskać Amerykanina, co kosztowałoby tylko między 50 a 100 tysięcy euro.</description>
     </item>
     
 </channel>
