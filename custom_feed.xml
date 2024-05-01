@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 05:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 05:38:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kane: Co mówił mi Bellingham? Nie wiem, zobaczyłem, że coś mamrocze</title>
+        <link>https://www.realmadryt.pl/news/129250-kane-co-mowil-mi-bellingham-nie-wiem-zobaczylem-ze-cos-mamrocze</link>
+        <pubDate>Wed, 01 May 2024 07:25:00 GMT</pubDate>
+        <description>Po meczu Bayernu z Realem Madryt w Monachium Harry Kane rozmawiał z reporterką TNT Sports. Poniżej przedstawiamy pełny zapis słów Anglika.</description>
+    </item>
     
     <item>
         <title>Kroos: Na końcu to podanie nie było aż tak wyjątkowe</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129239-bayern-monachium-real-madryt-znamy-sklady</link>
         <pubDate>Tue, 30 Apr 2024 18:46:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Mecz rozpocznie się o godzinie 21:00 na Allianz Arenie.</description>
-    </item>
-    
-    <item>
-        <title>Goretzka: To może być początek czegoś wielkiego</title>
-        <link>https://www.realmadryt.pl/news/129190-goretzka-to-moze-byc-poczatek-czegos-wielkiego</link>
-        <pubDate>Tue, 30 Apr 2024 18:20:00 GMT</pubDate>
-        <description>Leon Goretzka udzielił wywiadu dla oficjalnej strony Bayernu Monachium przed meczem z Realem Madryt w półfinale Ligi Mistrzów. Przedstawiamy wypowiedzi pomocnika FCB.</description>
     </item>
     
 </channel>
