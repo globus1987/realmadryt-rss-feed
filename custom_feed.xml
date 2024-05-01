@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 13:38:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 13:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Athletic: Łunin blisko podpisania nowej umowy</title>
+        <link>https://www.realmadryt.pl/news/129268-the-athletic-lunin-blisko-podpisania-nowej-umowy</link>
+        <pubDate>Wed, 01 May 2024 15:40:00 GMT</pubDate>
+        <description>Według The Athletic Andrij Łunin jest blisko podpisania nowego kontraktu z Realem Madryt. Obecna umowa wygasa po sezonie 2024/25.</description>
+    </item>
     
     <item>
         <title>Rüdiger: My nigdy nie jesteśmy martwi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129255-krolewscy-otrzymali-dzien-wolny</link>
         <pubDate>Wed, 01 May 2024 09:07:00 GMT</pubDate>
         <description>Real wrócił do Madrytu w środku nocy, a piłkarze otrzymali od trenerów dzień wolny.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Jeśli nie możemy wygrać, to nie chcemy przegrać</title>
-        <link>https://www.realmadryt.pl/news/129248-rodrygo-jesli-nie-mozemy-wygrac-to-nie-chcemy-przegrac</link>
-        <pubDate>Wed, 01 May 2024 08:16:00 GMT</pubDate>
-        <description>Rodrygo Goes udzielił wypowiedzi dla telewizji Movistar+ po zremisowanym pierwszym meczu półfinałowym Ligi Mistrzów z Bayernem Monachium na Allianz Arena. Przedstawiamy wypowiedzi Brazylijczyka.</description>
     </item>
     
 </channel>
