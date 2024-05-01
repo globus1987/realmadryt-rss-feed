@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 05:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 06:25:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo: Jeśli nie możemy wygrać, to nie chcemy przegrać</title>
+        <link>https://www.realmadryt.pl/news/129248-rodrygo-jesli-nie-mozemy-wygrac-to-nie-chcemy-przegrac</link>
+        <pubDate>Wed, 01 May 2024 08:16:00 GMT</pubDate>
+        <description>Rodrygo Goes udzielił wypowiedzi dla telewizji Movistar+ po zremisowanym pierwszym meczu półfinałowym Ligi Mistrzów z Bayernem Monachium na Allianz Arena. Przedstawiamy wypowiedzi Brazylijczyka.</description>
+    </item>
     
     <item>
         <title>Kane: Co mówił mi Bellingham? Nie wiem, zobaczyłem, że coś mamrocze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129240-ancelotti-to-bedzie-otwarty-mecz</link>
         <pubDate>Tue, 30 Apr 2024 20:14:00 GMT</pubDate>
         <description>Carlo Ancelotti przed pierwszym meczem 1/2 finału Ligi Mistrzów z Bayernem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Allianz Arenie.</description>
-    </item>
-    
-    <item>
-        <title>Bayern Monachium – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/129239-bayern-monachium-real-madryt-znamy-sklady</link>
-        <pubDate>Tue, 30 Apr 2024 18:46:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Mecz rozpocznie się o godzinie 21:00 na Allianz Arenie.</description>
     </item>
     
 </channel>
