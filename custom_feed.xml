@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 16:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 16:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius w trybie matadora</title>
+        <link>https://www.realmadryt.pl/news/129257-vinicius-w-trybie-matadora</link>
+        <pubDate>Wed, 01 May 2024 18:47:00 GMT</pubDate>
+        <description>Vinícius w sezonie 2023/24 strzela gola średnio raz na 129 minut i czynnie uczestniczy przy bramce średnio raz na 84 minuty. Brazylijczyk osiąga pod tym względem swoje najlepsze wyniki w karierze.</description>
+    </item>
     
     <item>
         <title>Projekt wyjazdowej koszulki na sezon 2024/25</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129265-oceny-zawodnikow-po-meczu-z-bayernem</link>
         <pubDate>Wed, 01 May 2024 13:22:00 GMT</pubDate>
         <description>Real Madryt zremisował na wyjeździe z Bayernem Monachium 2:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Tuchel: Nie jesteśmy pierwszą drużyną, której Real Madryt to robi</title>
-        <link>https://www.realmadryt.pl/news/129256-tuchel-nie-jestesmy-pierwsza-druzyna-ktorej-real-madryt-to-robi</link>
-        <pubDate>Wed, 01 May 2024 12:31:00 GMT</pubDate>
-        <description>Trener Bayernu Monachium, Thomas Tuchel, spotkał się z dziennikarzami po zremisowanym meczu z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
