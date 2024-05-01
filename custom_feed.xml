@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 07:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 08:26:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Byliśmy za miękcy</title>
+        <link>https://www.realmadryt.pl/news/129254-ancelotti-bylismy-za-miekcy</link>
+        <pubDate>Wed, 01 May 2024 09:58:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Allianz Arenie.</description>
+    </item>
     
     <item>
         <title>Królewscy otrzymali dzień wolny</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129243-ocen-pilkarzy-po-meczu-z-bayernem</link>
         <pubDate>Tue, 30 Apr 2024 22:55:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Wszystko rozstrzygnie się na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/129242-wszystko-rozstrzygnie-sie-na-bernabeu</link>
-        <pubDate>Tue, 30 Apr 2024 21:46:00 GMT</pubDate>
-        <description>W pierwszym meczu półfinałowym Real Madryt zremisował z Bayernem Monachium 2:2. Dwa gole strzelił Vinicius Júnior, który najpierw wykorzystał podanie Toniego Kroosa, a później pokonał Manuela Neuera z rzutu karnego.</description>
     </item>
     
 </channel>
