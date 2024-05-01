@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 09:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 09:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Nie ma ofert za Daviesa”</title>
+        <link>https://www.realmadryt.pl/news/129259-nie-ma-ofert-za-daviesa</link>
+        <pubDate>Wed, 01 May 2024 11:40:00 GMT</pubDate>
+        <description>Max Eberl zapewnia, że ​​żaden klub nie złożył propozycji za lewego obrońcę, nawet Real Madryt.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129245-vinicius-mvp-meczu-z-bayernem</link>
         <pubDate>Tue, 30 Apr 2024 23:08:00 GMT</pubDate>
         <description>Vinícius Júnior otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Byernem Monachium (2:2).</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Trzeba stworzyć magiczny wieczór w domu</title>
-        <link>https://www.realmadryt.pl/news/129244-vinicius-trzeba-stworzyc-magiczny-wieczor-w-domu</link>
-        <pubDate>Tue, 30 Apr 2024 23:02:00 GMT</pubDate>
-        <description>Vinícius Júnior po pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Allianz Areny.</description>
     </item>
     
 </channel>
