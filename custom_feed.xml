@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 08:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 08:56:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 maja</title>
+        <link>https://www.realmadryt.pl/news/129258-kartka-z-kalendarza-1-maja</link>
+        <pubDate>Wed, 01 May 2024 10:49:00 GMT</pubDate>
+        <description>Piękne pożegnanie kapitana Królewskich, zaciekłe boje z Bayernem Monachium w Lidze Mistrzów i bardzo poważne zagrożenie zdrowia dla legendy Królewskich. Co wydarzyło się 1 maja?</description>
+    </item>
     
     <item>
         <title>Ancelotti: Byliśmy za miękcy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129244-vinicius-trzeba-stworzyc-magiczny-wieczor-w-domu</link>
         <pubDate>Tue, 30 Apr 2024 23:02:00 GMT</pubDate>
         <description>Vinícius Júnior po pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Allianz Areny.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Bayernem</title>
-        <link>https://www.realmadryt.pl/news/129243-ocen-pilkarzy-po-meczu-z-bayernem</link>
-        <pubDate>Tue, 30 Apr 2024 22:55:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
