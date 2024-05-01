@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 11:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 11:54:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po bilet do Berlina</title>
+        <link>https://www.realmadryt.pl/news/129247-po-bilet-do-berlina</link>
+        <pubDate>Wed, 01 May 2024 13:50:00 GMT</pubDate>
+        <description>Real Madryt zmierzy się z Baskonią po raz trzeci. Królewscy wygrali dwa pierwsze pojedynki, więc dzisiaj staną przed szansą na zamknięcie rywalizacji i zdobycie biletów na Final Four w Berlinie.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Bayernem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129253-kroos-na-koncu-to-podanie-nie-bylo-az-tak-wyjatkowe</link>
         <pubDate>Wed, 01 May 2024 05:30:00 GMT</pubDate>
         <description>Toni Kroos po pierwszym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi zawodnika Realu Madryt z Allianz Areny.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129251-dzisiejsze-okladki</link>
-        <pubDate>Wed, 01 May 2024 00:57:00 GMT</pubDate>
-        <description>Remis Realu Madryt z Bayernem i wygrana koszykarzy Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
