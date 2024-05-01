@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 May 2024 06:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 07:20:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy otrzymali dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/129255-krolewscy-otrzymali-dzien-wolny</link>
+        <pubDate>Wed, 01 May 2024 09:07:00 GMT</pubDate>
+        <description>Real wrócił do Madrytu w środku nocy, a piłkarze otrzymali od trenerów dzień wolny.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Jeśli nie możemy wygrać, to nie chcemy przegrać</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129242-wszystko-rozstrzygnie-sie-na-bernabeu</link>
         <pubDate>Tue, 30 Apr 2024 21:46:00 GMT</pubDate>
         <description>W pierwszym meczu półfinałowym Real Madryt zremisował z Bayernem Monachium 2:2. Dwa gole strzelił Vinicius Júnior, który najpierw wykorzystał podanie Toniego Kroosa, a później pokonał Manuela Neuera z rzutu karnego.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: To będzie otwarty mecz</title>
-        <link>https://www.realmadryt.pl/news/129240-ancelotti-to-bedzie-otwarty-mecz</link>
-        <pubDate>Tue, 30 Apr 2024 20:14:00 GMT</pubDate>
-        <description>Carlo Ancelotti przed pierwszym meczem 1/2 finału Ligi Mistrzów z Bayernem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Allianz Arenie.</description>
     </item>
     
 </channel>
