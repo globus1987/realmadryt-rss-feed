@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 08:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 08:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 2 maja</title>
+        <link>https://www.realmadryt.pl/news/129285-kartka-z-kalendarza-2-maja</link>
+        <pubDate>Thu, 02 May 2024 10:49:00 GMT</pubDate>
+        <description>Bolesne porażki z Benficą i Barceloną, urodziny Davida Beckhama oraz wysokie wygrane z Athletikiem i Atlético. Co działo się 2 maja?</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Wracamy na Bernabéu, by wygrać i zagrać w tym finale</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129278-real-madryt-w-final-four</link>
         <pubDate>Wed, 01 May 2024 22:54:00 GMT</pubDate>
         <description>Real Madryt zamknął rywalizację z Baskonią najszybciej, jak to było możliwe. Trzecie spotkanie było najtrudniejsze, ale Królewscy zdołali pokonać dobrze dysponowanego rywala. Dzięki temu zagwarantowali sobie wyjazd do Berlina na turniej finałowy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real ruszy na Cibeles, jeśli w sobotę zdobędzie tytuł</title>
-        <link>https://www.realmadryt.pl/news/129273-marca-real-ruszy-na-cibeles-jesli-w-sobote-zdobedzie-tytul</link>
-        <pubDate>Wed, 01 May 2024 21:36:00 GMT</pubDate>
-        <description>Jeśli w najbliższą sobotę Królewscy pokonają na Bernabéu Cádiz, to będą czekać na stadionie na wynik meczu Girony z Barceloną. W razie wpadki Dumy Katalonii drużyna ruszy na Cibeles – informuje MARCA.</description>
     </item>
     
 </channel>
