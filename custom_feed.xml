@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 21:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 21:38:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona czy Olympiakos?</title>
+        <link>https://www.realmadryt.pl/news/129298-barcelona-czy-olympiakos</link>
+        <pubDate>Thu, 02 May 2024 23:29:00 GMT</pubDate>
+        <description>Real Madryt wciąż czeka na półfinałowego rywala w Eurolidze. Barcelona nie wykorzystała piłki meczowej i została rozbita w meczu numer cztery.</description>
+    </item>
     
     <item>
         <title>Czy Real planuje sobotnie świętowanie na Cibeles?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129289-kontuzja-zawieszenie-zmeczenie</link>
         <pubDate>Thu, 02 May 2024 15:04:00 GMT</pubDate>
         <description>Zaledwie 10 dni temu Jude Bellingham rozstrzygnął w doliczonym czasie losy Klasyku, który przypieczętowuje mistrzostwo Hiszpanii. Gol ten jednak nie przykrywa w całości faktu, że postawa Anglika od co najmniej kilku tygodni jest bardzo przeciętna.</description>
-    </item>
-    
-    <item>
-        <title>Kolejny „brzydki” gest Ancelottiego względem Nacho</title>
-        <link>https://www.realmadryt.pl/news/129290-kolejny-brzydki-gest-ancelottiego-wzgledem-nacho</link>
-        <pubDate>Thu, 02 May 2024 14:13:00 GMT</pubDate>
-        <description>65. minuta meczu na Allianz. Czwarty arbiter podnosi tablicę świetlną, z której można wyczytać, że pierwszym piłkarzem, jakiego zmienia Ancelotti, jest Nacho. W miejsce kapitana na boisko zawitał Camavinga, choć w domyśle to rzecz jasna Tchouaméni miał przejść na pozycję stopera. Drużyna przegrywała wówczas 1:2 i nie było czasu do stracenia. Cała ta sytuacja ma jednak dla Ignacio również drugie dno.</description>
     </item>
     
 </channel>
