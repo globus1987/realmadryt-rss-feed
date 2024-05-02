@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 11:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 11:28:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwóch piłkarzy nie trenowało z drużyną</title>
+        <link>https://www.realmadryt.pl/news/129291-dwoch-pilkarzy-nie-trenowalo-z-druzyna</link>
+        <pubDate>Thu, 02 May 2024 13:22:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do spotkania z Cádizem. Razem z drużyną nie trenowało dwóch zawodników.</description>
+    </item>
+    
+    <item>
+        <title>Pokusa Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/129288-pokusa-ancelottiego</link>
+        <pubDate>Thu, 02 May 2024 13:22:00 GMT</pubDate>
+        <description>Thibaut Courtois jest o krok od powrotu na boisko. Bramkarz był jednym z filarów zespołu w ostatnich latach, ale w tym sezonie niedane było mu zadebiutować z powodu poważnych urazów. Wydaje się jednak, że wszystko, co najgorsze, Belg zostawił już za sobą.</description>
+    </item>
     
     <item>
         <title>Mateo: Wierzyliśmy do końca</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129267-vinicius-i-rodrygo-krolowie-ligi-mistrzow</link>
         <pubDate>Thu, 02 May 2024 05:30:00 GMT</pubDate>
         <description>Gdy nadchodzi decydująca faza rozgrywek o Puchar Europy, Vinícius i Rodrygo pokazują swoje najlepsze wersje. Od sezonu 2019/20 duet ten zapewnił Realowi 17 goli i 14 asyst w fazie pucharowej Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129282-dzisiejsze-okladki</link>
-        <pubDate>Thu, 02 May 2024 00:16:00 GMT</pubDate>
-        <description>Plany świętowania Realu Madryt, decyzja Toniego Kroosa i plany transferowe Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Benzema pojawi się w Madrycie na konsultację w sprawie kontuzji</title>
-        <link>https://www.realmadryt.pl/news/129280-benzema-pojawi-sie-w-madrycie-na-konsultacje-w-sprawie-kontuzji</link>
-        <pubDate>Wed, 01 May 2024 23:37:00 GMT</pubDate>
-        <description>Klub byłego kapitana Królewskich poinformował, że piłkarz współpracuje z lekarzem Realu Madryt w kwestii swoich problemów fizycznych.</description>
     </item>
     
 </channel>
