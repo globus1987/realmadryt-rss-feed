@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 17:17:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 17:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt liderem Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/129279-real-madryt-liderem-ligi-endesa</link>
+        <pubDate>Thu, 02 May 2024 19:19:00 GMT</pubDate>
+        <description>Real Madryt jednego dnia awansował do Final Four Euroligi i odzyskał prowadzenie w tabeli Ligi Endesa. Stało się to dzięki porażce Unicajy z Tenerife w zaległym spotkaniu.</description>
+    </item>
     
     <item>
         <title>Unboxing nowej trzeciej koszulki Realu Madryt [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129281-mateo-wierzylismy-do-konca</link>
         <pubDate>Thu, 02 May 2024 12:31:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej po zwycięskiej rywalizacji z Baskonią.</description>
-    </item>
-    
-    <item>
-        <title>AS: Raúl rozmawia z HSV</title>
-        <link>https://www.realmadryt.pl/news/129286-as-raul-rozmawia-z-hsv</link>
-        <pubDate>Thu, 02 May 2024 11:40:00 GMT</pubDate>
-        <description>Oprócz Unionu Berlin, trenerem Castilli interesuje się też drugoligowy HSV, w którym pracuje stary znajomy Raúla z czasów w Schalke.</description>
     </item>
     
 </channel>
