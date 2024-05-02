@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 10:20:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 10:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Wierzyliśmy do końca</title>
+        <link>https://www.realmadryt.pl/news/129281-mateo-wierzylismy-do-konca</link>
+        <pubDate>Thu, 02 May 2024 12:31:00 GMT</pubDate>
+        <description>Chus Mateo wziął udział w konferencji prasowej po zwycięskiej rywalizacji z Baskonią.</description>
+    </item>
     
     <item>
         <title>AS: Raúl rozmawia z HSV</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129280-benzema-pojawi-sie-w-madrycie-na-konsultacje-w-sprawie-kontuzji</link>
         <pubDate>Wed, 01 May 2024 23:37:00 GMT</pubDate>
         <description>Klub byłego kapitana Królewskich poinformował, że piłkarz współpracuje z lekarzem Realu Madryt w kwestii swoich problemów fizycznych.</description>
-    </item>
-    
-    <item>
-        <title>Borussia Dortmund wygrała z PSG</title>
-        <link>https://www.realmadryt.pl/news/129277-borussia-dortmund-wygrala-z-psg</link>
-        <pubDate>Wed, 01 May 2024 22:56:00 GMT</pubDate>
-        <description>Wczoraj Real Madryt zremisował z Bayernem Monachium na wyjeździe 2:2 i według większości ekspertów jest ciut bliżej finału Ligi Mistrzów. W dzisiejszym półfinale Borussia Dortmund wygrała z Paris Saint-Germain 1:0.</description>
     </item>
     
 </channel>
