@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 21:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 22:18:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129299-dzisiejsze-okladki</link>
+        <pubDate>Fri, 03 May 2024 00:16:00 GMT</pubDate>
+        <description>Powrót Thibaut Courtois i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barcelona czy Olympiakos?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129276-enzo-alves-przedluzyl-kontrakt-z-realem-madryt</link>
         <pubDate>Thu, 02 May 2024 15:55:00 GMT</pubDate>
         <description>Choć obecny kontrakt Enzo Alvesa obowiązuje do 30 czerwca 2026 roku, to syn Marcelo już zdecydował się na jego przedłużenie i kontynuację szkolenia w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Kontuzja, zawieszenie, zmęczenie…</title>
-        <link>https://www.realmadryt.pl/news/129289-kontuzja-zawieszenie-zmeczenie</link>
-        <pubDate>Thu, 02 May 2024 15:04:00 GMT</pubDate>
-        <description>Zaledwie 10 dni temu Jude Bellingham rozstrzygnął w doliczonym czasie losy Klasyku, który przypieczętowuje mistrzostwo Hiszpanii. Gol ten jednak nie przykrywa w całości faktu, że postawa Anglika od co najmniej kilku tygodni jest bardzo przeciętna.</description>
     </item>
     
 </channel>
