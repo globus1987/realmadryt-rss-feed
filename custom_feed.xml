@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 09:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 09:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Raúl rozmawia z HSV Hamburg</title>
+        <link>https://www.realmadryt.pl/news/129286-as-raul-rozmawia-z-hsv-hamburg</link>
+        <pubDate>Thu, 02 May 2024 11:40:00 GMT</pubDate>
+        <description>Oprócz Unionu Berlin, trenerem Castilli interesuje się też drugoligowy HSV Hamburg, w którym pracuje stary znajomy Raúla z czasów w Schalke.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 2 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129277-borussia-dortmund-wygrala-z-psg</link>
         <pubDate>Wed, 01 May 2024 22:56:00 GMT</pubDate>
         <description>Wczoraj Real Madryt zremisował z Bayernem Monachium na wyjeździe 2:2 i według większości ekspertów jest ciut bliżej finału Ligi Mistrzów. W dzisiejszym półfinale Borussia Dortmund wygrała z Paris Saint-Germain 1:0.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt w Final Four!</title>
-        <link>https://www.realmadryt.pl/news/129278-real-madryt-w-final-four</link>
-        <pubDate>Wed, 01 May 2024 22:54:00 GMT</pubDate>
-        <description>Real Madryt zamknął rywalizację z Baskonią najszybciej, jak to było możliwe. Trzecie spotkanie było najtrudniejsze, ale Królewscy zdołali pokonać dobrze dysponowanego rywala. Dzięki temu zagwarantowali sobie wyjazd do Berlina na turniej finałowy.</description>
     </item>
     
 </channel>
