@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 May 2024 05:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 05:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Komitet Rozgrywek utrzymał kartkę Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/129283-komitet-rozgrywek-utrzymal-kartke-tchouameniego</link>
+        <pubDate>Thu, 02 May 2024 07:25:00 GMT</pubDate>
+        <description>Real Madryt odwołał się od kartki pokazanej w ostatnim meczu ligowym Aurélienowi Tchouaméniemu. Komitet Rozgrywek stwierdził jednak, że sędzia nie popełnił oczywistego błędu.</description>
+    </item>
     
     <item>
         <title>Vinícius i Rodrygo, królowie Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129270-ruediger-pilkarzem-na-piec-gwiazdek-za-kwiecien</link>
         <pubDate>Wed, 01 May 2024 19:20:00 GMT</pubDate>
         <description>Niemiec po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius w trybie matadora</title>
-        <link>https://www.realmadryt.pl/news/129257-vinicius-w-trybie-matadora</link>
-        <pubDate>Wed, 01 May 2024 18:47:00 GMT</pubDate>
-        <description>Vinícius w sezonie 2023/24 strzela gola średnio raz na 129 minut i czynnie uczestniczy przy bramce średnio raz na 84 minuty. Brazylijczyk osiąga pod tym względem swoje najlepsze wyniki w karierze.</description>
     </item>
     
 </channel>
