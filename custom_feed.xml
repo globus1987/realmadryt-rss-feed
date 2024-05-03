@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 May 2024 22:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 22:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129321-dzisiejsze-okladki</link>
+        <pubDate>Sat, 04 May 2024 00:44:00 GMT</pubDate>
+        <description>Losy mistrzostwa to najważniejsza kwestia poruszana na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Nacho chce trafić do MLS</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129295-pellegrino-musimy-zagrac-niewygodny-mecz</link>
         <pubDate>Fri, 03 May 2024 14:41:00 GMT</pubDate>
         <description>Mauricio Pellegrino, szkoleniowiec Cádizu, wziął udział w konferencji prasowej przed sobotnim meczem z Realem Madryt. Przedstawiamy wypowiedzi Argentyńczyka.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Cádiz</title>
-        <link>https://www.realmadryt.pl/news/129312-kadra-na-cadiz</link>
-        <pubDate>Fri, 03 May 2024 14:36:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Cádizem na Santiago Bernabéu. Włoski szkoleniowiec nie może liczyć na jednego zawodnika pierwszego zespołu.</description>
     </item>
     
 </channel>
