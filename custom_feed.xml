@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 May 2024 10:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 11:15:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jutro zagrają Courtois, Militão i Arda Güler</title>
+        <link>https://www.realmadryt.pl/news/129307-ancelotti-jutro-zagraja-courtois-militao-i-arda-gueler</link>
+        <pubDate>Fri, 03 May 2024 12:59:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Cádizem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się na portalu tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed Cádizem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129301-marca-z-cadizem-zagra-courtois-i-kepa</link>
         <pubDate>Fri, 03 May 2024 05:30:00 GMT</pubDate>
         <description>Carlo Ancelotti zapowiedział, że Thibaut Courtois może jutro zagrać z Cádizem. MARCA twierdzi, że możliwy jest występ dwóch bramkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129299-dzisiejsze-okladki</link>
-        <pubDate>Fri, 03 May 2024 00:16:00 GMT</pubDate>
-        <description>Powrót Thibaut Courtois i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
