@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 May 2024 17:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 17:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 34. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/129314-telewizyjny-terminarz-34-kolejki-la-ligi</link>
+        <pubDate>Fri, 03 May 2024 19:47:00 GMT</pubDate>
+        <description>W sobotę może być po najważniejszym rozstrzygnięciu w lidze hiszpańskiej. Real Madryt musi wygrać u siebie z Cádizem, a Barcelona nie może pokonać Girony.</description>
+    </item>
     
     <item>
         <title>Niezmordowana Ivana Andrés</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129307-ancelotti-jutro-zagraja-courtois-militao-i-arda-gueler</link>
         <pubDate>Fri, 03 May 2024 12:59:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Cádizem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się na portalu tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Cádizem</title>
-        <link>https://www.realmadryt.pl/news/129308-ostatni-trening-przed-cadizem</link>
-        <pubDate>Fri, 03 May 2024 12:35:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do spotkania z Cádizem. Razem z drużyną nie trenował jeden zawodnik.</description>
     </item>
     
 </channel>
