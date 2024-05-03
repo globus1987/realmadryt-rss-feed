@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 May 2024 18:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 18:39:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyskocznia dla Gülera</title>
+        <link>https://www.realmadryt.pl/news/129303-wyskocznia-dla-guelera</link>
+        <pubDate>Fri, 03 May 2024 20:38:00 GMT</pubDate>
+        <description>Arda Güler w jutrzejszym meczu z Cádizem ma po raz pierwszy wyjść w pierwszym składzie na Santiago Bernabéu. Turecki pomocnik chce wykorzystać końcówkę sezonu La Ligi, aby pokazać się z jak najlepszej strony.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 34. kolejki La Ligi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129275-remis-w-pierwszym-meczu-polfinalu-ligi-mistrzow-i-co-dalej</link>
         <pubDate>Fri, 03 May 2024 13:50:00 GMT</pubDate>
         <description>Królewscy po raz czwarty w historii zaczęli półfinałowy dwumecz Champions League od remisu. Na trzy wcześniejsze przypadki, tylko raz udało im się awansować w rewanżu.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Jutro zagrają Courtois, Militão i Arda Güler</title>
-        <link>https://www.realmadryt.pl/news/129307-ancelotti-jutro-zagraja-courtois-militao-i-arda-gueler</link>
-        <pubDate>Fri, 03 May 2024 12:59:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Cádizem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się na portalu tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
