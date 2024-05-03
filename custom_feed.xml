@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 May 2024 10:20:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 10:38:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Cádizem</title>
+        <link>https://www.realmadryt.pl/news/129308-ostatni-trening-przed-cadizem</link>
+        <pubDate>Fri, 03 May 2024 12:35:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do spotkania z Cádizem. Razem z drużyną nie trenował jeden zawodnik.</description>
+    </item>
     
     <item>
         <title>200 zł za wygraną Realu z Cádizem!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129299-dzisiejsze-okladki</link>
         <pubDate>Fri, 03 May 2024 00:16:00 GMT</pubDate>
         <description>Powrót Thibaut Courtois i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona czy Olympiakos?</title>
-        <link>https://www.realmadryt.pl/news/129298-barcelona-czy-olympiakos</link>
-        <pubDate>Thu, 02 May 2024 23:29:00 GMT</pubDate>
-        <description>Real Madryt wciąż czeka na półfinałowego rywala w Eurolidze. Barcelona nie wykorzystała piłki meczowej i została rozbita w meczu numer cztery.</description>
     </item>
     
 </channel>
