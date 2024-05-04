@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 15:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 16:22:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Girona vs Barcelona: Szansa na mistrzostwo dla Realu</title>
+        <link>https://www.realmadryt.pl/news/129339-girona-vs-barcelona-szansa-na-mistrzostwo-dla-realu</link>
+        <pubDate>Sat, 04 May 2024 18:17:00 GMT</pubDate>
+        <description>O 18:30 rozpocznie się starcie pomiędzy Gironą a Barceloną na Estadi Montilivi. Drużyna Xaviego musi wygrać, jeśli chce matematycznie zachować szanse na mistrzostwo Hiszpanii. Każdy inny wynik niż 3 punkty dla jego zespołu oznacza, że Real Madryt jeszcze dziś będzie mógł świętować zwycięstwo w lidze.</description>
+    </item>
+    
+    <item>
+        <title>Brahim Díaz MVP meczu z Cádizem</title>
+        <link>https://www.realmadryt.pl/news/129338-brahim-diaz-mvp-meczu-z-cadizem</link>
+        <pubDate>Sat, 04 May 2024 18:10:00 GMT</pubDate>
+        <description>Brahim Díaz był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania z Cádizem.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Cádizem</title>
+        <link>https://www.realmadryt.pl/news/129337-ocen-pilkarzy-po-meczu-z-cadizem</link>
+        <pubDate>Sat, 04 May 2024 18:07:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Stuttgart wygrał z Bayernem</title>
@@ -14,10 +35,10 @@
     </item>
     
     <item>
-        <title>Do przerwy 0:0</title>
-        <link>https://www.realmadryt.pl/news/129335-do-przerwy-0-0</link>
+        <title>To już tylko formalność!</title>
+        <link>https://www.realmadryt.pl/news/129335-to-juz-tylko-formalnosc</link>
         <pubDate>Sat, 04 May 2024 17:03:00 GMT</pubDate>
-        <description>W meczu 34. kolejki La Ligi Real Madryt remisuje u siebie z Cádizem 0:0.</description>
+        <description>W meczu 34. kolejki La Ligi Real Madryt wygrał u siebie z Cádizem 3:0. Gole strzelili Brahim Díaz, Jude Bellingham i Joselu.</description>
     </item>
     
     <item>
@@ -53,27 +74,6 @@
         <link>https://www.realmadryt.pl/news/129304-wraca-superman</link>
         <pubDate>Sat, 04 May 2024 12:15:00 GMT</pubDate>
         <description>Prawie 9 miesięcy po zerwaniu więzadła Belg ponownie pojawi się w bramce Realu, gdyż ma dostać minuty z Cádizem.</description>
-    </item>
-    
-    <item>
-        <title>Chust jedynym pewnym punktem słabej obrony</title>
-        <link>https://www.realmadryt.pl/news/129330-chust-jedynym-pewnym-punktem-slabej-obrony</link>
-        <pubDate>Sat, 04 May 2024 12:00:00 GMT</pubDate>
-        <description>W sytuacji bliskiej ogłoszenia żałoby w Kadyksie chociaż jedna kwestia może stanowić pocieszenie. Mowa o postawie Victora Chusta, który po objęciu zespołu przez Pellegrino stał się jednym z najlepszych graczy zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Mistrzostwo w trakcie meczu z Cádizem</title>
-        <link>https://www.realmadryt.pl/news/129322-mistrzostwo-w-trakcie-meczu-z-cadizem</link>
-        <pubDate>Sat, 04 May 2024 11:45:00 GMT</pubDate>
-        <description>Real Madryt miał już okazję zdobyć w swojej historii mistrzostwo Hiszpanii w meczu z Cádizem. Doszło do tego w 1978 roku dzięki porażce Barcelony w meczu ze Sportingiem Gijón.</description>
-    </item>
-    
-    <item>
-        <title>Bayern zagra na wyjeździe ze Stuttgartem</title>
-        <link>https://www.realmadryt.pl/news/129323-bayern-zagra-na-wyjezdzie-ze-stuttgartem</link>
-        <pubDate>Sat, 04 May 2024 11:15:00 GMT</pubDate>
-        <description>Bayern Monachium rozegra dziś mecz ligowy ze Stuttgartem. Obie drużyny walczą o wicemistrzostwo Niemiec.</description>
     </item>
     
 </channel>
