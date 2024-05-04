@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 16:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 16:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: To był trudny mecz, bo wszyscy mają w głowie środowy rewanż</title>
+        <link>https://www.realmadryt.pl/news/129342-ancelotti-to-byl-trudny-mecz-bo-wszyscy-maja-w-glowie-srodowy-rewanz</link>
+        <pubDate>Sat, 04 May 2024 18:52:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po wygranej 3:0 z Cádizem. Przedstawiamy wypowiedzi szkoleniowca Królewskich.</description>
+    </item>
     
     <item>
         <title>Joselu: Teraz na Bayern, po kolejną magiczną noc</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129334-zmarl-pepe-portoles</link>
         <pubDate>Sat, 04 May 2024 14:36:00 GMT</pubDate>
         <description>W wieku 69 lat zmarł Pepe Portolés, były trener od przygotowania fizycznego Realu Madryt. Klub opublikował oficjalny komunikat, z którego treścią możecie zapoznać się poniżej.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Cádiz: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/129332-real-madryt-cadiz-znamy-sklady</link>
-        <pubDate>Sat, 04 May 2024 14:22:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w meczu 34. kolejki La Ligi z Cádizem. Mecz rozpocznie się o 16:15 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
