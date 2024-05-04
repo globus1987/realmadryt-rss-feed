@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 06:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 07:16:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Iglesias Villanueva na Cádiz</title>
+        <link>https://www.realmadryt.pl/news/129313-iglesias-villanueva-na-cadiz</link>
+        <pubDate>Sat, 04 May 2024 09:09:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Cádizem poprowadzi arbiter pochodzący z Galicji. Będzie to dla niego drugi mecz z udziałem Królewskich. Arbitrem VAR będzie Ricardo De Burgos Bengoechea.</description>
+    </item>
     
     <item>
         <title>Mecz na prąd</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129310-ancelotti-tworzy-real-nie-do-pokonania</link>
         <pubDate>Fri, 03 May 2024 18:05:00 GMT</pubDate>
         <description>Los Blancos przegrali w tym sezonie tylko dwa spotkania. Były to derbowe starcia z Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Real wciąż nie zajął się przyszłością Joselu</title>
-        <link>https://www.realmadryt.pl/news/129311-real-wciaz-nie-zajal-sie-przyszloscia-joselu</link>
-        <pubDate>Fri, 03 May 2024 17:14:00 GMT</pubDate>
-        <description>Realowi zostało siedem meczów do końca sezonu, w tym kluczowy czas w Lidze Mistrzów. Nic więc dziwnego, że działacze skupiają się obecnie wyłącznie na teraźniejszości. Czynniki rozpraszające są niemile widziane. Choć oczywiście nie wszystko, co tyczy się planowania kolejnego sezonu, rzucono w kąt, to jednak wiele spraw może jeszcze chwilę poczekać. Wśród nich wymienić można zajęcie się przyszłością Joselu.</description>
     </item>
     
 </channel>
