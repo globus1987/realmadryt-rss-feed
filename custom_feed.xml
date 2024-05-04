@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 09:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 10:17:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wraca Superman</title>
+        <link>https://www.realmadryt.pl/news/129304-wraca-superman</link>
+        <pubDate>Sat, 04 May 2024 12:15:00 GMT</pubDate>
+        <description>Prawie 9 miesięcy po zerwaniu więzadła Belg ponownie pojawi się w bramce Realu, gdyż ma dostać minuty z Cádizem.</description>
+    </item>
+    
+    <item>
+        <title>Chust jedynym pewnym punktem słabej obrony</title>
+        <link>https://www.realmadryt.pl/news/129330-chust-jedynym-pewnym-punktem-slabej-obrony</link>
+        <pubDate>Sat, 04 May 2024 12:00:00 GMT</pubDate>
+        <description>W sytuacji bliskiej ogłoszenia żałoby w Kadyksie chociaż jedna kwestia może stanowić pocieszenie. Mowa o postawie Victora Chusta, który po objęciu zespołu przez Pellegrino stał się jednym z najlepszych graczy zespołu.</description>
+    </item>
     
     <item>
         <title>Mistrzostwo w trakcie meczu z Cádizem</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129315-mecz-na-prad</link>
         <pubDate>Sat, 04 May 2024 08:18:00 GMT</pubDate>
         <description>Dzisiejsza myśl przewodnia to prosta droga do kłótni. Na szczęście mecz rozpoczyna się już o 16:15, więc może nie zdąży dojść do rękoczynów.</description>
-    </item>
-    
-    <item>
-        <title>Real – Cádiz: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/129319-real-cadiz-przewidywane-sklady</link>
-        <pubDate>Sat, 04 May 2024 07:25:00 GMT</pubDate>
-        <description>Real Madryt rozegra dzisiaj kolejne ligowe spotkanie i tym razem zmierzy się z Cádizem. W obu zespołach należy spodziewać się paru zmian.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Jutro nie będzie żadnego świętowania</title>
-        <link>https://www.realmadryt.pl/news/129320-ancelotti-jutro-nie-bedzie-zadnego-swietowania</link>
-        <pubDate>Sat, 04 May 2024 05:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Cádizem. Poniżej przedstawiamy pełny zapis tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
