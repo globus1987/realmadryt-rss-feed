@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 15:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Stuttgart wygrał z Bayernem</title>
+        <link>https://www.realmadryt.pl/news/129336-stuttgart-wygral-z-bayernem</link>
+        <pubDate>Sat, 04 May 2024 17:45:00 GMT</pubDate>
+        <description>W meczu 32. kolejki Bundesligi Stuttgart wygrał z Bayernem 3:1, dzięki czemu traci obecnie do Bawarczyków tylko 2 punkty. To nie koniec walki o wicemistrzostwo Niemiec.</description>
+    </item>
     
     <item>
         <title>Do przerwy 0:0</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129323-bayern-zagra-na-wyjezdzie-ze-stuttgartem</link>
         <pubDate>Sat, 04 May 2024 11:15:00 GMT</pubDate>
         <description>Bayern Monachium rozegra dziś mecz ligowy ze Stuttgartem. Obie drużyny walczą o wicemistrzostwo Niemiec.</description>
-    </item>
-    
-    <item>
-        <title>Bratobójczy klasyk</title>
-        <link>https://www.realmadryt.pl/news/129329-bratobojczy-klasyk</link>
-        <pubDate>Sat, 04 May 2024 11:00:00 GMT</pubDate>
-        <description>Bracia Nacho i Álex Fernández znajdują się na dwóch różnych biegunach La Ligi. Dziś były gracz Królewskich i ich obecny kapitan staną naprzeciwko siebie po raz ósmy.</description>
     </item>
     
 </channel>
