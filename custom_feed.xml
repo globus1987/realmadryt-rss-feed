@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 09:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 09:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mistrzostwo w trakcie meczu z Cádizem</title>
+        <link>https://www.realmadryt.pl/news/129322-mistrzostwo-w-trakcie-meczu-z-cadizem</link>
+        <pubDate>Sat, 04 May 2024 11:45:00 GMT</pubDate>
+        <description>Real Madryt miał już okazję zdobyć w swojej historii mistrzostwo Hiszpanii w meczu z Cádizem. Doszło do tego w 1978 roku dzięki porażce Barcelony w meczu ze Sportingiem Gijón.</description>
+    </item>
     
     <item>
         <title>Bayern zagra na wyjeździe ze Stuttgartem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129320-ancelotti-jutro-nie-bedzie-zadnego-swietowania</link>
         <pubDate>Sat, 04 May 2024 05:30:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Cádizem. Poniżej przedstawiamy pełny zapis tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129321-dzisiejsze-okladki</link>
-        <pubDate>Sat, 04 May 2024 00:44:00 GMT</pubDate>
-        <description>Losy mistrzostwa to najważniejsza kwestia poruszana na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
