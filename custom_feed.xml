@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 08:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 08:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 4 maja</title>
+        <link>https://www.realmadryt.pl/news/129316-kartka-z-kalendarza-4-maja</link>
+        <pubDate>Sat, 04 May 2024 10:45:00 GMT</pubDate>
+        <description>Porażka sprzed 100 lat w finale Pucharu Króla, gol Czeryszewa seniora na Santiago Bernabéu, 31. mistrzostwo Hiszpanii, urodziny byłego trenera i awanse do finału Ligi Mistrzów, w tym ten po wspaniałej remontadzie. Co działo się 4 maja?</description>
+    </item>
     
     <item>
         <title>Drużyna nie uda się na Cibeles, jeśli sięgnie dziś po tytuł</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129303-wyskocznia-dla-guelera</link>
         <pubDate>Fri, 03 May 2024 20:38:00 GMT</pubDate>
         <description>Arda Güler w jutrzejszym meczu z Cádizem ma po raz pierwszy wyjść w pierwszym składzie na Santiago Bernabéu. Turecki pomocnik chce wykorzystać końcówkę sezonu La Ligi, aby pokazać się z jak najlepszej strony.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 34. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129314-telewizyjny-terminarz-34-kolejki-la-ligi</link>
-        <pubDate>Fri, 03 May 2024 19:47:00 GMT</pubDate>
-        <description>W sobotę może być po najważniejszym rozstrzygnięciu w lidze hiszpańskiej. Real Madryt musi wygrać u siebie z Cádizem, a Barcelona nie może pokonać Girony.</description>
     </item>
     
 </channel>
