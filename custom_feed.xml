@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 14:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 15:18:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 0:0</title>
+        <link>https://www.realmadryt.pl/news/129335-do-przerwy-0-0</link>
+        <pubDate>Sat, 04 May 2024 17:03:00 GMT</pubDate>
+        <description>W meczu 34. kolejki La Ligi Real Madryt remisuje u siebie z Cádizem 0:0.</description>
+    </item>
     
     <item>
         <title>Stuttgart – Bayern: Bawarczycy walczą o wicemistrzostwo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129329-bratobojczy-klasyk</link>
         <pubDate>Sat, 04 May 2024 11:00:00 GMT</pubDate>
         <description>Bracia Nacho i Álex Fernández znajdują się na dwóch różnych biegunach La Ligi. Dziś były gracz Królewskich i ich obecny kapitan staną naprzeciwko siebie po raz ósmy.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 4 maja</title>
-        <link>https://www.realmadryt.pl/news/129316-kartka-z-kalendarza-4-maja</link>
-        <pubDate>Sat, 04 May 2024 10:45:00 GMT</pubDate>
-        <description>Porażka sprzed 100 lat w finale Pucharu Króla, gol Czeryszewa seniora na Santiago Bernabéu, 31. mistrzostwo Hiszpanii, urodziny byłego trenera i awanse do finału Ligi Mistrzów, w tym ten po wspaniałej remontadzie. Co działo się 4 maja?</description>
     </item>
     
 </channel>
