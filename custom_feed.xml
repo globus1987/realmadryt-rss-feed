@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 22:16:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 22:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129361-dzisiejsze-okladki</link>
+        <pubDate>Sun, 05 May 2024 00:37:00 GMT</pubDate>
+        <description>Mistrzostwo piłkarzy Realu i piłkarek Barcelony to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Wszyscy spodziewali się, że Real się potknie, a Real nigdy się nie potknął</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129347-brahim-bayern-wiemy-jak-wygladaja-magiczne-noce-na-bernabeu</link>
         <pubDate>Sat, 04 May 2024 20:05:00 GMT</pubDate>
         <description>Brahim Díaz udzielił wywiadu klubowej telewizji po wygranym 3:0 meczu z Cádizem. Przedstawiamy wypowiedzi piłkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Fran García: Drużyna wie, że musi podażać tą drogą</title>
-        <link>https://www.realmadryt.pl/news/129348-fran-garcia-druzyna-wie-ze-musi-podazac-ta-droga</link>
-        <pubDate>Sat, 04 May 2024 20:03:00 GMT</pubDate>
-        <description>Fran García udzielił wywiadu dla klubowej telewizji po wygranym 3:0 meczu z Cádizem. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
     </item>
     
 </channel>
