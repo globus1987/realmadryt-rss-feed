@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 03:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 03:38:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jutro nie będzie żadnego świętowania</title>
+        <link>https://www.realmadryt.pl/news/129320-ancelotti-jutro-nie-bedzie-zadnego-swietowania</link>
+        <pubDate>Sat, 04 May 2024 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Cádizem. Poniżej przedstawiamy pełny zapis tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129309-real-i-barcelona-zarabiaja-krocie-na-swoich-koszulkach</link>
         <pubDate>Fri, 03 May 2024 15:32:00 GMT</pubDate>
         <description>Real Madryt i Barça to dwie drużyny w Europie, które czerpią największe zyski ze swoich koszulek. Przyjrzyjmy się tym liczbom.</description>
-    </item>
-    
-    <item>
-        <title>Pellegrino: Musimy zagrać niewygodny mecz</title>
-        <link>https://www.realmadryt.pl/news/129295-pellegrino-musimy-zagrac-niewygodny-mecz</link>
-        <pubDate>Fri, 03 May 2024 14:41:00 GMT</pubDate>
-        <description>Mauricio Pellegrino, szkoleniowiec Cádizu, wziął udział w konferencji prasowej przed sobotnim meczem z Realem Madryt. Przedstawiamy wypowiedzi Argentyńczyka.</description>
     </item>
     
 </channel>
