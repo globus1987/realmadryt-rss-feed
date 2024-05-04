@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 05:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:23:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz na prąd</title>
+        <link>https://www.realmadryt.pl/news/129315-mecz-na-prad</link>
+        <pubDate>Sat, 04 May 2024 08:18:00 GMT</pubDate>
+        <description>Dzisiejsza myśl przewodnia to prosta droga do kłótni. Na szczęście mecz rozpoczyna się już o 16:15, więc może nie zdąży dojść do rękoczynów.</description>
+    </item>
     
     <item>
         <title>Real – Cádiz: Przewidywane składy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129311-real-wciaz-nie-zajal-sie-przyszloscia-joselu</link>
         <pubDate>Fri, 03 May 2024 17:14:00 GMT</pubDate>
         <description>Realowi zostało siedem meczów do końca sezonu, w tym kluczowy czas w Lidze Mistrzów. Nic więc dziwnego, że działacze skupiają się obecnie wyłącznie na teraźniejszości. Czynniki rozpraszające są niemile widziane. Choć oczywiście nie wszystko, co tyczy się planowania kolejnego sezonu, rzucono w kąt, to jednak wiele spraw może jeszcze chwilę poczekać. Wśród nich wymienić można zajęcie się przyszłością Joselu.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Cádizu na Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/129317-kadra-cadizu-na-real-madryt</link>
-        <pubDate>Fri, 03 May 2024 16:23:00 GMT</pubDate>
-        <description>Mauricio Pellegrino przedstawił 24-osobową kadrę na jutrzejszy mecz z Realem Madryt na Estadio Santiago Bernabéu.</description>
     </item>
     
 </channel>
