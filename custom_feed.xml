@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 May 2024 21:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 21:53:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Wszyscy spodziewali się, że Real się potknie, a Real nigdy się nie potknął</title>
+        <link>https://www.realmadryt.pl/news/129360-ancelotti-wszyscy-spodziewali-sie-ze-real-sie-potknie-a-real-nigdy-sie-nie-potknal</link>
+        <pubDate>Sat, 04 May 2024 23:47:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu dla klubowej telewizji po zdobyciu mistrzostwa Hiszpanii. Przedstawiamy pełen zapis rozmowy z trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Xavi: W czterech meczach z rywalami, którzy są nad nami, byliśmy lepsi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129348-fran-garcia-druzyna-wie-ze-musi-podazac-ta-droga</link>
         <pubDate>Sat, 04 May 2024 20:03:00 GMT</pubDate>
         <description>Fran García udzielił wywiadu dla klubowej telewizji po wygranym 3:0 meczu z Cádizem. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Pellegrino: Do pierwszego gola graliśmy poprawnie</title>
-        <link>https://www.realmadryt.pl/news/129343-pellegrino-do-pierwszego-gola-gralismy-poprawnie</link>
-        <pubDate>Sat, 04 May 2024 19:53:00 GMT</pubDate>
-        <description>Mauricio Pellegrino stawił się na konferencji prasowej po przegranym 0:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Cádizu.</description>
     </item>
     
 </channel>
