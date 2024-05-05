@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 May 2024 22:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 22:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129386-dzisiejsze-okladki</link>
+        <pubDate>Mon, 06 May 2024 00:38:00 GMT</pubDate>
+        <description>Sukcesy Realu i śmierć Menottiego to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewskie wygrywają w derbach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129368-mistrzostwo-kazdego</link>
         <pubDate>Sun, 05 May 2024 16:41:00 GMT</pubDate>
         <description>Real Madryt zdobył 36. tytuł mistrza Hiszpanii w obliczu wielu przeciwności losu. Carlo Ancelotti i jego piłkarze pokonywali kolejne przeszkody i nie dawali za wygraną nawet kiedy sytuacja wydawała się naprawdę trudna do rozwiązania.</description>
-    </item>
-    
-    <item>
-        <title>„Mogli przyjechać na chwilę”</title>
-        <link>https://www.realmadryt.pl/news/129367-mogli-przyjechac-na-chwile</link>
-        <pubDate>Sun, 05 May 2024 15:50:00 GMT</pubDate>
-        <description>Los Blancos podjęli decyzję o przełożeniu celebracji, aby lepiej przygotować się do pojedynku z Bayernem Monachium. Nie wszystkim fanom się to spodobało.</description>
     </item>
     
 </channel>
