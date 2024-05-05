@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 May 2024 15:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 15:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nacho: Wygranie La Ligi z Realem jest wspaniałe, ale zrobienie tego jako kapitan jest jeszcze lepsze</title>
+        <link>https://www.realmadryt.pl/news/129375-nacho-wygranie-la-ligi-z-realem-jest-wspaniale-ale-zrobienie-tego-jako-kapitan-jest-jeszcze-lepsze</link>
+        <pubDate>Sun, 05 May 2024 17:32:00 GMT</pubDate>
+        <description>Nacho udzielił wywiadu dla klubowej telewizji po zdobyciu mistrzostwa Hiszpanii. Przedstawiamy pełen zapis rozmowy z obrońcą Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Mistrzostwo każdego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129357-mateo-chcielibysmy-zajac-pierwsze-miejsce</link>
         <pubDate>Sun, 05 May 2024 12:27:00 GMT</pubDate>
         <description>Chus Mateo wypowiadał się przed spotkaniem z Granadą w Lidze Endesa. Mówił o tym, że to nie będzie łatwy mecz, ponieważ Andaluzyjczycy walczą o utrzymanie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Raphaël Guerreiro nie zagra z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/129366-oficjalnie-raphael-guerreiro-nie-zagra-z-realem-madryt</link>
-        <pubDate>Sun, 05 May 2024 11:36:00 GMT</pubDate>
-        <description>Bayern Monachium poinformował oficjalnie, że Portugalczyk jest kontuzjowany i na pewno nie będzie mógł zagrać w środowym spotkaniu przeciwko Realowi Madryt.</description>
     </item>
     
 </channel>
