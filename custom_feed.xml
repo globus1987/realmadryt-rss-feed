@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 May 2024 08:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 08:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kiedy świętowanie mistrzostwa Hiszpanii?</title>
+        <link>https://www.realmadryt.pl/news/129363-kiedy-swietowanie-mistrzostwa-hiszpanii</link>
+        <pubDate>Sun, 05 May 2024 10:51:00 GMT</pubDate>
+        <description>Wszystko wskazuje na to, że Królewscy będą mogli fetować mistrzowski tytuł już w przyszłym tygodniu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 5 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129353-nacho-bedziemy-godnie-swietowac-mistrzostwo-w-przyszlym-tygodniu</link>
         <pubDate>Sat, 04 May 2024 21:50:00 GMT</pubDate>
         <description>Real Madryt po wygraniu mistrzostwa w swoich mediach społecznościowych opublikował wideo z kilkoma słowami od Nacho.</description>
-    </item>
-    
-    <item>
-        <title>36. mistrzostwo Hiszpanii – Księga gratulacyjna</title>
-        <link>https://www.realmadryt.pl/news/129351-36-mistrzostwo-hiszpanii-ksiega-gratulacyjna</link>
-        <pubDate>Sat, 04 May 2024 20:36:00 GMT</pubDate>
-        <description>Real Madryt zdobył właśnie swoje 36. mistrzostwo Hiszpanii. Zapraszamy do złożenia pamiątkowego wpisu w naszej najnowszej inicjatywie.</description>
     </item>
     
 </channel>
