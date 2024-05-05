@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 May 2024 11:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 11:27:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>250 zwycięstw Nacho z Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/129352-250-zwyciestw-nacho-z-realem-madryt</link>
+        <pubDate>Sun, 05 May 2024 13:18:00 GMT</pubDate>
+        <description>W spotkaniu z Cádizem na Nacho sięgnął po 250. zwycięstwo w 358. meczu w koszulce z herbem Królewskich na piersi.</description>
+    </item>
     
     <item>
         <title>Mateo: Chcielibyśmy zająć pierwsze miejsce</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129358-nacho-i-modric-dogonili-marcelo-i-benzeme</link>
         <pubDate>Sun, 05 May 2024 05:30:00 GMT</pubDate>
         <description>Cała czwórka może już pochwalić się tym, że zdobyła 25 trofeów w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129361-dzisiejsze-okladki</link>
-        <pubDate>Sun, 05 May 2024 00:37:00 GMT</pubDate>
-        <description>Mistrzostwo piłkarzy Realu i piłkarek Barcelony to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
