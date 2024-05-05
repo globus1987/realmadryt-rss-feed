@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 May 2024 12:32:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 12:56:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarze utrzymują pozycję lidera</title>
+        <link>https://www.realmadryt.pl/news/129373-koszykarze-utrzymuja-pozycje-lidera</link>
+        <pubDate>Sun, 05 May 2024 14:40:00 GMT</pubDate>
+        <description>W 32. kolejce Ligi Endesa Real Madryt pokonał Granadę i utrzymał pierwsze miejsce w tabeli. Mecz przebiegał w pełni pod kontrolą podopiecznych Chusa Mateo, który mógł dać odpocząć podstawowym graczom.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius zaprosił na mecz i do swojego domu Pawła [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/129372-vinicius-zaprosil-na-mecz-i-do-swojego-domu-pawla-video</link>
+        <pubDate>Sun, 05 May 2024 14:33:00 GMT</pubDate>
+        <description>Piękny gest Brazylijczyka wobec młodego Polaka, który cierpi na mózgowe porażenie dziecięce.</description>
+    </item>
     
     <item>
         <title>Trening regeneracyjny w Valdebebas</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129362-kartka-z-kalendarza-5-maja</link>
         <pubDate>Sun, 05 May 2024 10:00:00 GMT</pubDate>
         <description>Ważne gole Hugo Sáncheza, pierwszy hat-trick najlepszego w historii strzelca Realu Madryt, wygrana z Villarrealem i odpadnięcie z Ligi Mistrzów na Stamford Bridge. Co działo się 5 maja?</description>
-    </item>
-    
-    <item>
-        <title>Utrzymać pozycję lidera</title>
-        <link>https://www.realmadryt.pl/news/129359-utrzymac-pozycje-lidera</link>
-        <pubDate>Sun, 05 May 2024 09:09:00 GMT</pubDate>
-        <description>W 32. kolejce Ligi Endesa Real Madryt zmierzy się z Granadą. Królewscy potrzebują zwycięstwa, żeby nie oglądać się na Unicaję i utrzymać pierwsze miejsce w tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Wyjazd na Baleary</title>
-        <link>https://www.realmadryt.pl/news/129354-wyjazd-na-baleary</link>
-        <pubDate>Sun, 05 May 2024 08:18:00 GMT</pubDate>
-        <description>W 35. kolejce Primera Federación Castilla zmierzy się z Ibizą. Królewscy potrzebują już niewiele, żeby zapewnić sobie utrzymanie.</description>
     </item>
     
 </channel>
