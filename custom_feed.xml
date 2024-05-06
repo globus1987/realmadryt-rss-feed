@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 May 2024 06:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 07:18:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/129385-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 06 May 2024 09:09:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 34. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Real podejmuje działania, aby ograniczyć włamania do domów piłkarzy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129377-oceny-zawodnikow-po-meczu-z-cadizem</link>
         <pubDate>Sun, 05 May 2024 20:10:00 GMT</pubDate>
         <description>Real Madryt wygrał u siebie z Cádizem 3:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: 26-osobowe kadry na EURO 2024</title>
-        <link>https://www.realmadryt.pl/news/129328-oficjalnie-26-osobowe-kadry-na-euro-2024</link>
-        <pubDate>Sun, 05 May 2024 19:14:00 GMT</pubDate>
-        <description>Do EURO 2024 pozostał nieco ponad miesiąc. UEFA postanowiła posłuchać selekcjonerów i zdecydowała się na powiększenie dopuszczalnych kadr na turniej.</description>
     </item>
     
 </channel>
