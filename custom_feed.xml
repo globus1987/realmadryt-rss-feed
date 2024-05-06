@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 May 2024 19:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 19:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Stara era”</title>
+        <link>https://www.realmadryt.pl/news/129379-stara-era</link>
+        <pubDate>Mon, 06 May 2024 21:24:00 GMT</pubDate>
+        <description>Poniższy tekst jest tłumaczeniem felietonu autorstwa Santiago Siguero, redaktora dziennika MARCA, który podzielił się swoimi przemyśleniami na temat zdobycia przez Real Madryt 36. tytułu mistrzowskiego. Przedstawiamy spostrzeżenia dziennikarza.</description>
+    </item>
     
     <item>
         <title>Pierwsze zdjęcie wyjazdowej koszulki na sezon 2024/25</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129397-dzisiejszy-trening</link>
         <pubDate>Mon, 06 May 2024 14:08:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Bayernem Monachium. Razem z drużyną nie trenował jeden zawodnik.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real otrzyma trofeum za zdobycie mistrzostwa w… Grenadzie</title>
-        <link>https://www.realmadryt.pl/news/129394-marca-real-otrzyma-trofeum-za-zdobycie-mistrzostwa-w-grenadzie</link>
-        <pubDate>Mon, 06 May 2024 13:17:00 GMT</pubDate>
-        <description>Piłkarze Realu Madryt mają otrzymać trofeum w sobotę na oczach kibiców Granady, a mistrzowska feta odbędzie się dzień po meczu w stolicy Hiszpanii.</description>
     </item>
     
 </channel>
