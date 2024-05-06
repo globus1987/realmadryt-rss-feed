@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 May 2024 13:23:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 13:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Müller: Wszystko sprowadza się do milimetrów</title>
+        <link>https://www.realmadryt.pl/news/129393-mueller-wszystko-sprowadza-sie-do-milimetrow</link>
+        <pubDate>Mon, 06 May 2024 15:31:00 GMT</pubDate>
+        <description>Thomas Müller udzielił wywiadu oficjalnej stronie internetowej Bayernu Monachium. Niemiec opowiadał o obu półfinałach z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Real nie chce odbierać trofeum za mistrzostwo na stadionie Granady</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129389-relevo-mastantuono-wybral-real</link>
         <pubDate>Mon, 06 May 2024 09:45:00 GMT</pubDate>
         <description>Argentyńczyk chce trafić do Madrytu i priorytetowo będzie traktował każdą ofertę, która napłynie do niego ze stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/129385-pichichi-zamora-asistencias</link>
-        <pubDate>Mon, 06 May 2024 09:09:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 34. kolejce La Ligi.</description>
     </item>
     
 </channel>
