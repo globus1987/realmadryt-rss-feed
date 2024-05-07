@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 19:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 19:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tuchel: Real gra u siebie, więc być może mają 51% szans</title>
+        <link>https://www.realmadryt.pl/news/129432-tuchel-real-gra-u-siebie-wiec-byc-moze-maja-51-szans</link>
+        <pubDate>Tue, 07 May 2024 21:30:00 GMT</pubDate>
+        <description>Thomas Tuchel pojawił się na konferencji prasowej przed drugim półfinałem Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis wypowiedzi trenera Bayernu Monachium z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>PSG i Dortmund walczą o awans</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129421-kadra-bayernu-na-mecz-z-realem-madryt</link>
         <pubDate>Tue, 07 May 2024 15:44:00 GMT</pubDate>
         <description>Thomas Tuchel przedstawił 21-osobową kadrę na rewanżowy półfinał Ligi Mistrzów z Realem Madryt na Estadio Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Bayern</title>
-        <link>https://www.realmadryt.pl/news/129419-kadra-na-bayern</link>
-        <pubDate>Tue, 07 May 2024 14:37:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Bayernem Monachium na Santiago Bernabéu. Włoski szkoleniowiec nie może liczyć na jednego zawodnika pierwszego zespołu.</description>
     </item>
     
 </channel>
