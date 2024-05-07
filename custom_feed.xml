@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 22:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 22:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129437-dzisiejsze-okladki</link>
+        <pubDate>Wed, 08 May 2024 00:47:00 GMT</pubDate>
+        <description>Odpadnięcie PSG i mecz Realu z Bayernem to najważniejsze kwestie poruszane na środowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Borussia Dortmund w finale Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129423-terminarz-37-kolejki-la-ligi</link>
         <pubDate>Tue, 07 May 2024 17:51:00 GMT</pubDate>
         <description>La Liga podała, że wszystkie mecze przedostatniej kolejki tego sezonu zostaną rozegrane w niedzielę 19 maja o 19:00.</description>
-    </item>
-    
-    <item>
-        <title>Ważny gol Miguela Gutiérreza, niezły mecz Petera [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/129406-wazny-gol-miguela-gutierreza-niezly-mecz-petera-video</link>
-        <pubDate>Tue, 07 May 2024 17:00:00 GMT</pubDate>
-        <description>Miguel Gutiérrez zapisał na swoim koncie ważne dla Girony oraz dla Realu Madryt trafienie w meczu z Barceloną. Jak radzili sobie pozostali zawodnicy związani z Królewskimi?</description>
     </item>
     
 </channel>
