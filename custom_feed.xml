@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 10:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 10:38:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Bayernem</title>
+        <link>https://www.realmadryt.pl/news/129416-ostatni-trening-przed-bayernem</link>
+        <pubDate>Tue, 07 May 2024 12:35:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Bayernem Monachium. Razem z drużyną nie trenował jeden zawodnik.</description>
+    </item>
     
     <item>
         <title>400 zł za gola Realu z Bayernem!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129404-przyszlosc-pod-kontrola</link>
         <pubDate>Tue, 07 May 2024 05:30:00 GMT</pubDate>
         <description>Real Madryt do sezonu 2024/25 podejdzie z kadrą, w której aż czternastu zawodników będzie poniżej 27. roku życia. Cała czternastka kosztowała klub w sumie 435,5 miliona euro, a obecnie jest wyceniana na ponad 1,1 miliarda euro.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129407-dzisiejsze-okladki</link>
-        <pubDate>Tue, 07 May 2024 00:42:00 GMT</pubDate>
-        <description>Mecz PSG z Borussią i sytuacja w Barcelonie to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
