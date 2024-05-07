@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 03:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 03:38:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przyszłość pod kontrolą</title>
+        <link>https://www.realmadryt.pl/news/129404-przyszlosc-pod-kontrola</link>
+        <pubDate>Tue, 07 May 2024 05:30:00 GMT</pubDate>
+        <description>Real Madryt do sezonu 2024/25 podejdzie z kadrą, w której aż czternastu zawodników będzie poniżej 27. roku życia. Cała czternastka kosztowała klub w sumie 435,5 miliona euro, a obecnie jest wyceniana na ponad 1,1 miliarda euro.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129393-mueller-wszystko-sprowadza-sie-do-milimetrow</link>
         <pubDate>Mon, 06 May 2024 15:31:00 GMT</pubDate>
         <description>Thomas Müller udzielił wywiadu oficjalnej stronie internetowej Bayernu Monachium. Niemiec opowiadał o obu półfinałach z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real nie chce odbierać trofeum za mistrzostwo na stadionie Granady</title>
-        <link>https://www.realmadryt.pl/news/129400-real-nie-chce-odbierac-trofeum-za-mistrzostwo-na-stadionie-granady</link>
-        <pubDate>Mon, 06 May 2024 14:40:00 GMT</pubDate>
-        <description>Królewscy z szacunku do rywali, którzy po sobotnim meczu mogą spaść oficjalnie do drugiej ligi, nie chcą odbierać trofeum na ich stadionie.</description>
     </item>
     
 </channel>
