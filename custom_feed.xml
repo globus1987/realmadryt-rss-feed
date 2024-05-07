@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 19:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 20:15:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino spotkał się z drużyną przed rewanżem</title>
+        <link>https://www.realmadryt.pl/news/129434-florentino-spotkal-sie-z-druzyna-przed-rewanzem</link>
+        <pubDate>Tue, 07 May 2024 22:15:00 GMT</pubDate>
+        <description>Prezes spotkał się z piłkarzami i sztabem szkoleniowym przed jutrzejszym spotkaniem przeciwko Bayernowi Monachium w półfinale Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Tuchel: Real gra u siebie, więc być może mają 51% szans</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129422-spotkanie-komitetu-arbitrow-z-barcelona-zostalo-odwolane</link>
         <pubDate>Tue, 07 May 2024 15:57:00 GMT</pubDate>
         <description>Na dniach miało dojść do spotkania przedstawicieli Barçy z Komitetem Technicznym Sędziów, który miał udostępnić Katalończykom nagrania z ostatniego Klasyku, ale ostatecznie tak się nie stanie.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Bayernu na mecz z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/129421-kadra-bayernu-na-mecz-z-realem-madryt</link>
-        <pubDate>Tue, 07 May 2024 15:44:00 GMT</pubDate>
-        <description>Thomas Tuchel przedstawił 21-osobową kadrę na rewanżowy półfinał Ligi Mistrzów z Realem Madryt na Estadio Santiago Bernabéu.</description>
     </item>
     
 </channel>
