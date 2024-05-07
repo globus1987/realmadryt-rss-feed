@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 12:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 12:56:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Bayern</title>
+        <link>https://www.realmadryt.pl/news/129419-kadra-na-bayern</link>
+        <pubDate>Tue, 07 May 2024 14:37:00 GMT</pubDate>
+        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Bayernem Monachium na Santiago Bernabéu. Włoski szkoleniowiec nie może liczyć na jednego zawodnika pierwszego zespołu.</description>
+    </item>
     
     <item>
         <title>AS: Komitet Techniczny Arbitrów spotka się z przedstawicielami Barcelony</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129408-kartka-z-kalendarza-7-maja</link>
         <pubDate>Tue, 07 May 2024 10:00:00 GMT</pubDate>
         <description>Przepiękne pożegnanie legendy, wyjątkowy Klasyk ze szpalerem i pięcioma golami, goleada na Sánchez Pizjuán z Cristiano w roli głównej oraz pożegnanie z mistrzostwem Hiszpanii. Co działo się 7 maja?</description>
-    </item>
-    
-    <item>
-        <title>Od potrójnej korony do pustych rąk</title>
-        <link>https://www.realmadryt.pl/news/129382-od-potrojnej-korony-do-pustych-rak</link>
-        <pubDate>Tue, 07 May 2024 09:09:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie może zaliczyć drugiego sezonu w Juvenilu A do udanych. Jego podopieczni szybko zakończyli rozgrywki, nie mając na koncie żadnego tytułu.</description>
     </item>
     
 </channel>
