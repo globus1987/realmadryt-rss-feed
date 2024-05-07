@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 May 2024 13:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 14:16:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Spotkanie Komitetu Arbitrów z Barceloną zostało odwołane</title>
+        <link>https://www.realmadryt.pl/news/129422-spotkanie-komitetu-arbitrow-z-barcelona-zostalo-odwolane</link>
+        <pubDate>Tue, 07 May 2024 15:57:00 GMT</pubDate>
+        <description>Na dniach miało dojść do spotkania przedstawicieli Barçy z Komitetem Technicznym Sędziów, który miał udostępnić Katalończykom nagrania z ostatniego Klasyku, ale ostatecznie tak się nie stanie.</description>
+    </item>
     
     <item>
         <title>Kadra Bayernu na mecz z Realem Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129414-federacja-ostatecznie-wreczy-trofeum-realowi-w-valdebebas</link>
         <pubDate>Tue, 07 May 2024 11:25:00 GMT</pubDate>
         <description>Królewscy mają finalnie otrzymać trofeum w tę niedzielę po powrocie do stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rummenigge: Rozbicie Realu 9:1 było błędem, od tego wszystko się zaczęło</title>
-        <link>https://www.realmadryt.pl/news/129409-rummenigge-rozbicie-realu-9-1-bylo-bledem-od-tego-wszystko-sie-zaczelo</link>
-        <pubDate>Tue, 07 May 2024 10:51:00 GMT</pubDate>
-        <description>Karl-Heinz Rummenigge, były prezes Bayernu Monachium i obecny członek jego rady nadzorczej, udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
