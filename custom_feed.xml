@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 08:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:19:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real(izm) magiczny</title>
+        <link>https://www.realmadryt.pl/news/129395-real-izm-magiczny</link>
+        <pubDate>Wed, 08 May 2024 11:00:00 GMT</pubDate>
+        <description>W naszym domu dzieją się rzeczy niepojęte. Niepojęte dla innych.</description>
+    </item>
     
     <item>
         <title>Endrick: Kiedy strzelam gole, to myślę o mojej rodzinie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129434-florentino-spotkal-sie-z-druzyna-przed-rewanzem</link>
         <pubDate>Tue, 07 May 2024 22:15:00 GMT</pubDate>
         <description>Prezes spotkał się z piłkarzami i sztabem szkoleniowym przed jutrzejszym spotkaniem przeciwko Bayernowi Monachium w półfinale Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Tuchel: Real gra u siebie, więc być może mają 51% szans</title>
-        <link>https://www.realmadryt.pl/news/129432-tuchel-real-gra-u-siebie-wiec-byc-moze-maja-51-szans</link>
-        <pubDate>Tue, 07 May 2024 21:30:00 GMT</pubDate>
-        <description>Thomas Tuchel pojawił się na konferencji prasowej przed drugim półfinałem Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis wypowiedzi trenera Bayernu Monachium z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
