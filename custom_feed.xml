@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 23:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 23:53:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129463-dzisiejsze-okladki</link>
+        <pubDate>Thu, 09 May 2024 01:48:00 GMT</pubDate>
+        <description>Awans Realu Madryt do finału Ligi Mistrzów to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Ja też nie spodziewałem się, że ta kadra jest zdolna do czegoś takiego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129450-przywitanie-autokaru-pod-bernabeu-video</link>
         <pubDate>Wed, 08 May 2024 19:10:00 GMT</pubDate>
         <description>Królewscy opuścili ośrodek w Valdebebas i kierują się na stadion. Przedstawiamy odpowiednie transmisje do obejrzenia przywitania graczy pod Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Bayern Monachium: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/129451-real-madryt-bayern-monachium-znamy-sklady</link>
-        <pubDate>Wed, 08 May 2024 19:06:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Spotkanie rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
