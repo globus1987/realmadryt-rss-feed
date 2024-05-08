@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 11:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 12:35:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tuchel nigdy nie przegrał na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/129442-tuchel-nigdy-nie-przegral-na-bernabeu</link>
+        <pubDate>Wed, 08 May 2024 14:20:00 GMT</pubDate>
+        <description>Estadio Santiago Bernabéu to stadion, na którym trenerzy drużyn przeciwnych z reguły częściej przegrywali, niż wygrywali. Jednak w elicie europejskiej piłki jest jeden, który może pochwalić się tym, że w domu Realu Madryt nie odniósł żadnej porażki: Thomas Tuchel. Niemiec, który 30 czerwca przestanie pełnić funkcję szkoleniowca Bayernu, zagra dziś z Królewskimi po raz 10.</description>
+    </item>
     
     <item>
         <title>Piłkarze mogą otrzymać wysokie premie za zdobycie trzech trofeów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129439-250-zl-za-gola-realu-lub-bayernu</link>
         <pubDate>Wed, 08 May 2024 08:18:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Real – Bayern: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/129438-real-bayern-przewidywane-sklady</link>
-        <pubDate>Wed, 08 May 2024 07:25:00 GMT</pubDate>
-        <description>Real Madryt rozegra dzisiaj rewanżowe spotkanie w półfinale Ligi Mistrzów z Bayernem Monachium. W obu zespołach należy spodziewać się paru zmian.</description>
     </item>
     
 </channel>
