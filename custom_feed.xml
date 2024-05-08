@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 05:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 06:21:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>250 zł za gola Realu lub Bayernu</title>
+        <link>https://www.realmadryt.pl/news/129439-250-zl-za-gola-realu-lub-bayernu</link>
+        <pubDate>Wed, 08 May 2024 08:18:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Real – Bayern: Przewidywane składy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129428-relevo-estevao-trafi-do-chelsea</link>
         <pubDate>Tue, 07 May 2024 19:52:00 GMT</pubDate>
         <description>Anglicy znajdują się na wyraźnym prowadzeniu w wyścigu po młodego Brazylijczyka z Palmeiras.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Hierro zostanie dyrektorem sportowym Al-Nassr</title>
-        <link>https://www.realmadryt.pl/news/129426-the-athletic-hierro-zostanie-dyrektorem-sportowym-al-nassr</link>
-        <pubDate>Tue, 07 May 2024 19:20:00 GMT</pubDate>
-        <description>Hiszpan pracował ostatnio w Guadalajarze, ale teraz ma przenieść się do Arabii Saudyjskiej i klubu, w którym występuje między innymi Cristiano Ronaldo.</description>
     </item>
     
 </channel>
