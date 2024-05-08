@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 09:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 10:20:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Diego López: Jest jakiś procent Mourinho w ostatnich triumfach Realu w Lidze Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/129411-diego-lopez-jest-jakis-procent-mourinho-w-ostatnich-triumfach-realu-w-lidze-mistrzow</link>
+        <pubDate>Wed, 08 May 2024 12:20:00 GMT</pubDate>
+        <description>Były bramkarz Realu Madryt, Diego López, podzielił się na antenie radia MARCA swoimi odczuciami przed przed decydującymi meczami w Lidze Mistrzów. Przedstawiamy wypowiedzi Hiszpana.</description>
+    </item>
     
     <item>
         <title>Gwiazda… ławki rezerwowych</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129437-dzisiejsze-okladki</link>
         <pubDate>Wed, 08 May 2024 00:47:00 GMT</pubDate>
         <description>Odpadnięcie PSG i mecz Realu z Bayernem to najważniejsze kwestie poruszane na środowych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Borussia Dortmund w finale Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129433-borussia-dortmund-w-finale-ligi-mistrzow</link>
-        <pubDate>Tue, 07 May 2024 22:53:00 GMT</pubDate>
-        <description>Borussia Dortmund zagra w finale Ligi Mistrzów na Wembley po tym, jak w dwumeczu pokonała w dwumeczu Paris Saint-Germain 2:0. W obu spotkaniach Niemcy wygrali z Francuzami 1:0.</description>
     </item>
     
 </channel>
