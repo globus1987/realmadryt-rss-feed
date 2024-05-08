@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 12:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 13:00:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kahn obejrzy pierwszy mecz Bayernu z trybun od swojego zwolnienia</title>
+        <link>https://www.realmadryt.pl/news/129443-kahn-obejrzy-pierwszy-mecz-bayernu-z-trybun-od-swojego-zwolnienia</link>
+        <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
+        <description>Legenda Bawarczyków nie rozstała się z klubem w dobrej atmosferze. Dzisiaj ma obejrzeć pierwszy mecz drużyny na żywo od odejścia z Bayernu, ale zrobi to na zaproszenie Królewskich.</description>
+    </item>
     
     <item>
         <title>Tuchel nigdy nie przegrał na Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129431-neuer-pierwszy-gol-moze-zrobic-roznice</link>
         <pubDate>Wed, 08 May 2024 09:00:00 GMT</pubDate>
         <description>Manuel Neuer wziął udział w konferencji prasowej przed rewanżowym półfinałem Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi kapitana Bayernu Monachium.</description>
-    </item>
-    
-    <item>
-        <title>250 zł za gola Realu lub Bayernu</title>
-        <link>https://www.realmadryt.pl/news/129439-250-zl-za-gola-realu-lub-bayernu</link>
-        <pubDate>Wed, 08 May 2024 08:18:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
