@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 19:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 19:53:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 0:0</title>
+        <link>https://www.realmadryt.pl/news/129455-do-przerwy-0-0</link>
+        <pubDate>Wed, 08 May 2024 21:46:00 GMT</pubDate>
+        <description>W rewanżowym meczu półfinałowym Real Madryt remisuje u siebie z Bayernem Monachium 0:0</description>
+    </item>
     
     <item>
         <title>COPE: Bellingham zagra z blokadą farmakologiczną</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129425-vinicius-spoglada-w-kierunku-zlotej-pilki</link>
         <pubDate>Wed, 08 May 2024 16:20:00 GMT</pubDate>
         <description>Vinícius jest obecnie jednym z głównych faworytów do zdobycia Złotej Piłki za sezon 2023/24. Brazylijczyk notuje najlepsze liczby w swojej karierze i nie zawodzi w tych kluczowych momentach.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 38. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129449-terminarz-38-kolejki-la-ligi</link>
-        <pubDate>Wed, 08 May 2024 15:52:00 GMT</pubDate>
-        <description>La Liga podała, że wszystkie mecze ostatniej kolejki tego sezonu zostaną rozegrane w sobotę 25 maja o 21:00.</description>
     </item>
     
 </channel>
