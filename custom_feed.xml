@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 14:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 14:38:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius spogląda w kierunku Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/129425-vinicius-spoglada-w-kierunku-zlotej-pilki</link>
+        <pubDate>Wed, 08 May 2024 16:20:00 GMT</pubDate>
+        <description>Vinícius jest obecnie jednym z głównych faworytów do zdobycia Złotej Piłki za sezon 2023/24. Brazylijczyk notuje najlepsze liczby w swojej karierze i nie zawodzi w tych kluczowych momentach.</description>
+    </item>
     
     <item>
         <title>Terminarz 38. kolejki La Ligi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129398-gwiazda-lawki-rezerwowych</link>
         <pubDate>Wed, 08 May 2024 11:40:00 GMT</pubDate>
         <description>Pauza z powodu nadmiaru kartek w rewanżu z Arsenalem naznaczyła dalsze losy Alphonso Daviesa. Kanadyjczyk stracił nagle miejsce w wyjściowym składzie i niewiele wskazuje na to, by miał je jeszcze odzyskać.</description>
-    </item>
-    
-    <item>
-        <title>Real(izm) magiczny</title>
-        <link>https://www.realmadryt.pl/news/129395-real-izm-magiczny</link>
-        <pubDate>Wed, 08 May 2024 11:00:00 GMT</pubDate>
-        <description>W naszym domu dzieją się rzeczy niepojęte. Niepojęte dla innych.</description>
     </item>
     
 </channel>
