@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 18:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 18:39:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Bellingham zagra z blokadą farmakologiczną</title>
+        <link>https://www.realmadryt.pl/news/129454-cope-bellingham-zagra-z-blokada-farmakologiczna</link>
+        <pubDate>Wed, 08 May 2024 20:32:00 GMT</pubDate>
+        <description>Anglik ma zmagać się z problemami z kolanem i nie jest gotowy do gry na 100%, twierdzi COPE.</description>
+    </item>
     
     <item>
         <title>Tuchel: Z Pavloviciem szukamy bezpieczeństwa i rytmu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129449-terminarz-38-kolejki-la-ligi</link>
         <pubDate>Wed, 08 May 2024 15:52:00 GMT</pubDate>
         <description>La Liga podała, że wszystkie mecze ostatniej kolejki tego sezonu zostaną rozegrane w sobotę 25 maja o 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Czas Łunina</title>
-        <link>https://www.realmadryt.pl/news/129440-czas-lunina</link>
-        <pubDate>Wed, 08 May 2024 15:40:00 GMT</pubDate>
-        <description>Ukraiński bramkarz będzie bronił dostępu do bramki Realu Madryt w dzisiejszym meczu z Bayernem Monachium na Santiago Bernabéu, a jego pozostanie w klubie uznawane jest za pewnik, choć nic nie zostało jeszcze podpisane.</description>
     </item>
     
 </channel>
