@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 16:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 17:17:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przywitanie autokaru pod Bernabéu [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/129450-przywitanie-autokaru-pod-bernabeu-video</link>
+        <pubDate>Wed, 08 May 2024 19:10:00 GMT</pubDate>
+        <description>Królewscy opuścili ośrodek w Valdebebas i kierują się na stadion. Przedstawiamy odpowiednie transmisje do obejrzenia przywitania graczy pod Santiago Bernabéu.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt – Bayern Monachium: Znamy składy!</title>
+        <link>https://www.realmadryt.pl/news/129451-real-madryt-bayern-monachium-znamy-sklady</link>
+        <pubDate>Wed, 08 May 2024 19:06:00 GMT</pubDate>
+        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Spotkanie rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>„Real Madryt miał już zbyt dużo szczęścia w tej Lidze Mistrzów”</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129447-bellingham-na-bezludna-wyspe-zabralbym-tchouameniego</link>
         <pubDate>Wed, 08 May 2024 15:20:00 GMT</pubDate>
         <description>Jude Bellingham udzielił wywiadu angielskiemu kanałowi Topps UK. Anglik odpowiadał tylko na pytania nadesłane przez kibiców.</description>
-    </item>
-    
-    <item>
-        <title>Kahn obejrzy pierwszy mecz Bayernu z trybun od swojego zwolnienia</title>
-        <link>https://www.realmadryt.pl/news/129443-kahn-obejrzy-pierwszy-mecz-bayernu-z-trybun-od-swojego-zwolnienia</link>
-        <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
-        <description>Legenda Bawarczyków nie rozstała się z klubem w dobrej atmosferze. Dzisiaj ma obejrzeć pierwszy mecz drużyny na żywo od odejścia z Bayernu, ale zrobi to na zaproszenie Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Tuchel nigdy nie przegrał na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/129442-tuchel-nigdy-nie-przegral-na-bernabeu</link>
-        <pubDate>Wed, 08 May 2024 14:20:00 GMT</pubDate>
-        <description>Estadio Santiago Bernabéu to stadion, na którym trenerzy drużyn przeciwnych z reguły częściej przegrywali, niż wygrywali. Jednak w elicie europejskiej piłki jest jeden, który może pochwalić się tym, że w domu Realu Madryt nie odniósł żadnej porażki: Thomas Tuchel. Niemiec, który 30 czerwca przestanie pełnić funkcję szkoleniowca Bayernu, zagra dziś z Królewskimi po raz 10.</description>
     </item>
     
 </channel>
