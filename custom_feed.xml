@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 13:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 13:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 38. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/129449-terminarz-38-kolejki-la-ligi</link>
+        <pubDate>Wed, 08 May 2024 15:52:00 GMT</pubDate>
+        <description>La Liga podała, że wszystkie mecze ostatniej kolejki tego sezonu zostaną rozegrane w sobotę 25 maja o 21:00.</description>
+    </item>
+    
+    <item>
+        <title>Czas Łunina</title>
+        <link>https://www.realmadryt.pl/news/129440-czas-lunina</link>
+        <pubDate>Wed, 08 May 2024 15:40:00 GMT</pubDate>
+        <description>Ukraiński bramkarz będzie bronił dostępu do bramki Realu Madryt w dzisiejszym meczu z Bayernem Monachium na Santiago Bernabéu, a jego pozostanie w klubie uznawane jest za pewnik, choć nic nie zostało jeszcze podpisane.</description>
+    </item>
     
     <item>
         <title>Bellingham: Na bezludną wyspę zabrałbym Tchouaméniego</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129395-real-izm-magiczny</link>
         <pubDate>Wed, 08 May 2024 11:00:00 GMT</pubDate>
         <description>W naszym domu dzieją się rzeczy niepojęte. Niepojęte dla innych.</description>
-    </item>
-    
-    <item>
-        <title>Endrick: Kiedy strzelam gole, to myślę o mojej rodzinie</title>
-        <link>https://www.realmadryt.pl/news/129415-endrick-kiedy-strzelam-gole-to-mysle-o-mojej-rodzinie</link>
-        <pubDate>Wed, 08 May 2024 10:20:00 GMT</pubDate>
-        <description>Endrick udzielił wywiadu w programie Conversa com Bial telewizji Globo, w którym mówił o wielu aspektach swojej kariery i życia. Przedstawiamy najważniejsze wypowiedzi przyszłego zawodnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 8 maja</title>
-        <link>https://www.realmadryt.pl/news/129435-kartka-z-kalendarza-8-maja</link>
-        <pubDate>Wed, 08 May 2024 09:40:00 GMT</pubDate>
-        <description>Urodziny byłego piłkarza Realu Madryt i Barcelony, pierwszy finał Pucharu UEFA, kanonada z Málagą z sześcioma różnymi zdobywcami bramek oraz zwycięstwo z Valencią, które było jednocześnie pożegnaniem obrońcy. Co działo się 8 maja?</description>
     </item>
     
 </channel>
