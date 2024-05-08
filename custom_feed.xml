@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 21:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 21:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>De Ligt: To trochę hańba, że Marciniak to zagwizdał</title>
+        <link>https://www.realmadryt.pl/news/129458-de-ligt-to-troche-hanba-ze-marciniak-to-zagwizdal</link>
+        <pubDate>Wed, 08 May 2024 23:36:00 GMT</pubDate>
+        <description>Matthijs de Ligt po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi zawodnika Bayernu ze strefy mieszanej Santiago Bernabéu.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius MVP meczu z Bayernem</title>
+        <link>https://www.realmadryt.pl/news/129457-vinicius-mvp-meczu-z-bayernem</link>
+        <pubDate>Wed, 08 May 2024 23:25:00 GMT</pubDate>
+        <description>Vinícius Júnior otrzymał nagrodę dla najlepszego zawodnika rewanżego półfinału Ligi Mistrzów pomiędzy Realem Madryt a Byernem Monachium.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Bayernem</title>
+        <link>https://www.realmadryt.pl/news/129456-ocen-pilkarzy-po-meczu-z-bayernem</link>
+        <pubDate>Wed, 08 May 2024 23:22:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Zrobili to! Joselu prowadzi do finału Ligi Mistrzów!</title>
@@ -53,27 +74,6 @@
         <link>https://www.realmadryt.pl/news/129441-scisle-tajny-transfer</link>
         <pubDate>Wed, 08 May 2024 17:40:00 GMT</pubDate>
         <description>Dopiero gdy Niemiec pojawił się na Bernabéu, opinia publiczna dowiedziała się o jego zakontraktowaniu.</description>
-    </item>
-    
-    <item>
-        <title>„Koszulka Realu jest jak strój Supermana”</title>
-        <link>https://www.realmadryt.pl/news/129444-koszulka-realu-jest-jak-stroj-supermana</link>
-        <pubDate>Wed, 08 May 2024 17:00:00 GMT</pubDate>
-        <description>Dziennik AS przeprowadził z Holendrem wywiad, w którym napastnik Realu z lat 2006-2010, opowiedział o swoim obecnym zajęciu, DNA Królewskich czy potencjalnym przyjściu Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Policja przejęła 138 biletów na Bernabéu oferowanych przez koniki</title>
-        <link>https://www.realmadryt.pl/news/129448-policja-przejela-138-biletow-na-bernabeu-oferowanych-przez-koniki</link>
-        <pubDate>Wed, 08 May 2024 16:40:00 GMT</pubDate>
-        <description>Funkcjonariusze rozbili kolejną siatkę odsprzedaży biletów na mecze Realu Madryt. Najbardziej na procederze cierpią kibice bez statusu socio, dla których w praktyce jedyną szansa na wejście na stadion jest wykupienie biletu od koników po zawyżonej cenie.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius spogląda w kierunku Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/129425-vinicius-spoglada-w-kierunku-zlotej-pilki</link>
-        <pubDate>Wed, 08 May 2024 16:20:00 GMT</pubDate>
-        <description>Vinícius jest obecnie jednym z głównych faworytów do zdobycia Złotej Piłki za sezon 2023/24. Brazylijczyk notuje najlepsze liczby w swojej karierze i nie zawodzi w tych kluczowych momentach.</description>
     </item>
     
 </channel>
