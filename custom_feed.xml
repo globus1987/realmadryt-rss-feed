@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 May 2024 07:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 07:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 8 maja</title>
+        <link>https://www.realmadryt.pl/news/129435-kartka-z-kalendarza-8-maja</link>
+        <pubDate>Wed, 08 May 2024 09:40:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza Realu Madryt i Barcelony, pierwszy finał Pucharu UEFA, kanonada z Málagą z sześcioma różnymi zdobywcami bramek oraz zwycięstwo z Valencią, które było jednocześnie pożegnaniem obrońcy. Co działo się 8 maja?</description>
+    </item>
     
     <item>
         <title>Neuer: Pierwszy gol może zrobić różnicę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129427-psg-i-dortmund-walcza-o-awans</link>
         <pubDate>Tue, 07 May 2024 20:45:00 GMT</pubDate>
         <description>Kibice Królewskich przed rewanżem z Bayernem Monachium mogą obserwować rozstrzygnięcie w drugim półfinale Ligi Mistrzów. Dzisiaj odbywa się reważ między Paris Saint-Germain a Borussią Dortmund.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius jedynym graczem z golem na każdym etapie Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129413-vinicius-jedynym-graczem-z-golem-na-kazdym-etapie-ligi-mistrzow</link>
-        <pubDate>Tue, 07 May 2024 20:15:00 GMT</pubDate>
-        <description>Vinícius debiutował w Lidze Mistrzów w listopadzie 2018 roku i od tego momentu jest jedynym graczem w Europie, który trafił do siatki w każdej fazie rozgrywek.</description>
     </item>
     
 </channel>
