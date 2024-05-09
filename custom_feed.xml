@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 19:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 19:27:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królowie remontad</title>
+        <link>https://www.realmadryt.pl/news/129474-krolowie-remontad</link>
+        <pubDate>Thu, 09 May 2024 21:25:00 GMT</pubDate>
+        <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje środowe spotkanie między Realem Madryt a Bayernem Monachium.</description>
+    </item>
     
     <item>
         <title>„Wywarłem maksymalną presję na przyszły klub Mbappé”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129482-oficjalnie-aurelien-tchouameni-kontuzjowany</link>
         <pubDate>Thu, 09 May 2024 14:27:00 GMT</pubDate>
         <description>Real Madryt poinformował, że francuski piłkarz doznał kontuzji lewej stopy.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Bayernem</title>
-        <link>https://www.realmadryt.pl/news/129476-oceny-zawodnikow-po-meczu-z-bayernem</link>
-        <pubDate>Thu, 09 May 2024 13:42:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Bayernem Monachium 2:1 i awansował do finału Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
