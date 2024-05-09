@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 22:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 22:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129496-dzisiejsze-okladki</link>
+        <pubDate>Fri, 10 May 2024 00:24:00 GMT</pubDate>
+        <description>Echa zwycięstwa Realu Madryt i przedłużenie kontraktu Paua Cubarsíego w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Atalanta i Bayer Leverkusen w finale Ligi Europy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129485-podcast-5x25-blad-marciniaka-przykryl-awans</link>
         <pubDate>Thu, 09 May 2024 16:50:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest przede wszystkim wygranemu rewanżowi z Bayernem Monachium. Partnerem podcastu jest FORTUNA Zakłady Bukmacherskie Online.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/129470-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Thu, 09 May 2024 16:19:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Granadą, z którą zmierzą się w sobotę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
     </item>
     
 </channel>
