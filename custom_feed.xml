@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 14:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 14:38:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/129470-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 09 May 2024 16:19:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Granadą, z którą zmierzą się w sobotę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
+    </item>
     
     <item>
         <title>Müller: To bardzo dziwne, by w takiej sytuacji sędzia gwizdnął tak szybko</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129464-bellingham-w-szatni-pomyslalem-ze-nie-moglbym-byc-w-lepszej-pozycji-z-lepszymi-ludzmi</link>
         <pubDate>Thu, 09 May 2024 08:42:00 GMT</pubDate>
         <description>Jude Bellingham po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu TNT Sports. Przedstawiamy zapis tej rozmowy z pomocnikiem Realu Madryt na murawie Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Joselu: Moje sny nie są tak piękne jak ten wieczór</title>
-        <link>https://www.realmadryt.pl/news/129465-joselu-moje-sny-nie-sa-tak-piekne-jak-ten-wieczor</link>
-        <pubDate>Thu, 09 May 2024 07:51:00 GMT</pubDate>
-        <description>Joselu po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi zawodnika Realu Madryt z Santiago Bernabéu.</description>
     </item>
     
 </channel>
