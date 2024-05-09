@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 10:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 10:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>18. finał Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/129459-18-final-ligi-mistrzow</link>
+        <pubDate>Thu, 09 May 2024 12:51:00 GMT</pubDate>
+        <description>Real Madryt podejdzie 1 czerwca do swojego osiemnastego finału najważniejszych europejskich rozgrywek. W dotychczasowych finałowych starciach Królewscy odnieśli czternaście zwycięstw i ponieśli tylko trzy porażki.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 9 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129462-ancelotti-ja-tez-nie-spodziewalem-sie-ze-ta-kadra-jest-zdolna-do-czegos-takiego</link>
         <pubDate>Thu, 09 May 2024 00:34:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: To jest Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/129460-vinicius-to-jest-real-madryt</link>
-        <pubDate>Wed, 08 May 2024 23:50:00 GMT</pubDate>
-        <description>Vinícius Júnior udzielił wywiadu dla telewizji Movistar+ po wygranym 2:1 meczu z Bayernem Monachium, dzięki któremu Real Madryt awansował do finału Ligi Mistrzów. Przedstawiamy wypowiedzi Brazylijczyka.</description>
     </item>
     
 </channel>
