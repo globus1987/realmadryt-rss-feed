@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 14:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 14:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 5x25: Błąd Marciniaka przykrył awans?</title>
+        <link>https://www.realmadryt.pl/news/129485-podcast-5x25-blad-marciniaka-przykryl-awans</link>
+        <pubDate>Thu, 09 May 2024 16:50:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest przede wszystkim wygranemu rewanżowi z Bayernem Monachium. Partnerem podcastu jest FORTUNA Zakłady Bukmacherskie Online.</description>
+    </item>
     
     <item>
         <title>Królewscy mają dziś wolne</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129461-olympiakos-rywalem-realu-madryt-barcelona-za-burta</link>
         <pubDate>Thu, 09 May 2024 09:33:00 GMT</pubDate>
         <description>Piąte mecze w ćwierćfinałach Euroligi przyniosły duże emocje. Drużyny gości zapisały nowe karty w historii rozgrywek, awansując do Final Four.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: W szatni pomyślałem, że nie mógłbym być w lepszej pozycji z lepszymi ludźmi</title>
-        <link>https://www.realmadryt.pl/news/129464-bellingham-w-szatni-pomyslalem-ze-nie-moglbym-byc-w-lepszej-pozycji-z-lepszymi-ludzmi</link>
-        <pubDate>Thu, 09 May 2024 08:42:00 GMT</pubDate>
-        <description>Jude Bellingham po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu TNT Sports. Przedstawiamy zapis tej rozmowy z pomocnikiem Realu Madryt na murawie Santiago Bernabéu.</description>
     </item>
     
 </channel>
