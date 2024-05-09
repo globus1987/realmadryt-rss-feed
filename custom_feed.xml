@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 11:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 11:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Bayernem</title>
+        <link>https://www.realmadryt.pl/news/129476-oceny-zawodnikow-po-meczu-z-bayernem</link>
+        <pubDate>Thu, 09 May 2024 13:42:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Bayernem Monachium 2:1 i awansował do finału Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>18. finał Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129463-dzisiejsze-okladki</link>
         <pubDate>Thu, 09 May 2024 01:48:00 GMT</pubDate>
         <description>Awans Realu Madryt do finału Ligi Mistrzów to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Ja też nie spodziewałem się, że ta kadra jest zdolna do czegoś takiego</title>
-        <link>https://www.realmadryt.pl/news/129462-ancelotti-ja-tez-nie-spodziewalem-sie-ze-ta-kadra-jest-zdolna-do-czegos-takiego</link>
-        <pubDate>Thu, 09 May 2024 00:34:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
