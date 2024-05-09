@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 15:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 15:38:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>150 meczów Militão w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/129467-150-meczow-militao-w-realu-madryt</link>
+        <pubDate>Thu, 09 May 2024 17:30:00 GMT</pubDate>
+        <description>W rewanżowym półfinale Ligi Mistrzów z Bayernem brazylijski stoper zanotował swój 150. występ w koszulce Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Podcast 5x25: Błąd Marciniaka przykrył awans?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129469-od-podeslijcie-linka-przez-kibicowanie-w-paryzu-do-zagwarantowania-finalu</link>
         <pubDate>Thu, 09 May 2024 10:24:00 GMT</pubDate>
         <description>Joselu był wczoraj największym bohaterem Realu Madryt, ponieważ jego dwa gole dały awans drużynie, ale w przeszłości wiele razy udowadniał, że jest przede wszystkim kibicem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Olympiakos rywalem Realu Madryt, Barcelona za burtą</title>
-        <link>https://www.realmadryt.pl/news/129461-olympiakos-rywalem-realu-madryt-barcelona-za-burta</link>
-        <pubDate>Thu, 09 May 2024 09:33:00 GMT</pubDate>
-        <description>Piąte mecze w ćwierćfinałach Euroligi przyniosły duże emocje. Drużyny gości zapisały nowe karty w historii rozgrywek, awansując do Final Four.</description>
     </item>
     
 </channel>
