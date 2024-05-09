@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 08:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 08:41:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od „podeślijcie linka”, przez kibicowanie w Paryżu, do zagwarantowania finału</title>
+        <link>https://www.realmadryt.pl/news/129469-od-podeslijcie-linka-przez-kibicowanie-w-paryzu-do-zagwarantowania-finalu</link>
+        <pubDate>Thu, 09 May 2024 10:24:00 GMT</pubDate>
+        <description>Joselu był wczoraj największym bohaterem Realu Madryt, ponieważ jego dwa gole dały awans drużynie, ale w przeszłości wiele razy udowadniał, że jest przede wszystkim kibicem Królewskich.</description>
+    </item>
     
     <item>
         <title>Olympiakos rywalem Realu Madryt, Barcelona za burtą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129457-vinicius-mvp-meczu-z-bayernem</link>
         <pubDate>Wed, 08 May 2024 23:25:00 GMT</pubDate>
         <description>Vinícius Júnior otrzymał nagrodę dla najlepszego zawodnika rewanżego półfinału Ligi Mistrzów pomiędzy Realem Madryt a Byernem Monachium.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Bayernem</title>
-        <link>https://www.realmadryt.pl/news/129456-ocen-pilkarzy-po-meczu-z-bayernem</link>
-        <pubDate>Wed, 08 May 2024 23:22:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
