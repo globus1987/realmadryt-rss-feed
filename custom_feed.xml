@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 08:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 09:19:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Oni nie wiedzą jeszcze, co właśnie zrobili”</title>
+        <link>https://www.realmadryt.pl/news/129473-oni-nie-wiedza-jeszcze-co-wlasnie-zrobili</link>
+        <pubDate>Thu, 09 May 2024 11:13:00 GMT</pubDate>
+        <description>Raúl wiedział, czym to wszystko się skończy.</description>
+    </item>
     
     <item>
         <title>Od „podeślijcie linka”, przez kibicowanie w Paryżu, do zagwarantowania finału</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129458-de-ligt-to-troche-hanba-ze-marciniak-to-zagwizdal</link>
         <pubDate>Wed, 08 May 2024 23:36:00 GMT</pubDate>
         <description>Matthijs de Ligt po rewanżowym meczu 1/2 finału Ligi Mistrzów z Bayernem Monachium udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi zawodnika Bayernu ze strefy mieszanej Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z Bayernem</title>
-        <link>https://www.realmadryt.pl/news/129457-vinicius-mvp-meczu-z-bayernem</link>
-        <pubDate>Wed, 08 May 2024 23:25:00 GMT</pubDate>
-        <description>Vinícius Júnior otrzymał nagrodę dla najlepszego zawodnika rewanżego półfinału Ligi Mistrzów pomiędzy Realem Madryt a Byernem Monachium.</description>
     </item>
     
 </channel>
