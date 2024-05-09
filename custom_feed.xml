@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 May 2024 11:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:34:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Aurélien Tchouaméni kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/129482-oficjalnie-aurelien-tchouameni-kontuzjowany</link>
+        <pubDate>Thu, 09 May 2024 14:27:00 GMT</pubDate>
+        <description>Real Madryt poinformował, że francuski piłkarz doznał kontuzji lewej stopy.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Bayernem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129466-tuchel-liniowy-przeprosil</link>
         <pubDate>Thu, 09 May 2024 07:00:00 GMT</pubDate>
         <description>Thomas Tuchel po rewanżowym meczu 1/2 finału Ligi Mistrzów z Realem Madryt udzielił wywiadu TNT Sports. Przedstawiamy wypowiedzi trenera Bayernu Monachium z Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129463-dzisiejsze-okladki</link>
-        <pubDate>Thu, 09 May 2024 01:48:00 GMT</pubDate>
-        <description>Awans Realu Madryt do finału Ligi Mistrzów to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
