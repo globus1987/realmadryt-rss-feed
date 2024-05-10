@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 21:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 21:38:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarze tracą pozycję lidera</title>
+        <link>https://www.realmadryt.pl/news/129524-koszykarze-traca-pozycje-lidera</link>
+        <pubDate>Fri, 10 May 2024 23:19:00 GMT</pubDate>
+        <description>Real Madryt przegrał w przedostatniej kolejce z Valencią i stracił pierwsze miejsce w tabeli. Odzyskanie go w ostatniej serii gier będzie bardzo trudne, ponieważ trzeba liczyć na porażkę Unicajy ze zdegradowaną Palencią.</description>
+    </item>
     
     <item>
         <title>35. kolejka: Girona remisuje i daje szansę Barcelonie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129514-czterech-graczy-realu-madryt-w-kadrze-brazylii-na-copa-america</link>
         <pubDate>Fri, 10 May 2024 17:21:00 GMT</pubDate>
         <description>Dorival Júnior, selekcjoner Brazylii, ogłosił powołania na zgrupowanie, które obejmie turniej Copa América. Na liście znalazło się czterech piłkarzy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Edy Tavares Najlepszym Obrońcą Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/129512-edy-tavares-najlepszym-obronca-ligi-endesa</link>
-        <pubDate>Fri, 10 May 2024 17:11:00 GMT</pubDate>
-        <description>Rozpoczęła się najważniejsza część sezonu i pojawiają się też pierwsze nagrody indywidualne. Edy Tavares po raz czwarty z rzędu został wybrany Najlepszym Obrońcą Ligi Endesa.</description>
     </item>
     
 </channel>
