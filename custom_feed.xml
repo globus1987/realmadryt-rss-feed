@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 05:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 05:38:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Kroos i Modrić oczekują na spotkanie z Florentino Pérezem</title>
+        <link>https://www.realmadryt.pl/news/129489-marca-kroos-i-modric-oczekuja-na-spotkanie-z-florentino-perezem</link>
+        <pubDate>Fri, 10 May 2024 07:25:00 GMT</pubDate>
+        <description>Kontrakty Niemca i Chorwata dobiegają końca 30 czerwca, a klub chce zasiąść z nimi do rozmów, by podjąć ostateczna decyzję w sprawie ich przyszłości.</description>
+    </item>
     
     <item>
         <title>PSG myśli nad niedzielnym pożegnaniem Mbappé</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129481-neuer-bylismy-juz-jedna-noga-w-londynie</link>
         <pubDate>Thu, 09 May 2024 18:20:00 GMT</pubDate>
         <description>Manuel Neuer rozmawiał z dziennikarzami w strefie mieszanej po przegranym 1:2 rewanżowym półfinale Ligi Mistrzów z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi kapitana Bayernu.</description>
-    </item>
-    
-    <item>
-        <title>150 meczów Militão w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/129467-150-meczow-militao-w-realu-madryt</link>
-        <pubDate>Thu, 09 May 2024 17:30:00 GMT</pubDate>
-        <description>W rewanżowym półfinale Ligi Mistrzów z Bayernem brazylijski stoper zanotował swój 150. występ w koszulce Realu Madryt.</description>
     </item>
     
 </channel>
