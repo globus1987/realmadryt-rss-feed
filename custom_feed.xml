@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 18:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 18:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 35. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/129508-telewizyjny-terminarz-35-kolejki-la-ligi</link>
+        <pubDate>Fri, 10 May 2024 20:50:00 GMT</pubDate>
+        <description>Jutro Real Madryt zmierzy się na wyjeździe z Granadą. Dzisiaj Girona zagra w Kraju Basków z Deportivo Alavés, a Barcelona zamknie kolejkę poniedziałkową potyczką z Realem Sociedad.</description>
+    </item>
     
     <item>
         <title>Mbappé: To mój ostatni rok w PSG</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129510-200-zl-za-wygrana-realu-lub-barcy</link>
         <pubDate>Fri, 10 May 2024 15:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Granadę</title>
-        <link>https://www.realmadryt.pl/news/129505-kadra-na-granade</link>
-        <pubDate>Fri, 10 May 2024 14:26:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Granadą na Nuevo Los Cármenes. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
     </item>
     
 </channel>
