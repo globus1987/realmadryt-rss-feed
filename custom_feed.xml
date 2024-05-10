@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 09:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 10:20:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni wyjazd sezonu zasadniczego</title>
+        <link>https://www.realmadryt.pl/news/129495-ostatni-wyjazd-sezonu-zasadniczego</link>
+        <pubDate>Fri, 10 May 2024 12:07:00 GMT</pubDate>
+        <description>W 33. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Valencią. Królewscy potrzebują zwycięstwa, żeby nie oglądać się na Unicaję w walce o pierwsze miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Kwadrans ostatniego treningu przed Granadą [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129496-dzisiejsze-okladki</link>
         <pubDate>Fri, 10 May 2024 00:24:00 GMT</pubDate>
         <description>Echa zwycięstwa Realu Madryt i przedłużenie kontraktu Paua Cubarsíego w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Atalanta i Bayer Leverkusen w finale Ligi Europy</title>
-        <link>https://www.realmadryt.pl/news/129492-atalanta-i-bayer-leverkusen-w-finale-ligi-europy</link>
-        <pubDate>Thu, 09 May 2024 22:59:00 GMT</pubDate>
-        <description>Dzisiaj poznaliśmy finalistów pozostałych dwóch pucharów UEFA. Zwycięzca Ligi Europy w sierpniu zagra ze zwycięzcą Ligi Mistrzów o Superpuchar Europy.</description>
     </item>
     
 </channel>
