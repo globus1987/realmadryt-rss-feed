@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 07:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 08:23:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 maja</title>
+        <link>https://www.realmadryt.pl/news/129490-kartka-z-kalendarza-10-maja</link>
+        <pubDate>Fri, 10 May 2024 09:58:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza i trenera, pierwszy Puchar Europy, śmierć legendarnego obrońcy i ostatnie derby Madrytu na Vicente Calderón. Co działo się 10 maja?</description>
+    </item>
     
     <item>
         <title>Sierżant finałów Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129488-wywarlem-maksymalna-presje-na-przyszly-klub-mbappe</link>
         <pubDate>Thu, 09 May 2024 20:38:00 GMT</pubDate>
         <description>Prezydent Francji przyznaje, że stara się zrobić wszystko co w jego mocy, aby gwiazdor reprezentacji wystąpił podczas tegorocznych IO w Paryżu.</description>
-    </item>
-    
-    <item>
-        <title>Milan monitoruje sytuację Rafy Marina</title>
-        <link>https://www.realmadryt.pl/news/129445-milan-monitoruje-sytuacje-rafy-marina</link>
-        <pubDate>Thu, 09 May 2024 20:00:00 GMT</pubDate>
-        <description>Obrońca wypożyczony z Realu Madryt zwrócił uwagę włoskiego klubu, który szuka nowego stopera.</description>
     </item>
     
 </channel>
