@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 05:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 06:24:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historia dwóch sprintów</title>
+        <link>https://www.realmadryt.pl/news/129483-historia-dwoch-sprintow</link>
+        <pubDate>Fri, 10 May 2024 08:16:00 GMT</pubDate>
+        <description>Choć to Joselu jest najbardziej oczywistym bohaterem awansu Realu Madryt do finału Ligi Mistrzów, publika na Bernabéu z pewnością zapamięta jeszcze jeden kluczowy szczegół poprzedzający pierwsze trafienie Królewskich.</description>
+    </item>
     
     <item>
         <title>MARCA: Kroos i Modrić oczekują na spotkanie z Florentino Pérezem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129472-butragueno-to-nie-wieczor-slow-to-wieczor-uczuc</link>
         <pubDate>Thu, 09 May 2024 19:10:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla klubowej telewizji po rewanżowym meczu z Bayernem Monachium w półfinale Ligi Mistrzów. Przedstawiamy słowa działacza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Neuer: Byliśmy już jedną nogą w Londynie</title>
-        <link>https://www.realmadryt.pl/news/129481-neuer-bylismy-juz-jedna-noga-w-londynie</link>
-        <pubDate>Thu, 09 May 2024 18:20:00 GMT</pubDate>
-        <description>Manuel Neuer rozmawiał z dziennikarzami w strefie mieszanej po przegranym 1:2 rewanżowym półfinale Ligi Mistrzów z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi kapitana Bayernu.</description>
     </item>
     
 </channel>
