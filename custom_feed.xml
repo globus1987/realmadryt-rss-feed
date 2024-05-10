@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 10:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 10:38:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jeśli Vinícius dobrze zakończy sezon, może wygrać Złotą Piłkę</title>
+        <link>https://www.realmadryt.pl/news/129500-ancelotti-jesli-vinicius-dobrze-zakonczy-sezon-moze-wygrac-zlota-pilke</link>
+        <pubDate>Fri, 10 May 2024 12:38:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed jutrzejszym meczem La Ligi z Granadą. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis tradycyjnie pojawi się na portalu w dniu meczu.</description>
+    </item>
+    
+    <item>
+        <title>Ostatni trening przed Granadą</title>
+        <link>https://www.realmadryt.pl/news/129503-ostatni-trening-przed-granada</link>
+        <pubDate>Fri, 10 May 2024 12:25:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Granadą. Razem z drużyną nie trenowało dwóch zawodników.</description>
+    </item>
     
     <item>
         <title>Ostatni wyjazd sezonu zasadniczego</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129489-marca-kroos-i-modric-oczekuja-na-spotkanie-z-florentino-perezem</link>
         <pubDate>Fri, 10 May 2024 07:25:00 GMT</pubDate>
         <description>Kontrakty Niemca i Chorwata dobiegają końca 30 czerwca, a klub chce zasiąść z nimi do rozmów, by podjąć ostateczna decyzję w sprawie ich przyszłości, informuje José Félix Díaz z dziennika MARCA.</description>
-    </item>
-    
-    <item>
-        <title>PSG myśli nad niedzielnym pożegnaniem Mbappé</title>
-        <link>https://www.realmadryt.pl/news/129487-psg-mysli-nad-niedzielnym-pozegnaniem-mbappe</link>
-        <pubDate>Fri, 10 May 2024 05:30:00 GMT</pubDate>
-        <description>Paryżanom do końca sezonu zostają cztery mecze, ale tylko ten najbliższy będzie rozegrany w Parku Książąt. Stołeczne dzienniki wskazują, że będzie to wielkie pożegnanie Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129496-dzisiejsze-okladki</link>
-        <pubDate>Fri, 10 May 2024 00:24:00 GMT</pubDate>
-        <description>Echa zwycięstwa Realu Madryt i przedłużenie kontraktu Paua Cubarsíego w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
