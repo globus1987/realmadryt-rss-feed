@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 03:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 03:39:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>PSG myśli nad niedzielnym pożegnaniem Mbappé</title>
+        <link>https://www.realmadryt.pl/news/129487-psg-mysli-nad-niedzielnym-pozegnaniem-mbappe</link>
+        <pubDate>Fri, 10 May 2024 05:30:00 GMT</pubDate>
+        <description>Paryżanom do końca sezonu zostają cztery mecze, ale tylko ten najbliższy będzie rozegrany w Parku Książąt. Stołeczne dzienniki wskazują, że będzie to wielkie pożegnanie Kyliana Mbappé.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129467-150-meczow-militao-w-realu-madryt</link>
         <pubDate>Thu, 09 May 2024 17:30:00 GMT</pubDate>
         <description>W rewanżowym półfinale Ligi Mistrzów z Bayernem brazylijski stoper zanotował swój 150. występ w koszulce Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x25: Błąd Marciniaka przykrył awans?</title>
-        <link>https://www.realmadryt.pl/news/129485-podcast-5x25-blad-marciniaka-przykryl-awans</link>
-        <pubDate>Thu, 09 May 2024 16:50:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest przede wszystkim wygranemu rewanżowi z Bayernem Monachium. Partnerem podcastu jest FORTUNA Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
