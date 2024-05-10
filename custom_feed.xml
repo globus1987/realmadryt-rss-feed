@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 22:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 22:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129526-dzisiejsze-okladki</link>
+        <pubDate>Sat, 11 May 2024 00:39:00 GMT</pubDate>
+        <description>Radość Joselu, ogłoszenie Kyliana Mbappé i plany transferowe Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze tracą pozycję lidera</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129475-szalony-antonio</link>
         <pubDate>Fri, 10 May 2024 18:00:00 GMT</pubDate>
         <description>Antonio Rüdiger ma w szatni przydomek „loco”, czyli „szalony”. Niemiec nawet nie ma zamiaru pytać dlaczego. Nikogo nie dziwi także jego zachowanie, gdy kibice przy wyjeździe ze stadionu otoczyli samochód stopera, a ten dołączył się do świętowania i za kierownicą zaczął tańczyć.</description>
-    </item>
-    
-    <item>
-        <title>Czterech graczy Realu Madryt w kadrze Brazylii na Copa América</title>
-        <link>https://www.realmadryt.pl/news/129514-czterech-graczy-realu-madryt-w-kadrze-brazylii-na-copa-america</link>
-        <pubDate>Fri, 10 May 2024 17:21:00 GMT</pubDate>
-        <description>Dorival Júnior, selekcjoner Brazylii, ogłosił powołania na zgrupowanie, które obejmie turniej Copa América. Na liście znalazło się czterech piłkarzy Realu Madryt.</description>
     </item>
     
 </channel>
