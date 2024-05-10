@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 12:59:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 13:22:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zł za wygraną Realu lub Barçy!</title>
+        <link>https://www.realmadryt.pl/news/129510-200-zl-za-wygrana-realu-lub-barcy</link>
+        <pubDate>Fri, 10 May 2024 15:00:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Kadra na Granadę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129498-courtois-jest-szykowany-do-gry-w-finale-ligi-mistrzow</link>
         <pubDate>Fri, 10 May 2024 11:10:00 GMT</pubDate>
         <description>Media są raczej zgodne, że Carlo Ancelotti zdecyduje się na to, aby na Wembley wystawić od pierwszej minuty belgijskiego bramkarza.</description>
-    </item>
-    
-    <item>
-        <title>Sport: Kompromitujące zdjęcia Marciniaka. Polak powiązany z Realem?</title>
-        <link>https://www.realmadryt.pl/news/129497-sport-kompromitujace-zdjecia-marciniaka-polak-powiazany-z-realem</link>
-        <pubDate>Fri, 10 May 2024 10:49:00 GMT</pubDate>
-        <description>Kataloński dziennik Sport popełnił artykuł, w którym przypuszcza, że Szymon Marciniak jest powiązany z Realem Madryt. Pracownicy tej gazety swoje domysły opierają na podstawie kosmetyczki z herbem Realu Madryt. Przedstawiamy surrealistyczny tekst Katalończyków.</description>
     </item>
     
 </channel>
