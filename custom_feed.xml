@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 11:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 12:34:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Granadę</title>
+        <link>https://www.realmadryt.pl/news/129505-kadra-na-granade</link>
+        <pubDate>Fri, 10 May 2024 14:26:00 GMT</pubDate>
+        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Granadą na Nuevo Los Cármenes. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
+    </item>
+    
+    <item>
+        <title>Finał w prezencie od Espanyolu</title>
+        <link>https://www.realmadryt.pl/news/129480-final-w-prezencie-od-espanyolu</link>
+        <pubDate>Fri, 10 May 2024 14:21:00 GMT</pubDate>
+        <description>Finał Ligi Mistrzów w Paryżu Joselu oglądał z perspektywy kibica. Dwa lata później sam dał Królewskim awans do meczu decydującego o losach najbardziej prestiżowego klubowego trofeum.</description>
+    </item>
     
     <item>
         <title>Mateo: To jest kluczowe spotkanie, żeby zająć pierwsze miejsce</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129497-sport-kompromitujace-zdjecia-marciniaka-polak-powiazany-z-realem</link>
         <pubDate>Fri, 10 May 2024 10:49:00 GMT</pubDate>
         <description>Kataloński dziennik Sport popełnił artykuł, w którym przypuszcza, że Szymon Marciniak jest powiązany z Realem Madryt. Pracownicy tej gazety swoje domysły opierają na podstawie kosmetyczki z herbem Realu Madryt. Przedstawiamy surrealistyczny tekst Katalończyków.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 10 maja</title>
-        <link>https://www.realmadryt.pl/news/129490-kartka-z-kalendarza-10-maja</link>
-        <pubDate>Fri, 10 May 2024 09:58:00 GMT</pubDate>
-        <description>Urodziny byłego piłkarza i trenera, pierwszy Puchar Europy, śmierć legendarnego obrońcy i ostatnie derby Madrytu na Vicente Calderón. Co działo się 10 maja?</description>
-    </item>
-    
-    <item>
-        <title>Sierżant finałów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129484-sierzant-finalow-ligi-mistrzow</link>
-        <pubDate>Fri, 10 May 2024 09:07:00 GMT</pubDate>
-        <description>Real Madryt znów to zrobił, znów jest w finale Ligi Mistrzów. A wraz z nim Antonio Pintus, dla którego będzie to dziewiąte tego typu wyzwanie, na które musi przygotować swoich zawodników.</description>
     </item>
     
 </channel>
