@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 May 2024 06:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 07:18:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sierżant finałów Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/129484-sierzant-finalow-ligi-mistrzow</link>
+        <pubDate>Fri, 10 May 2024 09:07:00 GMT</pubDate>
+        <description>Real Madryt znów to zrobił, znów jest w finale Ligi Mistrzów. A wraz z nim Antonio Pintus, dla którego będzie to dziewiąte tego typu wyzwanie, na które musi przygotować swoich zawodników.</description>
+    </item>
     
     <item>
         <title>Historia dwóch sprintów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129445-milan-monitoruje-sytuacje-rafy-marina</link>
         <pubDate>Thu, 09 May 2024 20:00:00 GMT</pubDate>
         <description>Obrońca wypożyczony z Realu Madryt zwrócił uwagę włoskiego klubu, który szuka nowego stopera.</description>
-    </item>
-    
-    <item>
-        <title>Butragueño: To nie wieczór słów, to wieczór uczuć</title>
-        <link>https://www.realmadryt.pl/news/129472-butragueno-to-nie-wieczor-slow-to-wieczor-uczuc</link>
-        <pubDate>Thu, 09 May 2024 19:10:00 GMT</pubDate>
-        <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla klubowej telewizji po rewanżowym meczu z Bayernem Monachium w półfinale Ligi Mistrzów. Przedstawiamy słowa działacza Królewskich.</description>
     </item>
     
 </channel>
