@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 08:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 08:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czas celebrytów</title>
+        <link>https://www.realmadryt.pl/news/129501-czas-celebrytow</link>
+        <pubDate>Sat, 11 May 2024 10:24:00 GMT</pubDate>
+        <description>Prosimy o uśmiech do kamery i ustawienie się tak, by reklama była dobrze widoczna w kadrze.</description>
+    </item>
     
     <item>
         <title>Kroos: Świętowanie mistrzostwa po porażce Barçy smakowało podwójnie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129521-35-kolejka-girona-remisuje-i-daje-szanse-barcelonie</link>
         <pubDate>Fri, 10 May 2024 23:03:00 GMT</pubDate>
         <description>Girona zremisowała 2:2 spotkanie otwierające 35. kolejkę Primera División, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Athletic chce Césara Palaciosa</title>
-        <link>https://www.realmadryt.pl/news/129519-relevo-athletic-chce-cesara-palaciosa</link>
-        <pubDate>Fri, 10 May 2024 22:19:00 GMT</pubDate>
-        <description>Baskijski klub skontaktował się z nim już latem ubiegłego roku.</description>
     </item>
     
 </channel>
