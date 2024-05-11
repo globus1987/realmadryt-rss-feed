@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 05:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 06:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Thibaut!</title>
+        <link>https://www.realmadryt.pl/news/129502-wszystkiego-najlepszego-thibaut</link>
+        <pubDate>Sat, 11 May 2024 08:10:00 GMT</pubDate>
+        <description>Dziś swoje 32. urodziny obchodzi Thibaut Courtois. Z tej okazji w pierwszej kolejności życzymy mu rzecz jasna rychłego powrotu do najwyższej formy i by już nigdy więcej nie trapiły go równie poważne urazy.</description>
+    </item>
     
     <item>
         <title>200 zł za wygraną Realu z Granadą!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129508-telewizyjny-terminarz-35-kolejki-la-ligi</link>
         <pubDate>Fri, 10 May 2024 20:50:00 GMT</pubDate>
         <description>Jutro Real Madryt zmierzy się na wyjeździe z Granadą. Dzisiaj Girona zagra w Kraju Basków z Deportivo Alavés, a Barcelona zamknie kolejkę poniedziałkową potyczką z Realem Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: To mój ostatni rok w PSG</title>
-        <link>https://www.realmadryt.pl/news/129518-mbappe-to-moj-ostatni-rok-w-psg</link>
-        <pubDate>Fri, 10 May 2024 20:06:00 GMT</pubDate>
-        <description>Kylian Mbappé potwierdził publicznie, że odchodzi z Paris Saint-Germain. Na razie nie ogłosił, gdzie będzie kontynuował karierę.</description>
     </item>
     
 </channel>
