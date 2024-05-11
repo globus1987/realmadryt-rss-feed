@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 09:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 09:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>600 ligowych meczów Llulla w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/129531-600-ligowych-meczow-llulla-w-realu-madryt</link>
+        <pubDate>Sat, 11 May 2024 11:50:00 GMT</pubDate>
+        <description>Sergio Llull zbliża się do kolejnego rekordu. W spotkaniu z Valencią założył koszulkę Realu Madryt po raz 600. w lidze i traci już tylko 19 występów do Felipe Reyesa.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 maja</title>
+        <link>https://www.realmadryt.pl/news/129506-kartka-z-kalendarza-11-maja</link>
+        <pubDate>Sat, 11 May 2024 11:50:00 GMT</pubDate>
+        <description>Szósty Puchar Europy, porażka z Alexem Fergusonem, urodziny byłego i obecnego zawodnika oraz pierwszy ligowy występ Jerzego Dudka. Co działo się 11 maja?</description>
+    </item>
     
     <item>
         <title>Álvarez de Mon: Modrić opuści Real Madryt</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129528-granada-real-madryt-przewidywane-sklady</link>
         <pubDate>Sat, 11 May 2024 06:30:00 GMT</pubDate>
         <description>Królewscy lecą do Andaluzji bez dwóch kontuzjowanych piłkarzy: David Alaba leczy uraz kolana, a Aurélien Tchouaméni stopy. Madryckie media zgadzają się, że dzisiejszy mecz będzie szansą dla zmienników.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Do 1 czerwca jest moment Realu, potem może być moment Borussii</title>
-        <link>https://www.realmadryt.pl/news/129507-ancelotti-do-1-czerwca-jest-moment-realu-potem-moze-byc-moment-borussii</link>
-        <pubDate>Sat, 11 May 2024 05:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym meczem La Ligi z Granadą. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129526-dzisiejsze-okladki</link>
-        <pubDate>Sat, 11 May 2024 00:39:00 GMT</pubDate>
-        <description>Radość Joselu, ogłoszenie Kyliana Mbappé i plany transferowe Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
