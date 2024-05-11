@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 18:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 18:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Neva: To był jeden z najtrudniejszych meczów</title>
+        <link>https://www.realmadryt.pl/news/129546-neva-to-byl-jeden-z-najtrudniejszych-meczow</link>
+        <pubDate>Sat, 11 May 2024 20:47:00 GMT</pubDate>
+        <description>Carlos Neva udzielił wywiadu dla platformy DAZN po przegranym 0:4 meczu z Realem Madryt. Przedstawiamy wypowiedzi piłkarza Granady.</description>
+    </item>
     
     <item>
         <title>Brahim Díaz MVP meczu z Granadą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129539-35-kolejka-granada-spadla-jeszcze-przed-meczem-z-realem</link>
         <pubDate>Sat, 11 May 2024 16:01:00 GMT</pubDate>
         <description>Rywale Królewskich właśnie spadli z La Ligi i w meczu z Realem nie będą walczyć już o nic więcej jak tylko honor i podskoczenie w tabeli o jedną pozycję, która nie da im jednak utrzymania.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: To nie był nasz najlepszy mecz</title>
-        <link>https://www.realmadryt.pl/news/129530-mateo-to-nie-byl-nasz-najlepszy-mecz</link>
-        <pubDate>Sat, 11 May 2024 15:41:00 GMT</pubDate>
-        <description>Chus Mateo podsumował krótko przegrane spotkanie z Valencią. Przyznał, że jego drużyna nie rozegrała najlepszego meczu i dodał, że najsmutniejszą wiadomością jest dla niego kontuzja Decka.</description>
     </item>
     
 </channel>
