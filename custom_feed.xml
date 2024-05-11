@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 06:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 07:18:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ogromna propozycja Barcelony dla Hezonji</title>
+        <link>https://www.realmadryt.pl/news/129525-ogromna-propozycja-barcelony-dla-hezonji</link>
+        <pubDate>Sat, 11 May 2024 09:00:00 GMT</pubDate>
+        <description>Koszykarski sezon transferowy rozkręca się na dobre. Niedawno pojawiła się informacja o propozycji Efesu dla Poirier, a teraz Barcelona chce skusić Hezonję dużymi pieniędzmi.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, Thibaut!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129511-joselu-szantazowal-espanyol-autor-oskarzenia-wycofuje-swoje-slowa</link>
         <pubDate>Fri, 10 May 2024 21:35:00 GMT</pubDate>
         <description>Były pomocnik Espanyolu opublikował na portalu X informację, że „Joselu Mato to zawodnik, który szantażował Espanyol i opuścił okręt, kiedy był najbardziej potrzebny”.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 35. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129508-telewizyjny-terminarz-35-kolejki-la-ligi</link>
-        <pubDate>Fri, 10 May 2024 20:50:00 GMT</pubDate>
-        <description>Jutro Real Madryt zmierzy się na wyjeździe z Granadą. Dzisiaj Girona zagra w Kraju Basków z Deportivo Alavés, a Barcelona zamknie kolejkę poniedziałkową potyczką z Realem Sociedad.</description>
     </item>
     
 </channel>
