@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 09:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 10:19:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Grenadzie</title>
+        <link>https://www.realmadryt.pl/news/129534-krolewscy-sa-juz-w-grenadzie</link>
+        <pubDate>Sat, 11 May 2024 11:57:00 GMT</pubDate>
+        <description>Drużyna Realu Madryt jest już w Andaluzji, gdzie dziś o 18:30 rozegra spotkanie w ramach 35. kolejki La Ligi.</description>
+    </item>
     
     <item>
         <title>600 ligowych meczów Llulla w Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129527-200-zl-za-wygrana-realu-z-granada</link>
         <pubDate>Sat, 11 May 2024 07:30:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Granada – Real Madryt: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/129528-granada-real-madryt-przewidywane-sklady</link>
-        <pubDate>Sat, 11 May 2024 06:30:00 GMT</pubDate>
-        <description>Królewscy lecą do Andaluzji bez dwóch kontuzjowanych piłkarzy: David Alaba leczy uraz kolana, a Aurélien Tchouaméni stopy. Madryckie media zgadzają się, że dzisiejszy mecz będzie szansą dla zmienników.</description>
     </item>
     
 </channel>
