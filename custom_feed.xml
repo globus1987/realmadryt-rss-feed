@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 19:14:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 19:27:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Granada 0:4 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/129549-granada-0-4-real-madryt-video</link>
+        <pubDate>Sat, 11 May 2024 21:24:00 GMT</pubDate>
+        <description>Real Madryt wygrał w 35. kolejce ligowej z Granadą 4:0.</description>
+    </item>
+    
+    <item>
+        <title>Brahim: My nie jesteśmy przyjaciółmi, jesteśmy rodziną</title>
+        <link>https://www.realmadryt.pl/news/129548-brahim-my-nie-jestesmy-przyjaciolmi-jestesmy-rodzina</link>
+        <pubDate>Sat, 11 May 2024 21:21:00 GMT</pubDate>
+        <description>Brahim Díaz udzielił wywiadu dla klubowej telewizji po wygranym 4:0 meczu z Granadą. Przedstawiamy pełne wypowiedzi napastnika Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Mbappé? Nie zajmuję się tym, bo mamy wiele rzeczy do zrobienia</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129538-ancelotti-jedynym-zagrozonym-zawieszeniem-za-kartki</link>
         <pubDate>Sat, 11 May 2024 17:11:00 GMT</pubDate>
         <description>Królewscy przystępują do meczu z Cádizem z jednym zagrożonym zawieszeniem trenerem.</description>
-    </item>
-    
-    <item>
-        <title>Granada – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/129537-granada-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 11 May 2024 16:36:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu przeciwko Granadzie. Mecz rozpocznie się o godzinie 18:30 na Estadio Nuevo Los Cármenes.</description>
-    </item>
-    
-    <item>
-        <title>„Jeśli potrzebujecie porady, jak pokonać Real, to jesteśmy”</title>
-        <link>https://www.realmadryt.pl/news/129491-jesli-potrzebujecie-porady-jak-pokonac-real-to-jestesmy</link>
-        <pubDate>Sat, 11 May 2024 16:10:00 GMT</pubDate>
-        <description>AD Alcorcón opublikował na swoim koncie wpis skierowany do Borussii Dortmund, w którym wspomina wygraną 4:0 nad Realem z 2009 roku.</description>
     </item>
     
 </channel>
