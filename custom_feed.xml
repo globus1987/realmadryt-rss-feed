@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 05:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 05:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zł za wygraną Realu z Granadą!</title>
+        <link>https://www.realmadryt.pl/news/129527-200-zl-za-wygrana-realu-z-granada</link>
+        <pubDate>Sat, 11 May 2024 07:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Granada – Real Madryt: Przewidywane składy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129518-mbappe-to-moj-ostatni-rok-w-psg</link>
         <pubDate>Fri, 10 May 2024 20:06:00 GMT</pubDate>
         <description>Kylian Mbappé potwierdził publicznie, że odchodzi z Paris Saint-Germain. Na razie nie ogłosił, gdzie będzie kontynuował karierę.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real domyka transfer Maëlle Lakrar</title>
-        <link>https://www.realmadryt.pl/news/129509-marca-real-domyka-transfer-maelle-lakrar</link>
-        <pubDate>Fri, 10 May 2024 19:25:00 GMT</pubDate>
-        <description>23-letnia francuska defensorka zasili szeregi Las Blancas po wypełnieniu kontraktu z Montpellier.</description>
     </item>
     
 </channel>
