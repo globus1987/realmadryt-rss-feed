@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 10:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 10:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>González Fuertes na Granadę</title>
+        <link>https://www.realmadryt.pl/news/129471-gonzalez-fuertes-na-granade</link>
+        <pubDate>Sat, 11 May 2024 12:40:00 GMT</pubDate>
+        <description>43-latek z Asturii poprowadzi mecz Realu Madryt z Granadą. Sędzią VAR będzie Víctor García Verdura.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Grenadzie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129502-wszystkiego-najlepszego-thibaut</link>
         <pubDate>Sat, 11 May 2024 08:10:00 GMT</pubDate>
         <description>Dziś swoje 32. urodziny obchodzi Thibaut Courtois. Z tej okazji w pierwszej kolejności życzymy mu rzecz jasna rychłego powrotu do najwyższej formy i by już nigdy więcej nie trapiły go równie poważne urazy.</description>
-    </item>
-    
-    <item>
-        <title>200 zł za wygraną Realu z Granadą!</title>
-        <link>https://www.realmadryt.pl/news/129527-200-zl-za-wygrana-realu-z-granada</link>
-        <pubDate>Sat, 11 May 2024 07:30:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
