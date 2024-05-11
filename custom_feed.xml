@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 21:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 22:16:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz dzisiejszego świętowania mistrzostwa Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/129553-terminarz-dzisiejszego-swietowania-mistrzostwa-hiszpanii</link>
+        <pubDate>Sun, 12 May 2024 00:08:00 GMT</pubDate>
+        <description>Real Madryt w oficjalny sposób będzie świętować dzisiaj zdobycie mistrzostwa Hiszpanii. Przedstawiamy oficjalny harmonogram tych uroczystości.</description>
+    </item>
     
     <item>
         <title>Piłkarki przegrywają w derbach z Atlético</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129543-zwyciestwo-z-atmosfera-letniego-sparingu</link>
         <pubDate>Sat, 11 May 2024 19:20:00 GMT</pubDate>
         <description>Real Madryt wygrał 4:0 w wyjazdowym meczu z Granadą po bramkach Frana Garcíi, Ardy Gülera i dublecie Brahima.</description>
-    </item>
-    
-    <item>
-        <title>Granada wykonała szpaler Realowi Madryt</title>
-        <link>https://www.realmadryt.pl/news/129542-granada-wykonala-szpaler-realowi-madryt</link>
-        <pubDate>Sat, 11 May 2024 18:48:00 GMT</pubDate>
-        <description>Drużynie Granady nie zabrakło klasy i piłkarze andaluzyjskiego klubu powitali Real Madryt tradycyjnym szpalerem.</description>
     </item>
     
 </channel>
