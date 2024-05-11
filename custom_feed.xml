@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 May 2024 18:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 18:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim Díaz MVP meczu z Granadą</title>
+        <link>https://www.realmadryt.pl/news/129545-brahim-diaz-mvp-meczu-z-granada</link>
+        <pubDate>Sat, 11 May 2024 20:31:00 GMT</pubDate>
+        <description>Brahim Díaz był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania z Granadą.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Granadą</title>
+        <link>https://www.realmadryt.pl/news/129544-ocen-pilkarzy-po-meczu-z-granada</link>
+        <pubDate>Sat, 11 May 2024 20:24:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Zwycięstwo z atmosferą letniego sparingu</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129530-mateo-to-nie-byl-nasz-najlepszy-mecz</link>
         <pubDate>Sat, 11 May 2024 15:41:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko przegrane spotkanie z Valencią. Przyznał, że jego drużyna nie rozegrała najlepszego meczu i dodał, że najsmutniejszą wiadomością jest dla niego kontuzja Decka.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti ma przepis na odzyskanie Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/129513-ancelotti-ma-przepis-na-odzyskanie-bellinghama</link>
-        <pubDate>Sat, 11 May 2024 15:20:00 GMT</pubDate>
-        <description>Sztab trenerski przygotowuje mini-presezon, aby przed finałem Ligi Mistrzów Jude mógł ponownie wypracować swoją najlepszą wersję.</description>
-    </item>
-    
-    <item>
-        <title>Czy Macron potwierdził przejście Mbappé do Realu Madryt? Nie</title>
-        <link>https://www.realmadryt.pl/news/129536-czy-macron-potwierdzil-przejscie-mbappe-do-realu-madryt-nie</link>
-        <pubDate>Sat, 11 May 2024 14:43:00 GMT</pubDate>
-        <description>Prezydent Francji opublikował na portalu X filmik, w którym odpowiada na pytania internautów o Europę. W jednym z nich pytany jest wprost o odejście Kyliana Mbappé do Realu Madryt. Przedstawiamy pełny kontekst tej sytuacji, która stała się internetowym viralem, chociaż nie jest przedstawiona w pełnym świetle.</description>
     </item>
     
 </channel>
