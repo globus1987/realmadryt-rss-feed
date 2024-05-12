@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 May 2024 22:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 22:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129585-dzisiejsze-okladki</link>
+        <pubDate>Mon, 13 May 2024 00:23:00 GMT</pubDate>
+        <description>Świętowanie Realu Madryt i mecz Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Skromne zwycięstwo Castilli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129574-oceny-zawodnikow-po-meczu-z-granada</link>
         <pubDate>Sun, 12 May 2024 17:48:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Granadą 4:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Myślę, że będę gotowy na finał</title>
-        <link>https://www.realmadryt.pl/news/129571-tchouameni-mysle-ze-bede-gotowy-na-final</link>
-        <pubDate>Sun, 12 May 2024 17:06:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni z optymizmem patrzy na swój potencjalny występ w finale Ligi Mistrzów. W dzień świętowania mistrzostwa Hiszpanii Francuz stwierdził, że pomimo ostatnich doniesień powinien zdążyć na najważniejszy mecz w sezonie.</description>
     </item>
     
 </channel>
