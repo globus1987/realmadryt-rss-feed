@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 May 2024 10:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 10:38:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Pierwsze miejsce jest ważne, ale nie fundamentalne</title>
+        <link>https://www.realmadryt.pl/news/129561-mateo-pierwsze-miejsce-jest-wazne-ale-nie-fundamentalne</link>
+        <pubDate>Sun, 12 May 2024 12:30:00 GMT</pubDate>
+        <description>Chus Mateo wypowiedział się dla klubowych mediów przed spotkaniem z Baskonią, które zamyka sezon zasadniczy Ligi Endesa. Mówił o tym, że pierwsze miejsce jest istotne, ale nie kluczowe.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Gabriel Deck z zerwanym więzadłem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129533-plan-mbappe-florentino-pereza</link>
         <pubDate>Sun, 12 May 2024 07:00:00 GMT</pubDate>
         <description>Dziennik MARCA opisuje, jak wyglądały działania klubu w temacie pozyskania Kyliana Mbappé po tym, jak Francuz odmówił transferu do Realu Madryt w maju 2021 roku.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129557-dzisiejsze-okladki</link>
-        <pubDate>Sun, 12 May 2024 00:33:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i przyszłość Roberta Lewandowskiego w Barcelonie to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
