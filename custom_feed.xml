@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 May 2024 19:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 20:19:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Przyszłość? To nie jest moment na rozmawianie o tych sprawach</title>
+        <link>https://www.realmadryt.pl/news/129576-modric-przyszlosc-to-nie-jest-moment-na-rozmawianie-o-tych-sprawach</link>
+        <pubDate>Sun, 12 May 2024 22:00:00 GMT</pubDate>
+        <description>Luka Modrić udzieliał wywiadów pod Cibeles po świętowaniu zdobycia mistrzostwa Hiszpanii przez Real Madryt. Przedstawiamy wypowiedzi pomocika Królewskich z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>100. zwycięstwo Camavingi w Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129565-pojedynek-z-rezerwami-granady</link>
         <pubDate>Sun, 12 May 2024 16:15:00 GMT</pubDate>
         <description>Castilla zagra z Recreativo Granada w 36. kolejce Primera Federación. Królewscy już o nic nie walczą, więc ostatnie mecze będą okazją do poprawy miejsca w tabeli oraz bilansu bramkowego.</description>
-    </item>
-    
-    <item>
-        <title>Real świętował w Madrycie zdobycie mistrzostwa Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/129569-real-swietowal-w-madrycie-zdobycie-mistrzostwa-hiszpanii</link>
-        <pubDate>Sun, 12 May 2024 15:30:00 GMT</pubDate>
-        <description>Real Madryt świętował dzisiaj zdobycie mistrzostwa Hiszpanii i spotkał się z kibicami oraz najważniejszymi osobami w Madrycie.</description>
     </item>
     
 </channel>
