@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 May 2024 04:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 05:18:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Plan Mbappé” Florentino Péreza</title>
+        <link>https://www.realmadryt.pl/news/129533-plan-mbappe-florentino-pereza</link>
+        <pubDate>Sun, 12 May 2024 07:00:00 GMT</pubDate>
+        <description>Dziennik MARCA opisuje, jak wyglądały działania klubu w temacie pozyskania Kyliana Mbappé po tym, jak Francuz odmówił transferu do Realu Madryt w maju 2021 roku.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129545-brahim-diaz-mvp-meczu-z-granada</link>
         <pubDate>Sat, 11 May 2024 20:31:00 GMT</pubDate>
         <description>Brahim Díaz był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania z Granadą.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Granadą</title>
-        <link>https://www.realmadryt.pl/news/129544-ocen-pilkarzy-po-meczu-z-granada</link>
-        <pubDate>Sat, 11 May 2024 20:24:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
