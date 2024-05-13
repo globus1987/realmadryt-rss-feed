@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 May 2024 03:21:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 03:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>BILD: Poważne ruchy Realu Madryt ws. Wirtza</title>
+        <link>https://www.realmadryt.pl/news/129581-bild-powazne-ruchy-realu-madryt-ws-wirtza</link>
+        <pubDate>Mon, 13 May 2024 05:30:00 GMT</pubDate>
+        <description>W Niemczech także mocno łączy się atakującego Bayeru Leverkusen z Realem Madryt. BILD podaje nowe ciekawe fakty w tej sprawie, które wskazują, że Królewscy faktycznie mogą planować transfer 21-latka.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129555-sandoval-chcialem-jedynie-tego-abysmy-jak-najmniej-cierpieli</link>
         <pubDate>Sun, 12 May 2024 18:36:00 GMT</pubDate>
         <description>Trener Granady, José Ramón Sandoval, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego najważniejszych wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Granadą</title>
-        <link>https://www.realmadryt.pl/news/129574-oceny-zawodnikow-po-meczu-z-granada</link>
-        <pubDate>Sun, 12 May 2024 17:48:00 GMT</pubDate>
-        <description>Real Madryt wygrał na wyjeździe z Granadą 4:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
