@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 May 2024 10:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 10:38:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Łunin zanotował fantastyczny sezon, a Courtois jest najlepszy na świecie</title>
+        <link>https://www.realmadryt.pl/news/129589-ancelotti-lunin-zanotowal-fantastyczny-sezon-a-courtois-jest-najlepszy-na-swiecie</link>
+        <pubDate>Mon, 13 May 2024 12:32:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed jutrzejszym meczem La Ligi z Deportivo Alavés. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis tradycyjnie pojawi się na portalu w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Duet, którego potrzebował Ancelotti</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129585-dzisiejsze-okladki</link>
         <pubDate>Mon, 13 May 2024 00:23:00 GMT</pubDate>
         <description>Świętowanie Realu Madryt i mecz Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Skromne zwycięstwo Castilli</title>
-        <link>https://www.realmadryt.pl/news/129583-skromne-zwyciestwo-castilli</link>
-        <pubDate>Sun, 12 May 2024 23:28:00 GMT</pubDate>
-        <description>W 36. kolejce Primera Federación Castilla pokonała Recreativo Granada 1:0. Królewscy już przed meczem były pewne utrzymania w trzeciej lidze.</description>
     </item>
     
 </channel>
