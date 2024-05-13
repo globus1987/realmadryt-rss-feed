@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 May 2024 22:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 22:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129611-dzisiejsze-okladki</link>
+        <pubDate>Tue, 14 May 2024 00:45:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>35. kolejka: Barcelona odzyskuje drugie miejsce</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129597-jednoglosnosc-w-sprawie-nowej-umowy-dla-carvajala</link>
         <pubDate>Mon, 13 May 2024 17:23:00 GMT</pubDate>
         <description>Choć Real Madryt nie chce zbaczać z kursu przed meczem o 15. Puchar Europy, to jednak w klubowych biurach nieustannie pracuje się nad kształtem kadry w następnym sezonie. Działacze skupiają się przede wszystkim na sprowadzeniu Mbappé, a w następnej kolejności przyjdzie czas na przedłużanie umów oraz ewentualne pożegnania.</description>
-    </item>
-    
-    <item>
-        <title>Slavko Vinčić na finał Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129596-slavko-vincic-na-final-ligi-mistrzow</link>
-        <pubDate>Mon, 13 May 2024 16:32:00 GMT</pubDate>
-        <description>Dla Słoweńca będzie to dopiero pierwszy mecz Realu Madryt.</description>
     </item>
     
 </channel>
