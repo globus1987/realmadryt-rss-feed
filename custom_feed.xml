@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 May 2024 18:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 18:53:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona vs Sociedad: Katalończycy walczą o Superpuchar</title>
+        <link>https://www.realmadryt.pl/news/129602-barcelona-vs-sociedad-katalonczycy-walcza-o-superpuchar</link>
+        <pubDate>Mon, 13 May 2024 20:50:00 GMT</pubDate>
+        <description>O 21:00 rozpocznie się starcie pomiędzy Barceloną a Sociedadem na Estadi Olímpic Lluís Companys. Drużyna Xaviego ma szansę przegonić Gironę, z którą walczy o awans do kolejnego Superpucharu Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Czarodziej Brahim</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129590-kadra-realu-madryt-na-deportivo-alaves</link>
         <pubDate>Mon, 13 May 2024 14:20:00 GMT</pubDate>
         <description>Carlo Ancelotti poinformował, kto będzie mógł zagrać w spotkaniu z Deportivo Alavés na Santiago Bernabéu. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Mamy jeszcze wiele do powiedzenia</title>
-        <link>https://www.realmadryt.pl/news/129582-mateo-mamy-jeszcze-wiele-do-powiedzenia</link>
-        <pubDate>Mon, 13 May 2024 13:40:00 GMT</pubDate>
-        <description>Chus Mateo i Vincent Poirier podsumowali krótko wygrany mecz z Baskonią i mówili o tym, co teraz nadchodzi, czyli ćwierćfinały Ligi Endesa i Final Four Euroligi.</description>
     </item>
     
 </channel>
