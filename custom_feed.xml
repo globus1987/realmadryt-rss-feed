@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 May 2024 08:39:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 08:53:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 13 maja</title>
+        <link>https://www.realmadryt.pl/news/129580-kartka-z-kalendarza-13-maja</link>
+        <pubDate>Mon, 13 May 2024 10:49:00 GMT</pubDate>
+        <description>Pierwszy oficjalny mecz w historii, półfinały w Pucharze Europy, mistrzowska celebracja i urodziny jedynego oficjalnego stowarzyszenia Realu Madryt w Polsce. Co działo się 13 maja?</description>
+    </item>
     
     <item>
         <title>Nacho: Tylko przez to nigdy nie będę żałował, że przedłużyłem umowę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129556-100-zwyciestwo-camavingi-w-realu-madryt</link>
         <pubDate>Sun, 12 May 2024 21:10:00 GMT</pubDate>
         <description>We wczorajszym meczu z Granadą Eduardo Camavinga odniósł swoje 100. zwycięstwo w Realu Madryt. Jubileusz świętował także Toni kroos.</description>
-    </item>
-    
-    <item>
-        <title>Drugie miejsce dla Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/129579-drugie-miejsce-dla-realu-madryt</link>
-        <pubDate>Sun, 12 May 2024 20:33:00 GMT</pubDate>
-        <description>Real Madryt wykonał swoje dzisiejsze zadanie, ale Unicaja się nie potknęła i to ona zajęła pierwszą pozycję w sezonie zasadniczym. Baskonia natomiast po raz pierwszy w historii nie zagra w play-offach.</description>
     </item>
     
 </channel>
