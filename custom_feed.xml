@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 22:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 23:17:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129642-dzisiejsze-okladki</link>
+        <pubDate>Wed, 15 May 2024 00:58:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i plany transferowe Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Do 1 czerwca podejdziemy w maksymalnej dyspozycji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129621-ancelotti-jedynym-zagrozonym-zawieszeniem</link>
         <pubDate>Tue, 14 May 2024 19:00:00 GMT</pubDate>
         <description>Królewscy przystępują do meczu z Deportivo Alavés z jednym zagrożonym zawieszeniem. Za tydzień zagrają z Villarrealem.</description>
-    </item>
-    
-    <item>
-        <title>Obrona kluczowa w obu polach karnych</title>
-        <link>https://www.realmadryt.pl/news/129598-obrona-kluczowa-w-obu-polach-karnych</link>
-        <pubDate>Tue, 14 May 2024 18:15:00 GMT</pubDate>
-        <description>W sezonie 2023/24 obrona Realu Madryt nie wyróżnia się tylko w zadaniach defensywnych, ale również w ataku. Dani Carvajal notuje najlepsze liczby w swojej karierze, a Nacho, Antonio Rüdiger i Lucas Vázquez byli kluczowi w ostatnim Klasyku oraz w starciach z Manchesterem City i Bayernem Monachium.</description>
     </item>
     
 </channel>
