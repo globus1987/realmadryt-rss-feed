@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 21:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 21:40:04 GMT</lastBuildDate>
     
     <item>
-        <title>Do przerwy 3:0</title>
-        <link>https://www.realmadryt.pl/news/129635-do-przerwy-3-0</link>
+        <title>Vinícius: Jestem wielbicielem Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/129638-vinicius-jestem-wielbicielem-bellinghama</link>
+        <pubDate>Tue, 14 May 2024 23:37:00 GMT</pubDate>
+        <description>Vinícius Júnior po ligowym meczu z Deportivo Alavés udzielił wywiadu Real Madrid TV. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Santiago Bernabéu.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius MVP meczu z Alavés</title>
+        <link>https://www.realmadryt.pl/news/129637-vinicius-mvp-meczu-z-alaves</link>
+        <pubDate>Tue, 14 May 2024 23:32:00 GMT</pubDate>
+        <description>Vinícius Júnior był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania z Deportivo Alavés.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Alavés</title>
+        <link>https://www.realmadryt.pl/news/129634-ocen-pilkarzy-po-meczu-z-alaves</link>
+        <pubDate>Tue, 14 May 2024 23:26:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Łatwo, przyjemnie i z manitą</title>
+        <link>https://www.realmadryt.pl/news/129635-latwo-przyjemnie-i-z-manita</link>
         <pubDate>Tue, 14 May 2024 22:21:00 GMT</pubDate>
-        <description>W meczu 36. kolejki La Ligi Real Madryt prowadzi z Deportivo Alavés 3:0. Gole strzelili Jude Bellingham, Vinicius Júnior i Fede Valverde.</description>
+        <description>W meczu 36. kolejki La Ligi Real Madryt wygrał z Deportivo Alavés 5:0. Gole strzelili Vinicius Júnior (dwa), Jude Bellingham, Fede Valverde i Arda Güler.</description>
     </item>
     
     <item>
@@ -53,27 +74,6 @@
         <link>https://www.realmadryt.pl/news/129627-mario-martin-oczko-w-glowie-davide-ancelottiego</link>
         <pubDate>Tue, 14 May 2024 17:39:00 GMT</pubDate>
         <description>Mario Martín w szkółce Realu przebywa od sezonu 2015/16. Młody pomocnik Castilli dzięki swej prostocie i codziennej pracy jest jednym z najbardziej cenionych graczy cantery.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Varane odchodzi z Manchesteru United</title>
-        <link>https://www.realmadryt.pl/news/129626-oficjalnie-varane-odchodzi-z-manchesteru-united</link>
-        <pubDate>Tue, 14 May 2024 17:30:00 GMT</pubDate>
-        <description>Po trzech latach spędzonych na Old Trafford Raphaël Varane odejdzie z Manchesteru United. Wcześniej przez 10 lat Francuz reprezentował barwy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kepa pożegna się z Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/129625-kepa-pozegna-sie-z-bernabeu</link>
-        <pubDate>Tue, 14 May 2024 17:15:00 GMT</pubDate>
-        <description>Kepa szykuje się do swojego ostatniego meczu dla Realu Madryt, to już pewne. Nie wiadomo jednak, na którą z pozostałych ligowych potyczek padnie. Niewykluczone, że ujrzymy go na murawie w dzisiejszym starciu z Deportivo Alavés.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 36. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129609-telewizyjny-terminarz-36-kolejki-la-ligi</link>
-        <pubDate>Tue, 14 May 2024 17:00:00 GMT</pubDate>
-        <description>Real Madryt już dziś zagra przedostatni domowy mecz w tym sezonie. Rywalem Królewskich będzie Deportivo Alavés. W tej kolejce możemy poznać kolejne ważne rozstrzygnięcia w dole tabeli.</description>
     </item>
     
 </channel>
