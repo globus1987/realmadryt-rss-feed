@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 07:18:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 07:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/129608-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 14 May 2024 09:30:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 35. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Alavés: Przewidywane składy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129602-barcelona-vs-sociedad-katalonczycy-walcza-o-superpuchar</link>
         <pubDate>Mon, 13 May 2024 20:50:00 GMT</pubDate>
         <description>O 21:00 rozpocznie się starcie pomiędzy Barceloną a Sociedadem na Estadi Olímpic Lluís Companys. Drużyna Xaviego ma szansę przegonić Gironę, z którą walczy o awans do kolejnego Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Czarodziej Brahim</title>
-        <link>https://www.realmadryt.pl/news/129575-czarodziej-brahim</link>
-        <pubDate>Mon, 13 May 2024 20:10:00 GMT</pubDate>
-        <description>Andaluzyjczyk zachwycił w sobotniej rywalizacji z Granadą i po raz piąty w tym sezonie ligowym otrzymał nagrodę dla najlepszego zawodnika meczu. To jego najlepsza kampania w karierze pod względem notowanych liczb, mimo tego, że rozpoczynał ją jako głęboki rezerwowy.</description>
     </item>
     
 </channel>
