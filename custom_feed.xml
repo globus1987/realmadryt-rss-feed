@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 07:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 08:25:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 14 maja</title>
+        <link>https://www.realmadryt.pl/news/129606-kartka-z-kalendarza-14-maja</link>
+        <pubDate>Tue, 14 May 2024 10:24:00 GMT</pubDate>
+        <description>Wygrana z Sevillą sprzed lat, zwycięstwo z Deportivo, które nie dało mistrzostwa i bolesna porażka w Turynie po niewykorzystanym rzucie karnym. Co działo się 14 maja?</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129604-oficjalnie-krolewscy-pokaza-puchar-za-mistrzostwo-przed-meczem-z-alaves</link>
         <pubDate>Mon, 13 May 2024 20:59:00 GMT</pubDate>
         <description>Przed rozpoczęciem spotkania z Baskami Real Madryt zaprezentuje kibicom na Santiago Bernabéu puchar za wywalczenie mistrzostwa Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona vs Sociedad: Katalończycy walczą o Superpuchar</title>
-        <link>https://www.realmadryt.pl/news/129602-barcelona-vs-sociedad-katalonczycy-walcza-o-superpuchar</link>
-        <pubDate>Mon, 13 May 2024 20:50:00 GMT</pubDate>
-        <description>O 21:00 rozpocznie się starcie pomiędzy Barceloną a Sociedadem na Estadi Olímpic Lluís Companys. Drużyna Xaviego ma szansę przegonić Gironę, z którą walczy o awans do kolejnego Superpucharu Hiszpanii.</description>
     </item>
     
 </channel>
