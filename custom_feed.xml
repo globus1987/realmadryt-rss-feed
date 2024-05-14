@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 14:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 14:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pięciu muszkieterów</title>
+        <link>https://www.realmadryt.pl/news/129594-pieciu-muszkieterow</link>
+        <pubDate>Tue, 14 May 2024 16:20:00 GMT</pubDate>
+        <description>Pierwszy był Rodrygo, drugi Bellingham, a 88. i 89. Brahim. Gdy Benzema odchodził do Arabii Saudyjskiej, a wizja sprowadzenia Mbappé stawała się coraz bardziej mętna, zwątpienie dotyczące siły rażenia było naturalne. Ancelotti zdołał jednak zebrać pięciu muszkieterów, którzy pozwolili wyzbyć się wszelkich obaw.</description>
+    </item>
     
     <item>
         <title>Kolejne pełne zdjęcie wyjazdowej koszulki na nowy sezon</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129619-real-zorganizuje-ogladanie-finalu-na-santiago-bernabeu</link>
         <pubDate>Tue, 14 May 2024 12:45:00 GMT</pubDate>
         <description>Na stadionie ponownie zostaną rozstawione wielkie telebimy, na których kibice będą mogli oglądać finał rozgrywany na Wembley. Podobna inicjatywa była też organizowana w ostatnich latach.</description>
-    </item>
-    
-    <item>
-        <title>Przodownicy pracy</title>
-        <link>https://www.realmadryt.pl/news/129607-przodownicy-pracy</link>
-        <pubDate>Tue, 14 May 2024 12:15:00 GMT</pubDate>
-        <description>W każdej firmie bądź zakładzie pracy zawsze funkcjonuje ktoś, kto wybija się ponad szarą pracowniczo-robotniczą normę. Nic się w tej kwestii nie zmieniło, mimo upływu wielu lat od czasów, kiedy afirmacja takiej postawy oddziaływała z największą siłą.</description>
     </item>
     
 </channel>
