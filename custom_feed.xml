@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 09:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 09:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real będzie gościem finału, ale zagra na biało</title>
+        <link>https://www.realmadryt.pl/news/129618-real-bedzie-gosciem-finalu-ale-zagra-na-bialo</link>
+        <pubDate>Tue, 14 May 2024 11:35:00 GMT</pubDate>
+        <description>UEFA odsłania kolejne karty przed finałem Ligi Mistrzów na Wembley. Dziś dowiedzieliśmy się, w jakich strojach wystąpią zawodnicy obu drużyn.</description>
+    </item>
     
     <item>
         <title>Gol i asysta Endricka, dobry mecz Petera</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129605-35-kolejka-barcelona-odzyskuje-drugie-miejsce</link>
         <pubDate>Mon, 13 May 2024 22:58:00 GMT</pubDate>
         <description>W ostatnim meczu 35. kolejki La Ligi Barcelona pokonała Sociedad. To zwycięstwo pozwala Katalończykom wrócić na drugie miejsce w tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Campazzo, Tavares i Hezonja w drużynach sezonu Euroligi</title>
-        <link>https://www.realmadryt.pl/news/129601-campazzo-tavares-i-hezonja-w-druzynach-sezonu-euroligi</link>
-        <pubDate>Mon, 13 May 2024 22:42:00 GMT</pubDate>
-        <description>Facundo Campazzo znalazł się w Najlepszej Piątce Sezonu. Dwóch kolejnych graczy Realu Madryt, Edy Tavares i Mario Hezonja, trafili do Drugiej Najlepszej Piątki.</description>
     </item>
     
 </channel>
