@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 10:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 10:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real zorganizuje oglądanie finału na Santiago Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/129619-real-zorganizuje-ogladanie-finalu-na-santiago-bernabeu</link>
+        <pubDate>Tue, 14 May 2024 12:45:00 GMT</pubDate>
+        <description>Na stadionie ponownie zostaną rozstawione wielkie telebimy, na których kibice będą mogli oglądać finał rozgrywany na Wembley. Podobna inicjatywa była też organizowana w ostatnich latach.</description>
+    </item>
     
     <item>
         <title>Przodownicy pracy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129612-tebas-w-barcelonie-sa-yamal-pedri-czy-gavi-a-w-realu-vinicius-bellingham-i-bedzie-mbappe</link>
         <pubDate>Tue, 14 May 2024 01:13:00 GMT</pubDate>
         <description>Javier Tebas udzielił wywiadu argentyńskiemu Olé. Przedstawiamy wypowiedzi prezesa La Ligi z zapowiedzi tej rozmowy, które szybko stały się viralem.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129611-dzisiejsze-okladki</link>
-        <pubDate>Tue, 14 May 2024 00:45:00 GMT</pubDate>
-        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
