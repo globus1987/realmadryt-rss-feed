@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 10:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 11:15:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt rozlosował bilety na finał Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/129620-real-madryt-rozlosowal-bilety-na-final-ligi-mistrzow</link>
+        <pubDate>Tue, 14 May 2024 12:56:00 GMT</pubDate>
+        <description>Klub rozlosował bilety na finał dla swoich socios. Królewscy poinformowali też o dokładnym podziale wejściówek, jakie otrzymali na finał.</description>
+    </item>
     
     <item>
         <title>Real zorganizuje oglądanie finału na Santiago Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129603-ancelotti-na-ten-moment-ten-sezon-byl-dosyc-prosty</link>
         <pubDate>Tue, 14 May 2024 07:00:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym meczem La Ligi z Deportivo Alavés. Przedstawiamy zapis z tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: W Barcelonie są Yamal, Pedri czy Gavi, a w Realu Vinícius, Bellingham i będzie Mbappé</title>
-        <link>https://www.realmadryt.pl/news/129612-tebas-w-barcelonie-sa-yamal-pedri-czy-gavi-a-w-realu-vinicius-bellingham-i-bedzie-mbappe</link>
-        <pubDate>Tue, 14 May 2024 01:13:00 GMT</pubDate>
-        <description>Javier Tebas udzielił wywiadu argentyńskiemu Olé. Przedstawiamy wypowiedzi prezesa La Ligi z zapowiedzi tej rozmowy, które szybko stały się viralem.</description>
     </item>
     
 </channel>
