@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 May 2024 13:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 13:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Real Madryt zmaga się z chorobą”</title>
+        <link>https://www.realmadryt.pl/news/129617-real-madryt-zmaga-sie-z-choroba</link>
+        <pubDate>Tue, 14 May 2024 15:40:00 GMT</pubDate>
+        <description>Felieton został opublikowany na blogu Gabriela Miguela Bueno Marichala. W oryginale nosi tytuł „La Plaza de los Sagrados Vodafones” (Plac Najświętszych Telefonów, jako nawiązanie do Plaza Sagrados Corazones, Placu Najświętszego Serca zlokalizowanego przy Estadio Santiago Bernabéu, na którym gromadzą się kibice). Madrytczyk przedstawia swoje spojrzenie na aktualną sytuację klubu.</description>
+    </item>
     
     <item>
         <title>Luis Enrique: Mbappé do Realu? Deszczowe dni przypominają mi o Gijón</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129618-real-bedzie-gosciem-finalu-ale-zagra-na-bialo</link>
         <pubDate>Tue, 14 May 2024 11:35:00 GMT</pubDate>
         <description>UEFA odsłania kolejne karty przed finałem Ligi Mistrzów na Wembley. Dziś dowiedzieliśmy się, w jakich strojach wystąpią zawodnicy obu drużyn.</description>
-    </item>
-    
-    <item>
-        <title>Gol i asysta Endricka, dobry mecz Petera</title>
-        <link>https://www.realmadryt.pl/news/129615-gol-i-asysta-endricka-dobry-mecz-petera</link>
-        <pubDate>Tue, 14 May 2024 11:12:00 GMT</pubDate>
-        <description>Endrick strzelił gola i zanotował asystę w meczu Copa Libertadores przeciwko urugwajskiemu Liverpool FC, a Peter González był jednym z najlepszych piłkarzy Valencii w starciu z Rayo. Niezłe zawody rozegrał też Rafa Marín. Jak poszło pozostałym?</description>
     </item>
     
 </channel>
