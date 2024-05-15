@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 May 2024 22:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 23:20:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129673-dzisiejsze-okladki</link>
+        <pubDate>Thu, 16 May 2024 00:58:00 GMT</pubDate>
+        <description>Głosowanie nad VAR-em w Anglii, osiągnięcia Viniego i Bellinghama, plany transferowe Barcelony oraz wypowiedzi Xaviego to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze rozbili Gran Canarię</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129646-luis-garcia-dla-mniejszych-druzyn-mecze-tutaj-to-tortury</link>
         <pubDate>Wed, 15 May 2024 16:15:00 GMT</pubDate>
         <description>Trener Deportivo Alavés, Luis García Plaza, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Najbliższy trening dopiero w sobotę</title>
-        <link>https://www.realmadryt.pl/news/129648-najblizszy-trening-dopiero-w-sobote</link>
-        <pubDate>Wed, 15 May 2024 15:30:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero w sobotę i wówczas rozpoczną przygotowania do meczu z Villarrealem, z którym zmierzą się w niedzielę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
     </item>
     
 </channel>
