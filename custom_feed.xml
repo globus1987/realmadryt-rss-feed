@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 May 2024 15:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 15:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pintus ma plan na finał Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/129662-pintus-ma-plan-na-final-ligi-mistrzow</link>
+        <pubDate>Wed, 15 May 2024 17:45:00 GMT</pubDate>
+        <description>Od wtorku Real rozpocznie tygodniowy miniokres przygotowawczy w Valdebebas przed finałem na Wembley.</description>
+    </item>
     
     <item>
         <title>Mateo: Wolałbym, żeby ćwierćfinały nie były przed Final Four</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129657-porownania-z-bialym-klubem-sa-teraz-ohydne</link>
         <pubDate>Wed, 15 May 2024 12:46:00 GMT</pubDate>
         <description>Víctor Font, były kandydat na prezesa Barcelony, udzielił wywiadu w Catalunya Ràdio.</description>
-    </item>
-    
-    <item>
-        <title>Mario Martín: Wszyscy piłkarze są fantastyczni i ogromnie mnie wspierają</title>
-        <link>https://www.realmadryt.pl/news/129650-mario-martin-wszyscy-pilkarze-sa-fantastyczni-i-ogromnie-mnie-wspieraja</link>
-        <pubDate>Wed, 15 May 2024 12:02:00 GMT</pubDate>
-        <description>We wczorajszym spotkaniu z Deportivo Alavés Mario Martín zmienił w 82. miniucie Fede Valverde i tym samym zanotował ligowy debiut w koszulce Realu Madryt. Po meczu pomocnik Castilli podzielił się swoimi odczuciami w wywiadzie udzielonym klubowej telewizji.</description>
     </item>
     
 </channel>
