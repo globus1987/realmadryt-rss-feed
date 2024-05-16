@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 May 2024 10:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 10:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>30 ligowych meczów z rzędu bez porażki</title>
+        <link>https://www.realmadryt.pl/news/129664-30-ligowych-meczow-z-rzedu-bez-porazki</link>
+        <pubDate>Thu, 16 May 2024 12:34:00 GMT</pubDate>
+        <description>Wygrywając we wtorek z Deportivo Alavés piłkarze Realu Madryt zanotowali 30. ligowy mecz z rzędu bez porażki. Do wyrównania klubowego rekordu Leo Beenhakkera z 1989 roku brakuje już tylko jednego spotkania.</description>
+    </item>
     
     <item>
         <title>Mateo: Gran Canaria jest zraniona i z pewnością zareaguje</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129673-dzisiejsze-okladki</link>
         <pubDate>Thu, 16 May 2024 00:58:00 GMT</pubDate>
         <description>Głosowanie nad VAR-em w Anglii, osiągnięcia Viniego i Bellinghama, plany transferowe Barcelony oraz wypowiedzi Xaviego to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze rozbili Gran Canarię</title>
-        <link>https://www.realmadryt.pl/news/129668-koszykarze-rozbili-gran-canarie</link>
-        <pubDate>Wed, 15 May 2024 22:33:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt nie dali Gran Canarii żadnych szans, wygrywając bardzo wysoko. Rywalizacja toczy się do dwóch zwycięstw, więc w piątek Królewscy będą już walczyć o awans do półfinału.</description>
     </item>
     
 </channel>
