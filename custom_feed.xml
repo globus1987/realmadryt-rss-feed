@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 May 2024 19:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 19:27:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lucas coraz bliższy nowej umowy</title>
+        <link>https://www.realmadryt.pl/news/129684-lucas-coraz-blizszy-nowej-umowy</link>
+        <pubDate>Thu, 16 May 2024 21:20:00 GMT</pubDate>
+        <description>Każdy klub chciałby mieć w swoich szeregach takiego zawodnika jak Lucas Vázquez. 32-latek jest jednym z kapitanów bez opaski, który cieszy się olbrzymim szacunkiem w szatni. Obecny sezon jest jego dziewiątym w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Tchouaméni, Camavinga i Mendy powołani na EURO</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129678-la-gazzetta-dello-sport-inter-bedzie-chcial-skusic-nacho</link>
         <pubDate>Thu, 16 May 2024 15:00:00 GMT</pubDate>
         <description>Włosi ruszą po kapitana Realu Madryt? La Gazzetta dello Sport sugeruje, że jest to bardzo prawdopodobny scenariusz.</description>
-    </item>
-    
-    <item>
-        <title>Real zamieszka w hotelu oddalonym o 30 minut jazdy od Wembley</title>
-        <link>https://www.realmadryt.pl/news/129677-real-zamieszka-w-hotelu-oddalonym-o-30-minut-jazdy-od-wembley</link>
-        <pubDate>Thu, 16 May 2024 14:09:00 GMT</pubDate>
-        <description>Królewscy chcą uniknąć londyńskiego hałasu i w spokoju przygotować się do finału, podobnie jak przed dwoma laty w Paryżu.</description>
     </item>
     
 </channel>
