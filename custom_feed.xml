@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 May 2024 17:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 17:38:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Facundo Campazzo MVP Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/129671-facundo-campazzo-mvp-ligi-endesa</link>
+        <pubDate>Thu, 16 May 2024 19:30:00 GMT</pubDate>
+        <description>Facundo Campazzo został wybrany MVP Ligi Endesa. Ta nagroda jest potwierdzeniem bardzo dobrej gry Argentyńczyka po powrocie do Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Athenea 2028</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129676-ruediger-i-kroos-powolani-na-euro</link>
         <pubDate>Thu, 16 May 2024 13:18:00 GMT</pubDate>
         <description>Selekcjoner Julian Nagelsmann powołał 27 piłkarzy, czyli o jednego więcej niż dopuszczają przepisy. Federacja z tego powodu podkreśliła, że ta lista jest wstępna. Kapitanem zespołu jest İlkay Gündoğan.</description>
-    </item>
-    
-    <item>
-        <title>30 ligowych meczów z rzędu bez porażki</title>
-        <link>https://www.realmadryt.pl/news/129664-30-ligowych-meczow-z-rzedu-bez-porazki</link>
-        <pubDate>Thu, 16 May 2024 12:34:00 GMT</pubDate>
-        <description>Wygrywając we wtorek z Deportivo Alavés piłkarze Realu Madryt zanotowali 30. ligowy mecz z rzędu bez porażki. Do wyrównania klubowego rekordu Leo Beenhakkera z 1989 roku brakuje już tylko jednego spotkania.</description>
     </item>
     
 </channel>
