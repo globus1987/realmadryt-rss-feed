@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 May 2024 22:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 22:53:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129698-dzisiejsze-okladki</link>
+        <pubDate>Fri, 17 May 2024 00:48:00 GMT</pubDate>
+        <description>Powołania Hiszpanii na EURO, cele Kyliana Mbappé i sytuacja Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>36. kolejka: Barcelona bliżej 2. miejsca, Atlético z awansem do Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129679-southgate-beckham-zyl-w-innym-swiecie-i-teraz-to-swiat-bellinghama</link>
         <pubDate>Thu, 16 May 2024 16:42:00 GMT</pubDate>
         <description>Gareth Southgate udzielił wywiadu L’Équipe. Przedstawiamy tłumaczenie części rozmowy z selekcjonerem Anglii dotyczącej Jude'a Bellinghama.</description>
-    </item>
-    
-    <item>
-        <title>Lenny Kravitz zagra przed finałem Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129681-lenny-kravitz-zagra-przed-finalem-ligi-mistrzow</link>
-        <pubDate>Thu, 16 May 2024 15:51:00 GMT</pubDate>
-        <description>Tym razem UEFA stawia na amerykańską gwiazdę muzyki.</description>
     </item>
     
 </channel>
