@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 May 2024 05:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 05:39:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koniec debaty</title>
+        <link>https://www.realmadryt.pl/news/129653-koniec-debaty</link>
+        <pubDate>Thu, 16 May 2024 07:25:00 GMT</pubDate>
+        <description>Ancelotti zamierza wystawić na Wembley Thibaut Courtois. Włoch nosi się z tym zamiarem już od dłuższego czasu, choć wokół wciąż pojawiały się wątpliwości, czy Belg będzie fizycznie gotowy. Odpowiedź jest jednoznaczna. Tak, jest.</description>
+    </item>
     
     <item>
         <title>Kroos: Złość Bayernu? Trzeba było pozwolić dograć tę akcję do końca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129662-pintus-ma-plan-na-final-ligi-mistrzow</link>
         <pubDate>Wed, 15 May 2024 17:45:00 GMT</pubDate>
         <description>Od wtorku Real rozpocznie tygodniowy miniokres przygotowawczy w Valdebebas przed finałem na Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Wolałbym, żeby ćwierćfinały nie były przed Final Four</title>
-        <link>https://www.realmadryt.pl/news/129636-mateo-wolalbym-zeby-cwiercfinaly-nie-byly-przed-final-four</link>
-        <pubDate>Wed, 15 May 2024 17:00:00 GMT</pubDate>
-        <description>Chus Mateo wypowiadał się przed pierwszym spotkaniem z Gran Canarią w ćwierćfinale Ligi Endesa. Powiedział, że wolałby rozgrywać ćwierćfinały po Final Four Euroligi.</description>
     </item>
     
 </channel>
