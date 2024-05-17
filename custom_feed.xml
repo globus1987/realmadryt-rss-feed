@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 18:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 19:15:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klopp: Real Madryt znajdował sposób, aby wygrać</title>
+        <link>https://www.realmadryt.pl/news/129704-klopp-real-madryt-znajdowal-sposob-aby-wygrac</link>
+        <pubDate>Fri, 17 May 2024 20:55:00 GMT</pubDate>
+        <description>Jürgen Klopp na konferencji prasowej przed swoim ostatnim meczem w roli szkoleniowca The Reds odniósł się między innymi do dwóch finałów Champions League przegranych z Królewskimi.</description>
+    </item>
     
     <item>
         <title>Pozostający w cieniu, głodny wiedzy i bliski piłkarzom</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129693-lunin-powolany-do-reprezentacji</link>
         <pubDate>Fri, 17 May 2024 13:50:00 GMT</pubDate>
         <description>Serhij Rebrow ogłosił kadrę na zgrupowanie reprezentacji Ukrainy przed mistrzostwami Europy w Niemczech. Ostateczną kadrę Ukraińców na EURO poznamy na tydzień przed rozpoczęciem turnieju.</description>
-    </item>
-    
-    <item>
-        <title>Gramy do końca</title>
-        <link>https://www.realmadryt.pl/news/129654-gramy-do-konca</link>
-        <pubDate>Fri, 17 May 2024 12:43:00 GMT</pubDate>
-        <description>Chyba żaden inny zespół nie przechodzi przez tak dobre chwile, jak Real Madryt. Królewscy są już od kilkunastu dni mistrzami Hiszpanii oraz zakwalifikowali się do finału Ligi Mistrzów. Starcie z Deportivo Alavés stanowiło zaś kolejny dowód na to, że żaden z piłkarzy nie zamierza odpuszczać, nawet jeśli na jego szyi wisi już medal za triumf w ligowych rozgrywkach.</description>
     </item>
     
 </channel>
