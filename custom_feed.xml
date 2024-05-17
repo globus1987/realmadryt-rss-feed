@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 08:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 09:21:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 17 maja</title>
+        <link>https://www.realmadryt.pl/news/129691-kartka-z-kalendarza-17-maja</link>
+        <pubDate>Fri, 17 May 2024 11:01:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, inauguracja nowego stadionu, koniec kariery pierwszego galáctico, ostatni przegrany finał, koszykarski Puchar Europy, ważna wygrana w Vigo i lanie w Manchesterze. Co działo się 17 maja?</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129684-lucas-coraz-blizszy-nowej-umowy</link>
         <pubDate>Thu, 16 May 2024 21:20:00 GMT</pubDate>
         <description>Każdy klub chciałby mieć w swoich szeregach takiego zawodnika jak Lucas Vázquez. 32-latek jest jednym z kapitanów bez opaski, który cieszy się olbrzymim szacunkiem w szatni. Obecny sezon jest jego dziewiątym w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni, Camavinga i Mendy powołani na EURO</title>
-        <link>https://www.realmadryt.pl/news/129687-tchouameni-camavinga-i-mendy-powolani-na-euro</link>
-        <pubDate>Thu, 16 May 2024 20:31:00 GMT</pubDate>
-        <description>Selekcjoner Didier Deschamps powołał 25 piłkarzy na EURO. Na liście znalazło się trzech piłkarzy Realu Madryt.</description>
     </item>
     
 </channel>
