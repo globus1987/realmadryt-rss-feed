@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 07:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 07:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga wystartuje 14 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/129700-la-liga-wystartuje-14-sierpnia</link>
+        <pubDate>Fri, 17 May 2024 09:19:00 GMT</pubDate>
+        <description>Sezon 2024/25 będzie stał pod znakiem jeszcze bardziej niż dotychczas napiętego terminarza. Natężenie wielu meczów obliguje władze La Ligi do przyśpieszenia startu rozgrywek już na 14 sierpnia.</description>
+    </item>
     
     <item>
         <title>Relevo: Alaba pojedzie na EURO</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129671-facundo-campazzo-mvp-ligi-endesa</link>
         <pubDate>Thu, 16 May 2024 19:30:00 GMT</pubDate>
         <description>Facundo Campazzo został wybrany MVP Ligi Endesa. Ta nagroda jest potwierdzeniem bardzo dobrej gry Argentyńczyka po powrocie do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Athenea 2028</title>
-        <link>https://www.realmadryt.pl/news/129689-oficjalnie-athenea-2028</link>
-        <pubDate>Thu, 16 May 2024 18:51:00 GMT</pubDate>
-        <description>Real Madryt oficjalnie potwierdził, że Athenea del Castillo przedłużyła kontrakt z klubem. Hiszpanka będzie występować w drużynie do 2028 roku.</description>
     </item>
     
 </channel>
