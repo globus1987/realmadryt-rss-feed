@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 22:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 23:19:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129712-dzisiejsze-okladki</link>
+        <pubDate>Sat, 18 May 2024 01:11:00 GMT</pubDate>
+        <description>Przyszłość Xaviego to główny na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt w półfinale Ligi Endesa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129702-euro-nie-dla-isco</link>
         <pubDate>Fri, 17 May 2024 15:49:00 GMT</pubDate>
         <description>Real Betis potwierdził poważną kontuzję hiszpańskiego pomocnika, który być może będzie musiał jeszcze przejść operację.</description>
-    </item>
-    
-    <item>
-        <title>Real rozważa przedłużenie umów Kroosa i Modricia</title>
-        <link>https://www.realmadryt.pl/news/129703-real-rozwaza-przedluzenie-umow-kroosa-i-modricia</link>
-        <pubDate>Fri, 17 May 2024 14:58:00 GMT</pubDate>
-        <description>Toni Kroos i Luka Modrić to niewątpliwie legendy Realu Madryt. Obaj zawodnicy mają kontrakty obowiązujące do 30 czerwca 2024 roku.</description>
     </item>
     
 </channel>
