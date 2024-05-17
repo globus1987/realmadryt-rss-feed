@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 07:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 08:23:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/129697-pichichi-zamora-asistencias</link>
+        <pubDate>Fri, 17 May 2024 10:10:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 36. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>La Liga wystartuje 14 sierpnia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129687-tchouameni-camavinga-i-mendy-powolani-na-euro</link>
         <pubDate>Thu, 16 May 2024 20:31:00 GMT</pubDate>
         <description>Selekcjoner Didier Deschamps powołał 25 piłkarzy na EURO. Na liście znalazło się trzech piłkarzy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Facundo Campazzo MVP Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/129671-facundo-campazzo-mvp-ligi-endesa</link>
-        <pubDate>Thu, 16 May 2024 19:30:00 GMT</pubDate>
-        <description>Facundo Campazzo został wybrany MVP Ligi Endesa. Ta nagroda jest potwierdzeniem bardzo dobrej gry Argentyńczyka po powrocie do Realu Madryt.</description>
     </item>
     
 </channel>
