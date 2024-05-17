@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 11:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 12:34:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po awans do półfinału</title>
+        <link>https://www.realmadryt.pl/news/129692-po-awans-do-polfinalu</link>
+        <pubDate>Fri, 17 May 2024 14:32:00 GMT</pubDate>
+        <description>Koszykarze Realu Madryt po raz drugi zagrają dzisiaj z Gran Canarią. Pierwsze spotkanie zdecydowanie wygrali, dlatego teraz mają szansę na wywalczenie awansu do półfinału.</description>
+    </item>
     
     <item>
         <title>Łunin powołany do reprezentacji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129696-marca-nacho-dostanie-powolanie-na-euro</link>
         <pubDate>Fri, 17 May 2024 07:25:00 GMT</pubDate>
         <description>Selekcjoner Hiszpanii ogłosi swoją listę na EURO dopiero w poniedziałek 27 maja. MARCA już dzisiaj podaje, że znajdzie się na niej Nacho.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: To, co na mnie czeka, będzie magiczne</title>
-        <link>https://www.realmadryt.pl/news/129699-mbappe-to-co-na-mnie-czeka-bedzie-magiczne</link>
-        <pubDate>Fri, 17 May 2024 05:30:00 GMT</pubDate>
-        <description>Kylian Mbappé w czwartek odsłonił w Paryżu swoją figurę woskową, która trafi do muzeum Madame Tussauds w Berlinie. Przedstawiamy wypowiedzi napastnika Paris Saint-Germain z tego wydarzenia na temat swojej przyszłości.</description>
     </item>
     
 </channel>
