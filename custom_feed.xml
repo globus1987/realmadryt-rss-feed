@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 10:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 10:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gramy do końca</title>
+        <link>https://www.realmadryt.pl/news/129654-gramy-do-konca</link>
+        <pubDate>Fri, 17 May 2024 12:43:00 GMT</pubDate>
+        <description>Chyba żaden inny zespół nie przechodzi przez tak dobre chwile, jak Real Madryt. Królewscy są już od kilkunastu dni mistrzami Hiszpanii oraz zakwalifikowali się do finału Ligi Mistrzów. Starcie z Deportivo Alavés stanowiło zaś kolejny dowód na to, że żaden z piłkarzy nie zamierza odpuszczać, nawet jeśli na jego szyi wisi już medal za triumf w ligowych rozgrywkach.</description>
+    </item>
     
     <item>
         <title>Deschamps: Mendy zyskał na efektywności defensywnej</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129698-dzisiejsze-okladki</link>
         <pubDate>Fri, 17 May 2024 00:48:00 GMT</pubDate>
         <description>Powołania Hiszpanii na EURO, cele Kyliana Mbappé i sytuacja Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>36. kolejka: Barcelona bliżej 2. miejsca, Atlético z awansem do Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129694-36-kolejka-barcelona-blizej-2-miejsca-atletico-z-awansem-do-ligi-mistrzow</link>
-        <pubDate>Thu, 16 May 2024 23:31:00 GMT</pubDate>
-        <description>Zakończyła się rywalizacja w 36. kolejce Primera División i zapadają kolejne rozstrzygnięcia.</description>
     </item>
     
 </channel>
