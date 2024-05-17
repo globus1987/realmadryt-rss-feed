@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 20:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 20:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt w półfinale Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/129709-real-madryt-w-polfinale-ligi-endesa</link>
+        <pubDate>Fri, 17 May 2024 22:26:00 GMT</pubDate>
+        <description>Koszykarze Realu Madryt pokonali Gran Canarię po raz drugi i zameldowali się w półfinale Ligi Endesa. Drugie spotkanie było o wiele trudniejsze i niewiele brakowało do niespodzianki.</description>
+    </item>
     
     <item>
         <title>MARCA: Prezentacja Mbappé przed EURO</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129703-real-rozwaza-przedluzenie-umow-kroosa-i-modricia</link>
         <pubDate>Fri, 17 May 2024 14:58:00 GMT</pubDate>
         <description>Toni Kroos i Luka Modrić to niewątpliwie legendy Realu Madryt. Obaj zawodnicy mają kontrakty obowiązujące do 30 czerwca 2024 roku.</description>
-    </item>
-    
-    <item>
-        <title>Po awans do półfinału</title>
-        <link>https://www.realmadryt.pl/news/129692-po-awans-do-polfinalu</link>
-        <pubDate>Fri, 17 May 2024 14:32:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt po raz drugi zagrają dzisiaj z Gran Canarią. Pierwsze spotkanie zdecydowanie wygrali, dlatego teraz mają szansę na wywalczenie awansu do półfinału.</description>
     </item>
     
 </channel>
