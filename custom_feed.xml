@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 11:38:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 11:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/129693-lunin-powolany-do-reprezentacji</link>
+        <pubDate>Fri, 17 May 2024 13:50:00 GMT</pubDate>
+        <description>Serhij Rebrow ogłosił kadrę na zgrupowanie reprezentacji Ukrainy przed mistrzostwami Europy w Niemczech. Ostateczną kadrę Ukraińców na EURO poznamy na tydzień przed rozpoczęciem turnieju.</description>
+    </item>
     
     <item>
         <title>Gramy do końca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129699-mbappe-to-co-na-mnie-czeka-bedzie-magiczne</link>
         <pubDate>Fri, 17 May 2024 05:30:00 GMT</pubDate>
         <description>Kylian Mbappé w czwartek odsłonił w Paryżu swoją figurę woskową, która trafi do muzeum Madame Tussauds w Berlinie. Przedstawiamy wypowiedzi napastnika Paris Saint-Germain z tego wydarzenia na temat swojej przyszłości.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129698-dzisiejsze-okladki</link>
-        <pubDate>Fri, 17 May 2024 00:48:00 GMT</pubDate>
-        <description>Powołania Hiszpanii na EURO, cele Kyliana Mbappé i sytuacja Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
