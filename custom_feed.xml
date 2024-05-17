@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 May 2024 14:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 14:53:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nagelsmann: Kiedy obejmujesz Toniego, to wydaje się być jak ze stali</title>
+        <link>https://www.realmadryt.pl/news/129701-nagelsmann-kiedy-obejmujesz-toniego-to-wydaje-sie-byc-jak-ze-stali</link>
+        <pubDate>Fri, 17 May 2024 16:40:00 GMT</pubDate>
+        <description>Julian Nagelsmann odpowiadał na pytania dziennikarzy podczas konferencji prasowej, podczas której ogłosił kadrę na EURO. Przedstawiamy wypowiedzi selekcjonera Niemców dotyczące piłkarzy Realu Madryt i finału Ligi Mistrzów, w którym Królewscy zagrają z Borussią Dortmund.</description>
+    </item>
     
     <item>
         <title>EURO nie dla Isco</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129700-la-liga-wystartuje-14-sierpnia</link>
         <pubDate>Fri, 17 May 2024 09:19:00 GMT</pubDate>
         <description>Sezon 2024/25 będzie stał pod znakiem jeszcze bardziej niż dotychczas napiętego terminarza. Natężenie wielu meczów obliguje władze La Ligi do przyśpieszenia startu rozgrywek już na 14 sierpnia.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Alaba pojedzie na EURO</title>
-        <link>https://www.realmadryt.pl/news/129680-relevo-alaba-pojedzie-na-euro</link>
-        <pubDate>Fri, 17 May 2024 09:07:00 GMT</pubDate>
-        <description>Defensor Realu Madryt nie ma szans zagrać na mistrzostwach Europy, jednak – jak twierdzi portal Relevo – selekcjoner Austriaków, Ralf Rangnick, widzi Alabę w swoim sztabie podczas turnieju rozgrywanego w Niemczech.</description>
     </item>
     
 </channel>
