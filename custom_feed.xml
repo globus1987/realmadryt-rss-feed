@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 May 2024 19:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 19:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gruby problem Borussii</title>
+        <link>https://www.realmadryt.pl/news/129730-gruby-problem-borussii</link>
+        <pubDate>Sat, 18 May 2024 21:47:00 GMT</pubDate>
+        <description>Transfer Niklasa Süle do Borussii Dortmund latem 2022 roku był postrzegany jako uderzenie pięścią w stół. Obrońcy kończył się kontrakt z Bayernem, ale zamiast go przedłużyć, wolał przenieść się za darmo na Signal Iduna Park.</description>
+    </item>
     
     <item>
         <title>Zwycięstwo Castilli po golu De Leóna</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129717-relevo-mbappe-jest-w-kontakcie-z-pilkarzami-realu</link>
         <pubDate>Sat, 18 May 2024 15:47:00 GMT</pubDate>
         <description>Niewykluczone, że Kylian mógłby zostać zaprezentowany przed mistrzostwami Europy, choć jest to zależne od PSG. Pomysł jest taki, żeby przynajmniej tymczasowo gracz zamieszkał w dzielnicy La Moraleja.</description>
-    </item>
-    
-    <item>
-        <title>Przedostatni mecz sezonu dla Castilli</title>
-        <link>https://www.realmadryt.pl/news/129720-przedostatni-mecz-sezonu-dla-castilli</link>
-        <pubDate>Sat, 18 May 2024 15:00:00 GMT</pubDate>
-        <description>W 37. kolejce Primera Federación Castilla zagra z Intercity. Królewscy już o nic nie walczą, więc będą mogli zagrać bez dodatkowej presji.</description>
     </item>
     
 </channel>
