@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 May 2024 18:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 19:13:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo Castilli po golu De Leóna</title>
+        <link>https://www.realmadryt.pl/news/129737-zwyciestwo-castilli-po-golu-de-leona</link>
+        <pubDate>Sat, 18 May 2024 21:03:00 GMT</pubDate>
+        <description>W przedostatniej kolejce Primera Federación Castilla pokonała Intercity 1:0 po trafieniu De Leóna. Trzy punkty pozwoliły na przeskoczenie w tabeli rezerw Atlético Madryt.</description>
+    </item>
     
     <item>
         <title>Kadra Villarrealu na mecz z Realem Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129720-przedostatni-mecz-sezonu-dla-castilli</link>
         <pubDate>Sat, 18 May 2024 15:00:00 GMT</pubDate>
         <description>W 37. kolejce Primera Federación Castilla zagra z Intercity. Królewscy już o nic nie walczą, więc będą mogli zagrać bez dodatkowej presji.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Villarreal</title>
-        <link>https://www.realmadryt.pl/news/129726-kadra-na-villarreal</link>
-        <pubDate>Sat, 18 May 2024 14:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Villarrealem na Estadio de la Cerámica. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
     </item>
     
 </channel>
