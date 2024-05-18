@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 May 2024 10:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 11:14:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/129724-ostatni-trening-przed-villarrealem</link>
+        <pubDate>Sat, 18 May 2024 13:10:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Villarrealem. Razem z drużyną nie trenowało dwóch zawodników.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jutro zagra Łunin</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129712-dzisiejsze-okladki</link>
         <pubDate>Sat, 18 May 2024 01:11:00 GMT</pubDate>
         <description>Przyszłość Xaviego to główny na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt w półfinale Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/129709-real-madryt-w-polfinale-ligi-endesa</link>
-        <pubDate>Fri, 17 May 2024 22:26:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt pokonali Gran Canarię po raz drugi i zameldowali się w półfinale Ligi Endesa. Drugie spotkanie było o wiele trudniejsze i niewiele brakowało do niespodzianki.</description>
     </item>
     
 </channel>
