@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 May 2024 22:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 22:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129738-dzisiejsze-okladki</link>
+        <pubDate>Sun, 19 May 2024 00:45:00 GMT</pubDate>
+        <description>Przyszłość Luki Modricia, mecz Realu Madryt i sytuacja Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Gruby problem Borussii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129711-mateo-ta-druzyna-walczy-i-nigdy-nie-daje-za-wygrana</link>
         <pubDate>Sat, 18 May 2024 16:34:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko spotkanie z Gran Canarią. Był zadowolony z awansu do półfinału i mówił, że to jest najlepszy sposób, by podejść do Final Four Euroligi.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Mbappé jest w kontakcie z piłkarzami Realu</title>
-        <link>https://www.realmadryt.pl/news/129717-relevo-mbappe-jest-w-kontakcie-z-pilkarzami-realu</link>
-        <pubDate>Sat, 18 May 2024 15:47:00 GMT</pubDate>
-        <description>Niewykluczone, że Kylian mógłby zostać zaprezentowany przed mistrzostwami Europy, choć jest to zależne od PSG. Pomysł jest taki, żeby przynajmniej tymczasowo gracz zamieszkał w dzielnicy La Moraleja.</description>
     </item>
     
 </channel>
