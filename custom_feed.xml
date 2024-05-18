@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 May 2024 10:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 10:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jutro zagra Łunin</title>
+        <link>https://www.realmadryt.pl/news/129722-ancelotti-jutro-zagra-lunin</link>
+        <pubDate>Sat, 18 May 2024 12:28:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Villarrealem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się na portalu tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Florentino Pérez przechodzi do działania</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129709-real-madryt-w-polfinale-ligi-endesa</link>
         <pubDate>Fri, 17 May 2024 22:26:00 GMT</pubDate>
         <description>Koszykarze Realu Madryt pokonali Gran Canarię po raz drugi i zameldowali się w półfinale Ligi Endesa. Drugie spotkanie było o wiele trudniejsze i niewiele brakowało do niespodzianki.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Prezentacja Mbappé przed EURO</title>
-        <link>https://www.realmadryt.pl/news/129707-marca-prezentacja-mbappe-przed-euro</link>
-        <pubDate>Fri, 17 May 2024 21:46:00 GMT</pubDate>
-        <description>Francuz chce jechać na turniej ze spokojną głową i dlatego wolałby, aby wszystko zostało dopięte na ostatni guzik jeszcze przed startem Mistrzostw Europy w Niemczech.</description>
     </item>
     
 </channel>
