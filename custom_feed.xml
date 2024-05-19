@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 May 2024 18:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 19:14:06 GMT</lastBuildDate>
     
     <item>
-        <title>Do przerwy 4:1 dla Realu</title>
-        <link>https://www.realmadryt.pl/news/129754-do-przerwy-4-1-dla-realu</link>
+        <title>Sørloth MVP meczu Villarrealu z Realem</title>
+        <link>https://www.realmadryt.pl/news/129756-sorloth-mvp-meczu-villarrealu-z-realem</link>
+        <pubDate>Sun, 19 May 2024 21:08:00 GMT</pubDate>
+        <description>Alexander Sørloth zaliczył świetne zawody przeciwko Realowi Madryt i został wybrany najlepszym graczem dzisiejszego spotkania.</description>
+    </item>
+    
+    <item>
+        <title>37. kolejka: Barcelona wicemistrzem, Cádiz spada z ligi</title>
+        <link>https://www.realmadryt.pl/news/129757-37-kolejka-barcelona-wicemistrzem-cadiz-spada-z-ligi</link>
+        <pubDate>Sun, 19 May 2024 21:06:00 GMT</pubDate>
+        <description>37. kolejka Primera División przyniosła nam definitywne rozstrzygnięcia w sezonie 2023/24.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/129755-ocen-pilkarzy-po-meczu-z-villarrealem</link>
+        <pubDate>Sun, 19 May 2024 20:57:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Letni festyn</title>
+        <link>https://www.realmadryt.pl/news/129754-letni-festyn</link>
         <pubDate>Sun, 19 May 2024 19:52:00 GMT</pubDate>
-        <description>W meczu 37. kolejki La Ligi Real Madryt prowadzi z Villarrealem 4:1. Gole dla Królewskich zdobyli Arda Güler (dwa), Joselu i Lucas Vázquez.</description>
+        <description>W meczu 37. kolejki La Ligi Real Madryt zremisował z Villarrealem 4:4. Gole dla Królewskich zdobyli Arda Güler (dwa), Joselu i Lucas Vázquez.</description>
     </item>
     
     <item>
@@ -53,27 +74,6 @@
         <link>https://www.realmadryt.pl/news/129742-maszyna-do-wygrywania</link>
         <pubDate>Sun, 19 May 2024 14:30:00 GMT</pubDate>
         <description>W sezonie 2023/24 Carlo Ancelotti po raz czwarty jako trener Realu Madryt osiągnął granicę 40 zwycięstw. Ogólnie podczas swoich dwóch etapów w Madrycie wygrał 72% wszystkich rozegranych meczów.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real wstrzymuje się w sprawie „operacji Yoro”</title>
-        <link>https://www.realmadryt.pl/news/129748-marca-real-wstrzymuje-sie-w-sprawie-operacji-yoro</link>
-        <pubDate>Sun, 19 May 2024 13:49:00 GMT</pubDate>
-        <description>Kilka otwartych spraw transferowych i Lille proszące o 60 milionów euro sprawia, że Real Madryt na razie nie działa w sprawie Yoro i obserwuje sytuację środka obrony, zanim podejmie ważne decyzje.</description>
-    </item>
-    
-    <item>
-        <title>Od 40-metrowego mieszkania do wielkiej nocy na Etihad</title>
-        <link>https://www.realmadryt.pl/news/129732-od-40-metrowego-mieszkania-do-wielkiej-nocy-na-etihad</link>
-        <pubDate>Sun, 19 May 2024 13:43:00 GMT</pubDate>
-        <description>Najlepszą wersję Łunina oglądaliśmy w tym sezonie, gdy z powodu kontuzji wypadł Thibo Courtois. Także teraz nie poddaje się i pokazuje to w filmach na Instagramie. W Oviedo, kluczowym miejscu w jego karierze, każdy zna jego profesjonalizm.</description>
-    </item>
-    
-    <item>
-        <title>Marcelino: Chcemy być drugim zespołem, który pokona Real</title>
-        <link>https://www.realmadryt.pl/news/129725-marcelino-chcemy-byc-drugim-zespolem-ktory-pokona-real</link>
-        <pubDate>Sun, 19 May 2024 13:11:00 GMT</pubDate>
-        <description>Marcelino García Toral wziął udział w konferencji prasowej przed meczem z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Villarrelau.</description>
     </item>
     
 </channel>
