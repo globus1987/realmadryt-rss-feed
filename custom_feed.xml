@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 May 2024 12:33:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 12:57:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Napięty spokój w sprawie Kroosa</title>
+        <link>https://www.realmadryt.pl/news/129749-napiety-spokoj-w-sprawie-kroosa</link>
+        <pubDate>Sun, 19 May 2024 14:45:00 GMT</pubDate>
+        <description>W klubie panuje niepokój dotyczący sytuacji Niemca. Wciąż ani nie poinformował nikogo o swojej decyzji, ani niczego nie wykluczył. Dylemat powinien zostać rozwiązany przed Mistrzostwami Europy.</description>
+    </item>
     
     <item>
         <title>Maszyna do wygrywania</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129734-kartka-z-kalendarza-19-maja</link>
         <pubDate>Sun, 19 May 2024 10:49:00 GMT</pubDate>
         <description>Urodziny byłego trenera i zawodnika, finał Pucharu Zdobywców Pucharów na remis, darmowe transfery i pożegnanie legendarnego piłkarza z Santiago Bernabéu. Co działo się 19 maja?</description>
-    </item>
-    
-    <item>
-        <title>Przyjemny pobyt w nieprzyjemnym miejscu</title>
-        <link>https://www.realmadryt.pl/news/129729-przyjemny-pobyt-w-nieprzyjemnym-miejscu</link>
-        <pubDate>Sun, 19 May 2024 09:58:00 GMT</pubDate>
-        <description>[Linijka do nabicia wierszówki w wymaganym polu]</description>
     </item>
     
 </channel>
