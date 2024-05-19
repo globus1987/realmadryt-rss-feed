@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 May 2024 07:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 08:21:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przyjemny pobyt w nieprzyjemnym miejscu</title>
+        <link>https://www.realmadryt.pl/news/129729-przyjemny-pobyt-w-nieprzyjemnym-miejscu</link>
+        <pubDate>Sun, 19 May 2024 09:58:00 GMT</pubDate>
+        <description>[Linijka wytłuszczonym drukiem do nabicia wierszówki w wymaganym polu]</description>
+    </item>
     
     <item>
         <title>200 zł za wygraną Realu lub Barçy!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129713-200-zl-za-wygrana-realu-lub-villarrealu</link>
         <pubDate>Sat, 18 May 2024 20:01:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 37. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129728-telewizyjny-terminarz-37-kolejki-la-ligi</link>
-        <pubDate>Sat, 18 May 2024 19:46:00 GMT</pubDate>
-        <description>Real Madryt, Barcelona i Girona rozegrają swoje mecze tym razem o tej samej porze. Niemal wszystkie spotkania tej kolejki zostaną rozegrane jutro o 19:00.</description>
     </item>
     
 </channel>
