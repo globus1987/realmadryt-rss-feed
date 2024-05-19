@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 May 2024 09:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 10:18:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti znowu miał rację</title>
+        <link>https://www.realmadryt.pl/news/129743-ancelotti-znowu-mial-racje</link>
+        <pubDate>Sun, 19 May 2024 12:09:00 GMT</pubDate>
+        <description>Luka Jović i Mariano zdobyli w tym sezonie łącznie dziewięć goli dla swoich klubów. W poprzednich latach Królewscy nie mogli liczyć na swoich rezerwowych i dopiero w tym sezonie rozwiązaniem okazał się Joselu, która ma na koncie już 16 goli.</description>
+    </item>
+    
+    <item>
+        <title>Diego López: Courtois jest bez wątpienia najlepszy na świecie</title>
+        <link>https://www.realmadryt.pl/news/129741-diego-lopez-courtois-jest-bez-watpienia-najlepszy-na-swiecie</link>
+        <pubDate>Sun, 19 May 2024 12:07:00 GMT</pubDate>
+        <description>Diego López w trakcie swojej bramkarskiej kariery bronił barw takich klubów jak Real Madryt, Villarreal czy Espanyol. Teraz w przeddzień starcia swoich dwóch byłych zespołów udzielił wywiadu dziennikowi AS, w którym odniósł się do bramkarskiej debaty związanej z finałem Ligi Mistrzów na Wembley.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 19 maja</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129730-gruby-problem-borussii</link>
         <pubDate>Sat, 18 May 2024 21:47:00 GMT</pubDate>
         <description>Transfer Niklasa Süle do Borussii Dortmund latem 2022 roku był postrzegany jako uderzenie pięścią w stół. Obrońcy kończył się kontrakt z Bayernem, ale zamiast go przedłużyć, wolał przenieść się za darmo na Signal Iduna Park.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo Castilli po golu De Leóna</title>
-        <link>https://www.realmadryt.pl/news/129737-zwyciestwo-castilli-po-golu-de-leona</link>
-        <pubDate>Sat, 18 May 2024 21:03:00 GMT</pubDate>
-        <description>W przedostatniej kolejce Primera Federación Castilla pokonała Intercity 1:0 po trafieniu De Leóna. Trzy punkty pozwoliły na przeskoczenie w tabeli rezerw Atlético Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Villarrealu na mecz z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/129736-kadra-villarrealu-na-mecz-z-realem-madryt</link>
-        <pubDate>Sat, 18 May 2024 20:36:00 GMT</pubDate>
-        <description>Marcelino García Toral przedstawił 20-osobową kadrę na mecz 37. kolejki La Ligi z Realem Madryt</description>
     </item>
     
 </channel>
