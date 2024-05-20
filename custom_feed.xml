@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 May 2024 11:16:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 11:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy trening w tym tygodniu</title>
+        <link>https://www.realmadryt.pl/news/129773-pierwszy-trening-w-tym-tygodniu</link>
+        <pubDate>Mon, 20 May 2024 13:19:00 GMT</pubDate>
+        <description>Piłkarze Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do spotkania z Betisem. Razem z drużyną nie trenowało dwóch zawodników.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Villarrealem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129769-dzisiejsze-okladki</link>
         <pubDate>Mon, 20 May 2024 00:19:00 GMT</pubDate>
         <description>Remis Realu Madryt i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Terminarz ostatniej kolejki rozbity na trzy dni</title>
-        <link>https://www.realmadryt.pl/news/129766-oficjalnie-terminarz-ostatniej-kolejki-rozbity-na-trzy-dni</link>
-        <pubDate>Sun, 19 May 2024 22:52:00 GMT</pubDate>
-        <description>Wyniki niedzielnych meczów wyjaśniły najważniejsze rozstrzygnięcia w La Lidze. Do domknięcia pozostają pojedyncze pozycje w środku tabeli, więc La Liga zmodyfikowała znacząco terminarz ostatniej kolejki rozgrywek.</description>
     </item>
     
 </channel>
