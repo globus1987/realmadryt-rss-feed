@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 May 2024 16:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 16:41:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bohaterowie Pucharów Europy – La Segunda</title>
+        <link>https://www.realmadryt.pl/news/129777-bohaterowie-pucharow-europy-la-segunda</link>
+        <pubDate>Mon, 20 May 2024 18:25:00 GMT</pubDate>
+        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. W sezonie 1956/57 bohaterami okazali się Alfredo Di Stéfano oraz… Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Klaruje się jedenastka na finał Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129768-kartka-z-kalendarza-20-maja</link>
         <pubDate>Mon, 20 May 2024 10:46:00 GMT</pubDate>
         <description>Urodziny legendy, niezwykły triumf w Lidze Mistrzów po 32 latach, wyjątkowy mecz w… Łodzi z bohaterami sprzed lat w rolach głównych, odejście José Mourinho i La Décima, po którą Królewskich poprowadził Luka Dončić. Co działo się 20 maja?</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/129767-pichichi-zamora-asistencias</link>
-        <pubDate>Mon, 20 May 2024 09:55:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 37. kolejce La Ligi.</description>
     </item>
     
 </channel>
