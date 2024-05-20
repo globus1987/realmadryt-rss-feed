@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 May 2024 11:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 12:37:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/129775-modric-powolany-do-reprezentacji</link>
+        <pubDate>Mon, 20 May 2024 14:10:00 GMT</pubDate>
+        <description>Selekcjoner Zlatko Dalić przedstawił wstępną listę piłkarzy powołanych na zgrupowanie przed mistrzostwami Europy.</description>
+    </item>
     
     <item>
         <title>Pierwszy trening w tym tygodniu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129764-arda-gueler-mysle-tylko-o-futbolu-i-ciezkiej-pracy</link>
         <pubDate>Mon, 20 May 2024 05:30:00 GMT</pubDate>
         <description>Arda Güler udzielił wywiadu klubowej telewizji po zremisowanym 4:4 meczu z Villarrealem. Przedstawiamy wypowiedzi zawonika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129769-dzisiejsze-okladki</link>
-        <pubDate>Mon, 20 May 2024 00:19:00 GMT</pubDate>
-        <description>Remis Realu Madryt i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
