@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 May 2024 18:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 18:39:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bohaterowie Pucharów Europy – La Tercera</title>
+        <link>https://www.realmadryt.pl/news/129805-bohaterowie-pucharow-europy-la-tercera</link>
+        <pubDate>Tue, 21 May 2024 20:37:00 GMT</pubDate>
+        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten trzeci zdobyty 28 maja 1958 roku w Brukseli stał pod znakiem bramki Paco Gento i dogrywki z Milanem.</description>
+    </item>
     
     <item>
         <title>Bellingham piłkarzem sezonu w Europie według The Athletic</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129796-kroos-jestem-szczesliwy-i-dumny-ze-znalazlem-w-glowie-i-sercu-odpowiedni-moment-na-te-decyzje</link>
         <pubDate>Tue, 21 May 2024 13:11:00 GMT</pubDate>
         <description>Dziś Toni Kroos przekazał światu decyzję o zakończeniu piłkarskiej kariery po zakończeniu mistrzostw Europy. Przedstawiamy wpis Niemca, który ten opublikował na swoich mediach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Toni Kroos kończy piłkarską karierę</title>
-        <link>https://www.realmadryt.pl/news/129795-oficjalnie-toni-kroos-konczy-pilkarska-kariere</link>
-        <pubDate>Tue, 21 May 2024 12:58:00 GMT</pubDate>
-        <description>Real Madryt poinformował oficjalnie, że ten sezon jest ostatnim w karierze niemieckiego pomocnika.</description>
     </item>
     
 </channel>
