@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 May 2024 10:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 10:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Toni Kroos opuszcza Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/129794-oficjalnie-toni-kroos-opuszcza-real-madryt</link>
+        <pubDate>Tue, 21 May 2024 12:46:00 GMT</pubDate>
+        <description>Pomocnik przekazał informację w swoim podcaście.</description>
+    </item>
     
     <item>
         <title>Florentino w Paryżu? 120-lecie FIFA, spotkanie z Macronem i przedstawicielami PSG</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129785-dzisiejsze-okladki</link>
         <pubDate>Tue, 21 May 2024 00:29:00 GMT</pubDate>
         <description>Oceny piłkarzy Realu Madryt i zmiana trenera w Barcelonie to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé żegna się z Paryżem kolacją na 250 osób</title>
-        <link>https://www.realmadryt.pl/news/129784-mbappe-zegna-sie-z-paryzem-kolacja-na-250-osob</link>
-        <pubDate>Mon, 20 May 2024 22:20:00 GMT</pubDate>
-        <description>Po pożegnaniu z kibicami PSG i następnie stadionem Parc des Princes przyszedł czas na pożegnanie z pracownikami klubu i osobistościami z Paryża. Francuz na listę gości wpisał aż 250 osób.</description>
     </item>
     
 </channel>
