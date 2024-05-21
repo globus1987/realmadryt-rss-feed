@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 May 2024 17:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 17:53:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham piłkarzem sezonu w Europie według The Athletic</title>
+        <link>https://www.realmadryt.pl/news/129804-bellingham-pilkarzem-sezonu-w-europie-wedlug-the-athletic</link>
+        <pubDate>Tue, 21 May 2024 19:46:00 GMT</pubDate>
+        <description>Brytyjski oddział The Athletic zajmujący się piłką nożną ogłosił swoje nagrody w europejskim futbolu dotyczące pięciu największych lig krajowych. Przedstawiamy wyniki związane z zawodnikami Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Jak wypełnić lukę po Kroosie?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129795-oficjalnie-toni-kroos-konczy-pilkarska-kariere</link>
         <pubDate>Tue, 21 May 2024 12:58:00 GMT</pubDate>
         <description>Real Madryt poinformował oficjalnie, że ten sezon jest ostatnim w karierze niemieckiego pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Toni Kroos opuszcza Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/129794-oficjalnie-toni-kroos-opuszcza-real-madryt</link>
-        <pubDate>Tue, 21 May 2024 12:46:00 GMT</pubDate>
-        <description>Pomocnik przekazał informację w swoim podcaście.</description>
     </item>
     
 </channel>
