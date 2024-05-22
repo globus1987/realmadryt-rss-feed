@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 May 2024 03:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 03:38:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prezydent Francji spróbował przekonać prezesa Realu Madryt ws. Mbappé</title>
+        <link>https://www.realmadryt.pl/news/129816-prezydent-francji-sprobowal-przekonac-prezesa-realu-madryt-ws-mbappe</link>
+        <pubDate>Wed, 22 May 2024 05:30:00 GMT</pubDate>
+        <description>Francuskie media są zgodne, że prezydent Francji wykorzystał uroczystość FIFA, by przekonać prezesa Realu Madryt do puszczenia Kyliana Mbappé na Igrzyska Olimpijskie. Nie ma jednak informacji, by jego starania przyniosły efekt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129783-dobre-mecze-arribasa-asensio-i-kubo-video</link>
         <pubDate>Tue, 21 May 2024 17:13:00 GMT</pubDate>
         <description>Na przestrzeni ostatnich dwóch kolejek kilku zawodników związanych z Realem Madryt pokazało swoje nieprzeciętne umiejętności. Najbardziej w rywalizacji z Mallorcą wyróżnił się Sergio Arribas, który strzelił gola i zanotował asystę. A jak radzili sobie pozostali?</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/129793-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Tue, 21 May 2024 16:22:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Betisem, z którą zmierzą się w sobotę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
     </item>
     
 </channel>
