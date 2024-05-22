@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 May 2024 20:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 20:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Atalanta zwycięzcą Ligi Europy!</title>
+        <link>https://www.realmadryt.pl/news/129837-atalanta-zwyciezca-ligi-europy</link>
+        <pubDate>Wed, 22 May 2024 22:52:00 GMT</pubDate>
+        <description>Atalanta pokonała w finale Ligi Europy Bayer Leverkusen po hattricku Ademoli Lookmana i zagra w Superpucharze Europy.</description>
+    </item>
     
     <item>
         <title>Przedłużenie kontraktu z Tavaresem coraz bliżej</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129780-sojusznik-bvb-z-frankfurtu</link>
         <pubDate>Wed, 22 May 2024 16:15:00 GMT</pubDate>
         <description>Borussia nie będzie na Wembley sama. Swój interes we wspieraniu BVB będzie miał bowiem również Eintracht.</description>
-    </item>
-    
-    <item>
-        <title>Hezonja: Florentino grozi mi, żebym został</title>
-        <link>https://www.realmadryt.pl/news/129810-hezonja-florentino-grozi-mi-zebym-zostal</link>
-        <pubDate>Wed, 22 May 2024 15:24:00 GMT</pubDate>
-        <description>Mario Hezonja wziął udział w dniu medialnym przed Final Four Euroligi. Był pytany o swoją przyszłość, ale nie odpowiedział jednoznacznie, chociaż jego wypowiedzi sugerują szansę na przedłużenie umowy.</description>
     </item>
     
 </channel>
