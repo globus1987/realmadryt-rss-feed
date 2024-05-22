@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 May 2024 22:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 22:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129840-dzisiejsze-okladki</link>
+        <pubDate>Thu, 23 May 2024 00:41:00 GMT</pubDate>
+        <description>Wywiady z Robertem Lewandowskim i Endrickiem oraz sytuacja z trenerem w Barcelonie to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze dotarli do Berlina</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129789-alkad-madrytu-podejmiemy-odpowiednie-dzialania-ws-halasu-na-bernabeu</link>
         <pubDate>Wed, 22 May 2024 17:57:00 GMT</pubDate>
         <description>Włodarz stolicy Hiszpanii wyjawił, że miasto dokonało pomiarów poziomu hałasu na Estadio Santiago Bernabéu i na ich podstawie podejmie odpowiednie działania wspólnie z klubem.</description>
-    </item>
-    
-    <item>
-        <title>Jedyny plus odejścia Kroosa</title>
-        <link>https://www.realmadryt.pl/news/129827-jedyny-plus-odejscia-kroosa</link>
-        <pubDate>Wed, 22 May 2024 17:06:00 GMT</pubDate>
-        <description>Niemiec jest najlepiej opłacanym piłkarzem w kadrze, a jego miejsce w drabince płacowej zajmie teraz najpewniej Kylian Mbappé, więc Królewscy nie odczują aż tak zatrudnienia Francuza, który ma jednak zarabiać nieco więcej od Kroosa.</description>
     </item>
     
 </channel>
