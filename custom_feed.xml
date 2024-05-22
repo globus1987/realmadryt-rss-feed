@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 May 2024 08:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 09:21:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie będzie drugiego Toniego Kroosa</title>
+        <link>https://www.realmadryt.pl/news/129819-nie-bedzie-drugiego-toniego-kroosa</link>
+        <pubDate>Wed, 22 May 2024 11:20:00 GMT</pubDate>
+        <description>Toni Kroos. Grał w piłkę jak chciał i odchodzi jak mu się podoba. Na swoich warunkach.</description>
+    </item>
     
     <item>
         <title>Modrić: Będę za tobą tęsknił, przyjacielu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129808-florentino-reprezentowal-real-madryt-na-obchodach-120-lecia-fifa</link>
         <pubDate>Tue, 21 May 2024 22:17:00 GMT</pubDate>
         <description>Real Madryt jako klub założycielski wziął udział w czwartkowych obchodach 120-lecia FIFA.</description>
-    </item>
-    
-    <item>
-        <title>Pożegnalne filmiki dla Toniego Kroosa [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/129807-pozegnalne-filmiki-dla-toniego-kroosa-video</link>
-        <pubDate>Tue, 21 May 2024 22:15:00 GMT</pubDate>
-        <description>Real Madryt i Adidas, klub i sponsor techniczny Niemca, pożegnali go specjalnymi filmikami. Przedstawiamy te materiały po ogłoszeniu zakończenia kariery przez pomocnika.</description>
     </item>
     
 </channel>
