@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 May 2024 18:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 19:18:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wirtz na radarze</title>
+        <link>https://www.realmadryt.pl/news/129860-wirtz-na-radarze</link>
+        <pubDate>Thu, 23 May 2024 21:00:00 GMT</pubDate>
+        <description>Real Madryt śledzi z bliska sytuację Floriana Wirtza. 21-letni gracz Bayeru Leverkusen podoba się klubowi w znacznej mierze dzięki swej wszechstronności.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Nie mam obsesji, mam pasję, która mnie napędza</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129849-marca-nacho-rozwaza-pozostanie-na-kolejny-sezon</link>
         <pubDate>Thu, 23 May 2024 14:10:00 GMT</pubDate>
         <description>Bilety na sobotni mecz z Betisem zostały wyprzedane. Kibice chcą pożegnać Toniego Kroosa, który oficjalnie poinformował o zakończeniu kariery. Nie wiadomo jednak, czy będzie to ostatnie domowe spotkanie dla Nacho, który wciąż rozważa pozostanie na jeszcze jeden sezon.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt po raz trzeci z rzędu najbardziej wartościowym klubem piłkarskim</title>
-        <link>https://www.realmadryt.pl/news/129853-real-madryt-po-raz-trzeci-z-rzedu-najbardziej-wartosciowym-klubem-pilkarskim</link>
-        <pubDate>Thu, 23 May 2024 13:28:00 GMT</pubDate>
-        <description>Forbes opublikował zestawienie najbardziej wartościowych klubów piłkarskich na świecie. Real Madryt utrzymał prowadzenie trzeci rok z rzędu.</description>
     </item>
     
 </channel>
