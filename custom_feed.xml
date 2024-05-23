@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 May 2024 14:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 14:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti już wie, że znowu będzie musiał kombinować</title>
+        <link>https://www.realmadryt.pl/news/129806-ancelotti-juz-wie-ze-znowu-bedzie-musial-kombinowac</link>
+        <pubDate>Thu, 23 May 2024 16:37:00 GMT</pubDate>
+        <description>Trener błagał Toniego Kroosa o pozostanie w drużynie, ale poza swoimi prośbami, niewiele mógł zrobić, żeby go przekonać. Włoch już myśli o przyszłości i widzi Bellinghama jako środkowego pomocnika, pisze José Félix Díaz z dziennika MARCA.</description>
+    </item>
     
     <item>
         <title>Casillas: Jestem zaskoczony decyzją Kroosa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129844-kartka-z-kalendarza-23-maja</link>
         <pubDate>Thu, 23 May 2024 11:15:00 GMT</pubDate>
         <description>Urodziny legendy, długo wyczekiwane mistrzostwo Hiszpanii, transfery młodych skrzydłowych i mecz pełny pożegnań… ale nie tylko. Co działo się 23 maja?</description>
-    </item>
-    
-    <item>
-        <title>Dončić: Kiedy przez tyle lat grasz i wygrywasz w Realu, to zostaje z tobą</title>
-        <link>https://www.realmadryt.pl/news/129846-doncic-kiedy-przez-tyle-lat-grasz-i-wygrywasz-w-realu-to-zostaje-z-toba</link>
-        <pubDate>Thu, 23 May 2024 10:30:00 GMT</pubDate>
-        <description>Dallas Mavericks wygrali pierwsze spotkanie z Minnesotą Timberwolves, a po meczu Luka Dončić został zapytany o DNA Realu Madryt.</description>
     </item>
     
 </channel>
