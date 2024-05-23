@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 May 2024 10:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 10:39:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>BILD: Raúl po sezonie odejdzie do Niemiec</title>
+        <link>https://www.realmadryt.pl/news/129851-bild-raul-po-sezonie-odejdzie-do-niemiec</link>
+        <pubDate>Thu, 23 May 2024 12:33:00 GMT</pubDate>
+        <description>Jak informuje BILD, Raúl chce opuścić po pięciu latach Castillę i znaleźć pracę w Bundeslidze, aby rozpocząć samodzielną karierę trenerską na najwyższym poziomie.</description>
+    </item>
     
     <item>
         <title>Vinícius: Po rozmowie z Ronaldo przestałem bać się sytuacji sam na sam</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129842-prezes-uefa-o-florentino-perezie-to-idiota-i-rasista</link>
         <pubDate>Thu, 23 May 2024 04:05:00 GMT</pubDate>
         <description>Portal The Objective kontynuuje wycieki powiązane z byłym prezesem Hiszpańskiej Federacji Piłkarskiej. W najnowszym odcinku pokazuje, w jaki sposób prezes UEFA obrażał prezesa Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129840-dzisiejsze-okladki</link>
-        <pubDate>Thu, 23 May 2024 00:41:00 GMT</pubDate>
-        <description>Wywiady z Robertem Lewandowskim i Endrickiem oraz sytuacja z trenerem w Barcelonie to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
