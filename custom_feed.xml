@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 May 2024 08:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 09:21:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 maja</title>
+        <link>https://www.realmadryt.pl/news/129844-kartka-z-kalendarza-23-maja</link>
+        <pubDate>Thu, 23 May 2024 11:15:00 GMT</pubDate>
+        <description>Urodziny legendy, długo wyczekiwane mistrzostwo Hiszpanii, transfery młodych skrzydłowych i mecz pełny pożegnań… ale nie tylko. Co działo się 23 maja?</description>
+    </item>
     
     <item>
         <title>Dončić: Kiedy przez tyle lat grasz i wygrywasz w Realu, to zostaje z tobą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129838-koszykarze-dotarli-do-berlina</link>
         <pubDate>Wed, 22 May 2024 22:54:00 GMT</pubDate>
         <description>Final Four w Berlinie potrwa od piątku do niedzieli. Zawodnicy Realu Madryt już dzisiaj stawili się w stolicy Niemiec, żeby w spokoju móc się przygotować do piątkowego starcia z Olympiakosem.</description>
-    </item>
-    
-    <item>
-        <title>Atalanta zwycięzcą Ligi Europy!</title>
-        <link>https://www.realmadryt.pl/news/129837-atalanta-zwyciezca-ligi-europy</link>
-        <pubDate>Wed, 22 May 2024 22:52:00 GMT</pubDate>
-        <description>Atalanta pokonała w finale Ligi Europy Bayer Leverkusen po hattricku Ademoli Lookmana i zagra w Superpucharze Europy.</description>
     </item>
     
 </channel>
