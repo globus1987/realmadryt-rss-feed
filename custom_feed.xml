@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 May 2024 10:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 11:17:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/129852-dzisiejszy-trening</link>
+        <pubDate>Thu, 23 May 2024 12:56:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do spotkania z Betisem. Razem z drużyną nie trenowało dwóch zawodników.</description>
+    </item>
     
     <item>
         <title>Real Madryt na drodze do 1 miliarda przychodów zwyczajnych</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129818-courtois-powieksza-przewage-nawet-kiedy-nie-gra</link>
         <pubDate>Thu, 23 May 2024 08:16:00 GMT</pubDate>
         <description>Jedenastka Realu Madryt na Wembley będzie składała się z Thibaut Courtois i dziesięciu pozostałych. Decyzja Ancelottiego została już podjęta, nawet jeśli cały czas nie jest oficjalna z racji na chęć podtrzymania rywalizacji. Włoch dał już mimo to wystarczająco dużo wskazówek, by dojść do jasnego wniosku, że to Belg wystąpi z Borussią od początku.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: To była najtrudniejsza decyzja w moim życiu, także poza sportem</title>
-        <link>https://www.realmadryt.pl/news/129841-kroos-to-byla-najtrudniejsza-decyzja-w-moim-zyciu-takze-poza-sportem</link>
-        <pubDate>Thu, 23 May 2024 07:25:00 GMT</pubDate>
-        <description>Toni Kroos ogłosił zakończenie kariery po hiszpańsku w 5-minutowym odcinku swojego podcastu prowadzonego z bratem. Następnie wypuścił 20-minutową rozmowę z bratem po niemiecku, w której uściślił powody swojej decyzji. Przedstawiamy najważniejsze wypowiedzi pomocnika zamieszczone przez portal RealTotal.</description>
     </item>
     
 </channel>
