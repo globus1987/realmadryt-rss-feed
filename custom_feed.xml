@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 17:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 17:38:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Betisu na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/129890-kadra-betisu-na-mecz-z-realem</link>
+        <pubDate>Fri, 24 May 2024 19:26:00 GMT</pubDate>
+        <description>Real Betis zmierzy się z Realem Madryt w mocno osłabionym składzie. W ostatnich dniach Andaluzyjczycy zmagają się z ogromną liczbą urazów.</description>
+    </item>
     
     <item>
         <title>Modrić zostaje sam</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129881-ostatni-trening-przed-betisem</link>
         <pubDate>Fri, 24 May 2024 12:45:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do spotkania z Betisem. Razem z drużyną nie trenowało dwóch zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Caso Negreira: Sąd nie będzie analizował łapownictwa, a Laporta nie będzie objęty postępowaniem</title>
-        <link>https://www.realmadryt.pl/news/129880-caso-negreira-sad-nie-bedzie-analizowal-lapownictwa-a-laporta-nie-bedzie-objety-postepowaniem</link>
-        <pubDate>Fri, 24 May 2024 12:41:00 GMT</pubDate>
-        <description>Najnowsze postanowienie Sądu Okręgowego w Barcelonie przeczy dość kontrowersyjnym ustaleniom sędziego śledczego w zakresie uznania Negreiry za funkcjonariusza publicznego i w efekcie wyłącza dalsze postępowanie w aspekcie łapownictwa.</description>
     </item>
     
 </channel>
