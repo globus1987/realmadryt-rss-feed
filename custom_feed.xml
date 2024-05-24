@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 18:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 19:15:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bohaterowie Pucharów Europy – La Sexta</title>
+        <link>https://www.realmadryt.pl/news/129889-bohaterowie-pucharow-europy-la-sexta</link>
+        <pubDate>Fri, 24 May 2024 21:08:00 GMT</pubDate>
+        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten szósty zdobyty 11 maja 1966 roku w Brukseli został zapamiętany przez przemianę autorstwa Miguela Muñoza i jedenastkę złożoną z samych Hiszpanów.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 38. kolejki La Ligi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129885-oficjalnie-xavi-wyrzucony-z-barcelony</link>
         <pubDate>Fri, 24 May 2024 13:47:00 GMT</pubDate>
         <description>Barcelona poinformowała oficjalnie o zwolnieniu dotychczasowego trenera. Media zgodnie informują, że zastąpi go Hansi Flick.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Decyzja Kroosa to decyzja człowieka z jajami</title>
-        <link>https://www.realmadryt.pl/news/129879-ancelotti-decyzja-kroosa-to-decyzja-czlowieka-z-jajami</link>
-        <pubDate>Fri, 24 May 2024 12:57:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Betisem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się na portalu tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
