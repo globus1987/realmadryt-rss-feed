@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 08:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 08:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Walka o wielki finał</title>
+        <link>https://www.realmadryt.pl/news/129870-walka-o-wielki-final</link>
+        <pubDate>Fri, 24 May 2024 10:45:00 GMT</pubDate>
+        <description>Tylko i aż dwa zwycięstwa dzielą Real Madryt od dwunastego Pucharu Europy. Półfinałowym rywalem drużyny Chusa Mateo jest Olympiakos, który pragnie rewanżu za ubiegłoroczną porażkę w finale.</description>
+    </item>
     
     <item>
         <title>Ruud van Nistelrooy: Isco zawsze gadał o Barcelonie, a ja mówiłem mu, że będzie grał w Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129872-kartka-z-kalendarza-24-maja</link>
         <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
         <description>Dwa Puchary Europy, w tym jeden po najważniejszym golu w karierze Sergio Ramosa, urodziny legendarnego piłkarza, a także zmiana prezesa i trenera Realu Madryt. Co działo się 24 maja?</description>
-    </item>
-    
-    <item>
-        <title>Klasyk w półfinale Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/129871-klasyk-w-polfinale-ligi-endesa</link>
-        <pubDate>Thu, 23 May 2024 22:58:00 GMT</pubDate>
-        <description>Real Madryt i Barcelona zmierzą się ze sobą w rywalizacji do trzech zwycięstw w półfinale Ligi Endesa. Będzie to okazja do rewanżu za ubiegłoroczny finał.</description>
     </item>
     
 </channel>
