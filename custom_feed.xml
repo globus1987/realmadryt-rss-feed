@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 22:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 22:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129897-dzisiejsze-okladki</link>
+        <pubDate>Sat, 25 May 2024 00:43:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt w Eurolidze, pożegnanie Kroosa i zwolnienie Xaviego to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt w finale Euroligi!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129868-mateo-bycie-faworytem-nic-dla-nas-nie-znaczy</link>
         <pubDate>Fri, 24 May 2024 15:11:00 GMT</pubDate>
         <description>Chus Mateo i Edy Tavares odpowiadali na pytania dziennikarzy przed rozpoczęciem rywalizacji w Final Four. Obaj wspomnieli, że chcieliby umożliwić Rudy’emu Fernándezowi zdobycie Euroligi w jego ostatnim sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Betis</title>
-        <link>https://www.realmadryt.pl/news/129883-kadra-na-betis</link>
-        <pubDate>Fri, 24 May 2024 14:20:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Betisem na Santiago Bernabéu. Włoski szkoleniowiec nie może liczyć na dwóch zawodników pierwszego zespołu.</description>
     </item>
     
 </channel>
