@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 05:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 05:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak ważni są Kepa, Joselu i Brahim?</title>
+        <link>https://www.realmadryt.pl/news/129854-jak-wazni-sa-kepa-joselu-i-brahim</link>
+        <pubDate>Fri, 24 May 2024 07:25:00 GMT</pubDate>
+        <description>To, czego nie widać czasami jest tak samo ważne, jak to, co widać, aby zespół taki jak Real Madryt mógł funkcjonować, a ta trójka miała fundamentalne znaczenie dla osiągnięć Królewskich.</description>
+    </item>
     
     <item>
         <title>441 milionów euro, które tłumaczą sukces polityki transferowej Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129862-zasady-dystrybucji-biletow-na-ogladanie-finalu-na-santiago-bernabeu</link>
         <pubDate>Thu, 23 May 2024 19:08:00 GMT</pubDate>
         <description>Klub ogłosił daty sprzedaży wejściówek na oglądanie finału Ligi Mistrzów na ekranach na Santiago Bernabéu. Zyski z tego przedsięwzięcia zostaną przekazane na rzecz Fundacji Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Quinta</title>
-        <link>https://www.realmadryt.pl/news/129848-bohaterowie-pucharow-europy-la-quinta</link>
-        <pubDate>Thu, 23 May 2024 19:02:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten piąty zdobyty 18 maja 1960 roku w Glasgow został zapamiętany przez wyjątkowe osiągnięcie Puskása oraz melancholię Santiago Bernabéu.</description>
     </item>
     
 </channel>
