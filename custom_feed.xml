@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 05:38:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 05:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>PSG próbuje przejąć Leny'ego Yoro</title>
+        <link>https://www.realmadryt.pl/news/129865-psg-probuje-przejac-lenyego-yoro</link>
+        <pubDate>Fri, 24 May 2024 07:44:00 GMT</pubDate>
+        <description>Paryski klub rozpoczął kolejne podejście do pozyskania Leny'ego Yoro. Sam zawodnik jest mocno zainteresowany potencjalną propozycją Realu Madryt, który nie chce jednak wchodzić w licytację i przepłacać.</description>
+    </item>
     
     <item>
         <title>Jak ważni są Kepa, Joselu i Brahim?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129856-ancelotti-nie-mam-obsesji-mam-pasje-ktora-mnie-napedza</link>
         <pubDate>Thu, 23 May 2024 20:10:00 GMT</pubDate>
         <description>Carlo Ancelotti rozmawiał z dziennikarzami UEFA przed zbliżającym się finałem Ligi Mistrzów. Przedstawiamy wypowiedzi włoskiego trenera.</description>
-    </item>
-    
-    <item>
-        <title>Zasady dystrybucji biletów na oglądanie finału na Santiago Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/129862-zasady-dystrybucji-biletow-na-ogladanie-finalu-na-santiago-bernabeu</link>
-        <pubDate>Thu, 23 May 2024 19:08:00 GMT</pubDate>
-        <description>Klub ogłosił daty sprzedaży wejściówek na oglądanie finału Ligi Mistrzów na ekranach na Santiago Bernabéu. Zyski z tego przedsięwzięcia zostaną przekazane na rzecz Fundacji Realu Madryt.</description>
     </item>
     
 </channel>
