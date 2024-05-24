@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 07:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 08:23:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ruud van Nistelrooy: Isco zawsze gadał o Barcelonie, a ja mówiłem mu, że będzie grał w Realu</title>
+        <link>https://www.realmadryt.pl/news/129876-ruud-van-nistelrooy-isco-zawsze-gadal-o-barcelonie-a-ja-mowilem-mu-ze-bedzie-gral-w-realu</link>
+        <pubDate>Fri, 24 May 2024 10:00:00 GMT</pubDate>
+        <description>Ruud van Nistelrooy udzielił wywiadu dziennikowi MARCA. Holender wspominał o swoich czasach w Hiszpanii, ale rozmawiał także o teraźniejszości i byciu trenerem.</description>
+    </item>
     
     <item>
         <title>Ostrzeżenie od Atalanty</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129871-klasyk-w-polfinale-ligi-endesa</link>
         <pubDate>Thu, 23 May 2024 22:58:00 GMT</pubDate>
         <description>Real Madryt i Barcelona zmierzą się ze sobą w rywalizacji do trzech zwycięstw w półfinale Ligi Endesa. Będzie to okazja do rewanżu za ubiegłoroczny finał.</description>
-    </item>
-    
-    <item>
-        <title>Zakończyć karierę w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/129834-zakonczyc-kariere-w-realu-madryt</link>
-        <pubDate>Thu, 23 May 2024 22:40:00 GMT</pubDate>
-        <description>Niewielu zawodników w historii futbolu miało okazję zakończyć swoją piłkarską karierę w Realu Madryt. Teraz Toni Kroos dołączy do takich nazwisk jak Santiago Bernabéu, Paco Gento, Manolo Sanchís, Zinédine Zidane czy… Eden Hazard.</description>
     </item>
     
 </channel>
