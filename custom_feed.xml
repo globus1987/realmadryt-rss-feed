@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 May 2024 14:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 14:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>10 lat od La Décimy</title>
+        <link>https://www.realmadryt.pl/news/129888-10-lat-od-la-decimy</link>
+        <pubDate>Fri, 24 May 2024 16:53:00 GMT</pubDate>
+        <description>24 maja 2014 roku legendarna bramka Sergio Ramosa na Estádio da Luz w Lizbonie zapoczątkowała kolejną złotą erę Realu Madryt w Europie.</description>
+    </item>
     
     <item>
         <title>Ile Real Madryt zarobi za mistrzostwo Hiszpanii?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129878-300-zl-za-wygrana-remis-lub-porazke-ktorejs-z-druzyn-w-trzech-ligach</link>
         <pubDate>Fri, 24 May 2024 12:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Betisem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/129877-kwadrans-ostatniego-treningu-przed-betisem-video</link>
-        <pubDate>Fri, 24 May 2024 11:32:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Betisem w La Lidze. Oficjalnie kontuzjowanych jest dwóch piłkarzy.</description>
     </item>
     
 </channel>
