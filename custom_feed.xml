@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 09:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 10:20:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zł za wygraną Realu z Betisem!</title>
+        <link>https://www.realmadryt.pl/news/129901-200-zl-za-wygrana-realu-z-betisem</link>
+        <pubDate>Sat, 25 May 2024 12:20:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>MARCA: Real zaproponował Lucasowi nowy kontrakt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129897-dzisiejsze-okladki</link>
         <pubDate>Sat, 25 May 2024 00:43:00 GMT</pubDate>
         <description>Wygrana Realu Madryt w Eurolidze, pożegnanie Kroosa i zwolnienie Xaviego to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt w finale Euroligi!</title>
-        <link>https://www.realmadryt.pl/news/129892-real-madryt-w-finale-euroligi</link>
-        <pubDate>Fri, 24 May 2024 23:23:00 GMT</pubDate>
-        <description>Real Madryt zagra w niedzielnym finale Euroligi z Panathinaikosem. W dzisiejszym półfinale Królewscy okazali się lepsi od Olympiakosu po znakomitej pierwszej połowie.</description>
     </item>
     
 </channel>
