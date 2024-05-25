@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 08:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 08:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 maja</title>
+        <link>https://www.realmadryt.pl/news/129902-kartka-z-kalendarza-25-maja</link>
+        <pubDate>Sat, 25 May 2024 10:48:00 GMT</pubDate>
+        <description>Dwa puchary koszykarzy, Klasyk pełen skandali i dwa zwolnienia Florentino Péreza. Co działo się 25 maja?</description>
+    </item>
     
     <item>
         <title>Po rekord sprzed 58 lat</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129875-telewizyjny-terminarz-38-kolejki-la-ligi</link>
         <pubDate>Fri, 24 May 2024 20:17:00 GMT</pubDate>
         <description>Przed nami ostatnia kolejka La Ligi w tym sezonie. Real Madryt zagra u siebie z Betisem, a w ostatnim meczu tego sezonu Barcelona pożegna w Sewilli Xaviego.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Betisu na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/129890-kadra-betisu-na-mecz-z-realem</link>
-        <pubDate>Fri, 24 May 2024 19:26:00 GMT</pubDate>
-        <description>Real Betis zmierzy się z Realem Madryt w mocno osłabionym składzie. W ostatnich dniach Andaluzyjczycy zmagają się z ogromną liczbą urazów.</description>
     </item>
     
 </channel>
