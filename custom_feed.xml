@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 22:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 22:53:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129922-dzisiejsze-okladki</link>
+        <pubDate>Sun, 26 May 2024 00:45:00 GMT</pubDate>
+        <description>Pożegnanie Kroosa i wygranie Ligi Mistrzyń przez Barcelonę to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: To było wielkie pożegnanie legendy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129911-rozgrzewka-przed-betisem-video</link>
         <pubDate>Sat, 25 May 2024 20:20:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Betisem. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona wygrywa Ligę Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/129910-barcelona-wygrywa-lige-mistrzyn</link>
-        <pubDate>Sat, 25 May 2024 20:04:00 GMT</pubDate>
-        <description>W finale Ligi Mistrzyń Barcelona pokonała na San Mamés Olympique Lyon 2:0 i obroniła tytuł sprzed roku. Bramki dla Katalonek zdobyły Aitana Bonmatí i Alexia Putellas.</description>
     </item>
     
 </channel>
