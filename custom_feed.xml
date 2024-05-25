@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 08:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:18:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Najpamiętniejszy mecz o nic</title>
+        <link>https://www.realmadryt.pl/news/129895-najpamietniejszy-mecz-o-nic</link>
+        <pubDate>Sat, 25 May 2024 11:10:00 GMT</pubDate>
+        <description>Wszystkie drogi prowadzą na Wembley, a każdą z nich kroczy Toni Kroos.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129889-bohaterowie-pucharow-europy-la-sexta</link>
         <pubDate>Fri, 24 May 2024 21:08:00 GMT</pubDate>
         <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten szósty zdobyty 11 maja 1966 roku w Brukseli został zapamiętany przez przemianę autorstwa Miguela Muñoza i jedenastkę złożoną z samych Hiszpanów.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 38. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/129875-telewizyjny-terminarz-38-kolejki-la-ligi</link>
-        <pubDate>Fri, 24 May 2024 20:17:00 GMT</pubDate>
-        <description>Przed nami ostatnia kolejka La Ligi w tym sezonie. Real Madryt zagra u siebie z Betisem, a w ostatnim meczu tego sezonu Barcelona pożegna w Sewilli Xaviego.</description>
     </item>
     
 </channel>
