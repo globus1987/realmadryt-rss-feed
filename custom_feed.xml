@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 21:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 21:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: To było wielkie pożegnanie legendy</title>
+        <link>https://www.realmadryt.pl/news/129919-ancelotti-to-bylo-wielkie-pozegnanie-legendy</link>
+        <pubDate>Sat, 25 May 2024 23:36:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu dla klubowej telewizji po ostatnim meczu sezonu ligowego z Betisem. Przedstawiamy wypowiedzi szkoleniowca Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt 0:0 Real Betis [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/129918-real-madryt-0-0-real-betis-video</link>
+        <pubDate>Sat, 25 May 2024 23:30:00 GMT</pubDate>
+        <description>Real Madryt zremisował w 38. kolejce ligowej z Betisem 0:0.</description>
+    </item>
+    
+    <item>
+        <title>Kroos: Dziękuję</title>
+        <link>https://www.realmadryt.pl/news/129917-kroos-dziekuje</link>
+        <pubDate>Sat, 25 May 2024 23:22:00 GMT</pubDate>
+        <description>Toni Kroos udzielił wywiadu dla klubowej telewizji po spotkaniu z Betisem, który był jego ostatni meczem w Realu Madryt na Estadio Santiago Bernabéu. Przedstawiamy pełne wypowiedzi Niemca z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Kroos MVP meczu z Betisem</title>
@@ -53,27 +74,6 @@
         <link>https://www.realmadryt.pl/news/129910-barcelona-wygrywa-lige-mistrzyn</link>
         <pubDate>Sat, 25 May 2024 20:04:00 GMT</pubDate>
         <description>W finale Ligi Mistrzyń Barcelona pokonała na San Mamés Olympique Lyon 2:0 i obroniła tytuł sprzed roku. Bramki dla Katalonek zdobyły Aitana Bonmatí i Alexia Putellas.</description>
-    </item>
-    
-    <item>
-        <title>Real – Betis: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/129909-real-betis-znamy-sklady</link>
-        <pubDate>Sat, 25 May 2024 19:07:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w ostatnim ligowym spotkaniu przeciwko Betisowi. Mecz rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Kolekcjoner słynnych szkółek i MVP meczu z Realem</title>
-        <link>https://www.realmadryt.pl/news/129907-kolekcjoner-slynnych-szkolek-i-mvp-meczu-z-realem</link>
-        <pubDate>Sat, 25 May 2024 18:10:00 GMT</pubDate>
-        <description>Rodri w zeszłym roku został wybrany najlepszym graczem spotkania z Realem Madryt. Pomocnik Betisu ma za sobą pobyt w canterze zarówno Królewskich, jak i Atlético oraz Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Séptima</title>
-        <link>https://www.realmadryt.pl/news/129908-bohaterowie-pucharow-europy-la-septima</link>
-        <pubDate>Sat, 25 May 2024 17:35:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten siódmy zdobyty 20 maja 1998 roku w Amsterdamie został zapamiętany przez gol Predraga Mijatovicia i odzyskanie Pucharu Europy po 32 latach przerwy.</description>
     </item>
     
 </channel>
