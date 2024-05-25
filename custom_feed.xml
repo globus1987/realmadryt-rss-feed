@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 20:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 21:16:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kroos MVP meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/129916-kroos-mvp-meczu-z-betisem</link>
+        <pubDate>Sat, 25 May 2024 23:06:00 GMT</pubDate>
+        <description>Toni Kroos ma za sobą ostatni występ na Santiago Bernabéu. Niemiec został wybrany najlepszym graczem dzisiejszego spotkania.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/129912-ocen-pilkarzy-po-meczu-z-betisem</link>
+        <pubDate>Sat, 25 May 2024 22:57:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Adioos</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129908-bohaterowie-pucharow-europy-la-septima</link>
         <pubDate>Sat, 25 May 2024 17:35:00 GMT</pubDate>
         <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten siódmy zdobyty 20 maja 1998 roku w Amsterdamie został zapamiętany przez gol Predraga Mijatovicia i odzyskanie Pucharu Europy po 32 latach przerwy.</description>
-    </item>
-    
-    <item>
-        <title>Carragher: Bellingham to wymarzony piłkarz, ale nie mieliśmy takiego talentu jak Foden</title>
-        <link>https://www.realmadryt.pl/news/129884-carragher-bellingham-to-wymarzony-pilkarz-ale-nie-mielismy-takiego-talentu-jak-foden</link>
-        <pubDate>Sat, 25 May 2024 17:00:00 GMT</pubDate>
-        <description>Jamie Carragher, były obrońca Liverpoolu i mistrz Europy w barwach The Reds, zajmuje się od dłuższego czasu publicystyką. Na temat składu reprezentacji Anglii wypowiedział się na łamach The Telegraph. Poniżej przedstawiamy jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Wszystko, co Real straci z odejściem Kroosa</title>
-        <link>https://www.realmadryt.pl/news/129899-wszystko-co-real-straci-z-odejsciem-kroosa</link>
-        <pubDate>Sat, 25 May 2024 16:25:00 GMT</pubDate>
-        <description>Niemiec zapowiedział, że po mistrzostwach Europy zakończy karierę. Może to być dla Los Blancos bolesne rozstanie.</description>
     </item>
     
 </channel>
