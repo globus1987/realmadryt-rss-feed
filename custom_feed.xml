@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 10:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 11:16:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: W naszym zespole nikt nie jest gwiazdą, gwiazdą jest zespół</title>
+        <link>https://www.realmadryt.pl/news/129894-mateo-w-naszym-zespole-nikt-nie-jest-gwiazda-gwiazda-jest-zespol</link>
+        <pubDate>Sat, 25 May 2024 12:55:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko wygrane spotkanie z Olympiakosem. Podkreślał to, że w jego drużynie nikt nie jest gwiazdą, bo gwiazdą jest sam zespół.</description>
+    </item>
     
     <item>
         <title>200 zł za wygraną Realu z Betisem!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129898-ancelotti-mlodsi-pilkarze-chca-wiecej-odpowiedzialnosci</link>
         <pubDate>Sat, 25 May 2024 05:30:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Realem Betis. Poniżej przedstawiamy pełen zapis tego spotkania z udziałem włoskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129897-dzisiejsze-okladki</link>
-        <pubDate>Sat, 25 May 2024 00:43:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt w Eurolidze, pożegnanie Kroosa i zwolnienie Xaviego to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
