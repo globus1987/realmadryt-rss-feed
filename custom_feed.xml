@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 15:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 15:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bohaterowie Pucharów Europy – La Séptima</title>
+        <link>https://www.realmadryt.pl/news/129908-bohaterowie-pucharow-europy-la-septima</link>
+        <pubDate>Sat, 25 May 2024 17:35:00 GMT</pubDate>
+        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten siódmy zdobyty 20 maja 1998 roku w Amsterdamie został zapamiętany przez gol Predraga Mijatovicia i odzyskanie Pucharu Europy po 32 latach przerwy.</description>
+    </item>
     
     <item>
         <title>Carragher: Bellingham to wymarzony piłkarz, ale nie mieliśmy takiego talentu jak Foden</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129901-200-zl-za-wygrana-realu-z-betisem</link>
         <pubDate>Sat, 25 May 2024 12:20:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real zaproponował Lucasowi nowy kontrakt</title>
-        <link>https://www.realmadryt.pl/news/129900-marca-real-zaproponowal-lucasowi-nowy-kontrakt</link>
-        <pubDate>Sat, 25 May 2024 11:45:00 GMT</pubDate>
-        <description>Madridista, zaangażowany piłkarz, posiadający jakość i wchodzący na decydujące minuty. Wszystko to skłoniło szefów Realu do zaoferowania mu jeszcze jednego roku kontraktu, na dziesiąty sezon w pierwszym zespole.</description>
     </item>
     
 </channel>
