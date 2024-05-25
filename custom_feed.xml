@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 08:23:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po rekord sprzed 58 lat</title>
+        <link>https://www.realmadryt.pl/news/129859-po-rekord-sprzed-58-lat</link>
+        <pubDate>Sat, 25 May 2024 10:00:00 GMT</pubDate>
+        <description>Jeśli Luka Modrić faktycznie przedłuży kontrakt z klubem, to w październiku stanie się najstarszym piłkarzem w historii Realu Madryt. Na ten moment rekord ten wciąż jest w posiadaniu Ferenca Puskása, który swój ostatni mecz w koszulce Królewskich rozegrał w wieku dokładnie 39 lat i 36 dni.</description>
+    </item>
     
     <item>
         <title>Rüdiger: Chcemy zakończyć sezon jak najlepiej</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129890-kadra-betisu-na-mecz-z-realem</link>
         <pubDate>Fri, 24 May 2024 19:26:00 GMT</pubDate>
         <description>Real Betis zmierzy się z Realem Madryt w mocno osłabionym składzie. W ostatnich dniach Andaluzyjczycy zmagają się z ogromną liczbą urazów.</description>
-    </item>
-    
-    <item>
-        <title>Modrić zostaje sam</title>
-        <link>https://www.realmadryt.pl/news/129847-modric-zostaje-sam</link>
-        <pubDate>Fri, 24 May 2024 18:35:00 GMT</pubDate>
-        <description>W 2022 roku z Realem Madryt pożegnał się Casemiro. Kilka dni temu swoją decyzję o zakończeniu kariery po EURO ogłosił Toni Kroos. Wszystko to sprawia, że w przyszłym sezonie Luka Modrić będzie ostatnim, który pozostał z legendarnego tercetu CKM.</description>
     </item>
     
 </channel>
