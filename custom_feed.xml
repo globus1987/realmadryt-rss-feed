@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 18:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 19:14:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Porażka na zakończenie sezonu</title>
+        <link>https://www.realmadryt.pl/news/129913-porazka-na-zakonczenie-sezonu</link>
+        <pubDate>Sat, 25 May 2024 21:06:00 GMT</pubDate>
+        <description>W ostatniej kolejce Primera Federación Castilla przegrała na Alfredo Di Stéfano z Málagą 1:2. Królewscy zakończyli przez to sezon na dziesiątej pozycji.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Betisem [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129873-diaz-de-mera-escuderos-na-betis</link>
         <pubDate>Sat, 25 May 2024 15:15:00 GMT</pubDate>
         <description>34-latek prowadzi spotkania La Ligi od 2020 roku. Dziś po raz ósmy poprowadzi mecz z udziałem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Zakończenie sezonu dla Castilli</title>
-        <link>https://www.realmadryt.pl/news/129904-zakonczenie-sezonu-dla-castilli</link>
-        <pubDate>Sat, 25 May 2024 14:40:00 GMT</pubDate>
-        <description>W 38. kolejce Primera Federación Castilla zagra z Málagą na Alfredo Di Stéfano. To spotkanie może być ostatnim dla Raúla na stanowisku trenera rezerw Realu Madryt.</description>
     </item>
     
 </channel>
