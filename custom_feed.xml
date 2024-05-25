@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 May 2024 09:38:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 09:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Real zaproponował Lucasowi nowy kontrakt</title>
+        <link>https://www.realmadryt.pl/news/129900-marca-real-zaproponowal-lucasowi-nowy-kontrakt</link>
+        <pubDate>Sat, 25 May 2024 11:45:00 GMT</pubDate>
+        <description>Madridista, zaangażowany piłkarz, posiadający jakość i wchodzący na decydujące minuty. Wszystko to skłoniło szefów Realu do zaoferowania mu jeszcze jednego roku kontraktu, na dziesiąty sezon w pierwszym zespole.</description>
+    </item>
     
     <item>
         <title>Najpamiętniejszy mecz o nic</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129892-real-madryt-w-finale-euroligi</link>
         <pubDate>Fri, 24 May 2024 23:23:00 GMT</pubDate>
         <description>Real Madryt zagra w niedzielnym finale Euroligi z Panathinaikosem. W dzisiejszym półfinale Królewscy okazali się lepsi od Olympiakosu po znakomitej pierwszej połowie.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Sexta</title>
-        <link>https://www.realmadryt.pl/news/129889-bohaterowie-pucharow-europy-la-sexta</link>
-        <pubDate>Fri, 24 May 2024 21:08:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten szósty zdobyty 11 maja 1966 roku w Brukseli został zapamiętany przez przemianę autorstwa Miguela Muñoza i jedenastkę złożoną z samych Hiszpanów.</description>
     </item>
     
 </channel>
