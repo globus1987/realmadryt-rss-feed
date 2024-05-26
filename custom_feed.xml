@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 18:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 18:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bohaterowie Pucharów Europy – La Octava</title>
+        <link>https://www.realmadryt.pl/news/129939-bohaterowie-pucharow-europy-la-octava</link>
+        <pubDate>Sun, 26 May 2024 20:42:00 GMT</pubDate>
+        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten ósmy zdobyty 24 maja 2000 roku w Paryżu został zapamiętany przez buntownika Nicolasa Anelkę, który ostatecznie został bohaterem.</description>
+    </item>
     
     <item>
         <title>Nacho trzyma w niepewności</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129929-krolewscy-maja-dzis-wolne</link>
         <pubDate>Sun, 26 May 2024 14:15:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Borussią Dortmund, z którą zmierzą się w sobotę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
-    </item>
-    
-    <item>
-        <title>Rodri: Kroos to legenda</title>
-        <link>https://www.realmadryt.pl/news/129926-rodri-kroos-to-legenda</link>
-        <pubDate>Sun, 26 May 2024 13:24:00 GMT</pubDate>
-        <description>Rodri Sánchez udzielił wywiadu dla telewizji Movistar+ po zremisowanym 0:0 ostatnim meczu sezonu z Realem Madryt na Estadio Santiago Bernabéu. Przedstawiamy wypowiedzi gracza Betisu.</description>
     </item>
     
 </channel>
