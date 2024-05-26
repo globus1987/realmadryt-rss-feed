@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 22:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 23:20:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129946-dzisiejsze-okladki</link>
+        <pubDate>Mon, 27 May 2024 01:15:00 GMT</pubDate>
+        <description>Porażka Realu w Eurolidze i pożegnanie Xaviego to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Valladolid wraca do Primera División</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129931-klub-byl-przygotowany-na-decyzje-kroosa</link>
         <pubDate>Sun, 26 May 2024 17:39:00 GMT</pubDate>
         <description>Toni Kroos pożegnał się z Santiago Bernabéu. Niemiec przez dziesięć lat urzekał zarówno przyjaciół, jak i wrogów. Okoliczności swojego odejścia zapowiadał zaś w ten sam sposób od wielu lat.</description>
-    </item>
-    
-    <item>
-        <title>„Jeśli chcesz, by Dončić rozmawiał, mówisz o Realu, jeśli chcesz go wkurzyć, mówisz o Barcelonie”</title>
-        <link>https://www.realmadryt.pl/news/129932-jesli-chcesz-by-doncic-rozmawial-mowisz-o-realu-jesli-chcesz-go-wkurzyc-mowisz-o-barcelonie</link>
-        <pubDate>Sun, 26 May 2024 16:48:00 GMT</pubDate>
-        <description>Jason Kidd opowiedział o sposobach na motywowanie swojego koszykarza, który dziś w nocy będzie chciał poprowadzić Dallas Mavericks do trzeciej wygranej z Minnesota Timberwolves.</description>
     </item>
     
 </channel>
