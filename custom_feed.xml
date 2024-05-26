@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 05:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 05:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Dla mojego drogiego presiego, dziękuję za wszystko”</title>
+        <link>https://www.realmadryt.pl/news/129923-dla-mojego-drogiego-presiego-dziekuje-za-wszystko</link>
+        <pubDate>Sun, 26 May 2024 07:25:00 GMT</pubDate>
+        <description>Florentino Pérez spotkał się po wczorajszym meczu z Tonim Kroosem, który rozegrał ostatni mecz na Santiago Bernabéu. Niemiec wręczył prezesowi specjalną koszulkę z dedykacją.</description>
+    </item>
     
     <item>
         <title>Piękne pożegnanie Kroosa [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129915-hold-dla-legendy</link>
         <pubDate>Sat, 25 May 2024 21:28:00 GMT</pubDate>
         <description>Niemiec mógł dziś liczyć na wyjątkowe przywitanie na stadionie, na którym występuje od dziesięciu lat.</description>
-    </item>
-    
-    <item>
-        <title>Porażka na zakończenie sezonu</title>
-        <link>https://www.realmadryt.pl/news/129913-porazka-na-zakonczenie-sezonu</link>
-        <pubDate>Sat, 25 May 2024 21:06:00 GMT</pubDate>
-        <description>W ostatniej kolejce Primera Federación Castilla przegrała na Alfredo Di Stéfano z Málagą 1:2. Królewscy zakończyli przez to sezon na dziesiątej pozycji.</description>
     </item>
     
 </channel>
