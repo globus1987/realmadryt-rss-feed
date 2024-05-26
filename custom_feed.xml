@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 07:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 08:22:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: To, co mnie czeka, będzie fantastyczne</title>
+        <link>https://www.realmadryt.pl/news/129927-mbappe-to-co-mnie-czeka-bedzie-fantastyczne</link>
+        <pubDate>Sun, 26 May 2024 10:00:00 GMT</pubDate>
+        <description>Przy okazji finału Pucharu Francji Kylian Mbappé rozegrał swój ostatni mecz w koszulce PSG. Francuz, który z 256 bramkami na koncie odchodzi jako najlepszy strzelec w historii klubu, zdobył swoje 15. trofeum.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Mieliśmy wielkie szczęście mieć Kroosa tutaj</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129916-kroos-mvp-meczu-z-betisem</link>
         <pubDate>Sat, 25 May 2024 23:06:00 GMT</pubDate>
         <description>Toni Kroos ma za sobą ostatni występ na Santiago Bernabéu. Niemiec został wybrany najlepszym graczem dzisiejszego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Betisem</title>
-        <link>https://www.realmadryt.pl/news/129912-ocen-pilkarzy-po-meczu-z-betisem</link>
-        <pubDate>Sat, 25 May 2024 22:57:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
