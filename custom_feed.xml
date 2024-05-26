@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 21:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 22:17:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Valladolid wraca do Primera División</title>
+        <link>https://www.realmadryt.pl/news/129942-real-valladolid-wraca-do-primera-division</link>
+        <pubDate>Mon, 27 May 2024 00:01:00 GMT</pubDate>
+        <description>Real Valladolid w szalonych okolicznościach wywalczył w niedzielny wieczór powrót na najwyższy poziom rozgrywkowy w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Panathinaikos zwycięzcą Euroligi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129932-jesli-chcesz-by-doncic-rozmawial-mowisz-o-realu-jesli-chcesz-go-wkurzyc-mowisz-o-barcelonie</link>
         <pubDate>Sun, 26 May 2024 16:48:00 GMT</pubDate>
         <description>Jason Kidd opowiedział o sposobach na motywowanie swojego koszykarza, który dziś w nocy będzie chciał poprowadzić Dallas Mavericks do trzeciej wygranej z Minnesota Timberwolves.</description>
-    </item>
-    
-    <item>
-        <title>100. mecz Rüdigera w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/129928-100-mecz-ruedigera-w-realu-madryt</link>
-        <pubDate>Sun, 26 May 2024 15:57:00 GMT</pubDate>
-        <description>We wczorajszym spotkaniu z Betisem Antonio Rüdiger rozegrał swój 100. mecz w Realu Madryt.</description>
     </item>
     
 </channel>
