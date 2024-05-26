@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 10:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 10:39:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po dwunasty Puchar Europy</title>
+        <link>https://www.realmadryt.pl/news/129933-po-dwunasty-puchar-europy</link>
+        <pubDate>Sun, 26 May 2024 12:33:00 GMT</pubDate>
+        <description>Real Madryt i Panathinaikos zagrają dzisiaj o najważniejsze trofeum w europejskiej koszykówce. Królewscy stoją przed wielką szansą, by obronić zdobyty przed rokiem tytuł.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 26 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129919-ancelotti-to-bylo-wielkie-pozegnanie-legendy</link>
         <pubDate>Sat, 25 May 2024 23:36:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu dla klubowej telewizji po ostatnim meczu sezonu ligowego z Betisem. Przedstawiamy wypowiedzi szkoleniowca Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 0:0 Real Betis [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/129918-real-madryt-0-0-real-betis-video</link>
-        <pubDate>Sat, 25 May 2024 23:30:00 GMT</pubDate>
-        <description>Real Madryt zremisował w 38. kolejce ligowej z Betisem 0:0.</description>
     </item>
     
 </channel>
