@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 11:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 12:33:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/129929-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Sun, 26 May 2024 14:15:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Borussią Dortmund, z którą zmierzą się w sobotę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
+    </item>
     
     <item>
         <title>Rodri: Kroos to legenda</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129921-piekne-pozegnanie-kroosa-video</link>
         <pubDate>Sun, 26 May 2024 05:30:00 GMT</pubDate>
         <description>Wczoraj Toni Kroos po raz ostatni zagrał na Santiago Bernabéu. Klubowa telewizja transmitowała pożegnanie Niemca z kibicami.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129922-dzisiejsze-okladki</link>
-        <pubDate>Sun, 26 May 2024 00:45:00 GMT</pubDate>
-        <description>Pożegnanie Kroosa i wygranie Ligi Mistrzyń przez Barcelonę to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
