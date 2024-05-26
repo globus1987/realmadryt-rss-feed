@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 09:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 09:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 26 maja</title>
+        <link>https://www.realmadryt.pl/news/129924-kartka-z-kalendarza-26-maja</link>
+        <pubDate>Sun, 26 May 2024 11:42:00 GMT</pubDate>
+        <description>Pożegnalny hołd dla legendy, wygrana w finale z Barceloną, mistrzostwo Hiszpanii i La Decimotercera. Co działo się 26 maja?</description>
+    </item>
     
     <item>
         <title>Pellegrini: Co do ligi wniósł Kroos? Pytanie brzmi: czego nie wniósł?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129918-real-madryt-0-0-real-betis-video</link>
         <pubDate>Sat, 25 May 2024 23:30:00 GMT</pubDate>
         <description>Real Madryt zremisował w 38. kolejce ligowej z Betisem 0:0.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Dziękuję</title>
-        <link>https://www.realmadryt.pl/news/129917-kroos-dziekuje</link>
-        <pubDate>Sat, 25 May 2024 23:22:00 GMT</pubDate>
-        <description>Toni Kroos udzielił wywiadu dla klubowej telewizji po spotkaniu z Betisem, który był jego ostatni meczem w Realu Madryt na Estadio Santiago Bernabéu. Przedstawiamy pełne wypowiedzi Niemca z tej rozmowy.</description>
     </item>
     
 </channel>
