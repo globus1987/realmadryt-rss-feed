@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 May 2024 19:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 19:40:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hym Realu najczęściej wyszukiwanym tekstem</title>
+        <link>https://www.realmadryt.pl/news/129864-hym-realu-najczesciej-wyszukiwanym-tekstem</link>
+        <pubDate>Sun, 26 May 2024 21:33:00 GMT</pubDate>
+        <description>„La Décima” na szczycie. Zwrotki aktualnego hymnu Królewskich są poszukiwane w hiszpańskim internecie średnio ponad 26 tysięcy razy miesięcznie.</description>
+    </item>
     
     <item>
         <title>Bohaterowie Pucharów Europy – La Octava</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129930-mateo-musimy-pokazac-taki-sam-charakter-jak-w-polfinale</link>
         <pubDate>Sun, 26 May 2024 15:06:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed finałowym starciem z Panathinaikosem. Mówił między innymi o różnicach między dwiema greckimi drużynami, na które trafili Królewscy w Final Four.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/129929-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Sun, 26 May 2024 14:15:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do meczu z Borussią Dortmund, z którą zmierzą się w sobotę. Dzisiaj w Valdebebas można spodziewać się obecności kontuzjowanych graczy.</description>
     </item>
     
 </channel>
