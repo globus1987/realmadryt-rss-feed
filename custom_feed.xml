@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 09:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 09:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nacho, Carvajal i Joselu powołani do reprezentacji Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/129951-nacho-carvajal-i-joselu-powolani-do-reprezentacji-hiszpanii</link>
+        <pubDate>Mon, 27 May 2024 11:34:00 GMT</pubDate>
+        <description>Nacho, Dani Carvajal i Joselu udadzą się na zgrupowanie reprezentacji Hiszpanii przed Mistrzostwami Europy w Niemczech. W kadrze znajduje się obecnie 29 graczy, ale na turniej będzie mogło udać się tylko 26 z nich.</description>
+    </item>
     
     <item>
         <title>Otwarty trening z okazji UEFA Open Media Day [NA ŻYWO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129942-real-valladolid-wraca-do-primera-division</link>
         <pubDate>Mon, 27 May 2024 00:01:00 GMT</pubDate>
         <description>Real Valladolid w szalonych okolicznościach wywalczył w niedzielny wieczór powrót na najwyższy poziom rozgrywkowy w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Panathinaikos zwycięzcą Euroligi</title>
-        <link>https://www.realmadryt.pl/news/129943-panathinaikos-zwyciezca-euroligi</link>
-        <pubDate>Sun, 26 May 2024 22:22:00 GMT</pubDate>
-        <description>Real Madryt nie obronił tytułu w Eurolidze. Królewscy przeszli niesamowitą przemianę w trakcie meczu i po znakomitej grze w pierwszej kwarcie prezentowali się katastrofalnie, szczególnie w drugiej połowie rywalizacji.</description>
     </item>
     
 </channel>
