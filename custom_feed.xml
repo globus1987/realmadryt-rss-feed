@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 07:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 08:24:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 27 maja</title>
+        <link>https://www.realmadryt.pl/news/129944-kartka-z-kalendarza-27-maja</link>
+        <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
+        <description>Dwa przegrane finały Pucharu Europy, urodziny byłego napastnika, śmierć byłego prezesa i awans Castilli do drugiej ligi. Co działo się 27 maja?</description>
+    </item>
     
     <item>
         <title>Marzenie niemożliwe do spełnienia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129939-bohaterowie-pucharow-europy-la-octava</link>
         <pubDate>Sun, 26 May 2024 20:42:00 GMT</pubDate>
         <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten ósmy zdobyty 24 maja 2000 roku w Paryżu został zapamiętany przez buntownika Nicolasa Anelkę, który ostatecznie został bohaterem.</description>
-    </item>
-    
-    <item>
-        <title>Nacho trzyma w niepewności</title>
-        <link>https://www.realmadryt.pl/news/129935-nacho-trzyma-w-niepewnosci</link>
-        <pubDate>Sun, 26 May 2024 19:51:00 GMT</pubDate>
-        <description>Nacho jeszcze kilka tygodni temu był niemalże zdecydowany odejść. Dziś krajobraz prezentuje się jednak inaczej. Kapitan czeka na to, co wydarzy się na Wembley.</description>
     </item>
     
 </channel>
