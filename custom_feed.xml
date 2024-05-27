@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 08:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 08:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Relacje międzyludzkie są ważniejsze niż te zawodowe</title>
+        <link>https://www.realmadryt.pl/news/129949-ancelotti-relacje-miedzyludzkie-sa-wazniejsze-niz-te-zawodowe</link>
+        <pubDate>Mon, 27 May 2024 10:51:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej z okazji UEFA Media Day. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129864-hymn-realu-najczesciej-wyszukiwanym-tekstem</link>
         <pubDate>Sun, 26 May 2024 21:33:00 GMT</pubDate>
         <description>„La Décima” na szczycie. Zwrotki aktualnego hymnu Królewskich są poszukiwane w hiszpańskim internecie średnio ponad 26 tysięcy razy miesięcznie.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Octava</title>
-        <link>https://www.realmadryt.pl/news/129939-bohaterowie-pucharow-europy-la-octava</link>
-        <pubDate>Sun, 26 May 2024 20:42:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten ósmy zdobyty 24 maja 2000 roku w Paryżu został zapamiętany przez buntownika Nicolasa Anelkę, który ostatecznie został bohaterem.</description>
     </item>
     
 </channel>
