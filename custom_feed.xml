@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 06:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 07:19:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Marzenie niemożliwe do spełnienia</title>
+        <link>https://www.realmadryt.pl/news/129938-marzenie-niemozliwe-do-spelnienia</link>
+        <pubDate>Mon, 27 May 2024 09:09:00 GMT</pubDate>
+        <description>Betis w każdym okienku zerka w stronę Ceballosa, mimo że sytuacja ekonomiczna Verdiblancos uniemożliwia długo oczekiwany powrót wychowanka.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129935-nacho-trzyma-w-niepewnosci</link>
         <pubDate>Sun, 26 May 2024 19:51:00 GMT</pubDate>
         <description>Nacho jeszcze kilka tygodni temu był niemalże zdecydowany odejść. Dziś krajobraz prezentuje się jednak inaczej. Kapitan czeka na to, co wydarzy się na Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Betisem</title>
-        <link>https://www.realmadryt.pl/news/129940-oceny-zawodnikow-po-meczu-z-betisem</link>
-        <pubDate>Sun, 26 May 2024 19:00:00 GMT</pubDate>
-        <description>Real Madryt zremisował u siebie z Realem Betis 0:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
