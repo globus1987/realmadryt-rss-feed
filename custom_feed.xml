@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 05:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 06:27:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/129945-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 27 May 2024 08:18:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 38. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>(Prawie) perfekcyjny sezon „przyszłego trenera Realu”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129940-oceny-zawodnikow-po-meczu-z-betisem</link>
         <pubDate>Sun, 26 May 2024 19:00:00 GMT</pubDate>
         <description>Real Madryt zremisował u siebie z Realem Betis 0:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki wygrywają w San Sebastián</title>
-        <link>https://www.realmadryt.pl/news/129941-pilkarki-wygrywaja-w-san-sebastian</link>
-        <pubDate>Sun, 26 May 2024 18:49:00 GMT</pubDate>
-        <description>W meczu 28. kolejki Ligi F piłkarki Realu Madryt wygrały w Zubiecie z Realem Sociedad 2:1. Bramki dla Królewskich zdobyły Signe Bruun i Athenea del Castillo.</description>
     </item>
     
 </channel>
