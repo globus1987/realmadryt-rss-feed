@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 22:17:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 22:38:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/129988-dzisiejsze-okladki</link>
+        <pubDate>Tue, 28 May 2024 00:22:00 GMT</pubDate>
+        <description>Przygotowania do finału Ligi Mistrzów, porażka Rafy Nadala i przybycie Hansiego Flicka to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>The Athletic: Stade de Reims chce Davide Ancelottiego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129974-kroos-jesli-pewnego-dnia-bedzie-mi-sie-chcialo-plakac-obejrze-swoje-pozegnanie</link>
         <pubDate>Mon, 27 May 2024 14:57:00 GMT</pubDate>
         <description>Toni Kroos po treningu rozmawiał z klubową telewizją z okazji UEFA Open Media Day w Valdebebas. Przedstawiamy najważniejsze wypowiedzi Niemca.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Jeśli myśli się za dużo, można zwariować</title>
-        <link>https://www.realmadryt.pl/news/129973-modric-jesli-mysli-sie-za-duzo-mozna-zwariowac</link>
-        <pubDate>Mon, 27 May 2024 14:41:00 GMT</pubDate>
-        <description>Luka Modrić po treningu rozmawiał z klubową telewizją z okazji UEFA Open Media Day w Valdebebas. Przedstawiamy najważniejsze wypowiedzi Chorwata.</description>
     </item>
     
 </channel>
