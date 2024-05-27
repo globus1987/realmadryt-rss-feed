@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 May 2024 16:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 16:41:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Monopol UEFA dobiegł końca”</title>
+        <link>https://www.realmadryt.pl/news/129978-monopol-uefa-dobiegl-konca</link>
+        <pubDate>Mon, 27 May 2024 18:32:00 GMT</pubDate>
+        <description>Bernd Reichart ocenił dzisiejszy wyrok sądu, który orzekł na rzecz Superligi.</description>
+    </item>
     
     <item>
         <title>Jeremy de León i Mario Martín polecą z zespołem na Wembley</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129969-courtois-musze-opatentowac-stwierdzenie-ze-jestem-po-dobrej-stronie-historii</link>
         <pubDate>Mon, 27 May 2024 14:07:00 GMT</pubDate>
         <description>Thibaut Courtois po treningu rozmawiał z klubową telewizją z okazji UEFA Open Media Day w Valdebebas. Przedstawiamy najważniejsze wypowiedzi Belga.</description>
-    </item>
-    
-    <item>
-        <title>Brahim: Jesteśmy przyzwyczajeni do wygrywania finałów</title>
-        <link>https://www.realmadryt.pl/news/129968-brahim-jestesmy-przyzwyczajeni-do-wygrywania-finalow</link>
-        <pubDate>Mon, 27 May 2024 14:06:00 GMT</pubDate>
-        <description>Brahim Díaz po treningu rozmawiał z klubową telewizją z okazji UEFA Open Media Day w Valdebebas. Przedstawiamy najważniejsze wypowiedzi atakującego.</description>
     </item>
     
 </channel>
