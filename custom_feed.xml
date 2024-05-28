@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 May 2024 10:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 10:39:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sąd Administracyjny blokuje budowę parkingów wokół Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/129992-sad-administracyjny-blokuje-budowe-parkingow-wokol-bernabeu</link>
+        <pubDate>Tue, 28 May 2024 12:35:00 GMT</pubDate>
+        <description>Sąd Administracyjny uwzględnił powództwo mieszkańców budynków wokół Bernabéu, stwierdzając, że procedura przetargowa na dwa parkingi budowane przy stadionie nie była prawidłowa i jednocześnie uwzględniając interes społeczny i środowiskowy mieszkańców.</description>
+    </item>
     
     <item>
         <title>Nacho: Nic, co wydarzy się w Lidze Mistrzów lub na EURO, nie zmieni mojej decyzji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129988-dzisiejsze-okladki</link>
         <pubDate>Tue, 28 May 2024 00:22:00 GMT</pubDate>
         <description>Przygotowania do finału Ligi Mistrzów, porażka Rafy Nadala i przybycie Hansiego Flicka to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Stade de Reims chce Davide Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/129982-the-athletic-stade-de-reims-chce-davide-ancelottiego</link>
-        <pubDate>Mon, 27 May 2024 21:37:00 GMT</pubDate>
-        <description>Real nie chce, aby syn Ancelottiego odszedł ze sztabu, choć on sam ma trenerskie aspiracje, aby samodzielnie poprowadzić jakiś zespół.</description>
     </item>
     
 </channel>
