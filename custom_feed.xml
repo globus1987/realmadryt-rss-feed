@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 May 2024 07:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 08:25:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 28 maja</title>
+        <link>https://www.realmadryt.pl/news/129987-kartka-z-kalendarza-28-maja</link>
+        <pubDate>Tue, 28 May 2024 10:00:00 GMT</pubDate>
+        <description>Zwycięstwa w finałach o Puchar Europy, finały na Santiago Bernabéu i oficjalny komunikat o trenerze, który rozpoczął nową erę w Realu Madryt. Co działo się 28 maja?</description>
+    </item>
     
     <item>
         <title>Usman Garuba coraz bliżej powrotu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129977-superliga-wygrala-kolejna-bitwe-ale-gdzie-zmierza-ta-wojna</link>
         <pubDate>Mon, 27 May 2024 19:23:00 GMT</pubDate>
         <description>Superliga wygrała dziś kolejną bitwę w sporze prawnym z FIFA i UEFA. Jak obecnie wygląda kształt tej wojny, jakie są argumenty stron i kto przeważy?</description>
-    </item>
-    
-    <item>
-        <title>„Monopol UEFA dobiegł końca”</title>
-        <link>https://www.realmadryt.pl/news/129978-monopol-uefa-dobiegl-konca</link>
-        <pubDate>Mon, 27 May 2024 18:32:00 GMT</pubDate>
-        <description>Bernd Reichart ocenił dzisiejszy wyrok sądu, który orzekł na rzecz Superligi.</description>
     </item>
     
 </channel>
