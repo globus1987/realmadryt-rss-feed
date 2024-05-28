@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 May 2024 08:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 08:53:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Courtois nie zagra na EURO</title>
+        <link>https://www.realmadryt.pl/news/129993-oficjalnie-courtois-nie-zagra-na-euro</link>
+        <pubDate>Tue, 28 May 2024 10:53:00 GMT</pubDate>
+        <description>Bramkarz nie otrzymał powołania na czerwcowy turniej w Niemczech, choć problemy zdrowotne ma już za sobą.</description>
+    </item>
+    
+    <item>
+        <title>Joselu: Dranie z mojej drużyny zagrają w szóstym finale Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/129991-joselu-dranie-z-mojej-druzyny-zagraja-w-szostym-finale-ligi-mistrzow</link>
+        <pubDate>Tue, 28 May 2024 10:51:00 GMT</pubDate>
+        <description>Joselu udzielił wywiadu dla Radio MARCA. Hiszpan opowiadał przede wszystkim o bieżącym sezonie i został też zapytany o swoją przyszłość.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 28 maja</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/129981-poirier-porozumial-sie-z-efesem</link>
         <pubDate>Mon, 27 May 2024 21:05:00 GMT</pubDate>
         <description>Wszystko wskazuje na to, że Vincent Poirier po sezonie przeprowadzi się do Stambułu. Media informują o jego porozumieniu z Efesem. Ma tam podpisać dwuletnią umowę z rocznymi zarobkami na poziomie 2 milionów euro netto.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Novena</title>
-        <link>https://www.realmadryt.pl/news/129980-bohaterowie-pucharow-europy-la-novena</link>
-        <pubDate>Mon, 27 May 2024 20:14:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten dziewiąty zdobyty 15 maja 2002 roku w Glasgow został zapamiętany przez wolej Zinédine'a Zidane'a i parady Ikera Casillasa.</description>
-    </item>
-    
-    <item>
-        <title>Superliga wygrała kolejną bitwę, ale gdzie zmierza ta wojna?</title>
-        <link>https://www.realmadryt.pl/news/129977-superliga-wygrala-kolejna-bitwe-ale-gdzie-zmierza-ta-wojna</link>
-        <pubDate>Mon, 27 May 2024 19:23:00 GMT</pubDate>
-        <description>Superliga wygrała dziś kolejną bitwę w sporze prawnym z FIFA i UEFA. Jak obecnie wygląda kształt tej wojny, jakie są argumenty stron i kto przeważy?</description>
     </item>
     
 </channel>
