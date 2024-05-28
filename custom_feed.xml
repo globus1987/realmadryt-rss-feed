@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 May 2024 10:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 11:15:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Będę trenerem tak długo, jak pozostanę w Realu</title>
+        <link>https://www.realmadryt.pl/news/129995-ancelotti-bede-trenerem-tak-dlugo-jak-pozostane-w-realu</link>
+        <pubDate>Tue, 28 May 2024 12:56:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu włoskiemu dziennikowi La Repubblica. Trener rozmawiał z dziennikarzem podczas wczorajszego UEFA Media Open Day w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Sąd Administracyjny blokuje budowę parkingów wokół Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129989-fede-final-to-najwazniejszy-mecz-twojego-zycia</link>
         <pubDate>Tue, 28 May 2024 05:30:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu dziennikowi MARCA. Urugwajczyk opowiadał przede wszystkim o tym, co działo się w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/129988-dzisiejsze-okladki</link>
-        <pubDate>Tue, 28 May 2024 00:22:00 GMT</pubDate>
-        <description>Przygotowania do finału Ligi Mistrzów, porażka Rafy Nadala i przybycie Hansiego Flicka to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
