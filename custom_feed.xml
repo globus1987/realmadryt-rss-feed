@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 May 2024 15:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 15:38:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świetny mecz Arribasa, zespół Reiniera spada z Serie A</title>
+        <link>https://www.realmadryt.pl/news/129986-swietny-mecz-arribasa-zespol-reiniera-spada-z-serie-a</link>
+        <pubDate>Tue, 28 May 2024 17:33:00 GMT</pubDate>
+        <description>Sergio Arribas bardzo udanie zakończył sezon La Ligi, choć nie rozpoczął meczu w pierwszym składzie. Almería spada jednak z ligi, tak jak Frosinone. W decydującym meczu Reinier wszedł w końcówce, ale nie pomógł swojej drużynie w utrzymaniu.</description>
+    </item>
     
     <item>
         <title>Real Madryt przyleci do Londynu dzień wcześniej niż Borussia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/129993-oficjalnie-courtois-nie-zagra-na-euro</link>
         <pubDate>Tue, 28 May 2024 10:53:00 GMT</pubDate>
         <description>Bramkarz nie otrzymał powołania na czerwcowy turniej w Niemczech, choć problemy zdrowotne ma już za sobą.</description>
-    </item>
-    
-    <item>
-        <title>Joselu: Dranie z mojej drużyny zagrają w szóstym finale Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/129991-joselu-dranie-z-mojej-druzyny-zagraja-w-szostym-finale-ligi-mistrzow</link>
-        <pubDate>Tue, 28 May 2024 10:51:00 GMT</pubDate>
-        <description>Joselu udzielił wywiadu dla Radio MARCA. Hiszpan opowiadał przede wszystkim o bieżącym sezonie i został też zapytany o swoją przyszłość.</description>
     </item>
     
 </channel>
