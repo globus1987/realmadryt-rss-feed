@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 May 2024 22:18:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 22:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130014-dzisiejsze-okladki</link>
+        <pubDate>Wed, 29 May 2024 00:25:00 GMT</pubDate>
+        <description>Wywiady przed finałem Ligi Mistrzów i zmiana trenera w Barcelonie to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bellingham piłkarzem sezonu w La Lidze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130000-rodrygo-zawsze-chce-byc-w-tym-klubie-ale-zobaczymy</link>
         <pubDate>Tue, 28 May 2024 15:00:00 GMT</pubDate>
         <description>W poniedziałek w Valdebebas odbył się otwarty dzień medialny przed finałem Ligi Mistrzów. Przedstawiamy zapowiedź rozmowy z Rodrygo Goesem, jaką opublikował hiszpański DAZN.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé kupił dom od Garetha Bale'a [ZDJĘCIA]</title>
-        <link>https://www.realmadryt.pl/news/129999-mbappe-kupil-dom-od-garetha-balea-zdjecia</link>
-        <pubDate>Tue, 28 May 2024 14:29:00 GMT</pubDate>
-        <description>Hiszpańskie media po tygodniach plotkowania o nowym domu Kyliana Mbappé w końcu chyba trafiły. Le Parisien potwierdza, że Francuz odkupił rezydencję, w której wcześniej mieszkali Gareth Bale czy Kaká.</description>
     </item>
     
 </channel>
