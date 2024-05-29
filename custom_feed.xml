@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 May 2024 20:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 20:38:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wysokie zwycięstwo na początek</title>
+        <link>https://www.realmadryt.pl/news/130034-wysokie-zwyciestwo-na-poczatek</link>
+        <pubDate>Wed, 29 May 2024 22:36:00 GMT</pubDate>
+        <description>W pierwszym półfinałowym spotkaniu Real Madryt był wyraźnie lepszy od Barcelony. Królewscy wygrali z dużą przewagą, ale już w piątek zostanie rozegrany drugi mecz.</description>
+    </item>
+    
+    <item>
+        <title>Podcast 5x26: Wielki tydzień</title>
+        <link>https://www.realmadryt.pl/news/130033-podcast-5x26-wielki-tydzien</link>
+        <pubDate>Wed, 29 May 2024 22:30:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest wydarzeniom przed finałem Ligi Mistrzów. Partnerem podcastu jest FORTUNA Zakłady Bukmacherskie Online.</description>
+    </item>
     
     <item>
         <title>Mbappé: Mój nowy klub? To kwestia dni</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130026-lunin-nie-poleci-z-druzyna-do-londynu</link>
         <pubDate>Wed, 29 May 2024 16:03:00 GMT</pubDate>
         <description>Ukrainiec jest nadal chory na grypę i sztab szkoleniowy oraz medyczny nie chcą podejmować ryzyka.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: To jest jedyny mecz, jaki mamy w głowie</title>
-        <link>https://www.realmadryt.pl/news/130008-mateo-to-jest-jedyny-mecz-jaki-mamy-w-glowie</link>
-        <pubDate>Wed, 29 May 2024 15:34:00 GMT</pubDate>
-        <description>Chus Mateo wypowiadał się przed pierwszym meczem z Barceloną w półfinale Ligi Endesa. Mówił o tym, jak ważna będzie uważna gra i wsparcie kibiców.</description>
-    </item>
-    
-    <item>
-        <title>W szatni Realu nikogo nie trzyma się siłą</title>
-        <link>https://www.realmadryt.pl/news/130023-w-szatni-realu-nikogo-nie-trzyma-sie-sila</link>
-        <pubDate>Wed, 29 May 2024 14:43:00 GMT</pubDate>
-        <description>Dla działaczy jasne jest, że porządek w szatni stanowi absolutny priorytet. Znajduje się w niej wyłącznie ten, kto tego naprawdę pragnie. Można w pewien sposób stwierdzić, że w zespole na sprzedaż nie jest nikt i zarazem każdy. Przekonało się o tym już kilku graczy, którzy stawiali siebie ponad kolektyw. Również Mbappé jest świadomy, że dołącza do już gotowej grupy i w żadnym wypadku nie będzie mógł myśleć wyłącznie o sobie.</description>
     </item>
     
 </channel>
