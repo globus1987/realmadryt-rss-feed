@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 May 2024 07:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 08:25:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 29 maja</title>
+        <link>https://www.realmadryt.pl/news/130012-kartka-z-kalendarza-29-maja</link>
+        <pubDate>Wed, 29 May 2024 09:58:00 GMT</pubDate>
+        <description>Piękne pożegnanie legendy i biały finał w Pucharze Króla. Co działo się 29 maja?</description>
+    </item>
     
     <item>
         <title>Ancelotti: Przy innym profilu graczy, nie wiem, czy ten styl jest najlepszy dla Barcelony</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130004-modric-podjalem-decyzje-ale-nie-moge-jeszcze-o-niej-mowic</link>
         <pubDate>Tue, 28 May 2024 20:06:00 GMT</pubDate>
         <description>Luka Modrić w dniu medialnym przed finałem Ligi Mistrzów udzielił wywiadu radiu COPE. Przedstawiamy najważniejsze wypowiedzi Chorwata z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Chelsea naśladuje Real</title>
-        <link>https://www.realmadryt.pl/news/129903-chelsea-nasladuje-real</link>
-        <pubDate>Tue, 28 May 2024 19:15:00 GMT</pubDate>
-        <description>Parę sezonów temu Chelsea starała się podebrać Realowi Madryt Juniego Calafata. Skautowi Królewskich zaproponowano galaktyczny kontrakt, by tylko skłonić go do przeprowadzki do Londynu, przejęcia kontroli nad polityką transferową i skopiowania madryckiego schematu na brytyjski grunt.</description>
     </item>
     
 </channel>
