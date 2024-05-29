@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 May 2024 09:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 09:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klasyk o finał czas zacząć</title>
+        <link>https://www.realmadryt.pl/news/130010-klasyk-o-final-czas-zaczac</link>
+        <pubDate>Wed, 29 May 2024 11:30:00 GMT</pubDate>
+        <description>Do końca tygodnia koszykarze Realu Madryt trzykrotnie zmierzą się z Barceloną. Stawką jest awans do finału Ligi Endesa. Mecze przed własną publicznością mogą być kluczowe, więc Królewscy muszą wykorzystać grę w WiZink Center.</description>
+    </item>
     
     <item>
         <title>Courtois: Nigdy nie straciłem nadziei ani wiary w grę w tym sezonie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130007-bellingham-pilkarzem-sezonu-w-la-lidze</link>
         <pubDate>Tue, 28 May 2024 21:32:00 GMT</pubDate>
         <description>Seria Globe Soccer Awards zorganizowała pierwszą europejską edycję swoich nagród. W trakcie gali rozdano specjalne nagrody także za sezon La Ligi. Przedstawiamy podsumowanie tej gali.</description>
-    </item>
-    
-    <item>
-        <title>Hałas wokół Bernabéu wywołuje coraz większą polemikę</title>
-        <link>https://www.realmadryt.pl/news/130006-halas-wokol-bernabeu-wywoluje-coraz-wieksza-polemike</link>
-        <pubDate>Tue, 28 May 2024 20:57:00 GMT</pubDate>
-        <description>W środę i czwartek Santiago Bernabéu przyjmie koncerty Taylor Swift. Wokół obiektu narasta polemika w związku z hałasem, jaki tworzy teraz również poza meczami.</description>
     </item>
     
 </channel>
