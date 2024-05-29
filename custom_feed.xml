@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 May 2024 17:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 17:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bohaterowie Pucharów Europy – La Undécima</title>
+        <link>https://www.realmadryt.pl/news/130030-bohaterowie-pucharow-europy-la-undecima</link>
+        <pubDate>Wed, 29 May 2024 19:27:00 GMT</pubDate>
+        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Obrazkiem ze zdobycia jedenastego z pewnością jest ten przedstawiający Lucasa Vázqueza kręcącego sobie piłką na palcu przed wykonaniem jedenastki.</description>
+    </item>
     
     <item>
         <title>Real zostanie bez ani jednego Zidane'a?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130019-panika-w-koszykarskich-szkolkach-realu-madryt-i-barcelony</link>
         <pubDate>Wed, 29 May 2024 13:00:00 GMT</pubDate>
         <description>Koszykarskie szkółki Realu Madryt i Barcelony należą do najlepszych w Europie, a nawet na świecie. Są w stanie wychować wielkie talenty, ale coraz częściej tracą je na wczesnym etapie rozwoju.</description>
-    </item>
-    
-    <item>
-        <title>Füllkrug: Chcę zagrać w finale Ligi Mistrzów przeciwko najlepszemu Realowi</title>
-        <link>https://www.realmadryt.pl/news/130020-fuellkrug-chce-zagrac-w-finale-ligi-mistrzow-przeciwko-najlepszemu-realowi</link>
-        <pubDate>Wed, 29 May 2024 12:15:00 GMT</pubDate>
-        <description>Niclas Füllkrug udzielił wywiadu dziennikowi MARCA. Napastnik Borussii Dortmund był pytany przede wszystkim o sobotni finał Ligi Mistrzów i bieżący sezon.</description>
     </item>
     
 </channel>
