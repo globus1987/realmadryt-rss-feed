@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 May 2024 09:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 10:22:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Füllkrug: Chcę zagrać w finale Ligi Mistrzów przeciwko najlepszemu Realowi</title>
+        <link>https://www.realmadryt.pl/news/130020-fuellkrug-chce-zagrac-w-finale-ligi-mistrzow-przeciwko-najlepszemu-realowi</link>
+        <pubDate>Wed, 29 May 2024 12:15:00 GMT</pubDate>
+        <description>Niclas Füllkrug udzielił wywiadu dziennikowi MARCA. Napastnik Borussii Dortmund był pytany przede wszystkim o sobotni finał Ligi Mistrzów i bieżący sezon.</description>
+    </item>
     
     <item>
         <title>Klasyk o finał czas zacząć</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130014-dzisiejsze-okladki</link>
         <pubDate>Wed, 29 May 2024 00:25:00 GMT</pubDate>
         <description>Wywiady przed finałem Ligi Mistrzów i zmiana trenera w Barcelonie to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham piłkarzem sezonu w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/130007-bellingham-pilkarzem-sezonu-w-la-lidze</link>
-        <pubDate>Tue, 28 May 2024 21:32:00 GMT</pubDate>
-        <description>Seria Globe Soccer Awards zorganizowała pierwszą europejską edycję swoich nagród. W trakcie gali rozdano specjalne nagrody także za sezon La Ligi. Przedstawiamy podsumowanie tej gali.</description>
     </item>
     
 </channel>
