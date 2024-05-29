@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 May 2024 22:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 22:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130037-dzisiejsze-okladki</link>
+        <pubDate>Thu, 30 May 2024 00:43:00 GMT</pubDate>
+        <description>Przygotowania do finału Ligi Mistrzów i ogłoszenie nowego trenera Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wysokie zwycięstwo na początek</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130027-ancelotti-dla-mnie-arda-to-dziecko-bellingham-to-bardziej-brat</link>
         <pubDate>Wed, 29 May 2024 16:54:00 GMT</pubDate>
         <description>Carlo Ancelotti w dniu medialnym przed finałem Ligi Mistrzów udzielił wywiadu Josepowi Pedrerolowi z La Sexty i Chiringuito. Przedstawiamy drugą część wywiadu wyemitowaną w popołudniowych wiadomościach sportowych Jugones.</description>
-    </item>
-    
-    <item>
-        <title>Łunin nie poleci z drużyną do Londynu</title>
-        <link>https://www.realmadryt.pl/news/130026-lunin-nie-poleci-z-druzyna-do-londynu</link>
-        <pubDate>Wed, 29 May 2024 16:03:00 GMT</pubDate>
-        <description>Ukrainiec jest nadal chory na grypę i sztab szkoleniowy oraz medyczny nie chcą podejmować ryzyka.</description>
     </item>
     
 </channel>
