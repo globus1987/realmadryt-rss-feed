@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 May 2024 14:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 14:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na finał Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/130054-kadra-na-final-ligi-mistrzow</link>
+        <pubDate>Thu, 30 May 2024 16:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti odsłonił karty i ogłosił, kto będzie mógł zagrać w spotkaniu z Borussią Dortmund na Wembley. Włoski szkoleniowiec powołał wszystkich zawodników.</description>
+    </item>
+    
+    <item>
+        <title>Terzić: Największa siła Realu polega na tym, że nie widzisz, kiedy nadchodzą</title>
+        <link>https://www.realmadryt.pl/news/130042-terzic-najwieksza-sila-realu-polega-na-tym-ze-nie-widzisz-kiedy-nadchodza</link>
+        <pubDate>Thu, 30 May 2024 16:27:00 GMT</pubDate>
+        <description>Edin Terzić udzielił wywiadu dziennikowi El País. Trener Borussii Dortmund mówił przede wszystkim o aspektach taktycznych w grze obu drużyn i o bieżącym sezonie.</description>
+    </item>
     
     <item>
         <title>Rodrygo: City to najlepsza drużyna na świecie</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130022-ruediger-boje-sie-tylko-boga</link>
         <pubDate>Thu, 30 May 2024 10:40:00 GMT</pubDate>
         <description>Antonio Rüdiger udzielił wywiadu dziennikowi El Mundo. Niemiecki obrońca mówił między innymi o zbliżającym się finale Ligi Mistrzów i bieżącym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 30 maja</title>
-        <link>https://www.realmadryt.pl/news/130031-kartka-z-kalendarza-30-maja</link>
-        <pubDate>Thu, 30 May 2024 09:50:00 GMT</pubDate>
-        <description>Pierwsze wyjazdowe derby Madrytu, urodziny byłego prezesa, mecz z mistrzem świata i przede wszystkim drugi triumf w Pucharze Europy. Co działo się 30 maja?</description>
-    </item>
-    
-    <item>
-        <title>Piqué i Rubiales negocjowali z Čeferinem utworzenie nowych europejskich rozgrywek</title>
-        <link>https://www.realmadryt.pl/news/130043-pique-i-rubiales-negocjowali-z-ceferinem-utworzenie-nowych-europejskich-rozgrywek</link>
-        <pubDate>Thu, 30 May 2024 09:05:00 GMT</pubDate>
-        <description>The Objective przedstawiło dziś nowe wycinki rozmów między prezesem UEFA, byłym piłkarzem Barcelony i byłym prezesem RFEF. Wynika z nich, że Piqué i Rubiales negocjowali z Čeferinem stworzenie turnieju, który mógłby konkurować z Klubowymi Mistrzostwami Świata.</description>
     </item>
     
 </channel>
