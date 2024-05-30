@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 May 2024 09:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 10:20:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Jestem dumny z pracy drużyny</title>
+        <link>https://www.realmadryt.pl/news/130036-mateo-jestem-dumny-z-pracy-druzyny</link>
+        <pubDate>Thu, 30 May 2024 12:20:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko wygrane spotkanie z Barceloną. Powiedział, że jest dumny z postawy drużyny po bolesnej porażce z Panathinaikosem.</description>
+    </item>
     
     <item>
         <title>Ostatni taniec Marco Reusa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130034-wysokie-zwyciestwo-na-poczatek</link>
         <pubDate>Wed, 29 May 2024 22:36:00 GMT</pubDate>
         <description>W pierwszym półfinałowym spotkaniu Real Madryt był wyraźnie lepszy od Barcelony. Królewscy wygrali z dużą przewagą, ale już w piątek zostanie rozegrany drugi mecz.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x26: Wielki tydzień</title>
-        <link>https://www.realmadryt.pl/news/130033-podcast-5x26-wielki-tydzien</link>
-        <pubDate>Wed, 29 May 2024 22:30:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest wydarzeniom przed finałem Ligi Mistrzów. Partnerem podcastu jest FORTUNA Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
