@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 May 2024 15:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 15:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wylecieli do Londynu</title>
+        <link>https://www.realmadryt.pl/news/130055-krolewscy-wylecieli-do-londynu</link>
+        <pubDate>Thu, 30 May 2024 17:51:00 GMT</pubDate>
+        <description>Królewscy wyruszyli do Londynu. Jutro czekają ich trening na Wembley i konferencje prasowe. Finał Ligi Mistrzów odbędzie się w sobotę.</description>
+    </item>
     
     <item>
         <title>Biegać, biegać i jeszcze raz biegać</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130036-mateo-jestem-dumny-z-pracy-druzyny</link>
         <pubDate>Thu, 30 May 2024 12:20:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko wygrane spotkanie z Barceloną. Powiedział, że jest dumny z postawy drużyny po bolesnej porażce z Panathinaikosem.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni taniec Marco Reusa</title>
-        <link>https://www.realmadryt.pl/news/129905-ostatni-taniec-marco-reusa</link>
-        <pubDate>Thu, 30 May 2024 11:30:00 GMT</pubDate>
-        <description>Nie tylko Toni Kroos pożegna się finałem Ligi Mistrzów z klubem swojego życia. Również w ekipie BVB będą żegnali prawdziwą legendę.</description>
     </item>
     
 </channel>
