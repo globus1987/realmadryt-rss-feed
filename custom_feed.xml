@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 May 2024 07:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 07:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 maja</title>
+        <link>https://www.realmadryt.pl/news/130031-kartka-z-kalendarza-30-maja</link>
+        <pubDate>Thu, 30 May 2024 09:50:00 GMT</pubDate>
+        <description>Pierwsze wyjazdowe derby Madrytu, urodziny byłego prezesa, mecz z mistrzem świata i przede wszystkim drugi triumf w Pucharze Europy. Co działo się 30 maja?</description>
+    </item>
     
     <item>
         <title>Piqué i Rubiales negocjowali z Čeferinem utworzenie nowych europejskich rozgrywek</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130009-oficjalnie-toletti-przedluzyla-kontrakt-z-realem-madryt</link>
         <pubDate>Wed, 29 May 2024 21:05:00 GMT</pubDate>
         <description>Królewscy poinformowali o przedłużeniu umowy z Sandie Toletti do czerwca 2027 roku. Francuzka to jedna z kluczowych postaci w kadrze Las Blancas.</description>
-    </item>
-    
-    <item>
-        <title>Co Real Madryt robi w sprawie redukcji hałasu z Santiago Bernabéu?</title>
-        <link>https://www.realmadryt.pl/news/130029-co-real-madryt-robi-w-sprawie-redukcji-halasu-z-santiago-bernabeu</link>
-        <pubDate>Wed, 29 May 2024 20:18:00 GMT</pubDate>
-        <description>„Rozmawiamy z Realem Madryt, by znaleźć rozwiązanie i oni pierwsi mają najlepsze nastawienie, by móc tego dokonać. Chcemy połączyć działanie Bernabéu ze spokojem i odpoczynkiem sąsiadów. To kwestia techniczna i tak trzeba do tego podejść, by znaleźć najlepsze rozwiązania techniczne”, skomentował alkad José Luis Martínez-Almeida w sprawie hałasu tworzonego przez Santiago Bernabéu. Sprawa wybrzmiewa głośniej przez koncerty Taylor Swift zaplanowane na środę i czwartek. Tematem zajęło się także madryckie El Mundo.</description>
     </item>
     
 </channel>
