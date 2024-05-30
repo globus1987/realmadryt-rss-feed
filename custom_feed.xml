@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 May 2024 09:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 09:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni taniec Marco Reusa</title>
+        <link>https://www.realmadryt.pl/news/129905-ostatni-taniec-marco-reusa</link>
+        <pubDate>Thu, 30 May 2024 11:30:00 GMT</pubDate>
+        <description>Nie tylko Toni Kroos pożegna się finałem Ligi Mistrzów z klubem swojego życia. Również w ekipie BVB będą żegnali prawdziwą legendę.</description>
+    </item>
     
     <item>
         <title>Rüdiger: Boję się tylko Boga</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130033-podcast-5x26-wielki-tydzien</link>
         <pubDate>Wed, 29 May 2024 22:30:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest wydarzeniom przed finałem Ligi Mistrzów. Partnerem podcastu jest FORTUNA Zakłady Bukmacherskie Online.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Mój nowy klub? To kwestia dni</title>
-        <link>https://www.realmadryt.pl/news/130032-mbappe-moj-nowy-klub-to-kwestia-dni</link>
-        <pubDate>Wed, 29 May 2024 21:34:00 GMT</pubDate>
-        <description>Kylian Mbappé wciąż nie może zdradzić, barw jakiego klubu będzie bronił od sezonu 2024/25. Nikt jednak nie ma żadnych wątpliwości co do tego, że będzie to Real Madryt.</description>
     </item>
     
 </channel>
