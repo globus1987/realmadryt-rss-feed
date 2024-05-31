@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 May 2024 20:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 20:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarski Real z drugim zwycięstwem nad Barceloną</title>
+        <link>https://www.realmadryt.pl/news/130090-koszykarski-real-z-drugim-zwyciestwem-nad-barcelona</link>
+        <pubDate>Fri, 31 May 2024 22:33:00 GMT</pubDate>
+        <description>Koszykarski Real Madryt wygrał drugi półfinał ligowy z Barceloną i do awansu do finałów brakuje mu tylko jednego zwycięstwa nad Katalończykami. Kolejne spotkanie w niedzielę.</description>
+    </item>
     
     <item>
         <title>Mózgiem Borussii jest Nuri Şahin</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130081-ancelotti-w-bramce-zagra-courtois</link>
         <pubDate>Fri, 31 May 2024 18:03:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej przed finałem Ligi Mistrzów z Borussią Dortmund. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Wembley. Pełny zapis tradycyjnie pojawi się na portalu w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>L’Équipe: Ogłoszenie przejścia Mbappé do Realu w poniedziałek</title>
-        <link>https://www.realmadryt.pl/news/130082-l-equipe-ogloszenie-przejscia-mbappe-do-realu-w-poniedzialek</link>
-        <pubDate>Fri, 31 May 2024 17:18:00 GMT</pubDate>
-        <description>Francuzi potwierdzają, że Francuz zostanie ogłoszony piłkarzem Realu Madryt na początku przyszłego tygodnia. Nie ma jednak potwierdzenia, że do prezentacji dojdzie w najbliższych dniach.</description>
     </item>
     
 </channel>
