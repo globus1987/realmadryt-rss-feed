@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 May 2024 19:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 19:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za zwycięzcę w finale Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/130088-300-zl-za-zwyciezce-w-finale-ligi-mistrzow</link>
+        <pubDate>Fri, 31 May 2024 21:20:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Finał Rodrygo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130056-mateo-nie-mozemy-zdejmowac-nogi-z-gazu-nie-mamy-zadnej-przewagi</link>
         <pubDate>Fri, 31 May 2024 16:30:00 GMT</pubDate>
         <description>Chus Mateo wypowiedział się przed drugim półfinałowym spotkaniem z Barceloną. Mówił o tym, że liczy na wsparcie kibiców i podkreślał, że jego podopieczni muszą wyrzucić z głowy środowe zwycięstwo.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Decimotercera</title>
-        <link>https://www.realmadryt.pl/news/130072-bohaterowie-pucharow-europy-la-decimotercera</link>
-        <pubDate>Fri, 31 May 2024 15:40:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten trzynasty zdobyty 26 maja 2018 roku w Kijowie został zapamiętany przede wszystkim przez wejście w drugiej połowie Garetha Bale'a, który swoimi dwoma golami dał zwycięstwo Królewskim. Był to też trzeci z rzędu triumf w Champions League Królewskich i trenera Zidane'a.</description>
     </item>
     
 </channel>
