@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 May 2024 21:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 22:18:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130091-dzisiejsze-okladki</link>
+        <pubDate>Sat, 01 Jun 2024 00:15:00 GMT</pubDate>
+        <description>Finał Ligi Mistrzów i pochwały dla Lamine'a Yamala to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarski Real z drugim zwycięstwem nad Barceloną</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130080-ostatni-otwarty-trening-przed-finalem-ligi-mistrzow-na-zywo</link>
         <pubDate>Fri, 31 May 2024 18:14:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed finałem Ligi Mistrzów z Borussią Dortmund.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: W bramce zagra Courtois</title>
-        <link>https://www.realmadryt.pl/news/130081-ancelotti-w-bramce-zagra-courtois</link>
-        <pubDate>Fri, 31 May 2024 18:03:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed finałem Ligi Mistrzów z Borussią Dortmund. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Wembley. Pełny zapis tradycyjnie pojawi się na portalu w dniu meczu.</description>
     </item>
     
 </channel>
