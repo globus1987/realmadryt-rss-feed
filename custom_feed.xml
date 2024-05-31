@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 May 2024 09:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 10:20:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Borussii Dortmund na finał Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/130073-kadra-borussii-dortmund-na-final-ligi-mistrzow</link>
+        <pubDate>Fri, 31 May 2024 12:06:00 GMT</pubDate>
+        <description>Rywale ogłosili listę na finał Ligi Mistrzów. Niemcy także mają kilka nieobecności.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 31 maja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130066-dzisiejsze-okladki</link>
         <pubDate>Fri, 31 May 2024 00:27:00 GMT</pubDate>
         <description>Przylot Realu Madryt do Londynu i plany Hansiego Flicka to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Valdano: Ludzie bardziej się boją kaprysu futbolu niż samej Borussii</title>
-        <link>https://www.realmadryt.pl/news/130039-valdano-ludzie-bardziej-sie-boja-kaprysu-futbolu-niz-samej-borussii</link>
-        <pubDate>Thu, 30 May 2024 22:06:00 GMT</pubDate>
-        <description>Jorge Valdano był gościem nocnej audycji programu El Larguero na falach radia SER. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
