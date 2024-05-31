@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 May 2024 08:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 09:22:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 31 maja</title>
+        <link>https://www.realmadryt.pl/news/130071-kartka-z-kalendarza-31-maja</link>
+        <pubDate>Fri, 31 May 2024 11:15:00 GMT</pubDate>
+        <description>Ostatni mecz reprezentacji Hiszpanii w Bilbao, mecz jako hołd dla legendarnego piłkarza (a później trenera), przybycie i odejście ważnych trenerów oraz wyjątkowo dziwny mecz w Pampelunie. Co działo się 31 maja?</description>
+    </item>
     
     <item>
         <title>Pójść za ciosem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130039-valdano-ludzie-bardziej-sie-boja-kaprysu-futbolu-niz-samej-borussii</link>
         <pubDate>Thu, 30 May 2024 22:06:00 GMT</pubDate>
         <description>Jorge Valdano był gościem nocnej audycji programu El Larguero na falach radia SER. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Duodécima</title>
-        <link>https://www.realmadryt.pl/news/130051-bohaterowie-pucharow-europy-la-duodecima</link>
-        <pubDate>Thu, 30 May 2024 21:20:00 GMT</pubDate>
-        <description>Przy okazji odliczania dni do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten dwunasty zdobyty 3 czerwca 2017 roku w Cardiff został zapamiętany z wielu względów, ale przede wszystkim jako tytuł najlepszego Realu Madryt Zinédine'a Zidane'a. Rok później Francuz stał się pierwszym trenerem w historii (i do dziś jedynym), który wygrał trzy tytuły Ligi Mistrzów z rzędu.</description>
     </item>
     
 </channel>
