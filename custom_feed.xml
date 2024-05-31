@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 May 2024 10:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 11:16:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kim jest Edin Terzić?</title>
+        <link>https://www.realmadryt.pl/news/130005-kim-jest-edin-terzic</link>
+        <pubDate>Fri, 31 May 2024 12:57:00 GMT</pubDate>
+        <description>Po losowaniu fazy grupowej Ligi Mistrzów nikt nie przewidziałby, że Borussia awansuje aż do finału rozgrywek. Tym bardziej że już w pierwszej fazie BVB przyszło się mierzyć z PSG i Milanem. Później zaś Niemcy eliminowali kolejno PSV, Atlético i PSG.</description>
+    </item>
     
     <item>
         <title>Kadra Borussii Dortmund na finał Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130068-endrick-rozegral-ostatni-mecz-dla-palmeiras</link>
         <pubDate>Fri, 31 May 2024 02:16:00 GMT</pubDate>
         <description>Nastolatek rozegrał swój ostatni mecz dla Palmeiras. Teraz wyjeżdża na zgrupowanie seniorskiej reprezentacji Brazylii. Latem kolejny klubowy mecz zaliczy już w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130066-dzisiejsze-okladki</link>
-        <pubDate>Fri, 31 May 2024 00:27:00 GMT</pubDate>
-        <description>Przylot Realu Madryt do Londynu i plany Hansiego Flicka to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
