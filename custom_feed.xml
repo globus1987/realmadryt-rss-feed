@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 17:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 17:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Vini zagra w finale po dwóch dniach z gorączką</title>
+        <link>https://www.realmadryt.pl/news/130099-relevo-vini-zagra-w-finale-po-dwoch-dniach-z-goraczka</link>
+        <pubDate>Sat, 01 Jun 2024 19:35:00 GMT</pubDate>
+        <description>Vinícius w czwartek i piątek przyjmował leki ze względu na wysoką temperaturę. Jednak dziś czuje się znacznie lepiej.</description>
+    </item>
     
     <item>
         <title>Borussia Dortmund – Real Madryt: Znamy składy!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130077-epos-o-realu-madryt</link>
         <pubDate>Sat, 01 Jun 2024 12:00:00 GMT</pubDate>
         <description>Choć na świecie wciąż istnieją miejsca bez dostępu do Internetu, czy nawet elektryczności, nawet w takie zakątki docierają pieśni o wielkim Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dojazdówka – finał Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/130095-dojazdowka-final-ligi-mistrzow</link>
-        <pubDate>Sat, 01 Jun 2024 11:00:00 GMT</pubDate>
-        <description>Wróciliśmy dzięki słowom Carlo Ancelottiego o strachu. Boimy się, ale spróbujmy.</description>
     </item>
     
 </channel>
