@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 20:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 21:18:13 GMT</lastBuildDate>
     
     <item>
-        <title>Do przerwy 0:0</title>
-        <link>https://www.realmadryt.pl/news/130101-do-przerwy-0-0</link>
+        <title>Ancelotti: W pierwszej połowie byliśmy trochę leniwi</title>
+        <link>https://www.realmadryt.pl/news/130105-ancelotti-w-pierwszej-polowie-bylismy-troche-leniwi</link>
+        <pubDate>Sat, 01 Jun 2024 23:16:00 GMT</pubDate>
+        <description>Carlo Ancelotti po finale Ligi Mistrzów z Borussią Dortmund udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera R ealu Madryt z tej rozmowy na murawie Wembley.</description>
+    </item>
+    
+    <item>
+        <title>Carvajal: W pierwszej połowie nie zasługiwaliśmy nawet na remis</title>
+        <link>https://www.realmadryt.pl/news/130104-carvajal-w-pierwszej-polowie-nie-zaslugiwalismy-nawet-na-remis</link>
+        <pubDate>Sat, 01 Jun 2024 23:11:00 GMT</pubDate>
+        <description>Dani Carvajal po finale Ligi Mistrzów z Borussią Dortmund udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z tej rozmowy na murawie Wembley.</description>
+    </item>
+    
+    <item>
+        <title>Carvajal MVP finału z Borussią</title>
+        <link>https://www.realmadryt.pl/news/130103-carvajal-mvp-finalu-z-borussia</link>
+        <pubDate>Sat, 01 Jun 2024 23:06:00 GMT</pubDate>
+        <description>Dani Carvajal otrzymał nagrodę dla najlepszego zawodnika wygranego 2:0 przez Real Madryt finału Ligi Mistrzów z Borussią Dortmund.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Borussią Dortmund</title>
+        <link>https://www.realmadryt.pl/news/130102-ocen-pilkarzy-po-meczu-z-borussia-dortmund</link>
+        <pubDate>Sat, 01 Jun 2024 23:05:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>W RAJU PO RAZ PIĘTNASTY!!!</title>
+        <link>https://www.realmadryt.pl/news/130101-w-raju-po-raz-pietnasty</link>
         <pubDate>Sat, 01 Jun 2024 21:50:00 GMT</pubDate>
-        <description>W finale Ligi Mistrzów Real Madryt remisuje z Borussią Dortmund na Wembley 0:0.</description>
+        <description>W finale Ligi Mistrzów Real Madryt wygrał z Borussią Dortmund na Wembley 2:0 po golach Daniego Carvajal i Viniego.</description>
     </item>
     
     <item>
@@ -46,34 +74,6 @@
         <link>https://www.realmadryt.pl/news/130098-lunin-dolaczyl-do-druzyny-w-londynie</link>
         <pubDate>Sat, 01 Jun 2024 17:06:00 GMT</pubDate>
         <description>Klub potwierdził, że Ukrainiec dołączył do zgrupowania Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>„Wydaje się, że Kroos nigdy się nie brudzi, nie poci…”</title>
-        <link>https://www.realmadryt.pl/news/130035-wydaje-sie-ze-kroos-nigdy-sie-nie-brudzi-nie-poci</link>
-        <pubDate>Sat, 01 Jun 2024 16:48:00 GMT</pubDate>
-        <description>Borja Valero swoje pierwsze kroki w futbolu stawiał w Realu Madryt, ale większą część swojej kariery spędził w Fiorentinie. Przy okazji finału Ligi Konferencji udzielił wywiadu dziennikowi AS, w którym odniósł się również do bieżących tematów związanych z Królewskimi.</description>
-    </item>
-    
-    <item>
-        <title>Ósmy finał Pucharu Europy rozgrywany na Wembley</title>
-        <link>https://www.realmadryt.pl/news/130048-osmy-final-pucharu-europy-rozgrywany-na-wembley</link>
-        <pubDate>Sat, 01 Jun 2024 15:36:00 GMT</pubDate>
-        <description>Za kilka dni Wembley po raz ósmy w historii będzie gościć finalistów rozgrywek o Puchar Europy. Inauguracja obiektu miała miejsce 1923 roku, a sam Pelé określił go mianem „katedry futbolu”.</description>
-    </item>
-    
-    <item>
-        <title>Bohaterowie Pucharów Europy – La Decimocuarta</title>
-        <link>https://www.realmadryt.pl/news/130096-bohaterowie-pucharow-europy-la-decimocuarta</link>
-        <pubDate>Sat, 01 Jun 2024 14:57:00 GMT</pubDate>
-        <description>Przy okazji odliczania do wielkiego finału Ligi Mistrzów na Wembley będziemy przypominać o największych bohaterach każdego kolejnego Pucharu Europy w historii Realu Madryt. Ten czternasty zdobyty 28 maja 2022 roku w Paryżu został zapamiętany przede wszystkim przez wielkie remontady w fazie pucharowej i fantastyczny występ Courtois w finale z Liverpoolem.</description>
-    </item>
-    
-    <item>
-        <title>Makélélé: Ten finał będzie trudniejszy dla Realu Madryt niż dla Borussii</title>
-        <link>https://www.realmadryt.pl/news/130084-makelele-ten-final-bedzie-trudniejszy-dla-realu-madryt-niz-dla-borussii</link>
-        <pubDate>Sat, 01 Jun 2024 14:14:00 GMT</pubDate>
-        <description>Claude Makélélé jako ambasador marki FedEx podzielił się swoimi odczuciami przed finałem Ligi Mistrzów pomiędzy Realem Madryt a Borussią Dortmund. Poniżej przedstawiamy zapis wypowiedzi byłego pomocnika Królewskich.</description>
     </item>
     
 </channel>
