@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 22:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 22:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino: Te rozgrywki są bardzo nasze</title>
+        <link>https://www.realmadryt.pl/news/130111-florentino-te-rozgrywki-sa-bardzo-nasze</link>
+        <pubDate>Sun, 02 Jun 2024 00:33:00 GMT</pubDate>
+        <description>Florentino Pérez udzielił wywiadu dla telewizji Movistar+ po wygranym finale Ligi Mistrzów z Borussią Dortmund. Przedstawiamy wypowiedzi prezesa Królewskich.</description>
+    </item>
     
     <item>
         <title>Joselu: Trzeba się tym cieszyć, ponieważ na to zasłużyliśmy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130100-ancelotti-czuje-sie-jak-lew-ale-ja-nie-gram</link>
         <pubDate>Sat, 01 Jun 2024 19:48:00 GMT</pubDate>
         <description>Carlo Ancelotti przed finałem Ligi Mistrzów z Borussią Dortmund udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Vini zagra po dwóch dniach walki z gorączką</title>
-        <link>https://www.realmadryt.pl/news/130099-relevo-vini-zagra-po-dwoch-dniach-walki-z-goraczka</link>
-        <pubDate>Sat, 01 Jun 2024 19:35:00 GMT</pubDate>
-        <description>Vinícius w czwartek i piątek przyjmował leki ze względu na wysoką temperaturę. Jednak dziś czuje się znacznie lepiej.</description>
     </item>
     
 </channel>
