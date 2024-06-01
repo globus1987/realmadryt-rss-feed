@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 09:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 10:21:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Epos o Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/130077-epos-o-realu-madryt</link>
+        <pubDate>Sat, 01 Jun 2024 12:00:00 GMT</pubDate>
+        <description>Choć na świecie wciąż istnieją miejsca bez dostępu do Internetu, czy nawet elektryczności, nawet w takie zakątki docierają pieśni o wielkim Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dojazdówka – finał Ligi Mistrzów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130090-koszykarski-real-z-drugim-zwyciestwem-nad-barcelona</link>
         <pubDate>Fri, 31 May 2024 22:33:00 GMT</pubDate>
         <description>Koszykarski Real Madryt wygrał drugi półfinał ligowy z Barceloną i do awansu do finałów brakuje mu tylko jednego zwycięstwa nad Katalończykami. Kolejne spotkanie w niedzielę.</description>
-    </item>
-    
-    <item>
-        <title>Mózgiem Borussii jest Nuri Şahin</title>
-        <link>https://www.realmadryt.pl/news/130045-mozgiem-borussii-jest-nuri-sahin</link>
-        <pubDate>Fri, 31 May 2024 22:00:00 GMT</pubDate>
-        <description>Niegdysiejszy zawodnik Los Blancos jest asystentem trenera Edina Terzicia w Dortmundzie i jego praca jest bardzo ceniona.</description>
     </item>
     
 </channel>
