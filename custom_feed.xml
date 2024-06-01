@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 08:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 09:21:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dojazdówka – finał Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/130095-dojazdowka-final-ligi-mistrzow</link>
+        <pubDate>Sat, 01 Jun 2024 11:00:00 GMT</pubDate>
+        <description>Wróciliśmy dzięki słowom Carlo Ancelottiego o strachu. Boimy się, ale spróbujmy.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130045-mozgiem-borussii-jest-nuri-sahin</link>
         <pubDate>Fri, 31 May 2024 22:00:00 GMT</pubDate>
         <description>Niegdysiejszy zawodnik Los Blancos jest asystentem trenera Edina Terzicia w Dortmundzie i jego praca jest bardzo ceniona.</description>
-    </item>
-    
-    <item>
-        <title>300 zł za zwycięzcę w finale Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/130088-300-zl-za-zwyciezce-w-finale-ligi-mistrzow</link>
-        <pubDate>Fri, 31 May 2024 21:20:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
