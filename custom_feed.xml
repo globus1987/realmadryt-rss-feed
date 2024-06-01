@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 03:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 03:39:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jesteśmy szczęśliwi, ale przychodzi też zaniepokojenie i strach</title>
+        <link>https://www.realmadryt.pl/news/130089-ancelotti-jestesmy-szczesliwi-ale-przychodzi-tez-zaniepokojenie-i-strach</link>
+        <pubDate>Sat, 01 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym finałem Ligi Mistrzów z Borussią Dortmund. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Wembley.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130085-modric-posiadanie-6-pucharow-europy-byloby-czyms-imponujacym</link>
         <pubDate>Fri, 31 May 2024 18:25:00 GMT</pubDate>
         <description>Luka Modrić pojawił się na konferencji prasowej przed finałem Ligi Mistrzów z Borussią Dortmund. Przedstawiamy zapis tego spotkania drugiego kapitana Realu Madryt z dziennikarzami na Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni otwarty trening przed finałem Ligi Mistrzów [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/130080-ostatni-otwarty-trening-przed-finalem-ligi-mistrzow-na-zywo</link>
-        <pubDate>Fri, 31 May 2024 18:14:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed finałem Ligi Mistrzów z Borussią Dortmund.</description>
     </item>
     
 </channel>
