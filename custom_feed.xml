@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 21:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 21:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde: Wskazówki trenera? Coś tam zrozumiałem</title>
+        <link>https://www.realmadryt.pl/news/130107-valverde-wskazowki-trenera-cos-tam-zrozumialem</link>
+        <pubDate>Sat, 01 Jun 2024 23:52:00 GMT</pubDate>
+        <description>Fede Valverde rozmawiał z dziennikarzami RMTV po zakończeniu spotkania. Poniżej przedstawiamy wypowiedzi Urugwajczyka.</description>
+    </item>
     
     <item>
         <title>Nacho: To poświęcenie całego mojego życia dla tego klubu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130097-borussia-dortmund-real-madryt-znamy-sklady</link>
         <pubDate>Sat, 01 Jun 2024 18:21:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w finale Ligi Mistrzów z Borussią Dortmund. Spotkanie rozpocznie się o godzinie 21:00 na Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Piąty dublet na horyzoncie</title>
-        <link>https://www.realmadryt.pl/news/130063-piaty-dublet-na-horyzoncie</link>
-        <pubDate>Sat, 01 Jun 2024 17:55:00 GMT</pubDate>
-        <description>Wygrana w finale Ligi Mistrzów na Wembley byłaby dla Realu Madryt jednoznaczna ze zdobyciem piątego dubletu w całej historii klubu. Wcześniej Królewscy dokonywali tego w 1957, 1958, 2017 i 2022 roku.</description>
     </item>
     
 </channel>
