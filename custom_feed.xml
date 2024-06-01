@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Jun 2024 05:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 06:25:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmiana UEFA na korzyść Ardy Gülera</title>
+        <link>https://www.realmadryt.pl/news/130083-zmiana-uefa-na-korzysc-ardy-guelera</link>
+        <pubDate>Sat, 01 Jun 2024 08:16:00 GMT</pubDate>
+        <description>Choć nie zostało to oficjalnie ogłoszone, obecnie każdy zawodnik triumfującego klubu, nawet jeśli nie zagrał choćby minuty w danej edycji Ligi Mistrzów, jest już traktowany jak pełnoprawny zwycięzca rozgrywek.</description>
+    </item>
     
     <item>
         <title>Borussia Dortmund – Real Madryt: Przewidywane składy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130087-real-madryt-odbyl-trening-na-wembley</link>
         <pubDate>Fri, 31 May 2024 19:19:00 GMT</pubDate>
         <description>Królewscy odbyli trening na Wembley w Londynie. Były to ostatnie zajęcia przed finałem Ligi Mistrzów i ostatnie zajęcia w sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Nacho: To był najbardziej niespokojny tydzień w sezonie</title>
-        <link>https://www.realmadryt.pl/news/130086-nacho-to-byl-najbardziej-niespokojny-tydzien-w-sezonie</link>
-        <pubDate>Fri, 31 May 2024 18:44:00 GMT</pubDate>
-        <description>Nacho pojawił się na konferencji prasowej przed finałem Ligi Mistrzów z Borussią Dortmund. Przedstawiamy zapis tego spotkania kapitana Realu Madryt z dziennikarzami na Wembley.</description>
     </item>
     
 </channel>
