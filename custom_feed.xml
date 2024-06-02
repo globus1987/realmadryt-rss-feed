@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Jun 2024 06:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 06:53:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kroos: Jestem szczęśliwy, że odchodzę w tym stylu</title>
+        <link>https://www.realmadryt.pl/news/130113-kroos-jestem-szczesliwy-ze-odchodze-w-tym-stylu</link>
+        <pubDate>Sun, 02 Jun 2024 08:42:00 GMT</pubDate>
+        <description>Toni Kroos udzielił wywiadu dla telewizji Movistar+ po wygranym 2:0 finale Ligi Mistrzów z Borussią Dortmund, który był też jego ostatnim spotkaniem w Realu Madryt. Przedstawiamy wypowiedzi legendy Królewskich.</description>
+    </item>
     
     <item>
         <title>Vinícius: Zacząłem wierzyć, że jestem najlepszy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130105-ancelotti-w-pierwszej-polowie-bylismy-troche-leniwi</link>
         <pubDate>Sat, 01 Jun 2024 23:16:00 GMT</pubDate>
         <description>Carlo Ancelotti po finale Ligi Mistrzów z Borussią Dortmund udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera R ealu Madryt z tej rozmowy na murawie Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal: W pierwszej połowie nie zasługiwaliśmy nawet na remis</title>
-        <link>https://www.realmadryt.pl/news/130104-carvajal-w-pierwszej-polowie-nie-zaslugiwalismy-nawet-na-remis</link>
-        <pubDate>Sat, 01 Jun 2024 23:11:00 GMT</pubDate>
-        <description>Dani Carvajal po finale Ligi Mistrzów z Borussią Dortmund udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z tej rozmowy na murawie Wembley.</description>
     </item>
     
 </channel>
