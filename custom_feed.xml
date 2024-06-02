@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Jun 2024 14:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 14:38:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po finale z Borussią Dortmund</title>
+        <link>https://www.realmadryt.pl/news/130128-oceny-zawodnikow-po-finale-z-borussia-dortmund</link>
+        <pubDate>Sun, 02 Jun 2024 16:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał w finale Ligi Mistrzów z Borussia Dortmund 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>The Athletic: Modrić i Lucas z umowami na kolejny sezon</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130110-courtois-lunin-ma-za-soba-swietny-rok-i-musimy-mu-podziekowac</link>
         <pubDate>Sun, 02 Jun 2024 09:33:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu z murawy dla telewizji Movistar+ po wygranym 2:0 finale Ligi Mistrzów z Borussią Dortmund. Przedstawiamy wypowiedzi bramkarza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Jestem szczęśliwy, że odchodzę w tym stylu</title>
-        <link>https://www.realmadryt.pl/news/130113-kroos-jestem-szczesliwy-ze-odchodze-w-tym-stylu</link>
-        <pubDate>Sun, 02 Jun 2024 08:42:00 GMT</pubDate>
-        <description>Toni Kroos udzielił wywiadu dla telewizji Movistar+ po wygranym 2:0 finale Ligi Mistrzów z Borussią Dortmund, który był też jego ostatnim spotkaniem w Realu Madryt. Przedstawiamy wypowiedzi legendy Królewskich.</description>
     </item>
     
 </channel>
