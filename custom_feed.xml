@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Jun 2024 15:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 15:38:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świętowanie Ligi Mistrzów przez Real Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/130129-swietowanie-ligi-mistrzow-przez-real-madryt-na-zywo</link>
+        <pubDate>Sun, 02 Jun 2024 17:30:00 GMT</pubDate>
+        <description>O godzinie 17:45 rozpoczyna się świętowanie Pucharu Europy. Królewscy odwiedzą hierarchów kościelnych i lokalne władze oraz będą świętować z kibicami.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po finale z Borussią Dortmund</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130109-kartka-z-kalendarza-2-czerwca</link>
         <pubDate>Sun, 02 Jun 2024 10:24:00 GMT</pubDate>
         <description>Śmierć legendarnego prezesa, urodziny byłego prezesa i byłego trenera, a także prezentacje trenerów. Co działo się 2 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Łunin ma za sobą świetny rok i musimy mu podziękować</title>
-        <link>https://www.realmadryt.pl/news/130110-courtois-lunin-ma-za-soba-swietny-rok-i-musimy-mu-podziekowac</link>
-        <pubDate>Sun, 02 Jun 2024 09:33:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu z murawy dla telewizji Movistar+ po wygranym 2:0 finale Ligi Mistrzów z Borussią Dortmund. Przedstawiamy wypowiedzi bramkarza Królewskich.</description>
     </item>
     
 </channel>
