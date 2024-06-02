@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Jun 2024 04:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 05:18:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz dzisiejszego świętowania Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/130114-terminarz-dzisiejszego-swietowania-ligi-mistrzow</link>
+        <pubDate>Sun, 02 Jun 2024 07:00:00 GMT</pubDate>
+        <description>Real Madryt w oficjalny sposób będzie świętować dzisiaj zdobycie Ligi Mistrzów. Przedstawiamy harmonogram świętowania przekazany przez klubową telewizję.</description>
+    </item>
     
     <item>
         <title>15. Puchar Europy – Księga gratulacyjna</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130103-carvajal-mvp-finalu-z-borussia</link>
         <pubDate>Sat, 01 Jun 2024 23:06:00 GMT</pubDate>
         <description>Dani Carvajal otrzymał nagrodę dla najlepszego zawodnika wygranego 2:0 przez Real Madryt finału Ligi Mistrzów z Borussią Dortmund.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Borussią Dortmund</title>
-        <link>https://www.realmadryt.pl/news/130102-ocen-pilkarzy-po-meczu-z-borussia-dortmund</link>
-        <pubDate>Sat, 01 Jun 2024 23:05:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
