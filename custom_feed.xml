@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Jun 2024 11:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 12:33:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarze poszukają dobicia Barcelony</title>
+        <link>https://www.realmadryt.pl/news/130126-koszykarze-poszukaja-dobicia-barcelony</link>
+        <pubDate>Sun, 02 Jun 2024 14:23:00 GMT</pubDate>
+        <description>Koszykarze Królewskich stają dzisiaj przed pierwszą z trzech możliwych szans na awans do ligowych finałów. Zadanie jest jednak trudne, bo zagrają w Barcelonie.</description>
+    </item>
     
     <item>
         <title>Cristiano chce stworzyć madrycką kolonię w Al-Nassr</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130114-terminarz-dzisiejszego-swietowania-ligi-mistrzow</link>
         <pubDate>Sun, 02 Jun 2024 07:00:00 GMT</pubDate>
         <description>Real Madryt w oficjalny sposób będzie świętować dzisiaj zdobycie Ligi Mistrzów. Przedstawiamy harmonogram świętowania przekazany przez klubową telewizję.</description>
-    </item>
-    
-    <item>
-        <title>15. Puchar Europy – Księga gratulacyjna</title>
-        <link>https://www.realmadryt.pl/news/130115-15-puchar-europy-ksiega-gratulacyjna</link>
-        <pubDate>Sun, 02 Jun 2024 03:01:00 GMT</pubDate>
-        <description>Real Madryt zdobył właśnie swój 15. Puchar Europy. Zapraszamy do złożenia pamiątkowego wpisu w naszej inicjatywie.</description>
     </item>
     
 </channel>
