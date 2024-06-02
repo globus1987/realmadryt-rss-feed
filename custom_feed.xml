@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Jun 2024 13:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 13:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Athletic: Modrić i Lucas z umowami na kolejny sezon</title>
+        <link>https://www.realmadryt.pl/news/130127-the-athletic-modric-i-lucas-z-umowami-na-kolejny-sezon</link>
+        <pubDate>Sun, 02 Jun 2024 15:40:00 GMT</pubDate>
+        <description>Mario Cortegana z The Athletic potwierdza, że dwójka weteranów pozostanie w zespole na kolejny rok.</description>
+    </item>
     
     <item>
         <title>Modrić: Porozmawiamy z klubem i niedługo wszystkiego się dowiecie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130113-kroos-jestem-szczesliwy-ze-odchodze-w-tym-stylu</link>
         <pubDate>Sun, 02 Jun 2024 08:42:00 GMT</pubDate>
         <description>Toni Kroos udzielił wywiadu dla telewizji Movistar+ po wygranym 2:0 finale Ligi Mistrzów z Borussią Dortmund, który był też jego ostatnim spotkaniem w Realu Madryt. Przedstawiamy wypowiedzi legendy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Zacząłem wierzyć, że jestem najlepszy</title>
-        <link>https://www.realmadryt.pl/news/130116-vinicius-zaczalem-wierzyc-ze-jestem-najlepszy</link>
-        <pubDate>Sun, 02 Jun 2024 07:51:00 GMT</pubDate>
-        <description>Vinícius Júnior po finale Ligi Mistrzów z Borussią Dortmund udzielił wywiadu telewizji RTVE. Przedstawiamy wypowiedzi atakującego Realu Madryt z tej rozmowy na murawie Wembley.</description>
     </item>
     
 </channel>
