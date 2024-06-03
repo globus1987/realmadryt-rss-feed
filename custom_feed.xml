@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Jun 2024 03:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 03:39:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius chce dalej pisać historię</title>
+        <link>https://www.realmadryt.pl/news/130120-vinicius-chce-dalej-pisac-historie</link>
+        <pubDate>Mon, 03 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Dwupokoleniowy Real Madryt po raz kolejny sięgnął po najwyższy europejski laur. 15. Puchar Europy zdobyty przez Królewskich jest zarazem szóstym w kolekcji dla Modricia, Carvajala, Nacho i Toniego Kroosa oraz pierwszym dla Ardy. Inni z kolei są w trakcie drogi do poszerzania swojego CV o kolejne uszate puchary. Jednym z takich graczy jest Vinícius.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130127-the-athletic-modric-i-lucas-z-umowami-na-kolejny-sezon</link>
         <pubDate>Sun, 02 Jun 2024 15:40:00 GMT</pubDate>
         <description>Mario Cortegana z The Athletic potwierdza, że dwójka weteranów pozostanie w zespole na kolejny rok.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Porozmawiamy z klubem i niedługo wszystkiego się dowiecie</title>
-        <link>https://www.realmadryt.pl/news/130125-modric-porozmawiamy-z-klubem-i-niedlugo-wszystkiego-sie-dowiecie</link>
-        <pubDate>Sun, 02 Jun 2024 15:10:00 GMT</pubDate>
-        <description>Luka Modrić po finale Ligi Mistrzów z Borussią Dortmund udzielił wywiadu radiu SER. Przedstawiamy wypowiedzi zawodnika Realu Madryt na Wembley w sprawie przyszłości.</description>
     </item>
     
 </channel>
