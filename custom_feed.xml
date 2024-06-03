@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Jun 2024 23:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 23:38:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ile będzie zarabiać Kylian Mbappé w Realu Madryt?</title>
+        <link>https://www.realmadryt.pl/news/130162-ile-bedzie-zarabiac-kylian-mbappe-w-realu-madryt</link>
+        <pubDate>Tue, 04 Jun 2024 01:33:00 GMT</pubDate>
+        <description>Le Parisien podkreśla, że teraz w negocjacjach lepszą pozycję miał klub, co pozwoliło mu znacząco zmniejszyć pieniądze wydawane na 25-latka względem rozmów sprzed dwóch lat. Przypomnijmy, że to właśnie stołeczna gazeta jako pierwsza podała też dokładne zarobki i bonusy w ostatniej umowie Francuza z Paris Saint-Germain.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130143-bez-graczy-realu-ani-mbappe-w-kadrze-olimpijskiej-francji</link>
         <pubDate>Mon, 03 Jun 2024 16:30:00 GMT</pubDate>
         <description>Francuzi podali wstępną kadrę na Igrzyska Olimpijskie w Paryżu. Nie ma na niej żadnego piłkarza Realu Madryt ani Kyliana Mbappé. Selekcjoner wyraził w tej sprawie spory żal.</description>
-    </item>
-    
-    <item>
-        <title>Pedrerol: Ogłoszenie ws. Mbappé o 19:00</title>
-        <link>https://www.realmadryt.pl/news/130148-pedrerol-ogloszenie-ws-mbappe-o-19-00</link>
-        <pubDate>Mon, 03 Jun 2024 15:11:00 GMT</pubDate>
-        <description>Dziennikarz pchający od wielu lat transfer Kyliana Mbappé do Realu Madryt wskazał dokładną godzinę oficjalnego ogłoszenia tej operacji.</description>
     </item>
     
 </channel>
