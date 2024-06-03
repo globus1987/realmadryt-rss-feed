@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Jun 2024 05:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 05:38:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kroos publicznie przekazał swój numer Valverde</title>
+        <link>https://www.realmadryt.pl/news/130135-kroos-publicznie-przekazal-swoj-numer-valverde</link>
+        <pubDate>Mon, 03 Jun 2024 07:25:00 GMT</pubDate>
+        <description>Niemiec wykonał piękny gest wobec Urugwajczyka, który podziwiał go od dziecka. Zmiana numeru stała się publicznie potwierdzona.</description>
+    </item>
     
     <item>
         <title>Vinícius chce dalej pisać historię</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130128-oceny-zawodnikow-po-finale-z-borussia-dortmund</link>
         <pubDate>Sun, 02 Jun 2024 16:30:00 GMT</pubDate>
         <description>Real Madryt wygrał w finale Ligi Mistrzów z Borussia Dortmund 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Modrić i Lucas z umowami na kolejny sezon</title>
-        <link>https://www.realmadryt.pl/news/130127-the-athletic-modric-i-lucas-z-umowami-na-kolejny-sezon</link>
-        <pubDate>Sun, 02 Jun 2024 15:40:00 GMT</pubDate>
-        <description>Mario Cortegana z The Athletic potwierdza, że dwójka weteranów pozostanie w zespole na kolejny rok.</description>
     </item>
     
 </channel>
