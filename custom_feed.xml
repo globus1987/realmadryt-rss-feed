@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Jun 2024 08:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 08:53:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Atlético może ruszyć po Łunina</title>
+        <link>https://www.realmadryt.pl/news/130165-relevo-atletico-moze-ruszyc-po-lunina</link>
+        <pubDate>Tue, 04 Jun 2024 10:49:00 GMT</pubDate>
+        <description>Ewentualne przedłużenie kontraktu z Ukraińcem wcale nie musi oznaczać jego pozostania w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Kolejny stracony sezon</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130152-mbappe-marzenie-sie-spelnilo</link>
         <pubDate>Mon, 03 Jun 2024 20:01:00 GMT</pubDate>
         <description>Kylian Mbappé zamieścił powitalny wpis na swoich mediach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Sylwetka Kyliana Mbappé</title>
-        <link>https://www.realmadryt.pl/news/130153-sylwetka-kyliana-mbappe</link>
-        <pubDate>Mon, 03 Jun 2024 19:58:00 GMT</pubDate>
-        <description>Real Madryt oficjalnie potwierdził pozyskanie Kyliana Mbappé. Przedstawiamy sylwetkę francuskiego napastnika.</description>
     </item>
     
 </channel>
