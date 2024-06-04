@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Jun 2024 22:39:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 22:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130182-dzisiejsze-okladki</link>
+        <pubDate>Wed, 05 Jun 2024 00:41:00 GMT</pubDate>
+        <description>Tradycja Florentino Péreza, słowa Kyliana Mbappé oraz wypowiedzi Joana Laporty to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Podcast 5x27: Never over</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130169-florentino-wstawil-do-gabloty-15-puchar-europy</link>
         <pubDate>Tue, 04 Jun 2024 15:04:00 GMT</pubDate>
         <description>Real Madryt poinformował, że prezes Florentino Pérez wstawił 15. Puchar Europy zdobyty przez piłkarzy do specjalnej gabloty w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Nacho spotka się z klubem, aby omówić swoją przyszłość</title>
-        <link>https://www.realmadryt.pl/news/130168-the-athletic-nacho-spotka-sie-z-klubem-aby-omowic-swoja-przyszlosc</link>
-        <pubDate>Tue, 04 Jun 2024 14:13:00 GMT</pubDate>
-        <description>Czy kapitan ostatecznie zostanie? Niebawem powinniśmy poznać odpowiedź na to pytanie.</description>
     </item>
     
 </channel>
