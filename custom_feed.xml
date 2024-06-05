@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Jun 2024 09:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 09:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 5 czerwca</title>
+        <link>https://www.realmadryt.pl/news/130186-kartka-z-kalendarza-5-czerwca</link>
+        <pubDate>Wed, 05 Jun 2024 11:48:00 GMT</pubDate>
+        <description>Derbowy mecz Pucharu Ligi na Vicente Calderón, urodziny byłego zawodnika, wygrany finał ligi w wykonaniu koszykarzy i powrót pomocnika. Co działo się 5 czerwca?</description>
+    </item>
     
     <item>
         <title>Dlaczego nie można kupić nowej koszulki Realu z nazwiskiem Mbappé?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130182-dzisiejsze-okladki</link>
         <pubDate>Wed, 05 Jun 2024 00:41:00 GMT</pubDate>
         <description>Tradycja Florentino Péreza, słowa Kyliana Mbappé oraz wypowiedzi Joana Laporty to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x27: Never over</title>
-        <link>https://www.realmadryt.pl/news/130180-podcast-5x27-never-over</link>
-        <pubDate>Tue, 04 Jun 2024 23:43:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest głównie finałowi Ligi Mistrzów z Borussią Dortmund. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
