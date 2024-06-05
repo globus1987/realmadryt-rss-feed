@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Jun 2024 14:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 14:38:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za bramkę Polski z Ukrainą!</title>
+        <link>https://www.realmadryt.pl/news/130193-300-zl-za-bramke-polski-z-ukraina</link>
+        <pubDate>Wed, 05 Jun 2024 16:31:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Bellingham piłkarzem na Pięć Gwiazdek za cały sezon</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130185-domowe-koszulki-na-sezon-2024-25-zaprezentowane</link>
         <pubDate>Wed, 05 Jun 2024 10:01:00 GMT</pubDate>
         <description>Domowa koszulka jak zawsze jest biała, ale na bokach kolor fioletowy i złoty zastępuje czarny.</description>
-    </item>
-    
-    <item>
-        <title>Hezonja jednak zostanie?</title>
-        <link>https://www.realmadryt.pl/news/130178-hezonja-jednak-zostanie</link>
-        <pubDate>Wed, 05 Jun 2024 09:58:00 GMT</pubDate>
-        <description>Przyszłość Mario Hezonji ciągle stoi pod znakiem zapytania. Wydawało się, że odejdzie z Madrytu, ale ostatnie informacje wskazują na coś innego.</description>
     </item>
     
 </channel>
