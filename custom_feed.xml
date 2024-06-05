@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Jun 2024 06:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 07:18:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Następny przystanek: Warszawa</title>
+        <link>https://www.realmadryt.pl/news/130170-nastepny-przystanek-warszawa</link>
+        <pubDate>Wed, 05 Jun 2024 09:07:00 GMT</pubDate>
+        <description>14 sierpnia Real Madryt powalczy o pierwsze z siedmiu trofeów w nowym sezonie. Na PGE Narodowym w Warszawie rywalem Królewskich w Superpucharze Europy będzie Atalanta.</description>
+    </item>
     
     <item>
         <title>Pełna gotowość w sprawie Joselu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130161-ile-trofeow-zdobyl-real-madryt</link>
         <pubDate>Tue, 04 Jun 2024 18:40:00 GMT</pubDate>
         <description>Real Madryt wywalczył w sobotę swój 15. Puchar Europy. Ogólnie było to też 103. oficjalne trofeum w jego historii, chociaż sam klub dolicza się dwóch pucharów więcej.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: PSG brutalnie mówiło mi, że nie będę grać</title>
-        <link>https://www.realmadryt.pl/news/130172-mbappe-psg-brutalnie-mowilo-mi-ze-nie-bede-grac</link>
-        <pubDate>Tue, 04 Jun 2024 17:46:00 GMT</pubDate>
-        <description>Kylian Mbappé pojawił się na konferencji prasowej przed jutrzejszym meczem reprezentacji Francji z Luksemburgiem. Przedstawiamy najważniejsze wypowiedzi kapitana Francji i nowego piłkarza Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
