@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Jun 2024 19:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 19:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Najsmutniejszy gol Mbappé</title>
+        <link>https://www.realmadryt.pl/news/130222-najsmutniejszy-gol-mbappe</link>
+        <pubDate>Thu, 06 Jun 2024 21:40:00 GMT</pubDate>
+        <description>Kylian zadedykował bramkę zdobytą przeciwko Luksemburgowi Alexandre Konstantinidisowi, który zmarł 1 czerwca i był jego trenerem w AS Bondy.</description>
+    </item>
     
     <item>
         <title>Katalończycy dotykają dna w manipulacji ws. pensji Mbappé</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130219-oficjalnie-premier-league-zachowuje-system-var</link>
         <pubDate>Thu, 06 Jun 2024 14:54:00 GMT</pubDate>
         <description>Na wniosek Wolverhampton odbyło się głosowanie nad wycofaniem systemu VAR z Premier League. Pozostałe kluby zgodnie odrzuciły tę propozycję.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Gala Złotej Piłki 28 października</title>
-        <link>https://www.realmadryt.pl/news/130218-oficjalnie-gala-zlotej-pilki-28-pazdziernika</link>
-        <pubDate>Thu, 06 Jun 2024 14:42:00 GMT</pubDate>
-        <description>Organizatorzy Złotej Piłki potwierdzili datę kolejnej gali, gdzie nagrodzą najlepszych za kończący się sezon. Poinformowano o stworzeniu dwóch dodatkowych nagród w ramach plebiscytu.</description>
     </item>
     
 </channel>
