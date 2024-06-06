@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Jun 2024 19:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 20:22:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Debiut w Primera i więcej, niż mógł oczekiwać</title>
+        <link>https://www.realmadryt.pl/news/130226-debiut-w-primera-i-wiecej-niz-mogl-oczekiwac</link>
+        <pubDate>Thu, 06 Jun 2024 22:20:00 GMT</pubDate>
+        <description>Kontynuujemy serię podsumowań występów piłkarzy związanych z Realem Madryt. Teraz kolej na Petera Federico, który bez większych nadziei poszedł na wypożyczenie do Valencii, a stał się w pewnym momencie jednym z ważniejszych elementów ofensywy Los Che.</description>
+    </item>
     
     <item>
         <title>Najsmutniejszy gol Mbappé</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130217-camavinga-kylian-jest-taki-jak-zawsze-nic-sie-nie-zmienilo</link>
         <pubDate>Thu, 06 Jun 2024 15:45:00 GMT</pubDate>
         <description>Eduardo Camavinga wziął udział w konferencji prasowej podczas zgrupowania reprezentacji Francji.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Premier League zachowuje system VAR</title>
-        <link>https://www.realmadryt.pl/news/130219-oficjalnie-premier-league-zachowuje-system-var</link>
-        <pubDate>Thu, 06 Jun 2024 14:54:00 GMT</pubDate>
-        <description>Na wniosek Wolverhampton odbyło się głosowanie nad wycofaniem systemu VAR z Premier League. Pozostałe kluby zgodnie odrzuciły tę propozycję.</description>
     </item>
     
 </channel>
