@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Jun 2024 06:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 07:19:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Raúl podjął decyzję w sprawie przyszłości</title>
+        <link>https://www.realmadryt.pl/news/130202-marca-raul-podjal-decyzje-w-sprawie-przyszlosci</link>
+        <pubDate>Thu, 06 Jun 2024 09:07:00 GMT</pubDate>
+        <description>Florentino Pérez został poinformowany, że były legendarny zawodnik Realu Madryt spędzi jeszcze jeden, już szósty, sezon jako trener rezerw Królewskich.</description>
+    </item>
     
     <item>
         <title>Vinícius: Teraz mam nadzieję wygrać tytuł z reprezentacją</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130199-manchester-city-szuka-zwiekszenia-swojej-sily-finansowej</link>
         <pubDate>Wed, 05 Jun 2024 19:51:00 GMT</pubDate>
         <description>Obywatele zaatakowali własną ligę. Oczekują oni zmiany podejścia do ograniczania kontraktów sponsorskich, przez które mają oni problemy z Finansowym Fair Play.</description>
-    </item>
-    
-    <item>
-        <title>AS: Getafe zainteresowane wypożyczeniem Gülera</title>
-        <link>https://www.realmadryt.pl/news/130197-as-getafe-zainteresowane-wypozyczeniem-guelera</link>
-        <pubDate>Wed, 05 Jun 2024 19:00:00 GMT</pubDate>
-        <description>Priorytetem prezesa Getafe Ángela Torresa jest wypożyczenie do jego klubu 19-letniego Turka i spotka się w tej sprawie z Realem Madryt.</description>
     </item>
     
 </channel>
