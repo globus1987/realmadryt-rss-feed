@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Jun 2024 09:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 09:53:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Błąkanie trwa</title>
+        <link>https://www.realmadryt.pl/news/130213-blakanie-trwa</link>
+        <pubDate>Thu, 06 Jun 2024 11:40:00 GMT</pubDate>
+        <description>Kontynuujemy serię podsumowań występów piłkarzy związanych z Realem Madryt. Pora na Reiniera, który ostatniego dnia letniego okienka transferowego został wypożyczony do Frosinone. Sezon zakończył się jednak fatalnie, ponieważ jego zespół spadł do Serie B.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 6 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130203-puchar-narodow-afryki-moze-zostac-przesuniety-na-srodek-sezonu</link>
         <pubDate>Wed, 05 Jun 2024 22:10:00 GMT</pubDate>
         <description>Francuskie media wypuściły informacje o przesunięciu kolejnego Pucharu Narodów Afryki na środek sezonu. Sytuacja potencjalnie objęłaby gracza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Za mało na krok do przodu</title>
-        <link>https://www.realmadryt.pl/news/130171-za-malo-na-krok-do-przodu</link>
-        <pubDate>Wed, 05 Jun 2024 21:25:00 GMT</pubDate>
-        <description>Kolejnym zawodnikiem w analizie piłkarzy wypożyczonych i sprzedanych z Realu Madryt jest Víctor Chust, który w drugiej połowie sezonu stał się ważną postacią w drużynie z Kadyksu. Choć Hiszpan na pewno ma potencjał, zaczyna uciekać mu czas, by wejść na jeszcze wyższy poziom.</description>
     </item>
     
 </channel>
