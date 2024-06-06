@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Jun 2024 09:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 10:20:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>BILD: Bayern negocjuje z agentem Daviesa ws. nowego kontraktu</title>
+        <link>https://www.realmadryt.pl/news/130216-bild-bayern-negocjuje-z-agentem-daviesa-ws-nowego-kontraktu</link>
+        <pubDate>Thu, 06 Jun 2024 12:20:00 GMT</pubDate>
+        <description>Niemiecki klub złożył obrońcy nową propozycję i oferuje mu teraz większe pieniądze niż wcześniej.</description>
+    </item>
     
     <item>
         <title>Błąkanie trwa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130206-real-madryt-ucam-murcia-w-finale-ligi-endesa</link>
         <pubDate>Wed, 05 Jun 2024 22:57:00 GMT</pubDate>
         <description>UCAM Murcia zagra w finale Ligi Endesa po wyeliminowaniu Unicajy. Ten półfinał był bardzo nietypowy, ponieważ w każdym z pięciu meczów zwyciężała drużyna gości. Początek finałowej rywalizacji już w niedzielę.</description>
-    </item>
-    
-    <item>
-        <title>Puchar Narodów Afryki może zostać przesunięty na środek sezonu</title>
-        <link>https://www.realmadryt.pl/news/130203-puchar-narodow-afryki-moze-zostac-przesuniety-na-srodek-sezonu</link>
-        <pubDate>Wed, 05 Jun 2024 22:10:00 GMT</pubDate>
-        <description>Francuskie media wypuściły informacje o przesunięciu kolejnego Pucharu Narodów Afryki na środek sezonu. Sytuacja potencjalnie objęłaby gracza Realu Madryt.</description>
     </item>
     
 </channel>
