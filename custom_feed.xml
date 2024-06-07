@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Jun 2024 22:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 22:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130260-dzisiejsze-okladki</link>
+        <pubDate>Sat, 08 Jun 2024 00:34:00 GMT</pubDate>
+        <description>Wygrana Carlosa Alcaraza i kadra Hiszpanii na EURO to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Real daje czas Nacho tylko do 30 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130237-gaspart-real-swietowal-tak-jakby-dotarl-na-ksiezyc</link>
         <pubDate>Fri, 07 Jun 2024 17:53:00 GMT</pubDate>
         <description>Joan Gaspart, były prezes Blaugrany, który rozpoczął płacenie wiceszefowi Komitetu Arbitrów [oficjalnie, bo inne źródła wskazują, że proceder mógł trwać od lat 90.] gościł w podcaście Solo para culés Joty Jordiego, w którym skomentował świętowanie przez Real Madryt zdobycie 15. Pucharu Europy w historii. Przedstawiamy wypowiedzi Katalończyka.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Teresa Abelleira przedłużyła kontrakt z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/130225-oficjalnie-teresa-abelleira-przedluzyla-kontrakt-z-realem-madryt</link>
-        <pubDate>Fri, 07 Jun 2024 17:02:00 GMT</pubDate>
-        <description>Królewscy poinformowali o przedłużeniu umowy z Teresą Abelleirą do czerwca 2026 roku. Hiszpanka to w ostatnich miesiącach jedna z najlepszych pomocniczek La Roja i filar drugiej linii Las Blancas.</description>
     </item>
     
 </channel>
