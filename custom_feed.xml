@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Jun 2024 13:00:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 13:28:59 GMT</lastBuildDate>
     
     <item>
-        <title>Kroos: Będę pracował w szkółce Realu</title>
-        <link>https://www.realmadryt.pl/news/130241-kroos-bede-pracowal-w-szkolce-realu</link>
+        <title>Kicker zmanipulował lub mylnie zinterpretował słowa Kroosa</title>
+        <link>https://www.realmadryt.pl/news/130242-kicker-zmanipulowal-lub-mylnie-zinterpretowal-slowa-kroosa</link>
+        <pubDate>Fri, 07 Jun 2024 15:17:00 GMT</pubDate>
+        <description>Niemiec nie będzie pracował w szkółce Realu, o czym miał rzekomo powiedzieć na łamach niemieckiego magazynu, który po czasie zmieniał jednak jego odpowiedź.</description>
+    </item>
+    
+    <item>
+        <title>Kroos: Chcę być zapamiętany jako ten, który rozegrał swój najlepszy sezon</title>
+        <link>https://www.realmadryt.pl/news/130241-kroos-chce-byc-zapamietany-jako-ten-ktory-rozegral-swoj-najlepszy-sezon</link>
         <pubDate>Fri, 07 Jun 2024 14:29:00 GMT</pubDate>
         <description>Toni Kroos udzielił wywiadu niemieckiemu dziennikowi Kicker i zdradził między innymi, co zamierza robić po zakończeniu piłkarskiej kariery.</description>
     </item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130230-real-madryt-u-12-rozpoczyna-dzisiaj-gre-w-turnieju-la-ligi</link>
         <pubDate>Fri, 07 Jun 2024 09:07:00 GMT</pubDate>
         <description>La Liga rozpoczyna dzisiaj zmagania w krajowym turnieju FC Futures (poprzednia nazwa Promises), w którym wezmą udział drużyny U-12 klubów Primera División. Królewscy dzisiaj rozegrają trzy pierwsze mecze w swojej grupie.</description>
-    </item>
-    
-    <item>
-        <title>Dwie galaktyki</title>
-        <link>https://www.realmadryt.pl/news/130220-dwie-galaktyki</link>
-        <pubDate>Fri, 07 Jun 2024 08:16:00 GMT</pubDate>
-        <description>Nowa jedenastka Realu Madryt jest bliska osiągnięcia wartości ponad 900 milionów euro, podczas gdy drużyna z Zidane’em, Beckhamem czy Figo w składzie wyceniana była na 239 milionów euro.</description>
     </item>
     
 </channel>
