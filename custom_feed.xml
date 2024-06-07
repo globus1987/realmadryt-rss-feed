@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Jun 2024 16:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 16:44:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wiele minut, mało konkretów</title>
+        <link>https://www.realmadryt.pl/news/130224-wiele-minut-malo-konkretow</link>
+        <pubDate>Fri, 07 Jun 2024 18:44:00 GMT</pubDate>
+        <description>Kontynuujemy serię podsumowań występów piłkarzy związanych z Realem Madryt. Tym razem pora na Marvina, który zeszłego lata został wypożyczony do Las Palmas. Hiszpan pod wodzą Francisco Garcíi Pimienty mógł liczyć na regularną grę i zyskał bardzo cenne doświadczenie w swoim pierwszym sezonie w La Lidze, choć w niektórych momentach można było oczekiwać od niego trochę więcej.</description>
+    </item>
     
     <item>
         <title>Gaspart: Real świętował tak, jakby dotarł na księżyc</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130239-nacho-dani-carvajal-i-joselu-powolani-na-euro</link>
         <pubDate>Fri, 07 Jun 2024 12:29:00 GMT</pubDate>
         <description>Nacho, Dani Carvajal i Joselu udadzą się ostatecznie na Mistrzostwa Europy w Niemczech. Selekcjoner reprezentacji Hiszpanii skreślił trzech piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Messi: Jeśli chodzi o wyniki, to najlepszą drużyną jest Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/130238-messi-jesli-chodzi-o-wyniki-to-najlepsza-druzyna-jest-real-madryt</link>
-        <pubDate>Fri, 07 Jun 2024 12:13:00 GMT</pubDate>
-        <description>Leo Messi udzielił wywiadu dla internetowego dziennika infobae. Argentyński piłkarz został zapytany między innymi o to, która drużyna według niego jest aktualnie najlepsza na świecie.</description>
     </item>
     
 </channel>
