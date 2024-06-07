@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Jun 2024 05:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 06:28:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwie galaktyki</title>
+        <link>https://www.realmadryt.pl/news/130220-dwie-galaktyki</link>
+        <pubDate>Fri, 07 Jun 2024 08:16:00 GMT</pubDate>
+        <description>Nowa jedenastka Realu Madryt jest bliska osiągnięcia wartości ponad 900 milionów euro, podczas gdy drużyna z Zidane’em, Beckhamem czy Figo w składzie wyceniana była na 239 milionów euro.</description>
+    </item>
     
     <item>
         <title>Neymar: Vinícius zasługuje na Złotą Piłkę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130221-bellingham-w-kadrze-anglii-na-euro</link>
         <pubDate>Thu, 06 Jun 2024 19:00:00 GMT</pubDate>
         <description>Pomocnik Realu Madryt znalazł się w ostatecznej 26-osobowej kadrze Anglii na EURO. Na turniej nie pojedzie m.in. Jack Grealish.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Real otwarty na sprzedaż Álvaro Rodrígueza</title>
-        <link>https://www.realmadryt.pl/news/130205-the-athletic-real-otwarty-na-sprzedaz-alvaro-rodrigueza</link>
-        <pubDate>Thu, 06 Jun 2024 18:18:00 GMT</pubDate>
-        <description>Álvaro Rodríguez może tego lata odejść z Realu Madryt. Klub planuje go sprzedać z zachowaniem praw do jego odkupu.</description>
     </item>
     
 </channel>
