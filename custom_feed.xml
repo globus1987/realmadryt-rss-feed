@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Jun 2024 11:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 11:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dobrze, ale może być lepiej</title>
+        <link>https://www.realmadryt.pl/news/130227-dobrze-ale-moze-byc-lepiej</link>
+        <pubDate>Fri, 07 Jun 2024 13:20:00 GMT</pubDate>
+        <description>Kontynuujemy serię podsumowań występów piłkarzy związanych z Realem Madryt. Pora na Antonio Blanco, który latem na zasadzie transferu definitywnego odszedł do Deportivo Alavés, z którym zdołał utrzymać się w La Lidze, a nawet zająć w niej solidne 10. miejsce, będąc ważnym ogniwem drużyny.</description>
+    </item>
     
     <item>
         <title>Nacho, Dani Carvajal i Joselu powołani na EURO</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130174-dwunasty-galactico-florentino-pereza</link>
         <pubDate>Fri, 07 Jun 2024 05:30:00 GMT</pubDate>
         <description>Kylian Mbappé stał się dwunastym Galáctico Florentino Péreza. Francuz spełnia swoje marzenie i dołącza do takich nazwisk jak Figo, Zidane, Cristiano Ronaldo, Bale czy Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130231-dzisiejsze-okladki</link>
-        <pubDate>Fri, 07 Jun 2024 00:22:00 GMT</pubDate>
-        <description>Przyszłość Realu Madryt i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
