@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Jun 2024 22:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 23:21:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130278-dzisiejsze-okladki</link>
+        <pubDate>Sun, 09 Jun 2024 00:57:00 GMT</pubDate>
+        <description>Wygrana Hiszpanów i finał Carlosa Alcaraza to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wygrana Hiszpanii na Majorce, asysta Nacho [VIDEO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130245-nowe-wyzwanie-carvajala</link>
         <pubDate>Sat, 08 Jun 2024 17:39:00 GMT</pubDate>
         <description>Dani Carvajal w wieku 32 lat i po wygraniu wszystkiego w Realu Madryt stanie przed szansą na debiut na EURO. Wcześniej Hiszpan przegapiał europejskie turnieje z powodu różnego rodzaju problemów zdrowotnych.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Getafe zainteresowane Álvaro Rodriguezem</title>
-        <link>https://www.realmadryt.pl/news/130263-relevo-getafe-zainteresowane-alvaro-rodriguezem</link>
-        <pubDate>Sat, 08 Jun 2024 16:48:00 GMT</pubDate>
-        <description>Po triumfach pierwszego zespołu planowanie kolejnego sezonu ruszyły pełną parą. Tyczy się to jednak nie tylko drużyny prowadzonej przez Carlo Ancelottiego, lecz także tych pod wodzą Raula i Arbeloi. Zarówno szkoleniowiec Castilli, jak i Juvenilu A pozostaną na swoich stanowiskach, co jednak nie zmienia faktu, że przyszłość niektórych ich podopiecznych pozostaje niejasna.</description>
     </item>
     
 </channel>
