@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Jun 2024 15:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 15:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowe wyzwanie Carvajala</title>
+        <link>https://www.realmadryt.pl/news/130245-nowe-wyzwanie-carvajala</link>
+        <pubDate>Sat, 08 Jun 2024 17:39:00 GMT</pubDate>
+        <description>Dani Carvajal w wieku 32 lat i po wygraniu wszystkiego w Realu Madryt stanie przed szansą na debiut na EURO. Wcześniej Hiszpan przegapiał europejskie turnieje z powodu różnego rodzaju problemów zdrowotnych.</description>
+    </item>
     
     <item>
         <title>Relevo: Getafe zainteresowane Álvaro Rodriguezem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130254-kartka-z-kalendarza-8-czerwca</link>
         <pubDate>Sat, 08 Jun 2024 10:00:00 GMT</pubDate>
         <description>Urodziny legendarnego prezesa i legendarnego piłkarza, wejście, które niemal zakończyło karierę Amancio, a także wyjątkowy mecz reprezentacji Hiszpanii z samymi piłkarzami młodzieżówki. Co działo się 8 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Andrés Feliz dołączy do Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130228-andres-feliz-dolaczy-do-realu-madryt</link>
-        <pubDate>Sat, 08 Jun 2024 09:09:00 GMT</pubDate>
-        <description>Real Madryt poszukuje na rynku rozgrywających, żeby uzupełnić braki przed kolejnym sezonem. Wybór padł na Andrésa Feliza z Joventutu, który będzie kosztował 500 tysięcy euro.</description>
     </item>
     
 </channel>
