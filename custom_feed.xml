@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Jun 2024 09:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 09:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niestrzelający napastnik i zadaniowiec</title>
+        <link>https://www.realmadryt.pl/news/130261-niestrzelajacy-napastnik-i-zadaniowiec</link>
+        <pubDate>Sat, 08 Jun 2024 11:42:00 GMT</pubDate>
+        <description>Kontynuujemy serię podsumowań występów piłkarzy związanych z Realem Madryt. Pora na Juanmiego Latasę, który 2 lipca ubiegłego roku został ponownie wypożyczony do Getafe. W tym sezonie na pewno zrobił krok do przodu, przede wszystkim z powodu częstszych występów.</description>
+    </item>
     
     <item>
         <title>Początek finałowej walki o mistrzostwo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130252-wygrana-maroka-asysta-brahima-video</link>
         <pubDate>Fri, 07 Jun 2024 22:57:00 GMT</pubDate>
         <description>W drugim meczu eliminacji do Mistrzostw Świata w 2026 roku Maroko pokonało u siebie Zambię 2:1. Asystę przy drugim golu dla Maroka zaliczył Brahim Díaz.</description>
-    </item>
-    
-    <item>
-        <title>Remontada Niemców z Grecją</title>
-        <link>https://www.realmadryt.pl/news/130253-remontada-niemcow-z-grecja</link>
-        <pubDate>Fri, 07 Jun 2024 22:50:00 GMT</pubDate>
-        <description>Niemcy w ostatnim sprawdzianie przed mistrzostwami Europy pokonali Grecję 2:1, chociaż to rywale jako pierwsi wyszli na prowadzenie. Andrij Łunin natomiast czeka na swoją szansę, a w Warszawie przesiedział całe spotkanie na ławce rezerwowych.</description>
     </item>
     
 </channel>
