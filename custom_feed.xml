@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Jun 2024 16:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 17:17:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od trypletu do trypletu</title>
+        <link>https://www.realmadryt.pl/news/130265-od-trypletu-do-trypletu</link>
+        <pubDate>Sun, 09 Jun 2024 18:58:00 GMT</pubDate>
+        <description>Real Madryt przechodzi przez najbardziej zwycięski cykl w swej historii, co nie jest przecież łatwe w przypadku klubu, który w latach 1956-66 sześciokrotnie sięgał po Puchar Europy lub który dwukrotnie był w stanie pięć razy z rzędu zdobywać mistrzostwo Hiszpanii.</description>
+    </item>
     
     <item>
         <title>L’Équipe: Kylian Mbappé ma stłuczone kolano</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130282-serge-ibaka-blisko-powrotu-do-realu-madryt</link>
         <pubDate>Sun, 09 Jun 2024 11:42:00 GMT</pubDate>
         <description>Hiszpański koszykarz jest bliski podpisania rocznego kontraktu z Realem Madryt, dla którego grał już przez kilka miesięcy w 2011 roku podczas lockoutu w NBA.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real pracuje nad transferem Wirtza</title>
-        <link>https://www.realmadryt.pl/news/130281-marca-real-pracuje-nad-transferem-wirtza</link>
-        <pubDate>Sun, 09 Jun 2024 10:51:00 GMT</pubDate>
-        <description>A właściwie to nawet dwa pakty. Pierwszy pomiędzy Bayerem a zawodnikiem, że ten zostanie jeszcze na kolejny sezon. Drugi, pomiędzy graczem a Realem, że piłkarz trafi do Madrytu latem 2025 roku.</description>
     </item>
     
 </channel>
