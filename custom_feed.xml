@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Jun 2024 22:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 22:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130303-dzisiejsze-okladki</link>
+        <pubDate>Mon, 10 Jun 2024 00:39:00 GMT</pubDate>
+        <description>Wygrana Carlosa Alcaraza w Paryżu i triumf szczypiornistów Barcelony to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Francja bezbramkowo remisuje z Kanadą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130286-mateo-odnieslismy-zwyciestwo-i-trzeba-isc-dalej</link>
         <pubDate>Sun, 09 Jun 2024 16:25:00 GMT</pubDate>
         <description>Chus Mateo i Džanan Musa wypowiedzieli się krótko po wygranym pierwszym spotkaniu z Murcią. Obaj zwracali uwagę na to, że trzeba oddawać rzuty z większą pewnością siebie.</description>
-    </item>
-    
-    <item>
-        <title>Brahim Díaz powinien już szykować się na wakacje?</title>
-        <link>https://www.realmadryt.pl/news/130293-brahim-diaz-powinien-juz-szykowac-sie-na-wakacje</link>
-        <pubDate>Sun, 09 Jun 2024 15:34:00 GMT</pubDate>
-        <description>Reprezentacja Maroka ma we wtorek zagrać z Kongiem w ramach eliminacji mistrzostw świata, ale do spotkania najprawdopodobniej nie dojdzie, gdyż rywale z środkowej Afryki nie chcą lecieć na mecz, bo mają swoje powody…</description>
     </item>
     
 </channel>
