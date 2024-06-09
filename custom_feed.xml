@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Jun 2024 22:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 23:18:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za gola Polski z Turcją!</title>
+        <link>https://www.realmadryt.pl/news/130304-300-zl-za-gola-polski-z-turcja</link>
+        <pubDate>Mon, 10 Jun 2024 01:01:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130288-davide-ancelotti-nie-zamierza-odchodzic</link>
         <pubDate>Sun, 09 Jun 2024 17:16:00 GMT</pubDate>
         <description>Davide Ancelotti sam wyznacza sobie szlak. Jak na razie poprosił on swojego agenta, by ignorować oferty innych klubów.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Odnieśliśmy zwycięstwo i trzeba iść dalej</title>
-        <link>https://www.realmadryt.pl/news/130286-mateo-odnieslismy-zwyciestwo-i-trzeba-isc-dalej</link>
-        <pubDate>Sun, 09 Jun 2024 16:25:00 GMT</pubDate>
-        <description>Chus Mateo i Džanan Musa wypowiedzieli się krótko po wygranym pierwszym spotkaniu z Murcią. Obaj zwracali uwagę na to, że trzeba oddawać rzuty z większą pewnością siebie.</description>
     </item>
     
 </channel>
