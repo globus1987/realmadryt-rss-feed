@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Jun 2024 11:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 11:54:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni sprawdzian Francji</title>
+        <link>https://www.realmadryt.pl/news/130289-ostatni-sprawdzian-francji</link>
+        <pubDate>Sun, 09 Jun 2024 13:52:00 GMT</pubDate>
+        <description>O 21:15 rozpocznie się ostatni mecz towarzyski reprezentacji Francji przed Mistrzostwami Europy w Niemczech. Rywalem Trójkolorowych będzie Kanada.</description>
+    </item>
     
     <item>
         <title>Martinelli: Vinícius zasługuje na Złotą Piłkę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130266-haaland-glownym-poszkodowanym-transferu-mbappe</link>
         <pubDate>Sun, 09 Jun 2024 05:30:00 GMT</pubDate>
         <description>Transfer Kyliana Mbappé sprawia, że poszkodowany jest zwłaszcza jeden zawodnik. Mowa o Erlingu Haalandzie. Norweg i jego otoczenie poważnie brali pod uwagę przenosiny do Madrytu w 2025 roku. Sam Real także kilkukrotnie wypytywał o sytuację kontraktową piłkarza.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130278-dzisiejsze-okladki</link>
-        <pubDate>Sun, 09 Jun 2024 00:57:00 GMT</pubDate>
-        <description>Wygrana Hiszpanów i finał Carlosa Alcaraza to najważniejsze kwestie poruszane na niedzielnych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
