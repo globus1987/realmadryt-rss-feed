@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Jun 2024 18:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 18:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo w ostatnim domowym meczu w tym sezonie</title>
+        <link>https://www.realmadryt.pl/news/130297-zwyciestwo-w-ostatnim-domowym-meczu-w-tym-sezonie</link>
+        <pubDate>Sun, 09 Jun 2024 20:52:00 GMT</pubDate>
+        <description>W meczu 29. kolejki Ligi F piłkarki Realu Madryt pokonały na Estadio Alfredo Di Stéfano Athletic Bilbao 1:0. Bramkę na wagę zwycięstwa zdobyła tuż po wejściu na boisko Paula Comendador.</description>
+    </item>
     
     <item>
         <title>Aleñá: Nigdy nie odmówiłbym Realowi Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130289-ostatni-sprawdzian-francji</link>
         <pubDate>Sun, 09 Jun 2024 13:52:00 GMT</pubDate>
         <description>O 21:15 rozpocznie się ostatni mecz towarzyski reprezentacji Francji przed Mistrzostwami Europy w Niemczech. Rywalem Trójkolorowych będzie Kanada.</description>
-    </item>
-    
-    <item>
-        <title>Martinelli: Vinícius zasługuje na Złotą Piłkę</title>
-        <link>https://www.realmadryt.pl/news/130279-martinelli-vinicius-zasluguje-na-zlota-pilke</link>
-        <pubDate>Sun, 09 Jun 2024 13:24:00 GMT</pubDate>
-        <description>Brazylijki napastnik Arsenalu, Gabriel Martinelli, to kolejny zawodnik, który Złotą Piłkę za sezon 2023/24 wręczyłby Viníciusowi.</description>
     </item>
     
 </channel>
