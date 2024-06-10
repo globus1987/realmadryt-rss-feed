@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 08:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 08:41:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 czerwca</title>
+        <link>https://www.realmadryt.pl/news/130302-kartka-z-kalendarza-10-czerwca</link>
+        <pubDate>Mon, 10 Jun 2024 10:39:00 GMT</pubDate>
+        <description>Urodziny Carlo Ancelottiego (i nie tylko), rocznica transferu Casemiro i śmierć najwybitniejszego siatkarza w historii Realu Madryt. Co działo się 10 czerwca?</description>
+    </item>
     
     <item>
         <title>Ancelotti: Real tak jak inne kluby odrzuci zaproszenie na Klubowe Mistrzostwa Świata</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130291-wielka-przemiana</link>
         <pubDate>Sun, 09 Jun 2024 21:24:00 GMT</pubDate>
         <description>Czas na kolejną odsłonę cyklu dotyczącego zawodników związanych z Realem Madryt. Na piąte miejsce zdaniem redakcji RealMadryt.pl zasłużył Mario Gila, który porzucił rolę rezerwowego i stał się podstawowym zawodnikiem jednego z najmocniejszych włoskich klubów.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo w ostatnim domowym meczu w tym sezonie</title>
-        <link>https://www.realmadryt.pl/news/130297-zwyciestwo-w-ostatnim-domowym-meczu-w-tym-sezonie</link>
-        <pubDate>Sun, 09 Jun 2024 20:52:00 GMT</pubDate>
-        <description>W meczu 29. kolejki Ligi F piłkarki Realu Madryt pokonały na Estadio Alfredo Di Stéfano Athletic Bilbao 1:0. Bramkę na wagę zwycięstwa zdobyła tuż po wejściu na boisko Paula Comendador.</description>
     </item>
     
 </channel>
