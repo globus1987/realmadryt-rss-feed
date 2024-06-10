@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 20:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 20:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Polska wygrywa z Turcją, bardzo dobre 45 minut Ardy Gülera</title>
+        <link>https://www.realmadryt.pl/news/130321-polska-wygrywa-z-turcja-bardzo-dobre-45-minut-ardy-guelera</link>
+        <pubDate>Mon, 10 Jun 2024 22:44:00 GMT</pubDate>
+        <description>Polska wygrała na PGE Narodowym z Turcją 2:1 w ostatnim meczu towarzyskim przed Mistrzostwami Świata w Niemczech. Arda Güler pojawił się na boisku tuż po przerwie i rozegrał bardzo dobre 45 minut.</description>
+    </item>
     
     <item>
         <title>2:0 i hołd dla Rudy’ego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130313-oficjalny-komunikat-realu-ws-skazanych-pseudokibicow-valencii</link>
         <pubDate>Mon, 10 Jun 2024 14:51:00 GMT</pubDate>
         <description>Królewscy potwierdzili decyzję sądu w sprawie wydarzeń na Estadio Mestalla w ubiegłym roku.</description>
-    </item>
-    
-    <item>
-        <title>Obecność Realu na Klubowych Mistrzostwach Świata ma swoją cenę</title>
-        <link>https://www.realmadryt.pl/news/130312-obecnosc-realu-na-klubowych-mistrzostwach-swiata-ma-swoja-cene</link>
-        <pubDate>Mon, 10 Jun 2024 14:40:00 GMT</pubDate>
-        <description>Królewscy negocjują z FIFA nie tylko udział na Klubowych Mistrzostwach Świata, ale także warunku udostępnienia Santiago Bernabéu na finał Mistrzostw Świata w 2030 roku. Pieniądze i czas są kwestią sporną w obu tych sprawach.</description>
     </item>
     
 </channel>
