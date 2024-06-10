@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 05:19:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 05:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Problem na horyzoncie</title>
+        <link>https://www.realmadryt.pl/news/130301-problem-na-horyzoncie</link>
+        <pubDate>Mon, 10 Jun 2024 07:25:00 GMT</pubDate>
+        <description>Reinier wraca z wypożyczenia z Frosinone z kolejnymi wątpliwościami. Jego umowa z Realem Madryt trwa do 2026 roku, a klub liczy na to, że uda mu się odzyskać część zainwestowanej kwoty.</description>
+    </item>
     
     <item>
         <title>Solari ważniejszy niż można przypuszczać</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130265-od-trypletu-do-trypletu</link>
         <pubDate>Sun, 09 Jun 2024 18:58:00 GMT</pubDate>
         <description>Real Madryt przechodzi przez najbardziej zwycięski cykl w swej historii, co nie jest przecież łatwe w przypadku klubu, który w latach 1956-66 sześciokrotnie sięgał po Puchar Europy lub który dwukrotnie był w stanie pięć razy z rzędu zdobywać mistrzostwo Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>L’Équipe: Kylian Mbappé ma stłuczone kolano</title>
-        <link>https://www.realmadryt.pl/news/130295-l-equipe-kylian-mbappe-ma-stluczone-kolano</link>
-        <pubDate>Sun, 09 Jun 2024 18:03:00 GMT</pubDate>
-        <description>Piłkarz Realu Madryt nie zagra w dzisiejszym meczu z Kanadą. Będzie to ostatnie sparingowe spotkanie przed wyjazdem Francuzów na Mistrzostwa Europy w Niemczech.</description>
     </item>
     
 </channel>
