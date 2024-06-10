@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 22:20:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 22:38:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130324-dzisiejsze-okladki</link>
+        <pubDate>Tue, 11 Jun 2024 00:26:00 GMT</pubDate>
+        <description>Słowa Carlosa Alcaraza i Pepa Guardioli to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Polska wygrywa z Turcją, bardzo dobre 45 minut Ardy Gülera</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130314-oficjalny-komunikat-realu-ws-udzialu-w-klubowych-mistrzostwach-swiata</link>
         <pubDate>Mon, 10 Jun 2024 15:22:00 GMT</pubDate>
         <description>Królewscy oficjalnie zaprzeczyli słowom Carlo Ancelottiego, który udzielił wywiadu dla mediolańskiego dziennika Il Giornale i wyraźnie dał do zrozumienia, że Real Madryt nie zamierza brać udziału w klubowym mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat Realu ws. skazanych pseudokibiców Valencii</title>
-        <link>https://www.realmadryt.pl/news/130313-oficjalny-komunikat-realu-ws-skazanych-pseudokibicow-valencii</link>
-        <pubDate>Mon, 10 Jun 2024 14:51:00 GMT</pubDate>
-        <description>Królewscy potwierdzili decyzję sądu w sprawie wydarzeń na Estadio Mestalla w ubiegłym roku.</description>
     </item>
     
 </channel>
