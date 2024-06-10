@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 09:22:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 09:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arda Güler zagra w Warszawie</title>
+        <link>https://www.realmadryt.pl/news/130305-arda-gueler-zagra-w-warszawie</link>
+        <pubDate>Mon, 10 Jun 2024 11:30:00 GMT</pubDate>
+        <description>Dziś w Warszawie odbędzie się ostatni mecz towarzyski Polski i Turcji przed Mistrzostwami Europy w Niemczech. Szansę na występ powinien otrzymać Arda Güler, dla którego może to być swego rodzaju przetarcie przed Superpucharem Europy, który odbędzie się na tym samym stadionie.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 10 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130299-francja-bezbramkowo-remisuje-z-kanada</link>
         <pubDate>Sun, 09 Jun 2024 23:14:00 GMT</pubDate>
         <description>W ostatnim sprawdzianie przed Mistrzostwami Europy w Niemczech Francuzi bezbramkowo zremisowali w Bordeaux z Kanadą. Całe spotkanie rozegrał Eduardo Camavinga, a w drugiej połowie na murawie zameldowali się Ferland Mendy i Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Wielka przemiana</title>
-        <link>https://www.realmadryt.pl/news/130291-wielka-przemiana</link>
-        <pubDate>Sun, 09 Jun 2024 21:24:00 GMT</pubDate>
-        <description>Czas na kolejną odsłonę cyklu dotyczącego zawodników związanych z Realem Madryt. Na piąte miejsce zdaniem redakcji RealMadryt.pl zasłużył Mario Gila, który porzucił rolę rezerwowego i stał się podstawowym zawodnikiem jednego z najmocniejszych włoskich klubów.</description>
     </item>
     
 </channel>
