@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 10:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 10:53:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po drugie zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/130300-po-drugie-zwyciestwo</link>
+        <pubDate>Mon, 10 Jun 2024 12:48:00 GMT</pubDate>
+        <description>Real Madryt prowadzi z Murcią 1:0 w finałowej walce o mistrzostwo Hiszpanii. Dzisiaj obie drużyny zmierzą się ze sobą po raz drugi.</description>
+    </item>
     
     <item>
         <title>Trzech pseudokibiców Valencii skazanych na 8 miesięcy więzienia za obrażanie Viníciusa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130304-300-zl-za-gola-polski-z-turcja</link>
         <pubDate>Mon, 10 Jun 2024 01:01:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130303-dzisiejsze-okladki</link>
-        <pubDate>Mon, 10 Jun 2024 00:39:00 GMT</pubDate>
-        <description>Wygrana Carlosa Alcaraza w Paryżu i triumf szczypiornistów Barcelony to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
