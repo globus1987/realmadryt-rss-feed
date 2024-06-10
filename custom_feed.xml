@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Jun 2024 03:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 03:39:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Solari ważniejszy niż można przypuszczać</title>
+        <link>https://www.realmadryt.pl/news/130292-solari-wazniejszy-niz-mozna-przypuszczac</link>
+        <pubDate>Mon, 10 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Były trener bierze udział także przy podejmowaniu decyzji dotyczących pierwszego zespołu.</description>
+    </item>
     
     <item>
         <title>300 zł za gola Polski z Turcją!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130295-l-equipe-kylian-mbappe-ma-stluczone-kolano</link>
         <pubDate>Sun, 09 Jun 2024 18:03:00 GMT</pubDate>
         <description>Piłkarz Realu Madryt nie zagra w dzisiejszym meczu z Kanadą. Będzie to ostatnie sparingowe spotkanie przed wyjazdem Francuzów na Mistrzostwa Europy w Niemczech.</description>
-    </item>
-    
-    <item>
-        <title>Davide Ancelotti nie zamierza odchodzić</title>
-        <link>https://www.realmadryt.pl/news/130288-davide-ancelotti-nie-zamierza-odchodzic</link>
-        <pubDate>Sun, 09 Jun 2024 17:16:00 GMT</pubDate>
-        <description>Davide Ancelotti sam wyznacza sobie szlak. Jak na razie poprosił on swojego agenta, by ignorować oferty innych klubów.</description>
     </item>
     
 </channel>
