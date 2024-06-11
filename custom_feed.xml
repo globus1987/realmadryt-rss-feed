@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Jun 2024 07:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 08:25:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 czerwca</title>
+        <link>https://www.realmadryt.pl/news/130325-kartka-z-kalendarza-11-czerwca</link>
+        <pubDate>Tue, 11 Jun 2024 10:00:00 GMT</pubDate>
+        <description>Urodziny byłego koszykarza i bramkarza, 24. mistrzostwo Hiszpanii, zgoda, która zmieniła historię, indywidualna nagroda dla Fede Valverde i transfer pomocnika. Co działo się 11 czerwca?</description>
+    </item>
     
     <item>
         <title>Brutalna weryfikacja Mariano</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130319-bild-starcie-ruedigera-z-fuellkrugiem-na-treningu-kadry</link>
         <pubDate>Mon, 10 Jun 2024 20:28:00 GMT</pubDate>
         <description>Kamery niemieckich mediów na poniedziałkowym treningu uchwyciły poważny konflikt pomiędzy obrońcą Realu Madryt i napastnikiem Borussii Dortmund.</description>
-    </item>
-    
-    <item>
-        <title>Güler chce podbić Niemcy</title>
-        <link>https://www.realmadryt.pl/news/130290-gueler-chce-podbic-niemcy</link>
-        <pubDate>Mon, 10 Jun 2024 19:37:00 GMT</pubDate>
-        <description>Po świetnym finale sezonu w Realu Madryt, teraz Arda jedzie z reprezentacją Turcji na pierwszy, wielki turniej międzynarodowy.</description>
     </item>
     
 </channel>
