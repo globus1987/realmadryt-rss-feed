@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Jun 2024 03:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 03:38:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino i jego dziedzictwo</title>
+        <link>https://www.realmadryt.pl/news/130247-florentino-i-jego-dziedzictwo</link>
+        <pubDate>Tue, 11 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Autorem tekstu jest Pedro Lancha, jeden z redaktorów popularnego wśród hiszpańskich kibiców Realu bloga La Galera.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130307-endrick-porownania-do-pelego-jestescie-szaleni-kazdy-ma-swoja-historie</link>
         <pubDate>Mon, 10 Jun 2024 16:13:00 GMT</pubDate>
         <description>Endrick udzielił wypowiedzi dla brazylijskich mediów po wygranym 3:2 meczu z Meksykiem, w którym przyszły piłkarz Realu Madryt zdobył bramkę na wagę zwycięstwa. 17-latek odniósł się do porównań jego występów do Pelégo.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat Realu ws. udziału w Klubowych Mistrzostwach Świata</title>
-        <link>https://www.realmadryt.pl/news/130314-oficjalny-komunikat-realu-ws-udzialu-w-klubowych-mistrzostwach-swiata</link>
-        <pubDate>Mon, 10 Jun 2024 15:22:00 GMT</pubDate>
-        <description>Królewscy oficjalnie zaprzeczyli słowom Carlo Ancelottiego, który udzielił wywiadu dla mediolańskiego dziennika Il Giornale i wyraźnie dał do zrozumienia, że Real Madryt nie zamierza brać udziału w klubowym mundialu.</description>
     </item>
     
 </channel>
