@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Jun 2024 05:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 05:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Poza Mbappé Real Madryt potrzebuje środkowego napastnika”</title>
+        <link>https://www.realmadryt.pl/news/130318-poza-mbappe-real-madryt-potrzebuje-srodkowego-napastnika</link>
+        <pubDate>Tue, 11 Jun 2024 07:25:00 GMT</pubDate>
+        <description>Alfonso Pérez w trakcie swojej piłkarskiej kariery miał okazję bronić barw zarówno Realu Madryt, jak i Barcelony. W wywiadzie dla dziennika AS poruszył bieżące tematy związane z Królewskimi i hiszpańskim futbolem.</description>
+    </item>
     
     <item>
         <title>Florentino i jego dziedzictwo</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130298-karne-od-koszmaru-po-chwale</link>
         <pubDate>Mon, 10 Jun 2024 17:55:00 GMT</pubDate>
         <description>W pierwszej części sezonu 2023/24 rzuty karne były dla Realu Madryt istnym koszmarem. Ostatecznie w kluczowym momencie okazały się być drogą ku chwale.</description>
-    </item>
-    
-    <item>
-        <title>Endrick: Porównania do Pelégo? Jesteście szaleni, każdy ma swoją historię</title>
-        <link>https://www.realmadryt.pl/news/130307-endrick-porownania-do-pelego-jestescie-szaleni-kazdy-ma-swoja-historie</link>
-        <pubDate>Mon, 10 Jun 2024 16:13:00 GMT</pubDate>
-        <description>Endrick udzielił wypowiedzi dla brazylijskich mediów po wygranym 3:2 meczu z Meksykiem, w którym przyszły piłkarz Realu Madryt zdobył bramkę na wagę zwycięstwa. 17-latek odniósł się do porównań jego występów do Pelégo.</description>
     </item>
     
 </channel>
