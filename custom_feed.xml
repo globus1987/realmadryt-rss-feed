@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Jun 2024 22:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 22:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130350-dzisiejsze-okladki</link>
+        <pubDate>Wed, 12 Jun 2024 00:28:00 GMT</pubDate>
+        <description>Wywiady przed EURO i początek pracy Hansiego Flicka to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko rozgromiło Kongo</title>
         <link>https://www.realmadryt.pl/news/130348-maroko-rozgromilo-kongo</link>
         <pubDate>Tue, 11 Jun 2024 23:05:00 GMT</pubDate>
-        <description>Brahim Díaz zaliczył nie najlepszy występ przeciwko Republice Konga, choć jego koledzy urządzili sobie goleadę.</description>
+        <description>Brahim Díaz zaliczył nie najlepszy występ przeciwko Republice Konga, choć jego koledzy urządzili sobie goleadę, a on dołożył asystę.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130333-dziennikarz-od-wywiadu-z-ancelottim-powiedzial-ze-nie-pojada-na-klubowy-mundial</link>
         <pubDate>Tue, 11 Jun 2024 15:57:00 GMT</pubDate>
         <description>Słowa Carlo Ancelottiego dla Il Giornale stworzyły wielką debatę, chociaż sam trener zapewnia, że został źle zrozumiany. Dziennikarz przeprowadzający wywiad twierdzi, że wszystko zostało opublikowane dokładnie z przekazem Włocha.</description>
-    </item>
-    
-    <item>
-        <title>Florentino Pérez rozsadził monopol</title>
-        <link>https://www.realmadryt.pl/news/130332-florentino-perez-rozsadzil-monopol</link>
-        <pubDate>Tue, 11 Jun 2024 15:06:00 GMT</pubDate>
-        <description>Joaquín Maroto to dziennikarz Asa, który może pochwalić się bezpośrednim dostępem do Florentino Péreza. Maroto to były dyrektor komunikacji w Realu Madryt i były dyrektor komunikacji w firmie Florentino. Przedstawiamy jego felieton w sprawie udziału Realu Madryt w nowym Klubowym Mundialu.</description>
     </item>
     
 </channel>
