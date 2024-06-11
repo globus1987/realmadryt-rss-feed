@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Jun 2024 11:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 11:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Robinho odbywa wyrok, uczy się naprawiać radia i rozdaje książki</title>
+        <link>https://www.realmadryt.pl/news/130330-robinho-odbywa-wyrok-uczy-sie-naprawiac-radia-i-rozdaje-ksiazki</link>
+        <pubDate>Tue, 11 Jun 2024 13:24:00 GMT</pubDate>
+        <description>Brazylijczyk od kilku miesięcy przebywa już w więzieniu, a angielski dziennik The Sun skontaktował się z jego agentem, aby dowiedzieć się, jak wygląda obecnie życie byłego zawodnika Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Spełnione oczekiwania i nowy kontrakt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130324-dzisiejsze-okladki</link>
         <pubDate>Tue, 11 Jun 2024 00:26:00 GMT</pubDate>
         <description>Słowa Carlosa Alcaraza i Pepa Guardioli to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Polska wygrywa z Turcją, bardzo dobre 45 minut Ardy Gülera</title>
-        <link>https://www.realmadryt.pl/news/130321-polska-wygrywa-z-turcja-bardzo-dobre-45-minut-ardy-guelera</link>
-        <pubDate>Mon, 10 Jun 2024 22:44:00 GMT</pubDate>
-        <description>Polska wygrała na PGE Narodowym z Turcją 2:1 w ostatnim meczu towarzyskim przed Mistrzostwami Świata w Niemczech. Arda Güler pojawił się na boisku tuż po przerwie i rozegrał bardzo dobre 45 minut.</description>
     </item>
     
 </channel>
