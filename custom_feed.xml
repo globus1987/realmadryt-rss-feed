@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Jun 2024 11:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 12:38:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pilna sprawa do wyjaśnienia</title>
+        <link>https://www.realmadryt.pl/news/130329-pilna-sprawa-do-wyjasnienia</link>
+        <pubDate>Tue, 11 Jun 2024 14:15:00 GMT</pubDate>
+        <description>Kontrakt Ferlanda Mendy'ego wygasa 30 czerwca 2025 roku i piłkarz wciąż czeka na sygnał od klubu ws. parafowania nowej umowy.</description>
+    </item>
     
     <item>
         <title>Robinho odbywa wyrok, uczy się naprawiać radia i rozdaje książki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130247-florentino-i-jego-dziedzictwo</link>
         <pubDate>Tue, 11 Jun 2024 05:30:00 GMT</pubDate>
         <description>Autorem tekstu jest Pedro Lancha, jeden z redaktorów popularnego wśród hiszpańskich kibiców Realu bloga La Galera.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130324-dzisiejsze-okladki</link>
-        <pubDate>Tue, 11 Jun 2024 00:26:00 GMT</pubDate>
-        <description>Słowa Carlosa Alcaraza i Pepa Guardioli to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
