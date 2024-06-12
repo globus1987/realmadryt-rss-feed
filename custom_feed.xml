@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Jun 2024 22:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 22:38:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130372-dzisiejsze-okladki</link>
+        <pubDate>Thu, 13 Jun 2024 00:37:00 GMT</pubDate>
+        <description>Mistrzostwo Realu Madryt i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt mistrzem Hiszpanii!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130346-mateo-praca-jeszcze-nie-jest-skonczona</link>
         <pubDate>Wed, 12 Jun 2024 15:55:00 GMT</pubDate>
         <description>Chus Mateo wypowiedział się przed trzecim finałowym spotkaniem z Murcią. Mówił o tym, że przed drużyną ciągle jest praca do zrobienia.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real ma już datę prezentacji Mbappé</title>
-        <link>https://www.realmadryt.pl/news/130358-relevo-real-ma-juz-date-prezentacji-mbappe</link>
-        <pubDate>Wed, 12 Jun 2024 15:04:00 GMT</pubDate>
-        <description>Los Blancos i otoczenie zawodnika uzgodnili termin jego prezentacji na Santiago Bernabéu. Ma ona się odbyć 16 lipca.</description>
     </item>
     
 </channel>
