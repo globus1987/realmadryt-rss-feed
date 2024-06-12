@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Jun 2024 08:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 08:54:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 12 czerwca</title>
+        <link>https://www.realmadryt.pl/news/130353-kartka-z-kalendarza-12-czerwca</link>
+        <pubDate>Wed, 12 Jun 2024 10:49:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza i byłego koszykarza, śmierć legendarnego strzelca, nasz wywiad z Calderónem i niefortunne ogłoszenie nazwiska nowego trenera. Co działo się 12 czerwca?</description>
+    </item>
     
     <item>
         <title>Niepewna przyszłość Petera</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130339-drugie-zycie-jeremyego-de-leona</link>
         <pubDate>Tue, 11 Jun 2024 20:49:00 GMT</pubDate>
         <description>Skrzydłowy Realu Madryt stał się gwiazdą w swoim kraju, gdzie chce wynieść futbol na inny poziom.</description>
-    </item>
-    
-    <item>
-        <title>Ukraina rozbiła Mołdawię, czyste konto Łunina</title>
-        <link>https://www.realmadryt.pl/news/130342-ukraina-rozbila-moldawie-czyste-konto-lunina</link>
-        <pubDate>Tue, 11 Jun 2024 19:57:00 GMT</pubDate>
-        <description>Ukraina zakończyła przygotowania po Mistrzostw Europy zwycięstwem z Mołdawią 4:0. Andrij Łunin zaliczył dwunasty występ w barwach drużyny narodowej i zachował czyste konto.</description>
     </item>
     
 </channel>
