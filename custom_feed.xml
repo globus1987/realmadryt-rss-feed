@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Jun 2024 16:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 16:42:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Laporta: Jesteśmy najlepszym klubem na świecie, mamy 48 Lig Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/130360-laporta-jestesmy-najlepszym-klubem-na-swiecie-mamy-48-lig-mistrzow</link>
+        <pubDate>Wed, 12 Jun 2024 18:30:00 GMT</pubDate>
+        <description>Joan Laporta spotkał się z tak zwanym Senatem FC Barcelona, który tworzy 1000 socios z największym stażem członkostwa. Przedstawiamy wypowiedzi prezesa Barcelony z tego spotkania z właścicielami klubu.</description>
+    </item>
     
     <item>
         <title>Trzech najdroższych piłkarzy na świecie w Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130353-kartka-z-kalendarza-12-czerwca</link>
         <pubDate>Wed, 12 Jun 2024 10:49:00 GMT</pubDate>
         <description>Urodziny byłego piłkarza i byłego koszykarza, śmierć legendarnego strzelca, nasz wywiad z Calderónem i niefortunne ogłoszenie nazwiska nowego trenera. Co działo się 12 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Niepewna przyszłość Petera</title>
-        <link>https://www.realmadryt.pl/news/130338-niepewna-przyszlosc-petera</link>
-        <pubDate>Wed, 12 Jun 2024 09:58:00 GMT</pubDate>
-        <description>Najpóźniej 30 czerwca dowiemy się, jaki kierunek obierze dalsza kariera Petera Federico. Do wspomnianego dnia Valencia może zapłacić ustalone 2 miliony, by wykupić połowę praw do piłkarza. Na ten moment jednak trudno stwierdzić, czy piłkarz koniec końców pozostanie na Estadio Mestalla.</description>
     </item>
     
 </channel>
