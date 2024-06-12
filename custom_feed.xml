@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Jun 2024 11:18:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 11:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Kolejny rok bez Trofeo Santiago Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/130356-as-kolejny-rok-bez-trofeo-santiago-bernabeu</link>
+        <pubDate>Wed, 12 Jun 2024 13:22:00 GMT</pubDate>
+        <description>Ostatni mecz o trofeum imienia legendarnego prezesa Real Madryt rozegrał w 2018 roku.</description>
+    </item>
     
     <item>
         <title>Po trzeci tytuł w sezonie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130350-dzisiejsze-okladki</link>
         <pubDate>Wed, 12 Jun 2024 00:28:00 GMT</pubDate>
         <description>Wywiady przed EURO i początek pracy Hansiego Flicka to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Maroko rozgromiło Kongo</title>
-        <link>https://www.realmadryt.pl/news/130348-maroko-rozgromilo-kongo</link>
-        <pubDate>Tue, 11 Jun 2024 23:05:00 GMT</pubDate>
-        <description>Brahim Díaz zaliczył nie najlepszy występ przeciwko Republice Konga, choć jego koledzy urządzili sobie goleadę, a on dołożył asystę.</description>
     </item>
     
 </channel>
