@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Jun 2024 07:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 08:24:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niepewna przyszłość Petera</title>
+        <link>https://www.realmadryt.pl/news/130338-niepewna-przyszlosc-petera</link>
+        <pubDate>Wed, 12 Jun 2024 09:58:00 GMT</pubDate>
+        <description>Najpóźniej 30 czerwca dowiemy się, jaki kierunek obierze dalsza kariera Petera Federico. Do wspomnianego dnia Valencia może zapłacić ustalone 2 miliony, by wykupić połowę praw do piłkarza. Na ten moment jednak trudno stwierdzić, czy piłkarz koniec końców pozostanie na Estadio Mestalla.</description>
+    </item>
     
     <item>
         <title>Relevo: Real pozostawia Mendy’emu otwarte drzwi do odejścia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130342-ukraina-rozbila-moldawie-czyste-konto-lunina</link>
         <pubDate>Tue, 11 Jun 2024 19:57:00 GMT</pubDate>
         <description>Ukraina zakończyła przygotowania po Mistrzostw Europy zwycięstwem z Mołdawią 4:0. Andrij Łunin zaliczył dwunasty występ w barwach drużyny narodowej i zachował czyste konto.</description>
-    </item>
-    
-    <item>
-        <title>Czy Rüdiger może odejść do Arabii Saudyjskiej?</title>
-        <link>https://www.realmadryt.pl/news/130340-czy-ruediger-moze-odejsc-do-arabii-saudyjskiej</link>
-        <pubDate>Tue, 11 Jun 2024 19:25:00 GMT</pubDate>
-        <description>W nocnym Chiringuito stworzono informację o zainteresowaniu Antonio Rüdigerem ze strony Al-Nassr. W ojczyźnie piłkarza zdementowano, że stoper myśli o odejściu.</description>
     </item>
     
 </channel>
