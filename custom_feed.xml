@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Jun 2024 10:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 11:17:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Kylian Mbappé zostanie zaprezentowany 16 lipca</title>
+        <link>https://www.realmadryt.pl/news/130378-marca-kylian-mbappe-zostanie-zaprezentowany-16-lipca</link>
+        <pubDate>Thu, 13 Jun 2024 13:15:00 GMT</pubDate>
+        <description>Data jest już niemal pewna i została ustalona przez klub oraz zawodnika bez względu na, co wydarzy się w trakcie Mistrzostw Europy w Niemczech.</description>
+    </item>
+    
+    <item>
+        <title>„Güler podnosi energię w całym zespole”</title>
+        <link>https://www.realmadryt.pl/news/130343-gueler-podnosi-energie-w-calym-zespole</link>
+        <pubDate>Thu, 13 Jun 2024 12:57:00 GMT</pubDate>
+        <description>Yusuf Yazıcı mimo dopiero 27 lat na karku już teraz jest jednym z weteranów reprezentacji Turcji. Występujący na co dzień w Lille pomocnik w wywiadzie dla dziennika AS omówił trzy nazwiska związane z Realem Madryt – Kylian Mbappé, Leny Yoro i Arda Güler.</description>
+    </item>
     
     <item>
         <title>Džanan Musa MVP Finału Ligi Endesa</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130373-gol-rodrygo-w-zremisowanym-sparingu-brazylii</link>
         <pubDate>Thu, 13 Jun 2024 03:09:00 GMT</pubDate>
         <description>Brazylia zremisowała w sparingu ze Stanami Zjednoczonymi. Pełny mecz rozegrał Vinícius, w jedenastce wyszedł Rodrygo, który strzelił gola, a z ławki wszedł Endrick. Do Copa América pozostają niecałe dwa tygodnie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130372-dzisiejsze-okladki</link>
-        <pubDate>Thu, 13 Jun 2024 00:37:00 GMT</pubDate>
-        <description>Mistrzostwo Realu Madryt i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt mistrzem Hiszpanii!</title>
-        <link>https://www.realmadryt.pl/news/130364-real-madryt-mistrzem-hiszpanii</link>
-        <pubDate>Wed, 12 Jun 2024 22:31:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt pokonali Murcię 3:0 i po raz 37. sięgnęli po mistrzostwo Hiszpanii. Kończą dzięki temu sezon 2023/24 z trzema pucharami na koncie.</description>
     </item>
     
 </channel>
