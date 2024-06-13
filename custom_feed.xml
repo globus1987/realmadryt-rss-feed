@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Jun 2024 06:26:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 06:42:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé zmienia porządek</title>
+        <link>https://www.realmadryt.pl/news/130361-mbappe-zmienia-porzadek</link>
+        <pubDate>Thu, 13 Jun 2024 08:42:00 GMT</pubDate>
+        <description>Osoba Kyliana Mbappé zmienia wiele rzeczy w Realu Madryt. Od formacji, przez Rodrygo i Endricka, po drabinkę płacową… Klub i Carlo Ancelotti muszą dobrze zaplanować wiele kwestii.</description>
+    </item>
     
     <item>
         <title>SER: Davies odrzucił kolejną ofertę przedłużenia kontraktu z Bayernem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130349-real-madryt-pozostanie-w-eurolidze-do-2040-roku</link>
         <pubDate>Wed, 12 Jun 2024 19:21:00 GMT</pubDate>
         <description>Euroliga jest bliska przedłużenia umowy z IMG o kolejne piętnaście lat. To gwarantuje udziałowcom, wśród których znajduje się Real Madryt, udział w rozgrywkach w tym czasie.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Jesteśmy najlepszym klubem na świecie, mamy 48 Lig Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/130360-laporta-jestesmy-najlepszym-klubem-na-swiecie-mamy-48-lig-mistrzow</link>
-        <pubDate>Wed, 12 Jun 2024 18:30:00 GMT</pubDate>
-        <description>Joan Laporta spotkał się z tak zwanym Senatem FC Barcelona, który tworzy 1000 socios z największym stażem członkostwa. Przedstawiamy wypowiedzi prezesa Barcelony z tego spotkania z właścicielami klubu.</description>
     </item>
     
 </channel>
