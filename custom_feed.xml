@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Jun 2024 22:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 22:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130395-dzisiejsze-okladki</link>
+        <pubDate>Fri, 14 Jun 2024 00:30:00 GMT</pubDate>
+        <description>Start EURO i plany transferowe Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Fiskus zwiększa proponowaną karę Ancelottiego do 5 lat więzienia</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130383-na-euro-tylko-kapitan-bedzie-mogl-rozmawiac-z-sedzia</link>
         <pubDate>Thu, 13 Jun 2024 16:39:00 GMT</pubDate>
         <description>UEFA zorganizowała przed EURO specjalną konferencję sędziowską dla mediów. Przedstawiamy podsumowanie tego spotkania z Roberto Rosettim, szefem arbitrów w UEFA i byłym sędzią głównym.</description>
-    </item>
-    
-    <item>
-        <title>Musa: Real Madryt to jest moje miejsce, na 100%, jestem tutaj szczęśliwy</title>
-        <link>https://www.realmadryt.pl/news/130367-musa-real-madryt-to-jest-moje-miejsce-na-100-jestem-tutaj-szczesliwy</link>
-        <pubDate>Thu, 13 Jun 2024 15:48:00 GMT</pubDate>
-        <description>Džanan Musa rozmawiał z dziennikarzami po zdobyciu przez Real Madryt 37. mistrzostwa Hiszpanii. Bośniak przyznał, że jest bardzo zmęczony sezonem, ale zapewnił, że jest szczęśliwy w tej drużynie.</description>
     </item>
     
 </channel>
