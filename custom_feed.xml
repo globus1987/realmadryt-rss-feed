@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Jun 2024 12:37:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 13:00:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jeden z architektów historycznego sezonu</title>
+        <link>https://www.realmadryt.pl/news/130380-jeden-z-architektow-historycznego-sezonu</link>
+        <pubDate>Thu, 13 Jun 2024 14:57:00 GMT</pubDate>
+        <description>Czas na finalistę cyklu dotyczącego zawodników związanych z Realem Madryt. Na pierwsze miejsce zdaniem redakcji RealMadryt.pl zasłużył Miguel Gutiérrez, który był jednym z ważniejszych architektów historycznego sezonu Girony i stał się jednym z najciekawszych lewych obrońców w europejskim futbolu.</description>
+    </item>
     
     <item>
         <title>Mateo: Wykonaliśmy niesamowitą pracę, wygraliśmy 72 mecze z 86</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130365-ser-davies-odrzucil-kolejna-oferte-przedluzenia-kontraktu-z-bayernem</link>
         <pubDate>Thu, 13 Jun 2024 07:51:00 GMT</pubDate>
         <description>Przyjście Kanadyjczyka może oznaczać rozstanie z Mendym, którego umowa wygasa w przyszłym roku. Bayern może być niebawem zmuszony do prowadzenia negocjacji z Królewskimi.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 5x28: Najlepszy i najgorszy piłkarz sezonu</title>
-        <link>https://www.realmadryt.pl/news/130371-podcast-5x28-najlepszy-i-najgorszy-pilkarz-sezonu</link>
-        <pubDate>Thu, 13 Jun 2024 07:00:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest podsumowaniu zakończonego sezonu. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
