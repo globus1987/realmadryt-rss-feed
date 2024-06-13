@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Jun 2024 19:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 19:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fiskus zwiększa proponowaną karę Ancelottiego do 5 lat więzienia</title>
+        <link>https://www.realmadryt.pl/news/130388-fiskus-zwieksza-proponowana-kare-ancelottiego-do-5-lat-wiezienia</link>
+        <pubDate>Thu, 13 Jun 2024 21:50:00 GMT</pubDate>
+        <description>Rozwija się sprawa domniemanego oszustwa podatkowego popełnionego przez Carlo Ancelottiego w jego pierwszym etapie pracy dla Realu Madryt. Przedstawiciele fiskusa wnioskują o jeszcze większą karę niż prokuratura.</description>
+    </item>
     
     <item>
         <title>AS: Real obserwuje Joana Garcíę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130367-musa-real-madryt-to-jest-moje-miejsce-na-100-jestem-tutaj-szczesliwy</link>
         <pubDate>Thu, 13 Jun 2024 15:48:00 GMT</pubDate>
         <description>Džanan Musa rozmawiał z dziennikarzami po zdobyciu przez Real Madryt 37. mistrzostwa Hiszpanii. Bośniak przyznał, że jest bardzo zmęczony sezonem, ale zapewnił, że jest szczęśliwy w tej drużynie.</description>
-    </item>
-    
-    <item>
-        <title>Jeden z architektów historycznego sezonu</title>
-        <link>https://www.realmadryt.pl/news/130380-jeden-z-architektow-historycznego-sezonu</link>
-        <pubDate>Thu, 13 Jun 2024 14:57:00 GMT</pubDate>
-        <description>Czas na finalistę cyklu dotyczącego zawodników związanych z Realem Madryt. Na pierwsze miejsce zdaniem redakcji RealMadryt.pl zasłużył Miguel Gutiérrez, który był jednym z ważniejszych architektów historycznego sezonu Girony i stał się jednym z najciekawszych lewych obrońców w europejskim futbolu.</description>
     </item>
     
 </channel>
