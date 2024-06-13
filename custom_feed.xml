@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Jun 2024 04:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 05:20:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 5x28: Najlepszy i najgorszy piłkarz sezonu</title>
+        <link>https://www.realmadryt.pl/news/130371-podcast-5x28-najlepszy-i-najgorszy-pilkarz-sezonu</link>
+        <pubDate>Thu, 13 Jun 2024 07:00:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest podsumowaniu zakończonego sezonu. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
+    </item>
     
     <item>
         <title>Gol Rodrygo w zremisowanym sparingu Brazylii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130345-trzech-najdrozszych-pilkarzy-na-swiecie-w-realu-madryt</link>
         <pubDate>Wed, 12 Jun 2024 17:39:00 GMT</pubDate>
         <description>Real Madryt ma w swoich szeregach trzech najbardziej wartościowych piłkarzy na świecie – Kylian Mbappé, Jude Bellingham i Vinícius wyceniani są na 180 milionów euro. Duży przeskok wartościowy zanotowało też wielu innych reprezentantów Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler podwoił swoją wartość</title>
-        <link>https://www.realmadryt.pl/news/130315-arda-gueler-podwoil-swoja-wartosc</link>
-        <pubDate>Wed, 12 Jun 2024 16:48:00 GMT</pubDate>
-        <description>Dzięki dwóm znakomitym miesiącom pomocnik podbił swoją wycenę na portalu Transfermarkt z 15 do 30 milionów euro.</description>
     </item>
     
 </channel>
