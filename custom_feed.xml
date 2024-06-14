@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Jun 2024 21:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 22:19:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130413-dzisiejsze-okladki</link>
+        <pubDate>Sat, 15 Jun 2024 00:13:00 GMT</pubDate>
+        <description>Mecz Hiszpanii na EURO to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Piłkarki Realu wygrywają w ostatnim meczu sezonu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130403-marca-hezonja-ma-porozumienie-z-barcelona</link>
         <pubDate>Fri, 14 Jun 2024 14:34:00 GMT</pubDate>
         <description>Skrzydłowy Królewskich doszedł do porozumienia z Barceloną, w której występował w przeszłości. Katalończycy przebili ofertę Realu Madryt ponad dwukrotnie!</description>
-    </item>
-    
-    <item>
-        <title>Celem Alaby jest dojść do optymalnej formy w październiku</title>
-        <link>https://www.realmadryt.pl/news/130374-celem-alaby-jest-dojsc-do-optymalnej-formy-w-pazdzierniku</link>
-        <pubDate>Fri, 14 Jun 2024 14:14:00 GMT</pubDate>
-        <description>David Alaba doznał kontuzji kolana 17 grudnia minionego roku, ale jego data powrotu na boisko wciąż jest trudna do określenia. Pomimo upływu sześciu miesięcy od momentu odniesienia feralnego urazu sytuacja Austriaka wciąż nie pozwala w całości zaplanować kolejnego sezonu.</description>
     </item>
     
 </channel>
