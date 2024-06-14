@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Jun 2024 07:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 08:24:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za wygraną Niemiec w meczu otwarcia EURO!</title>
+        <link>https://www.realmadryt.pl/news/130397-300-zl-za-wygrana-niemiec-w-meczu-otwarcia-euro</link>
+        <pubDate>Fri, 14 Jun 2024 09:58:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Dziś start EURO 2024</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130389-mendy-przyszlosc-w-realu-zobaczymy-skupiam-sie-na-euro</link>
         <pubDate>Thu, 13 Jun 2024 20:00:00 GMT</pubDate>
         <description>Ferland Mendy pojawił się na konferencji prasowej na zgrupowaniu reprezentacji Francji. Przedstawiamy odpowiedzi obrońcy Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Misa przedłużyła kontrakt z Realem</title>
-        <link>https://www.realmadryt.pl/news/130379-oficjalnie-misa-przedluzyla-kontrakt-z-realem</link>
-        <pubDate>Thu, 13 Jun 2024 19:14:00 GMT</pubDate>
-        <description>Misa Rodríguez zostaje w Realu Madryt. Dziś zawodniczka przedłużyła umowę o kolejne dwa lata.</description>
     </item>
     
 </channel>
