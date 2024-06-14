@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Jun 2024 16:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 16:53:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rok Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/130405-rok-bellinghama</link>
+        <pubDate>Fri, 14 Jun 2024 18:49:00 GMT</pubDate>
+        <description>Dziś mija dokładnie rok od oficjalnego ogłoszenia transferu Anglika, który w swoim pierwszym sezonie w Realu Madryt sięgnął po triumfy w La Lidze, Lidze Mistrzów i Superpucharze Hiszpanii. Co najistotniejsze, był jednym z głównych architektów każdego z tych sukcesów.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Losowanie terminarza La Ligi w następnym tygodniu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130401-marca-solari-i-calafat-pracuja-nad-transferem-mastantuono</link>
         <pubDate>Fri, 14 Jun 2024 11:41:00 GMT</pubDate>
         <description>Real Madryt nadal czyni postępy w sprawie transakcji, która jest bliska realizacji, ale nie jest jeszcze zamknięta.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 14 czerwca</title>
-        <link>https://www.realmadryt.pl/news/130394-kartka-z-kalendarza-14-czerwca</link>
-        <pubDate>Fri, 14 Jun 2024 10:50:00 GMT</pubDate>
-        <description>Urodziny dwóch piłkarzy, dwa mistrzostwa Hiszpanii, debiut pierwszej drużyny w Valdebebas i rocznica oficjalnego rozpoczęcia działalności polskiego stowarzyszenia Águila Blanca. Co działo się 14 czerwca?</description>
     </item>
     
 </channel>
