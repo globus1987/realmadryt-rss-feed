@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Jun 2024 14:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 15:22:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Ludzie chcieli sprzedać Viníciusa”</title>
+        <link>https://www.realmadryt.pl/news/130391-ludzie-chcieli-sprzedac-viniciusa</link>
+        <pubDate>Fri, 14 Jun 2024 17:07:00 GMT</pubDate>
+        <description>Były selekcjoner reprezentacji Hiszpanii, Javier Clemente, podzielił się swoimi odczuciami przed startem EURO i wypowiedział się również na temat kandydatów do zdobycia Złotej Piłki.</description>
+    </item>
     
     <item>
         <title>Ancelottiego bardziej martwi przyszłość Mendy'ego niż transfer Daviesa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130397-300-zl-za-wygrana-niemiec-w-meczu-otwarcia-euro</link>
         <pubDate>Fri, 14 Jun 2024 09:58:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Dziś start EURO 2024</title>
-        <link>https://www.realmadryt.pl/news/130392-dzis-start-euro-2024</link>
-        <pubDate>Fri, 14 Jun 2024 09:07:00 GMT</pubDate>
-        <description>Dzisiaj w Niemczech rozpoczynają się Mistrzostwa Europy w Piłce Nożnej 2024. Pierwszego dnia turnieju gospodarze zmierzą się w Monachium ze Szkocją. Szansę na występ ma dwóch zawodników Realu Madryt.</description>
     </item>
     
 </channel>
