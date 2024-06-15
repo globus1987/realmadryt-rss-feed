@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 14:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 15:20:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hiszpania vs Chorwacja: Pierwsze starcie między Los Blancos</title>
+        <link>https://www.realmadryt.pl/news/130421-hiszpania-vs-chorwacja-pierwsze-starcie-miedzy-los-blancos</link>
+        <pubDate>Sat, 15 Jun 2024 17:09:00 GMT</pubDate>
+        <description>O 18:00 rozpocznie się kolejne spotkanie EURO i zarazem pierwszy mecz grupy B. Hiszpania zagra z Chorwacją, a w pierwszym składzie obu drużyn wystąpi trzech zawodników Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Rozpoczyna się proces wymiany murawy na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/130423-marca-rozpoczyna-sie-proces-wymiany-murawy-na-bernabeu</link>
+        <pubDate>Sat, 15 Jun 2024 17:07:00 GMT</pubDate>
+        <description>Królewscy zgodnie z zapowiedziami przystępują do wymiany murawy na Santiago Bernabéu. Ma być ona jednak wykonana w inny sposób, a klub cały czas szuka poprawienia tego aspektu.</description>
+    </item>
     
     <item>
         <title>Sprawa porozumienia Hezonji z Barceloną skończy się w sądzie?</title>
@@ -14,10 +28,10 @@
     </item>
     
     <item>
-        <title>Węgry vs Szwajcaria: Madziarzy i Helweci w akcji</title>
-        <link>https://www.realmadryt.pl/news/130420-wegry-vs-szwajcaria-madziarzy-i-helweci-w-akcji</link>
+        <title>Szwajcaria wygrywa z Węgrami</title>
+        <link>https://www.realmadryt.pl/news/130420-szwajcaria-wygrywa-z-wegrami</link>
         <pubDate>Sat, 15 Jun 2024 14:30:00 GMT</pubDate>
-        <description>Od 15:00 trwa drugie spotkanie EURO i zarazem drugi mecz grupy A. Węgrzy mierzą się ze Szwajcarią.</description>
+        <description>Reprezentacja Szwajcarii wygrała w Kolonii z Węgrami 3:1. Helweci zajmują obecnie drugie miejsce w tabeli grupy A i mają tyle samo punktów co Niemcy.</description>
     </item>
     
     <item>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130415-600-zl-za-gola-polski-z-holandia</link>
         <pubDate>Sat, 15 Jun 2024 09:58:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Drugi dzień i pierwsze starcie między graczami Realu</title>
-        <link>https://www.realmadryt.pl/news/130418-drugi-dzien-i-pierwsze-starcie-miedzy-graczami-realu</link>
-        <pubDate>Sat, 15 Jun 2024 09:07:00 GMT</pubDate>
-        <description>Dziś EURO wchodzi na najwyższe obroty. Odbędą się bowiem aż trzy mecze. O 15:00 Węgry zagrają ze Szwajcarią, 3 godziny później rozpocznie się potyczka Hiszpanii z Chorwacją, a drugi dzień turnieju zamknie potyczka Włoch z Albanią.</description>
-    </item>
-    
-    <item>
-        <title>Sergio Ramos odwiedził Lukę Dončicia na meczu Finałów NBA</title>
-        <link>https://www.realmadryt.pl/news/130416-sergio-ramos-odwiedzil-luke-doncicia-na-meczu-finalow-nba</link>
-        <pubDate>Sat, 15 Jun 2024 08:16:00 GMT</pubDate>
-        <description>Legendarny kapitan Królewskich pojawił się na czwartym meczu Finałów NBA z udziałem Luki Dončicia i pełnił rolę ambasadora Królewskich.</description>
     </item>
     
 </channel>
