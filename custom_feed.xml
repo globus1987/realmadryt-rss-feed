@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 11:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 12:35:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Węgry vs Szwajcaria: Madziarzy i Helweci w akcji</title>
+        <link>https://www.realmadryt.pl/news/130420-wegry-vs-szwajcaria-madziarzy-i-helweci-w-akcji</link>
+        <pubDate>Sat, 15 Jun 2024 14:30:00 GMT</pubDate>
+        <description>O 15:00 rozpocznie się drugie spotkanie EURO i zarazem drugi mecz grupy A. Węgrzy zagrają ze Szwajcarią.</description>
+    </item>
     
     <item>
         <title>Valverde: Gdy zaczynałem z Ancelottim, byłem wkurzony</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130414-bayern-gotowy-zostawic-daviesa-do-konca-kontraktu</link>
         <pubDate>Sat, 15 Jun 2024 07:25:00 GMT</pubDate>
         <description>Bawarczycy nie widzą na ten moment szans na porozumienie z Kanadyjczykiem, ale są gotowi zostawić go w drużynie na kolejny sezon, ryzykując jego darmowym odejściem. Dla Królewskich taki scenariusz nie byłby niczym złym, bo kontrakt Ferlanda Mendy'ego także wygasa w 2025 roku.</description>
-    </item>
-    
-    <item>
-        <title>Nie ma porozumienia Barcelony z Hezonją</title>
-        <link>https://www.realmadryt.pl/news/130410-nie-ma-porozumienia-barcelony-z-hezonja</link>
-        <pubDate>Sat, 15 Jun 2024 05:30:00 GMT</pubDate>
-        <description>Przyszłość Mario Hezonji jest wiadomością numer jeden po zakończeniu sezonu w Lidze Endesa. Wydawało się, że Chorwat trafi do Barcelony, ale teraz wcale nie jest to takie pewne.</description>
     </item>
     
 </channel>
