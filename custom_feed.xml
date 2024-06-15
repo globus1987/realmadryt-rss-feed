@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 21:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 22:18:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130434-dzisiejsze-okladki</link>
+        <pubDate>Sun, 16 Jun 2024 00:03:00 GMT</pubDate>
+        <description>Wygrana Hiszpanii na EURO to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Tchouaméni odbył pełny trening z drużyną</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130384-chcialbym-dzielic-szatnie-z-mbappe</link>
         <pubDate>Sat, 15 Jun 2024 12:59:00 GMT</pubDate>
         <description>Przebywający na zgrupowaniu reprezentacji Hiszpanii skrzydłowy Athleticu, podczas wywiadu dla radia COPE, wyraził chęć zagrania w jednej drużynie z francuskim gwiazdorem. Szybko musiał się z tego tłumaczyć…</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Joselu mówi, że mam krótki lont? Podpytaj go, jak chcą mnie sprowokować</title>
-        <link>https://www.realmadryt.pl/news/130409-modric-joselu-mowi-ze-mam-krotki-lont-podpytaj-go-jak-chca-mnie-sprowokowac</link>
-        <pubDate>Sat, 15 Jun 2024 12:14:00 GMT</pubDate>
-        <description>Luka Modrić pojawił się na konferencji prasowej przed dzisiejszym meczem Chorwacji z Hiszpanią. Przedstawiamy najważniejsze wypowiedzi pomocnika Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
