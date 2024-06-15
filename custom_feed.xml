@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 03:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 03:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie ma porozumienia Barcelony z Hezonją</title>
+        <link>https://www.realmadryt.pl/news/130410-nie-ma-porozumienia-barcelony-z-hezonja</link>
+        <pubDate>Sat, 15 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Przyszłość Mario Hezonji jest wiadomością numer jeden po zakończeniu sezonu w Lidze Endesa. Wydawało się, że Chorwat trafi do Barcelony, ale teraz wcale nie jest to takie pewne.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130382-dalic-modric-nie-byl-zadowolony-gdy-w-realu-gral-po-15-minut</link>
         <pubDate>Fri, 14 Jun 2024 15:25:00 GMT</pubDate>
         <description>Zlatko Dalić, selekcjoner reprezentacji Chorwacji, wziął udział w wywiadzie dla telewizji HRT, w którym poruszył między innymi temat sytuacji Luki Modricia w Realu Madryt. Poniżej przedstawiamy jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Hezonja ma porozumienie z Barceloną!</title>
-        <link>https://www.realmadryt.pl/news/130403-marca-hezonja-ma-porozumienie-z-barcelona</link>
-        <pubDate>Fri, 14 Jun 2024 14:34:00 GMT</pubDate>
-        <description>Skrzydłowy Królewskich doszedł do porozumienia z Barceloną, w której występował w przeszłości. Katalończycy przebili ofertę Realu Madryt ponad dwukrotnie!</description>
     </item>
     
 </channel>
