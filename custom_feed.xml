@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 07:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 08:23:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>600 zł za gola Polski z Holandią!</title>
+        <link>https://www.realmadryt.pl/news/130415-600-zl-za-gola-polski-z-holandia</link>
+        <pubDate>Sat, 15 Jun 2024 09:58:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Drugi dzień i pierwsze starcie między graczami Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130405-rok-bellinghama</link>
         <pubDate>Fri, 14 Jun 2024 18:49:00 GMT</pubDate>
         <description>Dziś mija dokładnie rok od oficjalnego ogłoszenia transferu Anglika, który w swoim pierwszym sezonie w Realu Madryt sięgnął po triumfy w La Lidze, Lidze Mistrzów i Superpucharze Hiszpanii. Co najistotniejsze, był jednym z głównych architektów każdego z tych sukcesów.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Losowanie terminarza La Ligi w następnym tygodniu</title>
-        <link>https://www.realmadryt.pl/news/130406-oficjalnie-losowanie-terminarza-la-ligi-w-nastepnym-tygodniu</link>
-        <pubDate>Fri, 14 Jun 2024 17:55:00 GMT</pubDate>
-        <description>La Liga i Hiszpańska Federacja Piłkarska wystosowały wyjątkowo zgodny komunikat o losowaniu terminarza kolejnego sezonu Primera División. Rozgrywki wystartują w weekend 17-18 sierpnia.</description>
     </item>
     
 </channel>
