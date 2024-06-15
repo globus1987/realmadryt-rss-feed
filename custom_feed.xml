@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 11:38:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 11:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde: Gdy zaczynałem z Ancelottim, byłem wkurzony</title>
+        <link>https://www.realmadryt.pl/news/130411-valverde-gdy-zaczynalem-z-ancelottim-bylem-wkurzony</link>
+        <pubDate>Sat, 15 Jun 2024 13:44:00 GMT</pubDate>
+        <description>Fede Valverde był gościem programu La Quinta Tribuna w telewizji AUF TV. Podczas wywiadu opowiedział o swoich relacjach z Carlo Ancelottim i szansach reprezentacji Urugwaju na Copa América.</description>
+    </item>
     
     <item>
         <title>„Chciałbym dzielić szatnię z Mbappé”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130410-nie-ma-porozumienia-barcelony-z-hezonja</link>
         <pubDate>Sat, 15 Jun 2024 05:30:00 GMT</pubDate>
         <description>Przyszłość Mario Hezonji jest wiadomością numer jeden po zakończeniu sezonu w Lidze Endesa. Wydawało się, że Chorwat trafi do Barcelony, ale teraz wcale nie jest to takie pewne.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130413-dzisiejsze-okladki</link>
-        <pubDate>Sat, 15 Jun 2024 00:13:00 GMT</pubDate>
-        <description>Mecz Hiszpanii na EURO to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
