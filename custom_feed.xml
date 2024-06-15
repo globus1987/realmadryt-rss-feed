@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Jun 2024 18:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 18:39:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Włochy vs Albania: Obrońcy tytułu wkraczają do gry</title>
+        <link>https://www.realmadryt.pl/news/130424-wlochy-vs-albania-obroncy-tytulu-wkraczaja-do-gry</link>
+        <pubDate>Sat, 15 Jun 2024 20:30:00 GMT</pubDate>
+        <description>O 21:00 rozpocznie się ostatni mecz drugiego dnia EURO. W grupie B broniący tytułu Włosi zmierzą się w Dortmundzie z Albanią.</description>
+    </item>
     
     <item>
         <title>Ronaldinho: Rezygnuję ze wspierania reprezentacji Brazylii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130419-kartka-z-kalendarza-15-czerwca</link>
         <pubDate>Sat, 15 Jun 2024 11:28:00 GMT</pubDate>
         <description>Urodziny byłego piłkarza i byłych koszykarzy, rocznica zwycięstw z Atlético, hołdu dla Sępa i transferu młodego Brazylijczyka z Santosu. Co działo się 15 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Mbappé wznowił treningi, Tchouaméni o krok od powrotu</title>
-        <link>https://www.realmadryt.pl/news/130412-mbappe-wznowil-treningi-tchouameni-o-krok-od-powrotu</link>
-        <pubDate>Sat, 15 Jun 2024 10:43:00 GMT</pubDate>
-        <description>Atakujący w piątek wznowił pełne treningi z grupą, a powoli do pełnej dyspozycji wraca także pomocnik.</description>
     </item>
     
 </channel>
