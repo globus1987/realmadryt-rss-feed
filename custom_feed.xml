@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 17:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 18:25:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Serbia vs Anglia: Jude Bellingham wkracza do gry</title>
+        <link>https://www.realmadryt.pl/news/130449-serbia-vs-anglia-jude-bellingham-wkracza-do-gry</link>
+        <pubDate>Sun, 16 Jun 2024 19:57:00 GMT</pubDate>
+        <description>O 21:00 rozpocznie się ostatni mecz trzeciego dnia EURO, zamykający pierwszą serię spotkań w grupie C. Na murawie zobaczymy Jude’a Bellinghama.</description>
+    </item>
     
     <item>
         <title>Kyle Guy rozwiązał kontrakt z Tenerife</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Słowenia vs Dania: Duńczycy znów chcą zaskoczyć Europę</title>
-        <link>https://www.realmadryt.pl/news/130446-slowenia-vs-dania-dunczycy-znow-chca-zaskoczyc-europe</link>
+        <title>Słowenia remisuje z Danią</title>
+        <link>https://www.realmadryt.pl/news/130446-slowenia-remisuje-z-dania</link>
         <pubDate>Sun, 16 Jun 2024 17:30:00 GMT</pubDate>
-        <description>O godzinie 18:00 rozpocznie się drugi niedzielny mecz na EURO. Dzisiaj rozpoczynamy rywalizację w grupie C, a pierwszym meczem będzie starcie Słowenii z Danią.</description>
+        <description>W pierwszym meczu grupy C Słowenia zremisowała z Danią 1:1. Duńczycy dominowali w pierwszej połowie i wyszli na prowadzenie dzięki bramce Eriksena, ale pod koniec meczu wyrównał Janža.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130440-ronaldinho-przyznaje-ze-krytyka-brazylii-to-reklama</link>
         <pubDate>Sun, 16 Jun 2024 11:27:00 GMT</pubDate>
         <description>Potwierdziły się doniesienia mediów, w których ostra krytyka reprezentacji Brazylii ze strony Ronaldinho była tylko wstępem do kampanii reklamowej. Potwierdził to sam były pomocnik.</description>
-    </item>
-    
-    <item>
-        <title>Selekcjoner Serbii: Bellingham zdobędzie Złotą Piłkę</title>
-        <link>https://www.realmadryt.pl/news/130428-selekcjoner-serbii-bellingham-zdobedzie-zlota-pilke</link>
-        <pubDate>Sun, 16 Jun 2024 10:45:00 GMT</pubDate>
-        <description>Selekcjoner reprezentacji Serbii, Dragan Stojković, nie szczędził pochwał Jude'owi Bellinghamowi na ostatniej konferencji prasowej przed meczem z Anglią. Zdaniem byłego serbskiego pomocnika zawodnik Realu Madryt w przyszłości na pewno zdobędzie Złotą Piłkę.</description>
     </item>
     
 </channel>
