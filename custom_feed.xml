@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 07:19:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 07:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za wygraną Polski z Holandią!</title>
+        <link>https://www.realmadryt.pl/news/130435-300-zl-za-wygrana-polski-z-holandia</link>
+        <pubDate>Sun, 16 Jun 2024 09:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Mecz otwarcia Polaków, a wieczorem Jude</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130423-marca-rozpoczyna-sie-proces-wymiany-murawy-na-bernabeu</link>
         <pubDate>Sat, 15 Jun 2024 17:07:00 GMT</pubDate>
         <description>Królewscy zgodnie z zapowiedziami przystępują do wymiany murawy na Santiago Bernabéu. Ma być ona jednak wykonana w inny sposób, a klub cały czas szuka poprawienia tego aspektu.</description>
-    </item>
-    
-    <item>
-        <title>Sprawa porozumienia Hezonji z Barceloną skończy się w sądzie?</title>
-        <link>https://www.realmadryt.pl/news/130422-sprawa-porozumienia-hezonji-z-barcelona-skonczy-sie-w-sadzie</link>
-        <pubDate>Sat, 15 Jun 2024 15:00:00 GMT</pubDate>
-        <description>MARCA zapewnia, że dokument między Barceloną a koszykarzem Realu Madryt jest podpisany, nawet jeśli Katalończycy nagle chcą się z niego wycofać. Sprawa może skończyć się w sądzie.</description>
     </item>
     
 </channel>
