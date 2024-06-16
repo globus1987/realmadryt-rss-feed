@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 16:22:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 16:41:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Nie chcę reprezentować kraju, który nie odpowiada moim wartościom</title>
+        <link>https://www.realmadryt.pl/news/130448-mbappe-nie-chce-reprezentowac-kraju-ktory-nie-odpowiada-moim-wartosciom</link>
+        <pubDate>Sun, 16 Jun 2024 18:23:00 GMT</pubDate>
+        <description>Kylian Mbappé wziął udział w konferencji prasowej przed poniedziałkowym meczem Francji z Austrią. Przedstawiamy wszystkie wypowiedzi piłkarza Realu Madryt z tego spotkania z dziennikarzami na zgrupowaniu Francji.</description>
+    </item>
     
     <item>
         <title>Słowenia vs Dania: Duńczycy znów chcą zaskoczyć Europę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130435-300-zl-za-wygrana-polski-z-holandia</link>
         <pubDate>Sun, 16 Jun 2024 09:30:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Mecz otwarcia Polaków, a wieczorem Jude</title>
-        <link>https://www.realmadryt.pl/news/130433-mecz-otwarcia-polakow-a-wieczorem-jude</link>
-        <pubDate>Sun, 16 Jun 2024 08:50:00 GMT</pubDate>
-        <description>Trzeci dzień na EURO zaserwuje nam trzy mecze. Jako pierwsi na murawę wyjdą zawodnicy Polski i Holandii. Później o punkty powalczą Słowenia z Danią, a na zakończenie Anglia z Bellinghamem w kadrze zmierzy się z Serbią.</description>
     </item>
     
 </channel>
