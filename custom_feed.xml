@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 06:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 06:53:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz otwarcia Polaków, a wieczorem Jude</title>
+        <link>https://www.realmadryt.pl/news/130433-mecz-otwarcia-polakow-a-wieczorem-jude</link>
+        <pubDate>Sun, 16 Jun 2024 08:50:00 GMT</pubDate>
+        <description>Trzeci dzień na EURO zaserwuje nam trzy mecze. Jako pierwsi na murawę wyjdą zawodnicy Polski i Holandii. Później o punkty powalczą Słowenia z Danią, a na zakończenie Anglia z Bellinghamem w kadrze zmierzy się z Serbią.</description>
+    </item>
     
     <item>
         <title>Nacho ciągle rozmowia z Al-Ittihad</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130422-sprawa-porozumienia-hezonji-z-barcelona-skonczy-sie-w-sadzie</link>
         <pubDate>Sat, 15 Jun 2024 15:00:00 GMT</pubDate>
         <description>MARCA zapewnia, że dokument między Barceloną a koszykarzem Realu Madryt jest podpisany, nawet jeśli Katalończycy nagle chcą się z niego wycofać. Sprawa może skończyć się w sądzie.</description>
-    </item>
-    
-    <item>
-        <title>Szwajcaria wygrywa z Węgrami</title>
-        <link>https://www.realmadryt.pl/news/130420-szwajcaria-wygrywa-z-wegrami</link>
-        <pubDate>Sat, 15 Jun 2024 14:30:00 GMT</pubDate>
-        <description>Reprezentacja Szwajcarii wygrała w Kolonii z Węgrami 3:1. Helweci zajmują obecnie drugie miejsce w tabeli grupy A i mają tyle samo punktów co Niemcy.</description>
     </item>
     
 </channel>
