@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 21:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 22:20:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130455-dzisiejsze-okladki</link>
+        <pubDate>Mon, 17 Jun 2024 00:10:00 GMT</pubDate>
+        <description>Polityczne wypowiedzi Kyliana Mbappé i plany Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>COPE: Hezonja przedłużył kontrakt z Realem Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130447-psg-odbylo-rozmowy-z-yoro-ale-ten-ciagle-marzy-o-realu</link>
         <pubDate>Sun, 16 Jun 2024 16:19:00 GMT</pubDate>
         <description>Trener i doradca sportowy Paris Saint-Germain odbyli rozmowę z Lenym Yoro, wskazując mu, dlaczego Paryż byłby dla niego najlepszym wyborem. RMC twierdzi, że stoper ciągle celuje w odejście do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Morata trzecim najlepszym strzelcem w historii EURO</title>
-        <link>https://www.realmadryt.pl/news/130429-morata-trzecim-najlepszym-strzelcem-w-historii-euro</link>
-        <pubDate>Sun, 16 Jun 2024 14:35:00 GMT</pubDate>
-        <description>Były napastnik Królewskich po cichu wskoczył na podium najlepszych strzelców w historii Mistrzostw Europy. Na czele tej klasyfikacji znajduje się Cristiano Ronaldo.</description>
     </item>
     
 </channel>
