@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 11:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 12:35:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Morata trzecim najlepszym strzelcem w historii EURO</title>
+        <link>https://www.realmadryt.pl/news/130429-morata-trzecim-najlepszym-strzelcem-w-historii-euro</link>
+        <pubDate>Sun, 16 Jun 2024 14:35:00 GMT</pubDate>
+        <description>Były napastnik Królewskich po cichu wskoczył na podium najlepszych strzelców w historii Mistrzostw Europy. Na czele tej klasyfikacji znajduje się Cristiano Ronaldo.</description>
+    </item>
+    
+    <item>
+        <title>Polska vs Holandia: Pierwszy mecz Biało-Czerwonych</title>
+        <link>https://www.realmadryt.pl/news/130443-polska-vs-holandia-pierwszy-mecz-bialo-czerwonych</link>
+        <pubDate>Sun, 16 Jun 2024 13:59:00 GMT</pubDate>
+        <description>O 15:00 rozpocznie się pierwszy niedzielny mecz na EURO. Reprezentacja Polski zmierzy się z Holandią.</description>
+    </item>
     
     <item>
         <title>Álex Jiménez blisko transferu definitywnego do Milanu</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130427-raphinha-rezygnacja-ronaldinho-ostatnio-pisal-do-viniego-o-bilety-na-mecz</link>
         <pubDate>Sun, 16 Jun 2024 07:00:00 GMT</pubDate>
         <description>Słowa Ronaldinho o reprezentacji Brazylii odbiły się potężnym echem. Federacja i kadrą nie przyjęły dobrze ostrej krytyki, a Chiringuito podaje, że za wszystkim stoi… reklama.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130434-dzisiejsze-okladki</link>
-        <pubDate>Sun, 16 Jun 2024 00:03:00 GMT</pubDate>
-        <description>Wygrana Hiszpanii na EURO to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni odbył pełny trening z drużyną</title>
-        <link>https://www.realmadryt.pl/news/130426-tchouameni-odbyl-pelny-trening-z-druzyna</link>
-        <pubDate>Sat, 15 Jun 2024 20:41:00 GMT</pubDate>
-        <description>Pomocnik Królewskich odbył pierwszy pełny trening od początku maja i może być brany pod uwagę przez selekcjonera już na drugi mecz grupy. Kolejny raz z ekipą pracował także Kylian Mbappé.</description>
     </item>
     
 </channel>
