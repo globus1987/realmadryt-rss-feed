@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Jun 2024 20:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 21:20:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jude Bellingham Piłkarzem Meczu Anglii z Serbią</title>
+        <link>https://www.realmadryt.pl/news/130452-jude-bellingham-pilkarzem-meczu-anglii-z-serbia</link>
+        <pubDate>Sun, 16 Jun 2024 23:04:00 GMT</pubDate>
+        <description>Anglik został wybrany MVP spotkania z Serbią. To pierwsze takie wyróżnienie gracza Królewskich na tym turnieju.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Iker Bravo opuszcza Real Madryt</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Serbia vs Anglia: Jude Bellingham wkracza do gry</title>
-        <link>https://www.realmadryt.pl/news/130449-serbia-vs-anglia-jude-bellingham-wkracza-do-gry</link>
+        <title>Bellingham zapewnia Anglii zwycięstwo [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/130449-bellingham-zapewnia-anglii-zwyciestwo-video</link>
         <pubDate>Sun, 16 Jun 2024 19:57:00 GMT</pubDate>
-        <description>O 21:00 rozpocznie się ostatni mecz trzeciego dnia EURO, zamykający pierwszą serię spotkań w grupie C. Na murawie zobaczymy Jude’a Bellinghama.</description>
+        <description>Anglia wygrała z Serbią na inaugurację EURO. Jedynego gola spotkania strzelił Bellingham, ale styl gry jego drużyny pozostawiał wiele do życzenia.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130443-polska-zaczyna-euro-od-porazki</link>
         <pubDate>Sun, 16 Jun 2024 13:59:00 GMT</pubDate>
         <description>W pierwszym meczu grupy D Polska przegrała z Holandią 1:2. Biało-Czerwoni zdobyli bramkę jako pierwsi po uderzeniu Adama Buksy, ale rywal odpowiedział dwoma trafieniami.</description>
-    </item>
-    
-    <item>
-        <title>Álex Jiménez blisko transferu definitywnego do Milanu</title>
-        <link>https://www.realmadryt.pl/news/130431-alex-jimenez-blisko-transferu-definitywnego-do-milanu</link>
-        <pubDate>Sun, 16 Jun 2024 13:10:00 GMT</pubDate>
-        <description>19-letni wychowanek Realu Madryt zostanie w Mediolanie na dłużej. Wszystko wskazuje na to, że zespół z San Siro pozyska go na stałe.</description>
     </item>
     
 </channel>
