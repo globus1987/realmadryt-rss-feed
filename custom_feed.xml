@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Jun 2024 17:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 18:26:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Austria vs Francja: Faworyt zaczyna EURO</title>
+        <link>https://www.realmadryt.pl/news/130469-austria-vs-francja-faworyt-zaczyna-euro</link>
+        <pubDate>Mon, 17 Jun 2024 20:00:00 GMT</pubDate>
+        <description>O 21:00 w Düsseldorfie rozpocznie się potyczka Austrii i Francji. W składzie Trójkolorowych nie zabrakło oczywiście Kyliana Mbappé.</description>
+    </item>
     
     <item>
         <title>Mbappé o Tchouaménim: Ma wszystko, by być kapitanem szatni</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Belgia vs Słowacja: Czerwone Diabły chcą coś udowodnić</title>
-        <link>https://www.realmadryt.pl/news/130467-belgia-vs-slowacja-czerwone-diably-chca-cos-udowodnic</link>
+        <title>Słowacja pokonuje Belgię!</title>
+        <link>https://www.realmadryt.pl/news/130467-slowacja-pokonuje-belgie</link>
         <pubDate>Mon, 17 Jun 2024 17:30:00 GMT</pubDate>
-        <description>W drugim dzisiejszym meczu na EURO reprezentacja Belgii zmierzy się w grupie E ze Słowacją.</description>
+        <description>W drugim meczu grupy E Belgia niespodziewanie przegrała ze Słowacją 0:1. Autorem jedynego trafienia był w pierwszej połowie Ivan Schranz.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130459-mbappe-otrzyma-wiekszy-procent-dochodow-ze-swoich-praw-do-wizerunku</link>
         <pubDate>Mon, 17 Jun 2024 12:00:00 GMT</pubDate>
         <description>Kylian Mbappé przychodzi do Realu Madryt jako wielka gwiazda, ale i z porozumieniem w sprawie swoich praw do wizerunku, które wielokrotnie w przypadku Francuza były przyczyną różnicy zdań.</description>
-    </item>
-    
-    <item>
-        <title>Dončić: Celtics jak Real? Real jest w swojej własnej lidze</title>
-        <link>https://www.realmadryt.pl/news/130450-doncic-celtics-jak-real-real-jest-w-swojej-wlasnej-lidze</link>
-        <pubDate>Mon, 17 Jun 2024 11:05:00 GMT</pubDate>
-        <description>Słoweński koszykarz kolejny raz wypowiedział się o Realu Madryt, z którego się wywodzi. Piąty mecz Finałów NBA odbędzie się w nocy z poniedziałku na wtorek czasu polskiego.</description>
     </item>
     
 </channel>
