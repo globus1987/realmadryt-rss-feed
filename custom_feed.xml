@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Jun 2024 22:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 23:20:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Francuskie media: Mbappé może wrócić do gry już w piątek</title>
+        <link>https://www.realmadryt.pl/news/130476-francuskie-media-mbappe-moze-wrocic-do-gry-juz-w-piatek</link>
+        <pubDate>Tue, 18 Jun 2024 01:20:00 GMT</pubDate>
+        <description>Francuskie media zgodnie podały, że kapitan reprezentacji nie przeszedł operacji w nocy po meczu z Austrią i wstępnie ma nadzieję nawet na grę w piątkowym meczu z Holandią.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130467-slowacja-pokonuje-belgie</link>
         <pubDate>Mon, 17 Jun 2024 17:30:00 GMT</pubDate>
         <description>W drugim meczu grupy E Belgia niespodziewanie przegrała ze Słowacją 0:1. Autorem jedynego trafienia był w pierwszej połowie Ivan Schranz.</description>
-    </item>
-    
-    <item>
-        <title>Państwo Islamskie z kolejnymi groźbami przeciwko Realowi Madryt</title>
-        <link>https://www.realmadryt.pl/news/130464-panstwo-islamskie-z-kolejnymi-grozbami-przeciwko-realowi-madryt</link>
-        <pubDate>Mon, 17 Jun 2024 14:40:00 GMT</pubDate>
-        <description>Funkcjonariusze hiszpańskiej Guardii Civil rozmontowali komórkę Fundacji I'lam, która zajmuje się propagandą tak zwanego Państwa Islamskiego. Wśród jej materiałów znajdowały się te dotyczące ataku na Real Madryt.</description>
     </item>
     
 </channel>
