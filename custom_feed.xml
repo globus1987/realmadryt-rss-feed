@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Jun 2024 09:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 10:22:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé otrzyma większy procent dochodów ze swoich praw do wizerunku</title>
+        <link>https://www.realmadryt.pl/news/130459-mbappe-otrzyma-wiekszy-procent-dochodow-ze-swoich-praw-do-wizerunku</link>
+        <pubDate>Mon, 17 Jun 2024 12:00:00 GMT</pubDate>
+        <description>Kylian Mbappé przychodzi do Realu Madryt jako wielka gwiazda, ale i z porozumieniem w sprawie swoich praw do wizerunku, które wielokrotnie w przypadku Francuza były przyczyną różnicy zdań.</description>
+    </item>
     
     <item>
         <title>Dončić: Celtics jak Real? Real jest w swojej własnej lidze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130452-jude-bellingham-pilkarzem-meczu-anglii-z-serbia</link>
         <pubDate>Sun, 16 Jun 2024 23:04:00 GMT</pubDate>
         <description>Anglik został wybrany MVP spotkania z Serbią. To pierwsze takie wyróżnienie gracza Królewskich na tym turnieju.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Iker Bravo opuszcza Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/130451-oficjalnie-iker-bravo-opuszcza-real-madryt</link>
-        <pubDate>Sun, 16 Jun 2024 21:40:00 GMT</pubDate>
-        <description>Królewscy nie skorzystają z opcji wykupu 19-latka i ten wróci do Bayeru Leverkusen.</description>
     </item>
     
 </channel>
