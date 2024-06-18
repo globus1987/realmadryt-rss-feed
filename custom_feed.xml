@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Jun 2024 02:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 03:23:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Boston Celtics mistrzami NBA</title>
+        <link>https://www.realmadryt.pl/news/130479-boston-celtics-mistrzami-nba</link>
+        <pubDate>Tue, 18 Jun 2024 04:59:00 GMT</pubDate>
+        <description>Boston Celtics wygrali 4:1 w serii Finałów NBA z Dallas Mavericks. Luka Dončić pozostał bez tytułu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Mbappé bez operacji i ze specjalną maską do gry</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130432-mbappe-o-tchouamenim-ma-wszystko-by-byc-kapitanem-szatni</link>
         <pubDate>Mon, 17 Jun 2024 18:40:00 GMT</pubDate>
         <description>Kylian Mbappé został poproszony przez dziennik Ouest-France o opisanie swoich kolegów z reprezentacji na EURO. Przedstawiamy komentarze napastnika Realu Madryt na temat francuskich graczy Królewskich oraz wypowiedź o samym sobie.</description>
-    </item>
-    
-    <item>
-        <title>Bitwa o Rafę Marína</title>
-        <link>https://www.realmadryt.pl/news/130462-bitwa-o-rafe-marina</link>
-        <pubDate>Mon, 17 Jun 2024 17:43:00 GMT</pubDate>
-        <description>Napoli prowadzi negocjacje w sprawie transferu stopera, którym interesują się także Milan i Bayer Leverkusen. Real chce zachować prawa do swojego wychowanka.</description>
     </item>
     
 </channel>
