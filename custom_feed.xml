@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Jun 2024 09:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 10:21:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Paris Basketball w Eurolidze</title>
+        <link>https://www.realmadryt.pl/news/130474-paris-basketball-w-eurolidze</link>
+        <pubDate>Tue, 18 Jun 2024 12:03:00 GMT</pubDate>
+        <description>W sezonie 2024/25 Euroligi doszło do jednej zmiany na liście uczestników. W rozgrywkach zadebiutuje Paris Basketball jako zwycięzca Eurocupu. Poszkodowana w tej sytuacji została Valencia, dla której zabrakło miejsca.</description>
+    </item>
     
     <item>
         <title>Ile kosztuje sprowadzenie Realu na mecz towarzyski?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130476-francuskie-media-mbappe-moze-wrocic-do-gry-jeszcze-w-fazie-grupowej</link>
         <pubDate>Tue, 18 Jun 2024 01:20:00 GMT</pubDate>
         <description>Francuskie media zgodnie podały, że kapitan reprezentacji nie przeszedł operacji w nocy po meczu z Austrią i nie jest wykluczony jego powrót do gry jeszcze w fazie grupowej.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130475-dzisiejsze-okladki</link>
-        <pubDate>Tue, 18 Jun 2024 00:42:00 GMT</pubDate>
-        <description>Kontuzja Kyliana Mbappé i plany Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
