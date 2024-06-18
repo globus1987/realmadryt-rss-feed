@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Jun 2024 05:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 06:27:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bravo: Wychowanek nie ma szans na awans do pierwszej drużyny Realu</title>
+        <link>https://www.realmadryt.pl/news/130466-bravo-wychowanek-nie-ma-szans-na-awans-do-pierwszej-druzyny-realu</link>
+        <pubDate>Tue, 18 Jun 2024 07:54:00 GMT</pubDate>
+        <description>Iker Bravo udzielił wywiadu dziennikowi MARCA, w którym podsumował swoje dwa sezony na wypożyczeniu w Realu Madryt. Napastnik nie zostanie wykupiony i wraca do Bayeru Leverkusen.</description>
+    </item>
     
     <item>
         <title>Stłuczenie Endricka na treningu skończyło się na strachu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130465-simon-slowa-mbappe-ja-tematy-polityczne-zostawiam-innym</link>
         <pubDate>Mon, 17 Jun 2024 20:40:00 GMT</pubDate>
         <description>Unai Simón wziął udział w konferencji prasowej na zgrupowaniu Hiszpanii. Przedstawiamy najważniejsze wypowiedzi bramkarza Athleticu z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Minimalna wygrana Francji, uraz Mbappé</title>
-        <link>https://www.realmadryt.pl/news/130469-minimalna-wygrana-francji-uraz-mbappe</link>
-        <pubDate>Mon, 17 Jun 2024 20:00:00 GMT</pubDate>
-        <description>W swoim pierwszym meczu na EURO 2024 Francja wygrała z Austrią 1:0 po samobójczym trafieniu Maximiliana Wöbera. Największe zasługi przy tym trafieniu miał Kylian Mbappé, który musiał jednak zejść z boiska przed ostatnim gwizdkiem sędziego.</description>
     </item>
     
 </channel>
