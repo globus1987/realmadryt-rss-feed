@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Jun 2024 06:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 07:17:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bałkańskie derby i drugi mecz Niemiec</title>
+        <link>https://www.realmadryt.pl/news/130501-balkanskie-derby-i-drugi-mecz-niemiec</link>
+        <pubDate>Wed, 19 Jun 2024 09:07:00 GMT</pubDate>
+        <description>Wczoraj oglądaliśmy tylko dwa mecze i tym samym kończyliśmy pierwszą kolejkę fazy grupowej. Dziś EURO 2024 znów zaserwuje nam trzy starcia. Na początek rozgrzeje nas grupa B, a konkretnie Chorwacja i Albania. Później do gry wróci grupa A, a w niej czekają nas potyczki Niemiec z Węgrami oraz Szkocji ze Szwajcarią. Jak zwykle zacieramy zatem ręce, a robimy to tym mocniej, że ujrzymy w akcji trzech piłkarzy Realu Madryt.</description>
+    </item>
     
     <item>
         <title>AS: Brahim nie poleci na igrzyska olimpijskie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130492-wygrana-portugalii-w-doliczonym-czasie-gry</link>
         <pubDate>Tue, 18 Jun 2024 20:30:00 GMT</pubDate>
         <description>W drugim meczu grupy F Portugalia wygrała z Czechami 2:1. Decydującą bramkę zdobył Francisco Conceição.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler Piłkarzem Meczu Turcji z Gruzją</title>
-        <link>https://www.realmadryt.pl/news/130494-arda-gueler-pilkarzem-meczu-turcji-z-gruzja</link>
-        <pubDate>Tue, 18 Jun 2024 20:09:00 GMT</pubDate>
-        <description>Turek został wybrany MVP spotkania z Gruzją. Jest to już drugie wyróżnienie dla gracza Realu Madryt na tym turnieju.</description>
     </item>
     
 </channel>
