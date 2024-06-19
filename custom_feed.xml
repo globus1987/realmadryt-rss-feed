@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Jun 2024 16:24:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 16:42:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé trenował na murawie z opatrunkiem nosa</title>
+        <link>https://www.realmadryt.pl/news/130515-mbappe-trenowal-na-murawie-z-opatrunkiem-nosa</link>
+        <pubDate>Wed, 19 Jun 2024 18:41:00 GMT</pubDate>
+        <description>Nowy piłkarz Królewskich wyszedł dzisiaj na trening reprezentacji Francji, ale ćwiczył indywidualnie. Na nosie miał specjalny opatrunek.</description>
+    </item>
     
     <item>
         <title>Za ile kartek pauzuje się na EURO i kiedy są czyszczone?</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Niemcy vs Węgry: Drugi mecz Kroosa i Rüdigera</title>
-        <link>https://www.realmadryt.pl/news/130504-niemcy-vs-wegry-drugi-mecz-kroosa-i-ruedigera</link>
+        <title>Niemcy vs Węgry: Niemcy prowadzą 1:0</title>
+        <link>https://www.realmadryt.pl/news/130504-niemcy-vs-wegry-niemcy-prowadza-1-0</link>
         <pubDate>Wed, 19 Jun 2024 17:30:00 GMT</pubDate>
-        <description>W drugim środowym spotkaniu do gry wraca grupa A. O 18:00 na stadionie w Stuttgarcie Niemcy zmierzą się z reprezentacją Węgier. W wyjściowej jedenastce gospodarzy wybiegną Toni Kroos i Antonio Rüdiger.</description>
+        <description>W drugim środowym spotkaniu do gry wraca grupa A. O 18:00 na stadionie w Stuttgarcie rozpoczęło się starcie Niemiec z Węgrami. W wyjściowej jedenastce gospodarzy wybiegli Toni Kroos i Antonio Rüdiger.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130491-casillas-w-hiszpanii-widze-podobna-mieszanke-jak-w-2008-roku</link>
         <pubDate>Wed, 19 Jun 2024 12:31:00 GMT</pubDate>
         <description>Iker Casillas, jedna z twarzy historycznej reprezentacji Hiszpanii, która w latach 2008-2012 wygrywała kolejno EURO, mundial i ponownie EURO, udzielił wywiadu dziennikowi MARCA. Poniżej przedstawiamy zapis tej rozmowy z byłym hiszpańskim golkiperem.</description>
-    </item>
-    
-    <item>
-        <title>Kepa zostanie w razie odejścia Łunina?</title>
-        <link>https://www.realmadryt.pl/news/130506-kepa-zostanie-w-razie-odejscia-lunina</link>
-        <pubDate>Wed, 19 Jun 2024 11:40:00 GMT</pubDate>
-        <description>Nie ulega wątpliwości, że w przyszłym sezonie podstawowym bramkarzem Realu Madryt będzie Thibaut Courtois. Zagadką przez to wciąż pozostaje przyszłość Andrija Łunina. Choć Ukrainiec jest bliski przedłużenia umowy, to jednak otoczenie piłkarza coraz śmielej namawia go do zmiany pracodawcy. Zawodnik nie pozostaje na to głuchy, ale na ten moment jego celem jest kontynuowanie kariery w stolicy Hiszpanii.</description>
     </item>
     
 </channel>
