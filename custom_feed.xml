@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Jun 2024 22:18:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 22:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130524-dzisiejsze-okladki</link>
+        <pubDate>Thu, 20 Jun 2024 00:19:00 GMT</pubDate>
+        <description>Mecz Hiszpanii z Włochami na EURO to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Kenti Robles odchodzi z Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130513-marca-alex-jimenez-wykupiony-przez-milan</link>
         <pubDate>Wed, 19 Jun 2024 16:04:00 GMT</pubDate>
         <description>Uzgodnione wiosną porozumienie zostało sformalizowane w środę. Álex Jiménez od nowego sezonu będzie już pełnoprawnym graczem Rossonerich.</description>
-    </item>
-    
-    <item>
-        <title>Real nie ma żadnego wpływu na obecną sytuację Mbappé</title>
-        <link>https://www.realmadryt.pl/news/130510-real-nie-ma-zadnego-wplywu-na-obecna-sytuacje-mbappe</link>
-        <pubDate>Wed, 19 Jun 2024 14:45:00 GMT</pubDate>
-        <description>Królewscy są zmuszeni ufać obecnie sztabowi francuskiej reprezentacji oraz tamtejszej federacji w kwestii zdrowia piłkarza i jego ewentualnej operacji lub odpoczynku.</description>
     </item>
     
 </channel>
