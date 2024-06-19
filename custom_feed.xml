@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Jun 2024 09:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 09:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kepa zostanie w razie odejścia Łunina?</title>
+        <link>https://www.realmadryt.pl/news/130506-kepa-zostanie-w-razie-odejscia-lunina</link>
+        <pubDate>Wed, 19 Jun 2024 11:40:00 GMT</pubDate>
+        <description>Nie ulega wątpliwości, że w przyszłym sezonie podstawowym bramkarzem Realu Madryt będzie Thibaut Courtois. Zagadką przez to wciąż pozostaje przyszłość Andrija Łunina. Choć Ukrainiec jest bliski przedłużenia umowy, to jednak otoczenie piłkarza coraz śmielej namawia go do zmiany otoczenia. Zawodnik nie pozostaje na to głuchy, ale na ten moment jego celem jest kontynuowanie kariery w stolicy Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Carlos Alocén zawodnikiem Gran Canarii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130497-deschamps-nie-teraz-ale-mbappe-bedzie-musial-przejsc-operacje</link>
         <pubDate>Tue, 18 Jun 2024 21:49:00 GMT</pubDate>
         <description>Selekcjoner Francuzów przekazał najnowsze informacje w sprawie kontuzji nowego napastnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Bernabéu bez murawy i z dużą ilością pyłu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/130495-bernabeu-bez-murawy-i-z-duza-iloscia-pylu-video</link>
-        <pubDate>Tue, 18 Jun 2024 21:40:00 GMT</pubDate>
-        <description>Zakończył się drugi dzień wymieniania murawy na Santiago Bernabéu. Ma być ona wykonana w inny sposób, a klub cały czas szuka poprawienia tego aspektu.</description>
     </item>
     
 </channel>
