@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 16:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 16:55:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé trenuje w masce</title>
+        <link>https://www.realmadryt.pl/news/130538-mbappe-trenuje-w-masce</link>
+        <pubDate>Thu, 20 Jun 2024 18:47:00 GMT</pubDate>
+        <description>Didier Deschamps zapowiedział, że napastnik może być jutro do jego dyspozycji w meczu z Holandią. Zawodnik wieczorem trenował z grupą już w specjalnej masce.</description>
+    </item>
     
     <item>
         <title>AS: Rabiot opcją dla Realu</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>Dania vs Anglia: Dania wyrównuje!</title>
-        <link>https://www.realmadryt.pl/news/130534-dania-vs-anglia-dania-wyrownuje</link>
+        <title>Dania vs Anglia: Do przerwy 1:1</title>
+        <link>https://www.realmadryt.pl/news/130534-dania-vs-anglia-do-przerwy-1-1</link>
         <pubDate>Thu, 20 Jun 2024 17:02:00 GMT</pubDate>
         <description>O 18:00 na murawę stadionu we Frankfurcie nad Menem wybiegli piłkarze reprezentacji Danii oraz Anglii. W pierwszym składzie wicemistrzów Europy znalazł się oczywiście Jude Bellingham.</description>
     </item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130531-rmc-mbappe-chce-jutro-zagrac-ale-ciagle-czeka-na-maske</link>
         <pubDate>Thu, 20 Jun 2024 12:50:00 GMT</pubDate>
         <description>Francuz zapewnia, że czuje się gotowy do gry. Największym problemem pozostaje temat maski ochronnej.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal doczeka się nagrody</title>
-        <link>https://www.realmadryt.pl/news/130483-carvajal-doczeka-sie-nagrody</link>
-        <pubDate>Thu, 20 Jun 2024 12:46:00 GMT</pubDate>
-        <description>W wieku 32 lat Dani Carvajal jest jednym z najlepiej dysponowanych hiszpańskich piłkarzy. Nie ma więc nic dziwnego w tym, że może się on spodziewać nagrody w postaci nowej umowy.</description>
     </item>
     
 </channel>
