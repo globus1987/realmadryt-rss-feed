@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 22:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 22:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130543-dzisiejsze-okladki</link>
+        <pubDate>Fri, 21 Jun 2024 00:41:00 GMT</pubDate>
+        <description>Wygrana Hiszpanii nad Włochami to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Reinier: Real Madryt jest moim głównym celem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130535-rakitic-zamieszcza-wpis-ktory-no-wlasnie-co</link>
         <pubDate>Thu, 20 Jun 2024 15:50:00 GMT</pubDate>
         <description>Były pomocnik Barcelony zamieścił na Instagramie story, które wzbudziło wiele debat. Po pierwsze, o jej trafności. Po drugie, o momencie opublikowania takiego przesłania, gdy Chorwacja ma duże problemy na EURO.</description>
-    </item>
-    
-    <item>
-        <title>Joselu: Moja przyszłość? Nie wiem, Real sprowadził już dwóch napastników</title>
-        <link>https://www.realmadryt.pl/news/130528-joselu-moja-przyszlosc-nie-wiem-real-sprowadzil-juz-dwoch-napastnikow</link>
-        <pubDate>Thu, 20 Jun 2024 14:50:00 GMT</pubDate>
-        <description>Joselu udzielił wywiadu dziennikowi AS ze zgrupowania reprezentacji Hiszpanii w Donaueschingen. Przedstawiamy zapis rozmowy z napastnikiem Królewskich przed meczem La Roja z Włochami.</description>
     </item>
     
 </channel>
