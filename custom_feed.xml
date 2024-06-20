@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 19:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 19:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Reinier: Real Madryt jest moim głównym celem</title>
+        <link>https://www.realmadryt.pl/news/130522-reinier-real-madryt-jest-moim-glownym-celem</link>
+        <pubDate>Thu, 20 Jun 2024 21:45:00 GMT</pubDate>
+        <description>Reinier udzielił wywiadu portalowi Globo. Opowiadał o swoich dotychczasowych przygodach w Europie, ale nie chciał zdradzić planów na przyszłość.</description>
+    </item>
     
     <item>
         <title>The Athletic: Paulo Iago przekazał Realowi Madryt, że chce odejść</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Hiszpania vs Włochy: Mecz o pierwsze miejsce w grupie?</title>
-        <link>https://www.realmadryt.pl/news/130539-hiszpania-vs-wlochy-mecz-o-pierwsze-miejsce-w-grupie</link>
+        <title>Hiszpania 0:0 Włochy [PRZERWA]</title>
+        <link>https://www.realmadryt.pl/news/130539-hiszpania-0-0-wlochy-przerwa</link>
         <pubDate>Thu, 20 Jun 2024 19:57:00 GMT</pubDate>
-        <description>O 21:00 rozpocznie się bardzo ważne spotkanie w grupie B Mistrzostw Europy 2024. W szeregach La Rojy od pierwszej minuty zobaczymy Daniego Carvajala.</description>
+        <description>Hiszpanie stworzyli sobie kilka dobrych okazji w pierwszej połowie, a Italia na razie nie potrafi im zagrozić.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130528-joselu-moja-przyszlosc-nie-wiem-real-sprowadzil-juz-dwoch-napastnikow</link>
         <pubDate>Thu, 20 Jun 2024 14:50:00 GMT</pubDate>
         <description>Joselu udzielił wywiadu dziennikowi AS ze zgrupowania reprezentacji Hiszpanii w Donaueschingen. Przedstawiamy zapis rozmowy z napastnikiem Królewskich przed meczem La Roja z Włochami.</description>
-    </item>
-    
-    <item>
-        <title>Słowenia remisuje z Serbią, gol Jovicia [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/130533-slowenia-remisuje-z-serbia-gol-jovicia-video</link>
-        <pubDate>Thu, 20 Jun 2024 14:02:00 GMT</pubDate>
-        <description>W pierwszym dzisiejszym meczu na Mistrzostwach Europy w Niemczech Słowenia zremisowała z Serbią 1:1. Orły uniknęły porażki po bramce zdobytej przez Lukę Jovicia w 95. minucie gry.</description>
     </item>
     
 </channel>
