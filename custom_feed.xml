@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 05:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 05:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan na wymianę boków obrony</title>
+        <link>https://www.realmadryt.pl/news/130511-plan-na-wymiane-bokow-obrony</link>
+        <pubDate>Thu, 20 Jun 2024 07:25:00 GMT</pubDate>
+        <description>Real zakłada, że ​​Bayern zatrzyma Daviesa do 2025 roku, a lewa obrona do tego czasu będzie należeć Mendy'ego i Frana Garcii. Z kolei zmiany na prawej stronie defensywy zaplanowano na lato 2026 roku.</description>
+    </item>
     
     <item>
         <title>MARCA: Real Madryt ma porozumienie z Lenym Yoro, ale…</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130514-za-ile-kartek-pauzuje-sie-na-euro-i-kiedy-sa-czyszczone</link>
         <pubDate>Wed, 19 Jun 2024 17:59:00 GMT</pubDate>
         <description>W tych dniach zaczną zapadać pierwsze rozstrzygnięcia na EURO. Kibice jak zawsze mają dwa główne pytania: kiedy pauzuje się za kartki i kto przechodzi przy równej liczbie punktów?</description>
-    </item>
-    
-    <item>
-        <title>Niemcy wygrywają z Węgrami, cały mecz Kroosa i Rüdigera [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/130504-niemcy-wygrywaja-z-wegrami-caly-mecz-kroosa-i-ruedigera-video</link>
-        <pubDate>Wed, 19 Jun 2024 17:30:00 GMT</pubDate>
-        <description>W drugim środowym spotkaniu na Mistrzostwach Europy Niemcy pokonały Węgry 2:0. Gole dla gospodarzy strzelali Jamal Musiala oraz İlkay Gündoğan. Pełne ponad 90 minut zaliczyli Toni Kroos i Antonio Rüdiger.</description>
     </item>
     
 </channel>
