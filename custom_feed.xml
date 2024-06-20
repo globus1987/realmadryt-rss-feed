@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 14:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 15:22:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dania vs Anglia: Szlagier grupy C</title>
+        <link>https://www.realmadryt.pl/news/130534-dania-vs-anglia-szlagier-grupy-c</link>
+        <pubDate>Thu, 20 Jun 2024 17:02:00 GMT</pubDate>
+        <description>O 18:00 na murawę stadionu we Frankfurcie wybiegną piłkarze reprezentacji Danii oraz Anglii. W pierwszym składzie wicemistrzów Europy znalazł się oczywiście Jude Bellingham.</description>
+    </item>
     
     <item>
         <title>Rakitić zamieszcza wpis, który… No właśnie, co?</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Słowenia vs Serbia: Słowenia prowadzi!</title>
-        <link>https://www.realmadryt.pl/news/130533-slowenia-vs-serbia-slowenia-prowadzi</link>
+        <title>Słowenia remisuje z Serbią</title>
+        <link>https://www.realmadryt.pl/news/130533-slowenia-remisuje-z-serbia</link>
         <pubDate>Thu, 20 Jun 2024 14:02:00 GMT</pubDate>
-        <description>O 15:00 rozpoczął się pierwszy czwartkowy mecz na EURO 2024, w którym Słowenia mierzy się z Serbią. Jest to bardzo ważny pojedynek w kontekście końcowych rozstrzygnięć w grupie C.</description>
+        <description>W pierwszym dzisiejszym meczu na Mistrzostwach Europy w Niemczech Słowenia zremisowała z Serbią 1:1. Orły uniknęły porażki po bramce zdobytej przez Lukę Jovicia w 95. minucie gry.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130518-valverde-obietnice-z-finalu-ligi-mistrzow-spelnie-po-copa-america</link>
         <pubDate>Thu, 20 Jun 2024 11:21:00 GMT</pubDate>
         <description>Federico Valverde wziął udział w chacie na żywo w aplikacji The Residency. Przedstawiamy najważniejsze odpowiedzi pomocnika Realu Madryt z tej rozmowy z fanami.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 20 czerwca</title>
-        <link>https://www.realmadryt.pl/news/130521-kartka-z-kalendarza-20-czerwca</link>
-        <pubDate>Thu, 20 Jun 2024 10:30:00 GMT</pubDate>
-        <description>Tenerifazo w 1993 roku, mecz towarzyski w Sewilli z golem Wojciecha Kowalczyka i rocznica transferu Marcosa Llorente. Co działo się 20 czerwca?</description>
     </item>
     
 </channel>
