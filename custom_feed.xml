@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 06:55:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 07:18:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za wygraną Polski z Austrią lub remis!</title>
+        <link>https://www.realmadryt.pl/news/130526-300-zl-za-wygrana-polski-z-austria-lub-remis</link>
+        <pubDate>Thu, 20 Jun 2024 09:07:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Walka w grupie C i wielki europejski klasyk</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130516-krolewscy-montuja-na-bernabeu-trawe-z-rolki-video</link>
         <pubDate>Wed, 19 Jun 2024 19:45:00 GMT</pubDate>
         <description>Ostatecznie informacje dziennika MARCA okazały się nieprawdziwe, a dzisiaj na stadionie Realu Madryt rozpoczęto proces instalacji trawy z rolki.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé trenował na murawie z opatrunkiem nosa</title>
-        <link>https://www.realmadryt.pl/news/130515-mbappe-trenowal-na-murawie-z-opatrunkiem-nosa</link>
-        <pubDate>Wed, 19 Jun 2024 18:41:00 GMT</pubDate>
-        <description>Nowy piłkarz Królewskich wyszedł dzisiaj na trening reprezentacji Francji, ale ćwiczył indywidualnie. Na nosie miał specjalny opatrunek.</description>
     </item>
     
 </channel>
