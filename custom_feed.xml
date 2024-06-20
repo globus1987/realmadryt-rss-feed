@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Jun 2024 15:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2024 16:26:58 GMT</lastBuildDate>
     
     <item>
-        <title>Dania vs Anglia: Szlagier grupy C</title>
-        <link>https://www.realmadryt.pl/news/130534-dania-vs-anglia-szlagier-grupy-c</link>
+        <title>Real Madryt dalej wzmacnia szkółkę</title>
+        <link>https://www.realmadryt.pl/news/130458-real-madryt-dalej-wzmacnia-szkolke</link>
+        <pubDate>Thu, 20 Jun 2024 17:55:00 GMT</pubDate>
+        <description>Real Madryt kontynuuje swoją politykę, na którą bardzo mocno postawiono już w ubiegłym roku, a więc sprowadzanie największych talentów z innych hiszpańskich klubów.</description>
+    </item>
+    
+    <item>
+        <title>Dania vs Anglia: Anglia prowadzi</title>
+        <link>https://www.realmadryt.pl/news/130534-dania-vs-anglia-anglia-prowadzi</link>
         <pubDate>Thu, 20 Jun 2024 17:02:00 GMT</pubDate>
-        <description>O 18:00 na murawę stadionu we Frankfurcie nad Menem wybiegną piłkarze reprezentacji Danii oraz Anglii. W pierwszym składzie wicemistrzów Europy znalazł się oczywiście Jude Bellingham.</description>
+        <description>O 18:00 na murawę stadionu we Frankfurcie nad Menem wybiegli piłkarze reprezentacji Danii oraz Anglii. W pierwszym składzie wicemistrzów Europy znalazł się oczywiście Jude Bellingham.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130530-davies-moja-przyszlosc-zobaczymy-po-copa-america</link>
         <pubDate>Thu, 20 Jun 2024 11:55:00 GMT</pubDate>
         <description>Kanadyjski obrońca wziął udział w konferencji prasowej przed meczem z Argentyną i został zapytany o swoją przyszłość.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Obietnicę z finału Ligi Mistrzów spełnię po Copa América</title>
-        <link>https://www.realmadryt.pl/news/130518-valverde-obietnice-z-finalu-ligi-mistrzow-spelnie-po-copa-america</link>
-        <pubDate>Thu, 20 Jun 2024 11:21:00 GMT</pubDate>
-        <description>Federico Valverde wziął udział w chacie na żywo w aplikacji The Residency. Przedstawiamy najważniejsze odpowiedzi pomocnika Realu Madryt z tej rozmowy z fanami.</description>
     </item>
     
 </channel>
