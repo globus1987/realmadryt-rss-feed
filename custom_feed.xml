@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Jun 2024 06:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 07:18:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz o wszystko Polaków, a także Łunin oraz Francuzi</title>
+        <link>https://www.realmadryt.pl/news/130541-mecz-o-wszystko-polakow-a-takze-lunin-oraz-francuzi</link>
+        <pubDate>Fri, 21 Jun 2024 09:07:00 GMT</pubDate>
+        <description>W siódmym dniu EURO kibice będą mogli obejrzeć trzy spotkania. Jako pierwsi na murawę wybiegną Ukraińcy z Andrijem Łuninem, a ich rywalem będzie Słowacja. Później emocje w polskich domach będą jeszcze większe. Polacy w meczu o życie zagrają z Austrią, a wieczorem Holandia zagra z naszpikowaną zawodnikami Królewskich Francją.</description>
+    </item>
     
     <item>
         <title>400 zł za bramkę Polski z Austrią!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130538-mbappe-trenuje-w-masce</link>
         <pubDate>Thu, 20 Jun 2024 18:47:00 GMT</pubDate>
         <description>Didier Deschamps zapowiedział, że napastnik może być jutro do jego dyspozycji w meczu z Holandią. Zawodnik wieczorem trenował z grupą już w specjalnej masce.</description>
-    </item>
-    
-    <item>
-        <title>AS: Rabiot opcją dla Realu</title>
-        <link>https://www.realmadryt.pl/news/130537-as-rabiot-opcja-dla-realu</link>
-        <pubDate>Thu, 20 Jun 2024 18:40:00 GMT</pubDate>
-        <description>Latem przyszłego roku wygasa umowa Rabiota z Juventusem. AS twierdzi, że jego zakontraktowanie nie byłoby priorytetem Realu, ale klub mógłby skorzystać z okazji.</description>
     </item>
     
 </channel>
