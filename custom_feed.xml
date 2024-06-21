@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Jun 2024 17:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 18:26:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Holandia vs Francja: Tchouaméni w jedenastce, Mbappé na ławce</title>
+        <link>https://www.realmadryt.pl/news/130558-holandia-vs-francja-tchouameni-w-jedenastce-mbappe-na-lawce</link>
+        <pubDate>Fri, 21 Jun 2024 19:55:00 GMT</pubDate>
+        <description>O 21:00 rozpocznie się czwarty mecz grupy D, w którym Holandia zmierzy się z Francją.</description>
+    </item>
     
     <item>
         <title>Nierozerwalny tandem</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Polska vs Austria: Lewandowski już na boisku</title>
-        <link>https://www.realmadryt.pl/news/130550-polska-vs-austria-lewandowski-juz-na-boisku</link>
+        <title>Polska przegrywa z Austrią i jest już niemal bez szans na awans</title>
+        <link>https://www.realmadryt.pl/news/130550-polska-przegrywa-z-austria-i-jest-juz-niemal-bez-szans-na-awans</link>
         <pubDate>Fri, 21 Jun 2024 16:52:00 GMT</pubDate>
-        <description>O 18:00 rozpocznie się drugi mecz reprezentacji Polski na EURO 2024. Jeśli Biało-Czerwoni myślą o wyjściu z grupy, dziś powinni wygrać.</description>
+        <description>Polska przegrała w Berlinie z Austrią 1:3 i jest bardzo blisko odpadnięcia z EURO 2024.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130547-kartka-z-kalendarza-21-czerwca</link>
         <pubDate>Fri, 21 Jun 2024 10:49:00 GMT</pubDate>
         <description>Rocznica draftu Dončicia, zdobycia siódmego Pucharu Hiszpanii, mistrzostwa Hiszpanii i przede wszystkim początku nowej ery pod przewodnictwem nowego trenera. Co działo się 21 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt położył na Bernabéu trawę z amerykańskich nasion [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/130544-real-madryt-polozyl-na-bernabeu-trawe-z-amerykanskich-nasion-video</link>
-        <pubDate>Fri, 21 Jun 2024 09:58:00 GMT</pubDate>
-        <description>MARCA przyznała się do błędu w sprawie murawy, ale wskazuje na jedną zmianę w utrzymaniu boiska. Dzisiaj ogrodnicy powinni skończyć układanie nowej trawy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
