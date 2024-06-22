@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Jun 2024 05:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 05:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Żeńska drużyna Realu może zagrać na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/130557-relevo-zenska-druzyna-realu-moze-zagrac-na-bernabeu</link>
+        <pubDate>Sat, 22 Jun 2024 07:25:00 GMT</pubDate>
+        <description>Jak dowiedziało się Relevo, może się to wydarzyć już w kolejnym sezonie. Typowany jest nawet konkretny mecz.</description>
+    </item>
     
     <item>
         <title>List do Brazylijczyków</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130444-spelniona-obietnica-viniciusa-tobiasa</link>
         <pubDate>Fri, 21 Jun 2024 15:00:00 GMT</pubDate>
         <description>Vinicius Tobias nie zrobił wielkiej kariery w Realu Madryt, ale nie przeszkadza to w tym, by mógł on uchodzić za wzór dla wielu dzieciaków z biednych rodzin, które marzą o karierze w zawodowym futbolu. Jego historia może mimo wszystko inspirować i zachęcać do pogoni za marzeniami.</description>
-    </item>
-    
-    <item>
-        <title>Niesamowite odrodzenie Ukrainy</title>
-        <link>https://www.realmadryt.pl/news/130554-niesamowite-odrodzenie-ukrainy</link>
-        <pubDate>Fri, 21 Jun 2024 14:12:00 GMT</pubDate>
-        <description>Ukraina wygrała ze Słowacją w meczu drugiej kolejki grupy E, odrabiając straty i ostatecznie triumfując 2:1. Ten wynik pozwala im dalej walczyć o awans do fazy pucharowej. Andrij Łunin usiadł na ławce, a jego rywal, Trubin, zanotował kilka znakomitych interwencji.</description>
     </item>
     
 </channel>
