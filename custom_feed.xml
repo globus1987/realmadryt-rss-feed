@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Jun 2024 11:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 12:34:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gruzja vs Czechy: Mecz o wszystko w grupie F</title>
+        <link>https://www.realmadryt.pl/news/130571-gruzja-vs-czechy-mecz-o-wszystko-w-grupie-f</link>
+        <pubDate>Sat, 22 Jun 2024 14:14:00 GMT</pubDate>
+        <description>W pierwszym sobotnim spotkaniu na Mistrzostwach Europy w Niemczech reprezentacja Gruzji zmierzy się w Hamburgu z Czechami. Pierwszy gwizdek sędziego Daniela Sieberta wybrzmi o 15:00.</description>
+    </item>
     
     <item>
         <title>Nietykalny Arda Güler</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130562-list-do-brazylijczykow</link>
         <pubDate>Sat, 22 Jun 2024 05:30:00 GMT</pubDate>
         <description>The Players' Tribune opublikowało list od Danilo skierowany do wszystkich Brazylijczyków. Przedstawiamy pełne tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130563-dzisiejsze-okladki</link>
-        <pubDate>Sat, 22 Jun 2024 00:55:00 GMT</pubDate>
-        <description>Mecze na Mistrzostwach Europy to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
