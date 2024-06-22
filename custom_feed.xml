@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Jun 2024 14:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 15:19:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Turcja vs Portugalia: Güler na ławce rezerwowych</title>
+        <link>https://www.realmadryt.pl/news/130573-turcja-vs-portugalia-gueler-na-lawce-rezerwowych</link>
+        <pubDate>Sat, 22 Jun 2024 17:13:00 GMT</pubDate>
+        <description>O 18:00 w Dortmundzie rozpocznie się drugi sobotni mecz na EURO 2024, w którym Turcja zagra z Portugalią. Obie drużyny wygrały swoje pierwsze spotkania, a wyjątkowo frapujący smaczek dla wszystkich madridistas (i nie tylko) stanowi korespondencyjny pojedynek Ardy Gülera z Cristiano Ronaldo.</description>
+    </item>
     
     <item>
         <title>Nihat: Arda Güler jest jak Guti</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Gruzja vs Czechy: Czechy wyrównują</title>
-        <link>https://www.realmadryt.pl/news/130571-gruzja-vs-czechy-czechy-wyrownuja</link>
+        <title>Gruzja remisuje z Czechami</title>
+        <link>https://www.realmadryt.pl/news/130571-gruzja-remisuje-z-czechami</link>
         <pubDate>Sat, 22 Jun 2024 14:14:00 GMT</pubDate>
-        <description>W pierwszym sobotnim spotkaniu na Mistrzostwach Europy w Niemczech reprezentacja Gruzji mierzy się w Hamburgu z Czechami. Pierwszy gwizdek sędziego Daniela Sieberta wybrzmiał o 15:00.</description>
+        <description>W pierwszym sobotnim spotkaniu na Mistrzostwach Europy w Niemczech reprezentacja Gruzji zremisowała w Hamburgu z Czechami 1:1. Gole w tym meczu strzelali Georges Mikautadze z rzutu karnego oraz Patrik Schick.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130560-getafe-oferowalo-realowi-marca-cucurelle</link>
         <pubDate>Sat, 22 Jun 2024 09:09:00 GMT</pubDate>
         <description>Prezes Los Azulones poinformował, że latem 2021 roku próbował sprzedać lewego obrońcę Realowi Madryt. Ostatecznie ten trafił do Brighton za 18 milionów euro.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler, Gruzja i Rumunia, czyli gwarancja dobrego widowiska</title>
-        <link>https://www.realmadryt.pl/news/130551-arda-gueler-gruzja-i-rumunia-czyli-gwarancja-dobrego-widowiska</link>
-        <pubDate>Sat, 22 Jun 2024 08:18:00 GMT</pubDate>
-        <description>Sobota na EURO zapowiada się niezwykle interesująco. Najpierw na murawę wybiegną Gruzini, a ich rywalem będą Czechy. Później Turcja z Ardą Gülerem zagra z Portugalią. Wieczorem z kolei będąca na fali Rumunia zmierzy się z Belgią, która chce podnieść się po ostatniej wpadce ze Słowacją.</description>
     </item>
     
 </channel>
