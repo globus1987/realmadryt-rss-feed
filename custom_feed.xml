@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Jun 2024 13:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 13:27:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>L'Équipe: Mbappé zagra dziś w sparingu z Paderbornem</title>
+        <link>https://www.realmadryt.pl/news/130575-lequipe-mbappe-zagra-dzis-w-sparingu-z-paderbornem</link>
+        <pubDate>Sat, 22 Jun 2024 15:08:00 GMT</pubDate>
+        <description>Kylian ma przetestować maskę w meczowych warunkach i sprawdzić, jak bardzo ogranicza jego widoczność podczas akcji.</description>
+    </item>
     
     <item>
         <title>Gruzja vs Czechy: Mecz o wszystko w grupie F</title>
         <link>https://www.realmadryt.pl/news/130571-gruzja-vs-czechy-mecz-o-wszystko-w-grupie-f</link>
         <pubDate>Sat, 22 Jun 2024 14:14:00 GMT</pubDate>
-        <description>W pierwszym sobotnim spotkaniu na Mistrzostwach Europy w Niemczech reprezentacja Gruzji zmierzy się w Hamburgu z Czechami. Pierwszy gwizdek sędziego Daniela Sieberta wybrzmi o 15:00.</description>
+        <description>W pierwszym sobotnim spotkaniu na Mistrzostwach Europy w Niemczech reprezentacja Gruzji mierzy się w Hamburgu z Czechami. Pierwszy gwizdek sędziego Daniela Sieberta wybrzmiał o 15:00.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130557-relevo-zenska-druzyna-realu-moze-zagrac-na-bernabeu</link>
         <pubDate>Sat, 22 Jun 2024 07:25:00 GMT</pubDate>
         <description>Jak dowiedziało się Relevo, może się to wydarzyć już w kolejnym sezonie. Typowany jest nawet konkretny mecz.</description>
-    </item>
-    
-    <item>
-        <title>List do Brazylijczyków</title>
-        <link>https://www.realmadryt.pl/news/130562-list-do-brazylijczykow</link>
-        <pubDate>Sat, 22 Jun 2024 05:30:00 GMT</pubDate>
-        <description>The Players' Tribune opublikowało list od Danilo skierowany do wszystkich Brazylijczyków. Przedstawiamy pełne tłumaczenie.</description>
     </item>
     
 </channel>
