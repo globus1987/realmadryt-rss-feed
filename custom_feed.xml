@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Jun 2024 11:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 11:27:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nietykalny Arda Güler</title>
+        <link>https://www.realmadryt.pl/news/130568-nietykalny-arda-gueler</link>
+        <pubDate>Sat, 22 Jun 2024 13:24:00 GMT</pubDate>
+        <description>Teraźniejszość Turka to EURO 2024, a przyszłość to Real Madryt. Trener i klub dają jasno do zrozumienia, że ​​nie chcą stracić go z oczu i że nie odejdzie na wypożyczenie.</description>
+    </item>
     
     <item>
         <title>MARCA: PSG trzyma za słowo Mbappé</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130563-dzisiejsze-okladki</link>
         <pubDate>Sat, 22 Jun 2024 00:55:00 GMT</pubDate>
         <description>Mecze na Mistrzostwach Europy to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>L'Équipe: Kylian Mbappé domaga się od PSG 100 milionów euro</title>
-        <link>https://www.realmadryt.pl/news/130561-lequipe-kylian-mbappe-domaga-sie-od-psg-100-milionow-euro</link>
-        <pubDate>Fri, 21 Jun 2024 22:34:00 GMT</pubDate>
-        <description>Kapitan reprezentacji Francji z powodu nieotrzymania wynagrodzeń i różnych premii od kwietnia, postawił ultimatum PSG, aby uregulowano należności, które wynoszą około 100 milionów euro.</description>
     </item>
     
 </channel>
