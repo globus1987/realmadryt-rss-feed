@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Jun 2024 23:18:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 23:38:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130601-dzisiejsze-okladki</link>
+        <pubDate>Mon, 24 Jun 2024 01:35:00 GMT</pubDate>
+        <description>Mecz reprezentacji Hiszpanii i awans Espanyolu to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Czarny koń czy kolejny zawód?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130582-oficjalnie-freja-olofsson-odchodzi-z-realu-madryt</link>
         <pubDate>Sun, 23 Jun 2024 13:24:00 GMT</pubDate>
         <description>Freja Olofsson odchodzi z kobiecej drużyny Królewskich po dwóch sezonach spędzonych w Valdebebas. To szósta zawodniczka, która pożegnała się z klubem w ostatnich dniach.</description>
-    </item>
-    
-    <item>
-        <title>Co czeka Nacho w Al-Qadsiah?</title>
-        <link>https://www.realmadryt.pl/news/130587-co-czeka-nacho-w-al-qadsiah</link>
-        <pubDate>Sun, 23 Jun 2024 12:33:00 GMT</pubDate>
-        <description>Obrońca Realu Madryt podpisze kontrakt z drużyną, która niedawno awansowała do Saudi Pro League.</description>
     </item>
     
 </channel>
