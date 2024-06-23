@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Jun 2024 23:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 01:36:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130584-dzisiejsze-okladki</link>
+        <pubDate>Sun, 23 Jun 2024 02:43:00 GMT</pubDate>
+        <description>Odejście Nacho do Arabii Saudyjskiej i mecze na EURO to najważniejsze kwestie poruszane na sobotnich okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pintinho: Vinícius to prowokator i trochę pajac</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130575-lequipe-mbappe-zagra-dzis-w-sparingu-z-paderbornem</link>
         <pubDate>Sat, 22 Jun 2024 15:08:00 GMT</pubDate>
         <description>Kylian ma przetestować maskę w meczowych warunkach i sprawdzić, jak bardzo ogranicza jego widoczność podczas akcji.</description>
-    </item>
-    
-    <item>
-        <title>Gruzja remisuje z Czechami</title>
-        <link>https://www.realmadryt.pl/news/130571-gruzja-remisuje-z-czechami</link>
-        <pubDate>Sat, 22 Jun 2024 14:14:00 GMT</pubDate>
-        <description>W pierwszym sobotnim spotkaniu na Mistrzostwach Europy w Niemczech reprezentacja Gruzji zremisowała w Hamburgu z Czechami 1:1. Gole w tym meczu strzelali Georges Mikautadze z rzutu karnego oraz Patrik Schick.</description>
     </item>
     
 </channel>
