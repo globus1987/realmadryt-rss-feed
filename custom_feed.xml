@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Jun 2024 03:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 03:38:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bayern miota się w sprawie Daviesa</title>
+        <link>https://www.realmadryt.pl/news/130567-bayern-miota-sie-w-sprawie-daviesa</link>
+        <pubDate>Sun, 23 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Niemcy mieli już trzy różne scenariusze przyszłości kanadyjskiego zawodnika.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130577-nihat-arda-gueler-jest-jak-guti</link>
         <pubDate>Sat, 22 Jun 2024 15:28:00 GMT</pubDate>
         <description>Nihat Kahveci udzielił wywiadu dziennikowi AS, w którym analizował Ardę Gülera. Przedstawiamy zapis rozmowy z byłym reprezentantem Turcji i graczem między innymi Realu Sociedad i Villarrealu.</description>
-    </item>
-    
-    <item>
-        <title>L'Équipe: Mbappé zagra dziś w sparingu z Paderbornem</title>
-        <link>https://www.realmadryt.pl/news/130575-lequipe-mbappe-zagra-dzis-w-sparingu-z-paderbornem</link>
-        <pubDate>Sat, 22 Jun 2024 15:08:00 GMT</pubDate>
-        <description>Kylian ma przetestować maskę w meczowych warunkach i sprawdzić, jak bardzo ogranicza jego widoczność podczas akcji.</description>
     </item>
     
 </channel>
