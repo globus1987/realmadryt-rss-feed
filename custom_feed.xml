@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Jun 2024 08:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 08:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewski kapitanat</title>
+        <link>https://www.realmadryt.pl/news/130441-krolewski-kapitanat</link>
+        <pubDate>Sun, 23 Jun 2024 10:51:00 GMT</pubDate>
+        <description>Real Madryt wysyła 18-osobową delegację na EURO i Copa América. Na turnieju w Niemczech obecnych jest łącznie 13 graczy, podobnym wynikiem pochwalić mogą się jeszcze City i Inter. W USA wystąpi natomiast pięciu zawodników Królewskich. Z europejskich klubów tylko Porto może się pod tym względem równać z Realem.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 23 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130572-oficjalnie-kathellen-sousa-odchodzi-z-realu-madryt</link>
         <pubDate>Sat, 22 Jun 2024 19:22:00 GMT</pubDate>
         <description>Kathellen Sousa odchodzi z kobiecej drużyny Królewskich po dwóch sezonach spędzonych w Valdebebas. To piąta zawodniczka, która pożegnała się z klubem w ostatnich dniach.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Nacho zostanie piłkarzem Al-Qadisiyah</title>
-        <link>https://www.realmadryt.pl/news/130579-marca-nacho-zostanie-pilkarzem-al-qadisiyah</link>
-        <pubDate>Sat, 22 Jun 2024 18:31:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że hiszpański obrońca niemal na pewno opuści Real Madryt i przeniesie się do Arabii Saudyjskiej.</description>
     </item>
     
 </channel>
