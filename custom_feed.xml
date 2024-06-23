@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Jun 2024 05:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 06:26:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Walka na noże w grupie A</title>
+        <link>https://www.realmadryt.pl/news/130583-walka-na-noze-w-grupie-a</link>
+        <pubDate>Sun, 23 Jun 2024 08:18:00 GMT</pubDate>
+        <description>Przed nami ostatnia kolejka fazy grupowej Mistrzostw Europy. Zaczynamy od grupy A, w której Niemcy zagrają ze Szwajcarią, a Szkocja z Węgrami.</description>
+    </item>
     
     <item>
         <title>„W Realu Madryt Mbappé osiągnie wyższy poziom”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130578-montella-arda-byl-zmeczony</link>
         <pubDate>Sat, 22 Jun 2024 17:37:00 GMT</pubDate>
         <description>Selekcjoner reprezentacji Turcji wytłumaczył, czemu zawodnik Realu Madryt nie gra dzisiaj w wyjściowej jedenastce.</description>
-    </item>
-    
-    <item>
-        <title>Portugalia pewnie wygrywa z Turcją, 25 minut Gülera [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/130573-portugalia-pewnie-wygrywa-z-turcja-25-minut-guelera-video</link>
-        <pubDate>Sat, 22 Jun 2024 17:13:00 GMT</pubDate>
-        <description>W drugim sobotnim meczu na EURO 2024 Portugalia pokonała Turcję 3:0. Bramki zdobywali Bernardo Silva, Samet Akaydin (samobój) i Bruno Fernandes. Arda Güler pojawił się na boisku w 70. minucie.</description>
     </item>
     
 </channel>
