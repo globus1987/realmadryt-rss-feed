@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Jun 2024 19:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 20:19:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czarny koń czy kolejny zawód?</title>
+        <link>https://www.realmadryt.pl/news/130594-czarny-kon-czy-kolejny-zawod</link>
+        <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
+        <description>Dziś w nocy, a konkretnie o godzinie 3:00, Urugwaj rozpocznie rywalizację w Copa América. Drużyna Fede Valverde zmierzy się na inaugurację z Panamą.</description>
+    </item>
     
     <item>
         <title>Znamy komplet beniaminków La Ligi 2024/25</title>
         <link>https://www.realmadryt.pl/news/130595-znamy-komplet-beniaminkow-la-ligi-2024-25</link>
         <pubDate>Sun, 23 Jun 2024 21:52:00 GMT</pubDate>
-        <description>Gracze Papużek w niedzielny wieczór wywalczyli promocję do Primera División. W decydującym dwumeczu barażowym pokonali Real Oviedo 2:1.</description>
+        <description>Gracze Papużek w niedzielny wieczór wywalczyli sobie prawo gry w Primera División w kolejnym sezonie. Decydujący dwumecz barażowy wygrali z Realem Oviedo 2:1.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130587-co-czeka-nacho-w-al-qadsiah</link>
         <pubDate>Sun, 23 Jun 2024 12:33:00 GMT</pubDate>
         <description>Obrońca Realu Madryt podpisze kontrakt z drużyną, która niedawno awansowała do Saudi Pro League.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Praca z psychologiem bardzo mi pomogła</title>
-        <link>https://www.realmadryt.pl/news/130585-rodrygo-praca-z-psychologiem-bardzo-mi-pomogla</link>
-        <pubDate>Sun, 23 Jun 2024 11:42:00 GMT</pubDate>
-        <description>Rodrygo stawił się na konferencji prasowej przed startem Copa América. Brazylia swój udział w turnieju rozpocznie we wtorek meczem z Kostaryką.</description>
     </item>
     
 </channel>
