@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 06:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 07:20:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecze o wszystko w grupie śmierci</title>
+        <link>https://www.realmadryt.pl/news/130598-mecze-o-wszystko-w-grupie-smierci</link>
+        <pubDate>Mon, 24 Jun 2024 09:09:00 GMT</pubDate>
+        <description>W poniedziałek na EURO kibice obejrzą ostatnie mecze w grupie B, która przed startem turnieju określana była jako grupa śmierci. Przed trzecią serią gier pewna awansu do fazy pucharowej jest tylko Hiszpania, a pozostałe zespoły wciąż mają wiele do ugrania.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, David!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130552-20-milionow-euro-za-siedem-dni</link>
         <pubDate>Sun, 23 Jun 2024 18:55:00 GMT</pubDate>
         <description>Real Madryt chce zarobić na wizycie w USA około 20 milionów euro, mimo że w kadrze może zabraknąć wielu istotnych piłkarzy, którzy dotrą do półfinałów EURO czy Copa América</description>
-    </item>
-    
-    <item>
-        <title>Gryplan Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/130556-gryplan-ancelottiego</link>
-        <pubDate>Sun, 23 Jun 2024 17:50:00 GMT</pubDate>
-        <description>Po wspaniałym sezonie Realu Madryt Carlo Ancelotti przebywa obecnie na zasłużonym urlopie. Królewscy rozpoczną przygotowania do kolejnej kampanii 15 lipca, by rozegrać pierwsze oficjalne spotkanie w Superpucharze Europy w Warszawie 14 sierpnia. Do tego czasu szkoleniowiec będzie musiał dopracować kilka szczegółów, by nadchodzący sezon był równie udany, jak ten zakończony.</description>
     </item>
     
 </channel>
