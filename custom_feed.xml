@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 16:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 16:54:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni etap walki o Złotą Piłkę</title>
+        <link>https://www.realmadryt.pl/news/130612-ostatni-etap-walki-o-zlota-pilke</link>
+        <pubDate>Mon, 24 Jun 2024 18:46:00 GMT</pubDate>
+        <description>Dziś w nocy Brazylia rozpocznie rywalizację w Copa América, co jednocześnie będzie dla Viníciusa rozpoczęciem ostatniego etapu walki o Złotą Piłkę.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Hayley Raso opuszcza Real</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130603-czy-camavinga-przejmie-szostke-po-nacho</link>
         <pubDate>Mon, 24 Jun 2024 10:55:00 GMT</pubDate>
         <description>Odejście Nacho ma ogromne znaczenie sportowe, ale również marketingowe, ponieważ zwalnia się numer z historią w Realu Madryt. Jak informuje AS, najprawdopodobniej od przyszłego sezonu z szóstką występować będzie Eduardo Camavinga.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 24 czerwca</title>
-        <link>https://www.realmadryt.pl/news/130600-kartka-z-kalendarza-24-czerwca</link>
-        <pubDate>Mon, 24 Jun 2024 10:00:00 GMT</pubDate>
-        <description>Urodziny Cicinho i Alaby, piękne pożegnanie Camacho, prezentacja chorwackiego piłkarza i kolejne triumfy koszykarzy. Co działo się 24 czerwca?</description>
     </item>
     
 </channel>
