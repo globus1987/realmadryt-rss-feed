@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 15:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 15:39:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Hayley Raso opuszcza Real</title>
+        <link>https://www.realmadryt.pl/news/130593-oficjalnie-hayley-raso-opuszcza-real</link>
+        <pubDate>Mon, 24 Jun 2024 17:30:00 GMT</pubDate>
+        <description>Real ogłasza odejście australijskiej skrzydłowej, który żegna się z klubem po jednym sezonie. Strzeliła cztery gole i pięć razy asystowała.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Vinícius Tobias odchodzi z Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130600-kartka-z-kalendarza-24-czerwca</link>
         <pubDate>Mon, 24 Jun 2024 10:00:00 GMT</pubDate>
         <description>Urodziny Cicinho i Alaby, piękne pożegnanie Camacho, prezentacja chorwackiego piłkarza i kolejne triumfy koszykarzy. Co działo się 24 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Mecze o wszystko w grupie śmierci</title>
-        <link>https://www.realmadryt.pl/news/130598-mecze-o-wszystko-w-grupie-smierci</link>
-        <pubDate>Mon, 24 Jun 2024 09:09:00 GMT</pubDate>
-        <description>W poniedziałek na EURO kibice obejrzą ostatnie mecze w grupie B, która przed startem turnieju określana była jako grupa śmierci. Przed trzecią serią gier pewna awansu do fazy pucharowej jest tylko Hiszpania, a pozostałe zespoły wciąż mają wiele do ugrania.</description>
     </item>
     
 </channel>
