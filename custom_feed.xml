@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 07:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 08:25:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 24 czerwca</title>
+        <link>https://www.realmadryt.pl/news/130600-kartka-z-kalendarza-24-czerwca</link>
+        <pubDate>Mon, 24 Jun 2024 10:00:00 GMT</pubDate>
+        <description>Urodziny Cicinho i Alaby, piękne pożegnanie Camacho, prezentacja chorwackiego piłkarza i kolejne triumfy koszykarzy. Co działo się 24 czerwca?</description>
+    </item>
     
     <item>
         <title>Mecze o wszystko w grupie śmierci</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130592-zwycieski-remis-niemiec-dramatyczne-wydarzenia-w-stuttgarcie</link>
         <pubDate>Sun, 23 Jun 2024 19:53:00 GMT</pubDate>
         <description>W meczach 3. rundy fazy grupowej Niemcy zremisowały ze Szwajcarią 1:1, dzięki czemu zajmą pierwsze miejsce w grupie A. W rozgrywanym równolegle meczu Węgrzy wygrali ze Szkocją 1:0 i mogą jeszcze awansować z 3. miejsca.</description>
-    </item>
-    
-    <item>
-        <title>20 milionów euro za siedem dni</title>
-        <link>https://www.realmadryt.pl/news/130552-20-milionow-euro-za-siedem-dni</link>
-        <pubDate>Sun, 23 Jun 2024 18:55:00 GMT</pubDate>
-        <description>Real Madryt chce zarobić na wizycie w USA około 20 milionów euro, mimo że w kadrze może zabraknąć wielu istotnych piłkarzy, którzy dotrą do półfinałów EURO czy Copa América</description>
     </item>
     
 </channel>
