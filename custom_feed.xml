@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 13:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 13:40:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za celny strzał Polaków!</title>
+        <link>https://www.realmadryt.pl/news/130610-300-zl-za-celny-strzal-polakow</link>
+        <pubDate>Mon, 24 Jun 2024 15:40:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Relevo: Joselu o krok od katarskiego Al-Gharafa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130597-wszystkiego-najlepszego-david</link>
         <pubDate>Mon, 24 Jun 2024 08:18:00 GMT</pubDate>
         <description>Dziś swoje 32. urodziny obchodzi David Alaba. Austriakowi, jak nietrudno się domyślić, życzymy przede wszystkim uporania się z urazem i jak najszybszego powrotu do formy.</description>
-    </item>
-    
-    <item>
-        <title>Abrines o Hezonji: Nie można składać takich deklaracji</title>
-        <link>https://www.realmadryt.pl/news/130599-abrines-o-hezonji-nie-mozna-skladac-takich-deklaracji</link>
-        <pubDate>Mon, 24 Jun 2024 07:25:00 GMT</pubDate>
-        <description>Nie milkną echa związane z zamieszaniem transferowym wokół Mario Hezonji. O głos w tej sprawie został poproszony Abrines, który wyraził poparcie dla działań Barcelony.</description>
     </item>
     
 </channel>
