@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 20:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 21:18:36 GMT</lastBuildDate>
     
     <item>
-        <title>Chorwacja vs Włochy: Mecz o być albo nie być dla Modricia i spółki</title>
-        <link>https://www.realmadryt.pl/news/130611-chorwacja-vs-wlochy-mecz-o-byc-albo-nie-byc-dla-modricia-i-spolki</link>
+        <title>Luka Modrić Piłkarzem Meczu Chorwacji z Włochami</title>
+        <link>https://www.realmadryt.pl/news/130614-luka-modric-pilkarzem-meczu-chorwacji-z-wlochami</link>
+        <pubDate>Mon, 24 Jun 2024 23:15:00 GMT</pubDate>
+        <description>Chorwat został wybrany MVP spotkania z Włochami. Jest to już trzecie wyróżnienie dla gracza Realu Madryt na tym turnieju.</description>
+    </item>
+    
+    <item>
+        <title>Gol Modricia, ale to Włosi się cieszą z awansu</title>
+        <link>https://www.realmadryt.pl/news/130611-gol-modricia-ale-to-wlosi-sie-ciesza-z-awansu</link>
         <pubDate>Mon, 24 Jun 2024 19:53:00 GMT</pubDate>
-        <description>Od 21:00 trwają dwa ostatnie mecze w grupie B.</description>
+        <description>W ostatnich meczach grupy B Hiszpania wygrała z Albanią 1:0, a Chorwacja zremisowała z Włochami 1:1. Gola w tym drugim meczu strzelił Luka Modrić.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130604-ruediger-nie-zagra-w-1-8-finalu-euro</link>
         <pubDate>Mon, 24 Jun 2024 13:00:00 GMT</pubDate>
         <description>Niemiecki obrońca Realu pod koniec pojedynku ze Szwajcarią wyraźnie miał problemy z udem.</description>
-    </item>
-    
-    <item>
-        <title>Zagwozdka Raúla</title>
-        <link>https://www.realmadryt.pl/news/130576-zagwozdka-raula</link>
-        <pubDate>Mon, 24 Jun 2024 12:00:00 GMT</pubDate>
-        <description>Raúl jest w kropce. Były legendarny napastnik intensywnie zastanawia się, czy pozostać na szósty rok w Castilli, czy też wreszcie spróbować swoich sił w elicie. Decyzja jest o tyle trudna, że może ona zaważyć w przyszłości na jego szanse objęcia pierwszego zespołu Realu Madryt. Krótsza droga zdaje się zaś prowadzić przez pozostanie w rezerwach.</description>
     </item>
     
 </channel>
