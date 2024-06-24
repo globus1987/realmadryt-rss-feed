@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 09:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 10:22:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zagwozdka Raúla</title>
+        <link>https://www.realmadryt.pl/news/130576-zagwozdka-raula</link>
+        <pubDate>Mon, 24 Jun 2024 12:00:00 GMT</pubDate>
+        <description>Raúl jest w kropce. Były legendarny napastnik intensywnie zastanawia się, czy pozostać na szósty rok w Castilli, czy też wreszcie spróbować swoich sił w elicie. Decyzja jest o tyle trudna, że może ona zaważyć w przyszłości na jego szanse objęcia pierwszego zespołu Realu Madryt. Krótsza droga zdaje się zaś prowadzić przez pozostanie w rezerwach.</description>
+    </item>
     
     <item>
         <title>Czy Camavinga przejmie szóstkę po Nacho?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130594-czarny-kon-czy-kolejny-zawod</link>
         <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
         <description>Dziś w nocy, a konkretnie o godzinie 3:00, Urugwaj rozpocznie rywalizację w Copa América. Drużyna Fede Valverde zmierzy się na inaugurację z Panamą.</description>
-    </item>
-    
-    <item>
-        <title>Znamy komplet beniaminków La Ligi 2024/25</title>
-        <link>https://www.realmadryt.pl/news/130595-znamy-komplet-beniaminkow-la-ligi-2024-25</link>
-        <pubDate>Sun, 23 Jun 2024 21:52:00 GMT</pubDate>
-        <description>Gracze Papużek w niedzielny wieczór wywalczyli sobie prawo gry w Primera División w kolejnym sezonie. Decydujący dwumecz barażowy wygrali z Realem Oviedo 2:1.</description>
     </item>
     
 </channel>
