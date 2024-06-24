@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Jun 2024 10:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 11:18:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Nacho podpisał kontrakt z Al-Qadisiyah</title>
+        <link>https://www.realmadryt.pl/news/130607-marca-nacho-podpisal-kontrakt-z-al-qadisiyah</link>
+        <pubDate>Mon, 24 Jun 2024 13:17:00 GMT</pubDate>
+        <description>Jeszcze dzisiaj oba kluby mogą wydać oficjalne komunikaty w sprawie środkowego obrońcy.</description>
+    </item>
+    
+    <item>
+        <title>Rüdiger nie zagra w 1/8 finału EURO?</title>
+        <link>https://www.realmadryt.pl/news/130604-ruediger-nie-zagra-w-1-8-finalu-euro</link>
+        <pubDate>Mon, 24 Jun 2024 13:00:00 GMT</pubDate>
+        <description>Niemiecki obrońca Realu pod koniec pojedynku ze Szwajcarią wyraźnie miał problemy z udem.</description>
+    </item>
     
     <item>
         <title>Zagwozdka Raúla</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130602-urugwaj-wygrywa-z-panama-choc-po-bolesnym-meczu</link>
         <pubDate>Mon, 24 Jun 2024 05:00:00 GMT</pubDate>
         <description>Urugwaj pokonał 3:1 Panamę w pierwszym meczu fazy grupowej Copa América, a Federico Valverde wystąpił w nim w roli kapitana swojej reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130601-dzisiejsze-okladki</link>
-        <pubDate>Mon, 24 Jun 2024 01:35:00 GMT</pubDate>
-        <description>Mecz reprezentacji Hiszpanii i awans Espanyolu to najważniejsze kwestie poruszane na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Czarny koń czy kolejny zawód?</title>
-        <link>https://www.realmadryt.pl/news/130594-czarny-kon-czy-kolejny-zawod</link>
-        <pubDate>Sun, 23 Jun 2024 22:00:00 GMT</pubDate>
-        <description>Dziś w nocy, a konkretnie o godzinie 3:00, Urugwaj rozpocznie rywalizację w Copa América. Drużyna Fede Valverde zmierzy się na inaugurację z Panamą.</description>
     </item>
     
 </channel>
