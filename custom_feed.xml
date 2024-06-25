@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Jun 2024 09:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 09:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Futbol jest okrutny</title>
+        <link>https://www.realmadryt.pl/news/130623-modric-futbol-jest-okrutny</link>
+        <pubDate>Tue, 25 Jun 2024 11:42:00 GMT</pubDate>
+        <description>Luka Modrić udzielił wypowiedzi dla chorwackiej telewizji publicznej oraz spotkał się z dziennikarzami na konferencji prasowej po zremisowanym 1:1 meczu z Włochami, po którym Chorwacji praktycznie żegnają się z EURO. Przedstawiamy najważniejsze wypowiedzi kapitana Vatreni.</description>
+    </item>
     
     <item>
         <title>Polska żegna się z turniejem, rozstrzygnięcia w grupie C</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130614-luka-modric-pilkarzem-meczu-chorwacji-z-wlochami</link>
         <pubDate>Mon, 24 Jun 2024 23:15:00 GMT</pubDate>
         <description>Chorwat został wybrany MVP spotkania z Włochami. Jest to już trzecie wyróżnienie dla gracza Realu Madryt na tym turnieju.</description>
-    </item>
-    
-    <item>
-        <title>Gol Modricia, ale to Włosi się cieszą z awansu</title>
-        <link>https://www.realmadryt.pl/news/130611-gol-modricia-ale-to-wlosi-sie-ciesza-z-awansu</link>
-        <pubDate>Mon, 24 Jun 2024 19:53:00 GMT</pubDate>
-        <description>W ostatnich meczach grupy B Hiszpania wygrała z Albanią 1:0, a Chorwacja zremisowała z Włochami 1:1. Gola w tym drugim meczu strzelił Luka Modrić.</description>
     </item>
     
 </channel>
