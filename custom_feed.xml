@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Jun 2024 22:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 22:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130640-dzisiejsze-okladki</link>
+        <pubDate>Wed, 26 Jun 2024 00:43:00 GMT</pubDate>
+        <description>Szanse Hiszpanii na EURO i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Takie boisko przeszkadza, jakość muraw na EURO jest inna</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130630-starcie-niedoszlych-kolegow-z-zespolu</link>
         <pubDate>Tue, 25 Jun 2024 14:49:00 GMT</pubDate>
         <description>Dwa miesiące po wyeliminowaniu Barcelony przez PSG w ćwierćfinale Ligi Mistrzów Kylian Mbappé i Robert Lewandowski spotkają się ponownie. Tym razem okoliczności będą jednak nieco inne.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Vincent Poirier zawodnikiem Efesu</title>
-        <link>https://www.realmadryt.pl/news/130629-oficjalnie-vincent-poirier-zawodnikiem-efesu</link>
-        <pubDate>Tue, 25 Jun 2024 13:52:00 GMT</pubDate>
-        <description>Vincent Poirier związał się trzyletnim kontraktem z Efesem. Jego umowa z Realem Madryt wygasała 30 czerwca, a Królewscy nie byli w stanie wyrównać propozycji złożonej przez klub ze Stambułu.</description>
     </item>
     
 </channel>
