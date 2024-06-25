@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Jun 2024 08:41:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 08:54:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Polska żegna się z turniejem, rozstrzygnięcia w grupie C</title>
+        <link>https://www.realmadryt.pl/news/130620-polska-zegna-sie-z-turniejem-rozstrzygniecia-w-grupie-c</link>
+        <pubDate>Tue, 25 Jun 2024 10:51:00 GMT</pubDate>
+        <description>Przed nami przedostatni dzień rywalizacji w fazie grupowej i zobaczymy dziś łącznie aż cztery mecze, z czego jeden będzie ostatnim występem reprezentacji Polski na tym turnieju.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130611-gol-modricia-ale-to-wlosi-sie-ciesza-z-awansu</link>
         <pubDate>Mon, 24 Jun 2024 19:53:00 GMT</pubDate>
         <description>W ostatnich meczach grupy B Hiszpania wygrała z Albanią 1:0, a Chorwacja zremisowała z Włochami 1:1. Gola w tym drugim meczu strzelił Luka Modrić.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni etap walki o Złotą Piłkę</title>
-        <link>https://www.realmadryt.pl/news/130612-ostatni-etap-walki-o-zlota-pilke</link>
-        <pubDate>Mon, 24 Jun 2024 18:46:00 GMT</pubDate>
-        <description>Dziś w nocy Brazylia rozpocznie rywalizację w Copa América, co jednocześnie będzie dla Viníciusa rozpoczęciem ostatniego etapu walki o Złotą Piłkę.</description>
     </item>
     
 </channel>
