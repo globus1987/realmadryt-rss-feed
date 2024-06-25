@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Jun 2024 11:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 11:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Vincent Poirier zawodnikiem Efesu</title>
+        <link>https://www.realmadryt.pl/news/130629-oficjalnie-vincent-poirier-zawodnikiem-efesu</link>
+        <pubDate>Tue, 25 Jun 2024 13:52:00 GMT</pubDate>
+        <description>Vincent Poirier związał się trzyletnim kontraktem z Efesem. Jego umowa z Realem Madryt wygasała 30 czerwca, a Królewscy nie byli w stanie wyrównać propozycji złożonej przez klub ze Stambułu.</description>
+    </item>
+    
+    <item>
+        <title>Kto awansuje w hierarchii kapitanów Realu po odejściach Nacho i Kroosa?</title>
+        <link>https://www.realmadryt.pl/news/130626-kto-awansuje-w-hierarchii-kapitanow-realu-po-odejsciach-nacho-i-kroosa</link>
+        <pubDate>Tue, 25 Jun 2024 13:40:00 GMT</pubDate>
+        <description>Królewskich oficjalnie opuszcza dwóch dotychczasowych kapitanów. Kto wejdzie do czwórki liderów szatni i awansuje w tej hierarchii?</description>
+    </item>
     
     <item>
         <title>Nacho: Zapamiętajcie mnie jako wychowanka, który oddał WSZYSTKO za swój klub</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130605-mbappe-moze-grac-jako-dziewiatka</link>
         <pubDate>Tue, 25 Jun 2024 07:25:00 GMT</pubDate>
         <description>Robert Pirès, który w koszulce Trójkolorowych zaliczył 79 występów, zdobył mistrzostwo świata i Europy, udzielił kilku wypowiedzi dziennikowi MARCA, głównie na temat Kyliana Mbappé i trwającego EURO.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Mastantuono coraz bliżej Realu</title>
-        <link>https://www.realmadryt.pl/news/130613-marca-mastantuono-coraz-blizej-realu</link>
-        <pubDate>Tue, 25 Jun 2024 05:30:00 GMT</pubDate>
-        <description>W tym momencie klub negocjuje obniżenie ceny za 16-letniego pomocnika River Plate z 45 milionów euro klauzuli odstępnego do około 25 milionów euro.</description>
-    </item>
-    
-    <item>
-        <title>Wielki zawód na inaugurację Copa América</title>
-        <link>https://www.realmadryt.pl/news/130619-wielki-zawod-na-inauguracje-copa-america</link>
-        <pubDate>Tue, 25 Jun 2024 05:00:00 GMT</pubDate>
-        <description>Brazylia zremisowała bezbramkowo z Kostaryką w pierwszym meczu fazy grupowej Copa América, a na boisku oglądaliśmy czterech madridistas.</description>
     </item>
     
 </channel>
