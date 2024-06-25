@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Jun 2024 06:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 07:18:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola Polski z Francją!</title>
+        <link>https://www.realmadryt.pl/news/130618-400-zl-za-gola-polski-z-francja</link>
+        <pubDate>Tue, 25 Jun 2024 09:09:00 GMT</pubDate>
+        <description>Artykuł sponsorowany</description>
+    </item>
     
     <item>
         <title>Sport: W canterze Realu rośnie frustracja</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130593-oficjalnie-hayley-raso-opuszcza-real</link>
         <pubDate>Mon, 24 Jun 2024 17:30:00 GMT</pubDate>
         <description>Real ogłasza odejście australijskiej skrzydłowej, który żegna się z klubem po jednym sezonie. Strzeliła cztery gole i pięć razy asystowała.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Vinícius Tobias odchodzi z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130596-oficjalnie-vinicius-tobias-odchodzi-z-realu-madryt</link>
-        <pubDate>Mon, 24 Jun 2024 16:31:00 GMT</pubDate>
-        <description>Vinícius Tobias pożegnał się z klubem i kibicami za pośrednictwem mediów społecznościowych. Real Madryt nie skorzystał z opcji wykupu Brazylijczyka z Szachtara.</description>
     </item>
     
 </channel>
