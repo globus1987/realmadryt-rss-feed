@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Jun 2024 19:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 19:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius: Takie boisko przeszkadza, jakość muraw na EURO jest inna</title>
+        <link>https://www.realmadryt.pl/news/130631-vinicius-takie-boisko-przeszkadza-jakosc-muraw-na-euro-jest-inna</link>
+        <pubDate>Tue, 25 Jun 2024 21:40:00 GMT</pubDate>
+        <description>Vinícius Júnior pojawił się w strefie mieszanej po zremisowanym meczu Brazylii z Kostaryką. Przedstawiamy wypowiedzi atakującego Realu Madryt z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Czy Jude Bellingham da Anglii awans z pierwszego miejsca?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130629-oficjalnie-vincent-poirier-zawodnikiem-efesu</link>
         <pubDate>Tue, 25 Jun 2024 13:52:00 GMT</pubDate>
         <description>Vincent Poirier związał się trzyletnim kontraktem z Efesem. Jego umowa z Realem Madryt wygasała 30 czerwca, a Królewscy nie byli w stanie wyrównać propozycji złożonej przez klub ze Stambułu.</description>
-    </item>
-    
-    <item>
-        <title>Kto awansuje w hierarchii kapitanów Realu po odejściach Nacho i Kroosa?</title>
-        <link>https://www.realmadryt.pl/news/130626-kto-awansuje-w-hierarchii-kapitanow-realu-po-odejsciach-nacho-i-kroosa</link>
-        <pubDate>Tue, 25 Jun 2024 13:40:00 GMT</pubDate>
-        <description>Królewskich oficjalnie opuszcza dwóch dotychczasowych kapitanów. Kto wejdzie do czwórki liderów szatni i awansuje w tej hierarchii?</description>
     </item>
     
 </channel>
