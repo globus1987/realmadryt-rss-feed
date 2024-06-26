@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Jun 2024 09:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 09:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Co traci Nacho?</title>
+        <link>https://www.realmadryt.pl/news/130635-co-traci-nacho</link>
+        <pubDate>Wed, 26 Jun 2024 11:48:00 GMT</pubDate>
+        <description>Nacho nie rozegra już ani jednego meczu i nie zdobędzie ani jednego tytułu w koszulce Realu Madryt. Decyzja o opuszczeniu Santiago Bernabéu wiąże się z dobrowolną rezygnacją z nowych wyzwań.</description>
+    </item>
     
     <item>
         <title>MARCA: FIFA chce, by finał Mistrzostw Świata w 2030 roku odbył się na Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130636-najnudniejszy-wieczor-tych-mistrzostw-europy</link>
         <pubDate>Tue, 25 Jun 2024 20:28:00 GMT</pubDate>
         <description>Zakończyła się rywalizacja w grupie C najnudniejszym wieczorem tego EURO. Dwa bezbramkowe remisy utrzymały status quo.</description>
-    </item>
-    
-    <item>
-        <title>Plan Realu Madryt i władz ws. zmniejszenia hałasu z Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/130622-plan-realu-madryt-i-wladz-ws-zmniejszenia-halasu-z-bernabeu</link>
-        <pubDate>Tue, 25 Jun 2024 20:12:00 GMT</pubDate>
-        <description>Klub nie pozostał głuchy na skargi sąsiadów w sprawie hałasu wydobywającego się z nowego Santiago Bernabéu. Zgodnie z zapowiedziami, Królewscy poprawiają wygłuszenie obiektu, ale także współpracują z miastem i organizacjami sąsiedzkimi.</description>
     </item>
     
 </channel>
