@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Jun 2024 22:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 22:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130658-dzisiejsze-okladki</link>
+        <pubDate>Thu, 27 Jun 2024 00:26:00 GMT</pubDate>
+        <description>Wyniki na EURO i alarm w sprawie gwiazdy Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vidal: Viníciusowi dużo brakuje do Złotej Piłki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130642-pintinho-winny-zachowaniom-viniciusa-jest-ancelotti</link>
         <pubDate>Wed, 26 Jun 2024 12:39:00 GMT</pubDate>
         <description>Carlos Alberto Gomes Montero, znany jako Pintinho, ponownie wypowiedział się o Viníciusie. Tym razem zaproszono go do Radio MARCA. Przedstawiamy jego najważniejsze wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Co traci Nacho?</title>
-        <link>https://www.realmadryt.pl/news/130635-co-traci-nacho</link>
-        <pubDate>Wed, 26 Jun 2024 11:48:00 GMT</pubDate>
-        <description>Nacho nie rozegra już ani jednego meczu i nie zdobędzie ani jednego tytułu w koszulce Realu Madryt. Decyzja o opuszczeniu Santiago Bernabéu wiąże się z dobrowolną rezygnacją z nowych wyzwań.</description>
     </item>
     
 </channel>
