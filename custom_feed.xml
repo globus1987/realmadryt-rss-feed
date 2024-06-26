@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Jun 2024 11:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 11:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden Hiszpan z Realu nie uda się na Igrzyska Olimpijskie</title>
+        <link>https://www.realmadryt.pl/news/130646-zaden-hiszpan-z-realu-nie-uda-sie-na-igrzyska-olimpijskie</link>
+        <pubDate>Wed, 26 Jun 2024 13:30:00 GMT</pubDate>
+        <description>Santi Denia przedstawił wstępną listę powołanych zawodników na turniej w Paryżu.</description>
+    </item>
     
     <item>
         <title>Pintinho: Winny zachowaniom Viníciusa jest Ancelotti</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130640-dzisiejsze-okladki</link>
         <pubDate>Wed, 26 Jun 2024 00:43:00 GMT</pubDate>
         <description>Szanse Hiszpanii na EURO i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Takie boisko przeszkadza, jakość muraw na EURO jest inna</title>
-        <link>https://www.realmadryt.pl/news/130631-vinicius-takie-boisko-przeszkadza-jakosc-muraw-na-euro-jest-inna</link>
-        <pubDate>Tue, 25 Jun 2024 21:40:00 GMT</pubDate>
-        <description>Vinícius Júnior pojawił się w strefie mieszanej po zremisowanym meczu Brazylii z Kostaryką. Przedstawiamy wypowiedzi atakującego Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
