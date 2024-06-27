@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Jun 2024 22:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 22:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130679-dzisiejsze-okladki</link>
+        <pubDate>Fri, 28 Jun 2024 00:23:00 GMT</pubDate>
+        <description>Wywiady z Hiszpanami przed fazą pucharową EURO to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>La Gazzetta: Real Madryt spogląda w kierunku Calafioriego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130670-oficjalnie-nacho-podpisal-umowe-z-al-qadsiah</link>
         <pubDate>Thu, 27 Jun 2024 15:51:00 GMT</pubDate>
         <description>Klub z Arabii Saudyjskiej oficjalnie potwierdził, że były już kapitan Real Madryt związał się z nim na dwa kolejne sezony.</description>
-    </item>
-    
-    <item>
-        <title>„Vinícius, Bellingham i Złota Piłka, która już jest kwestionowana”</title>
-        <link>https://www.realmadryt.pl/news/130666-vinicius-bellingham-i-zlota-pilka-ktora-juz-jest-kwestionowana</link>
-        <pubDate>Thu, 27 Jun 2024 15:30:00 GMT</pubDate>
-        <description>Mario Calderón, pracownik katalońskiego dziennika Mundo Deportivo, przeprowadził szczegółową analizę, po której wyszło mu, że na podstawie ostatnich meczów ani Vinícius, ani Bellingham niespecjalnie zasługują na Złotą Piłkę. Przedstawiamy przemyślenia dziennikarza.</description>
     </item>
     
 </channel>
