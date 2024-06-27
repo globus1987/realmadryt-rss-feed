@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Jun 2024 18:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 18:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historyczna mniejszość</title>
+        <link>https://www.realmadryt.pl/news/130627-historyczna-mniejszosc</link>
+        <pubDate>Thu, 27 Jun 2024 20:45:00 GMT</pubDate>
+        <description>Wraz z odejściem Nacho i Joselu Real Madryt traci nie tylko dwóch ważnych zawodników, lecz także dwóch hiszpańskich graczy. Sprawia to, że w zespole w skali całej historii klubu dochodzi do niespotykanej wcześniej sytuacji pod względem pierwiastka krajowych piłkarzy w kadrze.</description>
+    </item>
     
     <item>
         <title>„Poza 90 minutami na boisku nie widać w zasadzie wielkiej różnicy”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130667-dlaczego-sportowcy-wybieraja-marke-adidas</link>
         <pubDate>Thu, 27 Jun 2024 14:30:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Nacho: Odchodzę do Arabii Saudyjskiej, do drużyny Míchela</title>
-        <link>https://www.realmadryt.pl/news/130665-nacho-odchodze-do-arabii-saudyjskiej-do-druzyny-michela</link>
-        <pubDate>Thu, 27 Jun 2024 13:30:00 GMT</pubDate>
-        <description>Nacho wziął udział w dzisiejszej konferencji prasowej przed spotkaniem Hiszpanów w 1/8 finału Mistrzostw Europy.</description>
     </item>
     
 </channel>
