@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Jun 2024 10:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 10:53:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 1. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/130664-terminarz-1-kolejki-la-ligi</link>
+        <pubDate>Thu, 27 Jun 2024 12:50:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz pierwszej kolejki, która rozpocznie się w połowie sierpnia tego roku. Real Madryt zmierzy się na wyjeździe z Mallorcą.</description>
+    </item>
     
     <item>
         <title>Relevo: Trzech zawodników z awansem do Castilii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130652-vidal-viniciusowi-duzo-brakuje-do-zlotej-pilki</link>
         <pubDate>Wed, 26 Jun 2024 20:50:00 GMT</pubDate>
         <description>Arturo Vidal udzielił wywiadu argentyńskiemu youtuberowi Davoo Xeneize, którego głównym tematem była Copa América. Przedstawiamy najważniejsze wypowiedzi pomocnika, który w 2022 roku wrócił do gry w Ameryce Południowej, gdzie kontynuuje karierę do dzisiaj.</description>
-    </item>
-    
-    <item>
-        <title>Turcja i Gruzja grają dalej</title>
-        <link>https://www.realmadryt.pl/news/130648-turcja-i-gruzja-graja-dalej</link>
-        <pubDate>Wed, 26 Jun 2024 20:00:00 GMT</pubDate>
-        <description>Turcja wygrała z Czechami 2:1, a Gruzja pokonała Portugalię 2:0. Z grupy F na EURO pozostają Portugalczycy, którzy już wcześniej sobie zapewnili udział w 1/8 finału, a także Turcy i Gruzini.</description>
     </item>
     
 </channel>
