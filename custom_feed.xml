@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Jun 2024 08:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 09:20:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwie twarze Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/130649-dwie-twarze-viniciusa</link>
+        <pubDate>Thu, 27 Jun 2024 11:15:00 GMT</pubDate>
+        <description>W Realu Madryt jest jednym z najlepszych piłkarzy na świecie, a w reprezentacji Brazylii regularnie rozczarowuje. Przypadek Viníciusa, który ponownie zawiódł w pierwszym meczu na Copa América, staje się coraz bardziej niewytłumaczalny.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130650-real-uwaza-ze-joselu-podejmuje-zla-decyzje</link>
         <pubDate>Wed, 26 Jun 2024 18:40:00 GMT</pubDate>
         <description>Joselu już wkrótce ruszy na podbój Kataru i podpisze kontrakt z klubem Al-Gharafa, gdzie spędzi co najmniej dwa lata. Na Bliskim Wschodzie napastnik może liczyć na zarobki bliskie 10 milionom euro za sezon.</description>
-    </item>
-    
-    <item>
-        <title>Remis nie wystarczył, Ukraina odpada</title>
-        <link>https://www.realmadryt.pl/news/130651-remis-nie-wystarczyl-ukraina-odpada</link>
-        <pubDate>Wed, 26 Jun 2024 17:21:00 GMT</pubDate>
-        <description>Rywalizacja w grupie E nie przyniosła mimo wszystko wielkich emocji, a Ukraina nie była w stanie pokonać jednak słabszej od nich Belgii, która również zmarnowała kilka znakomitych okazji. Ostatecznie drużyna Łunina odpada z tegorocznego EURO.</description>
     </item>
     
 </channel>
