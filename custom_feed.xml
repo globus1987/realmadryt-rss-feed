@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Jun 2024 11:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:38:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dlaczego sportowcy wybierają markę Adidas?</title>
+        <link>https://www.realmadryt.pl/news/130667-dlaczego-sportowcy-wybieraja-marke-adidas</link>
+        <pubDate>Thu, 27 Jun 2024 14:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Nacho: Odchodzę do Arabii Saudyjskiej, do drużyny Míchela</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130653-ile-moga-zarobic-nacho-i-joselu-na-bliskim-wschodzie</link>
         <pubDate>Thu, 27 Jun 2024 05:30:00 GMT</pubDate>
         <description>Obrońca i napastnik wybierają kontynuowanie kariery na Bliskim Wschodzie. Ich zarobki znacząco wzrosną i będą znaczące nawet w kontekście całej kariery.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130658-dzisiejsze-okladki</link>
-        <pubDate>Thu, 27 Jun 2024 00:26:00 GMT</pubDate>
-        <description>Wyniki na EURO i alarm w sprawie gwiazdy Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
