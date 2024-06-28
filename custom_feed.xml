@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Jun 2024 11:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 11:53:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Fábrica dająca miliony</title>
+        <link>https://www.realmadryt.pl/news/130659-la-fabrica-dajaca-miliony</link>
+        <pubDate>Fri, 28 Jun 2024 13:40:00 GMT</pubDate>
+        <description>W ostatniej dekadzie Los Blancos charakteryzowała zdolność do zarabiania na sprzedaży swoich młodych wychowanków.</description>
+    </item>
     
     <item>
         <title>Fermín: Na Bernabéu świętowałem jak Messi, a nie jak Bellingham</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130680-carvajal-real-madryt-dba-o-nas-a-my-dbamy-o-real-madryt</link>
         <pubDate>Fri, 28 Jun 2024 07:00:00 GMT</pubDate>
         <description>Dani Carvajal udzielił wywiadu dziennikowi AS. Przedstawiamy najważniejsze wypowiedzi obrońcy Realu Madryt przebywającego na zgrupowaniu reprezentacji Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Urugwaj rozbił Boliwię, Fede Valverde z golem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/130681-urugwaj-rozbil-boliwie-fede-valverde-z-golem-video</link>
-        <pubDate>Fri, 28 Jun 2024 04:52:00 GMT</pubDate>
-        <description>Reprezentacja pomocnika Realu Madryt bezproblemowo pokonała Boliwię na Copa América. Gracz Królewskich strzelił gola i został zmieniony w końcówce.</description>
     </item>
     
 </channel>
