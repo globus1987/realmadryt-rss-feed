@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Jun 2024 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 22:18:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130703-dzisiejsze-okladki</link>
+        <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
+        <description>Faza pucharowa EURO i piłkarz Barcelony na sprzedaż to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>EURO i Copa América nie służą piłkarzom Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130678-feliz-ibaka-i-rathan-mayes-trafia-do-realu-madryt</link>
         <pubDate>Fri, 28 Jun 2024 17:20:00 GMT</pubDate>
         <description>Krok po kroku potwierdzają się kolejne zmiany w kadrze koszykarskiego Realu Madryt. Zespół opuściło już czterech zawodników, a Królewscy osiągnęli porozumienie w sprawie sprowadzenia trzech nowych graczy.</description>
-    </item>
-    
-    <item>
-        <title>Nacho: Były momenty, w których zasługiwałem na więcej minut</title>
-        <link>https://www.realmadryt.pl/news/130684-nacho-byly-momenty-w-ktorych-zaslugiwalem-na-wiecej-minut</link>
-        <pubDate>Fri, 28 Jun 2024 16:25:00 GMT</pubDate>
-        <description>Nacho udzielił wywiadu Josebie Larrañagii z radia COPE na zgrupowaniu reprezentacji Hiszpanii. Przedstawiamy zapis rozmowy z byłym kapitanem Realu Madryt.</description>
     </item>
     
 </channel>
