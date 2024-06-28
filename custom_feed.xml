@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Jun 2024 15:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 16:24:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Joselu sprzedany do Kataru</title>
+        <link>https://www.realmadryt.pl/news/130696-oficjalnie-joselu-sprzedany-do-kataru</link>
+        <pubDate>Fri, 28 Jun 2024 18:19:00 GMT</pubDate>
+        <description>Królewscy potwierdzili operację odkupu-sprzedaży hiszpańskiego napastnika. Po rocznym wypożyczeniu żegna się on z klubem.</description>
+    </item>
+    
+    <item>
+        <title>Murcja gospodarzem Superpucharu Endesa</title>
+        <link>https://www.realmadryt.pl/news/130676-murcja-gospodarzem-superpucharu-endesa</link>
+        <pubDate>Fri, 28 Jun 2024 17:53:00 GMT</pubDate>
+        <description>Superpuchar Endesa po raz drugi z rzędu zostanie rozegrany w Murcji. Na takim wyborze gospodarza skorzystała Barcelona, która w innym przypadku nie wzięłaby udziału w turnieju. O tytuł powalczą zatem: Real Madryt, UCAM Murcia, Unicaja i Barcelona.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Álex Jiménez piłkarzem Milanu</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130686-marca-lunin-nie-przedluzyl-kontraktu-a-real-niczego-nie-wyklucza</link>
         <pubDate>Fri, 28 Jun 2024 11:50:00 GMT</pubDate>
         <description>Ukrainiec ani nie podpisał kontraktu, ani nie poinformował klubu, że chce odejść. W tej sytuacji w Valdebebas nie zapominają o Kepie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Pablo Laso trenerem Saski Baskonia</title>
-        <link>https://www.realmadryt.pl/news/130685-oficjalnie-pablo-laso-trenerem-saski-baskonia</link>
-        <pubDate>Fri, 28 Jun 2024 11:24:00 GMT</pubDate>
-        <description>Niespodziewana zmiana klubu stała się faktem.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 28 czerwca</title>
-        <link>https://www.realmadryt.pl/news/130682-kartka-z-kalendarza-28-czerwca</link>
-        <pubDate>Fri, 28 Jun 2024 11:00:00 GMT</pubDate>
-        <description>Urodziny legendy, zwycięski finał Pucharu Hiszpanii na Camp Nou i zwolnienie trenera, który zdobywał mistrzostwo Hiszpanii ze stuprocentową skutecznością. Co działo się 28 czerwca?</description>
     </item>
     
 </channel>
