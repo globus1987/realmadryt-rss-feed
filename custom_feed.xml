@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Jun 2024 04:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 05:21:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klub nie sprowadzi „nowego Joselu”</title>
+        <link>https://www.realmadryt.pl/news/130689-klub-nie-sprowadzi-nowego-joselu</link>
+        <pubDate>Sat, 29 Jun 2024 07:00:00 GMT</pubDate>
+        <description>Odejście Joselu jest w Realu Madryt wiadomością tygodnia. Napastnik rozpocznie nowy etap kariery w Katarze. Choć klub jest tym zaskoczony, to jednak też zachęcał go w ostatnich miesiącach do wysłuchiwania ofert. Pierwotny scenariusz zakładał mimo wszystko wykupienie napastnika z Espanyolu i pozostawieniu go w kadrze na kolejny sezon.</description>
+    </item>
     
     <item>
         <title>Brazylia pokonuje Paragwaj, dublet Viníciusa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130676-murcja-gospodarzem-superpucharu-endesa</link>
         <pubDate>Fri, 28 Jun 2024 17:53:00 GMT</pubDate>
         <description>Superpuchar Endesa po raz drugi z rzędu zostanie rozegrany w Murcji. Na takim wyborze gospodarza skorzystała Barcelona, która w innym przypadku nie wzięłaby udziału w turnieju. O tytuł powalczą zatem: Real Madryt, UCAM Murcia, Unicaja i Barcelona.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Álex Jiménez piłkarzem Milanu</title>
-        <link>https://www.realmadryt.pl/news/130695-oficjalnie-alex-jimenez-pilkarzem-milanu</link>
-        <pubDate>Fri, 28 Jun 2024 17:52:00 GMT</pubDate>
-        <description>Real Madryt poinformował w oficjalnym komunikacie, że Milan skorzystał z opcji wykupu wychowanka Królewskich.</description>
     </item>
     
 </channel>
