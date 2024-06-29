@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Jun 2024 11:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 12:36:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joselu: Nie myślę tylko o pieniądzach</title>
+        <link>https://www.realmadryt.pl/news/130706-joselu-nie-mysle-tylko-o-pieniadzach</link>
+        <pubDate>Sat, 29 Jun 2024 14:15:00 GMT</pubDate>
+        <description>Joselu udzielił wywiadu madryckiemu El Mundo. Przedstawiamy wypowiedzi napastnika, którego Real Madryt w piątek sprzedał katarskiemu Al-Gharafa.</description>
+    </item>
     
     <item>
         <title>Relevo: Miguel Gutiérrez nadal czeka na Real</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130705-brazylia-pokonuje-paragwaj-dublet-viniciusa</link>
         <pubDate>Sat, 29 Jun 2024 04:02:00 GMT</pubDate>
         <description>Brazylia pokonała Paragwaj 4:1, a dublet ustrzelił Vinícius, który poprowadził swoją kadrę do zwycięstwa.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130703-dzisiejsze-okladki</link>
-        <pubDate>Sat, 29 Jun 2024 00:00:00 GMT</pubDate>
-        <description>Faza pucharowa EURO i piłkarz Barcelony na sprzedaż to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
