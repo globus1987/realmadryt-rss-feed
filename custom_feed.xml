@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Jun 2024 01:24:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 02:19:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brazylia prowadzi, dublet Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/130705-brazylia-prowadzi-dublet-viniciusa</link>
+        <pubDate>Sat, 29 Jun 2024 04:02:00 GMT</pubDate>
+        <description>Brazylia prowadzi do przerwy 3:0 z Paragwajem, a fantastyczny mecz rozgrywa Vinicius, który ustrzelił dublet.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130695-oficjalnie-alex-jimenez-pilkarzem-milanu</link>
         <pubDate>Fri, 28 Jun 2024 17:52:00 GMT</pubDate>
         <description>Real Madryt poinformował w oficjalnym komunikacie, że Milan skorzystał z opcji wykupu wychowanka Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Feliz, Ibaka i Rathan-Mayes trafią do Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130678-feliz-ibaka-i-rathan-mayes-trafia-do-realu-madryt</link>
-        <pubDate>Fri, 28 Jun 2024 17:20:00 GMT</pubDate>
-        <description>Krok po kroku potwierdzają się kolejne zmiany w kadrze koszykarskiego Realu Madryt. Zespół opuściło już czterech zawodników, a Królewscy osiągnęli porozumienie w sprawie sprowadzenia trzech nowych graczy.</description>
     </item>
     
 </channel>
