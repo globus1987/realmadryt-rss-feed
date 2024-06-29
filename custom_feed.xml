@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Jun 2024 12:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 13:22:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Odliczanie Kroosa</title>
+        <link>https://www.realmadryt.pl/news/130688-odliczanie-kroosa</link>
+        <pubDate>Sat, 29 Jun 2024 15:10:00 GMT</pubDate>
+        <description>Zaczęło się odliczanie. Toni Kroos do fazy pucharowej EURO podchodzi ze świadomością, że każde kolejne spotkanie na turnieju może być tym ostatnim w karierze.</description>
+    </item>
     
     <item>
         <title>Joselu: Nie myślę tylko o pieniądzach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130689-klub-nie-sprowadzi-nowego-joselu</link>
         <pubDate>Sat, 29 Jun 2024 07:00:00 GMT</pubDate>
         <description>Odejście Joselu jest w Realu Madryt wiadomością tygodnia. Napastnik rozpocznie nowy etap kariery w Katarze. Choć klub jest tym zaskoczony, to jednak też zachęcał go w ostatnich miesiącach do wysłuchiwania ofert. Pierwotny scenariusz zakładał mimo wszystko wykupienie napastnika z Espanyolu i pozostawieniu go w kadrze na kolejny sezon.</description>
-    </item>
-    
-    <item>
-        <title>Brazylia pokonuje Paragwaj, dublet Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/130705-brazylia-pokonuje-paragwaj-dublet-viniciusa</link>
-        <pubDate>Sat, 29 Jun 2024 04:02:00 GMT</pubDate>
-        <description>Brazylia pokonała Paragwaj 4:1, a dublet ustrzelił Vinícius, który poprowadził swoją kadrę do zwycięstwa.</description>
     </item>
     
 </channel>
