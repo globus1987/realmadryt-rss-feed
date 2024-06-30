@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Jun 2024 08:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 09:24:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świetna Hiszpania przeciwko historycznemu debiutantowi</title>
+        <link>https://www.realmadryt.pl/news/130728-swietna-hiszpania-przeciwko-historycznemu-debiutantowi</link>
+        <pubDate>Sun, 30 Jun 2024 10:55:00 GMT</pubDate>
+        <description>Przed nami drugi dzień fazy pucharowej EURO 2024, w którym Anglia zmierzy się ze Słowacją, a Hiszpania z Gruzją.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 30 czerwca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130711-relevo-melanie-leupolz-pilkarka-realu-madryt</link>
         <pubDate>Sat, 29 Jun 2024 21:00:00 GMT</pubDate>
         <description>Według portalu Relevo w najbliższych dniach Real Madryt oficjalnie poinformuje o sprowadzeniu Melanie Leupolz. 30-letnia Niemka przychodzi do Realu Madryt po 4 sezonach gry w Chelsea.</description>
-    </item>
-    
-    <item>
-        <title>Niemcy pokonują Danię i meldują się w ćwierćfinale</title>
-        <link>https://www.realmadryt.pl/news/130719-niemcy-pokonuja-danie-i-melduja-sie-w-cwiercfinale</link>
-        <pubDate>Sat, 29 Jun 2024 19:48:00 GMT</pubDate>
-        <description>Niemcy wygrali w Dortmundzie z Danią 2:0 po golach Kaia Havertza i Jamala Musiali. Gospodarze Mistrzostw Europy meldują się w ćwierćfinale, w którym zmierzą się z Hiszpanią lub Gruzją.</description>
     </item>
     
 </channel>
