@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Jun 2024 03:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 03:39:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Militão znów jest Militão</title>
+        <link>https://www.realmadryt.pl/news/130721-militao-znow-jest-militao</link>
+        <pubDate>Sun, 30 Jun 2024 05:30:00 GMT</pubDate>
+        <description>Éder Militão w dwóch pierwszych meczach Copa América udowodnił, że kontuzję kolana ma już całkowicie za sobą i zaczyna łapać swoją standardową formę. Brazylijczyk będzie jednym z kluczowych zawodników Realu Madryt w sezonie 2024/25.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130688-odliczanie-kroosa</link>
         <pubDate>Sat, 29 Jun 2024 15:10:00 GMT</pubDate>
         <description>Zaczęło się odliczanie. Toni Kroos do fazy pucharowej EURO podchodzi ze świadomością, że każde kolejne spotkanie na turnieju może być tym ostatnim w karierze.</description>
-    </item>
-    
-    <item>
-        <title>Joselu: Nie myślę tylko o pieniądzach</title>
-        <link>https://www.realmadryt.pl/news/130706-joselu-nie-mysle-tylko-o-pieniadzach</link>
-        <pubDate>Sat, 29 Jun 2024 14:15:00 GMT</pubDate>
-        <description>Joselu udzielił wywiadu madryckiemu El Mundo. Przedstawiamy wypowiedzi napastnika, którego Real Madryt w piątek sprzedał katarskiemu Al-Gharafa.</description>
     </item>
     
 </channel>
