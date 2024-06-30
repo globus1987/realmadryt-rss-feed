@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Jun 2024 07:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 08:23:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 czerwca</title>
+        <link>https://www.realmadryt.pl/news/130724-kartka-z-kalendarza-30-czerwca</link>
+        <pubDate>Sun, 30 Jun 2024 10:00:00 GMT</pubDate>
+        <description>Finały Pucharu Króla, zwycięstwo Brazylii z Niemcami po dwóch golach R9, prezentacja Kaki i wygrana młodych Hiszpanów z zawodnikami Królewskich w składzie. Co działo się 30 czerwca?</description>
+    </item>
     
     <item>
         <title>Real i FIFA chcą finału Mistrzostw Świata na Bernabéu, ale rząd nie broni tej kandydatury</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130719-niemcy-pokonuja-danie-i-melduja-sie-w-cwiercfinale</link>
         <pubDate>Sat, 29 Jun 2024 19:48:00 GMT</pubDate>
         <description>Niemcy wygrali w Dortmundzie z Danią 2:0 po golach Kaia Havertza i Jamala Musiali. Gospodarze Mistrzostw Europy meldują się w ćwierćfinale, w którym zmierzą się z Hiszpanią lub Gruzją.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Alberto Toril przedłużył kontrakt z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/130720-oficjalnie-alberto-toril-przedluzyl-kontrakt-z-realem-madryt</link>
-        <pubDate>Sat, 29 Jun 2024 18:42:00 GMT</pubDate>
-        <description>Real Madryt poinformował o przedłużeniu kontraktu z Alberto Torilem. Hiszpan pozostanie pierwszym trenerem kobiecej sekcji do 30 czerwca 2026 roku.</description>
     </item>
     
 </channel>
