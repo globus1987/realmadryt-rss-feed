@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Jun 2024 17:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 18:26:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hiszpania vs Gruzja: Najbardziej nierówny mecz 1/8 finału?</title>
+        <link>https://www.realmadryt.pl/news/130735-hiszpania-vs-gruzja-najbardziej-nierowny-mecz-1-8-finalu</link>
+        <pubDate>Sun, 30 Jun 2024 19:54:00 GMT</pubDate>
+        <description>O 21:00 Hiszpania zagra o ćwierćfinał EURO. Naprzeciwko drużyny Luisa de la Fuente staną Gruzini, którzy wyszli z grupy, w której mierzyli się z Portugalią, Turcją i Czechami.</description>
+    </item>
     
     <item>
         <title>AS: Modrić i Łunin polecą z drużyną do USA</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Anglia vs Słowacja: Słowacy prowadzą!</title>
-        <link>https://www.realmadryt.pl/news/130733-anglia-vs-slowacja-slowacy-prowadza</link>
+        <title>Przewrotka Bellinghama ratuje Anglię! [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/130733-przewrotka-bellinghama-ratuje-anglie-video</link>
         <pubDate>Sun, 30 Jun 2024 17:02:00 GMT</pubDate>
-        <description>Anglia Jude'a Bellinghama rozpoczyna rywalizację w fazie pucharowej EURO 2024 od spotkania ze Słowacją.</description>
+        <description>Jude Bellingham niesamowitą przewrotką przywrócił Anglię do życia w meczu ze Słowacją!</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130728-swietna-hiszpania-przeciwko-historycznemu-debiutantowi</link>
         <pubDate>Sun, 30 Jun 2024 10:55:00 GMT</pubDate>
         <description>Przed nami drugi dzień fazy pucharowej EURO 2024, w którym Anglia zmierzy się ze Słowacją, a Hiszpania z Gruzją.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 30 czerwca</title>
-        <link>https://www.realmadryt.pl/news/130724-kartka-z-kalendarza-30-czerwca</link>
-        <pubDate>Sun, 30 Jun 2024 10:00:00 GMT</pubDate>
-        <description>Finały Pucharu Króla, zwycięstwo Brazylii z Niemcami po dwóch golach R9, prezentacja Kaki i wygrana młodych Hiszpanów z zawodnikami Królewskich w składzie. Co działo się 30 czerwca?</description>
     </item>
     
 </channel>
