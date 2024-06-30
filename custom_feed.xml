@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Jun 2024 14:17:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 14:39:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé przed pierwszym meczem jako gracz Realu</title>
+        <link>https://www.realmadryt.pl/news/130731-mbappe-przed-pierwszym-meczem-jako-gracz-realu</link>
+        <pubDate>Sun, 30 Jun 2024 16:25:00 GMT</pubDate>
+        <description>Kylian Mbappé już jutro będzie wolny. Umowa francuskiego napastnika z Paris Saint-Germain obowiązuje do dziś, więc od 1 lipca będzie pełnoprawnym zawodnikiem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Bramkarska karuzela transferowa w La Lidze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130693-czwarty-pierwszy-kapitan-ktory-odszedl-w-czterech-ostatnich-sezonach</link>
         <pubDate>Sun, 30 Jun 2024 08:18:00 GMT</pubDate>
         <description>Nacho jest czwartym pierwszym kapitanem Realu Madryt, który opuścił klub w czterech ostatnich sezonach. W poprzednich latach Królewscy pożegnali się z Karimem Benzemą, Marcelo i Sergio Ramosem.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Z tą koszulką odczuwałem największą radość i dumę</title>
-        <link>https://www.realmadryt.pl/news/130722-modric-z-ta-koszulka-odczuwalem-najwieksza-radosc-i-dume</link>
-        <pubDate>Sun, 30 Jun 2024 07:25:00 GMT</pubDate>
-        <description>Luka Modrić podzielił się swoimi odczuciami po EURO 2024, które dla Chorwacji zakończyło się w brutalny sposób już po fazie grupowej. Pomocnik Królewskich wciąż jednak definitywnie nie rozstrzygnął tematu swojej reprezentacyjnej przyszłości.</description>
     </item>
     
 </channel>
