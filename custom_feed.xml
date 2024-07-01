@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Jul 2024 14:18:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 14:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: UEFA wszczyna postępowanie w sprawie gestów Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/130747-oficjalnie-uefa-wszczyna-postepowanie-w-sprawie-gestow-bellinghama</link>
+        <pubDate>Mon, 01 Jul 2024 16:34:00 GMT</pubDate>
+        <description>Inspektor zbada sprawę.</description>
+    </item>
     
     <item>
         <title>Courtois i dziesięciu pozostałych</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130730-feliz-cumpleanos-lucas</link>
         <pubDate>Mon, 01 Jul 2024 08:18:00 GMT</pubDate>
         <description>Dziś swoje 33. urodziny obchodzi Lucas Vázquez. Z tej okazji życzymy mu kolejnych sukcesów, nieustającego zapału w tym, co robi i dalszego budowania swej, nie bójmy się użyć tego słowa, legendy.</description>
-    </item>
-    
-    <item>
-        <title>Rudy Fernández i Sergio Llull powołani do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/130739-rudy-fernandez-i-sergio-llull-powolani-do-reprezentacji</link>
-        <pubDate>Mon, 01 Jul 2024 07:25:00 GMT</pubDate>
-        <description>Rudy Fernández i Sergio Llull na początku lipca będą walczyć z reprezentacją Hiszpanii o awans na Igrzyska Olimpijskie. W fazie grupowej zagrają z Libanem i Angolą.</description>
     </item>
     
 </channel>
