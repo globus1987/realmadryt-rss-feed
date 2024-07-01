@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Jul 2024 05:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 06:29:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>¡Feliz cumpleaños, Lucas!</title>
+        <link>https://www.realmadryt.pl/news/130730-feliz-cumpleanos-lucas</link>
+        <pubDate>Mon, 01 Jul 2024 08:18:00 GMT</pubDate>
+        <description>Dziś swoje 33. urodziny obchodzi Lucas Vázquez. Z tej okazji życzymy mu kolejnych sukcesów, nieustającego zapału w tym, co robi i dalszego budowania swej, nie bójmy się użyć tego słowa, legendy.</description>
+    </item>
     
     <item>
         <title>Rudy Fernández i Sergio Llull powołani do reprezentacji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130731-mbappe-przed-pierwszym-meczem-jako-gracz-realu</link>
         <pubDate>Sun, 30 Jun 2024 16:25:00 GMT</pubDate>
         <description>Kylian Mbappé już jutro będzie wolny. Umowa francuskiego napastnika z Paris Saint-Germain obowiązuje do dziś, więc od 1 lipca będzie pełnoprawnym zawodnikiem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Bramkarska karuzela transferowa w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/130713-bramkarska-karuzela-transferowa-w-la-lidze</link>
-        <pubDate>Sun, 30 Jun 2024 15:30:00 GMT</pubDate>
-        <description>Tylko Athletic, Alavés, Osasuna, Real Sociedad i Celta zatrzymają swoich pierwszych i rezerwowych golkiperów. W pozostałych drużynach spodziewane są ruchy w bramce.</description>
     </item>
     
 </channel>
