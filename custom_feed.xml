@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Jul 2024 11:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 12:39:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mario Hezonja powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/130740-mario-hezonja-powolany-do-reprezentacji</link>
+        <pubDate>Mon, 01 Jul 2024 14:35:00 GMT</pubDate>
+        <description>Mario Hezonja znalazł się w dwunastoosobowej kadrze reprezentacji Chorwacji na turniej kwalifikacyjny do Igrzysk Olimpijskich. W fazie grupowej Chorwaci zmierzą się ze Słowenią i Nową Zelandią.</description>
+    </item>
     
     <item>
         <title>Odejdzie po raz czwarty</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130742-czy-bellingham-pokazywal-obsceniczne-gesty-do-slowakow</link>
         <pubDate>Mon, 01 Jul 2024 05:30:00 GMT</pubDate>
         <description>Otóż nie, media znów kłamią.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130741-dzisiejsze-okladki</link>
-        <pubDate>Mon, 01 Jul 2024 00:27:00 GMT</pubDate>
-        <description>Wygrana Hiszpanii na Mistrzostwach Europy to najważniejsza kwestia poruszana na poniedziałkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
