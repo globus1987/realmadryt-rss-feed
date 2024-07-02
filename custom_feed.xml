@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 22:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 22:38:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130782-dzisiejsze-okladki</link>
+        <pubDate>Wed, 03 Jul 2024 00:20:00 GMT</pubDate>
+        <description>Przygotowania do meczu Hiszpanii z Niemcami i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kluczowy krok w walce o awans</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130767-holandia-melduje-sie-w-cwiercfinale</link>
         <pubDate>Tue, 02 Jul 2024 17:09:00 GMT</pubDate>
         <description>W siódmym meczu 1/8 finału Mistrzostw Europy w Niemczech Holandia wygrała z Rumunią 3:0 i tym samym awansowała do ćwierćfinału. Bramki dla Pomarańczowych zdobywali Cody Gakpo i Donyell Malen (dwie).</description>
-    </item>
-    
-    <item>
-        <title>Vallejo wraca z nadziejami na pozostanie</title>
-        <link>https://www.realmadryt.pl/news/130746-vallejo-wraca-z-nadziejami-na-pozostanie</link>
-        <pubDate>Tue, 02 Jul 2024 16:25:00 GMT</pubDate>
-        <description>Kontrakt środkowego obrońcy z Realem Madryt wygasa w 2025 roku i wszystko wskazuje na to, że jest to dla niego ostatnia szansa na napisanie swojego rozdziału w historii klubu.</description>
     </item>
     
 </channel>
