@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 11:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 11:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Altıntop: Jesteśmy bardzo zadowoleni z gry i nastawienia Ardy Gülera</title>
+        <link>https://www.realmadryt.pl/news/130761-altintop-jestesmy-bardzo-zadowoleni-z-gry-i-nastawienia-ardy-guelera</link>
+        <pubDate>Tue, 02 Jul 2024 13:40:00 GMT</pubDate>
+        <description>Hamit Altıntop, były piłkarz m.in. Schalke, Bayernu Monachium, Realu Madryt i Galatasaray, a obecnie członek zarządu Tureckiego Związku Piłki Nożnej, udzielił wypowiedzi dla tureckiej agencji prasowej İHA, w której mówił m.in. o Ardzie Gülerze oraz podsumował występy Turków podczas Mistrzostw Europy w Niemczech.</description>
+    </item>
     
     <item>
         <title>Bellingham: Wiele osób gada głupoty i jest miło, gdy możesz im trochę oddać</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130756-dzisiejsze-okladki</link>
         <pubDate>Tue, 02 Jul 2024 03:07:00 GMT</pubDate>
         <description>Mecze na Mistrzostwach Europy to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Po zamknięcie fenomenalnej fazy grupowej</title>
-        <link>https://www.realmadryt.pl/news/130754-po-zamkniecie-fenomenalnej-fazy-grupowej</link>
-        <pubDate>Mon, 01 Jul 2024 22:39:00 GMT</pubDate>
-        <description>Dziś w nocy Urugwaj zakończy rywalizację w fazie grupowej Copa América meczem z gospodarzem, a więc Stanami Zjednoczonymi.</description>
     </item>
     
 </channel>
