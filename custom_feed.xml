@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 21:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 21:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kluczowy krok w walce o awans</title>
+        <link>https://www.realmadryt.pl/news/130780-kluczowy-krok-w-walce-o-awans</link>
+        <pubDate>Tue, 02 Jul 2024 23:27:00 GMT</pubDate>
+        <description>Dziś w nocy rozegrana zostanie ostatnia kolejka fazy grupowej Copa América, w której Brazylia zagra z liderującą w grupie Kolumbią.</description>
+    </item>
     
     <item>
         <title>Spacerek Hiszpanii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130746-vallejo-wraca-z-nadziejami-na-pozostanie</link>
         <pubDate>Tue, 02 Jul 2024 16:25:00 GMT</pubDate>
         <description>Kontrakt środkowego obrońcy z Realem Madryt wygasa w 2025 roku i wszystko wskazuje na to, że jest to dla niego ostatnia szansa na napisanie swojego rozdziału w historii klubu.</description>
-    </item>
-    
-    <item>
-        <title>Gaspart: Nie wymieniłbym Lamine'a na Mbappé</title>
-        <link>https://www.realmadryt.pl/news/130760-gaspart-nie-wymienilbym-laminea-na-mbappe</link>
-        <pubDate>Tue, 02 Jul 2024 15:30:00 GMT</pubDate>
-        <description>Joan Gaspart, były prezes Barcelony, który rozpoczął płacenie wiceszefowi Komitetu Arbitrów [oficjalnie, bo inne źródła wskazują, że proceder mógł trwać od lat 90.] oraz Toni Freixa, były dyrektor Barcelony, gościli w podcaście Solo para culés Joty Jordiego, w którym omawiali sprawy bieżące dotyczące Blaugrany. W pewnym momencie Jota Jordi zadał byłym działaczom pytanie o potencjalną wymianę Lamine'a Yamala na Kyliana Mbappé.</description>
     </item>
     
 </channel>
