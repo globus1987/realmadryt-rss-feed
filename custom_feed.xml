@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 09:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 09:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Hezonja 2029!</title>
+        <link>https://www.realmadryt.pl/news/130759-oficjalnie-hezonja-2029</link>
+        <pubDate>Tue, 02 Jul 2024 11:37:00 GMT</pubDate>
+        <description>Królewscy oficjalnie poinformowali o przedłużeniu kontraktu z chorwackim koszykarzem na pięć najbliższych sezonów.</description>
+    </item>
     
     <item>
         <title>Rumunia albo Holandia oraz Alaba albo Güler</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130750-portugalia-wygrywa-po-rzutach-karnych-costa-bohaterem</link>
         <pubDate>Mon, 01 Jul 2024 19:49:00 GMT</pubDate>
         <description>Portugalia wygrała ze Słowenią po rzutach karnych i awansowała do ćwierćfinału Mistrzostw Europy.</description>
-    </item>
-    
-    <item>
-        <title>Francja w ćwierćfinale!</title>
-        <link>https://www.realmadryt.pl/news/130748-francja-w-cwiercfinale</link>
-        <pubDate>Mon, 01 Jul 2024 17:03:00 GMT</pubDate>
-        <description>Francja wygrała 1:0 w meczu z Belgią i awansowała do ćwierćfinału EURO 2024. Podopieczni Didiera Deschampsa znów nie zachwycili, ale ostatecznie uporali się z Czerwonymi Diabłami, a decydujące okazało się samobójcze trafienie Jana Vertonghena.</description>
     </item>
     
 </channel>
