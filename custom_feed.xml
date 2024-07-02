@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Jul 2024 23:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 01:26:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130756-dzisiejsze-okladki</link>
+        <pubDate>Tue, 02 Jul 2024 03:07:00 GMT</pubDate>
+        <description>Mecze na Mistrzostwach Europy to najważniejsze kwestie poruszane na wtorkowych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Po zamknięcie fenomenalnej fazy grupowej</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130743-kylian-jako-pilkarz-realu-i-walka-cr7-o-cwiercfinal</link>
         <pubDate>Mon, 01 Jul 2024 11:50:00 GMT</pubDate>
         <description>Przed nami kolejny mecz fazy pucharowej EURO 2024. Dziś Francja zagra z Belgią, a Portugalia ze Słowenią.</description>
-    </item>
-    
-    <item>
-        <title>Real dodał do kadry Mbappé oraz Endricka… usunął i przywrócił</title>
-        <link>https://www.realmadryt.pl/news/130744-real-dodal-do-kadry-mbappe-oraz-endricka-usunal-i-przywrocil</link>
-        <pubDate>Mon, 01 Jul 2024 10:55:00 GMT</pubDate>
-        <description>Królewscy zaktualizowali skład na najbliższy sezon na swojej oficjalnej stronie internetowej. W kadrze znajduje się obecnie 22 graczy.</description>
     </item>
     
 </channel>
