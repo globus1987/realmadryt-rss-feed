@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 15:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 16:26:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Alba Redondo piłkarką Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/130769-oficjalnie-alba-redondo-pilkarka-realu-madryt</link>
+        <pubDate>Tue, 02 Jul 2024 18:06:00 GMT</pubDate>
+        <description>Real Madryt dokonał drugiego w tym okienku transferu do drużyny kobiet. Jak informują na swojej oficjalnej stronie Królewscy, do klubu sprowadzono z Levante Albę Redondo. Napastniczka dołącza do zespołu po wypełnieniu kontraktu z klubem z Walencji.</description>
+    </item>
     
     <item>
         <title>Nico Paz przed ważną decyzją</title>
@@ -17,7 +24,7 @@
         <title>Rumunia vs Holandia: Walka o przedostatnie miejsce w ćwierćfinale</title>
         <link>https://www.realmadryt.pl/news/130767-rumunia-vs-holandia-walka-o-przedostatnie-miejsce-w-cwiercfinale</link>
         <pubDate>Tue, 02 Jul 2024 17:09:00 GMT</pubDate>
-        <description>W siódmym meczu 1/8 finału Mistrzostw Europy w Niemczech Rumunia zmierzy się z Holandią. Początek spotkania o 18:00.</description>
+        <description>W siódmym meczu 1/8 finału Mistrzostw Europy w Niemczech Rumunia mierzy się z Holandią. Spotkanie rozpoczęło się o 18:00.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130755-rumunia-albo-holandia-oraz-alaba-albo-gueler</link>
         <pubDate>Tue, 02 Jul 2024 10:30:00 GMT</pubDate>
         <description>Przed nami ostatni dzień rywalizacji w 1/8 finału na EURO 2024. Najpierw Rumunia zmierzy się z Holandią, a następnie Austria zagra z Turcją.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 2 lipca</title>
-        <link>https://www.realmadryt.pl/news/130753-kartka-z-kalendarza-2-lipca</link>
-        <pubDate>Tue, 02 Jul 2024 09:09:00 GMT</pubDate>
-        <description>Mecz w hołdzie legendarnym koszykarzom, urodziny Granero, wybory nowego prezesa, transfer Lucasa i prezentacje dwóch zawodników. Co działo się 2 lipca?</description>
     </item>
     
 </channel>
