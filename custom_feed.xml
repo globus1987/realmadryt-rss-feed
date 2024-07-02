@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 18:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 18:41:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Teraz albo nigdy</title>
+        <link>https://www.realmadryt.pl/news/130762-teraz-albo-nigdy</link>
+        <pubDate>Tue, 02 Jul 2024 20:40:00 GMT</pubDate>
+        <description>Brak zawieszonego Adriena Rabiota w meczu ćwierćfinałowym sprawia, że Didier Deschamps będzie musiał nieco zmodyfikować taktykę. Wydaje się, że na ten moment selekcjoner staje przed wyborem między postawieniem na Camavingę lub przywróceniem do łask Dembélé.</description>
+    </item>
     
     <item>
         <title>Austra vs Turcja: kto zostanie czarnym koniem?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130758-bellingham-wiele-osob-gada-glupoty-i-jest-milo-gdy-mozesz-im-troche-oddac</link>
         <pubDate>Tue, 02 Jul 2024 12:45:00 GMT</pubDate>
         <description>Jude Bellingham pojawił się na konferencji prasowej po meczu Anglii ze Słowacją. Przedstawiamy wszystkie wypowiedzi pomocnika Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Hezonja 2029!</title>
-        <link>https://www.realmadryt.pl/news/130759-oficjalnie-hezonja-2029</link>
-        <pubDate>Tue, 02 Jul 2024 11:37:00 GMT</pubDate>
-        <description>Królewscy oficjalnie poinformowali o przedłużeniu kontraktu z chorwackim koszykarzem na pięć najbliższych sezonów.</description>
     </item>
     
 </channel>
