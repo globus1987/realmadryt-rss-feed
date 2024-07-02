@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 17:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 18:26:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Austra vs Turcja: kto zostanie czarnym koniem?</title>
+        <link>https://www.realmadryt.pl/news/130771-austra-vs-turcja-kto-zostanie-czarnym-koniem</link>
+        <pubDate>Tue, 02 Jul 2024 19:57:00 GMT</pubDate>
+        <description>Austria mierzy się z Turcją w ostatnim meczu 1/8 finału EURO.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Alba Redondo piłkarką Realu Madryt</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Rumunia vs Holandia: Walka o przedostatnie miejsce w ćwierćfinale</title>
-        <link>https://www.realmadryt.pl/news/130767-rumunia-vs-holandia-walka-o-przedostatnie-miejsce-w-cwiercfinale</link>
+        <title>Holandia melduje się w ćwierćfinale</title>
+        <link>https://www.realmadryt.pl/news/130767-holandia-melduje-sie-w-cwiercfinale</link>
         <pubDate>Tue, 02 Jul 2024 17:09:00 GMT</pubDate>
-        <description>W siódmym meczu 1/8 finału Mistrzostw Europy w Niemczech Rumunia mierzy się z Holandią. Spotkanie rozpoczęło się o 18:00.</description>
+        <description>W siódmym meczu 1/8 finału Mistrzostw Europy w Niemczech Holandia wygrała z Rumunią 3:0 i tym samym awansowała do ćwierćfinału. Bramki dla Pomarańczowych zdobywali Cody Gakpo i Donyell Malen (dwie).</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130759-oficjalnie-hezonja-2029</link>
         <pubDate>Tue, 02 Jul 2024 11:37:00 GMT</pubDate>
         <description>Królewscy oficjalnie poinformowali o przedłużeniu kontraktu z chorwackim koszykarzem na pięć najbliższych sezonów.</description>
-    </item>
-    
-    <item>
-        <title>Rumunia albo Holandia oraz Alaba albo Güler</title>
-        <link>https://www.realmadryt.pl/news/130755-rumunia-albo-holandia-oraz-alaba-albo-gueler</link>
-        <pubDate>Tue, 02 Jul 2024 10:30:00 GMT</pubDate>
-        <description>Przed nami ostatni dzień rywalizacji w 1/8 finału na EURO 2024. Najpierw Rumunia zmierzy się z Holandią, a następnie Austria zagra z Turcją.</description>
     </item>
     
 </channel>
