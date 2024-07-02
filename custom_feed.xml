@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Jul 2024 15:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 15:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nico Paz przed ważną decyzją</title>
+        <link>https://www.realmadryt.pl/news/130751-nico-paz-przed-wazna-decyzja</link>
+        <pubDate>Tue, 02 Jul 2024 17:52:00 GMT</pubDate>
+        <description>Wychowanek analizuje swoją sytuację w zespole Królewskich i kilka ofert, które otrzymał.</description>
+    </item>
     
     <item>
         <title>Rumunia vs Holandia: Walka o przedostatnie miejsce w ćwierćfinale</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130753-kartka-z-kalendarza-2-lipca</link>
         <pubDate>Tue, 02 Jul 2024 09:09:00 GMT</pubDate>
         <description>Mecz w hołdzie legendarnym koszykarzom, urodziny Granero, wybory nowego prezesa, transfer Lucasa i prezentacje dwóch zawodników. Co działo się 2 lipca?</description>
-    </item>
-    
-    <item>
-        <title>„Teraz ciągle te same drużyny docierają do finału Ligi Mistrzów”</title>
-        <link>https://www.realmadryt.pl/news/130749-teraz-ciagle-te-same-druzyny-docieraja-do-finalu-ligi-mistrzow</link>
-        <pubDate>Tue, 02 Jul 2024 08:18:00 GMT</pubDate>
-        <description>Były bramkarz i kapitan Realu Madryt w rozmowie z dziennikiem AS odniósł się do filmu dokumentalnego o La Lidze (w którym wziął udział) transferu Kyliana Mbappé i ery Los Galácticos, którą przeżył w zespole ponad 20 lat temu.</description>
     </item>
     
 </channel>
