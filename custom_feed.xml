@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 10:22:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 10:40:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino Pérez: Nigdy się nie poddawajcie i walczcie do końca</title>
+        <link>https://www.realmadryt.pl/news/130783-florentino-perez-nigdy-sie-nie-poddawajcie-i-walczcie-do-konca</link>
+        <pubDate>Wed, 03 Jul 2024 12:30:00 GMT</pubDate>
+        <description>Florentino Pérez przewodniczył we wtorek uroczystości zakończenia studiów na Uniwersytecie Europejskim Realu Madryt. Specjalnym gościem ceremonii był Björn Gulden, dyrektor generalny Adidasa. Przedstawiamy najważniejsze fragmenty przemówienia prezesa Realu Madryt do absolwentów.</description>
+    </item>
     
     <item>
         <title>Belliingham: Mój Boże, jestem jakieś dwa metry nad ziemią, jak Cristiano</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130780-kluczowy-krok-w-walce-o-awans</link>
         <pubDate>Tue, 02 Jul 2024 23:27:00 GMT</pubDate>
         <description>Dziś w nocy rozegrana zostanie ostatnia kolejka fazy grupowej Copa América, w której Brazylia zagra z liderującą w grupie Kolumbią.</description>
-    </item>
-    
-    <item>
-        <title>Spacerek Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/130777-spacerek-hiszpanii</link>
-        <pubDate>Tue, 02 Jul 2024 22:48:00 GMT</pubDate>
-        <description>Hiszpania bez najmniejszych problemów pokonała Liban na otwarcie walki o bilet do Paryża. Sergio Llull i Rudy Fernández dołożyli swoje cegiełki do tego zwycięstwa.</description>
     </item>
     
 </channel>
