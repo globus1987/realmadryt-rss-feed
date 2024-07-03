@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 11:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 12:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joselu: To będzie ostatni mecz Kroosa w karierze</title>
+        <link>https://www.realmadryt.pl/news/130789-joselu-to-bedzie-ostatni-mecz-kroosa-w-karierze</link>
+        <pubDate>Wed, 03 Jul 2024 14:14:00 GMT</pubDate>
+        <description>Joselu pojawił się na konferencji prasowej Hiszpanii w trakcie przygotowań do ćwierćfinału EURO z NIemcami. Przedstawiamy najważniejsze wypowiedzi byłego napastnika Realu Madryt z tego spotkania z dziennikarzami.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Andrés Feliz zawodnikiem Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/130787-oficjalnie-andres-feliz-zawodnikiem-realu-madryt</link>
+        <pubDate>Wed, 03 Jul 2024 14:06:00 GMT</pubDate>
+        <description>Królewscy zapłacili klauzulę wykupu i oficjalnie poinformowali o transferze 26-latka z Dominikany.</description>
+    </item>
     
     <item>
         <title>Tchouaméni jest szefem</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130781-deschamps-mbappe-moze-nosic-maske-przez-kilka-miesiecy</link>
         <pubDate>Wed, 03 Jul 2024 07:00:00 GMT</pubDate>
         <description>We Francji nie mają wątpliwości, że napastnik nie jest taki sam, gdy gra w masce. Selekcjoner zapowiedział, że sytuacja może utrzymać się nawet przez kilka miesięcy.</description>
-    </item>
-    
-    <item>
-        <title>Brazylia remisuje, Vinícius zawieszony na ćwierćfinał!</title>
-        <link>https://www.realmadryt.pl/news/130784-brazylia-remisuje-vinicius-zawieszony-na-cwiercfinal</link>
-        <pubDate>Wed, 03 Jul 2024 05:05:00 GMT</pubDate>
-        <description>Brazylia zaledwie zremisowała 1:1 z Kolumbią i zajęła drugie miejsce w grupie D, co sprawia, że w ćwierćfinałach zmierzy się z Urugwajem, i to bez zawieszonego Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130782-dzisiejsze-okladki</link>
-        <pubDate>Wed, 03 Jul 2024 00:20:00 GMT</pubDate>
-        <description>Przygotowania do meczu Hiszpanii z Niemcami i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
