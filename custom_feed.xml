@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 14:20:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięski cykl</title>
+        <link>https://www.realmadryt.pl/news/130766-zwycieski-cykl</link>
+        <pubDate>Wed, 03 Jul 2024 16:00:00 GMT</pubDate>
+        <description>Real Madryt na przestrzeni ostatniej dekady notuje najlepsze wyniki i liczby w całej swojej historii. Obecne pokolenie bije rekordy takich drużyn jak ta Alfredo Di Stéfano, La Quinta del Buitre czy Los Galácticos. I to wszystko przy regularnie odmładzanym składzie.</description>
+    </item>
     
     <item>
         <title>Kroos: Słowa Joselu są dosyć zabawne</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130779-terminarz-1-4-finalu-euro-8-reprezentantow-realu-ciagle-w-grze</link>
         <pubDate>Wed, 03 Jul 2024 08:50:00 GMT</pubDate>
         <description>Wczoraj zakończyła się faza 1/8 finału EURO 2024. Z turniejem wcześniej pożegnali się Luka Modrić i Andrij Łunin, a w 1/8 finału jako członek sztabu Austrii odpadł David Alaba. Teraz w grze pozostaje, nie wliczając odchodzących piłkarzy, 8 zawodników Królewskich. Kolejne spotkania w piątek.</description>
-    </item>
-    
-    <item>
-        <title>Brahim: Przyszły sezon będzie jeszcze lepszy</title>
-        <link>https://www.realmadryt.pl/news/130770-brahim-przyszly-sezon-bedzie-jeszcze-lepszy</link>
-        <pubDate>Wed, 03 Jul 2024 07:55:00 GMT</pubDate>
-        <description>Brahim Díaz pojawił się na inauguracji kampusu swojego imienia w Maladze. Przy okazji udzielił kilku wypowiedzi dla dziennikarzy.</description>
     </item>
     
 </channel>
