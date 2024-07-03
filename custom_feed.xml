@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 22:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 22:38:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130807-dzisiejsze-okladki</link>
+        <pubDate>Thu, 04 Jul 2024 00:20:00 GMT</pubDate>
+        <description>Przygotowania do meczu Hiszpanii z Niemcami i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hiszpania wygrywa grupę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130772-dyrektor-var-u-komentarze-real-madrid-tv-byly-zenujace</link>
         <pubDate>Wed, 03 Jul 2024 17:42:00 GMT</pubDate>
         <description>Carlos Clos Gómez udzielił wywiadu magazynowi Jot Down. To były sędzia główny w La Lidze, a obecnie dyrektor VAR-u w Komitecie Technicznym Arbitrów w Hiszpańskiej Federacji Piłkarskiej. Przedstawiamy jego najważniejsze wypowiedzi z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>La Sexta: Laporta zapowiada, że Nico Williams będzie mieć lepszy sezon niż Mbappé w Realu</title>
-        <link>https://www.realmadryt.pl/news/130794-la-sexta-laporta-zapowiada-ze-nico-williams-bedzie-miec-lepszy-sezon-niz-mbappe-w-realu</link>
-        <pubDate>Wed, 03 Jul 2024 16:51:00 GMT</pubDate>
-        <description>Katalonia żyje potencjalnym transferem atakującego Athleticu do Barcelony. Prezes Blaugrany prywatnie ma zapowiadać, że 21-latek zaliczy w barwach jego zespołu lepszy sezon niż Kylian Mbappé w Realu Madryt.</description>
     </item>
     
 </channel>
