@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 14:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 14:38:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Finał Mistrzostw Świata 2030 na Santiago Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/130796-marca-final-mistrzostw-swiata-2030-na-santiago-bernabeu</link>
+        <pubDate>Wed, 03 Jul 2024 16:22:00 GMT</pubDate>
+        <description>Stadion Realu Madryt będzie gospodarzem finałowego meczu Mistrzostw Świata, którego gospodarzami będą Hiszpania, Portugalia i Maroko.</description>
+    </item>
     
     <item>
         <title>Zwycięski cykl</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130763-canizares-gotowy-na-transfer</link>
         <pubDate>Wed, 03 Jul 2024 09:45:00 GMT</pubDate>
         <description>Jak co roku wkrótce powinien rozpocząć się sezon na pożegnania w Castilli. Na rynku znajdzie się co najmniej kilka nazwisk graczy rezerw, którzy będą chcieli rozpocząć swoją przygodę z profesjonalnym futbolem. Jednym z nich jest Lucas Cañizares.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 1/4 finału EURO: 8 reprezentantów Realu ciągle w grze</title>
-        <link>https://www.realmadryt.pl/news/130779-terminarz-1-4-finalu-euro-8-reprezentantow-realu-ciagle-w-grze</link>
-        <pubDate>Wed, 03 Jul 2024 08:50:00 GMT</pubDate>
-        <description>Wczoraj zakończyła się faza 1/8 finału EURO 2024. Z turniejem wcześniej pożegnali się Luka Modrić i Andrij Łunin, a w 1/8 finału jako członek sztabu Austrii odpadł David Alaba. Teraz w grze pozostaje, nie wliczając odchodzących piłkarzy, 8 zawodników Królewskich. Kolejne spotkania w piątek.</description>
     </item>
     
 </channel>
