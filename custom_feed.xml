@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 08:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 08:41:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 3 lipca</title>
+        <link>https://www.realmadryt.pl/news/130778-kartka-z-kalendarza-3-lipca</link>
+        <pubDate>Wed, 03 Jul 2024 10:40:00 GMT</pubDate>
+        <description>Pierwszy w historii mecz o Puchar Interkontynentalny, prezentacja Isco na Santiago Bernabéu i definitywne odejście Raúla de Tomása. Co działo się 3 lipca?</description>
+    </item>
     
     <item>
         <title>Cañizares gotowy na transfer</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130776-niezly-mecz-hezonji-niewystarczajacy-doncic</link>
         <pubDate>Tue, 02 Jul 2024 22:27:00 GMT</pubDate>
         <description>Reprezentacja Chorwacji z Mario Hezonją w składzie pokonała Słowenię na inaugurację turnieju kwalifikacyjnego do Igrzysk Olimpijskich. Jutro Chorwaci zagrają z Nową Zelandią.</description>
-    </item>
-    
-    <item>
-        <title>Prokuratura wycofała oskarżenie przeciwko Modriciowi</title>
-        <link>https://www.realmadryt.pl/news/130774-prokuratura-wycofala-oskarzenie-przeciwko-modriciowi</link>
-        <pubDate>Tue, 02 Jul 2024 21:25:00 GMT</pubDate>
-        <description>Pomocnik Królewskich był oskarżony o złożenie fałszywych zeznań w rozsądzonej już sprawie między innymi byłego prezesa Dinama Zagrzeb. Ostatecznie prokuratura wycofała oskarżenie i sprawa piłkarza jest definitywnie zakończona.</description>
     </item>
     
 </channel>
