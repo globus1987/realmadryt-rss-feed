@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 07:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 07:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cañizares gotowy na transfer</title>
+        <link>https://www.realmadryt.pl/news/130763-canizares-gotowy-na-transfer</link>
+        <pubDate>Wed, 03 Jul 2024 09:45:00 GMT</pubDate>
+        <description>Jak co roku wkrótce powinien rozpocząć się sezon na pożegnania w Castilli. Na rynku znajdzie się co najmniej kilka nazwisk graczy rezerw, którzy będą chcieli rozpocząć swoją przygodę z profesjonalnym futbolem. Jednym z nich jest Lucas Cañizares.</description>
+    </item>
     
     <item>
         <title>Terminarz 1/4 finału EURO: 8 reprezentantów Realu ciągle w grze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130774-prokuratura-wycofala-oskarzenie-przeciwko-modriciowi</link>
         <pubDate>Tue, 02 Jul 2024 21:25:00 GMT</pubDate>
         <description>Pomocnik Królewskich był oskarżony o złożenie fałszywych zeznań w rozsądzonej już sprawie między innymi byłego prezesa Dinama Zagrzeb. Ostatecznie prokuratura wycofała oskarżenie i sprawa piłkarza jest definitywnie zakończona.</description>
-    </item>
-    
-    <item>
-        <title>Teraz albo nigdy</title>
-        <link>https://www.realmadryt.pl/news/130762-teraz-albo-nigdy</link>
-        <pubDate>Tue, 02 Jul 2024 20:40:00 GMT</pubDate>
-        <description>Brak zawieszonego Adriena Rabiota w meczu ćwierćfinałowym sprawia, że Didier Deschamps będzie musiał nieco zmodyfikować taktykę. Wydaje się, że na ten moment selekcjoner staje przed wyborem między postawieniem na Camavingę lub przywróceniem do łask Dembélé.</description>
     </item>
     
 </channel>
