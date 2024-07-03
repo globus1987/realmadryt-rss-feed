@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 20:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 20:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hiszpania wygrywa grupę</title>
+        <link>https://www.realmadryt.pl/news/130805-hiszpania-wygrywa-grupe</link>
+        <pubDate>Wed, 03 Jul 2024 22:51:00 GMT</pubDate>
+        <description>Hiszpania wygrała oba mecze w fazie grupowej i pewnie awansowała do półfinałów. Swojego rywala pozna jutro, więc zawodnicy mogą złapać oddech po rozegraniu dwóch spotkań w dwa dni.</description>
+    </item>
     
     <item>
         <title>Real zakontraktował bramkarza rezerw Atlético</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130794-la-sexta-laporta-zapowiada-ze-nico-williams-bedzie-miec-lepszy-sezon-niz-mbappe-w-realu</link>
         <pubDate>Wed, 03 Jul 2024 16:51:00 GMT</pubDate>
         <description>Katalonia żyje potencjalnym transferem atakującego Athleticu do Barcelony. Prezes Blaugrany prywatnie ma zapowiadać, że 21-latek zaliczy w barwach jego zespołu lepszy sezon niż Kylian Mbappé w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Finał Mistrzostw Świata 2030 na Santiago Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/130796-marca-final-mistrzostw-swiata-2030-na-santiago-bernabeu</link>
-        <pubDate>Wed, 03 Jul 2024 16:22:00 GMT</pubDate>
-        <description>Stadion Realu Madryt będzie gospodarzem finałowego meczu Mistrzostw Świata, którego gospodarzami będą Hiszpania, Portugalia i Maroko.</description>
     </item>
     
 </channel>
