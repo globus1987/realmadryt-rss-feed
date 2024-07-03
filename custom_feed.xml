@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 15:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 15:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dyrektor VAR-u: Komentarze Real Madrid TV były żenujące</title>
+        <link>https://www.realmadryt.pl/news/130772-dyrektor-var-u-komentarze-real-madrid-tv-byly-zenujace</link>
+        <pubDate>Wed, 03 Jul 2024 17:42:00 GMT</pubDate>
+        <description>Carlos Clos Gómez udzielił wywiadu magazynowi Jot Down. To były sędzia główny w La Lidze, a obecnie dyrektor VAR-u w Komitecie Technicznym Arbitrów w Hiszpańskiej Federacji Piłkarskiej. Przedstawiamy jego najważniejsze wypowiedzi z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>La Sexta: Laporta zapowiada, że Nico Williams będzie mieć lepszy sezon niż Mbappé w Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130785-bellingham-moj-boze-jestem-jakies-dwa-metry-nad-ziemia-jak-cristiano</link>
         <pubDate>Wed, 03 Jul 2024 11:35:00 GMT</pubDate>
         <description>Pomocnik Realu w cyklicznym formacie wideo publikowanym przez profil angielskiej federacji opowiedział o ostatnich wynikach Lwów Albionu i swojej pięknej bramce z przewrotki przeciwko Słowacji w 1/8 finału EURO.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 lipca</title>
-        <link>https://www.realmadryt.pl/news/130778-kartka-z-kalendarza-3-lipca</link>
-        <pubDate>Wed, 03 Jul 2024 10:40:00 GMT</pubDate>
-        <description>Pierwszy w historii mecz o Puchar Interkontynentalny, prezentacja Isco na Santiago Bernabéu i definitywne odejście Raúla de Tomása. Co działo się 3 lipca?</description>
     </item>
     
 </channel>
