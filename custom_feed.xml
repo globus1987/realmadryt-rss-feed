@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Jul 2024 02:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 03:21:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brazylia remisuje, Vinícius zawieszony na ćwierćfinał!</title>
+        <link>https://www.realmadryt.pl/news/130784-brazylia-remisuje-vinicius-zawieszony-na-cwiercfinal</link>
+        <pubDate>Wed, 03 Jul 2024 05:05:00 GMT</pubDate>
+        <description>Brazylia zaledwie zremisowała 1:1 z Kolumbią i zajęła drugie miejsce w grupie D, co sprawia, że w ćwierćfinałach zmierzy się z Urugwajem, i to bez zawieszonego Viníciusa.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130751-nico-paz-przed-wazna-decyzja</link>
         <pubDate>Tue, 02 Jul 2024 17:52:00 GMT</pubDate>
         <description>Wychowanek analizuje swoją sytuację w zespole Królewskich i kilka ofert, które otrzymał.</description>
-    </item>
-    
-    <item>
-        <title>Holandia melduje się w ćwierćfinale</title>
-        <link>https://www.realmadryt.pl/news/130767-holandia-melduje-sie-w-cwiercfinale</link>
-        <pubDate>Tue, 02 Jul 2024 17:09:00 GMT</pubDate>
-        <description>W siódmym meczu 1/8 finału Mistrzostw Europy w Niemczech Holandia wygrała z Rumunią 3:0 i tym samym awansowała do ćwierćfinału. Bramki dla Pomarańczowych zdobywali Cody Gakpo i Donyell Malen (dwie).</description>
     </item>
     
 </channel>
