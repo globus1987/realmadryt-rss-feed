@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 09:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 10:21:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Chus Mateo 2026!</title>
+        <link>https://www.realmadryt.pl/news/130815-oficjalnie-chus-mateo-2026</link>
+        <pubDate>Thu, 04 Jul 2024 12:18:00 GMT</pubDate>
+        <description>Królewscy poinformowali oficjalnie o przedłużeniu kontraktu z hiszpańskim szkoleniowcem.</description>
+    </item>
     
     <item>
         <title>Relevo: Real kontroluje sprawę transferu Yoro</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130807-dzisiejsze-okladki</link>
         <pubDate>Thu, 04 Jul 2024 00:20:00 GMT</pubDate>
         <description>Przygotowania do meczu Hiszpanii z Niemcami i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hiszpania wygrywa grupę</title>
-        <link>https://www.realmadryt.pl/news/130805-hiszpania-wygrywa-grupe</link>
-        <pubDate>Wed, 03 Jul 2024 22:51:00 GMT</pubDate>
-        <description>Hiszpania wygrała oba mecze w fazie grupowej i pewnie awansowała do półfinałów. Swojego rywala pozna jutro, więc zawodnicy mogą złapać oddech po rozegraniu dwóch spotkań w dwa dni.</description>
     </item>
     
 </channel>
