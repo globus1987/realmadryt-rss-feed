@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 11:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 12:37:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola Hiszpanów lub Niemców!</title>
+        <link>https://www.realmadryt.pl/news/130821-400-zl-za-gola-hiszpanow-lub-niemcow</link>
+        <pubDate>Thu, 04 Jul 2024 14:31:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
+    
+    <item>
+        <title>Las Palmas bliskie porozumienia z Obradorem</title>
+        <link>https://www.realmadryt.pl/news/130786-las-palmas-bliskie-porozumienia-z-obradorem</link>
+        <pubDate>Thu, 04 Jul 2024 14:21:00 GMT</pubDate>
+        <description>Lato pędzi pełną parą, a w Realu Madryt oraz w rezerwach zachodzą odpowiednie zmiany. Rafael Obrador jest jednym z zawodników, który powinien rozpocząć swoją własną seniorską karierę w Primera, a najbliżej porozumienia z Hiszpanem ma być Las Palmas.</description>
+    </item>
     
     <item>
         <title>Przyszłość Miguela wciąż w rękach Realu</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/130788-real-i-manchester-city-walcza-takze-na-euro-2024</link>
         <pubDate>Thu, 04 Jul 2024 09:11:00 GMT</pubDate>
         <description>Piłkarze Królewskich i The Citizens mają po pięć tytułów MVP meczu. Sami Bellingham i De Bruyne po dwa.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Prezentacje Mbappé i Endricka o 12:00</title>
-        <link>https://www.realmadryt.pl/news/130809-chiringuito-prezentacje-mbappe-i-endricka-o-12-00</link>
-        <pubDate>Thu, 04 Jul 2024 08:18:00 GMT</pubDate>
-        <description>Dołączenie Francuza i Brazylijczyka do pierwszej drużyny Królewskich jest już pewne. Pozostaje oczekiwanie na zaprezentowanie ich w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Rafa Marín sprzedany do Napoli</title>
-        <link>https://www.realmadryt.pl/news/130808-relevo-rafa-marin-sprzedany-do-napoli</link>
-        <pubDate>Thu, 04 Jul 2024 07:25:00 GMT</pubDate>
-        <description>Decyzje wszystkich stron mają być podjęte i operacja wkracza w decydującą fazę. Królewscy zachowają prawo odkupu do swojego wychowanka.</description>
     </item>
     
 </channel>
