@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 05:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 05:39:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Rafa Marín sprzedany do Napoli</title>
+        <link>https://www.realmadryt.pl/news/130808-relevo-rafa-marin-sprzedany-do-napoli</link>
+        <pubDate>Thu, 04 Jul 2024 07:25:00 GMT</pubDate>
+        <description>Decyzje wszystkich stron mają być podjęte i operacja wkracza w decydującą fazę. Królewscy zachowają prawo odkupu do swojego wychowanka.</description>
+    </item>
     
     <item>
         <title>MARCA: Real Madryt przedłużył umowy Pintusa i Llopisa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130799-as-plan-realu-madryt-na-prezentacje-mbappe</link>
         <pubDate>Wed, 03 Jul 2024 18:58:00 GMT</pubDate>
         <description>Dziennik AS zapowiada prezentację Francuza na 16 lipca. Ma się ona odbyć na wypełnionym stadionie i zawierać wiele dodatków, które obudują oficjalne powitanie napastnika w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Melanie Leupolz piłkarką Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130798-oficjalnie-melanie-leupolz-pilkarka-realu-madryt</link>
-        <pubDate>Wed, 03 Jul 2024 18:12:00 GMT</pubDate>
-        <description>Real Madryt dokonał trzeciego w tym okienku transferu do drużyny kobiet. Jak informują na swojej oficjalnej stronie Królewscy, do klubu sprowadzono Melanie Leupolz. Pomocniczka dołącza do zespołu po czterech sezonach gry w Chelsea.</description>
     </item>
     
 </channel>
