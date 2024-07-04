@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 05:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 06:28:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chiringuito: Prezentacje Mbappé i Endricka o 12:00</title>
+        <link>https://www.realmadryt.pl/news/130809-chiringuito-prezentacje-mbappe-i-endricka-o-12-00</link>
+        <pubDate>Thu, 04 Jul 2024 08:18:00 GMT</pubDate>
+        <description>Dołączenie Francuza i Brazylijczyka do pierwszej drużyny Królewskich jest już pewne. Pozostaje oczekiwanie na zaprezentowanie ich w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Relevo: Rafa Marín sprzedany do Napoli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130802-nieskuteczny-hezonja-i-porazka-chorwacji</link>
         <pubDate>Wed, 03 Jul 2024 19:37:00 GMT</pubDate>
         <description>Chorwacja awansowała do półfinału na turnieju kwalifikacyjnym do Igrzysk Olimpijskich, ale zrobiła to po porażce z Nową Zelandią. Mario Hezonja był dzisiaj wyjątkowo nieskuteczny.</description>
-    </item>
-    
-    <item>
-        <title>AS: Plan Realu Madryt na prezentację Mbappé</title>
-        <link>https://www.realmadryt.pl/news/130799-as-plan-realu-madryt-na-prezentacje-mbappe</link>
-        <pubDate>Wed, 03 Jul 2024 18:58:00 GMT</pubDate>
-        <description>Dziennik AS zapowiada prezentację Francuza na 16 lipca. Ma się ona odbyć na wypełnionym stadionie i zawierać wiele dodatków, które obudują oficjalne powitanie napastnika w Realu Madryt.</description>
     </item>
     
 </channel>
