@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 08:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 08:54:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ivana Andrés: Byłam bardzo szczęśliwa w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/130765-ivana-andres-bylam-bardzo-szczesliwa-w-realu-madryt</link>
+        <pubDate>Thu, 04 Jul 2024 10:41:00 GMT</pubDate>
+        <description>Ivana Andrés, była piłkarka Realu Madryt, która po opuszczeniu szeregów Królewskich dołączyła do Interu Mediolan, udzieliła wywiadu dziennikowi AS, w którym mówiła m.in. o odejściu z klubu i grze w reprezentacji Hiszpanii. Przedstawiamy wypowiedzi pierwszej kobiety, która była kapitanką Realu Madryt i która wzniosła Puchar Świata z La Selección.</description>
+    </item>
     
     <item>
         <title>AS: Pablo Ramón na radarze Betisu i Espanyolu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130801-historyczny-transfer-rafy-marina</link>
         <pubDate>Wed, 03 Jul 2024 21:05:00 GMT</pubDate>
         <description>Napoli liczy na zamknięcie całej operacji w ciagu najbliższych kilku dni i zakłada, że środkowy obrońca rozpocznie przygotowania do nowego sezonu od pierwszego dnia treningów.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: CONMEBOL przyznaje, że był karny na Viníciusie</title>
-        <link>https://www.realmadryt.pl/news/130803-oficjalnie-conmebol-przyznaje-ze-byl-karny-na-viniciusie</link>
-        <pubDate>Wed, 03 Jul 2024 20:27:00 GMT</pubDate>
-        <description>Południowoamerykańska konfederacja piłkarska potwierdziła w oficjalnym wideo, że sędziowie meczu Brazylii z Kolumbią powinni byli podyktować rzut karny za faul na Viníciusie. Byłaby to okazja dla Canarinhos na podwyższenie wyniku meczu na 2:0.</description>
     </item>
     
 </channel>
