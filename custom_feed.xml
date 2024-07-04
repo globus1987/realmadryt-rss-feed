@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 22:19:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130833-dzisiejsze-okladki</link>
+        <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+        <description>Ćwierćfinał Hiszpanii z Niemcami na EURO to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real otworzył swój szósty sklep w Hiszpanii</title>
@@ -24,7 +31,7 @@
         <title>Carvajal: Piłkarz nie może rozgrywać blisko 60 meczów rocznie</title>
         <link>https://www.realmadryt.pl/news/130828-carvajal-pilkarz-nie-moze-rozgrywac-blisko-60-meczow-rocznie</link>
         <pubDate>Thu, 04 Jul 2024 21:01:00 GMT</pubDate>
-        <description>Dani Carvajal pojawił się na konferencji prasowej Hiszpanii w trakcie przygotowań do ćwierćfinału EURO z Niemcami. Przedstawiamy najważniejsze wypowiedzi byłego napastnika Realu Madryt z tego spotkania z dziennikarzami.</description>
+        <description>Dani Carvajal pojawił się na konferencji prasowej Hiszpanii w trakcie przygotowań do ćwierćfinału EURO z Niemcami. Przedstawiamy najważniejsze wypowiedzi obrońcy Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130823-marca-przedluzenie-kontraktu-mendy-ego-stalo-sie-priorytetem-realu</link>
         <pubDate>Thu, 04 Jul 2024 16:54:00 GMT</pubDate>
         <description>Znakomity sezon w wykonaniu lewego obrońcy zaowocował całkowitą zmianą jego statusu. W związku z tym klub – zgodnie z wolą Carlo Ancelottiego – chce teraz jak najszybciej zamknąć sprawę przedłużenia kontraktu Francuza.</description>
-    </item>
-    
-    <item>
-        <title>Pedri: Szczypanie przez Rüdigera to trochę brak szacunku</title>
-        <link>https://www.realmadryt.pl/news/130822-pedri-szczypanie-przez-ruedigera-to-troche-brak-szacunku</link>
-        <pubDate>Thu, 04 Jul 2024 16:03:00 GMT</pubDate>
-        <description>Pedri udzielił wywiadu Radio MARCA. Przedstawiamy najważniejsze wypowiedzi pomocnika Barcelony z tej rozmowy.</description>
     </item>
     
 </channel>
