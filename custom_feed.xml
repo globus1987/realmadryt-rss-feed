@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 09:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 09:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Real kontroluje sprawę transferu Yoro</title>
+        <link>https://www.realmadryt.pl/news/130811-relevo-real-kontroluje-sprawe-transferu-yoro</link>
+        <pubDate>Thu, 04 Jul 2024 11:48:00 GMT</pubDate>
+        <description>Wola piłkarza sprawia, że inne drużyny niż Real wypadają z wyścigu. Poza tym francuski klub jest praktycznie zmuszony do sprzedaży 18-latka.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 4 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130805-hiszpania-wygrywa-grupe</link>
         <pubDate>Wed, 03 Jul 2024 22:51:00 GMT</pubDate>
         <description>Hiszpania wygrała oba mecze w fazie grupowej i pewnie awansowała do półfinałów. Swojego rywala pozna jutro, więc zawodnicy mogą złapać oddech po rozegraniu dwóch spotkań w dwa dni.</description>
-    </item>
-    
-    <item>
-        <title>Real zakontraktował bramkarza rezerw Atlético</title>
-        <link>https://www.realmadryt.pl/news/130775-real-zakontraktowal-bramkarza-rezerw-atletico</link>
-        <pubDate>Wed, 03 Jul 2024 21:56:00 GMT</pubDate>
-        <description>Ma 19 lat, 193 centymetry wzrostu i przychodzi do Valdebebas. To kolejny ruch potwierdzający zerwanie „paktu o nieagresji” pomiędzy klubami. Sergio zacznie jako pierwszy bramkarz w Realu Madryt C.</description>
     </item>
     
 </channel>
