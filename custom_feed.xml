@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 07:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 08:25:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Pablo Ramón na radarze Betisu i Espanyolu</title>
+        <link>https://www.realmadryt.pl/news/130791-as-pablo-ramon-na-radarze-betisu-i-espanyolu</link>
+        <pubDate>Thu, 04 Jul 2024 10:04:00 GMT</pubDate>
+        <description>Jak dowiedział się AS, gracz Realu pomimo poważnej kontuzji doznanej w ostatniej fazie sezonu, nadal jest celowniku klubów Primera División.</description>
+    </item>
     
     <item>
         <title>Real i Manchester City „walczą” także na EURO 2024</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130803-oficjalnie-conmebol-przyznaje-ze-byl-karny-na-viniciusie</link>
         <pubDate>Wed, 03 Jul 2024 20:27:00 GMT</pubDate>
         <description>Południowoamerykańska konfederacja piłkarska potwierdziła w oficjalnym wideo, że sędziowie meczu Brazylii z Kolumbią powinni byli podyktować rzut karny za faul na Viníciusie. Byłaby to okazja dla Canarinhos na podwyższenie wyniku meczu na 2:0.</description>
-    </item>
-    
-    <item>
-        <title>AS: Bellingham i Brahim nie przejdą operacji barku</title>
-        <link>https://www.realmadryt.pl/news/130800-as-bellingham-i-brahim-nie-przejda-operacji-barku</link>
-        <pubDate>Wed, 03 Jul 2024 19:49:00 GMT</pubDate>
-        <description>Jude Bellingham i Brahim Díaz przez sporą część sezonu grali z urazem barku, jednak według dziennika AS obaj piłkarze nie zdecydowali się na interwencję chirurgiczną.</description>
     </item>
     
 </channel>
