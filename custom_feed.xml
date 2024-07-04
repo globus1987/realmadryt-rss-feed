@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Jul 2024 10:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 10:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan na pretemporadę Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/130813-plan-na-pretemporade-realu-madryt</link>
+        <pubDate>Thu, 04 Jul 2024 12:39:00 GMT</pubDate>
+        <description>Wielkimi krokami zbliża się początek pretemporady Realu Madryt. Znamy już niemal wszystkie szczegóły przygotowań Królewskich do sezonu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Chus Mateo 2026!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130806-marca-real-madryt-przedluzyl-umowy-pintusa-i-llopisa</link>
         <pubDate>Thu, 04 Jul 2024 05:30:00 GMT</pubDate>
         <description>Trenerzy od przygotowania fizycznego i bramkarzy pozostają niezależni względem przyszłości samego Carlo Ancelottiego. Klub podtrzymuje pełne zaufanie do tej dwójki.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130807-dzisiejsze-okladki</link>
-        <pubDate>Thu, 04 Jul 2024 00:20:00 GMT</pubDate>
-        <description>Przygotowania do meczu Hiszpanii z Niemcami i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
