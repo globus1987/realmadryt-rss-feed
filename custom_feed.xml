@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Jul 2024 03:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 03:38:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewski wyścig po Złotą Piłkę</title>
+        <link>https://www.realmadryt.pl/news/130825-krolewski-wyscig-po-zlota-pilke</link>
+        <pubDate>Fri, 05 Jul 2024 05:30:00 GMT</pubDate>
+        <description>Vinícius, Jude Bellingham, Kylian Mbappé i Toni Kroos to faworyci i jedyni kandydaci do zdobycia Złotej Piłki za sezon 2023/24. W tym momencie na czele wyścigu wydaje się być Brazylijczyk, ale żadna opcja nie jest nierealna.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130793-relevo-sergio-arribas-zostaje-w-almerii</link>
         <pubDate>Thu, 04 Jul 2024 17:45:00 GMT</pubDate>
         <description>Jeżeli nie pojawi się żadna oferta nie do odrzucenia, andaluzyjski klub będzie liczył na madrytczyka w nadchodzącym sezonie i upatrywał w nim kluczowego piłkarza w walce o awans do La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Przedłużenie kontraktu Mendy’ego stało się priorytetem Realu</title>
-        <link>https://www.realmadryt.pl/news/130823-marca-przedluzenie-kontraktu-mendy-ego-stalo-sie-priorytetem-realu</link>
-        <pubDate>Thu, 04 Jul 2024 16:54:00 GMT</pubDate>
-        <description>Znakomity sezon w wykonaniu lewego obrońcy zaowocował całkowitą zmianą jego statusu. W związku z tym klub – zgodnie z wolą Carlo Ancelottiego – chce teraz jak najszybciej zamknąć sprawę przedłużenia kontraktu Francuza.</description>
     </item>
     
 </channel>
