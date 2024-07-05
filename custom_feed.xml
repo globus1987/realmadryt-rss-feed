@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Jul 2024 18:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 18:41:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Toni Kroos zakończył karierę</title>
+        <link>https://www.realmadryt.pl/news/130847-oficjalnie-toni-kroos-zakonczyl-kariere</link>
+        <pubDate>Fri, 05 Jul 2024 20:41:00 GMT</pubDate>
+        <description>Toni Kroos ma za sobą ostatni mecz w karierze.</description>
+    </item>
     
     <item>
         <title>Anelka: Nie sądzę, że Mbappé będzie trudno zaadaptować się w Realu</title>
@@ -28,10 +35,10 @@
     </item>
     
     <item>
-        <title>Hiszpania vs Niemcy: Pierwszy piątkowy hit</title>
-        <link>https://www.realmadryt.pl/news/130842-hiszpania-vs-niemcy-pierwszy-piatkowy-hit</link>
+        <title>Hiszpania w półfinale, gospodarze poza turniejem!</title>
+        <link>https://www.realmadryt.pl/news/130842-hiszpania-w-polfinale-gospodarze-poza-turniejem</link>
         <pubDate>Fri, 05 Jul 2024 16:48:00 GMT</pubDate>
-        <description>W pierwszym ćwierćfinale Mistrzostw Europy Hiszpania remisuje z Niemcami 1:1. Na bramkę Daniego Olmo w końcówce odpowiedział Florian Wirtz.</description>
+        <description>W pierwszym ćwierćfinale Mistrzostw Europy Hiszpania wygrała po dogrywce z Niemcami 2:1. Na bramkę Daniego Olmo w końcówce odpowiedział Florian Wirtz. W dogrywce skuteczniejsza była jednak La Roja.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130838-oficjalnie-walter-tavares-2029</link>
         <pubDate>Fri, 05 Jul 2024 12:58:00 GMT</pubDate>
         <description>Real Madryt poinformował oficjalnie o przedłużenie kontraktu z gwiazdą zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Bellingham z grzywną i meczem kary w zawieszeniu</title>
-        <link>https://www.realmadryt.pl/news/130837-oficjalnie-bellingham-z-grzywna-i-meczem-kary-w-zawieszeniu</link>
-        <pubDate>Fri, 05 Jul 2024 12:44:00 GMT</pubDate>
-        <description>UEFA potwierdziła karę dla Jude'a Bellinghama za jego gesty po bramce strzelonej w ostatnim meczu EURO. Anglik zapłaci grzywnę, ale otrzymał także karę zawieszenia na jeden mecz, która zostaje zawieszona na jeden rok.</description>
     </item>
     
 </channel>
