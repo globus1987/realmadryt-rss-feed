@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Jul 2024 10:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 10:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Bellingham z grzywną i meczem kary w zawieszeniu</title>
+        <link>https://www.realmadryt.pl/news/130837-oficjalnie-bellingham-z-grzywna-i-meczem-kary-w-zawieszeniu</link>
+        <pubDate>Fri, 05 Jul 2024 12:44:00 GMT</pubDate>
+        <description>UEFA potwierdziła karę dla Jude'a Bellinghama za jego gesty po bramce strzelonej w ostatnim meczu EURO. Anglik zapłaci grzywnę, ale otrzymał także karę zawieszenia na jeden mecz, która zostaje zawieszona na jeden rok.</description>
+    </item>
     
     <item>
         <title>„Nikt w drużynie nie miał numeru do Zidane'a”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130768-real-otworzyl-swoj-szosty-sklep-w-hiszpanii</link>
         <pubDate>Thu, 04 Jul 2024 22:05:00 GMT</pubDate>
         <description>Nowy fanshop zlokalizowany jest przy Pier 1 w Maladze. Królewscy wyszli ze stacjonarną sprzedażą poza Madryt i Barcelonę.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Peter Federico piłkarzem Getafe</title>
-        <link>https://www.realmadryt.pl/news/130829-oficjalnie-peter-federico-pilkarzem-getafe</link>
-        <pubDate>Thu, 04 Jul 2024 21:23:00 GMT</pubDate>
-        <description>Królewscy poinformowali oficjalnie o odejściu piłkarza, który podpisał z Getafe czteroletni kontrakt.</description>
     </item>
     
 </channel>
