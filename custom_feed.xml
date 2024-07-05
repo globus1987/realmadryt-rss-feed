@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Jul 2024 09:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 09:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Nikt w drużynie nie miał numeru do Zidane'a”</title>
+        <link>https://www.realmadryt.pl/news/130820-nikt-w-druzynie-nie-mial-numeru-do-zidanea</link>
+        <pubDate>Fri, 05 Jul 2024 11:50:00 GMT</pubDate>
+        <description>Niedługo po wyczekiwanym 10. triumfie w Pucharze Europy Real Madryt ogłosił, że nowym szkoleniowcem Castilli zostanie Zinédine Zidane. Francuz w sezonie 2013/14 był asystentem Ancelottiego, a przejęcie przez niego drużyny rezerw miało stanowić powiew świeżości.</description>
+    </item>
     
     <item>
         <title>Relevo: Real Madryt złożył ofertę Causeurowi</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130829-oficjalnie-peter-federico-pilkarzem-getafe</link>
         <pubDate>Thu, 04 Jul 2024 21:23:00 GMT</pubDate>
         <description>Królewscy poinformowali oficjalnie o odejściu piłkarza, który podpisał z Getafe czteroletni kontrakt.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal: Piłkarz nie może rozgrywać blisko 60 meczów rocznie</title>
-        <link>https://www.realmadryt.pl/news/130828-carvajal-pilkarz-nie-moze-rozgrywac-blisko-60-meczow-rocznie</link>
-        <pubDate>Thu, 04 Jul 2024 21:01:00 GMT</pubDate>
-        <description>Dani Carvajal pojawił się na konferencji prasowej Hiszpanii w trakcie przygotowań do ćwierćfinału EURO z Niemcami. Przedstawiamy najważniejsze wypowiedzi obrońcy Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
