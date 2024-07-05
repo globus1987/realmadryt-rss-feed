@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Jul 2024 06:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 07:18:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wielki piątek</title>
+        <link>https://www.realmadryt.pl/news/130831-wielki-piatek</link>
+        <pubDate>Fri, 05 Jul 2024 09:13:00 GMT</pubDate>
+        <description>Dzisiaj w Stuttgarcie i Hamburgu odbędą się dwa hity Mistrzostw Europy. Najpierw Hiszpania zagra z Niemcami, a później Portugalia zmierzy się z Francją. Na niemieckich boiskach będziemy mogli zobaczyć siedmiu graczy Realu Madryt, ale też wiele legend, które w przeszłości były związane z Królewskimi.</description>
+    </item>
     
     <item>
         <title>Casting na ewentualnego następcę Ceballosa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130818-leupolz-chce-przyczynic-sie-do-sukcesu</link>
         <pubDate>Thu, 04 Jul 2024 19:40:00 GMT</pubDate>
         <description>Melanie Leupolz udzieliła pierwszego wywiadu dla klubowej telewizji po transferze do Realu Madryt. Przedstawiamy wypowiedzi niemieckiej pomocniczki z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Potrzebuję dobrego przygotowania fizycznego i dostanę to w Realu</title>
-        <link>https://www.realmadryt.pl/news/130826-mbappe-potrzebuje-dobrego-przygotowania-fizycznego-i-dostane-to-w-realu</link>
-        <pubDate>Thu, 04 Jul 2024 18:46:00 GMT</pubDate>
-        <description>Kylian Mbappé pojawił się na konferencji prasowej Francji przed ćwierćfinałem EURO z Portugalią. Przedstawiamy najważniejsze wypowiedzi napastnika Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
