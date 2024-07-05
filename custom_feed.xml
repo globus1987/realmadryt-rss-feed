@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Jul 2024 10:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 11:16:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Walter Tavares 2029!</title>
+        <link>https://www.realmadryt.pl/news/130838-oficjalnie-walter-tavares-2029</link>
+        <pubDate>Fri, 05 Jul 2024 12:58:00 GMT</pubDate>
+        <description>Real Madryt poinformował oficjalnie o przedłużenie kontraktu z gwiazdą zespołu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Bellingham z grzywną i meczem kary w zawieszeniu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130833-dzisiejsze-okladki</link>
         <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
         <description>Ćwierćfinał Hiszpanii z Niemcami na EURO to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real otworzył swój szósty sklep w Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/130768-real-otworzyl-swoj-szosty-sklep-w-hiszpanii</link>
-        <pubDate>Thu, 04 Jul 2024 22:05:00 GMT</pubDate>
-        <description>Nowy fanshop zlokalizowany jest przy Pier 1 w Maladze. Królewscy wyszli ze stacjonarną sprzedażą poza Madryt i Barcelonę.</description>
     </item>
     
 </channel>
