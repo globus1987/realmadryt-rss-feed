@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Jul 2024 22:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 22:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130870-dzisiejsze-okladki</link>
+        <pubDate>Sun, 07 Jul 2024 00:35:00 GMT</pubDate>
+        <description>Radość z awansu Hiszpanów to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hiszpania o krok od Igrzysk</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130860-zmarl-byly-wiceprezes-realu-madryt</link>
         <pubDate>Sat, 06 Jul 2024 15:21:00 GMT</pubDate>
         <description>Klub wystosował komunikat z kondolencjami po śmierci Juana Miguela Villara Mira.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Przeprosiny i życzenia powrotu do zdrowia dla Pedriego</title>
-        <link>https://www.realmadryt.pl/news/130861-kroos-przeprosiny-i-zyczenia-powrotu-do-zdrowia-dla-pedriego</link>
-        <pubDate>Sat, 06 Jul 2024 14:32:00 GMT</pubDate>
-        <description>Toni Kroos wystosował wpis po odpadnięciu z EURO, które oznacza także ostateczne zakończenie jego kariery piłkarskiej. Przedstawiamy pełne tłumaczenie tekstu zamieszczonego przez już byłego pomocnika Realu Madryt.</description>
     </item>
     
 </channel>
