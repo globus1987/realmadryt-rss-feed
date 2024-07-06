@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Jul 2024 07:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 08:24:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola Anglików lub Szwajcarów!</title>
+        <link>https://www.realmadryt.pl/news/130855-400-zl-za-gola-anglikow-lub-szwajcarow</link>
+        <pubDate>Sat, 06 Jul 2024 10:07:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Niełatwe zadanie dla Anglików, wielkie wyzwanie dla Turcji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130834-anelka-nie-sadze-ze-mbappe-bedzie-trudno-zaadaptowac-sie-w-realu</link>
         <pubDate>Fri, 05 Jul 2024 19:54:00 GMT</pubDate>
         <description>Nicolas Anelka, były francuski napastnik Realu, w wywiadzie dla dziennika MARCA skomentował m.in. dzisiejszy pojedynek Les Bleus w 1/4 finału EURO 2024 oraz przejście Kyliana Mbappé do zespołu Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Francja w półfinale!</title>
-        <link>https://www.realmadryt.pl/news/130845-francja-w-polfinale</link>
-        <pubDate>Fri, 05 Jul 2024 19:53:00 GMT</pubDate>
-        <description>Ponad 120 minut spotkania Portugalii z Francją nie dało rozstrzygnięcia. W rzutach karnych lepsi byli Trójkolorowi i to oni zagrają z Hiszpanią w półfinale.</description>
     </item>
     
 </channel>
