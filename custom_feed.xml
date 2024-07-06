@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Jul 2024 19:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 19:41:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Jesteś naszym bohaterem i kochamy cię ponad wszystko”</title>
+        <link>https://www.realmadryt.pl/news/130859-jestes-naszym-bohaterem-i-kochamy-cie-ponad-wszystko</link>
+        <pubDate>Sat, 06 Jul 2024 21:40:00 GMT</pubDate>
+        <description>Jessica Kroos, żona Toniego, po odpadnięciu reprezentacji Niemiec z EURO i tym samym ostatnim meczu byłego pomocnika Realu Madryt w karierze, napisała emocjonalny list na Instagramie. Przedstawiamy tłumaczenie słów partnerki legendy Królewskich.</description>
+    </item>
     
     <item>
         <title>Sushi, pierścień i Biegun Północny, czyli o regeneracji Hiszpanów</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>Holandia vs Turcja: Czy Güler wywalczy półfinał?</title>
-        <link>https://www.realmadryt.pl/news/130864-holandia-vs-turcja-czy-gueler-wywalczy-polfinal</link>
+        <title>Holandia vs Turcja: Turcja prowadzi, asysta Gülera!</title>
+        <link>https://www.realmadryt.pl/news/130864-holandia-vs-turcja-turcja-prowadzi-asysta-guelera</link>
         <pubDate>Sat, 06 Jul 2024 20:00:00 GMT</pubDate>
         <description>W ostatnim meczu ćwierćfinałowym EURO 2024 powalczą Holandia i Turcja.</description>
     </item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130812-as-niewielkie-zainteresowanie-hiszpanskich-kibicow-superpucharem-europy</link>
         <pubDate>Sat, 06 Jul 2024 13:09:00 GMT</pubDate>
         <description>Data (14 sierpnia) utrudnia Hiszpanom wylot do Polski na finałowy mecz z włoską Atalantą. Ceny biletów na spotkanie są umiarkowane: wahają się od 30 do 130 euro.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Eva Navarro piłkarką Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130858-oficjalnie-eva-navarro-pilkarka-realu-madryt</link>
-        <pubDate>Sat, 06 Jul 2024 12:15:00 GMT</pubDate>
-        <description>Real Madryt dokonał piątego w tym okienku transferu do drużyny kobiet. Jak informują na swojej oficjalnej stronie Królewscy, do klubu sprowadzono Evę Navarro. Napastniczka dołącza do zespołu po wypełnieniu kontraktu z Atlético Madryt.</description>
     </item>
     
 </channel>
