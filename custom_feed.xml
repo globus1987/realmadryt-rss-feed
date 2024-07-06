@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Jul 2024 15:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 15:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Sami Khedira wraca do Madrytu</title>
+        <link>https://www.realmadryt.pl/news/130836-relevo-sami-khedira-wraca-do-madrytu</link>
+        <pubDate>Sat, 06 Jul 2024 17:50:00 GMT</pubDate>
+        <description>Niemiec, związany z nową piłkarką Realu Melanie Leupolz, jest właścicielem marki kawy i regularnie występuje w telewizji. Teraz znów ma wrócić do stolicy Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Anglia vs Szwajcaria: Jude walczy o półfinał!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130853-kartka-z-kalendarza-6-lipca</link>
         <pubDate>Sat, 06 Jul 2024 10:59:00 GMT</pubDate>
         <description>Urodziny brazylijskiego piłkarza, początek drugiego etapu Fabio Capello w Realu Madryt i prezentacja jednego z największych w historii. Co działo się 6 lipca?</description>
-    </item>
-    
-    <item>
-        <title>400 zł za gola Anglików lub Szwajcarów!</title>
-        <link>https://www.realmadryt.pl/news/130855-400-zl-za-gola-anglikow-lub-szwajcarow</link>
-        <pubDate>Sat, 06 Jul 2024 10:07:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
