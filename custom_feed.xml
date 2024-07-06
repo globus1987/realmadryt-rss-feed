@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Jul 2024 18:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 18:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sushi, pierścień i Biegun Północny, czyli o regeneracji Hiszpanów</title>
+        <link>https://www.realmadryt.pl/news/130865-sushi-pierscien-i-biegun-polnocny-czyli-o-regeneracji-hiszpanow</link>
+        <pubDate>Sat, 06 Jul 2024 20:49:00 GMT</pubDate>
+        <description>El País pochyla się nad aspektem regeneracji w reprezentacji Hiszpanii po trudnym boju z Niemcami zakończonym dogrywką. Przygotowania do wtorkowego półfinału z Francją rozpoczęły się już w szatni po spotkaniu z gospodarzami od zjedzenia sushi, nałożenia specjalnych pierścieni i wycieczki na Biegun Północny.</description>
+    </item>
     
     <item>
         <title>Holandia vs Turcja: Czy Güler wywalczy półfinał?</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Anglia vs Szwajcaria: Jude walczy o półfinał!</title>
-        <link>https://www.realmadryt.pl/news/130862-anglia-vs-szwajcaria-jude-walczy-o-polfinal</link>
+        <title>Anglia w półfinale EURO!</title>
+        <link>https://www.realmadryt.pl/news/130862-anglia-w-polfinale-euro</link>
         <pubDate>Sat, 06 Jul 2024 16:58:00 GMT</pubDate>
-        <description>W pierwszym dzisiejszym ćwierćfinale Mistrzostw Europy reprezentacja Anglii zmierzy się w Düsseldorfie ze Szwajcarią.</description>
+        <description>Po 120 minutach Anglia zremisowała ze Szwajcarią 1:1. Do wyłonienia zwycięzcy potrzebne były rzuty karne, w których lepsi okazali się Anglicy, którzy awansowali do półfinału. Jude Bellingham rozegrał pełny mecz i wykorzystał swoją jedenastkę.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130858-oficjalnie-eva-navarro-pilkarka-realu-madryt</link>
         <pubDate>Sat, 06 Jul 2024 12:15:00 GMT</pubDate>
         <description>Real Madryt dokonał piątego w tym okienku transferu do drużyny kobiet. Jak informują na swojej oficjalnej stronie Królewscy, do klubu sprowadzono Evę Navarro. Napastniczka dołącza do zespołu po wypełnieniu kontraktu z Atlético Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Pau Quesada opuszcza Real Madryt C</title>
-        <link>https://www.realmadryt.pl/news/130852-pau-quesada-opuszcza-real-madryt-c</link>
-        <pubDate>Sat, 06 Jul 2024 11:52:00 GMT</pubDate>
-        <description>Na trenerskich posadach w szkółce dojdzie do zmian. Pau Quesada przenosi się do Torino, a to wywoła efekt domina w Valdebebas.</description>
     </item>
     
 </channel>
