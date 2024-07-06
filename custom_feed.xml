@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Jul 2024 09:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 09:53:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pau Quesada opuszcza Real Madryt C</title>
+        <link>https://www.realmadryt.pl/news/130852-pau-quesada-opuszcza-real-madryt-c</link>
+        <pubDate>Sat, 06 Jul 2024 11:52:00 GMT</pubDate>
+        <description>Na trenerskich posadach w szkółce dojdzie do zmian. Pau Quesada przenosi się do Torino, a to wywoła efekt domina w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 6 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130848-carvajal-nie-zagra-w-polfinale</link>
         <pubDate>Fri, 05 Jul 2024 20:50:00 GMT</pubDate>
         <description>Dani Carvajal otrzymał dwie żółte kartki w meczu z Niemcami i nie zagra w półfinale z Portugalią lub Francją. Będzie jednak dostępny na ewentualny finał, jeżeli Hiszpania do niego awansuje.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Toni Kroos zakończył karierę</title>
-        <link>https://www.realmadryt.pl/news/130847-oficjalnie-toni-kroos-zakonczyl-kariere</link>
-        <pubDate>Fri, 05 Jul 2024 20:41:00 GMT</pubDate>
-        <description>Toni Kroos ma za sobą ostatni mecz w karierze.</description>
     </item>
     
 </channel>
