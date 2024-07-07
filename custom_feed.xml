@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 10:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 10:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pedri do Kroosa: To jest futbol i takie rzeczy się zdarzają</title>
+        <link>https://www.realmadryt.pl/news/130880-pedri-do-kroosa-to-jest-futbol-i-takie-rzeczy-sie-zdarzaja</link>
+        <pubDate>Sun, 07 Jul 2024 12:44:00 GMT</pubDate>
+        <description>Pomocnik Barcelony wystosował wpis po swojej kontuzji na EURO. Hiszpan skierował też słowa do Toniego Kroosa.</description>
+    </item>
     
     <item>
         <title>Kroos: Dziękuję i nie ma za co</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130870-dzisiejsze-okladki</link>
         <pubDate>Sun, 07 Jul 2024 00:35:00 GMT</pubDate>
         <description>Radość z awansu Hiszpanów to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hiszpania o krok od Igrzysk</title>
-        <link>https://www.realmadryt.pl/news/130868-hiszpania-o-krok-od-igrzysk</link>
-        <pubDate>Sat, 06 Jul 2024 22:59:00 GMT</pubDate>
-        <description>Hiszpania pokonała Finlandię w półfinałowej rywalizacji o wyjazd na Igrzyska Olimpijskie. W finale na podopiecznych Sergio Scariolo czekają Bahamy.</description>
     </item>
     
 </channel>
