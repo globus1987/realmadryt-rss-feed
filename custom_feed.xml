@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 12:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 13:21:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Opcje dla Obradora</title>
+        <link>https://www.realmadryt.pl/news/130875-opcje-dla-obradora</link>
+        <pubDate>Sun, 07 Jul 2024 15:05:00 GMT</pubDate>
+        <description>Rafael Obrador musi podjąć kluczową decyzję co do swojej przyszłości – albo zostaje w Castilli, albo szuka pierwszoligowej gry w innym klubie. W Hiszpanii zainteresowanie nim wykazują Espanyol i Las Palmas, a teraz z zagranicy dołączyło również Lazio.</description>
+    </item>
     
     <item>
         <title>Llull: Nie widzę siebie w innym miejscu niż Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130871-terminarz-1-2-finalu-euro-6-reprezentantow-realu-ciagle-w-grze</link>
         <pubDate>Sun, 07 Jul 2024 07:00:00 GMT</pubDate>
         <description>Zakończyła się faza 1/4 finału EURO 2024. Teraz w grze pozostaje, nie wliczając odchodzących piłkarzy, 6 zawodników Królewskich. Kolejne spotkanie we wtorek.</description>
-    </item>
-    
-    <item>
-        <title>Urugwaj w półfinale Copa América po rzutach karnych!</title>
-        <link>https://www.realmadryt.pl/news/130857-urugwaj-w-polfinale-copa-america-po-rzutach-karnych</link>
-        <pubDate>Sun, 07 Jul 2024 01:51:00 GMT</pubDate>
-        <description>90 minut potyczki Urugwaju z Brazylią w ćwierćfinale Copa América nie przyniosło rozstrzygnięcia. W rzutach karnych lepsi byli Fede Valverde i spółka. W półfinale czeka na nich Kolumbia.</description>
     </item>
     
 </channel>
