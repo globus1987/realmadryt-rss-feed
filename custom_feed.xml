@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 07:18:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 07:38:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 tysięcy euro od Barcelony za Juana Núñeza</title>
+        <link>https://www.realmadryt.pl/news/130849-300-tysiecy-euro-od-barcelony-za-juana-nuneza</link>
+        <pubDate>Sun, 07 Jul 2024 09:33:00 GMT</pubDate>
+        <description>Juan Núñez zostanie w najbliższym czasie zawodnikiem Barcelony. Królewscy zrzekli się praw do tego gracza, otrzymując za to ponad 300 tysięcy euro.</description>
+    </item>
     
     <item>
         <title>Dziesięć lat bez Di Stéfano</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130865-sushi-pierscien-i-biegun-polnocny-czyli-o-regeneracji-hiszpanow</link>
         <pubDate>Sat, 06 Jul 2024 20:49:00 GMT</pubDate>
         <description>El País pochyla się nad aspektem regeneracji w reprezentacji Hiszpanii po trudnym boju z Niemcami zakończonym dogrywką. Przygotowania do wtorkowego półfinału z Francją rozpoczęły się już w szatni po spotkaniu z gospodarzami od zjedzenia sushi, nałożenia specjalnych pierścieni i wycieczki na Biegun Północny.</description>
-    </item>
-    
-    <item>
-        <title>Holandia w półfinale, Arda wraca do domu!</title>
-        <link>https://www.realmadryt.pl/news/130864-holandia-w-polfinale-arda-wraca-do-domu</link>
-        <pubDate>Sat, 06 Jul 2024 20:00:00 GMT</pubDate>
-        <description>W ostatnim meczu ćwierćfinałowym EURO 2024 Holandia odrobiła straty i wygrała 2:1 z Turcją, awansując do półfinału.</description>
     </item>
     
 </channel>
