@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 22:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 22:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130894-dzisiejsze-okladki</link>
+        <pubDate>Mon, 08 Jul 2024 00:28:00 GMT</pubDate>
+        <description>Awans koszykarzy na Igrzyska, przygotowania Hiszpanów do półfinału EURO i kontuzja Ronalda Araújo to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hiszpania zagra na Igrzyskach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130884-real-madryt-oburzony-kampania-peruwianskiej-policji</link>
         <pubDate>Sun, 07 Jul 2024 17:00:00 GMT</pubDate>
         <description>Na peruwiańskim filmiku informacyjnym o molestowaniu seksualnym agresora ubrano w... podrobioną koszulkę Realu Madryt. Stołeczne ABC podaje, że Królewscy są oburzeni.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Lille otworzyło się na rozmowy ws. sprzedaży Yoro</title>
-        <link>https://www.realmadryt.pl/news/130883-relevo-lille-otworzylo-sie-na-rozmowy-ws-sprzedazy-yoro</link>
-        <pubDate>Sun, 07 Jul 2024 16:21:00 GMT</pubDate>
-        <description>Francuzi zrozumieli, że muszą wejść do negocjacji z Realem Madryt. Pozycja Królewskich jest bardzo dobra i wszystko ma zmierzać do transferu.</description>
     </item>
     
 </channel>
