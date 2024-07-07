@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 21:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 21:39:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hiszpania zagra na Igrzyskach</title>
+        <link>https://www.realmadryt.pl/news/130893-hiszpania-zagra-na-igrzyskach</link>
+        <pubDate>Sun, 07 Jul 2024 23:27:00 GMT</pubDate>
+        <description>Rudy Fernández zapisał kolejną kartę w historii koszykówki. Został pierwszym zawodnikiem, który weźmie udział w szóstych Igrzyskach Olimpijskich. Do Paryża pojedzie również Sergio Llull.</description>
+    </item>
     
     <item>
         <title>Chorwacja nie pojedzie na Igrzyska</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130883-relevo-lille-otworzylo-sie-na-rozmowy-ws-sprzedazy-yoro</link>
         <pubDate>Sun, 07 Jul 2024 16:21:00 GMT</pubDate>
         <description>Francuzi zrozumieli, że muszą wejść do negocjacji z Realem Madryt. Pozycja Królewskich jest bardzo dobra i wszystko ma zmierzać do transferu.</description>
-    </item>
-    
-    <item>
-        <title>Opcje dla Obradora</title>
-        <link>https://www.realmadryt.pl/news/130875-opcje-dla-obradora</link>
-        <pubDate>Sun, 07 Jul 2024 15:05:00 GMT</pubDate>
-        <description>Rafael Obrador musi podjąć kluczową decyzję co do swojej przyszłości – albo zostaje w Castilli, albo szuka pierwszoligowej gry w innym klubie. W Hiszpanii zainteresowanie nim wykazują Espanyol i Las Palmas, a teraz z zagranicy dołączyło również Lazio.</description>
     </item>
     
 </channel>
