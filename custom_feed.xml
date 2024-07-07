@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 06:26:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 06:41:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziesięć lat bez Di Stéfano</title>
+        <link>https://www.realmadryt.pl/news/130874-dziesiec-lat-bez-di-stefano</link>
+        <pubDate>Sun, 07 Jul 2024 08:41:00 GMT</pubDate>
+        <description>7 lipca 2014 roku odszedł były piłkarz, trener, legenda i honorowy prezes klubu jego życia.</description>
+    </item>
     
     <item>
         <title>Niejasna przyszłość Łunina i wielka oferta dla Kepy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130864-holandia-w-polfinale-arda-wraca-do-domu</link>
         <pubDate>Sat, 06 Jul 2024 20:00:00 GMT</pubDate>
         <description>W ostatnim meczu ćwierćfinałowym EURO 2024 Holandia odrobiła straty i wygrała 2:1 z Turcją, awansując do półfinału.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Sami Khedira wraca do Madrytu</title>
-        <link>https://www.realmadryt.pl/news/130836-relevo-sami-khedira-wraca-do-madrytu</link>
-        <pubDate>Sat, 06 Jul 2024 17:50:00 GMT</pubDate>
-        <description>Niemiec, związany z nową piłkarką Realu Melanie Leupolz, jest właścicielem marki kawy i regularnie występuje w telewizji. Teraz znów ma wrócić do stolicy Hiszpanii.</description>
     </item>
     
 </channel>
