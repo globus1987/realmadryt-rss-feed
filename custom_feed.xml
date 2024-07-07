@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 08:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 08:38:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 7 lipca</title>
+        <link>https://www.realmadryt.pl/news/130873-kartka-z-kalendarza-7-lipca</link>
+        <pubDate>Sun, 07 Jul 2024 10:36:00 GMT</pubDate>
+        <description>Śmierć Alfredo Di Stéfano, urodziny trenera pań i prezentacja środkowego obrońcy. Co działo się 7 lipca?</description>
+    </item>
     
     <item>
         <title>300 tysięcy euro od Barcelony za Juana Núñeza</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130859-jestes-naszym-bohaterem-i-kochamy-cie-ponad-wszystko</link>
         <pubDate>Sat, 06 Jul 2024 21:40:00 GMT</pubDate>
         <description>Jessica Kroos, żona Toniego, po odpadnięciu reprezentacji Niemiec z EURO i tym samym ostatnim meczu byłego pomocnika Realu Madryt w karierze, napisała emocjonalny list na Instagramie. Przedstawiamy tłumaczenie słów partnerki legendy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Sushi, pierścień i Biegun Północny, czyli o regeneracji Hiszpanów</title>
-        <link>https://www.realmadryt.pl/news/130865-sushi-pierscien-i-biegun-polnocny-czyli-o-regeneracji-hiszpanow</link>
-        <pubDate>Sat, 06 Jul 2024 20:49:00 GMT</pubDate>
-        <description>El País pochyla się nad aspektem regeneracji w reprezentacji Hiszpanii po trudnym boju z Niemcami zakończonym dogrywką. Przygotowania do wtorkowego półfinału z Francją rozpoczęły się już w szatni po spotkaniu z gospodarzami od zjedzenia sushi, nałożenia specjalnych pierścieni i wycieczki na Biegun Północny.</description>
     </item>
     
 </channel>
