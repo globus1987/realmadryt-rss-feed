@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Jul 2024 05:38:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 05:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niejasna przyszłość Łunina i wielka oferta dla Kepy</title>
+        <link>https://www.realmadryt.pl/news/130876-niejasna-przyszlosc-lunina-i-wielka-oferta-dla-kepy</link>
+        <pubDate>Sun, 07 Jul 2024 07:50:00 GMT</pubDate>
+        <description>Real Madryt jest bardzo spokojny w kwestii obsady bramki na kolejny sezon. Thibaut Courtois będzie numerem jeden, a umowa Andrija Łunina obowiązuje jeszcze przez rok. Sytuacja tego drugiego nie jest jednak taka prosta.</description>
+    </item>
     
     <item>
         <title>Terminarz 1/2 finału EURO: 6 reprezentantów Realu ciągle w grze</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130836-relevo-sami-khedira-wraca-do-madrytu</link>
         <pubDate>Sat, 06 Jul 2024 17:50:00 GMT</pubDate>
         <description>Niemiec, związany z nową piłkarką Realu Melanie Leupolz, jest właścicielem marki kawy i regularnie występuje w telewizji. Teraz znów ma wrócić do stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Anglia w półfinale EURO!</title>
-        <link>https://www.realmadryt.pl/news/130862-anglia-w-polfinale-euro</link>
-        <pubDate>Sat, 06 Jul 2024 16:58:00 GMT</pubDate>
-        <description>Po 120 minutach Anglia zremisowała ze Szwajcarią 1:1. Do wyłonienia zwycięzcy potrzebne były rzuty karne, w których lepsi okazali się Anglicy, którzy awansowali do półfinału. Jude Bellingham rozegrał pełny mecz i wykorzystał swoją jedenastkę.</description>
     </item>
     
 </channel>
