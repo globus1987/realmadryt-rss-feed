@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Jul 2024 19:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 19:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Rysowaliśmy linie na oko, to partactwo”</title>
+        <link>https://www.realmadryt.pl/news/130910-rysowalismy-linie-na-oko-to-partactwo</link>
+        <pubDate>Mon, 08 Jul 2024 21:52:00 GMT</pubDate>
+        <description>La Liga od nowego sezonu będzie posiadać Półautomatyczną Technologię Spalonego. Przez ostatnich 6 lat od wejścia VAR-u korzystała z, jak to określają sami sędziowie, bardzo podstawowego narzędzia i w praktyce wyznaczali spalone na oko.</description>
+    </item>
     
     <item>
         <title>Kilku wychowanków ma szansę na wyjazd do USA</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130908-rafa-marin-coraz-blizej-transferu</link>
         <pubDate>Mon, 08 Jul 2024 15:55:00 GMT</pubDate>
         <description>Po udanym wypożyczeniu Rafa Marín wyląduje w Neapolu. Wszystko wskazuje na to, że od podpisania umowy z nowym zespołem dzielą go dni, jeśli nie godziny.</description>
-    </item>
-    
-    <item>
-        <title>Real rządzi również w erze VAR-u</title>
-        <link>https://www.realmadryt.pl/news/130903-real-rzadzi-rowniez-w-erze-var-u</link>
-        <pubDate>Mon, 08 Jul 2024 15:20:00 GMT</pubDate>
-        <description>Od czasu wprowadzenia systemu VAR do La Ligi Real Madryt zdobył 12 pucharów i jest najbardziej utytułowanym hiszpańskim klubem. Daleko za plecami Królewskich znajduje się FC Barcelona (5 pucharów). W Europie rządzi City, które zdobyło 15 tytułów.</description>
     </item>
     
 </channel>
