@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Jul 2024 21:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2024 22:19:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130917-dzisiejsze-okladki</link>
+        <pubDate>Tue, 09 Jul 2024 00:00:00 GMT</pubDate>
+        <description>Półfinał EURO między Hiszpanią a Francją to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Rysowaliśmy linie na oko, to partactwo”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130906-znamy-nazwiska-sedziow-na-polfinaly-euro</link>
         <pubDate>Mon, 08 Jul 2024 16:40:00 GMT</pubDate>
         <description>UEFA podała nazwiska arbitrów, którzy poprowadzą spotkania Hiszpanii z Francją i Anglii z Holandią. Federacja postawiła na zespoły ze Słowenii i Niemiec.</description>
-    </item>
-    
-    <item>
-        <title>Rafa Marín coraz bliżej transferu</title>
-        <link>https://www.realmadryt.pl/news/130908-rafa-marin-coraz-blizej-transferu</link>
-        <pubDate>Mon, 08 Jul 2024 15:55:00 GMT</pubDate>
-        <description>Po udanym wypożyczeniu Rafa Marín wyląduje w Neapolu. Wszystko wskazuje na to, że od podpisania umowy z nowym zespołem dzielą go dni, jeśli nie godziny.</description>
     </item>
     
 </channel>
