@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Jul 2024 07:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 07:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla poznała rywali na nowy sezon</title>
+        <link>https://www.realmadryt.pl/news/130902-castilla-poznala-rywali-na-nowy-sezon</link>
+        <pubDate>Tue, 09 Jul 2024 09:42:00 GMT</pubDate>
+        <description>W sezonie 2024/25 Castilla trafiła do grupy 2. Primera Federación. Jest ona złożona z zespołów ze środkowej i południowej Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Relevo: Florentino Pérez poważnie rozważa start w swoich ostatnich wyborach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130905-real-madryt-c-poznal-rywali-na-nowy-sezon</link>
         <pubDate>Mon, 08 Jul 2024 19:20:00 GMT</pubDate>
         <description>Real Madryt C w nowym sezonie będzie rywalizował na czwartym poziomie rozgrywek. Królewscy poznali już swoich przeciwników.</description>
-    </item>
-    
-    <item>
-        <title>AS: Wkrótce spotkanie z Mendesem w sprawie Łunina</title>
-        <link>https://www.realmadryt.pl/news/130904-as-wkrotce-spotkanie-z-mendesem-w-sprawie-lunina</link>
-        <pubDate>Mon, 08 Jul 2024 18:35:00 GMT</pubDate>
-        <description>Agent bramkarza w tym tygodniu pojawi się w Madrycie, by określić przyszłość swojego klienta. Z kolei nowym rezerwowym golkiperem Realu mógłby zostać Diogo Costa z FC Porto.</description>
     </item>
     
 </channel>
