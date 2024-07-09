@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Jul 2024 08:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 08:41:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 9 lipca</title>
+        <link>https://www.realmadryt.pl/news/130920-kartka-z-kalendarza-9-lipca</link>
+        <pubDate>Tue, 09 Jul 2024 10:33:00 GMT</pubDate>
+        <description>Prezentacja dwóch francuskich legend, ogłoszenie Bernda Schustera jako trenera Realu Madryt i ostatni mecz w karierze Zidane'a. Co działo się 9 lipca?</description>
+    </item>
     
     <item>
         <title>Castilla poznała rywali na nowy sezon</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130898-pieciu-hiszpanow-w-planie-antymbappe</link>
         <pubDate>Mon, 08 Jul 2024 20:10:00 GMT</pubDate>
         <description>Nowy gracz Realu Madryt potrafił osiągnąć na tym EURO prędkość 36,5 km/h. Jesúsowi Navasowi, który zastąpi zawieszonego Daniego Carvajala, zmierzono maksymalnie 32,6 km/h. To wymusza ustawienie drużyny pod pomoc prawemu obrońcy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt C poznał rywali na nowy sezon</title>
-        <link>https://www.realmadryt.pl/news/130905-real-madryt-c-poznal-rywali-na-nowy-sezon</link>
-        <pubDate>Mon, 08 Jul 2024 19:20:00 GMT</pubDate>
-        <description>Real Madryt C w nowym sezonie będzie rywalizował na czwartym poziomie rozgrywek. Królewscy poznali już swoich przeciwników.</description>
     </item>
     
 </channel>
