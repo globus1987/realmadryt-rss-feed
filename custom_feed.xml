@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Jul 2024 22:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 22:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130939-dzisiejsze-okladki</link>
+        <pubDate>Wed, 10 Jul 2024 00:48:00 GMT</pubDate>
+        <description>Awans Hiszpanii do finału EURO to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ekwadorski Robinho, który marzył o Ajaksie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130931-vinicius-tym-razem-to-moja-wina-przepraszam</link>
         <pubDate>Tue, 09 Jul 2024 15:00:00 GMT</pubDate>
         <description>Vinícius Júnior wstawił wpis na Instagramie dotyczący odpadnięcia Brazylii z Copa América. Przedstawiamy jego pełne tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Łunin stawi się 15 lipca w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/130927-relevo-lunin-stawi-sie-15-lipca-w-valdebebas</link>
-        <pubDate>Tue, 09 Jul 2024 14:10:00 GMT</pubDate>
-        <description>Ukraiński bramkarz wciąż nie odpowiedział na propozycję przedłużenia kontraktu do 2029 roku. Łunin przekazał klubowi, że stawi się na początek pretemporady, jednak jego otoczenie ma naciskać na odejście.</description>
     </item>
     
 </channel>
