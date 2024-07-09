@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Jul 2024 13:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 14:18:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Die Presse: Kontuzja Alaby poważniejsza niż informowano</title>
+        <link>https://www.realmadryt.pl/news/130933-die-presse-kontuzja-alaby-powazniejsza-niz-informowano</link>
+        <pubDate>Tue, 09 Jul 2024 16:07:00 GMT</pubDate>
+        <description>Wiedeński dziennik informuje, że David Alaba poza zerwaniem więzadła krzyżowego przedniego lewego kolana i uszkodzeniem łąkotki doznał też uszkodzenia chrząstki stawowej. Jego powrót spodziewany jest na początku przyszłego roku.</description>
+    </item>
     
     <item>
         <title>Wiele trenerskich zmian w szkółce</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130902-castilla-poznala-rywali-na-nowy-sezon</link>
         <pubDate>Tue, 09 Jul 2024 09:42:00 GMT</pubDate>
         <description>W sezonie 2024/25 Castilla trafiła do grupy 2. Primera Federación. Jest ona złożona z zespołów ze środkowej i południowej Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Florentino Pérez poważnie rozważa start w swoich ostatnich wyborach</title>
-        <link>https://www.realmadryt.pl/news/130915-relevo-florentino-perez-powaznie-rozwaza-start-w-swoich-ostatnich-wyborach</link>
-        <pubDate>Tue, 09 Jul 2024 08:48:00 GMT</pubDate>
-        <description>77-latek przyznał w rozmowie z bliskimi osobami, że nie wyklucza startu w wyborach na prezesa Realu Madryt w 2025 roku.</description>
     </item>
     
 </channel>
