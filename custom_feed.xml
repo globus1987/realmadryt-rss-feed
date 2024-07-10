@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Jul 2024 11:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 12:38:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real w niepewności w sprawie Mbappé</title>
+        <link>https://www.realmadryt.pl/news/130947-real-w-niepewnosci-w-sprawie-mbappe</link>
+        <pubDate>Wed, 10 Jul 2024 14:09:00 GMT</pubDate>
+        <description>Francuz zostanie dokładnie przebadany w przyszły wtorek przez madryckich lekarzy i dopiero wtedy okaże się, czy będzie musiał poddać się operacji.</description>
+    </item>
     
     <item>
         <title>Gerrard: Miałem ofertę z Realu Madryt, ale nie żałuję</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130940-mbappe-potrzebuje-odpoczynku-i-dobrych-przygotowan</link>
         <pubDate>Wed, 10 Jul 2024 01:16:00 GMT</pubDate>
         <description>Kylian Mbappé po porażce z Hiszpanią w półfinale EURO pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi nowego gracza Realu Madryt do zgromadzonych dziennikarzy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/130939-dzisiejsze-okladki</link>
-        <pubDate>Wed, 10 Jul 2024 00:48:00 GMT</pubDate>
-        <description>Awans Hiszpanii do finału EURO to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
