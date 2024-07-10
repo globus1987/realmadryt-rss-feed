@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Jul 2024 12:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 13:01:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prezes Francuskiej Federacji: Deschamps będzie kontynuował swoją misję</title>
+        <link>https://www.realmadryt.pl/news/130948-prezes-francuskiej-federacji-deschamps-bedzie-kontynuowal-swoja-misje</link>
+        <pubDate>Wed, 10 Jul 2024 15:00:00 GMT</pubDate>
+        <description>Philippe Diallo, prezes Francuskiej Federacji Piłkarskiej, udzielił wywiadu dziennikowi L’Équipe i wyraźnie dał do zrozumienia, że nie zamierza rozstawać się z obecnym szkoleniowcem reprezentacji.</description>
+    </item>
     
     <item>
         <title>Real w niepewności w sprawie Mbappé</title>
         <link>https://www.realmadryt.pl/news/130947-real-w-niepewnosci-w-sprawie-mbappe</link>
         <pubDate>Wed, 10 Jul 2024 14:09:00 GMT</pubDate>
-        <description>Francuz zostanie dokładnie przebadany w przyszły wtorek przez madryckich lekarzy i dopiero wtedy okaże się, czy będzie musiał poddać się operacji.</description>
+        <description>Francuz zostanie dokładnie przebadany w przyszły wtorek przez madryckich lekarzy i dopiero wtedy okaże się, czy będzie musiał poddać się operacji nosa.</description>
     </item>
     
     <item>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130942-argentyna-w-finale-copa-america-davies-zszedl-z-kontuzja</link>
         <pubDate>Wed, 10 Jul 2024 03:54:00 GMT</pubDate>
         <description>Argentyna bez większych problemów pokonała Kanadę w półfinale Copa América i awansowała do finału. W rozgrywkach pozostaje Fede Valverde, który wystąpi w półfinale przeciwko Kolumbii. W meczu z Argentyną kontuzji doznał Alphonso Davies, którym interesuje się Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Potrzebuję odpoczynku i dobrych przygotowań</title>
-        <link>https://www.realmadryt.pl/news/130940-mbappe-potrzebuje-odpoczynku-i-dobrych-przygotowan</link>
-        <pubDate>Wed, 10 Jul 2024 01:16:00 GMT</pubDate>
-        <description>Kylian Mbappé po porażce z Hiszpanią w półfinale EURO pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi nowego gracza Realu Madryt do zgromadzonych dziennikarzy.</description>
     </item>
     
 </channel>
