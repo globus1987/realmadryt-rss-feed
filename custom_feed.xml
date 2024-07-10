@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Jul 2024 22:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 23:19:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fede Valverde walczy o finał Copa América</title>
+        <link>https://www.realmadryt.pl/news/130962-fede-valverde-walczy-o-final-copa-america</link>
+        <pubDate>Thu, 11 Jul 2024 00:56:00 GMT</pubDate>
+        <description>O godzinie 2:00 rozpocznie się drugi półfinał Copa América, w którym Urugwaj Fede Valverde zmierzy się z Kolumbią.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130950-oficjalnie-zmiany-numerow-pilkarzy-realu-madryt</link>
         <pubDate>Wed, 10 Jul 2024 15:19:00 GMT</pubDate>
         <description>Klub wystosował oficjalny komunikat w sprawie zmian w numerach na koszulkach w pierwszej drużynie Realu Madryt. Ciągle niepotwierdzony zostaje numer Endricka, chociaż spekulowano, że przejmie „16”.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Prezentacja Kyliana Mbappé w najbliższy wtorek</title>
-        <link>https://www.realmadryt.pl/news/130949-oficjalnie-prezentacja-kyliana-mbappe-w-najblizszy-wtorek</link>
-        <pubDate>Wed, 10 Jul 2024 15:08:00 GMT</pubDate>
-        <description>Real Madryt potwierdził oficjalnie, kiedy i o której godzinie francuski zawodnik będzie mógł przywitać się z kibicami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
