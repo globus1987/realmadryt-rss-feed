@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Jul 2024 22:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 22:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130961-dzisiejsze-okladki</link>
+        <pubDate>Thu, 11 Jul 2024 00:43:00 GMT</pubDate>
+        <description>Awans Anglii do finału EURO i pochwały dla Lamine'a Yamala to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Rodri i Carvajal zasługują na Złotą Piłkę tak samo jak Vini i Bellingham”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130949-oficjalnie-prezentacja-kyliana-mbappe-w-najblizszy-wtorek</link>
         <pubDate>Wed, 10 Jul 2024 15:08:00 GMT</pubDate>
         <description>Real Madryt potwierdził oficjalnie, kiedy i o której godzinie francuski zawodnik będzie mógł przywitać się z kibicami na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Prezes Francuskiej Federacji: Deschamps będzie kontynuował swoją misję</title>
-        <link>https://www.realmadryt.pl/news/130948-prezes-francuskiej-federacji-deschamps-bedzie-kontynuowal-swoja-misje</link>
-        <pubDate>Wed, 10 Jul 2024 15:00:00 GMT</pubDate>
-        <description>Philippe Diallo, prezes Francuskiej Federacji Piłkarskiej, udzielił wywiadu dziennikowi L’Équipe i wyraźnie dał do zrozumienia, że nie zamierza rozstawać się z obecnym szkoleniowcem reprezentacji.</description>
     </item>
     
 </channel>
