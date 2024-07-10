@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Jul 2024 06:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 07:20:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwóch chętnych, jedno miejsce</title>
+        <link>https://www.realmadryt.pl/news/130937-dwoch-chetnych-jedno-miejsce</link>
+        <pubDate>Wed, 10 Jul 2024 09:11:00 GMT</pubDate>
+        <description>Dzisiaj w drugim półfinale Mistrzostw Europy Anglia Jude'a Bellinghama zagra z reprezentacją Holandii.</description>
+    </item>
     
     <item>
         <title>400 zł za gola Holendrów lub Anglików!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130887-gwiazdor-castilli-ktoremu-nie-udalo-sie-w-celcie</link>
         <pubDate>Tue, 09 Jul 2024 18:28:00 GMT</pubDate>
         <description>Wychowanek Realu wkrótce zakończy swoją przygodę w klubie z północy Hiszpanii. Okres ten był naznaczony brakiem minut i wypożyczeniami.</description>
-    </item>
-    
-    <item>
-        <title>Deschamps: Nudzi cię nasza gra? Obejrzyj coś innego</title>
-        <link>https://www.realmadryt.pl/news/130935-deschamps-nudzi-cie-nasza-gra-obejrzyj-cos-innego</link>
-        <pubDate>Tue, 09 Jul 2024 17:37:00 GMT</pubDate>
-        <description>Selekcjoner Francji na konferencji prasowej przed dzisiejszym półfinałem odpowiedział na zarzuty o nudną grę swojej reprezentacji.</description>
     </item>
     
 </channel>
