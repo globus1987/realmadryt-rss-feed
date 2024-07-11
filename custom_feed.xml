@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Jul 2024 04:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 05:20:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Dziękuję Watkinsowi, bo nie wiem, czy miałem siły na kolejne pół godziny</title>
+        <link>https://www.realmadryt.pl/news/130963-bellingham-dziekuje-watkinsowi-bo-nie-wiem-czy-mialem-sily-na-kolejne-pol-godziny</link>
+        <pubDate>Thu, 11 Jul 2024 07:00:00 GMT</pubDate>
+        <description>Jude Bellingham udzielił wywiadu telewizji ITV po półfinale EURO z Holandią. Przedstawiamy wypowiedzi pomocnika Realu Madryt z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Kolumbia w finale Copa América</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130932-dehispanizacja-a-normy-uefa</link>
         <pubDate>Wed, 10 Jul 2024 16:15:00 GMT</pubDate>
         <description>Królewscy muszą przestrzegać norm UEFA dotyczących wychowanków, aby móc zarejestrować pełną 25-osobową kadrę na kolejną edycję Ligi Mistrzów. W tym wszystkim nie pomaga postępujący proces dehispanizacji w pierwszym zespole Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Zmiany numerów piłkarzy Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130950-oficjalnie-zmiany-numerow-pilkarzy-realu-madryt</link>
-        <pubDate>Wed, 10 Jul 2024 15:19:00 GMT</pubDate>
-        <description>Klub wystosował oficjalny komunikat w sprawie zmian w numerach na koszulkach w pierwszej drużynie Realu Madryt. Ciągle niepotwierdzony zostaje numer Endricka, chociaż spekulowano, że przejmie „16”.</description>
     </item>
     
 </channel>
