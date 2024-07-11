@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Jul 2024 08:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:53:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Théo Zidane piłkarzem Córdoby</title>
+        <link>https://www.realmadryt.pl/news/130967-oficjalnie-theo-zidane-pilkarzem-cordoby</link>
+        <pubDate>Thu, 11 Jul 2024 10:43:00 GMT</pubDate>
+        <description>Po wygaśnięciu jego umowy z Realem Madryt, były już pomocnik Castilli dołącza do andaluzyjskiej drużyny.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 11 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130955-anglia-w-finale-euro</link>
         <pubDate>Wed, 10 Jul 2024 19:57:00 GMT</pubDate>
         <description>W Dortmundzie Anglia wygrała z Holandią 2:1 i awansowała do finału Mistrzostw Europy, w którym zmierzy się z Hiszpanią. Jude Bellingham rozegrał pełne 90 minut.</description>
-    </item>
-    
-    <item>
-        <title>La Sexta: Hiszpania może świętować tytuł na Cibeles</title>
-        <link>https://www.realmadryt.pl/news/130951-la-sexta-hiszpania-moze-swietowac-tytul-na-cibeles</link>
-        <pubDate>Wed, 10 Jul 2024 19:20:00 GMT</pubDate>
-        <description>Hiszpanie są o krok od mistrzostwa Europy i myślą nad organizacją mistrzowskiej fety. La Sexta podaje, że Federacja może wykorzystać doświadczenia Realu i Madrytu w tym względzie.</description>
     </item>
     
 </channel>
