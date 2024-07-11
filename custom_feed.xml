@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Jul 2024 21:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 22:19:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130980-dzisiejsze-okladki</link>
+        <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
+        <description>Wywiad z Andrijem Łuninem i przygotowania do finału EURO to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: David Bettoni znalazł pracę w Afryce</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130974-informacje-ws-biletow-na-prezentacje-kyliana-mbappe</link>
         <pubDate>Thu, 11 Jul 2024 15:14:00 GMT</pubDate>
         <description>Real Madryt przekazał komunikat ws. dystrybucji biletów na prezentację Kyliana Mbappé. Wejściówki na to wydarzenie będą darmowe, jednak ich dystrybucja będzie podzielona na etapy. Przedstawiamy oficjalny komunikat klubu.</description>
-    </item>
-    
-    <item>
-        <title>Real obawia się, że Bellingham będzie musiał przejść operację barku</title>
-        <link>https://www.realmadryt.pl/news/130971-real-obawia-sie-ze-bellingham-bedzie-musial-przejsc-operacje-barku</link>
-        <pubDate>Thu, 11 Jul 2024 14:02:00 GMT</pubDate>
-        <description>Anglik nadal odczuwa ból, do którego zdążył już się jednak przyzwyczaić. Królewscy chcieliby uniknąć operacji, ale ta może okazać się konieczna. Decyzja ma zapaść do po EURO.</description>
     </item>
     
 </channel>
