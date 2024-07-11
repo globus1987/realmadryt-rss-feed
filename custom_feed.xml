@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Jul 2024 11:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 12:38:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real obawia się, że Bellingham będzie musiał przejść operację barku</title>
+        <link>https://www.realmadryt.pl/news/130971-real-obawia-sie-ze-bellingham-bedzie-musial-przejsc-operacje-barku</link>
+        <pubDate>Thu, 11 Jul 2024 14:02:00 GMT</pubDate>
+        <description>Anglik nadal odczuwa ból, do którego zdążył już się jednak przyzwyczaić. Królewscy chcieliby uniknąć operacji, ale ta może okazać się konieczna. Decyzja ma zapaść do po EURO.</description>
+    </item>
     
     <item>
         <title>Petit: Mbappé był niegodnym kapitanem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130963-bellingham-dziekuje-watkinsowi-bo-nie-wiem-czy-mialem-sily-na-kolejne-pol-godziny</link>
         <pubDate>Thu, 11 Jul 2024 07:00:00 GMT</pubDate>
         <description>Jude Bellingham udzielił wywiadu telewizji ITV po półfinale EURO z Holandią. Przedstawiamy wypowiedzi pomocnika Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Kolumbia w finale Copa América</title>
-        <link>https://www.realmadryt.pl/news/130962-kolumbia-w-finale-copa-america</link>
-        <pubDate>Thu, 11 Jul 2024 00:56:00 GMT</pubDate>
-        <description>Kolumbia grająca całą drugą połowę w dziesiątkę wygrała z Urugwajem w drugim półfinale Copa América i wchodzi do finału, w którym zagra z Argentyną. Federico Valverde rozegrał cały mecz i powinien go skończyć z przynajmniej jakąś asystą, ale koledzy fatalnie marnowali kolejne sytuacje.</description>
     </item>
     
 </channel>
