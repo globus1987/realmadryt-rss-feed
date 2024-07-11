@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Jul 2024 05:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 05:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Mbappé może nie potrzebować operacji nosa</title>
+        <link>https://www.realmadryt.pl/news/130959-as-mbappe-moze-nie-potrzebowac-operacji-nosa</link>
+        <pubDate>Thu, 11 Jul 2024 07:53:00 GMT</pubDate>
+        <description>Decyzja w sprawie operacji nosa Kyliana Mbappé zapadnie po jego badaniach medycznych przed wtorkowym podpisaniem kontraktu. Sytuacja ma być jednak bardzo spokojna i nie przewiduje się w tym względzie problemów w trakcie sezonu.</description>
+    </item>
     
     <item>
         <title>Bellingham: Dziękuję Watkinsowi, bo nie wiem, czy miałem siły na kolejne pół godziny</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130952-oficjalnie-maria-mendez-pilkarka-realu-madryt</link>
         <pubDate>Wed, 10 Jul 2024 17:16:00 GMT</pubDate>
         <description>Real Madryt dokonał ósmego i prawdopodobnie ostatniego w tym okienku transferu do drużyny kobiet. Jak informują na swojej oficjalnej stronie Królewscy, do klubu sprowadzono Maríę Méndez. Defensorka dołącza do zespołu po spędzeniu czterech sezonów w Levante.</description>
-    </item>
-    
-    <item>
-        <title>Dehispanizacja a normy UEFA</title>
-        <link>https://www.realmadryt.pl/news/130932-dehispanizacja-a-normy-uefa</link>
-        <pubDate>Wed, 10 Jul 2024 16:15:00 GMT</pubDate>
-        <description>Królewscy muszą przestrzegać norm UEFA dotyczących wychowanków, aby móc zarejestrować pełną 25-osobową kadrę na kolejną edycję Ligi Mistrzów. W tym wszystkim nie pomaga postępujący proces dehispanizacji w pierwszym zespole Realu Madryt.</description>
     </item>
     
 </channel>
