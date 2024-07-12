@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Jul 2024 22:18:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 22:39:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/130999-dzisiejsze-okladki</link>
+        <pubDate>Sat, 13 Jul 2024 00:20:00 GMT</pubDate>
+        <description>Urodziny Lamine'a Yamala to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real zmienił osobę odpowiedzialną za eksploatację Santiago Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130992-wielkie-przygotowania-do-prezentacji-mbappe</link>
         <pubDate>Fri, 12 Jul 2024 14:42:00 GMT</pubDate>
         <description>Klub chce, żeby była to historyczna prezentacja. Zaproszono byłych zawodników i innych wybitnych madridistas. W założeniu wydarzenie to ma dorównać pamiętnemu powitaniu Cristiano Ronaldo z 2009 roku.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Xavier Rathan-Mayes zawodnikiem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/130991-oficjalnie-xavier-rathan-mayes-zawodnikiem-realu-madryt</link>
-        <pubDate>Fri, 12 Jul 2024 13:50:00 GMT</pubDate>
-        <description>Królewscy oficjalnie poinformowali o pozyskaniu kanadyjskiego koszykarza z Jenisiej Krasnojarsk.</description>
     </item>
     
 </channel>
