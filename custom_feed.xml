@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Jul 2024 04:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 05:19:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Vinícius!</title>
+        <link>https://www.realmadryt.pl/news/130929-wszystkiego-najlepszego-vinicius</link>
+        <pubDate>Fri, 12 Jul 2024 07:00:00 GMT</pubDate>
+        <description>Dziś swoje 24. urodziny obchodzi Vinícius. Życzymy z tej okazji Brazylijczykowi, by dalej z równym zapałem reprezentował herb Realu Madryt i przesądzał o kolejnych trofeach dla Królewskich.</description>
+    </item>
     
     <item>
         <title>Łunin: Moja przyszlość jest w rękach Realu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130956-zidane-marzy-o-reprezentacji-francji-ale-nie-ma-obsesji</link>
         <pubDate>Thu, 11 Jul 2024 17:00:00 GMT</pubDate>
         <description>Po odejściu z Realu Madryt w 2021 roku Francuz pozostaje poza pracą i skupia się na życiu rodzinnym. Reprezentacja pozostaje w jego głowie, ale nie jest obsesją. Zizou chce też okazać pełny szacunek Didierowi Deschampsowi.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy ściągają goleadora ze szkółki Atlético</title>
-        <link>https://www.realmadryt.pl/news/130958-krolewscy-sciagaja-goleadora-ze-szkolki-atletico</link>
-        <pubDate>Thu, 11 Jul 2024 16:06:00 GMT</pubDate>
-        <description>15-letni Yeremaiah Ramos, goleador ze szkółki Atlético Madryt, dołączy tego lata do La Fábriki Królewskich. Real Madryt kontynuuje proces wzmocnień bazujący na wyławianiu największych perełek u rywala zza miedzy.</description>
     </item>
     
 </channel>
