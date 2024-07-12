@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Jul 2024 10:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 10:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Álvaro Carrillo odchodzi do Eibaru</title>
+        <link>https://www.realmadryt.pl/news/130989-oficjalnie-alvaro-carrillo-odchodzi-do-eibaru</link>
+        <pubDate>Fri, 12 Jul 2024 12:45:00 GMT</pubDate>
+        <description>Wychowanek Los Blancos podpisał kontrakt z baskijskim zespołem z Segunda División.</description>
+    </item>
     
     <item>
         <title>Łunin: Chciałbym zostać, ale…</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130980-dzisiejsze-okladki</link>
         <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
         <description>Wywiad z Andrijem Łuninem, przygotowania Hiszpanii do finału EURO i przygotowania Barcelony do sezonu to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: David Bettoni znalazł pracę w Afryce</title>
-        <link>https://www.realmadryt.pl/news/130978-oficjalnie-david-bettoni-znalazl-prace-w-afryce</link>
-        <pubDate>Thu, 11 Jul 2024 22:20:00 GMT</pubDate>
-        <description>Bettoni został ogłoszony nowym szkoleniowcem tunezyjskiego Club Africain. Będzie to dla niego druga samodzielna praca na stanowisku pierwszego trenera.</description>
     </item>
     
 </channel>
