@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Jul 2024 15:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 15:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo niczym Ironman</title>
+        <link>https://www.realmadryt.pl/news/130987-rodrygo-niczym-ironman</link>
+        <pubDate>Fri, 12 Jul 2024 17:22:00 GMT</pubDate>
+        <description>Młody napastnik zamknął sezon trwający dla niego blisko 5000 minut, 64 mecze i 350 dni. W ciągu roku odpoczął tylko w czterech spotkaniach.</description>
+    </item>
     
     <item>
         <title>Kylian Mbappé kupi sobie klub?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130984-kartka-z-kalendarza-12-lipca</link>
         <pubDate>Fri, 12 Jul 2024 10:32:00 GMT</pubDate>
         <description>Wygrana Francji na własnym terenie z Zidane'em w roli bohatera, prezentacja Pepego i potwierdzenie przybycia Jerzego Dudka. Co działo się 12 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Casting na wykonawcę rogów</title>
-        <link>https://www.realmadryt.pl/news/130946-casting-na-wykonawce-rogow</link>
-        <pubDate>Fri, 12 Jul 2024 09:39:00 GMT</pubDate>
-        <description>Po odejściu Toniego Kroosa Real Madryt został bez etatowego wykonawcy rzutów rożnych. Tym samym już wkrótce należy spodziewać się otwarcia castingu do roli następcy Niemca.</description>
     </item>
     
 </channel>
