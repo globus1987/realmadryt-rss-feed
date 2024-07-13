@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Jul 2024 21:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 22:17:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131023-dzisiejsze-okladki</link>
+        <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
+        <description>Finał EURO to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Tchouaméni spędza czas wolny w Senegalu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131011-nowy-ranking-uefa-awans-realu-barcelona-osiemnasta</link>
         <pubDate>Sat, 13 Jul 2024 15:37:00 GMT</pubDate>
         <description>UEFA opublikowała ranking klubów, w którym wzięto pod uwagę cztery ostatnie sezony. Real Madryt przeskoczył Bayern, a Barcelona czy Atlético zanotowały spore spadki, ale… czy coś z tego na dziś wynika?</description>
-    </item>
-    
-    <item>
-        <title>Trudna decyzja Yoro</title>
-        <link>https://www.realmadryt.pl/news/131010-trudna-decyzja-yoro</link>
-        <pubDate>Sat, 13 Jul 2024 14:44:00 GMT</pubDate>
-        <description>Jeśli Leny Yoro chce tego lata przejść do Realu Madryt, to musi przycisnąć Lille. Francuzi chcą za swoją perełkę około 70 milionów euro, mają na stolę ofertę Manchesteru United na 55 milionów euro, a Królewscy nie zamierzają przekraczać granicy 40 milionów euro.</description>
     </item>
     
 </channel>
