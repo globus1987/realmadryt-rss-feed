@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Jul 2024 07:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 08:22:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 13 lipca</title>
+        <link>https://www.realmadryt.pl/news/131003-kartka-z-kalendarza-13-lipca</link>
+        <pubDate>Sat, 13 Jul 2024 10:10:00 GMT</pubDate>
+        <description>Pożegnanie legendarnego bramkarza, prezentacja pomocnika i finał Mistrzostw Świata w Brazylii. Co działo się 13 lipca?</description>
+    </item>
     
     <item>
         <title>400 zł za gola w finale EURO!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130997-bilety-na-prezentacje-mbappe-rozeszly-sie-w-kilka-godzin</link>
         <pubDate>Fri, 12 Jul 2024 19:00:00 GMT</pubDate>
         <description>Bilety na prezentację Francuza zostały zarezerwowane w komplecie w ciągu kilku godzin. Wielu socios tradycyjnie szuka na nich zarobku, chociaż wejściówki pozyskali za darmo. Chiringuito podało swoje szczegóły uroczystości.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham faworytem do zdobycia Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/130995-bellingham-faworytem-do-zdobycia-zlotej-pilki</link>
-        <pubDate>Fri, 12 Jul 2024 18:13:00 GMT</pubDate>
-        <description>Jude Bellingham może przesądzić o swoim triumfie w plebiscycie Złotej Piłki, jeśli Anglia wygra mistrzostwo Europy. W przypadku zwycięstwa Hiszpanii otworzy się wachlarz innych możliwości.</description>
     </item>
     
 </channel>
