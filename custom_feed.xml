@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 23:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 23:38:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131040-dzisiejsze-okladki</link>
+        <pubDate>Mon, 15 Jul 2024 01:19:00 GMT</pubDate>
+        <description>Triumfy Hiszpanii na EURO i Carlosa Alcaraza na Wimbledonie to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodri MVP, Lamine Yamal z wyróżnieniem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131033-oficjalnie-jutro-powrot-do-treningow</link>
         <pubDate>Sun, 14 Jul 2024 14:52:00 GMT</pubDate>
         <description>Real Madryt potwierdził, że jutro zawodnicy wrócą do pracy w Valdebebas. Rano piłkarze przejdą badania medyczne.</description>
-    </item>
-    
-    <item>
-        <title>W grze także Złoty But</title>
-        <link>https://www.realmadryt.pl/news/131029-w-grze-takze-zloty-but</link>
-        <pubDate>Sun, 14 Jul 2024 14:03:00 GMT</pubDate>
-        <description>Jude Bellingham może potrzebować „tylko” jednego gola, by zakończyć EURO 2024 ze Złotym Butem. Obecnie większe szanse mają jednak Harry Kane i Dani Olmo, którzy wraz z czterema innymi zawodnikami są obecnie w tej klasyfikacji na pierwszej lokacie.</description>
     </item>
     
 </channel>
