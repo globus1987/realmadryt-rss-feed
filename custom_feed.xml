@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 03:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 03:42:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius jest na fali</title>
+        <link>https://www.realmadryt.pl/news/131012-vinicius-jest-na-fali</link>
+        <pubDate>Sun, 14 Jul 2024 05:30:00 GMT</pubDate>
+        <description>Brazylijczyk zdmuchnął 24 świeczki na Ibizie, będąc u szczytu kariery. Latem planuje zrównoważyć odpoczynek i pracę w porównaniu z innymi sezonami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131009-endrick-real-po-przyjsciu-mbappe-wyglada-jak-druzyna-z-gry-wideo</link>
         <pubDate>Sat, 13 Jul 2024 16:27:00 GMT</pubDate>
         <description>L’Équipe przedstawiło reportaż o dojściu Endricka do Realu Madryt. Przedstawiamy wypowiedzi Brazylijczyka o swojej wizji klubu. Napastnik dołączy do Królewskich po 21 lipca, gdy skończy 18 lat.</description>
-    </item>
-    
-    <item>
-        <title>Nowy ranking UEFA: Awans Realu, Barcelona osiemnasta</title>
-        <link>https://www.realmadryt.pl/news/131011-nowy-ranking-uefa-awans-realu-barcelona-osiemnasta</link>
-        <pubDate>Sat, 13 Jul 2024 15:37:00 GMT</pubDate>
-        <description>UEFA opublikowała ranking klubów, w którym wzięto pod uwagę cztery ostatnie sezony. Real Madryt przeskoczył Bayern, a Barcelona czy Atlético zanotowały spore spadki, ale… czy coś z tego na dziś wynika?</description>
     </item>
     
 </channel>
