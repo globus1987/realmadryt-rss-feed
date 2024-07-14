@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 10:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 11:18:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pintus ma plan na Mbappé</title>
+        <link>https://www.realmadryt.pl/news/131028-pintus-ma-plan-na-mbappe</link>
+        <pubDate>Sun, 14 Jul 2024 13:15:00 GMT</pubDate>
+        <description>Antonio Pintus ma plan na Kyliana Mbappé, aby ten odzyskał swoją najlepszą wersję. W tym momencie klub niepokoi nie tylko stan nosa zawodnika, ale również jego alarmująca forma fizyczna.</description>
+    </item>
     
     <item>
         <title>„Bellingham i Foden mogą sami wygrywać mecze”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131023-dzisiejsze-okladki</link>
         <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
         <description>Finał EURO to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni spędza czas wolny w Senegalu</title>
-        <link>https://www.realmadryt.pl/news/131021-tchouameni-spedza-czas-wolny-w-senegalu</link>
-        <pubDate>Sat, 13 Jul 2024 21:50:00 GMT</pubDate>
-        <description>Pomocnik Realu Madryt po zakończeniu przygody na EURO 2024 wybrał się do Afryki.</description>
     </item>
     
 </channel>
