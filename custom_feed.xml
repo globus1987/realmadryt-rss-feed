@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 05:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 06:29:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Urugwaj lepszy w meczu o 3. miejsce [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/131026-urugwaj-lepszy-w-meczu-o-3-miejsce-video</link>
+        <pubDate>Sun, 14 Jul 2024 08:10:00 GMT</pubDate>
+        <description>Reprezentacja Urugwaju wygrała po rzutach karnych z Kanadą mecz o 3. miejsce Copa América.</description>
+    </item>
     
     <item>
         <title>Beckham, Cristiano i inni</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131015-ostatni-mecz-valverde-w-tym-sezonie</link>
         <pubDate>Sat, 13 Jul 2024 18:00:00 GMT</pubDate>
         <description>Dziś w Charlotte przegrani półfinałów Copa América zagrają o trzecie miejsce. Naprzeciwko Kanady stanie reprezentacja Urugwaju, w składzie której powinniśmy zobaczyć Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Gala streamera Ibaia na Bernabéu [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/131014-gala-streamera-ibaia-na-bernabeu-na-zywo</link>
-        <pubDate>Sat, 13 Jul 2024 17:05:00 GMT</pubDate>
-        <description>Przed godziną na Santiago Bernabéu rozpoczęła się gala bokserska streamera Ibaia Llanosa. Daje to możliwość obejrzenia stadionu Królewskich „w akcji” w trakcie wydarzenia pozapiłkarskiego.</description>
     </item>
     
 </channel>
