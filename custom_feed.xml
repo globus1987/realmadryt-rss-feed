@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 14:57:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 15:31:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Bellingham zaczyna myśleć, że jest supergwiazdą”</title>
+        <link>https://www.realmadryt.pl/news/131031-bellingham-zaczyna-myslec-ze-jest-supergwiazda</link>
+        <pubDate>Sun, 14 Jul 2024 17:25:00 GMT</pubDate>
+        <description>Były niemiecki piłkarz Markus Babbel, grający niegdyś w Bayernie czy Liverpoolu, atakuje lidera Realu Madryt za jego „postawę” podczas gry w reprezentacji Anglii. Wywiad z 51-latkiem przeprowadził brytyjski portal NewBettingOffers.</description>
+    </item>
     
     <item>
         <title>Sześciu kontra Bellingham</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131008-starcie-dwoch-swiatow</link>
         <pubDate>Sun, 14 Jul 2024 09:50:00 GMT</pubDate>
         <description>Dziś o 21:00 Hiszpania i Anglia zmierzą się ze sobą w finale Mistrzostw Europy.</description>
-    </item>
-    
-    <item>
-        <title>400 zł za gola w finale EURO!</title>
-        <link>https://www.realmadryt.pl/news/131018-400-zl-za-gola-w-finale-euro</link>
-        <pubDate>Sun, 14 Jul 2024 09:00:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
