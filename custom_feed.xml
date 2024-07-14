@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 07:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 07:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Starcie dwóch światów</title>
+        <link>https://www.realmadryt.pl/news/131008-starcie-dwoch-swiatow</link>
+        <pubDate>Sun, 14 Jul 2024 09:50:00 GMT</pubDate>
+        <description>Dziś o 21:00 Hiszpania i Anglia zmierzą się ze sobą w finale Mistrzostw Europy.</description>
+    </item>
     
     <item>
         <title>400 zł za gola w finale EURO!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131016-sky-sport-arabia-saudyjska-nadal-kusi-ruedigera</link>
         <pubDate>Sat, 13 Jul 2024 19:45:00 GMT</pubDate>
         <description>Antonio Rüdiger jest kuszony przez czołowe kluby z Arabii Saudyjskiej. Nic jednak nie wskazuje na to, by Niemiec chciał zmienić barwy.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal: Mam nadzieję, że mniej Hiszpanów w Realu to nie będzie problem</title>
-        <link>https://www.realmadryt.pl/news/131007-carvajal-mam-nadzieje-ze-mniej-hiszpanow-w-realu-to-nie-bedzie-problem</link>
-        <pubDate>Sat, 13 Jul 2024 18:52:00 GMT</pubDate>
-        <description>Dani Carvajal udzielił wywiadów radiu COPE i telewizyjnemu Chiringuito. Przedstawiamy najważniejsze wypowiedzi Hiszpana z tych rozmów przed finałem EURO.</description>
     </item>
     
 </channel>
