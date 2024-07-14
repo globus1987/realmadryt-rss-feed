@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 05:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 05:40:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Beckham, Cristiano i inni</title>
+        <link>https://www.realmadryt.pl/news/130953-beckham-cristiano-i-inni</link>
+        <pubDate>Sun, 14 Jul 2024 07:25:00 GMT</pubDate>
+        <description>Estadio Santiago Bernabéu to kultowe miejsce nie tylko ze względu na rozgrywane na nim wspaniałe mecze, ale także majestatyczne prezentacje nowych zawodników Realu Madryt. Oczekując na przybycie Kyliana Mbappé MARCA przypomina pamiętne powitania innych wielkich gwiazd.</description>
+    </item>
     
     <item>
         <title>Vinícius jest na fali</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131014-gala-streamera-ibaia-na-bernabeu-na-zywo</link>
         <pubDate>Sat, 13 Jul 2024 17:05:00 GMT</pubDate>
         <description>Przed godziną na Santiago Bernabéu rozpoczęła się gala bokserska streamera Ibaia Llanosa. Daje to możliwość obejrzenia stadionu Królewskich „w akcji” w trakcie wydarzenia pozapiłkarskiego.</description>
-    </item>
-    
-    <item>
-        <title>Endrick: Real po przyjściu Mbappé wygląda jak drużyna z gry wideo</title>
-        <link>https://www.realmadryt.pl/news/131009-endrick-real-po-przyjsciu-mbappe-wyglada-jak-druzyna-z-gry-wideo</link>
-        <pubDate>Sat, 13 Jul 2024 16:27:00 GMT</pubDate>
-        <description>L’Équipe przedstawiło reportaż o dojściu Endricka do Realu Madryt. Przedstawiamy wypowiedzi Brazylijczyka o swojej wizji klubu. Napastnik dołączy do Królewskich po 21 lipca, gdy skończy 18 lat.</description>
     </item>
     
 </channel>
