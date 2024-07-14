@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 14:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 14:44:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sześciu kontra Bellingham</title>
+        <link>https://www.realmadryt.pl/news/131030-szesciu-kontra-bellingham</link>
+        <pubDate>Sun, 14 Jul 2024 16:33:00 GMT</pubDate>
+        <description>Mecz w Berlinie zdecyduje o tym, kto zostanie uznany najlepszym zawodnikiem turnieju. Hiszpanie mają kilku kandydatów, a Anglia… tylko jednego.</description>
+    </item>
     
     <item>
         <title>Fałszywa asysta z 1964 roku</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131018-400-zl-za-gola-w-finale-euro</link>
         <pubDate>Sun, 14 Jul 2024 09:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Urugwaj lepszy w meczu o 3. miejsce [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131026-urugwaj-lepszy-w-meczu-o-3-miejsce-video</link>
-        <pubDate>Sun, 14 Jul 2024 08:10:00 GMT</pubDate>
-        <description>Reprezentacja Urugwaju wygrała po rzutach karnych z Kanadą mecz o 3. miejsce Copa América.</description>
     </item>
     
 </channel>
