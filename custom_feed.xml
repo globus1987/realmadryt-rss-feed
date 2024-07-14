@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 08:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 08:43:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złe wiadomości dla Mario Gili</title>
+        <link>https://www.realmadryt.pl/news/131027-zle-wiadomosci-dla-mario-gili</link>
+        <pubDate>Sun, 14 Jul 2024 10:41:00 GMT</pubDate>
+        <description>Środkowy obrońca Lazio, który mógł być rozważany jako alternatywa dla Leny’ego Yoro, doznał kontuzji lewej stopy i przegapi kilka najbliższych tygodni.</description>
+    </item>
     
     <item>
         <title>Starcie dwóch światów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131020-rafa-marin-z-realu-zabieram-ze-soba-wartosci</link>
         <pubDate>Sat, 13 Jul 2024 20:35:00 GMT</pubDate>
         <description>Nowy defensor Napoli w swoich mediach społecznościowych pożegnał się z Królewskimi.</description>
-    </item>
-    
-    <item>
-        <title>Sky Sport: Arabia Saudyjska nadal kusi Rüdigera</title>
-        <link>https://www.realmadryt.pl/news/131016-sky-sport-arabia-saudyjska-nadal-kusi-ruedigera</link>
-        <pubDate>Sat, 13 Jul 2024 19:45:00 GMT</pubDate>
-        <description>Antonio Rüdiger jest kuszony przez czołowe kluby z Arabii Saudyjskiej. Nic jednak nie wskazuje na to, by Niemiec chciał zmienić barwy.</description>
     </item>
     
 </channel>
