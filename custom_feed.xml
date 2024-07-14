@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Jul 2024 16:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 16:57:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>UOL: Ancelotti zapewnił Endricka, że będzie w pierwszej drużynie</title>
+        <link>https://www.realmadryt.pl/news/131024-uol-ancelotti-zapewnil-endricka-ze-bedzie-w-pierwszej-druzynie</link>
+        <pubDate>Sun, 14 Jul 2024 18:43:00 GMT</pubDate>
+        <description>Brazylijski portal UOL informuje o rozmowie Carlo Ancelottiego z Endrickiem i jego roli w nadchodzącym sezonie.</description>
+    </item>
     
     <item>
         <title>Alcaraz wygrywa drugi Wimbledon w karierze!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131025-kartka-z-kalendarza-14-lipca</link>
         <pubDate>Sun, 14 Jul 2024 11:33:00 GMT</pubDate>
         <description>Transfer Daniego Ceballosa, a także prezentacja znakomitego napastnika. Co działo się 14 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Złe wiadomości dla Mario Gili</title>
-        <link>https://www.realmadryt.pl/news/131027-zle-wiadomosci-dla-mario-gili</link>
-        <pubDate>Sun, 14 Jul 2024 10:41:00 GMT</pubDate>
-        <description>Środkowy obrońca Lazio, który mógł być rozważany jako alternatywa dla Leny’ego Yoro, doznał kontuzji lewej stopy i przegapi kilka najbliższych tygodni.</description>
     </item>
     
 </channel>
