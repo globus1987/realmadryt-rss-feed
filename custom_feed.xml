@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 09:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 10:22:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dostępni piłkarze przeszli badania medyczne</title>
+        <link>https://www.realmadryt.pl/news/131047-dostepni-pilkarze-przeszli-badania-medyczne</link>
+        <pubDate>Mon, 15 Jul 2024 12:13:00 GMT</pubDate>
+        <description>Dostępni piłkarze Królewskich rozpoczęli przygotowania do sezonu od badań w szpitalu współpracującym z klubem. Na wieczór zaplanowano pierwszy trening w sezonie 2024/25.</description>
+    </item>
     
     <item>
         <title>Początek wielkiego wyzwania</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131038-rodri-mvp-lamine-yamal-z-wyroznieniem</link>
         <pubDate>Sun, 14 Jul 2024 23:16:00 GMT</pubDate>
         <description>Indywidualne nagrody za EURO trafiły do piłkarzy zwycięskiego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Mario Gila: Nie ruszam się z Lazio</title>
-        <link>https://www.realmadryt.pl/news/131035-mario-gila-nie-ruszam-sie-z-lazio</link>
-        <pubDate>Sun, 14 Jul 2024 20:20:00 GMT</pubDate>
-        <description>W ostatnich dniach media łączyły byłego defensora Castilli z powrotem do zespołu Królewskich w roli czwartego stopera. Ten jednak woli pozostać we Włoszech.</description>
     </item>
     
 </channel>
