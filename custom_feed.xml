@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 03:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 04:26:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Argentyna triumfatorem Copa América</title>
+        <link>https://www.realmadryt.pl/news/131043-argentyna-triumfatorem-copa-america</link>
+        <pubDate>Mon, 15 Jul 2024 06:10:00 GMT</pubDate>
+        <description>Argentyna wygrała turniej między drużynami z Ameryki Północnej i Południowej, pokonując w finale po dogrywce Kolumbię. Mecz naznaczony był kolejnymi problemami organizacyjnymi.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131032-falszywa-asysta-z-1964-roku</link>
         <pubDate>Sun, 14 Jul 2024 15:42:00 GMT</pubDate>
         <description>W dzisiejszym futbolu praktycznie każdy szczegół jest do wyłapania. Wideoweryfikacje, półautomatyczne wychwytywanie milimetrowych spalonych, technologia goal line, kamery poustawiane pod wieloma kątami, zliczane w czasie rzeczywistym statystyki… W dobie postępu technologicznego aż trudno pojąć trudności, z jakimi zmagała się telewizja jeszcze kilkadziesiąt lat temu podczas tworzenia zwykłych skrótów spotkań.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Jutro powrót do treningów</title>
-        <link>https://www.realmadryt.pl/news/131033-oficjalnie-jutro-powrot-do-treningow</link>
-        <pubDate>Sun, 14 Jul 2024 14:52:00 GMT</pubDate>
-        <description>Real Madryt potwierdził, że jutro zawodnicy wrócą do pracy w Valdebebas. Rano piłkarze przejdą badania medyczne.</description>
     </item>
     
 </channel>
