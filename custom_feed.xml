@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 22:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 23:20:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131069-dzisiejsze-okladki</link>
+        <pubDate>Tue, 16 Jul 2024 00:59:00 GMT</pubDate>
+        <description>Świętowanie tytułu przez Hiszpanów to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ogromne zainteresowanie prezentacją Mbappé</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131054-usman-garuba-blisko-powrotu-do-realu-madryt</link>
         <pubDate>Mon, 15 Jul 2024 16:17:00 GMT</pubDate>
         <description>Usman Garuba po trzech latach może wrócić do Realu Madryt. Jego kariera w NBA nie potoczyła się w oczekiwany sposób i Hiszpan zdecydował się na powrót do swojego byłego klubu.</description>
-    </item>
-    
-    <item>
-        <title>Ronald Araújo nie zagra przez 4 miesiące</title>
-        <link>https://www.realmadryt.pl/news/131053-ronald-araujo-nie-zagra-przez-4-miesiace</link>
-        <pubDate>Mon, 15 Jul 2024 15:20:00 GMT</pubDate>
-        <description>Główny rywal Realu Madryt w Hiszpanii ma być bardzo osłabiony przez większą część pierwszej połowy sezonu. Jego stoper musi poddać się operacji mięśnia uda.</description>
     </item>
     
 </channel>
