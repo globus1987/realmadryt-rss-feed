@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 07:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 08:26:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Olimpijskie łowy</title>
+        <link>https://www.realmadryt.pl/news/131017-olimpijskie-lowy</link>
+        <pubDate>Mon, 15 Jul 2024 10:04:00 GMT</pubDate>
+        <description>Jak dobrze wiemy, Real Madryt już dość dawno zdążył zmienić politykę transferową. Warto jednak przy tym zauważyć, że Królewscy nabrali też innej perspektywy względem turniejów reprezentacyjnych.</description>
+    </item>
     
     <item>
         <title>AS: Sprzedany Marín może być następcą Alaby</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131024-uol-ancelotti-zapewnil-endricka-ze-bedzie-w-pierwszej-druzynie</link>
         <pubDate>Sun, 14 Jul 2024 18:43:00 GMT</pubDate>
         <description>Brazylijski portal UOL informuje o rozmowie Carlo Ancelottiego z Endrickiem i jego roli w nadchodzącym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Alcaraz wygrywa drugi Wimbledon w karierze!</title>
-        <link>https://www.realmadryt.pl/news/131037-alcaraz-wygrywa-drugi-wimbledon-w-karierze</link>
-        <pubDate>Sun, 14 Jul 2024 17:51:00 GMT</pubDate>
-        <description>Carlos Alcaraz pokonał dzisiaj Novaka Đokovicia i został triumfatorem Wimbledonu drugi raz w karierze, zdobywając jednocześnie swój czwarty wielkoszlemowy tytuł. Real Madryt pogratulował Hiszpanowi w mediach społecznościowych.</description>
     </item>
     
 </channel>
