@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 19:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 19:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od dziewiątki do dziesiątki</title>
+        <link>https://www.realmadryt.pl/news/131061-od-dziewiatki-do-dziesiatki</link>
+        <pubDate>Mon, 15 Jul 2024 21:53:00 GMT</pubDate>
+        <description>Kylian Mbappé swoją karierę w Realu Madryt rozpocznie z numerem 9, aby po roku przejąć po Luce Modriciu swoją docelową dziesiątkę. W ostatnich latach w PSG francuski crack grał z numerem 7, a w reprezentacji Francji gra z numerem 10.</description>
+    </item>
     
     <item>
         <title>Pierwszy trening Realu Madryt w nowym sezonie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131051-trwaja-przygotowania-do-prezentacji-mbappe-video</link>
         <pubDate>Mon, 15 Jul 2024 15:00:00 GMT</pubDate>
         <description>Na Santiago Bernabéu po rozmontowaniu sceny z weekendowego wydarzenia rozpoczęły się przygotowania do prezentacji Kyliana Mbappé. Zapraszamy na naszą transmisję z tego wydarzenia.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Bellingham bardzo przejmował się krytyką na EURO</title>
-        <link>https://www.realmadryt.pl/news/131050-the-athletic-bellingham-bardzo-przejmowal-sie-krytyka-na-euro</link>
-        <pubDate>Mon, 15 Jul 2024 14:40:00 GMT</pubDate>
-        <description>The Athletic podsumował występ Anglii na EURO. Sporo miejsca poświęcono zachowaniom Jude'a Bellinghama. Przedstawiamy tłumaczenie odpowiedniego fragmentu tego tekstu.</description>
     </item>
     
 </channel>
