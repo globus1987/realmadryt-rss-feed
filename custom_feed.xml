@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 08:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 09:23:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Początek wielkiego wyzwania</title>
+        <link>https://www.realmadryt.pl/news/131044-poczatek-wielkiego-wyzwania</link>
+        <pubDate>Mon, 15 Jul 2024 10:58:00 GMT</pubDate>
+        <description>Real Madryt rozpoczyna dzisiaj okres przygotowawczy przed sezonem, w którym powalczy o siedem tytułów. Przed Carlo Ancelottim i jego piłkarzami w sumie 68 meczów do rozegrania i 11 miesięcy ciągłej rywalizacji na najwyższych obrotach.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 lipca</title>
+        <link>https://www.realmadryt.pl/news/131039-kartka-z-kalendarza-15-lipca</link>
+        <pubDate>Mon, 15 Jul 2024 10:57:00 GMT</pubDate>
+        <description>Mistrzostwo świata dla Francji, urodziny byłych piłkarzy i tragiczna śmierć Laurie'ego Cunninghama. Co działo się 15 lipca?</description>
+    </item>
     
     <item>
         <title>Olimpijskie łowy</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/131035-mario-gila-nie-ruszam-sie-z-lazio</link>
         <pubDate>Sun, 14 Jul 2024 20:20:00 GMT</pubDate>
         <description>W ostatnich dniach media łączyły byłego defensora Castilli z powrotem do zespołu Królewskich w roli czwartego stopera. Ten jednak woli pozostać we Włoszech.</description>
-    </item>
-    
-    <item>
-        <title>Hiszpania mistrzem Europy!</title>
-        <link>https://www.realmadryt.pl/news/131036-hiszpania-mistrzem-europy</link>
-        <pubDate>Sun, 14 Jul 2024 19:50:00 GMT</pubDate>
-        <description>W finale Mistrzostw Europy Hiszpania wygrała z Anglią 2:1 i została mistrzem Europy. Gole dla wygranych strzelili Nico Williams i Mikey Oyarzabal. Asystę przy golu Cole'a Palmera zanotował za to Jude Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>UOL: Ancelotti zapewnił Endricka, że będzie w pierwszej drużynie</title>
-        <link>https://www.realmadryt.pl/news/131024-uol-ancelotti-zapewnil-endricka-ze-bedzie-w-pierwszej-druzynie</link>
-        <pubDate>Sun, 14 Jul 2024 18:43:00 GMT</pubDate>
-        <description>Brazylijski portal UOL informuje o rozmowie Carlo Ancelottiego z Endrickiem i jego roli w nadchodzącym sezonie.</description>
     </item>
     
 </channel>
