@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 10:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 11:16:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pretemporada bez kontraktu</title>
+        <link>https://www.realmadryt.pl/news/131048-pretemporada-bez-kontraktu</link>
+        <pubDate>Mon, 15 Jul 2024 13:00:00 GMT</pubDate>
+        <description>Lucas Vázquez stawił się dziś w Valdebebas na badaniach i rozpoczęciu przygotowań do nowego sezonu, pomimo że klub nie ogłosił przedłużenia jego kontraktu.</description>
+    </item>
     
     <item>
         <title>Dostępni piłkarze przeszli badania medyczne</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131040-dzisiejsze-okladki</link>
         <pubDate>Mon, 15 Jul 2024 01:19:00 GMT</pubDate>
         <description>Triumfy Hiszpanii na EURO i Carlosa Alcaraza na Wimbledonie to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rodri MVP, Lamine Yamal z wyróżnieniem</title>
-        <link>https://www.realmadryt.pl/news/131038-rodri-mvp-lamine-yamal-z-wyroznieniem</link>
-        <pubDate>Sun, 14 Jul 2024 23:16:00 GMT</pubDate>
-        <description>Indywidualne nagrody za EURO trafiły do piłkarzy zwycięskiego zespołu.</description>
     </item>
     
 </channel>
