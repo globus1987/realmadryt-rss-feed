@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Jul 2024 05:19:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 05:38:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Morata: Świętowanie na Cibeles? Plecami do Cibeles</title>
+        <link>https://www.realmadryt.pl/news/131041-morata-swietowanie-na-cibeles-plecami-do-cibeles</link>
+        <pubDate>Mon, 15 Jul 2024 07:25:00 GMT</pubDate>
+        <description>Wychowanek Królewskich grający dla Atlético w trakcie EURO narzekał na hejt i opowiadał o walce z depresją. Po finale EURO jako kapitan Hiszpanii był na tyle uradowany, że wystosował żartobliwoy komentarz o świętowaniu na Cibeles, miejscu celebracji tytułów przez Real Madryt.</description>
+    </item>
     
     <item>
         <title>Argentyna triumfatorem Copa América</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131030-szesciu-kontra-bellingham</link>
         <pubDate>Sun, 14 Jul 2024 16:33:00 GMT</pubDate>
         <description>Mecz w Berlinie zdecyduje o tym, kto zostanie uznany najlepszym zawodnikiem turnieju. Hiszpanie mają kilku kandydatów, a Anglia… tylko jednego.</description>
-    </item>
-    
-    <item>
-        <title>Fałszywa asysta z 1964 roku</title>
-        <link>https://www.realmadryt.pl/news/131032-falszywa-asysta-z-1964-roku</link>
-        <pubDate>Sun, 14 Jul 2024 15:42:00 GMT</pubDate>
-        <description>W dzisiejszym futbolu praktycznie każdy szczegół jest do wyłapania. Wideoweryfikacje, półautomatyczne wychwytywanie milimetrowych spalonych, technologia goal line, kamery poustawiane pod wieloma kątami, zliczane w czasie rzeczywistym statystyki… W dobie postępu technologicznego aż trudno pojąć trudności, z jakimi zmagała się telewizja jeszcze kilkadziesiąt lat temu podczas tworzenia zwykłych skrótów spotkań.</description>
     </item>
     
 </channel>
