@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Jul 2024 20:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 20:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra koszykarzy prawie zamknięta</title>
+        <link>https://www.realmadryt.pl/news/131097-kadra-koszykarzy-prawie-zamknieta</link>
+        <pubDate>Tue, 16 Jul 2024 22:40:00 GMT</pubDate>
+        <description>Real Madryt już niemal zamknął koszykarską kadrę na nowy sezon. Pozostaje oficjalne ogłoszenie transferów Ibaki oraz Garuby, a nad przedłużeniem kontraktu zastanawia się jeszcze Causeur.</description>
+    </item>
     
     <item>
         <title>Podsumowanie prezentacji Kyliana Mbappé</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131065-euroliga-opublikowala-terminarz-na-sezon-2024-25</link>
         <pubDate>Tue, 16 Jul 2024 17:45:00 GMT</pubDate>
         <description>Sezon 2024/25 rozpocznie się 3 października. Tego dnia do akcji wkroczy między innymi Real Madryt. Królewscy zainaugurują walkę o tytuł wyjazdowym pojedynkiem z Bayernem Monachium.</description>
-    </item>
-    
-    <item>
-        <title>Ilu hiszpańskich piłkarzy Realu triumfowało na EURO?</title>
-        <link>https://www.realmadryt.pl/news/131063-ilu-hiszpanskich-pilkarzy-realu-triumfowalo-na-euro</link>
-        <pubDate>Tue, 16 Jul 2024 16:55:00 GMT</pubDate>
-        <description>Hiszpania po raz czwarty zdobyła mistrzostwo Starego Kontynentu. Po raz kolejny pomogli jej w tym piłkarze Realu. Ale ilu historycznie graczy Królewskich mogło się cieszyć z wygrania EURO w koszulce La Roja?</description>
     </item>
     
 </channel>
