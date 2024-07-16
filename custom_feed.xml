@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Jul 2024 21:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 22:20:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131098-dzisiejsze-okladki</link>
+        <pubDate>Wed, 17 Jul 2024 00:09:00 GMT</pubDate>
+        <description>Prezentacja Kyliana Mbappé i przyszłość Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kadra koszykarzy prawie zamknięta</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131086-mbappe-cz-1-decyzje-o-przejsciu-do-realu-podjalem-jako-dziecko</link>
         <pubDate>Tue, 16 Jul 2024 17:54:00 GMT</pubDate>
         <description>Kylian Mbappé w ostatniej części swojej prezentacji spotkał się z dziennikarzami w sali prasowej na Santiago Bernabéu. Przedstawiamy pierwszą z dwóch części zapisu tego spotkania Francuza z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Euroliga opublikowała terminarz na sezon 2024/25</title>
-        <link>https://www.realmadryt.pl/news/131065-euroliga-opublikowala-terminarz-na-sezon-2024-25</link>
-        <pubDate>Tue, 16 Jul 2024 17:45:00 GMT</pubDate>
-        <description>Sezon 2024/25 rozpocznie się 3 października. Tego dnia do akcji wkroczy między innymi Real Madryt. Królewscy zainaugurują walkę o tytuł wyjazdowym pojedynkiem z Bayernem Monachium.</description>
     </item>
     
 </channel>
