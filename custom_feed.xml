@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Jul 2024 09:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 10:18:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 16 lipca</title>
+        <link>https://www.realmadryt.pl/news/131073-kartka-z-kalendarza-16-lipca</link>
+        <pubDate>Tue, 16 Jul 2024 12:17:00 GMT</pubDate>
+        <description>Mistrzostwo Hiszpanii, śmierć legendarnego trenera, urodziny Bale'a i kluczowe wybory w historii klubu. Co działo się 16 lipca?</description>
+    </item>
     
     <item>
         <title>Mbappé podpisał kontrakt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131070-dzien-pierwszy-kyliana-mbappe-w-realu-madryt</link>
         <pubDate>Tue, 16 Jul 2024 01:52:00 GMT</pubDate>
         <description>Francuz podpisze dzisiaj umowę i zostanie zaprezentowany na Estadio Santiago Bernabéu. To start tak wyczekiwanej przez wszystkich ery.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131069-dzisiejsze-okladki</link>
-        <pubDate>Tue, 16 Jul 2024 00:59:00 GMT</pubDate>
-        <description>Świętowanie tytułu przez Hiszpanów to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
