@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Jul 2024 06:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 06:43:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real hamuje odpływ</title>
+        <link>https://www.realmadryt.pl/news/131034-real-hamuje-odplyw</link>
+        <pubDate>Tue, 16 Jul 2024 08:42:00 GMT</pubDate>
+        <description>Real Madryt pomimo pracy nad tegorocznymi transferami do klubu musi też zająć się tematem odejść. Na razie blokują go jednak turnieje reprezentacyjne. Ancelotti na starcie pretemporady potrzebuje zawodników, a wpływ na obecny zastój mają także nieoczekiwane pożegnania z Joselu, Nacho i Kroosem. Plany należało więc po drodze zmodyfikować, a niektórzy gracze pomimo chęci zmiany otoczenia pozostają przywiązani do Realu.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Serge Ibaka odchodzi z Bayernu</title>
+        <link>https://www.realmadryt.pl/news/131068-oficjalnie-serge-ibaka-odchodzi-z-bayernu</link>
+        <pubDate>Tue, 16 Jul 2024 08:35:00 GMT</pubDate>
+        <description>Serge Ibaka oficjalnie zakończył swoją roczną przygodę w Bayernie Monachium. Wszystko wskazuje na to, że następnym krokiem będzie podpisanie kontraktu z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Vinicius, Bellingham i Carvajal kontra Rodri - dla kogo Złota Piłka 2024?</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/131059-kylian-mbappe-przylecial-do-madrytu-video</link>
         <pubDate>Mon, 15 Jul 2024 20:28:00 GMT</pubDate>
         <description>Francuz po południu wylądował w Madrycie i rozpoczął przygotowania do jutrzejszej prezentacji na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>L’Équipe: Manchester United zaoferował 63 miliony euro za Yoro</title>
-        <link>https://www.realmadryt.pl/news/131060-l-equipe-manchester-united-zaoferowal-63-miliony-euro-za-yoro</link>
-        <pubDate>Mon, 15 Jul 2024 20:15:00 GMT</pubDate>
-        <description>Anglicy są zdeterminowani, by pozyskać Francuza. Sam piłkarz wstępnie preferuje transfer do Realu Madryt. Paris Saint-Germain na razie pozostaje obojętne na ruchy rywali.</description>
-    </item>
-    
-    <item>
-        <title>Zidane: Bellingham w 2022 roku na finale powiedział, że chce zrobić to samo</title>
-        <link>https://www.realmadryt.pl/news/131058-zidane-bellingham-w-2022-roku-na-finale-powiedzial-ze-chce-zrobic-to-samo</link>
-        <pubDate>Mon, 15 Jul 2024 19:06:00 GMT</pubDate>
-        <description>Dziennikarze The Athletic otrzymali zaproszenie za kulisy sesji okładkowej do gry EA FC 25. Przedstawiamy wypowiedzi Zinédine'a Zidane'a na temat Jude'a Bellinghama. Obaj znaleźli się na okładce wersji Ultimate.</description>
     </item>
     
 </channel>
