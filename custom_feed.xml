@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Jul 2024 09:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 09:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé podpisał kontrakt</title>
+        <link>https://www.realmadryt.pl/news/131075-mbappe-podpisal-kontrakt</link>
+        <pubDate>Tue, 16 Jul 2024 11:42:00 GMT</pubDate>
+        <description>Francuski piłkarz niemal w pełni może czuć się już nowym zawodnikiem Realu Madryt, ponieważ złożył podpis na umowie.</description>
+    </item>
     
     <item>
         <title>Kylian Mbappé przeszedł badania medyczne</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131069-dzisiejsze-okladki</link>
         <pubDate>Tue, 16 Jul 2024 00:59:00 GMT</pubDate>
         <description>Świętowanie tytułu przez Hiszpanów to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ogromne zainteresowanie prezentacją Mbappé</title>
-        <link>https://www.realmadryt.pl/news/131064-ogromne-zainteresowanie-prezentacja-mbappe</link>
-        <pubDate>Mon, 15 Jul 2024 22:14:00 GMT</pubDate>
-        <description>Wtorkowa prezentacja Kyliana Mbappé budzi olbrzymie zainteresowanie madridismo. Bilety na uroczystość, które Real Madryt dystrybuował za darmo, można nabyć na czarnym rynku za 100 euro. Królewscy spodziewają się, że prezentacja Francuza zgromadzi co najmniej tyle samo fanów, co prezentacja Cristiano 15 lat temu.</description>
     </item>
     
 </channel>
