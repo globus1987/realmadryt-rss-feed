@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Jul 2024 10:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 10:40:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/131109-dzisiejszy-trening</link>
+        <pubDate>Wed, 17 Jul 2024 12:22:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali przedsezonowe przygotowania.</description>
+    </item>
     
     <item>
         <title>The Athletic: Leny Yoro leci już do Manchesteru na badania medyczne</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131098-dzisiejsze-okladki</link>
         <pubDate>Wed, 17 Jul 2024 00:09:00 GMT</pubDate>
         <description>Prezentacja Kyliana Mbappé i przyszłość Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kadra koszykarzy prawie zamknięta</title>
-        <link>https://www.realmadryt.pl/news/131097-kadra-koszykarzy-prawie-zamknieta</link>
-        <pubDate>Tue, 16 Jul 2024 22:40:00 GMT</pubDate>
-        <description>Real Madryt już niemal zamknął koszykarską kadrę na nowy sezon. Pozostaje oficjalne ogłoszenie transferów Ibaki oraz Garuby, a nad przedłużeniem kontraktu zastanawia się jeszcze Causeur.</description>
     </item>
     
 </channel>
