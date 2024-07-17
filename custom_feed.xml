@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Jul 2024 21:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 22:19:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131125-dzisiejsze-okladki</link>
+        <pubDate>Thu, 18 Jul 2024 00:09:00 GMT</pubDate>
+        <description>Echa prezentacji Kyliana Mbappé i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Premier „odegra się” na Carvajalu za jego gest ze świętowania tytułu?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131113-dwudziesty-czwarty-francuz-w-realu-madryt</link>
         <pubDate>Wed, 17 Jul 2024 16:35:00 GMT</pubDate>
         <description>Kopa, Zidane, Benzema i inni. We wtorek do bogatego grona francuskich zawodników w historii Realu Madryt dołączył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Internauta skazany przez sąd za obrażanie Viníciusa i Rüdigera</title>
-        <link>https://www.realmadryt.pl/news/131115-oficjalnie-internauta-skazany-przez-sad-za-obrazanie-viniciusa-i-ruedigera</link>
-        <pubDate>Wed, 17 Jul 2024 15:48:00 GMT</pubDate>
-        <description>Real Madryt wydał oficjalny komunikat w sprawie sądowego wyroku.</description>
     </item>
     
 </channel>
