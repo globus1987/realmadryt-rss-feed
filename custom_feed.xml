@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Jul 2024 19:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 20:20:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Algorytm, który stoi za sukcesami Królewskich</title>
+        <link>https://www.realmadryt.pl/news/131102-algorytm-ktory-stoi-za-sukcesami-krolewskich</link>
+        <pubDate>Wed, 17 Jul 2024 22:10:00 GMT</pubDate>
+        <description>Real Madryt od kilku lat rozwija swój dział algorytmów matematycznych, którego działalność obejmuje cały klub.</description>
+    </item>
     
     <item>
         <title>Żelazna dama pękła</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131114-transfer-nowego-stopera-realowi-ma-wystarczyc-tchouameni</link>
         <pubDate>Wed, 17 Jul 2024 15:32:00 GMT</pubDate>
         <description>Hiszpańscy dziennikarze przedstawili kilka istotnych informacji w sprawie środka obrony Królewskich. Na ten moment wszystko wskazuje na to, że Real Madryt nie kupi nowego stopera.</description>
-    </item>
-    
-    <item>
-        <title>AS: Iker Bravo przechodzi do Udinese</title>
-        <link>https://www.realmadryt.pl/news/131110-as-iker-bravo-przechodzi-do-udinese</link>
-        <pubDate>Wed, 17 Jul 2024 14:53:00 GMT</pubDate>
-        <description>Iker Bravo od samego początku stawiał sprawę jasno: chce wylądować w jednej z czołowych lig. I tak też najpewniej się stanie. Jak donoszą dziennikarze Asa, 19-latek podpisze kontrakt z Udinese.</description>
     </item>
     
 </channel>
