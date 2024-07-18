@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Jul 2024 14:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 14:53:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowe wyzwania Modricia</title>
+        <link>https://www.realmadryt.pl/news/131116-nowe-wyzwania-modricia</link>
+        <pubDate>Thu, 18 Jul 2024 16:53:00 GMT</pubDate>
+        <description>Chorwat będzie występował w Realu Madryt jeszcze co najmniej przez rok, co daje mu niepowtarzalną szansę na powiększenie swojej już i tak gigantycznej legendy.</description>
+    </item>
     
     <item>
         <title>Ładny gest Joselu na pożegnanie z Realem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131123-oficjalnie-david-gonzalez-zawodnikiem-burgosu</link>
         <pubDate>Thu, 18 Jul 2024 10:41:00 GMT</pubDate>
         <description>David González wraca w rodzinne strony. Po przejściu przez Real Madryt i Numancię ponownie będzie bronił barw Burgosu, z którym podpisał trzyletnią umowę.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 18 lipca</title>
-        <link>https://www.realmadryt.pl/news/131121-kartka-z-kalendarza-18-lipca</link>
-        <pubDate>Thu, 18 Jul 2024 09:58:00 GMT</pubDate>
-        <description>Prezentacja zespołu i nowych strojów, urodziny byłych zawodników, nieoficjalny debiut Rafy Beníteza i prezentacja wypożyczonego obrońcy. Co działo się 18 lipca?</description>
     </item>
     
 </channel>
