@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Jul 2024 17:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 18:28:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znajdź różnice</title>
+        <link>https://www.realmadryt.pl/news/131135-znajdz-roznice</link>
+        <pubDate>Thu, 18 Jul 2024 20:19:00 GMT</pubDate>
+        <description>Wyczekiwana prezentacja francuskiego napastnika odbyła się na Santiago Bernabéu, bardzo przypominając tę, która miała miejsce na tym obiekcie 15 lat wcześniej.</description>
+    </item>
     
     <item>
         <title>Drugi czwartkowy trening</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131133-pierwszy-czwartkowy-trening</link>
         <pubDate>Thu, 18 Jul 2024 12:34:00 GMT</pubDate>
         <description>Królewscy rozpoczęli czwarty dzień przygotowań w Valdebebas i mają za sobą pierwszy czwartkowy trening.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lucas Vázquez 2025!</title>
-        <link>https://www.realmadryt.pl/news/131130-oficjalnie-lucas-vazquez-2025</link>
-        <pubDate>Thu, 18 Jul 2024 12:08:00 GMT</pubDate>
-        <description>Real Madryt oficjalnie poinformował o tym, że Hiszpan zostaje w klubie na przyszły sezon</description>
     </item>
     
 </channel>
