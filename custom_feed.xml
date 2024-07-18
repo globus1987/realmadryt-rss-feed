@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Jul 2024 05:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 05:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Decyzja Yoro podgrzewa „sprawę Łunina”</title>
+        <link>https://www.realmadryt.pl/news/131119-decyzja-yoro-podgrzewa-sprawe-lunina</link>
+        <pubDate>Thu, 18 Jul 2024 07:25:00 GMT</pubDate>
+        <description>Operacje związane ze sprowadzeniem Leny'ego Yoro i przedłużeniem kontraktu z Andrijem Łuninem z pozoru wydają się nie być w żaden sposób powiązane. Obu piłkarzy łączy jednak jedna osoba: Jorge Mendes.</description>
+    </item>
     
     <item>
         <title>Matka Mbappé: Gdyby nie chodziło o Real, to nigdy nie opuściłby Paryża</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131117-jude-bellingham-twarza-gry-ea-sports-fc-25</link>
         <pubDate>Wed, 17 Jul 2024 18:05:00 GMT</pubDate>
         <description>Zawodnik Realu Madryt promuje najnowszą edycję gry od EA Sports. Dzisiaj pojawił się też pierwszy trailer nowej odsłony gry.</description>
-    </item>
-    
-    <item>
-        <title>Brahim: Moim celem jest zdobycie afrykańskiej Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/131085-brahim-moim-celem-jest-zdobycie-afrykanskiej-zlotej-pilki</link>
-        <pubDate>Wed, 17 Jul 2024 17:25:00 GMT</pubDate>
-        <description>Zawodnik Realu Madryt udzielił wywiadu telewizji BeIN Sports, w którym opowiedział o pierwszych doświadczeniach z kadry Lwów Atlasu oraz celach drużynowych i indywidualnych. Przedstawiamy jego najważniejsze wypowiedzi.</description>
     </item>
     
 </channel>
