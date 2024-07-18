@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Jul 2024 08:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 08:54:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Mbappé jest najlepszy na świecie”</title>
+        <link>https://www.realmadryt.pl/news/131082-mbappe-jest-najlepszy-na-swiecie</link>
+        <pubDate>Thu, 18 Jul 2024 10:49:00 GMT</pubDate>
+        <description>Raúl González, Álvaro Arbeloa oraz Pirri udzielili wywiadów dla klubowej telewizji tuż po prezentacji Kyliana Mbappé na Santiago Bernabéu. Przedstawiamy wypowiedzi legend Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: David González zawodnikiem Burgosu</title>
+        <link>https://www.realmadryt.pl/news/131123-oficjalnie-david-gonzalez-zawodnikiem-burgosu</link>
+        <pubDate>Thu, 18 Jul 2024 10:41:00 GMT</pubDate>
+        <description>David González wraca w rodzinne strony. Po przejściu przez Real Madryt i Numancię ponownie będzie bronił barw Burgosu, z którym podpisał trzyletnią umowę.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 18 lipca</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/131102-algorytm-ktory-stoi-za-sukcesami-krolewskich</link>
         <pubDate>Wed, 17 Jul 2024 22:10:00 GMT</pubDate>
         <description>Real Madryt od kilku lat rozwija swój dział algorytmów matematycznych, którego działalność obejmuje cały klub.</description>
-    </item>
-    
-    <item>
-        <title>Żelazna dama pękła</title>
-        <link>https://www.realmadryt.pl/news/131087-zelazna-dama-pekla</link>
-        <pubDate>Wed, 17 Jul 2024 21:10:00 GMT</pubDate>
-        <description>Matka Kyliana Mbappé, Fayza Lamari, również cierpiała przez te wszystkie lata, żeby spełnić marzenie swojego syna i podczas jego prezentacji na Santiago Bernabéu po raz pierwszy nie potrafiła powstrzymać łez.</description>
-    </item>
-    
-    <item>
-        <title>Jedyna prośba Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/131120-jedyna-prosba-ancelottiego</link>
-        <pubDate>Wed, 17 Jul 2024 20:30:00 GMT</pubDate>
-        <description>Prezentacja Kyliana Mbappé była w ostatnich dniach priorytetem Realu Madryt. Klub ma jednak jeszcze kilka palących kwestii do rozwiązania. Po spektakularnym wtorkowym wydarzeniu czas rozsupłać problemy z obsadą bramki oraz środka i lewej strony bloku defensywnego.</description>
     </item>
     
 </channel>
