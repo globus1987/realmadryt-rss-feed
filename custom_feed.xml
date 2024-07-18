@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Jul 2024 09:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 09:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Yoro pękł</title>
+        <link>https://www.realmadryt.pl/news/131127-yoro-pekl</link>
+        <pubDate>Thu, 18 Jul 2024 11:40:00 GMT</pubDate>
+        <description>Leny Yoro ostatecznie nie wytrzymał presji Lille i zaakceptował ofertę Manchesteru United. Anglicy zapłacą za 18-letniego Francuza 50 milionów euro i dodatkowe 20 milionów euro w formie zmiennych, a samemu zawodnikowi zaproponowali dużo bardziej lukratywny kontrakt niż ten, na jaki mógłby liczyć w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>„Mbappé jest najlepszy na świecie”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131124-premier-odegra-sie-na-carvajalu-za-jego-gest-ze-swietowania-tytulu</link>
         <pubDate>Wed, 17 Jul 2024 23:00:00 GMT</pubDate>
         <description>Gest obrońcy Realu Madryt wobec premiera Hiszpanii był jednym z najgoręcej komentowanych w trakcie poniedziałkowego świętowania mistrzostwa Europy. Pojawiają się spekulacje, że piłkarz Królewskich może teraz za niego „zapłacić”.</description>
-    </item>
-    
-    <item>
-        <title>Algorytm, który stoi za sukcesami Królewskich</title>
-        <link>https://www.realmadryt.pl/news/131102-algorytm-ktory-stoi-za-sukcesami-krolewskich</link>
-        <pubDate>Wed, 17 Jul 2024 22:10:00 GMT</pubDate>
-        <description>Real Madryt od kilku lat rozwija swój dział algorytmów matematycznych, którego działalność obejmuje cały klub.</description>
     </item>
     
 </channel>
