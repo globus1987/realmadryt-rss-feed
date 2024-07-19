@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Jul 2024 22:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 22:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131163-dzisiejsze-okladki</link>
+        <pubDate>Sat, 20 Jul 2024 00:46:00 GMT</pubDate>
+        <description>Popisy Pogačara, praca Flicka i wartość piłkarzy Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pol Fortuny z kolejną asystą</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131157-oficjalnie-hiszpania-zaprezentowala-11-stadionow-na-mistrzostwa-swiata</link>
         <pubDate>Fri, 19 Jul 2024 14:55:00 GMT</pubDate>
         <description>Wśród nich oczywiście Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Álvaro Morata w Milanie</title>
-        <link>https://www.realmadryt.pl/news/131156-oficjalnie-alvaro-morata-w-milanie</link>
-        <pubDate>Fri, 19 Jul 2024 14:05:00 GMT</pubDate>
-        <description>Jeden z rywali Realu Madryt w La Lidze traci swojego podstawowego napastnika. AC Milan oficjalnie potwierdził pozyskanie Álvaro Moraty.</description>
     </item>
     
 </channel>
