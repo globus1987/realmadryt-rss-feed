@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Jul 2024 15:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:39:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zasłużone wakacje Kyliana Mbappé</title>
+        <link>https://www.realmadryt.pl/news/131149-zasluzone-wakacje-kyliana-mbappe</link>
+        <pubDate>Fri, 19 Jul 2024 17:30:00 GMT</pubDate>
+        <description>Mbappé wyjechał na wakacje ogromnie wyczerpany po intensywnym roku, w którym nie zakończyły się jego spory finansowe z PSG.</description>
+    </item>
     
     <item>
         <title>COPE: Jesús Vallejo zostaje w Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131045-canteranos-realu-preferuja-kierunek-wloski</link>
         <pubDate>Fri, 19 Jul 2024 11:47:00 GMT</pubDate>
         <description>Wielu wychowanków Królewskich uważa Włochy jako najlepsze miejsce do rozwoju. Klub tylko na tym zyskuje.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Hiszpańskie stadiony Mistrzostw Świata 2030</title>
-        <link>https://www.realmadryt.pl/news/131147-marca-hiszpanskie-stadiony-mistrzostw-swiata-2030</link>
-        <pubDate>Fri, 19 Jul 2024 10:53:00 GMT</pubDate>
-        <description>Hiszpania przedstawi FIFA swój projekt 31 lipca i światowa federacja podejmie decyzję co do jego akceptacji.</description>
     </item>
     
 </channel>
