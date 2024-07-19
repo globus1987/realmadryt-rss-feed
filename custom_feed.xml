@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Jul 2024 07:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 08:24:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 19 lipca</title>
+        <link>https://www.realmadryt.pl/news/131141-kartka-z-kalendarza-19-lipca</link>
+        <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
+        <description>Tragiczna śmierć byłego zawodnika, rozstanie z argentyńskim pomocnikiem, odejścia z klubu Álvaro Moraty i młodzieżowe mistrzostwo Europy dla Hiszpanii. Co działo się 19 lipca?</description>
+    </item>
     
     <item>
         <title>Leandro Antonetti na celowniku Castilli</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131135-znajdz-roznice</link>
         <pubDate>Thu, 18 Jul 2024 20:19:00 GMT</pubDate>
         <description>Wyczekiwana prezentacja francuskiego napastnika odbyła się na Santiago Bernabéu, bardzo przypominając tę, która miała miejsce na tym obiekcie 15 lat wcześniej.</description>
-    </item>
-    
-    <item>
-        <title>Drugi czwartkowy trening</title>
-        <link>https://www.realmadryt.pl/news/131140-drugi-czwartkowy-trening</link>
-        <pubDate>Thu, 18 Jul 2024 19:29:00 GMT</pubDate>
-        <description>Królewscy zakończyli czwarty dzień przygotowań w Valdebebas i mają za sobą drugi czwartkowy trening.</description>
     </item>
     
 </channel>
