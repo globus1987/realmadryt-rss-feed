@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 03:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 03:40:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złoty interes</title>
+        <link>https://www.realmadryt.pl/news/131136-zloty-interes</link>
+        <pubDate>Sat, 20 Jul 2024 05:30:00 GMT</pubDate>
+        <description>Klub już zaciera ręce na myśl o zyskach generowanych przez swoją nową gwiazdę. Gorączka na punkcie jego koszulki to dopiero początek. Francuz zarejestrował markę ze swoim nazwiskiem oraz cieszynkę, którą wykonuje po strzelonych golach.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131150-koeman-real-jest-lepszy-od-barcy-w-wielu-aspektach</link>
         <pubDate>Fri, 19 Jul 2024 15:55:00 GMT</pubDate>
         <description>Ronald Koeman, były piłkarz i trener Barcelony, rozmawiał z dziennikarzami przy okazji charytatywnego turnieju Koeman Cup 2024 i kolejny raz w ciągu ostatnich tygodni uderzał w kataloński klub. Przedstawiamy wypowiedzi selekcjonera reprezentacji Holandii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Hiszpania zaprezentowała 11 stadionów na Mistrzostwa Świata</title>
-        <link>https://www.realmadryt.pl/news/131157-oficjalnie-hiszpania-zaprezentowala-11-stadionow-na-mistrzostwa-swiata</link>
-        <pubDate>Fri, 19 Jul 2024 14:55:00 GMT</pubDate>
-        <description>Wśród nich oczywiście Santiago Bernabéu.</description>
     </item>
     
 </channel>
