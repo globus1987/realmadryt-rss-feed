@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 16:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 17:17:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Espanyol zainteresowany Latasą</title>
+        <link>https://www.realmadryt.pl/news/131176-espanyol-zainteresowany-latasa</link>
+        <pubDate>Sat, 20 Jul 2024 19:15:00 GMT</pubDate>
+        <description>Espanyol sonduje rynek i… sytuację wychowanków Realu Madryt. Wobec problemów z napastnikami pojawiło się zainteresowanie Juanmim Latasą.</description>
+    </item>
     
     <item>
         <title>Klub 100</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131092-militao-zaczyna-od-poczatku</link>
         <pubDate>Sat, 20 Jul 2024 09:45:00 GMT</pubDate>
         <description>Dobre występy Brazylijczyka na Copa América rozwiewają wątpliwości dotyczące jego kondycji fizycznej, a Carlo Ancelotti czeka na niego z otwartymi ramionami.</description>
-    </item>
-    
-    <item>
-        <title>„Zidane posuwał się za daleko”</title>
-        <link>https://www.realmadryt.pl/news/130879-zidane-posuwal-sie-za-daleko</link>
-        <pubDate>Sat, 20 Jul 2024 08:45:00 GMT</pubDate>
-        <description>Francuski trener wycisnął maksimum ze swoich piłkarzy w ciągu półtora sezonu, kiedy prowadził drużynę rezerw.</description>
     </item>
     
 </channel>
