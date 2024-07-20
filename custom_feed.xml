@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 06:42:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 06:55:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Zidane posuwał się za daleko”</title>
+        <link>https://www.realmadryt.pl/news/130879-zidane-posuwal-sie-za-daleko</link>
+        <pubDate>Sat, 20 Jul 2024 08:45:00 GMT</pubDate>
+        <description>Francuski trener wycisnął maksimum ze swoich piłkarzy w ciągu półtora sezonu, kiedy prowadził drużynę rezerw.</description>
+    </item>
     
     <item>
         <title>Real Madryt otwiera restauracje na hiszpańskich lotniskach</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131149-zasluzone-wakacje-kyliana-mbappe</link>
         <pubDate>Fri, 19 Jul 2024 17:30:00 GMT</pubDate>
         <description>Mbappé wyjechał na wakacje ogromnie wyczerpany po intensywnym roku, w którym nie zakończyły się jego spory finansowe z PSG.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Jesús Vallejo zostaje w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/131158-cope-jesus-vallejo-zostaje-w-realu-madryt</link>
-        <pubDate>Fri, 19 Jul 2024 16:21:00 GMT</pubDate>
-        <description>Kontrakt środkowego obrońcy z Realem Madryt wygasa 30 czerwca 2025 roku i wszystko wskazuje na to, że wypełni go w stolicy Hiszpanii.</description>
     </item>
     
 </channel>
