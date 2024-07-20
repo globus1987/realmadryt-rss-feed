@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 12:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 12:58:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Causeur trafi do Olimpii Mediolan?</title>
+        <link>https://www.realmadryt.pl/news/131166-causeur-trafi-do-olimpii-mediolan</link>
+        <pubDate>Sat, 20 Jul 2024 14:45:00 GMT</pubDate>
+        <description>Fabien Causeur jest ostatnią niewiadomą w kadrze Realu Madryt. Królewscy zaproponowali mu przedłużenie umowy, ale Francuz rozważa również przenosiny do Włoch.</description>
+    </item>
     
     <item>
         <title>Łunin gotowy na wszystko</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131163-dzisiejsze-okladki</link>
         <pubDate>Sat, 20 Jul 2024 00:46:00 GMT</pubDate>
         <description>Popisy Pogačara, praca Flicka i wartość piłkarzy Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Pol Fortuny z kolejną asystą</title>
-        <link>https://www.realmadryt.pl/news/131162-pol-fortuny-z-kolejna-asysta</link>
-        <pubDate>Fri, 19 Jul 2024 23:27:00 GMT</pubDate>
-        <description>Hiszpania U-19 zremisowała z rówieśnikami z Turcji w drugiej kolejce Mistrzostw Europy rozgrywanych w Irlandii Północnej. Drugą asystę na turnieju zanotował Pol Fortuny.</description>
     </item>
     
 </channel>
