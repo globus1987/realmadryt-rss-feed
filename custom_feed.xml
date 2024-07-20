@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 15:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 16:24:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klub 100</title>
+        <link>https://www.realmadryt.pl/news/131171-klub-100</link>
+        <pubDate>Sat, 20 Jul 2024 18:10:00 GMT</pubDate>
+        <description>Real Madryt tkwi w bańce permanentnego szczęścia. Wyniki praktycznie nie mogą być lepsze, a kibicom na wyobraźnię wyjątkowo działają także transfery Mbappé i Endricka. Choć pewien grymas wywołać mogło niepowodzenie w sprawie Yoro, to jednak był on tylko chwilowy. Do tego dochodzi świetna sytuacja finansowa oraz piłkarze, których wartość z dnia na dzień znacząco wzrasta.</description>
+    </item>
     
     <item>
         <title>Castilla przygotowuje kolejną rewolucję</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/130879-zidane-posuwal-sie-za-daleko</link>
         <pubDate>Sat, 20 Jul 2024 08:45:00 GMT</pubDate>
         <description>Francuski trener wycisnął maksimum ze swoich piłkarzy w ciągu półtora sezonu, kiedy prowadził drużynę rezerw.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt otwiera restauracje na hiszpańskich lotniskach</title>
-        <link>https://www.realmadryt.pl/news/131148-real-madryt-otwiera-restauracje-na-hiszpanskich-lotniskach</link>
-        <pubDate>Sat, 20 Jul 2024 07:30:00 GMT</pubDate>
-        <description>The Corner by Real Madrid, hybrydowe strefy łączące ofertę gastronomiczną ze sprzedażą klubowych produktów, otworzono na terminalach T1 i T4 na lotnisku Barajas.</description>
     </item>
     
 </channel>
