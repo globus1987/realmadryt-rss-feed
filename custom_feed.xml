@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 10:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 11:16:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/131170-dzisiejszy-trening</link>
+        <pubDate>Sat, 20 Jul 2024 12:55:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali przedsezonowe przygotowania.</description>
+    </item>
     
     <item>
         <title>Verstappen: Zawsze będę kibicem Barcelony, ale trzeba realistycznie podchodzić do rywalizacji</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131161-brak-zaufania-arbeloi-i-kontuzja-ktora-wszystko-zmienila</link>
         <pubDate>Fri, 19 Jul 2024 21:30:00 GMT</pubDate>
         <description>Piłkarz czuje, że stracił wsparcie trenera. „W tym roku byłby kapitanem drużyny” – mówią z kolei przedstawiciele klubu.</description>
-    </item>
-    
-    <item>
-        <title>Nie tylko sukcesy</title>
-        <link>https://www.realmadryt.pl/news/131132-nie-tylko-sukcesy</link>
-        <pubDate>Fri, 19 Jul 2024 20:45:00 GMT</pubDate>
-        <description>Juniemu Calafatowi wychodzi prawie wszystko. Niepowodzenie z transferem Yoro jest jednym z niewielu kamyczków lądujących w jego ogródku. Szef skautingu Królewskich w ostatnich latach sprowadził co najmniej kilku piłkarzy, którzy stanowią dowód na świetne oko Calafata do młodych graczy. Wisienką na torcie jest niewątpliwie Arda. Nie zmienia to faktu, że i Juniemu nieraz powinie się noga.</description>
     </item>
     
 </channel>
