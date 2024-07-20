@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 07:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 07:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Militão zaczyna od początku</title>
+        <link>https://www.realmadryt.pl/news/131092-militao-zaczyna-od-poczatku</link>
+        <pubDate>Sat, 20 Jul 2024 09:45:00 GMT</pubDate>
+        <description>Dobre występy Brazylijczyka na Copa América rozwiewają wątpliwości dotyczące jego kondycji fizycznej, a Carlo Ancelotti czeka na niego z otwartymi ramionami.</description>
+    </item>
     
     <item>
         <title>„Zidane posuwał się za daleko”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131159-lucas-to-moj-dom-spedzilem-tutaj-ponad-polowe-swojego-zycia</link>
         <pubDate>Fri, 19 Jul 2024 18:35:00 GMT</pubDate>
         <description>Lucas Vázquez udzielił wywiadu dla klubowych mediów po podpisaniu nowego kontraktu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Zasłużone wakacje Kyliana Mbappé</title>
-        <link>https://www.realmadryt.pl/news/131149-zasluzone-wakacje-kyliana-mbappe</link>
-        <pubDate>Fri, 19 Jul 2024 17:30:00 GMT</pubDate>
-        <description>Mbappé wyjechał na wakacje ogromnie wyczerpany po intensywnym roku, w którym nie zakończyły się jego spory finansowe z PSG.</description>
     </item>
     
 </channel>
