@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Jul 2024 22:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jul 2024 23:19:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131181-dzisiejsze-okladki</link>
+        <pubDate>Sun, 21 Jul 2024 00:57:00 GMT</pubDate>
+        <description>Początek Endricka i zachwyty nad Flickiem to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Odejście Łunina to kwestia pieniędzy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131170-dzisiejszy-trening</link>
         <pubDate>Sat, 20 Jul 2024 12:55:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali przedsezonowe przygotowania.</description>
-    </item>
-    
-    <item>
-        <title>Verstappen: Zawsze będę kibicem Barcelony, ale trzeba realistycznie podchodzić do rywalizacji</title>
-        <link>https://www.realmadryt.pl/news/131169-verstappen-zawsze-bede-kibicem-barcelony-ale-trzeba-realistycznie-podchodzic-do-rywalizacji</link>
-        <pubDate>Sat, 20 Jul 2024 12:00:00 GMT</pubDate>
-        <description>Max Verstappen przy okazji Grand Prix Węgier Formuły 1 udzielił wywiadu dziennikowi Mundo Deportivo, który pytał go również o tematy piłkarskie. Przedstawiamy wypowiedzi kierowcy dotyczące rywalizacji Realu Madryt z Barceloną.</description>
     </item>
     
 </channel>
