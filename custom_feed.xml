@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Jul 2024 11:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 12:36:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/131187-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Sun, 21 Jul 2024 14:19:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas będą kontynuowali przedsezonowe przygotowania.</description>
+    </item>
     
     <item>
         <title>Hoeneß: Davies nie dostanie więcej pieniędzy</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131172-mbappe-wienczy-dzielo</link>
         <pubDate>Sun, 21 Jul 2024 05:30:00 GMT</pubDate>
         <description>Transfer Kyliana Mbappé jest wisienką na torcie. Przenosiny Francuza pokazują, w którą stronę od lat idzie Real Madryt i jak dokonała się rewolucja w pierwszym zespole Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131181-dzisiejsze-okladki</link>
-        <pubDate>Sun, 21 Jul 2024 00:57:00 GMT</pubDate>
-        <description>Początek Endricka i zachwyty nad Flickiem to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
