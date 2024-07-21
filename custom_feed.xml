@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Jul 2024 03:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 03:39:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé wieńczy dzieło</title>
+        <link>https://www.realmadryt.pl/news/131172-mbappe-wienczy-dzielo</link>
+        <pubDate>Sun, 21 Jul 2024 05:30:00 GMT</pubDate>
+        <description>Transfer Kyliana Mbappé jest wisienką na torcie. Przenosiny Francuza pokazują, w którą stronę od lat idzie Real Madryt i jak dokonała się rewolucja w pierwszym zespole Królewskich.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131165-lunin-gotowy-na-wszystko</link>
         <pubDate>Sat, 20 Jul 2024 13:50:00 GMT</pubDate>
         <description>Bramkarz skraca urlop, aby odzyskać formę i być w najlepszej dyspozycji przed ewentualnym odejściem. Również do walki z Courtois, chociaż ta wojna wydaje się przegrana.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/131170-dzisiejszy-trening</link>
-        <pubDate>Sat, 20 Jul 2024 12:55:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali przedsezonowe przygotowania.</description>
     </item>
     
 </channel>
