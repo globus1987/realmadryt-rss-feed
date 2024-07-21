@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Jul 2024 16:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 16:56:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ruszyła maszyna</title>
+        <link>https://www.realmadryt.pl/news/131173-ruszyla-maszyna</link>
+        <pubDate>Sun, 21 Jul 2024 18:45:00 GMT</pubDate>
+        <description>Real Madryt to najcenniejsza i najsilniejsza marka piłkarska na świecie.</description>
+    </item>
     
     <item>
         <title>MARCA: Real zagra w środę towarzysko z Albacete</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131179-kartka-z-kalendarza-21-lipca</link>
         <pubDate>Sun, 21 Jul 2024 10:30:00 GMT</pubDate>
         <description>Pierwsze mecze przedsezonowe, ważne debiuty, prezentacja legendy drugiego zespołu i… powstanie Castilli. Co działo się 21 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Tavares: Moim celem było zostanie w Madrycie</title>
-        <link>https://www.realmadryt.pl/news/131180-tavares-moim-celem-bylo-zostanie-w-madrycie</link>
-        <pubDate>Sun, 21 Jul 2024 09:30:00 GMT</pubDate>
-        <description>Edy Tavares udzielił wywiadu portalowi La Provincia. Mówił w nim o przygotowaniach do nowego sezonu, problemach w starym i o transferach Realu Madryt.</description>
     </item>
     
 </channel>
