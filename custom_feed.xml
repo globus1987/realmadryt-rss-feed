@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Jul 2024 07:17:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 07:39:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tavares: Moim celem było zostanie w Madrycie</title>
+        <link>https://www.realmadryt.pl/news/131180-tavares-moim-celem-bylo-zostanie-w-madrycie</link>
+        <pubDate>Sun, 21 Jul 2024 09:30:00 GMT</pubDate>
+        <description>Edy Tavares udzielił wywiadu portalowi La Provincia. Mówił w nim o przygotowaniach do nowego sezonu, problemach w starym i o transferach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Mario Gila wraca do gry</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131167-castilla-przygotowuje-kolejna-rewolucje</link>
         <pubDate>Sat, 20 Jul 2024 17:05:00 GMT</pubDate>
         <description>Raúl wraca do pracy z zespołem, który po raz kolejny będzie miał wiele nowych twarzy.</description>
-    </item>
-    
-    <item>
-        <title>Transfer Mbappé buduje nową hierarchię w zespole</title>
-        <link>https://www.realmadryt.pl/news/131168-transfer-mbappe-buduje-nowa-hierarchie-w-zespole</link>
-        <pubDate>Sat, 20 Jul 2024 15:55:00 GMT</pubDate>
-        <description>Transfer Kyliana Mbappé zakłada wstrząs na wielu płaszczyznach. Choć to Francuz dołącza do zwycięskiej drużyny i w teorii powinien sam wpasować się w tło, to jednak rzeczywistość prezentuje się zgoła odmiennie.</description>
     </item>
     
 </channel>
