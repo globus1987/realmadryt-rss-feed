@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Jul 2024 09:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 09:38:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Endrick!</title>
+        <link>https://www.realmadryt.pl/news/131183-wszystkiego-najlepszego-endrick</link>
+        <pubDate>Sun, 21 Jul 2024 11:25:00 GMT</pubDate>
+        <description>Dziś w pełnoletniość wchodzi Endrick. Oznacza to, że czas oczekiwania na możliwość dołączenia Brazylijczyka do Realu Madryt dobiega końca. Z tej okazji życzymy napastnikowi, by w jak najlepszym stylu rozpoczął swoją – miejmy nadzieję – wieloletnią i pełną sukcesów przygodę w stolicy Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 21 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131176-espanyol-zainteresowany-latasa</link>
         <pubDate>Sat, 20 Jul 2024 19:15:00 GMT</pubDate>
         <description>Espanyol sonduje rynek i… sytuację wychowanków Realu Madryt. Wobec problemów z napastnikami pojawiło się zainteresowanie Juanmim Latasą.</description>
-    </item>
-    
-    <item>
-        <title>Klub 100</title>
-        <link>https://www.realmadryt.pl/news/131171-klub-100</link>
-        <pubDate>Sat, 20 Jul 2024 18:10:00 GMT</pubDate>
-        <description>Real Madryt tkwi w bańce permanentnego szczęścia. Wyniki praktycznie nie mogą być lepsze, a kibicom na wyobraźnię wyjątkowo działają także transfery Mbappé i Endricka. Choć pewien grymas wywołać mogło niepowodzenie w sprawie Yoro, to jednak był on tylko chwilowy. Do tego dochodzi świetna sytuacja finansowa oraz piłkarze, których wartość z dnia na dzień znacząco wzrasta.</description>
     </item>
     
 </channel>
