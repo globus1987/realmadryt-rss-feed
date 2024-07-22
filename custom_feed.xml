@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 10:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poranny trening</title>
+        <link>https://www.realmadryt.pl/news/131206-poranny-trening</link>
+        <pubDate>Mon, 22 Jul 2024 12:45:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali przedsezonowe przygotowania. Do pierwszego otwartego sparingu pozostaje 9 dni.</description>
+    </item>
     
     <item>
         <title>Benzema: Odszedłem w odpowiednim momencie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131198-dzisiejsze-okladki</link>
         <pubDate>Mon, 22 Jul 2024 00:17:00 GMT</pubDate>
         <description>Walka o Złotą Piłkę i wygrana Pogačara w Tour de France to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Alejandro Moya wzmacnia Real Madryt C</title>
-        <link>https://www.realmadryt.pl/news/131192-alejandro-moya-wzmacnia-real-madryt-c</link>
-        <pubDate>Sun, 21 Jul 2024 20:55:00 GMT</pubDate>
-        <description>Real Madryt C wzmacnia się przedłużeniem kontraktu z powracającym z wypożyczenia do Levante Alejandro Moyą.</description>
     </item>
     
 </channel>
