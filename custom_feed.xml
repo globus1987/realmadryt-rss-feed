@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 08:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 09:26:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: W środę Real Madryt pożegna Nacho</title>
+        <link>https://www.realmadryt.pl/news/131202-oficjalnie-w-srode-real-madryt-pozegna-nacho</link>
+        <pubDate>Mon, 22 Jul 2024 11:19:00 GMT</pubDate>
+        <description>Klub potwierdził datę oficjalnego pożegnania byłego kapitana.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 22 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131193-tydzien-powrotow-i-pozegnania</link>
         <pubDate>Sun, 21 Jul 2024 19:50:00 GMT</pubDate>
         <description>W tym tygodniu treningi w Valdebebas rozpoczną pierwsi reprezentanci z EURO 2024. W środę natomiast w Madrycie stawi się Nacho, aby pożegnać się z zespołem.</description>
-    </item>
-    
-    <item>
-        <title>Ruszyła maszyna</title>
-        <link>https://www.realmadryt.pl/news/131173-ruszyla-maszyna</link>
-        <pubDate>Sun, 21 Jul 2024 18:45:00 GMT</pubDate>
-        <description>Real Madryt to najcenniejsza i najsilniejsza marka piłkarska na świecie.</description>
     </item>
     
 </channel>
