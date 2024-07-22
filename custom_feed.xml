@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 17:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 18:26:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x00 – pytania</title>
+        <link>https://www.realmadryt.pl/news/131214-podcast-6x00-pytania</link>
+        <pubDate>Mon, 22 Jul 2024 19:56:00 GMT</pubDate>
+        <description>Rozpoczęliśmy przygotowania do nagrania odcinka otwierającego szósty sezon podcastu RealMadryt.pl. Wzorem poprzednich lat, ponownie zbieramy pytania od użytkowników przed kolejną publikacją.</description>
+    </item>
     
     <item>
         <title>Drugi poniedziałkowy trening</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131206-poranny-trening</link>
         <pubDate>Mon, 22 Jul 2024 12:45:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali przedsezonowe przygotowania. Do pierwszego otwartego sparingu pozostaje 9 dni.</description>
-    </item>
-    
-    <item>
-        <title>Benzema: Odszedłem w odpowiednim momencie</title>
-        <link>https://www.realmadryt.pl/news/131199-benzema-odszedlem-w-odpowiednim-momencie</link>
-        <pubDate>Mon, 22 Jul 2024 12:10:00 GMT</pubDate>
-        <description>Dziennik MARCA, korzystając z tego, że Al-Ittihad rozegrał mecz towarzyski z Elche w Hiszpanii, przeprowadził wywiad z Karimem Benzemą. Były kapitan Realu Madryt opowiedział o swoich obecnych celach oraz skomentował ostatnie sukcesy Królewskich.</description>
     </item>
     
 </channel>
