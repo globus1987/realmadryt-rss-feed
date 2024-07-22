@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 09:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 10:22:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Benzema: Odszedłem w odpowiednim momencie</title>
+        <link>https://www.realmadryt.pl/news/131199-benzema-odszedlem-w-odpowiednim-momencie</link>
+        <pubDate>Mon, 22 Jul 2024 12:10:00 GMT</pubDate>
+        <description>Dziennik MARCA, korzystając z tego, że Al-Ittihad rozegrał mecz towarzyski z Elche w Hiszpanii, przeprowadził wywiad z Karimem Benzemą. Były kapitan Realu Madryt opowiedział o swoich obecnych celach oraz skomentował ostatnie sukcesy Królewskich.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: W środę Real Madryt pożegna Nacho</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131192-alejandro-moya-wzmacnia-real-madryt-c</link>
         <pubDate>Sun, 21 Jul 2024 20:55:00 GMT</pubDate>
         <description>Real Madryt C wzmacnia się przedłużeniem kontraktu z powracającym z wypożyczenia do Levante Alejandro Moyą.</description>
-    </item>
-    
-    <item>
-        <title>Tydzień powrotów i pożegnania</title>
-        <link>https://www.realmadryt.pl/news/131193-tydzien-powrotow-i-pozegnania</link>
-        <pubDate>Sun, 21 Jul 2024 19:50:00 GMT</pubDate>
-        <description>W tym tygodniu treningi w Valdebebas rozpoczną pierwsi reprezentanci z EURO 2024. W środę natomiast w Madrycie stawi się Nacho, aby pożegnać się z zespołem.</description>
     </item>
     
 </channel>
