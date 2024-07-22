@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 16:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 17:20:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Drugi poniedziałkowy trening</title>
+        <link>https://www.realmadryt.pl/news/131216-drugi-poniedzialkowy-trening</link>
+        <pubDate>Mon, 22 Jul 2024 19:09:00 GMT</pubDate>
+        <description>Królewscy mają za sobą drugą poniedziałkową jednostkę treningową w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Yoro: Gra dla United to marzenie od małego</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131199-benzema-odszedlem-w-odpowiednim-momencie</link>
         <pubDate>Mon, 22 Jul 2024 12:10:00 GMT</pubDate>
         <description>Dziennik MARCA, korzystając z tego, że Al-Ittihad rozegrał mecz towarzyski z Elche w Hiszpanii, przeprowadził wywiad z Karimem Benzemą. Były kapitan Realu Madryt opowiedział o swoich obecnych celach oraz skomentował ostatnie sukcesy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: W środę Real Madryt pożegna Nacho</title>
-        <link>https://www.realmadryt.pl/news/131202-oficjalnie-w-srode-real-madryt-pozegna-nacho</link>
-        <pubDate>Mon, 22 Jul 2024 11:19:00 GMT</pubDate>
-        <description>Klub potwierdził datę oficjalnego pożegnania byłego kapitana.</description>
     </item>
     
 </channel>
