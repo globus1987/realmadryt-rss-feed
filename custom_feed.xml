@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 08:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 08:57:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 22 lipca</title>
+        <link>https://www.realmadryt.pl/news/131197-kartka-z-kalendarza-22-lipca</link>
+        <pubDate>Mon, 22 Jul 2024 10:50:00 GMT</pubDate>
+        <description>Urodziny byłego i obecnego piłkarza Królewskich, goleada w meczu towarzyskim, prezentacja gwiazdy z Ameryki Południowej i kontuzja Ceballosa. Co działo się 22 lipca?</description>
+    </item>
     
     <item>
         <title>Wyjazdowe koszulki na sezon 2024/25 zaprezentowane!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131173-ruszyla-maszyna</link>
         <pubDate>Sun, 21 Jul 2024 18:45:00 GMT</pubDate>
         <description>Real Madryt to najcenniejsza i najsilniejsza marka piłkarska na świecie.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real zagra w środę towarzysko z Albacete</title>
-        <link>https://www.realmadryt.pl/news/131191-marca-real-zagra-w-srode-towarzysko-z-albacete</link>
-        <pubDate>Sun, 21 Jul 2024 17:30:00 GMT</pubDate>
-        <description>Królewscy z graczami Castilli w składzie zmierzą się z drugoligowym Albacete.</description>
     </item>
     
 </channel>
