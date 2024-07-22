@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Jul 2024 16:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 16:43:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Yoro: Gra dla United to marzenie od małego</title>
+        <link>https://www.realmadryt.pl/news/131213-yoro-gra-dla-united-to-marzenie-od-malego</link>
+        <pubDate>Mon, 22 Jul 2024 18:40:00 GMT</pubDate>
+        <description>Leny Yoro udzielił wywiadu mediom Manchesteru United. Przedstawiamy najważniejsze wypowiedzi stopera, którym interesował się także Real Madryt.</description>
+    </item>
     
     <item>
         <title>Deszcz milionów dla Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131202-oficjalnie-w-srode-real-madryt-pozegna-nacho</link>
         <pubDate>Mon, 22 Jul 2024 11:19:00 GMT</pubDate>
         <description>Klub potwierdził datę oficjalnego pożegnania byłego kapitana.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 22 lipca</title>
-        <link>https://www.realmadryt.pl/news/131197-kartka-z-kalendarza-22-lipca</link>
-        <pubDate>Mon, 22 Jul 2024 10:50:00 GMT</pubDate>
-        <description>Urodziny byłego i obecnego piłkarza Królewskich, goleada w meczu towarzyskim, prezentacja gwiazdy z Ameryki Południowej i kontuzja Ceballosa. Co działo się 22 lipca?</description>
     </item>
     
 </channel>
