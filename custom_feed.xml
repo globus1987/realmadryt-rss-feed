@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 11:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 11:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Gazzetta: Real Madryt interesował się Hummelsem</title>
+        <link>https://www.realmadryt.pl/news/131232-la-gazzetta-real-madryt-interesowal-sie-hummelsem</link>
+        <pubDate>Tue, 23 Jul 2024 13:20:00 GMT</pubDate>
+        <description>Włosi informują, że Bologna w poszukiwaniu następcy Riccardo Calafioriego spojrzała na Niemca, ale sprawa nie jest jeszcze definitywnie domknięta, bo w grze ma pozostawać także Real Madryt. W Hiszpanii na razie nie ma informacji w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Fabien Causeur odchodzi z Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131209-coraz-wieksze-napiecie-wokol-lunina</link>
         <pubDate>Tue, 23 Jul 2024 05:30:00 GMT</pubDate>
         <description>Przyszłość Andrija Łunina wciąż jest spowita mgłą niepewności, ale na pewno nie pomaga w jej rozwianiu obecność Jorge'a Mendesa, który w ostatnich dwóch transakcjach pracował raczej na niekorzyść Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131220-dzisiejsze-okladki</link>
-        <pubDate>Tue, 23 Jul 2024 00:05:00 GMT</pubDate>
-        <description>Przygotowania do Igrzysk Olimpijskich i wywiad z trenerem Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
