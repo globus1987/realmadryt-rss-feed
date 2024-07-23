@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 07:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 08:26:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 lipca</title>
+        <link>https://www.realmadryt.pl/news/131224-kartka-z-kalendarza-23-lipca</link>
+        <pubDate>Tue, 23 Jul 2024 10:10:00 GMT</pubDate>
+        <description>Transfer Estebana Granero, towarzyski mecz z Manchesterem United i prezentacja bramkarza. Co działo się 23 lipca?</description>
+    </item>
     
     <item>
         <title>Mijatović: Jestem pewny, że klub będzie pracował nad transferem stopera</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131214-podcast-6x00-pytania</link>
         <pubDate>Mon, 22 Jul 2024 19:56:00 GMT</pubDate>
         <description>Rozpoczęliśmy przygotowania do nagrania odcinka otwierającego szósty sezon podcastu RealMadryt.pl. Wzorem poprzednich lat, ponownie zbieramy pytania od użytkowników przed kolejną publikacją.</description>
-    </item>
-    
-    <item>
-        <title>Drugi poniedziałkowy trening</title>
-        <link>https://www.realmadryt.pl/news/131216-drugi-poniedzialkowy-trening</link>
-        <pubDate>Mon, 22 Jul 2024 19:09:00 GMT</pubDate>
-        <description>Królewscy mają za sobą drugą poniedziałkową jednostkę treningową w Valdebebas.</description>
     </item>
     
 </channel>
