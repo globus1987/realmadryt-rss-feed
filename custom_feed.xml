@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 14:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 14:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bramkarskie domino</title>
+        <link>https://www.realmadryt.pl/news/131236-bramkarskie-domino</link>
+        <pubDate>Tue, 23 Jul 2024 16:50:00 GMT</pubDate>
+        <description>W Realu Madryt, Chelsea, Villarrealu i Las Palmas wkrótce może dojść zmian w bramce, które są od siebie zależne.</description>
+    </item>
     
     <item>
         <title>MARCA: Mendy bliski przedłużenia umowy z Realem Madryt!</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131223-manchester-united-powtorzyl-formule-z-zidaneem</link>
         <pubDate>Tue, 23 Jul 2024 11:05:00 GMT</pubDate>
         <description>Manchester United zaangażował swoją legendę, Rio Ferdinanda, by przekonać do transferu Leny'ego Yoro, tak samo, jak swego czasu Real Madryt z Zinédine'em Zidane'em.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 23 lipca</title>
-        <link>https://www.realmadryt.pl/news/131224-kartka-z-kalendarza-23-lipca</link>
-        <pubDate>Tue, 23 Jul 2024 10:10:00 GMT</pubDate>
-        <description>Transfer Estebana Granero, towarzyski mecz z Manchesterem United i prezentacja bramkarza. Co działo się 23 lipca?</description>
     </item>
     
 </channel>
