@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 19:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 19:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pomarańczowy, który przywodzi na myśl wspomnienia</title>
+        <link>https://www.realmadryt.pl/news/131221-pomaranczowy-ktory-przywodzi-na-mysl-wspomnienia</link>
+        <pubDate>Tue, 23 Jul 2024 21:30:00 GMT</pubDate>
+        <description>Kibice Realu Madryt mają oczywiste skojarzenia z drugim kompletem strojów zaprezentowanym w poniedziałek.</description>
+    </item>
     
     <item>
         <title>Arribas ma swoją cenę</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131235-europejskie-ligi-i-pilkarze-skladaja-skarge-na-fifa</link>
         <pubDate>Tue, 23 Jul 2024 14:25:00 GMT</pubDate>
         <description>Związek piłkarzy i związek europejskich lig złożyły skargę na FIFA w Komisji Europejskiej. Zarzut dotyczy tworzenia międzynarodowego kalendarza gier. Organizacje twierdzą, że FIFA narusza europejskie prawo konkurencji.</description>
-    </item>
-    
-    <item>
-        <title>Trybunał Administracyjny zajmie się skargą Realu Madryt na prezesa La Ligi</title>
-        <link>https://www.realmadryt.pl/news/131233-trybunal-administracyjny-zajmie-sie-skarga-realu-madryt-na-prezesa-la-ligi</link>
-        <pubDate>Tue, 23 Jul 2024 14:12:00 GMT</pubDate>
-        <description>Organ sądowy otworzył postępowanie wobec Javiera Tebasa po skardze Realu Madryt. Zarzut jest poważny, chociaż sam prezes La Ligi zdał sobie z niego sprawę i szybko naprawił swój błąd. Mimo wszystko w teorii grozi mu nawet zwolnienie ze stanowiska.</description>
     </item>
     
 </channel>
