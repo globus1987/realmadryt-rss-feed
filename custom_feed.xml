@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 16:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 16:44:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pięciu wspaniałych</title>
+        <link>https://www.realmadryt.pl/news/131225-pieciu-wspanialych</link>
+        <pubDate>Tue, 23 Jul 2024 18:35:00 GMT</pubDate>
+        <description>Kylian Mbappé, Vinícius, Rodrygo, Brahim i Endrick zdobyli na przestrzeni ostatnich dwunastu miesięcy 108 bramek. Dodając do tego strzeleckie wsparcie Jude'a Bellinghama i Ardy Gülera podopieczni Carlo Ancelottiego mogą celować w pobicie rekordu 121 ligowych bramek z sezonu 2011/12.</description>
+    </item>
     
     <item>
         <title>Madryt ogranicza godziny koncertów na Bernabéu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131229-wtorkowy-trening</link>
         <pubDate>Tue, 23 Jul 2024 12:25:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zaliczyli trzecią jednostkę treningową w tym tygodniu.</description>
-    </item>
-    
-    <item>
-        <title>Real nadal zarabia na Moracie</title>
-        <link>https://www.realmadryt.pl/news/131226-real-nadal-zarabia-na-moracie</link>
-        <pubDate>Tue, 23 Jul 2024 12:01:00 GMT</pubDate>
-        <description>Real Madryt, łącząc czyste transfery i opłatę solidarnościową, zarobił na napastniku, który właśnie dołączył do Milanu, już 74,8 miliona.</description>
     </item>
     
 </channel>
