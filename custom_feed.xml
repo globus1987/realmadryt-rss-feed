@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 15:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 15:53:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Madryt ogranicza godziny koncertów na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/131228-madryt-ogranicza-godziny-koncertow-na-bernabeu</link>
+        <pubDate>Tue, 23 Jul 2024 17:42:00 GMT</pubDate>
+        <description>Madryt narzucił Realowi kolejne ograniczenie przy organizacji koncertów. Skargi sąsiadów nie ustają, ale miasto próbuje znaleźć kompromis, bo w wydarzeniach na Santiago Bernabéu widzi także wielkie szanse i przede wszystkim pieniądze dla siebie.</description>
+    </item>
     
     <item>
         <title>Bramkarskie domino</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131226-real-nadal-zarabia-na-moracie</link>
         <pubDate>Tue, 23 Jul 2024 12:01:00 GMT</pubDate>
         <description>Real Madryt, łącząc czyste transfery i opłatę solidarnościową, zarobił na napastniku, który właśnie dołączył do Milanu, już 74,8 miliona.</description>
-    </item>
-    
-    <item>
-        <title>Manchester United powtórzył formułę z Zidane'em</title>
-        <link>https://www.realmadryt.pl/news/131223-manchester-united-powtorzyl-formule-z-zidaneem</link>
-        <pubDate>Tue, 23 Jul 2024 11:05:00 GMT</pubDate>
-        <description>Manchester United zaangażował swoją legendę, Rio Ferdinanda, by przekonać do transferu Leny'ego Yoro, tak samo, jak swego czasu Real Madryt z Zinédine'em Zidane'em.</description>
     </item>
     
 </channel>
