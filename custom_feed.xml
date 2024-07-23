@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 03:24:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 03:42:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Coraz większe napięcie wokół Łunina</title>
+        <link>https://www.realmadryt.pl/news/131209-coraz-wieksze-napiecie-wokol-lunina</link>
+        <pubDate>Tue, 23 Jul 2024 05:30:00 GMT</pubDate>
+        <description>Przyszłość Andrija Łunina wciąż jest spowita mgłą niepewności, ale na pewno nie pomaga w jej rozwianiu obecność Jorge'a Mendesa, który w ostatnich dwóch transakcjach pracował raczej na niekorzyść Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131211-dani-carvajal-zostanie-uhonorowany-przez-leganes</link>
         <pubDate>Mon, 22 Jul 2024 17:00:00 GMT</pubDate>
         <description>Dani Carvajal, świeżo upieczony mistrz Europy, zostanie uhonorowany także przez swoją małą ojczyznę, miasto Leganés.</description>
-    </item>
-    
-    <item>
-        <title>Ile zawodniczek i zawodników wystąpi na Igrzyskach Olimpijskich w Paryżu?</title>
-        <link>https://www.realmadryt.pl/news/131186-ile-zawodniczek-i-zawodnikow-wystapi-na-igrzyskach-olimpijskich-w-paryzu</link>
-        <pubDate>Mon, 22 Jul 2024 16:07:00 GMT</pubDate>
-        <description>Igrzyska Olimpijskie w Paryżu przyciągną wielu kibiców z całego świata. Wystąpi na nich także około 10 500 sportowców. Będzie tam również szesnaście zawodniczek i zawodników Realu Madryt.</description>
     </item>
     
 </channel>
