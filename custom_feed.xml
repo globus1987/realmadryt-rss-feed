@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 21:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 22:19:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131249-dzisiejsze-okladki</link>
+        <pubDate>Wed, 24 Jul 2024 00:17:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Sąsiedzi okolic Bernabéu niezadowoleni z tymczasowych ograniczeń</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131237-marca-mendy-bliski-przedluzenia-umowy-z-realem-madryt</link>
         <pubDate>Tue, 23 Jul 2024 15:53:00 GMT</pubDate>
         <description>Przedłużenie kontraktu Francuza jest bliskie stania się rzeczywistością, podaje José Félix Díaz z dziennika MARCA. Zabezpieczenie sytuacji lewego obrońcy było jednym z priorytetów wyznaczonych przez Carlo Ancelottiego.</description>
-    </item>
-    
-    <item>
-        <title>Luka, jak ty się zmieniłeś!</title>
-        <link>https://www.realmadryt.pl/news/131227-luka-jak-ty-sie-zmieniles</link>
-        <pubDate>Tue, 23 Jul 2024 15:19:00 GMT</pubDate>
-        <description>Od numeru 19 do 10, od 0 do 6 Ligi Mistrzów, od bycia ostatnim w kolejce do osiągnięcia szczytu jako kapitan, od „dziwnego” transferu po Złotą Piłkę…</description>
     </item>
     
 </channel>
