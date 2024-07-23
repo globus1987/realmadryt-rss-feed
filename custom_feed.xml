@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Jul 2024 10:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 10:39:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wtorkowy trening</title>
+        <link>https://www.realmadryt.pl/news/131229-wtorkowy-trening</link>
+        <pubDate>Tue, 23 Jul 2024 12:25:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zaliczyli trzecią jednostkę treningową w tym tygodniu.</description>
+    </item>
     
     <item>
         <title>Real nadal zarabia na Moracie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131218-trzeci-mecz-trzecia-asysta-pola-fortuny-ego</link>
         <pubDate>Mon, 22 Jul 2024 22:17:00 GMT</pubDate>
         <description>Zakończyła się faza grupowa na Mistrzostwach Europy do lat 19. Hiszpania zremisowała z Francją 2:2 i o finał zagra z Włochami. Pol Fortuny ma już trzy asysty na koncie na tym turnieju.</description>
-    </item>
-    
-    <item>
-        <title>„Modrić zaakceptował swoją rolę”</title>
-        <link>https://www.realmadryt.pl/news/131203-modric-zaakceptowal-swoja-role</link>
-        <pubDate>Mon, 22 Jul 2024 21:37:00 GMT</pubDate>
-        <description>Pedja Mijatović w audycji na antenie Cadena SER poruszył kluczowy element, który wpłynął na decyzję o przedłużeniu kontraktu z Luką Modriciem.</description>
     </item>
     
 </channel>
