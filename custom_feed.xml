@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Jul 2024 10:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 10:53:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 24 lipca</title>
+        <link>https://www.realmadryt.pl/news/131256-kartka-z-kalendarza-24-lipca</link>
+        <pubDate>Wed, 24 Jul 2024 12:42:00 GMT</pubDate>
+        <description>Jeden z najważniejszych transferów ostatnich kilkudziesięciu lat i zwycięski mecz z Arsenalem, po którym mimo wszystko trudno było o uśmiech. Co działo się 24 lipca?</description>
+    </item>
     
     <item>
         <title>Pożegnanie Nacho [NA ŻYWO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131250-podcast-6x00-rozgrzewka-czy-potrzebujemy-stopera</link>
         <pubDate>Wed, 24 Jul 2024 01:44:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest przede wszystkim budowie kadry na nowy sezon. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131249-dzisiejsze-okladki</link>
-        <pubDate>Wed, 24 Jul 2024 00:17:00 GMT</pubDate>
-        <description>Igrzyska Olimpijskie i sytuacja Nico Williamsa to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
