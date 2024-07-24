@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Jul 2024 04:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 05:20:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chwała ponad miliony</title>
+        <link>https://www.realmadryt.pl/news/131215-chwala-ponad-miliony</link>
+        <pubDate>Wed, 24 Jul 2024 07:00:00 GMT</pubDate>
+        <description>Kylian Mbappé odszedł z PSG, rezygnując z pensji znacznie wyższej od tej, którą otrzyma w Madrycie, ponieważ ma wielką obsesję na punkcie dwóch tytułów – Ligi Mistrzów i Złotej Piłki.</description>
+    </item>
     
     <item>
         <title>Podcast 6x00: Rozgrzewka. Czy potrzebujemy stopera?</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131228-madryt-ogranicza-godziny-koncertow-na-bernabeu</link>
         <pubDate>Tue, 23 Jul 2024 17:42:00 GMT</pubDate>
         <description>Madryt narzucił Realowi kolejne ograniczenie przy organizacji koncertów. Skargi sąsiadów nie ustają, ale miasto próbuje znaleźć kompromis, bo w wydarzeniach na Santiago Bernabéu widzi także wielkie szanse i przede wszystkim pieniądze dla siebie.</description>
-    </item>
-    
-    <item>
-        <title>Bramkarskie domino</title>
-        <link>https://www.realmadryt.pl/news/131236-bramkarskie-domino</link>
-        <pubDate>Tue, 23 Jul 2024 16:50:00 GMT</pubDate>
-        <description>W Realu Madryt, Chelsea, Villarrealu i Las Palmas wkrótce może dojść zmian w bramce, które są od siebie zależne.</description>
     </item>
     
 </channel>
