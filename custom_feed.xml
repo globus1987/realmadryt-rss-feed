@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Jul 2024 18:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 18:44:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Nacho to czyste madridismo”</title>
+        <link>https://www.realmadryt.pl/news/131260-nacho-to-czyste-madridismo</link>
+        <pubDate>Wed, 24 Jul 2024 20:43:00 GMT</pubDate>
+        <description>Carlo Ancelotti, Thibaut Courtois, Lucas Vázquez i Brahim Díaz udzielili wywiadów dla klubowej telewizji po ceremonii pożegnalnej Nacho. Przedstawiamy wypowiedzi trenera i zawodników Królewskich.</description>
+    </item>
     
     <item>
         <title>Najbogatsi hiszpańscy prezesi klubów piłkarskich</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131256-kartka-z-kalendarza-24-lipca</link>
         <pubDate>Wed, 24 Jul 2024 12:42:00 GMT</pubDate>
         <description>Jeden z najważniejszych transferów ostatnich kilkudziesięciu lat i zwycięski mecz z Arsenalem, po którym mimo wszystko trudno było o uśmiech. Co działo się 24 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Pożegnanie Nacho [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/131254-pozegnanie-nacho-na-zywo</link>
-        <pubDate>Wed, 24 Jul 2024 12:37:00 GMT</pubDate>
-        <description>Hiszpan żegna się z klubem jako najbardziej utytułowany piłkarz w historii Realu Madryt i ostatni kapitan zespołu.</description>
     </item>
     
 </channel>
