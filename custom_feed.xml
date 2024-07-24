@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Jul 2024 09:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 09:39:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla poznała terminarz na nowy sezon</title>
+        <link>https://www.realmadryt.pl/news/131247-castilla-poznala-terminarz-na-nowy-sezon</link>
+        <pubDate>Wed, 24 Jul 2024 11:23:00 GMT</pubDate>
+        <description>Castilla w drugiej połowie sierpnia rozpocznie rywalizację w nowym sezonie Primera Federación. Pierwszym rywalem Królewskich będzie Marbella.</description>
+    </item>
     
     <item>
         <title>Endrick: Napiszemy w Madrycie wielką historię</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131221-pomaranczowy-ktory-przywodzi-na-mysl-wspomnienia</link>
         <pubDate>Tue, 23 Jul 2024 21:30:00 GMT</pubDate>
         <description>Kibice Realu Madryt mają oczywiste skojarzenia z drugim kompletem strojów zaprezentowanym w poniedziałek.</description>
-    </item>
-    
-    <item>
-        <title>Arribas ma swoją cenę</title>
-        <link>https://www.realmadryt.pl/news/131242-arribas-ma-swoja-cene</link>
-        <pubDate>Tue, 23 Jul 2024 20:40:00 GMT</pubDate>
-        <description>Andaluzyjski klub priorytetowo traktuje zatrzymanie zawodnika jako lidera projektu w drugiej lidze. Kilku zespołów, na przykład Sevilla, jest zainteresowanych wychowankiem Realu, ale cena wywoławcza to 20 milionów euro, z czego 10 trafiłoby do Madrytu.</description>
     </item>
     
 </channel>
