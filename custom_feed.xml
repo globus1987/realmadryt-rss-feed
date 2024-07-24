@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Jul 2024 22:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 22:38:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131269-dzisiejsze-okladki</link>
+        <pubDate>Thu, 25 Jul 2024 00:28:00 GMT</pubDate>
+        <description>Rozpoczęcie Igrzysk Olimpijskich, plany Barcelony i kontuzja Ansu Fatiego to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Causeur zawodnikiem Olimpii Mediolan</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131219-real-madryt-jest-klarownym-faworytem-do-tytulu-mistrzowskiego</link>
         <pubDate>Wed, 24 Jul 2024 16:06:00 GMT</pubDate>
         <description>Brazylijski obrońca Realu Valladolid, Lucas Rosa, udzielił wywiadu dziennikowi AS. W jego trakcie nie zabrało nawiązań do Realu Madryt, z którym Los Blanquivioletas zmierzą się już w drugiej kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Florentino o Nacho: Jeden z najbardziej legendarnych wychowanków Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/131258-florentino-o-nacho-jeden-z-najbardziej-legendarnych-wychowankow-realu-madryt</link>
-        <pubDate>Wed, 24 Jul 2024 14:41:00 GMT</pubDate>
-        <description>Real Madryt i Florentino Pérez pożegnali dzisiaj Nacho. Przedstawiamy przemówienie prezesa z tej uroczystości w Valdebebas.</description>
     </item>
     
 </channel>
