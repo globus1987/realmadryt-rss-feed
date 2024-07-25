@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Jul 2024 22:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 22:38:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131287-dzisiejsze-okladki</link>
+        <pubDate>Fri, 26 Jul 2024 00:24:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie i prezentacja trenera Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Gol Pola Fortuny’ego na wagę finału</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131278-ancelotti-nie-martwimy-sie-za-bardzo-tym-gdzie-moze-grac-mbappe</link>
         <pubDate>Thu, 25 Jul 2024 16:20:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w podcaście Johna Obiego Mikela i Chrisa McHardy'ego. Przedstawiamy pierwszy opublikowany fragment zapowiadający tę rozmowę, który dotyczy planu Włocha na wstawienie Kyliana Mbappé do jego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>„Rodri” z młodzieżowych drużyn Królewskich</title>
-        <link>https://www.realmadryt.pl/news/131271-rodri-z-mlodziezowych-druzyn-krolewskich</link>
-        <pubDate>Thu, 25 Jul 2024 16:02:00 GMT</pubDate>
-        <description>Obecnie odbywają się Mistrzostwa Europy U-19, na których błyszczy Chema, jeden z wychowanków Realu Madryt, który porównywany jest do Rodriego.</description>
     </item>
     
 </channel>
