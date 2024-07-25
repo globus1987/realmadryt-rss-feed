@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Jul 2024 19:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 19:53:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złoty chłopak z La Fábriki</title>
+        <link>https://www.realmadryt.pl/news/131283-zloty-chlopak-z-la-fabriki</link>
+        <pubDate>Thu, 25 Jul 2024 21:41:00 GMT</pubDate>
+        <description>W kadrze Realu Madryt na wylot do Stanów Zjednoczonych znajdzie się 16-letni Joan Martínez. Nastoletni stoper jest w Valdebebas postrzegany jako jeden z największych talentów szkółki.</description>
+    </item>
     
     <item>
         <title>Historia pierwszego „wielkiego” transferu ery Zidane'a</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131261-as-nacho-pozegna-sie-z-kibicami-na-bernabeu</link>
         <pubDate>Thu, 25 Jul 2024 14:25:00 GMT</pubDate>
         <description>Nacho Fernández pożegnał się z Realem Madryt podczas instytucjonalnej ceremonii w Valdebebas. Jak twierdzi dziennik AS, były kapitan Królewskich będzie miał również możliwość pożegnania się z kibicami przed jednym z meczów zespołu w nadchodzącym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Śmierć pod Bernabéu po ostatnim koncercie Karol G</title>
-        <link>https://www.realmadryt.pl/news/131275-smierc-pod-bernabeu-po-ostatnim-koncercie-karol-g</link>
-        <pubDate>Thu, 25 Jul 2024 13:18:00 GMT</pubDate>
-        <description>Po koncercie Karol G na Bernabéu w okolicach stadionu doszło do dyskusji jego uczestnika z kobietami. W kłótnię wszedł 33-latek poprzez uderzenie w głowę bez ostrzeżenia, co doprowadziło do śmierci mężczyzny.</description>
     </item>
     
 </channel>
