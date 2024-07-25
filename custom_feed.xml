@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Jul 2024 10:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 10:40:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Kapitan koszykarzy Realu Madryt z nową umową</title>
+        <link>https://www.realmadryt.pl/news/131274-oficjalnie-kapitan-koszykarzy-realu-madryt-z-nowa-umowa</link>
+        <pubDate>Thu, 25 Jul 2024 12:27:00 GMT</pubDate>
+        <description>Klub poinformował, że kapitan koszykarzy przedłużył umowę na kolejny sezon. Będzie to rekordowy 19. rok w barwach Królewskich. Przedstawiamy komunikat Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Globo: Sąd odrzucił apelację obrońcy Robinho</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131269-dzisiejsze-okladki</link>
         <pubDate>Thu, 25 Jul 2024 00:28:00 GMT</pubDate>
         <description>Rozpoczęcie Igrzysk Olimpijskich, plany Barcelony i kontuzja Ansu Fatiego to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Causeur zawodnikiem Olimpii Mediolan</title>
-        <link>https://www.realmadryt.pl/news/131267-oficjalnie-causeur-zawodnikiem-olimpii-mediolan</link>
-        <pubDate>Wed, 24 Jul 2024 23:23:00 GMT</pubDate>
-        <description>Fabien Causeur w nowym sezonie przeprowadzi się do Mediolanu. Podpisał roczną umowę z Olimpią i będzie miał okazję do pojedynków z Realem Madryt.</description>
     </item>
     
 </channel>
