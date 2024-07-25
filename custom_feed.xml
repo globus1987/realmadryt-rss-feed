@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Jul 2024 09:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 10:21:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Globo: Sąd odrzucił apelację obrońcy Robinho</title>
+        <link>https://www.realmadryt.pl/news/131265-globo-sad-odrzucil-apelacje-obroncy-robinho</link>
+        <pubDate>Thu, 25 Jul 2024 11:59:00 GMT</pubDate>
+        <description>W maju tego roku obrońca byłego piłkarza Królewskich zwrócił się do sądu o uznanie przestępstwa gwałtu za „powszechne”, a nie „haniebne”, co spowodowałoby, że Robinho spędziłby mniej czasu za kratkami. Prawnik zapowiada kolejne odwołanie się od wyroku.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131267-oficjalnie-causeur-zawodnikiem-olimpii-mediolan</link>
         <pubDate>Wed, 24 Jul 2024 23:23:00 GMT</pubDate>
         <description>Fabien Causeur w nowym sezonie przeprowadzi się do Mediolanu. Podpisał roczną umowę z Olimpią i będzie miał okazję do pojedynków z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dostępni piłkarze wzięli udział w sparingu z Albacete</title>
-        <link>https://www.realmadryt.pl/news/131264-dostepni-pilkarze-wzieli-udzial-w-sparingu-z-albacete</link>
-        <pubDate>Wed, 24 Jul 2024 22:04:00 GMT</pubDate>
-        <description>Dostępni zawodnicy pomogli dzisiaj Castilli w sparingu z Albacete. Na razie nie ma szczegółów tego spotkania.</description>
     </item>
     
 </channel>
