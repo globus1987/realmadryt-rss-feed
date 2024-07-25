@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Jul 2024 14:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 15:21:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy kłopot Raúla</title>
+        <link>https://www.realmadryt.pl/news/131280-pierwszy-klopot-raula</link>
+        <pubDate>Thu, 25 Jul 2024 17:10:00 GMT</pubDate>
+        <description>Pomocnik doznał kontuzji podczas wczorajszego porannego treningu przed pojedynkiem z Albacete.</description>
+    </item>
     
     <item>
         <title>AS: Chelsea zgłasza się po Łunina</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131273-marca-calkowite-porozumienie-z-mendym</link>
         <pubDate>Thu, 25 Jul 2024 10:14:00 GMT</pubDate>
         <description>Francuski obrońca zostanie w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Laporte wraca na radar</title>
-        <link>https://www.realmadryt.pl/news/131272-laporte-wraca-na-radar</link>
-        <pubDate>Thu, 25 Jul 2024 09:50:00 GMT</pubDate>
-        <description>Aymeric Laporte wzbudza zainteresowanie Realu Madryt, ale obowiązuje go jeszcze dwuletni kontrakt z Al-Nassr. O ile jego pensja nie byłaby problemem, o tyle negocjacje z Saudyjczykami mogą się nawet nie zacząć.</description>
     </item>
     
 </channel>
