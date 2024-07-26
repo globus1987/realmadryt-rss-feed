@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 07:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 08:24:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 26 lipca</title>
+        <link>https://www.realmadryt.pl/news/131286-kartka-z-kalendarza-26-lipca</link>
+        <pubDate>Fri, 26 Jul 2024 10:10:00 GMT</pubDate>
+        <description>Pierwszy mecz legendarnych napastników na Santiago Bernabéu i pożegnanie jednego z największych zawodników Realu w historii. Co działo się 26 lipca?</description>
+    </item>
     
     <item>
         <title>„Płakałem co noc. Klub mógł okazać większe wsparcie”</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131270-46-stopni-celsjusza-i-luksus-dohy</link>
         <pubDate>Thu, 25 Jul 2024 20:00:00 GMT</pubDate>
         <description>Napastnik odchodzi z Realu, dostając jeden z najwyższych kontraktów w milionowej lidze katarskiej.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki rozpoczęły przygotowania do sezonu</title>
-        <link>https://www.realmadryt.pl/news/131282-pilkarki-rozpoczely-przygotowania-do-sezonu</link>
-        <pubDate>Thu, 25 Jul 2024 19:12:00 GMT</pubDate>
-        <description>Dostępne piłkarki Królewskich rozpoczęły przygotowania do sezonu od badań w szpitalu współpracującym z klubem.</description>
     </item>
     
 </channel>
