@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 19:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 19:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Peter: Stawiałbym Carvajala jako faworyta do Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/131290-peter-stawialbym-carvajala-jako-faworyta-do-zlotej-pilki</link>
+        <pubDate>Fri, 26 Jul 2024 21:40:00 GMT</pubDate>
+        <description>Peter Federico kilka tygodni temu został sprzedany z Realu Madryt do Getafe. Wychowanek, obecnie występujący z kadrą Dominikany na Igrzyskach Olimpijskich w Paryżu, udzielił wywiadu Relevo, w którym opowiedział o swojej aktualnej sytuacji, Złotej Piłce i przeszłości w szkółce Królewskich.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Álvaro Leiva wypożyczony do Algeciras</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131300-krolewscy-wrocili-do-treningow</link>
         <pubDate>Fri, 26 Jul 2024 13:49:00 GMT</pubDate>
         <description>Królewscy po dniu wolny wrócili do Valdebebas i zaliczyli kolejną jednostkę treningową w tym tygodniu. Pierwszy oficjalny sparing już w kolejnym tygodniu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Serge Ibaka zawodnikiem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/131294-oficjalnie-serge-ibaka-zawodnikiem-realu-madryt</link>
-        <pubDate>Fri, 26 Jul 2024 12:40:00 GMT</pubDate>
-        <description>Powrót Serge’a Ibaki do Realu Madryt stał się faktem. Środkowy po sezonie spędzonym w Bayernie Monachium przenosi się do stolicy Hiszpanii, gdzie grał już w 2011 roku.</description>
     </item>
     
 </channel>
