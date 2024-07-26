@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 16:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 17:19:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ibaka: Jestem tutaj, żeby wygrywać</title>
+        <link>https://www.realmadryt.pl/news/131296-ibaka-jestem-tutaj-zeby-wygrywac</link>
+        <pubDate>Fri, 26 Jul 2024 19:15:00 GMT</pubDate>
+        <description>Serge Ibaka udzielił wywiadu klubowym mediom po podpisaniu rocznej umowy z Realem Madryt. Mówił o tym, że bardzo go cieszy możliwość powrotu do drużyny i stworzenia duetu z Tavaresem.</description>
+    </item>
     
     <item>
         <title>Agresor spod Bernabéu warunkowo zwolniony z aresztu</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131292-znamy-sedziego-na-superpuchar-europy</link>
         <pubDate>Fri, 26 Jul 2024 12:29:00 GMT</pubDate>
         <description>UEFA wybrała arbitra, który ostatnio nie otrzymywał wielu szans w starciach na najwyższym poziomie. Należy on jednak do grupy Elite, w której znajduje się około 30 najwyżej cenionych sędziów.</description>
-    </item>
-    
-    <item>
-        <title>AS: Davies ma dołączyć do Realu w 2025 roku</title>
-        <link>https://www.realmadryt.pl/news/131289-as-davies-ma-dolaczyc-do-realu-w-2025-roku</link>
-        <pubDate>Fri, 26 Jul 2024 11:57:00 GMT</pubDate>
-        <description>Jak dowiedział się AS, Real Madryt i piłkarz uzgodnili, że lepiej poczekać ze względu na wysokie oczekiwania Bawarczyków. Kanadyjczyk wypełni swój kontrakt i w przyszłym sezonie będzie mógł trafić do Królewskich za darmo.</description>
     </item>
     
 </channel>
