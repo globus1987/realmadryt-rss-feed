@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 10:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 10:40:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sparing z Milanem o godzinę wcześniej</title>
+        <link>https://www.realmadryt.pl/news/131293-sparing-z-milanem-o-godzine-wczesniej</link>
+        <pubDate>Fri, 26 Jul 2024 12:30:00 GMT</pubDate>
+        <description>We wcześniej podawanym przez klub terminie sparingu z Milanem znajdował się błąd. Spotkanie ostatecznie rozpocznie się godzinę wcześniej.</description>
+    </item>
+    
+    <item>
+        <title>Znamy sędziego na Superpuchar Europy</title>
+        <link>https://www.realmadryt.pl/news/131292-znamy-sedziego-na-superpuchar-europy</link>
+        <pubDate>Fri, 26 Jul 2024 12:29:00 GMT</pubDate>
+        <description>UEFA wybrała arbitra, który ostatnio nie otrzymywał wielu szans w starciach na najwyższym poziomie. Należy on jednak do grupy Elite, w której znajduje się około 30 najwyżej cenionych sędziów.</description>
+    </item>
     
     <item>
         <title>AS: Davies ma dołączyć do Realu w 2025 roku</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/131287-dzisiejsze-okladki</link>
         <pubDate>Fri, 26 Jul 2024 00:24:00 GMT</pubDate>
         <description>Igrzyska Olimpijskie i prezentacja trenera Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Gol Pola Fortuny’ego na wagę finału</title>
-        <link>https://www.realmadryt.pl/news/131284-gol-pola-fortuny-ego-na-wage-finalu</link>
-        <pubDate>Thu, 25 Jul 2024 22:22:00 GMT</pubDate>
-        <description>Hiszpania U-19 pokonała Włochów 1:0 i zagra w finale Mistrzostw Europy. Jedynego gola spotkania w dogrywce strzelił Pol Fortuny, który wyrasta na głównego bohatera tego turnieju.</description>
-    </item>
-    
-    <item>
-        <title>Złoty chłopak z La Fábriki</title>
-        <link>https://www.realmadryt.pl/news/131283-zloty-chlopak-z-la-fabriki</link>
-        <pubDate>Thu, 25 Jul 2024 21:41:00 GMT</pubDate>
-        <description>W kadrze Realu Madryt na wylot do Stanów Zjednoczonych znajdzie się 16-letni Joan Martínez. Nastoletni stoper jest w Valdebebas postrzegany jako jeden z największych talentów szkółki.</description>
     </item>
     
 </channel>
