@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 11:38:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 11:53:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wrócili do treningów</title>
+        <link>https://www.realmadryt.pl/news/131300-krolewscy-wrocili-do-treningow</link>
+        <pubDate>Fri, 26 Jul 2024 13:49:00 GMT</pubDate>
+        <description>Królewscy po dniu wolny wrócili do Valdebebas i zaliczyli kolejną jednostkę treningową w tym tygodniu. Pierwszy oficjalny sparing już w kolejnym tygodniu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Serge Ibaka zawodnikiem Realu Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131276-nowy-kontrakt-mendyego-nic-nie-zmienia-w-sprawie-daviesa</link>
         <pubDate>Fri, 26 Jul 2024 07:25:00 GMT</pubDate>
         <description>Ferland Mendy jest o krok od przedłużenia kontraktu z Realem Madryt. Taki obrót spraw naturalną koleją rzeczy skłania do zastanowienia, co dalej wydarzy się w kwestii ewentualnego transferu Alphonso Daviesa. Na dalszym planie znajduje się również Fran García.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x01: Wasze pytania. Czy Trent Alexander-Arnold to następca Carvajala?</title>
-        <link>https://www.realmadryt.pl/news/131288-podcast-6x01-wasze-pytania-czy-trent-alexander-arnold-to-nastepca-carvajala</link>
-        <pubDate>Fri, 26 Jul 2024 01:30:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym odpowiadamy na wasze pytania. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
