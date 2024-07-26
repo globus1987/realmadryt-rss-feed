@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 22:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 22:53:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131309-dzisiejsze-okladki</link>
+        <pubDate>Sat, 27 Jul 2024 00:52:00 GMT</pubDate>
+        <description>Ceremonia otwarcia Igrzysk Olimpijskich to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zidane i Nadal wzięli udział w ceremonii otwarcia Igrzysk Olimpijskich</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131298-oficjalnie-juan-nunez-zawodnikiem-barcelony</link>
         <pubDate>Fri, 26 Jul 2024 15:43:00 GMT</pubDate>
         <description>Juan Núñez podpisał trzyletnią umowę z Barceloną. Real Madryt zrzekł się wcześniej praw do tego zawodnika, co przyniosło klubowi między 400 a 500 tysięcy euro.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy montują scenę pod prezentację Endricka</title>
-        <link>https://www.realmadryt.pl/news/131302-krolewscy-montuja-scene-pod-prezentacje-endricka</link>
-        <pubDate>Fri, 26 Jul 2024 14:59:00 GMT</pubDate>
-        <description>Królewscy w czwartek skończyli demontowanie sceny pod koncerty Karol G i rozpoczęli przygotowania do sobotniej prezentacji Endricka.</description>
     </item>
     
 </channel>
