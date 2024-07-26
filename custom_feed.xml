@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Jul 2024 18:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 18:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Álvaro Leiva wypożyczony do Algeciras</title>
+        <link>https://www.realmadryt.pl/news/131285-oficjalnie-alvaro-leiva-wypozyczony-do-algeciras</link>
+        <pubDate>Fri, 26 Jul 2024 20:50:00 GMT</pubDate>
+        <description>Álvaro Leiva po raz trzeci z rzędu został wypożyczony. Poprzednie wybory nie okazały się najlepsze, więc teraz atakujący wraca do swojego byłego klubu, gdzie wiodło mu się najlepiej.</description>
+    </item>
     
     <item>
         <title>Relevo: Klub ze Zjednoczonych Emiratów poważnie zainteresowany Marvelem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131294-oficjalnie-serge-ibaka-zawodnikiem-realu-madryt</link>
         <pubDate>Fri, 26 Jul 2024 12:40:00 GMT</pubDate>
         <description>Powrót Serge’a Ibaki do Realu Madryt stał się faktem. Środkowy po sezonie spędzonym w Bayernie Monachium przenosi się do stolicy Hiszpanii, gdzie grał już w 2011 roku.</description>
-    </item>
-    
-    <item>
-        <title>Sparing z Milanem o godzinę wcześniej</title>
-        <link>https://www.realmadryt.pl/news/131293-sparing-z-milanem-o-godzine-wczesniej</link>
-        <pubDate>Fri, 26 Jul 2024 12:30:00 GMT</pubDate>
-        <description>We wcześniej podawanym przez klub terminie sparingu z Milanem znajdował się błąd. Spotkanie ostatecznie rozpocznie się godzinę wcześniej.</description>
     </item>
     
 </channel>
