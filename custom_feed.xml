@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Jul 2024 11:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 11:38:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jutro wylot do Chicago</title>
+        <link>https://www.realmadryt.pl/news/131319-jutro-wylot-do-chicago</link>
+        <pubDate>Sat, 27 Jul 2024 13:35:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt po niemal dwóch tygodniach zajęć w Valdebebas jutro wybiorą się do Chicago. Wylot zaplanowano po jutrzejszym treningu.</description>
+    </item>
+    
+    <item>
+        <title>Florentino do Endricka: Przekonanie i talent spełniły marzenie twojego życia</title>
+        <link>https://www.realmadryt.pl/news/131318-florentino-do-endricka-przekonanie-i-talent-spelnily-marzenie-twojego-zycia</link>
+        <pubDate>Sat, 27 Jul 2024 13:20:00 GMT</pubDate>
+        <description>Florentino Pérez wygłosił przemówienie w trakcie prezentacji Endricka. Przedstawiamy jego pełne tłumaczenie.</description>
+    </item>
     
     <item>
         <title>Modrić wraca do treningów</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/131314-kartka-z-kalendarza-27-lipca</link>
         <pubDate>Sat, 27 Jul 2024 10:10:00 GMT</pubDate>
         <description>Odejście legendarnych zawodników, transfer snajpera z Manchesteru United i seria meczów towarzyskich. Co działo się 27 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Casting w La Fábrice</title>
-        <link>https://www.realmadryt.pl/news/131301-casting-w-la-fabrice</link>
-        <pubDate>Sat, 27 Jul 2024 09:15:00 GMT</pubDate>
-        <description>Mecz z Albacete był decydujący dla czterech wychowanków (Asencio, Martín, Paz i Latasa), którzy mogą otrzymać swoją wielką szansę podczas przedsezonowego tournée Realu Madryt po Stanach Zjednoczonych.</description>
-    </item>
-    
-    <item>
-        <title>Güler chce podjąć kolejne wyzwanie</title>
-        <link>https://www.realmadryt.pl/news/131299-gueler-chce-podjac-kolejne-wyzwanie</link>
-        <pubDate>Sat, 27 Jul 2024 08:20:00 GMT</pubDate>
-        <description>Arda Güler wykorzystał urlop, by nieco zdystansować się do otaczającego go zgiełku i naładować baterie przed drugim sezonem w Realu Madryt. W trakcie wakacji Turek jednak nie tylko odpoczywał, lecz także poświęcał się pracy na siłowni, by w jak najlepszej formie podejść do kolejnego wyzwania w karierze.</description>
     </item>
     
 </channel>
