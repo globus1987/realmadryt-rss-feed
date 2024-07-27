@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Jul 2024 22:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 22:38:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131333-dzisiejsze-okladki</link>
+        <pubDate>Sun, 28 Jul 2024 00:26:00 GMT</pubDate>
+        <description>Pierwszy medal Hiszpanii na Igrzyskach Olimpijskich to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Francja lepsza od Brazylii</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131322-vallejo-nie-jestem-kontuzjowany-i-lece-do-usa</link>
         <pubDate>Sat, 27 Jul 2024 15:49:00 GMT</pubDate>
         <description>Jesús Vallejo zaprzeczył, jakoby był kontuzjowany i nie mógł lecieć z zespołem do Stanów Zjednoczonych.</description>
-    </item>
-    
-    <item>
-        <title>Endrick: Najważniejsze to pomagać Realowi Madryt</title>
-        <link>https://www.realmadryt.pl/news/131321-endrick-najwazniejsze-to-pomagac-realowi-madryt</link>
-        <pubDate>Sat, 27 Jul 2024 14:59:00 GMT</pubDate>
-        <description>Endrick w ostatniej części swojej prezentacji spotkał się z dziennikarzami w sali prasowej na Santiago Bernabéu. Przedstawiamy zapis tego spotkania Brazylijczyka z dziennikarzami.</description>
     </item>
     
 </channel>
