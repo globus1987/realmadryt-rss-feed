@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Jul 2024 08:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 09:19:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick przeszedł badania medyczne</title>
+        <link>https://www.realmadryt.pl/news/131310-endrick-przeszedl-badania-medyczne</link>
+        <pubDate>Sat, 27 Jul 2024 11:05:00 GMT</pubDate>
+        <description>Brazylijski piłkarz ma już za sobą testy medyczne i czeka na swoją prezentację, która ma rozpocząć się o godzinie 13:00 na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Prezentacja Endricka w Realu Madryt [NA ŻYWO]</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131290-peter-stawialbym-carvajala-jako-faworyta-do-zlotej-pilki</link>
         <pubDate>Fri, 26 Jul 2024 21:40:00 GMT</pubDate>
         <description>Peter Federico kilka tygodni temu został sprzedany z Realu Madryt do Getafe. Wychowanek, obecnie występujący z kadrą Dominikany na Igrzyskach Olimpijskich w Paryżu, udzielił wywiadu Relevo, w którym opowiedział o swojej aktualnej sytuacji, Złotej Piłce i przeszłości w szkółce Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Álvaro Leiva wypożyczony do Algeciras</title>
-        <link>https://www.realmadryt.pl/news/131285-oficjalnie-alvaro-leiva-wypozyczony-do-algeciras</link>
-        <pubDate>Fri, 26 Jul 2024 20:50:00 GMT</pubDate>
-        <description>Álvaro Leiva po raz trzeci z rzędu został wypożyczony. Poprzednie wybory nie okazały się najlepsze, więc teraz atakujący wraca do swojego byłego klubu, gdzie wiodło mu się najlepiej.</description>
     </item>
     
 </channel>
