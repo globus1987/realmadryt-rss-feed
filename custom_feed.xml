@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Jul 2024 13:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 13:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vallejo: Nie jestem kontuzjowany i lecę do USA</title>
+        <link>https://www.realmadryt.pl/news/131322-vallejo-nie-jestem-kontuzjowany-i-lece-do-usa</link>
+        <pubDate>Sat, 27 Jul 2024 15:49:00 GMT</pubDate>
+        <description>Jesús Vallejo zaprzeczył, jakoby był kontuzjowany i nie mógł lecieć z zespołem do Stanów Zjednoczonych.</description>
+    </item>
     
     <item>
         <title>Endrick: Najważniejsze to pomagać Realowi Madryt</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131312-endrick-podpisal-kontrakt-z-realem-madryt</link>
         <pubDate>Sat, 27 Jul 2024 11:20:00 GMT</pubDate>
         <description>Brazylijski piłkarz praktycznie w pełni może czuć się już nowym zawodnikiem Realu Madryt, ponieważ złożył podpis na umowie.</description>
-    </item>
-    
-    <item>
-        <title>Endrick przeszedł badania medyczne</title>
-        <link>https://www.realmadryt.pl/news/131310-endrick-przeszedl-badania-medyczne</link>
-        <pubDate>Sat, 27 Jul 2024 11:05:00 GMT</pubDate>
-        <description>Brazylijski piłkarz ma już za sobą testy medyczne i czeka na swoją prezentację, która ma rozpocząć się o godzinie 13:00 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
