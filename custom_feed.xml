@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Jul 2024 06:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 07:18:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Casting w La Fábrice</title>
+        <link>https://www.realmadryt.pl/news/131301-casting-w-la-fabrice</link>
+        <pubDate>Sat, 27 Jul 2024 09:15:00 GMT</pubDate>
+        <description>Mecz z Albacete był decydujący dla czterech wychowanków (Asencio, Martín, Paz i Latasa), którzy mogą otrzymać swoją wielką szansę podczas przedsezonowego tournée Realu Madryt po Stanach Zjednoczonych.</description>
+    </item>
     
     <item>
         <title>Güler chce podjąć kolejne wyzwanie</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131296-ibaka-jestem-tutaj-zeby-wygrywac</link>
         <pubDate>Fri, 26 Jul 2024 19:15:00 GMT</pubDate>
         <description>Serge Ibaka udzielił wywiadu klubowym mediom po podpisaniu rocznej umowy z Realem Madryt. Mówił o tym, że bardzo go cieszy możliwość powrotu do drużyny i stworzenia duetu z Tavaresem.</description>
-    </item>
-    
-    <item>
-        <title>Agresor spod Bernabéu warunkowo zwolniony z aresztu</title>
-        <link>https://www.realmadryt.pl/news/131305-agresor-spod-bernabeu-warunkowo-zwolniony-z-aresztu</link>
-        <pubDate>Fri, 26 Jul 2024 18:02:00 GMT</pubDate>
-        <description>W sprawie 33-letniego agresora z Majorki toczy się śledztwo sądowe, ale na razie został zwolniony z aresztu. Sąsiedzi stadionu reagują na całą sytuację protestem.</description>
     </item>
     
 </channel>
