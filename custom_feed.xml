@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Jul 2024 08:39:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 08:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prezentacja Endricka w Realu Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/131313-prezentacja-endricka-w-realu-madryt-na-zywo</link>
+        <pubDate>Sat, 27 Jul 2024 10:44:00 GMT</pubDate>
+        <description>Zapraszamy na transmisje klubu z prezentacji Endricka.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 lipca</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131285-oficjalnie-alvaro-leiva-wypozyczony-do-algeciras</link>
         <pubDate>Fri, 26 Jul 2024 20:50:00 GMT</pubDate>
         <description>Álvaro Leiva po raz trzeci z rzędu został wypożyczony. Poprzednie wybory nie okazały się najlepsze, więc teraz atakujący wraca do swojego byłego klubu, gdzie wiodło mu się najlepiej.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Klub ze Zjednoczonych Emiratów poważnie zainteresowany Marvelem</title>
-        <link>https://www.realmadryt.pl/news/131306-relevo-klub-ze-zjednoczonych-emiratow-powaznie-zainteresowany-marvelem</link>
-        <pubDate>Fri, 26 Jul 2024 19:59:00 GMT</pubDate>
-        <description>Marvel wzbudza zainteresowanie wielu klubów. Real Madryt z założenia nie ma nic przeciwko jego odejściu, zawodnik zaś analizuje najlepsze dla siebie opcje.</description>
     </item>
     
 </channel>
