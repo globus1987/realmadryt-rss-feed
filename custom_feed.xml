@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Jul 2024 08:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 08:53:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 28 lipca</title>
+        <link>https://www.realmadryt.pl/news/131337-kartka-z-kalendarza-28-lipca</link>
+        <pubDate>Sun, 28 Jul 2024 10:52:00 GMT</pubDate>
+        <description>Prezentacja Ruuda, kolejne mecze towarzyskie oraz oficjalne przybycie legendy Królewskich do Schalke. Co działo się 28 lipca?</description>
+    </item>
     
     <item>
         <title>Amerykański sen trwa</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131324-na-mundialu-kapitanem-anglii-bedzie-bellingham</link>
         <pubDate>Sat, 27 Jul 2024 20:40:00 GMT</pubDate>
         <description>Anglicy cały czas analizują swoją porażkę w finale EURO i ogólny występ na turnieju. W obronie pomocnika Realu Madryt stanął jeden z najbardziej znanych ekspertów.</description>
-    </item>
-    
-    <item>
-        <title>Reinier błyszczy w sparingu Castilli</title>
-        <link>https://www.realmadryt.pl/news/131326-reinier-blyszczy-w-sparingu-castilli</link>
-        <pubDate>Sat, 27 Jul 2024 19:23:00 GMT</pubDate>
-        <description>Reinier z bardzo dobrej strony pokazał się w pierwszym sparingu Castilli z czwartoligowym Illescas. Brazylijczyk zdobył hat-tricka, a podopieczni Raúla pewnie wygrali 5:1.</description>
     </item>
     
 </channel>
