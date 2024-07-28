@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Jul 2024 11:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 11:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Rodrygo skróci swoje wakacje</title>
+        <link>https://www.realmadryt.pl/news/131342-relevo-rodrygo-skroci-swoje-wakacje</link>
+        <pubDate>Sun, 28 Jul 2024 13:40:00 GMT</pubDate>
+        <description>Rodrygo skróci swoje wakacje i wróci do pracy wcześniej niż początkowo zakładano. Celem atakującego jest możliwość występu w Klasyku z Barceloną, który obędzie się na MetLife Stadium w New Jersey</description>
+    </item>
     
     <item>
         <title>Modrić, Rüdiger, Güler i Endrick wrócili do treningów</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131332-francja-lepsza-od-brazylii</link>
         <pubDate>Sat, 27 Jul 2024 23:57:00 GMT</pubDate>
         <description>Francja wygrała na inaugurację Igrzysk z Brazylią i wykonała pierwszy krok w kierunku wyjścia z grupy. Yabusele nie odegrał ważnej roli, ale dołożył swoją cegiełkę do zwycięstwa.</description>
-    </item>
-    
-    <item>
-        <title>Historyczny rekord Rudy’ego, porażka Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/131331-historyczny-rekord-rudy-ego-porazka-hiszpanii</link>
-        <pubDate>Sat, 27 Jul 2024 23:29:00 GMT</pubDate>
-        <description>Hiszpania przegrała z Australią na inaugurację Igrzysk Olimpijskich. Wydarzeniem meczu był występ Rudy’ego Fernándeza, który stał się pierwszym koszykarzem grającym na sześciu Igrzyskach Olimpijskich.</description>
     </item>
     
 </channel>
