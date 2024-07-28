@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Jul 2024 18:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 19:14:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klątwa szesnastki</title>
+        <link>https://www.realmadryt.pl/news/131335-klatwa-szesnastki</link>
+        <pubDate>Sun, 28 Jul 2024 20:59:00 GMT</pubDate>
+        <description>Endrick swój pierwszy sezon w Realu Madryt rozegra z numerem 16 na plecach. To numer, który na przestrzeni ostatniej dekady nie przynosił na Santiago Bernabéu szczęścia swoim właścicielom.</description>
+    </item>
     
     <item>
         <title>Endrick: Gra na Bernabéu będzie szaleństwem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131340-modric-ruediger-gueler-i-endrick-wrocili-do-treningow</link>
         <pubDate>Sun, 28 Jul 2024 13:18:00 GMT</pubDate>
         <description>Królewscy mają za sobą ostatnie zajęcia przed wylotem do Stanów Zjednoczoncyh. Dziś grupa prowadzona Carlo Ancelttiego powiększyła się o czterech piłkarzy, którzy wrócili z urlopów.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono wybrańcem Solariego</title>
-        <link>https://www.realmadryt.pl/news/131339-mastantuono-wybrancem-solariego</link>
-        <pubDate>Sun, 28 Jul 2024 11:54:00 GMT</pubDate>
-        <description>W ostatnim czasie w hiszpańskich mediach często pojawiają się plotki mówiące, że prezes River Plate, Jorge Brito, oraz jego prawa ręka, Matías Patanian, przebywali w Madrycie, by negocjować transfer Franco Mastantuono. Choć doniesienia te zdaniem Asa nie są prawdziwe, to jednak według tego samego źródła 16-latek faktycznie znajduje się w orbicie zainteresowań Królewskich.</description>
     </item>
     
 </channel>
