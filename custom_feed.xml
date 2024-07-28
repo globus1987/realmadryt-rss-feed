@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Jul 2024 21:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2024 22:18:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131352-dzisiejsze-okladki</link>
+        <pubDate>Mon, 29 Jul 2024 00:12:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Varane zawodnikiem Como</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131336-dwustronna-operacja</link>
         <pubDate>Sun, 28 Jul 2024 16:18:00 GMT</pubDate>
         <description>Real Madryt szykuje nowe kontrakty dla Daniego Carvajala i Ferlanda Mendy'ego. Klub zabezpiecza w ten sposób boki obrony w oczekiwaniu na kolejne ruchy transferowe w przyszłości.</description>
-    </item>
-    
-    <item>
-        <title>Real wita Endricka, a Barça chce żegnać Vitora Roque</title>
-        <link>https://www.realmadryt.pl/news/131343-real-wita-endricka-a-barca-chce-zegnac-vitora-roque</link>
-        <pubDate>Sun, 28 Jul 2024 14:35:00 GMT</pubDate>
-        <description>Zobaczymy jak w Realu poradzi sobie Endrick, ale Vitor Roque podpisał kontrakt z Barceloną i sześć miesięcy później ta już chce, aby opuścił klub.</description>
     </item>
     
 </channel>
