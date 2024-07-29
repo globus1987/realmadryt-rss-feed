@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Jul 2024 22:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 22:40:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131372-dzisiejsze-okladki</link>
+        <pubDate>Tue, 30 Jul 2024 00:28:00 GMT</pubDate>
+        <description>Igrzyska w Paryżu i pierwszy sparing Barcelony z City to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vallejo coraz bardziej oddala się od występu z Milanem</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131362-reinier-wzbudza-zainteresowanie-ale-ma-tez-jeden-duzy-problem</link>
         <pubDate>Mon, 29 Jul 2024 15:26:00 GMT</pubDate>
         <description>Klub nie włączył Brazylijczyka do kadry na wyjazd do Stanów Zjednoczonych i szuka mu możliwego kierunku na odejście. Nawet jeśli jednak ktoś jest zainteresowany, to pojawia się ogromna przeszkoda. Chodzi oczywiście o pieniądze.</description>
-    </item>
-    
-    <item>
-        <title>Sytuacja Alaby wyznaczy decyzje na rynku transferowym</title>
-        <link>https://www.realmadryt.pl/news/131356-sytuacja-alaby-wyznaczy-decyzje-na-rynku-transferowym</link>
-        <pubDate>Mon, 29 Jul 2024 14:28:00 GMT</pubDate>
-        <description>Real Madryt potrzebuje stopera, ale wobec braku transferu Leny'ego Yoro klub chce poczekać na rozwój sytuacji Alaby i wychowanków, zanim spróbuje ściągnąć kogoś innego.</description>
     </item>
     
 </channel>
