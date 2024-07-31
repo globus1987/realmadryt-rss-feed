@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Jul 2024 16:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 16:42:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: UEFA ujawniła procedurę losowania fazy ligowej Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/131414-oficjalnie-uefa-ujawnila-procedure-losowania-fazy-ligowej-ligi-mistrzow</link>
+        <pubDate>Wed, 31 Jul 2024 18:33:00 GMT</pubDate>
+        <description>UEFA opublikowała komunikat w sprawie losowań faz ligowych nowego sezonu europejskich pucharów planowanych na 29 i 30 sierpnia w Grimaldi Forum w Monako. Przedstawiamy jego treść dotyczącą Ligi Mistrzów, w której wystąpi Real Madryt.</description>
+    </item>
     
     <item>
         <title>Wspinaczka Brahima</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131403-cofniecie-tchouameniego-nie-powinno-byc-rozwiazaniem-trwalym</link>
         <pubDate>Wed, 31 Jul 2024 10:26:00 GMT</pubDate>
         <description>Dziennik AS zapytał niegdysiejszych defensorów Królewskich o to, co sądzą o braku wzmocnień środka obrony w tym okienku transferowym.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Filip Jørgensen w Chelsea</title>
-        <link>https://www.realmadryt.pl/news/131402-oficjalnie-filip-jorgensen-w-chelsea</link>
-        <pubDate>Wed, 31 Jul 2024 09:59:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że Andrij Łunin nie zagra na Stamford Bridge. Chelsea ściągnęła innego bramkarza, który niejako zepchnął Kepę Arrizabalagę na jeszcze dalszą pozycję w rywalizacji o miejsce w składzie.</description>
     </item>
     
 </channel>
