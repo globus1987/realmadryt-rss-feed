@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Jul 2024 09:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 10:17:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Milan – Real Madryt: Przewidywany skład</title>
+        <link>https://www.realmadryt.pl/news/131405-milan-real-madryt-przewidywany-sklad</link>
+        <pubDate>Wed, 31 Jul 2024 12:08:00 GMT</pubDate>
+        <description>Królewscy podchodzą do pierwszego letniego sparingu z niecałą połowę kadry pierwszego zespołu. Oznacza to oczywiście, że wiele szans dostaną wychowankowie.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Mamy spektakularną kadrę na wszystkich pozycjach</title>
+        <link>https://www.realmadryt.pl/news/131398-ancelotti-mamy-spektakularna-kadre-na-wszystkich-pozycjach</link>
+        <pubDate>Wed, 31 Jul 2024 11:57:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed sparingiem z Milanem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na stadionie Soldier Field w Chicago.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 31 lipca</title>
@@ -60,20 +74,6 @@
         <link>https://www.realmadryt.pl/news/131397-krolewscy-trenowali-na-soldier-field</link>
         <pubDate>Wed, 31 Jul 2024 01:54:00 GMT</pubDate>
         <description>Królewscy odbyli trening na stadionie, gdzie rozegrają sparing z Milanem. Z grupą pracował Jesús Vallejo, a do zespołu dołączyli też mistrzowie Europy U-19.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131396-dzisiejsze-okladki</link>
-        <pubDate>Wed, 31 Jul 2024 00:35:00 GMT</pubDate>
-        <description>Sukcesy Hiszpanów na Igrzyskach Olimpijskich to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed sparingiem z Milanem [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/131393-ostatni-trening-przed-sparingiem-z-milanem-na-zywo</link>
-        <pubDate>Wed, 31 Jul 2024 00:11:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie drugie zajęcia w Stanach Zjednoczonych. To jednocześnie ostatnia sesja przed sparingiem z Milanem.</description>
     </item>
     
 </channel>
