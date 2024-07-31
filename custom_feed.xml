@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Jul 2024 22:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 22:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131421-dzisiejsze-okladki</link>
+        <pubDate>Thu, 01 Aug 2024 00:26:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie i sparing Barcelony z City to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Terminarz Ligi Endesa 2024/25</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131408-el-confidencial-tak-florentino-perez-aktywowal-skarge-na-prezesa-la-ligi</link>
         <pubDate>Wed, 31 Jul 2024 14:19:00 GMT</pubDate>
         <description>Prezes Realu Madryt dopiął swego i Trybunał Administracyjny przyjął jego skargę przeciwko prezesowi La Ligi, która może doprowadzić nawet do jego odwołania. El Confidencial podaje, że wszystko ruszyło po spotkaniu Florentino Péreza z kluczowym dla tej sprawy politykiem.</description>
-    </item>
-    
-    <item>
-        <title>Real nie zachował żadnych praw do Ikera Bravo</title>
-        <link>https://www.realmadryt.pl/news/131407-real-nie-zachowal-zadnych-praw-do-ikera-bravo</link>
-        <pubDate>Wed, 31 Jul 2024 13:27:00 GMT</pubDate>
-        <description>Drogi Ikera Bravo i Realu Madryt rozeszły się, gdy klub postanowił nie korzystać z opcji wykupu piłkarza po dwuletnim wypożyczeniu z Bayeru Leverkusen. Napastnik pokazał się ze świetnej strony na mistrzostwach Europy do lat 19 i sięgnął po tytuł. Sytuacja zawodnika nie uległa jednak zmianie, a Udinese już na niego czeka.</description>
     </item>
     
 </channel>
