@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Jul 2024 06:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 07:16:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy punkt wycieczki objazdowej</title>
+        <link>https://www.realmadryt.pl/news/131383-pierwszy-punkt-wycieczki-objazdowej</link>
+        <pubDate>Wed, 31 Jul 2024 09:00:00 GMT</pubDate>
+        <description>Amerykański sen czas zacząć, o ile rzecz jasna w ogóle kładziecie się spać.</description>
+    </item>
     
     <item>
         <title>Llopis musi widzieć każdy ruch</title>
@@ -67,13 +74,6 @@
         <link>https://www.realmadryt.pl/news/131391-okno-wystawowe-dla-alvaro</link>
         <pubDate>Tue, 30 Jul 2024 22:04:00 GMT</pubDate>
         <description>Álvaro Rodríguez jak na razie obrał taktykę na przeczekanie i nie odniósł się konkretnie do żadnej z otrzymanych ofert. Napastnik wie, że wylot z Realem do USA może pomóc mu w znalezieniu optymalnego pracodawcy.</description>
-    </item>
-    
-    <item>
-        <title>Le Parisien: Mbappé domknął przejęcie francuskiego klubu</title>
-        <link>https://www.realmadryt.pl/news/131390-le-parisien-mbappe-domknal-przejecie-francuskiego-klubu</link>
-        <pubDate>Tue, 30 Jul 2024 20:30:00 GMT</pubDate>
-        <description>Francuz zgodnie z zapowiedziami miał pozyskać większościowy pakiet akcji Caen. W wieku 25 lat został jednym z najmłodszych właścicieli profesjonalnego klubu piłkarskiego na świecie.</description>
     </item>
     
 </channel>
