@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 20:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 20:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Porażka Castilli z drugoligowcem</title>
+        <link>https://www.realmadryt.pl/news/131439-porazka-castilli-z-drugoligowcem</link>
+        <pubDate>Thu, 01 Aug 2024 22:42:00 GMT</pubDate>
+        <description>Castilla przegrała 0:3 w drugim meczu okresu przygotowawczego. W rywalizacji z grającym w wyższej lidze Racingiem Ferrol Królewscy nie byli w stanie strzelić gola. Pod wodzą Raúla dalej pracuje Reinier.</description>
+    </item>
     
     <item>
         <title>Vinícius i Militão dołączyli do zgrupowania</title>
@@ -82,13 +89,6 @@ Złotej Piłki.</description>
         <link>https://www.realmadryt.pl/news/131417-caroline-weir-gotowa-na-start-sezonu</link>
         <pubDate>Thu, 01 Aug 2024 09:20:00 GMT</pubDate>
         <description>Caroline Weir wróciła do pełni zdrowia po zerwaniu więzadła krzyżowego we wrześniu ubiegłego roku. To jedna z najlepszych wiadomości na starcie przygotowań Las Blancas do nowego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Zwrot w polityce transferowej</title>
-        <link>https://www.realmadryt.pl/news/131404-zwrot-w-polityce-transferowej</link>
-        <pubDate>Thu, 01 Aug 2024 08:00:00 GMT</pubDate>
-        <description>„Kadra jest zamknięta”, twierdzi Carlo Ancelotti. Chociaż pojawienie się okazji rynkowej może otworzyć drzwi dla środkowego obrońcy. A na horyzoncie znajdują się operacje dotyczące Alphonso Daviesa i Franco Mastantuono.</description>
     </item>
     
 </channel>
