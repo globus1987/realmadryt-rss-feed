@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 16:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 17:20:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Człowiek, którego brakowało</title>
+        <link>https://www.realmadryt.pl/news/131435-czlowiek-ktorego-brakowalo</link>
+        <pubDate>Thu, 01 Aug 2024 19:11:00 GMT</pubDate>
+        <description>W pierwszym sparingu pretemporady Endrick pokazał charakter i głód strzelecki, choć w szatni pełnej gwiazd nie będzie mu łatwo o minuty. Ancelotti zna wszystkie mocne strony 18-latka i wie, jak je wykorzystać.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Mój styl? Gdy nie masz piłki, broń, a gdy ją masz, atakuj</title>
@@ -82,13 +89,6 @@ Złotej Piłki.</description>
         <link>https://www.realmadryt.pl/news/131426-ac-milan-1-0-real-madryt-video</link>
         <pubDate>Thu, 01 Aug 2024 07:07:00 GMT</pubDate>
         <description>W pierwszym meczu towarzyskim w Stanach Zjednoczonych Real Madryt przegrał z Milanem 0:1 po golu Samu Chukwueze.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Najważniejsze było, by rywalizować i robiliśmy to przez cały mecz</title>
-        <link>https://www.realmadryt.pl/news/131425-ancelotti-najwazniejsze-bylo-by-rywalizowac-i-robilismy-to-przez-caly-mecz</link>
-        <pubDate>Thu, 01 Aug 2024 07:01:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po sparingu z Milanem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Soldier Field w Chicago.</description>
     </item>
     
 </channel>
