@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 05:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 05:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lucas: Wyróżniłbym nastawienie zespołu</title>
+        <link>https://www.realmadryt.pl/news/131428-lucas-wyroznilbym-nastawienie-zespolu</link>
+        <pubDate>Thu, 01 Aug 2024 07:39:00 GMT</pubDate>
+        <description>Lucas Vázquez udzieliał wywiadów w strefie mieszanej po sparingu z Milanem. Przedstawiamy wypowiedzi Hiszpana z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>AC Milan 1:0 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131415-sparing-realu-madryt-z-milanem-zagrozony-przez-burze</link>
         <pubDate>Wed, 31 Jul 2024 19:01:00 GMT</pubDate>
         <description>Nocny mecz Barcelony z City został przesunięty o 80 minut z powody burzy. Relevo podaje, że podobny ryzyko dotyczy meczu Realu Madryt z Milanem.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: UEFA ujawniła procedurę losowania fazy ligowej Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/131414-oficjalnie-uefa-ujawnila-procedure-losowania-fazy-ligowej-ligi-mistrzow</link>
-        <pubDate>Wed, 31 Jul 2024 18:33:00 GMT</pubDate>
-        <description>UEFA opublikowała komunikat w sprawie losowań faz ligowych nowego sezonu europejskich pucharów planowanych na 29 i 30 sierpnia w Grimaldi Forum w Monako. Przedstawiamy jego treść dotyczącą Ligi Mistrzów, w której wystąpi Real Madryt.</description>
     </item>
     
 </channel>
