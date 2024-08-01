@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 05:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 06:28:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwrot w polityce transferowej</title>
+        <link>https://www.realmadryt.pl/news/131404-zwrot-w-polityce-transferowej</link>
+        <pubDate>Thu, 01 Aug 2024 08:00:00 GMT</pubDate>
+        <description>„Kadra jest zamknięta”, twierdzi Carlo Ancelotti. Chociaż pojawienie się okazji rynkowej może otworzyć drzwi dla środkowego obrońcy. A na horyzoncie znajdują się operacje dotyczące Alphonso Daviesa i Franco Mastantuono.</description>
+    </item>
     
     <item>
         <title>Lucas: Wyróżniłbym nastawienie zespołu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131416-kto-jest-kim-czyli-sylwetki-wychowankow-mogacych-zagrac-z-milanem</link>
         <pubDate>Wed, 31 Jul 2024 19:33:00 GMT</pubDate>
         <description>Na obóz i sparingi w Stanach Zjednoczonych trenerzy pierwszej drużyny zaprosili aż 12 graczy ze szkółki. Większość z nich ma realne szanse na występ w nocnym starciu z Milanem. The Athletic przedstawia ich sylwetki.</description>
-    </item>
-    
-    <item>
-        <title>Sparing Realu Madryt z Milanem zagrożony przez… burzę</title>
-        <link>https://www.realmadryt.pl/news/131415-sparing-realu-madryt-z-milanem-zagrozony-przez-burze</link>
-        <pubDate>Wed, 31 Jul 2024 19:01:00 GMT</pubDate>
-        <description>Nocny mecz Barcelony z City został przesunięty o 80 minut z powody burzy. Relevo podaje, że podobny ryzyko dotyczy meczu Realu Madryt z Milanem.</description>
     </item>
     
 </channel>
