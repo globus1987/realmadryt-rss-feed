@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 22:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 22:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131442-dzisiejsze-okladki</link>
+        <pubDate>Fri, 02 Aug 2024 00:44:00 GMT</pubDate>
+        <description>Hiszpańskie medale na Igrzyskach Olimpijskich to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pierwszy trening Realu przed sparingowym Klasykiem [NA ŻYWO]</title>
@@ -82,13 +89,6 @@ Złotej Piłki.</description>
         <link>https://www.realmadryt.pl/news/131429-vallejo-celem-jest-bycie-do-dyspozycji-w-maksymalnej-liczbie-meczow</link>
         <pubDate>Thu, 01 Aug 2024 12:56:00 GMT</pubDate>
         <description>Jesús Vallejo pojawił się w strefie mieszanej po sparingu z Milanem. Przedstawiamy najważniejsze wypowiedzi stopera Realu Madryt udzielone zgromadzonym dziennikarzom.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 1 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/131427-kartka-z-kalendarza-1-sierpnia</link>
-        <pubDate>Thu, 01 Aug 2024 10:40:00 GMT</pubDate>
-        <description>Urodziny dwóch etatowych rezerwowych, transfer środkowego obrońcy do Interu i bitwa na treningu. Co działo się 1 sierpnia?</description>
     </item>
     
 </channel>
