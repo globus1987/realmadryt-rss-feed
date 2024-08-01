@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 12:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 13:01:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Athletic: Palacios z uszkodzonym więzadłem</title>
+        <link>https://www.realmadryt.pl/news/131430-the-athletic-palacios-z-uszkodzonym-wiezadlem</link>
+        <pubDate>Thu, 01 Aug 2024 14:55:00 GMT</pubDate>
+        <description>Młody pomocnik doznał kontuzji po kilku minutach gry w sparingu z Milanem. Testy w Madrycie wyznaczą ostateczną diagnozę.</description>
+    </item>
     
     <item>
         <title>Vallejo: Celem jest bycie do dyspozycji w maksymalnej liczbie meczów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131420-ac-milan-real-madryt-znamy-sklady</link>
         <pubDate>Thu, 01 Aug 2024 00:39:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym sparingu przed nowym sezonem. Mecz rozpocznie się o godzinie 2:30 czasu polskiego na Soldier Field w Chicago.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131421-dzisiejsze-okladki</link>
-        <pubDate>Thu, 01 Aug 2024 00:26:00 GMT</pubDate>
-        <description>Igrzyska Olimpijskie i sparing Barcelony z City to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
