@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 13:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 13:54:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Álvaro Rodríguez przez kontuzję wraca do Madrytu</title>
+        <link>https://www.realmadryt.pl/news/131432-alvaro-rodriguez-przez-kontuzje-wraca-do-madrytu</link>
+        <pubDate>Thu, 01 Aug 2024 15:53:00 GMT</pubDate>
+        <description>Napastnik doznał dosyć poważnego urazu kostki w sparingu z Milanem i musi wrócić do Madrytu. Królewscy tracą więc dwóch piłkarzy już po pierwszym spotkaniu.</description>
+    </item>
     
     <item>
         <title>L’Équipe: PSG zdawało sobie sprawę z delikatnych warunków fizycznych Yoro</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131423-endrick-zadebiutowal-w-realu-madryt</link>
         <pubDate>Thu, 01 Aug 2024 04:54:00 GMT</pubDate>
         <description>18-letni napastnik zadebiutował w Realu Madryt i zaliczył pierwszą połowę starcia z Milanem.</description>
-    </item>
-    
-    <item>
-        <title>Porażka na początek tournée</title>
-        <link>https://www.realmadryt.pl/news/131422-porazka-na-poczatek-tournee</link>
-        <pubDate>Thu, 01 Aug 2024 03:21:00 GMT</pubDate>
-        <description>W pierwszym meczu towarzyskim w Stanach Zjednoczonych Real Madryt przegrał z Milanem 0:1 po golu Samu Chukwueze.</description>
     </item>
     
 </channel>
