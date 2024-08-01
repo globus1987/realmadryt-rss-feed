@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 15:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 15:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Mój styl? Gdy nie masz piłki, broń, a gdy ją masz, atakuj</title>
+        <link>https://www.realmadryt.pl/news/131434-ancelotti-moj-styl-gdy-nie-masz-pilki-bron-a-gdy-ja-masz-atakuj</link>
+        <pubDate>Thu, 01 Aug 2024 17:42:00 GMT</pubDate>
+        <description>Carlo Ancelotti wziął udział w podcaście Johna Obiego Mikela i Chrisa McHardy'ego. Przedstawiamy pierwszą część wypowiedzi trenera Realu Madryt z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Moim zdaniem Złotą Piłkę wygra Vinícius</title>
@@ -82,13 +89,6 @@ Złotej Piłki.</description>
         <link>https://www.realmadryt.pl/news/131425-ancelotti-najwazniejsze-bylo-by-rywalizowac-i-robilismy-to-przez-caly-mecz</link>
         <pubDate>Thu, 01 Aug 2024 07:01:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej po sparingu z Milanem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Soldier Field w Chicago.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x02: Wnioski po meczu z Milanem i decyzji ws. stopera</title>
-        <link>https://www.realmadryt.pl/news/131424-podcast-6x02-wnioski-po-meczu-z-milanem-i-decyzji-ws-stopera</link>
-        <pubDate>Thu, 01 Aug 2024 06:15:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który nagraliśmy na gorąco po sparingu z Milanem. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
