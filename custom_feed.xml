@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Jul 2024 23:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 01:42:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Do przerwy 0:0</title>
+        <link>https://www.realmadryt.pl/news/131422-do-przerwy-0-0</link>
+        <pubDate>Thu, 01 Aug 2024 03:21:00 GMT</pubDate>
+        <description>W pierwszym meczu towarzyskim w Stanach Zjednoczonych Real Madryt remisuje z Milanem 0:0.</description>
+    </item>
     
     <item>
         <title>AC Milan – Real Madryt: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131410-the-athletic-nico-williams-ma-zostac-w-athleticu</link>
         <pubDate>Wed, 31 Jul 2024 14:49:00 GMT</pubDate>
         <description>Wielki cel transferowy głównego rywala Realu Madryt w La Lidze miał się oddalić, a szanse na realizację operacji spadły. Gwiazda Athleticu ma pozostać w Kraju Basków.</description>
-    </item>
-    
-    <item>
-        <title>Czołg, influencer, idol, reprezentant – kim jest Endrick?</title>
-        <link>https://www.realmadryt.pl/news/131409-czolg-influencer-idol-reprezentant-kim-jest-endrick</link>
-        <pubDate>Wed, 31 Jul 2024 14:49:00 GMT</pubDate>
-        <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje postać Endricka, 18-letniego zawodnika Realu Madryt.</description>
     </item>
     
 </channel>
