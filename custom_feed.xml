@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Aug 2024 04:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 05:20:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>AC Milan 1:0 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/131426-ac-milan-1-0-real-madryt-video</link>
+        <pubDate>Thu, 01 Aug 2024 07:07:00 GMT</pubDate>
+        <description>W pierwszym meczu towarzyskim w Stanach Zjednoczonych Real Madryt przegrał z Milanem 0:1 po golu Samu Chukwueze.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Najważniejsze było, by rywalizować i robiliśmy to przez cały mecz</title>
+        <link>https://www.realmadryt.pl/news/131425-ancelotti-najwazniejsze-bylo-by-rywalizowac-i-robilismy-to-przez-caly-mecz</link>
+        <pubDate>Thu, 01 Aug 2024 07:01:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po sparingu z Milanem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Soldier Field w Chicago.</description>
+    </item>
     
     <item>
         <title>Podcast 6x02: Wnioski po meczu z Milanem i decyzji ws. stopera</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131414-oficjalnie-uefa-ujawnila-procedure-losowania-fazy-ligowej-ligi-mistrzow</link>
         <pubDate>Wed, 31 Jul 2024 18:33:00 GMT</pubDate>
         <description>UEFA opublikowała komunikat w sprawie losowań faz ligowych nowego sezonu europejskich pucharów planowanych na 29 i 30 sierpnia w Grimaldi Forum w Monako. Przedstawiamy jego treść dotyczącą Ligi Mistrzów, w której wystąpi Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Wspinaczka Brahima</title>
-        <link>https://www.realmadryt.pl/news/131413-wspinaczka-brahima</link>
-        <pubDate>Wed, 31 Jul 2024 18:02:00 GMT</pubDate>
-        <description>Jak można usłyszeć, podczas pierwszego sparingu za zamkniętymi drzwiami z Albacete był najlepszy na boisku. Brahim strzelił wówczas pierwszego gola i według sprawdzonych źródeł pod względem formy był krok przed innymi.</description>
-    </item>
-    
-    <item>
-        <title>Szef UFC: Nie lubię otwartych obiektów, wolę hale</title>
-        <link>https://www.realmadryt.pl/news/131412-szef-ufc-nie-lubie-otwartych-obiektow-wole-hale</link>
-        <pubDate>Wed, 31 Jul 2024 17:54:00 GMT</pubDate>
-        <description>Ilia Topuria ostatecznie w tym roku nie zawalczy na Santiago Bernabéu. Z kolei prezes UFC wykazał też niechęć do organizowania gal na stadionach.</description>
     </item>
     
 </channel>
