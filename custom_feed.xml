@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Aug 2024 10:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 10:40:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Gdzie jest Mbappé?”</title>
+        <link>https://www.realmadryt.pl/news/131448-gdzie-jest-mbappe</link>
+        <pubDate>Fri, 02 Aug 2024 12:25:00 GMT</pubDate>
+        <description>Napastnik nie postawi stopy na amerykańskiej ziemi, ale jest obecny na ustach kibiców Królewskich i dziennikarzy.</description>
+    </item>
     
     <item>
         <title>Güler zaskakuje Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131439-porazka-castilli-z-drugoligowcem</link>
         <pubDate>Thu, 01 Aug 2024 22:42:00 GMT</pubDate>
         <description>Castilla przegrała 0:3 w drugim meczu okresu przygotowawczego. W rywalizacji z grającym w wyższej lidze Racingiem Ferrol Królewscy nie byli w stanie strzelić gola. Pod wodzą Raúla dalej pracuje Reinier.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius i Militão dołączyli do zgrupowania</title>
-        <link>https://www.realmadryt.pl/news/131437-vinicius-i-militao-dolaczyli-do-zgrupowania</link>
-        <pubDate>Thu, 01 Aug 2024 21:22:00 GMT</pubDate>
-        <description>Vinícius i Éder Militão dołączyli dzisiaj do zgrupowania Realu Madryt w Chicago. Obaj Brazylijczycy są do dyspozycji Carlo Ancelottiego przed zaplanowanym na niedzielę meczem z Barceloną.</description>
     </item>
     
 </channel>
