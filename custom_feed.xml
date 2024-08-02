@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Aug 2024 22:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 22:39:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131462-dzisiejsze-okladki</link>
+        <pubDate>Sat, 03 Aug 2024 00:32:00 GMT</pubDate>
+        <description>Złoty medal dla Hiszpanii to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Endrick: Rozegranie Klasyku to marzenie każdego dziecka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131448-gdzie-jest-mbappe</link>
         <pubDate>Fri, 02 Aug 2024 12:25:00 GMT</pubDate>
         <description>Napastnik nie postawi stopy na amerykańskiej ziemi, ale jest obecny na ustach kibiców Królewskich i dziennikarzy.</description>
-    </item>
-    
-    <item>
-        <title>Güler zaskakuje Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/131447-gueler-zaskakuje-ancelottiego</link>
-        <pubDate>Fri, 02 Aug 2024 11:42:00 GMT</pubDate>
-        <description>Turek, jeden z najlepszych zawodników w pierwszej połowie meczu z Milanem, podoba się Carlo Ancelottiemu ze względu na swoją poprawę fizyczną i umiejętność podejmowania decyzji. „Myślę, że w przyszłości ma szansę grać jako jeden z trójki pomocników w środku pola”, twierdzi Włoch.</description>
     </item>
     
 </channel>
