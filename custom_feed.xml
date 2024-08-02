@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Aug 2024 10:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 10:53:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola w meczu Realu Madryt z Barceloną!</title>
+        <link>https://www.realmadryt.pl/news/131449-400-zl-za-gola-w-meczu-realu-madryt-z-barcelona</link>
+        <pubDate>Fri, 02 Aug 2024 12:51:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>„Gdzie jest Mbappé?”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131438-pierwszy-trening-realu-przed-sparingowym-klasykiem-na-zywo</link>
         <pubDate>Thu, 01 Aug 2024 23:04:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie kolejne zajęcia w Stanach Zjednoczonych. To jednocześnie pierwsza sesja przed sparingiem z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Porażka Castilli z drugoligowcem</title>
-        <link>https://www.realmadryt.pl/news/131439-porazka-castilli-z-drugoligowcem</link>
-        <pubDate>Thu, 01 Aug 2024 22:42:00 GMT</pubDate>
-        <description>Castilla przegrała 0:3 w drugim meczu okresu przygotowawczego. W rywalizacji z grającym w wyższej lidze Racingiem Ferrol Królewscy nie byli w stanie strzelić gola. Pod wodzą Raúla dalej pracuje Reinier.</description>
     </item>
     
 </channel>
