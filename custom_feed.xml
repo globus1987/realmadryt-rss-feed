@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 22:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 23:21:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz przerwany w 13. minucie</title>
+        <link>https://www.realmadryt.pl/news/131480-mecz-przerwany-w-13-minucie</link>
+        <pubDate>Sun, 04 Aug 2024 01:20:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Barceloną został wstrzymany po 13 minutach gry.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131469-real-madryt-barcelona-przewidywane-sklady</link>
         <pubDate>Sat, 03 Aug 2024 12:00:00 GMT</pubDate>
         <description>Królewscy i Katalończycy nie podchodzą do sparingowego Klasyku w najmocniejszych składach, bo wielu ich liderów ciągle odpoczywa lub leczy kontuzje. Mimo wszystko jedenastki będą mocniejsze niż w ostatnich letnich występach obu ekip.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/131466-kartka-z-kalendarza-3-sierpnia</link>
-        <pubDate>Sat, 03 Aug 2024 12:00:00 GMT</pubDate>
-        <description>Transfer bramkarza na lata, urodziny hiszpańskiego pomocnika, śmierć wielkiego kibica Realu Madryt i bardzo ważne trafienie Asensio. Co działo się 3 sierpnia?</description>
     </item>
     
 </channel>
