@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 23:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 23:39:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino Pérez dołączył do drużyny</title>
+        <link>https://www.realmadryt.pl/news/131481-florentino-perez-dolaczyl-do-druzyny</link>
+        <pubDate>Sun, 04 Aug 2024 01:33:00 GMT</pubDate>
+        <description>Prezes Królewskich dołączył do zespołu przed Klasykiem i życzył mu powodzenia.</description>
+    </item>
     
     <item>
         <title>Mecz przerwany w 13. minucie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131470-ter-stegen-klasyk-to-klasyk-to-nie-jest-zwykly-sparing</link>
         <pubDate>Sat, 03 Aug 2024 13:35:00 GMT</pubDate>
         <description>Marc-André Ter Stegen udzielił wypowiedzi klubowym mediom przed dzisiejszym nocnym Klasykiem. Przedstawiamy najważniejsze wypowiedzi nowego kapitana Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Barcelona: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/131469-real-madryt-barcelona-przewidywane-sklady</link>
-        <pubDate>Sat, 03 Aug 2024 12:00:00 GMT</pubDate>
-        <description>Królewscy i Katalończycy nie podchodzą do sparingowego Klasyku w najmocniejszych składach, bo wielu ich liderów ciągle odpoczywa lub leczy kontuzje. Mimo wszystko jedenastki będą mocniejsze niż w ostatnich letnich występach obu ekip.</description>
     </item>
     
 </channel>
