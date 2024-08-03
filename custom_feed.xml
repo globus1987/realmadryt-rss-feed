@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 03:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 04:23:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w New Jersey</title>
+        <link>https://www.realmadryt.pl/news/131465-krolewscy-sa-juz-w-new-jersey</link>
+        <pubDate>Sat, 03 Aug 2024 06:21:00 GMT</pubDate>
+        <description>Pierwszy zespół Realu Madryt dotarł do New Jersey, gdzie w niedzielę rozegra towarzyski mecz z Barceloną.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131449-400-zl-za-gola-w-meczu-realu-madryt-z-barcelona</link>
         <pubDate>Fri, 02 Aug 2024 12:51:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>„Gdzie jest Mbappé?”</title>
-        <link>https://www.realmadryt.pl/news/131448-gdzie-jest-mbappe</link>
-        <pubDate>Fri, 02 Aug 2024 12:25:00 GMT</pubDate>
-        <description>Napastnik nie postawi stopy na amerykańskiej ziemi, ale jest obecny na ustach kibiców Królewskich i dziennikarzy.</description>
     </item>
     
 </channel>
