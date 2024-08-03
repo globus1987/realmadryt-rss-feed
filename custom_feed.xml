@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 04:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 05:18:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Coraz głośniej wybrzmiewa imię Joana Martíneza”</title>
+        <link>https://www.realmadryt.pl/news/131463-coraz-glosniej-wybrzmiewa-imie-joana-martineza</link>
+        <pubDate>Sat, 03 Aug 2024 07:00:00 GMT</pubDate>
+        <description>Nastolatek po nieoficjalnym debiucie dalej jest mocno chwalony, a trener już zapowiedział, że w sezonie będzie zapraszany do pracy w pierwszej drużynie.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w New Jersey</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131450-oficjalnie-faza-ligowa-takze-w-lidze-mistrzyn</link>
         <pubDate>Fri, 02 Aug 2024 13:22:00 GMT</pubDate>
         <description>UEFA opublikowała komunikat ze szczegółami zmian w Lidze Mistrzyń, które wejdą w życie już za rok.</description>
-    </item>
-    
-    <item>
-        <title>400 zł za gola w meczu Realu Madryt z Barceloną!</title>
-        <link>https://www.realmadryt.pl/news/131449-400-zl-za-gola-w-meczu-realu-madryt-z-barcelona</link>
-        <pubDate>Fri, 02 Aug 2024 12:51:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
