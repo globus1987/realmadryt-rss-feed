@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 22:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 22:38:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131479-dzisiejsze-okladki</link>
+        <pubDate>Sun, 04 Aug 2024 00:36:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>The Athletic: Palacios przejdzie operację kontuzjowanego kolana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131466-kartka-z-kalendarza-3-sierpnia</link>
         <pubDate>Sat, 03 Aug 2024 12:00:00 GMT</pubDate>
         <description>Transfer bramkarza na lata, urodziny hiszpańskiego pomocnika, śmierć wielkiego kibica Realu Madryt i bardzo ważne trafienie Asensio. Co działo się 3 sierpnia?</description>
-    </item>
-    
-    <item>
-        <title>Noel López bliski odejścia z Castilli</title>
-        <link>https://www.realmadryt.pl/news/131461-noel-lopez-bliski-odejscia-z-castilli</link>
-        <pubDate>Sat, 03 Aug 2024 11:00:00 GMT</pubDate>
-        <description>Dwuletnia przygoda Noela Lópeza z Castillą dobiega końca. Atakujący nie zdołał się rozwinąć w zespole Raúla i najprawdopodobniej odejdzie na wypożyczenie. Chętnych na 21-latka nie brakuje.</description>
     </item>
     
 </channel>
