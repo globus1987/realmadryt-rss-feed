@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 07:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 08:24:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wspólny interes</title>
+        <link>https://www.realmadryt.pl/news/131467-wspolny-interes</link>
+        <pubDate>Sat, 03 Aug 2024 10:11:00 GMT</pubDate>
+        <description>Za ugoszczenie Realu Madryt i Barcelony trzeba dodatkowo zapłacić. Oba kluby otrzymają za dzisiejszy Klasyk po około 5 milionów euro.</description>
+    </item>
     
     <item>
         <title>Laporte naciska na odejście</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131456-oficjalnie-krol-strzelcow-la-ligi-przenosi-sie-do-wloch</link>
         <pubDate>Fri, 02 Aug 2024 18:57:00 GMT</pubDate>
         <description>Jeden z głównych rywali Królewskich w poprzednim sezonie stracił kolejnego ze swoich liderów. Pichichi La Ligi przenosi się do Włoch.</description>
-    </item>
-    
-    <item>
-        <title>Vallejo w drugiej części treningu nie pracował z grupą</title>
-        <link>https://www.realmadryt.pl/news/131455-vallejo-w-drugiej-czesci-treningu-nie-pracowal-z-grupa</link>
-        <pubDate>Fri, 02 Aug 2024 18:41:00 GMT</pubDate>
-        <description>Królewscy odbyli ostatni trening przed sparingiem z Barceloną. Poza grupą w drugiej części zajęć pozostał jeden zawodnik.</description>
     </item>
     
 </channel>
