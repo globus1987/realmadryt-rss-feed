@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Aug 2024 06:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 06:43:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dysonans poznawczy</title>
+        <link>https://www.realmadryt.pl/news/131451-dysonans-poznawczy</link>
+        <pubDate>Sat, 03 Aug 2024 08:40:00 GMT</pubDate>
+        <description>Jest w tym coś dziwnego i chyba nawet wiemy, co dokładnie.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, Brahim!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131454-ostatni-trening-realu-przed-barcelona-na-zywo</link>
         <pubDate>Fri, 02 Aug 2024 17:06:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie kolejne zajęcia w Stanach Zjednoczonych. To jednocześnie ostatnia sesja przed sparingiem z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>W pogoni za idolem</title>
-        <link>https://www.realmadryt.pl/news/131452-w-pogoni-za-idolem</link>
-        <pubDate>Fri, 02 Aug 2024 15:16:00 GMT</pubDate>
-        <description>Pod oczami mieszkańców miasteczka Alginet w czwartkowy poranek dało się zauważyć więcej cieni pod oczami niż zazwyczaj. Nie może to jednak dziwić, ponieważ wiele osób postanowiło zarwać noc w oczekiwaniu na debiut w barwach Realu Madryt swojego 16-letniego sąsiada, Joana Martineza.</description>
     </item>
     
 </channel>
