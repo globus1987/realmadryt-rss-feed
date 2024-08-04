@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Aug 2024 21:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 22:19:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131508-dzisiejsze-okladki</link>
+        <pubDate>Mon, 05 Aug 2024 00:07:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie i sparingowy Klasyk to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Pierwszy trening Realu przed Chelsea [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/131507-pierwszy-trening-realu-przed-chelsea-na-zywo</link>
+        <pubDate>Mon, 05 Aug 2024 00:01:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt rozpoczęli właśnie kolejne zajęcia w Stanach Zjednoczonych. To jednocześnie pierwsza sesja przed sparingiem z Chelsea.</description>
+    </item>
     
     <item>
         <title>Relevo: Bayer chce powrotu Melvina</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131494-szef-sedziow-prosimy-tylko-o-szacunek</link>
         <pubDate>Sun, 04 Aug 2024 16:01:00 GMT</pubDate>
         <description>Luis Medina Cantalejo wystosował komentarze w sprawie nadchodzącego sezonu La Ligi po zakończeniu tygodniowego zgrupowania sędziów. Przedstawiamy opublikowane wypowiedzi prezesa Komitetu Technicznego Arbitrów w Hiszpańskiej Federacji Piłkarskiej.</description>
-    </item>
-    
-    <item>
-        <title>Europejskie ligi wnoszą skargę do portalu X</title>
-        <link>https://www.realmadryt.pl/news/131493-europejskie-ligi-wnosza-skarge-do-portalu-x</link>
-        <pubDate>Sun, 04 Aug 2024 15:22:00 GMT</pubDate>
-        <description>Europejskie ligi piłkarskie oraz nadawcy poskarżyli się na politykę platformy X. Chodzi o dystrybucję nielegalnych materiałów z ich wydarzeń.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x03: Przegrany Klasyk</title>
-        <link>https://www.realmadryt.pl/news/131491-podcast-6x03-przegrany-klasyk</link>
-        <pubDate>Sun, 04 Aug 2024 14:45:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który nagraliśmy po sparingu z Barceloną. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
