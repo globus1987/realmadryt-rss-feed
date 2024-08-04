@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Aug 2024 15:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 16:22:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vini tańczył w Klasyku</title>
+        <link>https://www.realmadryt.pl/news/131497-vini-tanczyl-w-klasyku</link>
+        <pubDate>Sun, 04 Aug 2024 18:16:00 GMT</pubDate>
+        <description>Postawa Viníciusa to najlepsza wiadomość płynąca z obozu Królewskich po towarzyskim meczu z Barceloną. Brazylijczyk, który jeszcze dwa dni wcześniej bawił się na koncercie Travisa Scotta w Madrycie, wrócił do gry w bardzo dobrej dyspozycji.</description>
+    </item>
     
     <item>
         <title>Toni Kroos Piłkarzem Roku magazynu Kicker</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131484-courtois-na-koncu-liczy-sie-to-co-bedzie-w-sezonie</link>
         <pubDate>Sun, 04 Aug 2024 05:05:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu w strefie mieszanej po sparingu z Barceloną. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy na MetLife Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 1:2 FC Barcelona [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131483-real-madryt-1-2-fc-barcelona-video</link>
-        <pubDate>Sun, 04 Aug 2024 04:37:00 GMT</pubDate>
-        <description>W drugim meczu towarzyskim w Stanach Zjednoczonych Real Madryt przegrał z Barceloną 1:2.</description>
     </item>
     
 </channel>
