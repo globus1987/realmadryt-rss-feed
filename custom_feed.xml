@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Aug 2024 19:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 19:38:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Nico Paz rozważa odejście z Realu</title>
+        <link>https://www.realmadryt.pl/news/131502-marca-nico-paz-rozwaza-odejscie-z-realu</link>
+        <pubDate>Sun, 04 Aug 2024 21:37:00 GMT</pubDate>
+        <description>Nico Paz był jednym z bohaterów meczu z Barceloną. MARCA informuje jednak, że 19-letni Argentyńczyk wkrótce może rozstać się z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>MD: Barcelona i La Liga pracują nad meczami ligowymi w Stanach Zjednoczonych</title>
+        <link>https://www.realmadryt.pl/news/131503-md-barcelona-i-la-liga-pracuja-nad-meczami-ligowymi-w-stanach-zjednoczonych</link>
+        <pubDate>Sun, 04 Aug 2024 21:25:00 GMT</pubDate>
+        <description>Klubowe źródła wskazują, że Katalończycy pracują nad rozegraniem meczów La Ligi poza Hiszpanią. To powrót do inicjatywy z 2018 roku. Tym razem prezes Javier Tebas widzi szanse na takie zagraniczne spotkanie już w sezonie 2025/26.</description>
+    </item>
     
     <item>
         <title>Wysokie zwycięstwo Castilli</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131489-ancelotti-mbappe-i-bellingham-moga-zagrac-od-poczatku-w-superpucharze</link>
         <pubDate>Sun, 04 Aug 2024 12:06:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu dziennikarzom radiowym w strefie mieszanej po sparingu z Barceloną. Przedstawiamy wypowiedzi trenera z tej rozmowy na MetLife Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Flick: W niektórych sytuacjach trochę za głęboko się cofaliśmy</title>
-        <link>https://www.realmadryt.pl/news/131488-flick-w-niektorych-sytuacjach-troche-za-gleboko-sie-cofalismy</link>
-        <pubDate>Sun, 04 Aug 2024 10:49:00 GMT</pubDate>
-        <description>Hansi Flick rozmawiał z mediami po meczu Barcelony z Realem Madryt. Przedstawiamy wypowiedzi trenera z MetLife Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Nico Paz: Miałem nie wchodzić w pole karne, ale zobaczyłem dużo miejsca</title>
-        <link>https://www.realmadryt.pl/news/131487-nico-paz-mialem-nie-wchodzic-w-pole-karne-ale-zobaczylem-duzo-miejsca</link>
-        <pubDate>Sun, 04 Aug 2024 09:47:00 GMT</pubDate>
-        <description>Nico Paz udzielił wywiadu w strefie mieszanej po sparingu z Barceloną. Przedstawiamy wypowiedzi jedynego strzelca gola dla Realu Madryt na MetLife Stadium.</description>
     </item>
     
 </channel>
