@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Aug 2024 12:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 12:59:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x03: Przegrany Klasyk</title>
+        <link>https://www.realmadryt.pl/news/131491-podcast-6x03-przegrany-klasyk</link>
+        <pubDate>Sun, 04 Aug 2024 14:45:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który nagraliśmy po sparingu z Barceloną. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Mbappé i Bellingham mogą zagrać od początku w Superpucharze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131479-dzisiejsze-okladki</link>
         <pubDate>Sun, 04 Aug 2024 00:36:00 GMT</pubDate>
         <description>Igrzyska Olimpijskie to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Palacios przejdzie operację kontuzjowanego kolana</title>
-        <link>https://www.realmadryt.pl/news/131478-the-athletic-palacios-przejdzie-operacje-kontuzjowanego-kolana</link>
-        <pubDate>Sat, 03 Aug 2024 23:38:00 GMT</pubDate>
-        <description>Młodzi gracze doznali kontuzji w sparingu z Milanem. Jeden musi przejść operację, a drugi wypada na kilka tygodni.</description>
     </item>
     
 </channel>
