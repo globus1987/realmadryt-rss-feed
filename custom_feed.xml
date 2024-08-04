@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Aug 2024 12:59:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 13:23:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Europejskie ligi wnoszą skargę do portalu X</title>
+        <link>https://www.realmadryt.pl/news/131493-europejskie-ligi-wnosza-skarge-do-portalu-x</link>
+        <pubDate>Sun, 04 Aug 2024 15:22:00 GMT</pubDate>
+        <description>Europejskie ligi piłkarskie oraz nadawcy poskarżyli się na politykę platformy X. Chodzi o dystrybucję nielegalnych materiałów z ich wydarzeń.</description>
+    </item>
     
     <item>
         <title>Podcast 6x03: Przegrany Klasyk</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131480-kolejna-porazka-z-barcelona-na-amerykanskiej-ziemi</link>
         <pubDate>Sun, 04 Aug 2024 01:20:00 GMT</pubDate>
         <description>Barcelona wygrała 2:1 z Realem Madryt po golach Pau Víctora i Nico Paza.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131479-dzisiejsze-okladki</link>
-        <pubDate>Sun, 04 Aug 2024 00:36:00 GMT</pubDate>
-        <description>Igrzyska Olimpijskie to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
