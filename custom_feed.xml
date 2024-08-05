@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Aug 2024 09:22:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 09:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cisza bramkarzy</title>
+        <link>https://www.realmadryt.pl/news/131512-cisza-bramkarzy</link>
+        <pubDate>Mon, 05 Aug 2024 11:30:00 GMT</pubDate>
+        <description>Wciąż nie wiadomo, jaka przyszłość czeka Andrija Łunina i Kepę Arrizabalagę. Ukrainiec nie chce przedłużać kontraktu, gdyż potrzebuje regularnej gry, ale jednocześnie brak wiadomości na temat jego ewentualnego odejścia. Bask z kolei w ciszy czeka na rozwój wydarzeń w Madrycie.</description>
+    </item>
+    
+    <item>
+        <title>Włoskie media: Scamacca poważnie kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/131516-wloskie-media-scamacca-powaznie-kontuzjowany</link>
+        <pubDate>Mon, 05 Aug 2024 11:24:00 GMT</pubDate>
+        <description>Gianluca Scamacca doznał poważnej kontuzji zerwania więzadeł w meczu towarzyskim z Parmą i wypada z gry na najbliższe kilka miesięcy.</description>
+    </item>
     
     <item>
         <title>Nowe puzzle Ancelottiego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131507-pierwszy-trening-realu-przed-chelsea-na-zywo</link>
         <pubDate>Mon, 05 Aug 2024 00:01:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie kolejne zajęcia w Stanach Zjednoczonych. To jednocześnie pierwsza sesja przed sparingiem z Chelsea.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Bayer chce powrotu Melvina</title>
-        <link>https://www.realmadryt.pl/news/131504-relevo-bayer-chce-powrotu-melvina</link>
-        <pubDate>Sun, 04 Aug 2024 22:02:00 GMT</pubDate>
-        <description>Bayer nie zapłacił Realowi za prawego obrońcę, by ten trafił do niego na stałe, ale chce go jeszcze raz wypożyczyć i sprawdzić.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Nico Paz rozważa odejście z Realu</title>
-        <link>https://www.realmadryt.pl/news/131502-marca-nico-paz-rozwaza-odejscie-z-realu</link>
-        <pubDate>Sun, 04 Aug 2024 21:37:00 GMT</pubDate>
-        <description>Nico Paz był jednym z bohaterów meczu z Barceloną. MARCA informuje jednak, że 19-letni Argentyńczyk wkrótce może rozstać się z Realem Madryt.</description>
     </item>
     
 </channel>
