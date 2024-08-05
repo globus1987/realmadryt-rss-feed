@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Aug 2024 22:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 23:21:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131528-dzisiejsze-okladki</link>
+        <pubDate>Tue, 06 Aug 2024 00:55:00 GMT</pubDate>
+        <description>Sukcesy Hiszpanów na Igrzyskach Olimpijskich to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vallejo znowu nie trenował z grupą, odpoczynek dla Ardy i Endricka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131512-cisza-bramkarzy</link>
         <pubDate>Mon, 05 Aug 2024 11:30:00 GMT</pubDate>
         <description>Wciąż nie wiadomo, jaka przyszłość czeka Andrija Łunina i Kepę Arrizabalagę. Ukrainiec nie chce przedłużać kontraktu, gdyż potrzebuje regularnej gry, ale jednocześnie brak wiadomości na temat jego ewentualnego odejścia. Bask z kolei w ciszy czeka na rozwój wydarzeń w Madrycie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Scamacca zerwał więzadło krzyżowe</title>
-        <link>https://www.realmadryt.pl/news/131516-oficjalnie-scamacca-zerwal-wiezadlo-krzyzowe</link>
-        <pubDate>Mon, 05 Aug 2024 11:24:00 GMT</pubDate>
-        <description>Gianluca Scamacca doznał poważnej w meczu towarzyskim z Parmą i wypada z gry na najbliższe kilka miesięcy.</description>
     </item>
     
 </channel>
