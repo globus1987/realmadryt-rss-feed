@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Aug 2024 12:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 13:02:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hala w Madrycie z formalnym ostrzeżeniem wobec Travisa Scotta</title>
+        <link>https://www.realmadryt.pl/news/131517-hala-w-madrycie-z-formalnym-ostrzezeniem-wobec-travisa-scotta</link>
+        <pubDate>Mon, 05 Aug 2024 14:51:00 GMT</pubDate>
+        <description>Nie tylko Santiago Bernabéu ma w Madrycie problemy z hałasem przekraczającym normy zapisane w przepisach. Jedna z najpopularniejszych hal na świecie poinformowała, że w tej sprawie wystosowała formalne ostrzeżenie wobec jednego z najpopularniejszych raperów.</description>
+    </item>
     
     <item>
         <title>Cisza bramkarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131508-dzisiejsze-okladki</link>
         <pubDate>Mon, 05 Aug 2024 00:07:00 GMT</pubDate>
         <description>Igrzyska Olimpijskie i sparingowy Klasyk to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Pierwszy trening Realu przed Chelsea [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/131507-pierwszy-trening-realu-przed-chelsea-na-zywo</link>
-        <pubDate>Mon, 05 Aug 2024 00:01:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie kolejne zajęcia w Stanach Zjednoczonych. To jednocześnie pierwsza sesja przed sparingiem z Chelsea.</description>
     </item>
     
 </channel>
