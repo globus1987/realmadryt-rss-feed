@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Aug 2024 13:02:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 13:29:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kto zagra w Lidze Mistrzów?</title>
+        <link>https://www.realmadryt.pl/news/131519-kto-zagra-w-lidze-mistrzow</link>
+        <pubDate>Mon, 05 Aug 2024 15:20:00 GMT</pubDate>
+        <description>Liga Mistrzów przechodzi największą reformę od lat, a może w całej swojej historii. We właściwych rozgrywkach zagra 36 drużyn. Pewny udział ma rzecz jasna Real Madryt, ale wiele zespołów nadal walczy o miejsce w elicie.</description>
+    </item>
+    
+    <item>
+        <title>AS: Wielka bitwa o Latasę</title>
+        <link>https://www.realmadryt.pl/news/131518-as-wielka-bitwa-o-latase</link>
+        <pubDate>Mon, 05 Aug 2024 15:14:00 GMT</pubDate>
+        <description>Swoje zainteresowanie wyraziły już Real Valladolid, Espanyol, Sevilla i Betis, a przygląda mu się również Rayo. Pierwszy wymieniony klub prowadzi w wyścigu o zakontraktowanie napastnika i jest blisko porozumienia. Latasa wrócił do Realu po rocznym wypożyczeniu do Getafe i szuka nowego pracodawcy.</description>
+    </item>
     
     <item>
         <title>Hala w Madrycie z formalnym ostrzeżeniem wobec Travisa Scotta</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131509-rodrygo-trenowal-z-grupa-vallejo-ciagle-cwiczy-indywidualnie</link>
         <pubDate>Mon, 05 Aug 2024 04:15:00 GMT</pubDate>
         <description>Królewscy odbyli trening regeneracyjny po sparingu z Barceloną i rozpoczęli przygotowania do sparingu z Chelsea. Poza grupą pozostał jeden powołany piłkarz. Drużyna pracowała w ośrodku Charlotte FC.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Myślę, że o Superpuchar powinni zagrać ci, którzy wygrali Ligę Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/131510-ancelotti-mysle-ze-o-superpuchar-powinni-zagrac-ci-ktorzy-wygrali-lige-mistrzow</link>
-        <pubDate>Mon, 05 Aug 2024 02:19:00 GMT</pubDate>
-        <description>Carlo Ancelotti po niedzielnym treningu w ośrodku Charlotte FC podszedł do zgromadzonych dziennikarzy. Przedstawiamy jego wypowiedzi dla mediów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131508-dzisiejsze-okladki</link>
-        <pubDate>Mon, 05 Aug 2024 00:07:00 GMT</pubDate>
-        <description>Igrzyska Olimpijskie i sparingowy Klasyk to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
