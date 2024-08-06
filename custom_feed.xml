@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Aug 2024 22:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 22:39:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131552-dzisiejsze-okladki</link>
+        <pubDate>Wed, 07 Aug 2024 00:37:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie i transfery w La Lidze to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Chelsea: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131536-25-wnioskow-sledczych-ws-oplacania-wiceszefa-sedziow-przez-barcelona</link>
         <pubDate>Tue, 06 Aug 2024 14:57:00 GMT</pubDate>
         <description>Media publikują wnioski z końcowego raportu śledczych Guardii Civil w Sprawie Negreiry, który został już przekazany sędziemu prowadzącemu postępowanie. Przedstawiamy jego podsumowanie, jakie przedstawił portal El Español.</description>
-    </item>
-    
-    <item>
-        <title>Stan Vallejo budzi wątpliwości</title>
-        <link>https://www.realmadryt.pl/news/131535-stan-vallejo-budzi-watpliwosci</link>
-        <pubDate>Tue, 06 Aug 2024 14:18:00 GMT</pubDate>
-        <description>Coś się dzieje z Jesusem Vallejo. Obrońca rozpoczął przygotowania do sezonu w bardzo dobrej formie. Szybciej wrócił z urlopu, czym już na starcie zaskoczył Ancelottiego. W USA jednak ponownie dały o sobie znać jego problemy fizyczne, co nie pozwala rozwiać kłębiących się wokół niego wątpliwości.</description>
     </item>
     
 </channel>
