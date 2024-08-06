@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Aug 2024 04:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 05:20:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz-granica</title>
+        <link>https://www.realmadryt.pl/news/131490-mecz-granica</link>
+        <pubDate>Tue, 06 Aug 2024 07:00:00 GMT</pubDate>
+        <description>Raz się przegrywa, raz ponosi porażkę, raz… jeszcze nie wiemy, co. Tak czy inaczej, to kompletnie bez znaczenia.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131517-hala-w-madrycie-z-formalnym-ostrzezeniem-wobec-travisa-scotta</link>
         <pubDate>Mon, 05 Aug 2024 14:51:00 GMT</pubDate>
         <description>Nie tylko Santiago Bernabéu ma w Madrycie problemy z hałasem przekraczającym normy zapisane w przepisach. Jedna z najpopularniejszych hal na świecie poinformowała, że w tej sprawie wystosowała formalne ostrzeżenie wobec jednego z najpopularniejszych raperów.</description>
-    </item>
-    
-    <item>
-        <title>Cisza bramkarzy</title>
-        <link>https://www.realmadryt.pl/news/131512-cisza-bramkarzy</link>
-        <pubDate>Mon, 05 Aug 2024 11:30:00 GMT</pubDate>
-        <description>Wciąż nie wiadomo, jaka przyszłość czeka Andrija Łunina i Kepę Arrizabalagę. Ukrainiec nie chce przedłużać kontraktu, gdyż potrzebuje regularnej gry, ale jednocześnie brak wiadomości na temat jego ewentualnego odejścia. Bask z kolei w ciszy czeka na rozwój wydarzeń w Madrycie.</description>
     </item>
     
 </channel>
