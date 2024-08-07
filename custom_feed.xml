@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Aug 2024 11:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 11:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wrócili do Madrytu</title>
+        <link>https://www.realmadryt.pl/news/131563-krolewscy-wrocili-do-madrytu</link>
+        <pubDate>Wed, 07 Aug 2024 13:24:00 GMT</pubDate>
+        <description>Królewscy wrócili do Madrytu. Piłkarze z tej grupy otrzymali dwa dni wolnego i wrócą do pracy w piątek.</description>
+    </item>
     
     <item>
         <title>Czy zawieszenie Rodriego wpłynie na jego szanse na Złotą Piłkę?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131556-ancelotti-dopoki-z-ruedigerem-i-militao-bedzie-dobrze-to-beda-grac-oni</link>
         <pubDate>Wed, 07 Aug 2024 04:22:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu w strefie mieszanej po sparingu z Chelsea. Przedstawiamy wypowiedzi trenera z tej rozmowy na Bank of America Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:1 Chelsea [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131555-real-madryt-2-1-chelsea-video</link>
-        <pubDate>Wed, 07 Aug 2024 03:59:00 GMT</pubDate>
-        <description>W trzecim meczu towarzyskim w Stanach Zjednoczonych Real Madryt wygrał z Chelsea 2:1.</description>
     </item>
     
 </channel>
