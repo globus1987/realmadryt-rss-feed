@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Aug 2024 22:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 22:39:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131572-dzisiejsze-okladki</link>
+        <pubDate>Thu, 08 Aug 2024 00:20:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zmarł Chato González, były piłkarz Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131561-rodrygo-podoba-sie-guardioli-ale-czy-city-po-niego-ruszy</link>
         <pubDate>Wed, 07 Aug 2024 12:46:00 GMT</pubDate>
         <description>Julián Álvarez już dzisiaj może zostać piłkarzem Atlético Madryt. Wszyscy czekają na reakcję Manchesteru City, a wśród wymienianych kandydatów do wzmocnienia zespołu Pepa Guardioli znajduje się także zawodnik Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Ukryta prośba do Ancelottiego i niepewna przyszłość</title>
-        <link>https://www.realmadryt.pl/news/131560-ukryta-prosba-do-ancelottiego-i-niepewna-przyszlosc</link>
-        <pubDate>Wed, 07 Aug 2024 11:41:00 GMT</pubDate>
-        <description>Zawodnik rodem z Utrery twierdzi, że jest szczęśliwy w Realu Madryt i chce odnieść sukces w jego koszulce, ale nie zamyka się na opuszczenie klubu.</description>
     </item>
     
 </channel>
