@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Aug 2024 09:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 09:38:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gasperini: Mecz z Realem to być może najważniejszy moment w historii Atalanty</title>
+        <link>https://www.realmadryt.pl/news/131544-gasperini-mecz-z-realem-to-byc-moze-najwazniejszy-moment-w-historii-atalanty</link>
+        <pubDate>Wed, 07 Aug 2024 11:26:00 GMT</pubDate>
+        <description>Gian Piero Gasperini udzielił wywiadu dla oficjalnych mediów UEFA przed meczem o Superpuchar Europy przeciwko Realowi Madryt, który odbędzie się już za tydzień, w środę 14 czerwca, o godzinie 21:00 na Stadionie Narodowym w Warszawie. Przedstawiamy wypowiedzi trenera Atalanty z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Valverde jeszcze bardziej zyskuje na znaczeniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131552-dzisiejsze-okladki</link>
         <pubDate>Wed, 07 Aug 2024 00:37:00 GMT</pubDate>
         <description>Igrzyska Olimpijskie i transfery w La Lidze to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Chelsea: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/131548-real-madryt-chelsea-znamy-sklady</link>
-        <pubDate>Tue, 06 Aug 2024 23:11:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w trzecim sparingu przed nowym sezonem. Mecz rozpocznie się o godzinie 1:00 czasu polskiego na Bank of America Stadium w Charlotte.</description>
     </item>
     
 </channel>
