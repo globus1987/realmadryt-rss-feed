@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Aug 2024 15:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 16:26:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Pepe zakończył piłkarską karierę</title>
+        <link>https://www.realmadryt.pl/news/131585-oficjalnie-pepe-zakonczyl-pilkarska-kariere</link>
+        <pubDate>Thu, 08 Aug 2024 17:56:00 GMT</pubDate>
+        <description>Portugalczyk, któremu tego lata wygasł kontrakt z Porto, poinformował o odwieszeniu butów na kołek.</description>
+    </item>
     
     <item>
         <title>AS: Real zmuszony podjąć decyzję w sprawie Daviesa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131574-wielkie-wyzwanie-endricka</link>
         <pubDate>Thu, 08 Aug 2024 09:43:00 GMT</pubDate>
         <description>Przed napastnikiem trudny test. Na początku sezonu będzie próbował określić swoją rolę w zespole Realu na tę kampanię.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Wiemy, że musimy być przygotowani na Atalantę</title>
-        <link>https://www.realmadryt.pl/news/131573-courtois-wiemy-ze-musimy-byc-przygotowani-na-atalante</link>
-        <pubDate>Thu, 08 Aug 2024 08:20:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu mediom UEFA z okazji meczu o Superpuchar Europy, który odbędzie się 14 sierpnia w Warszawie. Przedstawiamy wypowiedzi bramkarza Realu Madryt dotyczące tego spotkania.</description>
     </item>
     
 </channel>
