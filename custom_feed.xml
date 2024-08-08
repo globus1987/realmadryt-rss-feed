@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Aug 2024 08:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 08:55:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 8 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/131575-kartka-z-kalendarza-8-sierpnia</link>
+        <pubDate>Thu, 08 Aug 2024 10:45:00 GMT</pubDate>
+        <description>Śmierć kapitana Espanyolu, zdobycie Superpucharu Europy, odejście jednego z najbardziej obiecujących wychowanków i transfer bramkarza. Co działo się 8 sierpnia?</description>
+    </item>
     
     <item>
         <title>Militão i Rüdiger będą nierozłączną parą stoperów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131566-ancelotti-chce-dac-modriciowi-nowa-role</link>
         <pubDate>Wed, 07 Aug 2024 18:26:00 GMT</pubDate>
         <description>38-letni chorwacki piłkarz ma za sobą niezwykły okres przygotowawczy w barwach Realu i czekać go mają nowe zadania.</description>
-    </item>
-    
-    <item>
-        <title>Sytuacja Łunina wciąż tkwi w martwym punkcie</title>
-        <link>https://www.realmadryt.pl/news/131565-sytuacja-lunina-wciaz-tkwi-w-martwym-punkcie</link>
-        <pubDate>Wed, 07 Aug 2024 16:20:00 GMT</pubDate>
-        <description>Sytuacja Andrija Łunina w ostatnich trzech miesiącach uległa znacznej zmianie. Jakiś czas temu Ukrainiec błyszczał między słupkami i swoją postawą praktycznie wypracował sobie przedłużenie kontraktu. Dziś jednak ponownie znajduje się w cieniu Courtois, a jego przyszłość stoi pod znakiem zapytania. Pobyt w USA niczego zaś nie wyklarował. Przeciwnie – wiadomo tak naprawdę coraz mniej.</description>
     </item>
     
 </channel>
