@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Aug 2024 05:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 06:29:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Wiemy, że musimy być przygotowani na Atalantę</title>
+        <link>https://www.realmadryt.pl/news/131573-courtois-wiemy-ze-musimy-byc-przygotowani-na-atalante</link>
+        <pubDate>Thu, 08 Aug 2024 08:20:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu mediom UEFA z okazji meczu o Superpuchar Europy, który odbędzie się 14 sierpnia w Warszawie. Przedstawiamy wypowiedzi bramkarza Realu Madryt dotyczące tego spotkania.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Okazujemy Atalancie wielki szacunek</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131563-krolewscy-wrocili-do-madrytu</link>
         <pubDate>Wed, 07 Aug 2024 13:24:00 GMT</pubDate>
         <description>Królewscy wrócili do Madrytu. Piłkarze z tej grupy otrzymali dwa dni wolnego i wrócą do pracy w piątek.</description>
-    </item>
-    
-    <item>
-        <title>Czy zawieszenie Rodriego wpłynie na jego szanse na Złotą Piłkę?</title>
-        <link>https://www.realmadryt.pl/news/131562-czy-zawieszenie-rodriego-wplynie-na-jego-szanse-na-zlota-pilke</link>
-        <pubDate>Wed, 07 Aug 2024 13:07:00 GMT</pubDate>
-        <description>Jeden z głównych faworytów do zdobycia Złotej Piłki został ukarany przez UEFA. Zgodnie z zasadami konkursu wpływa to na jego szanse na wygranie tej nagrody.</description>
     </item>
     
 </channel>
