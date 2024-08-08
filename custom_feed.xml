@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Aug 2024 21:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 22:19:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131590-dzisiejsze-okladki</link>
+        <pubDate>Fri, 09 Aug 2024 00:04:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Francja – USA w olimpijskim finale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131579-nastolatek-z-chelsea-kandydatem-realu-madryt-na-prawa-obrone</link>
         <pubDate>Thu, 08 Aug 2024 12:14:00 GMT</pubDate>
         <description>Nastolatek z Chelsea ma być opcją Realu Madryt do wzmocnienia prawej obrony. The Blues potrzebują sprzedaży piłkarzy, a największy zysk księgowy mogą notować właśnie na wychowankach.</description>
-    </item>
-    
-    <item>
-        <title>Rozpoczęto montaż stałej sztucznej trawy na Bernabéu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131578-rozpoczeto-montaz-stalej-sztucznej-trawy-na-bernabeu-video</link>
-        <pubDate>Thu, 08 Aug 2024 11:55:00 GMT</pubDate>
-        <description>W tym tygodniu rozpoczęto czyszczenie platformy, na którą wjeżdża murawa Bernabéu. Okazuje się, że było to przygotowanie do zainstalowania stałej sztucznej murawy na tej części boiska.</description>
     </item>
     
 </channel>
