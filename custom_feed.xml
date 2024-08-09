@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Aug 2024 10:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 10:40:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan na Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/131596-plan-na-bellinghama</link>
+        <pubDate>Fri, 09 Aug 2024 12:29:00 GMT</pubDate>
+        <description>Królewscy opracowali specjalny plan na Jude'a Bellinghama, który ma pomóc mu w odzyskaniu formy z pierwszej połowy poprzedniego sezonu. Ostatnie miesiące nie były łatwe dla Anglika, który teraz zaczyna od zera i znów chce pokazywać swoją najlepszą wersję.</description>
+    </item>
     
     <item>
         <title>Atalanta wzmacnia atak przed starciem z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131585-oficjalnie-pepe-zakonczyl-pilkarska-kariere</link>
         <pubDate>Thu, 08 Aug 2024 17:56:00 GMT</pubDate>
         <description>Portugalczyk, któremu tego lata wygasł kontrakt z Porto, poinformował o odwieszeniu butów na kołek.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real zmuszony podjąć decyzję w sprawie Daviesa</title>
-        <link>https://www.realmadryt.pl/news/131584-as-real-zmuszony-podjac-decyzje-w-sprawie-daviesa</link>
-        <pubDate>Thu, 08 Aug 2024 15:50:00 GMT</pubDate>
-        <description>Nastąpił niespodziewany zwrot w sprawie operacji sprowadzenia kanadyjskiego lewego obrońcy. Bayern Monachium wysyła sygnały, że chce sprzedać go tego lata za wszelką cenę po tym, jak nie udało się przedłużyć z nim kontraktu. Tymczasem Real Madryt wolałby poczekać do 2025 roku.</description>
     </item>
     
 </channel>
