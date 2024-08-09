@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Aug 2024 11:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 12:39:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Socios Barcelony: Operacja z Barça Studios nie jest prawdziwa</title>
+        <link>https://www.realmadryt.pl/news/131600-socios-barcelony-operacja-z-barca-studios-nie-jest-prawdziwa</link>
+        <pubDate>Fri, 09 Aug 2024 14:21:00 GMT</pubDate>
+        <description>Platforma socios Barcelony o nazwie Sí al Futur, której przewodzi Víctor Font, kandydat na prezesa w ostatnich wyborach na prezesa i prawdopodobny kandydat w najbliższych wyborach, opublikowała komunikat, w którym podważa ogłoszoną wczoraj operację dotyczącą kolejnej sprzedaży tych samych udziałów Barça Studios. Przedstawiamy najważniejsze informacje w tej sprawie.</description>
+    </item>
     
     <item>
         <title>AS: Laporte musi rozwiązać umowę z Al-Nassr, aby móc myśleć o Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131588-pierwszy-zagrania-kyliana-mbappe-w-realu-madryt-video</link>
         <pubDate>Thu, 08 Aug 2024 20:21:00 GMT</pubDate>
         <description>Klub opublikował filmik z pierwszego treningu Francuza na murawie w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Francja zagra o złoto, Yabusele MVP</title>
-        <link>https://www.realmadryt.pl/news/131587-francja-zagra-o-zloto-yabusele-mvp</link>
-        <pubDate>Thu, 08 Aug 2024 20:20:00 GMT</pubDate>
-        <description>Francja powtórzyła osiągnięcie z Tokio i ponownie zagra w finale Igrzysk Olimpijskich. Wydatnie pomógł w tym Yabusele, który został wybrany najlepszym zawodnikiem meczu.</description>
     </item>
     
 </channel>
