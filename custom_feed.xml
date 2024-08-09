@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Aug 2024 22:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 22:39:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131610-dzisiejsze-okladki</link>
+        <pubDate>Sat, 10 Aug 2024 00:25:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Lucas Cañizares zawodnikiem Farense</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131598-as-laporte-musi-rozwiazac-umowe-z-al-nassr-aby-moc-myslec-o-realu</link>
         <pubDate>Fri, 09 Aug 2024 13:03:00 GMT</pubDate>
         <description>Ancelotti dał zielone światło na transfer Hiszpana, ale aby tak się stało, zawodnik musi najpierw rozwiązać swój aktualny kontrakt w Al-Nassr, ponieważ Real Madryt nie zamierza płacić dodatkowych pieniędzy za 30-latka.</description>
-    </item>
-    
-    <item>
-        <title>Awans i nowy kontrakt dla Joana Martíneza</title>
-        <link>https://www.realmadryt.pl/news/131597-awans-i-nowy-kontrakt-dla-joana-martineza</link>
-        <pubDate>Fri, 09 Aug 2024 12:44:00 GMT</pubDate>
-        <description>Życie Joana Martíneza się zmienia, a najlepszym dowodem jest ponad 180 tysięcy obserwujących, jakich zdobył w ostatnich dwóch tygodniach od powołania na obóz Realu Madryt w Stanach Zjednoczonych. Główną zmianą będzie jednak zmiana jego statusu w klubie, donosi MARCA.</description>
     </item>
     
 </channel>
