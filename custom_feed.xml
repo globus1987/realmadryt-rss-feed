@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Aug 2024 22:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 22:38:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla pokonała Tenerife po golu Reiniera</title>
+        <link>https://www.realmadryt.pl/news/131631-castilla-pokonala-tenerife-po-golu-reiniera</link>
+        <pubDate>Sun, 11 Aug 2024 00:32:00 GMT</pubDate>
+        <description>Castilla zaczyna wreszcie nabierać kształtu. Raúl odzyska swoich kluczowych zawodników i na Wyspach Kanaryjskich Królewscy pokonali Tenerife 1:0.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131630-dzisiejsze-okladki</link>
+        <pubDate>Sun, 11 Aug 2024 00:25:00 GMT</pubDate>
+        <description>Igrzyska Olimpijskie to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Złoty medal dla Amerykanów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131620-anglia-i-bellingham-maja-nowego-selekcjonera</link>
         <pubDate>Sat, 10 Aug 2024 15:59:00 GMT</pubDate>
         <description>Anglicy znaleźli nowego selekcjonera po 24 dniach od rezygnacji Garetha Southgate'a. Na razie będzie to jednak tylko wybór tymczasowy.</description>
-    </item>
-    
-    <item>
-        <title>Olimpijski finał: Francja czy USA?</title>
-        <link>https://www.realmadryt.pl/news/131616-olimpijski-final-francja-czy-usa</link>
-        <pubDate>Sat, 10 Aug 2024 14:40:00 GMT</pubDate>
-        <description>Reprezentacja Francji z Guerschonem Yabusele w składzie zagra dzisiaj o olimpijskie złoto z naszpikowaną gwiazdami drużyną Stanów Zjednoczonych. Czy Trójkolorowi są w stanie sprawić niespodziankę?</description>
-    </item>
-    
-    <item>
-        <title>„Ma kości jak kamienie”</title>
-        <link>https://www.realmadryt.pl/news/131619-ma-kosci-jak-kamienie</link>
-        <pubDate>Sat, 10 Aug 2024 12:30:00 GMT</pubDate>
-        <description>Dziennik MARCA przeprowadził wywiad z Noahem Sanim, który jest osobistym trenerem niemieckiego obrońcy Realu. Ten zdradził sekrety świetnej dyspozycji fizycznej zawodnika.</description>
     </item>
     
 </channel>
