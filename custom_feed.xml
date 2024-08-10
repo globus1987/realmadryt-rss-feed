@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Aug 2024 10:22:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 10:39:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Ma kości jak kamienie”</title>
+        <link>https://www.realmadryt.pl/news/131619-ma-kosci-jak-kamienie</link>
+        <pubDate>Sat, 10 Aug 2024 12:30:00 GMT</pubDate>
+        <description>Dziennik MARCA przeprowadził wywiad z Noahem Sanim, który jest osobistym trenerem niemieckiego obrońcy Realu. Ten zdradził sekrety świetnej dyspozycji fizycznej zawodnika.</description>
+    </item>
     
     <item>
         <title>Vallejo wrócił do treningów z drużyną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131606-hiszpania-wygrywa-zloto-na-igrzyskach-olimpijskich</link>
         <pubDate>Fri, 09 Aug 2024 20:46:00 GMT</pubDate>
         <description>Hiszpania pokonała Francję 5:3 w finale Igrzysk Olimpijskich w Paryżu i zdobyła złoty medal.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Bardzo poważna kontuzja Joana Martíneza</title>
-        <link>https://www.realmadryt.pl/news/131605-marca-bardzo-powazna-kontuzja-joana-martineza</link>
-        <pubDate>Fri, 09 Aug 2024 20:38:00 GMT</pubDate>
-        <description>Niepokojące wiadomości z Valdebebas…</description>
     </item>
     
 </channel>
