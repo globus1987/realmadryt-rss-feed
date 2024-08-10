@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Aug 2024 13:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 14:18:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Z kim zderzył się Joan Martínez?</title>
+        <link>https://www.realmadryt.pl/news/131621-z-kim-zderzyl-sie-joan-martinez</link>
+        <pubDate>Sat, 10 Aug 2024 16:08:00 GMT</pubDate>
+        <description>Podczas wczorajszego treningu Joan Martínez zerwał więzadło krzyżowe, a w hiszpańskich mediach zaczęło pojawiać się coraz więcej informacji i spekulacji.</description>
+    </item>
+    
+    <item>
+        <title>Anglia i Bellingham mają nowego selekcjonera</title>
+        <link>https://www.realmadryt.pl/news/131620-anglia-i-bellingham-maja-nowego-selekcjonera</link>
+        <pubDate>Sat, 10 Aug 2024 15:59:00 GMT</pubDate>
+        <description>Anglicy znaleźli nowego selekcjonera po 24 dniach od rezygnacji Garetha Southgate'a. Na razie będzie to jednak tylko wybór tymczasowy.</description>
+    </item>
     
     <item>
         <title>Olimpijski finał: Francja czy USA?</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131612-niewinna-sytuacja-doprowadzila-do-dramatu-joana-martineza</link>
         <pubDate>Sat, 10 Aug 2024 07:00:00 GMT</pubDate>
         <description>Nastolatek zrobił latem furorę i miał być włączany do dynamiki pierwszej drużyny. Teraz czeka go jednak operacja i miesiące żmudnej rehabilitacji.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131610-dzisiejsze-okladki</link>
-        <pubDate>Sat, 10 Aug 2024 00:25:00 GMT</pubDate>
-        <description>Igrzyska Olimpijskie to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lucas Cañizares zawodnikiem Farense</title>
-        <link>https://www.realmadryt.pl/news/131608-oficjalnie-lucas-canizares-zawodnikiem-farense</link>
-        <pubDate>Fri, 09 Aug 2024 21:54:00 GMT</pubDate>
-        <description>Lucas Cañizares jest już piłkarzem Farense. Opuścił szkółkę Realu Madryt, do której trafił w wieku 12 lat.</description>
     </item>
     
 </channel>
