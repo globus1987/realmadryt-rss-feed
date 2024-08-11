@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Aug 2024 10:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 10:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/131638-dzisiejszy-trening</link>
+        <pubDate>Sun, 11 Aug 2024 12:42:00 GMT</pubDate>
+        <description>Królewscy odbyli dzisiaj trzeci trening w sezonie całą drużyną i kontynuowali przygotowania do środowego meczu o Superpuchar Europy. Poza grupą pozostaje jeden piłkarz.</description>
+    </item>
     
     <item>
         <title>Mecze Realu Madryt w Polsce – część druga</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131627-as-modric-od-poczatku-w-superpucharze-mbappe-zacznie-na-lawce</link>
         <pubDate>Sat, 10 Aug 2024 20:31:00 GMT</pubDate>
         <description>Najnowsze informacje z obozu Królewskich wskazują na to, że Kylian Mbappé może rozpocząć mecz o Superpuchar Europy jako rezerwowy.</description>
-    </item>
-    
-    <item>
-        <title>Ile dyscyplin olimpijskich potrafisz wymienić? [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131626-ile-dyscyplin-olimpijskich-potrafisz-wymienic-video</link>
-        <pubDate>Sat, 10 Aug 2024 19:26:00 GMT</pubDate>
-        <description>Dani Ceballos i Lucas Vázquez wzięli udział w zabawia zorganizowanej przez Real Madryt na kanale YouTube o nazwie „Kłamstwa”.</description>
     </item>
     
 </channel>
