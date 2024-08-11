@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Aug 2024 04:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 05:18:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joan Martínez: Wrócę silniejszy niż kiedykolwiek</title>
+        <link>https://www.realmadryt.pl/news/131632-joan-martinez-wroce-silniejszy-niz-kiedykolwiek</link>
+        <pubDate>Sun, 11 Aug 2024 07:00:00 GMT</pubDate>
+        <description>Nastolatek czeka na operację, ale już przekazuje, że jest gotowy do żmudnej rehabilitacji.</description>
+    </item>
     
     <item>
         <title>Castilla pokonała Tenerife po golu Reiniera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131621-z-kim-zderzyl-sie-joan-martinez</link>
         <pubDate>Sat, 10 Aug 2024 16:08:00 GMT</pubDate>
         <description>Podczas wczorajszego treningu Joan Martínez zerwał więzadło krzyżowe, a w hiszpańskich mediach zaczęło pojawiać się coraz więcej informacji i spekulacji.</description>
-    </item>
-    
-    <item>
-        <title>Anglia i Bellingham mają nowego selekcjonera</title>
-        <link>https://www.realmadryt.pl/news/131620-anglia-i-bellingham-maja-nowego-selekcjonera</link>
-        <pubDate>Sat, 10 Aug 2024 15:59:00 GMT</pubDate>
-        <description>Anglicy znaleźli nowego selekcjonera po 24 dniach od rezygnacji Garetha Southgate'a. Na razie będzie to jednak tylko wybór tymczasowy.</description>
     </item>
     
 </channel>
