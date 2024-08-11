@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Aug 2024 22:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 22:39:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131657-dzisiejsze-okladki</link>
+        <pubDate>Mon, 12 Aug 2024 00:32:00 GMT</pubDate>
+        <description>Zakończenie Igrzysk Olimpijskich i plany Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>The Athletic: Vinícius odrzucił ofertę z Arabii Saudyjskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131639-florentino-prosze-chcialbym-zaprezentowac-medal-na-bernabeu</link>
         <pubDate>Sun, 11 Aug 2024 13:40:00 GMT</pubDate>
         <description>Jeden z hiszpańskich medalistów olimpijskich wystosował publiczną prośbę o zaprezentowanie medalu na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/131638-dzisiejszy-trening</link>
-        <pubDate>Sun, 11 Aug 2024 12:42:00 GMT</pubDate>
-        <description>Królewscy odbyli dzisiaj trzeci trening w sezonie całą drużyną i kontynuowali przygotowania do środowego meczu o Superpuchar Europy. Poza grupą pozostaje jeden piłkarz.</description>
     </item>
     
 </channel>
