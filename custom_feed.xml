@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Aug 2024 21:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 22:20:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Athletic: Vinícius odrzucił ofertę z Arabii Saudyjskiej</title>
+        <link>https://www.realmadryt.pl/news/131656-the-athletic-vinicius-odrzucil-oferte-z-arabii-saudyjskiej</link>
+        <pubDate>Mon, 12 Aug 2024 00:05:00 GMT</pubDate>
+        <description>Saudyjczycy zgłosili się po Brazylijczyka, ale ten odrzucił ofertę, podaje dziennikarz The Athletic.</description>
+    </item>
     
     <item>
         <title>Podcast 6x04: Czy Mbappé zagra w Warszawie od początku?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131638-dzisiejszy-trening</link>
         <pubDate>Sun, 11 Aug 2024 12:42:00 GMT</pubDate>
         <description>Królewscy odbyli dzisiaj trzeci trening w sezonie całą drużyną i kontynuowali przygotowania do środowego meczu o Superpuchar Europy. Poza grupą pozostaje jeden piłkarz.</description>
-    </item>
-    
-    <item>
-        <title>Mecze Realu Madryt w Polsce – część druga</title>
-        <link>https://www.realmadryt.pl/news/131635-mecze-realu-madryt-w-polsce-czesc-druga</link>
-        <pubDate>Sun, 11 Aug 2024 11:09:00 GMT</pubDate>
-        <description>W całej swojej historii Real Madryt rozegrał tylko sześć spotkań w Polsce. Już 14 sierpnia w Warszawie – tutaj akurat po raz czwarty – wystąpi w meczu o Superpuchar Europy. Pogrzebiemy trochę w historii i w najbliższych dniach, do środy włącznie, przedstawimy wam okoliczności wokół poprzednich meczów w naszym kraju, a także przebieg samych spotkań. Dziś zapraszamy do Stadion Śląski w Chorzowie.</description>
     </item>
     
 </channel>
