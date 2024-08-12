@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Aug 2024 12:41:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 13:07:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Atalantę</title>
+        <link>https://www.realmadryt.pl/news/131663-kadra-na-atalante</link>
+        <pubDate>Mon, 12 Aug 2024 15:05:00 GMT</pubDate>
+        <description>Królewscy lecą do stolicy Polski niemal w komplecie. Carlo Ancelotti powołał na spotkanie o Superpuchar Europy 24 zawodników.</description>
+    </item>
     
     <item>
         <title>Wielkie gesty klubu i kolegów wobec kontuzjowanego Martíneza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131653-espn-real-madryt-obserwuje-18-letniego-stopera-palmeiras</link>
         <pubDate>Mon, 12 Aug 2024 07:00:00 GMT</pubDate>
         <description>ESPN Brasil podaje, że Real Madryt po transferze Endricka wciąż obserwuje Palmeiras, bo ma na oku jego nastoletniego stopera.</description>
-    </item>
-    
-    <item>
-        <title>Niedzielna gierka treningowa dała podpowiedzi ws. składu na Superpuchar?</title>
-        <link>https://www.realmadryt.pl/news/131658-niedzielna-gierka-treningowa-dala-podpowiedzi-ws-skladu-na-superpuchar</link>
-        <pubDate>Mon, 12 Aug 2024 05:30:00 GMT</pubDate>
-        <description>Zamknięcie treningów w Madrycie uniemożliwia przekazywanie informacji o kluczowej części treningów, jaką są minimecze. MARCA mimo wszystko opublikowała składy z wczorajszej gierki i zastanawia się, jakie wnioski można wyciągnąć z nich w kontekście jedenastki na środowy Superpuchar Europy.</description>
     </item>
     
 </channel>
