@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Aug 2024 10:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 11:18:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niepokonany Carvajal</title>
+        <link>https://www.realmadryt.pl/news/131664-niepokonany-carvajal</link>
+        <pubDate>Mon, 12 Aug 2024 13:02:00 GMT</pubDate>
+        <description>Gdy 14 sierpnia piłkarze Realu Madryt wybiegną na murawę Stadionu Narodowego w Warszawie, Dani Carvajal będzie starał się przedłużyć serię 209 dni bez zaznania goryczy porażki. Po raz ostatni prawy obrońca musiał uznać wyższość rywala w pucharowym starciu z Atlético 18 stycznia. Od tamtej pory pozostaje niepokonany, a jego rola zarówno w klubie, jak i reprezentacji jest niezmiennie kluczowa.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131656-the-athletic-vinicius-odrzucil-oferte-z-arabii-saudyjskiej</link>
         <pubDate>Mon, 12 Aug 2024 00:05:00 GMT</pubDate>
         <description>Saudyjczycy zgłosili się po Brazylijczyka, ale ten odrzucił ofertę, podaje dziennikarz The Athletic.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x04: Czy Mbappé zagra w Warszawie od początku?</title>
-        <link>https://www.realmadryt.pl/news/131651-podcast-6x04-czy-mbappe-zagra-w-warszawie-od-poczatku</link>
-        <pubDate>Sun, 11 Aug 2024 19:45:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który dotyczy przede wszystkim środowego Superpucharu Europy. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
