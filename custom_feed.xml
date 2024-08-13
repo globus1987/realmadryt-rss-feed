@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Aug 2024 07:19:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 07:38:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wylecieli do Warszawy!</title>
+        <link>https://www.realmadryt.pl/news/131682-krolewscy-wylecieli-do-warszawy</link>
+        <pubDate>Tue, 13 Aug 2024 09:36:00 GMT</pubDate>
+        <description>24 powołanych zawodników jest już w drodze do Polski, gdzie Królewscy zmierzą się jutro z Atalantą i powalczą o Superpuchar Europy.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 13 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131671-marca-real-madryt-i-vinicius-wykluczaja-najwiekszy-transfer-w-historii</link>
         <pubDate>Mon, 12 Aug 2024 18:40:00 GMT</pubDate>
         <description>Real Madryt i Vinícius nawet nie rozważają rozpoczęcia rozmów z Al-Ahli w temacie największego transferu w historii futbolu. Saudyjczycy są w stanie przekroczyć wszelkie granice, aby tylko przekonać brazylijskiego cracka.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Atalanty na Superpuchar</title>
-        <link>https://www.realmadryt.pl/news/131670-kadra-atalanty-na-superpuchar</link>
-        <pubDate>Mon, 12 Aug 2024 18:25:00 GMT</pubDate>
-        <description>Ekipa Atalanty leci do Warszawy poważnie osłabiona. Gasperini nie może liczyć na trzech piłkarzy kontuzjowanych oraz jednego strajkującego.</description>
     </item>
     
 </channel>
