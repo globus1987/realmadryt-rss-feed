@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Aug 2024 15:21:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 15:39:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gasperini: Ancelotti jest wzorem do naśladowania</title>
+        <link>https://www.realmadryt.pl/news/131691-gasperini-ancelotti-jest-wzorem-do-nasladowania</link>
+        <pubDate>Tue, 13 Aug 2024 17:28:00 GMT</pubDate>
+        <description>Trener Atalanty wziął udział w konferencji prasowej przed jutrzejszym meczem o Superpuchar Europy z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>MARCA: Real odsyła Saudyjczyków do klauzuli Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131679-600-zl-za-gola-mbappe-w-superpucharze</link>
         <pubDate>Tue, 13 Aug 2024 07:50:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy poniedziałkowego treningu Realu Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131680-kulisy-poniedzialkowego-treningu-realu-madryt-video</link>
-        <pubDate>Tue, 13 Aug 2024 07:00:00 GMT</pubDate>
-        <description>Klub opublikował filmik z wczorajszych zajęć w Valdebebas.</description>
     </item>
     
 </channel>
