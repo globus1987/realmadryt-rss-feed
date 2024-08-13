@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Aug 2024 22:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 22:39:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131707-dzisiejsze-okladki</link>
+        <pubDate>Wed, 14 Aug 2024 00:27:00 GMT</pubDate>
+        <description>Mecz o Superpuchar Europy i pożegnanie Sergiego Roberto to główne tematy na dzisiejszych okładkach największych hiszpańskich dzienników.</description>
+    </item>
     
     <item>
         <title>Mecze Realu Madryt w Polsce – część piąta</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131691-gasperini-ancelotti-jest-wzorem-do-nasladowania</link>
         <pubDate>Tue, 13 Aug 2024 17:28:00 GMT</pubDate>
         <description>Trener Atalanty wziął udział w konferencji prasowej przed jutrzejszym meczem o Superpuchar Europy z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real odsyła Saudyjczyków do klauzuli Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/131690-marca-real-odsyla-saudyjczykow-do-klauzuli-viniciusa</link>
-        <pubDate>Tue, 13 Aug 2024 15:42:00 GMT</pubDate>
-        <description>Temat ewentualnego transferu Brazylijczyka naprawdę istnieje. Al-Ahli kontaktowało się już z Realem Madryt i niebawem zrobi to ponownie.</description>
     </item>
     
 </channel>
