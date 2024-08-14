@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 07:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 07:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola w Superpucharze Europy!</title>
+        <link>https://www.realmadryt.pl/news/131712-400-zl-za-gola-w-superpucharze-europy</link>
+        <pubDate>Wed, 14 Aug 2024 09:38:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Valverde: Kylian jest fantastyczny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131701-krolewscy-trenowali-na-stadionie-narodowym</link>
         <pubDate>Tue, 13 Aug 2024 21:52:00 GMT</pubDate>
         <description>Królewscy odbyli dzisiaj ostatni trening przed meczem o Superpuchar Europy. Razem z zespołem nie pracował jeden gracz.</description>
-    </item>
-    
-    <item>
-        <title>Poważny uraz Camavingi wykluczony, ale… jutro nie zagra!</title>
-        <link>https://www.realmadryt.pl/news/131700-powazny-uraz-camavingi-wykluczony-ale-jutro-nie-zagra</link>
-        <pubDate>Tue, 13 Aug 2024 21:44:00 GMT</pubDate>
-        <description></description>
     </item>
     
 </channel>
