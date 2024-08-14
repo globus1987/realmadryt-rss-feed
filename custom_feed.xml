@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 07:19:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 07:38:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde: Kylian jest fantastyczny</title>
+        <link>https://www.realmadryt.pl/news/131704-valverde-kylian-jest-fantastyczny</link>
+        <pubDate>Wed, 14 Aug 2024 09:30:00 GMT</pubDate>
+        <description>Fede Valverde udzielił krótkiego wywiadu dla mediów UEFA przed meczem o Superpuchar Europy z Atalantą. Przedstawiamy wypowiedzi pomocnika Królewskich.</description>
+    </item>
     
     <item>
         <title>MARCA: Mbappé jest przykładem dla Daviesa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131700-powazny-uraz-camavingi-wykluczony-ale-jutro-nie-zagra</link>
         <pubDate>Tue, 13 Aug 2024 21:44:00 GMT</pubDate>
         <description></description>
-    </item>
-    
-    <item>
-        <title>Camavinga opuścił trening!</title>
-        <link>https://www.realmadryt.pl/news/131699-camavinga-opuscil-trening</link>
-        <pubDate>Tue, 13 Aug 2024 20:52:00 GMT</pubDate>
-        <description>Eduardo Camavinga nie dokończył ostatniego treningu w Warszawie przed jutrzejszym meczem z Atalantą na Stadionie Narodowym.</description>
     </item>
     
 </channel>
