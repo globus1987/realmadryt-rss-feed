@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 10:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 11:18:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pan finałów</title>
+        <link>https://www.realmadryt.pl/news/131716-pan-finalow</link>
+        <pubDate>Wed, 14 Aug 2024 13:06:00 GMT</pubDate>
+        <description>Brazylijczyk strzelił siedem goli i zaliczył trzy asysty w siedmiu decydujących pojedynkach, które rozegrał od finału Ligi Mistrzów z Liverpoolem. Co więcej, przegrał tylko jeden z dziesięciu finałów, które rozgrywał z Realem.</description>
+    </item>
+    
+    <item>
+        <title>Atalanta obawia się Mendy'ego</title>
+        <link>https://www.realmadryt.pl/news/131715-atalanta-obawia-sie-mendyego</link>
+        <pubDate>Wed, 14 Aug 2024 13:04:00 GMT</pubDate>
+        <description>Real Madryt nie jest obecnie najodpowiedniejszym zespołem, by rywal skupiał większość uwagi wyłącznie na jednym zawodniku. Sztab szkoleniowy i piłkarze Atalanty są zaś tego doskonale świadomi.</description>
+    </item>
     
     <item>
         <title>Gdzie obejrzeć mecz o Superpuchar Europy?</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131649-wszystkiego-najlepszego-fran</link>
         <pubDate>Wed, 14 Aug 2024 07:30:00 GMT</pubDate>
         <description>Dziś swoje 25. urodziny obchodzi Fran García. Życzymy z tej okazji Hiszpanowi regularnej gry, która przyczyni się do dalszego spełniania marzeń w białej koszulce.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal: To prawdopodobnie najlepszy moment w mojej karierze</title>
-        <link>https://www.realmadryt.pl/news/131708-carvajal-to-prawdopodobnie-najlepszy-moment-w-mojej-karierze</link>
-        <pubDate>Wed, 14 Aug 2024 06:30:00 GMT</pubDate>
-        <description>Dani Carvajal udzielił krótkiego wywiadu dla mediów UEFA przed meczem o Superpuchar Europy z Atalantą. Przedstawiamy wypowiedzi obrońcy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Cieszymy się, że pokażemy naszą jakość polskim kibicom, którzy lubią Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/131703-ancelotti-cieszymy-sie-ze-pokazemy-nasza-jakosc-polskim-kibicom-ktorzy-lubia-real-madryt</link>
-        <pubDate>Wed, 14 Aug 2024 05:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed dzisiejszym meczem o Superpuchar Europy. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Stadionie Narodowym.</description>
     </item>
     
 </channel>
