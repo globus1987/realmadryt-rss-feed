@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 12:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 13:02:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino Pérez przyleciał do Warszawy!</title>
+        <link>https://www.realmadryt.pl/news/131720-florentino-perez-przylecial-do-warszawy</link>
+        <pubDate>Wed, 14 Aug 2024 14:46:00 GMT</pubDate>
+        <description>Prezes Realu Madryt dotarł do Warszawy, gdzie już dziś Królewscy zmierzą się z Atalantą w spotkaniu o Superpuchar Europy.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Latasa piłkarzem Realu Valladolid</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131704-valverde-kylian-jest-fantastyczny</link>
         <pubDate>Wed, 14 Aug 2024 09:30:00 GMT</pubDate>
         <description>Fede Valverde udzielił krótkiego wywiadu dla mediów UEFA przed meczem o Superpuchar Europy z Atalantą. Przedstawiamy wypowiedzi pomocnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Mbappé jest przykładem dla Daviesa</title>
-        <link>https://www.realmadryt.pl/news/131711-marca-mbappe-jest-przykladem-dla-daviesa</link>
-        <pubDate>Wed, 14 Aug 2024 08:49:00 GMT</pubDate>
-        <description>Kontrakt kanadyjskiego obrońcy z Bayernem wygasa w 2025 roku, a przybycie Mbappé do Realu, pokazuje zawodnikowi, że warto pójść tropem Francuza.</description>
     </item>
     
 </channel>
