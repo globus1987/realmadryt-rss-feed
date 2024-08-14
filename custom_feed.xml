@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 06:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 06:56:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Mbappé jest przykładem dla Daviesa</title>
+        <link>https://www.realmadryt.pl/news/131711-marca-mbappe-jest-przykladem-dla-daviesa</link>
+        <pubDate>Wed, 14 Aug 2024 08:49:00 GMT</pubDate>
+        <description>Kontrakt kanadyjskiego obrońcy z Bayernem wygasa w 2025 roku, a przybycie Mbappé do Realu, pokazuje zawodnikowi, że warto pójść tropem Francuza.</description>
+    </item>
     
     <item>
         <title>Real – Atalanta: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131699-camavinga-opuscil-trening</link>
         <pubDate>Tue, 13 Aug 2024 20:52:00 GMT</pubDate>
         <description>Eduardo Camavinga nie dokończył ostatniego treningu w Warszawie przed jutrzejszym meczem z Atalantą na Stadionie Narodowym.</description>
-    </item>
-    
-    <item>
-        <title>Meldunek RealMadryt.pl z murawy Stadionu Naradowego [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131692-meldunek-realmadryt-pl-z-murawy-stadionu-naradowego-video</link>
-        <pubDate>Tue, 13 Aug 2024 20:19:00 GMT</pubDate>
-        <description>W związku z rozgrywaniem Superpucharu Europy w Warszawie działamy dla was na Stadionie Narodowym. Przedstawiamy meldunek z dzisiejszego treningu.</description>
     </item>
     
 </channel>
