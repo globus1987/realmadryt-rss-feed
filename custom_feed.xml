@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 21:19:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 21:38:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Drużyna zagrała wielki mecz w defensywie</title>
+        <link>https://www.realmadryt.pl/news/131732-ancelotti-druzyna-zagrala-wielki-mecz-w-defensywie</link>
+        <pubDate>Wed, 14 Aug 2024 23:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wypowiedzi dla telewizji Movistar+ po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Modrić najbardziej utytułowanym piłkarzem w historii Realu Madryt!</title>
+        <link>https://www.realmadryt.pl/news/131731-modric-najbardziej-utytulowanym-pilkarzem-w-historii-realu-madryt</link>
+        <pubDate>Wed, 14 Aug 2024 23:26:00 GMT</pubDate>
+        <description>Chorwat przegonił Nacho i ma już na swoim koncie 27 trofeów zdobytych w barwach Królewskich.</description>
+    </item>
     
     <item>
         <title>Mbappé: Czekałem na ten moment od dawna</title>
@@ -14,8 +28,8 @@
     </item>
     
     <item>
-        <title>Meldunek RealMadryt.pl ze Stadionu Naradowego [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131727-meldunek-realmadryt-pl-ze-stadionu-naradowego-video</link>
+        <title>Meldunek RealMadryt.pl ze Stadionu Narodowego [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/131727-meldunek-realmadryt-pl-ze-stadionu-narodowego-video</link>
         <pubDate>Wed, 14 Aug 2024 23:03:00 GMT</pubDate>
         <description>W związku z rozgrywaniem Superpucharu Europy w Warszawie działamy dla was na Stadionie Narodowym. Przedstawiamy meldunek po dzisiejszym spotkaniu.</description>
     </item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131722-camavinga-jestem-gleboko-rozczarowany</link>
         <pubDate>Wed, 14 Aug 2024 15:31:00 GMT</pubDate>
         <description>Francuz wystosował wiadomość po oficjalnym ogłoszeniu diagnozy jego kontuzji i długiego czasu przerwy w grze.</description>
-    </item>
-    
-    <item>
-        <title>Florentino Pérez przyleciał do Warszawy!</title>
-        <link>https://www.realmadryt.pl/news/131720-florentino-perez-przylecial-do-warszawy</link>
-        <pubDate>Wed, 14 Aug 2024 14:46:00 GMT</pubDate>
-        <description>Prezes Realu Madryt dotarł do Warszawy, gdzie już dziś Królewscy zmierzą się z Atalantą w spotkaniu o Superpuchar Europy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Latasa piłkarzem Realu Valladolid</title>
-        <link>https://www.realmadryt.pl/news/131719-oficjalnie-latasa-pilkarzem-realu-valladolid</link>
-        <pubDate>Wed, 14 Aug 2024 14:31:00 GMT</pubDate>
-        <description>Juanmi Latasa będzie występował w klubie Ronaldo. Napastnik podpisał kontrakt do 2029 roku.</description>
     </item>
     
 </channel>
