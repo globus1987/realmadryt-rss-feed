@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 04:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 04:40:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carvajal: To prawdopodobnie najlepszy moment w mojej karierze</title>
+        <link>https://www.realmadryt.pl/news/131708-carvajal-to-prawdopodobnie-najlepszy-moment-w-mojej-karierze</link>
+        <pubDate>Wed, 14 Aug 2024 06:30:00 GMT</pubDate>
+        <description>Dani Carvajal udzielił krótkiego wywiadu dla mediów UEFA przed meczem o Superpuchar Europy z Atalantą. Przedstawiamy wypowiedzi obrońcy Królewskich.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Cieszymy się, że pokażemy naszą jakość polskim kibicom, którzy lubią Real Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131695-de-roon-nie-mozemy-szukac-wymowek</link>
         <pubDate>Tue, 13 Aug 2024 18:53:00 GMT</pubDate>
         <description>Zawodnik Atalanty wziął udział w konferencji prasowej przed jutrzejszym meczem o Superpuchar Europy z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Arrasate: Debiut Mbappé? To pierwsze, co mi powiedział syn</title>
-        <link>https://www.realmadryt.pl/news/131694-arrasate-debiut-mbappe-to-pierwsze-co-mi-powiedzial-syn</link>
-        <pubDate>Tue, 13 Aug 2024 18:43:00 GMT</pubDate>
-        <description>Nowy trener Mallorki, Jagoba Arrasate, spotkał się dzisiaj na śniadaniu z dziennikarzami celem podsumowania przygotowań ekipy z Balearów do sezonu 2024/25. Rozgrywki rozpoczną się dla nich już w najbliższą niedzielę meczem z Realem Madryt.</description>
     </item>
     
 </channel>
