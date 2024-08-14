@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 13:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 13:55:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecze Realu Madryt w Polsce – część szósta</title>
+        <link>https://www.realmadryt.pl/news/131723-mecze-realu-madryt-w-polsce-czesc-szosta</link>
+        <pubDate>Wed, 14 Aug 2024 15:48:00 GMT</pubDate>
+        <description>W całej swojej historii Real Madryt rozegrał tylko sześć spotkań w Polsce. Już dziś w Warszawie – tutaj akurat po raz czwarty – wystąpi w meczu o Superpuchar Europy. Kończymy już grzebanie w historii i przedstawianie wam okoliczności wokół poprzednich meczów w naszym kraju, a także przebiegu samych spotkań. To już ostatnia część naszego cyklu.</description>
+    </item>
     
     <item>
         <title>Superpuchar rekordów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131706-kartka-z-kalendarza-14-sierpnia</link>
         <pubDate>Wed, 14 Aug 2024 10:30:00 GMT</pubDate>
         <description>Urodziny byłych zawodników, prezentacja Owena, odejście Baptisty, remis z Barceloną w Superpucharze Hiszpanii, transfer Varane'a i rozpoczęcie poprzedniego sezonu. Co działo się 14 sierpnia?</description>
-    </item>
-    
-    <item>
-        <title>Jak klubowa telewizja zaprezentowała Warszawę? [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131713-jak-klubowa-telewizja-zaprezentowala-warszawe-video</link>
-        <pubDate>Wed, 14 Aug 2024 10:17:00 GMT</pubDate>
-        <description>Mecz z Atalantą zbliża się wielkimi krokami, stąd telewizja Realu Madryt postanowiła przedstawić miasto goszczące Superpuchar Europy 2024.</description>
     </item>
     
 </channel>
