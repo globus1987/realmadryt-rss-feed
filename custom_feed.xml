@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 18:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 19:19:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Atalanta [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/131725-real-madryt-atalanta-live</link>
+        <pubDate>Wed, 14 Aug 2024 21:00:00 GMT</pubDate>
+        <description>W meczu o Superpuchar Europy w Warszawie Real Madryt gra z Atalantą.</description>
+    </item>
     
     <item>
         <title>Real – Atalanta: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131714-gdzie-obejrzec-mecz-o-superpuchar-europy</link>
         <pubDate>Wed, 14 Aug 2024 11:43:00 GMT</pubDate>
         <description>Spotkanie na Stadionie Narodowym w Warszawie pomiędzy Realem Madryt a Atalantą będzie można obejrzeć w Polsce na trzech kanałach.</description>
-    </item>
-    
-    <item>
-        <title>Superpuchar bodźców</title>
-        <link>https://www.realmadryt.pl/news/131647-superpuchar-bodzcow</link>
-        <pubDate>Wed, 14 Aug 2024 11:15:00 GMT</pubDate>
-        <description>Co za dużo, to niezdrowo.</description>
     </item>
     
 </channel>
