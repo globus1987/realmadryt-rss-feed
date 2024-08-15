@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 16:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 16:42:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 1. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/131758-telewizyjny-terminarz-1-kolejki-la-ligi</link>
+        <pubDate>Thu, 15 Aug 2024 18:26:00 GMT</pubDate>
+        <description>Przed nami pierwsza kolejka La Ligi nowego sezonu. Real Madryt zagra na wyjeździe z Mallorcą.</description>
+    </item>
     
     <item>
         <title>Relevo: Mario Martín zagra w Realu Valladolid</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131747-kolejne-zwyciestwo-castilli-w-sparingu</link>
         <pubDate>Thu, 15 Aug 2024 11:27:00 GMT</pubDate>
         <description>Okres przygotowawczy Castilli powoli dobiega końca. W przedostatnim sparingu Królewscy pokonali na wyjeździe Tarazonę. Przed starem ligi został im do rozegrania jeden mecz – z Gimnásticą Segoviana na stadionie Alfredo Di Stéfano.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/131746-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Thu, 15 Aug 2024 11:09:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do pierwszego meczu ligowego w tym sezonie.</description>
     </item>
     
 </channel>
