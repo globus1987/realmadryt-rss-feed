@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Aug 2024 23:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 01:25:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131738-dzisiejsze-okladki</link>
+        <pubDate>Thu, 15 Aug 2024 01:56:00 GMT</pubDate>
+        <description>Superpuchar Realu Madryt i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt 2:0 Atalanta [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131726-ocen-pilkarzy-po-meczu-z-atalanta</link>
         <pubDate>Wed, 14 Aug 2024 22:54:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Real zdobywa Superpuchar Europy w Warszawie!</title>
-        <link>https://www.realmadryt.pl/news/131725-real-zdobywa-superpuchar-europy-w-warszawie</link>
-        <pubDate>Wed, 14 Aug 2024 21:00:00 GMT</pubDate>
-        <description>W meczu o Superpuchar Europy Real Madryt wygrał z Atalantą 2:0. Gole dla Królewskich strzelili Fede Valverde i Kylian Mbappé.</description>
     </item>
     
 </channel>
