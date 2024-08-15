@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 10:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 10:54:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Barça i Atleti mogą zagrać ligowy mecz w Miami</title>
+        <link>https://www.realmadryt.pl/news/131749-relevo-barca-i-atleti-moga-zagrac-ligowy-mecz-w-miami</link>
+        <pubDate>Thu, 15 Aug 2024 12:51:00 GMT</pubDate>
+        <description>La Liga cały czas pracuje nad pomysłem i marzeniem Javiera Tebasa, aby rozegrać jedno ze spotkań w Stanach Zjednoczonych.</description>
+    </item>
     
     <item>
         <title>Jeszcze większy król Europy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131737-florentino-rozpoczynamy-sezon</link>
         <pubDate>Thu, 15 Aug 2024 07:00:00 GMT</pubDate>
         <description>Florentino Pérez udzielił wywiadu dla klubowej telewizji po wygranym 2:0 Superpucharze Europy z Atalantą. Przedstawiamy zapis rozmowy z prezesem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/131738-dzisiejsze-okladki</link>
-        <pubDate>Thu, 15 Aug 2024 01:56:00 GMT</pubDate>
-        <description>Superpuchar Realu Madryt i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
