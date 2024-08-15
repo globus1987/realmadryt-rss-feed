@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 05:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 06:29:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>350. mecz Lucasa Vázqueza w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/131742-350-mecz-lucasa-vazqueza-w-realu-madryt</link>
+        <pubDate>Thu, 15 Aug 2024 08:15:00 GMT</pubDate>
+        <description>We wczorajszym finałowym starciu z Atalantą w Superpucharze Europy Lucas Vázquez rozegrał swój 350. mecz w pierwszym zespole Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti najbardziej utytułowanym trenerem w historii Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/131741-ancelotti-najbardziej-utytulowanym-trenerem-w-historii-realu-madryt</link>
+        <pubDate>Thu, 15 Aug 2024 08:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti zdobył swój czternasty tytuł w roli trenera Realu Madryt i wyrównał rekord Miguela Muñoza.</description>
+    </item>
     
     <item>
         <title>Courtois: To ważne, aby dobrze rozpocząć sezon</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131730-mbappe-czekalem-na-ten-moment-od-dawna</link>
         <pubDate>Wed, 14 Aug 2024 23:10:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wypowiedzi dla telewizji Movistar+ po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi Francuza, który w swoim oficjalnym debiucie w Realu Madryt zdobył bramkę na 2:0 i przypieczętował tytuł dla Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Meldunek RealMadryt.pl ze Stadionu Narodowego [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131727-meldunek-realmadryt-pl-ze-stadionu-narodowego-video</link>
-        <pubDate>Wed, 14 Aug 2024 23:03:00 GMT</pubDate>
-        <description>W związku z rozgrywaniem Superpucharu Europy w Warszawie działamy dla was na Stadionie Narodowym. Przedstawiamy meldunek po dzisiejszym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Fede: Dedykuję tego gola Kroosowi i żonie</title>
-        <link>https://www.realmadryt.pl/news/131729-fede-dedykuje-tego-gola-kroosowi-i-zonie</link>
-        <pubDate>Wed, 14 Aug 2024 23:02:00 GMT</pubDate>
-        <description>Fede Valverde udzielił wypowiedzi dla telewizji Movistar+ po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi strzelca pierwszej bramki.</description>
     </item>
     
 </channel>
