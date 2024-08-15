@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 08:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 09:21:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/131746-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 15 Aug 2024 11:09:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do pierwszego meczu ligowego w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Jeden z siedmiu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131735-ancelotti-dla-realmadryt-pl-myslimy-ze-alaba-zacznie-biegac-w-nadchodzacych-dniach</link>
         <pubDate>Thu, 15 Aug 2024 00:39:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej po wygranym 2:0 meczu o Superpuchar Europy z Atalantą, w której pytania zadali mu m.in. dwaj redaktorzy naszego portalu. Przedstawiamy zapis rozmowy trenera Królewskich z tego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham dla RealMadryt.pl: Polscy kibice byli świetni od pierwszego dnia</title>
-        <link>https://www.realmadryt.pl/news/131734-bellingham-dla-realmadryt-pl-polscy-kibice-byli-swietni-od-pierwszego-dnia</link>
-        <pubDate>Thu, 15 Aug 2024 00:27:00 GMT</pubDate>
-        <description>Jude Bellingham wziął udział w konferencji prasowej, na której obecni byli nasi redaktorzy i zadali mu jedno z pytań.</description>
     </item>
     
 </channel>
