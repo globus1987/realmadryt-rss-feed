@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 04:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 05:20:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino: Rozpoczynamy sezon</title>
+        <link>https://www.realmadryt.pl/news/131737-florentino-rozpoczynamy-sezon</link>
+        <pubDate>Thu, 15 Aug 2024 07:00:00 GMT</pubDate>
+        <description>Florentino Pérez udzielił wywiadu dla klubowej telewizji po wygranym 2:0 Superpucharze Europy z Atalantą. Przedstawiamy zapis rozmowy z prezesem Królewskich.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131728-bellingham-mvp-meczu-z-atalanta</link>
         <pubDate>Wed, 14 Aug 2024 22:57:00 GMT</pubDate>
         <description>Anglik był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania z Atalantą o Superpuchar Europy.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Atalantą</title>
-        <link>https://www.realmadryt.pl/news/131726-ocen-pilkarzy-po-meczu-z-atalanta</link>
-        <pubDate>Wed, 14 Aug 2024 22:54:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
