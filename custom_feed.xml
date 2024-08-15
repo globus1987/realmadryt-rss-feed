@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 14:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 15:21:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Mario Martín zagra w Realu Valladolid</title>
+        <link>https://www.realmadryt.pl/news/131757-relevo-mario-martin-zagra-w-realu-valladolid</link>
+        <pubDate>Thu, 15 Aug 2024 17:10:00 GMT</pubDate>
+        <description>Utalentowany wychowanek spędzi najbliższy sezon na Estadio José Zorrilla.</description>
+    </item>
     
     <item>
         <title>Globo: Saudyjczycy rozmawiają również z Militão</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131746-krolewscy-maja-dzis-wolne</link>
         <pubDate>Thu, 15 Aug 2024 11:09:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do pierwszego meczu ligowego w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Jeden z siedmiu</title>
-        <link>https://www.realmadryt.pl/news/131745-jeden-z-siedmiu</link>
-        <pubDate>Thu, 15 Aug 2024 10:45:00 GMT</pubDate>
-        <description>Los Blancos w środę sięgnęli po pierwszy puchar w nowej kampanii i potwierdzili swoją dominację w Europie.</description>
     </item>
     
 </channel>
