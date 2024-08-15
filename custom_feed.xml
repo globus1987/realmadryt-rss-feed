@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 07:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 08:25:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/131739-kartka-z-kalendarza-15-sierpnia</link>
+        <pubDate>Thu, 15 Aug 2024 10:08:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, śmierć działacza, debiut fantastycznego ataku i porażka w Superpucharze Europy. Co działo się 15 sierpnia?</description>
+    </item>
     
     <item>
         <title>Kolejny krok w kierunku Złotej Piłki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131732-ancelotti-druzyna-zagrala-wielki-mecz-w-defensywie</link>
         <pubDate>Wed, 14 Aug 2024 23:30:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wypowiedzi dla telewizji Movistar+ po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Modrić najbardziej utytułowanym piłkarzem w historii Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/131731-modric-najbardziej-utytulowanym-pilkarzem-w-historii-realu-madryt</link>
-        <pubDate>Wed, 14 Aug 2024 23:26:00 GMT</pubDate>
-        <description>Chorwat przegonił Nacho i ma już na swoim koncie 27 trofeów zdobytych w barwach Królewskich.</description>
     </item>
     
 </channel>
