@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 21:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 21:39:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt pozyskał koszykarski talent z Niemiec</title>
+        <link>https://www.realmadryt.pl/news/131763-real-madryt-pozyskal-koszykarski-talent-z-niemiec</link>
+        <pubDate>Thu, 15 Aug 2024 23:25:00 GMT</pubDate>
+        <description>Koszykarska szkółka Realu Madryt należy do najlepszych w Europie. Jej sukces polega również na sprowadzaniu talentów z innych krajów. W ten sposób do stolicy Hiszpanii trafi Fabian Kayser.</description>
+    </item>
     
     <item>
         <title>Vlog Realu Madryt z Warszawy [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131751-oceny-zawodnikow-po-meczu-z-atalanta</link>
         <pubDate>Thu, 15 Aug 2024 13:40:00 GMT</pubDate>
         <description>Real Madryt wygrał w Warszawie z Atalantą 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Wypoczęty Bellingham jest innym piłkarzem</title>
-        <link>https://www.realmadryt.pl/news/131750-wypoczety-bellingham-jest-innym-pilkarzem</link>
-        <pubDate>Thu, 15 Aug 2024 13:02:00 GMT</pubDate>
-        <description>Choć Jude Bellingham nie wpisał się na listę strzelców w meczu z Atalantą, to mimo wszystko był jednym z najlepszych graczy na boisku. Anglik w pierwszym oficjalnym meczu sezonu udowodnił, że wystarczyła mu jedynie chwila odpoczynku, by ponownie zademonstrować swą najlepszą wersję.</description>
     </item>
     
 </channel>
