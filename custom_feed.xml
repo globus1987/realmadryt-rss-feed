@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 05:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 05:39:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: To ważne, aby dobrze rozpocząć sezon</title>
+        <link>https://www.realmadryt.pl/news/131740-courtois-to-wazne-aby-dobrze-rozpoczac-sezon</link>
+        <pubDate>Thu, 15 Aug 2024 07:30:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wypowiedzi dla klubowych mediów po zwycięskim meczu z Atalantą. Poniżej przedstawiamy ich zapis.</description>
+    </item>
     
     <item>
         <title>Florentino: Rozpoczynamy sezon</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131729-fede-dedykuje-tego-gola-kroosowi-i-zonie</link>
         <pubDate>Wed, 14 Aug 2024 23:02:00 GMT</pubDate>
         <description>Fede Valverde udzielił wypowiedzi dla telewizji Movistar+ po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi strzelca pierwszej bramki.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham MVP meczu z Atalantą</title>
-        <link>https://www.realmadryt.pl/news/131728-bellingham-mvp-meczu-z-atalanta</link>
-        <pubDate>Wed, 14 Aug 2024 22:57:00 GMT</pubDate>
-        <description>Anglik był jedną z najjaśniejszych postaci Realu Madryt podczas dzisiejszego spotkania z Atalantą o Superpuchar Europy.</description>
     </item>
     
 </channel>
