@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 08:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 08:54:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jeden z siedmiu</title>
+        <link>https://www.realmadryt.pl/news/131745-jeden-z-siedmiu</link>
+        <pubDate>Thu, 15 Aug 2024 10:45:00 GMT</pubDate>
+        <description>Los Blancos w środę sięgnęli po pierwszy puchar w nowej kampanii i potwierdzili swoją dominację w Europie.</description>
+    </item>
     
     <item>
         <title>Soto Grado na Mallorcę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131734-bellingham-dla-realmadryt-pl-polscy-kibice-byli-swietni-od-pierwszego-dnia</link>
         <pubDate>Thu, 15 Aug 2024 00:27:00 GMT</pubDate>
         <description>Jude Bellingham wziął udział w konferencji prasowej, na której obecni byli nasi redaktorzy i zadali mu jedno z pytań.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Trener prosi nas, abyśmy często zmieniali pozycje</title>
-        <link>https://www.realmadryt.pl/news/131733-rodrygo-trener-prosi-nas-abysmy-czesto-zmieniali-pozycje</link>
-        <pubDate>Thu, 15 Aug 2024 00:04:00 GMT</pubDate>
-        <description>Rodrygo Goes udzielił wypowiedzi dla klubowej telewizji po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi Brazylijczyka.</description>
     </item>
     
 </channel>
