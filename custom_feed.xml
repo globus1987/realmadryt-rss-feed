@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 08:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 08:41:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Soto Grado na Mallorcę</title>
+        <link>https://www.realmadryt.pl/news/131744-soto-grado-na-mallorce</link>
+        <pubDate>Thu, 15 Aug 2024 10:40:00 GMT</pubDate>
+        <description>44-letni sędzia poprowadzi niedzielne spotkanie Realu Madryt z Mallorcą. Arbitrem VAR będzie Javier Iglesias Villanueva.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 15 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131733-rodrygo-trener-prosi-nas-abysmy-czesto-zmieniali-pozycje</link>
         <pubDate>Thu, 15 Aug 2024 00:04:00 GMT</pubDate>
         <description>Rodrygo Goes udzielił wypowiedzi dla klubowej telewizji po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Drużyna zagrała wielki mecz w defensywie</title>
-        <link>https://www.realmadryt.pl/news/131732-ancelotti-druzyna-zagrala-wielki-mecz-w-defensywie</link>
-        <pubDate>Wed, 14 Aug 2024 23:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti udzielił wypowiedzi dla telewizji Movistar+ po pokonaniu Atalanty i zdobyciu Superpucharu Europy. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
     </item>
     
 </channel>
