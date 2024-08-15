@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 18:56:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 19:16:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vlog Realu Madryt z Warszawy [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/131761-vlog-realu-madryt-z-warszawy-video</link>
+        <pubDate>Thu, 15 Aug 2024 21:14:00 GMT</pubDate>
+        <description>Klub opublikował kolejny odcinek swoich meczowych vlogów. Tym razem jest on oczywiście poświęcony wygranej w Polsce.</description>
+    </item>
     
     <item>
         <title>Podcast 6x05: Piękny polski Superpuchar</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131750-wypoczety-bellingham-jest-innym-pilkarzem</link>
         <pubDate>Thu, 15 Aug 2024 13:02:00 GMT</pubDate>
         <description>Choć Jude Bellingham nie wpisał się na listę strzelców w meczu z Atalantą, to mimo wszystko był jednym z najlepszych graczy na boisku. Anglik w pierwszym oficjalnym meczu sezonu udowodnił, że wystarczyła mu jedynie chwila odpoczynku, by ponownie zademonstrować swą najlepszą wersję.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Barça i Atleti mogą zagrać ligowy mecz w Miami</title>
-        <link>https://www.realmadryt.pl/news/131749-relevo-barca-i-atleti-moga-zagrac-ligowy-mecz-w-miami</link>
-        <pubDate>Thu, 15 Aug 2024 12:51:00 GMT</pubDate>
-        <description>La Liga cały czas pracuje nad pomysłem i marzeniem Javiera Tebasa, aby rozegrać jedno ze spotkań w Stanach Zjednoczonych.</description>
     </item>
     
 </channel>
