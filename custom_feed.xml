@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 21:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 22:20:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131766-dzisiejsze-okladki</link>
+        <pubDate>Fri, 16 Aug 2024 00:12:00 GMT</pubDate>
+        <description>Nowy tercet Realu Madryt i wsparcie Barcelony dla Lamine'a Yamala to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>1. kolejka: Dwa remisy na początek zmagań</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131754-real-madryt-12-3-barcelona</link>
         <pubDate>Thu, 15 Aug 2024 14:10:00 GMT</pubDate>
         <description>Real Madryt na przestrzeni ostatnich pięciu sezonów zdobył dwanaście tytułów do zaledwie trzech w wykonaniu Barcelony. Różnica pomiędzy oboma klubami rośnie coraz bardziej i niewiele wskazuje na to, aby w najbliższym czasie miało się to zmienić.</description>
-    </item>
-    
-    <item>
-        <title>Pavón: Beckham sam był jak cali Beatlesi</title>
-        <link>https://www.realmadryt.pl/news/131752-pavon-beckham-sam-byl-jak-cali-beatlesi</link>
-        <pubDate>Thu, 15 Aug 2024 13:40:00 GMT</pubDate>
-        <description>Francisco Pavón był poniekąd jednym z symboli Realu Madryt na początku bieżącego tysiąclecia. To właśnie jego nazwisko widniało w popularnym niegdyś określeniu Królewskich jako zespołu Zidanes y Pavones, czyli drużyny złożonej z gwiazd światowego formatu oraz graczy wychowanych w szkółce.</description>
     </item>
     
 </channel>
