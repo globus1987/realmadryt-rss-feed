@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 09:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 09:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jeszcze większy król Europy</title>
+        <link>https://www.realmadryt.pl/news/131748-jeszcze-wiekszy-krol-europy</link>
+        <pubDate>Thu, 15 Aug 2024 11:35:00 GMT</pubDate>
+        <description>W Warszawie Królewscy dołożyli do swojej kolekcji Superpuchar Europy nr 6.</description>
+    </item>
+    
+    <item>
+        <title>Kolejne zwycięstwo Castilli w sparingu</title>
+        <link>https://www.realmadryt.pl/news/131747-kolejne-zwyciestwo-castilli-w-sparingu</link>
+        <pubDate>Thu, 15 Aug 2024 11:27:00 GMT</pubDate>
+        <description>Okres przygotowawczy Castilli powoli dobiega końca. W przedostatnim sparingu Królewscy pokonali na wyjeździe Tarazonę. Przed starem ligi został im do rozegrania jeden mecz – z Gimnásticą Segoviana na stadionie Alfredo Di Stéfano.</description>
+    </item>
     
     <item>
         <title>Królewscy mają dziś wolne</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131738-dzisiejsze-okladki</link>
         <pubDate>Thu, 15 Aug 2024 01:56:00 GMT</pubDate>
         <description>Superpuchar Realu Madryt i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:0 Atalanta [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/131736-real-madryt-2-0-atalanta-video</link>
-        <pubDate>Thu, 15 Aug 2024 00:46:00 GMT</pubDate>
-        <description>Królewscy sięgnęli po pierwsze trofeum w tym sezonie po golach Valverde i Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti dla RealMadryt.pl: Myślimy, że Alaba zacznie biegać w nadchodzących dniach</title>
-        <link>https://www.realmadryt.pl/news/131735-ancelotti-dla-realmadryt-pl-myslimy-ze-alaba-zacznie-biegac-w-nadchodzacych-dniach</link>
-        <pubDate>Thu, 15 Aug 2024 00:39:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w konferencji prasowej po wygranym 2:0 meczu o Superpuchar Europy z Atalantą, w której pytania zadali mu m.in. dwaj redaktorzy naszego portalu. Przedstawiamy zapis rozmowy trenera Królewskich z tego spotkania.</description>
     </item>
     
 </channel>
