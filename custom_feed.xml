@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Aug 2024 13:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 13:28:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Globo: Saudyjczycy rozmawiają również z Militão</title>
+        <link>https://www.realmadryt.pl/news/131756-globo-saudyjczycy-rozmawiaja-rowniez-z-militao</link>
+        <pubDate>Thu, 15 Aug 2024 15:26:00 GMT</pubDate>
+        <description>Saudyjczycy wykonują działania w Madrycie nie tylko w sprawie Viniego. Na ich oku ma być również stoper Królewskich.</description>
+    </item>
     
     <item>
         <title>Niepokonany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131745-jeden-z-siedmiu</link>
         <pubDate>Thu, 15 Aug 2024 10:45:00 GMT</pubDate>
         <description>Los Blancos w środę sięgnęli po pierwszy puchar w nowej kampanii i potwierdzili swoją dominację w Europie.</description>
-    </item>
-    
-    <item>
-        <title>Soto Grado na Mallorcę</title>
-        <link>https://www.realmadryt.pl/news/131744-soto-grado-na-mallorce</link>
-        <pubDate>Thu, 15 Aug 2024 10:40:00 GMT</pubDate>
-        <description>44-letni sędzia poprowadzi niedzielne spotkanie Realu Madryt z Mallorcą. Arbitrem VAR będzie Javier Iglesias Villanueva.</description>
     </item>
     
 </channel>
