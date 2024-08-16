@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Aug 2024 16:27:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 16:44:57 GMT</lastBuildDate>
     
     <item>
-        <title>La Galera: Superpuchar oficjalnym meczem nr 10 000 w historii Realu</title>
-        <link>https://www.realmadryt.pl/news/131778-la-galera-superpuchar-oficjalnym-meczem-nr-10-000-w-historii-realu</link>
+        <title>Ancelotti i jego nierotacyjna jedenastka</title>
+        <link>https://www.realmadryt.pl/news/131779-ancelotti-i-jego-nierotacyjna-jedenastka</link>
+        <pubDate>Fri, 16 Aug 2024 18:40:00 GMT</pubDate>
+        <description>Włoski trener utrzymywał niemal tę samą jedenastkę w pierwszych trzech kolejkach poprzedniego sezonu, z wyjątkiem niewielu koniecznych zmian spowodowanych kontuzjami i problemami w środku pola.</description>
+    </item>
+    
+    <item>
+        <title>La Galerna: Superpuchar oficjalnym meczem nr 10 000 w historii Realu</title>
+        <link>https://www.realmadryt.pl/news/131778-la-galerna-superpuchar-oficjalnym-meczem-nr-10-000-w-historii-realu</link>
         <pubDate>Fri, 16 Aug 2024 18:22:00 GMT</pubDate>
-        <description>Javier Vázquez z hiszpańskiego bloga La Galera dzieli się ciekawymi statystami po meczu Królewskich z Atalantą. Informuje między innymi, że starcie w Warszawie było oficjalnym meczem nr 10 000 w historii Realu Madryt, co sprawia, że debiut i premierowe trafienie Kyliana Mbappé są na swój sposób dodatkowo symboliczne.</description>
+        <description>Javier Vázquez z hiszpańskiego bloga La Galerna dzieli się ciekawymi statystami po meczu Królewskich z Atalantą. Informuje między innymi, że starcie w Warszawie było oficjalnym meczem nr 10 000 w historii Realu Madryt, co sprawia, że debiut i premierowe trafienie Kyliana Mbappé są na swój sposób dodatkowo symboliczne.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131768-darder-real-madryt-ma-najlepsza-druzyne-jaka-mozna-miec</link>
         <pubDate>Fri, 16 Aug 2024 09:45:00 GMT</pubDate>
         <description>Pomocnik Mallorki, Sergi Darder, podzielił się swoimi odczuciami przed niedzielnym meczem z Realem Madryt w 1. kolejce La Ligi. Poniżej przedstawimy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>SER: Rodrygo zostaje w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/131767-ser-rodrygo-zostaje-w-realu-madryt</link>
-        <pubDate>Fri, 16 Aug 2024 09:05:00 GMT</pubDate>
-        <description>Chociaż niedawno mówiło się o zainteresowaniu Manchesteru City, to w Madrycie nie ma tematu możliwego odejścia Rodrygo. Brazylijczyk chce zostać i dalej wygrywać z Realem Madryt.</description>
     </item>
     
 </channel>
