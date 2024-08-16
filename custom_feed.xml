@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Aug 2024 04:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 05:20:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Narodziny tercetu BMV</title>
+        <link>https://www.realmadryt.pl/news/131762-narodziny-tercetu-bmv</link>
+        <pubDate>Fri, 16 Aug 2024 07:00:00 GMT</pubDate>
+        <description>Kylian Mbappé, Jude Bellingham i Vinícius mają stworzyć nowe trio BMV, które zaczyna już budzić postrach w całej Europie. Liczby całej trójki gwiazdorów robią jeszcze większe wrażenie, gdy spojrzy się na ich wpływ w tych finałowych meczach.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131753-kyliana-sen-o-warszawie</link>
         <pubDate>Thu, 15 Aug 2024 14:30:00 GMT</pubDate>
         <description>Kylian Mbappé rozpoczął swoją przygodę z Realem Madryt w iście królewskim stylu. Dla nas, polskich madridistas, fakt, że stało się to na Stadionie Narodowym w Warszawie, ma dodatkowy walor. Wnioski po debiucie Francuza w swoim felietonie przedstawia nasz redaktor, Santi01.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 12:3 Barcelona</title>
-        <link>https://www.realmadryt.pl/news/131754-real-madryt-12-3-barcelona</link>
-        <pubDate>Thu, 15 Aug 2024 14:10:00 GMT</pubDate>
-        <description>Real Madryt na przestrzeni ostatnich pięciu sezonów zdobył dwanaście tytułów do zaledwie trzech w wykonaniu Barcelony. Różnica pomiędzy oboma klubami rośnie coraz bardziej i niewiele wskazuje na to, aby w najbliższym czasie miało się to zmienić.</description>
     </item>
     
 </channel>
