@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Aug 2024 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 22:19:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131787-dzisiejsze-okladki</link>
+        <pubDate>Sat, 17 Aug 2024 00:19:00 GMT</pubDate>
+        <description>Pochwały Carlo Ancelottiego i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>W poniedziałek losowanie terminarza Ligi F</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131772-the-athletic-manchester-united-wiedzial-o-problemach-yoro-ze-srodstopiem</link>
         <pubDate>Fri, 16 Aug 2024 12:53:00 GMT</pubDate>
         <description>Brytyjczycy potwierdzają, że badania medyczne Francuza wykazały potencjalny problem, który ostatecznie doprowadził do jego kontuzji. Nastolatkiem interesował się także Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Jude Bellingham „Przyjacielem Domu” Louisa Vuittona</title>
-        <link>https://www.realmadryt.pl/news/131771-oficjalnie-jude-bellingham-przyjacielem-domu-louisa-vuittona</link>
-        <pubDate>Fri, 16 Aug 2024 10:50:00 GMT</pubDate>
-        <description>Brytyjski magazyn opublikował informację o tym, że piłkarz Realu Madryt został nową twarzą luksusowej marki.</description>
     </item>
     
 </channel>
