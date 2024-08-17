@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Aug 2024 09:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 09:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dylematy Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/131795-dylematy-ancelottiego</link>
+        <pubDate>Sat, 17 Aug 2024 11:47:00 GMT</pubDate>
+        <description>Carlo Ancelotti szykuje pierwsze zmiany i rotacje na jutrzejszy mecz z Mallorcą. Do pierwszego składu mają wskoczyć Lucas Vázquez i Luka Modrić w miejsce Daniego Carvajala i Rodrygo.</description>
+    </item>
+    
+    <item>
+        <title>Dwóch piłkarzy nie trenowało z drużyną</title>
+        <link>https://www.realmadryt.pl/news/131797-dwoch-pilkarzy-nie-trenowalo-z-druzyna</link>
+        <pubDate>Sat, 17 Aug 2024 11:43:00 GMT</pubDate>
+        <description>Królewscy zakończyli dzisiaj przygotowania do niedzielnego meczu z Mallorcą. Razem z zespołem nie pracowało dwóch graczy.</description>
+    </item>
     
     <item>
         <title>Nowa Mallorca</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131787-dzisiejsze-okladki</link>
         <pubDate>Sat, 17 Aug 2024 00:19:00 GMT</pubDate>
         <description>Pochwały Carlo Ancelottiego i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>W poniedziałek losowanie terminarza Ligi F</title>
-        <link>https://www.realmadryt.pl/news/131785-w-poniedzialek-losowanie-terminarza-ligi-f</link>
-        <pubDate>Fri, 16 Aug 2024 23:23:00 GMT</pubDate>
-        <description>Najwyższa klasa rozgrywkowa w kobiecym futbolu w Hiszpanii rusza za niecałe trzy tygodnie. 16 drużyn Ligi F wciąż nie wie, gdzie rozegra inauguracyjne spotkanie.</description>
-    </item>
-    
-    <item>
-        <title>Militão znów jest sobą</title>
-        <link>https://www.realmadryt.pl/news/131782-militao-znow-jest-soba</link>
-        <pubDate>Fri, 16 Aug 2024 22:41:00 GMT</pubDate>
-        <description>Brazylijczyk przewodził defensywie Realu Madryt, która spisała się bez zarzutu w meczu o Superpuchar Europy z Atalantą. Był zawodnikiem z największą liczbą odbiorów i drugim graczem pod względem liczby kontaktów z piłką w całej drużynie.</description>
     </item>
     
 </channel>
