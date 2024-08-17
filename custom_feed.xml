@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Aug 2024 22:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 22:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131811-dzisiejsze-okladki</link>
+        <pubDate>Sun, 18 Aug 2024 00:31:00 GMT</pubDate>
+        <description>Wygrana Barcelony i mecz Realu Madryt to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>UOL: Real Madryt odrzuca saudyjską ofertę za Militão</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131798-kadra-mallorki-na-mecz-z-realem</link>
         <pubDate>Sat, 17 Aug 2024 12:03:00 GMT</pubDate>
         <description>Jagoba Arrasate ogłosił listę powołanych na jutrzejszy mecz z Realem Madryt. Do dyspozycji ma niemal wszystkich zawodników pierwszego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Dylematy Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/131795-dylematy-ancelottiego</link>
-        <pubDate>Sat, 17 Aug 2024 11:47:00 GMT</pubDate>
-        <description>Carlo Ancelotti szykuje pierwsze zmiany i rotacje na jutrzejszy mecz z Mallorcą. Do pierwszego składu mają wskoczyć Lucas Vázquez i Luka Modrić w miejsce Daniego Carvajala i Rodrygo.</description>
     </item>
     
 </channel>
