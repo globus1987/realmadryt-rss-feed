@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Aug 2024 09:19:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 09:39:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowa Mallorca</title>
+        <link>https://www.realmadryt.pl/news/131794-nowa-mallorca</link>
+        <pubDate>Sat, 17 Aug 2024 11:28:00 GMT</pubDate>
+        <description>Mallorca latem zmieniła szkoleniowca, co pociągnęło za sobą zmianę w ustawieniu. Real Madryt jako pierwszy przetestuje nową koncepcję, jaką na Balearach chce wprowadzić Arrasate.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 17 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131782-militao-znow-jest-soba</link>
         <pubDate>Fri, 16 Aug 2024 22:41:00 GMT</pubDate>
         <description>Brazylijczyk przewodził defensywie Realu Madryt, która spisała się bez zarzutu w meczu o Superpuchar Europy z Atalantą. Był zawodnikiem z największą liczbą odbiorów i drugim graczem pod względem liczby kontaktów z piłką w całej drużynie.</description>
-    </item>
-    
-    <item>
-        <title>Pierwszy anulowany gol przez półautomatycznego spalonego… o czubek buta</title>
-        <link>https://www.realmadryt.pl/news/131780-pierwszy-anulowany-gol-przez-polautomatycznego-spalonego-o-czubek-buta</link>
-        <pubDate>Fri, 16 Aug 2024 20:40:00 GMT</pubDate>
-        <description>Od początku sezonu w La Lidze działa półautomatyczny spalony. Już w drugim dniu zmagań przyniósł pierwszą decyzję o dosłowne milimetry.</description>
     </item>
     
 </channel>
