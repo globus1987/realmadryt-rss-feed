@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Aug 2024 18:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 18:40:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona rozpoczyna sezon na Estadio Mestalla</title>
+        <link>https://www.realmadryt.pl/news/131807-barcelona-rozpoczyna-sezon-na-estadio-mestalla</link>
+        <pubDate>Sat, 17 Aug 2024 20:31:00 GMT</pubDate>
+        <description>Trwa pierwsza kolejka Primera División, a przed nami mecz Valencii z Barceloną.</description>
+    </item>
     
     <item>
         <title>Filmik Real Madrid TV przeciwko arbitrom na Mallorcę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131797-dwoch-pilkarzy-nie-trenowalo-z-druzyna</link>
         <pubDate>Sat, 17 Aug 2024 11:43:00 GMT</pubDate>
         <description>Królewscy zakończyli dzisiaj przygotowania do niedzielnego meczu z Mallorcą. Razem z zespołem nie pracowało dwóch graczy.</description>
-    </item>
-    
-    <item>
-        <title>Nowa Mallorca</title>
-        <link>https://www.realmadryt.pl/news/131794-nowa-mallorca</link>
-        <pubDate>Sat, 17 Aug 2024 11:28:00 GMT</pubDate>
-        <description>Mallorca latem zmieniła szkoleniowca, co pociągnęło za sobą zmianę w ustawieniu. Real Madryt jako pierwszy przetestuje nową koncepcję, jaką na Balearach chce wprowadzić Arrasate.</description>
     </item>
     
 </channel>
