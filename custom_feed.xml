@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Aug 2024 09:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 09:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obietnica Mbappé</title>
+        <link>https://www.realmadryt.pl/news/131818-obietnica-mbappe</link>
+        <pubDate>Sun, 18 Aug 2024 11:49:00 GMT</pubDate>
+        <description>Kylian Mbappé nie ma limitów i chciałby dobić do wyniku Cirstiano Ronaldo, który w Madrycie zdobywał średnio 50 bramek w każdym sezonie.</description>
+    </item>
     
     <item>
         <title>Królewscy otworzyli restaurację na Barajas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131811-dzisiejsze-okladki</link>
         <pubDate>Sun, 18 Aug 2024 00:31:00 GMT</pubDate>
         <description>Wygrana Barcelony i mecz Realu Madryt to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>UOL: Real Madryt odrzuca saudyjską ofertę za Militão</title>
-        <link>https://www.realmadryt.pl/news/131808-uol-real-madryt-odrzuca-saudyjska-oferte-za-militao</link>
-        <pubDate>Sat, 17 Aug 2024 21:29:00 GMT</pubDate>
-        <description>W tygodniu podano, że Arabia Saudyjska zgłosiła się także po stopera Królewskich. Najnowsze informacje wskazują, że Królewscy nie chcą rozmawiać także o jego sprzedaży.</description>
     </item>
     
 </channel>
