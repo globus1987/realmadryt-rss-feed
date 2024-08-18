@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Aug 2024 22:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 22:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131840-dzisiejsze-okladki</link>
+        <pubDate>Mon, 19 Aug 2024 00:49:00 GMT</pubDate>
+        <description>Remis Realu Madryt to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Nie wszyscy piłkarze wrócili z drużyną do Madrytu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131830-davis-bertans-nastepca-yabusele</link>
         <pubDate>Sun, 18 Aug 2024 19:50:00 GMT</pubDate>
         <description>Dāvis Bertāns po ośmiu latach w NBA może wrócić do Europy. Real Madryt rozpoczął już negocjacje z Łotyszem.</description>
-    </item>
-    
-    <item>
-        <title>Mallorca – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/131827-mallorca-real-madryt-znamy-sklady</link>
-        <pubDate>Sun, 18 Aug 2024 19:36:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu La Ligi. Mecz rozpocznie się o godzinie 21:30 na Estadi Mallorca Son Moix.</description>
     </item>
     
 </channel>
