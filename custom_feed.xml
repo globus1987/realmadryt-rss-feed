@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Aug 2024 21:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 21:39:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/131833-ocen-pilkarzy-po-meczu-z-mallorca</link>
+        <pubDate>Sun, 18 Aug 2024 23:36:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>1. kolejka: Real z wpadką na Majorce</title>
+        <link>https://www.realmadryt.pl/news/131834-1-kolejka-real-z-wpadka-na-majorce</link>
+        <pubDate>Sun, 18 Aug 2024 23:35:00 GMT</pubDate>
+        <description>Za nami weekendowa rywalizacja w Primera División, więc czas rzucić okiem na układ tabeli.</description>
+    </item>
     
     <item>
         <title>Mallorca ustawiła szpaler, a Rudy Fernández wykonał honorowe kopnięcie</title>
@@ -14,10 +28,10 @@
     </item>
     
     <item>
-        <title>RCD Mallorca – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/131831-rcd-mallorca-real-madryt-live</link>
+        <title>Ruszyła maszyna po szynach ospale</title>
+        <link>https://www.realmadryt.pl/news/131831-ruszyla-maszyna-po-szynach-ospale</link>
         <pubDate>Sun, 18 Aug 2024 21:30:00 GMT</pubDate>
-        <description>O 21:30 rozpoczęło się wyjazdowe starcie Realu Madryt z Mallorcą.</description>
+        <description>W meczu 1. kolejki La Ligi Real Madryt zremisował z Mallorcą 1:1. Jedyną bramkę dla Królewskich zdobył Rodrygo Goes.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131823-jose-quirante-pierwszy-trener-realu-w-lidze</link>
         <pubDate>Sun, 18 Aug 2024 14:00:00 GMT</pubDate>
         <description>Kiedy Santiago Bernabéu opowiadano o nowoczesnych trenerach, taktyce i schematach, on i tak przypominał sobie o szkoleniowcu, który wiele lat wcześniej zawsze zapisywał na kartkach wszystko, co tylko przyszło mu do głowy. Dziś José Quirante Pineda (1883-1964) jest już prawie zapomniany przez historię hiszpańskiej piłki, jednak jego losy niewątpliwie zasługują na to, by zostać zapamiętane.</description>
-    </item>
-    
-    <item>
-        <title>Engonga: Duża część sukcesu tego Realu to zasługa Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/131822-engonga-duza-czesc-sukcesu-tego-realu-to-zasluga-ancelottiego</link>
-        <pubDate>Sun, 18 Aug 2024 13:26:00 GMT</pubDate>
-        <description>Vicente Engonga, 14-krotny reprezentant Hiszpanii oraz były piłkarz m.in. Celty, Valencii i Mallorki, dla której rozegrał niemal 200 spotkań, udzielił wywiadu dla dziennika AS przed dzisiejszym spotkaniem Mallorki z Realem Madryt na Son Moix. Przedstawiamy zapis rozmowy z Hiszpanem o gwinejskich korzeniach, który obecnie pełni funkcję trenera w Hiszpańskiej Federacji Piłkarskiej.</description>
-    </item>
-    
-    <item>
-        <title>Prats: Tworzenie ceramiki pomaga mi oderwać się od rzeczywistości</title>
-        <link>https://www.realmadryt.pl/news/131814-prats-tworzenie-ceramiki-pomaga-mi-oderwac-sie-od-rzeczywistosci</link>
-        <pubDate>Sun, 18 Aug 2024 13:02:00 GMT</pubDate>
-        <description>Abdón Prats udzielił wywiadu dziennikowi El Mundo. Piłkarz Mallorki otrzymał niesztampowe pytanie i udzielił niesztampowych odpowiedzi.</description>
     </item>
     
 </channel>
