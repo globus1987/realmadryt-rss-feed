@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Aug 2024 22:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 22:40:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131862-dzisiejsze-okladki</link>
+        <pubDate>Tue, 20 Aug 2024 00:36:00 GMT</pubDate>
+        <description>Złość Ancelottiego i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Do skrótu BMV muszą dodać R jak Rodrygo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131849-fabrizio-romano-nico-paz-blisko-como</link>
         <pubDate>Mon, 19 Aug 2024 13:27:00 GMT</pubDate>
         <description>Nico Paz jest bliski transferu do Como. W Serie A mógłby pracować pod wodzą Fàbregasa. Real Madryt natomiast zachowałby prawo do odkupienia Argentyńczyka w przyszłości.</description>
-    </item>
-    
-    <item>
-        <title>Modrić powołany do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/131848-modric-powolany-do-reprezentacji</link>
-        <pubDate>Mon, 19 Aug 2024 13:22:00 GMT</pubDate>
-        <description>Zlatko Dalić powołał 24 zawodników na najbliższe zgrupowania reprezentacji.</description>
     </item>
     
 </channel>
