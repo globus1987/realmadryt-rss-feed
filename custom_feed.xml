@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Aug 2024 06:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 07:20:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 19 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/131844-kartka-z-kalendarza-19-sierpnia</link>
+        <pubDate>Mon, 19 Aug 2024 09:00:00 GMT</pubDate>
+        <description>Wizyta w Afryce, mecze o Superpuchar Hiszpanii, ligowy debiut Julena Lopeteguiego w Realu Madryt i odejście Casemiro. Co działo się 19 sierpnia?</description>
+    </item>
     
     <item>
         <title>Podcast 6x06 – pytania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131834-1-kolejka-real-z-wpadka-na-majorce</link>
         <pubDate>Sun, 18 Aug 2024 23:35:00 GMT</pubDate>
         <description>Za nami weekendowa rywalizacja w Primera División, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Mallorca ustawiła szpaler, a Rudy Fernández wykonał honorowe kopnięcie</title>
-        <link>https://www.realmadryt.pl/news/131832-mallorca-ustawila-szpaler-a-rudy-fernandez-wykonal-honorowe-kopniecie</link>
-        <pubDate>Sun, 18 Aug 2024 22:34:00 GMT</pubDate>
-        <description>Przed startem dzisiejszego meczu zawodnicy Mallorki powitali piłkarzy Realu Madryt szpalerem. Swoją chwilę miał również Rudy Fernández, który wykonał honorowe kopnięcie.</description>
     </item>
     
 </channel>
