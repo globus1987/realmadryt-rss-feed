@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Aug 2024 14:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 14:53:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Występ Rodrygo przyznaje rację Ancelottiemu</title>
+        <link>https://www.realmadryt.pl/news/131855-wystep-rodrygo-przyznaje-racje-ancelottiemu</link>
+        <pubDate>Mon, 19 Aug 2024 16:44:00 GMT</pubDate>
+        <description>Rodrygo został wyróżniony przez Carlo Ancelottiego po meczu o Superpuchar Europy z Atalantą. W niedzielę gol Brazylijczyka był zaś jednym z niewielu jasnych punktów występu Królewskich na Majorce.</description>
+    </item>
     
     <item>
         <title>Klubowa telewizja wytyka błędy Soto Grado: „Ta jedyna żółta kartka powinna być czerwona”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131843-podcast-6x06-pytania</link>
         <pubDate>Mon, 19 Aug 2024 07:50:00 GMT</pubDate>
         <description>Rozpoczęliśmy przygotowania do nagrania kolejnego odcinka szóstego sezonu podcastu RealMadryt.pl. Wzorem poprzednich lat, ponownie zbieramy pytania od użytkowników przed kolejną publikacją.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się po remisie</title>
-        <link>https://www.realmadryt.pl/news/131841-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-po-remisie</link>
-        <pubDate>Mon, 19 Aug 2024 07:00:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił żadnej wypowiedzi mediom po remisie z Mallorcą. To efekt modyfikacji ze strony La Ligi, które Real Madryt uznaje za nielegalne, ale także wyniku, bo nikt nie wyszedł nawet do rozmowy z klubową telewizją.</description>
     </item>
     
 </channel>
