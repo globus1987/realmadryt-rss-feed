@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Aug 2024 07:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 08:26:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zabrakło „równowagi”</title>
+        <link>https://www.realmadryt.pl/news/131845-zabraklo-rownowagi</link>
+        <pubDate>Mon, 19 Aug 2024 10:20:00 GMT</pubDate>
+        <description>Konferencja prasowa z udziałem trenera pokazała, że ten zdaje sobie sprawę z tego, czego zabrakło, aby odnieść wczoraj zwycięstwo na Majorca.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 19 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131833-ocen-pilkarzy-po-meczu-z-mallorca</link>
         <pubDate>Sun, 18 Aug 2024 23:36:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>1. kolejka: Real z wpadką na Majorce</title>
-        <link>https://www.realmadryt.pl/news/131834-1-kolejka-real-z-wpadka-na-majorce</link>
-        <pubDate>Sun, 18 Aug 2024 23:35:00 GMT</pubDate>
-        <description>Za nami weekendowa rywalizacja w Primera División, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
