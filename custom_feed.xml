@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Aug 2024 08:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 09:23:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Upomnienie Ancelottiego dla drużyny</title>
+        <link>https://www.realmadryt.pl/news/131866-upomnienie-ancelottiego-dla-druzyny</link>
+        <pubDate>Tue, 20 Aug 2024 11:14:00 GMT</pubDate>
+        <description>W szatni i wśród kierownictwa Realu Madryt mówi się o pierwszym rozczarowaniu sezonu po meczu z Mallorcą.</description>
+    </item>
     
     <item>
         <title>Ancelotti i jego (zbyt?) późne zmiany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131850-cofniecie-bellinghama-nie-zdalo-egzaminu-na-son-moix</link>
         <pubDate>Mon, 19 Aug 2024 17:55:00 GMT</pubDate>
         <description>Dla Realu Madryt remisy są podwójnie bolesne. Potknięcie na Majorce już na starcie ligowych rozgrywek stanowi pierwszą lukę w planie. Nie mąci to jednak ogólnego spokoju. Sezon dopiero się zaczął, a zespół ma za sobą zaledwie kilka treningów w pełnym gronie. Dobrze sytuację podsumowuje wpis Bellinghama, który na Instagramie napisał, że to nie sprint, lecz maraton.</description>
-    </item>
-    
-    <item>
-        <title>Występ Rodrygo przyznaje rację Ancelottiemu</title>
-        <link>https://www.realmadryt.pl/news/131855-wystep-rodrygo-przyznaje-racje-ancelottiemu</link>
-        <pubDate>Mon, 19 Aug 2024 16:44:00 GMT</pubDate>
-        <description>Rodrygo został wyróżniony przez Carlo Ancelottiego po meczu o Superpuchar Europy z Atalantą. W niedzielę gol Brazylijczyka był zaś jednym z niewielu jasnych punktów występu Królewskich na Majorce.</description>
     </item>
     
 </channel>
