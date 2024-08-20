@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Aug 2024 07:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 08:26:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti i jego (zbyt?) późne zmiany</title>
+        <link>https://www.realmadryt.pl/news/131865-ancelotti-i-jego-zbyt-pozne-zmiany</link>
+        <pubDate>Tue, 20 Aug 2024 09:58:00 GMT</pubDate>
+        <description>Późne zmiany Carlo są szeroko omawiane po remisie w pierwszej kolejce.</description>
+    </item>
     
     <item>
         <title>„Praca Soto Grado była klasycznym przykładem krętactwa”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131855-wystep-rodrygo-przyznaje-racje-ancelottiemu</link>
         <pubDate>Mon, 19 Aug 2024 16:44:00 GMT</pubDate>
         <description>Rodrygo został wyróżniony przez Carlo Ancelottiego po meczu o Superpuchar Europy z Atalantą. W niedzielę gol Brazylijczyka był zaś jednym z niewielu jasnych punktów występu Królewskich na Majorce.</description>
-    </item>
-    
-    <item>
-        <title>Klubowa telewizja wytyka błędy Soto Grado: „Ta jedyna żółta kartka powinna być czerwona”</title>
-        <link>https://www.realmadryt.pl/news/131854-klubowa-telewizja-wytyka-bledy-soto-grado-ta-jedyna-zolta-kartka-powinna-byc-czerwona</link>
-        <pubDate>Mon, 19 Aug 2024 16:30:00 GMT</pubDate>
-        <description>RMTV znów bez litości dla arbitra.</description>
     </item>
     
 </channel>
