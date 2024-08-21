@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Aug 2024 22:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 22:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131905-dzisiejsze-okladki</link>
+        <pubDate>Thu, 22 Aug 2024 00:42:00 GMT</pubDate>
+        <description>Powitanie nowych piłkarzy Atlético i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>UEFA zmieniła hymn Ligi Mistrzów! [POSŁUCHAJ]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131890-maffeo-kiedy-biegli-w-moja-strone-tylko-modlilem-sie-do-boga</link>
         <pubDate>Wed, 21 Aug 2024 13:13:00 GMT</pubDate>
         <description>Pablo Maffeo rozmawiał z Gol TV i odpowiedział na kilka pytań o niedzielne spotkanie z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Chce, ale nie może</title>
-        <link>https://www.realmadryt.pl/news/131889-chce-ale-nie-moze</link>
-        <pubDate>Wed, 21 Aug 2024 12:50:00 GMT</pubDate>
-        <description>Gdyby ktoś na chwilę stracił czujność i nie zauważył, Dani Ceballos pozostaje piłkarzem Realu Madryt. Za taki stan rzeczy odpowiada między innymi fakt, że pomocnik przed rokiem zdecydował się przedłużyć kontrakt. Z założenia miał on walczyć o regularną grę, jednak w praktyce 28-latek z każdą chwilą coraz bardziej gaśnie.</description>
     </item>
     
 </channel>
