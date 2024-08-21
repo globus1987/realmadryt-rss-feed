@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Aug 2024 09:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:21:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowa rola Mbappé</title>
+        <link>https://www.realmadryt.pl/news/131888-nowa-rola-mbappe</link>
+        <pubDate>Wed, 21 Aug 2024 11:57:00 GMT</pubDate>
+        <description>Prawdziwa piłka nie jest grą komputerową, w której dwa plus dwa zawsze daje cztery. Wkomponowanie supergwiazdy w zespół jest trudniejszym zadaniem niż wciśnięcie kilku guzików, a wyjątkiem nie jest nawet Mbappé.</description>
+    </item>
     
     <item>
         <title>„Za około dwa tygodnie Alaba może wrócić do biegania po boisku”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131874-doping-na-meczach-wyjazdowych-realu-organizowany-jest-na-zasadzie-kazdy-sobie</link>
         <pubDate>Tue, 20 Aug 2024 18:30:00 GMT</pubDate>
         <description>Po meczu o Superpuchar Europy postanowiliśmy zapytać o plusy i minusy prezesa Águila Blanca, Polskiego Stowarzyszenia Kibiców Realu Madryt. Przedstawiamy komentarze Łukasza Gąsiorka w sprawie tego spotkania i kwestii organizacyjnych.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt złożył ofertę Dāvisowi Bertānsowi</title>
-        <link>https://www.realmadryt.pl/news/131877-real-madryt-zlozyl-oferte-davisowi-bertansowi</link>
-        <pubDate>Tue, 20 Aug 2024 17:23:00 GMT</pubDate>
-        <description>Real Madryt nie zamierza czekać z poszukiwaniami następcy dla Guerschona Yabusele. Wybrańcem klubu jest pozostający obecnie bez klubu Dāvis Bertāns. Łotysz otrzymał już ofertę od Królewskich.</description>
     </item>
     
 </channel>
