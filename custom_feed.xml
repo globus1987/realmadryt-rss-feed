@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Aug 2024 10:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chce, ale nie może</title>
+        <link>https://www.realmadryt.pl/news/131889-chce-ale-nie-moze</link>
+        <pubDate>Wed, 21 Aug 2024 12:50:00 GMT</pubDate>
+        <description>Gdyby ktoś na chwilę stracił czujność i nie zauważył, Dani Ceballos pozostaje piłkarzem Realu Madryt. Za taki stan rzeczy odpowiada między innymi fakt, że pomocnik przed rokiem zdecydował się przedłużyć kontrakt. Z założenia miał on walczyć o regularną grę, jednak w praktyce 28-latek z każdą chwilą coraz bardziej gaśnie.</description>
+    </item>
     
     <item>
         <title>Nowa rola Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131879-rollercoaster-lunina</link>
         <pubDate>Tue, 20 Aug 2024 19:53:00 GMT</pubDate>
         <description>W poprzednim sezonie Real Madryt rozpoczął ligową rywalizację na San Mamés, a w bramce od pierwszej minuty oglądaliśmy wtedy Andrija Łunina. Teraz 25-latek przesiedział cały mecz z Mallorką na ławce rezerwowych, a jego przyszłość to nadal wielka niewiadoma.</description>
-    </item>
-    
-    <item>
-        <title>„Doping na meczach wyjazdowych Realu organizowany jest na zasadzie «każdy sobie»”</title>
-        <link>https://www.realmadryt.pl/news/131874-doping-na-meczach-wyjazdowych-realu-organizowany-jest-na-zasadzie-kazdy-sobie</link>
-        <pubDate>Tue, 20 Aug 2024 18:30:00 GMT</pubDate>
-        <description>Po meczu o Superpuchar Europy postanowiliśmy zapytać o plusy i minusy prezesa Águila Blanca, Polskiego Stowarzyszenia Kibiców Realu Madryt. Przedstawiamy komentarze Łukasza Gąsiorka w sprawie tego spotkania i kwestii organizacyjnych.</description>
     </item>
     
 </channel>
