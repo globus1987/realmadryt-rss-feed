@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Aug 2024 07:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 08:25:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 22 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/131906-kartka-z-kalendarza-22-sierpnia</link>
+        <pubDate>Thu, 22 Aug 2024 10:00:00 GMT</pubDate>
+        <description>Pożegnanie legendarnego kapitana na Santiago Bernabéu, debiut Zidane'a, gorące okienko transferowe w 2007 roku i dwa mecze o Superpuchar Hiszpanii. Co działo się 22 sierpnia?</description>
+    </item>
     
     <item>
         <title>Czas na Frana Garcíę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131894-zbyt-lewy-real-madryt</link>
         <pubDate>Wed, 21 Aug 2024 16:08:00 GMT</pubDate>
         <description>Statystyki z niedzielnego spotkania z Mallorcą jasno pokazują, że zdecydowana większość ataków Królewskich prowadzona była lewą stroną boiska. To sytuacja, która nie może mieć miejsca, jeśli drużyna chce cieszyć się „równowagą”, o której mówił Carlo Ancelotti.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Ferland Mendy zawieszony na jeden mecz</title>
-        <link>https://www.realmadryt.pl/news/131893-oficjalnie-ferland-mendy-zawieszony-na-jeden-mecz</link>
-        <pubDate>Wed, 21 Aug 2024 15:04:00 GMT</pubDate>
-        <description>W najbliższą niedzielę Francuz nie zagra z Realem Valladolid, a w pierwszym składzie wybiegnie najprawdopodobniej Fran García.</description>
     </item>
     
 </channel>
