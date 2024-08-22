@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Aug 2024 19:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 19:39:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Konferencja prasowa w piątek, a w sobotę zamknięty trening na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/131921-konferencja-prasowa-w-piatek-a-w-sobote-zamkniety-trening-na-bernabeu</link>
+        <pubDate>Thu, 22 Aug 2024 21:24:00 GMT</pubDate>
+        <description>Wygląda na to, że Carlo Ancelotti zdecydował się na zmianę rutyny przed domowymi spotkaniami w La Lidze.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Courtois zawiesza reprezentacyjną karierę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131911-sekrety-masek-pintusa-sprzet-za-30-000-euro-aby-poznac-granice-mozliwosci-zawodnika</link>
         <pubDate>Thu, 22 Aug 2024 11:25:00 GMT</pubDate>
         <description>Raúl Notario wyjaśnia dokładnie, jak działają słynne maski i do czego służą.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona rywalem Realu Madryt w Superpucharze Endesa</title>
-        <link>https://www.realmadryt.pl/news/131910-barcelona-rywalem-realu-madryt-w-superpucharze-endesa</link>
-        <pubDate>Thu, 22 Aug 2024 10:46:00 GMT</pubDate>
-        <description>Losowanie Superpucharu Endesa przyniosło powtórkę z ubiegłego roku. Real Madryt zagra z Barceloną, a UCAM Murcia z Unicają.</description>
     </item>
     
 </channel>
