@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Aug 2024 22:54:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 23:20:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131923-dzisiejsze-okladki</link>
+        <pubDate>Fri, 23 Aug 2024 01:00:00 GMT</pubDate>
+        <description>Sytuacja w ataku Realu Madryt i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Konferencja prasowa w piątek, a w sobotę zamknięty trening na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131912-ancelotti-wysyla-jasne-sygnaly-w-sprawie-rezerwowych</link>
         <pubDate>Thu, 22 Aug 2024 12:04:00 GMT</pubDate>
         <description>W meczu przeciwko Mallorce trener Realu Madryt po raz kolejny dał jasno do zrozumienia, jakie są jego preferencje w zakresie zmian.</description>
-    </item>
-    
-    <item>
-        <title>Sekrety masek Pintusa: sprzęt za 30 000 euro, aby poznać granice możliwości zawodnika</title>
-        <link>https://www.realmadryt.pl/news/131911-sekrety-masek-pintusa-sprzet-za-30-000-euro-aby-poznac-granice-mozliwosci-zawodnika</link>
-        <pubDate>Thu, 22 Aug 2024 11:25:00 GMT</pubDate>
-        <description>Raúl Notario wyjaśnia dokładnie, jak działają słynne maski i do czego służą.</description>
     </item>
     
 </channel>
