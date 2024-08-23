@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Aug 2024 15:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 16:27:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 2. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/131934-telewizyjny-terminarz-2-kolejki-la-ligi</link>
+        <pubDate>Fri, 23 Aug 2024 18:17:00 GMT</pubDate>
+        <description>Przed nami druga kolejka La Ligi nowego sezonu. Real Madryt zagra u siebie z Realem Valladolid.</description>
+    </item>
     
     <item>
         <title>Wszyscy muszą ciągnąć ten wózek</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131932-zadanie-dla-bmv-i-rodrygo</link>
         <pubDate>Fri, 23 Aug 2024 11:39:00 GMT</pubDate>
         <description>Żaden z atakujących Realu na Majorce nie hasał po prawej stronie. Szturm na bramkę rywali powinien mimo wszystko nieco mniej koncentrować się na lewej flance.</description>
-    </item>
-    
-    <item>
-        <title>Raúl zaczyna kolejny projekt Castilli</title>
-        <link>https://www.realmadryt.pl/news/131929-raul-zaczyna-kolejny-projekt-castilli</link>
-        <pubDate>Fri, 23 Aug 2024 11:11:00 GMT</pubDate>
-        <description>Trener startuje z być może swój ostatnim rokiem w roli opiekuna rezerw.</description>
     </item>
     
 </channel>
