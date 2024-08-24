@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Aug 2024 19:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 20:21:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>José Callejón katem Castilli</title>
+        <link>https://www.realmadryt.pl/news/131967-jose-callejon-katem-castilli</link>
+        <pubDate>Sat, 24 Aug 2024 22:20:00 GMT</pubDate>
+        <description>Drużyna Raúla rozpoczyna ligowy sezon od porażki 0:1.</description>
+    </item>
     
     <item>
         <title>Kim Kardashian odwiedziła Valdebebas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131952-kartka-z-kalendarza-24-sierpnia</link>
         <pubDate>Sat, 24 Aug 2024 10:00:00 GMT</pubDate>
         <description>Urodziny dwóch zawodników, debiut Beckhama i legendarna remontada w Superpucharze Hiszpanii. Co działo się 24 sierpnia?</description>
-    </item>
-    
-    <item>
-        <title>Alberto Marcos: Jeśli ktoś nie ma ambicji na Bernabéu, niech zostanie w domu</title>
-        <link>https://www.realmadryt.pl/news/131953-alberto-marcos-jesli-ktos-nie-ma-ambicji-na-bernabeu-niech-zostanie-w-domu</link>
-        <pubDate>Sat, 24 Aug 2024 09:40:00 GMT</pubDate>
-        <description>Alberto Marcos Rey to żywa legenda Realu Valladolid – jest piłkarzem z największą liczbą rozegranych meczów i minut w całej historii klubu. Jednak swoje pierwsze kroki w świecie futbolu stawiał w szkółce Realu Madryt. Teraz przed starciem obu klubów udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
