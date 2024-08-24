@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Aug 2024 08:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 08:40:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Luka Modrić nigdy się nie poddaje</title>
+        <link>https://www.realmadryt.pl/news/131957-luka-modric-nigdy-sie-nie-poddaje</link>
+        <pubDate>Sat, 24 Aug 2024 10:27:00 GMT</pubDate>
+        <description>Chorwacki kapitan Realu staje się ważniejszy dla Ancelottiego niż w zeszłym sezonie i wciąż ma wiele do zyskania.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 24 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131948-reinier-zarejestrowany-w-castilli</link>
         <pubDate>Fri, 23 Aug 2024 22:47:00 GMT</pubDate>
         <description>Przyszłość Reiniera dalej stoi pod znakiem zapytania. Real Madryt postanowił zarejestrować Brazylijczyka do Castilli, chociaż to rozwiązanie prawdopodobnie tylko tymczasowe.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham ma kontuzję mięśnia, którego nie ma 10% ludzi</title>
-        <link>https://www.realmadryt.pl/news/131947-bellingham-ma-kontuzje-miesnia-ktorego-nie-ma-10-ludzi</link>
-        <pubDate>Fri, 23 Aug 2024 19:25:00 GMT</pubDate>
-        <description>Nie każdy może pochwalić się mięśniem podeszwowym. W tym przypadku niestety może pochwalić się nim Bellingham, co może kosztować go miesiąc przerwy.</description>
     </item>
     
 </channel>
