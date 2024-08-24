@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Aug 2024 22:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 23:19:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/131970-dzisiejsze-okladki</link>
+        <pubDate>Sun, 25 Aug 2024 00:55:00 GMT</pubDate>
+        <description>Debiut Mbappé na Santiago Bernabéu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>2. kolejka: Barcelona i Celta z kompletem zwycięstw</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131958-bernabeu-gotowe-aby-powitac-mbappe</link>
         <pubDate>Sat, 24 Aug 2024 12:25:00 GMT</pubDate>
         <description>Klub wykorzystał ostatnie miesiące na przyspieszenie prac budowlanych. Ukończona została między innymi budowa nowego skybaru wraz z lożami VIP. Nowe Santiago Bernabéu jest gotowe, aby w wielkim stylu przywitać Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Luka Modrić nigdy się nie poddaje</title>
-        <link>https://www.realmadryt.pl/news/131957-luka-modric-nigdy-sie-nie-poddaje</link>
-        <pubDate>Sat, 24 Aug 2024 10:27:00 GMT</pubDate>
-        <description>Chorwacki kapitan Realu staje się ważniejszy dla Ancelottiego niż w zeszłym sezonie i wciąż ma wiele do zyskania.</description>
     </item>
     
 </channel>
