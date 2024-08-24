@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Aug 2024 06:55:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Aug 2024 07:17:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złota generacja</title>
+        <link>https://www.realmadryt.pl/news/131955-zlota-generacja</link>
+        <pubDate>Sat, 24 Aug 2024 09:15:00 GMT</pubDate>
+        <description>Rodrygo i Vinícius są twarzą przemiany generacyjnej, która miała miejsce w ostatnich latach w Realu Madryt. W obecnej drużynie jest wielu graczy, którzy pomimo młodego wieku mają już na koncie po kilkanaście trofeów i przed nimi jeszcze wiele lat grania na najwyższym poziomie.</description>
+    </item>
+    
+    <item>
+        <title>Castilla rozpoczyna sezon</title>
+        <link>https://www.realmadryt.pl/news/131949-castilla-rozpoczyna-sezon</link>
+        <pubDate>Sat, 24 Aug 2024 09:15:00 GMT</pubDate>
+        <description>W 1. kolejce Primera Federación Castilla zagra na wyjeździe z Marbellą. Będzie to pierwsza próba podczas szóstego roku pracy Raúla w zespole rezerw.</description>
+    </item>
     
     <item>
         <title>400 zł za gola Mbappé w meczu z Realem Valladolid!</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131934-telewizyjny-terminarz-2-kolejki-la-ligi</link>
         <pubDate>Fri, 23 Aug 2024 18:17:00 GMT</pubDate>
         <description>Przed nami druga kolejka La Ligi nowego sezonu. Real Madryt zagra u siebie z Realem Valladolid.</description>
-    </item>
-    
-    <item>
-        <title>Wszyscy muszą ciągnąć ten wózek</title>
-        <link>https://www.realmadryt.pl/news/131944-wszyscy-musza-ciagnac-ten-wozek</link>
-        <pubDate>Fri, 23 Aug 2024 16:52:00 GMT</pubDate>
-        <description>Remis na Majorce, zamieszanie wokół nowego ofensywnego tercetu i Rodrygo, a teraz – jakby tych „radosnych” nowin było mało – kontuzja Jude’a Bellinghama. Po zwycięstwie w Superpucharze Europy w Warszawie start sezonu ligowego nie jest dla Realu Madryt usłany różami. Czy to tylko nie najlepsze dobrego początki? Przemyślenia po ostatnich wydarzeniach w swoim felietonie przedstawia nasz redaktor, Santi01.</description>
-    </item>
-    
-    <item>
-        <title>Fran zastąpi Mendy'ego, bo… nikt inny nawet nie może</title>
-        <link>https://www.realmadryt.pl/news/131938-fran-zastapi-mendyego-bo-nikt-inny-nawet-nie-moze</link>
-        <pubDate>Fri, 23 Aug 2024 16:04:00 GMT</pubDate>
-        <description>Ferland Mendy nie zagra z Realem Valladolid z powodu zawieszenia. Jego nieobecność w naturalny sposób stanowi szansę na występ od początku Frana Garcíi. Innej możliwości zresztą tak naprawdę nie ma, ponieważ inni kandydaci albo są kontuzjowani, albo odeszli, albo w ogóle nie trafili do klubu.</description>
     </item>
     
 </channel>
