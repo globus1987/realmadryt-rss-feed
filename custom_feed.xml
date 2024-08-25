@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 11:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 11:38:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzień, w którym Bernabéu oficjalnie poznało Valdano</title>
+        <link>https://www.realmadryt.pl/news/131978-dzien-w-ktorym-bernabeu-oficjalnie-poznalo-valdano</link>
+        <pubDate>Sun, 25 Aug 2024 13:28:00 GMT</pubDate>
+        <description>Przy okazji spotkania z Realem Valladolid Miguel Ángel Lara, dziennikarz Marki, przypomina historię przyjścia do Realu Madryt Jorge Valdano, który debiutował w koszulce Królewskich właśnie w starciu z Los Pucelanos.</description>
+    </item>
     
     <item>
         <title>Ten dzień</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131967-jose-callejon-katem-castilli</link>
         <pubDate>Sat, 24 Aug 2024 22:20:00 GMT</pubDate>
         <description>Drużyna Raúla rozpoczyna ligowy sezon od porażki 0:1.</description>
-    </item>
-    
-    <item>
-        <title>Kim Kardashian odwiedziła Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/131965-kim-kardashian-odwiedzila-valdebebas</link>
-        <pubDate>Sat, 24 Aug 2024 20:12:00 GMT</pubDate>
-        <description>Kim Kardashian, amerykańska gwiazda, odwiedziła miasteczko sportowe Realu Madryt i spotkała się z kilkoma piłkarzami pierwszego zespołu.</description>
     </item>
     
 </channel>
