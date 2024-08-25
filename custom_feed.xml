@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 11:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 11:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przyjaźń od zawsze</title>
+        <link>https://www.realmadryt.pl/news/131979-przyjazn-od-zawsze</link>
+        <pubDate>Sun, 25 Aug 2024 13:47:00 GMT</pubDate>
+        <description>Dobre relacje Realu Madryt z Realem Valladolid nie mogą dziwić, skoro prezesem jednego klubu jest Florentino, a właścicielem drugiego Ronaldo. Tak naprawdę więź ta trwa już od bardzo dawna, a współpraca wychodzi na dobre obu stronom.</description>
+    </item>
     
     <item>
         <title>Dzień, w którym Bernabéu oficjalnie poznało Valdano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131968-2-kolejka-barcelona-i-celta-z-kompletem-zwyciestw</link>
         <pubDate>Sat, 24 Aug 2024 23:30:00 GMT</pubDate>
         <description>Za nami sobotnia rywalizacja w Primera División, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>José Callejón katem Castilli</title>
-        <link>https://www.realmadryt.pl/news/131967-jose-callejon-katem-castilli</link>
-        <pubDate>Sat, 24 Aug 2024 22:20:00 GMT</pubDate>
-        <description>Drużyna Raúla rozpoczyna ligowy sezon od porażki 0:1.</description>
     </item>
     
 </channel>
