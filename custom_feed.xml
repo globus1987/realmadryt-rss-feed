@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 22:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 22:39:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132000-dzisiejsze-okladki</link>
+        <pubDate>Mon, 26 Aug 2024 00:36:00 GMT</pubDate>
+        <description>Wygrana Realu i dokonania Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Endrick: To spełnienie moich marzeń</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131986-krolewscy-zaprezentowali-superpuchar-europy-na-bernabeu</link>
         <pubDate>Sun, 25 Aug 2024 17:24:00 GMT</pubDate>
         <description>Przed rozpoczęciem meczu z Realem Valladolid Królewscy zaprezentowali kibicom Superpuchar Europy zdobyty w Warszawie.</description>
-    </item>
-    
-    <item>
-        <title>Błysk w końcówce, żeby zatrzeć złe wrażenie</title>
-        <link>https://www.realmadryt.pl/news/131984-blysk-w-koncowce-zeby-zatrzec-zle-wrazenie</link>
-        <pubDate>Sun, 25 Aug 2024 17:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Realem Valladolid 3:0 po bramkach Valverde, Brahima i Endricka.</description>
     </item>
     
 </channel>
