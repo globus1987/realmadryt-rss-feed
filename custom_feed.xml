@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 10:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 11:18:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ten dzień</title>
+        <link>https://www.realmadryt.pl/news/131977-ten-dzien</link>
+        <pubDate>Sun, 25 Aug 2024 13:08:00 GMT</pubDate>
+        <description>Nadszedł wreszcie ten dzień. Kylian Mbappé rozegra swoje pierwsze spotkanie na Santiago Bernabéu w koszulce Królewskich, choć już wcześniej wystąpił na tym obiekcie trzy razy jako piłkarz PSG (dwie porażki i remis). Dzisiaj jednak w końcu wystąpi on po tej stronie, po której tak długo go wyczekiwano. Z trybun starcie obserwować będzie natomiast Ronaldo, czyli piłkarz, który zaliczył lata temu jeden z najbardziej pamiętnych debiutów w barwach Realu na Bernabéu.</description>
+    </item>
     
     <item>
         <title>500 dni bez porażki na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131965-kim-kardashian-odwiedzila-valdebebas</link>
         <pubDate>Sat, 24 Aug 2024 20:12:00 GMT</pubDate>
         <description>Kim Kardashian, amerykańska gwiazda, odwiedziła miasteczko sportowe Realu Madryt i spotkała się z kilkoma piłkarzami pierwszego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt zaprezentuje Superpuchar Europy</title>
-        <link>https://www.realmadryt.pl/news/131964-real-madryt-zaprezentuje-superpuchar-europy</link>
-        <pubDate>Sat, 24 Aug 2024 18:48:00 GMT</pubDate>
-        <description>Piłkarze Realu Madryt zaprezentują Superpuchar Europy przed meczem z Realem Valladolid.</description>
     </item>
     
 </channel>
