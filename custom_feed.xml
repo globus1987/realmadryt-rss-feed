@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 14:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 15:20:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Real Valladolid [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/131984-real-madryt-real-valladolid-live</link>
+        <pubDate>Sun, 25 Aug 2024 17:00:00 GMT</pubDate>
+        <description>Trwa pierwsza połowa meczu Realu Madryt z Realem Valladolid na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Vinícius zawiesza Arabię do 2025 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131972-meseguer-real-nie-pokona-nas-w-kwestii-checi-i-entuzjazmu</link>
         <pubDate>Sun, 25 Aug 2024 09:40:00 GMT</pubDate>
         <description>Víctor Meseguer udzielił wywiadu dziennikowi AS przed dzisiejszym meczem z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi z tej rozmowy z pomocnikiem Realu Valladolid.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 25 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/131971-kartka-z-kalendarza-25-sierpnia</link>
-        <pubDate>Sun, 25 Aug 2024 09:00:00 GMT</pubDate>
-        <description>Porażka w meczu o Superpuchar Europy, mecz z Wisłą Kraków, derby Madrytu w pierwszej kolejce i przywitanie José Antonio Reyesa oraz wyjątkowe losowanie fazy grupowej Ligi Mistrzów. Co działo się 25 sierpnia?</description>
     </item>
     
 </channel>
