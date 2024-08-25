@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 19:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 20:24:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick: To spełnienie moich marzeń</title>
+        <link>https://www.realmadryt.pl/news/131995-endrick-to-spelnienie-moich-marzen</link>
+        <pubDate>Sun, 25 Aug 2024 22:20:00 GMT</pubDate>
+        <description>Endrick udzielił wywiadu klubowej telewizji po wygranej 3:0 z Realem Valladolid na Santiago Bernabéu. Przedstawiamy wypowiedzi atakującego Królewskich.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Nico Paz piłkarzem Como</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>Atlético vs Girona: Hit na Metropolitano</title>
-        <link>https://www.realmadryt.pl/news/131993-atletico-vs-girona-hit-na-metropolitano</link>
+        <title>Atlético vs Girona: Griezmann daje prowadzenie!</title>
+        <link>https://www.realmadryt.pl/news/131993-atletico-vs-girona-griezmann-daje-prowadzenie</link>
         <pubDate>Sun, 25 Aug 2024 20:47:00 GMT</pubDate>
         <description>Atlético Madryt podejmuje Gironę w hitowym meczu 2. kolejki Primera División.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131984-blysk-w-koncowce-zeby-zatrzec-zle-wrazenie</link>
         <pubDate>Sun, 25 Aug 2024 17:00:00 GMT</pubDate>
         <description>Real Madryt wygrał z Realem Valladolid 3:0 po bramkach Valverde, Brahima i Endricka.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius zawiesza Arabię do 2025 roku</title>
-        <link>https://www.realmadryt.pl/news/131983-vinicius-zawiesza-arabie-do-2025-roku</link>
-        <pubDate>Sun, 25 Aug 2024 15:17:00 GMT</pubDate>
-        <description>Vinícius odrzucił rekordową ofertę Al-Ahli i tego lata na pewno nie opuści Realu Madryt. Jednak możliwej przeprowadzki do Arabii Saudyjskiej nie odrzuca w sposób definitywny i temat ma wrócić w 2025 roku.</description>
     </item>
     
 </channel>
