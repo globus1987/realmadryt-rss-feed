@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Aug 2024 09:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 09:38:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>500 dni bez porażki na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/131976-500-dni-bez-porazki-na-bernabeu</link>
+        <pubDate>Sun, 25 Aug 2024 11:21:00 GMT</pubDate>
+        <description>Real Madryt nie przegrał na własnym stadionie od kwietnia 2023 roku, kiedy to musiał uznać wyższość Villarrealu. W minionym sezonie tylko dwa razy oddał u siebie punkty.</description>
+    </item>
     
     <item>
         <title>Valladolid chce zdobyć Bernabéu po 24 latach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131964-real-madryt-zaprezentuje-superpuchar-europy</link>
         <pubDate>Sat, 24 Aug 2024 18:48:00 GMT</pubDate>
         <description>Piłkarze Realu Madryt zaprezentują Superpuchar Europy przed meczem z Realem Valladolid.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona wygrywa z Athletikiem</title>
-        <link>https://www.realmadryt.pl/news/131963-barcelona-wygrywa-z-athletikiem</link>
-        <pubDate>Sat, 24 Aug 2024 18:22:00 GMT</pubDate>
-        <description>Barcelona wygrała 2:1 z Athletikiem po trafieniach Lamine'a Yamala i Lewandowskiego.</description>
     </item>
     
 </channel>
