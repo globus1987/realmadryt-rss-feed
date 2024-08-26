@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Aug 2024 15:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 16:27:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Betis i Monaco mocno zabiegają o Ceballosa</title>
+        <link>https://www.realmadryt.pl/news/132018-marca-betis-i-monaco-mocno-zabiegaja-o-ceballosa</link>
+        <pubDate>Mon, 26 Aug 2024 18:06:00 GMT</pubDate>
+        <description>Hiszpański dziennik przekazuje, że w końcówce letniego okresu transferowego Ceballos może opuścić stolicę Hiszpanii. Zdaniem Marki piłkarz ma bardzo poważne oferty od Betisu i Monaco.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 3. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132007-tylko-trzy-celne-podania-miedzy-viniciusem-a-mbappe</link>
         <pubDate>Mon, 26 Aug 2024 12:39:00 GMT</pubDate>
         <description>Na ten moment wygląda na to, że między Brazylijczykiem a Francuzem brakuje jeszcze nieco porozumienia.</description>
-    </item>
-    
-    <item>
-        <title>Liga Mistrzów także w TVP</title>
-        <link>https://www.realmadryt.pl/news/132006-liga-mistrzow-takze-w-tvp</link>
-        <pubDate>Mon, 26 Aug 2024 12:04:00 GMT</pubDate>
-        <description>Środowe wieczory wracają do Telewizji Polskiej na mocy porozumienia zawartego z CANAL+.</description>
     </item>
     
 </channel>
