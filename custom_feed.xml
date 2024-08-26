@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Aug 2024 11:18:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 11:38:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Álvaro Rodríguez bliski odejścia z Realu</title>
+        <link>https://www.realmadryt.pl/news/132010-marca-alvaro-rodriguez-bliski-odejscia-z-realu</link>
+        <pubDate>Mon, 26 Aug 2024 13:38:00 GMT</pubDate>
+        <description>Po Nico Pazie następnym wychowankiem, który spakuje walizki, będzie Álvaro Rodríguez.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/132009-dzisiejszy-trening</link>
+        <pubDate>Mon, 26 Aug 2024 13:34:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do czwartkowego spotkania z Las Palmas. Razem z drużyną nie trenowało czterech zawodników.</description>
+    </item>
     
     <item>
         <title>Iván Sánchez: Myślę, że rozegraliśmy wielki mecz</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131998-mbappe-gra-na-tym-stadionie-to-marzenie</link>
         <pubDate>Mon, 26 Aug 2024 06:00:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił krótkiego wywiadu z szatni dla klubowej telewizji. Przedstawiamy słowa Francuza po debiucie na Santiago Bernabéu w koszulce Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/132000-dzisiejsze-okladki</link>
-        <pubDate>Mon, 26 Aug 2024 00:36:00 GMT</pubDate>
-        <description>Wygrana Realu i dokonania Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Endrick: To spełnienie moich marzeń</title>
-        <link>https://www.realmadryt.pl/news/131995-endrick-to-spelnienie-moich-marzen</link>
-        <pubDate>Sun, 25 Aug 2024 22:20:00 GMT</pubDate>
-        <description>Endrick udzielił wywiadu klubowej telewizji po wygranej 3:0 z Realem Valladolid na Santiago Bernabéu. Przedstawiamy wypowiedzi atakującego Królewskich.</description>
     </item>
     
 </channel>
