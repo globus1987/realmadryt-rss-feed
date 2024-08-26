@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Aug 2024 09:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 10:23:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Liga Mistrzów także w TVP</title>
+        <link>https://www.realmadryt.pl/news/132006-liga-mistrzow-takze-w-tvp</link>
+        <pubDate>Mon, 26 Aug 2024 12:04:00 GMT</pubDate>
+        <description>Środowe wieczory wracają do Telewizji Polskiej na mocy porozumienia zawartego z CANAL+.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Realem Valladolid</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131993-2-kolejka-atletico-rozbija-girone</link>
         <pubDate>Sun, 25 Aug 2024 20:47:00 GMT</pubDate>
         <description>Atlético Madryt rozbiło Gironę w meczu kończącym 2. kolejkę Primera División, więc czas rzucić okiem na tabelę.</description>
-    </item>
-    
-    <item>
-        <title>Endrick skradł show Mbappé</title>
-        <link>https://www.realmadryt.pl/news/131992-endrick-skradl-show-mbappe</link>
-        <pubDate>Sun, 25 Aug 2024 20:24:00 GMT</pubDate>
-        <description>Brazylijczyk oficjalnie zadebiutował w Realu Madryt, trafiając do siatki po dziesięciu minutach od wejścia na boisko. Stał się tym samym najmłodszym obcokrajowcem w historii klubu, który strzelił gola w La Lidze.</description>
     </item>
     
 </channel>
