@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Aug 2024 15:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 15:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 3. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/132016-telewizyjny-terminarz-3-kolejki-la-ligi</link>
+        <pubDate>Mon, 26 Aug 2024 17:45:00 GMT</pubDate>
+        <description>Przed nami trzecia kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Las Palmas.</description>
+    </item>
     
     <item>
         <title>Brahim wyważa drzwi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132006-liga-mistrzow-takze-w-tvp</link>
         <pubDate>Mon, 26 Aug 2024 12:04:00 GMT</pubDate>
         <description>Środowe wieczory wracają do Telewizji Polskiej na mocy porozumienia zawartego z CANAL+.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Realem Valladolid</title>
-        <link>https://www.realmadryt.pl/news/132005-oceny-zawodnikow-po-meczu-z-realem-valladolid</link>
-        <pubDate>Mon, 26 Aug 2024 11:27:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Realem Valladolid 3:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
