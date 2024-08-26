@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Aug 2024 11:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 12:40:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>W czwartek losowanie fazy ligowej Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/132008-w-czwartek-losowanie-fazy-ligowej-ligi-mistrzow</link>
+        <pubDate>Mon, 26 Aug 2024 14:13:00 GMT</pubDate>
+        <description>Nowy format, nowe zasady, nowe daty i nowe drużyny.</description>
+    </item>
     
     <item>
         <title>MARCA: Álvaro Rodríguez bliski odejścia z Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/131994-butragueno-to-bardzo-wazne-i-zasluzone-zwyciestwo</link>
         <pubDate>Mon, 26 Aug 2024 07:30:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla klubowej telewizji po meczu z Realem Valladolid. Przedstawiamy słowa popularnego Sępa.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Gra na tym stadionie to marzenie</title>
-        <link>https://www.realmadryt.pl/news/131998-mbappe-gra-na-tym-stadionie-to-marzenie</link>
-        <pubDate>Mon, 26 Aug 2024 06:00:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielił krótkiego wywiadu z szatni dla klubowej telewizji. Przedstawiamy słowa Francuza po debiucie na Santiago Bernabéu w koszulce Realu Madryt.</description>
     </item>
     
 </channel>
