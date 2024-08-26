@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Aug 2024 06:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 07:19:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ależ pasuje mu ta ósemka</title>
+        <link>https://www.realmadryt.pl/news/132002-alez-pasuje-mu-ta-osemka</link>
+        <pubDate>Mon, 26 Aug 2024 09:02:00 GMT</pubDate>
+        <description>Urugwajczyk był najlepszy w meczu z Valladolid dzięki bramce i temu co pokazywał na boisku. Jest niezbędny dla Ancelottiego.</description>
+    </item>
+    
+    <item>
+        <title>Pezzolano: Gdy przegrywasz, nie możesz mówić o dobrym meczu</title>
+        <link>https://www.realmadryt.pl/news/131997-pezzolano-gdy-przegrywasz-nie-mozesz-mowic-o-dobrym-meczu</link>
+        <pubDate>Mon, 26 Aug 2024 09:00:00 GMT</pubDate>
+        <description>Trener Realu Valladolid, Paulo Pezzolano, spotkał się z dziennikarzami po przegranym meczu z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>Butragueño: To bardzo ważne i zasłużone zwycięstwo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/131989-real-madryt-3-0-real-valladolid-video</link>
         <pubDate>Sun, 25 Aug 2024 19:54:00 GMT</pubDate>
         <description>Królewscy w drugim ligowym spotkaniu pokonali Real Valladolid na własnym boisku.</description>
-    </item>
-    
-    <item>
-        <title>Fede: W pierwszej połowie zabrakło nam nastawienia w momencie atakowania</title>
-        <link>https://www.realmadryt.pl/news/131988-fede-w-pierwszej-polowie-zabraklo-nam-nastawienia-w-momencie-atakowania</link>
-        <pubDate>Sun, 25 Aug 2024 19:19:00 GMT</pubDate>
-        <description>Fede Valverde udzielił wypowiedzi dla klubowej telewizji po wygranym 3:0 meczu z Realem Valladolid. Przedstawiamy wypowiedzi pomocnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Fede Valverde MVP meczu z Realem Valladolid</title>
-        <link>https://www.realmadryt.pl/news/131987-fede-valverde-mvp-meczu-z-realem-valladolid</link>
-        <pubDate>Sun, 25 Aug 2024 19:09:00 GMT</pubDate>
-        <description>Urugwajczyk otworzył wynik spotkania i był jedną z najjaśniejszych postaci w zespole.</description>
     </item>
     
 </channel>
