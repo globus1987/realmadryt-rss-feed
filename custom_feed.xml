@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Aug 2024 10:40:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 10:53:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/132030-dzisiejszy-trening</link>
+        <pubDate>Tue, 27 Aug 2024 12:46:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do czwartkowego spotkania z Las Palmas. Razem z drużyną nie trenowało czterech zawodników.</description>
+    </item>
     
     <item>
         <title>Trzyminutowy materiał poglądowy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132020-sport-rezerwowi-kwestionuja-idee-ancelottiego</link>
         <pubDate>Mon, 26 Aug 2024 20:27:00 GMT</pubDate>
         <description>Kataloński Sport nie odpuszcza i wytacza kolejną dawkę krytyki w kierunku Realu Madryt. Tym razem najbardziej dostało się Carlo Ancelottiemu, który co prawda w meczu z Realem Valladolid zdecydował się na szybsze zmiany, ale i tak ściągał z boiska najlepszych, a dwie ostatnie zmiany przeprowadził na kilka minut przed końcem spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Kiedy Real tak chciał piłkarza, że kupił… trzech w pakiecie</title>
-        <link>https://www.realmadryt.pl/news/132019-kiedy-real-tak-chcial-pilkarza-ze-kupil-trzech-w-pakiecie</link>
-        <pubDate>Mon, 26 Aug 2024 19:23:00 GMT</pubDate>
-        <description>W 1971 roku dziewiętnastoletni Santillana zamienia Racing Santander na Real Madryt, by w trakcie wielu sezonów w stolicy Hiszpanii stać się klubową legendą. Jednak kulisy jego transferu do Los Blancos nie są tak proste i standardowe jak przy innych operacjach...</description>
     </item>
     
 </channel>
