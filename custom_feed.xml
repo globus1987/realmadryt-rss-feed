@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Aug 2024 03:22:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 03:39:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Murawa na Bernabéu zdała pierwszy egzamin</title>
+        <link>https://www.realmadryt.pl/news/132021-murawa-na-bernabeu-zdala-pierwszy-egzamin</link>
+        <pubDate>Tue, 27 Aug 2024 05:30:00 GMT</pubDate>
+        <description>Plan Realu Madryt z zastosowaniem słynnej jaskini oraz prace związane ze „zszywaniem” murawy wydają się działać zgodnie z oczekiwaniami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132012-nie-zyje-sven-goeran-eriksson</link>
         <pubDate>Mon, 26 Aug 2024 14:57:00 GMT</pubDate>
         <description>Królewscy oficjalnie złożyli kondolencje rodzinie i bliskim legendarnego trenera, który zmarł dzisiaj w wieku 76 lat.</description>
-    </item>
-    
-    <item>
-        <title>W czwartek losowanie fazy ligowej Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/132008-w-czwartek-losowanie-fazy-ligowej-ligi-mistrzow</link>
-        <pubDate>Mon, 26 Aug 2024 14:13:00 GMT</pubDate>
-        <description>Nowy format, nowe zasady, nowe daty i nowe drużyny.</description>
     </item>
     
 </channel>
