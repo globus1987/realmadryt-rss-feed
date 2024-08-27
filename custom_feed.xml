@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Aug 2024 07:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 08:26:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 27 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/132017-kartka-z-kalendarza-27-sierpnia</link>
+        <pubDate>Tue, 27 Aug 2024 10:00:00 GMT</pubDate>
+        <description>Superpuchar Hiszpanii, transfer legendy i dwa mecze ligowe na Santiago Bernabéu. Co działo się 27 sierpnia?</description>
+    </item>
     
     <item>
         <title>Narodziny EGB</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132016-telewizyjny-terminarz-3-kolejki-la-ligi</link>
         <pubDate>Mon, 26 Aug 2024 17:45:00 GMT</pubDate>
         <description>Przed nami trzecia kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Las Palmas.</description>
-    </item>
-    
-    <item>
-        <title>Brahim wyważa drzwi</title>
-        <link>https://www.realmadryt.pl/news/132015-brahim-wywaza-drzwi</link>
-        <pubDate>Mon, 26 Aug 2024 17:16:00 GMT</pubDate>
-        <description>Golem i asystą przeciwko Valladolid Marokańczyk uderza pięścią w stół i prosi o więcej minut.</description>
     </item>
     
 </channel>
