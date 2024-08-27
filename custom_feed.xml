@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Aug 2024 22:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 23:20:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132042-dzisiejsze-okladki</link>
+        <pubDate>Wed, 28 Aug 2024 01:01:00 GMT</pubDate>
+        <description>Wyznania Viníciusa i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Marvel wypożyczony do Córdoby</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132029-trzyminutowy-material-pogladowy</link>
         <pubDate>Tue, 27 Aug 2024 12:23:00 GMT</pubDate>
         <description>Real Madryt trawi niedzielną wygraną z mieszanką satysfakcji i niepokoju. Jakkolwiek patrzeć, gra zespołu ma jeszcze znaczny margines poprawy. Jak piszą dziennikarze Relevo, szatnia jest zadowolona z zamazania plamy z Son Moix, a teraz głównym celem jest postawienie kolejnego kroku naprzód. By tego dokonać, materiałem poglądowym mają być trzy pierwsze minuty drugiej połowy ostatniego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé szuka miejsca</title>
-        <link>https://www.realmadryt.pl/news/132028-mbappe-szuka-miejsca</link>
-        <pubDate>Tue, 27 Aug 2024 11:42:00 GMT</pubDate>
-        <description>Kylian Mbappé rozegrał trzy pierwsze mecze w Realu Madryt na pozycji środkowego napastnika, gdzie nie czuł się zbyt komfortowo.</description>
     </item>
     
 </channel>
