@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Aug 2024 09:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 09:53:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé szuka miejsca</title>
+        <link>https://www.realmadryt.pl/news/132028-mbappe-szuka-miejsca</link>
+        <pubDate>Tue, 27 Aug 2024 11:42:00 GMT</pubDate>
+        <description>Kylian Mbappé rozegrał trzy pierwsze mecze w Realu Madryt na pozycji środkowego napastnika, gdzie nie czuł się zbyt komfortowo.</description>
+    </item>
     
     <item>
         <title>Benzema: Nie lubię mówić o poprzednim sezonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132003-remis-w-drugim-sparingu-pretemporady</link>
         <pubDate>Mon, 26 Aug 2024 19:00:00 GMT</pubDate>
         <description>W drugim meczu kontrolnym okresu przygotowawczego piłkarki Realu Madryt zremisowały w Valdebebas z Madrid CFF 1:1.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Betis i Monaco mocno zabiegają o Ceballosa</title>
-        <link>https://www.realmadryt.pl/news/132018-marca-betis-i-monaco-mocno-zabiegaja-o-ceballosa</link>
-        <pubDate>Mon, 26 Aug 2024 18:06:00 GMT</pubDate>
-        <description>Hiszpański dziennik przekazuje, że w końcówce letniego okresu transferowego Ceballos może opuścić stolicę Hiszpanii. Zdaniem Marki piłkarz ma bardzo poważne oferty od Betisu i Monaco.</description>
     </item>
     
 </channel>
