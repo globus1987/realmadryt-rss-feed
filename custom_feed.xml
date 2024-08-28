@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Aug 2024 05:20:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 05:40:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolej na Lucasa i Mendy'ego</title>
+        <link>https://www.realmadryt.pl/news/132038-kolej-na-lucasa-i-mendyego</link>
+        <pubDate>Wed, 28 Aug 2024 07:30:00 GMT</pubDate>
+        <description>Lucas Vázquez i Ferland Mendy mają wyjść w pierwszym składzie na czwartkowy mecz z Las Palmas. Tym samym swój pierwszy w tym sezonie odpoczynek dostanie Dani Carvajal, a Fran García wróci na ławkę rezerwowych.</description>
+    </item>
     
     <item>
         <title>Gran Canaria wyczekuje Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132031-cristiano-otrzyma-specjalna-nagrode-od-prezesa-uefa</link>
         <pubDate>Tue, 27 Aug 2024 13:19:00 GMT</pubDate>
         <description>Portugalczyk zostanie uhonorowany w czwartek podczas losowania fazy ligowej Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/132030-dzisiejszy-trening</link>
-        <pubDate>Tue, 27 Aug 2024 12:46:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do czwartkowego spotkania z Las Palmas. Razem z drużyną nie trenowało czterech zawodników.</description>
     </item>
     
 </channel>
