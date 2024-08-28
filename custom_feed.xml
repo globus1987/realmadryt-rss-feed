@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Aug 2024 11:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 12:41:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Las Palmas</title>
+        <link>https://www.realmadryt.pl/news/132054-kadra-na-las-palmas</link>
+        <pubDate>Wed, 28 Aug 2024 14:11:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu z Las Palmas bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie ligowe 20 zawodników.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Marc Bernal zerwał więzadło krzyżowe i uszkodził łąkotkę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132044-cristiano-z-900-golem-w-karierze</link>
         <pubDate>Wed, 28 Aug 2024 08:43:00 GMT</pubDate>
         <description>Portugalczyk dalej pisze historię. Jubileuszową bramkę strzelił wczoraj dla Al-Nassr z rzutu wolnego.</description>
-    </item>
-    
-    <item>
-        <title>300 zł za wygraną Realu z Las Palmas!</title>
-        <link>https://www.realmadryt.pl/news/132043-300-zl-za-wygrana-realu-z-las-palmas</link>
-        <pubDate>Wed, 28 Aug 2024 08:42:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
