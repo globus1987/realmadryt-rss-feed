@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Aug 2024 22:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 23:21:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132073-dzisiejsze-okladki</link>
+        <pubDate>Thu, 29 Aug 2024 01:10:00 GMT</pubDate>
+        <description>Wyzwanie przed Mbappé i kontuzja Bernala to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>3. kolejka: Wpadki Atlético i Realu Sociedad</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132054-kadra-na-las-palmas</link>
         <pubDate>Wed, 28 Aug 2024 14:11:00 GMT</pubDate>
         <description>Królewscy podejdą do meczu z Las Palmas bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie ligowe 20 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Marc Bernal zerwał więzadło krzyżowe i uszkodził łąkotkę</title>
-        <link>https://www.realmadryt.pl/news/132056-oficjalnie-marc-bernal-zerwal-wiezadlo-krzyzowe-i-uszkodzil-lakotke</link>
-        <pubDate>Wed, 28 Aug 2024 13:46:00 GMT</pubDate>
-        <description>Lider La Ligi ma kolejne problemy kadrowe, ponieważ we wczorajszym spotkaniu z Rayo poważnej kontuzji nabawił się młody pomocnik Barcelony.</description>
     </item>
     
 </channel>
