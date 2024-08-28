@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Aug 2024 07:39:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 07:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie żyje Juan Izquierdo</title>
+        <link>https://www.realmadryt.pl/news/132049-nie-zyje-juan-izquierdo</link>
+        <pubDate>Wed, 28 Aug 2024 09:51:00 GMT</pubDate>
+        <description>27-letni piłkarz miał atak serca podczas meczu Copa Libertadores i padł na murawę. Wykryto u niego arytmię serca. Walkę o życie przegrał w szpitalu.</description>
+    </item>
     
     <item>
         <title>Joaquin: Jestem w gotowości, aby zacząć negocjacje z Florentino</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132039-3-kolejka-barcelona-z-kompletem-punktow</link>
         <pubDate>Tue, 27 Aug 2024 20:41:00 GMT</pubDate>
         <description>Barcelona wygrała z Rayo w 3. kolejce Primera División i ma na ten moment komplet punktów. Czas spojrzeć na układ tabeli po dzisiejszych spotkaniach.</description>
-    </item>
-    
-    <item>
-        <title>AS: Getafe i Real Sociedad walczą o Álvaro Rodrígueza</title>
-        <link>https://www.realmadryt.pl/news/132037-as-getafe-i-real-sociedad-walcza-o-alvaro-rodrigueza</link>
-        <pubDate>Tue, 27 Aug 2024 19:58:00 GMT</pubDate>
-        <description>Zdaniem hiszpańskiego dziennika napastnik Castilli znajduje się w orbicie zainteresowań Getafe i Realu Sociedad, który w ostatnich godzinach miał przedstawić Królewskim bardzo interesującą ofertę.</description>
     </item>
     
 </channel>
