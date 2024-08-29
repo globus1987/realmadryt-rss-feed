@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Aug 2024 08:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 09:24:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>To się jeszcze musi przegryźć</title>
+        <link>https://www.realmadryt.pl/news/132062-to-sie-jeszcze-musi-przegryzc</link>
+        <pubDate>Thu, 29 Aug 2024 11:00:00 GMT</pubDate>
+        <description>Real Madryt jest jak sałatka jarzynowa.</description>
+    </item>
     
     <item>
         <title>Dzisiaj losowanie fazy ligowej Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132065-oficjalnie-hisense-nowym-sponsorem-realu-madryt</link>
         <pubDate>Wed, 28 Aug 2024 19:18:00 GMT</pubDate>
         <description>Klub podpisał trzyletnią umową z chińskim przedsiębiorstwem elektronicznym, zajmującym się produkcją sprzętu AGD i RTV.</description>
-    </item>
-    
-    <item>
-        <title>Ulotne nadzieje Reiniera</title>
-        <link>https://www.realmadryt.pl/news/132064-ulotne-nadzieje-reiniera</link>
-        <pubDate>Wed, 28 Aug 2024 17:44:00 GMT</pubDate>
-        <description>Reinier cały czas szuka swojego miejsca w europejskim futbolu. Piłkarz w trakcie wakacji postanowił mocno zadbać o swoje ciało, trzymając się ścisłej diety i regularnie pracując ze swoim trenerem personalnym, Felipe Carvalho.</description>
     </item>
     
 </channel>
