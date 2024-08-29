@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Aug 2024 19:19:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 19:39:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Las Palmas – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/132088-las-palmas-real-madryt-live</link>
+        <pubDate>Thu, 29 Aug 2024 21:30:00 GMT</pubDate>
+        <description>Na Estadio Gran Canaria Real Madryt rozgrywa swój czwarty mecz w tym sezonie (trzeci ligowy).</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Álvaro Rodríguez wypożyczony do Getafe</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132079-marca-alvaro-rodriguez-zostanie-wypozyczony-do-getafe</link>
         <pubDate>Thu, 29 Aug 2024 16:04:00 GMT</pubDate>
         <description>Napastnik trafi na przedmieścia Madrytu, a za rok wróci do Realu.</description>
-    </item>
-    
-    <item>
-        <title>Antonio Rüdiger nie otrzymał powołania do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/132078-antonio-ruediger-nie-otrzymal-powolania-do-reprezentacji</link>
-        <pubDate>Thu, 29 Aug 2024 15:47:00 GMT</pubDate>
-        <description>Niemiec zostanie w Madrycie i nie uda się na najbliższe mecze Niemców z Węgrami Holendrami.</description>
     </item>
     
 </channel>
