@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 21:53:03 GMT</lastBuildDate>
     
     <item>
-        <title>3. kolejka: Real znów traci punkty</title>
-        <link>https://www.realmadryt.pl/news/132093-3-kolejka-real-znow-traci-punkty</link>
+        <title>Alberto Moleiro MVP</title>
+        <link>https://www.realmadryt.pl/news/132094-alberto-moleiro-mvp</link>
+        <pubDate>Thu, 29 Aug 2024 23:39:00 GMT</pubDate>
+        <description>Hiszpan otworzył wynik dzisiejszego spotkania i był jedną z najjaśniejszych postaci w swoim zespole.</description>
+    </item>
+    
+    <item>
+        <title>3. kolejka: Real traci cztery punkty do Barcelony</title>
+        <link>https://www.realmadryt.pl/news/132093-3-kolejka-real-traci-cztery-punkty-do-barcelony</link>
         <pubDate>Thu, 29 Aug 2024 23:38:00 GMT</pubDate>
         <description>Zakończyliśmy trzecią kolejkę Primera División, w której Real Madryt ponownie stracił punkty i dystans do Barcelony powiększył się do czterech oczek.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132083-do-trzech-razy-sztuka</link>
         <pubDate>Thu, 29 Aug 2024 18:15:00 GMT</pubDate>
         <description>Kylian Mbappé po dwóch kolejkach nie strzelił jeszcze swojego pierwszego ligowego gola w Hiszpanii. Jego początek w Ligue 1 wyglądał inaczej. W Monaco potrzebował zaledwie 56 minut, by zanotować premierowe trafienie, a w PSG – 59.</description>
-    </item>
-    
-    <item>
-        <title>Cristiano otrzymał specjalną nagrodę od prezesa UEFA</title>
-        <link>https://www.realmadryt.pl/news/132082-cristiano-otrzymal-specjalna-nagrode-od-prezesa-uefa</link>
-        <pubDate>Thu, 29 Aug 2024 18:10:00 GMT</pubDate>
-        <description>Portugalczyk został uhonorowany podczas losowania fazy ligowej Ligi Mistrzów.</description>
     </item>
     
 </channel>
