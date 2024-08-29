@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Aug 2024 09:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 10:23:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 29 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/132071-kartka-z-kalendarza-29-sierpnia</link>
+        <pubDate>Thu, 29 Aug 2024 12:00:00 GMT</pubDate>
+        <description>Pierwszy mecz drugiej ery Galácticos, wygrana z Barceloną w Superpucharze Hiszpanii i dwa transfery. Co działo się 29 sierpnia?</description>
+    </item>
     
     <item>
         <title>To się jeszcze musi przegryźć</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132067-marca-real-rozwaza-transfer-srodkowego-pomocnika</link>
         <pubDate>Wed, 28 Aug 2024 20:52:00 GMT</pubDate>
         <description>Działacze i sztab Królewskich nie są już aż tak bardzo przekonani, że kadra jest kompletna. MARCA podaje, że wobec możliwego odejścia Daniego Ceballosa klub może ruszyć na rynek w poszukiwaniu środkowego pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Hisense nowym sponsorem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/132065-oficjalnie-hisense-nowym-sponsorem-realu-madryt</link>
-        <pubDate>Wed, 28 Aug 2024 19:18:00 GMT</pubDate>
-        <description>Klub podpisał trzyletnią umową z chińskim przedsiębiorstwem elektronicznym, zajmującym się produkcją sprzętu AGD i RTV.</description>
     </item>
     
 </channel>
