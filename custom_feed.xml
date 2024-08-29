@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Aug 2024 22:53:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 23:20:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132098-dzisiejsze-okladki</link>
+        <pubDate>Fri, 30 Aug 2024 01:08:00 GMT</pubDate>
+        <description>Remis Realu, losowanie Ligi Mistrzów i słowa Olmo to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Nie widzę braku charakteru czy nastawienia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132084-las-palmas-real-madryt-znamy-sklady</link>
         <pubDate>Thu, 29 Aug 2024 19:32:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w starciu trzeciej kolejki La Ligi przeciwko Las Palmas. Mecz rozpocznie się o 21:30 na Estadio Gran Canaria.</description>
-    </item>
-    
-    <item>
-        <title>Deschamps: Mbappé zawsze strzelał gole i dalej będzie to robił</title>
-        <link>https://www.realmadryt.pl/news/132085-deschamps-mbappe-zawsze-strzelal-gole-i-dalej-bedzie-to-robil</link>
-        <pubDate>Thu, 29 Aug 2024 19:24:00 GMT</pubDate>
-        <description>Didier Deschamps wziął udział w konferencji prasowej przy okazji ogłoszenia powołań na najbliższe zgrupowanie reprezentacji Francji. Selekcjoner Trójkolorowych mówił m.in. o sytuacji Kyliana Mbappé. Przedstawiamy wypowiedzi trenera.</description>
     </item>
     
 </channel>
