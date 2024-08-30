@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Aug 2024 11:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 12:40:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carvajal powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/132107-carvajal-powolany-do-reprezentacji</link>
+        <pubDate>Fri, 30 Aug 2024 14:15:00 GMT</pubDate>
+        <description>Luis de la Fuente powołał 25 zawodników na najbliższe zgrupowanie.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Las Palmas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132098-dzisiejsze-okladki</link>
         <pubDate>Fri, 30 Aug 2024 01:08:00 GMT</pubDate>
         <description>Remis Realu, losowanie Ligi Mistrzów i słowa Olmo to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Nie widzę braku charakteru czy nastawienia</title>
-        <link>https://www.realmadryt.pl/news/132097-ancelotti-nie-widze-braku-charakteru-czy-nastawienia</link>
-        <pubDate>Fri, 30 Aug 2024 00:15:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w konferencji prasowej po zremisowanym 1:1 meczu z Las Palmas. Przedstawiamy kompletne wypowiedzi szkoleniowca Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
