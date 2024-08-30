@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Aug 2024 07:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 08:27:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carrión: Ten remis to dla mnie mało</title>
+        <link>https://www.realmadryt.pl/news/132101-carrion-ten-remis-to-dla-mnie-malo</link>
+        <pubDate>Fri, 30 Aug 2024 10:09:00 GMT</pubDate>
+        <description>Trener Las Palmas, Luis Carrión, spotkał się z dziennikarzami po zremisowanym meczu z Realem Madryt. Poniżej przedstawiamy zapis wypowiedzi katalońskiego szkoleniowca.</description>
+    </item>
     
     <item>
         <title>Falstart</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132091-oficjalnie-alvaro-rodriguez-wypozyczony-do-getafe</link>
         <pubDate>Thu, 29 Aug 2024 21:10:00 GMT</pubDate>
         <description>Real Madryt poinformował oficjalnie o wypożyczeniu napastnika, który za rok ma wrócić do klubu.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Las Palmas [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/132089-rozgrzewka-przed-las-palmas-video</link>
-        <pubDate>Thu, 29 Aug 2024 20:58:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Estadio Gran Canaria, gdzie za kilkadziesiąt minut zaczną mecz z Las Palmas. Pierwszy gwizdek arbitra wybrzmi o 21:30.</description>
     </item>
     
 </channel>
