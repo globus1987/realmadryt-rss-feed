@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Aug 2024 03:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 04:25:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Las Palmas 1:1 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/132096-las-palmas-1-1-real-madryt-video</link>
+        <pubDate>Fri, 30 Aug 2024 06:00:00 GMT</pubDate>
+        <description>Królewscy w trzecim ligowym spotkaniu zremisowali na wyjeździe z Las Palmas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132086-jude-bellingham-bez-powolania-do-reprezentacji-anglii</link>
         <pubDate>Thu, 29 Aug 2024 19:52:00 GMT</pubDate>
         <description>Z powodu kontuzji Jude Bellingham nie znalazł się w 26-osobowej kadrze Anglików na mecze Ligi Narodów z Irlandią i Finlandią.</description>
-    </item>
-    
-    <item>
-        <title>Las Palmas – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/132084-las-palmas-real-madryt-znamy-sklady</link>
-        <pubDate>Thu, 29 Aug 2024 19:32:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w starciu trzeciej kolejki La Ligi przeciwko Las Palmas. Mecz rozpocznie się o 21:30 na Estadio Gran Canaria.</description>
     </item>
     
 </channel>
