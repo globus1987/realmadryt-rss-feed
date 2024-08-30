@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Aug 2024 22:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 23:21:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132117-dzisiejsze-okladki</link>
+        <pubDate>Sat, 31 Aug 2024 01:17:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kadra Realu na sezon 2024/25 zamknięta</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132105-relevo-powrot-ceballosa-do-betisu-zalezny-od-losow-fekira</link>
         <pubDate>Fri, 30 Aug 2024 11:50:00 GMT</pubDate>
         <description>Jak twierdzi Relevo, rozwiązanie sprawy Ceballosa jest wyłącznie kwestią pieniędzy. Klub nie widzi nic złego w jego chęci odejścia i jest nawet w stanie pomóc mu w znalezieniu pracodawcy. Jego pozostanie mimo wszystko także nikomu by nie wadziło.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius rozwiewa ostatnią wątpliwość</title>
-        <link>https://www.realmadryt.pl/news/132100-vinicius-rozwiewa-ostatnia-watpliwosc</link>
-        <pubDate>Fri, 30 Aug 2024 11:50:00 GMT</pubDate>
-        <description>Brazylijczyk w tej kampanii także będzie etatowym strzelcem jedenastek. W czwartkowy wieczór dobrze wywiązał się z zadania, zdobywając swoją 50. bramkę w La Lidze.</description>
     </item>
     
 </channel>
