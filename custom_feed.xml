@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Aug 2024 10:54:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 11:19:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niespotykana wersja Mbappé</title>
+        <link>https://www.realmadryt.pl/news/132102-niespotykana-wersja-mbappe</link>
+        <pubDate>Fri, 30 Aug 2024 13:02:00 GMT</pubDate>
+        <description>Po trzech pierwszych kolejkach ligowych Kylian Mbappé wciąż pozostaje bez ani jednej bramki. Po raz ostatni taka sytuacja miała miejsce, gdy w wieku 16 lat rozgrywał swój debiutancki sezon w pierwszej drużynie Monaco. Rok temu po trzech pierwszych kolejkach Ligue 1 miał na koncie pięć bramek.</description>
+    </item>
     
     <item>
         <title>Relevo: Powrót Ceballosa do Betisu zależny od losów Fekira</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132094-alberto-moleiro-mvp</link>
         <pubDate>Thu, 29 Aug 2024 23:39:00 GMT</pubDate>
         <description>Hiszpan otworzył wynik dzisiejszego spotkania i był jedną z najjaśniejszych postaci w swoim zespole.</description>
-    </item>
-    
-    <item>
-        <title>3. kolejka: Real traci cztery punkty do Barcelony</title>
-        <link>https://www.realmadryt.pl/news/132093-3-kolejka-real-traci-cztery-punkty-do-barcelony</link>
-        <pubDate>Thu, 29 Aug 2024 23:38:00 GMT</pubDate>
-        <description>Zakończyliśmy trzecią kolejkę Primera División, w której Real Madryt ponownie stracił punkty i dystans do Barcelony powiększył się do czterech oczek.</description>
     </item>
     
 </channel>
