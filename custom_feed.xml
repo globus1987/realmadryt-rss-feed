@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Aug 2024 17:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 17:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/132111-dzisiejszy-trening</link>
+        <pubDate>Fri, 30 Aug 2024 19:48:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do niedzielnego spotkania z Betisem. Razem z drużyną nie trenowało czterech zawodników.</description>
+    </item>
     
     <item>
         <title>300 zł za wygraną Realu z Betisem!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132101-carrion-ten-remis-to-dla-mnie-malo</link>
         <pubDate>Fri, 30 Aug 2024 10:09:00 GMT</pubDate>
         <description>Trener Las Palmas, Luis Carrión, spotkał się z dziennikarzami po zremisowanym meczu z Realem Madryt. Poniżej przedstawiamy zapis wypowiedzi katalońskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Falstart</title>
-        <link>https://www.realmadryt.pl/news/132099-falstart</link>
-        <pubDate>Fri, 30 Aug 2024 09:00:00 GMT</pubDate>
-        <description>Real Madryt nie wygrał dwóch z pierwszych trzech meczów nowego sezonu Primera División. W czwartkowy wieczór Królewscy znów zawiedli, remisując 1:1 na wyjeździe z Las Palmas. Wnioski po wczorajszym spotkaniu w swoim felietonie przedstawia nasz redaktor, Santi01.</description>
     </item>
     
 </channel>
