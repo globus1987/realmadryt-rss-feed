@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Aug 2024 10:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 10:39:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Betisem</title>
+        <link>https://www.realmadryt.pl/news/132122-ostatni-trening-przed-betisem</link>
+        <pubDate>Sat, 31 Aug 2024 12:30:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do niedzielnego spotkania z Betisem. Razem z drużyną nie trenowało czterech zawodników.</description>
+    </item>
     
     <item>
         <title>Kwadrans ostatniego treningu przed Betisem [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132110-300-zl-za-wygrana-realu-z-betisem</link>
         <pubDate>Fri, 30 Aug 2024 17:11:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Reinier wypożyczony do Granady</title>
-        <link>https://www.realmadryt.pl/news/132109-oficjalnie-reinier-wypozyczony-do-granady</link>
-        <pubDate>Fri, 30 Aug 2024 16:45:00 GMT</pubDate>
-        <description>Real Madryt potwierdził oficjalnie wczorajsze doniesienia mediów.</description>
     </item>
     
 </channel>
