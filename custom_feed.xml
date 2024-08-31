@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Aug 2024 11:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 11:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przezroczysty Tchouaméni</title>
+        <link>https://www.realmadryt.pl/news/132127-przezroczysty-tchouameni</link>
+        <pubDate>Sat, 31 Aug 2024 13:50:00 GMT</pubDate>
+        <description>Rola Auréliena Tchouaméniego po odejściu Toniego Kroosa uległa pewnym zmianom. Jak na razie jednak Francuz nie daje drużynie tyle, ile się po nim spodziewano.</description>
+    </item>
     
     <item>
         <title>Poznaliśmy terminarz fazy ligowej Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132114-piaty-najgorszy-start-ligowy-w-tym-stuleciu</link>
         <pubDate>Fri, 30 Aug 2024 23:26:00 GMT</pubDate>
         <description>Słaby początek sezonu w wykonaniu Królewskich rzuca się w oczy nie tylko kibicom, ale też statystykom, którzy przeanalizowali podobne przypadki z ostatnich lat.</description>
-    </item>
-    
-    <item>
-        <title>Dani Ceballos zostaje w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/132112-dani-ceballos-zostaje-w-realu-madryt</link>
-        <pubDate>Fri, 30 Aug 2024 21:14:00 GMT</pubDate>
-        <description>Kolejne okienko transferowe przyniosło kolejne nieudolne starania Betisu o powrót pomocnika.</description>
     </item>
     
 </channel>
