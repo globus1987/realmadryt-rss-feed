@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Aug 2024 13:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 14:17:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>FC Barcelona vs Real Valladolid: Lider chce powiększyć przewagę</title>
+        <link>https://www.realmadryt.pl/news/132131-fc-barcelona-vs-real-valladolid-lider-chce-powiekszyc-przewage</link>
+        <pubDate>Sat, 31 Aug 2024 16:00:00 GMT</pubDate>
+        <description>O 17:00 rozpocznie się czwarty mecz Barcelony w tym sezonie. Jej rywalem będzie Real Valladolid.</description>
+    </item>
     
     <item>
         <title>Kadra Betisu na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132118-real-madryt-wciaz-niepokonany</link>
         <pubDate>Sat, 31 Aug 2024 08:52:00 GMT</pubDate>
         <description>Real Madryt notuje obecnie passę 30 meczów z rzędu bez porażki. Mimo problemów na starcie tego sezonu Królewscy pozostają niepokonani od 18 stycznia.</description>
-    </item>
-    
-    <item>
-        <title>300 zł za wygraną Realu lub Betisu!</title>
-        <link>https://www.realmadryt.pl/news/132115-300-zl-za-wygrana-realu-lub-betisu</link>
-        <pubDate>Sat, 31 Aug 2024 07:30:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
