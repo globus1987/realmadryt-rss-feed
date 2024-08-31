@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Aug 2024 10:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 10:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Kiedy problem jest jasny, łatwo jest go rozwiązać</title>
+        <link>https://www.realmadryt.pl/news/132121-ancelotti-kiedy-problem-jest-jasny-latwo-jest-go-rozwiazac</link>
+        <pubDate>Sat, 31 Aug 2024 12:41:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Betisem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed Betisem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132111-dzisiejszy-trening</link>
         <pubDate>Fri, 30 Aug 2024 19:48:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do niedzielnego spotkania z Betisem. Razem z drużyną nie trenowało czterech zawodników.</description>
-    </item>
-    
-    <item>
-        <title>300 zł za wygraną Realu z Betisem!</title>
-        <link>https://www.realmadryt.pl/news/132110-300-zl-za-wygrana-realu-z-betisem</link>
-        <pubDate>Fri, 30 Aug 2024 17:11:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
