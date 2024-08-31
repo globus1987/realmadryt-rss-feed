@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Aug 2024 22:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 23:19:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132141-dzisiejsze-okladki</link>
+        <pubDate>Sun, 01 Sep 2024 01:17:00 GMT</pubDate>
+        <description>Wygrana Barcelony, medal Teresy Perales i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Castilla dalej bez goli i bez punktów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132126-poznalismy-terminarz-fazy-ligowej-ligi-mistrzow</link>
         <pubDate>Sat, 31 Aug 2024 13:35:00 GMT</pubDate>
         <description>Królewscy rozpoczną zmagania w Lidze Mistrzów od domowego spotkania ze Stuttgartem. Wyjazdowy spotkanie z Liverpoolem dopiero pod koniec listopada.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Kiedy problem jest jasny, łatwo jest go rozwiązać</title>
-        <link>https://www.realmadryt.pl/news/132121-ancelotti-kiedy-problem-jest-jasny-latwo-jest-go-rozwiazac</link>
-        <pubDate>Sat, 31 Aug 2024 12:41:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Betisem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
