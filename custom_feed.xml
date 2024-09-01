@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Sep 2024 21:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 21:38:35 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt vs Betis [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/132156-real-madryt-vs-betis-live</link>
+        <title>Kylian Mbappé MVP meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/132158-kylian-mbappe-mvp-meczu-z-betisem</link>
+        <pubDate>Sun, 01 Sep 2024 23:28:00 GMT</pubDate>
+        <description>Francuz dwukrotnie trafił do siatki i przesądził o zwycięstwie Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/132157-ocen-pilkarzy-po-meczu-z-betisem</link>
+        <pubDate>Sun, 01 Sep 2024 23:25:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Bez zachwytu, ale z trzema punktami</title>
+        <link>https://www.realmadryt.pl/news/132156-bez-zachwytu-ale-z-trzema-punktami</link>
         <pubDate>Sun, 01 Sep 2024 21:30:00 GMT</pubDate>
-        <description>O 21:30 rozpoczęło się czwarte spotkanie Realu Madryt w La Lidze. Rywalem Królewskich jest Betis.</description>
+        <description>W meczu 4. kolejki La Ligi Real Madryt wygrał z Betisem 2:0 po dwóch golach Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132148-terminarz-5-kolejki-la-ligi</link>
         <pubDate>Sun, 01 Sep 2024 12:26:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 5. kolejki, w której Real Madryt zmierzy się na wyjeździe z Realem Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Nie mamy problemu w ofensywie</title>
-        <link>https://www.realmadryt.pl/news/132146-ancelotti-nie-mamy-problemu-w-ofensywie</link>
-        <pubDate>Sun, 01 Sep 2024 11:40:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Realem Betis. Poniżej przedstawiamy pełny zapis tego spotkania trenera z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Sergio Ramos spotkał się z Tonim Kroosem</title>
-        <link>https://www.realmadryt.pl/news/132123-sergio-ramos-spotkal-sie-z-tonim-kroosem</link>
-        <pubDate>Sun, 01 Sep 2024 11:39:00 GMT</pubDate>
-        <description>Sergio Ramos oraz Toni Kroos na swoich kontach na Instagramie udostępnili zdjęcia ze spotkania, na którym wymienili wiele ciepłych słów oraz podarowali sobie nawzajem koszulki i nie tylko.</description>
     </item>
     
 </channel>
