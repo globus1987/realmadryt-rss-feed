@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Sep 2024 03:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 03:43:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czas na Ardę</title>
+        <link>https://www.realmadryt.pl/news/132138-czas-na-arde</link>
+        <pubDate>Sun, 01 Sep 2024 05:30:00 GMT</pubDate>
+        <description>Być może wystarczy mu zaufać? Rozważaniami przed spotkaniem z Betisem w swoim tekście dzieli się nasz redaktor, Maciej Leszczyński.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132127-przezroczysty-tchouameni</link>
         <pubDate>Sat, 31 Aug 2024 13:50:00 GMT</pubDate>
         <description>Rola Auréliena Tchouaméniego po odejściu Toniego Kroosa uległa pewnym zmianom. Jak na razie jednak Francuz nie daje drużynie tyle, ile się po nim spodziewano.</description>
-    </item>
-    
-    <item>
-        <title>Poznaliśmy terminarz fazy ligowej Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/132126-poznalismy-terminarz-fazy-ligowej-ligi-mistrzow</link>
-        <pubDate>Sat, 31 Aug 2024 13:35:00 GMT</pubDate>
-        <description>Królewscy rozpoczną zmagania w Lidze Mistrzów od domowego spotkania ze Stuttgartem. Wyjazdowy spotkanie z Liverpoolem dopiero pod koniec listopada.</description>
     </item>
     
 </channel>
