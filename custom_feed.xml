@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Sep 2024 09:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 09:53:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Nie mamy problemu w ofensywie</title>
+        <link>https://www.realmadryt.pl/news/132146-ancelotti-nie-mamy-problemu-w-ofensywie</link>
+        <pubDate>Sun, 01 Sep 2024 11:40:00 GMT</pubDate>
+        <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Realem Betis. Poniżej przedstawiamy pełny zapis tego spotkania trenera z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Sergio Ramos spotkał się z Tonim Kroosem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132141-dzisiejsze-okladki</link>
         <pubDate>Sun, 01 Sep 2024 01:17:00 GMT</pubDate>
         <description>Wygrana Barcelony, medal Teresy Perales i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Castilla dalej bez goli i bez punktów</title>
-        <link>https://www.realmadryt.pl/news/132135-castilla-dalej-bez-goli-i-bez-punktow</link>
-        <pubDate>Sat, 31 Aug 2024 22:34:00 GMT</pubDate>
-        <description>Po dwóch kolejkach Primera Federación Castilla dalej nie ma na koncie ani jednego punktu. Debiut na stadionie Alfredo Di Stéfano okazał się nieudany i z Valdebebas ze zwycięstwem wyjechała Ibiza.</description>
     </item>
     
 </channel>
