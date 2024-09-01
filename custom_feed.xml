@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Sep 2024 06:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 07:18:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 września</title>
+        <link>https://www.realmadryt.pl/news/132140-kartka-z-kalendarza-1-wrzesnia</link>
+        <pubDate>Sun, 01 Sep 2024 09:09:00 GMT</pubDate>
+        <description>Ważne transfery do klubu i z klubu, seria debiutów, urodziny szachowego arcymistrza i skrzydłowego wypożyczonego z Arsenalu. Co działo się 1 września?</description>
+    </item>
     
     <item>
         <title>Bezpieczny Weekend w Fortunie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132129-alberola-rojas-na-betis</link>
         <pubDate>Sat, 31 Aug 2024 14:13:00 GMT</pubDate>
         <description>Jutrzejszy mecz Realu Madryt z Betisem poprowadzi arbiter pochodzący z Toledo. Dotychczas sędziował dziesięć spotkań z udziałem Królewskich. Arbitrem VAR będzie Alejandro Muñiz Ruiz.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Betis</title>
-        <link>https://www.realmadryt.pl/news/132124-kadra-na-betis</link>
-        <pubDate>Sat, 31 Aug 2024 14:07:00 GMT</pubDate>
-        <description>Królewscy podejdą do meczu z Betisem bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie ligowe 20 zawodników.</description>
     </item>
     
 </channel>
