@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Sep 2024 23:19:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 23:39:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132163-dzisiejsze-okladki</link>
+        <pubDate>Mon, 02 Sep 2024 01:23:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Dziś zagraliśmy lepiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132147-pogromca-rywali-i-owocow-morza</link>
         <pubDate>Sun, 01 Sep 2024 14:03:00 GMT</pubDate>
         <description>Lokal La Tropical znajdował się pod adresem calle de Alcalá 23, tuż przy stacji metra Sevilla, która od 1923 roku łączyła Puerta del Sol z Las Ventas. Bar będący następcą Monopolu stał się ważnym ośrodkiem ówczesnego życia towarzyskiego mieszkańców stolicy. Przybytek reklamował się najzimniejszym piwem z idealną pianą i najświeższymi owocami morza. Jego progi przekraczali aktorzy, pisarze, dziennikarze, toreadorzy, czy… piłkarze.</description>
-    </item>
-    
-    <item>
-        <title>W poszukiwaniu porozumienia</title>
-        <link>https://www.realmadryt.pl/news/132150-w-poszukiwaniu-porozumienia</link>
-        <pubDate>Sun, 01 Sep 2024 13:59:00 GMT</pubDate>
-        <description>Ten, kto oczekiwał, że współpraca Viniciusa z Mbappé będzie funkcjonować od pierwszego dnia, z czasem zrozumiał, iż to wcale nie takie proste, jak mogłoby się wydawać. Obaj niewątpliwie należą do światowej czołówki ofensywnych zawodników, ale w obecnych warunkach nie zdążyli jeszcze znaleźć nici porozumienia na boisku.</description>
     </item>
     
 </channel>
