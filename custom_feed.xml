@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Sep 2024 05:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 06:30:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bezpieczny Weekend w Fortunie</title>
+        <link>https://www.realmadryt.pl/news/132139-bezpieczny-weekend-w-fortunie</link>
+        <pubDate>Sun, 01 Sep 2024 08:18:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Betis: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132124-kadra-na-betis</link>
         <pubDate>Sat, 31 Aug 2024 14:07:00 GMT</pubDate>
         <description>Królewscy podejdą do meczu z Betisem bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie ligowe 20 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 4. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/132128-telewizyjny-terminarz-4-kolejki-la-ligi</link>
-        <pubDate>Sat, 31 Aug 2024 13:57:00 GMT</pubDate>
-        <description>Przed nami czwarta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Betisem.</description>
     </item>
     
 </channel>
