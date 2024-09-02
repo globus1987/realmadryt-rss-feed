@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Sep 2024 07:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 08:27:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pellegrini: Vinícius zanurkował przy rzucie karnym</title>
+        <link>https://www.realmadryt.pl/news/132166-pellegrini-vinicius-zanurkowal-przy-rzucie-karnym</link>
+        <pubDate>Mon, 02 Sep 2024 10:12:00 GMT</pubDate>
+        <description>Trener Realu Betis, Manuel Pellegrini, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego najważniejszych wypowiedzi.</description>
+    </item>
+    
+    <item>
+        <title>Fran García: Gdy mecz się otworzył, potrafiliśmy to wykorzystać</title>
+        <link>https://www.realmadryt.pl/news/132167-fran-garcia-gdy-mecz-sie-otworzyl-potrafilismy-to-wykorzystac</link>
+        <pubDate>Mon, 02 Sep 2024 10:12:00 GMT</pubDate>
+        <description>Fran García podzielił się swoimi odczuciami po zwycięskim meczu z Betisem. Poniżej przedstawiamy jego wypowiedzi dla klubowych mediów.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 2 września</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132157-ocen-pilkarzy-po-meczu-z-betisem</link>
         <pubDate>Sun, 01 Sep 2024 23:25:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Bez zachwytu, ale z trzema punktami</title>
-        <link>https://www.realmadryt.pl/news/132156-bez-zachwytu-ale-z-trzema-punktami</link>
-        <pubDate>Sun, 01 Sep 2024 21:30:00 GMT</pubDate>
-        <description>W meczu 4. kolejki La Ligi Real Madryt wygrał z Betisem 2:0 po dwóch golach Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Betis: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/132155-real-madryt-betis-znamy-sklady</link>
-        <pubDate>Sun, 01 Sep 2024 19:37:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w starciu o ligowe punkty. Mecz rozpocznie się o godzinie 21:30 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
