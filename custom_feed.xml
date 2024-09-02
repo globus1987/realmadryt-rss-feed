@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Sep 2024 10:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 10:42:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Ceballos z kontuzją kostki</title>
+        <link>https://www.realmadryt.pl/news/132173-oficjalnie-ceballos-z-kontuzja-kostki</link>
+        <pubDate>Mon, 02 Sep 2024 12:30:00 GMT</pubDate>
+        <description>Dani Ceballos doznał kontuzji kostki i wypada z gry na dłuższy czas. Będzie w stanie wrócić dopiero w drugiej połowie października lub na początku listopada.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Betisem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132162-ancelotti-dzis-zagralismy-lepiej</link>
         <pubDate>Mon, 02 Sep 2024 01:01:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej po wygranym 2:0 meczu z Betisem. Przedstawiamy kompletne wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Mam nadzieję strzelać więcej i dostawać więcej owacji</title>
-        <link>https://www.realmadryt.pl/news/132161-mbappe-mam-nadzieje-strzelac-wiecej-i-dostawac-wiecej-owacji</link>
-        <pubDate>Sun, 01 Sep 2024 23:47:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Betisem. Przedstawiamy pełne wypowiedzi Francuza po ustrzeleniu pierwszego dubletu w barwach Realu Madryt.</description>
     </item>
     
 </channel>
