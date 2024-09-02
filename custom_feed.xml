@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Sep 2024 22:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 23:20:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132193-dzisiejsze-okladki</link>
+        <pubDate>Tue, 03 Sep 2024 00:58:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie oraz mecz reprezentacji Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Podcast 6x07: Większy problem z piłką czy bez niej?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132181-oficjalnie-mendy-opuszcza-zgrupowanie-reprezentacji-z-kontuzja</link>
         <pubDate>Mon, 02 Sep 2024 14:51:00 GMT</pubDate>
         <description>Francuska Federacja Piłkarska oficjalnie poinformowała, że piłkarz Realu Madryt odczuwa ból w prawej kości piszczelowej i wraca do stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kronika kryzysu Mbappé</title>
-        <link>https://www.realmadryt.pl/news/132177-kronika-kryzysu-mbappe</link>
-        <pubDate>Mon, 02 Sep 2024 14:45:00 GMT</pubDate>
-        <description>Francuz nie odczuł presji, mimo że potrzebował 25 uderzeń, żeby zdobyć swoją pierwszą bramkę w rozgrywkach ligowych. Jego świadome słowa w rozmowach z mediami olśniły wszystkich.</description>
     </item>
     
 </channel>
