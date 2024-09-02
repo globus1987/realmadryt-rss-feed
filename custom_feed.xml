@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Sep 2024 17:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 17:38:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Uraz Tchouaméniego nie jest poważny</title>
+        <link>https://www.realmadryt.pl/news/132186-relevo-uraz-tchouameniego-nie-jest-powazny</link>
+        <pubDate>Mon, 02 Sep 2024 19:30:00 GMT</pubDate>
+        <description>Według hiszpańskiego portalu kontuzja Tchouaméniego nie jest poważna i piłkarz będzie pracował, by wrócić na najbliższy mecz z Realem Sociedad.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Tchouaméni opuszcza zgrupowanie reprezentacji z kontuzją!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132175-brahim-fede-mozna-tylko-oklaskiwac</link>
         <pubDate>Mon, 02 Sep 2024 13:33:00 GMT</pubDate>
         <description>Brahim Díaz rozmawiał z klubową telewizją po wczorajszej wygranej z Betisem.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/132174-dzisiejszy-trening</link>
-        <pubDate>Mon, 02 Sep 2024 13:25:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli pracę podczas przerwy reprezentacyjnej. Razem z drużyną nie trenowało czterech zawodników.</description>
     </item>
     
 </channel>
