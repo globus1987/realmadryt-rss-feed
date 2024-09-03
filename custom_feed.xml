@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Sep 2024 22:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 22:55:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132215-dzisiejsze-okladki</link>
+        <pubDate>Wed, 04 Sep 2024 00:54:00 GMT</pubDate>
+        <description>Transfery Realu i słowa Laporty to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewskie mają nowe kapitanki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132199-sedzia-do-trenera-realu-valladolid-podczas-meczu-barcelony-chce-zebyscie-nie-kopali</link>
         <pubDate>Tue, 03 Sep 2024 13:57:00 GMT</pubDate>
         <description>Kamery telewizyjne wychwyciły rozmowę, która obiegła hiszpańskie media i wywołała kolejne zamieszanie.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni i Mendy trenowali na siłowni w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/132198-tchouameni-i-mendy-trenowali-na-silowni-w-valdebebas</link>
-        <pubDate>Tue, 03 Sep 2024 13:04:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej. Razem z drużyną nie trenowało sześciu zawodników.</description>
     </item>
     
 </channel>
