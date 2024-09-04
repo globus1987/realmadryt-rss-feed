@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Sep 2024 05:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 05:40:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/132211-pichichi-zamora-asistencias</link>
+        <pubDate>Wed, 04 Sep 2024 07:25:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 4. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Mbappé nie spodziewał się tak dobrego przyjęcia w Madrycie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132202-joan-martinez-przeszedl-operacje-kolana</link>
         <pubDate>Tue, 03 Sep 2024 15:07:00 GMT</pubDate>
         <description>Hiszpańskie media i sam zawodnik poinformowały, że obrońca pomyślnie przeszedł operację rekonstrukcji zerwanego więzadła w kolanie.</description>
-    </item>
-    
-    <item>
-        <title>Są równi i równiejsi, jedni dostają kartki, a inni nie</title>
-        <link>https://www.realmadryt.pl/news/132201-sa-rowni-i-rowniejsi-jedni-dostaja-kartki-a-inni-nie</link>
-        <pubDate>Tue, 03 Sep 2024 14:45:00 GMT</pubDate>
-        <description>Real Madryt należy oczywiście do tych „równych”. Bo trzeba się naprawdę postarać, żeby otrzymać napomnienie, faulując zawodnika mistrza Hiszpanii. Piłkarze Królewskich byli nieprzepisowo zatrzymywani 59 razy, a ich rywale zobaczyli tylko dwie żółte kartki. Dla porównania zawodnicy Barcelony byli faulowani 53 razy, a ich przeciwnicy obejrzeli 13 żółtych kartek.</description>
     </item>
     
 </channel>
