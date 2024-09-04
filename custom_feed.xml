@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Sep 2024 11:17:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 11:38:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/132225-dzisiejszy-trening</link>
+        <pubDate>Wed, 04 Sep 2024 13:26:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej. Razem z drużyną nie trenowało sześciu zawodników.</description>
+    </item>
     
     <item>
         <title>Ceballos pokazał kontuzjowaną stopę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132211-pichichi-zamora-asistencias</link>
         <pubDate>Wed, 04 Sep 2024 07:25:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 4. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé nie spodziewał się tak dobrego przyjęcia w Madrycie</title>
-        <link>https://www.realmadryt.pl/news/132214-mbappe-nie-spodziewal-sie-tak-dobrego-przyjecia-w-madrycie</link>
-        <pubDate>Wed, 04 Sep 2024 05:30:00 GMT</pubDate>
-        <description>Lepiej późno niż wcale. Tak myślą kibice Realu Madryt, którzy przyjęli Francuza z otwartymi ramionami po siedmiu latach oczekiwania na jego przybycie, co zaskoczyło samego piłkarza.</description>
     </item>
     
 </channel>
