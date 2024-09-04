@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Sep 2024 18:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 18:43:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kto jest nominowany do Złotej Piłki? [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/132221-kto-jest-nominowany-do-zlotej-pilki-na-zywo</link>
+        <pubDate>Wed, 04 Sep 2024 20:28:00 GMT</pubDate>
+        <description>Dzisiaj poznaliśmy 30 nominowanych do Złotej Piłki, której plebiscyt jest organizowany przez France Football oraz L'Équipe, a jego współorganizatorem od listopada 2023 roku jest także UEFA.</description>
+    </item>
     
     <item>
         <title>Real Madryt nominowany do nagrody Klubu Roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132224-ceballos-pokazal-kontuzjowana-stope</link>
         <pubDate>Wed, 04 Sep 2024 12:50:00 GMT</pubDate>
         <description>Boli od samego patrzenia.</description>
-    </item>
-    
-    <item>
-        <title>Joselu: Przyznałbym Złotą Piłkę Carvajalowi</title>
-        <link>https://www.realmadryt.pl/news/132223-joselu-przyznalbym-zlota-pilke-carvajalowi</link>
-        <pubDate>Wed, 04 Sep 2024 12:25:00 GMT</pubDate>
-        <description>Joselu udzielił wywiadu dziennikowi AS. Napastnik był pytany przede wszystkim o sytuację w Realu Madryt i jego pobyt na zgrupowaniu reprezentacji Hiszpanii.</description>
     </item>
     
 </channel>
