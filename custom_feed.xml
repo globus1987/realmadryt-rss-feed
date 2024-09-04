@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Sep 2024 08:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 08:43:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola Polski ze Szkocją!</title>
+        <link>https://www.realmadryt.pl/news/132220-400-zl-za-gola-polski-ze-szkocja</link>
+        <pubDate>Wed, 04 Sep 2024 10:28:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 4 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132208-lucas-mbappe-perfekcyjnie-sie-wpasowuje-do-realu-madryt</link>
         <pubDate>Tue, 03 Sep 2024 20:25:00 GMT</pubDate>
         <description>Lucas Vázquez podzielił się swoimi odczuciami w związku ze startem nowego sezonu i przyjściem Kyliana Mbappé do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>L’Équipe: Mbappé spotka się z PSG w siedzibie Ligue 1</title>
-        <link>https://www.realmadryt.pl/news/132207-l-equipe-mbappe-spotka-sie-z-psg-w-siedzibie-ligue-1</link>
-        <pubDate>Tue, 03 Sep 2024 20:01:00 GMT</pubDate>
-        <description>Piłkarz cały czas domaga się zaległych 55 milionów euro od swojego byłego klubu, który do tej pory mu nie zapłacił.</description>
     </item>
     
 </channel>
