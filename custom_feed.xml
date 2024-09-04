@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Sep 2024 16:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 16:58:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carlo Ancelotti nominowany do nagrody Trenera Roku</title>
+        <link>https://www.realmadryt.pl/news/132233-carlo-ancelotti-nominowany-do-nagrody-trenera-roku</link>
+        <pubDate>Wed, 04 Sep 2024 18:49:00 GMT</pubDate>
+        <description>Trener Realu Madryt został nominowany do nagrody France Football dla najlepszego szkoleniowca ostatniego sezonu.</description>
+    </item>
     
     <item>
         <title>Andrij Łunin nominowany do Trofeum Jaszyna</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132222-carvajal-brakowalo-nam-troche-ciaglosci-w-grze-ale-do-tego-dojdziemy</link>
         <pubDate>Wed, 04 Sep 2024 11:48:00 GMT</pubDate>
         <description>Dani Carvajal udzielił wywiadu dla The Athletic. Obrońca był pytany między innymi o reprezentację Hiszpanii i sytuację w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>„Klątwa” urwania punktów Realowi</title>
-        <link>https://www.realmadryt.pl/news/132209-klatwa-urwania-punktow-realowi</link>
-        <pubDate>Wed, 04 Sep 2024 11:01:00 GMT</pubDate>
-        <description>80% drużyn, które w dwóch ostatnich sezonach odbierały punkty drużynie Ancelottiego, w następnej kolejce poniosło porażkę.</description>
     </item>
     
 </channel>
