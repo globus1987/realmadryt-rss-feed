@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Sep 2024 10:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 10:41:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joselu: Przyznałbym Złotą Piłkę Carvajalowi</title>
+        <link>https://www.realmadryt.pl/news/132223-joselu-przyznalbym-zlota-pilke-carvajalowi</link>
+        <pubDate>Wed, 04 Sep 2024 12:25:00 GMT</pubDate>
+        <description>Joselu udzielił wywiadu dziennikowi AS. Napastnik był pytany przede wszystkim o sytuację w Realu Madryt i jego pobyt na zgrupowaniu reprezentacji Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Carvajal: Brakowało nam trochę ciągłości w grze, ale do tego dojdziemy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132216-vinicius-jesli-sytuacja-z-rasizmem-w-hiszpanii-sie-nie-poprawi-trzeba-bedzie-zmienic-miejsce-mundialu</link>
         <pubDate>Wed, 04 Sep 2024 01:00:00 GMT</pubDate>
         <description>CNN opublikowało kolejną część wywiadu przeprowadzonego z Viníciusem, który mówił tym razem głównie o problemach związanych z rasizmem w Hiszpanii. Przedstawiamy najważniejsze wypowiedzi Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/132215-dzisiejsze-okladki</link>
-        <pubDate>Wed, 04 Sep 2024 00:54:00 GMT</pubDate>
-        <description>Transfery Realu i słowa Laporty to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
