@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 22:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 22:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132264-dzisiejsze-okladki</link>
+        <pubDate>Fri, 06 Sep 2024 00:40:00 GMT</pubDate>
+        <description>Remis reprezentacji Hiszpanii i sytuacja w Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>900 goli Cristiano Ronaldo w profesjonalnej karierze!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132252-gueler-znow-w-slepej-uliczce</link>
         <pubDate>Thu, 05 Sep 2024 14:08:00 GMT</pubDate>
         <description>Arda Güler wyszedł w pierwszym składzie na Real Valladolid, a następnie wszedł w drugiej połowie meczu z Las Palmas i nie otrzymał ani jednej minuty w ostatnim meczu z Betisem. Mimo licznych absencji w pomocy 19-letni Turek nie może liczyć na regularność.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na fazę ligową Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/132251-kadra-realu-madryt-na-faze-ligowa-ligi-mistrzow</link>
-        <pubDate>Thu, 05 Sep 2024 13:10:00 GMT</pubDate>
-        <description>UEFA za pośrednictwem swojej oficjalnej strony internetowej potwierdziła kadry zespołów na fazę ligową Ligi Mistrzów. Królewscy zgłosili do kadry pierwszego zespołu ośmiu wychowanków, którzy znaleźli się na liście B.</description>
     </item>
     
 </channel>
