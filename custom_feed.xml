@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 07:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 07:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 5 września</title>
+        <link>https://www.realmadryt.pl/news/132238-kartka-z-kalendarza-5-wrzesnia</link>
+        <pubDate>Thu, 05 Sep 2024 09:30:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników i inauguracje ligowe sprzed lat, w tym debiuty Santillany, Garcíi Remóna czy Ivána Zamorano oraz skandal w południowoamerykańskim klasyku. Co działo się 5 września?</description>
+    </item>
     
     <item>
         <title>Rodrygo wymownie skomentował pominięcie go wśród nominowanych do Złotej Piłki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132233-carlo-ancelotti-nominowany-do-nagrody-trenera-roku</link>
         <pubDate>Wed, 04 Sep 2024 18:49:00 GMT</pubDate>
         <description>Trener Realu Madryt został nominowany do nagrody France Football dla najlepszego szkoleniowca ostatniego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Andrij Łunin nominowany do Trofeum Jaszyna</title>
-        <link>https://www.realmadryt.pl/news/132232-andrij-lunin-nominowany-do-trofeum-jaszyna</link>
-        <pubDate>Wed, 04 Sep 2024 18:39:00 GMT</pubDate>
-        <description>Jeden piłkarz Realu Madryt został nominowany do nagrody France Football dla najlepszego bramkarza ostatniego sezonu.</description>
     </item>
     
 </channel>
