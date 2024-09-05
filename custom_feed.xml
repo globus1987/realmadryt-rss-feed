@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 07:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 08:27:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>600 zł za bramkę Polaków ze Szkotami!</title>
+        <link>https://www.realmadryt.pl/news/132246-600-zl-za-bramke-polakow-ze-szkotami</link>
+        <pubDate>Thu, 05 Sep 2024 09:56:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 5 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132235-real-madryt-nominowany-do-nagrody-klubu-roku</link>
         <pubDate>Wed, 04 Sep 2024 18:58:00 GMT</pubDate>
         <description>Realu Madryt jako klub został nominowany do nagrody France Football dla najlepszego klubu ostatniego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Carlo Ancelotti nominowany do nagrody Trenera Roku</title>
-        <link>https://www.realmadryt.pl/news/132233-carlo-ancelotti-nominowany-do-nagrody-trenera-roku</link>
-        <pubDate>Wed, 04 Sep 2024 18:49:00 GMT</pubDate>
-        <description>Trener Realu Madryt został nominowany do nagrody France Football dla najlepszego szkoleniowca ostatniego sezonu.</description>
     </item>
     
 </channel>
