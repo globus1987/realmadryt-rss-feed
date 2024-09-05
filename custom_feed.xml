@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 09:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 10:23:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Utopijne podium</title>
+        <link>https://www.realmadryt.pl/news/132249-utopijne-podium</link>
+        <pubDate>Thu, 05 Sep 2024 12:22:00 GMT</pubDate>
+        <description>Real Madryt chciałby powtórzyć wyczyn Barcelony z 2010 roku i zająć całe podium Złotej Piłki za sezon 2023/24. Aby tak się stało, to poza pewniakami w postaci Viníciusa i Jude'a Bellinghama ktoś z dwójki Dani Carvajal – Toni Kroos musiałby wyprzedzić Rodriego.</description>
+    </item>
+    
+    <item>
+        <title>Najbliższy trening dopiero we wtorek</title>
+        <link>https://www.realmadryt.pl/news/132250-najblizszy-trening-dopiero-we-wtorek</link>
+        <pubDate>Thu, 05 Sep 2024 12:22:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero 10 września i wówczas rozpoczną przygotowania do ligowego meczu z Realem Sociedad.</description>
+    </item>
     
     <item>
         <title>Hezonja, Tavares i Musa upamiętnią Dražena Petrovicia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132244-dzisiejsze-okladki</link>
         <pubDate>Thu, 05 Sep 2024 00:59:00 GMT</pubDate>
         <description>Słowa Carvajala, mecz reprezentacji Hiszpanii i nominacje do Złotej Piłki to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal: Wiem, z czym się zmaga Vini, ale…</title>
-        <link>https://www.realmadryt.pl/news/132239-carvajal-wiem-z-czym-sie-zmaga-vini-ale</link>
-        <pubDate>Wed, 04 Sep 2024 23:55:00 GMT</pubDate>
-        <description>Dani Carvajal stawił się na konferencji prasowej na zgrupowaniu reprezentacji Hiszpanii przed meczem z Serbią w Belgradzie. Poniżej przedstawiamy zapis wypowiedzi drugiego kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Bez piłkarek Realu Madryt w gronie kandydatek do Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/132237-bez-pilkarek-realu-madryt-w-gronie-kandydatek-do-zlotej-pilki</link>
-        <pubDate>Wed, 04 Sep 2024 21:38:00 GMT</pubDate>
-        <description>Poznaliśmy listę 30 zawodniczek nominowanych do Kobiecej Złotej Piłki, której plebiscyt jest organizowany przez France Football oraz L'Équipe. Wśród kandydatek nie ma żadnej piłkarki Realu Madryt.</description>
     </item>
     
 </channel>
