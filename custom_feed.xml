@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 15:39:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ciężki żywot po Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/132255-ciezki-zywot-po-realu-madryt</link>
+        <pubDate>Thu, 05 Sep 2024 17:33:00 GMT</pubDate>
+        <description>Odejście z Realu Madryt w ostatnich latach jest ryzykownym krokiem. Konsekwencje takiego wyboru nie uwzględniają wcześniejszych dokonań i wytworzonej wokół siebie legendy. Ostatnimi tego przykładami są niemiłosiernie krytykowany za ostatni mecz z Liverpoolem Casemiro, czy też Rafa Varane skreślony z listy zawodników Como zarejestrowanych do występów w Serie A.</description>
+    </item>
     
     <item>
         <title>Mbappé: W Realu Madryt wszystko działa bardzo dobrze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132246-600-zl-za-bramke-polakow-ze-szkotami</link>
         <pubDate>Thu, 05 Sep 2024 09:56:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 5 września</title>
-        <link>https://www.realmadryt.pl/news/132238-kartka-z-kalendarza-5-wrzesnia</link>
-        <pubDate>Thu, 05 Sep 2024 09:30:00 GMT</pubDate>
-        <description>Urodziny byłych zawodników i inauguracje ligowe sprzed lat, w tym debiuty Santillany, Garcíi Remóna czy Ivána Zamorano oraz skandal w południowoamerykańskim klasyku. Co działo się 5 września?</description>
     </item>
     
 </channel>
