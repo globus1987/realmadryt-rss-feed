@@ -4,13 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 19:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 19:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Militão z kontuzją mięśniową uda</title>
+        <link>https://www.realmadryt.pl/news/132260-oficjalnie-militao-z-kontuzja-miesniowa-uda</link>
+        <pubDate>Thu, 05 Sep 2024 21:50:00 GMT</pubDate>
+        <description>Brazylijska Federacja Piłkarska przekazała, że obrońca Królewskich doznał urazu na środowym treningu.</description>
+    </item>
     
     <item>
         <title>Carvajal i Modrić grają w reprezentacjach [LIVE]</title>
         <link>https://www.realmadryt.pl/news/132259-carvajal-i-modric-graja-w-reprezentacjach-live</link>
         <pubDate>Thu, 05 Sep 2024 20:00:00 GMT</pubDate>
-        <description>Dani Carvajal i Luka Modrić wystąpią w pierwszych składach swoich zespołów narodowych. Obaj będą też pełnić role kapitanów. Początek spotkań Ligi Narodów Serbii z Hiszpanią i Portugalii z Chorwacją o 20:45. Artykuł będzie aktualizowany na bieżąco.</description>
+        <description>Od 20:45 trwają mecze, w których Dani Carvajal i Luka Modrić występują w swoich zespołach narodowych. Swoje premierowe spotkanie w Lidze Narodów grają też Biało-Czerwoni.
+Artykuł jest aktualizowany na bieżąco.</description>
     </item>
     
     <item>
@@ -81,13 +89,6 @@
         <link>https://www.realmadryt.pl/news/132249-utopijne-podium</link>
         <pubDate>Thu, 05 Sep 2024 12:22:00 GMT</pubDate>
         <description>Real Madryt chciałby powtórzyć wyczyn Barcelony z 2010 roku i zająć całe podium Złotej Piłki za sezon 2023/24. Aby tak się stało, to poza pewniakami w postaci Viníciusa i Jude'a Bellinghama ktoś z dwójki Dani Carvajal – Toni Kroos musiałby wyprzedzić Rodriego.</description>
-    </item>
-    
-    <item>
-        <title>Najbliższy trening dopiero we wtorek</title>
-        <link>https://www.realmadryt.pl/news/132250-najblizszy-trening-dopiero-we-wtorek</link>
-        <pubDate>Thu, 05 Sep 2024 12:22:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero 10 września i wówczas rozpoczną przygotowania do ligowego meczu z Realem Sociedad.</description>
     </item>
     
 </channel>
