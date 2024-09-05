@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 03:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 03:41:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Vinícius powinien przeprosić”</title>
+        <link>https://www.realmadryt.pl/news/132234-vinicius-powinien-przeprosic</link>
+        <pubDate>Thu, 05 Sep 2024 05:30:00 GMT</pubDate>
+        <description>Wydaje się, że Vinícius swoimi ostatnimi słowami wywołał burzę w całej Hiszpanii. Tym razem swoją opinię w tej kwestii przedstawił były brazylijski zawodnik Deportivo La Coruña, Donato.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132229-nie-tedy-droga-vini</link>
         <pubDate>Wed, 04 Sep 2024 16:25:00 GMT</pubDate>
         <description>Rozważaniami o walce Viníciusa z rasizmem w swoim tekście dzieli się nasz redaktor, Mateusz Wojtylak.</description>
-    </item>
-    
-    <item>
-        <title>Mamy dziurę w środku pola</title>
-        <link>https://www.realmadryt.pl/news/132228-mamy-dziure-w-srodku-pola</link>
-        <pubDate>Wed, 04 Sep 2024 14:55:00 GMT</pubDate>
-        <description>Real Madryt cierpi z powodu odejścia Toniego Kroosa bardziej, niż się spodziewano. Chodzi nie tylko o fazę kreacji, ale również o organizację i porządek w grze. A Carlo Ancelotti podczas przerwy reprezentacyjnej nie ma do dyspozycji ani jednego pomocnika z kadry pierwszej drużyny.</description>
     </item>
     
 </channel>
