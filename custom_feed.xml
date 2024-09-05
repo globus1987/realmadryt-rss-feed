@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 08:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 08:44:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jedenastu madridistas powołanych do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/132248-jedenastu-madridistas-powolanych-do-reprezentacji</link>
+        <pubDate>Thu, 05 Sep 2024 10:38:00 GMT</pubDate>
+        <description>Jedenastu piłkarzy Realu Madryt pojechało na zgrupowania swoich reprezentacji narodowych. Kto zagra z kim, kiedy i o co?</description>
+    </item>
     
     <item>
         <title>600 zł za bramkę Polaków ze Szkotami!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132221-6-pilkarzy-realu-madryt-nominowanych-do-zlotej-pilki</link>
         <pubDate>Wed, 04 Sep 2024 20:28:00 GMT</pubDate>
         <description>Dzisiaj poznaliśmy 30 nominowanych do Złotej Piłki, której plebiscyt jest organizowany przez France Football oraz L'Équipe, a jego współorganizatorem od listopada 2023 roku jest także UEFA.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt nominowany do nagrody Klubu Roku</title>
-        <link>https://www.realmadryt.pl/news/132235-real-madryt-nominowany-do-nagrody-klubu-roku</link>
-        <pubDate>Wed, 04 Sep 2024 18:58:00 GMT</pubDate>
-        <description>Realu Madryt jako klub został nominowany do nagrody France Football dla najlepszego klubu ostatniego sezonu.</description>
     </item>
     
 </channel>
