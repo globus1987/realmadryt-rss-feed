@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 15:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 15:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham założył swój kanał na YouTubie</title>
+        <link>https://www.realmadryt.pl/news/132256-bellingham-zalozyl-swoj-kanal-na-youtubie</link>
+        <pubDate>Thu, 05 Sep 2024 17:45:00 GMT</pubDate>
+        <description>Jude dołącza do Kyliana, Viniego czy Cristiano i też tworzy swój kanał, na którym na początku ma zdradzać kulisy z ubiegłego sezonu.</description>
+    </item>
     
     <item>
         <title>Ciężki żywot po Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132248-jedenastu-madridistas-powolanych-do-reprezentacji</link>
         <pubDate>Thu, 05 Sep 2024 10:38:00 GMT</pubDate>
         <description>Jedenastu piłkarzy Realu Madryt pojechało na zgrupowania swoich reprezentacji narodowych. Kto zagra z kim, kiedy i o co?</description>
-    </item>
-    
-    <item>
-        <title>600 zł za bramkę Polaków ze Szkotami!</title>
-        <link>https://www.realmadryt.pl/news/132246-600-zl-za-bramke-polakow-ze-szkotami</link>
-        <pubDate>Thu, 05 Sep 2024 09:56:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
