@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Sep 2024 16:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 16:58:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nacho: Potrzebowałem radykalnej zmiany</title>
+        <link>https://www.realmadryt.pl/news/132257-nacho-potrzebowalem-radykalnej-zmiany</link>
+        <pubDate>Thu, 05 Sep 2024 18:51:00 GMT</pubDate>
+        <description>Nacho udzielił wywiadu dla oficjalnego kanału ligi arabskiej na YouTubie i opowiadał o powodach swojej decyzji.</description>
+    </item>
     
     <item>
         <title>Bellingham założył swój kanał na YouTubie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132247-koniec-ery</link>
         <pubDate>Thu, 05 Sep 2024 11:29:00 GMT</pubDate>
         <description>W środę świat piłki pożegnał największą rywalizację w dziejach tej dyscypliny. Po raz pierwszy od 2003 roku ani Cristiano Ronaldo, ani Leo Messi nie znaleźli się wśród nominowanych do zdobycia Złotej Piłki.</description>
-    </item>
-    
-    <item>
-        <title>Jedenastu madridistas powołanych do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/132248-jedenastu-madridistas-powolanych-do-reprezentacji</link>
-        <pubDate>Thu, 05 Sep 2024 10:38:00 GMT</pubDate>
-        <description>Jedenastu piłkarzy Realu Madryt pojechało na zgrupowania swoich reprezentacji narodowych. Kto zagra z kim, kiedy i o co?</description>
     </item>
     
 </channel>
