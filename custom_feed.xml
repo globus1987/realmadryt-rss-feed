@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Sep 2024 03:26:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 03:41:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Na mecz z Realem Sociedad wykuruje się tylko Mendy?</title>
+        <link>https://www.realmadryt.pl/news/132266-na-mecz-z-realem-sociedad-wykuruje-sie-tylko-mendy</link>
+        <pubDate>Fri, 06 Sep 2024 05:30:00 GMT</pubDate>
+        <description>Wszystko wskazuje na to, że spośród siedmiu kontuzjowanych graczy na najbliższy mecz wróci jedynie lewy obrońca.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132243-nie-ma-drugiego-kroosa-ale-jest-rodri</link>
         <pubDate>Thu, 05 Sep 2024 14:10:00 GMT</pubDate>
         <description>Uderzająco zauważalny brak Toniego Kroosa i nie najlepszy początek sezonu ligowego w wykonaniu Realu Madryt sprawiają, że z transferem na Santiago Bernabéu coraz częściej łączony jest pomocnik Manchesteru City i reprezentacji Hiszpanii, Rodri. Rozważaniami na temat takiego ruchu w swoim tekście dzieli się nasz redaktor, Jakub Glibowski.</description>
-    </item>
-    
-    <item>
-        <title>Güler znów w ślepej uliczce</title>
-        <link>https://www.realmadryt.pl/news/132252-gueler-znow-w-slepej-uliczce</link>
-        <pubDate>Thu, 05 Sep 2024 14:08:00 GMT</pubDate>
-        <description>Arda Güler wyszedł w pierwszym składzie na Real Valladolid, a następnie wszedł w drugiej połowie meczu z Las Palmas i nie otrzymał ani jednej minuty w ostatnim meczu z Betisem. Mimo licznych absencji w pomocy 19-letni Turek nie może liczyć na regularność.</description>
     </item>
     
 </channel>
