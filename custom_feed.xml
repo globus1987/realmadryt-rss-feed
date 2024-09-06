@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Sep 2024 17:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 17:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak zmieniły się zespoły La Ligi?</title>
+        <link>https://www.realmadryt.pl/news/132169-jak-zmienily-sie-zespoly-la-ligi</link>
+        <pubDate>Fri, 06 Sep 2024 19:28:00 GMT</pubDate>
+        <description>Zamknęło się okno transferowe w Hiszpanii, więc czas na podsumowanie zmian, jakie zaszły latem w drużynach La Ligi.</description>
+    </item>
     
     <item>
         <title>FIFA szuka pieniędzy na Klubowe Mistrzostwa Świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132268-blad-transferowy-florentino-nadal-zawodzi</link>
         <pubDate>Fri, 06 Sep 2024 08:50:00 GMT</pubDate>
         <description>Rossoneri zamknęli przed Serbem drzwi do Champions League. Stanowi to kolejne potwierdzenie tego, że napastnik nie wrócił już do formy, jaką prezentował przed transferem do Realu.</description>
-    </item>
-    
-    <item>
-        <title>Atak zazdrości, którego nie da się zatrzymać</title>
-        <link>https://www.realmadryt.pl/news/132267-atak-zazdrosci-ktorego-nie-da-sie-zatrzymac</link>
-        <pubDate>Fri, 06 Sep 2024 08:26:00 GMT</pubDate>
-        <description>Brazylijczyk traci panowanie nad sobą i chce podkreślić swoje zasługi oraz znaczenie w Realu Madryt, gdzie uwaga skupia się na Bellinghamie, Mbappé i Viníciusie.</description>
     </item>
     
 </channel>
