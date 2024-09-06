@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Sep 2024 22:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 22:54:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132285-dzisiejsze-okladki</link>
+        <pubDate>Sat, 07 Sep 2024 00:53:00 GMT</pubDate>
+        <description>Sytuacja Haalanda i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko pewnie pokonało Gabon, gol Brahima [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132273-cristiano-luka-i-ja-jestesmy-przyjaciolmi</link>
         <pubDate>Fri, 06 Sep 2024 13:55:00 GMT</pubDate>
         <description>Cristiano Ronaldo po wczorajszym rozmawiał z chorwacką Novą TV i został zapytany o Lukę Modricia.</description>
-    </item>
-    
-    <item>
-        <title>„Mamy nadzieję, że Militão wyleczy się akurat na kolejną przerwę reprezentacyjną”</title>
-        <link>https://www.realmadryt.pl/news/132272-mamy-nadzieje-ze-militao-wyleczy-sie-akurat-na-kolejna-przerwe-reprezentacyjna</link>
-        <pubDate>Fri, 06 Sep 2024 13:28:00 GMT</pubDate>
-        <description>Królewscy w swojej bezsilności uciekają już do ironii, ponieważ znów są jednym z najbardziej poszkodowanych klubów podczas przerwy na kadry.</description>
     </item>
     
 </channel>
