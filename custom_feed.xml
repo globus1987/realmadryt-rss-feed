@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Sep 2024 06:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 07:21:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za gola Polski z Chorwacją!</title>
+        <link>https://www.realmadryt.pl/news/132286-400-zl-za-gola-polski-z-chorwacja</link>
+        <pubDate>Sat, 07 Sep 2024 09:00:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
+    
+    <item>
+        <title>Relevo: Bellingham może wrócić na mecz z Espanyolem</title>
+        <link>https://www.realmadryt.pl/news/132290-relevo-bellingham-moze-wrocic-na-mecz-z-espanyolem</link>
+        <pubDate>Sat, 07 Sep 2024 08:57:00 GMT</pubDate>
+        <description>Rehabilitacja angielskiego zawodnika przebiega lepiej, niż początkowo zakładano.</description>
+    </item>
     
     <item>
         <title>Frustrujące pożegnanie Luisa Suáreza i cały mecz Fede</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132278-real-madryt-porozumial-sie-z-cedim-osmanem</link>
         <pubDate>Fri, 06 Sep 2024 19:49:00 GMT</pubDate>
         <description>Cierpliwość. Tego Real Madryt potrzebuje, szukając następcy dla Yabusele. Królewscy mieli dojść do porozumienia z Cedim Osmanem, ale Turek jeszcze czeka na opcję z NBA.</description>
-    </item>
-    
-    <item>
-        <title>Jak zmieniły się zespoły La Ligi?</title>
-        <link>https://www.realmadryt.pl/news/132169-jak-zmienily-sie-zespoly-la-ligi</link>
-        <pubDate>Fri, 06 Sep 2024 19:28:00 GMT</pubDate>
-        <description>Zamknęło się okno transferowe w Hiszpanii, więc czas na podsumowanie zmian, jakie zaszły latem w drużynach La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>FIFA szuka pieniędzy na Klubowe Mistrzostwa Świata</title>
-        <link>https://www.realmadryt.pl/news/132277-fifa-szuka-pieniedzy-na-klubowe-mistrzostwa-swiata</link>
-        <pubDate>Fri, 06 Sep 2024 17:02:00 GMT</pubDate>
-        <description>Europejskie kluby otrzymają większą część z podziału pieniędzy niż kluby z Ameryki, ale nie będzie to pięćdziesiąt milionów euro, o których początkowo mówiono.</description>
     </item>
     
 </channel>
