@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Sep 2024 08:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 08:40:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złoty chłopak Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/132295-zloty-chlopak-ancelottiego</link>
+        <pubDate>Sat, 07 Sep 2024 10:33:00 GMT</pubDate>
+        <description>Gdy Real schodził na przerwę w meczu z Las Palmas, jako jednego z głównych winnych bardzo słabej postawy zespołu w ofensywie wskazywano Brahima. Trener na drugą połowę rzeczywiście nie posłał już Diaza na boisko. Postanowił też wymienić mającego żółtą kartkę Mendy'ego na Frana. Mimo to, jak podkreśla MARCA, drużyna wcale nie zaczęła grać lepiej.</description>
+    </item>
     
     <item>
         <title>Labirynt Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132285-dzisiejsze-okladki</link>
         <pubDate>Sat, 07 Sep 2024 00:53:00 GMT</pubDate>
         <description>Sytuacja Haalanda i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Maroko pewnie pokonało Gabon, gol Brahima [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/132284-maroko-pewnie-pokonalo-gabon-gol-brahima-video</link>
-        <pubDate>Fri, 06 Sep 2024 23:06:00 GMT</pubDate>
-        <description>Inauguracja rywalizacji w eliminacjach do Pucharu Narodów Afryki przebiegła pomyślnie dla Maroka. Na listę strzelców wpisał się między innymi Brahim, dla którego był to pierwszy gol w reprezentacji.</description>
     </item>
     
 </channel>
