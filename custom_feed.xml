@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Sep 2024 11:38:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 11:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Polityczny skandal, który uderza rykoszetem w PSG</title>
+        <link>https://www.realmadryt.pl/news/132302-polityczny-skandal-ktory-uderza-rykoszetem-w-psg</link>
+        <pubDate>Sat, 07 Sep 2024 13:39:00 GMT</pubDate>
+        <description>We Francji wybuchła nowa afera, w którą zamieszany jest Hugues Renson i PSG, któremu wiceprzewodniczący Zgromadzenia Narodowego miał wyraźnie pomagać, wykraczając poza swoje kompetencje.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Derby z Atlético 29 września o 21:00</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132286-400-zl-za-gola-polski-z-chorwacja</link>
         <pubDate>Sat, 07 Sep 2024 09:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Bellingham może wrócić na mecz z Espanyolem</title>
-        <link>https://www.realmadryt.pl/news/132290-relevo-bellingham-moze-wrocic-na-mecz-z-espanyolem</link>
-        <pubDate>Sat, 07 Sep 2024 08:57:00 GMT</pubDate>
-        <description>Rehabilitacja angielskiego zawodnika przebiega lepiej, niż początkowo zakładano.</description>
     </item>
     
 </channel>
