@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Sep 2024 22:39:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 22:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132327-dzisiejsze-okladki</link>
+        <pubDate>Mon, 09 Sep 2024 00:43:00 GMT</pubDate>
+        <description>Wygrana reprezentacji Hiszpanii i dokonania Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Golazo Modricia z Polską, Hiszpania lepsza od Szwajcarii [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132316-relevo-real-proponowal-vallejo-odejscie</link>
         <pubDate>Sun, 08 Sep 2024 09:45:00 GMT</pubDate>
         <description>Środkowy obrońca nie zagrał jeszcze w tym sezonie w oficjalnym meczu Realu Madryt. Kontuzje Militão i Tchouaméniego dają mu ku temu szansę.</description>
-    </item>
-    
-    <item>
-        <title>600 zł za bramkę Polaków z Chorwatami!</title>
-        <link>https://www.realmadryt.pl/news/132315-600-zl-za-bramke-polakow-z-chorwatami</link>
-        <pubDate>Sun, 08 Sep 2024 09:45:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
