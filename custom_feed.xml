@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 04:24:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fran stawia mały krok naprzód</title>
+        <link>https://www.realmadryt.pl/news/132311-fran-stawia-maly-krok-naprzod</link>
+        <pubDate>Sun, 08 Sep 2024 06:00:00 GMT</pubDate>
+        <description>Fran García wszedł na kolejny szczebel w hierarchii Ancelottiego. Hiszpan zalicza udany start sezonu po sumiennie przepracowanym okresie przygotowawczym, podczas którego skorzystał na urlopie Mendy'ego.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132303-ancelotti-bede-trenowac-dopoki-nie-zgasnie-we-mnie-ogien-ktory-mam-do-futbolu</link>
         <pubDate>Sat, 07 Sep 2024 14:17:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji podczas eventu Mexico XXI, zorganizowanego przez fundację Telmex. Podczas wykładu Ancelotti mówił m.in. o swojej karierze i kluczowych czynnikach do odniesienia sukcesu. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Polityczny skandal, który uderza rykoszetem w PSG</title>
-        <link>https://www.realmadryt.pl/news/132302-polityczny-skandal-ktory-uderza-rykoszetem-w-psg</link>
-        <pubDate>Sat, 07 Sep 2024 13:39:00 GMT</pubDate>
-        <description>We Francji wybuchła nowa afera, w którą zamieszany jest Hugues Renson i PSG, któremu wiceprzewodniczący Zgromadzenia Narodowego miał wyraźnie pomagać, wykraczając poza swoje kompetencje.</description>
     </item>
     
 </channel>
