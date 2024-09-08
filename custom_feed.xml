@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Sep 2024 07:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 07:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Real proponował Vallejo odejście</title>
+        <link>https://www.realmadryt.pl/news/132316-relevo-real-proponowal-vallejo-odejscie</link>
+        <pubDate>Sun, 08 Sep 2024 09:45:00 GMT</pubDate>
+        <description>Środkowy obrońca nie zagrał jeszcze w tym sezonie w oficjalnym meczu Realu Madryt. Kontuzje Militão i Tchouaméniego dają mu ku temu szansę.</description>
+    </item>
+    
+    <item>
+        <title>600 zł za bramkę Polaków z Chorwatami!</title>
+        <link>https://www.realmadryt.pl/news/132315-600-zl-za-bramke-polakow-z-chorwatami</link>
+        <pubDate>Sun, 08 Sep 2024 09:45:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>AS: Carvajal może znów zagrać jako stoper</title>
         <link>https://www.realmadryt.pl/news/132314-as-carvajal-moze-znow-zagrac-jako-stoper</link>
         <pubDate>Sun, 08 Sep 2024 09:01:00 GMT</pubDate>
-        <description>W zeszłym sezonie Dani rozegrał dwa mecze jako środkowy obrońca: przeciwko Atlético (1-1) i Gironie (4-0).</description>
+        <description>W zeszłym sezonie Dani rozegrał dwa mecze jako środkowy obrońca: przeciwko Atlético (1:1) i Gironie (4:0).</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132307-raul-asencio-czyli-awaryjny-plan-ancelottiego</link>
         <pubDate>Sat, 07 Sep 2024 16:00:00 GMT</pubDate>
         <description>Kontuzje Édera Militão i Jacobo Ramóna sprawiają, że na najbliższy mecz z Realem Sociedad powołanie może otrzymać Raúl Asencio. 21-latek jest jedną z czołowych postaci Castilli, a latem zainteresowana nim była Girona.</description>
-    </item>
-    
-    <item>
-        <title>Atlético będzie miało 48 godzin mniej na odpoczynek przed derbami</title>
-        <link>https://www.realmadryt.pl/news/132306-atletico-bedzie-mialo-48-godzin-mniej-na-odpoczynek-przed-derbami</link>
-        <pubDate>Sat, 07 Sep 2024 15:33:00 GMT</pubDate>
-        <description>Włodarze Atlético są zażenowani tym, jak La Liga ustawiła terminarz, ponieważ mogliby rozegrać wcześniej mecz poprzedzający derby Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: W niedzielę Militão przejdzie badania w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/132305-marca-w-niedziele-militao-przejdzie-badania-w-valdebebas</link>
-        <pubDate>Sat, 07 Sep 2024 15:22:00 GMT</pubDate>
-        <description>Jutro Brazylijczykiem zajmą się lekarze Realu Madryt i dopiero wówczas przekonamy się, ile faktycznie może potrwać jego absencja.</description>
     </item>
     
 </channel>
