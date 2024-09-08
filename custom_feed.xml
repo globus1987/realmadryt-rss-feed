@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Sep 2024 13:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 13:28:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo na początek przygotowań</title>
+        <link>https://www.realmadryt.pl/news/132322-zwyciestwo-na-poczatek-przygotowan</link>
+        <pubDate>Sun, 08 Sep 2024 15:11:00 GMT</pubDate>
+        <description>Real Madryt pokonał Benficę w pierwszym sparingu podczas pretemporady. Najlepszym zawodnikiem spotkania był Serge Ibaka.</description>
+    </item>
     
     <item>
         <title>Dlaczego Real nie kupił stopera?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132313-dzisiejsze-okladki</link>
         <pubDate>Sun, 08 Sep 2024 00:53:00 GMT</pubDate>
         <description>Mecz reprezentacji Hiszpanii i dokonania Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Porażka Ukrainy z Albanią, Łunin bez występu</title>
-        <link>https://www.realmadryt.pl/news/132299-porazka-ukrainy-z-albania-lunin-bez-wystepu</link>
-        <pubDate>Sat, 07 Sep 2024 22:44:00 GMT</pubDate>
-        <description>Reprezentacja Ukrainy poległa w domowym starciu z Albanią. Mecz z wysokości ławki rezerwowych obserwował Andrij Łunin.</description>
     </item>
     
 </channel>
