@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Sep 2024 22:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 22:40:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132351-dzisiejsze-okladki</link>
+        <pubDate>Tue, 10 Sep 2024 00:25:00 GMT</pubDate>
+        <description>Osiągnięcia Realu Madryt i Lamine'a Yamala oraz sytuacja Camp Nou to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko wygrało po golu Brahima</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132338-filmik-z-orgii-canteranos-realu-madryt-trafil-nawet-do-37-osob</link>
         <pubDate>Mon, 09 Sep 2024 14:08:00 GMT</pubDate>
         <description>Po roku śledztwa w sprawie afery taśmowej funkcjonariusze zidentyfikowali osoby, do których rozesłano filmik z orgii z udziałem ówczesnych graczy ze szkółki Realu Madryt. W sprawie rozsyłania dziecięcej pornografii piłkarzom grozi nawet 5 lat więzienia.</description>
-    </item>
-    
-    <item>
-        <title>Sporting rywalem Królewskich w walce o fazę grupową Ligi Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/132337-sporting-rywalem-krolewskich-w-walce-o-faze-grupowa-ligi-mistrzyn</link>
-        <pubDate>Mon, 09 Sep 2024 13:37:00 GMT</pubDate>
-        <description>Sporting CP będzie rywalem piłkarek Realu Madryt w decydującym dwumeczu o awans do fazy grupowej Ligi Mistrzyń. Oba spotkania odbędą się w tym miesiącu.</description>
     </item>
     
 </channel>
