@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Sep 2024 03:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 04:25:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Luka!</title>
+        <link>https://www.realmadryt.pl/news/132328-wszystkiego-najlepszego-luka</link>
+        <pubDate>Mon, 09 Sep 2024 06:00:00 GMT</pubDate>
+        <description>Dziś swoje 39(!) urodziny obchodzi Luka Modrić. Bądź dalej niczym wino, artysto.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132317-kartka-z-kalendarza-8-wrzesnia</link>
         <pubDate>Sun, 08 Sep 2024 10:30:00 GMT</pubDate>
         <description>Początek pięknej historii Realu Madryt z Pucharem Europy, gole Raúla, prezentacja legendy i zakaz transferowy, który nie zepsuł świetnego sezonu Królewskich. Co działo się 8 września?</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real proponował Vallejo odejście</title>
-        <link>https://www.realmadryt.pl/news/132316-relevo-real-proponowal-vallejo-odejscie</link>
-        <pubDate>Sun, 08 Sep 2024 09:45:00 GMT</pubDate>
-        <description>Środkowy obrońca nie zagrał jeszcze w tym sezonie w oficjalnym meczu Realu Madryt. Kontuzje Militão i Tchouaméniego dają mu ku temu szansę.</description>
     </item>
     
 </channel>
