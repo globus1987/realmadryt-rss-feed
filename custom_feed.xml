@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Sep 2024 21:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 22:20:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132373-dzisiejsze-okladki</link>
+        <pubDate>Wed, 11 Sep 2024 00:17:00 GMT</pubDate>
+        <description>Forma Thibaut Courtois i przekaz dyrektora sportowego Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ukraina ponownie przegrywa, Łunin znów na ławce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132361-real-madryt-bierze-sprawe-viniciusa-w-swoje-rece</link>
         <pubDate>Tue, 10 Sep 2024 14:03:00 GMT</pubDate>
         <description>Madrycki klub zgłosił liczne ataki na swojego zawodnika do Prokuratury Generalnej oraz instytucji sportowych. Arbitrzy mają nakaz, aby nie przerywać meczu, chyba że zaistnieje ekstremalna sytuacja, a jeśli drużyna opuści boisko, przegrywa 0:3.</description>
-    </item>
-    
-    <item>
-        <title>Andy Mangan nie otrzymał pozwolenia na pracę… i nie trafi do Realu</title>
-        <link>https://www.realmadryt.pl/news/132360-andy-mangan-nie-otrzymal-pozwolenia-na-prace-i-nie-trafi-do-realu</link>
-        <pubDate>Tue, 10 Sep 2024 12:44:00 GMT</pubDate>
-        <description>Andy Mangan był gotowy do dołączenia do sztabu szkoleniowego Realu Madryt, jednak, jak donoszą angielskie i hiszpańskie media, nie udzielono mu pozwolenia na pracę.</description>
     </item>
     
 </channel>
