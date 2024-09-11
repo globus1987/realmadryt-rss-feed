@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Sep 2024 20:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 21:20:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Drugie sparingowe zwycięstwo koszykarzy</title>
+        <link>https://www.realmadryt.pl/news/132400-drugie-sparingowe-zwyciestwo-koszykarzy</link>
+        <pubDate>Wed, 11 Sep 2024 23:04:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Monaco w drugim sprawdzianie podczas okresu przygotowawczego. Przed starem sezonu Królewskim został do rozegrania jeden sparing.</description>
+    </item>
     
     <item>
         <title>Kontuzja Garuby jednak nie jest poważna?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132387-lfp-wzywa-do-mediacji-miedzy-mbappe-a-psg</link>
         <pubDate>Wed, 11 Sep 2024 15:28:00 GMT</pubDate>
         <description>Dzisiejsze spotkanie z Komisją Prawną dobiegło końca.</description>
-    </item>
-    
-    <item>
-        <title>Media: Militão ma szansę na występ z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/132386-media-militao-ma-szanse-na-wystep-z-realem-sociedad</link>
-        <pubDate>Wed, 11 Sep 2024 15:10:00 GMT</pubDate>
-        <description>José Félix Díaz z dziennika MARCA donosi, że Brazylijczyk będzie gotowy do gry w sobotnim meczu z Realem Sociedad. Podobne informacje przekazuje Carlos Rodríguez z radia Onda Madrid. Wygląda jednak na to, że jedynym w pełni dostępnym zawodnikiem spośród tych ostatnio kontuzjowanych będzie Ferland Mendy.</description>
     </item>
     
 </channel>
