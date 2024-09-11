@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Sep 2024 10:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 10:54:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>L’Équipe: Napięcia w szatni i krytyka Mbappé, czyli kolejne tarcia w reprezentacji Francji</title>
+        <link>https://www.realmadryt.pl/news/132383-l-equipe-napiecia-w-szatni-i-krytyka-mbappe-czyli-kolejne-tarcia-w-reprezentacji-francji</link>
+        <pubDate>Wed, 11 Sep 2024 12:48:00 GMT</pubDate>
+        <description>Interwencja Mike’a Maignana, wewnętrzne dyskusje, krytyka Kyliana Mbappé dotycząca braku pracy taktycznej: okres po meczu z Włochami był dla Francuzów intensywny i momentami napięty.</description>
+    </item>
     
     <item>
         <title>„Zerwane więzadła krzyżowe u młodych piłkarzy to prawdziwa plaga”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132373-dzisiejsze-okladki</link>
         <pubDate>Wed, 11 Sep 2024 00:17:00 GMT</pubDate>
         <description>Szansa Kyliana Mbappé, forma Thibaut Courtois i przekaz dyrektora sportowego Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ukraina ponownie przegrywa, Łunin znów na ławce</title>
-        <link>https://www.realmadryt.pl/news/132371-ukraina-ponownie-przegrywa-lunin-znow-na-lawce</link>
-        <pubDate>Tue, 10 Sep 2024 22:44:00 GMT</pubDate>
-        <description>Dwa mecze i dwie porażki. W taki sposób Ukraina rozpoczęła rywalizację w Lidze Narodów. W obu spotkaniach podczas tej przerwy na reprezentacje w bramce Ukraińców wystąpił Trubin.</description>
     </item>
     
 </channel>
