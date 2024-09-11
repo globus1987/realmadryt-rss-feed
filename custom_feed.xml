@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Sep 2024 22:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 22:40:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132402-dzisiejsze-okladki</link>
+        <pubDate>Thu, 12 Sep 2024 00:20:00 GMT</pubDate>
+        <description>Problemy Viníciusa i sukcesy Roberta Lewandowskiego to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Drugie sparingowe zwycięstwo koszykarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132388-vinicius-chce-przeprosic-kibicow</link>
         <pubDate>Wed, 11 Sep 2024 15:33:00 GMT</pubDate>
         <description>Vinícius Júnior wyszedł do wywiadu w strefie mieszanej po porażce Brazylii z Paragwajem i jego słabym występie z 17 stratami. Przedstawiamy wypowiedzi atakującego na temat sytuacji jego reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>LFP wzywa do mediacji między Mbappé a PSG</title>
-        <link>https://www.realmadryt.pl/news/132387-lfp-wzywa-do-mediacji-miedzy-mbappe-a-psg</link>
-        <pubDate>Wed, 11 Sep 2024 15:28:00 GMT</pubDate>
-        <description>Dzisiejsze spotkanie z Komisją Prawną dobiegło końca.</description>
     </item>
     
 </channel>
