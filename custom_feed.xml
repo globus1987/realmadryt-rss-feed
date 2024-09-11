@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Sep 2024 07:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 08:28:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Carvajal sam zdecyduje o swojej przyszłości</title>
+        <link>https://www.realmadryt.pl/news/132378-as-carvajal-sam-zdecyduje-o-swojej-przyszlosci</link>
+        <pubDate>Wed, 11 Sep 2024 10:01:00 GMT</pubDate>
+        <description>Real Madryt pozostawia decyzję o przedłużeniu kontraktu w jego rękach: jego umowa wygasa tego lata. Nowa umowa dotyczyłaby jednego sezonu. Dla Ancelottiego nie ma co do tego wątpliwości.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 września</title>
+        <link>https://www.realmadryt.pl/news/132377-kartka-z-kalendarza-11-wrzesnia</link>
+        <pubDate>Wed, 11 Sep 2024 09:53:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, wygrana z Osasuną i sensacyjna porażka Barcelony oraz koniec opery mydlanej z De Geą w roli głównej. Co działo się 11 września?</description>
+    </item>
     
     <item>
         <title>Mateo: Mamy nadzieję, że Garuba szybko dołączy do nas</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132367-cristiano-real-madryt-to-najlepszy-klub-w-historii-futbolu</link>
         <pubDate>Tue, 10 Sep 2024 17:55:00 GMT</pubDate>
         <description>Cristiano Ronaldo opublikował kolejną część rozmowy z Rio Ferdinandem na swoim kanale na YouTubie. Przedstawiamy najważniejsze wypowiedzi Portugalczyka na temat Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Maroko chce (afrykańskiej) Złotej Piłki dla Brahima</title>
-        <link>https://www.realmadryt.pl/news/132366-marca-maroko-chce-afrykanskiej-zlotej-pilki-dla-brahima</link>
-        <pubDate>Tue, 10 Sep 2024 17:35:00 GMT</pubDate>
-        <description>Wczorajszy gol Brahima w 93. minucie wzbudził oczekiwania Marokańczyków co do nagrody dla nowego gwiazdora ich reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>Królowie rynku</title>
-        <link>https://www.realmadryt.pl/news/132365-krolowie-rynku</link>
-        <pubDate>Tue, 10 Sep 2024 16:58:00 GMT</pubDate>
-        <description>Real Madryt dysponuje najbardziej wartościową kadrą na świecie. Jest ona wyceniana na 1,34 miliarda euro przy kwocie 720 milionów euro przeznaczonej na zakup piłkarzy. Flagowym przykładem przemyślanej i przynoszącej sukcesy polityki transferowej Królewskich jest kwartet złożony z Mbappé, Viníciusa, Bellinghama i Rodrygo, którzy zostali pozyskani za 188 milionów euro, a obecnie cała czwórka wyceniana jest na 650 milionów euro.</description>
     </item>
     
 </channel>
