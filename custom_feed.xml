@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Sep 2024 21:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 22:21:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132433-dzisiejsze-okladki</link>
+        <pubDate>Fri, 13 Sep 2024 00:17:00 GMT</pubDate>
+        <description>Nowa umowa Joana Martíneza i wypowiedzi z Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>The Athletic: Wstępne porozumienie Realu z Joanem Martínezem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132418-przedstawiciel-al-ahli-potwierdzil-ze-saudyjczycy-chcieli-kupic-viniciusa</link>
         <pubDate>Thu, 12 Sep 2024 17:29:00 GMT</pubDate>
         <description>Khaled Al-Issa zdradził, że Al-Ahli chciało faktycznie pozyskać brazylijskiego piłkarza ostatniego lata.</description>
-    </item>
-    
-    <item>
-        <title>Zamiana ról</title>
-        <link>https://www.realmadryt.pl/news/132417-zamiana-rol</link>
-        <pubDate>Thu, 12 Sep 2024 16:24:00 GMT</pubDate>
-        <description>W najbliższym czasie to Królewscy ewentualnymi zwycięstwami będą mogli nałożyć presję na odwiecznego rywala prowadzącego w tabeli.</description>
     </item>
     
 </channel>
