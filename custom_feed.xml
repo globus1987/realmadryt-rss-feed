@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 16:27:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>PSG odmawia wypłacenia pieniędzy Mbappé i czeka na pozew</title>
+        <link>https://www.realmadryt.pl/news/132421-psg-odmawia-wyplacenia-pieniedzy-mbappe-i-czeka-na-pozew</link>
+        <pubDate>Thu, 12 Sep 2024 17:58:00 GMT</pubDate>
+        <description>Piłkarz odrzucił propozycję mediacji, co zmusiło komisję ligowej do zajęcia stanowiska w sprawie jego sporu z Paris Saint-Germain. Dzisiaj orzeczono, że klub powinien wypłacić Francuzowi zaległe środki. Paryżanie odpowiadają, że jeśli taka jest wola Kyliana Mbappé, to powinien zgłosić sprawę do sądu, bo pieniędzy nie dostanie.</description>
+    </item>
     
     <item>
         <title>Koke: Do wielkiego spektaklu potrzebujemy odpoczynku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132411-kontuzjowani-walcza-z-czasem</link>
         <pubDate>Thu, 12 Sep 2024 13:10:00 GMT</pubDate>
         <description>Dzisiaj o 17:00 kluczowy i przedostatni trening przed sobotnim meczem. Po zajęciach możemy dowiedzieć się, jak faktycznie wygląda stan zdrowia zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Fede piłkarzem na Pięć Gwiazdek za sierpień</title>
-        <link>https://www.realmadryt.pl/news/132409-fede-pilkarzem-na-piec-gwiazdek-za-sierpien</link>
-        <pubDate>Thu, 12 Sep 2024 12:36:00 GMT</pubDate>
-        <description>Urugwajski pomocnik po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
