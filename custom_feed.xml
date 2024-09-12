@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Sep 2024 10:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 11:18:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kontuzjowani walczą z czasem</title>
+        <link>https://www.realmadryt.pl/news/132411-kontuzjowani-walcza-z-czasem</link>
+        <pubDate>Thu, 12 Sep 2024 13:10:00 GMT</pubDate>
+        <description>Dzisiaj o 17:00 kluczowy i przedostatni trening przed sobotnim meczem. Po zajęciach możemy dowiedzieć się, jak faktycznie wygląda stan zdrowia zawodników.</description>
+    </item>
     
     <item>
         <title>Fede piłkarzem na Pięć Gwiazdek za sierpień</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132402-dzisiejsze-okladki</link>
         <pubDate>Thu, 12 Sep 2024 00:20:00 GMT</pubDate>
         <description>Problemy Viníciusa i sukcesy Roberta Lewandowskiego to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Drugie sparingowe zwycięstwo koszykarzy</title>
-        <link>https://www.realmadryt.pl/news/132400-drugie-sparingowe-zwyciestwo-koszykarzy</link>
-        <pubDate>Wed, 11 Sep 2024 23:04:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Monaco w drugim sprawdzianie podczas okresu przygotowawczego. Przed starem sezonu Królewskim został do rozegrania jeden sparing.</description>
     </item>
     
 </channel>
