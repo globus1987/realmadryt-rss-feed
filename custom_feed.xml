@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Sep 2024 11:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 12:41:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Coraz bardziej widoczny brak regularności</title>
+        <link>https://www.realmadryt.pl/news/132413-coraz-bardziej-widoczny-brak-regularnosci</link>
+        <pubDate>Thu, 12 Sep 2024 14:36:00 GMT</pubDate>
+        <description>Endrick znalazł się na świeczniku po porażce reprezentacji Brazylii z Paragwajem. Napastnik po raz drugi wystąpił w kadrze narodowej od początku, ale został zmieniony już w przerwie. 18-latek nie stanowił żadnego zagrożenia dla rywali i nie wnosił do gry praktycznie nic.</description>
+    </item>
+    
+    <item>
+        <title>Rollercoaster Łunina</title>
+        <link>https://www.realmadryt.pl/news/132412-rollercoaster-lunina</link>
+        <pubDate>Thu, 12 Sep 2024 14:12:00 GMT</pubDate>
+        <description>Życie Andrija Łunina w ciągu kilku miesięcy obróciło się o 180 stopni. W kluczowy moment poprzedniego sezonu Ukrainiec wchodził jako podstawowy bramkarz Realu Madryt i poważny kandydat do pierwszego składu na EURO. Dziś jednak jego przyszłości towarzyszy wiele znaków zapytania.</description>
+    </item>
     
     <item>
         <title>Kontuzjowani walczą z czasem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132403-mourinho-arda-gueler-pokazuje-odpowiedni-charakter-do-gry-w-realu</link>
         <pubDate>Thu, 12 Sep 2024 07:00:00 GMT</pubDate>
         <description>José Mourinho udzielił wywiadu tureckiemu Habertürk. Przedstawiamy wypowiedzi byłego trenera Realu Madryt i obecnego szkoleniowca Fenerbahçe z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Bezpieczna przystań Mbappé</title>
-        <link>https://www.realmadryt.pl/news/132404-bezpieczna-przystan-mbappe</link>
-        <pubDate>Thu, 12 Sep 2024 06:00:00 GMT</pubDate>
-        <description>Francuz wrócił do swojego nowego domu po ostrej krytyce, jaką otrzymał w swoim kraju podczas przerwy reprezentacyjnej. Cztery z siedmiu meczów przed kolejnym zgrupowaniem drużyny narodowej rozegra na Santiago Bernabéu, a jednym z wyjazdów będą jego pierwsze derby Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/132402-dzisiejsze-okladki</link>
-        <pubDate>Thu, 12 Sep 2024 00:20:00 GMT</pubDate>
-        <description>Problemy Viníciusa i sukcesy Roberta Lewandowskiego to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
