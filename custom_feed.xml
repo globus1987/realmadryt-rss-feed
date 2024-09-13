@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Sep 2024 12:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 13:08:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 9. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/132447-terminarz-9-kolejki-la-ligi</link>
+        <pubDate>Fri, 13 Sep 2024 14:42:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 9. kolejki, w której Real Madryt zmierzy się z Villarrealem.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Łunin 2030!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132437-mbappe-wie-jak-to-jest-strzelac-na-reale-arenie</link>
         <pubDate>Fri, 13 Sep 2024 08:55:00 GMT</pubDate>
         <description>Gwiazdor strzelił dwa gole w marcu tego roku, gdy PSG pokonało na wyjeździe Real Sociedad w 1/8 finału Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 13 września</title>
-        <link>https://www.realmadryt.pl/news/132429-kartka-z-kalendarza-13-wrzesnia</link>
-        <pubDate>Fri, 13 Sep 2024 08:30:00 GMT</pubDate>
-        <description>Bolesne porażki z Lyonem i Atlético, pierwszy mecz w nowej odsłonie Pucharu Europy, urodziny obrońcy, debiut Gento i… pierwszy występ Di Stéfano w barwach Espanyolu. Co działo się 13 września?</description>
     </item>
     
 </channel>
