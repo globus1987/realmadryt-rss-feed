@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Sep 2024 21:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 22:21:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132458-dzisiejsze-okladki</link>
+        <pubDate>Sat, 14 Sep 2024 00:15:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Sociedadem i pozytywne wiadomości z Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Maite Oroz zawodniczką Tottenhamu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132446-oficjalnie-lunin-2030</link>
         <pubDate>Fri, 13 Sep 2024 14:20:00 GMT</pubDate>
         <description>Klub oficjalnie potwierdził przedłużenie umowy bramkarza.</description>
-    </item>
-    
-    <item>
-        <title>Rivaldo: To niesprawiedliwe, że Rodrygo nie dostał nominacji do Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/132445-rivaldo-to-niesprawiedliwe-ze-rodrygo-nie-dostal-nominacji-do-zlotej-pilki</link>
-        <pubDate>Fri, 13 Sep 2024 14:15:00 GMT</pubDate>
-        <description>Były piłkarz Barcelony, a obecnie ambasador firmy bukmacherskiej Betfair, Rivaldo, przeanalizował najważniejsze bieżące tematy związane z hiszpańskim i brazylijskim futbolem. Poniżej przedstawiamy wypowiedzi Brazylijczyka.</description>
     </item>
     
 </channel>
