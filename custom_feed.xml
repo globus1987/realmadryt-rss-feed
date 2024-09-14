@@ -4,7 +4,35 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 20:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 21:18:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kylian Mbappé MVP meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/132479-kylian-mbappe-mvp-meczu-z-realem-sociedad</link>
+        <pubDate>Sat, 14 Sep 2024 23:03:00 GMT</pubDate>
+        <description>Kylian Mbappé został wyróżniony po spotkaniu z Realem Sociedad. Królewscy wygrali 2:0, a Francuz strzelił drugą bramkę.</description>
+    </item>
+    
+    <item>
+        <title>Zubeldia: Pierwszy karny zmienił cały mecz</title>
+        <link>https://www.realmadryt.pl/news/132482-zubeldia-pierwszy-karny-zmienil-caly-mecz</link>
+        <pubDate>Sat, 14 Sep 2024 23:01:00 GMT</pubDate>
+        <description>Igor Zubeldia po meczu z Realem Madryt udzielił wypowiedzi Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Sociedad udzielone na murawie Estadio Anoeta.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/132478-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
+        <pubDate>Sat, 14 Sep 2024 23:01:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>5. kolejka: Real Madryt goni Barcelonę</title>
+        <link>https://www.realmadryt.pl/news/132477-5-kolejka-real-madryt-goni-barcelone</link>
+        <pubDate>Sat, 14 Sep 2024 22:56:00 GMT</pubDate>
+        <description>Real Madryt wygrał dziś z Realem Sociedad i zbliżył się do Barcelony na jeden punkt. Katalończycy rozegrają swoje spotkanie jutro.</description>
+    </item>
     
     <item>
         <title>Brahim zszedł z kontuzją</title>
@@ -14,10 +42,10 @@
     </item>
     
     <item>
-        <title>Real Sociedad – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/132476-real-sociedad-real-madryt-live</link>
+        <title>Real karnych nie chybia, Sociedad słupki obija</title>
+        <link>https://www.realmadryt.pl/news/132476-real-karnych-nie-chybia-sociedad-slupki-obija</link>
         <pubDate>Sat, 14 Sep 2024 21:00:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz na Reale Arena pomiędzy Realem Sociedad a Realem Madryt.</description>
+        <description>W meczu 5. kolejki La Ligi Real Madryt wygrał z Realem Sociedad 2:0. Bramki dla Królewskich z rzutów karnych zdobyli Vinícius Júnior i Kylian Mbappé.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/132471-lato-sie-skonczylo</link>
         <pubDate>Sat, 14 Sep 2024 15:34:00 GMT</pubDate>
         <description>Carlo Ancelotti najlepiej zna swoich piłkarzy. I najlepiej wie, jak do nich trafić, żeby uświadomić im, że nie może być już mowy o kolejnych potknięciach.</description>
-    </item>
-    
-    <item>
-        <title>Od powołania przez Simeone do wyjazdu z Realem na Anoetę</title>
-        <link>https://www.realmadryt.pl/news/132468-od-powolania-przez-simeone-do-wyjazdu-z-realem-na-anoete</link>
-        <pubDate>Sat, 14 Sep 2024 14:34:00 GMT</pubDate>
-        <description>Z La Academii do La Fábriki. Z Atlético do Realu. Od rywalizacji z Oblakiem do rywalizacji z Courtois. Od powołania od Simeone do powołania od Ancelottiego. Tak w dużym skrócie prezentują się ostatnie miesiące 19-letniego bramkarza Realu Madryt C, Sergio Mestre.</description>
-    </item>
-    
-    <item>
-        <title>Kylian i Vini chcą się odkuć</title>
-        <link>https://www.realmadryt.pl/news/132469-kylian-i-vini-chca-sie-odkuc</link>
-        <pubDate>Sat, 14 Sep 2024 14:13:00 GMT</pubDate>
-        <description>Kylian Mbappé i Vinícius na ostatnim treningu przed wylotem do San Sebastián wydawali się weseli i odprężeni. Obaj znajdują w Madrycie spokój i wytchnienie po rozczarowaniach i srogiej krytyce przeżytych podczas przerwy na reprezentacje.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w San Sebastián</title>
-        <link>https://www.realmadryt.pl/news/132466-krolewscy-sa-juz-w-san-sebastian</link>
-        <pubDate>Sat, 14 Sep 2024 12:38:00 GMT</pubDate>
-        <description>Drużyna Realu Madryt jest już w Kraju Basków, gdzie dziś o 21:00 zagra na Reale Arena z Realem Sociedad spotkanie w ramach 5. kolejki La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>El Confidencial: Atlético odmówiło przejęcia odwołanych koncertów z Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/132467-el-confidencial-atletico-odmowilo-przejecia-odwolanych-koncertow-z-bernabeu</link>
-        <pubDate>Sat, 14 Sep 2024 12:38:00 GMT</pubDate>
-        <description>El Confidencial tradycyjnie bardzo krytycznie ocenia działania Realu Madryt i nie inaczej jest z problemem, jaki klub napotkał w użytkowaniu Santiago Bernabéu. Portal podaje, że Królewscy szukali pomocy u sąsiadów, ale ci odmówili.</description>
     </item>
     
 </channel>
