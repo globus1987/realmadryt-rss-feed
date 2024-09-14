@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 10:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 10:40:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w San Sebastián</title>
+        <link>https://www.realmadryt.pl/news/132466-krolewscy-sa-juz-w-san-sebastian</link>
+        <pubDate>Sat, 14 Sep 2024 12:38:00 GMT</pubDate>
+        <description>Drużyna Realu Madryt jest już w Kraju Basków, gdzie dziś o 21:00 zagra na Reale Arena z Realem Sociedad spotkanie w ramach 5. kolejki La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>El Confidencial: Atlético odmówiło przejęcia odwołanych koncertów z Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/132467-el-confidencial-atletico-odmowilo-przejecia-odwolanych-koncertow-z-bernabeu</link>
+        <pubDate>Sat, 14 Sep 2024 12:38:00 GMT</pubDate>
+        <description>El Confidencial tradycyjnie bardzo krytycznie ocenia działania Realu Madryt i nie inaczej jest z problemem, jaki klub napotkał w użytkowaniu Santiago Bernabéu. Portal podaje, że Królewscy szukali pomocy u sąsiadów, ale ci odmówili.</description>
+    </item>
     
     <item>
         <title>Aihen Muñoz: Możemy rozegrać wielki mecz i pokonać Real Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132450-ancelotti-wielu-zapomina-ze-vinicius-i-mbappe-zaczeli-sezon-9-sierpnia</link>
         <pubDate>Sat, 14 Sep 2024 06:00:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Realem Sociedad w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/132458-dzisiejsze-okladki</link>
-        <pubDate>Sat, 14 Sep 2024 00:15:00 GMT</pubDate>
-        <description>Mecz Realu Madryt z Sociedadem i pozytywne wiadomości z Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Maite Oroz zawodniczką Tottenhamu</title>
-        <link>https://www.realmadryt.pl/news/132457-oficjalnie-maite-oroz-zawodniczka-tottenhamu</link>
-        <pubDate>Fri, 13 Sep 2024 23:24:00 GMT</pubDate>
-        <description>Maite Oroz po czterech latach pożegnała się z Realem Madryt. Odchodzi jako piłkarka z największą liczbą występów w barwach Las Blancas. Na nadchodzące cztery sezony związała się z Tottenhamem.</description>
     </item>
     
 </channel>
