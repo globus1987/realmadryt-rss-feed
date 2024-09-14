@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 08:26:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 08:43:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin: To dla mnie najlepsze miejsce do rozwoju</title>
+        <link>https://www.realmadryt.pl/news/132463-lunin-to-dla-mnie-najlepsze-miejsce-do-rozwoju</link>
+        <pubDate>Sat, 14 Sep 2024 10:36:00 GMT</pubDate>
+        <description>Po przedłużeniu kontraktu z Realem Madryt Andrij Łunin udzielił wywiadu oficjalnej telewizji klubowej. Poniżej możecie zapoznać się z jego słowami.</description>
+    </item>
+    
+    <item>
+        <title>Poszukiwany dobry hydraulik</title>
+        <link>https://www.realmadryt.pl/news/132453-poszukiwany-dobry-hydraulik</link>
+        <pubDate>Sat, 14 Sep 2024 10:30:00 GMT</pubDate>
+        <description>Szkoła branżowa to naprawdę dobry wybór.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 14 września</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132452-relevo-bernabeu-zawiesza-przyjmowanie-koncertow-az-do-kwietnia</link>
         <pubDate>Fri, 13 Sep 2024 19:33:00 GMT</pubDate>
         <description>Portal w wiadomości na wyłączność informuje, że klub zawiesza aktywność koncertową obiektu aż do kwietnia. Celem jest lepsze wygłuszenie stadionu i zareagowanie na skargi sąsiadów.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Sociedadu na Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/132451-kadra-sociedadu-na-real-madryt</link>
-        <pubDate>Fri, 13 Sep 2024 19:21:00 GMT</pubDate>
-        <description>Baskowie w trakcie przerwy na kadry odzyskali wielu piłkarzy. Na liście znaleźli się także dobrzy znajomi Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 5. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/132428-telewizyjny-terminarz-5-kolejki-la-ligi</link>
-        <pubDate>Fri, 13 Sep 2024 19:00:00 GMT</pubDate>
-        <description>Przed nami piąta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Realem Sociedad.</description>
     </item>
     
 </channel>
