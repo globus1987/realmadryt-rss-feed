@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 09:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 09:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatnia prosta</title>
+        <link>https://www.realmadryt.pl/news/132465-ostatnia-prosta</link>
+        <pubDate>Sat, 14 Sep 2024 11:30:00 GMT</pubDate>
+        <description>Real Madryt ma być zadowolony z tego, w jaki sposób Davies ograł Bayern, który nie naciskał na sprzedaż. Wszystko przebiega zgodnie z planem Królewskich.</description>
+    </item>
     
     <item>
         <title>Z San Sebastian do Madrytu i z powrotem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132456-oficjalny-komunikat-realu-madryt-ws-zawieszenia-dzialalnosci-bernabeu</link>
         <pubDate>Fri, 13 Sep 2024 23:10:00 GMT</pubDate>
         <description>Klub wystosował komunikat w sprawie stadionu Santiago Bernabéu. Przedstawiamy jego pełną treść.</description>
-    </item>
-    
-    <item>
-        <title>Wielka wątpliwość Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/132454-wielka-watpliwosc-ancelottiego</link>
-        <pubDate>Fri, 13 Sep 2024 21:02:00 GMT</pubDate>
-        <description>Carlo Ancelotti ma nie lada zagwozdkę przed starciem z Realem Sociedad. Plaga kontuzji w środku pola zmusza bowiem trenera do drastycznych zmian. Włoch może albo scalić pomoc z trzech piłkarzy, którzy nigdy wcześniej ze sobą nie grali, albo zmodyfikować ustawienie.</description>
     </item>
     
 </channel>
