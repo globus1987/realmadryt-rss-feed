@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 08:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 09:22:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Z San Sebastian do Madrytu i z powrotem</title>
+        <link>https://www.realmadryt.pl/news/132464-z-san-sebastian-do-madrytu-i-z-powrotem</link>
+        <pubDate>Sat, 14 Sep 2024 11:08:00 GMT</pubDate>
+        <description>Asier Illarramendi to jeden z ostatnich zawodników, którzy zakładali koszulkę Realu Madryt i Realu Sociedad. Obecnie gra w Major League Soccer.</description>
+    </item>
     
     <item>
         <title>Łunin: To dla mnie najlepsze miejsce do rozwoju</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132454-wielka-watpliwosc-ancelottiego</link>
         <pubDate>Fri, 13 Sep 2024 21:02:00 GMT</pubDate>
         <description>Carlo Ancelotti ma nie lada zagwozdkę przed starciem z Realem Sociedad. Plaga kontuzji w środku pola zmusza bowiem trenera do drastycznych zmian. Włoch może albo scalić pomoc z trzech piłkarzy, którzy nigdy wcześniej ze sobą nie grali, albo zmodyfikować ustawienie.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Bernabéu zawiesza przyjmowanie koncertów aż do kwietnia</title>
-        <link>https://www.realmadryt.pl/news/132452-relevo-bernabeu-zawiesza-przyjmowanie-koncertow-az-do-kwietnia</link>
-        <pubDate>Fri, 13 Sep 2024 19:33:00 GMT</pubDate>
-        <description>Portal w wiadomości na wyłączność informuje, że klub zawiesza aktywność koncertową obiektu aż do kwietnia. Celem jest lepsze wygłuszenie stadionu i zareagowanie na skargi sąsiadów.</description>
     </item>
     
 </channel>
