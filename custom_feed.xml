@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 22:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 22:40:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132490-dzisiejsze-okladki</link>
+        <pubDate>Sun, 15 Sep 2024 00:40:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Girony z Barceloną to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé: Szukamy się z Vinim w meczach i na treningach</title>
+        <link>https://www.realmadryt.pl/news/132488-mbappe-szukamy-sie-z-vinim-w-meczach-i-na-treningach</link>
+        <pubDate>Sun, 15 Sep 2024 00:28:00 GMT</pubDate>
+        <description>Kylian Mbappé udzielił wywiadu klubowej telewizji po wygranej 2:0 z Realem Sociedad. Przedstawiamy wypowiedzi atakującego Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Courtois: Mieliśmy szczęście ze słupkami, ale to zawsze pomaga</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132476-real-karnych-nie-chybia-sociedad-slupki-obija</link>
         <pubDate>Sat, 14 Sep 2024 21:00:00 GMT</pubDate>
         <description>W meczu 5. kolejki La Ligi Real Madryt wygrał z Realem Sociedad 2:0. Bramki dla Królewskich z rzutów karnych zdobyli Vinícius Júnior i Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Sociedadem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/132475-rozgrzewka-przed-sociedadem-video</link>
-        <pubDate>Sat, 14 Sep 2024 20:17:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Reale Arena, gdzie za kilkadziesiąt minut zaczną mecz z Sociedadem. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Real Sociedad – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/132474-real-sociedad-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 14 Sep 2024 19:06:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu La Ligi. Mecz rozpocznie się o godzinie 21:00 na Estadio Anoeta.</description>
     </item>
     
 </channel>
