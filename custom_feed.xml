@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 14:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 14:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Morderczy maraton przed Rüdigerem</title>
+        <link>https://www.realmadryt.pl/news/132473-morderczy-maraton-przed-ruedigerem</link>
+        <pubDate>Sat, 14 Sep 2024 16:51:00 GMT</pubDate>
+        <description>Stoper nie udał się na zgrupowanie reprezentacji, aby zregenerować siły po wyczerpującym lecie. Przed nim jednak okres, w którym Ancelotti będzie prawdopodobnie wystawiać go cały czas...</description>
+    </item>
     
     <item>
         <title>„Rodrygo ma więcej klasy niż Vinícius i Mbappé”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132453-poszukiwany-dobry-hydraulik</link>
         <pubDate>Sat, 14 Sep 2024 10:30:00 GMT</pubDate>
         <description>Szkoła branżowa to naprawdę dobry wybór.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 14 września</title>
-        <link>https://www.realmadryt.pl/news/132462-kartka-z-kalendarza-14-wrzesnia</link>
-        <pubDate>Sat, 14 Sep 2024 09:58:00 GMT</pubDate>
-        <description>Debiuty, debiuty i jeszcze raz debiuty. Puskás, Van der Vaart, Illarramendi i Gareth Bale zagrali pierwsze spotkanie w barwach Realu Madryt właśnie 14 września. Jak im poszło?</description>
     </item>
     
 </channel>
