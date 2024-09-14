@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 03:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 04:25:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Wielu zapomina, że Vinícius i Mbappé zaczęli sezon 9 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/132450-ancelotti-wielu-zapomina-ze-vinicius-i-mbappe-zaczeli-sezon-9-sierpnia</link>
+        <pubDate>Sat, 14 Sep 2024 06:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Realem Sociedad w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132447-terminarz-9-kolejki-la-ligi</link>
         <pubDate>Fri, 13 Sep 2024 14:42:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 9. kolejki, w której Real Madryt zmierzy się z Villarrealem.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Łunin 2030!</title>
-        <link>https://www.realmadryt.pl/news/132446-oficjalnie-lunin-2030</link>
-        <pubDate>Fri, 13 Sep 2024 14:20:00 GMT</pubDate>
-        <description>Klub oficjalnie potwierdził przedłużenie umowy bramkarza.</description>
     </item>
     
 </channel>
