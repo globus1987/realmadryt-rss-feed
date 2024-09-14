@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Sep 2024 13:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 13:41:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Lato się skończyło”</title>
+        <link>https://www.realmadryt.pl/news/132471-lato-sie-skonczylo</link>
+        <pubDate>Sat, 14 Sep 2024 15:34:00 GMT</pubDate>
+        <description>Carlo Ancelotti najlepiej zna swoich piłkarzy. I najlepiej wie, jak do nich trafić, żeby uświadomić im, że nie może być już mowy o kolejnych potknięciach.</description>
+    </item>
     
     <item>
         <title>Od powołania przez Simeone do wyjazdu z Realem na Anoetę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132455-nieprzypadkowe-powolanie</link>
         <pubDate>Sat, 14 Sep 2024 08:30:00 GMT</pubDate>
         <description>Chema debiutuje w pierwszej drużynie Realu Madryt. Jak na razie tylko w roli powołanego na mecz, co nie zmienia faktu, że jego obecność na liście Ancelottiego nie jest przypadkowa.</description>
-    </item>
-    
-    <item>
-        <title>Fortuna oferuje 30 za 30 dla każdego!</title>
-        <link>https://www.realmadryt.pl/news/132459-fortuna-oferuje-30-za-30-dla-kazdego</link>
-        <pubDate>Sat, 14 Sep 2024 07:45:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
