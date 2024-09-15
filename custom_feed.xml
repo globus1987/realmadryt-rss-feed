@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 07:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 07:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 września</title>
+        <link>https://www.realmadryt.pl/news/132485-kartka-z-kalendarza-15-wrzesnia</link>
+        <pubDate>Sun, 15 Sep 2024 09:30:00 GMT</pubDate>
+        <description>Nominacja Santiago Bernabéu na prezesa Realu Madryt, bramka Jacka Krzynówka przeciwko Królewskim, pierwszy mecz Ligi Mistrzów w drugiej erze Florentino Péreza i przegłosowanie utworzenia żeńskiej sekcji piłkarskiej. Co działo się 15 września?</description>
+    </item>
     
     <item>
         <title>100 ligowych zwycięstw Rodrygo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132479-kylian-mbappe-mvp-meczu-z-realem-sociedad</link>
         <pubDate>Sat, 14 Sep 2024 23:03:00 GMT</pubDate>
         <description>Kylian Mbappé został wyróżniony po spotkaniu z Realem Sociedad. Królewscy wygrali 2:0, a Francuz strzelił drugą bramkę.</description>
-    </item>
-    
-    <item>
-        <title>Zubeldia: Pierwszy karny zmienił cały mecz</title>
-        <link>https://www.realmadryt.pl/news/132482-zubeldia-pierwszy-karny-zmienil-caly-mecz</link>
-        <pubDate>Sat, 14 Sep 2024 23:01:00 GMT</pubDate>
-        <description>Igor Zubeldia po meczu z Realem Madryt udzielił wypowiedzi Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Sociedad udzielone na murawie Estadio Anoeta.</description>
     </item>
     
 </channel>
