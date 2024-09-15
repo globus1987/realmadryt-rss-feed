@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 06:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 07:18:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>100 ligowych zwycięstw Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/132491-100-ligowych-zwyciestw-rodrygo</link>
+        <pubDate>Sun, 15 Sep 2024 08:50:00 GMT</pubDate>
+        <description>Mecz z Realem Sociedad był dla Rodrygo 100. ligowym zwycięstwem w barwach Realu Madryt. Na osiągnięcie tego wyniku potrzebował 147 spotkań.</description>
+    </item>
     
     <item>
         <title>Po pierwsze ligowe zwycięstwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132482-zubeldia-pierwszy-karny-zmienil-caly-mecz</link>
         <pubDate>Sat, 14 Sep 2024 23:01:00 GMT</pubDate>
         <description>Igor Zubeldia po meczu z Realem Madryt udzielił wypowiedzi Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Sociedad udzielone na murawie Estadio Anoeta.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/132478-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
-        <pubDate>Sat, 14 Sep 2024 23:01:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
