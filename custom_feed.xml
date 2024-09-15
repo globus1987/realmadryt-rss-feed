@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 22:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 22:40:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132510-dzisiejsze-okladki</link>
+        <pubDate>Mon, 16 Sep 2024 00:28:00 GMT</pubDate>
+        <description>Kontuzja Brahima, forma Kyliana Mbappé i wygrana Barcelony to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>6x08: Czy zwycięstwo może martwić?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132499-sasiedzi-bernabeu-to-stadion-sportowy-a-nie-sala-koncertowa-florentino</link>
         <pubDate>Sun, 15 Sep 2024 12:41:00 GMT</pubDate>
         <description>Sacramento Ramos to prezeska Stowarzyszenia Inicjatywy Sąsiedzkiej w Obronie Środowiska oraz Przeciwko Tunelowi pod Paseo de la Habana i Padre Damiána. Działaczka skomentowała decyzję Realu Madryt o wstrzymaniu organizowania koncertów na stadionie Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Duży krok w przód Gülera</title>
-        <link>https://www.realmadryt.pl/news/132498-duzy-krok-w-przod-guelera</link>
-        <pubDate>Sun, 15 Sep 2024 12:06:00 GMT</pubDate>
-        <description>Arda Güler pokazał się z dobrej strony w starciu z Realem Sociedad, pomimo że nie zagrał na swojej ulubionej pozycji. Carlo Ancelotti widzi, że wystawianie go w środku pola daje nowe możliwości. Turek ma na koncie łącznie 14 meczów w La Lidze, w których nie doznał jeszcze ani jednej porażki.</description>
     </item>
     
 </channel>
