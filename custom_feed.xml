@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 19:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 19:38:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé znów jest sobą</title>
+        <link>https://www.realmadryt.pl/news/132508-mbappe-znow-jest-soba</link>
+        <pubDate>Sun, 15 Sep 2024 21:27:00 GMT</pubDate>
+        <description>W spotkaniu z Realem Sociedad Kylian Mbappé rozegrał swoje najlepsze zawody w barwach Realu Madryt. „Z każdym kolejnym meczem czuję się coraz lepiej”, powiedział z uśmiechem na ustach po ostatnim gwizdku.</description>
+    </item>
     
     <item>
         <title>Relevo: Rodrygo znów zniknął</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132497-oceny-zawodnikow-po-meczu-z-realem-sociedad</link>
         <pubDate>Sun, 15 Sep 2024 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Realem Sociedad 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Halil Umut Meler na Stuttgart</title>
-        <link>https://www.realmadryt.pl/news/132496-halil-umut-meler-na-stuttgart</link>
-        <pubDate>Sun, 15 Sep 2024 10:42:00 GMT</pubDate>
-        <description>UEFA wybrała turecko-holenderski zestaw sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Halil Umut Meler, a za wideoweryfikację odpowiadać będzie Rob Dieperink.</description>
     </item>
     
 </channel>
