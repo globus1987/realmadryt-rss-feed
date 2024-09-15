@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 06:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 06:45:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po pierwsze ligowe zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/132489-po-pierwsze-ligowe-zwyciestwo</link>
+        <pubDate>Sun, 15 Sep 2024 08:30:00 GMT</pubDate>
+        <description>W 4. kolejce Primera Federación Castilla zagra z rezerwami Betisu. Królewscy ciągle pozostają bez wygranej i dzisiaj będą mieli szansę na przełamanie tej passy.</description>
+    </item>
     
     <item>
         <title>Sedzia przy drugim karnym: Oczywiste nadepnięcie, jest spóźniony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132478-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
         <pubDate>Sat, 14 Sep 2024 23:01:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>5. kolejka: Real Madryt goni Barcelonę</title>
-        <link>https://www.realmadryt.pl/news/132477-5-kolejka-real-madryt-goni-barcelone</link>
-        <pubDate>Sat, 14 Sep 2024 22:56:00 GMT</pubDate>
-        <description>Real Madryt wygrał dziś z Realem Sociedad i zbliżył się do Barcelony na jeden punkt. Katalończycy rozegrają swoje spotkanie jutro.</description>
     </item>
     
 </channel>
