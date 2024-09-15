@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 13:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 13:29:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Girona vs Barcelona: Przed nami derby Katalonii</title>
+        <link>https://www.realmadryt.pl/news/132505-girona-vs-barcelona-przed-nami-derby-katalonii</link>
+        <pubDate>Sun, 15 Sep 2024 15:15:00 GMT</pubDate>
+        <description>Już dziś w derbach Katalonii Girona zmierzy się z Barceloną na Montilivi i będzie to niezwykle ważny mecz w kontekście walki o czołówce miejsca w tabeli.</description>
+    </item>
     
     <item>
         <title>Brahim będzie pauzować 3 miesiące?!</title>
         <link>https://www.realmadryt.pl/news/132504-brahim-bedzie-pauzowac-3-miesiace</link>
         <pubDate>Sun, 15 Sep 2024 14:40:00 GMT</pubDate>
-        <description>Hiszpan grający w reprezentacji Maroka przeszedł dzisiaj badania i poznał diagnozę swojego urazu.</description>
+        <description>Hiszpan grający w reprezentacji Maroka przeszedł dzisiaj badania i poznał diagnozę swojego urazu. Ostatecznie jego przerwa potrwa nawet 3 miesiące.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132494-pilkarki-wygrywaja-w-lidze-przed-walka-o-lige-mistrzyn-video</link>
         <pubDate>Sun, 15 Sep 2024 10:00:00 GMT</pubDate>
         <description>Piłkarki Królewskich pewnie wygrały drugi mecz ligowy i utrzymały pozycję lidera Ligi F. Teraz czas na pierwszy eliminacyjny mecz do Ligi Mistrzyń.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 15 września</title>
-        <link>https://www.realmadryt.pl/news/132485-kartka-z-kalendarza-15-wrzesnia</link>
-        <pubDate>Sun, 15 Sep 2024 09:30:00 GMT</pubDate>
-        <description>Nominacja Santiago Bernabéu na prezesa Realu Madryt, bramka Jacka Krzynówka przeciwko Królewskim, pierwszy mecz Ligi Mistrzów w drugiej erze Florentino Péreza i przegłosowanie utworzenia żeńskiej sekcji piłkarskiej. Co działo się 15 września?</description>
     </item>
     
 </channel>
