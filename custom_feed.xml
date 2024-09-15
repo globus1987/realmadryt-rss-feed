@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 09:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 10:21:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Duży krok w przód Gülera</title>
+        <link>https://www.realmadryt.pl/news/132498-duzy-krok-w-przod-guelera</link>
+        <pubDate>Sun, 15 Sep 2024 12:06:00 GMT</pubDate>
+        <description>Arda Güler pokazał się z dobrej strony w starciu z Realem Sociedad, pomimo że nie zagrał na swojej ulubionej pozycji. Carlo Ancelotti widzi, że wystawianie go w środku pola daje nowe możliwości. Turek ma na koncie łącznie 14 meczów w La Lidze, w których nie doznał jeszcze ani jednej porażki.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/132497-oceny-zawodnikow-po-meczu-z-realem-sociedad</link>
+        <pubDate>Sun, 15 Sep 2024 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z Realem Sociedad 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Halil Umut Meler na Stuttgart</title>
@@ -49,7 +63,7 @@
     </item>
     
     <item>
-        <title>Sedzia przy drugim karnym: Oczywiste nadepnięcie, jest spóźniony</title>
+        <title>Sędzia przy drugim karnym: Oczywiste nadepnięcie, jest spóźniony</title>
         <link>https://www.realmadryt.pl/news/132493-sedzia-przy-drugim-karnym-oczywiste-nadepniecie-jest-spozniony</link>
         <pubDate>Sun, 15 Sep 2024 07:50:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska udostępniła nagranie z systemu VAR z akcji z przyznaniem rzutu karnego za faul Jona Aramburu na Viníciusie.</description>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132488-mbappe-szukamy-sie-z-vinim-w-meczach-i-na-treningach</link>
         <pubDate>Sun, 15 Sep 2024 00:28:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu klubowej telewizji po wygranej 2:0 z Realem Sociedad. Przedstawiamy wypowiedzi atakującego Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Mieliśmy szczęście ze słupkami, ale to zawsze pomaga</title>
-        <link>https://www.realmadryt.pl/news/132487-courtois-mielismy-szczescie-ze-slupkami-ale-to-zawsze-pomaga</link>
-        <pubDate>Sun, 15 Sep 2024 00:13:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu klubowej telewizji po wygranej 2:0 z Realem Sociedad. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo na zakończenie przygotowań</title>
-        <link>https://www.realmadryt.pl/news/132484-zwyciestwo-na-zakonczenie-przygotowan</link>
-        <pubDate>Sat, 14 Sep 2024 23:31:00 GMT</pubDate>
-        <description>Trzeci i zarazem ostatni sparing koszykarzy zakończył się ich zwycięstwem nad Varese. Spotkanie nie było łatwe, ale też wynik jest w tym momencie sprawą drugorzędną. Teraz czas na przygotowanie się do półfinałowego meczu z Barceloną w Superpucharze.</description>
     </item>
     
 </channel>
