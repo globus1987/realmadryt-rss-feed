@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Sep 2024 05:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 05:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sedzia przy drugim karnym: Oczywiste nadepnięcie, jest spóźniony</title>
+        <link>https://www.realmadryt.pl/news/132493-sedzia-przy-drugim-karnym-oczywiste-nadepniecie-jest-spozniony</link>
+        <pubDate>Sun, 15 Sep 2024 07:50:00 GMT</pubDate>
+        <description>Hiszpańska Federacja Piłkarska udostępniła nagranie z systemu VAR z akcji z przyznaniem rzutu karnego za faul Jona Aramburu na Viníciusie.</description>
+    </item>
     
     <item>
         <title>Kubo: Faul odgwizdany przy drugim karnym jest śmieszny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132477-5-kolejka-real-madryt-goni-barcelone</link>
         <pubDate>Sat, 14 Sep 2024 22:56:00 GMT</pubDate>
         <description>Real Madryt wygrał dziś z Realem Sociedad i zbliżył się do Barcelony na jeden punkt. Katalończycy rozegrają swoje spotkanie jutro.</description>
-    </item>
-    
-    <item>
-        <title>Brahim zszedł z kontuzją</title>
-        <link>https://www.realmadryt.pl/news/132481-brahim-zszedl-z-kontuzja</link>
-        <pubDate>Sat, 14 Sep 2024 21:47:00 GMT</pubDate>
-        <description>Brahim Díaz opuścił mecz Realu Madryt na Reale Arena z kontuzją.</description>
     </item>
     
 </channel>
