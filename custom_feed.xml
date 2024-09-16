@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Sep 2024 22:19:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 22:38:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132539-dzisiejsze-okladki</link>
+        <pubDate>Tue, 17 Sep 2024 00:36:00 GMT</pubDate>
+        <description>Początek Ligi Mistrzów i kontuzja Daniego Olmo to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Guti: Mam nadzieję, że kolejnym celem Florentino będzie Haaland</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132525-marca-mendy-z-porozumieniem-ws-nowego-kontraktu</link>
         <pubDate>Mon, 16 Sep 2024 16:13:00 GMT</pubDate>
         <description>Dziennik podaje, że strony ustaliły warunki umowy i przyszłość Francuza została zabezpieczona. Pozostaje teraz ogłosić to oficjalnie.</description>
-    </item>
-    
-    <item>
-        <title>400 zł za zwycięzcę w meczu Ligi Mistrzów!</title>
-        <link>https://www.realmadryt.pl/news/132524-400-zl-za-zwyciezce-w-meczu-ligi-mistrzow</link>
-        <pubDate>Mon, 16 Sep 2024 14:49:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
