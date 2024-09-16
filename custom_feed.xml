@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Sep 2024 14:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 14:42:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick ogłosił, że wziął ślub</title>
+        <link>https://www.realmadryt.pl/news/132526-endrick-oglosil-ze-wzial-slub</link>
+        <pubDate>Mon, 16 Sep 2024 16:35:00 GMT</pubDate>
+        <description>Piłkarz i jego partnerka poinformowali, ze zawarli związek małżeński.</description>
+    </item>
     
     <item>
         <title>MARCA: Mendy z porozumieniem ws. nowego kontraktu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132516-problemy-z-otwieraniem-wyniku</link>
         <pubDate>Mon, 16 Sep 2024 09:30:00 GMT</pubDate>
         <description>W sześciu oficjalnych spotkaniach sezonu Królewscy tylko raz zdobyli bramkę w pierwszej połowie meczu. Od tamtego momentu upływa praktycznie miesiąc.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 16 września</title>
-        <link>https://www.realmadryt.pl/news/132515-kartka-z-kalendarza-16-wrzesnia</link>
-        <pubDate>Mon, 16 Sep 2024 09:00:00 GMT</pubDate>
-        <description>Urodziny byłego trenera, pogrom Realu Sociedad i wygrana w pierwszym meczu Ligi Mistrzów po zdobyciu La Décimy. Co działo się 16 września?</description>
     </item>
     
 </channel>
