@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Sep 2024 07:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 07:38:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Problemy z otwieraniem wyniku</title>
+        <link>https://www.realmadryt.pl/news/132516-problemy-z-otwieraniem-wyniku</link>
+        <pubDate>Mon, 16 Sep 2024 09:30:00 GMT</pubDate>
+        <description>W sześciu oficjalnych spotkaniach sezonu Królewscy tylko raz zdobyli bramkę w pierwszej połowie meczu. Od tamtego momentu upływa praktycznie miesiąc.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 16 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132504-brahim-bedzie-pauzowac-3-miesiace</link>
         <pubDate>Sun, 15 Sep 2024 14:40:00 GMT</pubDate>
         <description>Hiszpan grający w reprezentacji Maroka przeszedł dzisiaj badania i poznał diagnozę swojego urazu. Ostatecznie jego przerwa potrwa nawet 3 miesiące.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni i Bellingham wrócili do treningów z grupą</title>
-        <link>https://www.realmadryt.pl/news/132503-tchouameni-i-bellingham-wrocili-do-treningow-z-grupa</link>
-        <pubDate>Sun, 15 Sep 2024 14:18:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu. Była to głównie sesja regeneracyjna.</description>
     </item>
     
 </channel>
