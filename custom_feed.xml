@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Sep 2024 08:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 08:45:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowy format, ta sama era</title>
+        <link>https://www.realmadryt.pl/news/132486-nowy-format-ta-sama-era</link>
+        <pubDate>Tue, 17 Sep 2024 10:45:00 GMT</pubDate>
+        <description>Nie wszystko jest takie, jakim się wydaje.</description>
+    </item>
     
     <item>
         <title>Piłkarze Realu Madryt odebrali stauetki za poprzedni sezon Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132534-real-wlacza-tryb-ligi-mistrzow</link>
         <pubDate>Mon, 16 Sep 2024 21:07:00 GMT</pubDate>
         <description>Pomimo kontuzji i nieregularnego początku sezonu, Królewscy ufają swojej historycznej relacji z najważniejszymi klubowymi rozgrywkami Starego Kontynentu.</description>
-    </item>
-    
-    <item>
-        <title>Khedira: Będę podekscytowany tym, jak VfB poradzi sobie na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/132533-khedira-bede-podekscytowany-tym-jak-vfb-poradzi-sobie-na-bernabeu</link>
-        <pubDate>Mon, 16 Sep 2024 20:11:00 GMT</pubDate>
-        <description>Sami Khedira, który w 2010 roku trafił do Realu Madryt z VfB Stuttgart i grał w nim z sukcesami przez cztery lata, udzielił wywiadu oficjalnej stronie internetowej niemieckiego zespołu. Mówił o magii Bernabéu, wtorkowym mecz obu ekip czy najciekawszych miejscach w stolicy Hiszpanii.</description>
     </item>
     
 </channel>
