@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Sep 2024 22:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 22:53:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132571-dzisiejsze-okladki</link>
+        <pubDate>Wed, 18 Sep 2024 00:44:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i cele Roberta Lewandowskiego to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt 3:1 VfB Stuttgart [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132559-real-madryt-stuttgart-znamy-sklady</link>
         <pubDate>Tue, 17 Sep 2024 19:06:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu Ligi Mistrzów. Spotkanie rozpocznie się o godzinie 21:00 na Estadio Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Rusza nowa Liga Mistrzów: sześć wtorkowych meczów</title>
-        <link>https://www.realmadryt.pl/news/132558-rusza-nowa-liga-mistrzow-szesc-wtorkowych-meczow</link>
-        <pubDate>Tue, 17 Sep 2024 18:30:00 GMT</pubDate>
-        <description>Od wtorku do czwartku odbędzie się 1. kolejka nowej fazy ligowej Ligi Mistrzów. We wtorek rozgrywanych jest sześć meczów, w tym spotkanie Realu Madryt.</description>
     </item>
     
 </channel>
