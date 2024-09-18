@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 10:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 10:55:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/132581-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Wed, 18 Sep 2024 12:52:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu ligowego w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Hoeneß: Jestem rozczarowany, bo mogliśmy nawet wygrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132569-real-madryt-3-1-vfb-stuttgart-video</link>
         <pubDate>Wed, 18 Sep 2024 00:02:00 GMT</pubDate>
         <description>CANAL+ zamieścił po meczu obszerny skrót wtorkowego spotkania w Madrycie.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Mogę strzelać jeszcze więcej</title>
-        <link>https://www.realmadryt.pl/news/132568-mbappe-moge-strzelac-jeszcze-wiecej</link>
-        <pubDate>Tue, 17 Sep 2024 23:56:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielił wywiadu telewizji Movistar+ po wygranej 3:1 ze Stuttgartem w Lidze Mistrzów. Przedstawiamy wypowiedzi gracza Królewskich.</description>
     </item>
     
 </channel>
