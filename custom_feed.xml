@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 17:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 17:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Courtois światełkiem w tunelu</title>
+        <link>https://www.realmadryt.pl/news/132593-as-courtois-swiatelkiem-w-tunelu</link>
+        <pubDate>Wed, 18 Sep 2024 19:41:00 GMT</pubDate>
+        <description>W meczu ze Stuttgartem Thibo zanotował aż sześć parad. Jest w bramce gigantem ze stali, ratując kolegów.</description>
+    </item>
     
     <item>
         <title>Ruszyła nowa Liga Mistrzów: sześć środowych meczów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132582-nie-zyje-salvatore-schillaci</link>
         <pubDate>Wed, 18 Sep 2024 12:57:00 GMT</pubDate>
         <description>Królewscy oficjalnie złożyli kondolencje rodzinie i bliskim byłego piłkarza, który zmarł dzisiaj w wieku 59 lat. Włoch od 2022 roku cierpiał na raka jelita grubego.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/132581-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Wed, 18 Sep 2024 12:52:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu ligowego w tym sezonie.</description>
     </item>
     
 </channel>
