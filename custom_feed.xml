@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 05:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 05:54:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Próbuje się stworzyć między nami negatywną dynamikę</title>
+        <link>https://www.realmadryt.pl/news/132572-bellingham-probuje-sie-stworzyc-miedzy-nami-negatywna-dynamike</link>
+        <pubDate>Wed, 18 Sep 2024 07:50:00 GMT</pubDate>
+        <description>Jude Bellingham po meczu Ligi Mistrzów ze Stuttgartem udzielił wywiadów telewizjom TNT Sports i Real Madrid TV. Przedstawiamy wypowiedzi Anglika z tych rozmów.</description>
+    </item>
     
     <item>
         <title>Undav: Karny Rüdigera na Touré? To nigdy nie jest karny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132563-ocen-pilkarzy-po-meczu-ze-stuttgartem</link>
         <pubDate>Tue, 17 Sep 2024 23:00:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Real wygrywa, ale nadal nie daje radości</title>
-        <link>https://www.realmadryt.pl/news/132560-real-wygrywa-ale-nadal-nie-daje-radosci</link>
-        <pubDate>Tue, 17 Sep 2024 21:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał w pierwszym meczu Ligi Mistrzów ze Stuttgartem 3:1. Gole dla Królewskich strzelili Kylian Mbappé, Antonio Rüdiger i Endrick.</description>
     </item>
     
 </channel>
