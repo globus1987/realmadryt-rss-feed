@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 08:26:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 08:44:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 18 września</title>
+        <link>https://www.realmadryt.pl/news/132576-kartka-z-kalendarza-18-wrzesnia</link>
+        <pubDate>Wed, 18 Sep 2024 10:30:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza i asystenta oraz ważny mecz w Lidze Mistrzów z Manchesterem City. Co działo się 18 września?</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jeśli ktoś myśli, że wygrywanie meczów jest łatwe, to się myli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132566-ancelotti-zawsze-jest-trudno-trzeba-walczyc-i-cierpiec</link>
         <pubDate>Tue, 17 Sep 2024 23:38:00 GMT</pubDate>
         <description>Carlo Ancelotti po meczu Ligi Mistrzów ze Stuttgartem udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi piłkarz Realu Madryt ze strefy mieszanej Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Nie potrafiliśmy odpowiednio wykorzystać miejsca za plecami ich obrony</title>
-        <link>https://www.realmadryt.pl/news/132565-courtois-nie-potrafilismy-odpowiednio-wykorzystac-miejsca-za-plecami-ich-obrony</link>
-        <pubDate>Tue, 17 Sep 2024 23:12:00 GMT</pubDate>
-        <description>Thibaut Courtois po meczu Ligi Mistrzów ze Stuttgartem udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi piłkarz Realu Madryt z murawy Santiago Bernabéu.</description>
     </item>
     
 </channel>
