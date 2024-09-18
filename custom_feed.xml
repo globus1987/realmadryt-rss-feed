@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 10:55:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 11:18:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie żyje Salvatore Schillaci</title>
+        <link>https://www.realmadryt.pl/news/132582-nie-zyje-salvatore-schillaci</link>
+        <pubDate>Wed, 18 Sep 2024 12:57:00 GMT</pubDate>
+        <description>Królewscy oficjalnie złożyli kondolencje rodzinie i bliskim byłego piłkarza, który zmarł dzisiaj w wieku 59 lat. Włoch od 2022 roku cierpiał na raka jelita grubego.</description>
+    </item>
     
     <item>
         <title>Królewscy mają dziś wolne</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132571-dzisiejsze-okladki</link>
         <pubDate>Wed, 18 Sep 2024 00:44:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i cele Roberta Lewandowskiego to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 3:1 VfB Stuttgart [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/132569-real-madryt-3-1-vfb-stuttgart-video</link>
-        <pubDate>Wed, 18 Sep 2024 00:02:00 GMT</pubDate>
-        <description>CANAL+ zamieścił po meczu obszerny skrót wtorkowego spotkania w Madrycie.</description>
     </item>
     
 </channel>
