@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 06:31:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 06:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Tylko głupcy zapominają o R</title>
+        <link>https://www.realmadryt.pl/news/132578-bellingham-tylko-glupcy-zapominaja-o-r</link>
+        <pubDate>Wed, 18 Sep 2024 08:52:00 GMT</pubDate>
+        <description>Anglik zdecydował się skomentować pomeczowy wpis Rodrygo i dosadnie podkreślił rolę swojego kolegi w zespole.</description>
+    </item>
+    
+    <item>
+        <title>Endrick: Mój gol? W tamtej akcji najlepszą opcją był strzał</title>
+        <link>https://www.realmadryt.pl/news/132570-endrick-moj-gol-w-tamtej-akcji-najlepsza-opcja-byl-strzal</link>
+        <pubDate>Wed, 18 Sep 2024 08:40:00 GMT</pubDate>
+        <description>Endrick udzielił wywiadu klubowej telewizji po wygranej 3:1 ze Stuttgartem w Lidze Mistrzów. Przedstawiamy wypowiedzi atakującego Królewskich.</description>
+    </item>
     
     <item>
         <title>Bellingham: Próbuje się stworzyć między nami negatywną dynamikę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132564-thibaut-courtois-mvp-meczu-ze-stuttgartem</link>
         <pubDate>Tue, 17 Sep 2024 23:11:00 GMT</pubDate>
         <description>Belgijski golkiper otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt ze Stuttgartem.</description>
-    </item>
-    
-    <item>
-        <title>Wygrana Liverpoolu na San Siro, Bayern pierwszym liderem</title>
-        <link>https://www.realmadryt.pl/news/132562-wygrana-liverpoolu-na-san-siro-bayern-pierwszym-liderem</link>
-        <pubDate>Tue, 17 Sep 2024 23:05:00 GMT</pubDate>
-        <description>Znamy rozstrzygnięcia po pierwszym dniu Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu ze Stuttgartem</title>
-        <link>https://www.realmadryt.pl/news/132563-ocen-pilkarzy-po-meczu-ze-stuttgartem</link>
-        <pubDate>Tue, 17 Sep 2024 23:00:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
