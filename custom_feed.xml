@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 15:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 16:27:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rotacje na jedenastym metrze</title>
+        <link>https://www.realmadryt.pl/news/132591-rotacje-na-jedenastym-metrze</link>
+        <pubDate>Wed, 18 Sep 2024 18:01:00 GMT</pubDate>
+        <description>Wybór strzelców rzutów karnych w trakcie sezonu może okazać się kluczowy. W Realu Madryt w ostatnich trzech sezonach następują w tym aspekcie ciągłe zmiany. Pomimo jakościowych egzekutorów decyzje dotyczące etatowych strzelców jedenastek niezmiennie budzą dyskusje.</description>
+    </item>
     
     <item>
         <title>Piłkarski terminarz grozy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132577-hoeness-jestem-rozczarowany-bo-moglismy-nawet-wygrac</link>
         <pubDate>Wed, 18 Sep 2024 12:00:00 GMT</pubDate>
         <description>Sebastian Hoeneß wziął udział w konferencji prasowej po porażce 1:3 z Realem Madryt na Estadio Santiago Bernabéu. Przedstawiamy wypowiedzi trenera Stuttgartu.</description>
-    </item>
-    
-    <item>
-        <title>Endrick najmłodszym strzelcem gola dla Realu w historii europejskich rozgrywek</title>
-        <link>https://www.realmadryt.pl/news/132579-endrick-najmlodszym-strzelcem-gola-dla-realu-w-historii-europejskich-rozgrywek</link>
-        <pubDate>Wed, 18 Sep 2024 11:15:00 GMT</pubDate>
-        <description>Endrick trafił wczoraj do siatki w spotkaniu ze Stuttgartem, bijąc tym samym wieloletni rekord Raúla.</description>
     </item>
     
 </channel>
