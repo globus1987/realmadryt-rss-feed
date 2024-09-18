@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 11:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 12:42:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Szaleństwo Endricka</title>
+        <link>https://www.realmadryt.pl/news/132585-szalenstwo-endricka</link>
+        <pubDate>Wed, 18 Sep 2024 14:27:00 GMT</pubDate>
+        <description>Endrick przypieczętował zwycięstwo ze Stuttgartem potężnym strzałem z dystansu, pokazując niebywałą pewność siebie i ponownie zapisując się w historii klubu. Brazylijczyk strzelił dwa gole na przestrzeni 20 minut spędzonych na boisku w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu ze Stuttgartem</title>
+        <link>https://www.realmadryt.pl/news/132584-oceny-zawodnikow-po-meczu-ze-stuttgartem</link>
+        <pubDate>Wed, 18 Sep 2024 14:06:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z VfB Stuttgart 3:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Karanka: Odpowiedzią na to, co wydarzyło się wczoraj, jest Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/132583-karanka-odpowiedzia-na-to-co-wydarzylo-sie-wczoraj-jest-real-madryt</link>
+        <pubDate>Wed, 18 Sep 2024 13:55:00 GMT</pubDate>
+        <description>Aitor Karanka, były piłkarz Realu Madryt i asystent José Mourinho podczas pracy Portugalczyka na Bernabéu, był gościem Radio MARCA, gdzie mówił m.in. o wczorajszym zwycięstwie ze Stuttgartem w pierwszym meczu fazy ligowej Ligi Mistrzów. Przedstawiamy przemyślenia Baska, który dziś świętuje 51. urodziny.</description>
+    </item>
     
     <item>
         <title>Nie żyje Salvatore Schillaci</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/132572-bellingham-probuje-sie-stworzyc-miedzy-nami-negatywna-dynamike</link>
         <pubDate>Wed, 18 Sep 2024 07:50:00 GMT</pubDate>
         <description>Jude Bellingham po meczu Ligi Mistrzów ze Stuttgartem udzielił wywiadów telewizjom TNT Sports i Real Madrid TV. Przedstawiamy wypowiedzi Anglika z tych rozmów.</description>
-    </item>
-    
-    <item>
-        <title>Undav: Karny Rüdigera na Touré? To nigdy nie jest karny</title>
-        <link>https://www.realmadryt.pl/news/132573-undav-karny-ruedigera-na-toure-to-nigdy-nie-jest-karny</link>
-        <pubDate>Wed, 18 Sep 2024 07:00:00 GMT</pubDate>
-        <description>W programie Chiringuito analizowano sytuację z doliczonego czasu gry drugiej połowy i potencjalny rzut karny dla Stuttgartu. Sytuację w strefie mieszanej wyjaśnił jeden z zawodników gości.</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger: Pierwsza połowa nie była godna Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/132574-ruediger-pierwsza-polowa-nie-byla-godna-realu-madryt</link>
-        <pubDate>Wed, 18 Sep 2024 06:00:00 GMT</pubDate>
-        <description>Antonio Rüdiger po meczu Ligi Mistrzów ze Stuttgartem pojawił się w strefie mieszanej na Santiago Bernabéu. Przedstawiamy najważniejsze opublikowane wypowiedzi stopera.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/132571-dzisiejsze-okladki</link>
-        <pubDate>Wed, 18 Sep 2024 00:44:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i cele Roberta Lewandowskiego to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
