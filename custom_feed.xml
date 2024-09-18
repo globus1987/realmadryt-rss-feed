@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Sep 2024 22:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 22:54:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132601-dzisiejsze-okladki</link>
+        <pubDate>Thu, 19 Sep 2024 00:43:00 GMT</pubDate>
+        <description>Porażka Girony oraz mecze Atlético i Barcelony w Lidze Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>City dzieli się punktami z Interem, Girona pada w Paryżu po fatalnym błędzie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132585-szalenstwo-endricka</link>
         <pubDate>Wed, 18 Sep 2024 14:27:00 GMT</pubDate>
         <description>Endrick przypieczętował zwycięstwo ze Stuttgartem potężnym strzałem z dystansu, pokazując niebywałą pewność siebie i ponownie zapisując się w historii klubu. Brazylijczyk strzelił dwa gole na przestrzeni 20 minut spędzonych na boisku w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu ze Stuttgartem</title>
-        <link>https://www.realmadryt.pl/news/132584-oceny-zawodnikow-po-meczu-ze-stuttgartem</link>
-        <pubDate>Wed, 18 Sep 2024 14:06:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z VfB Stuttgart 3:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
