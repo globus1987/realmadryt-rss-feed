@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Sep 2024 22:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 22:40:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132624-dzisiejsze-okladki</link>
+        <pubDate>Fri, 20 Sep 2024 00:28:00 GMT</pubDate>
+        <description>Wygrana Atlético i porażka Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barcelona przegrywa w Monako, wygrana Atlético z Lipskiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132612-wielki-tydzien-endricka</link>
         <pubDate>Thu, 19 Sep 2024 15:34:00 GMT</pubDate>
         <description>W minionych dniach napastnik wziął ślub i zdobył gola na Bernabéu w Lidze Mistrzów mając zaledwie 18 lat i 58 dni.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni wzbudza wątpliwości</title>
-        <link>https://www.realmadryt.pl/news/132611-tchouameni-wzbudza-watpliwosci</link>
-        <pubDate>Thu, 19 Sep 2024 15:10:00 GMT</pubDate>
-        <description>Francuz cierpiał w meczu ze Stuttgartem, a jego występy w tym sezonie budzą wątpliwości. Tymczasem coraz bliżej powrotu po kontuzji jest Eduardo Camavinga, główny konkurent swojego rodaka do gry na pozycji defensywnego pomocnika.</description>
     </item>
     
 </channel>
