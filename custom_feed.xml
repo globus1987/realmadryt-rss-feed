@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Sep 2024 10:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 10:42:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarki rozpoczynają walkę o Ligę Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/132603-pilkarki-rozpoczynaja-walke-o-lige-mistrzyn</link>
+        <pubDate>Thu, 19 Sep 2024 12:30:00 GMT</pubDate>
+        <description>Dziś o godzinie 17:00 na Estádio Aurélio Pereira w Akademii Cristiano Ronaldo piłkarki Realu Madryt zagrają pierwszy mecz drugiej rundy kwalifikacji do fazy grupowej Ligi Mistrzyń ze Sportingiem.</description>
+    </item>
     
     <item>
         <title>Munuera Montero na Espanyol</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132593-as-courtois-swiatelkiem-w-tunelu</link>
         <pubDate>Wed, 18 Sep 2024 19:41:00 GMT</pubDate>
         <description>W meczu ze Stuttgartem Thibo zanotował aż sześć parad. Jest w bramce gigantem ze stali, ratując kolegów.</description>
-    </item>
-    
-    <item>
-        <title>Ruszyła nowa Liga Mistrzów: sześć środowych meczów</title>
-        <link>https://www.realmadryt.pl/news/132592-ruszyla-nowa-liga-mistrzow-szesc-srodowych-meczow</link>
-        <pubDate>Wed, 18 Sep 2024 18:30:00 GMT</pubDate>
-        <description>Od wtorku do czwartku odbywa się 1. kolejka nowej fazy ligowej Ligi Mistrzów. W środę rozgrywanych jest kolejnych sześć meczów.</description>
     </item>
     
 </channel>
