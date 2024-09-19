@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Sep 2024 10:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 10:55:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/132607-dzisiejszy-trening</link>
+        <pubDate>Thu, 19 Sep 2024 12:50:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu. Razem z drużyną nie trenowało czterech graczy.</description>
+    </item>
     
     <item>
         <title>Piłkarki rozpoczynają walkę o Ligę Mistrzyń</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132596-nacho-negreira-zawsze-staralem-sie-myslec-ze-sedziowie-sa-uczciwymi-ludzmi</link>
         <pubDate>Wed, 18 Sep 2024 21:42:00 GMT</pubDate>
         <description>Przedstawiamy kolejne odpowiedzi, których udzielił hiszpański defensor Al-Qadsiah w rozmowie z Relevo. Tym razem poruszył temat bycia legendą Królewskich, nerwów z powodu posadzenia na ławce z Manchesterem City czy śledztwo w sprawie Negreiry.</description>
-    </item>
-    
-    <item>
-        <title>AS: Courtois światełkiem w tunelu</title>
-        <link>https://www.realmadryt.pl/news/132593-as-courtois-swiatelkiem-w-tunelu</link>
-        <pubDate>Wed, 18 Sep 2024 19:41:00 GMT</pubDate>
-        <description>W meczu ze Stuttgartem Thibo zanotował aż sześć parad. Jest w bramce gigantem ze stali, ratując kolegów.</description>
     </item>
     
 </channel>
