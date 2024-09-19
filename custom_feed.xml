@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Sep 2024 20:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 21:19:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona przegrywa w Monako, wygrana Atlético z Lipskiem</title>
+        <link>https://www.realmadryt.pl/news/132622-barcelona-przegrywa-w-monako-wygrana-atletico-z-lipskiem</link>
+        <pubDate>Thu, 19 Sep 2024 23:00:00 GMT</pubDate>
+        <description>Za nami wszystkie spotkania pierwszej serii gier w nowym formacie Ligi Mistrzów. Na czele pozostaje Bayern Monachium.</description>
+    </item>
     
     <item>
         <title>Fede: Wszyscy idziemy w tym samym kierunku</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>Czwartkowa Liga Mistrzów: Bayer, Barça i Atlético wchodzą do gry [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/132600-czwartkowa-liga-mistrzow-bayer-barca-i-atletico-wchodza-do-gry-live</link>
+        <title>Czwartkowa Liga Mistrzów: Bayer, Barça i Atlético wchodzą do gry</title>
+        <link>https://www.realmadryt.pl/news/132600-czwartkowa-liga-mistrzow-bayer-barca-i-atletico-wchodza-do-gry</link>
         <pubDate>Thu, 19 Sep 2024 18:30:00 GMT</pubDate>
         <description>Dziś oglądamy kolejnych uczestników tego sezonu Ligi Mistrzów. Dziś do gry wchodzą między innymi Atlético Madryt i FC Barcelona.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132611-tchouameni-wzbudza-watpliwosci</link>
         <pubDate>Thu, 19 Sep 2024 15:10:00 GMT</pubDate>
         <description>Francuz cierpiał w meczu ze Stuttgartem, a jego występy w tym sezonie budzą wątpliwości. Tymczasem coraz bliżej powrotu po kontuzji jest Eduardo Camavinga, główny konkurent swojego rodaka do gry na pozycji defensywnego pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City może zostać wykluczony ze wszystkich rozgrywek?</title>
-        <link>https://www.realmadryt.pl/news/132610-manchester-city-moze-zostac-wykluczony-ze-wszystkich-rozgrywek</link>
-        <pubDate>Thu, 19 Sep 2024 14:35:00 GMT</pubDate>
-        <description>Przepisy regulujące Puchar Anglii, Puchar Ligi, Ligę Mistrzów i Klubowe Mistrzostwa Świata sugerują, że Manchester City może zostać wykluczony także z tych rozgrywek.</description>
     </item>
     
 </channel>
