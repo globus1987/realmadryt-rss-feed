@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Sep 2024 15:53:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 16:27:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy Courtois to najlepszy bramkarz w historii Realu?</title>
+        <link>https://www.realmadryt.pl/news/132617-czy-courtois-to-najlepszy-bramkarz-w-historii-realu</link>
+        <pubDate>Thu, 19 Sep 2024 18:17:00 GMT</pubDate>
+        <description>Thibaut Courtois dokonał już w karierze wszystkiego, by być uważanym najlepszym bramkarzem świata i być może w historii. Tego typu określenia zawsze jednak są mocno subiektywne. O ile poświadczeniem napastnika są gole i asysty, o tyle o wymierną ocenę golkipera jest już o wiele trudniej. Nie zmienia to faktu, że Belg aż nadto udowodnił, ile znaczy w futbolu.</description>
+    </item>
+    
+    <item>
+        <title>Królewskie remisują do przerwy</title>
+        <link>https://www.realmadryt.pl/news/132616-krolewskie-remisuja-do-przerwy</link>
+        <pubDate>Thu, 19 Sep 2024 17:54:00 GMT</pubDate>
+        <description>W pierwszym meczu drugiej rundy kwalifikacji do fazy grupowej Ligi Mistrzyń piłkarki Realu Madryt remisują do przerwy ze Sportingiem 1:1. Bramkę w kuriozalnych okolicznościach zdobyła Athenea del Castillo, a w doliczonym czasie gry z rzutu karnego wyrównała Andreia Bravo.</description>
+    </item>
     
     <item>
         <title>Endrick i jego armata</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132607-dzisiejszy-trening</link>
         <pubDate>Thu, 19 Sep 2024 12:50:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu. Razem z drużyną nie trenowało czterech graczy.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki rozpoczynają walkę o Ligę Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/132603-pilkarki-rozpoczynaja-walke-o-lige-mistrzyn</link>
-        <pubDate>Thu, 19 Sep 2024 12:30:00 GMT</pubDate>
-        <description>Dziś o godzinie 17:00 na Estádio Aurélio Pereira w Akademii Cristiano Ronaldo piłkarki Realu Madryt zagrają pierwszy mecz drugiej rundy kwalifikacji do fazy grupowej Ligi Mistrzyń ze Sportingiem.</description>
-    </item>
-    
-    <item>
-        <title>Munuera Montero na Espanyol</title>
-        <link>https://www.realmadryt.pl/news/132605-munuera-montero-na-espanyol</link>
-        <pubDate>Thu, 19 Sep 2024 11:38:00 GMT</pubDate>
-        <description>41-letni sędzia poprowadzi sobotnie spotkanie Królewskich. Arbitrem VAR będzie Ricardo de Burgos Bengoetxea. Dla Munuery Montero będzie to siedemnaste starcie z udziałem Realu Madryt.</description>
     </item>
     
 </channel>
