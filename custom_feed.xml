@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Sep 2024 14:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 14:40:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 6. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/132636-telewizyjny-terminarz-6-kolejki-la-ligi</link>
+        <pubDate>Fri, 20 Sep 2024 16:33:00 GMT</pubDate>
+        <description>Przed nami szósta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Espanyolem.</description>
+    </item>
     
     <item>
         <title>Tebas przyznaje, że transfery Lewandowskiego i Koundé były nielegalne</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132625-pomysl-jest-taki-aby-superliga-wystartowala-we-wrzesniu-2025-roku</link>
         <pubDate>Fri, 20 Sep 2024 09:13:00 GMT</pubDate>
         <description>Nadal trwają negocjacje w sprawie powstania Superligi, a organizatorzy odbyli już spotkania ze 100 klubami w Europie.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 20 września</title>
-        <link>https://www.realmadryt.pl/news/132623-kartka-z-kalendarza-20-wrzesnia</link>
-        <pubDate>Fri, 20 Sep 2024 09:00:00 GMT</pubDate>
-        <description>Debiut trenera, dwie goleady, porażka z Betisem i początek drogi po piętnasty Puchar Europy. Co działo się 20 września?</description>
     </item>
     
 </channel>
