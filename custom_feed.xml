@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Sep 2024 22:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 22:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132683-dzisiejsze-okladki</link>
+        <pubDate>Sun, 22 Sep 2024 00:49:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jestem zadowolony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132666-tylko-drugie-polowy</link>
         <pubDate>Sat, 21 Sep 2024 21:00:00 GMT</pubDate>
         <description>W meczu 6. kolejki La Ligi Real Madryt wygrał z Espanyolem 4:1. Bramki zdobyli Carvajal, Rodrygo, Vini i Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt w finale, Barcelona pokonana</title>
-        <link>https://www.realmadryt.pl/news/132667-real-madryt-w-finale-barcelona-pokonana</link>
-        <pubDate>Sat, 21 Sep 2024 20:46:00 GMT</pubDate>
-        <description>Real Madryt znów pokonał Barcelonę i zagra jutro w finale Superpucharu Endesa. Debiut zaliczyli nowi zawodnicy Królewskich, a MVP spotkania został Facundo Campazzo.</description>
     </item>
     
 </channel>
