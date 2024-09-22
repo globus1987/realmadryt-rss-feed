@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Sep 2024 22:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 22:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132708-dzisiejsze-okladki</link>
+        <pubDate>Mon, 23 Sep 2024 00:41:00 GMT</pubDate>
+        <description>Wygrana Barcelony, kontuzja Ter Stegena i porażka Realu Madryt w Superpucharze Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Unicaja wygrała zasłużenie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132696-wystep-bellinghama-i-carvajala-z-alaves-pod-znakiem-zapytania</link>
         <pubDate>Sun, 22 Sep 2024 14:49:00 GMT</pubDate>
         <description>Anglik i Hiszpan rozpoczęli walkę z czasem i prawdopodobnie dopiero jutro dowiemy się, czy znajdą się w kadrze na wtorkowe spotkanie.</description>
-    </item>
-    
-    <item>
-        <title>Debiut syna Marcelo w drużynie U-18</title>
-        <link>https://www.realmadryt.pl/news/132680-debiut-syna-marcelo-w-druzynie-u-18</link>
-        <pubDate>Sun, 22 Sep 2024 14:25:00 GMT</pubDate>
-        <description>Enzo nie przestaje zaskakiwać w szkółce Realu Madryt. Właśnie zaliczył debiut w zespole U-18, mimo że kilka dni temu skończył dopiero 15 lat.</description>
     </item>
     
 </channel>
