@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Sep 2024 10:53:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 11:16:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/132694-dzisiejszy-trening</link>
+        <pubDate>Sun, 22 Sep 2024 13:05:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu. Razem z drużyną nie trenowało czterech graczy.</description>
+    </item>
+    
+    <item>
+        <title>Mecz o pierwszy tytuł w sezonie</title>
+        <link>https://www.realmadryt.pl/news/132688-mecz-o-pierwszy-tytul-w-sezonie</link>
+        <pubDate>Sun, 22 Sep 2024 13:00:00 GMT</pubDate>
+        <description>Superpuchar Endesa 2024 trafi w ręce Realu Madryt lub Unicajy. Oba zespoły mierzyły się ze sobą w finale również w zeszłym roku i wtedy lepsi okazali się Królewscy.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Espanyolem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132682-fran-garcia-trzeba-docenic-prace-calego-zespolu</link>
         <pubDate>Sun, 22 Sep 2024 08:18:00 GMT</pubDate>
         <description>Fran García udzielił wywiadu klubowej telewizji po wygranej 4:1 z Espanyolem. Przedstawiamy wypowiedzi piłkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Huragan Vinícius</title>
-        <link>https://www.realmadryt.pl/news/132685-huragan-vinicius</link>
-        <pubDate>Sun, 22 Sep 2024 08:11:00 GMT</pubDate>
-        <description>Atakujący w ciągu 40 niesamowitych minut zaoferował: gola, asystę i potwierdzenie, że trójząb wraz z Rodrygo i Mbappé ma przyszłość.</description>
-    </item>
-    
-    <item>
-        <title>Wyciszone Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/132673-wyciszone-bernabeu</link>
-        <pubDate>Sun, 22 Sep 2024 07:25:00 GMT</pubDate>
-        <description>Od czasu odwołania koncertów, klub tak bardzo przyciszył nagłośnienie, że trudno cokolwiek usłyszeć. Odbierane jest to jako ironiczne zachowanie.</description>
     </item>
     
 </channel>
