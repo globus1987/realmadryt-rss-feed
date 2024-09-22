@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Sep 2024 03:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 03:44:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo: Ancelotti jest na nas trochę wkurzony</title>
+        <link>https://www.realmadryt.pl/news/132678-rodrygo-ancelotti-jest-na-nas-troche-wkurzony</link>
+        <pubDate>Sun, 22 Sep 2024 05:30:00 GMT</pubDate>
+        <description>Rodrygo udzielił wywiadu klubowej telewizji po wygranej 4:1 z Espanyolem. Przedstawiamy wypowiedzi atakującego Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132669-ocen-pilkarzy-po-meczu-z-espanyolem</link>
         <pubDate>Sat, 21 Sep 2024 23:00:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Tylko drugie połowy</title>
-        <link>https://www.realmadryt.pl/news/132666-tylko-drugie-polowy</link>
-        <pubDate>Sat, 21 Sep 2024 21:00:00 GMT</pubDate>
-        <description>W meczu 6. kolejki La Ligi Real Madryt wygrał z Espanyolem 4:1. Bramki zdobyli Carvajal, Rodrygo, Vini i Mbappé.</description>
     </item>
     
 </channel>
