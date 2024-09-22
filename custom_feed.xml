@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Sep 2024 05:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 05:39:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyciszone Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/132673-wyciszone-bernabeu</link>
+        <pubDate>Sun, 22 Sep 2024 07:25:00 GMT</pubDate>
+        <description>Od czasu odwołania koncertów, klub tak bardzo przyciszył nagłośnienie, że trudno cokolwiek usłyszeć. Odbierane jest to jako ironiczne zachowanie.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Ancelotti jest na nas trochę wkurzony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132668-6-kolejka-real-zbliza-sie-do-barcelony</link>
         <pubDate>Sat, 21 Sep 2024 23:00:00 GMT</pubDate>
         <description>Za nami połowa spotkań meczów szóstej kolejki La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Espanyolem</title>
-        <link>https://www.realmadryt.pl/news/132669-ocen-pilkarzy-po-meczu-z-espanyolem</link>
-        <pubDate>Sat, 21 Sep 2024 23:00:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
