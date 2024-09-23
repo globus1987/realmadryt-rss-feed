@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Sep 2024 21:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 22:22:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132737-dzisiejsze-okladki</link>
+        <pubDate>Tue, 24 Sep 2024 00:19:00 GMT</pubDate>
+        <description>Złota Piłka, mecz Realu Madryt i plany Barcelony po kontuzji Ter Stegena to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Muñiz Ruiz na Deportivo Alavés</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132723-oficjalnie-real-madryt-przedluzyl-kontrakt-z-sanitasem</link>
         <pubDate>Mon, 23 Sep 2024 14:01:00 GMT</pubDate>
         <description>Firma medyczna będzie zajmować się zawodnikami przez kolejne trzy lata, o czym Królewscy poinformowali oficjalnie na swojej stronie internetowej.</description>
-    </item>
-    
-    <item>
-        <title>Sąsiedzi okolic Bernabéu skarżą się na hałas podczas meczów</title>
-        <link>https://www.realmadryt.pl/news/132722-sasiedzi-okolic-bernabeu-skarza-sie-na-halas-podczas-meczow</link>
-        <pubDate>Mon, 23 Sep 2024 13:55:00 GMT</pubDate>
-        <description>Mieszkańcy okolic Santiago Bernabéu tym razem skarżą się na nadmierny poziom hałasu wydobywający się ze stadionu po zdobyciu bramki oraz przy zmianach. Ponadto, w wyniku prac nad budową parkingów uszkodzona miała zostać jedna ze ścian parkingu przy ulicy Rafaela Salgado.</description>
     </item>
     
 </channel>
