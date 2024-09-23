@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Sep 2024 17:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 17:40:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>UEFA przyznaje, że ręka Cucurelli była przewinienem</title>
+        <link>https://www.realmadryt.pl/news/132732-uefa-przyznaje-ze-reka-cucurelli-byla-przewinienem</link>
+        <pubDate>Mon, 23 Sep 2024 19:37:00 GMT</pubDate>
+        <description>Federacja w wewnętrznej komunikacji przyznała się do kluczowego błędu w ćwierćfinale EURO. Co więcej, z dnia na dzień zmieniono wytyczne dotyczące zagrań ręką w polu karnym i od teraz sędziowie mają kierować się innymi zasadami, przynajmniej w europejskich pucharach.</description>
+    </item>
     
     <item>
         <title>Mundo Deportivo: Keylor Navas otwarty na dołączenie do Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132719-w-drodze-po-rekord-ligowych-meczow-z-rzedu-bez-porazki</link>
         <pubDate>Mon, 23 Sep 2024 12:52:00 GMT</pubDate>
         <description>Real Madryt notuje obecnie passę 38 ligowych kolejek z rzędu bez porażki i jest o pięć meczów od wyrównania rekordu Barcelony. Los chciał, że ten piąty mecz przypada na październikowy Klasyk.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Ter Stegen całkowicie zerwał więzadło rzepki</title>
-        <link>https://www.realmadryt.pl/news/132718-oficjalnie-ter-stegen-calkowicie-zerwal-wiezadlo-rzepki</link>
-        <pubDate>Mon, 23 Sep 2024 12:45:00 GMT</pubDate>
-        <description>Niemiec jeszcze dziś przejdzie operację i w tym sezonie najprawdopodobniej nie zobaczymy go już na boisku. Barcelona ma prawo sprowadzić w jego miejsce innego gracza i nie musi być to bramkarz.</description>
     </item>
     
 </channel>
