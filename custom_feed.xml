@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Sep 2024 07:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 08:29:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kim chce być Vinícius?</title>
+        <link>https://www.realmadryt.pl/news/132742-kim-chce-byc-vinicius</link>
+        <pubDate>Tue, 24 Sep 2024 10:11:00 GMT</pubDate>
+        <description>Iñako Díaz-Guerra jest wieloletnim dziennikarzem dziennika El Mundo i słynie z przeprowadzanie jednych z najlepszych wywiadów w Hiszpanii, ale często pisuje też felietony. Tym razem swoim barwnym językiem opisuje sytuację Viníciusa.</description>
+    </item>
     
     <item>
         <title>Dzisiaj gwiżdżą sędzia od karnych z Betisem i arbiter od kartki dla Kroosa [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132731-ballada-o-lekkim-zabarwieniu-stylistycznym</link>
         <pubDate>Mon, 23 Sep 2024 19:50:00 GMT</pubDate>
         <description>Czy kibic Realu Madryt ma prawo wymagać od swoich ulubieńców nie tylko zwycięstw, ale i dobrej, przyjemnej dla oka gry? Na to odwieczne pytanie w swoim felietonie odpowiada nasz redaktor, Jakub Glibowski.</description>
-    </item>
-    
-    <item>
-        <title>UEFA przyznaje, że ręka Cucurelli była przewinienem</title>
-        <link>https://www.realmadryt.pl/news/132732-uefa-przyznaje-ze-reka-cucurelli-byla-przewinienem</link>
-        <pubDate>Mon, 23 Sep 2024 19:37:00 GMT</pubDate>
-        <description>Federacja w wewnętrznej komunikacji przyznała się do kluczowego błędu w ćwierćfinale EURO. Co więcej, z dnia na dzień zmieniono wytyczne dotyczące zagrań ręką w polu karnym i od teraz sędziowie mają kierować się innymi zasadami, przynajmniej w europejskich pucharach.</description>
     </item>
     
 </channel>
