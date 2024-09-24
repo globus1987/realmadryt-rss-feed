@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Sep 2024 22:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 22:41:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132769-dzisiejsze-okladki</link>
+        <pubDate>Wed, 25 Sep 2024 00:30:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé skończył mecz z kontuzją?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132757-oficjalnie-pierwszy-ligowy-klasyk-w-sobote</link>
         <pubDate>Tue, 24 Sep 2024 18:22:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 11. kolejki, w której Real Madryt zmierzy się na Santiago Bernabéu z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Enzo Zidane zakończył karierę</title>
-        <link>https://www.realmadryt.pl/news/132755-enzo-zidane-zakonczyl-kariere</link>
-        <pubDate>Tue, 24 Sep 2024 17:39:00 GMT</pubDate>
-        <description>Enzo Zidane jeszcze przed skończeniem 30. roku życia postanowił zakończyć piłkarską karierę. Po roku bez gry podjął trudną dla siebie decyzję.</description>
     </item>
     
 </channel>
