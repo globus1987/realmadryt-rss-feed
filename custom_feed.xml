@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Sep 2024 21:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 22:21:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé skończył mecz z kontuzją?</title>
+        <link>https://www.realmadryt.pl/news/132768-mbappe-skonczyl-mecz-z-kontuzja</link>
+        <pubDate>Wed, 25 Sep 2024 00:17:00 GMT</pubDate>
+        <description>Kylian Mbappé nie dokończył meczu z Deportivo Alavés, a hiszpańscy dziennikarze twierdzą, że piłkarz mógł doznać kontuzji lewego uda.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Musimy unikać protestów, kropka</title>
+        <link>https://www.realmadryt.pl/news/132767-ancelotti-musimy-unikac-protestow-kropka</link>
+        <pubDate>Tue, 24 Sep 2024 23:57:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu La Ligi z Deportivo Alavés. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Real Madryt 3:2 Deportivo Alavés [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132755-enzo-zidane-zakonczyl-kariere</link>
         <pubDate>Tue, 24 Sep 2024 17:39:00 GMT</pubDate>
         <description>Enzo Zidane jeszcze przed skończeniem 30. roku życia postanowił zakończyć piłkarską karierę. Po roku bez gry podjął trudną dla siebie decyzję.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: UEFA odbiera San Siro finał Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/132754-oficjalnie-uefa-odbiera-san-siro-final-ligi-mistrzow</link>
-        <pubDate>Tue, 24 Sep 2024 17:29:00 GMT</pubDate>
-        <description>Federacja cofnęła wstępne przyznanie Mediolanowi jednego z kolejnych finałów Ligi Mistrzów. Otwarty został nowy przetarg w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 7. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/132752-telewizyjny-terminarz-7-kolejki-la-ligi</link>
-        <pubDate>Tue, 24 Sep 2024 16:00:00 GMT</pubDate>
-        <description>Przed nami siódma kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Deportivo Alavés. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
