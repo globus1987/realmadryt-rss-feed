@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Sep 2024 08:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 09:24:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za wygraną Realu lub Barçy!</title>
+        <link>https://www.realmadryt.pl/news/132743-300-zl-za-wygrana-realu-lub-barcy</link>
+        <pubDate>Tue, 24 Sep 2024 11:13:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Piłkarski fast food</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132737-dzisiejsze-okladki</link>
         <pubDate>Tue, 24 Sep 2024 00:19:00 GMT</pubDate>
         <description>Złota Piłka, mecz Realu Madryt i plany Barcelony po kontuzji Ter Stegena to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Muñiz Ruiz na Deportivo Alavés</title>
-        <link>https://www.realmadryt.pl/news/132734-muniz-ruiz-na-deportivo-alaves</link>
-        <pubDate>Mon, 23 Sep 2024 23:52:00 GMT</pubDate>
-        <description>33-latek po raz trzeci spotka się na boisku z Realem Madryt. Sędzią VAR będzie Jorge Figueroa Vázquez.</description>
     </item>
     
 </channel>
