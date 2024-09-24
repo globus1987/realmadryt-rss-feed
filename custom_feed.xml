@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Sep 2024 12:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 13:29:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde nie podlega rotacji</title>
+        <link>https://www.realmadryt.pl/news/132751-valverde-nie-podlega-rotacji</link>
+        <pubDate>Tue, 24 Sep 2024 15:10:00 GMT</pubDate>
+        <description>Urugwajczyk jest jedynym zawodnikiem z pola, który rozegrał wszystkie minuty we wszystkich ośmiu oficjalnych meczach Realu Madryt w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Kroos: Mogę nazwać się teraz mistrzem Europy?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132733-dzisiaj-gwizdza-sedzia-od-karnych-z-betisem-i-arbiter-od-kartki-dla-kroosa-video</link>
         <pubDate>Tue, 24 Sep 2024 09:45:00 GMT</pubDate>
         <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Deportivo Alavés. Tradycyjnie materiałów nie zabrakło ani na sędziego boiskowego, ani na arbitra VAR.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 24 września</title>
-        <link>https://www.realmadryt.pl/news/132736-kartka-z-kalendarza-24-wrzesnia</link>
-        <pubDate>Tue, 24 Sep 2024 09:10:00 GMT</pubDate>
-        <description>Porażka z Barceloną, wysokie zwycięstwo z Rayo Vallecano i pierwszy gol Varane'a oraz garść nagród indywidualnych dla zawodników Realu Madryt. Co działo się 24 września?</description>
     </item>
     
 </channel>
