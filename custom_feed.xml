@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Sep 2024 07:21:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 07:39:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Raphaël Varane zakończy niebawem karierę?</title>
+        <link>https://www.realmadryt.pl/news/132775-raphael-varane-zakonczy-niebawem-kariere</link>
+        <pubDate>Wed, 25 Sep 2024 09:33:00 GMT</pubDate>
+        <description>Problemy zdrowotne wciąż prześladują Francuza, który w najbliższych godzinach może ogłosić zakończenie piłkarskiej kariery.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 września</title>
+        <link>https://www.realmadryt.pl/news/132765-kartka-z-kalendarza-25-wrzesnia</link>
+        <pubDate>Wed, 25 Sep 2024 09:30:00 GMT</pubDate>
+        <description>Koncert znanego piosenkarza na Bernabéu, wyrzucenie z drużyny wychowanka za ugryzienie sędziego, urodziny byłego trenera i piłkarzy oraz dwa pewnie wygrane spotkania. Co działo się 25 września?</description>
+    </item>
     
     <item>
         <title>300 meczów Ancelottiego w Realu Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132763-lucas-po-takim-meczu-nie-zasluzylismy-na-taka-koncowke</link>
         <pubDate>Tue, 24 Sep 2024 23:14:00 GMT</pubDate>
         <description>Lucas Vázquez udzielił wywiadu dla klubowej telewizji po wygranym 3:2 meczu z Deportivo Alavés. Przedstawiamy wypowiedzi kapitana Królewskich i autora pierwszej bramki w tym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Alavés</title>
-        <link>https://www.realmadryt.pl/news/132760-ocen-pilkarzy-po-meczu-z-alaves</link>
-        <pubDate>Tue, 24 Sep 2024 23:06:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z Deportivo Alavés</title>
-        <link>https://www.realmadryt.pl/news/132762-mbappe-mvp-meczu-z-deportivo-alaves</link>
-        <pubDate>Tue, 24 Sep 2024 23:04:00 GMT</pubDate>
-        <description>Kylian Mbappé został wyróżniony po spotkaniu z Deportivo Alavés. Królewscy wygrali 3:2, a Francuz strzelił drugą bramkę.</description>
     </item>
     
 </channel>
