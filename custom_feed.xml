@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Sep 2024 22:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 22:41:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132794-dzisiejsze-okladki</link>
+        <pubDate>Thu, 26 Sep 2024 00:35:00 GMT</pubDate>
+        <description>Kontuzja Kyliana Mbappé i wygrana Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Matthäus: W moim rankingu Złotej Piłki Vinícius byłby trzeci</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132782-fifa-dopracowuje-szczegoly-klubowego-mundialu</link>
         <pubDate>Wed, 25 Sep 2024 14:44:00 GMT</pubDate>
         <description>W Hiszpanii i Anglii pojawiają się nowe szczegóły dotyczące klubowego mundialu, jaki ma zostać rozegrany latem w Stanach Zjednoczonych.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Kylian Mbappé kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/132781-oficjalnie-kylian-mbappe-kontuzjowany</link>
-        <pubDate>Wed, 25 Sep 2024 13:07:00 GMT</pubDate>
-        <description>Francuz pojawił się dzisiaj w Valdebebas i przeszedł badania po tym, jak poczuł wczoraj dyskomfort w mięśniach uda.</description>
     </item>
     
 </channel>
