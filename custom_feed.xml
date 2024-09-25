@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Sep 2024 06:31:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 06:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 meczów Ancelottiego w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/132766-300-meczow-ancelottiego-w-realu-madryt</link>
+        <pubDate>Wed, 25 Sep 2024 08:40:00 GMT</pubDate>
+        <description>W swoim 300. spotkaniu na ławce Królewskich Carlo Ancelotti stał się trenerem z najdłuższą serią spotkań bez porażki w historii La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>250 ligowych meczów Lucasa w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/132773-250-ligowych-meczow-lucasa-w-realu-madryt</link>
+        <pubDate>Wed, 25 Sep 2024 08:36:00 GMT</pubDate>
+        <description>Mecz z Deportivo Alavés był dla Lucasa Vázqueza 250. ligowym występem w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Lucas: Karze się nas w trochę niesprawiedliwy sposób</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132762-mbappe-mvp-meczu-z-deportivo-alaves</link>
         <pubDate>Tue, 24 Sep 2024 23:04:00 GMT</pubDate>
         <description>Kylian Mbappé został wyróżniony po spotkaniu z Deportivo Alavés. Królewscy wygrali 3:2, a Francuz strzelił drugą bramkę.</description>
-    </item>
-    
-    <item>
-        <title>7. kolejka: Real naciska na Barçę i ucieka Atlético</title>
-        <link>https://www.realmadryt.pl/news/132761-7-kolejka-real-naciska-na-barce-i-ucieka-atletico</link>
-        <pubDate>Tue, 24 Sep 2024 23:03:00 GMT</pubDate>
-        <description>Pięć meczów za nami. Real Madryt ponownie siegnął po komplet punktów.</description>
-    </item>
-    
-    <item>
-        <title>Kolejny komplet punktów, kolejne wątpliwości</title>
-        <link>https://www.realmadryt.pl/news/132759-kolejny-komplet-punktow-kolejne-watpliwosci</link>
-        <pubDate>Tue, 24 Sep 2024 21:00:00 GMT</pubDate>
-        <description>W meczu 7. kolejki La Ligi Real Madryt wygrał z Deportivo Alavés 3:2. Bramki dla Królewskich zdobyli Lucas Vázquez, Kylian Mbappé i Vinicius Júnior.</description>
     </item>
     
 </channel>
