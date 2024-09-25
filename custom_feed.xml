@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Sep 2024 18:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 19:15:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Matthäus: W moim rankingu Złotej Piłki Vinícius byłby trzeci</title>
+        <link>https://www.realmadryt.pl/news/132792-matthaeus-w-moim-rankingu-zlotej-pilki-vinicius-bylby-trzeci</link>
+        <pubDate>Wed, 25 Sep 2024 21:08:00 GMT</pubDate>
+        <description>Lothar Matthäus udzielił wypowiedzi dla dziennika BILD, w którym podzielił się swoimi spostrzeżeniami na temat Złotej Piłki za sezon 2023/2024. Przedstawiamy wypowiedzi wybitnego Niemca, zdobywcy mistrzostwa świata i Złotej Piłki w 1990 roku, a obecnie eksperta w telewizjach RTL i Sky.</description>
+    </item>
     
     <item>
         <title>Barcelona vs Getafe: Katalończycy chcą utrzymać przewagę [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132781-oficjalnie-kylian-mbappe-kontuzjowany</link>
         <pubDate>Wed, 25 Sep 2024 13:07:00 GMT</pubDate>
         <description>Francuz pojawił się dzisiaj w Valdebebas i przeszedł badania po tym, jak poczuł wczoraj dyskomfort w mięśniach uda.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: City potwierdza „kontuzję więzadła” Rodriego</title>
-        <link>https://www.realmadryt.pl/news/132780-oficjalnie-city-potwierdza-kontuzje-wiezadla-rodriego</link>
-        <pubDate>Wed, 25 Sep 2024 12:16:00 GMT</pubDate>
-        <description>Anglicy trzy dni od zdarzenia wystosowali komunikat o kontuzji Hiszpana. Ciągle jednak niewiele wiadomo, bo badania mają trwać dalej.</description>
     </item>
     
 </channel>
