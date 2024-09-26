@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Sep 2024 22:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 22:41:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132832-dzisiejsze-okladki</link>
+        <pubDate>Fri, 27 Sep 2024 00:35:00 GMT</pubDate>
+        <description>Wygrana Atlético przed derbami i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kibic Espanyolu trafił sędziego… kubkiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132818-opoznienie-glosowania-sugeruje-pierwsze-zwyciestwo-prawne-city-nad-premier-league</link>
         <pubDate>Thu, 26 Sep 2024 16:26:00 GMT</pubDate>
         <description>Wycofanie ligowego głosowania w ostatniej chwili wskazuje, że Manchester City odniósł przynajmniej częściowy sukces w próbie zmiany zasad dotyczących umów sponsorskich.</description>
-    </item>
-    
-    <item>
-        <title>La Sexta: Laporta oburzony podwójnymi standardami sędziowania</title>
-        <link>https://www.realmadryt.pl/news/132809-la-sexta-laporta-oburzony-podwojnymi-standardami-sedziowania</link>
-        <pubDate>Thu, 26 Sep 2024 16:00:00 GMT</pubDate>
-        <description>W programie Jugones w telewizji La Sexta poinformowano, że prezes Barcelony jest oburzony podwójnymi standardami sędziowania na korzyść Realu Madryt. Podobne nastawienie panuje w katalońskich mediach.</description>
     </item>
     
 </channel>
