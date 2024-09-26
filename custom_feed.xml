@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Sep 2024 09:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:55:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze odebrali nowe BMW</title>
+        <link>https://www.realmadryt.pl/news/132805-pilkarze-odebrali-nowe-bmw</link>
+        <pubDate>Thu, 26 Sep 2024 11:47:00 GMT</pubDate>
+        <description>BMW, które trzeci sezon z rzędu jest sponsorem Realu Madryt, wręczyło zawodnikom pierwszego zespołu nowe samochody. Kto wybrał jakie auto?</description>
+    </item>
     
     <item>
         <title>Real Madryt jest oburzony „polowaniem” sędziów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132794-dzisiejsze-okladki</link>
         <pubDate>Thu, 26 Sep 2024 00:35:00 GMT</pubDate>
         <description>Kontuzja Kyliana Mbappé i wygrana Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Matthäus: W moim rankingu Złotej Piłki Vinícius byłby trzeci</title>
-        <link>https://www.realmadryt.pl/news/132792-matthaeus-w-moim-rankingu-zlotej-pilki-vinicius-bylby-trzeci</link>
-        <pubDate>Wed, 25 Sep 2024 21:08:00 GMT</pubDate>
-        <description>Lothar Matthäus udzielił wypowiedzi dla dziennika BILD, w którym podzielił się swoimi spostrzeżeniami na temat Złotej Piłki za sezon 2023/2024. Przedstawiamy wypowiedzi wybitnego Niemca, zdobywcy mistrzostwa świata i Złotej Piłki w 1990 roku, a obecnie eksperta w telewizjach RTL i Sky.</description>
     </item>
     
 </channel>
