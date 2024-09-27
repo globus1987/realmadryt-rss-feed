@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Sep 2024 17:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 17:40:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: FIFA zapowiada ogłoszenie gospodarzy klubowego mundialu</title>
+        <link>https://www.realmadryt.pl/news/132852-oficjalnie-fifa-zapowiada-ogloszenie-gospodarzy-klubowego-mundialu</link>
+        <pubDate>Fri, 27 Sep 2024 19:30:00 GMT</pubDate>
+        <description>FIFA zapowiedziała termin ogłoszenia stadionów-gospodarzy letniego klubowego mundialu. Oczywiście udział w rozgrywkach weźmie Real Madryt.</description>
+    </item>
     
     <item>
         <title>Wszyscy Brazylijczycy powołani na październikowe zgrupowanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132842-pilkarki-poznaly-rywalki-w-lidze-mistrzyn</link>
         <pubDate>Fri, 27 Sep 2024 13:26:00 GMT</pubDate>
         <description>Królewskie poznały rywalki w tym sezonie Ligi Mistrzyń. Rozgrywki ruszą w październiku.</description>
-    </item>
-    
-    <item>
-        <title>Atlético odwołało występ piosenkarki, bo okazała się kibicką Realu</title>
-        <link>https://www.realmadryt.pl/news/132839-atletico-odwolalo-wystep-piosenkarki-bo-okazala-sie-kibicka-realu</link>
-        <pubDate>Fri, 27 Sep 2024 12:30:00 GMT</pubDate>
-        <description>Meksykańska piosenkarka miała wystąpić na Metropolitano w przerwie derbów Madrytu, ale jej występ został odwołany po tym, jak w hiszpańskiej telewizji zdradziła, że kibicuje Realowi Madryt.</description>
     </item>
     
 </channel>
