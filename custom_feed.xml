@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Sep 2024 21:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 22:21:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132856-dzisiejsze-okladki</link>
+        <pubDate>Sat, 28 Sep 2024 00:12:00 GMT</pubDate>
+        <description>Przygotowania do derbów Madrytu i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: FIFA zapowiada ogłoszenie gospodarzy klubowego mundialu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132840-camavinga-ponownie-cwiczyl-z-grupa-przez-czesc-treningu</link>
         <pubDate>Fri, 27 Sep 2024 13:27:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do derbów Madrytu. Razem z drużyną nie trenowało czterech graczy.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki poznały rywalki w Lidze Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/132842-pilkarki-poznaly-rywalki-w-lidze-mistrzyn</link>
-        <pubDate>Fri, 27 Sep 2024 13:26:00 GMT</pubDate>
-        <description>Królewskie poznały rywalki w tym sezonie Ligi Mistrzyń. Rozgrywki ruszą w październiku.</description>
     </item>
     
 </channel>
