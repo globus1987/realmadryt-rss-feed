@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Sep 2024 07:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 07:38:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nietykalny Valverde</title>
+        <link>https://www.realmadryt.pl/news/132825-nietykalny-valverde</link>
+        <pubDate>Fri, 27 Sep 2024 09:30:00 GMT</pubDate>
+        <description>Fede Valverde ponownie jest zawodnikiem z pola z największą liczbą minut w Realu Madryt. W ostatni wtorek w meczu z Deportivo Alavés po raz kolejny udowodnił, że dla Carlo Ancelottiego jest po prostu nietykalny.</description>
+    </item>
     
     <item>
         <title>Modrić gra już dłużej z Vinim niż grał z Cristiano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132826-decydujacy-mecz-pilkarek-o-lige-mistrzyn-na-zywo</link>
         <pubDate>Thu, 26 Sep 2024 19:45:00 GMT</pubDate>
         <description>Punktualnie o godzinie 20:00 na Estadio Alfredo Di Stéfano piłkarki Realu Madryt zagrają rewanżowy mecz drugiej rundy kwalifikacji do fazy grupowej Ligi Mistrzyń ze Sportingiem. W pierwszym spotkaniu w Lizbonie Królewskie wygrały 2:1.</description>
-    </item>
-    
-    <item>
-        <title>Kibice Atlético apelują o maseczki… i brak telefonów komórkowych</title>
-        <link>https://www.realmadryt.pl/news/132812-kibice-atletico-apeluja-o-maseczki-i-brak-telefonow-komorkowych</link>
-        <pubDate>Thu, 26 Sep 2024 19:15:00 GMT</pubDate>
-        <description>Kibice Atlético Madryt utrzymują, że są poszkodowani i prowokowani, więc szykują się na derby ze specjalną ostrożnością. Do apelu o nałożenie maseczki dochodzi prośba o nienagrywanie telefonami komórkowymi zdarzeń wokół meczu.</description>
     </item>
     
 </channel>
