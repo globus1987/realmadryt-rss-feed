@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:20:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 21:38:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo po pięknym golu Gonzalo</title>
+        <link>https://www.realmadryt.pl/news/132877-zwyciestwo-po-pieknym-golu-gonzalo</link>
+        <pubDate>Sat, 28 Sep 2024 23:24:00 GMT</pubDate>
+        <description>W 6. kolejce Primera Federación Castilla pokonała Hérculesa 1:0. Przepięknego gola na wagę trzech punktów strzelił Gonzalo.</description>
+    </item>
     
     <item>
         <title>8. kolejka: Osasuna wygrała z Barceloną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132865-ancelotti-rozumiem-skargi-atletico-bo-my-tez-odpoczywalismy-krocej-przed-meczami-z-nimi</link>
         <pubDate>Sat, 28 Sep 2024 12:33:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Potencjalny wyrzut sumienia Diego Simeone</title>
-        <link>https://www.realmadryt.pl/news/132863-potencjalny-wyrzut-sumienia-diego-simeone</link>
-        <pubDate>Sat, 28 Sep 2024 12:04:00 GMT</pubDate>
-        <description>Nowy sezon, ten sam dylemat. Atak Atlético niezmiennie pozostaje wrażliwą formacją ekipy Diego Simeone. Nie zmienia tego nawet fakt, że obecnie Los Rojiblancos dysponują tak uznanymi nazwiskami, jak Griezmann, Álvarez, czy Sørloth.</description>
     </item>
     
 </channel>
