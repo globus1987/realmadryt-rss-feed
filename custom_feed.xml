@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Sep 2024 22:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 22:40:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132878-dzisiejsze-okladki</link>
+        <pubDate>Sun, 29 Sep 2024 00:38:00 GMT</pubDate>
+        <description>Derby Madrytu i porażka Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zwycięstwo po pięknym golu Gonzalo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132864-camavinga-przepracowal-caly-trening-z-grupa</link>
         <pubDate>Sat, 28 Sep 2024 12:36:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do derbów Madrytu. Razem z drużyną nie trenowało czterech graczy.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Rozumiem skargi Atlético, bo my też odpoczywaliśmy krócej przed meczami z nimi</title>
-        <link>https://www.realmadryt.pl/news/132865-ancelotti-rozumiem-skargi-atletico-bo-my-tez-odpoczywalismy-krocej-przed-meczami-z-nimi</link>
-        <pubDate>Sat, 28 Sep 2024 12:33:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
