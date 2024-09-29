@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Sep 2024 16:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 16:44:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Ancelotti zakazał piłkarzom protestów</title>
+        <link>https://www.realmadryt.pl/news/132899-marca-ancelotti-zakazal-pilkarzom-protestow</link>
+        <pubDate>Sun, 29 Sep 2024 18:34:00 GMT</pubDate>
+        <description>We wtorkowym meczu z Deportivo Alavés wszystko wymknęło się spod kontroli. Protestowali wszyscy, z rezerwowymi i sztabem trenerskim włącznie, w stylu, który w przeszłości był charakterystyczny dla innych drużyn. Carlo Ancelotti postawił sprawę jasno i nie chce, by coś takiego wydarzyło się w derbach.</description>
+    </item>
     
     <item>
         <title>Prezes Atlético: U nas nie ma antyrasistów ani rasistów</title>
@@ -82,13 +89,6 @@ Zima nie musi oznaczać przerwy od aktywności fizycznej na świeżym powietrzu.
         <link>https://www.realmadryt.pl/news/132887-dzisiaj-sedziuje-arbiter-ktory-pozwala-atakowac-pilkarzy-realu-korkami-video</link>
         <pubDate>Sun, 29 Sep 2024 11:12:00 GMT</pubDate>
         <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Atlético Madryt. Tym razem skupiono się na arbitrze VAR.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 29 września</title>
-        <link>https://www.realmadryt.pl/news/132882-kartka-z-kalendarza-29-wrzesnia</link>
-        <pubDate>Sun, 29 Sep 2024 11:00:00 GMT</pubDate>
-        <description>Urodziny byłego zawodnika i asystenta, domowy mecz ze Stalą Mielec na… Estadio Mestalla, pierwszy Superpuchar Hiszpanii, kara dla Legii na spotkanie z Realem i bezbramkowy debiut Viníciusa. Co działo się 29 września?</description>
     </item>
     
 </channel>
