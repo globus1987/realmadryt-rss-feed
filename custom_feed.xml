@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Sep 2024 22:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 23:20:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132911-dzisiejsze-okladki</link>
+        <pubDate>Mon, 30 Sep 2024 01:10:00 GMT</pubDate>
+        <description>Derby Madrytu i transfer Wojciecha Szczęsnego to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Atlético Madryt zlokalizowało już jednego z rzucających</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132898-rozgrzewka-przed-atletico-video</link>
         <pubDate>Sun, 29 Sep 2024 20:18:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Cívitas Metropolitano, gdzie za kilkadziesiąt minut zaczną mecz z Atlético Madryt. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Atlético Madryt – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/132897-atletico-madryt-real-madryt-znamy-sklady</link>
-        <pubDate>Sun, 29 Sep 2024 19:06:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu La Ligi. Mecz rozpocznie się o godzinie 21:00 na stadionie Cívitas Metropolitano.</description>
     </item>
     
 </channel>
