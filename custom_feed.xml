@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Sep 2024 14:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 15:25:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Atlético</title>
+        <link>https://www.realmadryt.pl/news/132926-oceny-zawodnikow-po-meczu-z-atletico</link>
+        <pubDate>Mon, 30 Sep 2024 17:05:00 GMT</pubDate>
+        <description>Real Madryt zremisował na wyjeździe z Atlético 1:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Lille</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132916-koke-nasi-kibice-poczuli-sie-sprowokowani-i-chcieli-sie-bronic</link>
         <pubDate>Mon, 30 Sep 2024 08:36:00 GMT</pubDate>
         <description>Koke po meczu La Ligi z Realem Madryt przyszedł do dziennikarzy w sali prasowej. Przedstawiamy najważniejsze wypowiedzi kapitana Atlético Madryt z tego spotkania z dziennikarzami na Metropolitano dotyczące rzekomej prowokacji Thibaut Courtois.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się po remisie</title>
-        <link>https://www.realmadryt.pl/news/132912-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-po-remisie</link>
-        <pubDate>Mon, 30 Sep 2024 07:45:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił żadnej wypowiedzi mediom po remisie z Atlético Madryt. To efekt modyfikacji ze strony La Ligi, które Real Madryt uznaje za nielegalne, ale także wyniku, bo nikt nie wyszedł nawet do rozmowy z klubową telewizją.</description>
     </item>
     
 </channel>
