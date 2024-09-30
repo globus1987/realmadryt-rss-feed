@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Sep 2024 11:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 11:38:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wciąż niezwyciężeni</title>
+        <link>https://www.realmadryt.pl/news/132923-wciaz-niezwyciezeni</link>
+        <pubDate>Mon, 30 Sep 2024 13:26:00 GMT</pubDate>
+        <description>Remis w derbach Madrytu sprawia, że Królewscy kontynuują swoją passę i mają na koncie już 40 kolejnych meczów w La Lidze bez porażki.</description>
+    </item>
+    
+    <item>
+        <title>Fran García trenował normalnie po ataku Llorente</title>
+        <link>https://www.realmadryt.pl/news/132921-fran-garcia-trenowal-normalnie-po-ataku-llorente</link>
+        <pubDate>Mon, 30 Sep 2024 13:21:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do meczu Ligi Mistrzów. Była to sesja regeneracyjna.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Thibaut Courtois kontuzjowany</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132913-la-sexta-gest-courtois-byl-odpowiedzia-na-przyspiewke-chuliganow-atletico</link>
         <pubDate>Mon, 30 Sep 2024 02:22:00 GMT</pubDate>
         <description>W nocnym Chiringuito przekazano nowe szczegóły incydentów, przez które wstrzymano derby Madrytu. Okazało się, że „prowokacja” Thibaut Courtois wynikała z tego, co chwilę wcześniej usłyszał z trybun.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/132911-dzisiejsze-okladki</link>
-        <pubDate>Mon, 30 Sep 2024 01:10:00 GMT</pubDate>
-        <description>Derby Madrytu i transfer Wojciecha Szczęsnego to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Atlético Madryt zlokalizowało już jednego z rzucających</title>
-        <link>https://www.realmadryt.pl/news/132910-oficjalnie-atletico-madryt-zlokalizowalo-juz-jednego-z-rzucajacych</link>
-        <pubDate>Mon, 30 Sep 2024 00:42:00 GMT</pubDate>
-        <description>Atlético Madryt wystosowało komunikat po derbach Madrytu. Przedstawiamy jego treść.</description>
     </item>
     
 </channel>
