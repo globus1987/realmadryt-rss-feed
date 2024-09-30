@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Sep 2024 10:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 10:45:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Thibaut Courtois kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/132920-oficjalnie-thibaut-courtois-kontuzjowany</link>
+        <pubDate>Mon, 30 Sep 2024 12:36:00 GMT</pubDate>
+        <description>Real Madryt potwierdził, że Belg doznał kontuzji. W najbliższych meczach zastąpi go Andrij Łunin.</description>
+    </item>
     
     <item>
         <title>Koniec z kartkami za protesty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132910-oficjalnie-atletico-madryt-zlokalizowalo-juz-jednego-z-rzucajacych</link>
         <pubDate>Mon, 30 Sep 2024 00:42:00 GMT</pubDate>
         <description>Atlético Madryt wystosowało komunikat po derbach Madrytu. Przedstawiamy jego treść.</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Możemy też zacząć karać tych z nas, którzy prowokują kibiców</title>
-        <link>https://www.realmadryt.pl/news/132909-simeone-mozemy-tez-zaczac-karac-tych-z-nas-ktorzy-prowokuja-kibicow</link>
-        <pubDate>Mon, 30 Sep 2024 00:27:00 GMT</pubDate>
-        <description>Diego Simeone pojawił się na konferencji prasowej po meczu La Ligi z Realem Madryt. Przedstawiamy wypowiedzi trenera Atlético Madryt z tego spotkania z dziennikarzami na Metropolitano.</description>
     </item>
     
 </channel>
