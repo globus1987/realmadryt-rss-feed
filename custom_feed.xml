@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Sep 2024 05:41:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 05:55:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się po remisie</title>
+        <link>https://www.realmadryt.pl/news/132912-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-po-remisie</link>
+        <pubDate>Mon, 30 Sep 2024 07:45:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił żadnej wypowiedzi mediom po remisie z Atlético Madryt. To efekt modyfikacji ze strony La Ligi, które Real Madryt uznaje za nielegalne, ale także wyniku, bo nikt nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>Zatrzymany chuligan Atlético miał przy sobie nóż</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132905-koke-nie-mozemy-szkodzic-wszystkim-kibicom-przez-4-osoby</link>
         <pubDate>Sun, 29 Sep 2024 23:31:00 GMT</pubDate>
         <description>Koke udzielił wywiadu dla DAZN po meczu z Realem Madryt. Przedstawiamy wypowiedzi zawodnika Atlético z tej rozmowy na murawie Metropolitano.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Atlético</title>
-        <link>https://www.realmadryt.pl/news/132902-ocen-pilkarzy-po-meczu-z-atletico</link>
-        <pubDate>Sun, 29 Sep 2024 23:27:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
