@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Sep 2024 22:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 22:41:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/132937-dzisiejsze-okladki</link>
+        <pubDate>Tue, 01 Oct 2024 00:29:00 GMT</pubDate>
+        <description>Echa derbów Madrytu i mecz Barcelony w Lidze Mistrzów to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius do Koke: Ja wygrałem dwie Ligi Mistrzów, ty dwie przegrałeś</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132922-maurizio-mariani-na-lille</link>
         <pubDate>Mon, 30 Sep 2024 14:01:00 GMT</pubDate>
         <description>42-letni Włoch będzie głównym rozjemcą czwartkowego meczu Realu Madryt z Lille. Będzie to drugie spotkanie rzymskiego arbitra z udziałem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>„To Atlético pozwala na obecność grupy neonazistowskiej na trybunie”</title>
-        <link>https://www.realmadryt.pl/news/132924-to-atletico-pozwala-na-obecnosc-grupy-neonazistowskiej-na-trybunie</link>
-        <pubDate>Mon, 30 Sep 2024 13:46:00 GMT</pubDate>
-        <description>Derby Madrytu przyniosły wiele incydentów na trybunach poza samym wstrzymaniem meczu.</description>
     </item>
     
 </channel>
