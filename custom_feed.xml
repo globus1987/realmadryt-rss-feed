@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:41:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak wiele Endrickowi brakuje do Viníciusa?</title>
+        <link>https://www.realmadryt.pl/news/132956-jak-wiele-endrickowi-brakuje-do-viniciusa</link>
+        <pubDate>Tue, 01 Oct 2024 17:33:00 GMT</pubDate>
+        <description>Ulises Sánchez-Flor z El Confidencial w swoim tekście zauważa, iż młodszy z Brazylijczyków musi podejmować bardziej przemyślane decyzje, ale na naukę i zdobywanie doświadczenia ma jeszcze czas.</description>
+    </item>
     
     <item>
         <title>Powołania Arbeloi na mecz z Lille</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132942-kara-dla-courtois-absurd</link>
         <pubDate>Tue, 01 Oct 2024 11:45:00 GMT</pubDate>
         <description>Ani protokół sędziego, ani raporty delegata federacji, ani delegata La Ligi w żadnym momencie nie wskazują na bramkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/132941-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 01 Oct 2024 11:35:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 8. kolejce La Ligi.</description>
     </item>
     
 </channel>
