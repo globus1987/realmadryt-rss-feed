@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Oct 2024 05:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 06:33:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>TVP nie pokaże najbliższych meczów Realu w Lidze Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/132934-tvp-nie-pokaze-najblizszych-meczow-realu-w-lidze-mistrzow</link>
+        <pubDate>Tue, 01 Oct 2024 08:00:00 GMT</pubDate>
+        <description>Już dziś rusza druga kolejka fazy ligowej Ligi Mistrzów. Real Madryt zmierzy się jutro z Lille, a bardzo dobrze zapowiada się dzisiejsza potyczka Arsenalu z PSG. Prawa do pokazywania wszystkich spotkań ma CANAL+</description>
+    </item>
     
     <item>
         <title>Hazard: Gra przeciwko Realowi Madryt to zaszczyt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132927-la-liga-zaskarza-obrazliwe-przyspiewki-z-derbow</link>
         <pubDate>Mon, 30 Sep 2024 18:00:00 GMT</pubDate>
         <description>La Liga wystosowała komunikat dotyczący bezpieczeństwa i obelg w 8. kolejce La Ligi. W raporcie z derbów Madrytu potwierdzono przyśpiewkę przeciwko Thibaut Courtois, chociaż zapisano, że miała ona miejsce po golu.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Atlético</title>
-        <link>https://www.realmadryt.pl/news/132926-oceny-zawodnikow-po-meczu-z-atletico</link>
-        <pubDate>Mon, 30 Sep 2024 17:05:00 GMT</pubDate>
-        <description>Real Madryt zremisował na wyjeździe z Atlético 1:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
