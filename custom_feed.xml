@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Oct 2024 10:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 10:44:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde przyćmił Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/132946-valverde-przycmil-tchouameniego</link>
+        <pubDate>Tue, 01 Oct 2024 12:39:00 GMT</pubDate>
+        <description>W niedzielnych derbach Madrytu Fede Valverde zanotował prawie dwa razy więcej odbiorów niż Aurélien Tchouaméni. Urugwajczyk dwoił się i troił, a Francuz z kolei momentami wyglądał na zagubionego i pozostawił po sobie nieco inne wrażenie.</description>
+    </item>
+    
+    <item>
+        <title>W głębi Atlético</title>
+        <link>https://www.realmadryt.pl/news/132945-w-glebi-atletico</link>
+        <pubDate>Tue, 01 Oct 2024 12:28:00 GMT</pubDate>
+        <description>Juan Diego Madueño jest wieloletnim dziennikarzem El Mundo i często pisuje felietony na tematy związane z futbolem. Tym razem opisuje sytuację po derbach Madrytu.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Lille</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132937-dzisiejsze-okladki</link>
         <pubDate>Tue, 01 Oct 2024 00:29:00 GMT</pubDate>
         <description>Echa derbów Madrytu i mecz Barcelony w Lidze Mistrzów to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius do Koke: Ja wygrałem dwie Ligi Mistrzów, ty dwie przegrałeś</title>
-        <link>https://www.realmadryt.pl/news/132935-vinicius-do-koke-ja-wygralem-dwie-ligi-mistrzow-ty-dwie-przegrales</link>
-        <pubDate>Tue, 01 Oct 2024 00:02:00 GMT</pubDate>
-        <description>Telewizje Movistar+ i DAZN opublikowały swoje kulisy derbów Madrytu, skupiając się na Viníciusie. Brazylijczyk miał słowne utarczki z Koke i Marcosem Llorente.</description>
-    </item>
-    
-    <item>
-        <title>8. kolejka: Villarreal wygrywa przed meczem z Realem i wyprzedza Atlético</title>
-        <link>https://www.realmadryt.pl/news/132933-8-kolejka-villarreal-wygrywa-przed-meczem-z-realem-i-wyprzedza-atletico</link>
-        <pubDate>Mon, 30 Sep 2024 23:02:00 GMT</pubDate>
-        <description>Za nami wszystkie mecze 8. kolejki La Ligi. Real Madryt odrobił jeden punkt do Barcelony, a na trzecią lokatę wskoczył Villarreal, który dziś pokonał Las Palmas 3:1.</description>
     </item>
     
 </channel>
