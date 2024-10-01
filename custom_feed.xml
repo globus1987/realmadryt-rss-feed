@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Oct 2024 17:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:30:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 12. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/132962-terminarz-12-kolejki-la-ligi</link>
+        <pubDate>Tue, 01 Oct 2024 20:01:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 12. kolejki, w której Real Madryt zmierzy się na wyjeździe z Valencią. Kolejny raz Królewscy zagrają o 21:00.</description>
+    </item>
     
     <item>
         <title>Génésio: Jeśli mamy myśleć, że przegramy, lepiej w ogóle nie grać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132950-odbierz-voucher-na-ogladanie-realu-madryt-w-lidze-mistrzow</link>
         <pubDate>Tue, 01 Oct 2024 15:06:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Znużenie Realu po derbach</title>
-        <link>https://www.realmadryt.pl/news/132949-znuzenie-realu-po-derbach</link>
-        <pubDate>Tue, 01 Oct 2024 15:00:00 GMT</pubDate>
-        <description>Klub podsumowuje swoje odczucia jako zmęczenie i złość: ani nie rozumie, ani nie popiera pasywności Atlético wobec swoich ultrasów. Jednak gratuluje swoim zawodnikom i sędziemu.</description>
     </item>
     
 </channel>
