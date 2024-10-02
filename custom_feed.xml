@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Oct 2024 20:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:24:02 GMT</lastBuildDate>
     
     <item>
-        <title>Lille OSC – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/132991-lille-osc-real-madryt-live</link>
+        <title>Edon Zhegrova MVP meczu z Lille</title>
+        <link>https://www.realmadryt.pl/news/132996-edon-zhegrova-mvp-meczu-z-lille</link>
+        <pubDate>Wed, 02 Oct 2024 23:16:00 GMT</pubDate>
+        <description>Kosowski skrzydłowy otrzymał nagrodę dla najlepszego zawodnika meczu Lille z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Łunin: Zabrakło agresywności, kreatywności i walki</title>
+        <link>https://www.realmadryt.pl/news/132995-lunin-zabraklo-agresywnosci-kreatywnosci-i-walki</link>
+        <pubDate>Wed, 02 Oct 2024 23:05:00 GMT</pubDate>
+        <description>Andrij Łunin po meczu z Lille w Lidze Mistrzów udzielił wywiadu na murawie telewizji Movistar+. Przedstawiamy wypowiedzi gracza Realu Madryt z murawy na Stade Pierre-Mauroy.</description>
+    </item>
+    
+    <item>
+        <title>2. kolejka: Real ze stratą do liderów tabeli</title>
+        <link>https://www.realmadryt.pl/news/132994-2-kolejka-real-ze-strata-do-liderow-tabeli</link>
+        <pubDate>Wed, 02 Oct 2024 23:04:00 GMT</pubDate>
+        <description>Real Madryt przegrał z Lille 0:1 w 2. kolejce fazy ligowej Ligi Mistrzów i musi gonić liderów.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Lille</title>
+        <link>https://www.realmadryt.pl/news/132992-ocen-pilkarzy-po-meczu-z-lille</link>
+        <pubDate>Wed, 02 Oct 2024 23:04:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Nic nie działa</title>
+        <link>https://www.realmadryt.pl/news/132991-nic-nie-dziala</link>
         <pubDate>Wed, 02 Oct 2024 21:00:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz Lille z Realem Madryt.</description>
+        <description>W meczu drugiej kolejki Ligi Mistrzów Real Madryt przegrał na wyjeździe z Lille 0:1 i nie pokazał absolutnie nic dobrego.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/132983-oficjalnie-wojciech-szczesny-pilkarzem-barcelony</link>
         <pubDate>Wed, 02 Oct 2024 15:03:00 GMT</pubDate>
         <description>Polak wraca z emerytury i zastąpi kontuzjowanego Ter Stegena.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga zaczyna naciskać na Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/132982-camavinga-zaczyna-naciskac-na-tchouameniego</link>
-        <pubDate>Wed, 02 Oct 2024 14:55:00 GMT</pubDate>
-        <description>Mecz z Lille jest dla Eduardo Camavingi punktem wyjścia. Niewykluczone, że powrót Francuza będzie również zaczątkiem nowego pomysłu na środek pola w dłuższej perspektywie, pisze AS.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham przejmuje stery</title>
-        <link>https://www.realmadryt.pl/news/132981-bellingham-przejmuje-stery</link>
-        <pubDate>Wed, 02 Oct 2024 14:10:00 GMT</pubDate>
-        <description>Obecność Anglika zmienia wszystko w schemacie taktycznym Carlo Ancelottiego, który z nim na boisku charakteryzuje się bardziej zwartym blokiem i większą siłą w środku pola.</description>
-    </item>
-    
-    <item>
-        <title>Rozpoczęto testowanie zewnętrznego oświetlenia Bernabéu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/132980-rozpoczeto-testowanie-zewnetrznego-oswietlenia-bernabeu-video</link>
-        <pubDate>Wed, 02 Oct 2024 13:42:00 GMT</pubDate>
-        <description>Królewscy przy wielu problemach idą do przodu z przebudową Santiago Bernabéu. W tych dniach zaczęto testować zewnętrzne oświetlenie obiektu.</description>
-    </item>
-    
-    <item>
-        <title>TSUE wyda w piątek decyzję w sprawie sporu pomiędzy Realem a Le Monde dotyczącego dopingu</title>
-        <link>https://www.realmadryt.pl/news/132979-tsue-wyda-w-piatek-decyzje-w-sprawie-sporu-pomiedzy-realem-a-le-monde-dotyczacego-dopingu</link>
-        <pubDate>Wed, 02 Oct 2024 13:37:00 GMT</pubDate>
-        <description>Sprawa ciągnie się od 2006 roku i trafiła już do hiszpańskich oraz francuskich sądów, a ostatecznie wylądowała w Trybunale Sprawiedliwości Unii Europejskiej.</description>
     </item>
     
 </channel>
