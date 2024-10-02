@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Oct 2024 08:29:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 08:47:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wciąż wiemy, że nic nie wiemy</title>
+        <link>https://www.realmadryt.pl/news/132970-wciaz-wiemy-ze-nic-nie-wiemy</link>
+        <pubDate>Wed, 02 Oct 2024 10:45:00 GMT</pubDate>
+        <description>Kibice Realu Madryt są w tym sezonie niczym pewien bardzo znany starożytny filozof…</description>
+    </item>
     
     <item>
         <title>Kolejny rekord na horyzoncie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132969-dzisiejsze-okladki</link>
         <pubDate>Wed, 02 Oct 2024 00:26:00 GMT</pubDate>
         <description>Echa derbów i wygrana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Wygrana Arsenalu z PSG, Barcelona wraca na zwycięską ścieżkę</title>
-        <link>https://www.realmadryt.pl/news/132967-wygrana-arsenalu-z-psg-barcelona-wraca-na-zwycieska-sciezke</link>
-        <pubDate>Tue, 01 Oct 2024 22:54:00 GMT</pubDate>
-        <description>Dziewięć wtorkowych meczów Ligi Mistrzów za nami. Na czele tabeli jest Borussia Dortmund, która zmiażdżyła dziś Celtic. Po trzy punkty zgarnęły też Stade Brestois, Arsenal, Barcelona, Leverkusen, Dortmund, Inter i Manchester City.</description>
     </item>
     
 </channel>
