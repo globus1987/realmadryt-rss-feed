@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Oct 2024 22:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 23:22:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133001-dzisiejsze-okladki</link>
+        <pubDate>Thu, 03 Oct 2024 01:11:00 GMT</pubDate>
+        <description>Porażki Realu, Atlético i Girony w Lidze Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Krytyka za ten mecz jest sprawiedliwa i musimy ją zaakceptować</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132987-lille-real-madryt-znamy-sklady</link>
         <pubDate>Wed, 02 Oct 2024 19:07:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na stadionie Stade Pierre-Mauroy.</description>
-    </item>
-    
-    <item>
-        <title>Juvenil A przegrał z Lille</title>
-        <link>https://www.realmadryt.pl/news/132986-juvenil-a-przegral-z-lille</link>
-        <pubDate>Wed, 02 Oct 2024 17:06:00 GMT</pubDate>
-        <description>W 2. kolejce Ligi Młodzieżowej Real Madryt przegrał z Lille 1:2. Królewscy przespali ostatnie minuty pierwszej połowy i dwa razy dali się wtedy zaskoczyć.</description>
     </item>
     
 </channel>
