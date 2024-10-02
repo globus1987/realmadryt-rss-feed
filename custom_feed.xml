@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Oct 2024 14:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 14:53:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Czas dla Gülera</title>
+        <link>https://www.realmadryt.pl/news/132985-as-czas-dla-guelera</link>
+        <pubDate>Wed, 02 Oct 2024 16:51:00 GMT</pubDate>
+        <description>Pomocnik dostaje więcej minut niż w zeszłym sezonie, ale nie pokazuje, tyle, ile jeszcze kilka miesięcy temu. Czy dzisiejsze spotkanie będzie dla niego przełomem?</description>
+    </item>
     
     <item>
         <title>Nie ma mocnych na Valverde</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132976-mbappe-zobaczy-sie-z-mbappe</link>
         <pubDate>Wed, 02 Oct 2024 10:01:00 GMT</pubDate>
         <description>Ethan to młodszy brat Kyliana, który również opuścił paryski klub ostatniego lata po tym, jak nie przedłużył kontraktu. Przybył do Lille, klubu, który bardzo dba o swoją akademię i ma tradycję stawiania na młode talenty. Dziś nie będzie mógł zagrać z powodu kontuzji.</description>
-    </item>
-    
-    <item>
-        <title>Były dyrektor Barcelony o Negreirze: Sprzedawał nam usługę lobbowania</title>
-        <link>https://www.realmadryt.pl/news/132974-byly-dyrektor-barcelony-o-negreirze-sprzedawal-nam-usluge-lobbowania</link>
-        <pubDate>Wed, 02 Oct 2024 09:52:00 GMT</pubDate>
-        <description>Toni Freixa, były członek zarządu Barcelony w pierwszej kadencji Joana Laporty oraz za prezesury Sandro Rosella i Josepa Marii Bartomeu gościł w programie El Partidazo w radiu COPE, w którym przyznał, że Negreira „sprzedawał klubowi usługę lobbowania” i „w takiej sytuacji mogło zostać popełnionych wiele błędów”. Przedstawiamy pełną wypowiedź byłego działacza Dumy Katalonii.</description>
     </item>
     
 </channel>
