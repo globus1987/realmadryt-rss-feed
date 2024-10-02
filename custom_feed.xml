@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Oct 2024 21:24:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 21:41:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fran García: To nie był nasz najlepszy mecz</title>
+        <link>https://www.realmadryt.pl/news/132997-fran-garcia-to-nie-byl-nasz-najlepszy-mecz</link>
+        <pubDate>Wed, 02 Oct 2024 23:30:00 GMT</pubDate>
+        <description>Fran García udzielił wywiadu dla telewizji Movistar+ po przegranym 0:1 meczu Ligi Mistrzów z Lille. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Edon Zhegrova MVP meczu z Lille</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132984-nie-ma-mocnych-na-valverde</link>
         <pubDate>Wed, 02 Oct 2024 15:17:00 GMT</pubDate>
         <description>Fede Valverde jest nie do zdarcia. Nie wiadomo, co musiałoby się wydarzyć, by Urugwajczyk dostał chwilę odpoczynku.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Wojciech Szczęsny piłkarzem Barcelony</title>
-        <link>https://www.realmadryt.pl/news/132983-oficjalnie-wojciech-szczesny-pilkarzem-barcelony</link>
-        <pubDate>Wed, 02 Oct 2024 15:03:00 GMT</pubDate>
-        <description>Polak wraca z emerytury i zastąpi kontuzjowanego Ter Stegena.</description>
     </item>
     
 </channel>
