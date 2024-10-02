@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Oct 2024 12:44:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 13:14:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Wojciech Szczęsny piłkarzem Barcelony</title>
+        <link>https://www.realmadryt.pl/news/132983-oficjalnie-wojciech-szczesny-pilkarzem-barcelony</link>
+        <pubDate>Wed, 02 Oct 2024 15:03:00 GMT</pubDate>
+        <description>Polak wraca z emerytury i zastąpi kontuzjowanego Ter Stegena.</description>
+    </item>
+    
+    <item>
+        <title>Camavinga zaczyna naciskać na Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/132982-camavinga-zaczyna-naciskac-na-tchouameniego</link>
+        <pubDate>Wed, 02 Oct 2024 14:55:00 GMT</pubDate>
+        <description>Mecz z Lille jest dla Eduardo Camavingi punktem wyjścia. Niewykluczone, że powrót Francuza będzie również zaczątkiem nowego pomysłu na środek pola w dłuższej perspektywie, pisze AS.</description>
+    </item>
     
     <item>
         <title>Bellingham przejmuje stery</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/132964-kartka-z-kalendarza-2-pazdziernika</link>
         <pubDate>Wed, 02 Oct 2024 09:40:00 GMT</pubDate>
         <description>Urodziny byłego bramkarza i dwa mecze Ligi Mistrzów. Co działo się 2 października?</description>
-    </item>
-    
-    <item>
-        <title>Real popełnił błąd w sprawie Leny'ego Yoro i nadal odczuwa jego skutki</title>
-        <link>https://www.realmadryt.pl/news/132973-real-popelnil-blad-w-sprawie-lenyego-yoro-i-nadal-odczuwa-jego-skutki</link>
-        <pubDate>Wed, 02 Oct 2024 08:51:00 GMT</pubDate>
-        <description>Mario Cortegana opisuje szczegółowo sytuację z niedoszłym transferem Francuza i analizuje, jakie są i będą skutki tego, że stoper nie trafił ostatecznie do Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>Giménez: Vinícius to nie jest zły chłopak</title>
-        <link>https://www.realmadryt.pl/news/132968-gimenez-vinicius-to-nie-jest-zly-chlopak</link>
-        <pubDate>Wed, 02 Oct 2024 08:40:00 GMT</pubDate>
-        <description>José María Giménez udzielił wywiadu dla urugwajskiego ESPN po zremisowanym 1:1 meczu z Realem Madryt, podczas którego dziennikarz zapytał go o problemy Viníciusa z piłkarzami Atlético. Defensor Los Colchoneros uciął temat i stanął w obronie Brazylijczyka.</description>
     </item>
     
 </channel>
