@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 18:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 18:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt ma swoją Mona Lisę</title>
+        <link>https://www.realmadryt.pl/news/133026-real-madryt-ma-swoja-mona-lise</link>
+        <pubDate>Thu, 03 Oct 2024 20:36:00 GMT</pubDate>
+        <description>Uznany Hiszpański artysta Domingo Zapata przekazał Fundacji Realu Madryt obraz symbolizujący połączenie sztuki i historycznych sukcesów Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Villarreal na Bernabéu bez najlepszego strzelca?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133012-syndrom-lukaku</link>
         <pubDate>Thu, 03 Oct 2024 13:33:00 GMT</pubDate>
         <description>„Pytanie, które teraz się nasuwa, jest logiczne: jak to możliwe, że drużyna, która w zeszłym sezonie wygrała wszystko, gra teraz gorzej niż kiedykolwiek, mimo że wzmocniła się jednym z najlepszych napastników na świecie?”, rozpoczyna swój felieton Javier Aznar, dziennikarz ABC.</description>
-    </item>
-    
-    <item>
-        <title>Już nic nie działa jak kiedyś</title>
-        <link>https://www.realmadryt.pl/news/133008-juz-nic-nie-dziala-jak-kiedys</link>
-        <pubDate>Thu, 03 Oct 2024 13:30:00 GMT</pubDate>
-        <description>Na budzący bardzo duże wątpliwości start Realu Madryt w obecnym sezonie wpływ ma wiele czynników. Od braku Toniego Kroosa, przez formę Viníciusa czy Jude'a Bellinghama, po dylematy Carlo Ancelottiego w związku z nowym systemem gry.</description>
     </item>
     
 </channel>
