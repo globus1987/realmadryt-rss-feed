@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 20:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 20:40:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Villarreal – ostatni zdobywca Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/133027-villarreal-ostatni-zdobywca-bernabeu</link>
+        <pubDate>Thu, 03 Oct 2024 22:25:00 GMT</pubDate>
+        <description>Real Madryt pozostaje niepokonany na Santiago Bernabéu od kwietnia 2023 roku. Tym ostatnim zespołem, który był w stanie zdobyć stadion Królewskich, był Villarreal.</description>
+    </item>
     
     <item>
         <title>Real Madryt ma swoją Mona Lisę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133016-oceny-zawodnikow-po-meczu-z-lille</link>
         <pubDate>Thu, 03 Oct 2024 14:17:00 GMT</pubDate>
         <description>Real Madryt przegrał na wyjeździe z Lille 0:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Syndrom Lukaku</title>
-        <link>https://www.realmadryt.pl/news/133012-syndrom-lukaku</link>
-        <pubDate>Thu, 03 Oct 2024 13:33:00 GMT</pubDate>
-        <description>„Pytanie, które teraz się nasuwa, jest logiczne: jak to możliwe, że drużyna, która w zeszłym sezonie wygrała wszystko, gra teraz gorzej niż kiedykolwiek, mimo że wzmocniła się jednym z najlepszych napastników na świecie?”, rozpoczyna swój felieton Javier Aznar, dziennikarz ABC.</description>
     </item>
     
 </channel>
