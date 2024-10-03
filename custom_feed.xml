@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 03:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 04:29:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick: Patrzymy już na kolejny mecz</title>
+        <link>https://www.realmadryt.pl/news/133002-endrick-patrzymy-juz-na-kolejny-mecz</link>
+        <pubDate>Thu, 03 Oct 2024 06:00:00 GMT</pubDate>
+        <description>Endrick po meczu z Lille w Lidze Mistrzów udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi gracza Realu Madryt z Stade Pierre-Mauroy.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132989-oficjalnie-federacja-zamyka-7-sektorow-na-stadionie-atletico</link>
         <pubDate>Wed, 02 Oct 2024 19:39:00 GMT</pubDate>
         <description>Poznaliśmy pierwszą karę za incydenty w niedzielnych derbach Madrytu. Sankcję wystosował Komitet Rozgrywek w Hiszpańskiej Federacji Piłkarskiej.</description>
-    </item>
-    
-    <item>
-        <title>Lille – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/132987-lille-real-madryt-znamy-sklady</link>
-        <pubDate>Wed, 02 Oct 2024 19:07:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na stadionie Stade Pierre-Mauroy.</description>
     </item>
     
 </channel>
