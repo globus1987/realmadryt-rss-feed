@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 08:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 08:46:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsza porażka, która potwierdza obawy</title>
+        <link>https://www.realmadryt.pl/news/133009-pierwsza-porazka-ktora-potwierdza-obawy</link>
+        <pubDate>Thu, 03 Oct 2024 10:37:00 GMT</pubDate>
+        <description>W Valdebebas uważają, że ta kadra jest w stanie osiągać lepsze wyniki, a przede wszystkim prezentować lepszy styl gry.</description>
+    </item>
     
     <item>
         <title>Génésio: To zaszczyt, że wygrałem z takim trenerem jak Carlo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132997-fran-garcia-to-nie-byl-nasz-najlepszy-mecz</link>
         <pubDate>Wed, 02 Oct 2024 23:30:00 GMT</pubDate>
         <description>Fran García udzielił wywiadu dla telewizji Movistar+ po przegranym 0:1 meczu Ligi Mistrzów z Lille. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Edon Zhegrova MVP meczu z Lille</title>
-        <link>https://www.realmadryt.pl/news/132996-edon-zhegrova-mvp-meczu-z-lille</link>
-        <pubDate>Wed, 02 Oct 2024 23:16:00 GMT</pubDate>
-        <description>Kosowski skrzydłowy otrzymał nagrodę dla najlepszego zawodnika meczu Lille z Realem Madryt.</description>
     </item>
     
 </channel>
