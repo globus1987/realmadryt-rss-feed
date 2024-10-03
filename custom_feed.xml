@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 14:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 14:42:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazdowy dramat</title>
+        <link>https://www.realmadryt.pl/news/133015-wyjazdowy-dramat</link>
+        <pubDate>Thu, 03 Oct 2024 16:28:00 GMT</pubDate>
+        <description>Real Madryt zdołał odnieść tylko jedno zwycięstwo w pięciu ostatnich wyjazdowych meczach. Pod tym względem jest to drugi najsłabszy start sezonu w wykonaniu Królewskich na przestrzeni ostatnich dwunastu lat.</description>
+    </item>
     
     <item>
         <title>Królewska samokrytyka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133010-mijatovic-ten-srodek-pola-mnie-nie-przekonuje-to-za-duzo-miesni-za-duzo-twardosci</link>
         <pubDate>Thu, 03 Oct 2024 11:19:00 GMT</pubDate>
         <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, pojawił się w audycji El Larguero na antenie Cadena SER. Czarnogórzec odniósł się do wczorajszego spotkania z Lille</description>
-    </item>
-    
-    <item>
-        <title>Startuje Euroliga</title>
-        <link>https://www.realmadryt.pl/news/132993-startuje-euroliga</link>
-        <pubDate>Thu, 03 Oct 2024 11:10:00 GMT</pubDate>
-        <description>Na inaugurację Euroligi Real Madryt zagra na wyjeździe z Bayernem Monachium. Królewscy potrzebują zwycięstwa po dwóch porażkach z rzędu.</description>
     </item>
     
 </channel>
