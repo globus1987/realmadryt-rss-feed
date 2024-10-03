@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 21:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 21:39:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trzecia porażka z rzędu</title>
+        <link>https://www.realmadryt.pl/news/133031-trzecia-porazka-z-rzedu</link>
+        <pubDate>Thu, 03 Oct 2024 23:29:00 GMT</pubDate>
+        <description>Real Madryt przegrał na inaugurację nowego sezonu Euroligi z Bayernem Monachium, mimo że po trzeciej kwarcie miał korzystny wynik. Po czterech meczach podopieczni Chusa Mateo mają na koncie tylko jedną wygraną.</description>
+    </item>
     
     <item>
         <title>Villarreal – ostatni zdobywca Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133018-marca-real-wraca-do-komisji-delegacyjnej-la-ligi</link>
         <pubDate>Thu, 03 Oct 2024 14:46:00 GMT</pubDate>
         <description>Królewscy chcą ponownie mieć wpływ na podejmowane decyzje i będą mogli go mieć za sprawą Realu Sociedad oraz Realu Valladolid.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Lille</title>
-        <link>https://www.realmadryt.pl/news/133016-oceny-zawodnikow-po-meczu-z-lille</link>
-        <pubDate>Thu, 03 Oct 2024 14:17:00 GMT</pubDate>
-        <description>Real Madryt przegrał na wyjeździe z Lille 0:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
