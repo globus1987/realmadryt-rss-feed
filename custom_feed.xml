@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 04:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 05:22:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>FIFA i UEFA grożą Hiszpańskiej Federacji Piłkarskiej</title>
+        <link>https://www.realmadryt.pl/news/133003-fifa-i-uefa-groza-hiszpanskiej-federacji-pilkarskiej</link>
+        <pubDate>Thu, 03 Oct 2024 07:00:00 GMT</pubDate>
+        <description>We wrześniu Trybunał Administracyjny ds. Sportu stwierdził, że wybory w Hiszpańskiej Federacji Piłkarskiej muszą zostać przesunięte z powodów regulaminowych. FIFA i UEFA wykazały zniecierpliwienie sytuacją i wystosowały publiczne ostrzeżenie dla Hiszpanów.</description>
+    </item>
     
     <item>
         <title>Endrick: Patrzymy już na kolejny mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132990-ancelotti-rodrygo-i-mbappe-nie-sa-gotowi-na-100</link>
         <pubDate>Wed, 02 Oct 2024 20:27:00 GMT</pubDate>
         <description>Carlo Ancelotti przed meczem z Lille w Lidze Mistrzów udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Stade Pierre-Mauroy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Federacja zamyka 7 sektorów na stadionie Atlético</title>
-        <link>https://www.realmadryt.pl/news/132989-oficjalnie-federacja-zamyka-7-sektorow-na-stadionie-atletico</link>
-        <pubDate>Wed, 02 Oct 2024 19:39:00 GMT</pubDate>
-        <description>Poznaliśmy pierwszą karę za incydenty w niedzielnych derbach Madrytu. Sankcję wystosował Komitet Rozgrywek w Hiszpańskiej Federacji Piłkarskiej.</description>
     </item>
     
 </channel>
