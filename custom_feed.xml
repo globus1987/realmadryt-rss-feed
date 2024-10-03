@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 11:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 12:44:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Lille</title>
+        <link>https://www.realmadryt.pl/news/133016-oceny-zawodnikow-po-meczu-z-lille</link>
+        <pubDate>Thu, 03 Oct 2024 14:17:00 GMT</pubDate>
+        <description>Real Madryt przegrał na wyjeździe z Lille 0:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Syndrom Lukaku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133004-ancelotti-druzyna-sie-poprawiala-ale-dzisiaj-troche-sie-cofnelismy</link>
         <pubDate>Thu, 03 Oct 2024 09:30:00 GMT</pubDate>
         <description>Carlo Ancelotti po meczu z Lille w Lidze Mistrzów udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z murawy na Stade Pierre-Mauroy.</description>
-    </item>
-    
-    <item>
-        <title>Militão ma problem z udem, a Rodrygo z plecami</title>
-        <link>https://www.realmadryt.pl/news/133007-militao-ma-problem-z-udem-a-rodrygo-z-plecami</link>
-        <pubDate>Thu, 03 Oct 2024 09:04:00 GMT</pubDate>
-        <description>Brazylijczycy zostaną przebadani w Valdebebas i wówczas dowiemy się, czy będą mogli wystąpić w sobotnim spotkaniu z Villarrealem.</description>
     </item>
     
 </channel>
