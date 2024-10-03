@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 15:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 15:41:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Ten Real nie ma paliwa</title>
+        <link>https://www.realmadryt.pl/news/133020-marca-ten-real-nie-ma-paliwa</link>
+        <pubDate>Thu, 03 Oct 2024 17:38:00 GMT</pubDate>
+        <description>Podopieczni Ancelottiego wypadają blado w wielu istotnych statystykach, gdy porównamy je do liczb innych czołowych drużyn.</description>
+    </item>
     
     <item>
         <title>Wyjazdowy dramat</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133011-dotknelismy-dna</link>
         <pubDate>Thu, 03 Oct 2024 12:27:00 GMT</pubDate>
         <description>Działacze klubu nadal przekazują spokój i zaufanie, ale wszyscy zdają sobie sprawę, że jest źle.</description>
-    </item>
-    
-    <item>
-        <title>Mijatović: Ten środek pola mnie nie przekonuje, to za dużo mięśni, za dużo twardości</title>
-        <link>https://www.realmadryt.pl/news/133010-mijatovic-ten-srodek-pola-mnie-nie-przekonuje-to-za-duzo-miesni-za-duzo-twardosci</link>
-        <pubDate>Thu, 03 Oct 2024 11:19:00 GMT</pubDate>
-        <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, pojawił się w audycji El Larguero na antenie Cadena SER. Czarnogórzec odniósł się do wczorajszego spotkania z Lille</description>
     </item>
     
 </channel>
