@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 10:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 10:43:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cuadra Fernández na Villarreal</title>
+        <link>https://www.realmadryt.pl/news/133013-cuadra-fernandez-na-villarreal</link>
+        <pubDate>Thu, 03 Oct 2024 12:39:00 GMT</pubDate>
+        <description>Guillermo Cuadra Fernández poprowadzi mecz Realu Madryt z Villarrealem. Jak dotychczas radził sobie 40-latek?</description>
+    </item>
+    
+    <item>
+        <title>„Dotknęliśmy dna”</title>
+        <link>https://www.realmadryt.pl/news/133011-dotknelismy-dna</link>
+        <pubDate>Thu, 03 Oct 2024 12:27:00 GMT</pubDate>
+        <description>Działacze klubu nadal przekazują spokój i zaufanie, ale wszyscy zdają sobie sprawę, że jest źle.</description>
+    </item>
     
     <item>
         <title>Mijatović: Ten środek pola mnie nie przekonuje, to za dużo mięśni, za dużo twardości</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133002-endrick-patrzymy-juz-na-kolejny-mecz</link>
         <pubDate>Thu, 03 Oct 2024 06:00:00 GMT</pubDate>
         <description>Endrick po meczu z Lille w Lidze Mistrzów udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi gracza Realu Madryt z Stade Pierre-Mauroy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133001-dzisiejsze-okladki</link>
-        <pubDate>Thu, 03 Oct 2024 01:11:00 GMT</pubDate>
-        <description>Porażki Realu, Atlético i Girony w Lidze Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Krytyka za ten mecz jest sprawiedliwa i musimy ją zaakceptować</title>
-        <link>https://www.realmadryt.pl/news/133000-ancelotti-krytyka-za-ten-mecz-jest-sprawiedliwa-i-musimy-ja-zaakceptowac</link>
-        <pubDate>Wed, 02 Oct 2024 23:57:00 GMT</pubDate>
-        <description>Carlo Ancelotti po meczu z Lille w Lidze Mistrzów pojawił się na konferencji prasowej. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Stade Pierre-Mauroy.</description>
     </item>
     
 </channel>
