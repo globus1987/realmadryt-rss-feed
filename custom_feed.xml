@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 05:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 05:54:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin: Pokazałem, że mogę być numerem 1</title>
+        <link>https://www.realmadryt.pl/news/133005-lunin-pokazalem-ze-moge-byc-numerem-1</link>
+        <pubDate>Thu, 03 Oct 2024 07:50:00 GMT</pubDate>
+        <description>Andrij Łunin wyszedł do dziennikarzy w strefie mieszanej po meczu z Lille w Lidze Mistrzów. Przedstawiamy wypowiedzi gracza Realu Madryt ze Stade Pierre-Mauroy.</description>
+    </item>
     
     <item>
         <title>FIFA i UEFA grożą Hiszpańskiej Federacji Piłkarskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132991-nic-nie-dziala</link>
         <pubDate>Wed, 02 Oct 2024 21:00:00 GMT</pubDate>
         <description>W meczu drugiej kolejki Ligi Mistrzów Real Madryt przegrał na wyjeździe z Lille 0:1 i nie pokazał absolutnie nic dobrego.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Rodrygo i Mbappé nie są gotowi na 100%</title>
-        <link>https://www.realmadryt.pl/news/132990-ancelotti-rodrygo-i-mbappe-nie-sa-gotowi-na-100</link>
-        <pubDate>Wed, 02 Oct 2024 20:27:00 GMT</pubDate>
-        <description>Carlo Ancelotti przed meczem z Lille w Lidze Mistrzów udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Stade Pierre-Mauroy.</description>
     </item>
     
 </channel>
