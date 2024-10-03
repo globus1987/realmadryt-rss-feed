@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Oct 2024 06:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 06:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 3 października</title>
+        <link>https://www.realmadryt.pl/news/132999-kartka-z-kalendarza-3-pazdziernika</link>
+        <pubDate>Thu, 03 Oct 2024 08:40:00 GMT</pubDate>
+        <description>Urodziny jednego z założycieli włoskiego klubu, którego nazwisko kojarzy każdy kibic na świecie, debiut legendarnego kapitana, dwie goleady zespołu prowadzonego przez José Mourinho i porażka podopiecznych Carlo Ancelottiego. Co działo się 3 października?</description>
+    </item>
     
     <item>
         <title>Łunin: Pokazałem, że mogę być numerem 1</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/132992-ocen-pilkarzy-po-meczu-z-lille</link>
         <pubDate>Wed, 02 Oct 2024 23:04:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Nic nie działa</title>
-        <link>https://www.realmadryt.pl/news/132991-nic-nie-dziala</link>
-        <pubDate>Wed, 02 Oct 2024 21:00:00 GMT</pubDate>
-        <description>W meczu drugiej kolejki Ligi Mistrzów Real Madryt przegrał na wyjeździe z Lille 0:1 i nie pokazał absolutnie nic dobrego.</description>
     </item>
     
 </channel>
