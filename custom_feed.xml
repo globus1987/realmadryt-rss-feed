@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Oct 2024 19:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 19:38:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejna wygrana piłkarek</title>
+        <link>https://www.realmadryt.pl/news/133063-kolejna-wygrana-pilkarek</link>
+        <pubDate>Fri, 04 Oct 2024 21:28:00 GMT</pubDate>
+        <description>Las Blancas utrzymali nieskazitelny bilans dzięki jedynej bramce Olgi. Niepokojąca kontuzja Toletti po brutalnym wejściu Browne.</description>
+    </item>
     
     <item>
         <title>Pogba może wrócić do gry w przyszłym roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133051-marca-klub-przedluzyl-umowe-z-joanem-martinezem</link>
         <pubDate>Fri, 04 Oct 2024 14:28:00 GMT</pubDate>
         <description>Jak informuje MARCA, Real Madryt sfinalizował przedłużenie umowy z Joanem Martínezem, 17-letnim środkowym obrońcą, który niedawno zerwał więzadło krzyżowe w lewym kolanie. Klub jednak bardzo na niego liczy w kontekście kolejnych lat.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Villarreal</title>
-        <link>https://www.realmadryt.pl/news/133049-kadra-na-villarreal</link>
-        <pubDate>Fri, 04 Oct 2024 14:28:00 GMT</pubDate>
-        <description>Królewscy podejdą do meczu z Villarrealem bez trzech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 22 zawodników.</description>
     </item>
     
 </channel>
