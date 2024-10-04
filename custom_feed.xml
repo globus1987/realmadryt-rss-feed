@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Oct 2024 07:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 07:38:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obawa o Fede Valverde</title>
+        <link>https://www.realmadryt.pl/news/133041-obawa-o-fede-valverde</link>
+        <pubDate>Fri, 04 Oct 2024 09:35:00 GMT</pubDate>
+        <description>Pomocnik gromadzi minuty, jakby zmęczenie go nie dotyczyło. W jego otoczeniu panuje pewna obawa.</description>
+    </item>
     
     <item>
         <title>Bellingham powołany do reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133027-villarreal-ostatni-zdobywca-bernabeu</link>
         <pubDate>Thu, 03 Oct 2024 22:25:00 GMT</pubDate>
         <description>Real Madryt pozostaje niepokonany na Santiago Bernabéu od kwietnia 2023 roku. Tym ostatnim zespołem, który był w stanie zdobyć stadion Królewskich, był Villarreal.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt ma swoją Mona Lisę</title>
-        <link>https://www.realmadryt.pl/news/133026-real-madryt-ma-swoja-mona-lise</link>
-        <pubDate>Thu, 03 Oct 2024 20:36:00 GMT</pubDate>
-        <description>Uznany Hiszpański artysta Domingo Zapata przekazał Fundacji Realu Madryt obraz symbolizujący połączenie sztuki i historycznych sukcesów Realu Madryt.</description>
     </item>
     
 </channel>
