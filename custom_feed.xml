@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Oct 2024 15:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 16:28:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>TSUE przyznaje rację Lassowi, co może zmienić rynek transferowy</title>
+        <link>https://www.realmadryt.pl/news/133057-tsue-przyznaje-racje-lassowi-co-moze-zmienic-rynek-transferowy</link>
+        <pubDate>Fri, 04 Oct 2024 18:05:00 GMT</pubDate>
+        <description>Francuz wygrał sprawę w Trybunale Sprawiedliwości Unii Europejskiej, co zmusza FIFA do zmiany regulaminu transferowego.</description>
+    </item>
     
     <item>
         <title>Wyjątkowo niewygodny rywal</title>
         <link>https://www.realmadryt.pl/news/133056-wyjatkowo-niewygodny-rywal</link>
         <pubDate>Fri, 04 Oct 2024 17:50:00 GMT</pubDate>
-        <description>Sezon 2010/22 był ostatnim, w którym Królewscy byli w stanie odnieść dwa ligowe zwycięstwa w starciach z Villarrealem. O tamtego czasu ekipa Żółtej Łódzi Podwodnej w każdym sezonie zabiera punkty Realowi.</description>
+        <description>Sezon 2010/11 był ostatnim, w którym Królewscy byli w stanie odnieść dwa ligowe zwycięstwa w starciach z Villarrealem. Od tamtego czasu ekipa Żółtej Łódzi Podwodnej w każdym sezonie zabiera punkty Realowi.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133047-ostatni-trening-przed-villarrealem</link>
         <pubDate>Fri, 04 Oct 2024 12:27:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu. Razem z drużyną w pełni nie trenowało czterech graczy.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal powołany do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/133045-carvajal-powolany-do-reprezentacji</link>
-        <pubDate>Fri, 04 Oct 2024 11:45:00 GMT</pubDate>
-        <description>Luis de la Fuente powołał 25 zawodników na najbliższe zgrupowanie, które rozpocznie się na początku przyszłego tygodnia.</description>
     </item>
     
 </channel>
