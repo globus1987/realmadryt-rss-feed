@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Oct 2024 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 22:20:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133066-dzisiejsze-okladki</link>
+        <pubDate>Sat, 05 Oct 2024 00:08:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kolejna wygrana piłkarek</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133052-marcelino-nie-powiedzialbym-ze-real-jest-w-zlym-momencie</link>
         <pubDate>Fri, 04 Oct 2024 14:56:00 GMT</pubDate>
         <description>Marcelino, trener Villarrealu, rozmawiał z dziennikarzami przed jutrzejszym starciu na Santiago Bernabéu z Realem Madryt. Poniżej przedstawiamy wypowiedzi hiszpańskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Klub przedłużył umowę z Joanem Martínezem</title>
-        <link>https://www.realmadryt.pl/news/133051-marca-klub-przedluzyl-umowe-z-joanem-martinezem</link>
-        <pubDate>Fri, 04 Oct 2024 14:28:00 GMT</pubDate>
-        <description>Jak informuje MARCA, Real Madryt sfinalizował przedłużenie umowy z Joanem Martínezem, 17-letnim środkowym obrońcą, który niedawno zerwał więzadło krzyżowe w lewym kolanie. Klub jednak bardzo na niego liczy w kontekście kolejnych lat.</description>
     </item>
     
 </channel>
