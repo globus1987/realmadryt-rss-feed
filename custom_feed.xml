@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Oct 2024 04:57:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 05:25:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt szuka, ale nie znajduje rozwiązania problemu z hałasem</title>
+        <link>https://www.realmadryt.pl/news/133033-real-madryt-szuka-ale-nie-znajduje-rozwiazania-problemu-z-halasem</link>
+        <pubDate>Fri, 04 Oct 2024 07:00:00 GMT</pubDate>
+        <description>Real Madryt zawiesił organizację koncertów na Santiago Bernabéu trzy tygodnie temu. Relevo wskazuje, że od tego czasu mocno pracuje nad rozwiązaniem problemu, ale na razie go nie znajduje.</description>
+    </item>
     
     <item>
         <title>Real Madryt atakuje korupcję Barcelony po słowach jej byłego działacza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133015-wyjazdowy-dramat</link>
         <pubDate>Thu, 03 Oct 2024 16:28:00 GMT</pubDate>
         <description>Real Madryt zdołał odnieść tylko jedno zwycięstwo w pięciu ostatnich wyjazdowych meczach. Pod tym względem jest to drugi najsłabszy start sezonu w wykonaniu Królewskich na przestrzeni ostatnich dwunastu lat.</description>
-    </item>
-    
-    <item>
-        <title>Królewska samokrytyka</title>
-        <link>https://www.realmadryt.pl/news/133017-krolewska-samokrytyka</link>
-        <pubDate>Thu, 03 Oct 2024 15:26:00 GMT</pubDate>
-        <description>Zarówno trener, jak i piłkarze przyznawali w wywiadach po porażce z Lille, że drużyna zagrała źle i zrobiła krok wstecz.</description>
     </item>
     
 </channel>
