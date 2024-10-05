@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 08:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 09:25:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pod dywanem brak miejsca</title>
+        <link>https://www.realmadryt.pl/news/133023-pod-dywanem-brak-miejsca</link>
+        <pubDate>Sat, 05 Oct 2024 11:15:00 GMT</pubDate>
+        <description>Nie dało się tak w nieskończoność.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Czasem porażka pozwala ci wrócić do rzeczywistości</title>
+        <link>https://www.realmadryt.pl/news/133073-ancelotti-czasem-porazka-pozwala-ci-wrocic-do-rzeczywistosci</link>
+        <pubDate>Sat, 05 Oct 2024 11:01:00 GMT</pubDate>
+        <description>Carlo Ancelotti, trener Realu Madryt, wziął udział w konferencji prasowej przed meczem z Villarraelem. Poniżej przedstawiamy pełny zapis tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 5 października</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133066-dzisiejsze-okladki</link>
         <pubDate>Sat, 05 Oct 2024 00:08:00 GMT</pubDate>
         <description>Mecz Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kolejna wygrana piłkarek</title>
-        <link>https://www.realmadryt.pl/news/133063-kolejna-wygrana-pilkarek</link>
-        <pubDate>Fri, 04 Oct 2024 21:28:00 GMT</pubDate>
-        <description>Las Blancas utrzymali nieskazitelny bilans dzięki jedynej bramce Olgi. Niepokojąca kontuzja Toletti po brutalnym wejściu Browne.</description>
-    </item>
-    
-    <item>
-        <title>Pogba może wrócić do gry w przyszłym roku</title>
-        <link>https://www.realmadryt.pl/news/133061-pogba-moze-wrocic-do-gry-w-przyszlym-roku</link>
-        <pubDate>Fri, 04 Oct 2024 19:53:00 GMT</pubDate>
-        <description>Kara dla Francuza została skrócona przez Trybunał Arbitrażowy do spraw Sportu. W styczniu Francuz będzie mógł wznowić treningi z Juventusem.</description>
     </item>
     
 </channel>
