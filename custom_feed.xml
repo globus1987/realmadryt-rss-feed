@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 03:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 03:42:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real marnuje pierwsze połowy</title>
+        <link>https://www.realmadryt.pl/news/133062-real-marnuje-pierwsze-polowy</link>
+        <pubDate>Sat, 05 Oct 2024 05:30:00 GMT</pubDate>
+        <description>Królewscy strzelili tylko 3 gole do przerwy w 11 dotychczasowych meczach tego sezonu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133054-tsue-przyznaje-racje-le-monde-w-sporze-z-realem-madryt-dotyczacym-dopingu</link>
         <pubDate>Fri, 04 Oct 2024 15:11:00 GMT</pubDate>
         <description>Odszkodowanie nie zostanie ostatecznie przyznane Królewskim i jednemu z lekarzy.</description>
-    </item>
-    
-    <item>
-        <title>Marcelino: Nie powiedziałbym, że Real jest w złym momencie</title>
-        <link>https://www.realmadryt.pl/news/133052-marcelino-nie-powiedzialbym-ze-real-jest-w-zlym-momencie</link>
-        <pubDate>Fri, 04 Oct 2024 14:56:00 GMT</pubDate>
-        <description>Marcelino, trener Villarrealu, rozmawiał z dziennikarzami przed jutrzejszym starciu na Santiago Bernabéu z Realem Madryt. Poniżej przedstawiamy wypowiedzi hiszpańskiego szkoleniowca.</description>
     </item>
     
 </channel>
