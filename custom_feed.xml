@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 18:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 19:17:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Villarreal CF [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/133081-real-madryt-villarreal-cf-live</link>
+        <pubDate>Sat, 05 Oct 2024 21:00:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz Realu Madryt z Villarrealem na Estadio Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Porażka Castilli po golu w ostatniej minucie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133023-pod-dywanem-brak-miejsca</link>
         <pubDate>Sat, 05 Oct 2024 11:15:00 GMT</pubDate>
         <description>Nie dało się tak w nieskończoność.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Czasem porażka pozwala ci wrócić do rzeczywistości</title>
-        <link>https://www.realmadryt.pl/news/133073-ancelotti-czasem-porazka-pozwala-ci-wrocic-do-rzeczywistosci</link>
-        <pubDate>Sat, 05 Oct 2024 11:01:00 GMT</pubDate>
-        <description>Carlo Ancelotti, trener Realu Madryt, wziął udział w konferencji prasowej przed meczem z Villarraelem. Poniżej przedstawiamy pełny zapis tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
