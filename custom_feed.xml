@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 10:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 10:41:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przyjaźń na bok</title>
+        <link>https://www.realmadryt.pl/news/133077-przyjazn-na-bok</link>
+        <pubDate>Sat, 05 Oct 2024 12:30:00 GMT</pubDate>
+        <description>Nie jest tajemnicą, że Carlo Ancelotti i Marcelino od lat utrzymują bardzo serdeczne relacje. Tym razem przyjaźń trzeba będzie jednak odłożyć na bok. Wieczorem obaj trenerzy zrobią wszystko by przechytrzyć siebie nawzajem.</description>
+    </item>
     
     <item>
         <title>W poszukiwaniu rozwiązań</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133067-relevo-ancelotti-nie-jest-zadowolony-z-pracy-ardy-guelera-na-treningach</link>
         <pubDate>Sat, 05 Oct 2024 08:29:00 GMT</pubDate>
         <description>Turek nie angażuje się w defensywę i zdaniem Relevo z tego powodu ma otrzymywać mniej szans w meczach.</description>
-    </item>
-    
-    <item>
-        <title>Euroliga otworzyła postępowanie w sprawie Campazzo</title>
-        <link>https://www.realmadryt.pl/news/133055-euroliga-otworzyla-postepowanie-w-sprawie-campazzo</link>
-        <pubDate>Sat, 05 Oct 2024 08:18:00 GMT</pubDate>
-        <description>Facundo Campazzo może otrzymać karę za swój wybuch w końcówce meczu z Bayernem. Wszystko wskazuje na to, że skończy się na konieczności zapłacenia pewnej kwoty. Zawieszenie meczowe jest możliwe, ale mało prawdopodobne.</description>
     </item>
     
 </channel>
