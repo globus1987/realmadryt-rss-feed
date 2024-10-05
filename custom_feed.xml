@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 22:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 22:53:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133098-dzisiejsze-okladki</link>
+        <pubDate>Sun, 06 Oct 2024 00:42:00 GMT</pubDate>
+        <description>Kontuzja Daniego Carvajala i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Wydaje się, że Carvajal doznał dość poważnej kontuzji kolana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133081-dwa-pociski-komplet-i-kontuzja-carvajala</link>
         <pubDate>Sat, 05 Oct 2024 21:00:00 GMT</pubDate>
         <description>W meczu 9. kolejki La Ligi Real Madryt wygrał z Villarrealem 2:0. Gole dla Królewskich strzelili Fede Valverde i Vinícius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>Porażka Castilli po golu w ostatniej minucie</title>
-        <link>https://www.realmadryt.pl/news/133086-porazka-castilli-po-golu-w-ostatniej-minucie</link>
-        <pubDate>Sat, 05 Oct 2024 20:34:00 GMT</pubDate>
-        <description>W 7. kolejce Primera Federación Castilla przegrała z rezerwami Sevilli 0:1. Królewscy stracili gola w ostatniej minucie podstawowego czasu gry.</description>
     </item>
     
 </channel>
