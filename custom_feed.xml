@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 07:21:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 07:38:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zł za wygraną Realu z Villarrealem!</title>
+        <link>https://www.realmadryt.pl/news/133065-300-zl-za-wygrana-realu-z-villarrealem</link>
+        <pubDate>Sat, 05 Oct 2024 09:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Jeremy de León zaczyna od zera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133059-real-zwrocil-sie-do-sedziego-sledczego-z-prosba-o-wlaczenie-do-sprawy-wyznan-bylego-dzialacza-barcelony</link>
         <pubDate>Fri, 04 Oct 2024 18:52:00 GMT</pubDate>
         <description>W złożonym piśmie adwokat Realu Madryt stwierdza, że wypowiedzi byłego działacza Barcelony potwierdzają milionowe płatności, które miały na celu wpływanie na decyzje sędziów.</description>
-    </item>
-    
-    <item>
-        <title>TSUE przyznaje rację Lassowi, co może zmienić rynek transferowy</title>
-        <link>https://www.realmadryt.pl/news/133057-tsue-przyznaje-racje-lassowi-co-moze-zmienic-rynek-transferowy</link>
-        <pubDate>Fri, 04 Oct 2024 18:05:00 GMT</pubDate>
-        <description>Francuz wygrał sprawę w Trybunale Sprawiedliwości Unii Europejskiej, co zmusza FIFA do zmiany regulaminu transferowego.</description>
     </item>
     
 </channel>
