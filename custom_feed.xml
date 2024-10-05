@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 23:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 23:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Na diagnozę Carvajala trzeba jeszcze zaczekać</title>
+        <link>https://www.realmadryt.pl/news/133102-na-diagnoze-carvajala-trzeba-jeszcze-zaczekac</link>
+        <pubDate>Sun, 06 Oct 2024 01:28:00 GMT</pubDate>
+        <description>Dani Carvajal doznał urazu, ale na dokładną diagnozę musimy jeszcze zaczekać.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133088-powazna-kontuzja-carvajala</link>
         <pubDate>Sat, 05 Oct 2024 22:58:00 GMT</pubDate>
         <description>Dani Carvajal opuścił mecz Realu Madryt z Villarrealem z kontuzją.</description>
-    </item>
-    
-    <item>
-        <title>Dwa pociski, komplet i kontuzja Carvajala</title>
-        <link>https://www.realmadryt.pl/news/133081-dwa-pociski-komplet-i-kontuzja-carvajala</link>
-        <pubDate>Sat, 05 Oct 2024 21:00:00 GMT</pubDate>
-        <description>W meczu 9. kolejki La Ligi Real Madryt wygrał z Villarrealem 2:0. Gole dla Królewskich strzelili Fede Valverde i Vinícius Júnior.</description>
     </item>
     
 </channel>
