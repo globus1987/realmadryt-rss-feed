@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Oct 2024 20:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 21:20:14 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Villarreal CF [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/133081-real-madryt-villarreal-cf-live</link>
+        <title>Valverde MVP meczu z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/133083-valverde-mvp-meczu-z-villarrealem</link>
+        <pubDate>Sat, 05 Oct 2024 23:17:00 GMT</pubDate>
+        <description>Fede Valverde został wyróżniony po spotkaniu z Villarrealem. Królewscy wygrali 2:0.</description>
+    </item>
+    
+    <item>
+        <title>Fede: W tym momencie wynik schodzi na dalszy plan</title>
+        <link>https://www.realmadryt.pl/news/133089-fede-w-tym-momencie-wynik-schodzi-na-dalszy-plan</link>
+        <pubDate>Sat, 05 Oct 2024 23:15:00 GMT</pubDate>
+        <description>Fede Valverde udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Villarrealem. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/133082-ocen-pilkarzy-po-meczu-z-villarrealem</link>
+        <pubDate>Sat, 05 Oct 2024 23:14:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Poważna kontuzja Carvajala?</title>
+        <link>https://www.realmadryt.pl/news/133088-powazna-kontuzja-carvajala</link>
+        <pubDate>Sat, 05 Oct 2024 22:58:00 GMT</pubDate>
+        <description>Dani Carvajal opuścił mecz Realu Madryt z Villarrealem z kontuzją.</description>
+    </item>
+    
+    <item>
+        <title>Dwa pociski, komplet i kontuzja Carvajala</title>
+        <link>https://www.realmadryt.pl/news/133081-dwa-pociski-komplet-i-kontuzja-carvajala</link>
         <pubDate>Sat, 05 Oct 2024 21:00:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz Realu Madryt z Villarrealem na Estadio Santiago Bernabéu.</description>
+        <description>W meczu 9. kolejki La Ligi Real Madryt wygrał z Villarrealem 2:0. Gole dla Królewskich strzelili Fede Valverde i Vinícius Júnior.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/133077-przyjazn-na-bok</link>
         <pubDate>Sat, 05 Oct 2024 12:30:00 GMT</pubDate>
         <description>Nie jest tajemnicą, że Carlo Ancelotti i Marcelino od lat utrzymują bardzo serdeczne relacje. Tym razem przyjaźń trzeba będzie jednak odłożyć na bok. Wieczorem obaj trenerzy zrobią wszystko by przechytrzyć siebie nawzajem.</description>
-    </item>
-    
-    <item>
-        <title>W poszukiwaniu rozwiązań</title>
-        <link>https://www.realmadryt.pl/news/133076-w-poszukiwaniu-rozwiazan</link>
-        <pubDate>Sat, 05 Oct 2024 12:07:00 GMT</pubDate>
-        <description>Pierwszym krokiem do rozwiązania problemu jest jego zidentyfikowanie. Choć później nie istnieje jeden uniwersalny sposób, wszystko zależy od obserwacji i rozumienia. Nie wolno szukać wymówek, trzeba jak najszybciej zacząć działać u podstawy.</description>
-    </item>
-    
-    <item>
-        <title>„Bramkarz Ancelottiego”, który nie zagrał od… 504 dni</title>
-        <link>https://www.realmadryt.pl/news/133075-bramkarz-ancelottiego-ktory-nie-zagral-od-504-dni</link>
-        <pubDate>Sat, 05 Oct 2024 11:51:00 GMT</pubDate>
-        <description>Już dzisiaj o 18:30 Castilla zagra z rezerwami Sevilli, a w meczu tym szansę na występ może otrzymać Diego Piñeiro. 20-latek od wielu miesięcy miał okazję trenować zarówno zarówno z pierwszym, jak i drugim zespołem, ale swój ostatni oficjalny mecz rozegrał… 504 dni temu.</description>
-    </item>
-    
-    <item>
-        <title>Starcie z rezerwami Sevilli</title>
-        <link>https://www.realmadryt.pl/news/133072-starcie-z-rezerwami-sevilli</link>
-        <pubDate>Sat, 05 Oct 2024 11:47:00 GMT</pubDate>
-        <description>Castilla zagra dzisiaj z rezerwami Sevilli. Królewscy w końcu odnieśli przed tygodniem zwycięstwo i dzisiaj mają szanse, by pójść za ciosem.</description>
-    </item>
-    
-    <item>
-        <title>Pod dywanem brak miejsca</title>
-        <link>https://www.realmadryt.pl/news/133023-pod-dywanem-brak-miejsca</link>
-        <pubDate>Sat, 05 Oct 2024 11:15:00 GMT</pubDate>
-        <description>Nie dało się tak w nieskończoność.</description>
     </item>
     
 </channel>
