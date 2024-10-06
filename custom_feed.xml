@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Oct 2024 21:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 22:20:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133130-dzisiejsze-okladki</link>
+        <pubDate>Mon, 07 Oct 2024 00:17:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt po kontuzji Carvajala i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Brazylijska Federacja kazała przylecieć Militão do São Paulo, bo nie uwierzyła Realowi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133114-real-zmienia-tempo-z-wolnego-na-jeszcze-wolniejsze</link>
         <pubDate>Sun, 06 Oct 2024 15:00:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat bieżącej dyspozycji Realu Madryt po sobotnim meczu z Villarrealem. Przedstawiamy spostrzeżenia dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Przełamanie bez przekonania</title>
-        <link>https://www.realmadryt.pl/news/133116-przelamanie-bez-przekonania</link>
-        <pubDate>Sun, 06 Oct 2024 14:46:00 GMT</pubDate>
-        <description>W 2. kolejce Ligi Endesa Real Madryt pokonał Saragossę, ale ciągle nie zaprezentował poziomu, jakiego można od niego oczekiwać. Graczem meczu został Facundo Campazzo.</description>
     </item>
     
 </channel>
