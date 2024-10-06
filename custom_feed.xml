@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Oct 2024 18:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 19:18:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Militão kontuzjowany!</title>
+        <link>https://www.realmadryt.pl/news/133124-oficjalnie-militao-kontuzjowany</link>
+        <pubDate>Sun, 06 Oct 2024 21:12:00 GMT</pubDate>
+        <description>Brazylijska Federacja poinformowała, że z powodu kontuzji mięśniowej w udzie Militão opuszcza zgrupowanie reprezentacji Canarinhos.</description>
+    </item>
     
     <item>
         <title>Podcast 6x10 – pytania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133113-oceny-zawodnikow-po-meczu-z-villarrealem</link>
         <pubDate>Sun, 06 Oct 2024 14:12:00 GMT</pubDate>
         <description>Real Madryt wygrał u siebie z Villarrealem 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Carvajal 2026!</title>
-        <link>https://www.realmadryt.pl/news/133112-oficjalnie-carvajal-2026</link>
-        <pubDate>Sun, 06 Oct 2024 13:35:00 GMT</pubDate>
-        <description>Komunikat oficjalny klubu.</description>
     </item>
     
 </channel>
