@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Oct 2024 05:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 06:29:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Butragueño: Bardzo martwimy się o Carvajala</title>
+        <link>https://www.realmadryt.pl/news/133100-butragueno-bardzo-martwimy-sie-o-carvajala</link>
+        <pubDate>Sun, 06 Oct 2024 08:14:00 GMT</pubDate>
+        <description>Emilio Butragueño udzielił wywiadu klubowej telewizji po wygranej 2:0 z Villarrealem. Przedstawiamy słowa działacza Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Carvajal: Potwierdzono poważne uszkodzenie więzadła, będę musiał przejść operację</title>
+        <link>https://www.realmadryt.pl/news/133104-carvajal-potwierdzono-powazne-uszkodzenie-wiezadla-bede-musial-przejsc-operacje</link>
+        <pubDate>Sun, 06 Oct 2024 08:13:00 GMT</pubDate>
+        <description>Hiszpański obrońca sam potwierdził w mediach społecznościowych, że nie wróci do gry przez najbliższe miesiące.</description>
+    </item>
+    
+    <item>
+        <title>Po przełamanie</title>
+        <link>https://www.realmadryt.pl/news/133097-po-przelamanie</link>
+        <pubDate>Sun, 06 Oct 2024 08:00:00 GMT</pubDate>
+        <description>W 2. kolejce Ligi Endesa Real Madryt podejmie Saragossę. Dla Królewskich będzie to możliwość powrotu do własnej hali po wielomiesięcznej przerwie.</description>
+    </item>
     
     <item>
         <title>Bellingham: Nie zdobywam bramek, ale bawię się jeszcze lepiej</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/133084-9-kolejka-real-dogania-barcelone-i-czeka-na-jej-ruch</link>
         <pubDate>Sat, 05 Oct 2024 23:22:00 GMT</pubDate>
         <description>Za nami sześć meczów 9. kolejki La Ligi. Real Madryt powiększył przewagę nad dzisiejszym rywalem, który nadal zajmuje trzecie miejsce.</description>
-    </item>
-    
-    <item>
-        <title>Valverde MVP meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/133083-valverde-mvp-meczu-z-villarrealem</link>
-        <pubDate>Sat, 05 Oct 2024 23:17:00 GMT</pubDate>
-        <description>Fede Valverde został wyróżniony po spotkaniu z Villarrealem. Królewscy wygrali 2:0.</description>
-    </item>
-    
-    <item>
-        <title>Fede: W tym momencie wynik schodzi na dalszy plan</title>
-        <link>https://www.realmadryt.pl/news/133089-fede-w-tym-momencie-wynik-schodzi-na-dalszy-plan</link>
-        <pubDate>Sat, 05 Oct 2024 23:15:00 GMT</pubDate>
-        <description>Fede Valverde udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Villarrealem. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/133082-ocen-pilkarzy-po-meczu-z-villarrealem</link>
-        <pubDate>Sat, 05 Oct 2024 23:14:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
