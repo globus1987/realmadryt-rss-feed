@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Oct 2024 08:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 08:43:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Vinícius z kontuzją szyi</title>
+        <link>https://www.realmadryt.pl/news/133107-oficjalnie-vinicius-z-kontuzja-szyi</link>
+        <pubDate>Sun, 06 Oct 2024 10:33:00 GMT</pubDate>
+        <description>Klub poinformował, że brazylijski atakujący wypada z gry na najbliższy czas i musi nieco odpocząć.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Carvajal z zerwanymi więzadłami krzyżowymi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133095-badania-carvajala-dzis-w-nocy</link>
         <pubDate>Sun, 06 Oct 2024 00:03:00 GMT</pubDate>
         <description>Dani Carvajal opuścił mecz Realu Madryt z Villarrealem z kontuzją.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:0 Villarreal [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/133087-real-madryt-2-0-villarreal-video</link>
-        <pubDate>Sat, 05 Oct 2024 23:45:00 GMT</pubDate>
-        <description>W meczu 9. kolejki La Ligi Real Madryt wygrał z Villarrealem 2:0. Gole dla Królewskich strzelili Fede Valverde i Vinícius Júnior.</description>
     </item>
     
 </channel>
