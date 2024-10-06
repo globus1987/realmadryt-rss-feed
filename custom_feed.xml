@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Oct 2024 04:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 05:22:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Nie zdobywam bramek, ale bawię się jeszcze lepiej</title>
+        <link>https://www.realmadryt.pl/news/133099-bellingham-nie-zdobywam-bramek-ale-bawie-sie-jeszcze-lepiej</link>
+        <pubDate>Sun, 06 Oct 2024 07:00:00 GMT</pubDate>
+        <description>Jude Bellingham udzielił wywiadu klubowej telewizji po wygranej 2:0 z Villarrealem. Przedstawiamy słowa pomocnika Królewskich.</description>
+    </item>
     
     <item>
         <title>Na diagnozę Carvajala trzeba jeszcze zaczekać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133082-ocen-pilkarzy-po-meczu-z-villarrealem</link>
         <pubDate>Sat, 05 Oct 2024 23:14:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Poważna kontuzja Carvajala?</title>
-        <link>https://www.realmadryt.pl/news/133088-powazna-kontuzja-carvajala</link>
-        <pubDate>Sat, 05 Oct 2024 22:58:00 GMT</pubDate>
-        <description>Dani Carvajal opuścił mecz Realu Madryt z Villarrealem z kontuzją.</description>
     </item>
     
 </channel>
