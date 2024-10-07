@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Oct 2024 05:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 06:33:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/133129-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 07 Oct 2024 08:18:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 9. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Aspas i Moriba nie zagrają z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133117-yeremy-pino-w-glebokim-szoku</link>
         <pubDate>Sun, 06 Oct 2024 17:17:00 GMT</pubDate>
         <description>Yeremy Pino rozpłakał się, gdy zobaczył efekt swojego starcia z Danim Carvajalem. Gracz Villarrealu nie ponosi absolutnie żadnej winy za uraz prawego obrońcy Królewskich, co nie zmienia faktu, że krzywda rywala mocno wpłynęła na niego emocjonalnie.</description>
-    </item>
-    
-    <item>
-        <title>9. kolejka: Barcelona wygrywa z Deportivo Alavés</title>
-        <link>https://www.realmadryt.pl/news/133119-9-kolejka-barcelona-wygrywa-z-deportivo-alaves</link>
-        <pubDate>Sun, 06 Oct 2024 16:28:00 GMT</pubDate>
-        <description>Katalończycy grają na Mendizorrotzie, aby zmazać plamę po ostatnim wyjazdowym spotkaniu z Osasuną w La Lidze.</description>
     </item>
     
 </channel>
