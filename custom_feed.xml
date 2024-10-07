@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Oct 2024 09:41:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 09:54:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Mbappé jest przeciążony i poprosił Deschampsa o odpoczynek”</title>
+        <link>https://www.realmadryt.pl/news/133136-mbappe-jest-przeciazony-i-poprosil-deschampsa-o-odpoczynek</link>
+        <pubDate>Mon, 07 Oct 2024 11:51:00 GMT</pubDate>
+        <description>Brak powołania Francuza do reprezentacji przy jego jednoczesnych występach w Realu Madryt stworzył wiele pytań w ojczyźnie gracza, ale także w Hiszpanii. Sytuację próbowano wyjaśnić w nocnym Chiringuito.</description>
+    </item>
+    
+    <item>
+        <title>Terminarz 13. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/133135-terminarz-13-kolejki-la-ligi</link>
+        <pubDate>Mon, 07 Oct 2024 11:51:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 13. kolejki, w której Real Madryt podejmie u siebie Osasunę.</description>
+    </item>
     
     <item>
         <title>AS: Nie będzie „przypadku Mbappé” na Klubowych Mistrzostwach Świata</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133127-as-brazylijska-federacja-kazala-przyleciec-militao-do-sao-paulo-bo-nie-uwierzyla-realowi</link>
         <pubDate>Sun, 06 Oct 2024 22:36:00 GMT</pubDate>
         <description>Klub jest wściekły, że Brazylijska Federacja Piłkarska zmusiła zawodnika do 12-godzinnego lotu tylko po to, aby go przebadać i pozwolić mu wrócić do Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Łunin zmaga się z infekcją wirusową</title>
-        <link>https://www.realmadryt.pl/news/133126-oficjalnie-lunin-zmaga-sie-z-infekcja-wirusowa</link>
-        <pubDate>Sun, 06 Oct 2024 21:47:00 GMT</pubDate>
-        <description>Bramkarz nie uda się na zgrupowanie reprezentacji Ukrainy i przez najbliższe dni będzie kurował się w domu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Militão kontuzjowany!</title>
-        <link>https://www.realmadryt.pl/news/133124-oficjalnie-militao-kontuzjowany</link>
-        <pubDate>Sun, 06 Oct 2024 21:12:00 GMT</pubDate>
-        <description>Brazylijska Federacja poinformowała, że z powodu kontuzji mięśniowej w udzie Militão opuszcza zgrupowanie reprezentacji Canarinhos.</description>
     </item>
     
 </channel>
