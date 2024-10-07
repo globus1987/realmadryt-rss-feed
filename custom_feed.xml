@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Oct 2024 02:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 03:30:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius w trybie Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/133125-vinicius-w-trybie-zlotej-pilki</link>
+        <pubDate>Mon, 07 Oct 2024 05:30:00 GMT</pubDate>
+        <description>Vinícius zdobył w meczu z Villarrealem bramkę godną zdobywcy Złotej Piłki i regularnie wzmacnia swoją kandydaturę do końcowego triumfu w Paryżu. Pod względem bramek i asyst notuje obecnie lepszy start sezonu niż rok temu na tym samym etapie rozgrywek.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133118-as-real-nie-planuje-sciagnac-zima-zadnego-obroncy</link>
         <pubDate>Sun, 06 Oct 2024 15:43:00 GMT</pubDate>
         <description>Jak informuje dziennik AS, klub nie zamierza ściągnąć zimą żadnego zastępcy Daniego Carvajala. Królewscy w pełni wierzą w Lucasa Vázqueza.</description>
-    </item>
-    
-    <item>
-        <title>„Real zmienia tempo: z wolnego na jeszcze wolniejsze”</title>
-        <link>https://www.realmadryt.pl/news/133114-real-zmienia-tempo-z-wolnego-na-jeszcze-wolniejsze</link>
-        <pubDate>Sun, 06 Oct 2024 15:00:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat bieżącej dyspozycji Realu Madryt po sobotnim meczu z Villarrealem. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
