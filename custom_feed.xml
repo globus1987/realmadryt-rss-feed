@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Oct 2024 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 22:22:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133152-dzisiejsze-okladki</link>
+        <pubDate>Tue, 08 Oct 2024 00:14:00 GMT</pubDate>
+        <description>Plany transferowe Realu Madryt, problemy z kontuzjami w futbolu i pożegnanie legendy Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Toletti z urazem więzadła pobocznego strzałkowego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133138-istnieje-50-60-szans-ze-zawodnik-po-takiej-kontuzji-wroci-dokladnie-na-swoj-poprzedni-poziom</link>
         <pubDate>Mon, 07 Oct 2024 14:46:00 GMT</pubDate>
         <description>Doktor Pablo Gelber jest bez wątpienia światowym autorytetem w dziedzinie chirurgii kolana. Leczył złożone przypadki z całego świata, będąc uznawanym za numer jeden w swojej specjalności. Jego kariera naznaczona jest innowacjami chirurgicznymi oraz zdolnością do rozwiązywania problemów, z którymi inni chirurdzy sobie nie poradzili. Gelber udzielił wywiadu Marce, aby przeanalizować poważny uraz Daniego Carvajala.</description>
-    </item>
-    
-    <item>
-        <title>Ferran Torres przegapi Klasyk?</title>
-        <link>https://www.realmadryt.pl/news/133137-ferran-torres-przegapi-klasyk</link>
-        <pubDate>Mon, 07 Oct 2024 14:19:00 GMT</pubDate>
-        <description>Barcelona potwierdziła uraz mięśniowy Ferrana Torresa, który dołącza do szerokiego grona piłkarzy kontuzjowanych w ekipie Dumy Katalonii. Wstępnie napastnik wypada z meczu z Realem Madryt.</description>
     </item>
     
 </channel>
