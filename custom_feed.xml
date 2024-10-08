@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Oct 2024 08:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 09:24:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pozycja Rodrygo jest zagrożona</title>
+        <link>https://www.realmadryt.pl/news/133156-pozycja-rodrygo-jest-zagrozona</link>
+        <pubDate>Tue, 08 Oct 2024 11:00:00 GMT</pubDate>
+        <description>Brazylijczyk, który przebywał na boisku od początku do końca tylko w jednym z 11 swoich występów w tym sezonie, widzi, jak zmniejsza się jego rola w meczach Realu Madryt. Dzieje się tak z powodu różnych czynników, takich jak zmiana systemu czy kontuzje.</description>
+    </item>
     
     <item>
         <title>Skybar wciąż nie został otwarty, a opóźnienie wynosi już sześć miesięcy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133148-as-toletti-z-urazem-wiezadla-pobocznego-strzalkowego</link>
         <pubDate>Mon, 07 Oct 2024 22:43:00 GMT</pubDate>
         <description>Hiszpańskie media informują, że Sandie Toletti doznała kontuzji więzadła pobocznego strzałkowego w prawym kolanie i wypada z gry na kilka najbliższych tygodni.</description>
-    </item>
-    
-    <item>
-        <title>„Nie spodziewaliśmy się, że Real Madryt tyle to będzie kosztować”</title>
-        <link>https://www.realmadryt.pl/news/133147-nie-spodziewalismy-sie-ze-real-madryt-tyle-to-bedzie-kosztowac</link>
-        <pubDate>Mon, 07 Oct 2024 21:50:00 GMT</pubDate>
-        <description>Luis Milla w trakcie swojej zawodowej kariery bronił barw zarówno Barcelony, jak i Realu Madryt. W rozmowie z dziennikarzami przy okazji turnieju padla przeanalizował wszystkie najważniejsze tematy związane z hiszpańskim futbolem.</description>
     </item>
     
 </channel>
