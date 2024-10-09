@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Oct 2024 13:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 13:53:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Strata wciąż budząca szok</title>
+        <link>https://www.realmadryt.pl/news/133194-strata-wciaz-budzaca-szok</link>
+        <pubDate>Wed, 09 Oct 2024 15:45:00 GMT</pubDate>
+        <description>Szok po kontuzji Carvajala trwa. Brak Daniego stanowi nieodżałowaną stratę zarówno na boisku, jak i już poza nim.</description>
+    </item>
     
     <item>
         <title>(Nie)widzialna ręka Francesco Mauriego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133184-aurelien-tchouameni-kapitanem-reprezentacji-francji</link>
         <pubDate>Wed, 09 Oct 2024 10:33:00 GMT</pubDate>
         <description>Pomocnik Królewskich został oficjalnym liderem reprezentacji Francji pod nieobecność Kyliana Mbappé, informują francuskie media.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Klopp rozpocznie pracę dla Red Bulla</title>
-        <link>https://www.realmadryt.pl/news/133183-oficjalnie-klopp-rozpocznie-prace-dla-red-bulla</link>
-        <pubDate>Wed, 09 Oct 2024 09:55:00 GMT</pubDate>
-        <description>Niemiec nie wraca na razie na trenerską ławkę i od stycznia będzie zajmował się czymś innym.</description>
     </item>
     
 </channel>
