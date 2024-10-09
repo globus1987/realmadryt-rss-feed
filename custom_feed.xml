@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Oct 2024 09:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 09:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziewięciu madridistas powołanych do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/133181-dziewieciu-madridistas-powolanych-do-reprezentacji</link>
+        <pubDate>Wed, 09 Oct 2024 11:51:00 GMT</pubDate>
+        <description>Dziewięciu madridistas opuściło Valdebebas i udało się na zgrupowania swoich reprezentacji narodowych.</description>
+    </item>
     
     <item>
         <title>Alisson wypada na dłuższy czas, ale może wrócić na mecz z Realem Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133180-dzisiejsze-okladki</link>
         <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
         <description>Zakończenie kariery przez Andrésa Iniestę to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie nieznacznie gorsze od Chelsea [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/133179-krolewskie-nieznacznie-gorsze-od-chelsea-video</link>
-        <pubDate>Tue, 08 Oct 2024 23:05:00 GMT</pubDate>
-        <description>W meczu 1. kolejki fazy grupowej Ligi Mistrzyń piłkarki Realu Madryt przegrały z Chelsea na Stamford Bridge 2:3. Bramki dla Królewskich zdobyły Alba Redondo i Linda Caicedo.</description>
     </item>
     
 </channel>
