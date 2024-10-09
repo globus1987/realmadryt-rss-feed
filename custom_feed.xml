@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Oct 2024 07:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 08:29:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Klopp rozpocznie pracę dla Red Bulla</title>
+        <link>https://www.realmadryt.pl/news/133183-oficjalnie-klopp-rozpocznie-prace-dla-red-bulla</link>
+        <pubDate>Wed, 09 Oct 2024 09:55:00 GMT</pubDate>
+        <description>Niemiec nie wraca na razie na trenerską ławkę i od stycznia będzie zajmował się czymś innym.</description>
+    </item>
     
     <item>
         <title>Real Madryt przygotowuje się już na Złotą Piłkę dla Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133170-campazzo-zawieszony-na-jeden-mecz</link>
         <pubDate>Tue, 08 Oct 2024 19:18:00 GMT</pubDate>
         <description>Facundo Campazzo nie utrzymał nerwów na wodzy w końcówce meczu z Bayernem Monachium. Został wtedy usunięty z parkietu, a teraz nie dość, że przegapi jedno spotkanie, to musi jeszcze zapłacić 5000 euro kary.</description>
-    </item>
-    
-    <item>
-        <title>De la Víbora: Moim marzeniem nie było zostanie piłkarzem</title>
-        <link>https://www.realmadryt.pl/news/133161-de-la-vibora-moim-marzeniem-nie-bylo-zostanie-pilkarzem</link>
-        <pubDate>Tue, 08 Oct 2024 19:04:00 GMT</pubDate>
-        <description>David de la Víbora udzielił szczerego wywiadu dziennikowi AS. Opowiadał w nim o swojej dotychczasowej karierze, problemach ze zdrowiem psychicznym i planach na przyszłość. David był kiedyś uważany za jeden z największych talentów w szkółce Realu Madryt. Teraz trafił do drużyny 1K FC, której prezesem jest Iker Casillas.</description>
     </item>
     
 </channel>
