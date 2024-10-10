@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Oct 2024 15:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:41:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fede wytypowany na nowego lidera szatni</title>
+        <link>https://www.realmadryt.pl/news/133222-fede-wytypowany-na-nowego-lidera-szatni</link>
+        <pubDate>Thu, 10 Oct 2024 17:40:00 GMT</pubDate>
+        <description>Kontuzja Daniego Carvajala jest równoznaczna nie tylko z utratą kluczowego zawodnika na boisku, lecz także poza nim. Prawy obrońca był bowiem niekwestionowanym liderem szatni. W zaistniałych okolicznościach ktoś będzie jednak musiał wejść w jego buty. Na szczęście pojawiający się na horyzoncie kandydat do tej roli jest wyjątkowo solidny, a jest nim Fede Valverde.</description>
+    </item>
     
     <item>
         <title>„Courtois zachował się niefortunnie, Simeone ma rację”</title>
         <link>https://www.realmadryt.pl/news/133221-courtois-zachowal-sie-niefortunnie-simeone-ma-racje</link>
         <pubDate>Thu, 10 Oct 2024 17:22:00 GMT</pubDate>
-        <description>Były bramkarz Osasuny i wychowanek Atlético Madryt, Ricardo López, w dosyć zaskakującym tonie postanowił skrytykować zachowanie Thibaut Courtois podczas ostatnich derbów Madrytu. Przedstawiamy jego wypowiedzi w tym temacie z podcastu Local Legents.</description>
+        <description>Były bramkarz Osasuny i wychowanek Atlético Madryt, Ricardo López, w dosyć zaskakującym tonie postanowił skrytykować zachowanie Thibaut Courtois podczas ostatnich Derbów Madrytu. Przedstawiamy jego wypowiedzi w tym temacie z podcastu Local Legents.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133209-kartka-z-kalendarza-10-pazdziernika</link>
         <pubDate>Thu, 10 Oct 2024 09:50:00 GMT</pubDate>
         <description>Pierwsze trafienie Paco Gento, pierwsze wybory po wojnie domowej, urodziny byłego obrońcy i wygrana Benzemy w Lidze Narodów. Co działo się 10 października?</description>
-    </item>
-    
-    <item>
-        <title>Euroliga wraca do WiZink Center</title>
-        <link>https://www.realmadryt.pl/news/133202-euroliga-wraca-do-wizink-center</link>
-        <pubDate>Thu, 10 Oct 2024 09:00:00 GMT</pubDate>
-        <description>W 2. kolejce Euroligi Real Madryt zmierzy się z Partizanem. Królewscy będą mogli ostatecznie liczyć na Campazzo. Goście przyjeżdżają z całkowicie odmienionym składem w porównaniu do poprzedniego sezonu.</description>
     </item>
     
 </channel>
