@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Oct 2024 21:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 22:21:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133235-dzisiejsze-okladki</link>
+        <pubDate>Fri, 11 Oct 2024 00:19:00 GMT</pubDate>
+        <description>Ogłoszenie ze strony Rafy Nadala to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pierwsze zwycięstwo w Eurolidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133195-mateo-mecz-z-saragossa-nie-byl-punktem-zwrotnym</link>
         <pubDate>Thu, 10 Oct 2024 16:39:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Partizanem. Zdradził, że klub złożył odwołanie od kary Campazzo, ale zakłada, że Argentyńczyka zabraknie w tej rywalizacji.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Nie będzie dogrywek w Superpucharze Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/133219-oficjalnie-nie-bedzie-dogrywek-w-superpucharze-hiszpanii</link>
-        <pubDate>Thu, 10 Oct 2024 16:38:00 GMT</pubDate>
-        <description>W półfinałach oraz finale albo rozstrzygnięcie w ciągu 90 minut, albo od razu rzuty karne.</description>
     </item>
     
 </channel>
