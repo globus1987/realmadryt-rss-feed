@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Oct 2024 20:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 21:21:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsze zwycięstwo w Eurolidze</title>
+        <link>https://www.realmadryt.pl/news/133231-pierwsze-zwyciestwo-w-eurolidze</link>
+        <pubDate>Thu, 10 Oct 2024 23:13:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Partizanem po spotkaniu, w którym da się znaleźć o wiele więcej pozytywów niż w poprzednich meczach. Negatywną wiadomością jest kontuzja Andrésa Feliza, szczególnie że Campazzo może zostać ostatecznie zawieszony na jeden pojedynek.</description>
+    </item>
     
     <item>
         <title>MARCA: Sportowi liderzy Realu Madryt przekażą Florentino wniosek o zimowy transfer</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Francja gra na wyjeździe z Izraelem, a Anglia podejmuje Grecję [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/133226-francja-gra-na-wyjezdzie-z-izraelem-a-anglia-podejmuje-grecje-live</link>
+        <title>Wysoka wygrana Francji i sensacyjna porażka Anglii</title>
+        <link>https://www.realmadryt.pl/news/133226-wysoka-wygrana-francji-i-sensacyjna-porazka-anglii</link>
         <pubDate>Thu, 10 Oct 2024 20:04:00 GMT</pubDate>
-        <description>W ramach 3. kolejki Ligi Narodów o 20:45 rozpoczną się spotkania Izraela z Francją oraz Anglii z Grecją.</description>
+        <description>W ramach 3. kolejki Ligi Narodów Izrael grał w Budapeszcie z Francją, a Anglia na Wembley z Grecją.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133219-oficjalnie-nie-bedzie-dogrywek-w-superpucharze-hiszpanii</link>
         <pubDate>Thu, 10 Oct 2024 16:38:00 GMT</pubDate>
         <description>W półfinałach oraz finale albo rozstrzygnięcie w ciągu 90 minut, albo od razu rzuty karne.</description>
-    </item>
-    
-    <item>
-        <title>Dlaczego Real Madryt nie wziął udział w losowaniu Pucharu Króla?</title>
-        <link>https://www.realmadryt.pl/news/133218-dlaczego-real-madryt-nie-wzial-udzial-w-losowaniu-pucharu-krola</link>
-        <pubDate>Thu, 10 Oct 2024 14:31:00 GMT</pubDate>
-        <description>Hiszpańska Federacja Piłkarska rozlosowała pary pierwszej rundy Pucharu Króla. W losowaniu zabrakło Realu Madryt. Wszystko dzięki udziałowi w Superpucharze Hiszpanii.</description>
     </item>
     
 </channel>
