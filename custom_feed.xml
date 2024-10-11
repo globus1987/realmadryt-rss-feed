@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Oct 2024 07:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 07:38:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ryzyko Gülera</title>
+        <link>https://www.realmadryt.pl/news/133238-ryzyko-guelera</link>
+        <pubDate>Fri, 11 Oct 2024 09:38:00 GMT</pubDate>
+        <description>Arda Güler gra więcej niż w poprzednim sezonie, ale wciąż odgrywa drugoplanową rolę w Realu Madryt. Pojawia się ryzyko, że jego kariera niebezpiecznie się zastopuje. Sam zawodnik ani myśli o jakichkolwiek wypożyczeniach i stawia na grę w Madrycie.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 11 października</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133225-el-confidencial-bernabeu-operuje-bez-waznej-licencji-od-23-lat</link>
         <pubDate>Thu, 10 Oct 2024 19:55:00 GMT</pubDate>
         <description>Sąsiedzi Bernabéu pozostają w walce z Realem Madryt i jego stadionem. Teraz twierdzą, że klub operuje stadionem na podstawie licencji, która wygasła 23 lata temu. Oznaczałoby, że także mecze na obiekcie organizowane są nielegalnie.</description>
-    </item>
-    
-    <item>
-        <title>Güler: Nie ma żadnych problemów między mną a Ancelottim</title>
-        <link>https://www.realmadryt.pl/news/133224-gueler-nie-ma-zadnych-problemow-miedzy-mna-a-ancelottim</link>
-        <pubDate>Thu, 10 Oct 2024 18:26:00 GMT</pubDate>
-        <description>Arda Güler i Vincenzo Montella pojawili się na konferencji prasowej przed meczem Ligi Narodów między Turcją i Czarnogórą. Przedstawiamy ich wypowiedzi w sprawie sytuacji pomocnika w Realu Madryt.</description>
     </item>
     
 </channel>
