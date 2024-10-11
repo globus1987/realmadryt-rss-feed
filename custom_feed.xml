@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Oct 2024 09:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 09:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Nie ma żadnej daty powrotu Alaby</title>
+        <link>https://www.realmadryt.pl/news/133243-as-nie-ma-zadnej-daty-powrotu-alaby</link>
+        <pubDate>Fri, 11 Oct 2024 11:51:00 GMT</pubDate>
+        <description>Może grudzień, może styczeń, może…</description>
+    </item>
     
     <item>
         <title>Camavinga odradza się w reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133235-dzisiejsze-okladki</link>
         <pubDate>Fri, 11 Oct 2024 00:19:00 GMT</pubDate>
         <description>Ogłoszenie ze strony Rafy Nadala to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Pierwsze zwycięstwo w Eurolidze</title>
-        <link>https://www.realmadryt.pl/news/133231-pierwsze-zwyciestwo-w-eurolidze</link>
-        <pubDate>Thu, 10 Oct 2024 23:13:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Partizanem po spotkaniu, w którym da się znaleźć o wiele więcej pozytywów niż w poprzednich meczach. Negatywną wiadomością jest kontuzja Andrésa Feliza, szczególnie że Campazzo może zostać ostatecznie zawieszony na jeden pojedynek.</description>
     </item>
     
 </channel>
