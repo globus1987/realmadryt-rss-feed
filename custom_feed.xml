@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Oct 2024 11:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 11:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Carvajal przeszedł operację</title>
+        <link>https://www.realmadryt.pl/news/133245-oficjalnie-carvajal-przeszedl-operacje</link>
+        <pubDate>Fri, 11 Oct 2024 13:43:00 GMT</pubDate>
+        <description>Klub potwierdził, że Hiszpan przeszedł operację. Teraz przed nim długa rehabilitacja.</description>
+    </item>
+    
+    <item>
+        <title>400 zł za gola Polski z Portugalią!</title>
+        <link>https://www.realmadryt.pl/news/133244-400-zl-za-gola-polski-z-portugalia</link>
+        <pubDate>Fri, 11 Oct 2024 13:42:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>AS: Nie ma żadnej daty powrotu Alaby</title>
@@ -38,7 +52,7 @@
         <title>Trwa wojna między Realem Madryt a Sąsiedzkim Stowarzyszeniem Poszkodowanych przez Bernabéu</title>
         <link>https://www.realmadryt.pl/news/133239-trwa-wojna-miedzy-realem-madryt-a-sasiedzkim-stowarzyszeniem-poszkodowanych-przez-bernabeu</link>
         <pubDate>Fri, 11 Oct 2024 10:03:00 GMT</pubDate>
-        <description>Ponad 2000 mieszkańców wojuje z klubem w sprawie organizacji wydarzeń na stadionie i chwyta się wszelkich prawnych sposób oraz szerzy dezinformację.</description>
+        <description>Ponad 2000 mieszkańców wojuje z klubem w sprawie organizacji wydarzeń na stadionie i chwyta się wszelkich prawnych sposobów oraz szerzy dezinformację.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133230-carvajal-odwiedzil-kolegow-z-reprezentacji-hiszpanii</link>
         <pubDate>Fri, 11 Oct 2024 07:00:00 GMT</pubDate>
         <description>Drugi kapitan Realu Madryt pojawił się w przestrzeni publicznej pierwszy raz od swojej kontuzji kolana i odwiedził kolegów na zgrupowaniu reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>„Organizacja Złotej Piłki się zmieniła i zwycięzca nie dostanie wcześniej informacji”</title>
-        <link>https://www.realmadryt.pl/news/133232-organizacja-zlotej-pilki-sie-zmienila-i-zwyciezca-nie-dostanie-wczesniej-informacji</link>
-        <pubDate>Fri, 11 Oct 2024 06:00:00 GMT</pubDate>
-        <description>W ostatnim czasie pojawiły się informacje, że Vinícius Júnior wie już, iż wygrał Złotą Piłkę. Zdementował to Mario Cortegana.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133235-dzisiejsze-okladki</link>
-        <pubDate>Fri, 11 Oct 2024 00:19:00 GMT</pubDate>
-        <description>Ogłoszenie ze strony Rafy Nadala to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
