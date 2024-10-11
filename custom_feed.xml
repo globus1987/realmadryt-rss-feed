@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Oct 2024 14:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 14:41:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Andrés Feliz kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/133248-oficjalnie-andres-feliz-kontuzjowany</link>
+        <pubDate>Fri, 11 Oct 2024 16:36:00 GMT</pubDate>
+        <description>Rozgrywający może wypaść z gry na długi czas, ale na ten moment nie wiadomo, jeszcze ile potrwa jego przerwa.</description>
+    </item>
     
     <item>
         <title>Kolejne wyzwanie Lucasa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133236-camavinga-brakuje-mi-troche-kondycji-ale-niedlugo-to-wszystko-wroci</link>
         <pubDate>Fri, 11 Oct 2024 08:20:00 GMT</pubDate>
         <description>Eduardo Camavinga udzielił wywiadu TF1 po wygranej Francji nad Izraelem. Przedstawiamy wypowiedzi pomocnika Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Brazylia wygrała z Chile, wystąpili Rodrygo i Endrick [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/133237-brazylia-wygrala-z-chile-wystapili-rodrygo-i-endrick-video</link>
-        <pubDate>Fri, 11 Oct 2024 07:31:00 GMT</pubDate>
-        <description>W kolejnym meczu eliminacji do Mistrzostw Świata w 2026 roku w strefie CONMEBOL Brazylia pokonała Chile 1:2. Na murawie Estadio Nacional Julio Martínez Prádanos w Santiago de Chile pojawiło się dwóch piłkarzy Realu Madryt.</description>
     </item>
     
 </channel>
