@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Oct 2024 22:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 23:20:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133276-dzisiejsze-okladki</link>
+        <pubDate>Sun, 13 Oct 2024 01:06:00 GMT</pubDate>
+        <description>Wypowiedzi sportowców i wygrana Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wygrana Chorwacji, Portugalia lepsza od Polski</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133264-relevo-vinicius-jest-juz-zdrowy</link>
         <pubDate>Sat, 12 Oct 2024 11:34:00 GMT</pubDate>
         <description>Atakujący nie poleciał na zgrupowanie reprezentacji i już doszedł do siebie.</description>
-    </item>
-    
-    <item>
-        <title>„Rywalem Camp Nou do organizacji finału Mistrzostw Świata 2030 nie jest Bernabéu”</title>
-        <link>https://www.realmadryt.pl/news/133263-rywalem-camp-nou-do-organizacji-finalu-mistrzostw-swiata-2030-nie-jest-bernabeu</link>
-        <pubDate>Sat, 12 Oct 2024 10:43:00 GMT</pubDate>
-        <description>Radny ds. sportu w Radzie Miasta Barcelony, David Escudé, stwierdził, że stadion Królewskich nie może być organizatorem finału.</description>
     </item>
     
 </channel>
