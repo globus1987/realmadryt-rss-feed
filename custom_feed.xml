@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Oct 2024 04:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 05:23:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kandydaci The Athletic do wzmocnienia prawej obrony Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/133253-kandydaci-the-athletic-do-wzmocnienia-prawej-obrony-realu-madryt</link>
+        <pubDate>Sat, 12 Oct 2024 07:00:00 GMT</pubDate>
+        <description>The Athletic przygotował Realowi Madryt listę kandydatów do zastąpienia Daniego Carvajala.</description>
+    </item>
     
     <item>
         <title>Sąsiedzi do Realu Madryt: Pokażcie licencję w sądzie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133244-400-zl-za-gola-polski-z-portugalia</link>
         <pubDate>Fri, 11 Oct 2024 13:42:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>AS: Nie ma żadnej daty powrotu Alaby</title>
-        <link>https://www.realmadryt.pl/news/133243-as-nie-ma-zadnej-daty-powrotu-alaby</link>
-        <pubDate>Fri, 11 Oct 2024 11:51:00 GMT</pubDate>
-        <description>Może grudzień, może styczeń, może…</description>
     </item>
     
 </channel>
