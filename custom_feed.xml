@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Oct 2024 06:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 07:18:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Uciec ze strefy spadkowej</title>
+        <link>https://www.realmadryt.pl/news/133233-uciec-ze-strefy-spadkowej</link>
+        <pubDate>Sat, 12 Oct 2024 09:15:00 GMT</pubDate>
+        <description>W 8. kolejce Primera Federación Castilla podejmie Yeclano. Królewscy od początku sezonu znajdują się w strefie spadkowej, a ewentualna wygrana mogłaby pozwolić im z niej się wydostać.</description>
+    </item>
     
     <item>
         <title>Rafa Marín wciąż nie zadebiutował w Serie A</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133250-atletico-zidentyfikowalo-juz-czterech-rzucajacych-przedmiotami-w-derbach-madrytu</link>
         <pubDate>Fri, 11 Oct 2024 18:45:00 GMT</pubDate>
         <description>Sąsiedzi Królewskich niestrudzenie pracują nad rozwiązaniem temat zajść z derbów Madrytu. Mimo wszystko chcą odwołać się od nałożonej na nich kary.</description>
-    </item>
-    
-    <item>
-        <title>Weir piłkarką na Pięć Gwiazdek za wrzesień</title>
-        <link>https://www.realmadryt.pl/news/133249-weir-pilkarka-na-piec-gwiazdek-za-wrzesien</link>
-        <pubDate>Fri, 11 Oct 2024 18:29:00 GMT</pubDate>
-        <description>Szkocka pomocniczka po raz pierwszy w tym sezonie zwyciężyła w głosowaniu fanów i została uznana za najlepszą piłkarkę Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
