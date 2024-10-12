@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Oct 2024 10:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 10:40:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius najwyżej wycenianym piłkarzem na świecie!</title>
+        <link>https://www.realmadryt.pl/news/133265-vinicius-najwyzej-wycenianym-pilkarzem-na-swiecie</link>
+        <pubDate>Sat, 12 Oct 2024 12:30:00 GMT</pubDate>
+        <description>Al-Hilal, wzdycha do swojego utopijnego transferu, podczas gdy jego wartość wciąż rośnie i już dzieli z Haalandem pierwsze miejsce na rynku według Transfermarkt.</description>
+    </item>
     
     <item>
         <title>Relevo: Vinicius jest już zdrowy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133256-sasiedzi-do-realu-madryt-pokazcie-licencje-w-sadzie</link>
         <pubDate>Sat, 12 Oct 2024 06:00:00 GMT</pubDate>
         <description>Sąsiedzi Bernabéu odpowiedzieli publicznie na komunikat klubu i czekają na sprawę sądową. Argumenty klubu wspierają władze Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133257-dzisiejsze-okladki</link>
-        <pubDate>Sat, 12 Oct 2024 00:16:00 GMT</pubDate>
-        <description>Mecz Hiszpanii i wywiad z Cubarsím to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
