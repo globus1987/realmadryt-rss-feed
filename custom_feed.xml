@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Oct 2024 09:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 09:39:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Vinicius jest już zdrowy</title>
+        <link>https://www.realmadryt.pl/news/133264-relevo-vinicius-jest-juz-zdrowy</link>
+        <pubDate>Sat, 12 Oct 2024 11:34:00 GMT</pubDate>
+        <description>Atakujący nie poleciał na zgrupowanie reprezentacji i już doszedł do siebie.</description>
+    </item>
     
     <item>
         <title>„Rywalem Camp Nou do organizacji finału Mistrzostw Świata 2030 nie jest Bernabéu”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133257-dzisiejsze-okladki</link>
         <pubDate>Sat, 12 Oct 2024 00:16:00 GMT</pubDate>
         <description>Mecz Hiszpanii i wywiad z Cubarsím to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Od bohatera do zera</title>
-        <link>https://www.realmadryt.pl/news/133254-od-bohatera-do-zera</link>
-        <pubDate>Fri, 11 Oct 2024 22:01:00 GMT</pubDate>
-        <description>Mario de Luis, pierwszy bramkarz Castilli z sezonu 2022/2023, kiedy otarła się o awans do Segunda División, został odstawiony na boczny tor. W bieżącym sezonie większość meczów obejrzał z perspektywy trybun.</description>
     </item>
     
 </channel>
