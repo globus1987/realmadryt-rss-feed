@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Oct 2024 13:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 13:30:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Barça Studios jest nic niewarte, to przekręt”</title>
+        <link>https://www.realmadryt.pl/news/133268-barca-studios-jest-nic-niewarte-to-przekret</link>
+        <pubDate>Sat, 12 Oct 2024 15:07:00 GMT</pubDate>
+        <description>Barcelona zderza się z audytorem, próbując uzasadnić zawyżoną wycenę Barça Studios. Opozycja reaguje i wskazuje na porażkę „widmowej” dźwigni finansowej.</description>
+    </item>
     
     <item>
         <title>Relevo: Kroos rozpoczyna kurs trenerski UEFA B i A</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133255-600-pln-za-gola-polski-w-meczu-portugalia</link>
         <pubDate>Sat, 12 Oct 2024 07:50:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kandydaci The Athletic do wzmocnienia prawej obrony Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/133253-kandydaci-the-athletic-do-wzmocnienia-prawej-obrony-realu-madryt</link>
-        <pubDate>Sat, 12 Oct 2024 07:00:00 GMT</pubDate>
-        <description>The Athletic przygotował Realowi Madryt listę kandydatów do zastąpienia Daniego Carvajala.</description>
     </item>
     
 </channel>
