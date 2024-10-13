@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Oct 2024 21:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 22:19:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133289-dzisiejsze-okladki</link>
+        <pubDate>Mon, 14 Oct 2024 00:18:00 GMT</pubDate>
+        <description>Wypowiedzi sportowców i sytuacja Lamine Yamala to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hezonja: Jeśli nam się zmienia rytm w ten sposób…</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133277-kolejny-rasistowski-skandal-na-metropolitano</link>
         <pubDate>Sun, 13 Oct 2024 08:53:00 GMT</pubDate>
         <description>Francuscy Youtuberzy zeszli z boiska w trakcie spotkania z Hiszpanami.</description>
-    </item>
-    
-    <item>
-        <title>Beltrán: To dobry moment, aby spróbować zdobyć trzy punkty</title>
-        <link>https://www.realmadryt.pl/news/133247-beltran-to-dobry-moment-aby-sprobowac-zdobyc-trzy-punkty</link>
-        <pubDate>Sun, 13 Oct 2024 07:30:00 GMT</pubDate>
-        <description>Pomocnik Celty Vigo, Fran Beltrán, podzielił się swoimi odczuciami przed zaplanowanym na 19 października meczem z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
