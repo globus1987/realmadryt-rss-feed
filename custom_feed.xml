@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Oct 2024 14:18:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 14:39:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brazylia balsamem dla Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/133280-brazylia-balsamem-dla-rodrygo</link>
+        <pubDate>Sun, 13 Oct 2024 16:31:00 GMT</pubDate>
+        <description>Brazylia odzyskuje formę i rytm, który Rodrygo zgubił w Madrycie. Bez Viníciusa poprowadził drużynę do zwycięstwa nad Chile. Jego problemy z plecami to już przeszłość.</description>
+    </item>
     
     <item>
         <title>Kolejna wyjazdowa porażka koszykarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133272-castilla-nadal-w-strefie-spadkowej</link>
         <pubDate>Sat, 12 Oct 2024 19:12:00 GMT</pubDate>
         <description>W meczu 8. kolejki trzeciego poziomu rozgrywkowego Real Madryt Castilla zaledwie zremisował u siebie z Yeclano, choć już w trzeciej minucie wyszedł na prowadzenie. Drugi zespół nadal nie może wygrzebać się ze strefy spadkowej.</description>
-    </item>
-    
-    <item>
-        <title>Foot Mercato: Mbappé chce grać tylko w najważniejszych meczach reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/133271-foot-mercato-mbappe-chce-grac-tylko-w-najwazniejszych-meczach-reprezentacji</link>
-        <pubDate>Sat, 12 Oct 2024 17:05:00 GMT</pubDate>
-        <description>Kylian Mbappé miał burzliwą przerwę reprezentacyjną – od jego nieobecności na zgrupowaniu reprezentacji Francji, po kontrowersje związane z wyjściem do klubu nocnego w Szwecji. Jego absencja była jednak spodziewana, podobnie jak przyznane przez klub wakacje.</description>
     </item>
     
 </channel>
