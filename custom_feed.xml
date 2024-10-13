@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Oct 2024 03:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 04:25:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd do Bilbao</title>
+        <link>https://www.realmadryt.pl/news/133234-wyjazd-do-bilbao</link>
+        <pubDate>Sun, 13 Oct 2024 06:00:00 GMT</pubDate>
+        <description>W 3. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Bilbao. To spotkanie będzie przetarciem przed trudnym tygodniem z podwójną kolejką w Eurolidze.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133265-vinicius-najwyzej-wycenianym-pilkarzem-na-swiecie</link>
         <pubDate>Sat, 12 Oct 2024 12:30:00 GMT</pubDate>
         <description>Al-Hilal, wzdycha do swojego utopijnego transferu, podczas gdy jego wartość wciąż rośnie i już dzieli z Haalandem pierwsze miejsce na rynku według Transfermarkt.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Vinicius jest już zdrowy</title>
-        <link>https://www.realmadryt.pl/news/133264-relevo-vinicius-jest-juz-zdrowy</link>
-        <pubDate>Sat, 12 Oct 2024 11:34:00 GMT</pubDate>
-        <description>Atakujący nie poleciał na zgrupowanie reprezentacji i już doszedł do siebie.</description>
     </item>
     
 </channel>
