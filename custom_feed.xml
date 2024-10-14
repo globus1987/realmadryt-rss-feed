@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Oct 2024 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 22:23:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133318-dzisiejsze-okladki</link>
+        <pubDate>Tue, 15 Oct 2024 00:17:00 GMT</pubDate>
+        <description>Mecz Hiszpanii, bunt przeciwko FIFA i sytuacja w Barcelonie to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Słowa Hezonji? Nie ma co przywiązywać do tego większego znaczenia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133304-przed-wielkim-maratonem</link>
         <pubDate>Mon, 14 Oct 2024 15:28:00 GMT</pubDate>
         <description>W ten weekend piłkarze Realu Madryt rozpoczną maraton, który potrwa do samego końca 2024 roku. W jego trakcie zagrają z aktualnymi liderami La Ligi i Ligi Mistrzów, wyjadą na Anfield czy rozegrają finał Pucharu Interkontynentalnego.</description>
-    </item>
-    
-    <item>
-        <title>Szef Superligi: Czy teraz mamy atrakcyjniejsze i bardziej decydujące mecze w Lidze Mistrzów?</title>
-        <link>https://www.realmadryt.pl/news/133303-szef-superligi-czy-teraz-mamy-atrakcyjniejsze-i-bardziej-decydujace-mecze-w-lidze-mistrzow</link>
-        <pubDate>Mon, 14 Oct 2024 14:05:00 GMT</pubDate>
-        <description>Bernd Reichart to dyrektor generalny spółki A22 Sports Management, która została założona jako firma sponsorska i doradcza dla Superligi. Niemiec udzielił wypowiedzi Kickerowi w sprawie ostatnich wydarzeń w europejskim futbolu.</description>
     </item>
     
 </channel>
