@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Oct 2024 08:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 08:48:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nietykalny Tchouaméni</title>
+        <link>https://www.realmadryt.pl/news/133296-nietykalny-tchouameni</link>
+        <pubDate>Mon, 14 Oct 2024 10:40:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni ma pewne miejsce w wyjściowym składzie Realu Madryt i reprezentacji Francji. Dla Didiera Deschampsa pomocnik stał się prawdziwym filarem i niewykluczone, że z Belgią ponownie wybiegnie na murawę z opaską kapitana pod nieobecność Kyliana Mbappé.</description>
+    </item>
+    
+    <item>
+        <title>Onda Cero: Alaba nie wytrzymuje treningów z obciążeniem</title>
+        <link>https://www.realmadryt.pl/news/133295-onda-cero-alaba-nie-wytrzymuje-treningow-z-obciazeniem</link>
+        <pubDate>Mon, 14 Oct 2024 10:30:00 GMT</pubDate>
+        <description>W radiu Onda Cero przekazano bardzo negatywne informacje na temat Davida Alaby. Austriak ma poważne problemy z powrotem do gry.</description>
+    </item>
     
     <item>
         <title>Toril: Jestem smutny z wyniku, ale zadowolony z gry</title>
         <link>https://www.realmadryt.pl/news/133294-toril-jestem-smutny-z-wyniku-ale-zadowolony-z-gry</link>
         <pubDate>Mon, 14 Oct 2024 10:24:00 GMT</pubDate>
-        <description>Alberto Toril udzielił wypowiedzi dla klubowej telewizji po zremisowanym 1:1 meczu z Atlético Madryt na Estadio Alfredo Di Stéfano.</description>
+        <description>Alberto Toril udzielił wywiadu dla klubowej telewizji po zremisowanym 1:1 meczu z Atlético Madryt na Estadio Alfredo Di Stéfano. Przedstawiamy wypowiedzi trenera Królewskich.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133285-remis-w-derbach-madrytu</link>
         <pubDate>Sun, 13 Oct 2024 22:02:00 GMT</pubDate>
         <description>W meczu 6. kolejki Ligi F piłkarki Realu Madryt zremisowały z Atlético Madryt 1:1. Bramkę dla Królewskich zdobyła w pierwszej połowie Caroline Weir. Wynik meczu ustaliła w drugiej odsłonie Bøe Risa z rzutu karnego.</description>
-    </item>
-    
-    <item>
-        <title>El Debate: Sandro Rosell ma wystartować w wyborach na prezesa Hiszpańskiej Federacji</title>
-        <link>https://www.realmadryt.pl/news/133284-el-debate-sandro-rosell-ma-wystartowac-w-wyborach-na-prezesa-hiszpanskiej-federacji</link>
-        <pubDate>Sun, 13 Oct 2024 20:51:00 GMT</pubDate>
-        <description>Były prezes Barcelony podejmie wyzwanie, w którym zamierzają wziąć udział Gerardo González, Pablo Lozano, Rafael Louzán, Carlos Herrera i Pedro Rocha. Del Bosque nie będzie kandydował, choć otrzymuje wiele próśb, aby to zrobił.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni i Camavinga mają ponownie zagrać od początku w reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/133283-tchouameni-i-camavinga-maja-ponownie-zagrac-od-poczatku-w-reprezentacji</link>
-        <pubDate>Sun, 13 Oct 2024 20:30:00 GMT</pubDate>
-        <description>Deschamps postawił na duet z Realu Madryt w meczu przeciwko Izraelowi i może powtórzyć ten wybór jutro przeciwko Belgii po dobrej postawie obu zawodników.</description>
     </item>
     
 </channel>
