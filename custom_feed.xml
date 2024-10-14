@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Oct 2024 08:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 09:25:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>600 zł za gola Polaków z Chorwatami!</title>
+        <link>https://www.realmadryt.pl/news/133297-600-zl-za-gola-polakow-z-chorwatami</link>
+        <pubDate>Mon, 14 Oct 2024 11:16:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Nietykalny Tchouaméni</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133286-hezonja-jesli-nam-sie-zmienia-rytm-w-ten-sposob</link>
         <pubDate>Sun, 13 Oct 2024 22:14:00 GMT</pubDate>
         <description>Mario Hezonja nie gryzł się w język w trakcie wywiadu w przerwie meczu z Bilbao. Chorwat w krytyczny sposób odniósł się do decyzji Chusa Mateo.</description>
-    </item>
-    
-    <item>
-        <title>Remis w derbach Madrytu</title>
-        <link>https://www.realmadryt.pl/news/133285-remis-w-derbach-madrytu</link>
-        <pubDate>Sun, 13 Oct 2024 22:02:00 GMT</pubDate>
-        <description>W meczu 6. kolejki Ligi F piłkarki Realu Madryt zremisowały z Atlético Madryt 1:1. Bramkę dla Królewskich zdobyła w pierwszej połowie Caroline Weir. Wynik meczu ustaliła w drugiej odsłonie Bøe Risa z rzutu karnego.</description>
     </item>
     
 </channel>
