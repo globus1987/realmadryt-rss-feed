@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Oct 2024 09:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 09:54:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prokuratura potwierdza wszczęcie śledztwa ws. gwałtu w Sztokholmie</title>
+        <link>https://www.realmadryt.pl/news/133324-prokuratura-potwierdza-wszczecie-sledztwa-ws-gwaltu-w-sztokholmie</link>
+        <pubDate>Tue, 15 Oct 2024 11:51:00 GMT</pubDate>
+        <description>Szwedzka prokuratura potwierdza medialne doniesienia o gwałcie, do którego doszło w ubiegły czwartek w Sztokholmie. Według szwedzkich mediów ofiara wskazała jako sprawcę Kyliana Mbappé.</description>
+    </item>
     
     <item>
         <title>Real wyciska rynek transferowy niczym cytrynę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133314-mateo-slowa-hezonji-nie-ma-co-przywiazywac-do-tego-wiekszego-znaczenia</link>
         <pubDate>Mon, 14 Oct 2024 23:29:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Baskonią w Eurolidze. Odniósł się między innymi do zawieszenia Campazzo oraz do krytycznych słów Hezonji pod jego adresem.</description>
-    </item>
-    
-    <item>
-        <title>Rada Miasta Madrytu nałożyła 11 kar na promotorów koncertów na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/133313-rada-miasta-madrytu-nalozyla-11-kar-na-promotorow-koncertow-na-bernabeu</link>
-        <pubDate>Mon, 14 Oct 2024 21:18:00 GMT</pubDate>
-        <description>Madrycki ratusz nałożył kary na promotorów koncertów na Bernabéu za przekroczenie norm hałasu. Łączna suma kar to 801 tysięcy euro.</description>
     </item>
     
 </channel>
