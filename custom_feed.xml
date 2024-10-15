@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 22:21:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133343-dzisiejsze-okladki</link>
+        <pubDate>Wed, 16 Oct 2024 00:18:00 GMT</pubDate>
+        <description>Wygrana Hiszpanii to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Znakomity Tavares nie wystarczył na Baskonię</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133326-modric-gra-wiecej-niz-w-zeszlym-roku-i-nie-mysli-o-emeryturze</link>
         <pubDate>Tue, 15 Oct 2024 12:37:00 GMT</pubDate>
         <description>Pomocnik chce nadal występować w reprezentacji i Realu Madryt. Nie jest więc pewne, że jest to jego ostatni sezon na najwyższym poziomie.</description>
-    </item>
-    
-    <item>
-        <title>El Confidencial: Bernabéu przyjmowało koncerty bez zgody strażaków</title>
-        <link>https://www.realmadryt.pl/news/133325-el-confidencial-bernabeu-przyjmowalo-koncerty-bez-zgody-strazakow</link>
-        <pubDate>Tue, 15 Oct 2024 11:58:00 GMT</pubDate>
-        <description>Najnowsze informacje wskazują, że Real Madryt organizował wydarzenia na swoim stadionie bez zgody wydanej przez strażaków.</description>
     </item>
     
 </channel>
