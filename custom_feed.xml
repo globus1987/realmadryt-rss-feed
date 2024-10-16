@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Oct 2024 10:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 11:19:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/133350-pierwszy-dzisiejszy-trening</link>
+        <pubDate>Wed, 16 Oct 2024 13:07:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu. Razem z drużyną w pełni nie trenowało dwóch graczy.</description>
+    </item>
     
     <item>
         <title>Niewidzialny Vallejo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133341-szwedzi-utrzymuja-na-100-to-mbappe-jest-podejrzany-o-gwalt</link>
         <pubDate>Wed, 16 Oct 2024 06:00:00 GMT</pubDate>
         <description>Otoczenie Kyliana Mbappé zapewnia, że piłkarz nie ma żadnego związku ze sprawą gwałtu. Szwedzkie źródło, które pierwsze wskazało na niego jako na podejrzanego, utrzymuje swoje informacje.</description>
-    </item>
-    
-    <item>
-        <title>Kolejny mecz Urugwaju bez wygranej, triumf Brazylii</title>
-        <link>https://www.realmadryt.pl/news/133345-kolejny-mecz-urugwaju-bez-wygranej-triumf-brazylii</link>
-        <pubDate>Wed, 16 Oct 2024 04:35:00 GMT</pubDate>
-        <description>Federico Valverde i Rodrygo Goes zagrali od pierwszej minuty w spotkaniach swoich reprezentacji. Obaj nie pokazali swoich najlepszych wersji. Na końcówkę z ławki wszedł także Endrick. Te występy zakończyły tę przerwę reprezentacyjną w wykonaniu piłkarzy Realu Madryt.</description>
     </item>
     
 </channel>
