@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Oct 2024 22:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 22:41:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133364-dzisiejsze-okladki</link>
+        <pubDate>Thu, 17 Oct 2024 00:30:00 GMT</pubDate>
+        <description>Transfery Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Adwokat ofiary rzekomego gwałtu w Sztokholmie: Śledztwo jest ściśle tajne</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133350-pierwszy-dzisiejszy-trening</link>
         <pubDate>Wed, 16 Oct 2024 13:07:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Niewidzialny Vallejo</title>
-        <link>https://www.realmadryt.pl/news/133336-niewidzialny-vallejo</link>
-        <pubDate>Wed, 16 Oct 2024 12:40:00 GMT</pubDate>
-        <description>Vallejo jest, ale tak, jakby go nie było. Stoper niezmiennie nie liczy się dla trenera i niewiele wskazuje na to, by miało się to wkrótce zmienić. Klub już latem zakomunikował Jesusowi, że ten nie znajduje się planach sportowych na ten sezon, a najlepszym rozwiązaniem byłoby opuszczenie przez niego Madrytu.</description>
     </item>
     
 </channel>
