@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Oct 2024 22:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 22:41:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133386-dzisiejsze-okladki</link>
+        <pubDate>Fri, 18 Oct 2024 00:30:00 GMT</pubDate>
+        <description>Dokonania Messiego, ostatni mecz Nadala z Alcarazem i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>W końcu występ na miarę oczekiwań</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133371-anglicy-chcieli-zatrudnic-guardiole-lub-ancelottiego</link>
         <pubDate>Thu, 17 Oct 2024 14:56:00 GMT</pubDate>
         <description>Gary Lineker stwierdził na antenie BBC, że Angielska Federacja Piłkarska prowadziła rozmowy zarówno z trenerem Manchesteru City, jak i Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Demon chciał oszukać Barcelonę na milion euro przy transferze Lewandowskiego</title>
-        <link>https://www.realmadryt.pl/news/133370-demon-chcial-oszukac-barcelone-na-milion-euro-przy-transferze-lewandowskiego</link>
-        <pubDate>Thu, 17 Oct 2024 14:32:00 GMT</pubDate>
-        <description>Barça przelała milion euro z prowizji za transfer Lewandowskiego na konto domniemanego oszusta, ale płatność została zablokowana. Pieniądze trafiły na konto w Banku Cypru, na nazwisko człowieka, który podszył się pod Piniego Zahaviego. Bank zablokował przelew. Barça ogranicza się do stwierdzenia, że pieniądze nie trafiły do domniemanego oszusta i zostały odzyskane, nie podając więcej szczegółów.</description>
     </item>
     
 </channel>
