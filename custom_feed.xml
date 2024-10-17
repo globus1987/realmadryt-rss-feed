@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Oct 2024 14:24:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 14:41:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Achraf, a po nim przepaść</title>
+        <link>https://www.realmadryt.pl/news/133373-achraf-a-po-nim-przepasc</link>
+        <pubDate>Thu, 17 Oct 2024 16:33:00 GMT</pubDate>
+        <description>Real Madryt od kilku lat ma problem ze znalezieniem w swojej szkółce prawego obrońcy będącego w stanie wnieść coś do pierwszego zespołu. Klub przewiduje, że niekorzystną passę przełamie Fortea, jednak ma on dopiero 17 lat.</description>
+    </item>
     
     <item>
         <title>Sytuacja Alaby wymusza transfer</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133365-the-athletic-trent-alexander-arnold-glownym-celem-transferowym-realu</link>
         <pubDate>Thu, 17 Oct 2024 06:00:00 GMT</pubDate>
         <description>Królewscy chcą Anglika, ale już w styczniu rozważają też transfer stopera.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133364-dzisiejsze-okladki</link>
-        <pubDate>Thu, 17 Oct 2024 00:30:00 GMT</pubDate>
-        <description>Transfery Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
