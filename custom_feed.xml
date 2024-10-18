@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Oct 2024 22:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 22:54:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133415-dzisiejsze-okladki</link>
+        <pubDate>Sat, 19 Oct 2024 00:44:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i przygotowania Barcelony do jej meczu to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Minimalna wygrana BVB przed meczem z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133401-real-madrid-tv-o-arbitrze-na-celte-to-od-dziecka-fan-barcelony</link>
         <pubDate>Fri, 18 Oct 2024 15:53:00 GMT</pubDate>
         <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Celtą Vigo. Tym razem skupiono się na arbitrze głównym oraz arbitrze VAR.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Celtę Vigo</title>
-        <link>https://www.realmadryt.pl/news/133395-kadra-realu-madryt-na-celte-vigo</link>
-        <pubDate>Fri, 18 Oct 2024 14:40:00 GMT</pubDate>
-        <description>Królewscy podejdą do meczu z Celtą Vigo bez trzech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na to spotkanie 20 zawodników.</description>
     </item>
     
 </channel>
