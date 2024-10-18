@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Oct 2024 05:55:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 06:32:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hernández Hernández na Celtę</title>
+        <link>https://www.realmadryt.pl/news/133382-hernandez-hernandez-na-celte</link>
+        <pubDate>Fri, 18 Oct 2024 08:18:00 GMT</pubDate>
+        <description>41-latek z Wysp Kanaryjskich poprowadzi sobotni wyjazdowy mecz Realu Madryt z Celtą Vigo.</description>
+    </item>
     
     <item>
         <title>Kroos: Złota Piłka nie jest ważna</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133375-szesciu-pilkarzy-nie-trenowalo-z-druzyna</link>
         <pubDate>Thu, 17 Oct 2024 18:07:00 GMT</pubDate>
         <description>Królewscy ponownie pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Achraf, a po nim przepaść</title>
-        <link>https://www.realmadryt.pl/news/133373-achraf-a-po-nim-przepasc</link>
-        <pubDate>Thu, 17 Oct 2024 16:33:00 GMT</pubDate>
-        <description>Real Madryt od kilku lat ma problem ze znalezieniem w swojej szkółce prawego obrońcy będącego w stanie wnieść coś do pierwszego zespołu. Klub przewiduje, że niekorzystną passę przełamie Fortea, jednak ma on dopiero 17 lat.</description>
     </item>
     
 </channel>
