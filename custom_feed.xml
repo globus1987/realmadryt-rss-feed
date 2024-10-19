@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Oct 2024 21:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 22:21:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>100 meczów Tchouaméniego w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/133445-100-meczow-tchouameniego-w-realu-madryt</link>
+        <pubDate>Sun, 20 Oct 2024 00:03:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni zanotował w meczu z Celtą Vigo swój 100. występ w Realu Madryt. Pomocnik spędza w klubie trzeci sezon.</description>
+    </item>
     
     <item>
         <title>Celta Vigo 1:2 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133425-historia-pewnego-listu</link>
         <pubDate>Sat, 19 Oct 2024 16:41:00 GMT</pubDate>
         <description>Jak niemal co mecz MARCA raczy nas historyczną ciekawostką. Dziś madrycki dziennik porusza temat związany z Gabrielem Alonso.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy zaprezentowali… nowy autokar</title>
-        <link>https://www.realmadryt.pl/news/133427-krolewscy-zaprezentowali-nowy-autokar</link>
-        <pubDate>Sat, 19 Oct 2024 16:38:00 GMT</pubDate>
-        <description>Królewscy poruszają się po Vigo nowym pojazdem, który w specjalny sposób przedstawił sam klub.</description>
     </item>
     
 </channel>
