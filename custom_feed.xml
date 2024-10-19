@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Oct 2024 18:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 18:57:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Celta Vigo – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/133432-celta-vigo-real-madryt-live</link>
+        <pubDate>Sat, 19 Oct 2024 20:56:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 10. kolejki La Ligi, w którym Celta Vigo podejmuje Real Madryt.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Celtą Vigo [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133418-giovanella-w-moich-czasach-vinicius-nie-wygralby-zlotej-pilki</link>
         <pubDate>Sat, 19 Oct 2024 11:26:00 GMT</pubDate>
         <description>Everton Giovanella, były pomocnik między innymi Celty Vigo, udzielił wywiadu dziennikowi AS przy okazji dzisiejszego meczu z Realem Madryt. Przedstawiamy rozmowę z Brazylijczykiem.</description>
-    </item>
-    
-    <item>
-        <title>Preludium</title>
-        <link>https://www.realmadryt.pl/news/133374-preludium</link>
-        <pubDate>Sat, 19 Oct 2024 11:00:00 GMT</pubDate>
-        <description>Muzyka i futbol mogą mieć więcej punktów stycznych, niż tylko przepychanki Realu Madryt z mieszkańcami bloków znajdujących się w pobliżu stadionu.</description>
     </item>
     
 </channel>
