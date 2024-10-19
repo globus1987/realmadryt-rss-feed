@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Oct 2024 14:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 14:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historia pewnego listu</title>
+        <link>https://www.realmadryt.pl/news/133425-historia-pewnego-listu</link>
+        <pubDate>Sat, 19 Oct 2024 16:41:00 GMT</pubDate>
+        <description>Jak niemal co mecz MARCA raczy nas historyczną ciekawostką. Dziś madrycki dziennik porusza temat związany z Gabrielem Alonso.</description>
+    </item>
     
     <item>
         <title>Królewscy zaprezentowali… nowy autokar</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133411-jailson-niektorzy-zawodnicy-realu-madryt-wylaczaja-sie-z-gry</link>
         <pubDate>Sat, 19 Oct 2024 09:30:00 GMT</pubDate>
         <description>Pomocnik Celty Vigo, Jailson, podzielił się swoimi odczuciami przed meczem z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 19 października</title>
-        <link>https://www.realmadryt.pl/news/133412-kartka-z-kalendarza-19-pazdziernika</link>
-        <pubDate>Sat, 19 Oct 2024 08:40:00 GMT</pubDate>
-        <description>Urodziny dwóch ważnych zawodników, choć jeden nigdy nie grał w Realu Madryt, domowe mecze ligowe, zwycięstwo z Milanem w Lidze Mistrzów, kompromitująca porażka na Majorce i mecz w Kijowie. Co działo się 19 października?</description>
     </item>
     
 </channel>
