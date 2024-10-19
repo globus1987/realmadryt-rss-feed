@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Oct 2024 09:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 09:38:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyzwanie Lucasa Vázqueza</title>
+        <link>https://www.realmadryt.pl/news/133419-wyzwanie-lucasa-vazqueza</link>
+        <pubDate>Sat, 19 Oct 2024 11:33:00 GMT</pubDate>
+        <description>Mecz na Balaídos będzie dla wychowanka początkiem kolejnego ważnego etapu kariery w Realu, gdyż z powodu kontuzji kolegi stanie się podstawowym prawym obrońcą przynajmniej do końca tego sezonu.</description>
+    </item>
+    
+    <item>
+        <title>Giovanella: W moich czasach Vinícius nie wygrałby Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/133418-giovanella-w-moich-czasach-vinicius-nie-wygralby-zlotej-pilki</link>
+        <pubDate>Sat, 19 Oct 2024 11:26:00 GMT</pubDate>
+        <description>Everton Giovanella, były pomocnik między innymi Celty Vigo, udzielił wywiadu dziennikowi AS przy okazji dzisiejszego meczu z Realem Madryt. Przedstawiamy rozmowę z Brazylijczykiem.</description>
+    </item>
     
     <item>
         <title>Preludium</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133410-carvajal-jeden-tydzien-mniej-do-powrotu</link>
         <pubDate>Fri, 18 Oct 2024 22:04:00 GMT</pubDate>
         <description>Kontuzjowany drugi kapitan Królewskich wystosował emocjonalny wpis na portalach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Utrzymano karę UEFA dla Barcelony za jedną z dźwigni</title>
-        <link>https://www.realmadryt.pl/news/133408-utrzymano-kare-uefa-dla-barcelony-za-jedna-z-dzwigni</link>
-        <pubDate>Fri, 18 Oct 2024 20:02:00 GMT</pubDate>
-        <description>Nie tylko dźwignia finansowa Barcelony z Barça Studios wzbudza wiele kontrowersji. Zapadł właśnie wyrok ostatniej instancji w sprawie sprzedaży praw telewizyjnych, której nie uznała UEFA.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 10. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/133390-telewizyjny-terminarz-10-kolejki-la-ligi</link>
-        <pubDate>Fri, 18 Oct 2024 19:00:00 GMT</pubDate>
-        <description>Przed nami dziesiąta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Celtą Vigo. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
