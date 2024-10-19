@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Oct 2024 08:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 09:22:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Preludium</title>
+        <link>https://www.realmadryt.pl/news/133374-preludium</link>
+        <pubDate>Sat, 19 Oct 2024 11:00:00 GMT</pubDate>
+        <description>Muzyka i futbol mogą mieć więcej punktów stycznych, niż tylko przepychanki Realu Madryt z mieszkańcami bloków znajdujących się w pobliżu stadionu.</description>
+    </item>
+    
+    <item>
+        <title>Historyczny Luka Modrić</title>
+        <link>https://www.realmadryt.pl/news/133417-historyczny-luka-modric</link>
+        <pubDate>Sat, 19 Oct 2024 10:57:00 GMT</pubDate>
+        <description>Chorwat może pobić dzisiaj znaczący rekord Realu Madryt. Był on nietykalny od prawie 60 lat.</description>
+    </item>
     
     <item>
         <title>Jailson: Niektórzy zawodnicy Realu Madryt wyłączają się z gry</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133390-telewizyjny-terminarz-10-kolejki-la-ligi</link>
         <pubDate>Fri, 18 Oct 2024 19:00:00 GMT</pubDate>
         <description>Przed nami dziesiąta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Celtą Vigo. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Były arbiter pozwał szefów Federacji za oszustwo ws. funduszu sędziowskiego</title>
-        <link>https://www.realmadryt.pl/news/133407-byly-arbiter-pozwal-szefow-federacji-za-oszustwo-ws-funduszu-sedziowskiego</link>
-        <pubDate>Fri, 18 Oct 2024 18:45:00 GMT</pubDate>
-        <description>Były sędzia złożył pozew w sprawie funduszu sędziowskiego, który obejmuje kilka osób ze szczytu Federacji.</description>
-    </item>
-    
-    <item>
-        <title>Topuria: Wiem, że kiedyś zobaczę siebie walczącego na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/133406-topuria-wiem-ze-kiedys-zobacze-siebie-walczacego-na-bernabeu</link>
-        <pubDate>Fri, 18 Oct 2024 18:05:00 GMT</pubDate>
-        <description>Gruzińsko-hiszpański zawodnik mieszanych sztuk walki utrzymuje, że jego marzeniem jest walka na stadionie Realu Madryt. Na razie jednak wydaje się, że jest do tego bardzo daleko.</description>
     </item>
     
 </channel>
