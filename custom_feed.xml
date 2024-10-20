@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Oct 2024 10:23:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 10:41:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>István Kovács na Borussię Dortmund</title>
+        <link>https://www.realmadryt.pl/news/133451-istvan-kovacs-na-borussie-dortmund</link>
+        <pubDate>Sun, 20 Oct 2024 12:27:00 GMT</pubDate>
+        <description>István Kovács poprowadzi wtorkowy mecz między Realem Madryt a Borussią Dortmund. Będzie to jego trzecie spotkanie z udziałem Królewskich.</description>
+    </item>
     
     <item>
         <title>Giráldez: Zabrakło nam tej szczypty szczęścia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133447-dzisiejsze-okladki</link>
         <pubDate>Sun, 20 Oct 2024 00:26:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>100 meczów Tchouaméniego w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/133445-100-meczow-tchouameniego-w-realu-madryt</link>
-        <pubDate>Sun, 20 Oct 2024 00:03:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni zanotował w meczu z Celtą Vigo swój 100. występ w Realu Madryt. Pomocnik spędza w klubie trzeci sezon.</description>
     </item>
     
 </channel>
