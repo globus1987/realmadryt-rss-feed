@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Oct 2024 14:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 14:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Alaba pokonuje kolejne etapy rehabilitacji</title>
+        <link>https://www.realmadryt.pl/news/133458-marca-alaba-pokonuje-kolejne-etapy-rehabilitacji</link>
+        <pubDate>Sun, 20 Oct 2024 16:48:00 GMT</pubDate>
+        <description>Wbrew ostatnim doniesieniom rehabilitacja Davida Alaby idzie w dobrym kierunku. Austriak ponownie był widziany podczas dzisiejszego treningu w Valdebebas wykonując indywidualne przebieżki.</description>
+    </item>
     
     <item>
         <title>Niedzielny spacerek dla koszykarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133442-mateo-panathinaikos-jest-juz-przeszloscia-i-trzeba-o-tym-zapomniec</link>
         <pubDate>Sun, 20 Oct 2024 10:00:00 GMT</pubDate>
         <description>Chus Mateo udzielił wywiadu klubowym mediom przed spotkaniem z Gironą w Lidze Endesa. Mówił między innymi o tym, że trzeba już zapomnieć o zwycięstwie z Panathinaikosem.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Sprawa Negreiry to strategia medialna naszych bezpośrednich rywali</title>
-        <link>https://www.realmadryt.pl/news/133430-laporta-sprawa-negreiry-to-strategia-medialna-naszych-bezposrednich-rywali</link>
-        <pubDate>Sun, 20 Oct 2024 09:30:00 GMT</pubDate>
-        <description>W sobotę odbyło się Walne Zgromadzenie socios Barcelony. W sekcji wolnych pytań prezes Barcelony odniósł się Sprawy Negreiry, czyli opłacania przez Barcelonę przez przynajmniej 17 lat ówczesnego wiceszefa hiszpańskich sędziów.</description>
     </item>
     
 </channel>
