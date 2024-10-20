@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Oct 2024 22:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 22:54:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133468-dzisiejsze-okladki</link>
+        <pubDate>Mon, 21 Oct 2024 00:41:00 GMT</pubDate>
+        <description>Wygrana Barcelony to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Skromne zwycięstwo piłkarek w Fuenlabradzie [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133455-castilla-pogarsza-swoja-sytuacje</link>
         <pubDate>Sun, 20 Oct 2024 13:59:00 GMT</pubDate>
         <description>W 9. kolejce Primera Federación Castilla przegrała na wyjeździe z Alcorcónem. Królewscy stworzyli sobie w tym meczu wiele okazji i mogli wysoko wygrać. Zamiast tego przegrali 1:2 i muszą odłożyć w czasie marzenia o wyjściu ze strefy spadkowej.</description>
-    </item>
-    
-    <item>
-        <title>„Real punktuje i jedzie dalej… w niepewności”</title>
-        <link>https://www.realmadryt.pl/news/133454-real-punktuje-i-jedzie-dalej-w-niepewnosci</link>
-        <pubDate>Sun, 20 Oct 2024 13:15:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat formy Realu Madryt po sobotnim meczu z Celtą. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
