@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Oct 2024 08:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 08:45:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Nie wytłumaczyłem dobrze piłkarzom tego ustawienia</title>
+        <link>https://www.realmadryt.pl/news/133441-ancelotti-nie-wytlumaczylem-dobrze-pilkarzom-tego-ustawienia</link>
+        <pubDate>Sun, 20 Oct 2024 10:40:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu La Ligi z Celtą Vigo. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Estadio Balaídos.</description>
+    </item>
     
     <item>
         <title>Mateo: Panathinaikos jest już przeszłością i trzeba o tym zapomnieć</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133440-ancelotti-zmiany-daly-zespolowi-nowa-energie</link>
         <pubDate>Sat, 19 Oct 2024 23:34:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Celtą Vigo. Przedstawiamy zapis rozmowy z trenerem Realu Madryt, który w meczu na Balaídos po raz 200. poprowadził drużynę w meczu ligowym.</description>
-    </item>
-    
-    <item>
-        <title>Beltrán: Znowu to samo</title>
-        <link>https://www.realmadryt.pl/news/133438-beltran-znowu-to-samo</link>
-        <pubDate>Sat, 19 Oct 2024 23:17:00 GMT</pubDate>
-        <description>Fran Beltrán udzielił wywiadu platformie DAZN po przegranym 1:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi piłkarza Celty.</description>
     </item>
     
 </channel>
