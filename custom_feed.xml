@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Oct 2024 05:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 05:53:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pozbierać się również w lidze</title>
+        <link>https://www.realmadryt.pl/news/133444-pozbierac-sie-rowniez-w-lidze</link>
+        <pubDate>Sun, 20 Oct 2024 07:50:00 GMT</pubDate>
+        <description>W 4. kolejce Ligi Endesa Real Madryt zagra u siebie z Gironą. Ostatnio Królewscy podnieśli się w Eurolidze, a teraz muszą zrobić to samo na krajowym podwórku.</description>
+    </item>
     
     <item>
         <title>Czas opuścić strefę spadkową</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133433-ocen-pilkarzy-po-meczu-z-celta</link>
         <pubDate>Sat, 19 Oct 2024 23:04:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Modrić najstarszym piłkarzem, który zagrał w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/133436-modric-najstarszym-pilkarzem-ktory-zagral-w-realu-madryt</link>
-        <pubDate>Sat, 19 Oct 2024 23:00:00 GMT</pubDate>
-        <description>Historia dzieje się na naszych oczach. W dzisiejszym meczu z Celtą Vigo na Estadio Balaídos Luka Modrić stał się najstarszym piłkarzem, który zagrał w koszulce Królewskich.</description>
     </item>
     
 </channel>
