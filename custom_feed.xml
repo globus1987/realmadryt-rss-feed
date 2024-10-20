@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Oct 2024 06:30:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 06:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni: Damy z siebie wszystko w meczu z Dortmundem i w Klasyku</title>
+        <link>https://www.realmadryt.pl/news/133448-tchouameni-damy-z-siebie-wszystko-w-meczu-z-dortmundem-i-w-klasyku</link>
+        <pubDate>Sun, 20 Oct 2024 08:40:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni po meczu La Ligi z Celtą Vigo udzielił wywiadu RealMadrid TV. Przedstawiamy wypowiedzi piłkarza Realu Madryt ze strefy mieszanej na Estadio Balaídos.</description>
+    </item>
     
     <item>
         <title>Pozbierać się również w lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133434-mbappe-mvp-meczu-z-celta</link>
         <pubDate>Sat, 19 Oct 2024 23:07:00 GMT</pubDate>
         <description>Kylian Mbappé został wyróżniony po spotkaniu z Celtą Vigo. Królewscy wygrali 2:1.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/133433-ocen-pilkarzy-po-meczu-z-celta</link>
-        <pubDate>Sat, 19 Oct 2024 23:04:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
