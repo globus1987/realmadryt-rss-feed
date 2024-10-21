@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Oct 2024 08:47:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 09:25:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham z założonymi rękami</title>
+        <link>https://www.realmadryt.pl/news/133470-bellingham-z-zalozonymi-rekami</link>
+        <pubDate>Mon, 21 Oct 2024 11:11:00 GMT</pubDate>
+        <description>Anglik wciąż nie odnalazł w tym sezonie drogi do siatki, podczas gdy w ubiegłej kampanii na tym samym etapie miał na swoim koncie już 10 bramek.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 21 października</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133460-mateo-ostatnio-tracilismy-zbyt-wiele-punktow</link>
         <pubDate>Sun, 20 Oct 2024 17:34:00 GMT</pubDate>
         <description>Chus Mateo i Facundo Campazzo podsumowali krótko mecz z Gironą. Trener cieszył się z tego, że drużyna zagrała dobrze w defensywie.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/133459-oceny-zawodnikow-po-meczu-z-celta</link>
-        <pubDate>Sun, 20 Oct 2024 17:10:00 GMT</pubDate>
-        <description>Real Madryt wygrał na wyjeździe z Celtą Vigo 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
