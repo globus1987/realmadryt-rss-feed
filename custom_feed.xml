@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Oct 2024 21:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 22:21:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133504-dzisiejsze-okladki</link>
+        <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+        <description>Wywiad z Tonim Kroosem i mecz Realu Madryt z Borussią Dortmund to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo pod lupą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133485-oficjalnie-laprovittola-z-zerwanym-wiezadlem</link>
         <pubDate>Mon, 21 Oct 2024 16:46:00 GMT</pubDate>
         <description>Potwierdziły się najgorsze obawy dotyczące stanu zdrowia Nicolása Laprovíttoli. Argentyńczyk zerwał więzadło w kolanie i prawdopodobnie w tym sezonie już nie wróci do gry.</description>
-    </item>
-    
-    <item>
-        <title>Juventus ogłosił transfer… Ardy Gülera</title>
-        <link>https://www.realmadryt.pl/news/133484-juventus-oglosil-transfer-ardy-guelera</link>
-        <pubDate>Mon, 21 Oct 2024 16:41:00 GMT</pubDate>
-        <description>Po południu Stara Dama poinformowała na portalu X, że kontrakt z klubem podpisał pomocnik Realu Madryt. Okazało się, że był to efekt ataku hakerów.</description>
     </item>
     
 </channel>
