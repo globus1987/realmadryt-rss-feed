@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Oct 2024 18:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 19:19:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Borussia Dortmund [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/133521-real-madryt-borussia-dortmund-live</link>
+        <pubDate>Tue, 22 Oct 2024 20:55:00 GMT</pubDate>
+        <description>Od 21:00 w meczu 3. kolejki fazy ligowej Champions League Real Madryt mierzy się u siebie z Borussią Dortmund.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Potrzebowaliśmy wpuszczenia świeżych nóg</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133515-kroos-nie-zostane-trenerem</link>
         <pubDate>Tue, 22 Oct 2024 12:01:00 GMT</pubDate>
         <description>Toni Kroos udzielił kolejnego wywiadu, tym razem dla The Athletic z okazji kampanii dla marki Marc O'Polo.</description>
-    </item>
-    
-    <item>
-        <title>Nowy format Ligi Mistrzów – jak zmiany wpłyną na rywalizację klubów i kibiców?</title>
-        <link>https://www.realmadryt.pl/news/133514-nowy-format-ligi-mistrzow-jak-zmiany-wplyna-na-rywalizacje-klubow-i-kibicow</link>
-        <pubDate>Tue, 22 Oct 2024 11:35:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
