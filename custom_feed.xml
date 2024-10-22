@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Oct 2024 15:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 16:28:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Porażka w ostatnich sekundach</title>
+        <link>https://www.realmadryt.pl/news/133519-porazka-w-ostatnich-sekundach</link>
+        <pubDate>Tue, 22 Oct 2024 18:19:00 GMT</pubDate>
+        <description>Drużyna Álvaro Arbeloi zaliczyła drugą porażkę z rzędu w Lidze Młodzieżowej i jej sytuacja się skomplikowała, a to już półmetek rywalizacji w fazie grupowej.</description>
+    </item>
+    
+    <item>
+        <title>Jeden gracz zagrożony zawieszeniem w Lidze Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/133518-jeden-gracz-zagrozony-zawieszeniem-w-lidze-mistrzow</link>
+        <pubDate>Tue, 22 Oct 2024 17:56:00 GMT</pubDate>
+        <description>Liga Mistrzów nie zdążył wystartować, a Królewscy już muszą patrzeć na sytuację kartkową. Co ważne, kartoniki wyzerowane będą dopiero po zakończeniu ćwierćfinałów.</description>
+    </item>
     
     <item>
         <title>Długo dojrzewająca kariera Antona</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133428-umeblowac-pieklo</link>
         <pubDate>Tue, 22 Oct 2024 10:30:00 GMT</pubDate>
         <description>lasciate ogni logica, voi che sostenete il Real Madrid.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Rüdiger po zakończeniu kontraktu może odejść do Arabii</title>
-        <link>https://www.realmadryt.pl/news/133512-relevo-ruediger-po-zakonczeniu-kontraktu-moze-odejsc-do-arabii</link>
-        <pubDate>Tue, 22 Oct 2024 10:18:00 GMT</pubDate>
-        <description>Niemiec rozważa zakończenie kariery w tym kraju, do którego mógłby trafić, gdy jego umowa z Realem Madryt dobiegnie końca.</description>
-    </item>
-    
-    <item>
-        <title>Zemsta Şahina: uczeń Kloppa, absolwent Harvardu i marzenie o „5” w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/133511-zemsta-sahina-uczen-kloppa-absolwent-harvardu-i-marzenie-o-5-w-realu-madryt</link>
-        <pubDate>Tue, 22 Oct 2024 09:51:00 GMT</pubDate>
-        <description>W wieku 36 lat wraca na Bernabéu, gdzie nie miał szczęścia. W 2011 roku podpisał kontrakt z Realem Madryt prowadzonym przez Mourinho, ale kontuzje pokrzyżowały jego karierę. W finale na Wembley pełnił rolę asystenta, a teraz odziedziczył stanowisko trenera.</description>
     </item>
     
 </channel>
