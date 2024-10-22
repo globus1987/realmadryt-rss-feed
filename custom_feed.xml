@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Oct 2024 22:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 22:42:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133530-dzisiejsze-okladki</link>
+        <pubDate>Wed, 23 Oct 2024 00:28:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony z Bayernem to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: W Klasyku zobaczymy Real z drugiej połowy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133519-porazka-w-ostatnich-sekundach</link>
         <pubDate>Tue, 22 Oct 2024 18:19:00 GMT</pubDate>
         <description>Drużyna Álvaro Arbeloi zaliczyła drugą porażkę z rzędu w Lidze Młodzieżowej i jej sytuacja się skomplikowała, a to już półmetek rywalizacji w fazie grupowej.</description>
-    </item>
-    
-    <item>
-        <title>Jeden gracz zagrożony zawieszeniem w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/133518-jeden-gracz-zagrozony-zawieszeniem-w-lidze-mistrzow</link>
-        <pubDate>Tue, 22 Oct 2024 17:56:00 GMT</pubDate>
-        <description>Liga Mistrzów nie zdążył wystartować, a Królewscy już muszą patrzeć na sytuację kartkową. Co ważne, kartoniki wyzerowane będą dopiero po zakończeniu ćwierćfinałów.</description>
     </item>
     
 </channel>
