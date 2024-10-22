@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Oct 2024 08:29:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 08:47:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Umeblować piekło</title>
+        <link>https://www.realmadryt.pl/news/133428-umeblowac-pieklo</link>
+        <pubDate>Tue, 22 Oct 2024 10:30:00 GMT</pubDate>
+        <description>lasciate ogni logica, voi che sostenete il Real Madrid.</description>
+    </item>
     
     <item>
         <title>Relevo: Rüdiger po zakończeniu kontraktu może odejść do Arabii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133504-dzisiejsze-okladki</link>
         <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
         <description>Wywiad z Tonim Kroosem, mecz Realu Madryt z Borussią Dortmund i cierpienie Gaviego to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo pod lupą</title>
-        <link>https://www.realmadryt.pl/news/133498-rodrygo-pod-lupa</link>
-        <pubDate>Mon, 21 Oct 2024 21:30:00 GMT</pubDate>
-        <description>Real Madryt wrócił po przerwie na reprezentacje i już wręcz tradycyjnie wymęczył wygraną. O triumfie przesądziły trafienia Viniciusa i Mbappé. Ancelotti po raz kolejny też postanowił zostawić na ławce Rodrygo.</description>
     </item>
     
 </channel>
