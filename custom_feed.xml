@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Oct 2024 07:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 08:29:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Druga połowa pokazuje, jak możemy i powinniśmy grać</title>
+        <link>https://www.realmadryt.pl/news/133536-modric-druga-polowa-pokazuje-jak-mozemy-i-powinnismy-grac</link>
+        <pubDate>Wed, 23 Oct 2024 09:59:00 GMT</pubDate>
+        <description>Luka Modrić udzielił wywiadu dla platformy Amazon Prime po wygranym 5:2 meczu Ligi Mistrzów z Borussią Dortmund. Przedstawiamy wypowiedzi kapitana Królewskich.</description>
+    </item>
     
     <item>
         <title>Butragueño: Vini przypominał mi Pelé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133525-vinicius-musimy-tak-grac-od-poczatku</link>
         <pubDate>Tue, 22 Oct 2024 23:16:00 GMT</pubDate>
         <description>Vinícius Júnior udzielił wywiadu dla telewizji Movistar+ po wygranym 5:2 meczu z Borussią Dortmund. Przedstawiamy wypowiedzi Brazylijczyka, autora hat-tricka i zdobywcy nagrody MVP w tym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z BVB</title>
-        <link>https://www.realmadryt.pl/news/133524-vinicius-mvp-meczu-z-bvb</link>
-        <pubDate>Tue, 22 Oct 2024 23:08:00 GMT</pubDate>
-        <description>Brazylijczyk otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Borussią Dortmund.</description>
     </item>
     
 </channel>
