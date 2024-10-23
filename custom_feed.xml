@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Oct 2024 10:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 10:42:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Warszawa ubiega się o organizację finału Ligi Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/133543-oficjalnie-warszawa-ubiega-sie-o-organizacje-finalu-ligi-mistrzyn</link>
+        <pubDate>Wed, 23 Oct 2024 12:38:00 GMT</pubDate>
+        <description>W Madrycie może zaś odbyć się finał Ligi Mistrzów, ale nie na Santiago Bernabéu.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Lukeba przedłużył kontrakt z Lipskiem</title>
+        <link>https://www.realmadryt.pl/news/133542-oficjalnie-lukeba-przedluzyl-kontrakt-z-lipskiem</link>
+        <pubDate>Wed, 23 Oct 2024 12:36:00 GMT</pubDate>
+        <description>O zainteresowaniu tym piłkarzem informowano już przed kontuzją Daniego Carvajala. Teraz jego sytuacja kontraktowa znacząco się zmieniła.</description>
+    </item>
     
     <item>
         <title>Media: Rodrygo wypada z Klasyku</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133532-lucas-niektorzy-czekali-na-to-bysmy-nie-grali-tak-dobrze</link>
         <pubDate>Wed, 23 Oct 2024 09:02:00 GMT</pubDate>
         <description>Lucas Vázquez po meczu Ligi Mistrzów z Borussią Dortmund pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi piłkarza Realu Madryt z Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo przejdzie dzisiaj badania</title>
-        <link>https://www.realmadryt.pl/news/133531-rodrygo-przejdzie-dzisiaj-badania</link>
-        <pubDate>Wed, 23 Oct 2024 06:00:00 GMT</pubDate>
-        <description>Brazylijczyk doznał kontuzji w akcji dającej prowadzenie Królewskim. Dzisiaj ma przejść badania i wszystko wskazuje na kontuzję mięśniową.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133530-dzisiejsze-okladki</link>
-        <pubDate>Wed, 23 Oct 2024 00:28:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony z Bayernem to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
