@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Oct 2024 09:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 10:24:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Rodrygo wypada z Klasyku</title>
+        <link>https://www.realmadryt.pl/news/133541-media-rodrygo-wypada-z-klasyku</link>
+        <pubDate>Wed, 23 Oct 2024 12:21:00 GMT</pubDate>
+        <description>Wstępne badania przeprowadzone dziś rano w Valdebebas, potwierdziły, że Brazylijczyk doznał kontuzji mięśniowej w tylnej części prawego uda i z pewnością nie wystąpi w sobotnim meczu z Barceloną.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Thibaut Courtois kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/133540-oficjalnie-thibaut-courtois-kontuzjowany</link>
+        <pubDate>Wed, 23 Oct 2024 12:19:00 GMT</pubDate>
+        <description>Belg doznał urazu we wczorajszym meczu.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Borussią Dortmund</title>
+        <link>https://www.realmadryt.pl/news/133537-oceny-zawodnikow-po-meczu-z-borussia-dortmund</link>
+        <pubDate>Wed, 23 Oct 2024 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Borussią Dortmund 5:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Mbappé poczuł już, czym jest Bernabéu</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/133530-dzisiejsze-okladki</link>
         <pubDate>Wed, 23 Oct 2024 00:28:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i mecz Barcelony z Bayernem to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: W Klasyku zobaczymy Real z drugiej połowy</title>
-        <link>https://www.realmadryt.pl/news/133529-ancelotti-w-klasyku-zobaczymy-real-z-drugiej-polowy</link>
-        <pubDate>Tue, 22 Oct 2024 23:53:00 GMT</pubDate>
-        <description>Carlo Ancelotti po meczuLigi Mistrzów ze Borussią Dortmund udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Wiedzieliśmy, że jeśli zdobędziemy pierwszą bramkę, możemy wygrać</title>
-        <link>https://www.realmadryt.pl/news/133528-courtois-wiedzielismy-ze-jesli-zdobedziemy-pierwsza-bramke-mozemy-wygrac</link>
-        <pubDate>Tue, 22 Oct 2024 23:38:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po wygranym 5:2 meczu z Borussią Dortmund. Przedstawiamy wypowiedzi bramkarza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 5:2 Borussia Dortmund [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/133527-real-madryt-5-2-borussia-dortmund-video</link>
-        <pubDate>Tue, 22 Oct 2024 23:18:00 GMT</pubDate>
-        <description>W 3. kolejce fazy ligowej Ligi Mistrzów Królewscy wygrali po hattricku Viníciusa oraz golach Rüdigera i Lucasa.</description>
     </item>
     
 </channel>
