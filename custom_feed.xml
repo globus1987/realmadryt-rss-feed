@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Oct 2024 22:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 22:42:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133556-dzisiejsze-okladki</link>
+        <pubDate>Thu, 24 Oct 2024 00:41:00 GMT</pubDate>
+        <description>Wygrana Barcelony nad Bayernem to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>3. kolejka Ligi Mistrzów: Barcelona demoluje Bayern</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133540-oficjalnie-thibaut-courtois-kontuzjowany</link>
         <pubDate>Wed, 23 Oct 2024 12:19:00 GMT</pubDate>
         <description>Belg doznał urazu we wczorajszym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Borussią Dortmund</title>
-        <link>https://www.realmadryt.pl/news/133537-oceny-zawodnikow-po-meczu-z-borussia-dortmund</link>
-        <pubDate>Wed, 23 Oct 2024 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Borussią Dortmund 5:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
