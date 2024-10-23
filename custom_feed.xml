@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Oct 2024 03:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 04:26:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo przejdzie dzisiaj badania</title>
+        <link>https://www.realmadryt.pl/news/133531-rodrygo-przejdzie-dzisiaj-badania</link>
+        <pubDate>Wed, 23 Oct 2024 06:00:00 GMT</pubDate>
+        <description>Brazylijczyk doznał kontuzji w akcji dającej prowadzenie Królewskim. Dzisiaj ma przejść badania i wszystko wskazuje na kontuzję mięśniową.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133517-real-madryt-borussia-dortmund-znamy-sklady</link>
         <pubDate>Tue, 22 Oct 2024 19:06:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Spotkanie rozpocznie się o godzinie 21:00 na Estadio Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Porażka w ostatnich sekundach</title>
-        <link>https://www.realmadryt.pl/news/133519-porazka-w-ostatnich-sekundach</link>
-        <pubDate>Tue, 22 Oct 2024 18:19:00 GMT</pubDate>
-        <description>Drużyna Álvaro Arbeloi zaliczyła drugą porażkę z rzędu w Lidze Młodzieżowej i jej sytuacja się skomplikowała, a to już półmetek rywalizacji w fazie grupowej.</description>
     </item>
     
 </channel>
