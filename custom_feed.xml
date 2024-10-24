@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Oct 2024 10:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 10:55:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sánchez Martínez na Klasyk</title>
+        <link>https://www.realmadryt.pl/news/133563-sanchez-martinez-na-klasyk</link>
+        <pubDate>Thu, 24 Oct 2024 12:47:00 GMT</pubDate>
+        <description>Klasyk poprowadzi arbiter pochodzący z Lorki. Dotychczas sędziował aż 35 spotkań z udziałem Królewskich i 34 z udziałem Barcelony.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Rodrygo kontuzjowany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133556-dzisiejsze-okladki</link>
         <pubDate>Thu, 24 Oct 2024 00:41:00 GMT</pubDate>
         <description>Wygrana Barcelony nad Bayernem to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>3. kolejka Ligi Mistrzów: Barcelona demoluje Bayern</title>
-        <link>https://www.realmadryt.pl/news/133550-3-kolejka-ligi-mistrzow-barcelona-demoluje-bayern</link>
-        <pubDate>Wed, 23 Oct 2024 18:54:00 GMT</pubDate>
-        <description>Za nami środowe zmagania w 3. kolejce fazy ligowej Ligi Mistrzów, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
