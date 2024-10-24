@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Oct 2024 06:32:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 06:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pojedynek z liderem</title>
+        <link>https://www.realmadryt.pl/news/133553-pojedynek-z-liderem</link>
+        <pubDate>Thu, 24 Oct 2024 08:40:00 GMT</pubDate>
+        <description>W 5. kolejce Euroligi do Madrytu przyjedzie Crvena zvezda. Serbowie przylatują do stolicy Hiszpanii jako lider, a Królewscy będą ich próbowali zrzucić z tej pozycji.</description>
+    </item>
     
     <item>
         <title>Syn Reyesa przedłużył kontrakt z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133545-klasyczny-cud-na-cztery-dni-przed-klasykiem</link>
         <pubDate>Wed, 23 Oct 2024 13:04:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu Madryt z Borussią Dortmund. Przedstawiamy spostrzeżenia dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Şahin: To bardzo boli, ponieważ mogliśmy coś osiągnąć</title>
-        <link>https://www.realmadryt.pl/news/133534-sahin-to-bardzo-boli-poniewaz-moglismy-cos-osiagnac</link>
-        <pubDate>Wed, 23 Oct 2024 12:55:00 GMT</pubDate>
-        <description>Nuri Şahin spotkał się z dziennikarzami na konferencji prasowej oraz udzielał wypowiedzi dla niemieckich mediów po przegranym 2:5 meczu z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi szkoleniowca Borussii Dortmund.</description>
     </item>
     
 </channel>
