@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:54:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Rodrygo kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/133561-oficjalnie-rodrygo-kontuzjowany</link>
+        <pubDate>Thu, 24 Oct 2024 11:53:00 GMT</pubDate>
+        <description>Brazylijski atakujący wypada z gry i nie zagra w kilku najbliższych spotkaniach.</description>
+    </item>
     
     <item>
         <title>Policja zatrzymała cztery osoby odpowiedzialne za internetową kampanię nienawiści wobec Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133550-3-kolejka-ligi-mistrzow-barcelona-demoluje-bayern</link>
         <pubDate>Wed, 23 Oct 2024 18:54:00 GMT</pubDate>
         <description>Za nami środowe zmagania w 3. kolejce fazy ligowej Ligi Mistrzów, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Ancelottina się sprawdza</title>
-        <link>https://www.realmadryt.pl/news/133549-ancelottina-sie-sprawdza</link>
-        <pubDate>Wed, 23 Oct 2024 17:45:00 GMT</pubDate>
-        <description>Real Madryt zdecydowaną większość bramek zdobywa po przerwie. Królewscy mają obecnie na koncie aż 26 goli w drugich połowach i zaledwie 5 w pierwszych.</description>
     </item>
     
 </channel>
