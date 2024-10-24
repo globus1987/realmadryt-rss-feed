@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Oct 2024 22:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 22:41:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133578-dzisiejsze-okladki</link>
+        <pubDate>Fri, 25 Oct 2024 00:31:00 GMT</pubDate>
+        <description>Przygotowania do sobotniego Klasyku to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Crvena zvezda bezradna w Madrycie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133564-dzisiejszy-trening</link>
         <pubDate>Thu, 24 Oct 2024 13:16:00 GMT</pubDate>
         <description>Królewscy ponownie pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Sánchez Martínez na Klasyk</title>
-        <link>https://www.realmadryt.pl/news/133563-sanchez-martinez-na-klasyk</link>
-        <pubDate>Thu, 24 Oct 2024 12:47:00 GMT</pubDate>
-        <description>Klasyk poprowadzi arbiter pochodzący z Lorki. Dotychczas sędziował aż 35 spotkań z udziałem Królewskich i 34 z udziałem Barcelony.</description>
     </item>
     
 </channel>
