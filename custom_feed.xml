@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Oct 2024 10:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 11:19:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/133564-dzisiejszy-trening</link>
+        <pubDate>Thu, 24 Oct 2024 13:16:00 GMT</pubDate>
+        <description>Królewscy ponownie pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
+    </item>
     
     <item>
         <title>Sánchez Martínez na Klasyk</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133551-relevo-klauzula-odejscia-lukeby-to-90-milionow-euro</link>
         <pubDate>Thu, 24 Oct 2024 06:00:00 GMT</pubDate>
         <description>Hiszpanie potwierdzają, że nowa umowa Francuza nie zamyka drzwi do jego pozyskania przez Real Madryt. Pada też potwierdzenie kwoty klauzuli odejścia.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133556-dzisiejsze-okladki</link>
-        <pubDate>Thu, 24 Oct 2024 00:41:00 GMT</pubDate>
-        <description>Wygrana Barcelony nad Bayernem to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
