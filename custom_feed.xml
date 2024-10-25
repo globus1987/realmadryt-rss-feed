@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Oct 2024 22:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 22:41:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133603-dzisiejsze-okladki</link>
+        <pubDate>Sat, 26 Oct 2024 00:27:00 GMT</pubDate>
+        <description>Klasyk to główny temat sobotnich okładek najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Tercet z koszmaru</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133587-czterech-pilkarzy-nie-trenowalo-z-druzyna</link>
         <pubDate>Fri, 25 Oct 2024 12:58:00 GMT</pubDate>
         <description>Królewscy ponownie pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Wymyśliłem coś na pressing Barcelony, ale zobaczysz to jutro</title>
-        <link>https://www.realmadryt.pl/news/133586-ancelotti-wymyslilem-cos-na-pressing-barcelony-ale-zobaczysz-to-jutro</link>
-        <pubDate>Fri, 25 Oct 2024 12:55:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Barceloną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
