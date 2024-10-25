@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Oct 2024 07:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 07:39:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 października</title>
+        <link>https://www.realmadryt.pl/news/133502-kartka-z-kalendarza-25-pazdziernika</link>
+        <pubDate>Fri, 25 Oct 2024 09:30:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, domowe zwycięstwa z Barceloną i porażka w Lipsku. Co działo się 25 października?</description>
+    </item>
     
     <item>
         <title>MARCA: Szeroka delegacja Królewskich na galę Złotej Piłki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133570-vinicius-zawodnikiem-tygodnia-ligi-mistrzow</link>
         <pubDate>Thu, 24 Oct 2024 19:08:00 GMT</pubDate>
         <description>Vinícius został wybrany najlepszym zawodnikiem trzeciego tygodnia Ligi Mistrzów i znalazł się oczywiście w najlepszej jedenastce kolejki.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x11: Czy wziąłbyś w ciemno remis w Klasyku?</title>
-        <link>https://www.realmadryt.pl/news/133569-podcast-6x11-czy-wzialbys-w-ciemno-remis-w-klasyku</link>
-        <pubDate>Thu, 24 Oct 2024 18:55:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym przygotowujemy się do Klasyku z Barceloną. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
