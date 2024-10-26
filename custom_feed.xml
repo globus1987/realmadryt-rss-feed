@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Oct 2024 18:44:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 18:57:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – FC Barcelona [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/133618-real-madryt-fc-barcelona-live</link>
+        <pubDate>Sat, 26 Oct 2024 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 11. kolejki La Ligi, w której Real Madryt mierzy się z Barceloną.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Barceloną [VIDEO]</title>
@@ -83,13 +90,6 @@ Pozdrawiamy.</description>
         <link>https://www.realmadryt.pl/news/133592-kadra-barcelony-na-real-madryt</link>
         <pubDate>Sat, 26 Oct 2024 10:51:00 GMT</pubDate>
         <description>Poza listą rywali na Klasyk pozostało sześciu piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga oznacza remontadę</title>
-        <link>https://www.realmadryt.pl/news/133609-camavinga-oznacza-remontade</link>
-        <pubDate>Sat, 26 Oct 2024 10:36:00 GMT</pubDate>
-        <description>Jeśli potrzebna jest remontada, pojawia się Eduardo Camavinga. Francuz wchodził na boisko w 16 meczach przy niekorzystnym wyniku, które ostatecznie kończyły się zwycięstwem Królewskich. Pomocnik sprawdza się również w momentach, gdy trzeba dowieźć prowadzenie do końca.</description>
     </item>
     
 </channel>
