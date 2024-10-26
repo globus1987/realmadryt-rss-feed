@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Oct 2024 05:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 05:53:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Który prezes wygrał więcej Klasyków?</title>
+        <link>https://www.realmadryt.pl/news/133601-ktory-prezes-wygral-wiecej-klasykow</link>
+        <pubDate>Sat, 26 Oct 2024 07:50:00 GMT</pubDate>
+        <description>Real Madryt Florentino Péreza i Barcelona Joana Laporty zmierzą się w sobotę w kolejnym bezpośrednim pojedynku.</description>
+    </item>
     
     <item>
         <title>Real Madryt – FC Barcelona: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133591-flick-nagrania-rmtv-o-arbitrach-nie-wiedzialem-o-tym-my-tego-nie-zrobimy</link>
         <pubDate>Fri, 25 Oct 2024 14:00:00 GMT</pubDate>
         <description>Trener Barcelony, Hansi Flick, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 11. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi niemieckiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé wygrywa po raz drugi z PSG ws. zaległych pensji</title>
-        <link>https://www.realmadryt.pl/news/133590-mbappe-wygrywa-po-raz-drugi-z-psg-ws-zaleglych-pensji</link>
-        <pubDate>Fri, 25 Oct 2024 13:45:00 GMT</pubDate>
-        <description>Druga instancja wymiaru sprawiedliwości ligi francuskiej ponownie nakazała klubowi wypłacenie piłkarzowi zaległych pensji i premii. Oczywiście Les Parisiens odrzucają to orzeczenie i teraz wchodzą na drogę sądową.</description>
     </item>
     
 </channel>
