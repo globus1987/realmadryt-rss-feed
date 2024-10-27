@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Oct 2024 07:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 08:28:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tradycyjna kompromitacja z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/133637-tradycyjna-kompromitacja-z-barcelona</link>
+        <pubDate>Sun, 27 Oct 2024 09:12:00 GMT</pubDate>
+        <description>W sobotni wieczór Real znów wysoko uległ Barcelonie, co w XXI wieku stało się jego tradycją, kultywowaną co kilka sezonów. Niestety, Los Blancos nie potrafią się zrewanżować Blaugranie tym samym.</description>
+    </item>
+    
+    <item>
+        <title>Zażegnać kryzys</title>
+        <link>https://www.realmadryt.pl/news/133625-zazegnac-kryzys</link>
+        <pubDate>Sun, 27 Oct 2024 09:00:00 GMT</pubDate>
+        <description>W 10. kolejce Primera Federación Castilla podejmie Algeciras. Królewscy potrzebują w końcu zwycięstwa, żeby odbić się od dna ligowej tabeli, do którego brakuje niewiele.</description>
+    </item>
     
     <item>
         <title>Przedłużyć dobrą passę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133622-11-kolejka-barca-wygrywa-klasyk-i-powieksza-przewage-do-szesciu-punktow</link>
         <pubDate>Sat, 26 Oct 2024 23:28:00 GMT</pubDate>
         <description>Jesteśmy na półmetku 11. kolejki La Ligi. Najważniejsze spotkanie tej serii gier już jest za nami. Jak wygląda obecna sytuacja w tabeli?</description>
-    </item>
-    
-    <item>
-        <title>Lewandowski MVP meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/133619-lewandowski-mvp-meczu-z-barcelona</link>
-        <pubDate>Sat, 26 Oct 2024 23:26:00 GMT</pubDate>
-        <description>Robert Lewandowski został wyróżniony po spotkaniu Realu Madryt z Barceloną. Królewscy przegrali u siebie 0:4.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/133620-ocen-pilkarzy-po-meczu-z-barcelona</link>
-        <pubDate>Sat, 26 Oct 2024 23:21:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
