@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Oct 2024 13:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 13:53:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejne wysokie zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/133649-kolejne-wysokie-zwyciestwo</link>
+        <pubDate>Sun, 27 Oct 2024 14:46:00 GMT</pubDate>
+        <description>W 5. kolejce Ligi Endesa Real Madryt rozbił Manresę i wykonał kolejny krok w kierunku ligowej czołówki. Mecz był już praktycznie rozstrzygnięty w połowie, więc znów wiele minut gry otrzymali wychowankowie.</description>
+    </item>
     
     <item>
         <title>Castilla znów nieskuteczna</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133639-oficjalny-komunikat-realu-madryt-ws-rasizmu-na-bernabeu</link>
         <pubDate>Sun, 27 Oct 2024 11:12:00 GMT</pubDate>
         <description>Klub wydał oświadczenie w sprawie rasistowskich sytuacji z wczorajszego Klasyku z filmików publikowanych na portalach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Chcemy dalej wykonywać dobrą robotę w naszej hali</title>
-        <link>https://www.realmadryt.pl/news/133626-mateo-chcemy-dalej-wykonywac-dobra-robote-w-naszej-hali</link>
-        <pubDate>Sun, 27 Oct 2024 11:03:00 GMT</pubDate>
-        <description>Chus Mateo udzielił wywiadu klubowym mediom przed spotkaniem z Manresą w Lidze Endesa. W pozytywnych słowach wyraził się o rywali i dodał, że kolejny tydzień będzie bardzo trudny z powodu podwójnej kolejki w Eurolidze.</description>
     </item>
     
 </channel>
