@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Oct 2024 08:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 08:46:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają wolne do wtorku</title>
+        <link>https://www.realmadryt.pl/news/133631-krolewscy-maja-wolne-do-wtorku</link>
+        <pubDate>Sun, 27 Oct 2024 09:45:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy we wtorek i wtedy rozpoczną przygotowania do kolejnego meczu ligowego.</description>
+    </item>
     
     <item>
         <title>Tradycyjna kompromitacja z Barceloną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133621-real-madryt-0-4-barcelona-video</link>
         <pubDate>Sat, 26 Oct 2024 23:34:00 GMT</pubDate>
         <description>W meczu 11. kolejki La Ligi Real Madryt przegrał z Barceloną 0:4. Bramki dla gości strzelili Robert Lewandowski (dwie), Lamine Yamal i Raphinha.</description>
-    </item>
-    
-    <item>
-        <title>11. kolejka: Barça wygrywa Klasyk i powiększa przewagę do sześciu punktów</title>
-        <link>https://www.realmadryt.pl/news/133622-11-kolejka-barca-wygrywa-klasyk-i-powieksza-przewage-do-szesciu-punktow</link>
-        <pubDate>Sat, 26 Oct 2024 23:28:00 GMT</pubDate>
-        <description>Jesteśmy na półmetku 11. kolejki La Ligi. Najważniejsze spotkanie tej serii gier już jest za nami. Jak wygląda obecna sytuacja w tabeli?</description>
     </item>
     
 </channel>
