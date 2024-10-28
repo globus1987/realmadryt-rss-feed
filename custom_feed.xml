@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Oct 2024 19:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 19:39:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gala Złotej Piłki [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/133672-gala-zlotej-pilki-na-zywo</link>
+        <pubDate>Mon, 28 Oct 2024 20:30:00 GMT</pubDate>
+        <description>Zapraszamy na drugą relację z gali Złotej Piłki, w tym przypadku z samej ceremonii wręczania nagród.</description>
+    </item>
     
     <item>
         <title>Chiringuito: Vinícius nie wygra Złotej Piłki i nie leci na galę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133657-kartka-z-kalendarza-28-pazdziernika</link>
         <pubDate>Mon, 28 Oct 2024 09:30:00 GMT</pubDate>
         <description>Manita na Majorce, manita na Camp Nou, śmierć byłego piłkarza Królewskich i pierwszy Klasyk Bellinghama,. Co działo się 28 października?</description>
-    </item>
-    
-    <item>
-        <title>Florentino Pérez nie zapomina takich bolesnych nocy</title>
-        <link>https://www.realmadryt.pl/news/133656-florentino-perez-nie-zapomina-takich-bolesnych-nocy</link>
-        <pubDate>Mon, 28 Oct 2024 08:40:00 GMT</pubDate>
-        <description>Ci, którzy blisko znają prezesa Realu Madryt, zapewniają, że nie zapomni on klęski 0:4 w sobotnim Klasyku. Co więcej, pewne kwestie dotyczące pierwszej drużyny zaczynają go niecierpliwić, a postać Carlo Ancelottiego znajduje się w centrum uwagi.</description>
     </item>
     
 </channel>
