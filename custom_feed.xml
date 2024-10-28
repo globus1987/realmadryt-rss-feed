@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Oct 2024 23:21:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 23:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133681-dzisiejsze-okladki</link>
+        <pubDate>Tue, 29 Oct 2024 00:38:00 GMT</pubDate>
+        <description>Świętowanie Złotej Piłki to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Zrobię 10x więcej, jeśli będzie trzeba</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133667-as-ruediger-bez-powaznej-kontuzji</link>
         <pubDate>Mon, 28 Oct 2024 12:44:00 GMT</pubDate>
         <description>Jak informuje dziennik AS, Antonio Rüdiger przeszedł już badania, które wykluczyły poważniejszy uraz, jednak występ Niemca w meczu z Valencią stoi pod znakiem zapytania.</description>
-    </item>
-    
-    <item>
-        <title>Alexander-Arnold: Chcę zdobyć Złotą Piłkę i wierzę, że mogę to zrobić</title>
-        <link>https://www.realmadryt.pl/news/133666-alexander-arnold-chce-zdobyc-zlota-pilke-i-wierze-ze-moge-to-zrobic</link>
-        <pubDate>Mon, 28 Oct 2024 12:40:00 GMT</pubDate>
-        <description>Trent Alexander-Arnold w rozmowie ze Sky Sports wystosował kolejne komentarze dotyczące swojej przyszłości. Zamieszczamy je tutaj, bo w Anglii interpretuje się je jako potencjalny argument przemawiający za przejściem 26-latka do Realu Madryt.</description>
     </item>
     
 </channel>
