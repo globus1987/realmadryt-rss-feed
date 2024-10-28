@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Oct 2024 04:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 05:23:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zdobywcę dzisiejszej Złotej Piłki zna tylko jedna osoba</title>
+        <link>https://www.realmadryt.pl/news/133661-zdobywce-dzisiejszej-zlotej-pilki-zna-tylko-jedna-osoba</link>
+        <pubDate>Mon, 28 Oct 2024 06:00:00 GMT</pubDate>
+        <description>Dzisiaj wieczorem odbędzie się gala Złotej Piłki. Piłkarze Realu Madryt mogą odebrać w Paryżu kilka trofeów indywidualnych. Francuzi zapewniają, że na ten moment wyniki zna dosłownie jedna osoba.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133647-oficjalnie-rzad-zajmie-sie-rasizmem-na-santiago-bernabeu</link>
         <pubDate>Sun, 27 Oct 2024 14:03:00 GMT</pubDate>
         <description>Rząd poprzez swój organ wypowiedział się na temat rasistowskich zdarzeń na Santiago Bernabéu. Przedstawiamy komunikat w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>„Liga Mbappé zmierza do tego, by stać się ligą Flicka”</title>
-        <link>https://www.realmadryt.pl/news/133646-liga-mbappe-zmierza-do-tego-by-stac-sie-liga-flicka</link>
-        <pubDate>Sun, 27 Oct 2024 13:48:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami po sobotnim Klasyku, w którym Real Madryt przegrał z Barceloną 0:4. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
