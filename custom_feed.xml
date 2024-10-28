@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Oct 2024 06:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 06:53:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zagubiony Bellingham</title>
+        <link>https://www.realmadryt.pl/news/133655-zagubiony-bellingham</link>
+        <pubDate>Mon, 28 Oct 2024 07:50:00 GMT</pubDate>
+        <description>Jude często biegał za Lucasem Vázquezem, przywiązany do prawego skrzydła i wobec tego znajdował się daleko od bramki rywali.</description>
+    </item>
     
     <item>
         <title>"Wrócimy jak zawsze"</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133649-kolejne-wysokie-zwyciestwo</link>
         <pubDate>Sun, 27 Oct 2024 14:46:00 GMT</pubDate>
         <description>W 5. kolejce Ligi Endesa Real Madryt rozbił Manresę i wykonał kolejny krok w kierunku ligowej czołówki. Mecz był już praktycznie rozstrzygnięty w połowie, więc znów wiele minut gry otrzymali wychowankowie.</description>
-    </item>
-    
-    <item>
-        <title>Castilla znów nieskuteczna</title>
-        <link>https://www.realmadryt.pl/news/133648-castilla-znow-nieskuteczna</link>
-        <pubDate>Sun, 27 Oct 2024 14:11:00 GMT</pubDate>
-        <description>W 10. kolejce Primera Federación Castilla podzieliła się punktami z Algeciras. Królewscy mieli mnóstwo okazji, by zdobyć więcej goli, ale ofensywa w tym sezonie spisuje się mocno poniżej oczekiwań.</description>
     </item>
     
 </channel>
