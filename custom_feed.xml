@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Oct 2024 23:21:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 23:39:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133704-dzisiejsze-okladki</link>
+        <pubDate>Wed, 30 Oct 2024 00:26:00 GMT</pubDate>
+        <description>Echa Złotej Piłki to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodri „przypomniał sobie” o Viníciusie w trakcie świętowania Złotej Piłki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133690-iwanski-viniciusowi-zabraklo-triumfu-w-rozgrywkach-kontynentalnych</link>
         <pubDate>Tue, 29 Oct 2024 13:13:00 GMT</pubDate>
         <description>Maciej Iwański z redakcji TVP Sport jest jednym ze 100 dziennikarzy, którzy głosowali w plebiscycie France Football i UEFA na zwycięzcę Złotej Piłki. W rozmowie z Jakubem Kłyszejko z TVP Sport Iwański zdradził, na kogo oddał swoje głosy i jakimi powodami się kierował.</description>
-    </item>
-    
-    <item>
-        <title>„Prawo milczenia” w Madrycie</title>
-        <link>https://www.realmadryt.pl/news/133689-prawo-milczenia-w-madrycie</link>
-        <pubDate>Tue, 29 Oct 2024 12:59:00 GMT</pubDate>
-        <description>Klub postanowił pominąć jakąkolwiek wzmiankę o gali Złotej Piłki. Nawet najmniejszy ślad: tweet z dwiema otrzymanymi nagrodami. To, co wydarzyło się wczoraj, po prostu nie miało miejsca.</description>
     </item>
     
 </channel>
