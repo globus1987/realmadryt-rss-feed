@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Oct 2024 16:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 16:54:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé nie jest sobą</title>
+        <link>https://www.realmadryt.pl/news/133693-mbappe-nie-jest-soba</link>
+        <pubDate>Tue, 29 Oct 2024 17:48:00 GMT</pubDate>
+        <description>Coś nie działa. Być może chodzi o pozycję lub aspekt fizyczny. Albo też coś nie funkcjonuje należycie pod względem mentalnym. Tak czy inaczej, Mbappé zdecydowanie nie jest sobą.</description>
+    </item>
     
     <item>
         <title>Guardiola: Jeśli Real Madryt nie chce gratulować, to w porządku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133677-po-wyjazdowe-przelamanie</link>
         <pubDate>Tue, 29 Oct 2024 08:40:00 GMT</pubDate>
         <description>W 6. kolejce Euroligi Real Madryt zmierzy się z Olympiakosem. Królewscy ostatnio odzyskali dobrą formę, ale jeszcze w tym sezonie nie wygrali na wyjeździe.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/133680-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 29 Oct 2024 07:50:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 11. kolejce La Ligi.</description>
     </item>
     
 </channel>
