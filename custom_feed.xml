@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Oct 2024 07:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 07:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Seedorf: Coś jest na rzeczy pomiędzy Realem Madryt a UEFA</title>
+        <link>https://www.realmadryt.pl/news/133684-seedorf-cos-jest-na-rzeczy-pomiedzy-realem-madryt-a-uefa</link>
+        <pubDate>Tue, 29 Oct 2024 08:45:00 GMT</pubDate>
+        <description>Zawodnik Realu Madryt w latach 1996-2000, Clarence Seedorf, przed rozpoczęciem gali Złotej Piłki przedstawił swój punkt widzenia na temat całego zamieszania wokół Viníciusa.</description>
+    </item>
+    
+    <item>
+        <title>Po wyjazdowe przełamanie</title>
+        <link>https://www.realmadryt.pl/news/133677-po-wyjazdowe-przelamanie</link>
+        <pubDate>Tue, 29 Oct 2024 08:40:00 GMT</pubDate>
+        <description>W 6. kolejce Euroligi Real Madryt zmierzy się z Olympiakosem. Królewscy ostatnio odzyskali dobrą formę, ale jeszcze w tym sezonie nie wygrali na wyjeździe.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133672-gala-zlotej-pilki-na-zywo</link>
         <pubDate>Mon, 28 Oct 2024 20:30:00 GMT</pubDate>
         <description>Zapraszamy na drugą relację z gali Złotej Piłki, w tym przypadku z samej ceremonii wręczania nagród.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Vinícius nie wygra Złotej Piłki i nie leci na galę</title>
-        <link>https://www.realmadryt.pl/news/133671-chiringuito-vinicius-nie-wygra-zlotej-pilki-i-nie-leci-na-gale</link>
-        <pubDate>Mon, 28 Oct 2024 14:59:00 GMT</pubDate>
-        <description>W Madrycie pojawiły się ogromne spekulacje i informacje dotyczące wieczornej gali.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti błądzi we mgle wątpliwości</title>
-        <link>https://www.realmadryt.pl/news/133669-ancelotti-bladzi-we-mgle-watpliwosci</link>
-        <pubDate>Mon, 28 Oct 2024 13:30:00 GMT</pubDate>
-        <description>Dotkliwa porażka w Klasyku sprawiła, że na nowo rozgorzały dyskusje, które wydawały się przygasać po remontadzie i zwycięstwie z Borussią Dortmund.</description>
     </item>
     
 </channel>
