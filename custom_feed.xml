@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Oct 2024 21:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 21:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ciągle bez wyjazdowego zwycięstwa</title>
+        <link>https://www.realmadryt.pl/news/133699-ciagle-bez-wyjazdowego-zwyciestwa</link>
+        <pubDate>Tue, 29 Oct 2024 22:43:00 GMT</pubDate>
+        <description>W 6. kolejce Euroligi Real Madryt przegrał z Olympiakosem. Mecz był wyrównany przez 30 minut, ale w ostatniej kwarcie Królewscy wyraźnie obniżyli loty i mieli problem ze skutecznością. Ciągle nie udało się im wygrać meczu na wyjeździe.</description>
+    </item>
     
     <item>
         <title>Danilo Díaz: Nie głosowałem na Viníciusa, bo stracił 17 piłek z Kostaryką w Copa América</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133688-marca-stanowisko-realu-nie-jest-wymierzone-przeciwko-rodriemu-lecz-przeciwko-uefa-i-france-football</link>
         <pubDate>Tue, 29 Oct 2024 11:54:00 GMT</pubDate>
         <description>Dla władz klubu nagrody przyznawane przez France Football straciły jakąkolwiek wartość.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real uważa, że UEFA stała za nieprzyznaniem Złotej Piłki Viníciusowi</title>
-        <link>https://www.realmadryt.pl/news/133687-relevo-real-uwaza-ze-uefa-stala-za-nieprzyznaniem-zlotej-pilki-viniciusowi</link>
-        <pubDate>Tue, 29 Oct 2024 10:36:00 GMT</pubDate>
-        <description>L'Équipe i jego magazyn France Football, które od tego roku są związane z UEFA, w pełni wchodzą w konflikt z Realem Madryt.</description>
     </item>
     
 </channel>
