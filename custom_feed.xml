@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Oct 2024 11:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 11:39:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Myślę, że kluczowe były zbiórki, nic innego</title>
+        <link>https://www.realmadryt.pl/news/133707-mateo-mysle-ze-kluczowe-byly-zbiorki-nic-innego</link>
+        <pubDate>Wed, 30 Oct 2024 12:30:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko przegrany mecz z Olympiakosem. Jako główną przyczynę niekorzystnego wyniku wskazał zbiórki, bo pod tym względem Grecy mieli przewagę.</description>
+    </item>
     
     <item>
         <title>Relevo: Mecz Valencii z Realem prawdopodobnie zostanie przełożony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133703-rodri-przypomnial-sobie-o-viniciusie-w-trakcie-swietowania-zlotej-pilki</link>
         <pubDate>Wed, 30 Oct 2024 00:02:00 GMT</pubDate>
         <description>Media i kibice wyłapały, jak Hiszpan w trakcie świętowania Złotej Piłki wystosował zaczepkę w kierunku Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Ciągle bez wyjazdowego zwycięstwa</title>
-        <link>https://www.realmadryt.pl/news/133699-ciagle-bez-wyjazdowego-zwyciestwa</link>
-        <pubDate>Tue, 29 Oct 2024 22:43:00 GMT</pubDate>
-        <description>W 6. kolejce Euroligi Real Madryt przegrał z Olympiakosem. Mecz był wyrównany przez 30 minut, ale w ostatniej kwarcie Królewscy wyraźnie obniżyli loty i mieli problem ze skutecznością. Ciągle nie udało się im wygrać meczu na wyjeździe.</description>
     </item>
     
 </channel>
