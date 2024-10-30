@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Oct 2024 14:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 14:42:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niespodziewany kryzys</title>
+        <link>https://www.realmadryt.pl/news/133717-niespodziewany-kryzys</link>
+        <pubDate>Wed, 30 Oct 2024 15:30:00 GMT</pubDate>
+        <description>Potencjalny raj przerodził się w piekło, a to, co miało być białe, okazało się czarne. W ciągu zaledwie kilku dni Realem Madryt wstrząsnęły dwie sytuacje, które zakłóciły spokojną drogę w kierunku kolejnych triumfów.</description>
+    </item>
     
     <item>
         <title>Valencia złożyła wniosek do La Ligi o przełożenie meczu z Realem</title>
         <link>https://www.realmadryt.pl/news/133716-valencia-zlozyla-wniosek-do-la-ligi-o-przelozenie-meczu-z-realem</link>
         <pubDate>Wed, 30 Oct 2024 15:21:00 GMT</pubDate>
-        <description>W ten weekend najpewniej nie będzie spotkanie na Estadio Mestalla.</description>
+        <description>W ten weekend najpewniej nie będzie spotkania na Estadio Mestalla.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133701-tebas-real-jakis-czas-temu-stracil-dzentelmenstwo</link>
         <pubDate>Wed, 30 Oct 2024 09:30:00 GMT</pubDate>
         <description>Javier Tebas udzielił wywiadu dziennikowi L'Équipe. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt solidaryzuje się z ofiarami powodzi w Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/133708-real-madryt-solidaryzuje-sie-z-ofiarami-powodzi-w-hiszpanii</link>
-        <pubDate>Wed, 30 Oct 2024 09:28:00 GMT</pubDate>
-        <description>Burza Dana spowodowała powodzie w Hiszpanii.</description>
     </item>
     
 </channel>
