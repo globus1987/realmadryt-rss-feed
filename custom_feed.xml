@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Oct 2024 05:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 06:37:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kibice Valencii przygotowali przyśpiewkę na przyjazd Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/133702-kibice-valencii-przygotowali-przyspiewke-na-przyjazd-viniciusa</link>
+        <pubDate>Wed, 30 Oct 2024 07:00:00 GMT</pubDate>
+        <description>Fani Nietoperzy szykują się na sobotni mecz z Realem Madryt, któremu smaczku dodają wydarzenia z gali Złotej Piłki. Sympatycy rywali mają już przygotowaną przyśpiewkę dla Brazylijczyka.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133691-valencia-powaznie-oslabiona-przed-meczem-z-realem</link>
         <pubDate>Tue, 29 Oct 2024 14:43:00 GMT</pubDate>
         <description>Klub z Walencji potwierdził urazy kolejnych zawodników, którzy nie zagrają w sobotnim meczu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Iwański: Viníciusowi zabrakło triumfu w rozgrywkach kontynentalnych</title>
-        <link>https://www.realmadryt.pl/news/133690-iwanski-viniciusowi-zabraklo-triumfu-w-rozgrywkach-kontynentalnych</link>
-        <pubDate>Tue, 29 Oct 2024 13:13:00 GMT</pubDate>
-        <description>Maciej Iwański z redakcji TVP Sport jest jednym ze 100 dziennikarzy, którzy głosowali w plebiscycie France Football i UEFA na zwycięzcę Złotej Piłki. W rozmowie z Jakubem Kłyszejko z TVP Sport Iwański zdradził, na kogo oddał swoje głosy i jakimi powodami się kierował.</description>
     </item>
     
 </channel>
