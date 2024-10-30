@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Oct 2024 07:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 07:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Milan przegrał u siebie z Napoli</title>
+        <link>https://www.realmadryt.pl/news/133700-milan-przegral-u-siebie-z-napoli</link>
+        <pubDate>Wed, 30 Oct 2024 08:40:00 GMT</pubDate>
+        <description>We wtorkowy wieczór przetrzebieni kontuzjami i zawieszeniami Rossoneri ulegli 0:2 Napoli, które prowadzi w tabeli Serie A. W najbliższej przyszłości (05.11.) czeka ich starcie z Królewskimi w fazie ligowej Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Benzema: Rodri nie robi rzeczy, po których mówię „pfff”, Vini robił je wielokrotnie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133693-mbappe-nie-jest-soba</link>
         <pubDate>Tue, 29 Oct 2024 17:48:00 GMT</pubDate>
         <description>Coś nie działa. Być może chodzi o pozycję lub aspekt fizyczny. Albo też coś nie funkcjonuje należycie pod względem mentalnym. Tak czy inaczej, Mbappé zdecydowanie nie jest sobą.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Jeśli Real Madryt nie chce gratulować, to w porządku</title>
-        <link>https://www.realmadryt.pl/news/133692-guardiola-jesli-real-madryt-nie-chce-gratulowac-to-w-porzadku</link>
-        <pubDate>Tue, 29 Oct 2024 15:39:00 GMT</pubDate>
-        <description>Trener Manchesteru City, Pep Guardioli, stawił się na konferencji prasowej przed pucharowym meczem z Tottenhamem. W trakcie rozmowy z dziennikarzami nie zabrakło pytań o Złotą Piłkę i bojkot Realu Madryt.</description>
     </item>
     
 </channel>
