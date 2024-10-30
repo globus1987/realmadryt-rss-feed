@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Oct 2024 19:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 19:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Część pracowników Realu chciała udać się na galę Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/133723-relevo-czesc-pracownikow-realu-chciala-udac-sie-na-gale-zlotej-pilki</link>
+        <pubDate>Wed, 30 Oct 2024 20:47:00 GMT</pubDate>
+        <description>Choć zastosowano się do wytycznych prezesa, nie wszyscy je popierali. Mieli ku temu różne powody.</description>
+    </item>
     
     <item>
         <title>Klopp: Nigdy nie mogłem zrozumieć takiej mentalności, jak ta Ramosa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133707-mateo-mysle-ze-kluczowe-byly-zbiorki-nic-innego</link>
         <pubDate>Wed, 30 Oct 2024 12:30:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko przegrany mecz z Olympiakosem. Jako główną przyczynę niekorzystnego wyniku wskazał zbiórki, bo pod tym względem Grecy mieli przewagę.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Mecz Valencii z Realem prawdopodobnie zostanie przełożony</title>
-        <link>https://www.realmadryt.pl/news/133711-relevo-mecz-valencii-z-realem-prawdopodobnie-zostanie-przelozony</link>
-        <pubDate>Wed, 30 Oct 2024 11:43:00 GMT</pubDate>
-        <description>Powodem burza Dana, powódź i prawdopodobna żałoba w prowincji Walencja po śmierci wielu ludzi.</description>
     </item>
     
 </channel>
