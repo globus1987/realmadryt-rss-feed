@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 31 Oct 2024 16:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 17:21:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przyszłość Gülera w ciemnych barwach</title>
+        <link>https://www.realmadryt.pl/news/133744-przyszlosc-guelera-w-ciemnych-barwach</link>
+        <pubDate>Thu, 31 Oct 2024 18:18:00 GMT</pubDate>
+        <description>Arda Güler mimo budzącego pozytywne odczucia początku sezonu nagle zupełnie przestał grać. Rozegrał tylko 35 minut w sześciu ostatnich meczach Realu Madryt i jednocześnie zaledwie jedną minutę w trzech ostatnich meczach. Oddechem dla młodego Turka pozostają wyjazdy na zgrupowania reprezentacji.</description>
+    </item>
+    
+    <item>
+        <title>„Ciągle słyszę nazwisko Xabiego Alonso w kontekście Realu Madryt…”</title>
+        <link>https://www.realmadryt.pl/news/133743-ciagle-slysze-nazwisko-xabiego-alonso-w-kontekscie-realu-madryt</link>
+        <pubDate>Thu, 31 Oct 2024 17:57:00 GMT</pubDate>
+        <description>Javier Rodríguez Pascual, szerzej znany jako Rodra, z portalu Relevo napisał felieton, w którym podzielił się swoimi spostrzeżeniami dotyczącymi potencjalnego objęcia Realu Madryt przez Xabiego Alonso po zakończeniu trwającego sezonu. Przedstawiamy tłumaczenie tego tekstu.</description>
+    </item>
     
     <item>
         <title>Przełożony mecz z Valencią może odbyć się dopiero w maju</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133736-as-endrick-niewidzialny-dla-ancelottiego</link>
         <pubDate>Thu, 31 Oct 2024 11:03:00 GMT</pubDate>
         <description>Odkąd na początku października wyszedł z Lille od pierwszych minut, przestał liczyć się dla trenera. Teraz ma na koncie cztery mecze z rzędu, w których nie rozegrał ani minuty.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real chce zaoferować Viníciusowi nowy kontrakt</title>
-        <link>https://www.realmadryt.pl/news/133735-relevo-real-chce-zaoferowac-viniciusowi-nowy-kontrakt</link>
-        <pubDate>Thu, 31 Oct 2024 10:56:00 GMT</pubDate>
-        <description>Klub ma w ten sposób nagrodzić Brazylijczyka, który ostatni raz przedłużył umowę w październiku ubiegłego roku.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 31 października</title>
-        <link>https://www.realmadryt.pl/news/133733-kartka-z-kalendarza-31-pazdziernika</link>
-        <pubDate>Thu, 31 Oct 2024 10:30:00 GMT</pubDate>
-        <description>Urodziny legendarnego pomocnika, ostatnie spotkanie Piątki Sępa na boisku, świetny mecz na Estadio Mestalla i debiuty wychowanków. Co działo się 31 października?</description>
     </item>
     
 </channel>
