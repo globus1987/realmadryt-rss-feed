@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 31 Oct 2024 08:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 08:43:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>To może teraz?</title>
+        <link>https://www.realmadryt.pl/news/133729-to-moze-teraz</link>
+        <pubDate>Thu, 31 Oct 2024 09:40:00 GMT</pubDate>
+        <description>W 7. kolejce Euroligi Real Madryt zagra na wyjeździe z Maccabi Tel Awiw. Spotkanie z oczywistych powodów zostanie rozegrane w Belgradzie. Królewscy ciągle nie wygrali ani jednego spotkania na obcym terenie.</description>
+    </item>
     
     <item>
         <title>Relevo: Real jest otwarty na wysłuchanie ofert za Tchouaméniego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133720-porzio-vinicius-nie-ma-wplywu-na-gre-realu-madryt</link>
         <pubDate>Wed, 30 Oct 2024 16:10:00 GMT</pubDate>
         <description>Bruno Porzio to dziennikarz mający głos w Złotej Piłce jako przedstawiciel Salwadoru. Po gali ujawnił, że pozostawił Viníciusa poza najlepszą dziesiątką i przedstawił swoje argumenty. Do rozmowy zaprosiło go Chiringuito. Przedstawiamy jego najnowsze wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>AS: Pedro Porro na celowniku Realu</title>
-        <link>https://www.realmadryt.pl/news/133719-as-pedro-porro-na-celowniku-realu</link>
-        <pubDate>Wed, 30 Oct 2024 16:09:00 GMT</pubDate>
-        <description>Los Blancos celują w sprowadzenie Trenta Alexandra-Arnolda, ale defensor Tottenhamu jest poważną alternatywą.</description>
     </item>
     
 </channel>
