@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 31 Oct 2024 14:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 14:42:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Euroligowy sędzia zawieszony za kradzież</title>
+        <link>https://www.realmadryt.pl/news/133734-euroligowy-sedzia-zawieszony-za-kradziez</link>
+        <pubDate>Thu, 31 Oct 2024 15:42:00 GMT</pubDate>
+        <description>Matej Boltauzer został zawieszony do końca sezonu Euroligi. Arbiter nie poprowadzi żadnego meczu, co jest reakcją na kradzież butelki perfum, jakiej dopuścił się na lotnisku w Belgradzie.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Mecz Valencii z Realem Madryt odwołany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133729-to-moze-teraz</link>
         <pubDate>Thu, 31 Oct 2024 09:40:00 GMT</pubDate>
         <description>W 7. kolejce Euroligi Real Madryt zagra na wyjeździe z Maccabi Tel Awiw. Spotkanie z oczywistych powodów zostanie rozegrane w Belgradzie. Królewscy ciągle nie wygrali ani jednego spotkania na obcym terenie.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real jest otwarty na wysłuchanie ofert za Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/133732-relevo-real-jest-otwarty-na-wysluchanie-ofert-za-tchouameniego</link>
-        <pubDate>Thu, 31 Oct 2024 08:50:00 GMT</pubDate>
-        <description>Pomocnik zawodzi od początku sezonu i nie daje drużynie tego, czego oczekiwano.</description>
     </item>
     
 </channel>
