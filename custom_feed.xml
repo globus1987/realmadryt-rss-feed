@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 31 Oct 2024 23:24:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 23:40:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133750-dzisiejsze-okladki</link>
+        <pubDate>Fri, 01 Nov 2024 00:27:00 GMT</pubDate>
+        <description>Echa kataklizmu w Hiszpanii, problemy Jude'a Bellinghama i nowa umowa Fermína to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Mieliśmy szanse, żeby przypieczętować zwycięstwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133740-bellingham-i-mbappe-nie-trenowali-z-druzyna</link>
         <pubDate>Thu, 31 Oct 2024 13:32:00 GMT</pubDate>
         <description>Królewscy ponownie pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Real czeka już na galę The Best</title>
-        <link>https://www.realmadryt.pl/news/133739-real-czeka-juz-na-gale-the-best</link>
-        <pubDate>Thu, 31 Oct 2024 12:33:00 GMT</pubDate>
-        <description>I liczy na inne rozstrzygnięcia, które prawdopodobnie poznamy dopiero w styczniu.</description>
     </item>
     
 </channel>
