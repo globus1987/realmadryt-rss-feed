@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 01 Nov 2024 11:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 11:39:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wielkość w czynach, nie na galach</title>
+        <link>https://www.realmadryt.pl/news/133756-wielkosc-w-czynach-nie-na-galach</link>
+        <pubDate>Fri, 01 Nov 2024 12:36:00 GMT</pubDate>
+        <description>Rozważaniami o pomocy Realu Madryt potrzebującym w swoim tekście dzieli się nasz redaktor, Mateusz Wojtylak.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133745-tebas-nie-bylem-zaskoczony-zachowaniem-realu-madryt</link>
         <pubDate>Thu, 31 Oct 2024 18:43:00 GMT</pubDate>
         <description>Prezes La Ligi, Javier Tebas, spotkał się z dziennikarzami w związku z bardzo trudną sytuacją we Wspólnocie Autonomicznej Walencji i decyzją o przełożeniu zaplanowanych tam na ten weekend meczów. Przy okazji nie zabrakło ponownych pytań o zachowanie Realu Madryt podczas poniedziałkowej gali Złotej Piłki.</description>
-    </item>
-    
-    <item>
-        <title>Przyszłość Gülera w ciemnych barwach</title>
-        <link>https://www.realmadryt.pl/news/133744-przyszlosc-guelera-w-ciemnych-barwach</link>
-        <pubDate>Thu, 31 Oct 2024 18:18:00 GMT</pubDate>
-        <description>Arda Güler mimo budzącego pozytywne odczucia początku sezonu nagle zupełnie przestał grać. Rozegrał tylko 35 minut w sześciu ostatnich meczach Realu Madryt i jednocześnie zaledwie jedną minutę w trzech ostatnich meczach. Oddechem dla młodego Turka pozostają wyjazdy na zgrupowania reprezentacji.</description>
     </item>
     
 </channel>
