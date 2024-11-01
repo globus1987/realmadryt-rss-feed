@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 01 Nov 2024 05:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 06:33:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Riquelme i Gago kuszą Sergio Ramosa</title>
+        <link>https://www.realmadryt.pl/news/133753-relevo-riquelme-i-gago-kusza-sergio-ramosa</link>
+        <pubDate>Fri, 01 Nov 2024 07:00:00 GMT</pubDate>
+        <description>Dobrze znani Juan Román Riquelme i Fernando Gago kuszą Sergio Ramosa. Hiszpan na razie pozostaje w Madrycie i czeka na ofertę, która skłoni go powrotu do futbolu.</description>
+    </item>
     
     <item>
         <title>Szef sąsiadów Bernabéu: Zarząd Realu popełnił poważny błąd</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133718-oficjalnie-mecz-valencii-z-realem-madryt-odwolany</link>
         <pubDate>Thu, 31 Oct 2024 14:12:00 GMT</pubDate>
         <description>W sobotę nie będzie spotkania na Estadio Mestalla.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Real Madryt i Czerwony Krzyż zbierają pieniądze na wsparcie poszkodowanych powodzią</title>
-        <link>https://www.realmadryt.pl/news/133741-oficjalnie-real-madryt-i-czerwony-krzyz-zbieraja-pieniadze-na-wsparcie-poszkodowanych-powodzia</link>
-        <pubDate>Thu, 31 Oct 2024 13:36:00 GMT</pubDate>
-        <description>Kolejny piękny gest klubu.</description>
     </item>
     
 </channel>
