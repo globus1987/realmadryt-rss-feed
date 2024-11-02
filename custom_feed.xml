@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 02 Nov 2024 06:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 07:20:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Małe derby Madrytu</title>
+        <link>https://www.realmadryt.pl/news/133770-male-derby-madrytu</link>
+        <pubDate>Sat, 02 Nov 2024 08:18:00 GMT</pubDate>
+        <description>W 11. kolejce Primera Federación Castilla zagra z rezerwami Atlético Madryt. Królewscy potrzebują wygranej, żeby w końcu móc wyjść ze strefy spadkowej, w której tkwią od samego początku sezonu.</description>
+    </item>
     
     <item>
         <title>Z ojca na syna (córkę)</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133761-foot-mercato-saudyjczycy-oferuja-viniciusowi-wynagrodzenie-jakiego-jeszcze-nie-widziano-w-swiecie-futbolu</link>
         <pubDate>Fri, 01 Nov 2024 16:02:00 GMT</pubDate>
         <description>Arabia Saudyjska nie odpuszcza i wydaje się bardziej niż kiedykolwiek zdeterminowana, by dokonać spektakularnego transferu.</description>
-    </item>
-    
-    <item>
-        <title>Porzio: Nie widzę Viníciusa wśród najlepszych przy wytycznych France Football</title>
-        <link>https://www.realmadryt.pl/news/133760-porzio-nie-widze-viniciusa-wsrod-najlepszych-przy-wytycznych-france-football</link>
-        <pubDate>Fri, 01 Nov 2024 14:49:00 GMT</pubDate>
-        <description>Bruno Porzio to dziennikarz mający głos w Złotej Piłce jako przedstawiciel Salwadoru. Głośno o nim się stało, gdy po gali ujawnił, że pozostawił Viníciusa poza najlepszą dziesiątką. Teraz w rozmowie z radiem MARCA ponownie opowiedział o swoich powodach takiej, a nie innej decyzji.</description>
     </item>
     
 </channel>
