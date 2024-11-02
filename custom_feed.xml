@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 02 Nov 2024 17:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 17:38:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Marcelo odchodzi z Fluminense po sprzeczce z trenerem</title>
+        <link>https://www.realmadryt.pl/news/133784-oficjalnie-marcelo-odchodzi-z-fluminense-po-sprzeczce-z-trenerem</link>
+        <pubDate>Sat, 02 Nov 2024 18:24:00 GMT</pubDate>
+        <description>Legenda Realu Madryt bez klubu po nieporozumieniu z trenerem podczas ostatniego meczu. Dotychczasowa umowa piłkarza wygasała w grudniu tego roku.</description>
+    </item>
     
     <item>
         <title>Sami przeciw wszystkim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133771-ancelotti-korzysta-z-mody-na-arbeloe</link>
         <pubDate>Sat, 02 Nov 2024 09:09:00 GMT</pubDate>
         <description>Joan Martínez, Jacobo Ramón i teraz Fortea to ostatnie przykłady zawodników z Juvenilu A, którzy znaleźli uznanie w oczach Carlo Ancelottiego i jego sztabu.</description>
-    </item>
-    
-    <item>
-        <title>Małe derby Madrytu</title>
-        <link>https://www.realmadryt.pl/news/133770-male-derby-madrytu</link>
-        <pubDate>Sat, 02 Nov 2024 08:18:00 GMT</pubDate>
-        <description>W 11. kolejce Primera Federación Castilla zagra z rezerwami Atlético Madryt. Królewscy potrzebują wygranej, żeby w końcu móc wyjść ze strefy spadkowej, w której tkwią od samego początku sezonu.</description>
     </item>
     
 </channel>
