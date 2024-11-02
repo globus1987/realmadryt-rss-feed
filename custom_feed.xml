@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 02 Nov 2024 22:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 23:23:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133793-dzisiejsze-okladki</link>
+        <pubDate>Sun, 03 Nov 2024 00:10:00 GMT</pubDate>
+        <description>Pomoc dla powodzian i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Milan minimalnie lepszy od Monzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133778-gary-neville-vinicius-jest-pozbawiony-klasy</link>
         <pubDate>Sat, 02 Nov 2024 10:44:00 GMT</pubDate>
         <description>Gary Neville wypowiedział się na temat Viníciusa i nieobecności Realu Madryt na gali Złote Piłki w podcaście The Overlap US.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Powrót Rodrygo coraz bliżej</title>
-        <link>https://www.realmadryt.pl/news/133777-relevo-powrot-rodrygo-coraz-blizej</link>
-        <pubDate>Sat, 02 Nov 2024 10:21:00 GMT</pubDate>
-        <description>Rodrygo, najmocniej pracujący w defensywie z atakującego tria, nie wystąpił z Lille i Barceloną, a Real oba te spotkania przegrał. Napastnik chce po kontuzji wrócić do kadry meczowej na Osasunę, a może już nawet na starcie z Milanem.</description>
     </item>
     
 </channel>
