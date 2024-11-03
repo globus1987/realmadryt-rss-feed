@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 03 Nov 2024 11:18:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 11:38:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Slavko Vinčić na Milan</title>
+        <link>https://www.realmadryt.pl/news/133798-slavko-vincic-na-milan</link>
+        <pubDate>Sun, 03 Nov 2024 12:32:00 GMT</pubDate>
+        <description>Sędzia, który prowadził ostatni finał Ligi Mistrzów, znów będzie rozjemcą w trakcie meczu Realu Madryt. Dla Słoweńca będzie to dopiero drugi mecz z udziałem Królewskich.</description>
+    </item>
     
     <item>
         <title>Mateo: Z zapałem szukamy zwycięstwa na wyjeździe</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133786-raul-brak-porazki-w-derbach-jest-dobry-ale-nie-jestesmy-zadowoleni</link>
         <pubDate>Sat, 02 Nov 2024 19:10:00 GMT</pubDate>
         <description>Raúl González wziął udział w konferencji prasowej po meczu z rezerwami Atlético Madryt. Mówił, że nie jest zadowolony z wyniku, ale uważał przy tym, że jego podopieczni rozegrali dobre spotkanie.</description>
-    </item>
-    
-    <item>
-        <title>Małe derby na remis</title>
-        <link>https://www.realmadryt.pl/news/133785-male-derby-na-remis</link>
-        <pubDate>Sat, 02 Nov 2024 18:49:00 GMT</pubDate>
-        <description>W 11. kolejce Primera Federación Castilla zremisowała na wyjeździe z rezerwami Atlético Madryt 1:1. Królewscy musieli gonić wynik, lecz nie byli w stanie wykorzystać swoich szans na zwycięstwo.</description>
     </item>
     
 </channel>
