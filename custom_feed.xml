@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 03 Nov 2024 09:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 10:24:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Güler zgasł</title>
+        <link>https://www.realmadryt.pl/news/133796-gueler-zgasl</link>
+        <pubDate>Sun, 03 Nov 2024 10:54:00 GMT</pubDate>
+        <description>W ostatnich tygodniach Arda Güler całkowicie zgasł. Turecki zawodnik przestał otrzymywać szanse od Carlo Ancelottiego i w sześciu ostatnich meczach rozegrał zaledwie 25 minut. Pod coraz większym znakiem zapytania zaczyna stawać jego dalszy rozwój.</description>
+    </item>
     
     <item>
         <title>Odbierz voucher na oglądanie Królewskich w Champions League</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133784-oficjalnie-marcelo-odchodzi-z-fluminense-po-sprzeczce-z-trenerem</link>
         <pubDate>Sat, 02 Nov 2024 18:24:00 GMT</pubDate>
         <description>Legenda Realu Madryt bez klubu po nieporozumieniu z trenerem podczas ostatniego meczu. Dotychczasowa umowa piłkarza wygasała w grudniu tego roku.</description>
-    </item>
-    
-    <item>
-        <title>Sami przeciw wszystkim</title>
-        <link>https://www.realmadryt.pl/news/133783-sami-przeciw-wszystkim</link>
-        <pubDate>Sat, 02 Nov 2024 15:36:00 GMT</pubDate>
-        <description>Łatwo jest zarzucić komuś brak klasy. Szczególnie niewygodnemu dla niektórych Realowi Madryt, który wielokrotnie udowadniał, że jest jej synonimem. Trudniej jednak jest to udowodnić i uargumentować. Rozważaniami na temat zamieszania wokół gali Złotej Piłki i licznych głosów krytyki pod adresem Królewskich dzieli się nasz redaktor, Jakub Glibowski.</description>
     </item>
     
 </channel>
