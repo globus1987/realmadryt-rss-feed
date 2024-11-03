@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 03 Nov 2024 19:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 19:39:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przełamanie w przekonującym stylu</title>
+        <link>https://www.realmadryt.pl/news/133805-przelamanie-w-przekonujacym-stylu</link>
+        <pubDate>Sun, 03 Nov 2024 20:27:00 GMT</pubDate>
+        <description>Real Madryt jechał do Murcji bez pięciu zawodników, a mimo to wygrał wysoko i przekonująco. Na pochwałę zasługuje gra w obronie. Dobry wynik pozwolił na debiut dwóch 17-latkom: Declanowi Duru i Gildasowi Giménezowi.</description>
+    </item>
     
     <item>
         <title>Eberl: Szanse na pozostanie Daviesa? Są</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133795-odbierz-voucher-na-ogladanie-krolewskich-w-champions-league</link>
         <pubDate>Sun, 03 Nov 2024 10:23:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 listopada</title>
-        <link>https://www.realmadryt.pl/news/133792-kartka-z-kalendarza-3-listopada</link>
-        <pubDate>Sun, 03 Nov 2024 10:00:00 GMT</pubDate>
-        <description>Pierwszy gol Viníciusa, wejście smoka w wykonaniu Nacho, decydujący gol Rodrygo i urodziny byłego bramkarza. Co działo się 3 listopada?</description>
     </item>
     
 </channel>
