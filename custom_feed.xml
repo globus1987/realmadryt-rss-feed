@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 05 Nov 2024 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 22:21:50 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – AC Milan [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/133855-real-madryt-ac-milan-live</link>
+        <title>Real Madryt 1:3 AC Milan [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/133859-real-madryt-1-3-ac-milan-video</link>
+        <pubDate>Tue, 05 Nov 2024 23:21:00 GMT</pubDate>
+        <description>W 4. kolejce fazy ligowej Ligi Mistrzów Królewscy przegrali na własnym boisku z Milanem. Jedynego gola dla Realu Madryt strzelił Vinícius Júnior.</description>
+    </item>
+    
+    <item>
+        <title>4. kolejka: Kolejna porażka Realu Madryt, oddala się 1/8 finału</title>
+        <link>https://www.realmadryt.pl/news/133858-4-kolejka-kolejna-porazka-realu-madryt-oddala-sie-1-8-finalu</link>
+        <pubDate>Tue, 05 Nov 2024 23:17:00 GMT</pubDate>
+        <description>Real Madryt przegrał z Milanem w meczu 4. kolejki Ligi Mistrzów, więc czas rzucić okiem na układ tabeli po wtorkowych meczach.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Milanem</title>
+        <link>https://www.realmadryt.pl/news/133856-ocen-pilkarzy-po-meczu-z-milanem</link>
+        <pubDate>Tue, 05 Nov 2024 23:10:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Lucas: Mamy moment, w którym rywale wymierzają nam duże kary</title>
+        <link>https://www.realmadryt.pl/news/133857-lucas-mamy-moment-w-ktorym-rywale-wymierzaja-nam-duze-kary</link>
+        <pubDate>Tue, 05 Nov 2024 23:09:00 GMT</pubDate>
+        <description>Lucas Vázquez po meczu z Milanem w Lidze Mistrzów udzielił wywiadu na murawie Movistar+. Przedstawiamy wypowiedzi piłkarza Realu Madryt z tej rozmowy.</description>
+    </item>
+    
+    <item>
+        <title>Czy leci z nami pilot?</title>
+        <link>https://www.realmadryt.pl/news/133855-czy-leci-z-nami-pilot</link>
         <pubDate>Tue, 05 Nov 2024 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz Realu Madryt z AC Milan na Santiago Bernabéu.</description>
+        <description>W meczu 4. kolejki fazy ligowej Champions League Real Madryt przegrał z Milanem 1:3. Jedyne trafienie dla Królewskich zaliczył Vinícius Júnior, który wykorzystał rzut karny.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/133849-golazo-ktore-ancelotti-strzelil-realowi-w-1989-roku-video</link>
         <pubDate>Tue, 05 Nov 2024 13:20:00 GMT</pubDate>
         <description>Carletto wiedział, jak uderzać z dystansu.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy oddadzą hołd ofiarom powodzi w Walencji</title>
-        <link>https://www.realmadryt.pl/news/133848-krolewscy-oddadza-hold-ofiarom-powodzi-w-walencji</link>
-        <pubDate>Tue, 05 Nov 2024 13:05:00 GMT</pubDate>
-        <description>Kibice i piłkarze Realu Madryt oddadzą hołd ofiarom DANA przed dzisiejszym meczem Ligi Mistrzów Milanem.</description>
-    </item>
-    
-    <item>
-        <title>Jedyny, który powiedział „nie” wszechmocnemu Milanowi Berlusconiego</title>
-        <link>https://www.realmadryt.pl/news/133847-jedyny-ktory-powiedzial-nie-wszechmocnemu-milanowi-berlusconiego</link>
-        <pubDate>Tue, 05 Nov 2024 13:04:00 GMT</pubDate>
-        <description>Guti zbyt mocno kochał Real Madryt, by odejść z klubu i zarabiać znacznie większe pieniądze.</description>
-    </item>
-    
-    <item>
-        <title>Modrić pozostaje zagrożony zawieszeniem w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/133846-modric-pozostaje-zagrozony-zawieszeniem-w-lidze-mistrzow</link>
-        <pubDate>Tue, 05 Nov 2024 12:49:00 GMT</pubDate>
-        <description>Liga Mistrzów dopiero wystartowała, a Królewscy już muszą patrzeć na sytuację kartkową. Co ważne, kartoniki wyzerowane będą dopiero po zakończeniu ćwierćfinałów.</description>
-    </item>
-    
-    <item>
-        <title>Fonseca: Jestem fanem Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/133843-fonseca-jestem-fanem-ancelottiego</link>
-        <pubDate>Tue, 05 Nov 2024 12:21:00 GMT</pubDate>
-        <description>Trener Milanu, Paulo Fonseca, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 4. kolejki fazy ligowej Ligi Mistrzów. Poniżej przedstawiamy zapis wypowiedzi portugalskiego szkoleniowca.</description>
     </item>
     
 </channel>
