@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 05 Nov 2024 19:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 20:24:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – AC Milan [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/133855-real-madryt-ac-milan-live</link>
+        <pubDate>Tue, 05 Nov 2024 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz Realu Madryt z AC Milan na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Bellingham zagra na pozycji z poprzedniego sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133843-fonseca-jestem-fanem-ancelottiego</link>
         <pubDate>Tue, 05 Nov 2024 12:21:00 GMT</pubDate>
         <description>Trener Milanu, Paulo Fonseca, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 4. kolejki fazy ligowej Ligi Mistrzów. Poniżej przedstawiamy zapis wypowiedzi portugalskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Ważny mecz dla drużyny Arbeloi</title>
-        <link>https://www.realmadryt.pl/news/133840-wazny-mecz-dla-druzyny-arbeloi</link>
-        <pubDate>Tue, 05 Nov 2024 11:30:00 GMT</pubDate>
-        <description>W 4. kolejce Ligi Młodzieżowej drużyna Realu Madryt do lat 19 zmierzy się z rówieśnikami z Milanu. Królewscy potrzebują punktów, ponieważ po trzech seriach gier mają na koncie zaledwie trzy oczka.</description>
     </item>
     
 </channel>
