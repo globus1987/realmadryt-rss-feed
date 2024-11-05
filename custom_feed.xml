@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 05 Nov 2024 13:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 13:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>El País: Real trzeci od końca w Europie w przebiegniętych kilometrach</title>
+        <link>https://www.realmadryt.pl/news/133851-el-pais-real-trzeci-od-konca-w-europie-w-przebiegnietych-kilometrach</link>
+        <pubDate>Tue, 05 Nov 2024 14:48:00 GMT</pubDate>
+        <description>David Álvarez z El País przeanalizował liczby dotyczące przebiegniętych kilometrów. Wyniki Królewskich są gorsze niż w poprzednim sezonie i znacząco poniżej średniej w porównaniu do rywali w obecnych rozgrywkach.</description>
+    </item>
     
     <item>
         <title>Gullit: Ancelotti zawsze się denerwował przed meczami z Realem Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133844-600-zl-za-zwyciezce-dowolnego-meczu-w-lidze-mistrzow</link>
         <pubDate>Tue, 05 Nov 2024 10:17:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Miłość jest ślepa</title>
-        <link>https://www.realmadryt.pl/news/133835-milosc-jest-slepa</link>
-        <pubDate>Tue, 05 Nov 2024 10:00:00 GMT</pubDate>
-        <description>Zakochani wybaczają. Na ślepo.</description>
     </item>
     
 </channel>
