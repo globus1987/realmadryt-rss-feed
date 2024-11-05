@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 05 Nov 2024 09:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 10:25:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 5 listopada</title>
+        <link>https://www.realmadryt.pl/news/133841-kartka-z-kalendarza-5-listopada</link>
+        <pubDate>Tue, 05 Nov 2024 11:00:00 GMT</pubDate>
+        <description>Pierwsza wielka europejska remontada, premierowe trafienie Raúla, wielki mecz Del Piero i początek problemów Benzemy w ojczyźnie. Co działo się 5 listopada?</description>
+    </item>
     
     <item>
         <title>Benzema: Problem z Mbappé jest taki, że to nie jest środkowy napastnik</title>
         <link>https://www.realmadryt.pl/news/133845-benzema-problem-z-mbappe-jest-taki-ze-to-nie-jest-srodkowy-napastnik</link>
         <pubDate>Tue, 05 Nov 2024 10:22:00 GMT</pubDate>
-        <description>Karim Benzema udzielił wywiadu Edu Aguirre z Chiringuito. W nocnym odcinku programu pokazano kolejny fragment tej rozmowy dotyczący sytuacji Kyliana Mbappé</description>
+        <description>Karim Benzema udzielił wywiadu Edu Aguirre z Chiringuito. W nocnym odcinku programu pokazano kolejny fragment tej rozmowy dotyczący sytuacji Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133837-leonardo-bylem-przeciwny-przedluzeniu-kontraktu-z-mbappe-trzeba-bylo-go-sprzedac</link>
         <pubDate>Mon, 04 Nov 2024 23:59:00 GMT</pubDate>
         <description>Był dyrektor sportowy PSG wypowiedział się na temat sytuacji, jaka miała miejsce w Paryżu i przedłużania umów z Kylianem Mbappé</description>
-    </item>
-    
-    <item>
-        <title>AS: Łunin stracił aurę</title>
-        <link>https://www.realmadryt.pl/news/133831-as-lunin-stracil-aure</link>
-        <pubDate>Mon, 04 Nov 2024 21:22:00 GMT</pubDate>
-        <description>Andrij nie wykorzystuje nieobecności Courtois: przepuścił pięć goli i poniósł dwie porażki w trzech meczach. Jego procent obronionych strzałów spadł o ponad 20%.</description>
     </item>
     
 </channel>
