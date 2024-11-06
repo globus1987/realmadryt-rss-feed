@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 06 Nov 2024 10:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 10:43:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>UEFA ukarała hiszpańskich sędziów za wynoszenie informacji</title>
+        <link>https://www.realmadryt.pl/news/133881-uefa-ukarala-hiszpanskich-sedziow-za-wynoszenie-informacji</link>
+        <pubDate>Wed, 06 Nov 2024 11:41:00 GMT</pubDate>
+        <description>Roberto Rosetti szukał winnych wycieku informacji i po przeprowadzonym dochodzeniu uznał, że to sami sędziowie wywołali całe powstałe zamieszanie.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 6 listopada</title>
+        <link>https://www.realmadryt.pl/news/133875-kartka-z-kalendarza-6-listopada</link>
+        <pubDate>Wed, 06 Nov 2024 11:30:00 GMT</pubDate>
+        <description>Wysoka wygrana z Osasuną, remis z Borussią Dortmund i jeden z najlepszych meczów sezonu 2019/20. Co działo się 6 listopada?</description>
+    </item>
     
     <item>
         <title>Fonesca: Zagraliśmy niesamowity mecz pozycyjny</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133865-lunin-ostatnie-dwie-porazki-sa-niewytlumaczalne</link>
         <pubDate>Wed, 06 Nov 2024 09:15:00 GMT</pubDate>
         <description>Andrij Łunin udzielił wywiadu dla telewizji Movistar+ po przegranym 1:3 meczu fazy ligowej Ligi Mistrzów z Milanem na Estadio Santiago Bernabéu. Przedstawiamy zapis rozmowy z bramkarzem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Obrona istnieje tylko teoretycznie</title>
-        <link>https://www.realmadryt.pl/news/133870-marca-obrona-istnieje-tylko-teoretycznie</link>
-        <pubDate>Wed, 06 Nov 2024 08:32:00 GMT</pubDate>
-        <description>Real stracił łącznie siedem goli w ostatnich meczach z Barceloną i Milanem na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Musimy lepiej bronić, bo w tym leży klucz</title>
-        <link>https://www.realmadryt.pl/news/133869-ancelotti-musimy-lepiej-bronic-bo-w-tym-lezy-klucz</link>
-        <pubDate>Wed, 06 Nov 2024 08:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu Ligi Mistrzów z Milanem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
