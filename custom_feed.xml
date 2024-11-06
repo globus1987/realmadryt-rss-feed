@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 06 Nov 2024 19:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 19:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kilometrów mało jak nigdy</title>
+        <link>https://www.realmadryt.pl/news/133897-kilometrow-malo-jak-nigdy</link>
+        <pubDate>Wed, 06 Nov 2024 20:48:00 GMT</pubDate>
+        <description>W tej edycji Ligi Mistrzów piłkarze Realu Madryt są na przedostatnim miejscu w klasyfikacji drużyn z największą liczbą przebiegniętych kilometrów. Królewscy notują średnią 108,4 kilometra na mecz, co jest najgorszym wynikiem drugiego etapu Carlo Ancelottiego w Madrycie.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Real Madryt zatwierdził Plan Działania swojej Fundacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133883-trening-regeneracyjny-w-valdebebas</link>
         <pubDate>Wed, 06 Nov 2024 13:39:00 GMT</pubDate>
         <description>Królewscy wrócili do pracy w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Milanem</title>
-        <link>https://www.realmadryt.pl/news/133884-oceny-zawodnikow-po-meczu-z-milanem</link>
-        <pubDate>Wed, 06 Nov 2024 13:22:00 GMT</pubDate>
-        <description>Real Madryt przegrał u siebie z Milanem 1:3. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
