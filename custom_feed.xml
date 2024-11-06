@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 06 Nov 2024 23:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 23:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133903-dzisiejsze-okladki</link>
+        <pubDate>Thu, 07 Nov 2024 00:48:00 GMT</pubDate>
+        <description>Wygrane Atlético i Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>RMC: Mbappé może nie otrzymać powołania do kadry Francji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133887-prawo-ex-koszmarem-krolewskich</link>
         <pubDate>Wed, 06 Nov 2024 15:06:00 GMT</pubDate>
         <description>Real Madryt jest klubem, który w całej historii Ligi Mistrzów stracił najwięcej goli po trafieniach swoich byłych zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Fede Valverde ma problem z plecami</title>
-        <link>https://www.realmadryt.pl/news/133886-fede-valverde-ma-problem-z-plecami</link>
-        <pubDate>Wed, 06 Nov 2024 15:02:00 GMT</pubDate>
-        <description>Występ pomocnika w meczu z Osasuną stoi pod znakiem zapytania.</description>
     </item>
     
 </channel>
