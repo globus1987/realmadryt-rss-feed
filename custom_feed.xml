@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 06 Nov 2024 15:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 16:27:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real w ruinie</title>
+        <link>https://www.realmadryt.pl/news/133892-real-w-ruinie</link>
+        <pubDate>Wed, 06 Nov 2024 16:59:00 GMT</pubDate>
+        <description>Po klęskach z Barceloną i Milanem kryzys w Realu Madryt stał się faktem. Królewscy tracą dziewięć punktów do lidera w La Lidze (przy jednym meczu rozegranym mniej) i znajdują się na 17. miejscu w tabeli fazy ligowej Champions League. Dziennikarze Relevo twierdzą jednak, że co bardziej uważni mogli obecny stan rzeczy z łatwością przewidzieć.</description>
+    </item>
     
     <item>
         <title>Wielka ignorancja</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133875-kartka-z-kalendarza-6-listopada</link>
         <pubDate>Wed, 06 Nov 2024 11:30:00 GMT</pubDate>
         <description>Wysoka wygrana z Osasuną, remis z Borussią Dortmund i jeden z najlepszych meczów sezonu 2019/20. Co działo się 6 listopada?</description>
-    </item>
-    
-    <item>
-        <title>Fonseca: Zagraliśmy niesamowity mecz pozycyjny</title>
-        <link>https://www.realmadryt.pl/news/133880-fonseca-zagralismy-niesamowity-mecz-pozycyjny</link>
-        <pubDate>Wed, 06 Nov 2024 10:59:00 GMT</pubDate>
-        <description>Paulo Fonseca spotkał się z dziennikarzami na konferencji prasowej oraz udzielał wypowiedzi dla mediów UEFA po wygranym 3:1 meczu fazy ligowej Ligi Mistrzów z Realem Madryt na Estadio Santiago Bernabéu. Przedstawiamy słowa trenera Milanu.</description>
     </item>
     
 </channel>
