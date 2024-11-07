@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Nov 2024 23:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 23:40:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133932-dzisiejsze-okladki</link>
+        <pubDate>Fri, 08 Nov 2024 00:22:00 GMT</pubDate>
+        <description>Sytuacja Kyliana Mbappé i osiągnięcia strzeleckie Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Druga część mediolańskiego koszmaru</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133916-dzisiejszy-trening</link>
         <pubDate>Thu, 07 Nov 2024 13:44:00 GMT</pubDate>
         <description>Królewscy ponownie pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 15. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/133915-terminarz-15-kolejki-la-ligi</link>
-        <pubDate>Thu, 07 Nov 2024 13:03:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 15. kolejki, w której Real Madryt zagra u siebie z Getafe.</description>
     </item>
     
 </channel>
