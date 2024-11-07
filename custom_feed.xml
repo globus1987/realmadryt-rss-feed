@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Nov 2024 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 22:20:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Druga część mediolańskiego koszmaru</title>
+        <link>https://www.realmadryt.pl/news/133931-druga-czesc-mediolanskiego-koszmaru</link>
+        <pubDate>Thu, 07 Nov 2024 23:16:00 GMT</pubDate>
+        <description>Koszykarze Realu Madryt poszli w ślady piłkarzy i przegrali pojedynek z mediolańskim klubem. Królewscy dalej nie potrafią się przełamać na wyjeździe w Eurolidze, czym komplikują swoją sytuację w tabeli.</description>
+    </item>
     
     <item>
         <title>Początek odliczania w sprawie Alaby</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133915-terminarz-15-kolejki-la-ligi</link>
         <pubDate>Thu, 07 Nov 2024 13:03:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 15. kolejki, w której Real Madryt zagra u siebie z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Melero López na Osasunę</title>
-        <link>https://www.realmadryt.pl/news/133914-melero-lopez-na-osasune</link>
-        <pubDate>Thu, 07 Nov 2024 12:48:00 GMT</pubDate>
-        <description>45-letni sędzia z Andaluzji poprowadzi mecz Realu Madryt z Osasuną. Sędzią VAR będzie za to Daniel Jesús Trujillo Suárez.</description>
     </item>
     
 </channel>
