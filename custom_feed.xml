@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 13:32:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 13:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Narada kryzysowa</title>
+        <link>https://www.realmadryt.pl/news/133948-narada-kryzysowa</link>
+        <pubDate>Fri, 08 Nov 2024 14:39:00 GMT</pubDate>
+        <description>Carlo Ancelotti spotkał się ze swoim sztabem, aby znaleźć sposób na wyjście z dołka.</description>
+    </item>
     
     <item>
         <title>Karda na Osasunę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133935-morientes-oby-wiecej-takich-trenerow-jak-deschamps</link>
         <pubDate>Fri, 08 Nov 2024 09:34:00 GMT</pubDate>
         <description>Fernando Morientes był gościem programu El Partidazo na falach radia COPE. W trakcie rozmowy próbował zdiagnozować główne problemy Realu Madryt i odniósł się do zamieszania wokół braku powołania Kyliana Mbappé do reprezentacji Francji.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Nie potrafiliśmy utrzymać energii do końca meczu</title>
-        <link>https://www.realmadryt.pl/news/133937-mateo-nie-potrafilismy-utrzymac-energii-do-konca-meczu</link>
-        <pubDate>Fri, 08 Nov 2024 09:14:00 GMT</pubDate>
-        <description>Chus Mateo podsumował krótko przegrany mecz z Olimpią Mediolan. Przyznał, że drużyna nie zagrała dobrze ani w obronie, ani w ataku.</description>
     </item>
     
 </channel>
