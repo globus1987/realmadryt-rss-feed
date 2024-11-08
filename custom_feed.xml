@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 09:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 09:39:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak wygląda sytuacja Królewskich w Lidze Mistrzów?</title>
+        <link>https://www.realmadryt.pl/news/133939-jak-wyglada-sytuacja-krolewskich-w-lidze-mistrzow</link>
+        <pubDate>Fri, 08 Nov 2024 10:30:00 GMT</pubDate>
+        <description>Po czterech kolejkach fazy ligowej Ligi Mistrzów Real Madryt ma na koncie 6 punktów i zajmuje 18. miejsce w tabeli. Aby awansować bezpośrednio do 1/8 finału rozgrywek, Królewscy musieliby wygrać trzy z pozostałych czterech meczów.</description>
+    </item>
     
     <item>
         <title>Mbappé zagraża pewien precedens</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133932-dzisiejsze-okladki</link>
         <pubDate>Fri, 08 Nov 2024 00:22:00 GMT</pubDate>
         <description>Sytuacja Kyliana Mbappé i osiągnięcia strzeleckie Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Druga część mediolańskiego koszmaru</title>
-        <link>https://www.realmadryt.pl/news/133931-druga-czesc-mediolanskiego-koszmaru</link>
-        <pubDate>Thu, 07 Nov 2024 23:16:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt poszli w ślady piłkarzy i przegrali pojedynek z mediolańskim klubem. Królewscy dalej nie potrafią się przełamać na wyjeździe w Eurolidze, czym komplikują swoją sytuację w tabeli.</description>
     </item>
     
 </channel>
