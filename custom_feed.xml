@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 23:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 23:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dokładny rozkład głosów w Złotej Piłce 2024</title>
+        <link>https://www.realmadryt.pl/news/133961-dokladny-rozklad-glosow-w-zlotej-pilce-2024</link>
+        <pubDate>Sat, 09 Nov 2024 00:44:00 GMT</pubDate>
+        <description>Zgodnie z zapowiedziami France Football opublikowało dokładne głosy 99 dziennikarzy głosujących w plebiscycie Złotej Piłki.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133949-uciec-ze-strefy-spadkowej</link>
         <pubDate>Fri, 08 Nov 2024 15:24:00 GMT</pubDate>
         <description>W 12. kolejce Primera Federación Castilla podejmie Intercity. W przypadku wygranej Królewscy, przynajmniej do niedzieli, uciekliby ze strefy spadkowej.</description>
-    </item>
-    
-    <item>
-        <title>Narada kryzysowa</title>
-        <link>https://www.realmadryt.pl/news/133948-narada-kryzysowa</link>
-        <pubDate>Fri, 08 Nov 2024 14:39:00 GMT</pubDate>
-        <description>Carlo Ancelotti spotkał się ze swoim sztabem, aby znaleźć sposób na wyjście z dołka.</description>
     </item>
     
 </channel>
