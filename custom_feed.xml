@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 14:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 14:41:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Uciec ze strefy spadkowej</title>
+        <link>https://www.realmadryt.pl/news/133949-uciec-ze-strefy-spadkowej</link>
+        <pubDate>Fri, 08 Nov 2024 15:24:00 GMT</pubDate>
+        <description>W 12. kolejce Primera Federación Castilla podejmie Intercity. W przypadku wygranej Królewscy, przynajmniej do niedzieli, uciekliby ze strefy spadkowej.</description>
+    </item>
     
     <item>
         <title>Narada kryzysowa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133938-trwaja-juz-prace-nad-izolacja-akustyczna-bernabeu</link>
         <pubDate>Fri, 08 Nov 2024 09:35:00 GMT</pubDate>
         <description>Real Madryt zlecił firmie Arup, światowym specjalistom w dziedzinie dźwięku, opracowanie projektu działań niezbędnych do organizacji koncertów.</description>
-    </item>
-    
-    <item>
-        <title>Morientes: Oby więcej takich trenerów jak Deschamps</title>
-        <link>https://www.realmadryt.pl/news/133935-morientes-oby-wiecej-takich-trenerow-jak-deschamps</link>
-        <pubDate>Fri, 08 Nov 2024 09:34:00 GMT</pubDate>
-        <description>Fernando Morientes był gościem programu El Partidazo na falach radia COPE. W trakcie rozmowy próbował zdiagnozować główne problemy Realu Madryt i odniósł się do zamieszania wokół braku powołania Kyliana Mbappé do reprezentacji Francji.</description>
     </item>
     
 </channel>
