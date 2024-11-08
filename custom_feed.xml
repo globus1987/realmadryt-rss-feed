@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 17:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 18:29:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 13. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/133929-telewizyjny-terminarz-13-kolejki-la-ligi</link>
+        <pubDate>Fri, 08 Nov 2024 19:00:00 GMT</pubDate>
+        <description>Przed nami trzynasta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Osasuną. Gdzie obejrzeć to spotkanie?</description>
+    </item>
     
     <item>
         <title>Madryt, mamy problem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133943-200-zl-za-wygrana-realu-z-osasuna</link>
         <pubDate>Fri, 08 Nov 2024 11:33:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Osasuną [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/133942-kwadrans-ostatniego-treningu-przed-osasuna-video</link>
-        <pubDate>Fri, 08 Nov 2024 11:25:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed sobotnim starciem z Osasuną w La Lidze. Kontuzjowanych jest czterech piłkarzy.</description>
     </item>
     
 </channel>
