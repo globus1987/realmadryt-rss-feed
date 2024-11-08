@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 22:53:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 23:21:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie chce nam się</title>
+        <link>https://www.realmadryt.pl/news/133888-nie-chce-nam-sie</link>
+        <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
+        <description>Poniższy tekst powstał tylko dlatego, że musiał.</description>
+    </item>
     
     <item>
         <title>MARCA: Ancelotti testował Mendy'ego na… defensywnym pomocniku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133947-karda-na-osasune</link>
         <pubDate>Fri, 08 Nov 2024 14:30:00 GMT</pubDate>
         <description>Królewscy podejdą do meczu z Osasuną bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 21 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Myślimy, że znaleźliśmy rozwiązanie</title>
-        <link>https://www.realmadryt.pl/news/133946-ancelotti-myslimy-ze-znalezlismy-rozwiazanie</link>
-        <pubDate>Fri, 08 Nov 2024 12:42:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Osasuną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
