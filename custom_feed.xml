@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Nov 2024 19:16:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 19:38:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>El Confidencial: Real Madryt próbuje odzyskać SkyBar na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/133954-el-confidencial-real-madryt-probuje-odzyskac-skybar-na-bernabeu</link>
+        <pubDate>Fri, 08 Nov 2024 20:20:00 GMT</pubDate>
+        <description>Klub zdecydował się pozwać firmę zarządzającą prestiżowym SkyBarem na Santiago Bernabéu. Lokal miał działać od maja, ale ciągle nie jest otwarty.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 13. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133944-zaden-pilkarz-realu-nie-zostal-powolany-do-reprezentacji-hiszpanii</link>
         <pubDate>Fri, 08 Nov 2024 11:45:00 GMT</pubDate>
         <description>Luis de la Fuente powołał 25 zawodników na najbliższe zgrupowanie, które rozpocznie się na początku przyszłego tygodnia.</description>
-    </item>
-    
-    <item>
-        <title>200 zł za wygraną Realu z Osasuną!</title>
-        <link>https://www.realmadryt.pl/news/133943-200-zl-za-wygrana-realu-z-osasuna</link>
-        <pubDate>Fri, 08 Nov 2024 11:33:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
