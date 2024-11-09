@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Nov 2024 13:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 14:19:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lucas Vázquez opuścił boisko z kontuzją uda</title>
+        <link>https://www.realmadryt.pl/news/133971-lucas-vazquez-opuscil-boisko-z-kontuzja-uda</link>
+        <pubDate>Sat, 09 Nov 2024 15:09:00 GMT</pubDate>
+        <description>Hiszpan doznał urazu już w pierwszej połowie i nie wyszedł na drugą część spotkania.</description>
+    </item>
     
     <item>
         <title>Éder Militão opuścił boisko z kontuzją kolana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133957-300-zl-za-wygrana-realu-madryt-z-osasuna</link>
         <pubDate>Sat, 09 Nov 2024 06:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Osasuna: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/133962-real-madryt-osasuna-przewidywane-sklady</link>
-        <pubDate>Sat, 09 Nov 2024 01:55:00 GMT</pubDate>
-        <description>Królewscy podchodzą do ważnego meczu bez kontuzjowanych Thibaut Courtois, Davida Alaby, Daniego Carvajala oraz Auréliena Tchouaméniego. Po przerwie do jedenastki ma wrócić Rodrygo Goes.</description>
     </item>
     
 </channel>
