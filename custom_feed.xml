@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Nov 2024 12:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 13:02:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – CA Osasuna [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/133968-real-madryt-ca-osasuna-live</link>
+        <pubDate>Sat, 09 Nov 2024 13:55:00 GMT</pubDate>
+        <description>O 14:00 rozpoczął się mecz Realu Madryt z CA Osasuna na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Osasuną [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133960-dzisiejsze-okladki</link>
         <pubDate>Sat, 09 Nov 2024 00:21:00 GMT</pubDate>
         <description>Mecz Realu Madryt to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Nie chce nam się</title>
-        <link>https://www.realmadryt.pl/news/133888-nie-chce-nam-sie</link>
-        <pubDate>Sat, 09 Nov 2024 00:00:00 GMT</pubDate>
-        <description>Poniższy tekst powstał tylko dlatego, że musiał.</description>
     </item>
     
 </channel>
