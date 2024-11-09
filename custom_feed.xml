@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Nov 2024 22:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 23:21:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/133994-dzisiejsze-okladki</link>
+        <pubDate>Sun, 10 Nov 2024 00:06:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Militão: Znam już drogę do powrotu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133976-oficjalnie-militao-z-zerwanym-wiezadlem-w-kolanie</link>
         <pubDate>Sat, 09 Nov 2024 17:28:00 GMT</pubDate>
         <description>Klub potwierdził poważną kontuzję stopera.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Kontuzja Militão łamie mi serce</title>
-        <link>https://www.realmadryt.pl/news/133981-bellingham-kontuzja-militao-lamie-mi-serce</link>
-        <pubDate>Sat, 09 Nov 2024 17:19:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu dla klubowej telewizji po wygranej 4:0 z Osasuną. Przedstawiamy słowa piłkarza Królewskich.</description>
     </item>
     
 </channel>
