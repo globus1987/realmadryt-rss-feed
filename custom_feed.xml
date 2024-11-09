@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Nov 2024 13:28:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 13:42:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Éder Militão opuścił boisko z kontuzją kolana</title>
+        <link>https://www.realmadryt.pl/news/133970-eder-militao-opuscil-boisko-z-kontuzja-kolana</link>
+        <pubDate>Sat, 09 Nov 2024 14:34:00 GMT</pubDate>
+        <description>Brazylijczyk po walce z rywalem padł z krzykiem na murawę i trzymał się za prawe kolano.</description>
+    </item>
+    
+    <item>
+        <title>Rodrygo opuścił boisko z kontuzją uda</title>
+        <link>https://www.realmadryt.pl/news/133969-rodrygo-opuscil-boisko-z-kontuzja-uda</link>
+        <pubDate>Sat, 09 Nov 2024 14:31:00 GMT</pubDate>
+        <description>Brazylijczyk wrócił dzisiaj do jedenastki, ale jego występ potrwał zaledwie 20 minut. Pozostaje czekać na badania.</description>
+    </item>
     
     <item>
         <title>Real Madryt – CA Osasuna [LIVE]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/133962-real-madryt-osasuna-przewidywane-sklady</link>
         <pubDate>Sat, 09 Nov 2024 01:55:00 GMT</pubDate>
         <description>Królewscy podchodzą do ważnego meczu bez kontuzjowanych Thibaut Courtois, Davida Alaby, Daniego Carvajala oraz Auréliena Tchouaméniego. Po przerwie do jedenastki ma wrócić Rodrygo Goes.</description>
-    </item>
-    
-    <item>
-        <title>Dokładny rozkład głosów w Złotej Piłce 2024</title>
-        <link>https://www.realmadryt.pl/news/133961-dokladny-rozklad-glosow-w-zlotej-pilce-2024</link>
-        <pubDate>Sat, 09 Nov 2024 00:44:00 GMT</pubDate>
-        <description>Zgodnie z zapowiedziami France Football opublikowało dokładne głosy 99 dziennikarzy głosujących w plebiscycie Złotej Piłki.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/133960-dzisiejsze-okladki</link>
-        <pubDate>Sat, 09 Nov 2024 00:21:00 GMT</pubDate>
-        <description>Mecz Realu Madryt to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
