@@ -4,7 +4,35 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Nov 2024 14:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 15:23:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim: Rozegraliśmy mecz pracy i wysiłku</title>
+        <link>https://www.realmadryt.pl/news/133975-brahim-rozegralismy-mecz-pracy-i-wysilku</link>
+        <pubDate>Sat, 09 Nov 2024 16:19:00 GMT</pubDate>
+        <description>Brahim udzielił wywiadu dla klubowej telewizji po wygranym 4:0 meczu z Osasuną. Przedstawiamy wypowiedzi gracza Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Moncayola: To mecz do zapomnienia</title>
+        <link>https://www.realmadryt.pl/news/133974-moncayola-to-mecz-do-zapomnienia</link>
+        <pubDate>Sat, 09 Nov 2024 16:15:00 GMT</pubDate>
+        <description>Jon Moncayola udzielił wywiadu dla DAZN po przegranej 0:4 z Realem Madryt. Przedstawiamy słowa piłkarza Osasuny.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius MVP meczu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/133973-vinicius-mvp-meczu-z-osasuna</link>
+        <pubDate>Sat, 09 Nov 2024 16:12:00 GMT</pubDate>
+        <description>Brazylijczyk uzyskał wyróżnienie za zwycięstwo 4:0 nad Osasuną.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/133972-ocen-pilkarzy-po-meczu-z-osasuna</link>
+        <pubDate>Sat, 09 Nov 2024 16:01:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Lucas Vázquez opuścił boisko z kontuzją uda</title>
@@ -28,10 +56,10 @@
     </item>
     
     <item>
-        <title>Real Madryt – CA Osasuna [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/133968-real-madryt-ca-osasuna-live</link>
+        <title>Fatum kontuzji i koncert Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/133968-fatum-kontuzji-i-koncert-viniciusa</link>
         <pubDate>Sat, 09 Nov 2024 13:55:00 GMT</pubDate>
-        <description>O 14:00 rozpoczął się mecz Realu Madryt z CA Osasuna na Santiago Bernabéu.</description>
+        <description>W meczu 13. kolejki La Ligi Real Madryt wygrał z Osasuną 4:0. Zwycięstwo Królewskim zapewniły gole Viníciusa Júniora, który popisał się hat-trickiem, oraz pierwsze w tym sezonie trafienie Jude’a Bellinghama.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/133927-kartka-z-kalendarza-9-listopada</link>
         <pubDate>Sat, 09 Nov 2024 08:40:00 GMT</pubDate>
         <description>Urodziny jednego ze współzałożycieli klubu oraz goleady z Realem Sociedad i Eibarem. Co działo się 9 listopada?</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti zorganizował spotkanie z profesorem Harvardu</title>
-        <link>https://www.realmadryt.pl/news/133964-ancelotti-zorganizowal-spotkanie-z-profesorem-harvardu</link>
-        <pubDate>Sat, 09 Nov 2024 08:23:00 GMT</pubDate>
-        <description>Włoch zdecydował się na zajęcia z profesjonalistą, aby nadal robić postępy w rozmowach z zawodnikami.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV o arbitrze na Osasuną: To ten od hasła „José Luisie, wszystko ok”</title>
-        <link>https://www.realmadryt.pl/news/133955-real-madrid-tv-o-arbitrze-na-osasuna-to-ten-od-hasla-jose-luisie-wszystko-ok</link>
-        <pubDate>Sat, 09 Nov 2024 07:50:00 GMT</pubDate>
-        <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Osasuną. Tym razem skupiono się na arbitrze głównym.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius zagrożony zawieszeniem w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/133956-vinicius-zagrozony-zawieszeniem-w-la-lidze</link>
-        <pubDate>Sat, 09 Nov 2024 07:00:00 GMT</pubDate>
-        <description>Królewscy wobec dużej liczby kartek muszą zacząć patrzeć na potencjalne zawieszenia. Zagrożony jest już jeden piłkarz.</description>
-    </item>
-    
-    <item>
-        <title>300 zł za wygraną Realu Madryt z Osasuną!</title>
-        <link>https://www.realmadryt.pl/news/133957-300-zl-za-wygrana-realu-madryt-z-osasuna</link>
-        <pubDate>Sat, 09 Nov 2024 06:00:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
