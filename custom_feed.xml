@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Nov 2024 17:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 18:27:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Remontada i zwycięstwo w Badalonie</title>
+        <link>https://www.realmadryt.pl/news/133986-remontada-i-zwyciestwo-w-badalonie</link>
+        <pubDate>Sat, 09 Nov 2024 19:18:00 GMT</pubDate>
+        <description>W meczu 9. kolejki Ligi F piłkarki Realu Madryt wygrały w Badalonie z Levante Badalona 3:1. Pomimo przegranej pierwszej połowy Królewskie zdołały odrobić straty w końcówce meczu dzięki bramce Naomie Feller i dubletowi Alby Redondo.</description>
+    </item>
     
     <item>
         <title>Guti: Sergio Ramos nie ma drużyny, jest za darmo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133974-moncayola-to-mecz-do-zapomnienia</link>
         <pubDate>Sat, 09 Nov 2024 16:15:00 GMT</pubDate>
         <description>Jon Moncayola udzielił wywiadu dla DAZN po przegranej 0:4 z Realem Madryt. Przedstawiamy słowa piłkarza Osasuny.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z Osasuną</title>
-        <link>https://www.realmadryt.pl/news/133973-vinicius-mvp-meczu-z-osasuna</link>
-        <pubDate>Sat, 09 Nov 2024 16:12:00 GMT</pubDate>
-        <description>Brazylijczyk uzyskał wyróżnienie za zwycięstwo 4:0 nad Osasuną.</description>
     </item>
     
 </channel>
