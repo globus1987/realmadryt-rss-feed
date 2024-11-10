@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 23:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 23:39:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Flick: Nie było spalonego</title>
+        <link>https://www.realmadryt.pl/news/134009-flick-nie-bylo-spalonego</link>
+        <pubDate>Mon, 11 Nov 2024 00:33:00 GMT</pubDate>
+        <description>Po przegranym 0:1 meczu z Realem Sociedad trener FC Barcelona podważał kompetencje półautomatycznego systemu spalonego, przez który VAR anulował bramkę FC Barcelona.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Osasuną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134000-relevo-metody-pintusa-budza-watpliwosci-zawodnikow</link>
         <pubDate>Sun, 10 Nov 2024 11:34:00 GMT</pubDate>
         <description>Część drużyny nie kryje braku wiary w trenera od przygotowania fizycznego. W tym sezonie w zespole Realu pojawiło się już 25 kontuzji.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius deklasuje Mbappé</title>
-        <link>https://www.realmadryt.pl/news/133998-vinicius-deklasuje-mbappe</link>
-        <pubDate>Sun, 10 Nov 2024 11:17:00 GMT</pubDate>
-        <description>Vinícius wygrywa z Kylianem Mbappé we wszystkich ofensywnych statystykach. Zdobywa więcej bramek, jest skuteczniejszy, ma więcej dryblingów, jest częściej faulowany, a nawet odbiera więcej piłek.</description>
     </item>
     
 </channel>
