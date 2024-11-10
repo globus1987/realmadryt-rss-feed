@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 16:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 16:42:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo po zaciętym meczu</title>
+        <link>https://www.realmadryt.pl/news/134004-zwyciestwo-po-zacietym-meczu</link>
+        <pubDate>Sun, 10 Nov 2024 17:27:00 GMT</pubDate>
+        <description>W 7. kolejce Ligi Endesa Real Madryt pokonał Gran Canarię. Znakomity występ zaliczył Facundo Campazzo, a samo spotkanie było bardzo wyrównane niemal do samego końca.</description>
+    </item>
     
     <item>
         <title>MARCA: Zimowe transfery obowiązkiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133996-wszystkiego-najlepszego-eduardo</link>
         <pubDate>Sun, 10 Nov 2024 07:50:00 GMT</pubDate>
         <description>Dziś swoje 22. urodziny obchodzi Eduardo Camavinga. Przede wszystkim, życzymy mu zdrowia, bo z nim Francuz może wszystko.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Stres, który czułem podczas mojego pierwszego meczu, był taki sam jak dzisiaj w Realu</title>
-        <link>https://www.realmadryt.pl/news/133967-ancelotti-stres-ktory-czulem-podczas-mojego-pierwszego-meczu-byl-taki-sam-jak-dzisiaj-w-realu</link>
-        <pubDate>Sun, 10 Nov 2024 07:00:00 GMT</pubDate>
-        <description>Magazyn France Football przeprowadził kilka tygodni temu obszerną rozmowę z Carlo Ancelottim, w której Włoch podsumował swoją dotychczasową karierę i opowiedział o metodach pracy. Wywiad jest długi, dlatego podzieliliśmy go na trzy części, które będzie sukcesywnie publikować.</description>
     </item>
     
 </channel>
