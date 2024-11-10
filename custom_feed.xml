@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 23:39:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 23:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134010-dzisiejsze-okladki</link>
+        <pubDate>Mon, 11 Nov 2024 00:46:00 GMT</pubDate>
+        <description>Porażka Barcelony to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Flick: Nie było spalonego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133980-pendin-nie-pokazalismy-naszej-najlepszej-wersji</link>
         <pubDate>Sun, 10 Nov 2024 14:44:00 GMT</pubDate>
         <description>Asystent pierwszego trenera Osasuny, Dani Pendín, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Metody Pintusa budzą wątpliwości zawodników</title>
-        <link>https://www.realmadryt.pl/news/134000-relevo-metody-pintusa-budza-watpliwosci-zawodnikow</link>
-        <pubDate>Sun, 10 Nov 2024 11:34:00 GMT</pubDate>
-        <description>Część drużyny nie kryje braku wiary w trenera od przygotowania fizycznego. W tym sezonie w zespole Realu pojawiło się już 25 kontuzji.</description>
     </item>
     
 </channel>
