@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 21:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 22:19:53 GMT</lastBuildDate>
     
     <item>
-        <title>13. kolejka: Barcelona gra u najgorszego gospodarza [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/134007-13-kolejka-barcelona-gra-u-najgorszego-gospodarza-live</link>
+        <title>Oceny zawodników po meczu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/134008-oceny-zawodnikow-po-meczu-z-osasuna</link>
+        <pubDate>Sun, 10 Nov 2024 22:57:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Osasuną 4:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>13. kolejka: Barcelona przegrywa z Sociedadem</title>
+        <link>https://www.realmadryt.pl/news/134007-13-kolejka-barcelona-przegrywa-z-sociedadem</link>
         <pubDate>Sun, 10 Nov 2024 20:30:00 GMT</pubDate>
-        <description>Lider La Ligi na zamknięcie tej kolejki gra na terenie Realu Sociedad, który wygrał u siebie dotychczas zaledwie jedno spotkanie.</description>
+        <description>Lider La Ligi na zamknięcie tej kolejki grał na terenie Realu Sociedad, który wygrał u siebie dotychczas zaledwie jedno spotkanie. Baskowie po dobrym meczu wygrali minimalnie, ale nawet takie zwycięstwo bardzo pomaga Królewskim.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133998-vinicius-deklasuje-mbappe</link>
         <pubDate>Sun, 10 Nov 2024 11:17:00 GMT</pubDate>
         <description>Vinícius wygrywa z Kylianem Mbappé we wszystkich ofensywnych statystykach. Zdobywa więcej bramek, jest skuteczniejszy, ma więcej dryblingów, jest częściej faulowany, a nawet odbiera więcej piłek.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 10 listopada</title>
-        <link>https://www.realmadryt.pl/news/133925-kartka-z-kalendarza-10-listopada</link>
-        <pubDate>Sun, 10 Nov 2024 10:30:00 GMT</pubDate>
-        <description>Urodziny legendarnego napastnika, wygrana z Górnikiem Zabrze, wyjątkowe mecze koszykarzy i wygrana z Alcorcón. Co działo się 10 listopada?</description>
     </item>
     
 </channel>
