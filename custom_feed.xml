@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 13:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 14:18:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x13: Czy chciałbyś Ramosa na Anfield?</title>
+        <link>https://www.realmadryt.pl/news/134001-podcast-6x13-czy-chcialbys-ramosa-na-anfield</link>
+        <pubDate>Sun, 10 Nov 2024 14:57:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy aktualną sytuację Realu Madryt oraz galę Złotej Piłki. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
+    </item>
     
     <item>
         <title>Pendín: Nie pokazaliśmy naszej najlepszej wersji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133994-dzisiejsze-okladki</link>
         <pubDate>Sun, 10 Nov 2024 00:06:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Militão: Znam już drogę do powrotu</title>
-        <link>https://www.realmadryt.pl/news/133992-militao-znam-juz-droge-do-powrotu</link>
-        <pubDate>Sat, 09 Nov 2024 23:04:00 GMT</pubDate>
-        <description>Brazylijczyk zamieścił wiadomość po swojej poważnej kontuzji.</description>
     </item>
     
 </channel>
