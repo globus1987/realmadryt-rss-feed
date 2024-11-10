@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 06:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 06:58:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Eduardo!</title>
+        <link>https://www.realmadryt.pl/news/133996-wszystkiego-najlepszego-eduardo</link>
+        <pubDate>Sun, 10 Nov 2024 07:50:00 GMT</pubDate>
+        <description>Dziś swoje 22. urodziny obchodzi Eduardo Camavinga. Przede wszystkim, życzymy mu zdrowia, bo z nim Francuz może wszystko.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Stres, który czułem podczas mojego pierwszego meczu, był taki sam jak dzisiaj w Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133984-vinicius-odpowiedzial-na-boisku</link>
         <pubDate>Sat, 09 Nov 2024 17:41:00 GMT</pubDate>
         <description>Bernabéu skandowało hasła o Złotej Piłce dla Brazylijczyka i podziwiało jego fantastyczny występ zwieńczony hattrickiem.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Jestem smutny, że Mili znowu musi przez to przechodzić</title>
-        <link>https://www.realmadryt.pl/news/133983-vinicius-jestem-smutny-ze-mili-znowu-musi-przez-to-przechodzic</link>
-        <pubDate>Sat, 09 Nov 2024 17:41:00 GMT</pubDate>
-        <description>Vinícius Júnior udzielił wywiadu Real Madrid TV po meczu z Osasuną. Przedstawiamy wypowiedzi Brazylijczyka z tej rozmowy.</description>
     </item>
     
 </channel>
