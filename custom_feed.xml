@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 05:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 06:28:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Stres, który czułem podczas mojego pierwszego meczu, był taki sam jak dzisiaj w Realu</title>
+        <link>https://www.realmadryt.pl/news/133967-ancelotti-stres-ktory-czulem-podczas-mojego-pierwszego-meczu-byl-taki-sam-jak-dzisiaj-w-realu</link>
+        <pubDate>Sun, 10 Nov 2024 07:00:00 GMT</pubDate>
+        <description>Magazyn France Football przeprowadził obszerną rozmowę z Carlo Ancelottim, w której Włoch podsumował swoją dotychczasową karierę i opowiedział o metodach pracy. Wywiad jest długi, dlatego podzieliliśmy go na trzy części, które będzie sukcesywnie publikować.</description>
+    </item>
     
     <item>
         <title>AS: Albo Ramos teraz, albo ktoś w styczniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133983-vinicius-jestem-smutny-ze-mili-znowu-musi-przez-to-przechodzic</link>
         <pubDate>Sat, 09 Nov 2024 17:41:00 GMT</pubDate>
         <description>Vinícius Júnior udzielił wywiadu Real Madrid TV po meczu z Osasuną. Przedstawiamy wypowiedzi Brazylijczyka z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Butragueño: Vinícius to jeden z najbardziej decydujących piłkarzy na świecie</title>
-        <link>https://www.realmadryt.pl/news/133982-butragueno-vinicius-to-jeden-z-najbardziej-decydujacych-pilkarzy-na-swiecie</link>
-        <pubDate>Sat, 09 Nov 2024 17:30:00 GMT</pubDate>
-        <description>Emilio Butragueño udzielił wywiadu klubowej telewizji po wygranej 4:0 z Osasuną. Przedstawiamy słowa działacza Królewskich.</description>
     </item>
     
 </channel>
