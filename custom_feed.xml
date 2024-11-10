@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Nov 2024 17:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 17:38:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Nadal opieram się na taktykach, które stosował Sacchi</title>
+        <link>https://www.realmadryt.pl/news/133999-ancelotti-nadal-opieram-sie-na-taktykach-ktore-stosowal-sacchi</link>
+        <pubDate>Sun, 10 Nov 2024 18:30:00 GMT</pubDate>
+        <description>Magazyn France Football przeprowadził kilka tygodni temu obszerną rozmowę z Carlo Ancelottim, w której Włoch podsumował swoją dotychczasową karierę i opowiedział o metodach pracy. Wywiad jest długi, dlatego podzieliliśmy go na trzy części.</description>
+    </item>
     
     <item>
         <title>Sytuacja medyczna Realu Madryt po meczu z Osasuną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/133993-modric-musimy-rozwiazac-te-problemy-wewnetrznie-miedzy-soba</link>
         <pubDate>Sun, 10 Nov 2024 10:00:00 GMT</pubDate>
         <description>Luka Modrić po meczu z Osasuną pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi kapitana Realu Madryt dla dziennikarzy radiowych i telewizyjnych.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: W WiZink Center graliśmy z większą energią niż na wyjazdach</title>
-        <link>https://www.realmadryt.pl/news/133987-mateo-w-wizink-center-gralismy-z-wieksza-energia-niz-na-wyjazdach</link>
-        <pubDate>Sun, 10 Nov 2024 08:50:00 GMT</pubDate>
-        <description>Chus Mateo wypowiadał się dla klubowych mediów przed spotkaniem z Gran Canarią. Mówił o tym, że przed własną publicznością drużyna gra o wiele lepiej niż na wyjazdach.</description>
     </item>
     
 </channel>
