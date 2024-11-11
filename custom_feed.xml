@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 11 Nov 2024 22:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 23:20:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134037-dzisiejsze-okladki</link>
+        <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+        <description>Plany Realu Madryt i kontuzja Lamine'a Yamala to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Agent Taha: Latem przejdzie do wielkiego klubu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134020-oficjalnie-przelozony-mecz-z-athletikiem-odbedzie-sie-na-poczatku-grudnia</link>
         <pubDate>Mon, 11 Nov 2024 12:35:00 GMT</pubDate>
         <description>Królewscy poznali dokładny termin przyśpieszonego meczu 19. kolejki, która odbędzie się w terminie Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lucas i Rodrygo kontuzjowani</title>
-        <link>https://www.realmadryt.pl/news/134019-oficjalnie-lucas-i-rodrygo-kontuzjowani</link>
-        <pubDate>Mon, 11 Nov 2024 12:21:00 GMT</pubDate>
-        <description>Klub potwierdził kontuzje mięśniowe Hiszpana i Brazylijczyka.</description>
     </item>
     
 </channel>
