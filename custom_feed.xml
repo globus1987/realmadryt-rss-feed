@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 11 Nov 2024 10:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 10:43:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niewidzialny Vallejo</title>
+        <link>https://www.realmadryt.pl/news/134017-niewidzialny-vallejo</link>
+        <pubDate>Mon, 11 Nov 2024 11:27:00 GMT</pubDate>
+        <description>Jesús Vallejo kompletnie nie liczy się dla Carlo Ancelottiego. W meczu z Osasuną trener wolał dać szansę Raúlowi Asencio, który zastąpił kontuzjowanego Édera Militão. Nawet w tak kryzysowej sytuacji Vallejo nie wybiegł nawet na rozgrzewkę.</description>
+    </item>
     
     <item>
         <title>AS: Ramos wypada, Tah wchodzi na scenę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134007-13-kolejka-barcelona-przegrywa-z-sociedadem</link>
         <pubDate>Sun, 10 Nov 2024 20:30:00 GMT</pubDate>
         <description>Lider La Ligi na zamknięcie tej kolejki grał na terenie Realu Sociedad, który wygrał u siebie dotychczas zaledwie jedno spotkanie. Baskowie po dobrym meczu wygrali minimalnie, ale nawet takie zwycięstwo bardzo pomaga Królewskim.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Nadal opieram się na taktykach, które stosował Sacchi</title>
-        <link>https://www.realmadryt.pl/news/133999-ancelotti-nadal-opieram-sie-na-taktykach-ktore-stosowal-sacchi</link>
-        <pubDate>Sun, 10 Nov 2024 18:30:00 GMT</pubDate>
-        <description>Magazyn France Football przeprowadził kilka tygodni temu obszerną rozmowę z Carlo Ancelottim, w której Włoch podsumował swoją dotychczasową karierę i opowiedział o metodach pracy. Wywiad jest długi, dlatego podzieliliśmy go na trzy części.</description>
     </item>
     
 </channel>
