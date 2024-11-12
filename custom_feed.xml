@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 12 Nov 2024 08:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 09:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>O powrót do czołowej dziesiątki</title>
+        <link>https://www.realmadryt.pl/news/134035-o-powrot-do-czolowej-dziesiatki</link>
+        <pubDate>Tue, 12 Nov 2024 10:00:00 GMT</pubDate>
+        <description>W 9. kolejce Euroligi do WiZink Center przyjedzie Virtus. Zarówno Real Madryt, jak i klub z Bolonii potrzebują zwycięstwa, ponieważ zajmują pozycje w dolnej części tabeli.</description>
+    </item>
     
     <item>
         <title>„Czegokolwiek będzie potrzebować, powiedz mi”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134027-szef-var-u-system-spalonego-ma-dodatkowe-kamery-niedostepne-dla-realizacji-telewizyjnej</link>
         <pubDate>Mon, 11 Nov 2024 15:25:00 GMT</pubDate>
         <description>Clos Gómez to osoba odpowiedzialna w Komitecie Technicznym Arbitrów w Hiszpańskiej Federacji Piłkarskiej za VAR. Były arbiter pojawił się dzisiaj na gali nagród dziennika MARCA, gdzie wypowiedział się na temat kontrowersyjnego spalonego Roberta Lewandowskiego w meczu z Sociedadem. Przedstawiamy jego wypowiedzi w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 16. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/134026-terminarz-16-kolejki-la-ligi</link>
-        <pubDate>Mon, 11 Nov 2024 15:25:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 16. kolejki, w której Real Madryt zagra na wyjeździe z Gironą.</description>
     </item>
     
 </channel>
