@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 11 Nov 2024 23:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 01:44:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Maroto: Real Madryt zimą nie dokona żadnego transferu</title>
+        <link>https://www.realmadryt.pl/news/134038-maroto-real-madryt-zima-nie-dokona-zadnego-transferu</link>
+        <pubDate>Tue, 12 Nov 2024 00:54:00 GMT</pubDate>
+        <description>Joaquín Maroto to dziennikarz Asa, który może pochwalić się bezpośrednim dostępem do Florentino Péreza. Maroto to były dyrektor komunikacji w Realu Madryt i były dyrektor komunikacji w firmie Florentino. Przedstawiamy jego informacje w sprawie transferowych planów Realu Madryt. W ostatnich latach to on przedstawiał poprawne informacje w sprawie Kyliana Mbappé czy podawał nowe wiadomości w sprawie Superligi.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134021-alexander-arnold-ma-szanse-na-wystep-przeciwko-realowi-madryt</link>
         <pubDate>Mon, 11 Nov 2024 12:59:00 GMT</pubDate>
         <description>Najbliżsi europejscy rywale Królewskich otrzymali dosyć dobre informacje w sprawie stanu zdrowia jednej ze swoich gwiazd.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Przełożony mecz z Athletikiem odbędzie się na początku grudnia</title>
-        <link>https://www.realmadryt.pl/news/134020-oficjalnie-przelozony-mecz-z-athletikiem-odbedzie-sie-na-poczatku-grudnia</link>
-        <pubDate>Mon, 11 Nov 2024 12:35:00 GMT</pubDate>
-        <description>Królewscy poznali dokładny termin przyśpieszonego meczu 19. kolejki, która odbędzie się w terminie Superpucharu Hiszpanii.</description>
     </item>
     
 </channel>
