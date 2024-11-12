@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 12 Nov 2024 08:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 08:46:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Czegokolwiek będzie potrzebować, powiedz mi”</title>
+        <link>https://www.realmadryt.pl/news/134036-czegokolwiek-bedzie-potrzebowac-powiedz-mi</link>
+        <pubDate>Tue, 12 Nov 2024 09:30:00 GMT</pubDate>
+        <description>Platforma DAZN wyłapała gest Carlo Ancelottiego wobec trenera Osasuny, którego rodzina ucierpiała przez zjawisko DANA.</description>
+    </item>
     
     <item>
         <title>Sky: Martin Baturina odrzucił ofertę Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134026-terminarz-16-kolejki-la-ligi</link>
         <pubDate>Mon, 11 Nov 2024 15:25:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 16. kolejki, w której Real Madryt zagra na wyjeździe z Gironą.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham piłkarzem poprzedniego sezonu La Ligi</title>
-        <link>https://www.realmadryt.pl/news/134025-bellingham-pilkarzem-poprzedniego-sezonu-la-ligi</link>
-        <pubDate>Mon, 11 Nov 2024 15:11:00 GMT</pubDate>
-        <description>Dziennik MARCA rozdał dzisiaj nagrody za poprzedni sezon ligowy. Najlepszym zawodnikiem rozgrywek został Jude Bellingham. Wśród nagrodzonych znalazł się także Isco.</description>
     </item>
     
 </channel>
