@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 12 Nov 2024 09:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 09:40:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pirès: Nie ma żadnego konfliktu między Mbappé a Deschampsem</title>
+        <link>https://www.realmadryt.pl/news/134042-pires-nie-ma-zadnego-konfliktu-miedzy-mbappe-a-deschampsem</link>
+        <pubDate>Tue, 12 Nov 2024 10:23:00 GMT</pubDate>
+        <description>Robert Pirès udzielił wywiadu dla egipskiej stacji MBC MASR 2, w którym mówił o sytuacji Kyliana Mbappé. Przedstawiamy wypowiedzi byłego reprezentanta Francji.</description>
+    </item>
     
     <item>
         <title>O powrót do czołowej dziesiątki</title>
@@ -38,7 +45,7 @@
         <title>10 zerwanych więzadeł na przestrzeni 15 miesięcy</title>
         <link>https://www.realmadryt.pl/news/134029-10-zerwanych-wiezadel-na-przestrzeni-15-miesiecy</link>
         <pubDate>Tue, 12 Nov 2024 07:50:00 GMT</pubDate>
-        <description>Od sierpnia 2023 roku w klubie zdiagnozowano łącznie 15 przypadków zerwania więzadeł. Kontuzje kolana stały się koszmarem dla Realu Madryt, a w ostatnim starciu z Osasuną pechowcem okazał się Éder Militão.</description>
+        <description>Od sierpnia 2023 roku w klubie zdiagnozowano łącznie 10 przypadków zerwania więzadeł. Kontuzje kolana stały się koszmarem dla Realu Madryt, a w ostatnim starciu z Osasuną pechowcem okazał się Éder Militão.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134028-oficjalnie-znamy-termin-losowania-grup-klubowych-mistrzostw-swiata-2025</link>
         <pubDate>Mon, 11 Nov 2024 18:17:00 GMT</pubDate>
         <description>FIFA poinformowała, że losowanie fazy grupowej turnieju odbędzie się na początku grudnia.</description>
-    </item>
-    
-    <item>
-        <title>Szef VAR-u: System spalonego ma dodatkowe kamery niedostępne dla realizacji telewizyjnej</title>
-        <link>https://www.realmadryt.pl/news/134027-szef-var-u-system-spalonego-ma-dodatkowe-kamery-niedostepne-dla-realizacji-telewizyjnej</link>
-        <pubDate>Mon, 11 Nov 2024 15:25:00 GMT</pubDate>
-        <description>Clos Gómez to osoba odpowiedzialna w Komitecie Technicznym Arbitrów w Hiszpańskiej Federacji Piłkarskiej za VAR. Były arbiter pojawił się dzisiaj na gali nagród dziennika MARCA, gdzie wypowiedział się na temat kontrowersyjnego spalonego Roberta Lewandowskiego w meczu z Sociedadem. Przedstawiamy jego wypowiedzi w tej sprawie.</description>
     </item>
     
 </channel>
