@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Nov 2024 07:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 08:29:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Decyzja o terminie meczu z Valencią w połowie grudnia</title>
+        <link>https://www.realmadryt.pl/news/134066-cope-decyzja-o-terminie-meczu-z-valencia-w-polowie-grudnia</link>
+        <pubDate>Wed, 13 Nov 2024 09:20:00 GMT</pubDate>
+        <description>Federacja zamieniła terminy półfinałów Superpucharu Hiszpanii, by zmieścić na początku nowego roku zaległy mecz Realu Madryt. Jego rozegranie ciągle nie jest jednak pewne.</description>
+    </item>
     
     <item>
         <title>Real przekazał Valencii i Levante ogromną senyerę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134055-vinicius-zawodnikiem-na-piec-gwiazdek-za-pazdziernik</link>
         <pubDate>Tue, 12 Nov 2024 18:29:00 GMT</pubDate>
         <description>Brazylijski napastnik po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Finał Pucharu Interkontynentalnego na Lusail Stadium</title>
-        <link>https://www.realmadryt.pl/news/134054-oficjalnie-final-pucharu-interkontynentalnego-na-lusail-stadium</link>
-        <pubDate>Tue, 12 Nov 2024 18:24:00 GMT</pubDate>
-        <description>FIFA zdradza kolejne szczegóły grudniowego Pucharu Interkontynentalnego. Real Madryt swój finałowy mecz rozegra na Lusail Stadium w Dosze.</description>
     </item>
     
 </channel>
