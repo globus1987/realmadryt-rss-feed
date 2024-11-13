@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Nov 2024 22:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 23:21:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134092-dzisiejsze-okladki</link>
+        <pubDate>Thu, 14 Nov 2024 00:17:00 GMT</pubDate>
+        <description>Sytuacja Davida Alaby i reprezentacyjne wywiady to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Laporte: Oczywiście, że wysłuchałbym Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/134091-laporte-oczywiscie-ze-wysluchalbym-realu-madryt</link>
+        <pubDate>Thu, 14 Nov 2024 00:05:00 GMT</pubDate>
+        <description>Aymeric Laporte był gościem radia SER w trakcie pobytu na zgrupowaniu reprezentacji Hiszpanii. Przedstawiamy jego wypowiedzi w temacie spekulacji łączących go z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Angielski sędzia złapany na obrażaniu klubów i… wciąganiu białego proszku na EURO</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134077-canizares-real-madryt-ma-problem-gdyz-rynek-wie-ze-ma-pieniadze</link>
         <pubDate>Wed, 13 Nov 2024 15:06:00 GMT</pubDate>
         <description>Były bramkarz Realu Madryt i Valencii, Santiago Cañizares, był gościem programu Despierta San Francisco na falach radia MARCA. W trakcie rozmowy przeanalizował możliwości transferowe Królewskich w zimowym okienku.</description>
-    </item>
-    
-    <item>
-        <title>Dlaczego Ramos nie jest tym piłkarzem, którego potrzebuje teraz Real?</title>
-        <link>https://www.realmadryt.pl/news/134070-dlaczego-ramos-nie-jest-tym-pilkarzem-ktorego-potrzebuje-teraz-real</link>
-        <pubDate>Wed, 13 Nov 2024 14:15:00 GMT</pubDate>
-        <description>Mario Cortegana przedstawia historię i argumenty, na których mają opierać się Królewscy, aby nie pozyskiwać Sergio Ramosa.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening z Castillą</title>
-        <link>https://www.realmadryt.pl/news/134076-dzisiejszy-trening-z-castilla</link>
-        <pubDate>Wed, 13 Nov 2024 13:24:00 GMT</pubDate>
-        <description>Dostępni zawodnicy pojawili się dzisiaj w Valdebebas i kontynuowali pracę w trakcie przerwy na reprezentacje.</description>
     </item>
     
 </channel>
