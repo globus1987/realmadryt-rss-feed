@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Nov 2024 16:26:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 16:46:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jedenaście absencji w Castilli</title>
+        <link>https://www.realmadryt.pl/news/134081-jedenascie-absencji-w-castilli</link>
+        <pubDate>Wed, 13 Nov 2024 17:29:00 GMT</pubDate>
+        <description>Kontuzja Pola Fortuny’ego sprawiła, że Raúl z różnych przyczyn nie będzie mógł w najbliższym meczu liczyć na aż jedenastu zawodników z rezerw.</description>
+    </item>
     
     <item>
         <title>Joaquín: Ceballos? W tym momencie nie ma niczego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134072-albo-podniesiemy-poziom-albo-liverpool-nas-zmiecie</link>
         <pubDate>Wed, 13 Nov 2024 10:33:00 GMT</pubDate>
         <description>Są zawodnicy, którzy doceniają tę zmianę, którą trener zamierza wprowadzić w tej przerwie i rozszerzyć na cały sezon.</description>
-    </item>
-    
-    <item>
-        <title>Pierwsza odsłona walki o awans</title>
-        <link>https://www.realmadryt.pl/news/134071-pierwsza-odslona-walki-o-awans</link>
-        <pubDate>Wed, 13 Nov 2024 10:08:00 GMT</pubDate>
-        <description>W meczu 3. kolejki fazy grupowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Twente. Początek spotkania o godzinie 18:45.</description>
     </item>
     
 </channel>
