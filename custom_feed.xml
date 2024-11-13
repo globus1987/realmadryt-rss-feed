@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Nov 2024 08:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 09:23:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsza odsłona walki o awans</title>
+        <link>https://www.realmadryt.pl/news/134071-pierwsza-odslona-walki-o-awans</link>
+        <pubDate>Wed, 13 Nov 2024 10:08:00 GMT</pubDate>
+        <description>W meczu 3. kolejki fazy grupowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Twente. Początek spotkania o godzinie 18:45.</description>
+    </item>
+    
+    <item>
+        <title>Tebas: Dopóki Florentino będzie prezesem Realu, będę zmartwiony</title>
+        <link>https://www.realmadryt.pl/news/134059-tebas-dopoki-florentino-bedzie-prezesem-realu-bede-zmartwiony</link>
+        <pubDate>Wed, 13 Nov 2024 09:55:00 GMT</pubDate>
+        <description>Javier Tebas wziął udział w Olé Sports Summit Argentina 2024 organizowany przez argentyński dziennik Olé. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi z tego spotkania z mediami.</description>
+    </item>
     
     <item>
         <title>COPE: Decyzja o terminie meczu z Valencią w połowie grudnia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134061-zwyciestwo-koszykarzy-1100-wystep-llulla</link>
         <pubDate>Tue, 12 Nov 2024 23:16:00 GMT</pubDate>
         <description>W 9. kolejce Euroligi Real Madryt pokonał Virtusa Bolonia i pozostaje niepokonaną drużyną na własnym parkiecie. Sergio Llull założył dzisiaj koszulkę Królewskich po raz 1100.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Zamiana półfinałów Superpucharu, celem rozegranie meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/134056-oficjalnie-zamiana-polfinalow-superpucharu-celem-rozegranie-meczu-z-valencia</link>
-        <pubDate>Tue, 12 Nov 2024 20:18:00 GMT</pubDate>
-        <description>Federacja poinformowała o zamianie terminów półfinałów Superpucharu Hiszpanii. Ma to pozwolić Realowi Madryt na szybsze odrobienie zaległego ligowego meczu z Valencią.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius zawodnikiem na Pięć Gwiazdek za październik</title>
-        <link>https://www.realmadryt.pl/news/134055-vinicius-zawodnikiem-na-piec-gwiazdek-za-pazdziernik</link>
-        <pubDate>Tue, 12 Nov 2024 18:29:00 GMT</pubDate>
-        <description>Brazylijski napastnik po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
