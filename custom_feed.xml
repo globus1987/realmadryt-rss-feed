@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Nov 2024 22:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 23:24:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134116-dzisiejsze-okladki</link>
+        <pubDate>Fri, 15 Nov 2024 00:17:00 GMT</pubDate>
+        <description>Mecz Hiszpanii w Lidze Narodów i plany transferowe Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pierwsza porażka na własnym terenie</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Brazylia gra z Wenezuelą, Vini w pierwszym składzie [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/134114-brazylia-gra-z-wenezuela-vini-w-pierwszym-skladzie-live</link>
+        <title>Vinícius nie strzelił karnego, tylko remis Canarinhos [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/134114-vinicius-nie-strzelil-karnego-tylko-remis-canarinhos-video</link>
         <pubDate>Thu, 14 Nov 2024 21:37:00 GMT</pubDate>
-        <description>Reprezentacja Brazylii rywalizuje z Wenezuelą o kolejne punkty w eliminacjach. Dorival Júnior postawił od pierwszych minut między innymi na Viníciusa, Raphinhę, Savinho i Igora Jesusa.</description>
+        <description>Reprezentacja Brazylii tylko zremisowała na wyjeździe z Wenezuelą 1:1. W drugiej połowie rzutu karnego nie wykorzystał Vinícius, który wcześniej był faulowany przez bramkarza gospodarzy.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134101-chiringuito-alaba-moze-rozpoczac-treningi-z-grupa-juz-za-2-tygodnie</link>
         <pubDate>Thu, 14 Nov 2024 14:21:00 GMT</pubDate>
         <description>Jeszcze w październiku spekulowano, że Austriak jest bliżej zakończenia kariery niż powrotu do gry. Teraz mówi się już o terminie jego powrotu do pracy z grupą.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Będą transfery zimą, ale… do szkółki</title>
-        <link>https://www.realmadryt.pl/news/134098-relevo-beda-transfery-zima-ale-do-szkolki</link>
-        <pubDate>Thu, 14 Nov 2024 14:15:00 GMT</pubDate>
-        <description>Królewscy myślą o wzmocnieniach w dwóch rezerwowych drużynach, które w tym sezonie kiepsko sobie radzą.</description>
     </item>
     
 </channel>
