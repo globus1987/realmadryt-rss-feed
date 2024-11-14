@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Nov 2024 22:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 22:44:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsza porażka na własnym terenie</title>
+        <link>https://www.realmadryt.pl/news/134115-pierwsza-porazka-na-wlasnym-terenie</link>
+        <pubDate>Thu, 14 Nov 2024 23:29:00 GMT</pubDate>
+        <description>Real Madryt przegrał w końcu w WiZink Center i pogorszył swoją sytuację w Eurolidze. Królewscy z dorobkiem zaledwie czterech zwycięstw zajmują dopiero jedenaste miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Brazylia gra z Wenezuelą, Vini w pierwszym składzie [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134098-relevo-beda-transfery-zima-ale-do-szkolki</link>
         <pubDate>Thu, 14 Nov 2024 14:15:00 GMT</pubDate>
         <description>Królewscy myślą o wzmocnieniach w dwóch rezerwowych drużynach, które w tym sezonie kiepsko sobie radzą.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/134100-dzisiejszy-trening</link>
-        <pubDate>Thu, 14 Nov 2024 13:04:00 GMT</pubDate>
-        <description>Dostępni zawodnicy pojawili się dzisiaj w Valdebebas i kontynuowali pracę w trakcie przerwy na reprezentacje.</description>
     </item>
     
 </channel>
