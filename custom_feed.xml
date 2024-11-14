@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Nov 2024 11:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 12:46:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/134100-dzisiejszy-trening</link>
+        <pubDate>Thu, 14 Nov 2024 13:04:00 GMT</pubDate>
+        <description>Dostępni zawodnicy pojawili się dzisiaj w Valdebebas i kontynuowali pracę w trakcie przerwy na reprezentacje.</description>
+    </item>
     
     <item>
         <title>Mateo: Grając u siebie, czujemy się pewniej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134086-miasto-madryt-jako-pierwsze-nazywa-osrodek-realu-im-florentino-pereza</link>
         <pubDate>Thu, 14 Nov 2024 07:00:00 GMT</pubDate>
         <description>Rok temu Nadzwyczajne Walne Zgromadzenie Realu Madryt zatwierdziło zmianę nazwy ośrodka klubu w Valdebebas. Władze miasta jako pierwsze wprowadziły modyfikację w życie, chociaż na razie nie zrobił tego klub.</description>
-    </item>
-    
-    <item>
-        <title>Vallejo nie istnieje</title>
-        <link>https://www.realmadryt.pl/news/134069-vallejo-nie-istnieje</link>
-        <pubDate>Thu, 14 Nov 2024 06:50:00 GMT</pubDate>
-        <description>Obrońca nie gra nawet wtedy, gdy brakuje już piłkarzy pierwszego zespołu, jak miało to miejsce choćby podczas ostatniego spotkania.</description>
     </item>
     
 </channel>
