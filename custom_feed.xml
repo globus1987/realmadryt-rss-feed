@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Nov 2024 07:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 07:39:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Lucas Vázquez może wrócić już na Liverpool</title>
+        <link>https://www.realmadryt.pl/news/134093-marca-lucas-vazquez-moze-wrocic-juz-na-liverpool</link>
+        <pubDate>Thu, 14 Nov 2024 08:37:00 GMT</pubDate>
+        <description>Lekarze Realu Madryt po kilku dniach uznali, że kontuzja prawego obrońcy nie jest aż tak poważna i będzie mógł wrócić do gry wcześniej.</description>
+    </item>
     
     <item>
         <title>Miasto Madryt jako pierwsze nazywa ośrodek Realu im. Florentino Péreza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134078-joaquin-ceballos-w-tym-momencie-nie-ma-niczego</link>
         <pubDate>Wed, 13 Nov 2024 16:56:00 GMT</pubDate>
         <description>Obecność Daniego Ceballosa na ostatnim meczu Betisu z Celtą podsyciła plotki o możliwym transferze pomocnika do stolicy Andaluzjii. O tym, ile w tym prawdy, mówił dyrektor sportowy Los Verdiblanos, Joaquín Sánchez, w nocnym programie El Larguero w radiu SER.</description>
-    </item>
-    
-    <item>
-        <title>L’Équipe: FIFA rozważa wprowadzenie challenge'u dla trenerów</title>
-        <link>https://www.realmadryt.pl/news/134079-l-equipe-fifa-rozwaza-wprowadzenie-challengeu-dla-trenerow</link>
-        <pubDate>Wed, 13 Nov 2024 16:05:00 GMT</pubDate>
-        <description>FIFA ma nadzieję rozwinąć system Football Video Support (FVS), alternatywę dla VAR, umożliwiającą trenerom „zakwestionowanie” decyzji sędziowskiej, którą uznają za błędną.</description>
     </item>
     
 </channel>
