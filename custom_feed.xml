@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Nov 2024 05:41:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 05:54:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vallejo nie istnieje</title>
+        <link>https://www.realmadryt.pl/news/134069-vallejo-nie-istnieje</link>
+        <pubDate>Thu, 14 Nov 2024 06:50:00 GMT</pubDate>
+        <description>Obrońca nie gra nawet wtedy, gdy brakuje już piłkarzy pierwszego zespołu, jak miało to miejsce choćby podczas ostatniego spotkania.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134074-akademia-albo-portfel</link>
         <pubDate>Wed, 13 Nov 2024 15:57:00 GMT</pubDate>
         <description>Niesprzyjające okoliczności zmuszają Królewskich do wzmocnienia kadry pierwszej drużyny, ale rynek transferowy jest drogi i kilka wpływowych osób w Valdebebas wolałoby postawić na wychowanków z madryckiej akademii.</description>
-    </item>
-    
-    <item>
-        <title>Cañizares: Real Madryt ma problem, gdyż rynek wie, że ma pieniądze</title>
-        <link>https://www.realmadryt.pl/news/134077-canizares-real-madryt-ma-problem-gdyz-rynek-wie-ze-ma-pieniadze</link>
-        <pubDate>Wed, 13 Nov 2024 15:06:00 GMT</pubDate>
-        <description>Były bramkarz Realu Madryt i Valencii, Santiago Cañizares, był gościem programu Despierta San Francisco na falach radia MARCA. W trakcie rozmowy przeanalizował możliwości transferowe Królewskich w zimowym okienku.</description>
     </item>
     
 </channel>
