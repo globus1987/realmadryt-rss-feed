@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Nov 2024 07:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 08:29:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hermoso: Zainteresowanie Realu to dla mnie zaszczyt</title>
+        <link>https://www.realmadryt.pl/news/134119-hermoso-zainteresowanie-realu-to-dla-mnie-zaszczyt</link>
+        <pubDate>Fri, 15 Nov 2024 09:19:00 GMT</pubDate>
+        <description>Mario Hermoso, wychowanek Realu Madryt, który tego lata trafił do Romy, udzielił wywiadu dziennikowi AS.</description>
+    </item>
     
     <item>
         <title>200 zł za gola Polski z Portugalią!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134106-fifa-pokazala-trofeum-dla-zwyciezcy-klubowego-mundialu</link>
         <pubDate>Thu, 14 Nov 2024 17:44:00 GMT</pubDate>
         <description>FIFA przedstawiła trofeum, jakie będzie mógł zdobyć zwycięzca Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real monitoruje sytuację Kimmicha</title>
-        <link>https://www.realmadryt.pl/news/134105-as-real-monitoruje-sytuacje-kimmicha</link>
-        <pubDate>Thu, 14 Nov 2024 16:43:00 GMT</pubDate>
-        <description>Kontrakt niemieckiego pomocnika wygasa w czerwcu 2025 roku, a Królewskim po odejściu Toniego Kroosa ewidentnie brakuje zawodnika o podobnym profilu. Klub nie planuje jednak sprowadzenia 29-latka. Przynajmniej na razie.</description>
     </item>
     
 </channel>
