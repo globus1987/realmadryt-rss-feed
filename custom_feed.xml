@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Nov 2024 13:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 14:24:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Komplet na Butarque</title>
+        <link>https://www.realmadryt.pl/news/134122-komplet-na-butarque</link>
+        <pubDate>Fri, 15 Nov 2024 15:01:00 GMT</pubDate>
+        <description>Stadion Leganés wypełni się po brzegi, aby przyjąć w następną niedzielę piłkarzy Realu Madryt. Ostatnia wizyta Królewskich na Butarque miała miejsce jeszcze za czasów koronawirusa.</description>
+    </item>
     
     <item>
         <title>Mateo: Nie graliśmy nic, ani ofensywnie, ani defensywie w pierwszej połowie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134112-200-zl-za-gola-polski-z-portugalia</link>
         <pubDate>Fri, 15 Nov 2024 08:40:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Militão nie chciał grać na prawej obronie przeciwko Milanowi</title>
-        <link>https://www.realmadryt.pl/news/134113-marca-militao-nie-chcial-grac-na-prawej-obronie-przeciwko-milanowi</link>
-        <pubDate>Fri, 15 Nov 2024 07:50:00 GMT</pubDate>
-        <description>Carlo Ancelotti chciał dokonać zmian w obronie na mecz z Milanem. Ostatecznie zagrał w teorii podstawowym zestawieniem, bo Éder Militão nie czuł się dobrze na prawej stronie defensywy.</description>
     </item>
     
 </channel>
