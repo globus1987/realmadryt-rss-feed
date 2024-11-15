@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Nov 2024 09:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 10:25:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają wolne do poniedziałku</title>
+        <link>https://www.realmadryt.pl/news/134123-krolewscy-maja-wolne-do-poniedzialku</link>
+        <pubDate>Fri, 15 Nov 2024 11:12:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero w poniedziałek i wówczas rozpoczną przygotowania do kolejnego meczu ligowego w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 listopada</title>
+        <link>https://www.realmadryt.pl/news/134118-kartka-z-kalendarza-15-listopada</link>
+        <pubDate>Fri, 15 Nov 2024 11:00:00 GMT</pubDate>
+        <description>Urodziny legendarnego piłkarza i jednego z symboli obecnej drużyny koszykarskiej oraz prezentacja kolejnego wielkiego zawodnika. Co działo się 15 listopada?</description>
+    </item>
     
     <item>
         <title>Wewnętrzne napięcia w Realu: 25 kontuzji, obawy o kilometry i wątpliwości wobec Pintusa oraz Mauriego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134114-vinicius-nie-strzelil-karnego-tylko-remis-canarinhos-video</link>
         <pubDate>Thu, 14 Nov 2024 21:37:00 GMT</pubDate>
         <description>Reprezentacja Brazylii tylko zremisowała na wyjeździe z Wenezuelą 1:1. W drugiej połowie rzutu karnego nie wykorzystał Vinícius, który wcześniej był faulowany przez bramkarza gospodarzy.</description>
-    </item>
-    
-    <item>
-        <title>Sensacyjny remis Francji i wysoka wygrana Anglii</title>
-        <link>https://www.realmadryt.pl/news/134109-sensacyjny-remis-francji-i-wysoka-wygrana-anglii</link>
-        <pubDate>Thu, 14 Nov 2024 20:19:00 GMT</pubDate>
-        <description>W ramach 5. kolejki Ligi Narodów Francja grała z Izraelem w Paryżu, a Grecja z Anglią w Atenach.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real powalczy o Jonathana Taha z Bayernem i Barceloną</title>
-        <link>https://www.realmadryt.pl/news/134108-as-real-powalczy-o-jonathana-taha-z-bayernem-i-barcelona</link>
-        <pubDate>Thu, 14 Nov 2024 19:31:00 GMT</pubDate>
-        <description>Bayern Leverkusen nie rozważa sprzedaży stopera w styczniu, co oznacza, że latem będzie mógł odejść za darmo, ponieważ wygaśnie wtedy jego kontrakt.</description>
     </item>
     
 </channel>
