@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Nov 2024 23:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 23:53:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134139-dzisiejsze-okladki</link>
+        <pubDate>Sat, 16 Nov 2024 00:47:00 GMT</pubDate>
+        <description>Wygrana Hiszpanii i kobiecy Klasyk to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Agent Daviesa: Porozumienie z Realem Madryt NIE jest prawdą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134125-sedzia-od-sprawy-negreiry-odchodzi-na-emeryture</link>
         <pubDate>Fri, 15 Nov 2024 11:58:00 GMT</pubDate>
         <description>Sędzia prowadzący śledztwo w Sprawie Negreiry zostawia je z powodu przejścia na emeryturę. Postępowanie tymczasowo przejmuje nowy sąd i wszystko wstrzyma działania w tym temacie.</description>
-    </item>
-    
-    <item>
-        <title>„Mbappé potrzebuje zarządzania Ancelottiego”</title>
-        <link>https://www.realmadryt.pl/news/134124-mbappe-potrzebuje-zarzadzania-ancelottiego</link>
-        <pubDate>Fri, 15 Nov 2024 11:33:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat sytuacji Kyliana Mbappé i roli Carlo Ancelottiego w odzyskaniu najlepszej wersji Francuza.</description>
     </item>
     
 </channel>
