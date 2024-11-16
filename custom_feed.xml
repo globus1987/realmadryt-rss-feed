@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 16 Nov 2024 10:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 10:42:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić będzie mógł zagrać z Portugalią</title>
+        <link>https://www.realmadryt.pl/news/134146-modric-bedzie-mogl-zagrac-z-portugalia</link>
+        <pubDate>Sat, 16 Nov 2024 11:39:00 GMT</pubDate>
+        <description>Błąd realizatora spowodował zamieszanie i wydawało się, że we wczorajszym meczu pomocnik Realu Madryt otrzymał żółtą kartkę.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 16 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134139-dzisiejsze-okladki</link>
         <pubDate>Sat, 16 Nov 2024 00:47:00 GMT</pubDate>
         <description>Wygrana Hiszpanii i kobiecy Klasyk to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Agent Daviesa: Porozumienie z Realem Madryt NIE jest prawdą</title>
-        <link>https://www.realmadryt.pl/news/134134-agent-daviesa-porozumienie-z-realem-madryt-nie-jest-prawda</link>
-        <pubDate>Fri, 15 Nov 2024 22:45:00 GMT</pubDate>
-        <description>Agent Kanadyjczyka zaprzecza jakiemukolwiek porozumieniu z Realem Madryt i przekazuje, że ciągle możliwe jest jego pozostanie w Bayernie Monachium.</description>
     </item>
     
 </channel>
