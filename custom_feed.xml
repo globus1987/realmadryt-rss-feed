@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 16 Nov 2024 23:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 23:40:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134159-dzisiejsze-okladki</link>
+        <pubDate>Sun, 17 Nov 2024 00:32:00 GMT</pubDate>
+        <description>Porażka piłkarek Realu Madryt i osiągnięcia piłkarzy to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wysokie zwycięstwo Niemców z Bośnią i Hercegowiną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134144-lgds-milan-mysli-o-brahimie</link>
         <pubDate>Sat, 16 Nov 2024 10:39:00 GMT</pubDate>
         <description>Według La Gazetty dello Sport Rossoneri chcieliby ponownie mieć marokańskiego pomocnika u siebie już tej zimy.</description>
-    </item>
-    
-    <item>
-        <title>Kylian Mbappé i reprezentacja Francji – co się stało?</title>
-        <link>https://www.realmadryt.pl/news/134143-kylian-mbappe-i-reprezentacja-francji-co-sie-stalo</link>
-        <pubDate>Sat, 16 Nov 2024 10:18:00 GMT</pubDate>
-        <description>Dlaczego piłkarz Realu Madryt przestał być powoływany do reprezentacji Francji?  O dogłębną analizę sytuacji pokusili się Mario Cortegana i Patrick Boyland z The Athletic.</description>
     </item>
     
 </channel>
