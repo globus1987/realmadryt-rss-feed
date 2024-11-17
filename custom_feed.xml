@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 17 Nov 2024 13:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 13:32:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla słabsza od Antequery</title>
+        <link>https://www.realmadryt.pl/news/134169-castilla-slabsza-od-antequery</link>
+        <pubDate>Sun, 17 Nov 2024 14:14:00 GMT</pubDate>
+        <description>W 13. kolejce Primera Federación Castilla przegrała z Antequerą 1:2. Jedynego gola dla Królewskich zdobył Gonzalo.</description>
+    </item>
     
     <item>
         <title>Levante podziękowało Realowi za gest przekazania gigantycznej senyery</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134160-agent-daviesa-nie-osiagnelismy-porozumienia-z-zadnym-klubem</link>
         <pubDate>Sun, 17 Nov 2024 08:59:00 GMT</pubDate>
         <description>Nick Huoseh wypowiedział się na temat przyszłości obrońcy dla dziennika TZ.</description>
-    </item>
-    
-    <item>
-        <title>Walka o najwyższy kontrakt sponsorski</title>
-        <link>https://www.realmadryt.pl/news/134157-walka-o-najwyzszy-kontrakt-sponsorski</link>
-        <pubDate>Sun, 17 Nov 2024 08:30:00 GMT</pubDate>
-        <description>Dzięki nowej umowie z Nike Blaugrana będzie otrzymywać znacznie więcej pieniędzy niż do tej pory.</description>
     </item>
     
 </channel>
