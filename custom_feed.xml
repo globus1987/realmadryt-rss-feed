@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Nov 2024 16:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 17:22:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/134196-dzisiejszy-trening</link>
+        <pubDate>Mon, 18 Nov 2024 18:14:00 GMT</pubDate>
+        <description>Dostępni zawodnicy pojawili się dzisiaj w Valdebebas i kontynuowali pracę w trakcie przerwy na reprezentacje.</description>
+    </item>
     
     <item>
         <title>Trudne początki Jesé w Malezji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134185-adan-nie-bylem-wtedy-mentalnie-gotowy-na-to-co-oznacza-bycie-bramkarzem-realu</link>
         <pubDate>Mon, 18 Nov 2024 11:33:00 GMT</pubDate>
         <description>Antonio Adán udzielił obszernego wywiadu Relevo. Bramkarz wspominał między innymi swój pobyt w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Metoda Pintusa pod lupą</title>
-        <link>https://www.realmadryt.pl/news/134184-metoda-pintusa-pod-lupa</link>
-        <pubDate>Mon, 18 Nov 2024 10:44:00 GMT</pubDate>
-        <description>Od początku tego sezonu piłkarze Realu Madryt zmagali się już z 21 różnego rodzaju kontuzjami. Jest to najgorszy wynik na tym etapie rozgrywek od powrotu Antonio Pintusa do klubu w sezonie 2021/22.</description>
     </item>
     
 </channel>
