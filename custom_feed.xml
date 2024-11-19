@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Nov 2024 11:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 12:48:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/134213-dzisiejszy-trening</link>
+        <pubDate>Tue, 19 Nov 2024 13:25:00 GMT</pubDate>
+        <description>Dostępni zawodnicy pojawili się dzisiaj w Valdebebas i kontynuowali pracę w trakcie przerwy na reprezentacje.</description>
+    </item>
+    
+    <item>
+        <title>Doradca Laporty: To, co robi Lamine, widziałeś u Messiego</title>
+        <link>https://www.realmadryt.pl/news/134211-doradca-laporty-to-co-robi-lamine-widziales-u-messiego</link>
+        <pubDate>Tue, 19 Nov 2024 12:55:00 GMT</pubDate>
+        <description>Enric Masip, doradca prezesa Barcelony Joana Laporty, gościł w podcaście El Cafelito Josepa Pedrerola. Przedstawiamy opublikowane wypowiedzi działacza Blaugrany z tej rozmowy, która w całości ukaże się dziś wieczorem.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Militão przeszedł operację</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134201-relevo-ancelotti-mentalnie-przygotowany-na-zime-bez-transferow</link>
         <pubDate>Tue, 19 Nov 2024 05:30:00 GMT</pubDate>
         <description>Jeśli chodzi o pozycję stopera, Włoch postawi na Tchouaméniego, który będzie partnerował Rüdigerowi.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/134204-dzisiejsze-okladki</link>
-        <pubDate>Tue, 19 Nov 2024 00:40:00 GMT</pubDate>
-        <description>Ostatni turniej Nadala i wygrana Hiszpanów to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hat-trick Brahima, Maroko bez litości dla Lesotho [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/134199-hat-trick-brahima-maroko-bez-litosci-dla-lesotho-video</link>
-        <pubDate>Mon, 18 Nov 2024 22:30:00 GMT</pubDate>
-        <description>W 6. kolejce kwalifikacji do Pucharu Narodów Afryki Maroko rozbiło Lesotho 7:0. Hat-trickiem popisał się Brahim Díaz.</description>
     </item>
     
 </channel>
