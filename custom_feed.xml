@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Nov 2024 23:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 23:40:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Rafa Nadal zakończył karierę</title>
+        <link>https://www.realmadryt.pl/news/134223-oficjalnie-rafa-nadal-zakonczyl-kariere</link>
+        <pubDate>Wed, 20 Nov 2024 00:24:00 GMT</pubDate>
+        <description>Honorowy Socio Realu Madryt przeszedł na emeryturę</description>
+    </item>
     
     <item>
         <title>Dobry mecz Ardy, ale porażka Turcji, Rüdiger mógł odpocząć</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134209-mbappelear-i-kradziez-zlotej-pilki-czyli-jak-leganes-zapowiada-mecz-z-realem</link>
         <pubDate>Tue, 19 Nov 2024 11:38:00 GMT</pubDate>
         <description>Ogórki podchodzą do spotkania w humorystyczny sposób.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real i Barcelona walczą o Antoñito</title>
-        <link>https://www.realmadryt.pl/news/134208-marca-real-i-barcelona-walcza-o-antonito</link>
-        <pubDate>Tue, 19 Nov 2024 11:06:00 GMT</pubDate>
-        <description>Młody piłkarz może odejść z Málagi już w styczniu, a obaj hiszpańscy giganci mają go na oku.</description>
     </item>
     
 </channel>
