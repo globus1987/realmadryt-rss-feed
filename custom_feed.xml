@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Nov 2024 14:43:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 14:56:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius odkrył, że ma kameruńskie korzenie</title>
+        <link>https://www.realmadryt.pl/news/134236-vinicius-odkryl-ze-ma-kamerunskie-korzenie</link>
+        <pubDate>Wed, 20 Nov 2024 15:53:00 GMT</pubDate>
+        <description>Badanie wykazało, że przodkowie Brazylijczyka pochodzili z kameruńskiego plemienia Tikar.</description>
+    </item>
+    
+    <item>
+        <title>Powrót Alaby może wiele zmienić</title>
+        <link>https://www.realmadryt.pl/news/134235-powrot-alaby-moze-wiele-zmienic</link>
+        <pubDate>Wed, 20 Nov 2024 15:46:00 GMT</pubDate>
+        <description>Dziennikarze Asa zapewniają, że z klubu docierają do nich głosy, iż David Alaba czuje się na treningach coraz pewniej i jest w stanie wykonywać z każdym dniem więcej ćwiczeń. Nikt jednak wciąż nie jest w stanie odważyć się, by oszacować dokładną datę powrotu Austriaka.</description>
+    </item>
     
     <item>
         <title>Strajk japoński Vallejo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134220-kartka-z-kalendarza-20-listopada</link>
         <pubDate>Wed, 20 Nov 2024 08:00:00 GMT</pubDate>
         <description>Manita z Athletikiem z hat-trickiem Cristiano i pierwszym rzutem karnym Sergio Ramosa w Realu Madryt, a także urodziny legendarnych postaci. Co działo się 20 listopada?</description>
-    </item>
-    
-    <item>
-        <title>„Florentino wyjaśni wszystko w sprawie Złotej Piłki”</title>
-        <link>https://www.realmadryt.pl/news/134225-florentino-wyjasni-wszystko-w-sprawie-zlotej-pilki</link>
-        <pubDate>Wed, 20 Nov 2024 07:00:00 GMT</pubDate>
-        <description>We wtorek wieczorem w Valdebebas odbyło się spotkanie z prezesem Realu Madryt przed niedzielnym Walnym Zgromadzeniem socios. Przedstawiamy jego kulisy.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Pep Guardiola przedłuży kontrakt z Manchesterem City</title>
-        <link>https://www.realmadryt.pl/news/134221-the-athletic-pep-guardiola-przedluzy-kontrakt-z-manchesterem-city</link>
-        <pubDate>Wed, 20 Nov 2024 06:00:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że Katalończyk nadal będzie trenerem obecnych mistrzów Anglii.</description>
     </item>
     
 </channel>
