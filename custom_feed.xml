@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Nov 2024 08:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:25:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystko dla ojczyzny</title>
+        <link>https://www.realmadryt.pl/news/134226-wszystko-dla-ojczyzny</link>
+        <pubDate>Wed, 20 Nov 2024 10:00:00 GMT</pubDate>
+        <description>Mimo upływu lat Luka Modrić w dalszym ciągu pozostaje kluczowym zawodnikiem reprezentacji Chorwacji. Pomocnik Królewskich wyszedł w pierwszym składzie w dwóch ostatnich meczach ze Szkocją i Portugalią i awansował do ćwierćfinałów Ligi Narodów.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 20 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134215-toril-naszym-celem-jest-awans-do-cwiercfinalow-ligi-mistrzyn</link>
         <pubDate>Tue, 19 Nov 2024 14:55:00 GMT</pubDate>
         <description>Alberto Toril i Sandie Toletti wzięli udział w konferencji prasowej przed środowym meczem Ligi Mistrzyń z Twente. Przedstawiamy wypowiedzi trenera i zawodniczki Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Szatnia liczy na Brahima</title>
-        <link>https://www.realmadryt.pl/news/134212-relevo-szatnia-liczy-na-brahima</link>
-        <pubDate>Tue, 19 Nov 2024 14:40:00 GMT</pubDate>
-        <description>Reprezentant Maroka, który wrócił do zdrowia po kontuzji, odegra ważną rolę w nadchodzących tygodniach. Jego koledzy z szatni liczą na to, że zmieni on dynamikę drużyny.</description>
     </item>
     
 </channel>
