@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Nov 2024 13:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 14:22:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rzecznik sąsiadów Bernabéu: Obecnie kolejny koncert jest niemożliwy</title>
+        <link>https://www.realmadryt.pl/news/134233-rzecznik-sasiadow-bernabeu-obecnie-kolejny-koncert-jest-niemozliwy</link>
+        <pubDate>Wed, 20 Nov 2024 15:02:00 GMT</pubDate>
+        <description>José Manuel Paredes od 20 lat zajmuje się kwestiami komunikacji i zarządzaniem kryzysowym w wielkich korporacjach. Teraz jako jeden z sąsiadów został rzecznikiem prasowym Stowarzyszenia Poszkodowanych przez Bernabéu, które walczy z hałasem generowanym przez stadion. Przedstawiamy jego wypowiedzi dla dziennika El País.</description>
+    </item>
     
     <item>
         <title>Królewskie walczą o ćwierćfinał Ligi Mistrzyń</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134222-dzisiejsze-okladki</link>
         <pubDate>Wed, 20 Nov 2024 01:00:00 GMT</pubDate>
         <description>Pożegnanie z Rafą Nadalem to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Gol Fede Valverde daje Urugwajowi remis z Brazylią</title>
-        <link>https://www.realmadryt.pl/news/134224-gol-fede-valverde-daje-urugwajowi-remis-z-brazylia</link>
-        <pubDate>Wed, 20 Nov 2024 00:59:00 GMT</pubDate>
-        <description>Dwójka piłkarzy Realu Madryt w nocy zmierzyła się w bezpośrednim starciu w eliminacjach do mundialu. Ostatecznie padł remis przy trafieniu Federico Valverde.</description>
     </item>
     
 </channel>
