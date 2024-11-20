@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Nov 2024 23:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 01:51:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134222-dzisiejsze-okladki</link>
+        <pubDate>Wed, 20 Nov 2024 01:00:00 GMT</pubDate>
+        <description>Pożegnanie z Rafą Nadalem to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Brazylia gra z Urugwajem: starcie Viníciusa z Valverde [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/134224-brazylia-gra-z-urugwajem-starcie-viniciusa-z-valverde-live</link>
+        <pubDate>Wed, 20 Nov 2024 00:59:00 GMT</pubDate>
+        <description>Dwójka piłkarzy Realu Madryt mierzy się w bezpośrednim starciu eliminacji do mundialu. Obaj zagrają w pierwszych składach swoich ekip.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Rafa Nadal zakończył karierę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134211-doradca-laporty-to-co-robi-lamine-widziales-u-messiego</link>
         <pubDate>Tue, 19 Nov 2024 12:55:00 GMT</pubDate>
         <description>Enric Masip, doradca prezesa Barcelony Joana Laporty, gościł w podcaście El Cafelito Josepa Pedrerola. Przedstawiamy opublikowane wypowiedzi działacza Blaugrany z tej rozmowy, która w całości ukaże się dziś wieczorem.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Militão przeszedł operację</title>
-        <link>https://www.realmadryt.pl/news/134210-oficjalnie-militao-przeszedl-operacje</link>
-        <pubDate>Tue, 19 Nov 2024 11:53:00 GMT</pubDate>
-        <description>Klub potwierdził, że Brazylijczyk przeszedł dzisiaj rano operację. Teraz przed nim długa rehabilitacja.</description>
-    </item>
-    
-    <item>
-        <title>Mbappelear i kradzież Złotej Piłki, czyli jak Leganés zapowiada mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/134209-mbappelear-i-kradziez-zlotej-pilki-czyli-jak-leganes-zapowiada-mecz-z-realem</link>
-        <pubDate>Tue, 19 Nov 2024 11:38:00 GMT</pubDate>
-        <description>Ogórki podchodzą do spotkania w humorystyczny sposób.</description>
     </item>
     
 </channel>
