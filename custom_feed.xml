@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Nov 2024 13:31:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 13:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziecko, które marzyło o zostaniu obrońcą Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/134260-dziecko-ktore-marzylo-o-zostaniu-obronca-realu-madryt</link>
+        <pubDate>Thu, 21 Nov 2024 14:53:00 GMT</pubDate>
+        <description>Raúl Asencio przebojem wdarł się do pierwszej drużyny, zastępując w meczu z Osasuną kontuzjowanego Militão. Pochodzący z Wysp Kanaryjskich 21-latek od dziecka marzył, by nie tylko być profesjonalnym piłkarzem, ale przede wszystkim być nim w Realu Madryt, o czym zapewnia jeden z jego przyjaciół z dzieciństwa. Jesús Izquierdo, dziennikarz Marki, popytał tu i ówdzie o początkach Asencio w świecie piłki.</description>
+    </item>
     
     <item>
         <title>AS: Czeka nas transferowa wojna między Realem a Bayernem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134253-kartka-z-kalendarza-21-listopada</link>
         <pubDate>Thu, 21 Nov 2024 08:37:00 GMT</pubDate>
         <description>Wysoka porażka z Barceloną, zwycięstwo z APOEL-em i remis w Manchesterze. Co działo się 21 listopada?</description>
-    </item>
-    
-    <item>
-        <title>AS: Transfer Porro praktycznie niemożliwy</title>
-        <link>https://www.realmadryt.pl/news/134252-as-transfer-porro-praktycznie-niemozliwy</link>
-        <pubDate>Thu, 21 Nov 2024 08:31:00 GMT</pubDate>
-        <description>Reprezentant Hiszpanii ma kontrakt z Tottenhamem do 2028 roku i cieszy się zainteresowaniem Realu, ale transfer można uznać za prawie nie do zrealizowania ze względu na cenę.</description>
     </item>
     
 </channel>
