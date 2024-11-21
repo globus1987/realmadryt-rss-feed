@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Nov 2024 22:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 23:23:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134281-dzisiejsze-okladki</link>
+        <pubDate>Fri, 22 Nov 2024 00:20:00 GMT</pubDate>
+        <description>Plany Realu Madryt i Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zadanie wykonane</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134263-zycie-na-walizkach</link>
         <pubDate>Thu, 21 Nov 2024 16:22:00 GMT</pubDate>
         <description>Los Blancos rozegrają na wyjeździe siedem z dziewięciu najbliższych meczów. Wszystko w ciągu zaledwie 28 dni.</description>
-    </item>
-    
-    <item>
-        <title>Aday Benítez: Vinícius powinien tylko grać w piłkę</title>
-        <link>https://www.realmadryt.pl/news/134261-aday-benitez-vinicius-powinien-tylko-grac-w-pilke</link>
-        <pubDate>Thu, 21 Nov 2024 15:20:00 GMT</pubDate>
-        <description>Aday Benítez był gościem katalońskiego oddziału radia SER. Były piłkarz między innymi Girony wziął udział w debacie o Raphinhi z Barcelony i Viníciusa.</description>
     </item>
     
 </channel>
