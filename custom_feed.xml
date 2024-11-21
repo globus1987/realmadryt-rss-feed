@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Nov 2024 10:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 10:45:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alberola Rojas na Leganés</title>
+        <link>https://www.realmadryt.pl/news/134254-alberola-rojas-na-leganes</link>
+        <pubDate>Thu, 21 Nov 2024 11:44:00 GMT</pubDate>
+        <description>Niedzielny mecz Leganés z Realem Madryt poprowadzi arbiter pochodzący z Toledo. Dotychczas sędziował jedenaście spotkań z udziałem Królewskich. Arbitrem VAR będzie Guillermo Cuadra Fernández.</description>
+    </item>
     
     <item>
         <title>Rodri: Cristiano udało się zrównać z Messim w wielu rzeczach bez wrodzonego talentu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134248-sport-statystyki-viniciusa-ktore-ukrywa-madridismo</link>
         <pubDate>Thu, 21 Nov 2024 06:00:00 GMT</pubDate>
         <description>Artykuł z serii Katalończycy na tropie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/134247-dzisiejsze-okladki</link>
-        <pubDate>Thu, 21 Nov 2024 00:23:00 GMT</pubDate>
-        <description>Sytuacja Kyliana Mbappé i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
