@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Nov 2024 04:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 05:23:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sport: Statystyki Viníciusa, które ukrywa madridismo</title>
+        <link>https://www.realmadryt.pl/news/134248-sport-statystyki-viniciusa-ktore-ukrywa-madridismo</link>
+        <pubDate>Thu, 21 Nov 2024 06:00:00 GMT</pubDate>
+        <description>Artykuł z serii Katalończycy na tropie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134233-rzecznik-sasiadow-bernabeu-obecnie-kolejny-koncert-jest-niemozliwy</link>
         <pubDate>Wed, 20 Nov 2024 15:02:00 GMT</pubDate>
         <description>José Manuel Paredes od 20 lat zajmuje się kwestiami komunikacji i zarządzaniem kryzysowym w wielkich korporacjach. Teraz jako jeden z sąsiadów został rzecznikiem prasowym Stowarzyszenia Poszkodowanych przez Bernabéu, które walczy z hałasem generowanym przez stadion. Przedstawiamy jego wypowiedzi dla dziennika El País.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie walczą o ćwierćfinał Ligi Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/134232-krolewskie-walcza-o-cwiercfinal-ligi-mistrzyn</link>
-        <pubDate>Wed, 20 Nov 2024 13:59:00 GMT</pubDate>
-        <description>W meczu 4. kolejki fazy grupowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na De Grolsch Veste z Twente. Początek spotkania o godzinie 18:45.</description>
     </item>
     
 </channel>
