@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Nov 2024 06:33:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 06:53:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>BMW wystawiło na sprzedaż auta piłkarzy Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/134276-bmw-wystawilo-na-sprzedaz-auta-pilkarzy-realu-madryt</link>
+        <pubDate>Fri, 22 Nov 2024 07:50:00 GMT</pubDate>
+        <description>BMW wręczyło piłkarzom i piłkarkom Realu Madryt samochody na nowy sezon i zebrało ich poprzednie auta, które teraz dostępne są w publicznej sprzedaży. Każdy ma szansę przejąć pojazd po przedstawicielu Królewskich.</description>
+    </item>
     
     <item>
         <title>„Jeśli miasto i sąsiedzi nie chcą koncertów, tym gorzej dla nich”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134265-sto-dni-rzadu-mbappe</link>
         <pubDate>Thu, 21 Nov 2024 17:01:00 GMT</pubDate>
         <description>Sto dni to zawsze symboliczna liczba, która zachęca do podsumowań, zwłaszcza w polityce. Jest to czas, podczas którego można dokonać pierwszej w miarę rzetelnej oceny sytuacji. „Rząd” Mbappé kończy zaś sto dni właśnie dziś.</description>
-    </item>
-    
-    <item>
-        <title>Bernabéu i Sánchez-Pizjuán pożegnają Jesúsa Navasa</title>
-        <link>https://www.realmadryt.pl/news/134264-bernabeu-i-sanchez-pizjuan-pozegnaja-jesusa-navasa</link>
-        <pubDate>Thu, 21 Nov 2024 16:59:00 GMT</pubDate>
-        <description>Hiszpan rozegra ostatnie minuty w karierze właśnie na stadionie Realu, a 30 grudnia na obiekcie swojego klubu otrzyma wielki hołd od kibiców.</description>
     </item>
     
 </channel>
