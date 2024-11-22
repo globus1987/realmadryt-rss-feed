@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Nov 2024 22:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 23:25:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134298-dzisiejsze-okladki</link>
+        <pubDate>Sat, 23 Nov 2024 00:24:00 GMT</pubDate>
+        <description>Przygotowania Realu Madryt do Zgromadzenia i swojego meczu, spotkanie Barcelony z Celtą oraz wypowiedzi Leo Messiego to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Ancelotti bierze pod uwagę wystawienie Mendy’ego na środku obrony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134287-trener-celty-chce-zeby-mistrzostwo-wygrala-ekipa-z-ktora-sie-identyfikuje-a-obecnie-jest-to-barca</link>
         <pubDate>Fri, 22 Nov 2024 12:21:00 GMT</pubDate>
         <description>Claudio Giráldez udzielił wywiadu nocnemu programowi El Partidazo w radiu COPE. Przedstawiamy najważniejsze wypowiedzi trenera Celty Vigo przed sobotnim spotkaniem jego drużyny z Barceloną w La Lidze.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Ta wygrana była obowiązkowa przed naszą publicznością</title>
-        <link>https://www.realmadryt.pl/news/134284-mateo-ta-wygrana-byla-obowiazkowa-przed-nasza-publicznoscia</link>
-        <pubDate>Fri, 22 Nov 2024 12:17:00 GMT</pubDate>
-        <description>Chus Mateo rozmawiał z dziennikarzami po zwycięstwie z Albą Berlin. Powiedział, że jest zadowolony z tego zwycięstwa i pochwalił grę Rathana-Mayesa i Abalde.</description>
     </item>
     
 </channel>
