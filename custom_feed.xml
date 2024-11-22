@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Nov 2024 10:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 10:44:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak nie jeden skazany, to drugi</title>
+        <link>https://www.realmadryt.pl/news/134285-jak-nie-jeden-skazany-to-drugi</link>
+        <pubDate>Fri, 22 Nov 2024 11:30:00 GMT</pubDate>
+        <description>Dotychczasowy prezes Hiszpańskiej Federacji Piłkarskiej zależy od ostatniego orzeczenia sądu, ale jego szanse na start w grudniowych wyborach są minimalne. El País przedstawia kandydatów do przejęcia tronu, którzy też pozostawiają wiele do życzenia.</description>
+    </item>
     
     <item>
         <title>Relevo: Real pod wrażeniem Frana Gonzáleza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134270-as-wedlug-kibicow-miguel-gutierrez-alternatywa-dla-daviesa</link>
         <pubDate>Thu, 21 Nov 2024 20:00:00 GMT</pubDate>
         <description>Dziennik AS przeprowadził ankietę, z której wynika, że Kanadyjczyk jest faworytem kibiców Realu Madryt do wzmocnienia lewej obrony, ale z drugiej strony istnieje wśród nich nadzieja na powrót zawodnika Girony, który jest wychowankiem Królewskich i mógłby zostać odkupiony zaledwie za 8 milionów euro.</description>
-    </item>
-    
-    <item>
-        <title>„Tamtego wieczoru Zidane zrozumiał, że nie może zostać”</title>
-        <link>https://www.realmadryt.pl/news/134269-tamtego-wieczoru-zidane-zrozumial-ze-nie-moze-zostac</link>
-        <pubDate>Thu, 21 Nov 2024 19:26:00 GMT</pubDate>
-        <description>Na kilka dni przed meczem pomiędzy Leganés a Realem Madryt Martín Mantovani spotkał się z dziennikarzem ASa, aby opowiedzieć o swoich wspomnieniach ze starć z Królewskimi.</description>
     </item>
     
 </channel>
