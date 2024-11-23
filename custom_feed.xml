@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Nov 2024 22:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 23:22:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Już dzisiaj Walne Zgromadzenie z przemówieniem Florentino</title>
+        <link>https://www.realmadryt.pl/news/134320-juz-dzisiaj-walne-zgromadzenie-z-przemowieniem-florentino</link>
+        <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+        <description>Od godziny 10:00 odbywać się będzie Walne Zgromadzenie, na którym najbardziej wyczekiwane są komentarze prezesa Realu Madryt. Zapraszamy na relację na żywo z tego wydarzenia.</description>
+    </item>
     
     <item>
         <title>14. kolejka: Barcelona remisuje w Vigo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134305-niepokonany-na-ratunek</link>
         <pubDate>Sat, 23 Nov 2024 11:31:00 GMT</pubDate>
         <description>Belg nie grał, gdy Real przegrywał w tym sezonie. Nawet od czasu swojego powrotu w maju nie zaznał porażki.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Trzech zatrzymanych za rasizm na Bernabéu w trakcie Klasyku</title>
-        <link>https://www.realmadryt.pl/news/134304-oficjalnie-trzech-zatrzymanych-za-rasizm-na-bernabeu-w-trakcie-klasyku</link>
-        <pubDate>Sat, 23 Nov 2024 11:27:00 GMT</pubDate>
-        <description>Policja przekazała komunikat w sprawie rasistowskich zachowań kibiców na Santiago Bernabéu w trakcie Klasyku.</description>
     </item>
     
 </channel>
