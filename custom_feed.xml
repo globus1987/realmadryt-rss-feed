@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Nov 2024 10:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 10:42:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niepokonany na ratunek</title>
+        <link>https://www.realmadryt.pl/news/134305-niepokonany-na-ratunek</link>
+        <pubDate>Sat, 23 Nov 2024 11:31:00 GMT</pubDate>
+        <description>Belg nie grał, gdy Real przegrywał w tym sezonie. Nawet od czasu swojego powrotu w maju nie zaznał porażki.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Trzech zatrzymanych za rasizm na Bernabéu w trakcie Klasyku</title>
+        <link>https://www.realmadryt.pl/news/134304-oficjalnie-trzech-zatrzymanych-za-rasizm-na-bernabeu-w-trakcie-klasyku</link>
+        <pubDate>Sat, 23 Nov 2024 11:27:00 GMT</pubDate>
+        <description>Policja przekazała komunikat w sprawie rasistowskich zachowań kibiców na Santiago Bernabéu w trakcie Klasyku.</description>
+    </item>
     
     <item>
         <title>Ilu piłkarzy nie trenuje z drużyną przed Leganés? [NA ŻYWO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134295-leganes-wspiera-carvajala-w-ramach-promocji-meczu-z-realem-madryt</link>
         <pubDate>Fri, 22 Nov 2024 19:44:00 GMT</pubDate>
         <description>Sąsiedzi Królewskich wystosowali kolejną marketingową zapowiedź, tym razem okazując wsparcie kontuzjowanym graczom obu ekip.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 14. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/134277-telewizyjny-terminarz-14-kolejki-la-ligi</link>
-        <pubDate>Fri, 22 Nov 2024 19:30:00 GMT</pubDate>
-        <description>Przed nami czternasta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u na wyjeździe z Leganés. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Álvaro Arbeloa ważnym elementem w La Fábrice</title>
-        <link>https://www.realmadryt.pl/news/134291-alvaro-arbeloa-waznym-elementem-w-la-fabrice</link>
-        <pubDate>Fri, 22 Nov 2024 18:45:00 GMT</pubDate>
-        <description>Relevo na koniec przerwy reprezentacyjnej zagląda za kulisy Valdebebas, opisując, jak dokładnie Álvaro Arbeloa stara się przygotować swoich młodych podopiecznych na kolejny krok w karierze.</description>
     </item>
     
 </channel>
