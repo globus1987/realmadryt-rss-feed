@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Nov 2024 08:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 09:23:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Walne Zgromadzenie Realu Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/134325-walne-zgromadzenie-realu-madryt-live</link>
+        <pubDate>Sun, 24 Nov 2024 10:00:00 GMT</pubDate>
+        <description>Zapraszamy na relację na żywo z dzisiejszego Walnego Zgromadzenia Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Kolejne misje Rüdigera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134315-hezonja-mam-nadzieje-ze-cie-tam-ukradna</link>
         <pubDate>Sat, 23 Nov 2024 18:22:00 GMT</pubDate>
         <description>Mario Hezonja i Xavier Rathan-Mayes bardzo dobrze się dogadują między sobą. W mediach społecznościowych doszło między nimi do zabawnej wymiany zdań. Obaj w ostatnim czasie odgrywają ważną rolę w koszykarskiej drużynie.</description>
-    </item>
-    
-    <item>
-        <title>14. kolejka: Atlético odrabia straty i przeskakuje Real</title>
-        <link>https://www.realmadryt.pl/news/134314-14-kolejka-atletico-odrabia-straty-i-przeskakuje-real</link>
-        <pubDate>Sat, 23 Nov 2024 18:15:00 GMT</pubDate>
-        <description>Atlético po remontadzie wygrało swój domowy mecz z Alavés i przeskoczyło Real Madryt, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
