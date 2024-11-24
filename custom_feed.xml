@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Nov 2024 19:17:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 19:38:47 GMT</lastBuildDate>
     
     <item>
-        <title>Leganés – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/134339-leganes-real-madryt-live</link>
+        <title>Mbappé MVP meczu z Leganés</title>
+        <link>https://www.realmadryt.pl/news/134343-mbappe-mvp-meczu-z-leganes</link>
+        <pubDate>Sun, 24 Nov 2024 20:27:00 GMT</pubDate>
+        <description>Francuz uzyskał wyróżnienie za zwycięstwo 3:0 nad Leganés.</description>
+    </item>
+    
+    <item>
+        <title>14. kolejka: Real odrabia dwa punkty do lidera</title>
+        <link>https://www.realmadryt.pl/news/134345-14-kolejka-real-odrabia-dwa-punkty-do-lidera</link>
+        <pubDate>Sun, 24 Nov 2024 20:23:00 GMT</pubDate>
+        <description>Real Madryt wykorzystał potknięcie Barcelony i dzięki zwycięstwie z Leganés odrobił do Katalończyków dwa punkty. Jak więc obecnie wygląda sytuacja w tabeli?</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Leganés</title>
+        <link>https://www.realmadryt.pl/news/134342-ocen-pilkarzy-po-meczu-z-leganes</link>
+        <pubDate>Sun, 24 Nov 2024 20:22:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Formalność i przyjemność</title>
+        <link>https://www.realmadryt.pl/news/134339-formalnosc-i-przyjemnosc</link>
         <pubDate>Sun, 24 Nov 2024 18:25:00 GMT</pubDate>
-        <description>Od 18:30 Real Madryt rozgrywa na wyjeździe ligowe spotkanie z Leganés w ramach 14. kolejki. Królewscy chcą zmniejszyć stratę do liderującej Barcelony, która wczoraj straciła punkty w Vigo.</description>
+        <description>W meczu 14. kolejki La Ligi Real Madryt wygrał na wyjeździe z Leganés 3:0 po golach Kyliana Mbappé, Fede Valverde i Jude'a Bellinghama.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/134330-florentino-o-zlotej-pilce-ktos-rozumie-ze-sa-dziennikarze-ktorzy-nie-daja-viniciusowi-nawet-jednego-glosu</link>
         <pubDate>Sun, 24 Nov 2024 12:43:00 GMT</pubDate>
         <description>Florentino Pérez wygłosił przemówienie na otwarcie Walnego Zgromadzenia socios. Przedstawiamy pełny fragment wypowiedzi prezesa Realu Madryt na temat Złotej Piłki.</description>
-    </item>
-    
-    <item>
-        <title>Fran nie zamierza się poddawać</title>
-        <link>https://www.realmadryt.pl/news/134329-fran-nie-zamierza-sie-poddawac</link>
-        <pubDate>Sun, 24 Nov 2024 12:18:00 GMT</pubDate>
-        <description>Fran znowu jest Franem, można usłyszeć od osób, które na co dzień widzą lewego obrońcę podczas treningów. Otoczenie piłkarza zapewnia, że pod względem dyspozycji 25-latek jest na fali wznoszącej, twierdzi Relevo.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius zagrożony zawieszeniem w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/134324-vinicius-zagrozony-zawieszeniem-w-la-lidze</link>
-        <pubDate>Sun, 24 Nov 2024 12:13:00 GMT</pubDate>
-        <description>Królewscy wobec dużej liczby kartek i kontuzji muszą zacząć patrzeć na potencjalne zawieszenia. Zagrożony jest już jeden piłkarz.</description>
-    </item>
-    
-    <item>
-        <title>„Nowy Alaba” awaryjnym planem Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/134328-nowy-alaba-awaryjnym-planem-ancelottiego</link>
-        <pubDate>Sun, 24 Nov 2024 11:47:00 GMT</pubDate>
-        <description>Diego Aguado znalazł się w kadrze Realu Madryt na dzisiejszy mecz z Leganés. 17-latek występuje na co dzień w Juvenilu A, a pod kątem profilu gry w klubie najczęściej porównują go do Davida Alaby.</description>
     </item>
     
 </channel>
