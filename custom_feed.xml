@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Nov 2024 10:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 11:18:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius zagrożony zawieszeniem w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/134324-vinicius-zagrozony-zawieszeniem-w-la-lidze</link>
+        <pubDate>Sun, 24 Nov 2024 12:13:00 GMT</pubDate>
+        <description>Królewscy wobec dużej liczby kartek i kontuzji muszą zacząć patrzeć na potencjalne zawieszenia. Zagrożony jest już jeden piłkarz.</description>
+    </item>
     
     <item>
         <title>„Nowy Alaba” awaryjnym planem Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134311-ancelotti-mbappe-nie-potrzebuje-pracy-nad-ofensywa</link>
         <pubDate>Sun, 24 Nov 2024 06:00:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Leganés w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/134321-dzisiejsze-okladki</link>
-        <pubDate>Sun, 24 Nov 2024 00:40:00 GMT</pubDate>
-        <description>Mecz Realu Madryt i remis Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
