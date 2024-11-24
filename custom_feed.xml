@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Nov 2024 13:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 13:32:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Liverpool gra w Premier League przed starciem z Realem [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/134334-liverpool-gra-w-premier-league-przed-starciem-z-realem-live</link>
+        <pubDate>Sun, 24 Nov 2024 14:14:00 GMT</pubDate>
+        <description>Liverpool przed podjęciem Realu Madryt w Lidze Mistrzów gra dzisiaj Premier League i ma szansę jeszcze bardziej odskoczyć Manchesterowi City przed ich bezpośrednim starciem.</description>
+    </item>
     
     <item>
         <title>Dwukrotne odrabianie strat i tylko remis Castilli</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Mecz piłkarek w San Sebastián opóźniony [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/134332-mecz-pilkarek-w-san-sebastian-opozniony-na-zywo</link>
+        <title>Mecz piłkarek w San Sebastián odwołany</title>
+        <link>https://www.realmadryt.pl/news/134332-mecz-pilkarek-w-san-sebastian-odwolany</link>
         <pubDate>Sun, 24 Nov 2024 13:41:00 GMT</pubDate>
-        <description>W meczu 11. kolejki Ligi F piłkarki Realu Madryt zmierzą się na wyjeździe z Realem Sociedad San Sebastián. Z powodu burzy początek meczu został przełożony na godzinę 14:30.</description>
+        <description>W 11. kolejce Ligi F piłkarki Realu Madryt miał zagrać na wyjeździe z Realem Sociedad San Sebastián. Z powodu niekorzystnych warunków atmosferycznych mecz ten został odwołany.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134325-walne-zgromadzenie-realu-madryt-relacja</link>
         <pubDate>Sun, 24 Nov 2024 10:00:00 GMT</pubDate>
         <description>Zapraszamy na relację na żywo z dzisiejszego Walnego Zgromadzenia Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kolejne misje Rüdigera</title>
-        <link>https://www.realmadryt.pl/news/134322-kolejne-misje-ruedigera</link>
-        <pubDate>Sun, 24 Nov 2024 09:40:00 GMT</pubDate>
-        <description>W meczach z Leganés i Liverpoolem na barkach Antonio Rüdigera spoczywać będzie niemała odpowiedzialność. Niemiec będzie musiał być wsparciem dla mniej doświadczonego Raúla Asencio oraz czekają go starcia z wymagającymi napastnikami. Obrona to nie wszystko, ponieważ pod nieobecność Tchouaméniego i Militão to właśnie Antonio jest najgroźniejszym graczem Królewskich w kwestii gry w powietrzu.</description>
     </item>
     
 </channel>
