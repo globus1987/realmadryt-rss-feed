@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Nov 2024 10:46:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 11:19:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Vinícius kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/134364-oficjalnie-vinicius-kontuzjowany</link>
+        <pubDate>Mon, 25 Nov 2024 12:09:00 GMT</pubDate>
+        <description>Klub wypuścił komunikat medyczny w sprawie Brazylijczyka.</description>
+    </item>
+    
+    <item>
+        <title>François Letexier na mecz Liverpoolu z Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/134363-francois-letexier-na-mecz-liverpoolu-z-realem-madryt</link>
+        <pubDate>Mon, 25 Nov 2024 11:52:00 GMT</pubDate>
+        <description>UEFA zdecydowała, że hitowy mecz Realu Madryt poprowadzi 35-letni François Letexier. Będzie to dla niego czwarte spotkanie z udziałem Królewskich.</description>
+    </item>
     
     <item>
         <title>Sergio González: Są zawodnicy, którzy nie są wzorem na boisku, a Mbappé takim jest</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134340-florentino-o-superlidze-chcemy-byc-netflixem-a-nie-blockbusterem</link>
         <pubDate>Mon, 25 Nov 2024 06:00:00 GMT</pubDate>
         <description>Florentino Pérez w niedzielę wygłosił przemówienie na otwarcie Walnego Zgromadzenia socios. Przedstawiamy pełny fragment wypowiedzi prezesa Realu Madryt na temat Superligi i sytuacji futbolu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/134357-dzisiejsze-okladki</link>
-        <pubDate>Mon, 25 Nov 2024 00:09:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i reakcja Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Bośnia pokonała Chorwację i jest bliżej Eurobasketu</title>
-        <link>https://www.realmadryt.pl/news/134353-bosnia-pokonala-chorwacje-i-jest-blizej-eurobasketu</link>
-        <pubDate>Sun, 24 Nov 2024 22:02:00 GMT</pubDate>
-        <description>Džanan Musa i Mario Hezonja stanęli dzisiaj naprzeciw siebie w Sarajewie. Reprezentacje Bośni i Hercegowiny oraz Chorwacji toczą ze sobą bezpośredni bój o awans na Eurobasket. Dzisiejsze zwycięstwo bardzo przybliżyło Bośniaków do turnieju głównego.</description>
     </item>
     
 </channel>
