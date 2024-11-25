@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Nov 2024 22:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 23:23:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134378-dzisiejsze-okladki</link>
+        <pubDate>Tue, 26 Nov 2024 00:15:00 GMT</pubDate>
+        <description>Kontuzja Viníciusa i przygotowania do Ligi Mistrzów to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bellingham i Carvajal z nagrodami AFE</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134365-vinicius-szalony-kalendarz</link>
         <pubDate>Mon, 25 Nov 2024 12:26:00 GMT</pubDate>
         <description>Brazylijczyk zareagował publicznie na swoją kontuzję.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Vinícius kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/134364-oficjalnie-vinicius-kontuzjowany</link>
-        <pubDate>Mon, 25 Nov 2024 12:09:00 GMT</pubDate>
-        <description>Klub wypuścił komunikat medyczny w sprawie Brazylijczyka.</description>
     </item>
     
 </channel>
