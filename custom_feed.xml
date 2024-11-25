@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Nov 2024 07:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 08:31:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/134356-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 25 Nov 2024 09:30:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 14. kolejce La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>AS: Asencio wywalczył sobie prawo do gry na Anfield</title>
+        <link>https://www.realmadryt.pl/news/134361-as-asencio-wywalczyl-sobie-prawo-do-gry-na-anfield</link>
+        <pubDate>Mon, 25 Nov 2024 09:24:00 GMT</pubDate>
+        <description>21-letni stoper był bardzo skuteczny w swoim drugim występie w pierwszej drużynie Realu Madryt. Wychowanek pokazał, że nie pęka i zgłasza swoją gotowość do gry w środowym meczu z Liverpoolem.</description>
+    </item>
     
     <item>
         <title>Valverde: Spełniłem marzenie swoje i mojej rodziny</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134348-100-meczow-ceballosa-w-la-lidze</link>
         <pubDate>Sun, 24 Nov 2024 21:08:00 GMT</pubDate>
         <description>Niedzielne spotkanie z Leganés było dla Daniego Ceballosa 100. ligowym meczem w barwach Realu Madryt. Osiągnięcia osobiście pogratulował mu prezes Florentino Pérez, który po ostatnim gwizdku wręczył mu pamiątkową koszulkę.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Valverde to trzeci najlepszy boczny obrońca na świecie</title>
-        <link>https://www.realmadryt.pl/news/134347-ancelotti-valverde-to-trzeci-najlepszy-boczny-obronca-na-swiecie</link>
-        <pubDate>Sun, 24 Nov 2024 20:51:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu La Ligi z Leganés. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Estadio Municipal Butarque.</description>
-    </item>
-    
-    <item>
-        <title>Sergio González: Mecz uciekł nam przez nasze własne błędy</title>
-        <link>https://www.realmadryt.pl/news/134346-sergio-gonzalez-mecz-uciekl-nam-przez-nasze-wlasne-bledy</link>
-        <pubDate>Sun, 24 Nov 2024 20:41:00 GMT</pubDate>
-        <description>Sergio González udzielił wypowiedzi dla telewizji Movistar+ po przegranym 0:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi kapitana Leganés.</description>
     </item>
     
 </channel>
