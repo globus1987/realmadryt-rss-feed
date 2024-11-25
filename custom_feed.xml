@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Nov 2024 05:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 06:34:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Różne pozycje w ataku to historia mojej kariery</title>
+        <link>https://www.realmadryt.pl/news/134351-mbappe-rozne-pozycje-w-ataku-to-historia-mojej-kariery</link>
+        <pubDate>Mon, 25 Nov 2024 07:00:00 GMT</pubDate>
+        <description>Kylian Mbappé udzielił wywiadu klubowej telewizji po meczu z Leganés. Przedstawiamy zapis tej rozmowy z graczem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Florentino o Superlidze: Chcemy być Netflixem, a nie Blockbusterem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134345-14-kolejka-real-odrabia-dwa-punkty-do-lidera</link>
         <pubDate>Sun, 24 Nov 2024 20:23:00 GMT</pubDate>
         <description>Real Madryt wykorzystał potknięcie Barcelony i dzięki zwycięstwie z Leganés odrobił do Katalończyków dwa punkty. Jak więc obecnie wygląda sytuacja w tabeli?</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Leganés</title>
-        <link>https://www.realmadryt.pl/news/134342-ocen-pilkarzy-po-meczu-z-leganes</link>
-        <pubDate>Sun, 24 Nov 2024 20:22:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
