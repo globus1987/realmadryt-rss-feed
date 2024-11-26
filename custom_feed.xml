@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Nov 2024 07:53:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 08:31:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 zł za zwycięzcę w meczu Ligi Mistrzów!</title>
+        <link>https://www.realmadryt.pl/news/134380-400-zl-za-zwyciezce-w-meczu-ligi-mistrzow</link>
+        <pubDate>Tue, 26 Nov 2024 09:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 26 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134370-relevo-lepsza-forma-realu-efektem-szczerej-rozmowy-ancelottiego-z-pilkarzami</link>
         <pubDate>Mon, 25 Nov 2024 15:06:00 GMT</pubDate>
         <description>Królewscy zaczęli grać lepiej po rozmowie za zamkniętymi drzwiami z Carlo Ancelottim, ale prawdziwą próbą ognia będzie środowe starcie na Anfield.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Liverpool</title>
-        <link>https://www.realmadryt.pl/news/134369-kadra-realu-madryt-na-liverpool</link>
-        <pubDate>Mon, 25 Nov 2024 14:24:00 GMT</pubDate>
-        <description>Królewscy lecą do Anglii bez sześciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na to spotkanie 19 zawodników.</description>
     </item>
     
 </channel>
