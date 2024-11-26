@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Nov 2024 22:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 23:23:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134408-dzisiejsze-okladki</link>
+        <pubDate>Wed, 27 Nov 2024 00:22:00 GMT</pubDate>
+        <description>Wygrane Atlético i Barcelony w Lidze Mistrzów to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>W 1/8 finału Pucharu Królowej z Villarrealem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134391-real-nie-przegral-z-liverpoolem-od-2009-roku</link>
         <pubDate>Tue, 26 Nov 2024 14:33:00 GMT</pubDate>
         <description>W najnowszej historii futbolu rywalizacja Realu Madryt z Liverpoolem, choć hitowa, to biorąc pod uwagę wyniki, jest bardzo jednostronna.</description>
-    </item>
-    
-    <item>
-        <title>Alexander-Arnold trenował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/134390-alexander-arnold-trenowal-z-druzyna</link>
-        <pubDate>Tue, 26 Nov 2024 14:27:00 GMT</pubDate>
-        <description>Prawy obrońca pracował z kolegami na ostatnich zajęciach przed starciem z Realem Madryt. Poza grupą pozostało trzech piłkarzy.</description>
     </item>
     
 </channel>
