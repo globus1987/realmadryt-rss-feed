@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Nov 2024 09:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 10:27:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wylecieli do Liverpoolu</title>
+        <link>https://www.realmadryt.pl/news/134386-krolewscy-wylecieli-do-liverpoolu</link>
+        <pubDate>Tue, 26 Nov 2024 11:12:00 GMT</pubDate>
+        <description>19 powołanych zawodników jest już w drodze do Anglii, gdzie Królewscy zmierzą się jutro z Liverpoolem i powalczą o punkty w Lidze Mistrzów.</description>
+    </item>
     
     <item>
         <title>Paula Comendador i Marisa García wyróżnione na gali AFE</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134378-dzisiejsze-okladki</link>
         <pubDate>Tue, 26 Nov 2024 00:15:00 GMT</pubDate>
         <description>Kontuzja Viníciusa i przygotowania do Ligi Mistrzów to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham i Carvajal z nagrodami AFE</title>
-        <link>https://www.realmadryt.pl/news/134375-bellingham-i-carvajal-z-nagrodami-afe</link>
-        <pubDate>Mon, 25 Nov 2024 21:38:00 GMT</pubDate>
-        <description>Jude Bellingham i Dani Carvajal zostali wyróżnieni podczas trzeciej edycji gali wręczenia nagród AFE (Stowarzyszenia Hiszpańskich Piłkarzy). Anglik został wybrany najlepszym piłkarzem ubiegłego sezonu, a Hiszpan otrzymał nagrodę za Wartości AFE.</description>
     </item>
     
 </channel>
