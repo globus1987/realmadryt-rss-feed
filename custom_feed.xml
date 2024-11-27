@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Nov 2024 23:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 23:40:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134438-dzisiejsze-okladki</link>
+        <pubDate>Thu, 28 Nov 2024 00:28:00 GMT</pubDate>
+        <description>Porażka Realu Madryt to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Courtois: Dzisiaj przegraliśmy z lepszą drużyną, nic się nie dzieje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134422-liverpool-real-madryt-znamy-sklady</link>
         <pubDate>Wed, 27 Nov 2024 18:52:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na stadionie Anfield.</description>
-    </item>
-    
-    <item>
-        <title>Juvenil A pewny gry w 1/16 finału</title>
-        <link>https://www.realmadryt.pl/news/134423-juvenil-a-pewny-gry-w-1-16-finalu</link>
-        <pubDate>Wed, 27 Nov 2024 18:27:00 GMT</pubDate>
-        <description>W 5. kolejce Ligi Młodzieżowej Real Madryt pokonał Liverpool 1:0 po golu Daniela Yáñeza na samym początku spotkania. Z dorobkiem dziewięciu punktów zespół Arbeloi jest już pewny gry w następnej rundzie.</description>
     </item>
     
 </channel>
