@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Nov 2024 19:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:26:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Liverpool FC – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/134428-liverpool-fc-real-madryt-live</link>
+        <pubDate>Wed, 27 Nov 2024 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa spotkanie 5. kolejki Ligi Mistrzów pomiędzy Liverpoolem a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Wygra ta drużyna, która narzuci swój rytm</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134415-niemozliwa-zemsta-salaha</link>
         <pubDate>Wed, 27 Nov 2024 12:32:00 GMT</pubDate>
         <description>Egipski napastnik wciąż próbuje wyrównać rachunki po dwóch przegranych finałach Ligi Mistrzów z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Fajerwerki pod hotelem Realu w środku nocy</title>
-        <link>https://www.realmadryt.pl/news/134414-fajerwerki-pod-hotelem-realu-w-srodku-nocy</link>
-        <pubDate>Wed, 27 Nov 2024 12:29:00 GMT</pubDate>
-        <description>Hiszpańskie i angielskie media informują, że w nocy pod hotelem, w którym przebywa Real Madryt, odpalono fajerwerki.</description>
     </item>
     
 </channel>
