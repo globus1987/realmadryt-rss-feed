@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Nov 2024 07:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 08:31:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 28 listopada</title>
+        <link>https://www.realmadryt.pl/news/134439-kartka-z-kalendarza-28-listopada</link>
+        <pubDate>Thu, 28 Nov 2024 09:30:00 GMT</pubDate>
+        <description>Wysokie zwycięstwo z zespołem Bernda Schustera, porażka w Pucharze Interkontynentalnym z Boca Juniors i urodziny byłego zawodnika. Co działo się 28 listopada?</description>
+    </item>
     
     <item>
         <title>Lucas: Byli skuteczniejsi niż my</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134429-alexis-mac-allister-mvp-meczu-z-liverpoolem</link>
         <pubDate>Wed, 27 Nov 2024 23:15:00 GMT</pubDate>
         <description>Argentyński pomocnik otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Liverpoolem.</description>
-    </item>
-    
-    <item>
-        <title>Liverpool znów liderem, Real na 24. miejscu</title>
-        <link>https://www.realmadryt.pl/news/134427-liverpool-znow-liderem-real-na-24-miejscu</link>
-        <pubDate>Wed, 27 Nov 2024 23:10:00 GMT</pubDate>
-        <description>Real Madryt zajmuje ostatnią premiowaną awansem lokatę w tabeli Ligi Mistrzów po pięciu meczach. Przed wszystkimi drużynami jeszcze po trzy spotkania.</description>
     </item>
     
 </channel>
