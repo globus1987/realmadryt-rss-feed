@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Nov 2024 23:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 01:54:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze otrzymali dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/134443-pilkarze-otrzymali-dzien-wolny</link>
+        <pubDate>Thu, 28 Nov 2024 02:39:00 GMT</pubDate>
+        <description>Królewscy poinformowali, że drużyna otrzymała dzień wolny. Kolejny mecz zespół rozegra w niedzielę, więc odbędzie dwie jednostki treningowe.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134425-ancelotti-wygra-ta-druzyna-ktora-narzuci-swoj-rytm</link>
         <pubDate>Wed, 27 Nov 2024 20:14:00 GMT</pubDate>
         <description>Carlo Ancelotti na godzinę przed meczem Ligi Mistrzów z Liverpoolem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z Anfield.</description>
-    </item>
-    
-    <item>
-        <title>Liverpool – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/134422-liverpool-real-madryt-znamy-sklady</link>
-        <pubDate>Wed, 27 Nov 2024 18:52:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na stadionie Anfield.</description>
     </item>
     
 </channel>
