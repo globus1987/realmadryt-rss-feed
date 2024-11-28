@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Nov 2024 07:25:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 07:40:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lucas: Byli skuteczniejsi niż my</title>
+        <link>https://www.realmadryt.pl/news/134437-lucas-byli-skuteczniejsi-niz-my</link>
+        <pubDate>Thu, 28 Nov 2024 08:40:00 GMT</pubDate>
+        <description>Lucas Vázquez udzielił wywiadu dla telewizji Movistar+ po przegranym 0:2 meczu Ligi Mistrzów z Liverpoolem. Przedstawiamy pełne wypowiedzi kapitana Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Bale: Łatwo powiedzieć, że to wszystko przez kontuzje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134427-liverpool-znow-liderem-real-na-24-miejscu</link>
         <pubDate>Wed, 27 Nov 2024 23:10:00 GMT</pubDate>
         <description>Real Madryt zajmuje ostatnią premiowaną awansem lokatę w tabeli Ligi Mistrzów po pięciu meczach. Przed wszystkimi drużynami jeszcze po trzy spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Mieliśmy karnego, który mógł zmienić mecz</title>
-        <link>https://www.realmadryt.pl/news/134431-modric-mielismy-karnego-ktory-mogl-zmienic-mecz</link>
-        <pubDate>Wed, 27 Nov 2024 23:03:00 GMT</pubDate>
-        <description>Luka Modrić po meczu z Liverpoolem w Lidze Mistrzów udzielił wywiadu na murawie Movistar+. Przedstawiamy wypowiedzi kapitana Realu Madryt z tej rozmowy na Anfield.</description>
     </item>
     
 </channel>
