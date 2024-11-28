@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Nov 2024 09:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 10:27:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hernández Hernández na Getfe</title>
+        <link>https://www.realmadryt.pl/news/134440-hernandez-hernandez-na-getfe</link>
+        <pubDate>Thu, 28 Nov 2024 11:13:00 GMT</pubDate>
+        <description>42-latek z Wysp Kanaryjskich poprowadzi niedzielny mecz Realu Madryt z Getafe.</description>
+    </item>
+    
+    <item>
+        <title>Relevo: Kilku piłkarzy mogło nabawić się kontuzji w meczu z Liverpoolem</title>
+        <link>https://www.realmadryt.pl/news/134452-relevo-kilku-pilkarzy-moglo-nabawic-sie-kontuzji-w-meczu-z-liverpoolem</link>
+        <pubDate>Thu, 28 Nov 2024 11:04:00 GMT</pubDate>
+        <description>Dzisiaj niektórzy zawodnicy przejdą badania medyczne w Valdebebas.</description>
+    </item>
     
     <item>
         <title>MARCA: Odbędzie się rozmowa w cztery oczy między Ancelottim a Florentino</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134445-bale-latwo-powiedziec-ze-to-wszystko-przez-kontuzje</link>
         <pubDate>Thu, 28 Nov 2024 07:58:00 GMT</pubDate>
         <description>Gareth Bale skomentował wynik meczu Realu Madryt z Liverpoolem, jako ekspert telewizji TNT Sports.</description>
-    </item>
-    
-    <item>
-        <title>„Kryzys pewności siebie, który pożera Mbappé”</title>
-        <link>https://www.realmadryt.pl/news/134442-kryzys-pewnosci-siebie-ktory-pozera-mbappe</link>
-        <pubDate>Thu, 28 Nov 2024 07:50:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat kryzysu formy Kyliana Mbappé. Przedstawiamy spostrzeżenia dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: To nie jest hańba, ale jesteśmy rozczarowani naszym występem</title>
-        <link>https://www.realmadryt.pl/news/134441-bellingham-to-nie-jest-hanba-ale-jestesmy-rozczarowani-naszym-wystepem</link>
-        <pubDate>Thu, 28 Nov 2024 07:00:00 GMT</pubDate>
-        <description>Jude Bellingham po meczu z Liverpoolem w Lidze Mistrzów udzielił wywiadu TNT Sports. Przedstawiamy wypowiedzi pomocnika Realu Madryt z tej rozmowy na Anfield.</description>
     </item>
     
 </channel>
