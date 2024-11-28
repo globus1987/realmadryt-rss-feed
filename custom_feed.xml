@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Nov 2024 06:35:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 06:55:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Kryzys pewności siebie, który pożera Mbappé”</title>
+        <link>https://www.realmadryt.pl/news/134442-kryzys-pewnosci-siebie-ktory-pozera-mbappe</link>
+        <pubDate>Thu, 28 Nov 2024 07:50:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat kryzysu formy Kyliana Mbappé. Przedstawiamy spostrzeżenia dziennikarza.</description>
+    </item>
     
     <item>
         <title>Bellingham: To nie jest hańba, ale jesteśmy rozczarowani naszym występem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134430-ocen-pilkarzy-po-meczu-z-liverpoolem</link>
         <pubDate>Wed, 27 Nov 2024 23:03:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Liverpool gra w innej lidze</title>
-        <link>https://www.realmadryt.pl/news/134428-liverpool-gra-w-innej-lidze</link>
-        <pubDate>Wed, 27 Nov 2024 20:55:00 GMT</pubDate>
-        <description>W meczu 5. kolejki Ligi Mistrzów Real Madryt przegrał na wyjeździe z Liverpoolem 0:2.</description>
     </item>
     
 </channel>
