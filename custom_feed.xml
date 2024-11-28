@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Nov 2024 19:18:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 19:39:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Król jest nagi</title>
+        <link>https://www.realmadryt.pl/news/134463-krol-jest-nagi</link>
+        <pubDate>Thu, 28 Nov 2024 20:32:00 GMT</pubDate>
+        <description>Real Madryt po raz kolejny w tym sezonie zawiódł i przegrał z Liverpoolem 0:2. Sytuacja Królewskich, szczególnie w Lidze Mistrzów, staje się coraz trudniejsza. Podobnie jak sytuacja Carlo Ancelottiego. Rozważaniami na temat pogłębiającego się kryzysu drużyny oraz coraz mocniej kwestionowanej pozycji włoskiego trenera dzieli się nasz redaktor, Jakub Glibowski.</description>
+    </item>
     
     <item>
         <title>Podcast  6x14: Czy doszliśmy do granicy ze zwolnieniem Ancelottiego?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134424-mateo-rywalizacja-z-barcelona-zawsze-jest-wyjatkowa</link>
         <pubDate>Thu, 28 Nov 2024 12:04:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed meczem z Barceloną. Potwierdził, że Usman Garuba wrócił do treningów, ale stwierdził, że Hiszpan niemal na pewno przegapi jeszcze Klasyk.</description>
-    </item>
-    
-    <item>
-        <title>Hernández Hernández na Getafe</title>
-        <link>https://www.realmadryt.pl/news/134440-hernandez-hernandez-na-getafe</link>
-        <pubDate>Thu, 28 Nov 2024 11:13:00 GMT</pubDate>
-        <description>42-latek z Wysp Kanaryjskich poprowadzi niedzielny mecz Realu Madryt z Getafe.</description>
     </item>
     
 </channel>
