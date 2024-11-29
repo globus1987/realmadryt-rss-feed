@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Nov 2024 22:56:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 23:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134497-dzisiejsze-okladki</link>
+        <pubDate>Sat, 30 Nov 2024 00:20:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt i urodziny Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Relevo: Skauci Realu czują się niedoceniani</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134480-a-za-zakretem-morderczy-terminarz</link>
         <pubDate>Fri, 29 Nov 2024 12:53:00 GMT</pubDate>
         <description>W Realu Madryt nie ma czasu na przemyślenia i na oddech po alarmującej porażce na Anfield. Już w niedzielę Królewscy rozpoczynają maraton, który obejmie siedem meczów na przestrzeni 22 dni.</description>
-    </item>
-    
-    <item>
-        <title>Álvaro Rodríguez będzie mógł zagrać z Realem</title>
-        <link>https://www.realmadryt.pl/news/134447-alvaro-rodriguez-bedzie-mogl-zagrac-z-realem</link>
-        <pubDate>Fri, 29 Nov 2024 12:47:00 GMT</pubDate>
-        <description>Wypożyczony do Getafe napastnik nie musi się martwić, gdyż nic nie stoi na przeszkodzie, by zagrał w niedzielę na Bernabéu.</description>
     </item>
     
 </channel>
