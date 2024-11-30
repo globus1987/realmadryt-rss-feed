@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Nov 2024 23:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 23:41:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134530-dzisiejsze-okladki</link>
+        <pubDate>Sun, 01 Dec 2024 00:25:00 GMT</pubDate>
+        <description>Mecz Realu i porażka Barcelony to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Cztery gole Gonzalo, Castilla gromi Méridę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134515-rodrygo-na-ratunek</link>
         <pubDate>Sat, 30 Nov 2024 14:57:00 GMT</pubDate>
         <description>Plagi nie przestają nawiedzać Realu Madryt. Porażka z Liverpoolem nie tylko bardzo skomplikowała sytuację zespołu w Lidze Mistrzów. W starciu na Anfield kontuzji doznał Camavinga, a dyskomfort odczuwali także Bellingham i Mbappé. W zaistniałych okolicznościach drużyna potrzebuje na już kogoś, kto da impuls. Na szczęście ktoś taki się znalazł. Tym kimś jest Rodrygo.</description>
-    </item>
-    
-    <item>
-        <title>Kolejna próba ucieczki ze strefy spadkowej</title>
-        <link>https://www.realmadryt.pl/news/134513-kolejna-proba-ucieczki-ze-strefy-spadkowej</link>
-        <pubDate>Sat, 30 Nov 2024 13:36:00 GMT</pubDate>
-        <description>W 15. kolejce Primera Federación Castilla podejmie Méridę. Oba zespoły dzieli w tabeli sześć punktów, a Królewscy tracą tylko dwa oczka do bezpiecznej strefy.</description>
     </item>
     
 </channel>
