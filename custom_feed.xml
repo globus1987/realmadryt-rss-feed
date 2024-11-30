@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Nov 2024 15:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 15:40:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt ma problem z przywództwem – co robi, aby go rozwiązać?</title>
+        <link>https://www.realmadryt.pl/news/134503-real-madryt-ma-problem-z-przywodztwem-co-robi-aby-go-rozwiazac</link>
+        <pubDate>Sat, 30 Nov 2024 16:25:00 GMT</pubDate>
+        <description>W klubie brakuje liderów z dawnych lat, a tę rolę próbują odgrywać młodzi zawodnicy, którym brakuje doświadczenia.</description>
+    </item>
     
     <item>
         <title>Kadra na Getafe</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134496-kartka-z-kalendarza-30-listopada</link>
         <pubDate>Sat, 30 Nov 2024 10:00:00 GMT</pubDate>
         <description>Zwycięstwo w pucharach z monachijczykami, urodziny byłego koszykarza i hat-trick Garetha Bale'a. Co działo się 30 listopada?</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Finał lub mecz otwarcia Mistrzostw Świata 2030 na Bernabéu, Camp Nou lub w Casablance</title>
-        <link>https://www.realmadryt.pl/news/134507-oficjalnie-final-lub-mecz-otwarcia-mistrzostw-swiata-2030-na-bernabeu-camp-nou-lub-w-casablance</link>
-        <pubDate>Sat, 30 Nov 2024 09:57:00 GMT</pubDate>
-        <description>FIFA ogłosiła oficjalny raport ewaluacyjny dotyczący kandydatury na organizację Mistrzostw Świata 2030, które odbędą się w Hiszpanii, Portugalii i Maroku. Choć jest to jedyna kandydatura ubiegająca się o organizację tego turnieju, musi przejść standardowy proces weryfikacji jak każda inna. Decyzja o oficjalnym przyznaniu organizacji turnieju zapadnie 11 grudnia podczas Nadzwyczajnego Kongresu FIFA.</description>
     </item>
     
 </channel>
