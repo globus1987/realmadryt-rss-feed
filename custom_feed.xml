@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Nov 2024 21:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 22:21:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Botafogo zwycięzcą Copa Libertadores</title>
+        <link>https://www.realmadryt.pl/news/134526-botafogo-zwyciezca-copa-libertadores</link>
+        <pubDate>Sat, 30 Nov 2024 23:09:00 GMT</pubDate>
+        <description>Botafogo zagra w dwóch międzynarodowych turniejach klubowych w najbliższym czasie: Pucharze Interkontynentalnym w 2024 roku i Klubowych Mistrzostwach Świata w 2025 roku.</description>
+    </item>
+    
+    <item>
+        <title>15. kolejka: Atlético gromi i jest nowym wiceliderem</title>
+        <link>https://www.realmadryt.pl/news/134524-15-kolejka-atletico-gromi-i-jest-nowym-wiceliderem</link>
+        <pubDate>Sat, 30 Nov 2024 22:57:00 GMT</pubDate>
+        <description>Zakończyły się sobotnie zmagania w 15. kolejce Primera División, więc czas rzucić okiem na układ tabeli.</description>
+    </item>
     
     <item>
         <title>Kadra Getafe na mecz z Realem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134509-ostatni-trening-przed-getafe</link>
         <pubDate>Sat, 30 Nov 2024 12:59:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>15. kolejka: Barcelona przegrywa z Las Palmas!</title>
-        <link>https://www.realmadryt.pl/news/134517-15-kolejka-barcelona-przegrywa-z-las-palmas</link>
-        <pubDate>Sat, 30 Nov 2024 12:59:00 GMT</pubDate>
-        <description>Niespodzianka w meczu 15. kolejki Primera División, bo Barcelona przegrała u siebie z Las Palmas 1:2. Czas więc spojrzeć na sytuację w tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: To nie problem Mbappé, to problem drużyny</title>
-        <link>https://www.realmadryt.pl/news/134510-ancelotti-to-nie-problem-mbappe-to-problem-druzyny</link>
-        <pubDate>Sat, 30 Nov 2024 12:59:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Getafe w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
