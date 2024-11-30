@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Nov 2024 07:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 07:39:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zł za wygraną Realu Madryt z Getafe!</title>
+        <link>https://www.realmadryt.pl/news/134495-200-zl-za-wygrana-realu-madryt-z-getafe</link>
+        <pubDate>Sat, 30 Nov 2024 08:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Asencio zdał egzamin</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134488-bild-davies-zlapany-na-jezdzie-po-alkoholu</link>
         <pubDate>Fri, 29 Nov 2024 16:09:00 GMT</pubDate>
         <description>Kanadyjczyk, który jest łączony z Realem Madryt, został w nocy złapany przez policję na jeździe samochodem po alkoholu.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé nie jest sam</title>
-        <link>https://www.realmadryt.pl/news/134487-mbappe-nie-jest-sam</link>
-        <pubDate>Fri, 29 Nov 2024 16:05:00 GMT</pubDate>
-        <description>Carlo Ancelotti i jego podopieczni są zjednoczeni we wsparciu dla Francuza. Wszyscy w klubie wierzą, że uda mu się przezwyciężyć kryzys i udowodnić swoją wartość w białej koszulce.</description>
     </item>
     
 </channel>
