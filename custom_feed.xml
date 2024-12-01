@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Dec 2024 19:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 19:53:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Porażka w Badalonie po 13 latach</title>
+        <link>https://www.realmadryt.pl/news/134556-porazka-w-badalonie-po-13-latach</link>
+        <pubDate>Sun, 01 Dec 2024 20:46:00 GMT</pubDate>
+        <description>W 9. kolejce Ligi Endesa Real Madryt przegrał na wyjeździe z Joventutem. Królewscy bardzo słabo zaprezentowali się w trzeciej kwarcie meczu, kiedy zdobyli tylko 12 punktów.</description>
+    </item>
     
     <item>
         <title>Bordalás: Mimo straty dwóch bramek nie zrezygnowaliśmy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134545-vinicius-odebral-nagrode-pilkarza-miesiaca-la-ligi</link>
         <pubDate>Sun, 01 Dec 2024 17:37:00 GMT</pubDate>
         <description>Vinícius odebrał nagrodę Piłkarza Miesiąca La Ligi za listopad przed dzisiejszym meczem z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy oddali hołd peñom z Walencji i Letur</title>
-        <link>https://www.realmadryt.pl/news/134544-krolewscy-oddali-hold-penom-z-walencji-i-letur</link>
-        <pubDate>Sun, 01 Dec 2024 17:33:00 GMT</pubDate>
-        <description>Tysiące madridistas z 15 klubów kibica z Walencji i Letur ogląda na Santiago Bernabéu mecz Realu Madryt z Getafe. 22 dzieci z tych peñii wyszło razem z piłkarzami do prezentacji.</description>
     </item>
     
 </channel>
