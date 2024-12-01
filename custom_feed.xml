@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Dec 2024 22:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 23:22:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134563-dzisiejsze-okladki</link>
+        <pubDate>Mon, 02 Dec 2024 00:03:00 GMT</pubDate>
+        <description>Wygrana Realu i kryzys Barcelony to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>250. mecz Courtois w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134547-mbappe-mvp-meczu-z-getafe</link>
         <pubDate>Sun, 01 Dec 2024 18:26:00 GMT</pubDate>
         <description>Francuz uzyskał wyróżnienie za zwycięstwo 2:0 nad Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/134542-ocen-pilkarzy-po-meczu-z-getafe</link>
-        <pubDate>Sun, 01 Dec 2024 18:25:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
