@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Dec 2024 22:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 22:42:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>250. mecz Courtois w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/134555-250-mecz-courtois-w-realu-madryt</link>
+        <pubDate>Sun, 01 Dec 2024 23:22:00 GMT</pubDate>
+        <description>We wczorajszym spotkaniu z Getafe Thibaut Courtois rozegrał swój 250. mecz w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Mateo: Zaczęliśmy dobrze, ale później graliśmy coraz słabiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134542-ocen-pilkarzy-po-meczu-z-getafe</link>
         <pubDate>Sun, 01 Dec 2024 18:25:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>15. kolejka: Real już tylko punkt za Barceloną!</title>
-        <link>https://www.realmadryt.pl/news/134543-15-kolejka-real-juz-tylko-punkt-za-barcelona</link>
-        <pubDate>Sun, 01 Dec 2024 18:23:00 GMT</pubDate>
-        <description>Trzy zespoły z czołówki tabeli zakończyły już swoje zmagania w 15. kolejce Primera División. Czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
