@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Dec 2024 06:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 07:23:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyrok na Mbappé</title>
+        <link>https://www.realmadryt.pl/news/134512-wyrok-na-mbappe</link>
+        <pubDate>Sun, 01 Dec 2024 08:18:00 GMT</pubDate>
+        <description>Kylian Mbappé spotka się jutro z Santiago Bernabéu po katastrofalnym występie na Anfield. Jeśli w grze i postawie Francuza nie dojdzie do widocznej poprawy, to może się spodziewać niekorzystnego dla siebie wyroku.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Getafe: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134521-vinicius-junior-pilkarzem-miesiaca-la-ligi</link>
         <pubDate>Sat, 30 Nov 2024 18:05:00 GMT</pubDate>
         <description>Brazylijczyk triumfował w plebiscycie La Ligi i został wybrany najlepszym piłkarzem tego miesiąca.</description>
-    </item>
-    
-    <item>
-        <title>Kolejni piłkarze z „listy Davide” mogą otrzymać szansę</title>
-        <link>https://www.realmadryt.pl/news/134520-kolejni-pilkarze-z-listy-davide-moga-otrzymac-szanse</link>
-        <pubDate>Sat, 30 Nov 2024 17:20:00 GMT</pubDate>
-        <description>W kadrze na jutrzejszy mecz z Getafe znalazły się nowe twarze.</description>
     </item>
     
 </channel>
