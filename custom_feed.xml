@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Dec 2024 08:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 09:22:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 grudnia</title>
+        <link>https://www.realmadryt.pl/news/134528-kartka-z-kalendarza-1-grudnia</link>
+        <pubDate>Sun, 01 Dec 2024 10:00:00 GMT</pubDate>
+        <description>Urodziny jednego z założycieli Królewskich, mecz na Metropolitano w roli gospodarza, wyjątkowy mecz w Tokio oraz wygrane z Espanyolem i Racingiem. Co działo się 1 grudnia?</description>
+    </item>
     
     <item>
         <title>200 zł za wygraną Realu z Getafe!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134524-15-kolejka-atletico-gromi-i-jest-nowym-wiceliderem</link>
         <pubDate>Sat, 30 Nov 2024 22:57:00 GMT</pubDate>
         <description>Zakończyły się sobotnie zmagania w 15. kolejce Primera División, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Getafe na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/134523-kadra-getafe-na-mecz-z-realem</link>
-        <pubDate>Sat, 30 Nov 2024 22:10:00 GMT</pubDate>
-        <description>José Bordalás nie może liczyć na pięciu zawodników.</description>
     </item>
     
 </channel>
