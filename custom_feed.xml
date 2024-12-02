@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Dec 2024 05:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 05:43:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé odzyskuje błysk, ale nadal szuka skuteczności</title>
+        <link>https://www.realmadryt.pl/news/134564-mbappe-odzyskuje-blysk-ale-nadal-szuka-skutecznosci</link>
+        <pubDate>Mon, 02 Dec 2024 06:40:00 GMT</pubDate>
+        <description>Mbappé poprawił się niemal we wszystkim w meczu z Getafe: był najaktywniejszym napastnikiem, próbował ośmiu dryblingów, oddał pięć strzałów, zdobył piękną bramkę… ale skuteczność wciąż pozostaje jego słabą stroną.</description>
+    </item>
     
     <item>
         <title>Jesé: Co miał mi powiedzieć Bale, skoro nie potrafił mówić?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134549-ceballos-wygrywanie-to-jedyny-sposob-by-zlapac-barcelone</link>
         <pubDate>Sun, 01 Dec 2024 18:32:00 GMT</pubDate>
         <description>Dani Ceballos udzielił wywiadu z murawy dla klubowej telewizji po wygranym 2:0 meczu z Getafe. Przedstawiamy kompletne wypowiedzi pomocnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Berrocal: Real dominował, ale my mieliśmy dwa słupki</title>
-        <link>https://www.realmadryt.pl/news/134548-berrocal-real-dominowal-ale-my-mielismy-dwa-slupki</link>
-        <pubDate>Sun, 01 Dec 2024 18:29:00 GMT</pubDate>
-        <description>Juan Berrocal udzielił wywiadu dla DAZN po przegranej 0:2 z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi piłkarza Getafe.</description>
     </item>
     
 </channel>
