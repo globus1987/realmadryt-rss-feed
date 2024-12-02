@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Dec 2024 11:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 11:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni trenował z drużyną</title>
+        <link>https://www.realmadryt.pl/news/134567-tchouameni-trenowal-z-druzyna</link>
+        <pubDate>Mon, 02 Dec 2024 12:49:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Getafe</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134555-250-mecz-courtois-w-realu-madryt</link>
         <pubDate>Sun, 01 Dec 2024 23:22:00 GMT</pubDate>
         <description>We wczorajszym spotkaniu z Getafe Thibaut Courtois rozegrał swój 250. mecz w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Zaczęliśmy dobrze, ale później graliśmy coraz słabiej</title>
-        <link>https://www.realmadryt.pl/news/134559-mateo-zaczelismy-dobrze-ale-pozniej-gralismy-coraz-slabiej</link>
-        <pubDate>Sun, 01 Dec 2024 22:47:00 GMT</pubDate>
-        <description>Chus Mateo podsumował krótko przegrane spotkanie z Joventutem. Mówił o tym, że drużyna po dobrym początku w miarę upływu czasu spisywała się coraz słabiej.</description>
     </item>
     
 </channel>
