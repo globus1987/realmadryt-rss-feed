@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Dec 2024 22:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 23:25:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134587-dzisiejsze-okladki</link>
+        <pubDate>Tue, 03 Dec 2024 00:13:00 GMT</pubDate>
+        <description>Wywiady, nagrody i mecz Barcelony to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>De Llanos, czyli Pichichi „w wolnym czasie”</title>
+        <link>https://www.realmadryt.pl/news/134585-de-llanos-czyli-pichichi-w-wolnym-czasie</link>
+        <pubDate>Mon, 02 Dec 2024 23:59:00 GMT</pubDate>
+        <description>19-latek jest najlepszym strzelcem Realu Madryt C, choć rozegrał w nim w tym sezonie tylko 102 minuty.</description>
+    </item>
     
     <item>
         <title>Atalanta wygrywa ósmy mecz z rzędu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134568-sanchez-martinez-na-athletic</link>
         <pubDate>Mon, 02 Dec 2024 14:05:00 GMT</pubDate>
         <description>Najbliższy mecz Realu Madryt poprowadzi arbiter pochodzący z Lorki. Dotychczas sędziował aż 36 spotkań z udziałem Królewskich i 24 z udziałem Athleticu.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni trenował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/134567-tchouameni-trenowal-z-druzyna</link>
-        <pubDate>Mon, 02 Dec 2024 12:49:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/134561-oceny-zawodnikow-po-meczu-z-getafe</link>
-        <pubDate>Mon, 02 Dec 2024 12:10:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Getafe 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
