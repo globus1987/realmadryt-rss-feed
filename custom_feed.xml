@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Dec 2024 04:29:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 04:47:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jesé: Co miał mi powiedzieć Bale, skoro nie potrafił mówić?</title>
+        <link>https://www.realmadryt.pl/news/134560-jese-co-mial-mi-powiedziec-bale-skoro-nie-potrafil-mowic</link>
+        <pubDate>Mon, 02 Dec 2024 05:30:00 GMT</pubDate>
+        <description>Jesé Rodríguez, który trafił niedawno do malezyjskiego Johor Darul Takzim, rozmawiał z youtuberem Mowlihawkiem w jego programie Batmowli. Przedstawiamy najważniejsze wypowiedzi Hiszpana.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134548-berrocal-real-dominowal-ale-my-mielismy-dwa-slupki</link>
         <pubDate>Sun, 01 Dec 2024 18:29:00 GMT</pubDate>
         <description>Juan Berrocal udzielił wywiadu dla DAZN po przegranej 0:2 z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi piłkarza Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/134547-mbappe-mvp-meczu-z-getafe</link>
-        <pubDate>Sun, 01 Dec 2024 18:26:00 GMT</pubDate>
-        <description>Francuz uzyskał wyróżnienie za zwycięstwo 2:0 nad Getafe.</description>
     </item>
     
 </channel>
