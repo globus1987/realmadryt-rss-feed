@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Dec 2024 19:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 19:39:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Athleticu na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/134613-kadra-athleticu-na-mecz-z-realem</link>
+        <pubDate>Tue, 03 Dec 2024 20:24:00 GMT</pubDate>
+        <description>Niemal pełną kadrę będzie mieć jutro do dyspozycji Ernesto Valverde, który nie może liczyć jedynie na kontuzjowanego Andera Herrerę.</description>
+    </item>
     
     <item>
         <title>The Athletic: Amazon wypuści kulisy ostatniego triumfu Realu w Lidze Mistrzów</title>
@@ -28,8 +35,8 @@
     </item>
     
     <item>
-        <title>Mallorca vs Barcelona: Katalończycy walczą o utrzymanie przewagi</title>
-        <link>https://www.realmadryt.pl/news/134599-mallorca-vs-barcelona-katalonczycy-walcza-o-utrzymanie-przewagi</link>
+        <title>Mallorca vs Barcelona: Katalończycy znów prowadzą</title>
+        <link>https://www.realmadryt.pl/news/134599-mallorca-vs-barcelona-katalonczycy-znow-prowadza</link>
         <pubDate>Tue, 03 Dec 2024 17:57:00 GMT</pubDate>
         <description>Przed nami jeden z dwóch meczów 19. kolejki Primera División rozgrywany awansem, w którym Mallorca podejmie Barcelonę.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134584-telewizyjny-terminarz-pierwszych-meczow-19-kolejki-la-ligi</link>
         <pubDate>Tue, 03 Dec 2024 15:30:00 GMT</pubDate>
         <description>Przed nami rozgrywane awansem mecze 19. kolejki sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Athletikiem. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Jauregizar: Uwielbiałem grę i elegancję Kroosa</title>
-        <link>https://www.realmadryt.pl/news/134589-jauregizar-uwielbialem-gre-i-elegancje-kroosa</link>
-        <pubDate>Tue, 03 Dec 2024 14:45:00 GMT</pubDate>
-        <description>Mikel Jauregizar udzielił wywiadu dziennikowi AS. Pomocnik Athleticu mówił między innymi o swoich początkach i obecnym sezonie.</description>
     </item>
     
 </channel>
