@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Dec 2024 07:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 07:41:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś rusza druga runda Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/134581-dzis-rusza-druga-runda-pucharu-krola</link>
+        <pubDate>Tue, 03 Dec 2024 08:30:00 GMT</pubDate>
+        <description>W drugiej rundzie Pucharu Króla wszystkie pierwszoligowe drużyny zmierzą się z niżej notowanymi rywalami. Cztery drużyny z Primera División, w tym Real Madryt, dołączą do rywalizacji dopiero w styczniu.</description>
+    </item>
     
     <item>
         <title>El Confidencial: Real zaoferuje Asencio nowy kontrakt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134573-mbappe-zaskarza-psg-do-komisji-dyscyplinarnej-lfp</link>
         <pubDate>Mon, 02 Dec 2024 19:10:00 GMT</pubDate>
         <description>Konflikt Kyliana Mbappé z Paris Saint-Germian pozostaje otwarty i piłkarz cały czas walczy o zaległe pieniądze. Francuskie media twierdzą, że po kilku korzystnych dla siebie decyzjach wydanych przez dwie komisje LFP (Ligue de Football Professionnel), piłkarz skierował kolejny wniosek do komisji dyscyplinarnej.</description>
-    </item>
-    
-    <item>
-        <title>Ośmiu madridistas nominowanych do FIFPRO World 11</title>
-        <link>https://www.realmadryt.pl/news/134572-osmiu-madridistas-nominowanych-do-fifpro-world-11</link>
-        <pubDate>Mon, 02 Dec 2024 17:16:00 GMT</pubDate>
-        <description>Wśród nominowanych znaleźli się Dani Carvajal, Antonio Rüdiger, Jude Bellingham, Toni Kroos, Fede Valverde, Luka Modrić, Kylian Mbappé i Vinícius.</description>
     </item>
     
 </channel>
