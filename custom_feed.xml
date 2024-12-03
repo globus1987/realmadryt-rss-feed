@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Dec 2024 23:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 23:53:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134618-dzisiejsze-okladki</link>
+        <pubDate>Wed, 04 Dec 2024 00:42:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Athletikiem i wygrana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wyjazdowy koszmar dalej trwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134583-ten-athletic-budzi-groze</link>
         <pubDate>Tue, 03 Dec 2024 16:30:00 GMT</pubDate>
         <description>Gracze z Bilbao przeżywają najlepszy moment sezonu, a ich San Mamés przekształciło się w fortecę niemal nie do zdobycia.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham zawodnikiem na Pięć Gwiazdek za listopad</title>
-        <link>https://www.realmadryt.pl/news/134603-bellingham-zawodnikiem-na-piec-gwiazdek-za-listopad</link>
-        <pubDate>Tue, 03 Dec 2024 16:29:00 GMT</pubDate>
-        <description>Angielski pomocnik po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
