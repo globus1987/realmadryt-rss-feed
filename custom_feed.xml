@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Dec 2024 11:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 11:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gil Manzano na Gironę</title>
+        <link>https://www.realmadryt.pl/news/134668-gil-manzano-na-girone</link>
+        <pubDate>Thu, 05 Dec 2024 12:52:00 GMT</pubDate>
+        <description>40-latek prowadzi spotkania La Ligi od 2012 roku. W sobotę po raz 50. poprowadzi mecz z udziałem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Athletikiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134660-real-przyzwyczaja-sie-do-przegrywania</link>
         <pubDate>Thu, 05 Dec 2024 09:05:00 GMT</pubDate>
         <description>We wczorajszym meczu z Athletikiem Bilbao na San Mamés Królewscy ponieśli piątą porażkę w tym sezonie lub – jak kto woli – piątą w ostatnich jedenastu spotkaniach.</description>
-    </item>
-    
-    <item>
-        <title>Już dzisiaj losowanie grup Klubowego Mundialu</title>
-        <link>https://www.realmadryt.pl/news/134640-juz-dzisiaj-losowanie-grup-klubowego-mundialu</link>
-        <pubDate>Thu, 05 Dec 2024 08:40:00 GMT</pubDate>
-        <description>Już dzisiaj wieczorem Królewscy poznają rywali na Klubowym Mundialu. Ekipa Carlo Ancelottiego na pewno trafi na jednego europejskiego rywala, wśród których są jednak tylko trzy opcje.</description>
     </item>
     
 </channel>
