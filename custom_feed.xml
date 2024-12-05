@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Dec 2024 23:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 23:54:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134681-dzisiejsze-okladki</link>
+        <pubDate>Fri, 06 Dec 2024 00:43:00 GMT</pubDate>
+        <description>Losowanie grup Klubowego Mundialu, wywiad z Messim i finanse Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>1/16 finału Pucharu Króla bez czterech drużyn z Primera División</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134654-oceny-zawodnikow-po-meczu-z-athletikiem</link>
         <pubDate>Thu, 05 Dec 2024 12:37:00 GMT</pubDate>
         <description>Real Madryt przegrał na wyjeździe z Athletikiem 1:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>„Trzy miesiące później Mbappé dalej nie gra nic”</title>
-        <link>https://www.realmadryt.pl/news/134665-trzy-miesiace-pozniej-mbappe-dalej-nie-gra-nic</link>
-        <pubDate>Thu, 05 Dec 2024 12:14:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu Madryt z Athletikiem. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
