@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Dec 2024 12:49:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 13:32:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Zaległy mecz z Valencią 2 stycznia</title>
+        <link>https://www.realmadryt.pl/news/134669-oficjalnie-zalegly-mecz-z-valencia-2-stycznia</link>
+        <pubDate>Thu, 05 Dec 2024 13:59:00 GMT</pubDate>
+        <description>Hiszpańska Federacja poinformowała, że zaległe spotkanie z Valencią na Mestalli odbędzie się tuż po Nowym Roku.</description>
+    </item>
     
     <item>
         <title>Gil Manzano na Gironę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134661-relevo-kryzys-mbappe-niepokoi-szatnie-realu</link>
         <pubDate>Thu, 05 Dec 2024 09:14:00 GMT</pubDate>
         <description>Koledzy z drużyny i klub starają się wspierać Kyliana, który stracił pewność siebie.</description>
-    </item>
-    
-    <item>
-        <title>Real przyzwyczaja się do przegrywania</title>
-        <link>https://www.realmadryt.pl/news/134660-real-przyzwyczaja-sie-do-przegrywania</link>
-        <pubDate>Thu, 05 Dec 2024 09:05:00 GMT</pubDate>
-        <description>We wczorajszym meczu z Athletikiem Bilbao na San Mamés Królewscy ponieśli piątą porażkę w tym sezonie lub – jak kto woli – piątą w ostatnich jedenastu spotkaniach.</description>
     </item>
     
 </channel>
