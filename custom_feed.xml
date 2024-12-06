@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Dec 2024 14:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 14:43:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Gironę</title>
+        <link>https://www.realmadryt.pl/news/134688-kadra-realu-madryt-na-girone</link>
+        <pubDate>Fri, 06 Dec 2024 15:25:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu z Gironą bez pięciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 17 zawodników.</description>
+    </item>
     
     <item>
         <title>Po wyjazdowe przełamanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134685-ruch-mbappe</link>
         <pubDate>Fri, 06 Dec 2024 09:34:00 GMT</pubDate>
         <description>Szatnia bardzo pozytywnie zareagowała na ostatni ruch w wykonaniu Kyliana Mbappé. Francuski crack zrobił krok naprzód, wziął odpowiedzialność na siebie i zapowiada szybką reakcję.</description>
-    </item>
-    
-    <item>
-        <title>200 zł za wygraną Realu Madryt z Gironą!</title>
-        <link>https://www.realmadryt.pl/news/134684-200-zl-za-wygrana-realu-madryt-z-girona</link>
-        <pubDate>Fri, 06 Dec 2024 09:30:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
