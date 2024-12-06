@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Dec 2024 19:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 20:26:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oglądaj mecze Realu Madryt za 20 złotych</title>
+        <link>https://www.realmadryt.pl/news/134700-ogladaj-mecze-realu-madryt-za-20-zlotych</link>
+        <pubDate>Fri, 06 Dec 2024 20:56:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 16. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134691-ancelotti-alaba-potrzebuje-kolejnego-miesiaca-ale-jest-dla-niego-miejsce</link>
         <pubDate>Fri, 06 Dec 2024 13:08:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Gironą. Poniżej przedstawiamy najważniejsze wypowiedzi Włocha, a pełny zapis pojawi się na portalu tradycyjnie, w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Alaba i Vinícius rozpoczęli trening z zespołem!</title>
-        <link>https://www.realmadryt.pl/news/134689-alaba-i-vinicius-rozpoczeli-trening-z-zespolem</link>
-        <pubDate>Fri, 06 Dec 2024 11:41:00 GMT</pubDate>
-        <description>Austriak i Brazylijczyk są coraz bliżej powrotu do gry.</description>
     </item>
     
 </channel>
