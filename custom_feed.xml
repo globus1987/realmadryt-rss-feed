@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Dec 2024 23:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 23:40:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134702-dzisiejsze-okladki</link>
+        <pubDate>Sat, 07 Dec 2024 00:34:00 GMT</pubDate>
+        <description>Kylian Mbappé, spotkania Realu Madryt z Gironą i Betisu z Barceloną to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Castilla słabsza od Murcii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134687-ostatni-trening-przed-girona</link>
         <pubDate>Fri, 06 Dec 2024 13:50:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Jak może wyglądać drabinka Realu Madryt na Klubowym Mundialu?</title>
-        <link>https://www.realmadryt.pl/news/134676-jak-moze-wygladac-drabinka-realu-madryt-na-klubowym-mundialu</link>
-        <pubDate>Fri, 06 Dec 2024 13:44:00 GMT</pubDate>
-        <description>Losowanie grup Klubowego Mundialu pozwoliło lepiej poznać potencjalną drogę Królewskich na tym turnieju.</description>
     </item>
     
 </channel>
