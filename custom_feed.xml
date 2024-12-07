@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Dec 2024 19:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 20:24:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Girona – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/134721-girona-real-madryt-live</link>
+        <pubDate>Sat, 07 Dec 2024 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 16. kolejki La Ligi między Gironą a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Gironą [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134709-fifa-opublikowala-terminarz-klubowego-mundialu</link>
         <pubDate>Sat, 07 Dec 2024 10:53:00 GMT</pubDate>
         <description>FIFA ogłosiła terminarz Klubowego Mundialu. Królewscy wszystkie mecze fazy grupowej rozegrają na wschodnim wybrzeżu.</description>
-    </item>
-    
-    <item>
-        <title>AS: Najlepszym lewym obrońcą Realu jest… Miguel Gutiérrez</title>
-        <link>https://www.realmadryt.pl/news/134708-as-najlepszym-lewym-obronca-realu-jest-miguel-gutierrez</link>
-        <pubDate>Sat, 07 Dec 2024 10:52:00 GMT</pubDate>
-        <description>23-letni Hiszpan ma kontrakt z Gironą do 2027 roku, ale Real może go odkupić za 8 milionów euro.</description>
     </item>
     
 </channel>
