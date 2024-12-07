@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Dec 2024 11:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 12:44:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gil Manzano wraca po 280 dniach</title>
+        <link>https://www.realmadryt.pl/news/134715-gil-manzano-wraca-po-280-dniach</link>
+        <pubDate>Sat, 07 Dec 2024 13:38:00 GMT</pubDate>
+        <description>Arbiter poprowadzi dziś mecz Królewskich po bardzo długiej przerwie.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Gironie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134706-alaba-coraz-blizej-powrotu-ale-jego-stan-wciaz-niepokoi</link>
         <pubDate>Sat, 07 Dec 2024 09:15:00 GMT</pubDate>
         <description>Choć David Alaba wrócił do treningów z zespołem, to jednak obrońcy wciąż daleko do dyspozycji, która pozwoli mu wrócić do gry na w pełni konkurencyjnym poziomie.</description>
-    </item>
-    
-    <item>
-        <title>150 zł bez ryzyka w meczu Realu Madryt z Gironą!</title>
-        <link>https://www.realmadryt.pl/news/134703-150-zl-bez-ryzyka-w-meczu-realu-madryt-z-girona</link>
-        <pubDate>Sat, 07 Dec 2024 08:30:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
