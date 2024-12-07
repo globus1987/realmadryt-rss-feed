@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Dec 2024 09:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 09:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Najlepszym lewym obrońcą Realu jest… Miguel Gutiérrez</title>
+        <link>https://www.realmadryt.pl/news/134708-as-najlepszym-lewym-obronca-realu-jest-miguel-gutierrez</link>
+        <pubDate>Sat, 07 Dec 2024 10:52:00 GMT</pubDate>
+        <description>23-letni Hiszpan ma kontrakt z Gironą do 2027 roku, ale Real może go odkupić za 8 milionów euro.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 7 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134700-ogladaj-mecze-realu-madryt-za-20-zlotych</link>
         <pubDate>Fri, 06 Dec 2024 20:56:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 16. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/134692-telewizyjny-terminarz-16-kolejki-la-ligi</link>
-        <pubDate>Fri, 06 Dec 2024 20:00:00 GMT</pubDate>
-        <description>Przed nami szesnasta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Gironą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
