@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Dec 2024 03:57:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 04:30:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Powiedzenie komuś, że zrobił coś głupiego, a powiedzenie, że jest głupi, to dwie różne rzeczy</title>
+        <link>https://www.realmadryt.pl/news/134698-ancelotti-powiedzenie-komus-ze-zrobil-cos-glupiego-a-powiedzenie-ze-jest-glupi-to-dwie-rozne-rzeczy</link>
+        <pubDate>Sat, 07 Dec 2024 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Gironą w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134690-marca-real-utrzymuje-ze-mbappe-jest-czescia-dziedzictwa-klubu</link>
         <pubDate>Fri, 06 Dec 2024 13:55:00 GMT</pubDate>
         <description>Francuz jest częścią projektu Realu Madryt. Stanowi istotny element aktualnej struktury klubu i tak pozostanie.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Gironą</title>
-        <link>https://www.realmadryt.pl/news/134687-ostatni-trening-przed-girona</link>
-        <pubDate>Fri, 06 Dec 2024 13:50:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
