@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Dec 2024 23:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 23:39:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134734-dzisiejsze-okladki</link>
+        <pubDate>Sun, 08 Dec 2024 00:26:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i remis Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Yañez: Jestem bardzo pokorną osobą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134719-pilkarki-pewnie-pokonuja-seville</link>
         <pubDate>Sat, 07 Dec 2024 19:48:00 GMT</pubDate>
         <description>W meczu 12. kolejki Ligi F piłkarki Realu Madryt pokonały na Alfredo Di Stéfano Sevillę 4:1. Bramki dla Królewskich zdobywały: Sheila García, Sandie Toletti, Linda Caicedo i Signe Bruun.</description>
-    </item>
-    
-    <item>
-        <title>Girona – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/134717-girona-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 07 Dec 2024 19:07:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu La Ligi. Mecz rozpocznie się o godzinie 21:00 na Estadi Montilivi.</description>
     </item>
     
 </channel>
