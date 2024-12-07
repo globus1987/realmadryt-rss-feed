@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Dec 2024 08:28:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 08:46:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Powtarzalność na opak</title>
+        <link>https://www.realmadryt.pl/news/134672-powtarzalnosc-na-opak</link>
+        <pubDate>Sat, 07 Dec 2024 09:30:00 GMT</pubDate>
+        <description>Grunt to powtarzalność (?)</description>
+    </item>
     
     <item>
         <title>Alaba coraz bliżej powrotu, ale jego stan wciąż niepokoi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134696-michel-ja-zawsze-widze-w-realu-madryt-faworyta</link>
         <pubDate>Fri, 06 Dec 2024 16:57:00 GMT</pubDate>
         <description>Trener Girony, Míchel, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 16. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi madryckiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Bournemouth latem ruszy po Frana Garcíę</title>
-        <link>https://www.realmadryt.pl/news/134695-relevo-bournemouth-latem-ruszy-po-frana-garcie</link>
-        <pubDate>Fri, 06 Dec 2024 16:17:00 GMT</pubDate>
-        <description>Jak informuje Relevo, Bournemouth chciałoby skorzystać z potencjalnego transferu Daviesa do Realu Madryt i ściągnąć sobie zastępcę Kerkeza, którym miałby zostać Fran García.</description>
     </item>
     
 </channel>
