@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Dec 2024 23:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 23:40:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134764-dzisiejsze-okladki</link>
+        <pubDate>Mon, 09 Dec 2024 00:26:00 GMT</pubDate>
+        <description>Remontada Atlético, wywiad z Kylianem Mbappé i sytuacja Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Dzisiaj losowanie 1/16 Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134749-endrick-nie-traci-cierpliwosci</link>
         <pubDate>Sun, 08 Dec 2024 13:23:00 GMT</pubDate>
         <description>Endrick cały czas czeka i nie traci cierpliwości. Brazylijczyk oczywiście chciałby grać więcej i czuć się ważny, ale przy tym jest świadomy swojego miejsca w hierarchii.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius trenował z grupą</title>
-        <link>https://www.realmadryt.pl/news/134747-vinicius-trenowal-z-grupa</link>
-        <pubDate>Sun, 08 Dec 2024 13:11:00 GMT</pubDate>
-        <description>Królewscy rozpoczęli boiskowe przygotowania do kolejnego meczu. Była to jednocześnie sesja regeneracyjna po wczorajszym występie.</description>
     </item>
     
 </channel>
