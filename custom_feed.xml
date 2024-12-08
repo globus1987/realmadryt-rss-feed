@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Dec 2024 21:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 22:21:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>16. kolejka: Atlético wygrywa w doliczonym czasie</title>
+        <link>https://www.realmadryt.pl/news/134758-16-kolejka-atletico-wygrywa-w-doliczonym-czasie</link>
+        <pubDate>Sun, 08 Dec 2024 23:02:00 GMT</pubDate>
+        <description>Zakończyliśmy niedzielną rywalizację w 16. kolejce Primera División, więc czas rzucić okiem na tabelę.</description>
+    </item>
     
     <item>
         <title>Mateo: Graliśmy jako drużyna</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134746-oficjalnie-ferland-mendy-kontuzjowany</link>
         <pubDate>Sun, 08 Dec 2024 12:04:00 GMT</pubDate>
         <description>Klub potwierdził kontuzję Francuza.</description>
-    </item>
-    
-    <item>
-        <title>Szymon Marciniak na mecz z Atalantą</title>
-        <link>https://www.realmadryt.pl/news/134744-szymon-marciniak-na-mecz-z-atalanta</link>
-        <pubDate>Sun, 08 Dec 2024 11:54:00 GMT</pubDate>
-        <description>Po raz dziewiąty w karierze Szymon Marciniak poprowadzi mecz z udziałem Realu Madryt. Królewscy wygrali dotychczas tylko trzy spotkania.</description>
     </item>
     
 </channel>
