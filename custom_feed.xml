@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Dec 2024 23:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 23:41:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134793-dzisiejsze-okladki</link>
+        <pubDate>Tue, 10 Dec 2024 00:36:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i pozostałe spotkania w Lidze Mistrzów to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kadra Atalanty na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134778-relevo-real-i-asencio-nie-spiesza-sie-w-sprawie-nowej-umowy</link>
         <pubDate>Mon, 09 Dec 2024 16:27:00 GMT</pubDate>
         <description>Klub rozmawia już z otoczeniem gracza w sprawie ewentualnego przedłużenia kontraktu, ale ani Królewscy, ani defensor nie widzą powodów do pośpiechu.</description>
-    </item>
-    
-    <item>
-        <title>Sześciu madridistas w FIFPRO World 11!</title>
-        <link>https://www.realmadryt.pl/news/134774-szesciu-madridistas-w-fifpro-world-11</link>
-        <pubDate>Mon, 09 Dec 2024 16:03:00 GMT</pubDate>
-        <description>Wśród nominowanych znaleźli się Dani Carvajal, Antonio Rüdiger, Jude Bellingham, Toni Kroos, Fede Valverde, Luka Modrić, Kylian Mbappé i Vinícius, a ostatecznie aż sześciu z nich trafiło do najlepszej jedenastki roku.</description>
     </item>
     
 </channel>
