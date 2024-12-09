@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Dec 2024 11:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 11:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Lombardii</title>
+        <link>https://www.realmadryt.pl/news/134772-krolewscy-sa-juz-w-lombardii</link>
+        <pubDate>Mon, 09 Dec 2024 12:42:00 GMT</pubDate>
+        <description>22 powołanych zawodników dotarło już do Bergamo, gdzie Królewscy zmierzą się jutro z Atalantą i powalczą o punkty w Lidze Mistrzów.</description>
+    </item>
     
     <item>
         <title>Bunt Ardy Gülera: od stawienia czoła Bellinghamowi po gola potwierdzającego jego wartość</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134764-dzisiejsze-okladki</link>
         <pubDate>Mon, 09 Dec 2024 00:26:00 GMT</pubDate>
         <description>Remontada Atlético, wywiad z Kylianem Mbappé i sytuacja Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj losowanie 1/16 Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/134763-dzisiaj-losowanie-1-16-pucharu-krola</link>
-        <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-        <description>Real Madryt nie musiał występować w dwóch pierwszych rundach Pucharu Króla, ale na początku stycznia rozpocznie rywalizację w tych rozgrywkach. Dziś dowiemy się, kto będzie rywalem Królewskich.</description>
     </item>
     
 </channel>
