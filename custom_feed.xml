@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Dec 2024 11:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 11:39:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Na krawędzi</title>
+        <link>https://www.realmadryt.pl/news/134797-na-krawedzi</link>
+        <pubDate>Tue, 10 Dec 2024 12:24:00 GMT</pubDate>
+        <description>Plaga kontuzji wywołuje dyskusję w szeregach Królewskich, gdzie nadal ufa się włoskiemu trenerowi od przygotowania fizycznego. Klub wskazuje na napięty kalendarz i krótką przedsezonową przerwę jako kluczowe czynniki.</description>
+    </item>
     
     <item>
         <title>Mbappé: Będziemy grali wszystko, ale pozwólcie nam też odpoczywać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134792-kartka-z-kalendarza-10-grudnia</link>
         <pubDate>Tue, 10 Dec 2024 09:09:00 GMT</pubDate>
         <description>Mecz z Polakami w siatkówkę, urodziny byłego napastnika i dwa emocjonujące mecze u siebie. Co działo się 10 grudnia?</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/134789-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 10 Dec 2024 08:18:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 16. kolejce La Ligi.</description>
     </item>
     
 </channel>
