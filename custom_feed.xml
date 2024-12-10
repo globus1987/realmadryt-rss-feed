@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Dec 2024 23:23:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 23:40:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134830-dzisiejsze-okladki</link>
+        <pubDate>Wed, 11 Dec 2024 00:34:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>250 zwycięstw Lucasa w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134814-katharsis</link>
         <pubDate>Tue, 10 Dec 2024 20:55:00 GMT</pubDate>
         <description>Real Madryt wygrał 3:2 na wyjeździe z Atalantą, sięgając po niesamowicie ważne 3 punkty w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Wolałem wstawić Tchouaméniego, by zyskać wzrost w defensywie</title>
-        <link>https://www.realmadryt.pl/news/134813-ancelotti-wolalem-wstawic-tchouameniego-by-zyskac-wzrost-w-defensywie</link>
-        <pubDate>Tue, 10 Dec 2024 20:17:00 GMT</pubDate>
-        <description>Carlo Ancelotti na godzinę przed meczem Ligi Mistrzów z Atalantą udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt ze Stadio di Bergamo.</description>
     </item>
     
 </channel>
