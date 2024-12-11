@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Dec 2024 04:48:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 05:24:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: Carlo pomógł mi odzyskać swobodę</title>
+        <link>https://www.realmadryt.pl/news/134833-bellingham-carlo-pomogl-mi-odzyskac-swobode</link>
+        <pubDate>Wed, 11 Dec 2024 06:00:00 GMT</pubDate>
+        <description>Jude Bellingham po meczu z Atalantą w Lidze Mistrzów udzielił wywiadów stacjom TNT i CBS oraz UEFA. Przedstawiamy wypowiedzi zawodnika Realu Madryt z tych rozmów na Stadio di Bergamo.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134817-ocen-pilkarzy-po-meczu-z-atalanta</link>
         <pubDate>Tue, 10 Dec 2024 23:01:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Katharsis?</title>
-        <link>https://www.realmadryt.pl/news/134814-katharsis</link>
-        <pubDate>Tue, 10 Dec 2024 20:55:00 GMT</pubDate>
-        <description>Real Madryt wygrał 3:2 na wyjeździe z Atalantą, sięgając po niesamowicie ważne 3 punkty w Lidze Mistrzów.</description>
     </item>
     
 </channel>
