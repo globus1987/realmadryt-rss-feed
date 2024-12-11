@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Dec 2024 08:55:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:26:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 1/16 finału Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/134815-terminarz-1-16-finalu-pucharu-krola</link>
+        <pubDate>Wed, 11 Dec 2024 10:00:00 GMT</pubDate>
+        <description>Hiszpańska Federacja Piłkarska potwierdziła terminy meczów 1/16 finału Pucharu Króla. Real Madryt zmierzy się w tej rundzie z czwartoligową Minerą</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 11 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134830-dzisiejsze-okladki</link>
         <pubDate>Wed, 11 Dec 2024 00:34:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>250 zwycięstw Lucasa w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/134827-250-zwyciestw-lucasa-w-realu-madryt</link>
-        <pubDate>Wed, 11 Dec 2024 00:08:00 GMT</pubDate>
-        <description>We wczorajszym meczu z Atalantą Lucas Vázquez odniósł 250. zwycięstwo w koszulce Realu Madryt.</description>
     </item>
     
 </channel>
