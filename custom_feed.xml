@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Dec 2024 23:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 23:54:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134890-dzisiejsze-okladki</link>
+        <pubDate>Fri, 13 Dec 2024 00:45:00 GMT</pubDate>
+        <description>Wywiad z Jamesem oraz sukcesy Atlético i Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Coraz większy kryzys w Eurolidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134878-oficjalnie-kylian-mbappe-kontuzjowany</link>
         <pubDate>Thu, 12 Dec 2024 14:27:00 GMT</pubDate>
         <description>Real Madryt wydał komunikat ws. stanu zdrowia Kyliana Mbappé, który doznał kontuzji w ostatnim meczu z Atalantą.</description>
-    </item>
-    
-    <item>
-        <title>Şahin: Pytasz madridistę, kto jest lepszy? Zawsze wybiorę Real</title>
-        <link>https://www.realmadryt.pl/news/134877-sahin-pytasz-madridiste-kto-jest-lepszy-zawsze-wybiore-real</link>
-        <pubDate>Thu, 12 Dec 2024 13:42:00 GMT</pubDate>
-        <description>Nuri Şahin wziął wczoraj udział w pomeczowej konferencji prasowej i poproszono go o porównanie Barcelony z Realem Madryt.</description>
     </item>
     
 </channel>
