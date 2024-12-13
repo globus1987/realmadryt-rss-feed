@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Dec 2024 22:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 23:23:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134928-dzisiejsze-okladki</link>
+        <pubDate>Sat, 14 Dec 2024 00:22:00 GMT</pubDate>
+        <description>Świąteczne spotkanie Realu Madryt i forma Ferrana Torresa to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo wraca na scenę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134898-gdy-skandal-dopingowy-dotknal-real-dwaj-pilkarze-mieli-pozytywne-wyniki-testow-a-lekarz-stracil-prace</link>
         <pubDate>Fri, 13 Dec 2024 16:09:00 GMT</pubDate>
         <description>Doktor José María Neyra podał Ripped Fuel Daniemu Garcíi Larze i Paco Sanzowi, wówczas zawodnikom Castilli. Sprawa, od której dziś mija 30 lat, została zamknięta bez sankcji dla piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Na czym polega sekret poprawy formy Realu Madryt?</title>
-        <link>https://www.realmadryt.pl/news/134913-na-czym-polega-sekret-poprawy-formy-realu-madryt</link>
-        <pubDate>Fri, 13 Dec 2024 15:18:00 GMT</pubDate>
-        <description>Zawodnicy tacy jak Brahim, Ceballos, Fran García, Rodrygo, Asencio, Modrić i Güler domagali się ważniejszej roli i większej liczby minut, a kiedy już to otrzymali, pokazali Carlo Ancelottiemu, że muszą grać regularnie.</description>
     </item>
     
 </channel>
