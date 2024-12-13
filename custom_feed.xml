@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Dec 2024 13:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 13:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Rayo</title>
+        <link>https://www.realmadryt.pl/news/134911-kadra-na-rayo</link>
+        <pubDate>Fri, 13 Dec 2024 14:50:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu z Rayo Vallecano bez pięciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 22 zawodników.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed Rayo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134888-200-zl-za-wygrana-realu-madryt-z-rayo</link>
         <pubDate>Fri, 13 Dec 2024 09:30:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Figo: Ego mogą zniszczyć atmosferę, wyniki i zespół</title>
-        <link>https://www.realmadryt.pl/news/134867-figo-ego-moga-zniszczyc-atmosfere-wyniki-i-zespol</link>
-        <pubDate>Fri, 13 Dec 2024 09:07:00 GMT</pubDate>
-        <description>Luís Figo weźmie udział w LALIGA EA SPORTS X FC 25RUSH — rywalizacji łączącej mecz w klasycznej grze wideo z rzeczywistą rozgrywką, w towarzystwie Carlesa Puyola i kilku najpopularniejszych streamerów w Hiszpanii. Z tej okazji Portugalczyk udzielił wywiadu dziennikowi El Mundo.</description>
     </item>
     
 </channel>
