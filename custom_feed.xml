@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 22:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 22:42:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius nie zagra z Sevillą</title>
+        <link>https://www.realmadryt.pl/news/134960-vinicius-nie-zagra-z-sevilla</link>
+        <pubDate>Sat, 14 Dec 2024 23:41:00 GMT</pubDate>
+        <description>Brazylijczyk obejrzał piątą żółtą kartkę w tym sezonie ligowym.</description>
+    </item>
+    
+    <item>
+        <title>17. kolejka: Real traci punkty i daje szansę Barcelonie</title>
+        <link>https://www.realmadryt.pl/news/134957-17-kolejka-real-traci-punkty-i-daje-szanse-barcelonie</link>
+        <pubDate>Sat, 14 Dec 2024 23:23:00 GMT</pubDate>
+        <description>Za nami sobotnia rywalizacja w 17. kolejce Primera División, więc czas rzucić okiem na układ tabeli.</description>
+    </item>
     
     <item>
         <title>Isi: Jestem dumny z tej drużyny</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/134936-wszystko-zalezy-od-lejeunea</link>
         <pubDate>Sat, 14 Dec 2024 16:40:00 GMT</pubDate>
         <description>Jest liderem obrony i zawodnikiem z największą liczbą minut w tym sezonie. Zawsze może liczyć na miejsce w jedenastce trenera Iñigo Péreza.</description>
-    </item>
-    
-    <item>
-        <title>Nieprzyjemne wizyty w Vallecas i straty punktów</title>
-        <link>https://www.realmadryt.pl/news/134871-nieprzyjemne-wizyty-w-vallecas-i-straty-punktow</link>
-        <pubDate>Sat, 14 Dec 2024 16:10:00 GMT</pubDate>
-        <description>W najbliższą sobotę Los Blancos zagrają na Campo de Fútbol de Vallecas, a statystyki pokazują, że może być to dla nich mecz-pułapka.</description>
-    </item>
-    
-    <item>
-        <title>Bardziej obrońca niż pomocnik</title>
-        <link>https://www.realmadryt.pl/news/134939-bardziej-obronca-niz-pomocnik</link>
-        <pubDate>Sat, 14 Dec 2024 15:40:00 GMT</pubDate>
-        <description>Gdy gra toczy się o wysoką stawkę, Aurélien Tchouaméni jest pod nieobecność Militão i Alaby pierwszym wyborem Carlo Ancelottiego. Choć Asencio zdobył sobie uznanie szkoleniowca i olbrzymie uznanie kibiców, to jednak w kluczowych momentach trener w pełni ufa swoim najbardziej doświadczonym zawodnikom.</description>
     </item>
     
 </channel>
