@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 09:39:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 09:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé wybrany najlepszym francuskim piłkarzem sezonu 2023/24</title>
+        <link>https://www.realmadryt.pl/news/134941-mbappe-wybrany-najlepszym-francuskim-pilkarzem-sezonu-2023-24</link>
+        <pubDate>Sat, 14 Dec 2024 10:40:00 GMT</pubDate>
+        <description>Napastnik Realu Madryt pokonał swojego kolegę z reprezentacji, Williama Salibę, i zdobył nagrodę przyznawaną co sezon przez France Football.</description>
+    </item>
     
     <item>
         <title>Isi: Bez Mbappé nasze szanse wzrastają</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134930-rayo-vallecano-real-madryt-przewidywane-sklady</link>
         <pubDate>Sat, 14 Dec 2024 06:00:00 GMT</pubDate>
         <description>Królewscy podchodzą do kolejnego meczu bez kontuzjowanych Davida Alaby, Daniego Carvajala, Édera Militão, Ferlanda Mendy'ego i Kyliana Mbappé. Po przerwie do kadry meczowej wraca Eduardo Camavinga.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Endrickowi nie pomoże wystawianie go, gdy drużynie nie idzie dobrze</title>
-        <link>https://www.realmadryt.pl/news/134912-ancelotti-endrickowi-nie-pomoze-wystawianie-go-gdy-druzynie-nie-idzie-dobrze</link>
-        <pubDate>Sat, 14 Dec 2024 01:51:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Rayo Vallecano w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
