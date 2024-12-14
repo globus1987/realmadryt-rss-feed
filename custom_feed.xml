@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 08:28:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 08:46:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 14 grudnia</title>
+        <link>https://www.realmadryt.pl/news/134929-kartka-z-kalendarza-14-grudnia</link>
+        <pubDate>Sat, 14 Dec 2024 09:30:00 GMT</pubDate>
+        <description>Oficjalna inauguracja Estadio Santiago Bernabéu, urodziny byłego napastnika i transfer nieznanego jeszcze w Europie napastnika z Argentyny. Co działo się 14 grudnia?</description>
+    </item>
     
     <item>
         <title>Lejeune: Rüdiger jest bardzo uciążliwy, szczypie cię w sutki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134923-rodrygo-wraca-na-scene</link>
         <pubDate>Fri, 13 Dec 2024 22:03:00 GMT</pubDate>
         <description>23-latek jest już gotowy do gry i będzie musiał zastąpić z Rayo kontuzjowanego Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 17. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/134922-telewizyjny-terminarz-17-kolejki-la-ligi</link>
-        <pubDate>Fri, 13 Dec 2024 20:00:00 GMT</pubDate>
-        <description>Przed nami siedemnasta kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Rayo. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
