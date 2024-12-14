@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 21:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 22:21:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Isi: Jestem dumny z tej drużyny</title>
+        <link>https://www.realmadryt.pl/news/134956-isi-jestem-dumny-z-tej-druzyny</link>
+        <pubDate>Sat, 14 Dec 2024 23:12:00 GMT</pubDate>
+        <description>Isi Palazón udzielił wypowiedzi dla telewizji Movistar+ po zremisowanym 3:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi pomocnika Rayo, autora bramki na 3:3.</description>
+    </item>
+    
+    <item>
+        <title>Fede Valverde MVP meczu z Rayo Vallecano</title>
+        <link>https://www.realmadryt.pl/news/134955-fede-valverde-mvp-meczu-z-rayo-vallecano</link>
+        <pubDate>Sat, 14 Dec 2024 23:06:00 GMT</pubDate>
+        <description>Urugwajczyk został wyróżniony po zremisowanym 3:3 spotkaniu na Campo de Fútbol de Vallecas.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Rayo</title>
+        <link>https://www.realmadryt.pl/news/134954-ocen-pilkarzy-po-meczu-z-rayo</link>
+        <pubDate>Sat, 14 Dec 2024 23:05:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Z Pachucą w finale Pucharu Interkontynentalnego</title>
@@ -14,10 +35,10 @@
     </item>
     
     <item>
-        <title>Rayo Vallecano – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/134953-rayo-vallecano-real-madryt-live</link>
+        <title>Real odpowiedział, ale nie wytrzymał</title>
+        <link>https://www.realmadryt.pl/news/134953-real-odpowiedzial-ale-nie-wytrzymal</link>
         <pubDate>Sat, 14 Dec 2024 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz 17. kolejki La Ligi, w którym Rayo Vallecano podejmuje Real Madryt.</description>
+        <description>W meczu 17. kolejki La Ligi Real Madryt zremisował z Rayo Vallecano 3:3. Bramki dla Królewskich zdobyli Fede Valverde, Jude Bellingham i Rodrygo Goes.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/134939-bardziej-obronca-niz-pomocnik</link>
         <pubDate>Sat, 14 Dec 2024 15:40:00 GMT</pubDate>
         <description>Gdy gra toczy się o wysoką stawkę, Aurélien Tchouaméni jest pod nieobecność Militão i Alaby pierwszym wyborem Carlo Ancelottiego. Choć Asencio zdobył sobie uznanie szkoleniowca i olbrzymie uznanie kibiców, to jednak w kluczowych momentach trener w pełni ufa swoim najbardziej doświadczonym zawodnikom.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Arda Güler i Modrić zagrają dziś od początku</title>
-        <link>https://www.realmadryt.pl/news/134948-cope-arda-gueler-i-modric-zagraja-dzis-od-poczatku</link>
-        <pubDate>Sat, 14 Dec 2024 15:27:00 GMT</pubDate>
-        <description>Ancelotti dokona ostatecznie trzech zmian w składzie?</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti nie może, czy nie chce rotować?</title>
-        <link>https://www.realmadryt.pl/news/134943-ancelotti-nie-moze-czy-nie-chce-rotowac</link>
-        <pubDate>Sat, 14 Dec 2024 15:10:00 GMT</pubDate>
-        <description>Kontuzje nie pozostawiają włoskiemu trenerowi pola manewru.</description>
-    </item>
-    
-    <item>
-        <title>Philippe Diallo wybrany na prezesa Francuskiej Federacji Piłkarskiej</title>
-        <link>https://www.realmadryt.pl/news/134945-philippe-diallo-wybrany-na-prezesa-francuskiej-federacji-pilkarskiej</link>
-        <pubDate>Sat, 14 Dec 2024 14:27:00 GMT</pubDate>
-        <description>W rywalizacji z Pierre’em Samsonoffem dotychczasowy prezes Philippe Diallo uzyskał w sobotę nowy, czteroletni mandat na stanowisku prezesa Francuskiej Federacji Piłkarskiej (FFF).</description>
     </item>
     
 </channel>
