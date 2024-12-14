@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 15:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 15:40:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystko zależy od Lejeune'a</title>
+        <link>https://www.realmadryt.pl/news/134936-wszystko-zalezy-od-lejeunea</link>
+        <pubDate>Sat, 14 Dec 2024 16:40:00 GMT</pubDate>
+        <description>Jest liderem obrony i zawodnikiem z największą liczbą minut w tym sezonie. Zawsze może liczyć na miejsce w jedenastce trenera Iñigo Péreza.</description>
+    </item>
     
     <item>
         <title>Nieprzyjemne wizyty w Vallecas i straty punktów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134914-transfer-zakonczony-zwolnieniem-i-procesem-sadowym-mam-nadzieje-ze-boli-cie-glowa-bo-jesli-nie-zaraz-zacznie-bolec-naprawde</link>
         <pubDate>Sat, 14 Dec 2024 11:40:00 GMT</pubDate>
         <description>Co wyczyniał Elvir Baljić, gdy został wypożyczony z Realu do Rayo?</description>
-    </item>
-    
-    <item>
-        <title>Camello: Real ma prestiż, a Rayo ma kibiców</title>
-        <link>https://www.realmadryt.pl/news/134931-camello-real-ma-prestiz-a-rayo-ma-kibicow</link>
-        <pubDate>Sat, 14 Dec 2024 11:10:00 GMT</pubDate>
-        <description>Sergio Camello udzielił wywiadu dziennikowi AS przed dzisiejszym spotkaniem na Campo de Fútbol de Vallecas.</description>
     </item>
     
 </channel>
