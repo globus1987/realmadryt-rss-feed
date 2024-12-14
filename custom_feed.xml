@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 08:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 09:22:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poco a poco</title>
+        <link>https://www.realmadryt.pl/news/134924-poco-a-poco</link>
+        <pubDate>Sat, 14 Dec 2024 09:58:00 GMT</pubDate>
+        <description>Nie od razu Madryt zbudowano. Czy raczej w tym przypadku – odbudowano.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 14 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134928-dzisiejsze-okladki</link>
         <pubDate>Sat, 14 Dec 2024 00:22:00 GMT</pubDate>
         <description>Świąteczne spotkanie Realu Madryt i forma Ferrana Torresa to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo wraca na scenę</title>
-        <link>https://www.realmadryt.pl/news/134923-rodrygo-wraca-na-scene</link>
-        <pubDate>Fri, 13 Dec 2024 22:03:00 GMT</pubDate>
-        <description>23-latek jest już gotowy do gry i będzie musiał zastąpić z Rayo kontuzjowanego Mbappé.</description>
     </item>
     
 </channel>
