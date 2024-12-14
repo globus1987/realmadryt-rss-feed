@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 23:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 23:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134965-dzisiejsze-okladki</link>
+        <pubDate>Sun, 15 Dec 2024 00:41:00 GMT</pubDate>
+        <description>Remis Realu i mecz Barcelony to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jeśli nie popełniasz błędów, wygrywasz mecz 3:0</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134951-kapitalna-koncowka-pilkarek-i-cztery-gole-w-kwadrans</link>
         <pubDate>Sat, 14 Dec 2024 18:44:00 GMT</pubDate>
         <description>Las Blancas odniosły kolejną ligową wygraną i tym razem pokonały  4:1 Deportivo de La Coruña.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius pozostaje zagrożony zawieszeniem w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/134926-vinicius-pozostaje-zagrozony-zawieszeniem-w-la-lidze</link>
-        <pubDate>Sat, 14 Dec 2024 17:40:00 GMT</pubDate>
-        <description>Królewscy zaczęli na potencjalne zawieszenia w La Lidze. Na dzisiaj zagrożony jest jeden piłkarz.</description>
     </item>
     
 </channel>
