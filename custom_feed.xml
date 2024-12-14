@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Dec 2024 13:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 14:20:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti nie może, czy nie chce rotować?</title>
+        <link>https://www.realmadryt.pl/news/134943-ancelotti-nie-moze-czy-nie-chce-rotowac</link>
+        <pubDate>Sat, 14 Dec 2024 15:10:00 GMT</pubDate>
+        <description>Kontuzje nie pozostawiają włoskiemu trenerowi pola manewru.</description>
+    </item>
     
     <item>
         <title>Philippe Diallo wybrany na prezesa Francuskiej Federacji Piłkarskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134924-poco-a-poco</link>
         <pubDate>Sat, 14 Dec 2024 09:58:00 GMT</pubDate>
         <description>Nie od razu Madryt zbudowano. Czy raczej w tym przypadku – odbudowano.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 14 grudnia</title>
-        <link>https://www.realmadryt.pl/news/134929-kartka-z-kalendarza-14-grudnia</link>
-        <pubDate>Sat, 14 Dec 2024 09:30:00 GMT</pubDate>
-        <description>Oficjalna inauguracja Estadio Santiago Bernabéu, urodziny byłego napastnika i transfer nieznanego jeszcze w Europie napastnika z Argentyny. Co działo się 14 grudnia?</description>
     </item>
     
 </channel>
