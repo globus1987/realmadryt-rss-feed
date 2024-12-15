@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Dec 2024 04:27:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 04:46:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sánchez Martínez nie podyktował oczywistego rzutu karnego na Viníciusie</title>
+        <link>https://www.realmadryt.pl/news/134964-sanchez-martinez-nie-podyktowal-oczywistego-rzutu-karnego-na-viniciusie</link>
+        <pubDate>Sun, 15 Dec 2024 05:30:00 GMT</pubDate>
+        <description>Nikt nie wie czemu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134952-rayo-vallecano-real-madryt-znamy-sklady</link>
         <pubDate>Sat, 14 Dec 2024 19:07:00 GMT</pubDate>
         <description>Wiemy, kto wystąpi od pierwszej minuty w dzisiejszym starciu o ligowe punkty. Mecz rozpocznie się o 21:00 na Estadio de Vallecas.</description>
-    </item>
-    
-    <item>
-        <title>Kapitalna końcówka piłkarek i cztery gole w kwadrans</title>
-        <link>https://www.realmadryt.pl/news/134951-kapitalna-koncowka-pilkarek-i-cztery-gole-w-kwadrans</link>
-        <pubDate>Sat, 14 Dec 2024 18:44:00 GMT</pubDate>
-        <description>Las Blancas odniosły kolejną ligową wygraną i tym razem pokonały  4:1 Deportivo de La Coruña.</description>
     </item>
     
 </channel>
