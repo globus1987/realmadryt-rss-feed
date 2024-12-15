@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Dec 2024 05:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 05:42:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po remisie</title>
+        <link>https://www.realmadryt.pl/news/134958-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie</link>
+        <pubDate>Sun, 15 Dec 2024 06:30:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po remisie z Rayo Vallecano. To efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>Sánchez Martínez nie podyktował oczywistego rzutu karnego na Viníciusie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134953-real-odpowiedzial-ale-nie-wytrzymal</link>
         <pubDate>Sat, 14 Dec 2024 20:55:00 GMT</pubDate>
         <description>W meczu 17. kolejki La Ligi Real Madryt zremisował z Rayo Vallecano 3:3. Bramki dla Królewskich zdobyli Fede Valverde, Jude Bellingham i Rodrygo Goes.</description>
-    </item>
-    
-    <item>
-        <title>Rayo Vallecano – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/134952-rayo-vallecano-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 14 Dec 2024 19:07:00 GMT</pubDate>
-        <description>Wiemy, kto wystąpi od pierwszej minuty w dzisiejszym starciu o ligowe punkty. Mecz rozpocznie się o 21:00 na Estadio de Vallecas.</description>
     </item>
     
 </channel>
