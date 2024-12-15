@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Dec 2024 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 08:28:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>W pogoni za liderem</title>
+        <link>https://www.realmadryt.pl/news/134949-w-pogoni-za-liderem</link>
+        <pubDate>Sun, 15 Dec 2024 09:00:00 GMT</pubDate>
+        <description>W 11. kolejce Ligi Endesa Real Madryt zmierzy się z Breogánem. Królewscy gonią lidera, a jednocześnie muszą myśleć o trudnym tygodniu w Eurolidze.</description>
+    </item>
     
     <item>
         <title>Wygrać i… uniknąć walkowera</title>
@@ -28,8 +35,8 @@
     </item>
     
     <item>
-        <title>Sánchez Martínez nie podyktował oczywistego rzutu karnego na Viníciusie</title>
-        <link>https://www.realmadryt.pl/news/134964-sanchez-martinez-nie-podyktowal-oczywistego-rzutu-karnego-na-viniciusie</link>
+        <title>Martínez Munuera nie podyktował oczywistego rzutu karnego na Viníciusie</title>
+        <link>https://www.realmadryt.pl/news/134964-martinez-munuera-nie-podyktowal-oczywistego-rzutu-karnego-na-viniciusie</link>
         <pubDate>Sun, 15 Dec 2024 05:30:00 GMT</pubDate>
         <description>Nikt nie wie czemu.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134955-fede-valverde-mvp-meczu-z-rayo-vallecano</link>
         <pubDate>Sat, 14 Dec 2024 23:06:00 GMT</pubDate>
         <description>Urugwajczyk został wyróżniony po zremisowanym 3:3 spotkaniu na Campo de Fútbol de Vallecas.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Rayo</title>
-        <link>https://www.realmadryt.pl/news/134954-ocen-pilkarzy-po-meczu-z-rayo</link>
-        <pubDate>Sat, 14 Dec 2024 23:05:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
