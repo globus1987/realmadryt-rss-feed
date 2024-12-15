@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Dec 2024 10:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 10:56:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti stał się największym optymistą</title>
+        <link>https://www.realmadryt.pl/news/134968-ancelotti-stal-sie-najwiekszym-optymista</link>
+        <pubDate>Sun, 15 Dec 2024 11:50:00 GMT</pubDate>
+        <description>Remis w Vallecas wydobywa najbardziej stanowczą wersję Carletto w perspektywie doskonałego 2025 roku dla Realu Madryt.</description>
+    </item>
     
     <item>
         <title>100. ligowy mecz Camavingi w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134964-martinez-munuera-nie-podyktowal-oczywistego-rzutu-karnego-na-viniciusie</link>
         <pubDate>Sun, 15 Dec 2024 05:30:00 GMT</pubDate>
         <description>Nikt nie wie czemu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/134965-dzisiejsze-okladki</link>
-        <pubDate>Sun, 15 Dec 2024 00:41:00 GMT</pubDate>
-        <description>Remis Realu i mecz Barcelony to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
