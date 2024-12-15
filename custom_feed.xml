@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Dec 2024 23:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 23:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/134993-dzisiejsze-okladki</link>
+        <pubDate>Mon, 16 Dec 2024 00:51:00 GMT</pubDate>
+        <description>Porażka Barcelony i kolejna wygrana Atlético to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Ważne, że zyskujemy pewność siebie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/134980-pewna-i-wysoka-wygrana-koszykarzy</link>
         <pubDate>Sun, 15 Dec 2024 14:34:00 GMT</pubDate>
         <description>W 11. kolejce Ligi Endesa Real Madryt wysoko pokonał Breogán. Królewscy wykorzystali wczorajszą wpadkę Unicajy, wyprzedzając Andaluzyjczyków w tabeli. Jeśli potknie się również Valencia, która dzisiaj gra na wyjeździe z Murcią, madrytczycy będą nowym liderem.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Gala The Best 17 grudnia… w formie zdalnej!</title>
-        <link>https://www.realmadryt.pl/news/134979-marca-gala-the-best-17-grudnia-w-formie-zdalnej</link>
-        <pubDate>Sun, 15 Dec 2024 14:02:00 GMT</pubDate>
-        <description>Zwycięzców poznamy już w najbliższy wtorek, ale wszystko będzie odbywało się za pośrednictwem Internetu.</description>
     </item>
     
 </channel>
