@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Dec 2024 22:56:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 23:23:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135022-dzisiejsze-okladki</link>
+        <pubDate>Tue, 17 Dec 2024 00:19:00 GMT</pubDate>
+        <description>Kontuzja Lamine Yamala i zbliżający się finał Pucharu Interkontynentalnego to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Dausze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135009-oficjalnie-rafael-louzan-nowym-prezesem-hiszpanskiej-federacji-pilkarskiej</link>
         <pubDate>Mon, 16 Dec 2024 14:37:00 GMT</pubDate>
         <description>Wybory dobiegły końca i wygrał kandydat… na którym ciąży wyrok.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lamine Yamal jest kontuzjowany, ale ma wrócić na Superpuchar Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/135008-oficjalnie-lamine-yamal-jest-kontuzjowany-ale-ma-wrocic-na-superpuchar-hiszpanii</link>
-        <pubDate>Mon, 16 Dec 2024 14:01:00 GMT</pubDate>
-        <description>Hiszpan wypada z gry na kilka tygodni, ale ze względu na świąteczną przerwę prawdopodobnie przegapi tylko dwa mecze.</description>
     </item>
     
 </channel>
