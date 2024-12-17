@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Dec 2024 15:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 16:33:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy problem z kontuzjami faktycznie jest większy niż w ostatnich latach?</title>
+        <link>https://www.realmadryt.pl/news/135047-czy-problem-z-kontuzjami-faktycznie-jest-wiekszy-niz-w-ostatnich-latach</link>
+        <pubDate>Tue, 17 Dec 2024 17:30:00 GMT</pubDate>
+        <description>Doktor Pedro Luis Ripoll, członek Komisji Medycznej Hiszpańskiej Federacji Piłkarskiej oraz właściciel centrum medycznego Ripoll y De Prado, od zeszłego roku pisuje felietony na łamach dziennika ABC. Tym razem pochylił się nad sytuacją Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Bellingham: Jestem bardzo spokojny w sprawie tego, co osiągniemy w tym sezonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135038-oficjalnie-nowy-format-ligi-unify-z-4-poziomami-rozgrywkowymi</link>
         <pubDate>Tue, 17 Dec 2024 13:48:00 GMT</pubDate>
         <description>A22 wydała oficjalny komunikat w sprawie propozycji uznania nowych rozgrywek piłkarskich w Europie. Przedstawiamy nową propozycję rozgrywek.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Superliga zmienia nazwę i rozpoczyna proces z UEFA i FIFA w celu uznania nowych rozgrywek!</title>
-        <link>https://www.realmadryt.pl/news/135037-oficjalnie-superliga-zmienia-nazwe-i-rozpoczyna-proces-z-uefa-i-fifa-w-celu-uznania-nowych-rozgrywek</link>
-        <pubDate>Tue, 17 Dec 2024 13:39:00 GMT</pubDate>
-        <description>Zmodyfikowany system kwalifikacji, oparty teraz na corocznych wynikach w krajowych ligach. Nowa nazwa Liga Unify podkreśla wartość platformy streamingowej, która transmituje mecze na żywo za darmo.</description>
     </item>
     
 </channel>
