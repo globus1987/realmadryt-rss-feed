@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Dec 2024 19:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 20:25:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Drużyna pogratulowała zdobywcom nagród FIFA The Best</title>
+        <link>https://www.realmadryt.pl/news/135062-druzyna-pogratulowala-zdobywcom-nagrod-fifa-the-best</link>
+        <pubDate>Tue, 17 Dec 2024 21:12:00 GMT</pubDate>
+        <description>Koledzy z drużyny pogratulowali wszystkim laureatom nagród FIFA The Best w hotelu w Dosze.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Ten sukces przyszedł dzięki sile klubu, jakości piłkarzy i wsparciu kibiców</title>
+        <link>https://www.realmadryt.pl/news/135061-ancelotti-ten-sukces-przyszedl-dzieki-sile-klubu-jakosci-pilkarzy-i-wsparciu-kibicow</link>
+        <pubDate>Tue, 17 Dec 2024 21:06:00 GMT</pubDate>
+        <description>Carlo Ancelotti po gali FIFA udzielił wywiadu RealMadrid TV. Przedstawiamy jego wypowiedzi dla klubowej telewizji.</description>
+    </item>
     
     <item>
         <title>Piłkarki przegrywają z Chelsea na Di Stéfano</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135053-real-madryt-chelsea-w-lidze-mistrzyn-na-zywo</link>
         <pubDate>Tue, 17 Dec 2024 18:30:00 GMT</pubDate>
         <description>Od godziny 18:45 piłkarki Realu Madryt rozpoczną walkę w ostatnim meczu fazy grupowej Ligi Mistrzyń. W spotkaniu, którego stawką jest pierwsze miejsce w tabeli grupy B, Królewskie podejmą na Estadio Alfredo Di Stéfano Chelsea.</description>
-    </item>
-    
-    <item>
-        <title>Gala FIFA The Best [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/135048-gala-fifa-the-best-na-zywo</link>
-        <pubDate>Tue, 17 Dec 2024 17:55:00 GMT</pubDate>
-        <description>Zapraszamy na relację z gali FIFA, która odbywa się w Katarze.</description>
-    </item>
-    
-    <item>
-        <title>Joselu odwiedził drużynę w Dosze</title>
-        <link>https://www.realmadryt.pl/news/135052-joselu-odwiedzil-druzyne-w-dosze</link>
-        <pubDate>Tue, 17 Dec 2024 17:43:00 GMT</pubDate>
-        <description>Joselu spotkał się w Dosze z Florentino Pérezem, Carlo Ancelottim oraz zawodnikami Realu Madryt przed jutrzejszym finałem Pucharu Interkontynentalnego z Pachucą.</description>
     </item>
     
 </channel>
