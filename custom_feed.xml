@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Dec 2024 21:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 22:22:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo nad liderem w Paryżu</title>
+        <link>https://www.realmadryt.pl/news/135065-zwyciestwo-nad-liderem-w-paryzu</link>
+        <pubDate>Tue, 17 Dec 2024 23:06:00 GMT</pubDate>
+        <description>W 16. kolejce Euroligi Real Madryt pokonał rewelację sezonu, czyli drużynę Paris Basketball. Królewscy dołożyli do dorobku dopiero siódme zwycięstwo, ale pokazali się z dobrej strony, co może dawać nadzieję na rozpoczęcie pościgu za czołową dziesiątką.</description>
+    </item>
     
     <item>
         <title>Drużyna pogratulowała zdobywcom nagród FIFA The Best</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135051-real-madryt-odbyl-trening-w-katarze</link>
         <pubDate>Tue, 17 Dec 2024 18:30:00 GMT</pubDate>
         <description>Królewscy odbyli ostatni trening przed meczem o Puchar Interkontynentalny. W Madrycie pozostało czterech piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Chelsea w Lidze Mistrzyń [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/135053-real-madryt-chelsea-w-lidze-mistrzyn-na-zywo</link>
-        <pubDate>Tue, 17 Dec 2024 18:30:00 GMT</pubDate>
-        <description>Od godziny 18:45 piłkarki Realu Madryt rozpoczną walkę w ostatnim meczu fazy grupowej Ligi Mistrzyń. W spotkaniu, którego stawką jest pierwsze miejsce w tabeli grupy B, Królewskie podejmą na Estadio Alfredo Di Stéfano Chelsea.</description>
     </item>
     
 </channel>
