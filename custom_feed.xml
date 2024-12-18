@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Dec 2024 16:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 17:20:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Pachuca [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/135086-real-madryt-pachuca-live</link>
+        <pubDate>Wed, 18 Dec 2024 17:58:00 GMT</pubDate>
+        <description>Trwa finał Pucharu Interkontynentalnego.</description>
+    </item>
     
     <item>
         <title>Miasto, w którym narodził się meksykański futbol</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135070-rondon-ruediger-lubi-kontakt-rozne-sztuczki-wiem-jak-broni</link>
         <pubDate>Wed, 18 Dec 2024 12:20:00 GMT</pubDate>
         <description>Salomón Rondón udzielił wywiadu dziennikowi MARCA przed dzisiejszym finałem Pucharu Interkontynentalnego.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Barcelona nie wróci w tym sezonie na Camp Nou</title>
-        <link>https://www.realmadryt.pl/news/135079-marca-barcelona-nie-wroci-w-tym-sezonie-na-camp-nou</link>
-        <pubDate>Wed, 18 Dec 2024 11:48:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że ligowy Klasyk ponownie odbędzie się na Montjuïc.</description>
     </item>
     
 </channel>
