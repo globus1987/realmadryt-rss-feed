@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Dec 2024 23:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 23:39:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135104-dzisiejsze-okladki</link>
+        <pubDate>Thu, 19 Dec 2024 00:35:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja Lamine'a Yamala to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bellingham po meczu narzekał na problemy z udem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135085-miasto-w-ktorym-narodzil-sie-meksykanski-futbol</link>
         <pubDate>Wed, 18 Dec 2024 16:50:00 GMT</pubDate>
         <description>Francis Rule zawitał do portu w Veracruz w 1854 roku. Wcześniej natomiast pokonał statkiem kawał drogi, ponieważ ruszał z Penzance na południowym wschodzie Anglii. Jak się później okazało, fakt ten miał odegrać wielką rolę zarówno w życiu samego Rule'a, jak i dla meksykańskiego futbolu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Pachuca: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/135081-real-madryt-pachuca-znamy-sklady</link>
-        <pubDate>Wed, 18 Dec 2024 16:07:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w starciu o Puchar Interkontynentalny. Mecz rozpocznie się o godzinie 18:00 na stadionie w Lusajl.</description>
     </item>
     
 </channel>
