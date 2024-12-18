@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Dec 2024 07:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 08:31:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz, który jest</title>
+        <link>https://www.realmadryt.pl/news/135014-mecz-ktory-jest</link>
+        <pubDate>Wed, 18 Dec 2024 09:30:00 GMT</pubDate>
+        <description>Real Madryt rozegra mecz, ponieważ spełnione zostały ku temu wszelkie niezbędne warunki. Real Madryt istnieje, rywal także, a spotkanie zostało wcześniej zaplanowane.</description>
+    </item>
     
     <item>
         <title>Mateo: Byliśmy zdyscyplinowani od początku do końca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135059-vinicius-mowiono-ze-tu-nie-dojde-ale-teraz-jestem-najlepszy-na-swiecie</link>
         <pubDate>Tue, 17 Dec 2024 20:36:00 GMT</pubDate>
         <description>Vinícius Júnior po gali FIFA udzielił wywiadu RealMadrid TV. Przedstawiamy jego wypowiedzi dla klubowej telewizji.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti wygrał u trenerów, fanów i mediów, a Alonso u piłkarzy</title>
-        <link>https://www.realmadryt.pl/news/135058-ancelotti-wygral-u-trenerow-fanow-i-mediow-a-alonso-u-pilkarzy</link>
-        <pubDate>Tue, 17 Dec 2024 19:50:00 GMT</pubDate>
-        <description>FIFA opublikowała rozkład głosów fanów, mediów i kapitanów oraz selekcjonerów reprezentacji w plebiscycie The Best na najlepszego trenera.</description>
     </item>
     
 </channel>
