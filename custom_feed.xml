@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Dec 2024 15:43:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 15:55:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Miasto, w którym narodził się meksykański futbol</title>
+        <link>https://www.realmadryt.pl/news/135085-miasto-w-ktorym-narodzil-sie-meksykanski-futbol</link>
+        <pubDate>Wed, 18 Dec 2024 16:50:00 GMT</pubDate>
+        <description>Francis Rule zawitał do portu w Veracruz w 1854 roku. Wcześniej natomiast pokonał statkiem kawał drogi, ponieważ ruszał z Penzance na południowym wschodzie Anglii. Jak się później okazało, fakt ten miał odegrać wielką rolę zarówno w życiu samego Rule'a, jak i dla meksykańskiego futbolu.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Pachuca: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135079-marca-barcelona-nie-wroci-w-tym-sezonie-na-camp-nou</link>
         <pubDate>Wed, 18 Dec 2024 11:48:00 GMT</pubDate>
         <description>Wszystko wskazuje na to, że ligowy Klasyk ponownie odbędzie się na Montjuïc.</description>
-    </item>
-    
-    <item>
-        <title>Borja Bastón: Pod względem nadziei nikt nas nie pokona</title>
-        <link>https://www.realmadryt.pl/news/135027-borja-baston-pod-wzgledem-nadziei-nikt-nas-nie-pokona</link>
-        <pubDate>Wed, 18 Dec 2024 11:20:00 GMT</pubDate>
-        <description>Borja Bastón to jedyny hiszpański piłkarz w szeregach Pachuki. Wychowanek Atlético Madryt do Meksyku przeniósł się ubiegłego lata po tym, jak podjął nieudaną ostatecznie próbę awansu do Primera División z Realem Oviedo. W przeddzień finału Pucharu Interkontynentalnego z Realem Madryt udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
