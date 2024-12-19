@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Dec 2024 22:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 23:21:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135131-dzisiejsze-okladki</link>
+        <pubDate>Fri, 20 Dec 2024 00:11:00 GMT</pubDate>
+        <description>Zbliżający się hit w La Lidze i podsumowanie czwartkowych spotkań to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Lamini Fati piłkarzem Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135113-doktorat-z-finalow</link>
         <pubDate>Thu, 19 Dec 2024 15:29:00 GMT</pubDate>
         <description>Vinícius znów odegrał kluczową rolę w finale – tym razem w Pucharze Interkontynentalnym. Brazylijczyk w jedenastu finałach, które rozpoczynał w pierwszym składzie, czynnie uczestniczył przy dwunastu bramkach.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real rusza po Théo Maledona</title>
-        <link>https://www.realmadryt.pl/news/135118-marca-real-rusza-po-theo-maledona</link>
-        <pubDate>Thu, 19 Dec 2024 14:23:00 GMT</pubDate>
-        <description>Królewscy próbują już teraz pozyskać 23-letniego francuskiego rozgrywającego o wzroście 193 cm, który imponuje formą w ASVEL Villeurbanne.</description>
     </item>
     
 </channel>
