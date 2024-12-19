@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Dec 2024 05:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 06:33:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lucas: Jestem tu od wielu lat i nie przejmuję się krytyką</title>
+        <link>https://www.realmadryt.pl/news/135097-lucas-jestem-tu-od-wielu-lat-i-nie-przejmuje-sie-krytyka</link>
+        <pubDate>Thu, 19 Dec 2024 07:00:00 GMT</pubDate>
+        <description>Lucas Vázquez udzielił wypowiedzi mediom po finale Pucharu Interkontynentalnego. Przedstawiamy wypowiedzi piłkarza Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Vinícius: Nie wszyscy zawodnicy mogą spełnić marzenie o grze w Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135087-ocen-pilkarzy-po-meczu-z-pachuca</link>
         <pubDate>Wed, 18 Dec 2024 19:54:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Puchar odbębniony</title>
-        <link>https://www.realmadryt.pl/news/135086-puchar-odbebniony</link>
-        <pubDate>Wed, 18 Dec 2024 17:58:00 GMT</pubDate>
-        <description>W finale Pucharu Interkontynentalnego Real Madryt wygrał z Pachucą 3:0. Gole strzelili Mbappé, Rodrygo i Vini.</description>
     </item>
     
 </channel>
