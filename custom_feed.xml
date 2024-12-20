@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Dec 2024 04:27:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 04:44:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Kylian!</title>
+        <link>https://www.realmadryt.pl/news/135125-wszystkiego-najlepszego-kylian</link>
+        <pubDate>Fri, 20 Dec 2024 05:30:00 GMT</pubDate>
+        <description>Dziś swoje 26. urodziny obchodzi Kylian Mbappé. Francuzowi życzymy przede wszystkim spokoju ducha, dzięki któremu byłby w stanie pokazać swoje umiejętności w pełnej krasie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135121-ceballos-brakuje-jeszcze-jednego-zeby-wrocic-na-boze-narodzenie</link>
         <pubDate>Thu, 19 Dec 2024 16:20:00 GMT</pubDate>
         <description>Ironiczny wpis Hiszpana w kontekście Betisu?</description>
-    </item>
-    
-    <item>
-        <title>Doktorat z finałów</title>
-        <link>https://www.realmadryt.pl/news/135113-doktorat-z-finalow</link>
-        <pubDate>Thu, 19 Dec 2024 15:29:00 GMT</pubDate>
-        <description>Vinícius znów odegrał kluczową rolę w finale – tym razem w Pucharze Interkontynentalnym. Brazylijczyk w jedenastu finałach, które rozpoczynał w pierwszym składzie, czynnie uczestniczył przy dwunastu bramkach.</description>
     </item>
     
 </channel>
