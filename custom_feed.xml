@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Dec 2024 23:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 23:38:55 GMT</lastBuildDate>
     
     <item>
-        <title>Piłkarki Realu z awansem w Pucharze Króla</title>
-        <link>https://www.realmadryt.pl/news/135152-pilkarki-realu-z-awansem-w-pucharze-krola</link>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135160-dzisiejsze-okladki</link>
+        <pubDate>Sat, 21 Dec 2024 00:20:00 GMT</pubDate>
+        <description>Mecz Barcelony z Atlético to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Piłkarki Realu z awansem w Pucharze Królowej</title>
+        <link>https://www.realmadryt.pl/news/135152-pilkarki-realu-z-awansem-w-pucharze-krolowej</link>
         <pubDate>Fri, 20 Dec 2024 21:44:00 GMT</pubDate>
         <description>Piłkarki Królewskich wygrały wyjazdowe starcie z Villarrealem i będą grać dalej w Pucharze Królowej.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135142-joselu-zostaje-youtuberem-i-komentatorem</link>
         <pubDate>Fri, 20 Dec 2024 15:01:00 GMT</pubDate>
         <description>Napastnik po prawie pół roku od opuszczenia Realu Madryt przypomina o sobie w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni pojedynek z Jesúsem Navasem</title>
-        <link>https://www.realmadryt.pl/news/135141-ostatni-pojedynek-z-jesusem-navasem</link>
-        <pubDate>Fri, 20 Dec 2024 13:26:00 GMT</pubDate>
-        <description>Kibice Sevilli są podzieleni na tych, którzy chcą zobaczyć legendę jeszcze raz w meczu, nawet jeśli ten odbędzie się na stadionie Realu, oraz tych, którzy uważają, że 39-latek powinien swoje ostatnie spotkanie rozegrać na Estadio Ramón Sánchez Pizjuán.</description>
     </item>
     
 </channel>
