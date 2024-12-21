@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Dec 2024 13:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 13:54:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Sevillę</title>
+        <link>https://www.realmadryt.pl/news/135170-kadra-realu-madryt-na-seville</link>
+        <pubDate>Sat, 21 Dec 2024 14:53:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu z Sevillą bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 20 zawodników.</description>
+    </item>
     
     <item>
         <title>Bellingham, Mbappé, Valverde i Courtois trenowali z grupą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135155-200-zl-za-wygrana-realu-madryt-z-sevilla</link>
         <pubDate>Sat, 21 Dec 2024 09:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>AS: Trzy „transfery” Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/135161-as-trzy-transfery-ancelottiego</link>
-        <pubDate>Sat, 21 Dec 2024 08:59:00 GMT</pubDate>
-        <description>Włoch postawił na trzech zawodników, którzy wcześniej nie mieli jego zaufania i uczynił ich stałymi bywalcami wyjściowej jedenastki. Mowa o Franie Garcíi, Ceballosie i Asencio.</description>
     </item>
     
 </channel>
