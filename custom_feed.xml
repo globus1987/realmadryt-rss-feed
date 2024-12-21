@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Dec 2024 22:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 23:19:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Spokojnych świąt</title>
+        <link>https://www.realmadryt.pl/news/135173-spokojnych-swiat</link>
+        <pubDate>Sun, 22 Dec 2024 00:01:00 GMT</pubDate>
+        <description>Rok 2024 powoli dobiega końca, więc już wkrótce pora rozpocząć sezon na wszelkiego rodzaju postanowienia (tym razem już na serio wytrzymamy w nich aż do końca stycznia!) i zaklinanie rzeczywistości hasłem „nowy rok, nowy ja”.</description>
+    </item>
     
     <item>
         <title>18. kolejka: Atlético wygrało na wyjeździe z Barceloną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135157-borussia-rywalem-realu-madryt-w-lidze-mlodziezowej</link>
         <pubDate>Sat, 21 Dec 2024 10:37:00 GMT</pubDate>
         <description>Drużyna Álvaro Arbeloi zmierzy się z Borussią Dortumund w 1/16 finału Ligi Młodzieżowej. Królewscy mieli okazję zmierzyć się z tym rywalem w fazie grupowej, a teraz będą mieć szansę na rewanż.</description>
-    </item>
-    
-    <item>
-        <title>Test dla Juanlu na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/135163-test-dla-juanlu-na-bernabeu</link>
-        <pubDate>Sat, 21 Dec 2024 10:37:00 GMT</pubDate>
-        <description>Niewiele bardziej wymagających testów da się przejść niż te, które mają miejsce na Santiago Bernabéu. W zeszłym sezonie Sevilla już witała się z remisem w Madrycie, gdy w 81. minucie po świetnym strzale zza pola karnego zwycięską bramkę zdobył Luka Modrić, przypomina AS.</description>
     </item>
     
 </channel>
