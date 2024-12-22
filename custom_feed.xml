@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Dec 2024 13:29:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 13:42:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz na szczycie Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/135191-mecz-na-szczycie-ligi-endesa</link>
+        <pubDate>Sun, 22 Dec 2024 14:33:00 GMT</pubDate>
+        <description>W 12. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Valencią. Stawką tego spotkania jest pozycja lidera, którą na razie zajmuje właśnie Valencia.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Sevilla: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135176-dzisiaj-zagwizdze-sedzia-ktory-prosil-rywali-barcy-by-nie-kopali</link>
         <pubDate>Sun, 22 Dec 2024 07:00:00 GMT</pubDate>
         <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Sevillą. Tym razem skupiono się na arbitrze głównym oraz arbitrze VAR.</description>
-    </item>
-    
-    <item>
-        <title>Nawet 200 zł bonusu za zakład na mecz Real - Sevilla!</title>
-        <link>https://www.realmadryt.pl/news/135179-nawet-200-zl-bonusu-za-zaklad-na-mecz-real-sevilla</link>
-        <pubDate>Sun, 22 Dec 2024 06:00:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
