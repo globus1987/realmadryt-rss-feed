@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Dec 2024 10:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 11:16:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo wraca na afisz</title>
+        <link>https://www.realmadryt.pl/news/135185-rodrygo-wraca-na-afisz</link>
+        <pubDate>Sun, 22 Dec 2024 12:00:00 GMT</pubDate>
+        <description>Pod nieobecność Viniciusa Rodrygo otrzyma kolejną szansę, by błysnąć. Brazylijczyk trafiał do siatki w dwóch poprzednich meczach.</description>
+    </item>
     
     <item>
         <title>Kolekcjoner trofeów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135173-spokojnych-swiat</link>
         <pubDate>Sun, 22 Dec 2024 00:01:00 GMT</pubDate>
         <description>Rok 2024 powoli dobiega końca, więc już wkrótce pora rozpocząć sezon na wszelkiego rodzaju postanowienia (tym razem już na serio wytrzymamy w nich aż do końca stycznia!) i zaklinanie rzeczywistości hasłem „nowy rok, nowy ja”.</description>
-    </item>
-    
-    <item>
-        <title>18. kolejka: Atlético wygrało na wyjeździe z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/135174-18-kolejka-atletico-wygralo-na-wyjezdzie-z-barcelona</link>
-        <pubDate>Sat, 21 Dec 2024 20:00:00 GMT</pubDate>
-        <description>Rywale Realu Madryt do mistrzostwa rozegrali bezpośredni mecz. Pomimo początkowej dominacji gospodarzy to goście wywieźli ważne 3 punkty.</description>
     </item>
     
 </channel>
