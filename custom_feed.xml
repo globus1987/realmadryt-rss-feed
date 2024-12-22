@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Dec 2024 22:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 23:21:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135211-dzisiejsze-okladki</link>
+        <pubDate>Mon, 23 Dec 2024 00:08:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hit kolejki dla Valencii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135196-sevilla-ustawila-szpaler-a-real-uhonorowal-jesusa-navasa</link>
         <pubDate>Sun, 22 Dec 2024 16:55:00 GMT</pubDate>
         <description>Przed pierwszym gwizdkiem sędziego doszło dziś do bardzo miłych gestów na Santiago Bernabéu. Sevilla złożyła hołd Realowi Madryt, a Królewscy uhonorowali legendę klubu z Estadio Ramón Sánchez Pizjuán.</description>
-    </item>
-    
-    <item>
-        <title>Przed Świętami Real wygrywa dwoma golami</title>
-        <link>https://www.realmadryt.pl/news/135192-przed-swietami-real-wygrywa-dwoma-golami</link>
-        <pubDate>Sun, 22 Dec 2024 16:10:00 GMT</pubDate>
-        <description>W meczu 18. kolejki Real Madryt wygrał z Sevillą 4:2 po golach Kyliana Mbappé, Fede Valverde, Rodrygo Goesa i Brahima Díaza.</description>
     </item>
     
 </channel>
