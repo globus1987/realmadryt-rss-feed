@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Dec 2024 11:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 11:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti znalazł sposób na odbicie się od dna</title>
+        <link>https://www.realmadryt.pl/news/135218-ancelotti-znalazl-sposob-na-odbicie-sie-od-dna</link>
+        <pubDate>Mon, 23 Dec 2024 12:51:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie powie tego głośno, ale w bieżącym sezonie przeżywał jedne z najbardziej nerwowych chwil w roli trenera Realu Madryt. Po kapitalnym poprzednim sezonie zespół przez bardzo długi czas miał problem z dostrojeniem się w bieżącej kampanii.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Sevillą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135211-dzisiejsze-okladki</link>
         <pubDate>Mon, 23 Dec 2024 00:08:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i sytuacja Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hit kolejki dla Valencii</title>
-        <link>https://www.realmadryt.pl/news/135206-hit-kolejki-dla-valencii</link>
-        <pubDate>Sun, 22 Dec 2024 20:36:00 GMT</pubDate>
-        <description>W 12. kolejce Ligi Endesa Real Madryt przegrał z Valencią po bardzo zaciętym spotkaniu. Królewscy mieli dwa rzuty na zwycięstwo, ale zmarnowali oba.</description>
     </item>
     
 </channel>
