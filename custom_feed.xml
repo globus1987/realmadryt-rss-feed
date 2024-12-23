@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Dec 2024 22:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 23:20:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135233-dzisiejsze-okladki</link>
+        <pubDate>Tue, 24 Dec 2024 00:13:00 GMT</pubDate>
+        <description>Przygotowania do Świąt, sytuacja Kyliana Mbappé i plany Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Carlos Corberán nowym trenerem Valencii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135216-oceny-zawodnikow-po-meczu-z-sevilla</link>
         <pubDate>Mon, 23 Dec 2024 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał u siebie z Sevillą 4:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>García Pimienta: Real Madryt rozstrzygnął mecz w pierwszej połowie</title>
-        <link>https://www.realmadryt.pl/news/135207-garcia-pimienta-real-madryt-rozstrzygnal-mecz-w-pierwszej-polowie</link>
-        <pubDate>Mon, 23 Dec 2024 11:13:00 GMT</pubDate>
-        <description>Trener Sevilli, García Pimienta, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
