@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Dec 2024 09:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 10:24:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>García Pimienta: Real Madryt rozstrzygnął mecz w pierwszej połowie</title>
+        <link>https://www.realmadryt.pl/news/135207-garcia-pimienta-real-madryt-rozstrzygnal-mecz-w-pierwszej-polowie</link>
+        <pubDate>Mon, 23 Dec 2024 11:13:00 GMT</pubDate>
+        <description>Trener Sevilli, García Pimienta, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Przez ostatnie dwa miesiące byłem trochę wkurzony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135204-brahim-to-jeszcze-nie-jest-nasz-sufit</link>
         <pubDate>Sun, 22 Dec 2024 19:56:00 GMT</pubDate>
         <description>Brahim Díaz udzielił wywiadu dla klubowej telewizji po wygranym 4:2 meczu z Sevillą. Przedstawiamy wypowiedzi napastnika Królewskich z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Alcaraz obejrzał mecz z Sevillą z trybun Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/135203-alcaraz-obejrzal-mecz-z-sevilla-z-trybun-bernabeu</link>
-        <pubDate>Sun, 22 Dec 2024 19:39:00 GMT</pubDate>
-        <description>Carlos Alcaraz obejrzał mecz z Sevillą z loży honorowej Santiago Bernabéu, a wcześniej odwiedził Valdebebas.</description>
     </item>
     
 </channel>
