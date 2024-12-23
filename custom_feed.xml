@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Dec 2024 06:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 07:21:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Real odpala bomby</title>
+        <link>https://www.realmadryt.pl/news/135214-as-real-odpala-bomby</link>
+        <pubDate>Mon, 23 Dec 2024 08:17:00 GMT</pubDate>
+        <description>Valverde i Mbappé są liderami Primera División w zdobywaniu bramek spoza pola karnego. Z Sevillą obaj popisali się pięknymi uderzeniami.</description>
+    </item>
     
     <item>
         <title>Tryb bestii aktywowany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135197-juanlu-w-takich-meczach-nastawienie-musi-byc-zdecydowanie-inne</link>
         <pubDate>Sun, 22 Dec 2024 18:22:00 GMT</pubDate>
         <description>Juanlu Sánchez udzielił wywiadu platformie DAZN po przegranej 2:4 z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi gracza Sevilli.</description>
-    </item>
-    
-    <item>
-        <title>Kylian Mbappé MVP meczu z Sevillą</title>
-        <link>https://www.realmadryt.pl/news/135194-kylian-mbappe-mvp-meczu-z-sevilla</link>
-        <pubDate>Sun, 22 Dec 2024 18:19:00 GMT</pubDate>
-        <description>Kylian Mbappé został wyróżniony po wygranym przez Real 4:2 spotkaniu na Estadio Santiago Bernabéu.</description>
     </item>
     
 </channel>
