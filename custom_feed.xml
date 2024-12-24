@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Dec 2024 14:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 14:40:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gorący styczeń</title>
+        <link>https://www.realmadryt.pl/news/135228-goracy-styczen</link>
+        <pubDate>Tue, 24 Dec 2024 15:35:00 GMT</pubDate>
+        <description>Real Madryt czeka bardzo intensywny pierwszy miesiąc nowego roku. Królewscy mogą rozegrać w nim aż 9 spotkań.</description>
+    </item>
     
     <item>
         <title>Güler Najlepszym Piłkarzem U-23 La Ligi w grudniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135222-real-odpalil-w-ataku</link>
         <pubDate>Tue, 24 Dec 2024 08:50:00 GMT</pubDate>
         <description>Wszyscy zawodnicy odpowiedzialni za ofensywne poczynania drużyny są w gazie. W pięciu ostatnich meczach Królewscy strzelili 16 goli.</description>
-    </item>
-    
-    <item>
-        <title>Bayern chce zatrzymać Daviesa, ale Real wierzy w swoją ofertę</title>
-        <link>https://www.realmadryt.pl/news/135227-bayern-chce-zatrzymac-daviesa-ale-real-wierzy-w-swoja-oferte</link>
-        <pubDate>Tue, 24 Dec 2024 07:55:00 GMT</pubDate>
-        <description>Doniesienia z Niemiec wskazują, że przyszłość Kanadyjczyka pozostaje otwarta, ale Królewscy wciąż wierzą, że go pozyskają. Tymczasem 2024 rok na lewej obronie zamykał Eduardo Camavinga.</description>
     </item>
     
 </channel>
