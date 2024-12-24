@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Dec 2024 08:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 08:45:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x16: Świąteczny czteropak</title>
+        <link>https://www.realmadryt.pl/news/135230-podcast-6x16-swiateczny-czteropak</link>
+        <pubDate>Tue, 24 Dec 2024 09:30:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym podsumowujemy pierwszą część sezonu Realu Madryt. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
+    </item>
     
     <item>
         <title>Real odpalił w ataku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135213-mistrzowska-remontada</link>
         <pubDate>Mon, 23 Dec 2024 14:45:00 GMT</pubDate>
         <description>Od momentu porażki 0:4 w październikowym Klasyku na Santiago Bernabéu Real Madryt odrobił do Barcelony 11 punktów. Atlético, z passą siedmiu zwycięstw z rzędu, nadaje tempo i prowadzi w tabeli, a Athletic również trzyma się mocno.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Trener miał wątpliwości, ale asystenci chcieli tak rozegrać tę akcję</title>
-        <link>https://www.realmadryt.pl/news/135205-valverde-trener-mial-watpliwosci-ale-asystenci-chcieli-tak-rozegrac-te-akcje</link>
-        <pubDate>Mon, 23 Dec 2024 14:02:00 GMT</pubDate>
-        <description>Fede Valverde pojawił się w strefie mieszanej po meczu La Ligi z Sevillą. Przedstawiamy wypowiedzi pomocnika Realu Madryt z tego spotkania z dziennikarzami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
