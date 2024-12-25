@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Dec 2024 08:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 09:22:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 grudnia</title>
+        <link>https://www.realmadryt.pl/news/135253-kartka-z-kalendarza-25-grudnia</link>
+        <pubDate>Wed, 25 Dec 2024 10:20:00 GMT</pubDate>
+        <description>Wysokie wygrane sprzed lat i urodziny byłego piłkarza. Co działo się 25 grudnia?</description>
+    </item>
     
     <item>
         <title>Javier Tebas zostanie wiceprezesem Federacji?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135228-goracy-styczen</link>
         <pubDate>Tue, 24 Dec 2024 15:35:00 GMT</pubDate>
         <description>Real Madryt czeka bardzo intensywny pierwszy miesiąc nowego roku. Królewscy mogą rozegrać w nim aż 9 spotkań.</description>
-    </item>
-    
-    <item>
-        <title>Güler Najlepszym Piłkarzem U-23 La Ligi w grudniu</title>
-        <link>https://www.realmadryt.pl/news/135242-gueler-najlepszym-pilkarzem-u-23-la-ligi-w-grudniu</link>
-        <pubDate>Tue, 24 Dec 2024 15:18:00 GMT</pubDate>
-        <description>Turek zdobył w grudniu jedną bramkę i zapisał na swoim koncie dwie asysty, dzięki czemu został wybrany najlepszym piłkarzem La Ligi do lat 23.</description>
     </item>
     
 </channel>
