@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Dec 2024 05:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 06:31:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>„My nie robimy takich rzeczy jak inne kluby…”</title>
+        <link>https://www.realmadryt.pl/news/135243-my-nie-robimy-takich-rzeczy-jak-inne-kluby</link>
+        <pubDate>Wed, 25 Dec 2024 07:00:00 GMT</pubDate>
+        <description>Liderzy Królewskich utrzymują, że nie zamierzają działać na zimowym rynku transferowym.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135239-dyrektor-bayeru-zakladamy-ze-xabi-zostanie</link>
         <pubDate>Tue, 24 Dec 2024 13:41:00 GMT</pubDate>
         <description>Fernando Carro, dyrektor generalny Bayeru Leverkusen, udzielił wywiad dla gazety Kölner Stadt-Anzeiger, w którym zdementował informacje o przedłużeniu kontraktu przez Floriana Wirtza i wypowiedział się na temat przyszłości Xabiego Alonso.</description>
-    </item>
-    
-    <item>
-        <title>Dość nocnych meczów</title>
-        <link>https://www.realmadryt.pl/news/135235-dosc-nocnych-meczow</link>
-        <pubDate>Tue, 24 Dec 2024 12:53:00 GMT</pubDate>
-        <description>W tym sezonie prawie wszystkie wyjazdowe mecze Realu Madryt zaczynają się o 21:00. Jedyne wyjątki to ligowy mecz z Leganés i finał Pucharu Interkontynentalnego. W klubie panuje w związku z tym coraz większa frustracja i zniecierpliwienie.</description>
     </item>
     
 </channel>
