@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Dec 2024 13:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 13:30:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze otrzymali tydzień wolnego</title>
+        <link>https://www.realmadryt.pl/news/135245-pilkarze-otrzymali-tydzien-wolnego</link>
+        <pubDate>Wed, 25 Dec 2024 14:24:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero w poniedziałek i wówczas rozpoczną przygotowania do zaległego meczu z Valencią.</description>
+    </item>
     
     <item>
         <title>Niezapomniany rok Brahima Díaza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135241-real-madryt-liczy-nawet-na-100-milionow-euro-za-klubowy-mundial</link>
         <pubDate>Tue, 24 Dec 2024 20:30:00 GMT</pubDate>
         <description>W debacie dziennikarzy na Twitchu poznaliśmy nowe szczegóły w sprawie nagród finansowych za nowy Klubowy Mundial.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Klątwa MVP finałów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/135248-marca-klatwa-mvp-finalow-ligi-mistrzow</link>
-        <pubDate>Tue, 24 Dec 2024 19:36:00 GMT</pubDate>
-        <description>Od 2019 roku MVP kolejnych finałów Champions League cierpią z powodu poważnych lub częstych kontuzji.</description>
     </item>
     
 </channel>
