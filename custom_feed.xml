@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Dec 2024 22:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 23:20:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135267-dzisiejsze-okladki</link>
+        <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
+        <description>Sukcesy Królewskich oraz wywiady z piłkarzami Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Co z przyszłością Marcelo?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135253-kartka-z-kalendarza-25-grudnia</link>
         <pubDate>Wed, 25 Dec 2024 10:20:00 GMT</pubDate>
         <description>Wysokie wygrane sprzed lat i urodziny byłego piłkarza. Co działo się 25 grudnia?</description>
-    </item>
-    
-    <item>
-        <title>Javier Tebas zostanie wiceprezesem Federacji?</title>
-        <link>https://www.realmadryt.pl/news/135250-javier-tebas-zostanie-wiceprezesem-federacji</link>
-        <pubDate>Wed, 25 Dec 2024 09:30:00 GMT</pubDate>
-        <description>Nowy prezes Federacji jest bardzo aktywny w mediach i zapowiada się, że jego ruchy nie pozostawią nikogo obojętnym, a szczególnie madridistas.</description>
     </item>
     
 </channel>
