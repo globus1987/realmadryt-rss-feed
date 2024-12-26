@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Dec 2024 08:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 08:45:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świąteczny mecz w Berlinie</title>
+        <link>https://www.realmadryt.pl/news/135261-swiateczny-mecz-w-berlinie</link>
+        <pubDate>Thu, 26 Dec 2024 09:30:00 GMT</pubDate>
+        <description>W 18. kolejce Euroligi Real Madryt zagra na wyjeździe z Albą Berlin. To spotkanie rozpoczyna drugą serię gier w rozgrywkach, w których Królewscy muszą gonić czołową dziesiątkę.</description>
+    </item>
     
     <item>
         <title>Relevo: Louzán zaprosi Florentino do zarządu Federacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135256-niezapomniany-rok-brahima-diaza</link>
         <pubDate>Wed, 25 Dec 2024 13:37:00 GMT</pubDate>
         <description>Pomocnik pod względem rozpoznawalności stał się jedną z gwiazd Realu Madryt, a latem kusiło go PSG.</description>
-    </item>
-    
-    <item>
-        <title>Prawniczka Mbappé: Kylian chce tylko otrzymać to, co mu się należy od PSG</title>
-        <link>https://www.realmadryt.pl/news/135247-prawniczka-mbappe-kylian-chce-tylko-otrzymac-to-co-mu-sie-nalezy-od-psg</link>
-        <pubDate>Wed, 25 Dec 2024 12:59:00 GMT</pubDate>
-        <description>Delphine Verheyden, prawniczka Kyliana Mbappé, wypowiedziała się na temat sporu prawnego piłkarza z Paris Saint-Germain, w którym obecny gracz Realu Madryt domaga się od klubu wypłacenia mu zaległości w wysokości 55 milionów euro. Przedstawiamy jej komentarze dla L’Équipe.</description>
     </item>
     
 </channel>
