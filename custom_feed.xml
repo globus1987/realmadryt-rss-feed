@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Dec 2024 19:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 20:23:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świąteczne zadanie odrobione</title>
+        <link>https://www.realmadryt.pl/news/135277-swiateczne-zadanie-odrobione</link>
+        <pubDate>Thu, 26 Dec 2024 21:22:00 GMT</pubDate>
+        <description>Real Madryt rozpoczął serię rewanżową w Eurolidze od zwycięstwa z Albą Berlin. Królewscy kontynuują pościg za czołową dziesiątką i dalej poprawiają swój wyjazdowy bilans.</description>
+    </item>
     
     <item>
         <title>Bayern dołącza do zainteresowanych Nico Williamsem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135266-jak-wygladalby-dzisiaj-dwie-najwyzsze-ligi-nowej-superligi</link>
         <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
         <description>Nowa Superliga ogłosiła, że wejście do niej będzie zależne od wyników w ligach krajowych. Za tym rozwiązaniem kryje się jednak ważny szczegół w postaci podziału miejsc dla różnych krajów.</description>
-    </item>
-    
-    <item>
-        <title>Świąteczny mecz w Berlinie</title>
-        <link>https://www.realmadryt.pl/news/135261-swiateczny-mecz-w-berlinie</link>
-        <pubDate>Thu, 26 Dec 2024 09:30:00 GMT</pubDate>
-        <description>W 18. kolejce Euroligi Real Madryt zagra na wyjeździe z Albą Berlin. To spotkanie rozpoczyna drugą serię gier w rozgrywkach, w których Królewscy muszą gonić czołową dziesiątkę.</description>
     </item>
     
 </channel>
