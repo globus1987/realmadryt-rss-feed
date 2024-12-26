@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Dec 2024 14:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 15:22:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan transferowy</title>
+        <link>https://www.realmadryt.pl/news/135268-plan-transferowy</link>
+        <pubDate>Thu, 26 Dec 2024 16:06:00 GMT</pubDate>
+        <description>Klub wykluczył jakiekolwiek transfery w zimie i spogląda już w kierunku wzmocnień na sezon 2025/26. Tutaj jako kluczowe pozycje wskazywane są prawa obrona i środek pola.</description>
+    </item>
     
     <item>
         <title>Real planuje transfery, ale do Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135263-marca-real-madryt-nie-mysli-o-van-dijku</link>
         <pubDate>Thu, 26 Dec 2024 07:00:00 GMT</pubDate>
         <description>Kontrakt Holendra z Liverpoolem wygasa w czerwcu, ale ma on przedłużyć go do 2028 roku, choć w tym momencie cała operacja została wstrzymana.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135267-dzisiejsze-okladki</link>
-        <pubDate>Thu, 26 Dec 2024 00:00:00 GMT</pubDate>
-        <description>Sukcesy Królewskich oraz wywiady z piłkarzami Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
