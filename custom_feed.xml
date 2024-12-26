@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Dec 2024 22:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 23:20:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135285-dzisiejsze-okladki</link>
+        <pubDate>Fri, 27 Dec 2024 00:20:00 GMT</pubDate>
+        <description>Kryzys Pepa Guardioli i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Świąteczne zadanie odrobione</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135270-dlaczego-real-zrezygnowal-z-transferu-mastantuono</link>
         <pubDate>Thu, 26 Dec 2024 10:57:00 GMT</pubDate>
         <description>Najnowszy wielki argentyński talent był obserwowany przez wielu, ale nadal gra w River Plate. Klauzula jego odejścia sprawiła, że największe drużyny porzuciły pomysł o transferze nastoletniego pomocnika. Zrobił to także Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Jak wyglądałby dzisiaj dwie najwyższe ligi nowej Superligi?</title>
-        <link>https://www.realmadryt.pl/news/135266-jak-wygladalby-dzisiaj-dwie-najwyzsze-ligi-nowej-superligi</link>
-        <pubDate>Thu, 26 Dec 2024 10:00:00 GMT</pubDate>
-        <description>Nowa Superliga ogłosiła, że wejście do niej będzie zależne od wyników w ligach krajowych. Za tym rozwiązaniem kryje się jednak ważny szczegół w postaci podziału miejsc dla różnych krajów.</description>
     </item>
     
 </channel>
