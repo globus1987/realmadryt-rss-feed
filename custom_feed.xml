@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Dec 2024 22:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 23:20:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135303-dzisiejsze-okladki</link>
+        <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+        <description>Plany transferowe Realu Madryt to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze wracają do dziesiątki w Eurolidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135289-bellingham-pilkarzem-miesiaca-la-ligi</link>
         <pubDate>Fri, 27 Dec 2024 11:47:00 GMT</pubDate>
         <description>Anglik triumfował w plebiscycie La Ligi i został wybrany najlepszym piłkarzem tego miesiąca.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Llull reprezentuje duszę Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/135282-mateo-llull-reprezentuje-dusze-realu-madryt</link>
-        <pubDate>Fri, 27 Dec 2024 11:43:00 GMT</pubDate>
-        <description>Chus Mateo wypowiadał się po wygranym spotkaniu z Albą Berlin. Chwalił drużynę za postawę w defensywie i wyróżnił Sergio Llulla, który wyrównał rekord Kyle’a Hinesa pod względem liczby rozegranych meczów w Eurolidze.</description>
     </item>
     
 </channel>
