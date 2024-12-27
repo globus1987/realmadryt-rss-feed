@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Dec 2024 08:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:23:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejny rekord Taveresa</title>
+        <link>https://www.realmadryt.pl/news/135281-kolejny-rekord-taveresa</link>
+        <pubDate>Fri, 27 Dec 2024 10:00:00 GMT</pubDate>
+        <description>Edy Tavares w meczu z Albą stał się zawodnikiem z największą liczbą zbiórek w Eurolidze w barwach Realu Madryt. Pobił znakomity wynik Felipe Reyesa.</description>
+    </item>
     
     <item>
         <title>Llull wyrównał rekord liczby występów w Eurolidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135268-plan-transferowy</link>
         <pubDate>Thu, 26 Dec 2024 16:06:00 GMT</pubDate>
         <description>Klub wykluczył jakiekolwiek transfery w zimie i spogląda już w kierunku wzmocnień na sezon 2025/26. Tutaj jako kluczowe pozycje wskazywane są prawa obrona i środek pola.</description>
-    </item>
-    
-    <item>
-        <title>Real planuje transfery, ale do Castilli</title>
-        <link>https://www.realmadryt.pl/news/135273-real-planuje-transfery-ale-do-castilli</link>
-        <pubDate>Thu, 26 Dec 2024 15:13:00 GMT</pubDate>
-        <description>Real Madryt nie zamierza ruszać zimą na zakupy. Przynajmniej nie w kontekście pierwszej drużyny. W Castilli sprawy mają się już bowiem nieco inaczej.</description>
     </item>
     
 </channel>
