@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Dec 2024 11:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 11:38:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Capello: Mbappé? Ludzie nie mają cierpliwości</title>
+        <link>https://www.realmadryt.pl/news/135298-capello-mbappe-ludzie-nie-maja-cierpliwosci</link>
+        <pubDate>Sat, 28 Dec 2024 12:36:00 GMT</pubDate>
+        <description>Były trener między innymi Realu Madryt, Fabio Capello, stanął w obronie zarówno Kyliana Mbappé, jak i Carlo Ancelottiego.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Dziękuję mojemu klubowi i moim zawodnikom</title>
@@ -42,8 +49,8 @@
     </item>
     
     <item>
-        <title>A Ramos czeka dalej…</title>
-        <link>https://www.realmadryt.pl/news/135310-a-ramos-czeka-dalej</link>
+        <title>A Ramos dalej czeka…</title>
+        <link>https://www.realmadryt.pl/news/135310-a-ramos-dalej-czeka</link>
         <pubDate>Sat, 28 Dec 2024 08:53:00 GMT</pubDate>
         <description>Cesarz pozostaje bez pracodawcy od około 200 dni i czeka na styczeń jako okazję do zdecydowania się na jedną z ofert, która latem go nie satysfakcjonowała.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135303-dzisiejsze-okladki</link>
         <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
         <description>Plany Realu Madryt i nagroda Lamine'a Yamala to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze wracają do dziesiątki w Eurolidze</title>
-        <link>https://www.realmadryt.pl/news/135302-koszykarze-wracaja-do-dziesiatki-w-eurolidze</link>
-        <pubDate>Fri, 27 Dec 2024 23:38:00 GMT</pubDate>
-        <description>Zwycięstwo z Albą Berlin pozwoliło ostatecznie awansować Realowi Madryt do czołowej dziesiątki, która po zakończeniu sezonu zasadniczego będzie dalej w grze. Kolejnym celem jest wskoczenie do pierwszej szóstki.</description>
     </item>
     
 </channel>
