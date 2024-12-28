@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Dec 2024 22:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 23:21:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135320-dzisiejsze-okladki</link>
+        <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+        <description>Osiągnięcia Realu Madryt i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt U-12 gra z Juve w ćwierćfinale FC Futures [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135301-wspolwlasciciel-atletico-superliga-to-glos-jednego-klubu-walczacego-z-systemem</link>
         <pubDate>Sat, 28 Dec 2024 10:20:00 GMT</pubDate>
         <description>Dyrektor generalny i współwłaściciel Atlético Madryt zabrał głos w wywiadzie dla klubowych mediów. Przedstawiamy najważniejsze wypowiedzi Miguela Ángela Gila Marína z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt U-12 zaczął turniej FC Futures od dwóch wygranych</title>
-        <link>https://www.realmadryt.pl/news/135307-real-madryt-u-12-zaczal-turniej-fc-futures-od-dwoch-wygranych</link>
-        <pubDate>Sat, 28 Dec 2024 09:30:00 GMT</pubDate>
-        <description>Drużyna U-12 Realu Madryt rozpoczęła w piątek turniej FC Futures (poprzednia nazwa Promises) od dwóch wygranych. Dzisiaj zamyka zmagania grupowe i na pewno wystąpi w ćwierćfinale.</description>
     </item>
     
 </channel>
