@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Dec 2024 17:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 17:53:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Najlepszy na świecie jest nasz”</title>
+        <link>https://www.realmadryt.pl/news/135336-najlepszy-na-swiecie-jest-nasz</link>
+        <pubDate>Sun, 29 Dec 2024 18:42:00 GMT</pubDate>
+        <description>Na siedzibie Brazylijskiej Federacji Piłkarskiej zawisł baner z wizerunkiem Viníciusa, nagrodą FIFA The Best i napisem: „Najlepszy na świecie jest nasz”.</description>
+    </item>
     
     <item>
         <title>Cristo: Wielu wychowanków dostało swoje szanse</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135326-mateo-w-klasyku-nie-ma-faworytow</link>
         <pubDate>Sun, 29 Dec 2024 11:47:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Barceloną. Powiedział, że mimo kryzysu rywali w tej rywalizacji nie ma faworyta.</description>
-    </item>
-    
-    <item>
-        <title>Punkt od 5000</title>
-        <link>https://www.realmadryt.pl/news/135323-punkt-od-5000</link>
-        <pubDate>Sun, 29 Dec 2024 11:30:00 GMT</pubDate>
-        <description>Real Madryt zdobył 4999 punktów w historii La Ligi i zostanie pierwszym klubem, który osiągnie granicę 5000 punktów. Rekordowy był sezon 2011/12, w którym Królewscy zdobyli 100 punktów.</description>
     </item>
     
 </channel>
