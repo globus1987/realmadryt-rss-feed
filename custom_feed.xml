@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Dec 2024 22:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 23:19:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135342-dzisiejsze-okladki</link>
+        <pubDate>Mon, 30 Dec 2024 00:03:00 GMT</pubDate>
+        <description>Przyszłość Cristiano Ronaldo, cel transferowy Realu Madryt i plany Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Llull z kolejnym rekordem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135328-ligowy-klasyk-na-zakonczenie-roku</link>
         <pubDate>Sun, 29 Dec 2024 12:31:00 GMT</pubDate>
         <description>W 13. kolejce Ligi Endesa Real Madryt zmierzy się z Barceloną. Królewscy potrzebują zwycięstwa, żeby wrócić na ligowe podium, natomiast Katalończycy chcą dogonić madrytczyków i poprawić swoją sytuację w tabeli.</description>
-    </item>
-    
-    <item>
-        <title>AS: Transfer Alexandra-Arnolda domknięty na 90%</title>
-        <link>https://www.realmadryt.pl/news/135327-as-transfer-alexandra-arnolda-domkniety-na-90</link>
-        <pubDate>Sun, 29 Dec 2024 12:19:00 GMT</pubDate>
-        <description>Dotychczas tematem Anglika zajmowała się głównie MARCA. Teraz również AS informuje, że sprawa jest bardzo zaawansowana.</description>
     </item>
     
 </channel>
