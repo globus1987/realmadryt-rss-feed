@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Dec 2024 11:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 12:40:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Ceballos budzi się zimą</title>
+        <link>https://www.realmadryt.pl/news/135329-marca-ceballos-budzi-sie-zima</link>
+        <pubDate>Sun, 29 Dec 2024 13:09:00 GMT</pubDate>
+        <description>To już trzecia z rzędu kampania, w której wychowanek Betisu poprawia swój bilans na przełomie roku.</description>
+    </item>
     
     <item>
         <title>Ligowy Klasyk na zakończenie roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135321-sprawa-alexandra-arnolda-coraz-goretsza</link>
         <pubDate>Sun, 29 Dec 2024 01:08:00 GMT</pubDate>
         <description>MARCA utrzymuje, że Anglik myśli o przejściu do Realu Madryt. Na Wyspach rośnie debata o jego potencjalnej decyzji.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135320-dzisiejsze-okladki</link>
-        <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
-        <description>Osiągnięcia Realu Madryt i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
