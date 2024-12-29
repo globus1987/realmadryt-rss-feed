@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Dec 2024 09:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 09:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Półfinały turnieju La Ligi U-12 [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/135319-polfinaly-turnieju-la-ligi-u-12-live</link>
+        <pubDate>Sun, 29 Dec 2024 10:30:00 GMT</pubDate>
+        <description>Drużyna U-12 Realu Madryt awansowała do półfinałów turnieju FC Futures (poprzednia nazwa Promises). Dzisiaj od 11:00 zagra z Betisem.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 29 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135314-real-naszkicowal-idealny-profil-nowego-stopera</link>
         <pubDate>Sat, 28 Dec 2024 14:03:00 GMT</pubDate>
         <description>Real Madryt pozostaje na bieżąco z transferowym rynkiem. Na liście życzeń znajdują się gracze na kilka pozycji. Jedną z nich jest środek obrony, wyraźnie osłabiony odejściem Nacho oraz kontuzjami Alaby i Militão.</description>
-    </item>
-    
-    <item>
-        <title>Florentino: To wielki zaszczyt być na czele tej instytucji sportowej</title>
-        <link>https://www.realmadryt.pl/news/135309-florentino-to-wielki-zaszczyt-byc-na-czele-tej-instytucji-sportowej</link>
-        <pubDate>Sat, 28 Dec 2024 13:18:00 GMT</pubDate>
-        <description>Prezes Realu Madryt, Florentino Pérez, otrzymał nagrodę prezesa wszech czasów na gali Globe Soccer Awards. Mimo że nie mógł się osobiście stawić w Dubaju, przesłał nagranie z podziękowaniami.</description>
     </item>
     
 </channel>
