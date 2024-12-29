@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Dec 2024 10:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 10:40:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Punkt od 5000</title>
+        <link>https://www.realmadryt.pl/news/135323-punkt-od-5000</link>
+        <pubDate>Sun, 29 Dec 2024 11:30:00 GMT</pubDate>
+        <description>Real Madryt zdobył 4999 punktów w historii La Ligi i zostanie pierwszym klubem, który osiągnie granicę 5000 punktów. Rekordowy był sezon 2011/12, w którym Królewscy zdobyli 100 punktów.</description>
+    </item>
     
     <item>
         <title>Półfinały turnieju La Ligi U-12 [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135315-terminarz-21-kolejki-la-ligi</link>
         <pubDate>Sat, 28 Dec 2024 14:50:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 21. kolejki, w której Real Madryt zagra na wyjeździe z Valladolidem.</description>
-    </item>
-    
-    <item>
-        <title>Real naszkicował idealny profil nowego stopera</title>
-        <link>https://www.realmadryt.pl/news/135314-real-naszkicowal-idealny-profil-nowego-stopera</link>
-        <pubDate>Sat, 28 Dec 2024 14:03:00 GMT</pubDate>
-        <description>Real Madryt pozostaje na bieżąco z transferowym rynkiem. Na liście życzeń znajdują się gracze na kilka pozycji. Jedną z nich jest środek obrony, wyraźnie osłabiony odejściem Nacho oraz kontuzjami Alaby i Militão.</description>
     </item>
     
 </channel>
