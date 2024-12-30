@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Dec 2024 22:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 23:20:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135364-dzisiejsze-okladki</link>
+        <pubDate>Tue, 31 Dec 2024 00:02:00 GMT</pubDate>
+        <description>Sylwestrowe życzenia to najważniejsze tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Dwa wzmocnienia dla sekcji koszykarskiej?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135350-metamorfoza-guelera</link>
         <pubDate>Mon, 30 Dec 2024 12:17:00 GMT</pubDate>
         <description>Carlo Ancelotti od kilku tygodni próbuje Ardę Gülera na jego naturalnej pozycji, czyli bliżej prawego skrzydła. To właśnie w tym sektorze Turek zaliczał swoje najlepsze mecze. Jako środkowy pomocnik cierpi zwłaszcza w obronie.</description>
-    </item>
-    
-    <item>
-        <title>Owacja w Madison Square Garden, spotkanie z Rihanną i inne</title>
-        <link>https://www.realmadryt.pl/news/135348-owacja-w-madison-square-garden-spotkanie-z-rihanna-i-inne</link>
-        <pubDate>Mon, 30 Dec 2024 11:47:00 GMT</pubDate>
-        <description>Brazylijczyk przestał być wyśmiewany i stał się rozpoznawalny na całym świecie.</description>
     </item>
     
 </channel>
