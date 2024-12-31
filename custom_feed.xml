@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 31 Dec 2024 20:22:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 20:39:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga nie pozwala na rejestrację Olmo, ale Barça ma plan?</title>
+        <link>https://www.realmadryt.pl/news/135382-la-liga-nie-pozwala-na-rejestracje-olmo-ale-barca-ma-plan</link>
+        <pubDate>Tue, 31 Dec 2024 21:37:00 GMT</pubDate>
+        <description>La Liga nie przyznała rejestracji dwóm zawodnikom Błagany. Ta zdecydowała się pod koniec sylwestra poprosić o to Federację i twierdzi, że ciągle ma szansę na pozytywne rozwiązanie sytuacji.</description>
+    </item>
     
     <item>
         <title>Media: Liverpool odrzucił zapytanie Realu o wykupienie Trenta już w styczniu!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135366-kartka-z-kalendarza-31-grudnia</link>
         <pubDate>Tue, 31 Dec 2024 11:30:00 GMT</pubDate>
         <description>Urodziny byłych zawodników, wygrana z Valencią i zwycięstwo w koszykarskich derbach Madrytu. Co działo się 31 grudnia?</description>
-    </item>
-    
-    <item>
-        <title>Otwarty trening Realu Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/135365-otwarty-trening-realu-madryt-live</link>
-        <pubDate>Tue, 31 Dec 2024 10:30:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt od 11:00 mają pracować na otwartym treningu na stadionie Alfredo Di Stéfano. Wczoraj poza grupą pozostało czterech piłkarzy.</description>
     </item>
     
 </channel>
