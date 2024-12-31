@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 31 Dec 2024 23:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 23:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsza okładka</title>
+        <link>https://www.realmadryt.pl/news/135386-dzisiejsza-okladka</link>
+        <pubDate>Wed, 01 Jan 2025 00:52:00 GMT</pubDate>
+        <description>Zapowiedź kolejnego roku to główny temat na noworocznej okładce jedynego dziennika, który opublikował pierwszą stronę pierwszego dnia 2025 roku.</description>
+    </item>
     
     <item>
         <title>Alexander-Arnold i Davies mogliby już podpisać kontrakt z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135371-vinicius-z-nagroda-dla-najlepszego-pilkarza-iberoamerykanskiego</link>
         <pubDate>Tue, 31 Dec 2024 13:01:00 GMT</pubDate>
         <description>24-letni napastnik Realu Madryt został po raz trzeci z rzędu wyróżniony nagrodą dla Najlepszego Piłkarza Iberoamerykańskiego roku.</description>
-    </item>
-    
-    <item>
-        <title>Alaba częściowo pracował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/135369-alaba-czesciowo-pracowal-z-druzyna</link>
-        <pubDate>Tue, 31 Dec 2024 12:35:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali przygotowania do zaległego meczu La Ligi. Był to jednocześnie trening otwarty dla kibiców.</description>
     </item>
     
 </channel>
