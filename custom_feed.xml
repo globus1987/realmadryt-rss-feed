@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 31 Dec 2024 10:23:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 10:41:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 31 grudnia</title>
+        <link>https://www.realmadryt.pl/news/135366-kartka-z-kalendarza-31-grudnia</link>
+        <pubDate>Tue, 31 Dec 2024 11:30:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, wygrana z Valencią i zwycięstwo w koszykarskich derbach Madrytu. Co działo się 31 grudnia?</description>
+    </item>
     
     <item>
         <title>Otwarty trening Realu Madryt [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135356-krolewscy-wrocili-do-treningow</link>
         <pubDate>Mon, 30 Dec 2024 19:03:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas po tygodniowym urlopie i rozpoczęli przygotowania do zaległego meczu La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Superdeporte: Od kwietnia Valencia punktuje najgorzej w Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/135355-superdeporte-od-kwietnia-valencia-punktuje-najgorzej-w-hiszpanii</link>
-        <pubDate>Mon, 30 Dec 2024 16:42:00 GMT</pubDate>
-        <description>Sytuację piątkowego rywala Królewskich dobrze oddaje przedostatnie miejsce w ligowej tabeli. Dziennikarze z Walencji wskazują, że kryzys jest głębszy, a Nietoperze od kwietnia są najgorszą hiszpańską ekipą w futbolu profesjonalnym.</description>
     </item>
     
 </channel>
