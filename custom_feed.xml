@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Jan 2025 22:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 23:20:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135401-dzisiejsze-okladki</link>
+        <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
+        <description>Sprawa rejestracji Daniego Olmo to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kibice Valencii utrzymują swój apel: Pusta Mestalla w meczu z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135377-kartka-z-kalendarza-1-stycznia</link>
         <pubDate>Wed, 01 Jan 2025 10:00:00 GMT</pubDate>
         <description>Jedyna czerwona kartka Di Stéfano, mecze z Barceloną, Espanyolem i Racingiem oraz urodziny byłego snajpera z Chorwacji. Co działo się 1 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>Lineker o Trencie: Jak masz odmówić Realowi Madryt?</title>
-        <link>https://www.realmadryt.pl/news/135385-lineker-o-trencie-jak-masz-odmowic-realowi-madryt</link>
-        <pubDate>Wed, 01 Jan 2025 09:10:00 GMT</pubDate>
-        <description>Gary Lineker w swoim podcaście The Rest is Football skomentował sytuację Trenta Alexandra-Arnolda. Przedstawiamy wypowiedzi byłego gracza między innymi Barcelony i obecnie eksperta w angielskich mediach.</description>
     </item>
     
 </channel>
