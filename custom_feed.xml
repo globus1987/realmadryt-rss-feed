@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Jan 2025 13:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 13:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Noworoczny trening</title>
+        <link>https://www.realmadryt.pl/news/135393-noworoczny-trening</link>
+        <pubDate>Wed, 01 Jan 2025 14:40:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali przygotowania do zaległego meczu La Ligi.</description>
+    </item>
     
     <item>
         <title>Federacja staje po stronie La Ligi, ale Barça twierdzi, że wszystko jest ok</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135386-dzisiejsza-okladka</link>
         <pubDate>Wed, 01 Jan 2025 00:52:00 GMT</pubDate>
         <description>Zapowiedź kolejnego roku to główny temat na noworocznej okładce jedynego dziennika, który opublikował pierwszą stronę pierwszego dnia 2025 roku.</description>
-    </item>
-    
-    <item>
-        <title>Alexander-Arnold i Davies mogliby już podpisać kontrakt z Realem</title>
-        <link>https://www.realmadryt.pl/news/135375-alexander-arnold-i-davies-mogliby-juz-podpisac-kontrakt-z-realem</link>
-        <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        <description>Real Madryt myśli o wzmocnieniach, a na radarze klubu jest dwóch bocznych obrońców, którzy – przynajmniej w teorii – już mogliby podpisać umowy z nowym klubem.</description>
     </item>
     
 </channel>
