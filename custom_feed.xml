@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Jan 2025 10:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 11:17:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mourinho: Żałuję powiedzenia „nie” Florentino</title>
+        <link>https://www.realmadryt.pl/news/135388-mourinho-zaluje-powiedzenia-nie-florentino</link>
+        <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
+        <description>José Mourinho udzielił wywiadu Corriere dello Sport. Przedstawiamy najważniejsze wypowiedzi byłego trenera Realu Madryt i obecnie szkoleniowca Fenerbahçe z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>AS: Barcelona zespołem, któremu w tym sezonie VAR pomaga najczęściej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135380-media-liverpool-odrzucil-zapytanie-realu-o-wykupienie-trenta-juz-w-styczniu</link>
         <pubDate>Tue, 31 Dec 2024 19:30:00 GMT</pubDate>
         <description>Najważniejsze angielskie źródła podają, że Królewscy wykonali podejście do pozyskania Trenta Alexandra-Arnolda już zimą. Anglicy odrzucili tę propozycję.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Gabriel Deck z zerwanym ścięgnem</title>
-        <link>https://www.realmadryt.pl/news/135379-oficjalnie-gabriel-deck-z-zerwanym-sciegnem</link>
-        <pubDate>Tue, 31 Dec 2024 19:21:00 GMT</pubDate>
-        <description>Gabriela Decka czeka kilka tygodni przerwy. Argentyńczyk zerwał ścięgno w lewej nodze i do gry wróci dopiero w lutym. Celem jest występ w Pucharze Króla.</description>
     </item>
     
 </channel>
