@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 13:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 13:31:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Valencię</title>
+        <link>https://www.realmadryt.pl/news/135411-kadra-realu-madryt-na-valencie</link>
+        <pubDate>Thu, 02 Jan 2025 14:16:00 GMT</pubDate>
+        <description>Królewscy podejdą do zaległego meczu La Ligi bez trzech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 21 zawodników.</description>
+    </item>
     
     <item>
         <title>Castilla potrzebuje nowego stopera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135399-alaba-obniza-oczekiwania</link>
         <pubDate>Thu, 02 Jan 2025 07:50:00 GMT</pubDate>
         <description>Austriak ostatecznie pozostaje dalej od powrotu niż zapowiadano, chociaż pracuje już na boisku z grupą i przesyła dobre odczucia.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Spokój w sprawie nowego kontraktu Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/135402-marca-spokoj-w-sprawie-nowego-kontraktu-viniciusa</link>
-        <pubDate>Thu, 02 Jan 2025 07:00:00 GMT</pubDate>
-        <description>Umowa Brazylijczyka wygasa w 2027 roku, ale żadna ze stron nie czuje pośpiechu, by go przedłużać, chociaż w tle ciągle czają się Saudyjczycy.</description>
     </item>
     
 </channel>
