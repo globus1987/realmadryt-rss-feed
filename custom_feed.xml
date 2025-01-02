@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 06:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 06:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alaba obniża oczekiwania</title>
+        <link>https://www.realmadryt.pl/news/135399-alaba-obniza-oczekiwania</link>
+        <pubDate>Thu, 02 Jan 2025 07:50:00 GMT</pubDate>
+        <description>Austriak ostatecznie pozostaje dalej od powrotu niż zapowiadano, chociaż pracuje już na boisku z grupą i przesyła dobre odczucia.</description>
+    </item>
     
     <item>
         <title>MARCA: Spokój w sprawie nowego kontraktu Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135389-najnowsza-wizualizacja-trzeciej-koszulki-na-nowy-sezon</link>
         <pubDate>Wed, 01 Jan 2025 12:29:00 GMT</pubDate>
         <description>Footy Headlines przekazało najnowsze informacje w sprawie trzecich koszulek na kolejny sezon.</description>
-    </item>
-    
-    <item>
-        <title>Mourinho: Żałuję powiedzenia „nie” Florentino</title>
-        <link>https://www.realmadryt.pl/news/135388-mourinho-zaluje-powiedzenia-nie-florentino</link>
-        <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
-        <description>José Mourinho udzielił wywiadu Corriere dello Sport. Przedstawiamy najważniejsze wypowiedzi byłego trenera Realu Madryt i obecnie szkoleniowca Fenerbahçe z tej rozmowy.</description>
     </item>
     
 </channel>
