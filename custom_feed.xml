@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 20:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 20:40:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jakie są wymagania do zostania prezesem Realu Madryt?</title>
+        <link>https://www.realmadryt.pl/news/135427-jakie-sa-wymagania-do-zostania-prezesem-realu-madryt</link>
+        <pubDate>Thu, 02 Jan 2025 21:27:00 GMT</pubDate>
+        <description>Klub ogłosił rozpoczęcie procesu wyborczego. Media czekają na pojawienie się potencjalnego rywala dla dotychczasowego prezesa.</description>
+    </item>
     
     <item>
         <title>Klubowy Mundial pod znakiem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135408-castilla-potrzebuje-nowego-stopera</link>
         <pubDate>Thu, 02 Jan 2025 13:34:00 GMT</pubDate>
         <description>Eksplozja talentu Asencio to jedna z najprzyjemniejszych wieści ostatnich miesięcy. Ancelotti cieszy się z tego, że na miejscu znalazł stopera dającego gwarancję, Raúl natomiast może sobie pogratulować wymiernego udziału w decydującej fazie rozwoju młodego obrońcy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Yasmim piłkarką Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/135412-oficjalnie-yasmim-pilkarka-realu-madryt</link>
-        <pubDate>Thu, 02 Jan 2025 13:30:00 GMT</pubDate>
-        <description>Real Madryt dokonał pierwszego w zimowym okienku transferu do drużyny kobiet. Jak poinformowali na swojej oficjalnej stronie Królewscy, do klubu sprowadzono Yasmim Assis Ribeiro.</description>
     </item>
     
 </channel>
