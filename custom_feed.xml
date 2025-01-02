@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 16:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 17:18:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalny komunikat Realu Madryt ws. wyborów na prezesa</title>
+        <link>https://www.realmadryt.pl/news/135419-oficjalny-komunikat-realu-madryt-ws-wyborow-na-prezesa</link>
+        <pubDate>Thu, 02 Jan 2025 18:13:00 GMT</pubDate>
+        <description>Klub wystosował oficjalny komunikat w sprawie swojej przyszłości.</description>
+    </item>
     
     <item>
         <title>Odzyskać najlepszą wersję Mendy'ego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135404-ilu-pilkarzy-nie-trenuje-z-druzyna-przed-valencia-live</link>
         <pubDate>Thu, 02 Jan 2025 11:16:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed zaległym meczem w La Lidze. Wstępnie niedostępnych jest trzech piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Théo Zidane zaoferowany Getafe</title>
-        <link>https://www.realmadryt.pl/news/135407-theo-zidane-zaoferowany-getafe</link>
-        <pubDate>Thu, 02 Jan 2025 10:44:00 GMT</pubDate>
-        <description>Théo Zidane, który obecnie występuje w Córdobie, znalazł się na liście potencjalnych wzmocnień Getafe. Sami Andaluzyjczycy zaoferowali Los Azulones sprowadzenie syna byłego trenera Realu Madryt, donosi AS.</description>
     </item>
     
 </channel>
