@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 15:53:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 16:27:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Nie chodzi o zbyt dużo meczów, a o brak odpoczynku</title>
+        <link>https://www.realmadryt.pl/news/135416-courtois-nie-chodzi-o-zbyt-duzo-meczow-a-o-brak-odpoczynku</link>
+        <pubDate>Thu, 02 Jan 2025 17:00:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu CNN. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>AS: Pablo Ramón przejdzie do Espanyolu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135398-kartka-z-kalendarza-2-stycznia</link>
         <pubDate>Thu, 02 Jan 2025 09:30:00 GMT</pubDate>
         <description>Zwycięstwa z Valencią, Barceloną i Alicante, porażka z Getafe i urodziny wychowanka. Co działo się 2 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Florentino Pérez zostanie uhonorowany na Mestalli</title>
-        <link>https://www.realmadryt.pl/news/135405-marca-florentino-perez-zostanie-uhonorowany-na-mestalli</link>
-        <pubDate>Thu, 02 Jan 2025 09:27:00 GMT</pubDate>
-        <description>Przygotowywana jest mała uroczystość na cześć prezesa Realu Madryt. Ma to związek z jego pomocą poszkodowanym wskutek powodzi DANA.</description>
     </item>
     
 </channel>
