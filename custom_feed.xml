@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 11:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 12:44:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla potrzebuje nowego stopera</title>
+        <link>https://www.realmadryt.pl/news/135408-castilla-potrzebuje-nowego-stopera</link>
+        <pubDate>Thu, 02 Jan 2025 13:34:00 GMT</pubDate>
+        <description>Eksplozja talentu Asencio to jedna z najprzyjemniejszych wieści ostatnich miesięcy. Ancelotti cieszy się z tego, że na miejscu znalazł stopera dającego gwarancję, Raúl natomiast może sobie pogratulować wymiernego udziału w decydującej fazie rozwoju młodego obrońcy.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Yasmim piłkarką Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/135412-oficjalnie-yasmim-pilkarka-realu-madryt</link>
+        <pubDate>Thu, 02 Jan 2025 13:30:00 GMT</pubDate>
+        <description>Real Madryt dokonał pierwszego w zimowym okienku transferu do drużyny kobiet. Jak poinformowali na swojej oficjalnej stronie Królewscy, do klubu sprowadzono Yasmim Assis Ribeiro.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed meczem z Valencią</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135402-marca-spokoj-w-sprawie-nowego-kontraktu-viniciusa</link>
         <pubDate>Thu, 02 Jan 2025 07:00:00 GMT</pubDate>
         <description>Umowa Brazylijczyka wygasa w 2027 roku, ale żadna ze stron nie czuje pośpiechu, by go przedłużać, chociaż w tle ciągle czają się Saudyjczycy.</description>
-    </item>
-    
-    <item>
-        <title>Media: Real powalczy o Trenta zimą na prośbę Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/135403-media-real-powalczy-o-trenta-zima-na-prosbe-ancelottiego</link>
-        <pubDate>Thu, 02 Jan 2025 01:30:00 GMT</pubDate>
-        <description>Królewscy zamierzają wrócić do Liverpoolu z kolejnym zapytaniem o zimowy transfer Anglika. Wszystko ma napędzać Carlo Ancelotti, twierdzą Anglicy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135401-dzisiejsze-okladki</link>
-        <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
-        <description>Sprawa rejestracji Daniego Olmo to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
