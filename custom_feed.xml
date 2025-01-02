@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 11:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 11:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed meczem z Valencią</title>
+        <link>https://www.realmadryt.pl/news/135410-ostatni-trening-przed-meczem-z-valencia</link>
+        <pubDate>Thu, 02 Jan 2025 12:52:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do zaległego meczu La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Rozmawianie teraz o zimowych transferach nie jest dla mnie łatwe</title>
+        <link>https://www.realmadryt.pl/news/135409-ancelotti-rozmawianie-teraz-o-zimowych-transferach-nie-jest-dla-mnie-latwe</link>
+        <pubDate>Thu, 02 Jan 2025 12:50:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Valencią w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Ilu piłkarzy nie trenuje z drużyną przed Valencią? [LIVE]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135401-dzisiejsze-okladki</link>
         <pubDate>Thu, 02 Jan 2025 00:00:00 GMT</pubDate>
         <description>Sprawa rejestracji Daniego Olmo to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kibice Valencii utrzymują swój apel: Pusta Mestalla w meczu z Realem</title>
-        <link>https://www.realmadryt.pl/news/135397-kibice-valencii-utrzymuja-swoj-apel-pusta-mestalla-w-meczu-z-realem</link>
-        <pubDate>Wed, 01 Jan 2025 18:54:00 GMT</pubDate>
-        <description>Stowarzyszenie Akcjonariuszy Valencii utrzymuje apel o opróżnienie Mestalli na piątkowym meczu z Realem Madryt. Wszystko dokładniej wytłumaczą dzień przed spotkaniem.</description>
-    </item>
-    
-    <item>
-        <title>Soto Grado na Valencię</title>
-        <link>https://www.realmadryt.pl/news/135396-soto-grado-na-valencie</link>
-        <pubDate>Wed, 01 Jan 2025 17:14:00 GMT</pubDate>
-        <description>44-letni sędzia poprowadzi niedzielne spotkanie Realu Madryt z Valencią. Arbitrem VAR będzie Alejandro Muñiz Ruiz.</description>
     </item>
     
 </channel>
