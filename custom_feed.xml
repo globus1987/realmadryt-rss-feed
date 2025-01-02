@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 23:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 23:38:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135429-dzisiejsze-okladki</link>
+        <pubDate>Fri, 03 Jan 2025 00:26:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Valencią i rejestracje piłkarzy Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kibice Valencii apelują o wejście na Mestallę po 19 minutach meczu z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135414-szesciu-pilkarkom-wygasaja-kontrakty-po-sezonie</link>
         <pubDate>Thu, 02 Jan 2025 14:32:00 GMT</pubDate>
         <description>Aż sześciu zawodniczkom Realu Madryt wygasają kontrakty 30 czerwca i od 1 stycznia mogą one rozmawiać z innymi klubami. Wśród nich jest m.in. kapitana Olga Carmona czy najskuteczniejsza snajperka Signe Bruun.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Valencię</title>
-        <link>https://www.realmadryt.pl/news/135411-kadra-realu-madryt-na-valencie</link>
-        <pubDate>Thu, 02 Jan 2025 14:16:00 GMT</pubDate>
-        <description>Królewscy podejdą do zaległego meczu La Ligi bez trzech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 21 zawodników.</description>
     </item>
     
 </channel>
