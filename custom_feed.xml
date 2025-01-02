@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 09:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 09:40:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Davies daje priorytet Bayernowi</title>
+        <link>https://www.realmadryt.pl/news/135406-relevo-davies-daje-priorytet-bayernowi</link>
+        <pubDate>Thu, 02 Jan 2025 10:25:00 GMT</pubDate>
+        <description>Alphonso Davies chce rozmawiać ze swoim obecnym klubem, zanim podejmie ostateczną decyzję na temat swojej przyszłości. Nic w tej sprawie nie jest jeszcze przesądzone. Real Madryt chce pozyskać Kanadyjczyka, ale czego chce sam zawodnik?</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 2 stycznia</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>MARCA: Florentino Pérez także poleci do Walencji</title>
-        <link>https://www.realmadryt.pl/news/135405-marca-florentino-perez-takze-poleci-do-walencji</link>
+        <title>MARCA: Florentino Pérez zostanie uhonorowany na Mestalli</title>
+        <link>https://www.realmadryt.pl/news/135405-marca-florentino-perez-zostanie-uhonorowany-na-mestalli</link>
         <pubDate>Thu, 02 Jan 2025 09:27:00 GMT</pubDate>
         <description>Przygotowywana jest mała uroczystość na cześć prezesa Realu Madryt. Ma to związek z jego pomocą poszkodowanym wskutek powodzi DANA.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135393-noworoczny-trening</link>
         <pubDate>Wed, 01 Jan 2025 14:40:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali przygotowania do zaległego meczu La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Federacja staje po stronie La Ligi, ale Barça twierdzi, że wszystko jest ok</title>
-        <link>https://www.realmadryt.pl/news/135392-federacja-staje-po-stronie-la-ligi-ale-barca-twierdzi-ze-wszystko-jest-ok</link>
-        <pubDate>Wed, 01 Jan 2025 14:22:00 GMT</pubDate>
-        <description>Katalończycy i ich rzecznicy prasowi przekonują, że 3 stycznia domkną sprawę rejestracji swoich dwóch graczy. Poza nimi nikt w to nie wierzy, bo przepisy po prostu na to nie pozwalają.</description>
     </item>
     
 </channel>
