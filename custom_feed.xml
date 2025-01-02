@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Jan 2025 05:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 06:31:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Spokój w sprawie nowego kontraktu Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/135402-marca-spokoj-w-sprawie-nowego-kontraktu-viniciusa</link>
+        <pubDate>Thu, 02 Jan 2025 07:00:00 GMT</pubDate>
+        <description>Umowa Brazylijczyka wygasa w 2027 roku, ale żadna ze stron nie czuje pośpiechu, by go przedłużać, chociaż w tle ciągle czają się Saudyjczycy.</description>
+    </item>
     
     <item>
         <title>Media: Real powalczy o Trenta zimą na prośbę Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135388-mourinho-zaluje-powiedzenia-nie-florentino</link>
         <pubDate>Wed, 01 Jan 2025 12:00:00 GMT</pubDate>
         <description>José Mourinho udzielił wywiadu Corriere dello Sport. Przedstawiamy najważniejsze wypowiedzi byłego trenera Realu Madryt i obecnie szkoleniowca Fenerbahçe z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>AS: Barcelona zespołem, któremu w tym sezonie VAR pomaga najczęściej</title>
-        <link>https://www.realmadryt.pl/news/135387-as-barcelona-zespolem-ktoremu-w-tym-sezonie-var-pomaga-najczesciej</link>
-        <pubDate>Wed, 01 Jan 2025 10:13:00 GMT</pubDate>
-        <description>Deportivo Alavés jest zespołem, któremu po interwencji VAR najczęściej zmieniano decyzję na niekorzystną. Na drugim biegunie jest Blaugrana.</description>
     </item>
     
 </channel>
