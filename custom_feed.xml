@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 22:20:40 GMT</lastBuildDate>
     
     <item>
-        <title>Valencia – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/135450-valencia-real-madryt-live</link>
+        <title>Oceń piłkarzy po meczu z Valencią</title>
+        <link>https://www.realmadryt.pl/news/135453-ocen-pilkarzy-po-meczu-z-valencia</link>
+        <pubDate>Fri, 03 Jan 2025 23:19:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Duro: Sędzia gwizdał tylko popchnięcia pod nich, ale nie zwróci nam remisu ani wygranej</title>
+        <link>https://www.realmadryt.pl/news/135454-duro-sedzia-gwizdal-tylko-popchniecia-pod-nich-ale-nie-zwroci-nam-remisu-ani-wygranej</link>
+        <pubDate>Fri, 03 Jan 2025 23:18:00 GMT</pubDate>
+        <description>Hugo Duro udzielił wywiadu na murawie Movistar+ po meczu z Realem Madryt. Przedstawiamy jego wypowiedzi z tej rozmowy.</description>
+    </item>
+    
+    <item>
+        <title>Szczęśliwy lider</title>
+        <link>https://www.realmadryt.pl/news/135450-szczesliwy-lider</link>
         <pubDate>Fri, 03 Jan 2025 20:55:00 GMT</pubDate>
-        <description>W zaległym meczu 12. kolejki La Ligi Real Madryt gra na wyjeździe z Valencią.</description>
+        <description>W zaległym meczu 12. kolejki La Ligi Real Madryt wygra na wyjeździe z Valencią 2:1. Gole dla Królewskich strzelili Luka Modrić i Jude Bellingham.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135439-rakietowy-real-madryt</link>
         <pubDate>Fri, 03 Jan 2025 14:30:00 GMT</pubDate>
         <description>Real Madryt przyzwyczaił do strzelania goli zza pola karnego. To jedno w najlepszych rozwiązań, gdy rywal głęboko się okopuje, zwłaszcza w meczach na Bernabéu, pisze MARCA.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Pablo Ramón piłkarzem Espanyolu</title>
-        <link>https://www.realmadryt.pl/news/135441-oficjalnie-pablo-ramon-pilkarzem-espanyolu</link>
-        <pubDate>Fri, 03 Jan 2025 13:40:00 GMT</pubDate>
-        <description>Klub z Barcelony ściągu 23-latka, który ostatnio leczył poważną kontuzję.</description>
-    </item>
-    
-    <item>
-        <title>Encestando: Théo Maledon latem dołączy do Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/135440-encestando-theo-maledon-latem-dolaczy-do-realu-madryt</link>
-        <pubDate>Fri, 03 Jan 2025 13:27:00 GMT</pubDate>
-        <description>Real Madryt ciągle szuka na rynku zawodnika, który mógłby stworzyć duet rozgrywających z Facundo Campazzo. Théo Maledon wydaje się idealnym kandydatem. Francuz, zdaniem portalu Encestando, ma latem dołączyć do zespołu Chusa Mateo.</description>
     </item>
     
 </channel>
