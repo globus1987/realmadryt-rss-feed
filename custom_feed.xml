@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 10:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 10:41:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zrewanżować się Bawarczykom</title>
+        <link>https://www.realmadryt.pl/news/135424-zrewanzowac-sie-bawarczykom</link>
+        <pubDate>Fri, 03 Jan 2025 11:40:00 GMT</pubDate>
+        <description>W 19. kolejce Euroligi Real Madryt zagra z Bayernem Monachium. W pierwszym spotkaniu Królewscy okazali się słabsi od Bawarczyków i teraz mają okazję do rewanżu. Celem będzie również odrobienie straty z pierwszej rundy, żeby dysponować lepszym bilansem meczów bezpośrednich.</description>
+    </item>
     
     <item>
         <title>Bez nienawiści, ale i bez litości</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135427-jakie-sa-wymagania-do-zostania-prezesem-realu-madryt</link>
         <pubDate>Thu, 02 Jan 2025 21:27:00 GMT</pubDate>
         <description>Klub ogłosił rozpoczęcie procesu wyborczego. Media czekają na pojawienie się potencjalnego rywala dla dotychczasowego prezesa.</description>
-    </item>
-    
-    <item>
-        <title>Klubowy Mundial pod znakiem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/135423-klubowy-mundial-pod-znakiem-realu-madryt</link>
-        <pubDate>Thu, 02 Jan 2025 19:20:00 GMT</pubDate>
-        <description>Mecze Realu Madryt na Klubowym Mundialu w Stanach Zjednoczonych cieszą się największym zainteresowaniem. Na dwa pierwsze spotkania z Al-Hilal i Pachucą została już wykupiona większość dostępnych biletów.</description>
     </item>
     
 </channel>
