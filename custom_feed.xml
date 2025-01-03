@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 04:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 04:43:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Przypomnę piłkarzom, że już dwa razy nie wyszedł nam powrót w nowym roku</title>
+        <link>https://www.realmadryt.pl/news/135413-ancelotti-przypomne-pilkarzom-ze-juz-dwa-razy-nie-wyszedl-nam-powrot-w-nowym-roku</link>
+        <pubDate>Fri, 03 Jan 2025 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Valencią w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135415-as-pablo-ramon-przejdzie-do-espanyolu</link>
         <pubDate>Thu, 02 Jan 2025 15:06:00 GMT</pubDate>
         <description>Środkowy obrońca odchodzi z drużyny Królewskich na zasadzie wolnego transferu, ale klub zachowuje do niego 50% praw.</description>
-    </item>
-    
-    <item>
-        <title>Sześciu piłkarkom wygasają kontrakty po sezonie</title>
-        <link>https://www.realmadryt.pl/news/135414-szesciu-pilkarkom-wygasaja-kontrakty-po-sezonie</link>
-        <pubDate>Thu, 02 Jan 2025 14:32:00 GMT</pubDate>
-        <description>Aż sześciu zawodniczkom Realu Madryt wygasają kontrakty 30 czerwca i od 1 stycznia mogą one rozmawiać z innymi klubami. Wśród nich jest m.in. kapitana Olga Carmona czy najskuteczniejsza snajperka Signe Bruun.</description>
     </item>
     
 </channel>
