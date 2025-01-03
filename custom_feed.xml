@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 11:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 11:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Slot: Trent jest nam całkowicie oddany</title>
+        <link>https://www.realmadryt.pl/news/135437-slot-trent-jest-nam-calkowicie-oddany</link>
+        <pubDate>Fri, 03 Jan 2025 12:52:00 GMT</pubDate>
+        <description>Arne Slot pojawił się na konferencji prasowej przed niedzielnym meczem ligowym z Manchesterem United. Przedstawiamy wypowiedzi trenera Liverpoolu na temat sytuacji Trenta Alexandra-Arnolda, którym interesuje się Real Madryt.</description>
+    </item>
     
     <item>
         <title>Mateo: Jesteśmy lepsi w defensywie niż w meczu w Monachium</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135432-valencia-real-madryt-przewidywane-sklady</link>
         <pubDate>Fri, 03 Jan 2025 07:00:00 GMT</pubDate>
         <description>Królewscy podchodzą do zaległego meczu La Ligi bez kontuzjowanych Davida Alaby, Daniego Carvajala i Édera Militão. Po zawieszeniu wraca Vinicius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Przypomnę piłkarzom, że już dwa razy nie wyszedł nam powrót w nowym roku</title>
-        <link>https://www.realmadryt.pl/news/135413-ancelotti-przypomne-pilkarzom-ze-juz-dwa-razy-nie-wyszedl-nam-powrot-w-nowym-roku</link>
-        <pubDate>Fri, 03 Jan 2025 05:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Valencią w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
