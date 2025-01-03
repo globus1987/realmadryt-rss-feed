@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 15:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 16:27:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyzwanie siedmiu tytułów i drakońskiego kalendarza</title>
+        <link>https://www.realmadryt.pl/news/135446-wyzwanie-siedmiu-tytulow-i-drakonskiego-kalendarza</link>
+        <pubDate>Fri, 03 Jan 2025 17:00:00 GMT</pubDate>
+        <description>Już dziś Real Madryt wkracza w 2025 rok, który nie będzie pozwalał na chwilę wytchnienia.</description>
+    </item>
     
     <item>
         <title>Modrić pozostaje zagrożony zawieszeniem w La Lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135434-w-sprawie-trenta-czas-gra-na-korzysc-realu</link>
         <pubDate>Fri, 03 Jan 2025 12:00:00 GMT</pubDate>
         <description>Pierwsza oferta Realu Madryt za Trenta była tylko początkiem w tym wyścigu, pierwszym krokiem. Teraz Liverpool musi ochłonąć i podjąć decyzję, wiedząc, że czas gra na korzyść Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Callejón: Jako dobrego madridistę ekscytuje mnie możliwość wyeliminowania Atlético</title>
-        <link>https://www.realmadryt.pl/news/135435-callejon-jako-dobrego-madridiste-ekscytuje-mnie-mozliwosc-wyeliminowania-atletico</link>
-        <pubDate>Fri, 03 Jan 2025 12:00:00 GMT</pubDate>
-        <description>Wychowanek Realu Madryt, José Callejón, ostatnie lata swojej piłkarskiej kariery spędza w trzecioligowej Marbelli. Los chciał, że już jutro przyjdzie mu się zmierzyć w Copa del Rey z Atlético Madryt. W przeddzień tego starcia udzielił wywiadu dziennikowi MARCA.</description>
     </item>
     
 </channel>
