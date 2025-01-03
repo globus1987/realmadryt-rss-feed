@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 07:38:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 07:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zł za wygraną Realu Madryt z Valencią!</title>
+        <link>https://www.realmadryt.pl/news/135430-200-zl-za-wygrana-realu-madryt-z-valencia</link>
+        <pubDate>Fri, 03 Jan 2025 08:40:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso wybiera nowe miejsce pracy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135418-odzyskac-najlepsza-wersje-mendyego</link>
         <pubDate>Thu, 02 Jan 2025 17:42:00 GMT</pubDate>
         <description>Francuz nie najlepiej prezentuje się w tym sezonie, ale dla trenera nadal jest kluczową postacią.</description>
-    </item>
-    
-    <item>
-        <title>Corberán: Kluczowe będzie to, by drużyna zrozumiała mecz, który będzie rozgrywać</title>
-        <link>https://www.realmadryt.pl/news/135417-corberan-kluczowe-bedzie-to-by-druzyna-zrozumiala-mecz-ktory-bedzie-rozgrywac</link>
-        <pubDate>Thu, 02 Jan 2025 17:29:00 GMT</pubDate>
-        <description>Carlos Corberán wziął udział w konferencji prasowej przed piątkowym meczem z Realem Madryt. Przedstawiamy wypowiedzi trenera Valencii.</description>
     </item>
     
 </channel>
