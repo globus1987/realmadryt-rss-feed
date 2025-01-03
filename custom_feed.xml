@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 13:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 14:20:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejny historyczny wieczór Luki Modricia</title>
+        <link>https://www.realmadryt.pl/news/135443-kolejny-historyczny-wieczor-luki-modricia</link>
+        <pubDate>Fri, 03 Jan 2025 15:16:00 GMT</pubDate>
+        <description>Chorwat w dzisiejszym meczu z Valencią na Estadio Mestalla zrówna się z Pirrim i Míchelem pod względem liczby występów w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Pierwszy skandal na Estadio Mestalla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135395-bez-nienawisci-ale-i-bez-litosci</link>
         <pubDate>Fri, 03 Jan 2025 11:08:00 GMT</pubDate>
         <description>Nie życz drugiemu, co tobie niemiłe, ale i dbaj o własny interes.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 stycznia</title>
-        <link>https://www.realmadryt.pl/news/135426-kartka-z-kalendarza-3-stycznia</link>
-        <pubDate>Fri, 03 Jan 2025 10:20:00 GMT</pubDate>
-        <description>Śmierć byłego zawodnika, transfer młodego Włocha z Romy, remontada z Málagą w Pucharze Króla i ostatni mecz Rafy Beníteza. Co działo się 3 stycznia?</description>
     </item>
     
 </channel>
