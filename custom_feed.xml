@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 13:31:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 13:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy skandal na Estadio Mestalla</title>
+        <link>https://www.realmadryt.pl/news/135442-pierwszy-skandal-na-estadio-mestalla</link>
+        <pubDate>Fri, 03 Jan 2025 14:46:00 GMT</pubDate>
+        <description>Relacje między Valencią i Realem Madryt są napięte od dawna. Dla Królewskich wyjazd na Estadio Mestalla zawsze uchodzi za jeden z najtrudniejszych w sezonie. Na obiekcie Nietoperzy od wielu lat panuje wyjątkowo wrogie nastawienie względem ekipy ze stolicy i niewiele wskazuje na to, by miało się to zmienić, pisze MARCA.</description>
+    </item>
     
     <item>
         <title>Rakietowy Real Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135426-kartka-z-kalendarza-3-stycznia</link>
         <pubDate>Fri, 03 Jan 2025 10:20:00 GMT</pubDate>
         <description>Śmierć byłego zawodnika, transfer młodego Włocha z Romy, remontada z Málagą w Pucharze Króla i ostatni mecz Rafy Beníteza. Co działo się 3 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>Carboni: Liderem Realu Madryt jest Ancelotti</title>
-        <link>https://www.realmadryt.pl/news/135433-carboni-liderem-realu-madryt-jest-ancelotti</link>
-        <pubDate>Fri, 03 Jan 2025 10:00:00 GMT</pubDate>
-        <description>W Valencii grał do 41. roku życia, a później został dyrektorem sportowym za czasów Juana Bautisty Solera. Amedeo Carboni, zdaniem wielu najlepszy lewy obrońca w historii klubu z Mestalli, udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
