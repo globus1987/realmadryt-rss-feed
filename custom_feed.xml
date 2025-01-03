@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 13:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 13:31:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rakietowy Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/135439-rakietowy-real-madryt</link>
+        <pubDate>Fri, 03 Jan 2025 14:30:00 GMT</pubDate>
+        <description>Real Madryt przyzwyczaił do strzelania goli zza pola karnego. To jedno w najlepszych rozwiązań, gdy rywal głęboko się okopuje, zwłaszcza w meczach na Bernabéu, pisze MARCA.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Pablo Ramón piłkarzem Espanyolu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135433-carboni-liderem-realu-madryt-jest-ancelotti</link>
         <pubDate>Fri, 03 Jan 2025 10:00:00 GMT</pubDate>
         <description>W Valencii grał do 41. roku życia, a później został dyrektorem sportowym za czasów Juana Bautisty Solera. Amedeo Carboni, zdaniem wielu najlepszy lewy obrońca w historii klubu z Mestalli, udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj zagwiżdże sędzia, który pozwala na agresje wobec graczy Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/135425-dzisiaj-zagwizdze-sedzia-ktory-pozwala-na-agresje-wobec-graczy-realu-madryt</link>
-        <pubDate>Fri, 03 Jan 2025 09:30:00 GMT</pubDate>
-        <description>Klubowa telewizja Realu Madryt nie ustaje w swoich wysiłkach sędziowskich i wypuściła filmiki na obu sędziów dzisiejszego meczu.</description>
     </item>
     
 </channel>
