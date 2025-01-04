@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Jan 2025 06:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 07:19:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Takie zwycięstwa znaczą wiele i mogą decydować o mistrzostwie</title>
+        <link>https://www.realmadryt.pl/news/135459-modric-takie-zwyciestwa-znacza-wiele-i-moga-decydowac-o-mistrzostwie</link>
+        <pubDate>Sat, 04 Jan 2025 07:50:00 GMT</pubDate>
+        <description>Luka Modrić udzielił wywiadu klubowej telewizji po wygranej 2:1 z Valencią na Estadio Mestalla. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Bellingham: Chcę próbować być liderem tej drużyny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135453-ocen-pilkarzy-po-meczu-z-valencia</link>
         <pubDate>Fri, 03 Jan 2025 23:19:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Duro: Sędzia gwizdał tylko popchnięcia pod nich, ale nie zwróci nam remisu ani wygranej</title>
-        <link>https://www.realmadryt.pl/news/135454-duro-sedzia-gwizdal-tylko-popchniecia-pod-nich-ale-nie-zwroci-nam-remisu-ani-wygranej</link>
-        <pubDate>Fri, 03 Jan 2025 23:18:00 GMT</pubDate>
-        <description>Hugo Duro udzielił wywiadu na murawie Movistar+ po meczu z Realem Madryt. Przedstawiamy jego wypowiedzi z tej rozmowy.</description>
     </item>
     
 </channel>
