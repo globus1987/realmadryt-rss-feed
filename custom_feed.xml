@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Jan 2025 07:19:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 07:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Llull pobił rekord występów w Eurolidze</title>
+        <link>https://www.realmadryt.pl/news/135461-llull-pobil-rekord-wystepow-w-eurolidze</link>
+        <pubDate>Sat, 04 Jan 2025 08:30:00 GMT</pubDate>
+        <description>W meczu z Bayernem Monachium Sergio Llull zagrał w Eurolidze po raz 426. Nikt inny nie może pochwalić się takim wynikiem. Dotychczasowy lider, Kyle Hines, spadł na drugą pozycję.</description>
+    </item>
     
     <item>
         <title>Modrić: Takie zwycięstwa znaczą wiele i mogą decydować o mistrzostwie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135455-12-kolejka-real-madryt-nowym-liderem</link>
         <pubDate>Fri, 03 Jan 2025 23:23:00 GMT</pubDate>
         <description>Królewscy wygrali w zaległym meczu 12. kolejki z Valencią i wskoczyli na fotel lidera La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/135453-ocen-pilkarzy-po-meczu-z-valencia</link>
-        <pubDate>Fri, 03 Jan 2025 23:19:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
