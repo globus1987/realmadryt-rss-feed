@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Jan 2025 13:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 13:56:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Życiowa zmiana Militão</title>
+        <link>https://www.realmadryt.pl/news/135476-zyciowa-zmiana-militao</link>
+        <pubDate>Sat, 04 Jan 2025 14:52:00 GMT</pubDate>
+        <description>Brazylijczyk jest w pełni skoncentrowany na swojej rehabilitacji, zostawiając za sobą wszelkie negatywne myśli.</description>
+    </item>
     
     <item>
         <title>Lahoz: Dla mnie to nigdy nie jest czerwona kartka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135469-modric-najstarszym-strzelcem-gola-w-historii-realu</link>
         <pubDate>Sat, 04 Jan 2025 08:59:00 GMT</pubDate>
         <description>Pomocnik swoim piątkowym trafieniem na Mestalli znów zapisał się w historii Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Llull pobił rekord występów w Eurolidze</title>
-        <link>https://www.realmadryt.pl/news/135461-llull-pobil-rekord-wystepow-w-eurolidze</link>
-        <pubDate>Sat, 04 Jan 2025 08:30:00 GMT</pubDate>
-        <description>W meczu z Bayernem Monachium Sergio Llull zagrał w Eurolidze po raz 426. Nikt inny nie może pochwalić się takim wynikiem. Dotychczasowy lider, Kyle Hines, spadł na drugą pozycję.</description>
     </item>
     
 </channel>
