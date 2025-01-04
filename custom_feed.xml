@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Jan 2025 07:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 08:26:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Superdeporte: Vinícius palcami pokazał swoje miejsce w Złotej Piłce</title>
+        <link>https://www.realmadryt.pl/news/135467-superdeporte-vinicius-palcami-pokazal-swoje-miejsce-w-zlotej-pilce</link>
+        <pubDate>Sat, 04 Jan 2025 09:15:00 GMT</pubDate>
+        <description>Brazylijczyk cały mecz reagował gestem wskazującym na spadek rywali i skorzystał z niego także w pomeczowym wpisie.</description>
+    </item>
+    
+    <item>
+        <title>Modrić najstarszym strzelcem gola w historii Realu</title>
+        <link>https://www.realmadryt.pl/news/135469-modric-najstarszym-strzelcem-gola-w-historii-realu</link>
+        <pubDate>Sat, 04 Jan 2025 08:59:00 GMT</pubDate>
+        <description>Pomocnik swoim piątkowym trafieniem na Mestalli znów zapisał się w historii Królewskich.</description>
+    </item>
     
     <item>
         <title>Llull pobił rekord występów w Eurolidze</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135456-vinicius-przepraszam-i-dziekuje-druzyno</link>
         <pubDate>Fri, 03 Jan 2025 23:31:00 GMT</pubDate>
         <description>Brazylijczyk po meczu z Valencią zamieścił wpis na portalu X.</description>
-    </item>
-    
-    <item>
-        <title>Hugo Duro MVP meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/135451-hugo-duro-mvp-meczu-z-valencia</link>
-        <pubDate>Fri, 03 Jan 2025 23:29:00 GMT</pubDate>
-        <description>Hugo Duro został wyróżniony po wygranym przez Real Madryt 2:1 spotkaniu na Estadio Mestalla.</description>
-    </item>
-    
-    <item>
-        <title>12. kolejka: Real Madryt nowym liderem!</title>
-        <link>https://www.realmadryt.pl/news/135455-12-kolejka-real-madryt-nowym-liderem</link>
-        <pubDate>Fri, 03 Jan 2025 23:23:00 GMT</pubDate>
-        <description>Królewscy wygrali w zaległym meczu 12. kolejki z Valencią i wskoczyli na fotel lidera La Ligi.</description>
     </item>
     
 </channel>
