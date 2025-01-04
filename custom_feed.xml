@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Jan 2025 23:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 01:45:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135466-dzisiejsze-okladki</link>
+        <pubDate>Sat, 04 Jan 2025 02:04:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i czerwona kartka Viníciusa to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius zostanie zawieszony na 4 mecze i nie zagra w Superpucharze?</title>
+        <link>https://www.realmadryt.pl/news/135465-vinicius-zostanie-zawieszony-na-4-mecze-i-nie-zagra-w-superpucharze</link>
+        <pubDate>Sat, 04 Jan 2025 01:25:00 GMT</pubDate>
+        <description>Sędzia zapis w protokole zachowanie Brazylijczyka jako agresję. Może on przegapić cztery najbliższe spotkania Królewskich.</description>
+    </item>
     
     <item>
         <title>Mateo: To zwycięstwo daje nam pewien spokój, ale nie możemy się zrelaksować</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135450-szczesliwy-lider</link>
         <pubDate>Fri, 03 Jan 2025 20:55:00 GMT</pubDate>
         <description>W zaległym meczu 12. kolejki La Ligi Real Madryt wygra na wyjeździe z Valencią 2:1. Gole dla Królewskich strzelili Luka Modrić i Jude Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Valencią [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/135449-rozgrzewka-przed-valencia-video</link>
-        <pubDate>Fri, 03 Jan 2025 20:15:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Mestalli, gdzie za kilkadziesiąt minut zaczną mecz z Valencią. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Valencia – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/135447-valencia-real-madryt-znamy-sklady</link>
-        <pubDate>Fri, 03 Jan 2025 19:16:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu La Ligi. Mecz rozpocznie się o godzinie 21:00 na Mestalli.</description>
     </item>
     
 </channel>
