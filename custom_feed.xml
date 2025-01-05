@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Jan 2025 10:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 10:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarki grają z Atlético [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/135498-pilkarki-graja-z-atletico-na-zywo</link>
+        <pubDate>Sun, 05 Jan 2025 11:50:00 GMT</pubDate>
+        <description>Od godziny 12:00 piłkarki Realu Madryt rozpoczną walkę w pierwszym meczu ligowym w tym roku. W starciu 16. kolejki Ligi F podopieczne Alberto Torila zagrają w Alcalá de Henares z Atlético.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, Jesús!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135493-dzisiejsze-okladki</link>
         <pubDate>Sun, 05 Jan 2025 00:40:00 GMT</pubDate>
         <description>Rola Jude'a Bellinghama, kara dla Viníciusa i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kto odpocznie, a kto dostanie szansę w starciu z czwartoligowcem?</title>
-        <link>https://www.realmadryt.pl/news/135488-kto-odpocznie-a-kto-dostanie-szanse-w-starciu-z-czwartoligowcem</link>
-        <pubDate>Sun, 05 Jan 2025 00:00:00 GMT</pubDate>
-        <description>Królewscy w poniedziałek otworzą zmagania w Pucharze Króla starciem z czwartoligową Minerą. Kto z pierwszej drużyny dostanie odpoczynek, a kto ze szkółki dostanie szansę na występ w pierwszym zespole?</description>
     </item>
     
 </channel>
