@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Jan 2025 22:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 23:20:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135522-dzisiejsze-okladki</link>
+        <pubDate>Mon, 06 Jan 2025 00:12:00 GMT</pubDate>
+        <description>Mecz Realu Madryt w Pucharze Króla i sytuacja Joana Laporty to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Real Madrid TV: Cała prawda o czerwonej kartce Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/135513-real-madrid-tv-cala-prawda-o-czerwonej-kartce-viniciusa</link>
+        <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
+        <description>Klubowa telewizja zajęła się szerszym kontekstem czerwonej kartki pokazanej Brazylijczykowi na Mestalli.</description>
+    </item>
     
     <item>
         <title>Alberola Rojas na Minerę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135508-mbappe-druzyna-i-ja-znajdujemy-sie-w-dobrym-momencie</link>
         <pubDate>Sun, 05 Jan 2025 16:21:00 GMT</pubDate>
         <description>Kylian Mbappé został wybrany najlepszym piłkarzem ubiegłego miesiąca w Realu Madryt i dziś w Valdebebas odebrał specjalną nagrodę od sponsora klubu, browaru Mahou. Z tej okazji Francuz udzielił wypowiedzi dla klubowych mediów.</description>
-    </item>
-    
-    <item>
-        <title>José Pérez: Będziemy trzymać się tego 1% szans</title>
-        <link>https://www.realmadryt.pl/news/135507-jose-perez-bedziemy-trzymac-sie-tego-1-szans</link>
-        <pubDate>Sun, 05 Jan 2025 15:51:00 GMT</pubDate>
-        <description>José Pérez, szkoleniowiec Minery, wziął udział w konferencji prasowej przed meczem Pucharu Króla z Realem Madryt. Przedstawiamy wypowiedzi trenera jutrzejszych rywali Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Nie żyje Juan Manuel Villa</title>
-        <link>https://www.realmadryt.pl/news/135506-nie-zyje-juan-manuel-villa</link>
-        <pubDate>Sun, 05 Jan 2025 15:07:00 GMT</pubDate>
-        <description>Królewscy oficjalnie złożyli kondolencje rodzinie i bliskim swojego byłego zawodnika, który zmarł dzisiaj w wieku 86 lat.</description>
     </item>
     
 </channel>
