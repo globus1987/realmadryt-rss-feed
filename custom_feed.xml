@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Jan 2025 20:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 20:38:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Co zrobi Lucas Vázquez?</title>
+        <link>https://www.realmadryt.pl/news/135516-co-zrobi-lucas-vazquez</link>
+        <pubDate>Sun, 05 Jan 2025 21:32:00 GMT</pubDate>
+        <description>Kontrakt Lucasa Vázqueza, który z powodu kontuzji Daniego Carvajala gra absolutnie wszystko, wygasa za niespełna pół roku. Potencjalny transfer Trenta Alexandra-Arnolda znacznie ograniczy jego szanse na występy.</description>
+    </item>
     
     <item>
         <title>Osiem ekip z Primera División już odpadło z Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135505-marca-real-ma-juz-dosc-poznych-por-meczow-wyjazdowych</link>
         <pubDate>Sun, 05 Jan 2025 14:21:00 GMT</pubDate>
         <description>W klubie nie rozumieją, dlaczego prawie wszystkie spotkania wyjazdowe (z wyjątkiem wizyty w Leganés) Królewscy zaczynali wieczorem. To wpływa na czas odpoczynku zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki wygrywają z Atlético!</title>
-        <link>https://www.realmadryt.pl/news/135502-pilkarki-wygrywaja-z-atletico</link>
-        <pubDate>Sun, 05 Jan 2025 14:07:00 GMT</pubDate>
-        <description>W meczu 16. kolejki Ligi F piłkarki Realu Madryt pokonały w Alcalá de Henares Atlético Madryt 2:1. Bramki dla Królewskich zdobywały Linda Caicedo i Gaby García (samobójcza).</description>
     </item>
     
 </channel>
