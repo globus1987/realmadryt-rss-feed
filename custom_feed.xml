@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Jan 2025 08:55:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 09:21:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poważna zmiana planów</title>
+        <link>https://www.realmadryt.pl/news/135485-powazna-zmiana-planow</link>
+        <pubDate>Sun, 05 Jan 2025 10:00:00 GMT</pubDate>
+        <description>Na początku sezonu Carlo Ancelotti obrał strategię, która zakładała, że poszczególni gracze będą między sobą decydować o tym, kto podchodzi do rzutów karnych. Plan Włocha okazał się jednak nietrafiony i najprawdopodobniej ulegnie on zmianie w drugiej części sezonu.</description>
+    </item>
     
     <item>
         <title>Weir o krok od przejścia do historii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135481-oceny-zawodnikow-po-meczu-z-valencia</link>
         <pubDate>Sat, 04 Jan 2025 18:10:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Valencią 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona pokonuje Barbastro i awansuje</title>
-        <link>https://www.realmadryt.pl/news/135480-barcelona-pokonuje-barbastro-i-awansuje</link>
-        <pubDate>Sat, 04 Jan 2025 17:59:00 GMT</pubDate>
-        <description>Barcelona wygrała 4:0 z Barbastro w Pucharze Króla i awansowała do kolejnej fazy.</description>
     </item>
     
 </channel>
