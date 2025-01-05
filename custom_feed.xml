@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Jan 2025 15:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 15:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Vallejo szuka odejścia</title>
+        <link>https://www.realmadryt.pl/news/135509-cope-vallejo-szuka-odejscia</link>
+        <pubDate>Sun, 05 Jan 2025 16:22:00 GMT</pubDate>
+        <description>Hiszpan nie został powołany na mecz Pucharu Króla. Klub informował o problemach fizycznych, ale COPE twierdzi, że stoper szuka odejścia.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé: Drużyna i ja znajdujemy się w dobrym momencie</title>
+        <link>https://www.realmadryt.pl/news/135508-mbappe-druzyna-i-ja-znajdujemy-sie-w-dobrym-momencie</link>
+        <pubDate>Sun, 05 Jan 2025 16:21:00 GMT</pubDate>
+        <description>Kylian Mbappé został wybrany najlepszym piłkarzem ubiegłego miesiąca w Realu Madryt i dziś w Valdebebas odebrał specjalną nagrodę od sponsora klubu, browaru Mahou. Z tej okazji Francuz udzielił wypowiedzi dla klubowych mediów.</description>
+    </item>
     
     <item>
         <title>José Pérez: Będziemy trzymać się tego 1% szans</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135494-czy-arda-gueler-trenuje-z-druzyna-live</link>
         <pubDate>Sun, 05 Jan 2025 11:20:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed pierwszym meczem w Pucharze Króla. Wstępnie niedostępnych jest trzech piłkarzy, a do rozwiązania pozostaje też temat czwartego zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 5 stycznia</title>
-        <link>https://www.realmadryt.pl/news/135496-kartka-z-kalendarza-5-stycznia</link>
-        <pubDate>Sun, 05 Jan 2025 10:50:00 GMT</pubDate>
-        <description>Wygrana z Polakami w Madrycie, otwarcie alei Casillasa i kilkuminutowy, lecz zwycięski debiut Vanderleia Luxemburgo. Co działo się 5 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>Poważna zmiana planów</title>
-        <link>https://www.realmadryt.pl/news/135485-powazna-zmiana-planow</link>
-        <pubDate>Sun, 05 Jan 2025 10:00:00 GMT</pubDate>
-        <description>Na początku sezonu Carlo Ancelotti obrał strategię, która zakładała, że poszczególni gracze będą między sobą decydować o tym, kto podchodzi do rzutów karnych. Plan Włocha okazał się jednak nietrafiony i najprawdopodobniej ulegnie on zmianie w drugiej części sezonu.</description>
     </item>
     
 </channel>
