@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Jan 2025 18:28:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 18:43:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ligowy odskok</title>
+        <link>https://www.realmadryt.pl/news/135487-ligowy-odskok</link>
+        <pubDate>Sun, 05 Jan 2025 19:30:00 GMT</pubDate>
+        <description>Real Madryt na przestrzeni ostatnich dwóch miesięcy zdobył aż o czternaście punktów więcej od Barcelony. Sytuacja w La Lidze wygląda zupełnie inaczej niż jeszcze na początku listopada.</description>
+    </item>
     
     <item>
         <title>Relevo: Xabi Alonso wytypowany na następcę Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135500-ancelotti-pozostajemy-przekonani-ze-to-nie-byla-czerwona-kartka</link>
         <pubDate>Sun, 05 Jan 2025 12:46:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Minerą w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger i Vallejo nie trenowali z grupą</title>
-        <link>https://www.realmadryt.pl/news/135501-ruediger-i-vallejo-nie-trenowali-z-grupa</link>
-        <pubDate>Sun, 05 Jan 2025 12:27:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do pierwszego meczu w Pucharze Króla.</description>
     </item>
     
 </channel>
