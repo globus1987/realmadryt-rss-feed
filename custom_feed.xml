@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 05:54:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 06:32:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Vinícius poprawił się tak bardzo, że jest najlepszym piłkarzem na świecie</title>
+        <link>https://www.realmadryt.pl/news/135515-ancelotti-vinicius-poprawil-sie-tak-bardzo-ze-jest-najlepszym-pilkarzem-na-swiecie</link>
+        <pubDate>Mon, 06 Jan 2025 07:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Minerą w Pucharze Króla. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135509-cope-vallejo-szuka-odejscia</link>
         <pubDate>Sun, 05 Jan 2025 16:22:00 GMT</pubDate>
         <description>Hiszpan nie został powołany na mecz Pucharu Króla. Klub informował o problemach fizycznych, ale COPE twierdzi, że stoper szuka odejścia.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Drużyna i ja znajdujemy się w dobrym momencie</title>
-        <link>https://www.realmadryt.pl/news/135508-mbappe-druzyna-i-ja-znajdujemy-sie-w-dobrym-momencie</link>
-        <pubDate>Sun, 05 Jan 2025 16:21:00 GMT</pubDate>
-        <description>Kylian Mbappé został wybrany najlepszym piłkarzem ubiegłego miesiąca w Realu Madryt i dziś w Valdebebas odebrał specjalną nagrodę od sponsora klubu, browaru Mahou. Z tej okazji Francuz udzielił wypowiedzi dla klubowych mediów.</description>
     </item>
     
 </channel>
