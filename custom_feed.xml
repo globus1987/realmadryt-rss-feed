@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 09:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 10:25:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Mamy cztery mecze w jednym tygodniu, co nie jest zwyczajne</title>
+        <link>https://www.realmadryt.pl/news/135530-mateo-mamy-cztery-mecze-w-jednym-tygodniu-co-nie-jest-zwyczajne</link>
+        <pubDate>Mon, 06 Jan 2025 11:12:00 GMT</pubDate>
+        <description>Chus Mateo wypowiedział się dla klubowych mediów przed pojedynkiem z Baskonią w Lidze Endesa. Trener podkreślić, że teraz celem drużyny jest zakwalifikowanie się do Pucharu Króla.</description>
+    </item>
+    
+    <item>
+        <title>Historyczna konieczność</title>
+        <link>https://www.realmadryt.pl/news/135503-historyczna-koniecznosc</link>
+        <pubDate>Mon, 06 Jan 2025 11:11:00 GMT</pubDate>
+        <description>Jak co roku, dla jednych historyczne święto, dla drugich konieczność.</description>
+    </item>
     
     <item>
         <title>Cristhian Britos: Może Real Madryt będzie miał gorszy wieczór</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135515-ancelotti-vinicius-poprawil-sie-tak-bardzo-ze-jest-najlepszym-pilkarzem-na-swiecie</link>
         <pubDate>Mon, 06 Jan 2025 07:00:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Minerą w Pucharze Króla. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135522-dzisiejsze-okladki</link>
-        <pubDate>Mon, 06 Jan 2025 00:12:00 GMT</pubDate>
-        <description>Mecz Realu Madryt w Pucharze Króla i sytuacja Joana Laporty to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV: Cała prawda o czerwonej kartce Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/135513-real-madrid-tv-cala-prawda-o-czerwonej-kartce-viniciusa</link>
-        <pubDate>Mon, 06 Jan 2025 00:00:00 GMT</pubDate>
-        <description>Klubowa telewizja zajęła się szerszym kontekstem czerwonej kartki pokazanej Brazylijczykowi na Mestalli.</description>
     </item>
     
 </channel>
