@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 11:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 11:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Kartagenie</title>
+        <link>https://www.realmadryt.pl/news/135533-krolewscy-sa-juz-w-kartagenie</link>
+        <pubDate>Mon, 06 Jan 2025 12:53:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt dotarli do Kartageny, gdzie dziś o godzinie 19:00 zagrają z Deportivą Minera w 1/16 finału Pucharu Króla.</description>
+    </item>
     
     <item>
         <title>Czwartoligowiec podejmie Real Madryt na stadionie drugoligowca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135483-wazny-dla-wszystkich-ale-nadal-malo-gra</link>
         <pubDate>Mon, 06 Jan 2025 08:40:00 GMT</pubDate>
         <description>Wejście Francuza odmieniło grę Realu Madryt na Estadio Mestalla. W tym sezonie 22-latek zaliczył jednak zaledwie trzy mecze w pełnym wymiarze czasowym.</description>
-    </item>
-    
-    <item>
-        <title>Teraz albo nigdy</title>
-        <link>https://www.realmadryt.pl/news/135524-teraz-albo-nigdy</link>
-        <pubDate>Mon, 06 Jan 2025 08:35:00 GMT</pubDate>
-        <description>Copa del Rey to jego ostatnia nadzieja na przekonanie do siebie Ancelottiego. We wszystkich meczach tego sezonu dostał zaledwie 160 minut.</description>
     </item>
     
 </channel>
