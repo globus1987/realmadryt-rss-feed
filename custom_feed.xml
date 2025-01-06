@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 10:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 10:56:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Początek styczniowego maratonu</title>
+        <link>https://www.realmadryt.pl/news/135531-poczatek-styczniowego-maratonu</link>
+        <pubDate>Mon, 06 Jan 2025 11:49:00 GMT</pubDate>
+        <description>W 15. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Baskonią. Dla obu drużyn jest to początek meczowego maratonu. Tylko w tym tygodniu oba zespoły rozegrają po cztery spotkania.</description>
+    </item>
     
     <item>
         <title>Mateo: Mamy cztery mecze w jednym tygodniu, co nie jest zwyczajne</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135523-minera-real-madryt-przewidywany-sklad</link>
         <pubDate>Mon, 06 Jan 2025 07:50:00 GMT</pubDate>
         <description>Królewscy podchodzą do pierwszego meczu Pucharu Króla bez sześciu piłkarzy. Media zapowiadają masowe rotacje, przy czym należy pamiętać, że w każdym momencie na boisku musi przebywać przynajmniej 7 piłkarzy zarejestrowanych w pierwszej drużynie.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Vinícius poprawił się tak bardzo, że jest najlepszym piłkarzem na świecie</title>
-        <link>https://www.realmadryt.pl/news/135515-ancelotti-vinicius-poprawil-sie-tak-bardzo-ze-jest-najlepszym-pilkarzem-na-swiecie</link>
-        <pubDate>Mon, 06 Jan 2025 07:00:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Minerą w Pucharze Króla. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
