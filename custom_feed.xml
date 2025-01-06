@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 23:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 23:38:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135557-dzisiejsze-okladki</link>
+        <pubDate>Tue, 07 Jan 2025 00:24:00 GMT</pubDate>
+        <description>Wygrana Realu i zbliżający się Superpuchar Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze lepsi od Baskonii, świetny Musa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135537-foot-mercato-real-rywalizuje-z-city-o-chusanowa</link>
         <pubDate>Mon, 06 Jan 2025 16:01:00 GMT</pubDate>
         <description>Uzbecki stoper jest rozchwytywany przez największe kluby, a Lens liczy na to, że uda im się zarobić jak najwięcej.</description>
-    </item>
-    
-    <item>
-        <title>Jak zmieniał się terminarz od 1980 roku? Więcej turniejów, mniej sparingów i ogromne pieniądze</title>
-        <link>https://www.realmadryt.pl/news/135532-jak-zmienial-sie-terminarz-od-1980-roku-wiecej-turniejow-mniej-sparingow-i-ogromne-pieniadze</link>
-        <pubDate>Mon, 06 Jan 2025 15:44:00 GMT</pubDate>
-        <description>Obciążenie meczowe największych klubów zaczęło rosnąć wraz z początkiem XXI wieku, a w tym sezonie osiąga rekordowy poziom, głównie za sprawą rozgrywek organizowanych przez UEFA i FIFA.</description>
     </item>
     
 </channel>
