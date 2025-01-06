@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 07:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 07:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Teraz albo nigdy</title>
+        <link>https://www.realmadryt.pl/news/135524-teraz-albo-nigdy</link>
+        <pubDate>Mon, 06 Jan 2025 08:35:00 GMT</pubDate>
+        <description>Copa del Rey to jego ostatnia nadzieja na przekonanie do siebie Ancelottiego. We wszystkich meczach tego sezonu dostał zaledwie 160 minut.</description>
+    </item>
     
     <item>
         <title>Minera – Real Madryt: Przewidywany skład</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135511-archivovar-nieuznany-gol-mbappe-byl-prawidlowy</link>
         <pubDate>Sun, 05 Jan 2025 16:57:00 GMT</pubDate>
         <description>Analiza wykonana na podstawie nagrania z trybun wskazuje, że nieuznany gol Realu Madryt na Mestalli był legalny. Bardziej od sędziów zawiodła jednak technologia.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Napięcie w szatni Realu Madryt po pierwszej połowie na Mestalla</title>
-        <link>https://www.realmadryt.pl/news/135510-marca-napiecie-w-szatni-realu-madryt-po-pierwszej-polowie-na-mestalla</link>
-        <pubDate>Sun, 05 Jan 2025 16:52:00 GMT</pubDate>
-        <description>Carlo Ancelotti nie mógł uwierzyć w to, co zobaczył w pierwszej połowie piątkowego meczu z Valencią. Brak poświęcenia, brak wsparcia dla kolegów z drużyny i stracony gol jako punkt odniesienia. To zmusiło go do udzielenia swoim podopiecznym drugiej poważnej reprymendy w tym sezonie.</description>
     </item>
     
 </channel>
