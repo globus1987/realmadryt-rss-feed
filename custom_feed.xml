@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Jan 2025 19:39:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 19:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Minerą</title>
+        <link>https://www.realmadryt.pl/news/135541-ocen-pilkarzy-po-meczu-z-minera</link>
+        <pubDate>Mon, 06 Jan 2025 20:53:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Minera vs Real Madryt: Modrić dokłada czwartego gola</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135533-krolewscy-sa-juz-w-kartagenie</link>
         <pubDate>Mon, 06 Jan 2025 12:53:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt dotarli do Kartageny, gdzie dziś o godzinie 19:00 zagrają z Deportivą Minera w 1/16 finału Pucharu Króla.</description>
-    </item>
-    
-    <item>
-        <title>Czwartoligowiec podejmie Real Madryt na stadionie drugoligowca</title>
-        <link>https://www.realmadryt.pl/news/135521-czwartoligowiec-podejmie-real-madryt-na-stadionie-drugoligowca</link>
-        <pubDate>Mon, 06 Jan 2025 12:10:00 GMT</pubDate>
-        <description>Królewscy nie będą mieć dzisiaj wymówki ze słabą murawą, bo ich czwartoligowi rywale przenieśli się na obiekt drużyny, która na co dzień występuje w Segundzie.</description>
     </item>
     
 </channel>
