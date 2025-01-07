@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Jan 2025 06:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 07:21:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>José Pérez: Real Madryt wyszedł jak bestie, aby nas pożreć</title>
+        <link>https://www.realmadryt.pl/news/135554-jose-perez-real-madryt-wyszedl-jak-bestie-aby-nas-pozrec</link>
+        <pubDate>Tue, 07 Jan 2025 08:00:00 GMT</pubDate>
+        <description>Trener Deportivy Minera, José Pérez Veiga, spotkał się z dziennikarzami po porażce z Realem Madryt i odpadnięciu z Copa del Rey. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Podeszliśmy poważnie do tego meczu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135541-ocen-pilkarzy-po-meczu-z-minera</link>
         <pubDate>Mon, 06 Jan 2025 20:53:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Spokojny wieczór w Kartagenie</title>
-        <link>https://www.realmadryt.pl/news/135540-spokojny-wieczor-w-kartagenie</link>
-        <pubDate>Mon, 06 Jan 2025 19:49:00 GMT</pubDate>
-        <description>Real Madryt wygrał 5:0 z Deportivo Minera po bramkach Valverde, Camavingi, Modricia i dublecie Gülera.</description>
     </item>
     
 </channel>
