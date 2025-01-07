@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Jan 2025 07:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 07:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt ogłasza wybory: co się dzieje, zanim zostanie wybrany prezes?</title>
+        <link>https://www.realmadryt.pl/news/135558-real-madryt-oglasza-wybory-co-sie-dzieje-zanim-zostanie-wybrany-prezes</link>
+        <pubDate>Tue, 07 Jan 2025 08:46:00 GMT</pubDate>
+        <description>Dzisiaj Real Madryt rozpocznie proces wyborczy, który zakończy się w mniej niż trzy tygodnie. Florentino Pérez nie rezygnuje z funkcji prezesa.</description>
+    </item>
     
     <item>
         <title>José Pérez: Real Madryt wyszedł jak bestie, aby nas pożreć</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135542-fede-dla-nas-to-byl-final-i-tak-do-tego-podeszlismy</link>
         <pubDate>Mon, 06 Jan 2025 21:11:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu z murawy dla klubowej telewizji po wygranym 5:0 meczu z Minerą w 1/16 finału Pucharu Króla. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Minerą</title>
-        <link>https://www.realmadryt.pl/news/135541-ocen-pilkarzy-po-meczu-z-minera</link>
-        <pubDate>Mon, 06 Jan 2025 20:53:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
