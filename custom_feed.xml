@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Jan 2025 05:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 06:32:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Podeszliśmy poważnie do tego meczu</title>
+        <link>https://www.realmadryt.pl/news/135545-ancelotti-podeszlismy-powaznie-do-tego-meczu</link>
+        <pubDate>Tue, 07 Jan 2025 07:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po wygranej 5:0 z Minerą w Pucharze Króla. Przedstawiamy wypowiedzi trenera Królewskich.</description>
+    </item>
     
     <item>
         <title>Güler: Cieszę się, że mogłem się przyczynić do tego zwycięstwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135540-spokojny-wieczor-w-kartagenie</link>
         <pubDate>Mon, 06 Jan 2025 19:49:00 GMT</pubDate>
         <description>Real Madryt wygrał 5:0 z Deportivo Minera po bramkach Valverde, Camavingi, Modricia i dublecie Gülera.</description>
-    </item>
-    
-    <item>
-        <title>Minera – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/135538-minera-real-madryt-znamy-sklady</link>
-        <pubDate>Mon, 06 Jan 2025 17:18:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w starciu Pucharu Króla. Mecz rozpocznie się o godzinie 19:00 na Estadio Cartagonova.</description>
     </item>
     
 </channel>
