@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Jan 2025 20:40:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 20:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Radio Murcia: Piłkarze Minery okradzeni z koszulek Realu</title>
+        <link>https://www.realmadryt.pl/news/135579-radio-murcia-pilkarze-minery-okradzeni-z-koszulek-realu</link>
+        <pubDate>Tue, 07 Jan 2025 21:52:00 GMT</pubDate>
+        <description>Jak informuje lokalny oddział radia Cadena SER, ktoś wszedł do szatni Deportivy Minera i ukradł kilka koszulek Realu Madryt, które Królewscy wcześniej przekazali gospodarzom.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Arabii Saudyjskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135564-ostatni-trening-przed-wylotem-do-arabii-saudyjskiej</link>
         <pubDate>Tue, 07 Jan 2025 12:26:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Minerą</title>
-        <link>https://www.realmadryt.pl/news/135552-oceny-zawodnikow-po-meczu-z-minera</link>
-        <pubDate>Tue, 07 Jan 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał na wyjeździe z CD Minera 5:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
