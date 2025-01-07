@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Jan 2025 10:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 11:19:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Minerą</title>
+        <link>https://www.realmadryt.pl/news/135552-oceny-zawodnikow-po-meczu-z-minera</link>
+        <pubDate>Tue, 07 Jan 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z CD Minera 5:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Kadra Mallorki na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135556-gueler-ciesze-sie-ze-moglem-sie-przyczynic-do-tego-zwyciestwa</link>
         <pubDate>Tue, 07 Jan 2025 06:00:00 GMT</pubDate>
         <description>Arda Güler był bez wątpienia jednym z głównych bohaterów meczu z Deportivą Minera, w którym ustrzelił dublet. Po zakończeniu spotkania udzielił kilku wypowiedzi dla klubowych mediów.</description>
-    </item>
-    
-    <item>
-        <title>W środę losowanie 1/8 finału Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/135548-w-srode-losowanie-1-8-finalu-pucharu-krola</link>
-        <pubDate>Tue, 07 Jan 2025 05:00:00 GMT</pubDate>
-        <description>Real Madryt po wczorajszej wygranej z Minerą czeka już na rywali w kolejnej rundzie Copa del Rey.</description>
     </item>
     
 </channel>
