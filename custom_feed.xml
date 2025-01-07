@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Jan 2025 19:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 19:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Arabii Saudyjskiej</title>
+        <link>https://www.realmadryt.pl/news/135576-krolewscy-sa-juz-w-arabii-saudyjskiej</link>
+        <pubDate>Tue, 07 Jan 2025 20:48:00 GMT</pubDate>
+        <description>Drużyna Realu Madryt dotarła dzisiaj do Arabii Saudyjskiej, gdzie w czwartek rozegra półfinałowy mecz Superpucharu Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalny komunikat klubu w sprawie wyborów</title>
+        <link>https://www.realmadryt.pl/news/135575-oficjalny-komunikat-klubu-w-sprawie-wyborow</link>
+        <pubDate>Tue, 07 Jan 2025 20:39:00 GMT</pubDate>
+        <description>Klub wystosował oficjalny komunikat w sprawie wyborów.</description>
+    </item>
     
     <item>
         <title>Nerwowość Endricka</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135552-oceny-zawodnikow-po-meczu-z-minera</link>
         <pubDate>Tue, 07 Jan 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z CD Minera 5:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Mallorki na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/135562-kadra-mallorki-na-mecz-z-realem</link>
-        <pubDate>Tue, 07 Jan 2025 10:50:00 GMT</pubDate>
-        <description>Trener Mallorki ogłosił kadrę na Superpuchar Hiszpanii. Jagoba Arrasate zabiera do Arabii Saudyjskiej całą drużynę.</description>
-    </item>
-    
-    <item>
-        <title>Znamy nazwiska sędziów na Superpuchar Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/135550-znamy-nazwiska-sedziow-na-superpuchar-hiszpanii</link>
-        <pubDate>Tue, 07 Jan 2025 10:46:00 GMT</pubDate>
-        <description>38-letni sędzia z Kraju Basków poprowadzi najbliższy mecz Realu Madryt. Sędzią VAR będzie Daniel Trujillo Suárez. Dla Ricardo de Burgosa Bengoetxei będzie to 25. mecz z udziałem Królewskich.</description>
     </item>
     
 </channel>
