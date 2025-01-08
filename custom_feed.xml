@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Jan 2025 13:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 14:21:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historia Superpucharu Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/135604-historia-superpucharu-hiszpanii</link>
+        <pubDate>Wed, 08 Jan 2025 15:06:00 GMT</pubDate>
+        <description>Czterdziesta pierwszą edycja Superpucharu Hiszpanii rozpocznie się dziś wieczorem. Królewscy wkroczą do gry w czwartek.</description>
+    </item>
     
     <item>
         <title>Butragueño: Celta? To będzie bardzo wyrównany mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135592-200-zl-za-wygrana-realu-w-polfinale-superpucharu-hiszpanii</link>
         <pubDate>Wed, 08 Jan 2025 10:50:00 GMT</pubDate>
         <description>Artykuł sponsorowany</description>
-    </item>
-    
-    <item>
-        <title>SER: CSD zgodzi się na rejestrację Olmo i Paua Víctora, bo „Barcelona czuje się pokrzywdzona”</title>
-        <link>https://www.realmadryt.pl/news/135590-ser-csd-zgodzi-sie-na-rejestracje-olmo-i-paua-victora-bo-barcelona-czuje-sie-pokrzywdzona</link>
-        <pubDate>Wed, 08 Jan 2025 10:23:00 GMT</pubDate>
-        <description>Dziennikarz Manu Carreño w programie El Larguero w radiu SER przekazał argumenty, jakimi miała kierować się Wyższa Rada Sportu (CSD) przy udzieleniu Barcelonie natychmiastowego środka zapobiegawczego na rejestrację Daniego Olmo i Paua Víctora.</description>
     </item>
     
 </channel>
