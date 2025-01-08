@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Jan 2025 10:53:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 11:18:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga zgłasza obraźliwe przyśpiewki na Mestalli w dziesięciu momentach meczu z Realem</title>
+        <link>https://www.realmadryt.pl/news/135596-la-liga-zglasza-obrazliwe-przyspiewki-na-mestalli-w-dziesieciu-momentach-meczu-z-realem</link>
+        <pubDate>Wed, 08 Jan 2025 12:13:00 GMT</pubDate>
+        <description>Raport wskazuje, że obelgi pochodziły z tzw. trybuny kibiców, podczas gdy pozostali miejscowi kibice zachowywali „odpowiednie postawy”.</description>
+    </item>
     
     <item>
         <title>Relevo: Raúl awansował Aguado do Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135583-superpuchar-hiszpanii-bez-dogrywki</link>
         <pubDate>Wed, 08 Jan 2025 09:09:00 GMT</pubDate>
         <description>Jeśli po upływie regulaminowego czasu gry wynik pozostanie remisowy, zwycięzca zostanie wyłoniony bezpośrednio poprzez serię rzutów karnych.</description>
-    </item>
-    
-    <item>
-        <title>Wrócić na ligowe podium</title>
-        <link>https://www.realmadryt.pl/news/135578-wrocic-na-ligowe-podium</link>
-        <pubDate>Wed, 08 Jan 2025 08:18:00 GMT</pubDate>
-        <description>W zaległym spotkaniu 14. kolejki Ligi Endesa Real Madryt zagra z Granadą. Dla Królewskich jest to drugie z czterech spotkań w tym tygodniu. Ewentualna wygrana pozwoliłaby na powrót na trzecie miejsce w tabeli.</description>
     </item>
     
 </channel>
