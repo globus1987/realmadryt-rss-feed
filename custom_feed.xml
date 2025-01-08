@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Jan 2025 04:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 04:43:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ponadczasowy Luka Modrić</title>
+        <link>https://www.realmadryt.pl/news/135572-ponadczasowy-luka-modric</link>
+        <pubDate>Wed, 08 Jan 2025 05:30:00 GMT</pubDate>
+        <description>Geniusz z Zadaru okrasił golami dwa mecze, które jeszcze bardziej umacniają jego pozycję w historii Realu Madryt. W wieku 39 lat Chorwat gra więcej niż w poprzednim sezonie.</description>
+    </item>
     
     <item>
         <title>Euroliga przedłużyła kluczową umowę z IMG</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135571-nerwowosc-endricka</link>
         <pubDate>Tue, 07 Jan 2025 19:16:00 GMT</pubDate>
         <description>Endrick był o krok od podbicia Kartageny, ale ostatecznie opuścił ją pełen złości. Pomimo oddania sześciu strzałów jego imię nie znalazło się na liście zdobywców bramek. Brazylijczyk po miesiącu bez gry spędził na boisku 90 minut i widać było po nim, że chyba aż nadto chce się pokazać.</description>
-    </item>
-    
-    <item>
-        <title>Kim jest Diego Aguado?</title>
-        <link>https://www.realmadryt.pl/news/135570-kim-jest-diego-aguado</link>
-        <pubDate>Tue, 07 Jan 2025 18:24:00 GMT</pubDate>
-        <description>Szkółka Realu Madryt jest jedną z najbardziej prestiżowych na świecie. Dla wielu nawet najlepszą. Obecnie 191 graczy wychowanych w canterze występuje na profesjonalnym poziomie – 51 w La Lidze, 84 w zagranicznych ligach i 56 w Segundzie. Wciąż jednak największym wyzwaniem dla młodych zawodników jest zaczepienie się w pierwszym zespole Królewskich.</description>
     </item>
     
 </channel>
