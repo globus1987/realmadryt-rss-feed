@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Jan 2025 15:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 16:28:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sokół lata bez przerwy</title>
+        <link>https://www.realmadryt.pl/news/135607-sokol-lata-bez-przerwy</link>
+        <pubDate>Wed, 08 Jan 2025 17:08:00 GMT</pubDate>
+        <description>Fede Valverde jest najwięcej grającym piłkarzem Realu Madryt w tym sezonie i jedynym, który wybiegał na murawę w wyjściowej jedenastce we wszystkich dotychczasowych meczach.</description>
+    </item>
     
     <item>
         <title>Real w Arabii Saudyjskiej już bez Kroosa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135596-la-liga-zglasza-obrazliwe-przyspiewki-na-mestalli-w-dziesieciu-momentach-meczu-z-realem</link>
         <pubDate>Wed, 08 Jan 2025 12:13:00 GMT</pubDate>
         <description>Raport wskazuje, że obelgi pochodziły z tzw. trybuny kibiców, podczas gdy pozostali miejscowi kibice zachowywali „odpowiednie postawy”.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Raúl awansował Aguado do Castilli</title>
-        <link>https://www.realmadryt.pl/news/135594-relevo-raul-awansowal-aguado-do-castilli</link>
-        <pubDate>Wed, 08 Jan 2025 11:22:00 GMT</pubDate>
-        <description>Występ Diego Aguado w pierwszej drużynie Realu Madryt, jak informuje Relevo, miał przynieść także 17-latkowi awans z Juvenilu do Castilli.</description>
     </item>
     
 </channel>
