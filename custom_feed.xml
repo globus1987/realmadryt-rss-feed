@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Jan 2025 06:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 07:20:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wrócić na ligowe podium</title>
+        <link>https://www.realmadryt.pl/news/135578-wrocic-na-ligowe-podium</link>
+        <pubDate>Wed, 08 Jan 2025 08:18:00 GMT</pubDate>
+        <description>W zaległym spotkaniu 14. kolejki Ligi Endesa Real Madryt zagra z Granadą. Dla Królewskich jest to drugie z czterech spotkań w tym tygodniu. Ewentualna wygrana pozwoliłaby na powrót na trzecie miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Gdzie obejrzeć mecze Superpucharu Hiszpanii?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135576-krolewscy-sa-juz-w-arabii-saudyjskiej</link>
         <pubDate>Tue, 07 Jan 2025 20:48:00 GMT</pubDate>
         <description>Drużyna Realu Madryt dotarła dzisiaj do Arabii Saudyjskiej, gdzie w czwartek rozegra półfinałowy mecz Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat klubu w sprawie wyborów</title>
-        <link>https://www.realmadryt.pl/news/135575-oficjalny-komunikat-klubu-w-sprawie-wyborow</link>
-        <pubDate>Tue, 07 Jan 2025 20:39:00 GMT</pubDate>
-        <description>Klub wystosował oficjalny komunikat w sprawie wyborów.</description>
     </item>
     
 </channel>
