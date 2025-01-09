@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 Jan 2025 09:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 09:40:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt „szpiegował” wczoraj Barcelonę</title>
+        <link>https://www.realmadryt.pl/news/135633-real-madryt-szpiegowal-wczoraj-barcelone</link>
+        <pubDate>Thu, 09 Jan 2025 10:37:00 GMT</pubDate>
+        <description>Analitycy Królewskich uważnie obserwowali zwycięstwo Barcelony nad Athletikiem. Obecni byli również Jagoba Arrasate i jego sztab szkoleniowy.</description>
+    </item>
+    
+    <item>
+        <title>Narzekania patologicznego zwycięzcy</title>
+        <link>https://www.realmadryt.pl/news/135617-narzekania-patologicznego-zwyciezcy</link>
+        <pubDate>Thu, 09 Jan 2025 10:30:00 GMT</pubDate>
+        <description>Chcesz zdobywać dużo trofeów? Musisz rozgrywać dużo meczów. Taka nasza prawda futbolu na dziś.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 9 stycznia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135627-dzisiejsze-okladki</link>
         <pubDate>Thu, 09 Jan 2025 01:00:00 GMT</pubDate>
         <description>Wygrana Barcelony i mecz Realu to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 1/8 finału Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/135626-terminarz-1-8-finalu-pucharu-krola</link>
-        <pubDate>Thu, 09 Jan 2025 00:48:00 GMT</pubDate>
-        <description>Królewscy zmierzą się z Celtą Vigo już za tydzień na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Iñigo Martínez: Kilka lat temu otrzymałem karę czterech meczów za coś znacznie mniej poważnego niż Vinícius</title>
-        <link>https://www.realmadryt.pl/news/135625-inigo-martinez-kilka-lat-temu-otrzymalem-kare-czterech-meczow-za-cos-znacznie-mniej-powaznego-niz-vinicius</link>
-        <pubDate>Thu, 09 Jan 2025 00:41:00 GMT</pubDate>
-        <description>Iñigo Martínez rozmawiał z mediami po wygranej nad Athletikiem. Przedstawiamy najważniejsze wypowiedzi obrońcy Barcelony.</description>
     </item>
     
 </channel>
