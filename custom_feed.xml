@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 Jan 2025 22:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 23:21:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135664-dzisiejsze-okladki</link>
+        <pubDate>Fri, 10 Jan 2025 00:06:00 GMT</pubDate>
+        <description>Zbliżający się Klasyk to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Mallorca zagrała tak, jak musiała</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135649-nowe-wyzwanie-w-drodze-po-kolejne-trofeum-teraz-zaczyna-sie-to-co-najlepsze</link>
         <pubDate>Thu, 09 Jan 2025 17:38:00 GMT</pubDate>
         <description>Drużyna Ancelottiego zmierzy się z Mallorcą, walcząc o finał, który pozwoli im marzyć o zdobyciu trzeciego z siedmiu trofeów.</description>
-    </item>
-    
-    <item>
-        <title>Real chce jak najszybciej odpędzić Saudyjczyków od Viniciusa</title>
-        <link>https://www.realmadryt.pl/news/135648-real-chce-jak-najszybciej-odpedzic-saudyjczykow-od-viniciusa</link>
-        <pubDate>Thu, 09 Jan 2025 17:29:00 GMT</pubDate>
-        <description>Nowy kontrakt dla Vinicusa będzie jednym z bardziej palących tematów w pierwszej połowie tego roku. Real chce zaproponować Brazylijczykowi lepsze warunki umowy, a do pierwszych kontaktów w tej sprawie doszło latem poprzedniego roku, zapewnia Relevo.</description>
     </item>
     
 </channel>
