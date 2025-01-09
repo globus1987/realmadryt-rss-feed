@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 Jan 2025 07:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 08:28:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarze po ćwierć wieku wyprzedzili Barcelonę</title>
+        <link>https://www.realmadryt.pl/news/135622-koszykarze-po-cwierc-wieku-wyprzedzili-barcelone</link>
+        <pubDate>Thu, 09 Jan 2025 09:09:00 GMT</pubDate>
+        <description>Real Madryt stopniowo odzyskuje równowagę po chwiejnym początku sezonu. Tego samego o sobie nie może powiedzieć Barcelona, która została przez Królewskich prześcignięta również pod względem procentu zwycięstw w historii Ligi ACB.</description>
+    </item>
+    
+    <item>
+        <title>Real myśli nad pozyskaniem Alana Godoya</title>
+        <link>https://www.realmadryt.pl/news/135629-real-mysli-nad-pozyskaniem-alana-godoya</link>
+        <pubDate>Thu, 09 Jan 2025 08:55:00 GMT</pubDate>
+        <description>Zespół rezerw jest zagrożony spadkiem, a klub chce zrobić wszystko, co w jego mocy, aby go uniknąć. Dlatego negocjuje pozyskanie napastnika Eldense.</description>
+    </item>
     
     <item>
         <title>Zidane o krok od spełnienia marzenia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135619-krolewskie-gromia-na-di-stefano</link>
         <pubDate>Wed, 08 Jan 2025 22:41:00 GMT</pubDate>
         <description>W zaległym meczu 8. kolejki Ligi F piłkarki Realu Madryt pokonały na Estadio Alfredo Di Stéfano Levante 6:0. Dwie bramki dla Królewskich zdobyła Athenea del Castillo, a po jednej dołożyły Alba Redondo, Teresa Abelleira, Signe Bruun i Caroline Møller.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat La Ligi w sprawie decyzji CSD o przyznaniu środka zapobiegawczego na rejestrację graczy Barçy</title>
-        <link>https://www.realmadryt.pl/news/135618-oficjalny-komunikat-la-ligi-w-sprawie-decyzji-csd-o-przyznaniu-srodka-zapobiegawczego-na-rejestracje-graczy-barcy</link>
-        <pubDate>Wed, 08 Jan 2025 20:39:00 GMT</pubDate>
-        <description>La Liga wyraża „całkowite niezadowolenie”.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: CSD przyznała środek zapobiegawczy na rejestrację Daniego Olmo i Pau Victora</title>
-        <link>https://www.realmadryt.pl/news/135615-oficjalnie-csd-przyznala-srodek-zapobiegawczy-na-rejestracje-daniego-olmo-i-pau-victora</link>
-        <pubDate>Wed, 08 Jan 2025 19:05:00 GMT</pubDate>
-        <description>Obaj piłkarze będą mogli zagrać w najbliższym spotkaniu Katalończyków, ale przegapią jeszcze dzisiejszy mecz z Athletikiem.</description>
     </item>
     
 </channel>
