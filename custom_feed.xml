@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Jan 2025 23:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 02:19:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135627-dzisiejsze-okladki</link>
+        <pubDate>Thu, 09 Jan 2025 01:00:00 GMT</pubDate>
+        <description>Wygrana Barcelony i mecz Realu to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Terminarz 1/8 finału Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135611-oficjalnie-lamini-fati-pilkarzem-realu-madryt</link>
         <pubDate>Wed, 08 Jan 2025 18:34:00 GMT</pubDate>
         <description>Leganés potwierdziło transfer 18-latka do Realu Madryt. Obrońca ma rozpocząć swoją karierę od trzeciego zespołu Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy trenowali w Dżuddzie</title>
-        <link>https://www.realmadryt.pl/news/135610-krolewscy-trenowali-w-dzuddzie</link>
-        <pubDate>Wed, 08 Jan 2025 18:21:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
