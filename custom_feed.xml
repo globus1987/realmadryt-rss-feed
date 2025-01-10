@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 Jan 2025 10:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 11:19:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/135667-oceny-zawodnikow-po-meczu-z-mallorca</link>
+        <pubDate>Fri, 10 Jan 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał w półfinale Superpucharu Hiszpanii z Mallorcą 3:0 Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Alphonso Davies w najbliższych dniach może przedłużyć kontrakt z Bayernem</title>
+        <link>https://www.realmadryt.pl/news/135675-alphonso-davies-w-najblizszych-dniach-moze-przedluzyc-kontrakt-z-bayernem</link>
+        <pubDate>Fri, 10 Jan 2025 11:57:00 GMT</pubDate>
+        <description>Wszystko wskazuje na to, że Kanadyjczyk ostatecznie nie trafi do Madrytu.</description>
+    </item>
     
     <item>
         <title>Foot Mercato: City doszło do porozumienia z Lens ws. Chusanowa</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135662-lucas-dominowalismy-od-poczatku-do-konca</link>
         <pubDate>Fri, 10 Jan 2025 07:30:00 GMT</pubDate>
         <description>Lucas Vázquez udzielił wywiadu klubowej telewizji po wygranym 3:0 meczu z Mallorcą w Superpucharze Hiszpanii. Przedstawiamy wypowiedzi piłkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Dziękuję Lucasowi za asystę, była perfekcyjna</title>
-        <link>https://www.realmadryt.pl/news/135659-rodrygo-dziekuje-lucasowi-za-asyste-byla-perfekcyjna</link>
-        <pubDate>Fri, 10 Jan 2025 05:30:00 GMT</pubDate>
-        <description>Rodrygo udzielił wywiadu klubowej telewizji po wygranym 3:0 meczu z Mallorcą w Superpucharze Hiszpanii. Przedstawiamy wypowiedzi atakującego Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 3:0 Mallorca [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/135666-real-madryt-3-0-mallorca-video</link>
-        <pubDate>Fri, 10 Jan 2025 00:49:00 GMT</pubDate>
-        <description>W półfinale Superpucharu Hiszpanii Real Madryt pokonał Mallorcę 3:0 po trafieniach Jude'a Bellinghama i Rodrygo Goesa oraz golu samobójczym Martina Valjenta.</description>
     </item>
     
 </channel>
