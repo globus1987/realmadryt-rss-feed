@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 Jan 2025 08:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 08:46:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mascarell: Jesteśmy rodziną i bronimy Maffeo na śmierć</title>
+        <link>https://www.realmadryt.pl/news/135668-mascarell-jestesmy-rodzina-i-bronimy-maffeo-na-smierc</link>
+        <pubDate>Fri, 10 Jan 2025 09:39:00 GMT</pubDate>
+        <description>Omar Mascarell, pomocnik Mallorki, który wychowywał się w Realu Madryt, rozmawiał z dziennikarzami w strefie mieszanej po przegranym 0:3 półfinale Superpucharu Hiszpanii z Królewskimi. Przedstawiamy wypowiedzi zawodnika.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 10 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135657-ocen-pilkarzy-po-meczu-z-mallorca</link>
         <pubDate>Thu, 09 Jan 2025 21:57:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat Atlético ws. decyzji CSD o przyznaniu środka zapobiegawczego na rejestrację graczy Barçy</title>
-        <link>https://www.realmadryt.pl/news/135656-oficjalny-komunikat-atletico-ws-decyzji-csd-o-przyznaniu-srodka-zapobiegawczego-na-rejestracje-graczy-barcy</link>
-        <pubDate>Thu, 09 Jan 2025 21:33:00 GMT</pubDate>
-        <description>Kolejny klub ustosunkował się publicznie do wczorajszej decyzji Wyższej Rady Sportu.</description>
     </item>
     
 </channel>
