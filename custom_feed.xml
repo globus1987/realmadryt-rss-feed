@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 Jan 2025 09:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 09:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arrasate: Rywalizowaliśmy godnie</title>
+        <link>https://www.realmadryt.pl/news/135673-arrasate-rywalizowalismy-godnie</link>
+        <pubDate>Fri, 10 Jan 2025 10:50:00 GMT</pubDate>
+        <description>Jagoba Arrasate, szkoleniowiec Mallorki, spotkał się z dziennikarzami na konferencji prasowej po przegranym półfinale Superpucharu Hiszpanii z Realem Madryt. Przedstawiamy wypowiedzi baskijskiego trenera.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Valverde i Bellingham mogli doznać przeciążeń przez temperaturę</title>
+        <link>https://www.realmadryt.pl/news/135672-ancelotti-valverde-i-bellingham-mogli-doznac-przeciazen-przez-temperature</link>
+        <pubDate>Fri, 10 Jan 2025 10:44:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu Movistar+ po półfinale Superpucharu Hiszpanii z Mallorcą. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Dani Rodríguez: Zachęcam Asencio, żeby nauczył się wygrywać, bo jest tu tylko od dwóch dni</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135664-dzisiejsze-okladki</link>
         <pubDate>Fri, 10 Jan 2025 00:06:00 GMT</pubDate>
         <description>Zbliżający się Klasyk to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Mallorca zagrała tak, jak musiała</title>
-        <link>https://www.realmadryt.pl/news/135663-ancelotti-mallorca-zagrala-tak-jak-musiala</link>
-        <pubDate>Thu, 09 Jan 2025 23:11:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w konferencji prasowej po wygranym półfinale Superpucharu Hiszpanii z Mallorcą. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham i Valverde zakończyli półfinał z przeciążeniami mięśniowymi</title>
-        <link>https://www.realmadryt.pl/news/135661-bellingham-i-valverde-zakonczyli-polfinal-z-przeciazeniami-miesniowymi</link>
-        <pubDate>Thu, 09 Jan 2025 22:38:00 GMT</pubDate>
-        <description>Występ obu pomocników w finale stoi pod znakiem zapytania.</description>
     </item>
     
 </channel>
