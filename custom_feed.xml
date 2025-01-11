@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 Jan 2025 08:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 08:42:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Benzema: Powiedziałem Viníciusowi, żeby się nie przejmował, bo jest najlepszy na świecie</title>
+        <link>https://www.realmadryt.pl/news/135706-benzema-powiedzialem-viniciusowi-zeby-sie-nie-przejmowal-bo-jest-najlepszy-na-swiecie</link>
+        <pubDate>Sat, 11 Jan 2025 09:30:00 GMT</pubDate>
+        <description>Karim Benzema udzielił wywiadu dziennikowi MARCA. Francuz mówił głównie o sprawach bieżących.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 stycznia</title>
+        <link>https://www.realmadryt.pl/news/135697-kartka-z-kalendarza-11-stycznia</link>
+        <pubDate>Sat, 11 Jan 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny byłego i obecnego zawodnika, wysoka wygrana z Las Palmas i odejście angielskiego gwiazdora. Co działo się 11 stycznia?</description>
+    </item>
     
     <item>
         <title>300 zł za wytypowanie zwycięzcy Klasyku!</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135692-camavinga-konczy-debate</link>
         <pubDate>Fri, 10 Jan 2025 17:44:00 GMT</pubDate>
         <description>Na początku 2025 roku Eduardo Camavinga powoli wraca na pozycję defensywnego pomocnika. Francuz właśnie tam czuje się najlepiej i w meczu z Mallorcą pokazał swoją najlepszą wersję.</description>
-    </item>
-    
-    <item>
-        <title>Jacobo Ramón wraca po kontuzji</title>
-        <link>https://www.realmadryt.pl/news/135691-jacobo-ramon-wraca-po-kontuzji</link>
-        <pubDate>Fri, 10 Jan 2025 17:36:00 GMT</pubDate>
-        <description>Wychowanek doszedł do siebie i może wystąpić w meczu Castilli z Alcoyano.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy rozpoczęli przygotowania do Klasyku w Dżuddzie</title>
-        <link>https://www.realmadryt.pl/news/135690-krolewscy-rozpoczeli-przygotowania-do-klasyku-w-dzuddzie</link>
-        <pubDate>Fri, 10 Jan 2025 17:16:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczękli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
