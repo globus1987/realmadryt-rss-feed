@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 Jan 2025 08:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 08:55:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cisza, która mówi wiele</title>
+        <link>https://www.realmadryt.pl/news/135708-cisza-ktora-mowi-wiele</link>
+        <pubDate>Sat, 11 Jan 2025 09:53:00 GMT</pubDate>
+        <description>„Nie będziemy rozmawiać na ten temat” – tak Lucas Vázquez po półfinale Superpucharu odpowiedział na pytanie o rejestrację zawodnika Barcelony.</description>
+    </item>
+    
+    <item>
+        <title>Prezes Sevilli: Real podporządkował się Barcelonie, a Barcelona podporządkowała się Realowi</title>
+        <link>https://www.realmadryt.pl/news/135707-prezes-sevilli-real-podporzadkowal-sie-barcelonie-a-barcelona-podporzadkowala-sie-realowi</link>
+        <pubDate>Sat, 11 Jan 2025 09:49:00 GMT</pubDate>
+        <description>José María del Nido Carrasco po zakończeniu Walnego Zgromadzenia Akcjonariuszy Sevilli rozmawiał z mediami.</description>
+    </item>
     
     <item>
         <title>Benzema: Powiedziałem Viníciusowi, żeby się nie przejmował, bo jest najlepszy na świecie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135695-wysokie-zwyciestwo-w-kownie</link>
         <pubDate>Fri, 10 Jan 2025 21:52:00 GMT</pubDate>
         <description>W 20. kolejce Euroligi Real Madryt wysoko wygrał z Žalgirisem, przedłużając dobrą passę. Królewscy zdołali odrobić straty z pierwszego spotkania i mają przewagę bezpośrednich pojedynków z każdą drużyną, z którą się mierzyli w rundzie rewanżowej (Alba Berlin, Bayern Monachium, Žalgiris.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 19. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/135693-telewizyjny-terminarz-19-kolejki-la-ligi</link>
-        <pubDate>Fri, 10 Jan 2025 20:31:00 GMT</pubDate>
-        <description>Królewscy rozegrali już awansem swoje spotkanie z tej kolejki La Ligi, ale też spojrzą na zmagania w Hiszpanii, bo mogą stracić pozycję lidera.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga kończy debatę</title>
-        <link>https://www.realmadryt.pl/news/135692-camavinga-konczy-debate</link>
-        <pubDate>Fri, 10 Jan 2025 17:44:00 GMT</pubDate>
-        <description>Na początku 2025 roku Eduardo Camavinga powoli wraca na pozycję defensywnego pomocnika. Francuz właśnie tam czuje się najlepiej i w meczu z Mallorcą pokazał swoją najlepszą wersję.</description>
     </item>
     
 </channel>
