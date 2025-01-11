@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 Jan 2025 06:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 06:58:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alaba: Muszę dołożyć ten ostatni procencik</title>
+        <link>https://www.realmadryt.pl/news/135699-alaba-musze-dolozyc-ten-ostatni-procencik</link>
+        <pubDate>Sat, 11 Jan 2025 07:50:00 GMT</pubDate>
+        <description>David Alaba zaczął odbywać pełne treningi z grupą. Po piątkowej sesji porozmawiał z Real Madrid TV. Przedstawiamy tłumaczenie tej rozmowy.</description>
+    </item>
     
     <item>
         <title>ESPN: Vinícius chce kupić sobie klub</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135689-relevo-asencio-jest-juz-tylko-swiadkiem-w-aferze-seksualnej-z-udzialem-wychowankow-realu</link>
         <pubDate>Fri, 10 Jan 2025 16:11:00 GMT</pubDate>
         <description>Sędzia prowadzący śledztwo orzekł, że środkowy obrońca nie jest zamieszany w sprawę i, o ile nie wydarzy się coś zaskakującego, nie stanie przed sądem.</description>
-    </item>
-    
-    <item>
-        <title>Illarramendi: W Realu Madryt czułem, że tracę wiarę w siebie</title>
-        <link>https://www.realmadryt.pl/news/135688-illarramendi-w-realu-madryt-czulem-ze-trace-wiare-w-siebie</link>
-        <pubDate>Fri, 10 Jan 2025 15:55:00 GMT</pubDate>
-        <description>34-latek, pozostający obecnie bez klubu po wygaśnięciu jego umowy z FC Dallas, w wywiadzie dla Relevo podsumowywał swoją piłkarską karierę. Przedstawiamy, co miał do powiedzenia o dwuletnim (2013-2015) nieudanym okresie w barwach Realu Madryt.</description>
     </item>
     
 </channel>
