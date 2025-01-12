@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 13:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 13:29:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyciągnąć wnioski z październikowych błędów</title>
+        <link>https://www.realmadryt.pl/news/135745-wyciagnac-wnioski-z-pazdziernikowych-bledow</link>
+        <pubDate>Sun, 12 Jan 2025 14:21:00 GMT</pubDate>
+        <description>Choć okoliczności są inne, a od października upłynęło dużo wody w Wiśle, trudno choć w jakimś stopniu nie postrzegać wieczornego finału Superpucharu Hiszpanii w kategoriach rewanżu za sromotną klęskę na Bernabéu. Coś do udowodnienia będzie miał zwłaszcza jeden zawodnik Królewskich.</description>
+    </item>
     
     <item>
         <title>Wilk w owczej skórze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135735-federacja-nie-otworzy-postepowania-wobec-laporty</link>
         <pubDate>Sun, 12 Jan 2025 10:03:00 GMT</pubDate>
         <description>Prezes Barcelony nie zostanie pociągnięty do odpowiedzialności za swoje zachowanie przed półfinałowym meczem Superpucharu Hiszpanii. Z kolei nowy prezes Federacji przedstawił pierwsze plany na swoją kadencję.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 12 stycznia</title>
-        <link>https://www.realmadryt.pl/news/135698-kartka-z-kalendarza-12-stycznia</link>
-        <pubDate>Sun, 12 Jan 2025 10:00:00 GMT</pubDate>
-        <description>Urodziny byłych piłkarzy, pierwszy mecz reprezentacji po wojnie domowej, porażka z Atlético, trzecia Złota Piłka Cristiano Ronaldo, finał Superpucharu pod znakiem faulu Valverde i skutecznie wykonywanych jedenastek oraz wygrana z Barceloną w pierwszym Klasyku Xaviego. Co działo się 12 stycznia?</description>
     </item>
     
 </channel>
