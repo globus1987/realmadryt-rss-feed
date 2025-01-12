@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 18:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 18:56:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – FC Barcelona [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/135752-real-madryt-fc-barcelona-live</link>
+        <pubDate>Sun, 12 Jan 2025 19:55:00 GMT</pubDate>
+        <description>Od 20:00 polskiego czasu trwa finał Superpucharu Hiszpanii, w którym Real Madryt mierzy się z FC Barcelona.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Dobra obrona jest kluczowa w finałach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135742-gil-manzano-sedziowie-sa-zjednoczeni-bardziej-niz-kiedykolwiek-pomimo-napietej-atmosfery</link>
         <pubDate>Sun, 12 Jan 2025 13:11:00 GMT</pubDate>
         <description>Hiszpańska Federacja opublikowała wideo, w którym przed finałem Superpucharu Hiszpanii wypowiedział się jego arbiter główny. Gil Manzano do tej pory prowadził trzy spotkania Realu z Barceloną i w każdym górą byli Królewscy.</description>
-    </item>
-    
-    <item>
-        <title>Odkupienie Mbbapé</title>
-        <link>https://www.realmadryt.pl/news/135740-odkupienie-mbbape</link>
-        <pubDate>Sun, 12 Jan 2025 12:56:00 GMT</pubDate>
-        <description>Kylian Mbappé rozegrał już w barwach Realu Madryt dwa finały i w obu trafiał do siatki. Dzisiaj Francuz zmierzy się z Barceloną i chce zrewanżować się za ostatni ligowy Klasyk, w którym aż osiem razy łapano go na spalonym.</description>
     </item>
     
 </channel>
