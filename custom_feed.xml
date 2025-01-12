@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 09:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 09:38:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hansi Flick specjalistą od finałów</title>
+        <link>https://www.realmadryt.pl/news/135737-hansi-flick-specjalista-od-finalow</link>
+        <pubDate>Sun, 12 Jan 2025 10:35:00 GMT</pubDate>
+        <description>Z Bayernem wygrał pięć z pięciu meczów o puchar. Dziś zacznie pisać swoją historię finałów w Barcelonie.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius: To nasz najlepszy czas w sezonie</title>
+        <link>https://www.realmadryt.pl/news/135736-vinicius-to-nasz-najlepszy-czas-w-sezonie</link>
+        <pubDate>Sun, 12 Jan 2025 10:24:00 GMT</pubDate>
+        <description>Królewscy pokazali kulisy z ostatniego treningu przed dzisiejszym finałem Superpucharu Hiszpanii. Zawiera on przedmeczową rozmowę z Viníciusem Júniorem.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: Nasza mentalność pomaga nam przetrwać ten miesiąc</title>
+        <link>https://www.realmadryt.pl/news/135734-mateo-nasza-mentalnosc-pomaga-nam-przetrwac-ten-miesiac</link>
+        <pubDate>Sun, 12 Jan 2025 10:24:00 GMT</pubDate>
+        <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Tenerife w Lidze Endesa. Chwalił rywala i wspomniał o tym, że mentalność pomaga jego drużynie przetrwać ten trudny okres z wieloma meczami.</description>
+    </item>
     
     <item>
         <title>Federacja nie otworzy postępowania wobec Laporty</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/135733-dzisiejsze-okladki</link>
         <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
         <description>Finał Superpucharu Hiszpanii to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo Castilli na początek roku</title>
-        <link>https://www.realmadryt.pl/news/135732-zwyciestwo-castilli-na-poczatek-roku</link>
-        <pubDate>Sat, 11 Jan 2025 23:11:00 GMT</pubDate>
-        <description>W 19. kolejce Primera Federación Castilla pokonała Alcoyano po dublecie Víctora Muñoza. Królewscy tym pozytywnym akcentem zakończyli pierwszą serię gier i mają przy tym szansę, by po raz pierwszy w tym sezonie opuścić strefę spadkową.</description>
-    </item>
-    
-    <item>
-        <title>Florentino Pérez dotarł do Dżuddy</title>
-        <link>https://www.realmadryt.pl/news/135728-florentino-perez-dotarl-do-dzuddy</link>
-        <pubDate>Sat, 11 Jan 2025 21:15:00 GMT</pubDate>
-        <description>Prezes Królewskich dołączył do drużyny przed finałem Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Mogliśmy uniknąć tej sytuacji, gdybyśmy poprawnie stosowali przepisy</title>
-        <link>https://www.realmadryt.pl/news/135725-laporta-moglismy-uniknac-tej-sytuacji-gdybysmy-poprawnie-stosowali-przepisy</link>
-        <pubDate>Sat, 11 Jan 2025 20:07:00 GMT</pubDate>
-        <description>Prezes Realu Madryt ostatecznie nie pojawił się na przyjęciu w hiszpańskim konsulacie w Dżuddzie. Głos zabrał za to prezes Barcelony.</description>
     </item>
     
 </channel>
