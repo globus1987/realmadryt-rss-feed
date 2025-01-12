@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 09:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 10:21:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Utrzymać się na podium</title>
+        <link>https://www.realmadryt.pl/news/135738-utrzymac-sie-na-podium</link>
+        <pubDate>Sun, 12 Jan 2025 11:18:00 GMT</pubDate>
+        <description>W 16. kolejce Ligi Endesa Real Madryt podejmie Tenerife. Będzie to spotkanie, którego stawką jest trzecie miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Hansi Flick specjalistą od finałów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135730-real-madryt-barcelona-przewidywane-sklady</link>
         <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
         <description>Królewscy podchodzą do finału Superpucharu Hiszpanii bez kontuzjowanych Daniego Carvajala, Édera Militão i Jesúsa Vallejo. Media spodziewają się powtórek jedenastek z meczów półfinałowych.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135733-dzisiejsze-okladki</link>
-        <pubDate>Sun, 12 Jan 2025 00:00:00 GMT</pubDate>
-        <description>Finał Superpucharu Hiszpanii to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
