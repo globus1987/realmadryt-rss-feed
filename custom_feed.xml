@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 07:18:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 07:38:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak Real radzi sobie z Barceloną w finałach Superpucharu Hiszpanii?</title>
+        <link>https://www.realmadryt.pl/news/135712-jak-real-radzi-sobie-z-barcelona-w-finalach-superpucharu-hiszpanii</link>
+        <pubDate>Sun, 12 Jan 2025 08:20:00 GMT</pubDate>
+        <description>W niedzielę po raz kolejny Los Blancos zmierzą się z Blaugraną w walce o Superpuchar Hiszpanii. Do tej pory zwykle byli górą w tego typu rywalizacji.</description>
+    </item>
     
     <item>
         <title>300 zł za zwycięską drużynę w Klasyku plus bonus za paradę Szczęsnego!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135720-czy-bellingham-valverde-i-modric-trenuja-z-druzyna-video</link>
         <pubDate>Sat, 11 Jan 2025 15:50:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed niedzielnym starciem z Barceloną w finale Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Florentino spotka się dziś z Laportą: „Nasze relacje z Realem Madryt są świetne i zawsze takie będą”</title>
-        <link>https://www.realmadryt.pl/news/135721-florentino-spotka-sie-dzis-z-laporta-nasze-relacje-z-realem-madryt-sa-swietne-i-zawsze-takie-beda</link>
-        <pubDate>Sat, 11 Jan 2025 15:49:00 GMT</pubDate>
-        <description>Prezesi Realu Madryt i Barcelony spotykają się w Dżuddzie w tygodniu naznaczonym pilnym środkiem zapobiegawczym wobec Barcelony w sprawie Olmo i Paua Víctora.</description>
     </item>
     
 </channel>
