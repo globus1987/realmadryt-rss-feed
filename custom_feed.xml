@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 08:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 08:54:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>(Nie)kosmiczny mecz</title>
+        <link>https://www.realmadryt.pl/news/135731-nie-kosmiczny-mecz</link>
+        <pubDate>Sun, 12 Jan 2025 09:43:00 GMT</pubDate>
+        <description>Kategoria: badania kosmosu.</description>
+    </item>
     
     <item>
         <title>Real Madrid TV o arbitrze na Klasyk: Sędzia z największego skandalu ostatnich czasów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135723-ser-real-nie-zamierza-sie-licytowac-z-bayernem-ws-alphonso-daviesa</link>
         <pubDate>Sat, 11 Jan 2025 16:19:00 GMT</pubDate>
         <description>Królewscy pozostają w kontrakcie z agentem piłkarza, ale nie zamierzają proponować więcej pieniędzy, niż już zaoferowali.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Trener bronił drużyny, a moja żona mnie</title>
-        <link>https://www.realmadryt.pl/news/135722-valverde-trener-bronil-druzyny-a-moja-zona-mnie</link>
-        <pubDate>Sat, 11 Jan 2025 16:12:00 GMT</pubDate>
-        <description>Federico Valverde wziął udział w konferencji prasowej przed finałem Superpucharu Hiszpanii z Barceloną. Przedstawiamy zapis tego spotkania pomocnika Realu Madryt z dziennikarzami w ośrodku Króla Abdullaha.</description>
     </item>
     
 </channel>
