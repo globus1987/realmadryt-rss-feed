@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Jan 2025 22:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 23:20:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135762-dzisiejsze-okladki</link>
+        <pubDate>Mon, 13 Jan 2025 00:15:00 GMT</pubDate>
+        <description>Wygrana Barcelony nad Realem Madryt to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Lewandowski: Graliśmy dobrze od pierwszej minuty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135748-pilkarki-pokonuja-granade</link>
         <pubDate>Sun, 12 Jan 2025 18:35:00 GMT</pubDate>
         <description>W meczu 14. kolejki Ligi F piłkarki Realu Madryt pokonały na Estadio Alfredo Di Stéfano Granadę 3:1. Bramki dla Królewskich zdobywał Maëlle Lakrar, Signe Bruun i Eva Navarro.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – FC Barcelona: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/135746-real-madryt-fc-barcelona-znamy-sklady</link>
-        <pubDate>Sun, 12 Jan 2025 17:16:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w finale Superpucharu Hiszpanii. Spotkanie rozpocznie się o godzinie 20:00 na King Abdullah Sports City w Arabii Saudyjskiej.</description>
     </item>
     
 </channel>
