@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Jan 2025 10:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 10:43:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Malutcy przeciwko wielkim</title>
+        <link>https://www.realmadryt.pl/news/135771-malutcy-przeciwko-wielkim</link>
+        <pubDate>Mon, 13 Jan 2025 11:28:00 GMT</pubDate>
+        <description>Real Madryt rozegrał w tym sezonie 6 spotkań z historycznymi przeciwnikami i nie był w stanie wygrać z żadnym z nich. Z Barceloną, którą w poprzednim sezonie pokonał 3 razy, stracił 9 bramek w dwóch meczach.</description>
+    </item>
     
     <item>
         <title>Powrót na Bernabéu na trzy mecze z rzędu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135762-dzisiejsze-okladki</link>
         <pubDate>Mon, 13 Jan 2025 00:15:00 GMT</pubDate>
         <description>Wygrana Barcelony nad Realem Madryt to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Lewandowski: Graliśmy dobrze od pierwszej minuty</title>
-        <link>https://www.realmadryt.pl/news/135758-lewandowski-gralismy-dobrze-od-pierwszej-minuty</link>
-        <pubDate>Sun, 12 Jan 2025 23:24:00 GMT</pubDate>
-        <description>Robert Lewandowski udzielił wywiadu dla telewizji Movistar+ po wygranym 5:2 finale Superpucharu Hiszpanii z Realem Madryt. Przedstawiamy kompletne wypowiedzi Polaka, autora drugiej bramki dla Dumy Katalonii w tym meczu.</description>
     </item>
     
 </channel>
