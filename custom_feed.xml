@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Jan 2025 09:54:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 10:25:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Powrót na Bernabéu na trzy mecze z rzędu</title>
+        <link>https://www.realmadryt.pl/news/135770-powrot-na-bernabeu-na-trzy-mecze-z-rzedu</link>
+        <pubDate>Mon, 13 Jan 2025 11:23:00 GMT</pubDate>
+        <description>Po serii spotkań poza Bernabéu Real Madryt wróci do swojego domu. Najbliższe trzy mecze Królewscy rozegrają u siebie.</description>
+    </item>
     
     <item>
         <title>„Dzień, w którym Real przegrał z Barçą dwa razy w tym samym meczu”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135758-lewandowski-gralismy-dobrze-od-pierwszej-minuty</link>
         <pubDate>Sun, 12 Jan 2025 23:24:00 GMT</pubDate>
         <description>Robert Lewandowski udzielił wywiadu dla telewizji Movistar+ po wygranym 5:2 finale Superpucharu Hiszpanii z Realem Madryt. Przedstawiamy kompletne wypowiedzi Polaka, autora drugiej bramki dla Dumy Katalonii w tym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:5 Barcelona [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/135757-real-madryt-2-5-barcelona-video</link>
-        <pubDate>Sun, 12 Jan 2025 23:02:00 GMT</pubDate>
-        <description>W finale Superpucharu Hiszpanii Real Madryt przegrał z FC Barcelona 2:5. Bramki dla Królewskich zdobyli Kylian Mbappé i Rodrygo Goes.</description>
     </item>
     
 </channel>
