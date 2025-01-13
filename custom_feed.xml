@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Jan 2025 07:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 07:38:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze otrzymali dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/135765-pilkarze-otrzymali-dzien-wolny</link>
+        <pubDate>Mon, 13 Jan 2025 08:37:00 GMT</pubDate>
+        <description>Drużyna wylądowała w Madrycie nad ranem i otrzymała dzień wolny. Kolejny mecz rozegra w czwartek.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Broniliśmy źle i Barcelona zasłużyła na zwycięstwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135752-barca-miazdzy-real-po-raz-kolejny</link>
         <pubDate>Sun, 12 Jan 2025 19:55:00 GMT</pubDate>
         <description>W finale Superpucharu Hiszpanii Real Madryt przegrał z FC Barcelona 2:5.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Dobra obrona jest kluczowa w finałach</title>
-        <link>https://www.realmadryt.pl/news/135751-ancelotti-dobra-obrona-jest-kluczowa-w-finalach</link>
-        <pubDate>Sun, 12 Jan 2025 19:25:00 GMT</pubDate>
-        <description>Carlo Ancelotti udzielił wywiadu telewizji Movistar+ po przyjeździe na stadion na finał Superpucharu Hiszpanii z Barceloną. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na King Abdullah Sports City.</description>
     </item>
     
 </channel>
