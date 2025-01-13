@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Jan 2025 10:56:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 11:19:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/135768-oceny-zawodnikow-po-meczu-z-barcelona</link>
+        <pubDate>Mon, 13 Jan 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt przegrał w finale Superpucharu Hiszpanii z Barceloną 2:5 Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Malutcy przeciwko wielkim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135761-modric-jesli-trzeba-wybrac-jakis-final-do-przegrania-to-wolimy-wybrac-ten</link>
         <pubDate>Mon, 13 Jan 2025 07:00:00 GMT</pubDate>
         <description>Luka Modrić zatrzymał się w strefie mieszanej po finale Superpucharu Hiszpanii z Barceloną. Przedstawiamy wypowiedzi kapitana Realu Madryt z tego spotkania z dziennikarzami na King Abdullah Sports City.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135762-dzisiejsze-okladki</link>
-        <pubDate>Mon, 13 Jan 2025 00:15:00 GMT</pubDate>
-        <description>Wygrana Barcelony nad Realem Madryt to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
