@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Jan 2025 13:42:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 13:55:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Ancelotti znowu stoi nad przepaścią</title>
+        <link>https://www.realmadryt.pl/news/135772-relevo-ancelotti-znowu-stoi-nad-przepascia</link>
+        <pubDate>Mon, 13 Jan 2025 14:52:00 GMT</pubDate>
+        <description>Kolejny pogrom ze strony Barcelony stawia nowe znaki zapytania w sprawie przyszłości Włocha, stwierdza Relevo. W tym sezonie trener uratował już dwie piłki meczowe.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Barceloną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135763-as-mbappe-musial-radzic-sobie-sam</link>
         <pubDate>Mon, 13 Jan 2025 07:08:00 GMT</pubDate>
         <description>Francuski gwiazdor strzelił gola, wywalczył czerwoną kartkę i był koszmarem dla Barçy. Nawet z kontuzją kostki wciąż nękał Balde, Koundé, Araújo... Nikt za nim nie nadążał.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Jeśli trzeba wybrać jakiś finał do przegrania, to wolimy wybrać ten</title>
-        <link>https://www.realmadryt.pl/news/135761-modric-jesli-trzeba-wybrac-jakis-final-do-przegrania-to-wolimy-wybrac-ten</link>
-        <pubDate>Mon, 13 Jan 2025 07:00:00 GMT</pubDate>
-        <description>Luka Modrić zatrzymał się w strefie mieszanej po finale Superpucharu Hiszpanii z Barceloną. Przedstawiamy wypowiedzi kapitana Realu Madryt z tego spotkania z dziennikarzami na King Abdullah Sports City.</description>
     </item>
     
 </channel>
