@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Jan 2025 10:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 10:54:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmiana, która wprowadziła napięcie między Realem a Viníciusem</title>
+        <link>https://www.realmadryt.pl/news/135795-zmiana-ktora-wprowadzila-napiecie-miedzy-realem-a-viniciusem</link>
+        <pubDate>Tue, 14 Jan 2025 11:45:00 GMT</pubDate>
+        <description>Carlo Ancelotti zdjął Brazylijczyka z boiska w 76. minucie finału Superpucharu Hiszpanii w Dżuddzie, gdy Real Madryt przegrywał. Była to bardzo nietypowa decyzja, która postawiła na baczność otoczenie atakującego.</description>
+    </item>
     
     <item>
         <title>Kolejne straty do nadrobienia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135789-dzisiejsze-okladki</link>
         <pubDate>Tue, 14 Jan 2025 00:02:00 GMT</pubDate>
         <description>Echa Superpucharu Hiszpanii to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x17: Dwie porażki w jednym meczu</title>
-        <link>https://www.realmadryt.pl/news/135787-podcast-6x17-dwie-porazki-w-jednym-meczu</link>
-        <pubDate>Mon, 13 Jan 2025 23:27:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy porażkę z Barceloną. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
