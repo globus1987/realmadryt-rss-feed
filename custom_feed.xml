@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Jan 2025 22:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 23:20:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135815-dzisiejsze-okladki</link>
+        <pubDate>Wed, 15 Jan 2025 00:14:00 GMT</pubDate>
+        <description>Wystąpienie Joana Laporty i plany Realu Madryt to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zwycięstwo w meczu bez defensywy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135800-marca-nadszedl-czas-alaby</link>
         <pubDate>Tue, 14 Jan 2025 13:40:00 GMT</pubDate>
         <description>W tym miesiącu David Alaba wrócił do pełnych treningów z resztą zespołu. W kolejnych spotkaniach może dostawać pierwsze minuty i być może to właśnie Austriak okaże się wzmocnieniem defensywy, której tak bardzo potrzebuje Ancelotti.</description>
-    </item>
-    
-    <item>
-        <title>Pora na Asencio</title>
-        <link>https://www.realmadryt.pl/news/135799-pora-na-asencio</link>
-        <pubDate>Tue, 14 Jan 2025 13:32:00 GMT</pubDate>
-        <description>Wysoka porażka w Klasyku sprawia, że Aurélien Tchouaméni znalazł się na cenzurowanym, a kibicom trudno zrozumieć drugoplanową rolę wychowanka. Statystyki wyraźnie pokazują, że z Asencio w podstawowym składzie Królewscy bronią lepiej.</description>
     </item>
     
 </channel>
