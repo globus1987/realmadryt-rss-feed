@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Jan 2025 22:20:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 22:39:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo w meczu bez defensywy</title>
+        <link>https://www.realmadryt.pl/news/135813-zwyciestwo-w-meczu-bez-defensywy</link>
+        <pubDate>Tue, 14 Jan 2025 23:39:00 GMT</pubDate>
+        <description>W 21. kolejce Euroligi Real Madryt pokonał Maccabi Tel Awiw bardzo efektownym, ofensywnym spotkaniu. Łącznie obie drużyny zdobyły 229 punktów, co jest rekordem rozgrywek, biorąc pod uwagę mecze bez dogrywek.</description>
+    </item>
     
     <item>
         <title>Maffeo świętuje wygraną w Superpucharze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135799-pora-na-asencio</link>
         <pubDate>Tue, 14 Jan 2025 13:32:00 GMT</pubDate>
         <description>Wysoka porażka w Klasyku sprawia, że Aurélien Tchouaméni znalazł się na cenzurowanym, a kibicom trudno zrozumieć drugoplanową rolę wychowanka. Statystyki wyraźnie pokazują, że z Asencio w podstawowym składzie Królewscy bronią lepiej.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Wątpliwości Ancelottiego wobec ustawienia z 4 napastnikami</title>
-        <link>https://www.realmadryt.pl/news/135798-chiringuito-watpliwosci-ancelottiego-wobec-ustawienia-z-4-napastnikami</link>
-        <pubDate>Tue, 14 Jan 2025 12:47:00 GMT</pubDate>
-        <description>Dziennikarz Chiringuito z dobrymi dojściami do sztabu Królewskich przekazał, na czym skupiono się po porażce z Barceloną.</description>
     </item>
     
 </channel>
