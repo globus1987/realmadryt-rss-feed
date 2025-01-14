@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Jan 2025 15:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 16:27:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Camavinga obudził stare demony</title>
+        <link>https://www.realmadryt.pl/news/135804-as-camavinga-obudzil-stare-demony</link>
+        <pubDate>Tue, 14 Jan 2025 17:12:00 GMT</pubDate>
+        <description>W Klasyku widzieliśmy wersję Eduardo Camavingi sprzed kilku lat, czyli gracza niepotrafiącego kontrolować swoich zachowań, piłkarza nieobliczalnego. Ancelotti wciąż jednak w niego wierzy.</description>
+    </item>
+    
+    <item>
+        <title>Siedmiu piłkarzy nie pracowało z grupą</title>
+        <link>https://www.realmadryt.pl/news/135803-siedmiu-pilkarzy-nie-pracowalo-z-grupa</link>
+        <pubDate>Tue, 14 Jan 2025 17:11:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt po dniu wolnym pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie. Poza grupą pozostało aż 7 piłkarzy!</description>
+    </item>
     
     <item>
         <title>Celta przed trudnym, ale nie niemożliwym zadaniem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135795-zmiana-ktora-wprowadzila-napiecie-miedzy-realem-a-viniciusem</link>
         <pubDate>Tue, 14 Jan 2025 11:45:00 GMT</pubDate>
         <description>Carlo Ancelotti zdjął Brazylijczyka z boiska w 76. minucie finału Superpucharu Hiszpanii w Dżuddzie, gdy Real Madryt przegrywał. Była to bardzo nietypowa decyzja, która postawiła na baczność otoczenie atakującego.</description>
-    </item>
-    
-    <item>
-        <title>Kolejne straty do nadrobienia</title>
-        <link>https://www.realmadryt.pl/news/135780-kolejne-straty-do-nadrobienia</link>
-        <pubDate>Tue, 14 Jan 2025 11:06:00 GMT</pubDate>
-        <description>W 21. kolejce Euroligi Real Madryt zmierzy się z Maccabi Tel Awiw. Pierwszy mecz Królewscy przegrali jednym punktem i teraz celem jest odrobienie tej straty, by wypracować sobie lepszy bilans dwumeczu.</description>
-    </item>
-    
-    <item>
-        <title>Mijatović: Nie widzę nikogo lepszego od Lucasa na prawej obronie</title>
-        <link>https://www.realmadryt.pl/news/135796-mijatovic-nie-widze-nikogo-lepszego-od-lucasa-na-prawej-obronie</link>
-        <pubDate>Tue, 14 Jan 2025 11:05:00 GMT</pubDate>
-        <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, pojawił się w audycji El Larguero na antenie Cadena SER. Czarnogórzec odniósł się do obecnej kadry Realu Madryt i przedstawił swoją wizję na letnie okienko transferowe.</description>
     </item>
     
 </channel>
