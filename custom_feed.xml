@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Jan 2025 05:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 06:29:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Wśród piłkarzy Realu narasta niezadowolenie ze współpracy z Ancelottim</title>
+        <link>https://www.realmadryt.pl/news/135784-relevo-wsrod-pilkarzy-realu-narasta-niezadowolenie-ze-wspolpracy-z-ancelottim</link>
+        <pubDate>Tue, 14 Jan 2025 07:00:00 GMT</pubDate>
+        <description>W Valdebebas starają się wyjaśnić, dlaczego Królewscy wciąż nie potrafią odnaleźć właściwej drogi, wskazując przy tym różnych winowajców bieżącego stanu rzeczy.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135771-malutcy-przeciwko-wielkim</link>
         <pubDate>Mon, 13 Jan 2025 11:28:00 GMT</pubDate>
         <description>Real Madryt rozegrał w tym sezonie 6 spotkań z historycznymi przeciwnikami i nie był w stanie wygrać z żadnym z nich. Z Barceloną, którą w poprzednim sezonie pokonał 3 razy, stracił 9 bramek w dwóch meczach.</description>
-    </item>
-    
-    <item>
-        <title>Powrót na Bernabéu na trzy mecze z rzędu</title>
-        <link>https://www.realmadryt.pl/news/135770-powrot-na-bernabeu-na-trzy-mecze-z-rzedu</link>
-        <pubDate>Mon, 13 Jan 2025 11:23:00 GMT</pubDate>
-        <description>Po serii spotkań poza Bernabéu Real Madryt wróci do swojego domu. Najbliższe trzy mecze Królewscy rozegrają u siebie.</description>
     </item>
     
 </channel>
