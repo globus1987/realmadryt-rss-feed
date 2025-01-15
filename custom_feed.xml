@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 Jan 2025 06:30:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 06:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trzy odejścia, trzy dziury</title>
+        <link>https://www.realmadryt.pl/news/135810-trzy-odejscia-trzy-dziury</link>
+        <pubDate>Wed, 15 Jan 2025 07:50:00 GMT</pubDate>
+        <description>Opuszczenie drużyny przez Kroosa, Nacho i Joselu, za których nie szukano zastępców, drastycznie ograniczyły taktyczny arsenał Carlo Ancelottiego.</description>
+    </item>
     
     <item>
         <title>Klopp: Gwarantuję, że nie będę trenerem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135777-celta-przed-trudnym-ale-nie-niemozliwym-zadaniem</link>
         <pubDate>Tue, 14 Jan 2025 16:07:00 GMT</pubDate>
         <description>Celta w czwartek przyjedzie do Madrytu z trudną misją awansu do ćwierćfinału Pucharu Króla. Zadanie jest skomplikowane, ale nie niemożliwe w realizacji. Osiem lat temu Galisyjczykom udało się już dokonać podobnej sztuki, pisze MARCA.</description>
-    </item>
-    
-    <item>
-        <title>Postawa zespołu odbija się na liczbach Courtois</title>
-        <link>https://www.realmadryt.pl/news/135802-postawa-zespolu-odbija-sie-na-liczbach-courtois</link>
-        <pubDate>Tue, 14 Jan 2025 15:59:00 GMT</pubDate>
-        <description>W aktualnym sezonie Thibaut Courtois traci średnio 1,17 gola na mecz, a gorszy wynik w Realu Madryt zanotował jedynie w kampanii 2018/19. Belg często wyjmuje piłkę z siatki, ale trudno mieć do niego pretensje. Największa w tym wina graczy z pola, którzy pozwalają rywalom na zbyt wiele.</description>
     </item>
     
 </channel>
