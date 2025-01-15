@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 Jan 2025 11:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 11:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Nie uważam, że jestem najlepszy, ale też nie uważam, że jestem najgłupszy</title>
+        <link>https://www.realmadryt.pl/news/135818-ancelotti-nie-uwazam-ze-jestem-najlepszy-ale-tez-nie-uwazam-ze-jestem-najglupszy</link>
+        <pubDate>Wed, 15 Jan 2025 12:51:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Camavinga, Valverde, Bellingham i Mbappé pracowali z grupą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135808-maffeo-swietuje-wygrana-w-superpucharze</link>
         <pubDate>Tue, 14 Jan 2025 19:13:00 GMT</pubDate>
         <description>Argentyńczyk przegrał półfinał Superpucharu Hiszpanii, ale okazuje się, że ostatecznie pokonał Królewskich w finale. Na to przynajmniej wskazują jego najnowsze publikacje.</description>
-    </item>
-    
-    <item>
-        <title>Gdzie obejrzeć mecz z Celtą?</title>
-        <link>https://www.realmadryt.pl/news/135794-gdzie-obejrzec-mecz-z-celta</link>
-        <pubDate>Tue, 14 Jan 2025 19:00:00 GMT</pubDate>
-        <description>Prawa do pokazywania Pucharu Króla w Polsce należą do Telewizji Polskiej. Najbliższe spotkanie Królewskich będzie więc można obejrzeć w otwartej telewizji.</description>
     </item>
     
 </channel>
