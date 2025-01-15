@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 Jan 2025 13:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 14:20:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé znów jest sobą</title>
+        <link>https://www.realmadryt.pl/news/135822-mbappe-znow-jest-soba</link>
+        <pubDate>Wed, 15 Jan 2025 15:18:00 GMT</pubDate>
+        <description>W finale Superpucharu Hiszpanii z Barceloną Kylian Mbappé rozegrał swój najlepszy mecz od czasu transferu do Realu Madryt. Był liderem formacji ofensywnej, oddał najwięcej strzałów i wykonał najwięcej dryblingów.</description>
+    </item>
+    
+    <item>
+        <title>Kadra Celty na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/135821-kadra-celty-na-mecz-z-realem</link>
+        <pubDate>Wed, 15 Jan 2025 15:18:00 GMT</pubDate>
+        <description>Claudio Giráldez González ogłosił listę piłkarzy powołanych na mecz 1/8 finału Pucharu Króla z Realem Madryt na Santiago Bernabéu. W Galicji pozostanie dwóch piłkarzy kontuzjowanych.</description>
+    </item>
+    
+    <item>
+        <title>Kadra Realu Madryt na Celtę Vigo</title>
+        <link>https://www.realmadryt.pl/news/135820-kadra-realu-madryt-na-celte-vigo</link>
+        <pubDate>Wed, 15 Jan 2025 15:15:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu Pucharu Króla bez pięciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na to spotkanie 21 zawodników.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Nie uważam, że jestem najlepszy, ale też nie uważam, że jestem najgłupszy</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/135812-relevo-tchouameni-przedmiotem-coraz-wiekszej-debaty</link>
         <pubDate>Wed, 15 Jan 2025 05:30:00 GMT</pubDate>
         <description>Wątpliwości wokół Francuza rosną. Uważano, że poradzi sobie w roli stopera, ale w ważnym meczu po raz kolejny zawiódł.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135815-dzisiejsze-okladki</link>
-        <pubDate>Wed, 15 Jan 2025 00:14:00 GMT</pubDate>
-        <description>Wystąpienie Joana Laporty i plany Realu Madryt to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo w meczu bez defensywy</title>
-        <link>https://www.realmadryt.pl/news/135813-zwyciestwo-w-meczu-bez-defensywy</link>
-        <pubDate>Tue, 14 Jan 2025 23:39:00 GMT</pubDate>
-        <description>W 21. kolejce Euroligi Real Madryt pokonał Maccabi Tel Awiw bardzo efektownym, ofensywnym spotkaniu. Łącznie obie drużyny zdobyły 229 punktów, co jest rekordem rozgrywek, biorąc pod uwagę mecze bez dogrywek.</description>
-    </item>
-    
-    <item>
-        <title>Maffeo świętuje wygraną w Superpucharze</title>
-        <link>https://www.realmadryt.pl/news/135808-maffeo-swietuje-wygrana-w-superpucharze</link>
-        <pubDate>Tue, 14 Jan 2025 19:13:00 GMT</pubDate>
-        <description>Argentyńczyk przegrał półfinał Superpucharu Hiszpanii, ale okazuje się, że ostatecznie pokonał Królewskich w finale. Na to przynajmniej wskazują jego najnowsze publikacje.</description>
     </item>
     
 </channel>
