@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 06:46:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 07:19:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niewidzialni rezerwowi</title>
+        <link>https://www.realmadryt.pl/news/135835-niewidzialni-rezerwowi</link>
+        <pubDate>Thu, 16 Jan 2025 08:01:00 GMT</pubDate>
+        <description>Ani Brazylijczyk, ani Turek nie dostali choćby minuty w Superpucharze Hiszpanii i spadają w hierarchii kadry zarządzanej przez Carlo Ancelottiego.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt – Celta Vigo: Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/135833-real-madryt-celta-vigo-przewidywane-sklady</link>
+        <pubDate>Thu, 16 Jan 2025 07:50:00 GMT</pubDate>
+        <description>Królewscy podchodzą do pucharowego starcia bez kontuzjowanych Daniego Carvajala, Édera Militão i Jesúsa Vallejo, odpoczywającego Thibaut Courtois i dochodzącego do dyspozycji meczowej Davida Alaby. Media spodziewają się kilku zmian względem Arabii Saudyjskiej.</description>
+    </item>
     
     <item>
         <title>Ancelotti: To kadra z zaangażowaniem, które nie zawsze udaje się jej pokazać</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135821-kadra-celty-na-mecz-z-realem</link>
         <pubDate>Wed, 15 Jan 2025 15:18:00 GMT</pubDate>
         <description>Claudio Giráldez González ogłosił listę piłkarzy powołanych na mecz 1/8 finału Pucharu Króla z Realem Madryt na Santiago Bernabéu. W Galicji pozostanie dwóch piłkarzy kontuzjowanych.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Celtę Vigo</title>
-        <link>https://www.realmadryt.pl/news/135820-kadra-realu-madryt-na-celte-vigo</link>
-        <pubDate>Wed, 15 Jan 2025 15:15:00 GMT</pubDate>
-        <description>Królewscy podejdą do meczu Pucharu Króla bez pięciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na to spotkanie 21 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Nie uważam, że jestem najlepszy, ale też nie uważam, że jestem najgłupszy</title>
-        <link>https://www.realmadryt.pl/news/135818-ancelotti-nie-uwazam-ze-jestem-najlepszy-ale-tez-nie-uwazam-ze-jestem-najglupszy</link>
-        <pubDate>Wed, 15 Jan 2025 12:51:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
