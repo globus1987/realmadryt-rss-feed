@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 09:23:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 09:39:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Spojrzeć w oczy</title>
+        <link>https://www.realmadryt.pl/news/135806-spojrzec-w-oczy</link>
+        <pubDate>Thu, 16 Jan 2025 10:30:00 GMT</pubDate>
+        <description>Szykowała się szampańska zabawa. Przynajmniej z założenia.</description>
+    </item>
     
     <item>
         <title>Dzień, w którym Celta wyeliminowała Real Madryt z Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135834-marca-real-madryt-wierzy-ze-davies-wybierze-jego-oferte</link>
         <pubDate>Thu, 16 Jan 2025 01:54:00 GMT</pubDate>
         <description>Bayern maksymalnie naciska na pozostanie Kanadyjczyka, ale MARCA podaje, że ten ustalił już warunki umowy z Realem Madryt. Królewscy wierzą, że wybierze ich propozycję.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/135832-dzisiejsze-okladki</link>
-        <pubDate>Thu, 16 Jan 2025 00:24:00 GMT</pubDate>
-        <description>Plany Realu Madryt i wygrana Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
