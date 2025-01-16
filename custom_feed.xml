@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 21:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 22:20:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Olympiakos przerwał passę koszykarzy</title>
+        <link>https://www.realmadryt.pl/news/135865-olympiakos-przerwal-passe-koszykarzy</link>
+        <pubDate>Thu, 16 Jan 2025 23:19:00 GMT</pubDate>
+        <description>W 22. kolejce Euroligi Real Madryt przegrał z Olympiakosem. Grecy byli dzisiaj wyraźnie lepszy, a Królewscy zapłacili za nagromadzenie meczów w ostatnim czasie. Madrytczycy spadli na dziewiąte miejsce, ale do drugiej pozycji tracą tylko jedną wygraną.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Celta [LIVE]</title>
         <link>https://www.realmadryt.pl/news/135862-real-madryt-celta-live</link>
         <pubDate>Thu, 16 Jan 2025 21:25:00 GMT</pubDate>
-        <description>Od 21:30 trwa mecz 1/8 finału Pucharu Króla pomiędzy Realem Madryt a Celtą Vigo.</description>
+        <description>W meczu 1/8 finału Pucharu Króla Real Madryt gra u siebie z Celtą Vigo.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135851-vinicius-pod-lupa</link>
         <pubDate>Thu, 16 Jan 2025 14:21:00 GMT</pubDate>
         <description>Brazylijczyk, który nie zagra w lidze aż do lutego, nie zdobył bramki od ponad miesiąca i został wskazany jako jeden z winnych w Dżuddzie.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Lucas Vázquez wygłosi przemówienie na święcie w Alcobendas</title>
-        <link>https://www.realmadryt.pl/news/135850-marca-lucas-vazquez-wyglosi-przemowienie-na-swiecie-w-alcobendas</link>
-        <pubDate>Thu, 16 Jan 2025 14:13:00 GMT</pubDate>
-        <description>Obrońca Realu, wraz z Mario Suárezem (były zawodnik Atlético), weźmie udział w sobotnich uroczystościach pod Madrytem.</description>
     </item>
     
 </channel>
