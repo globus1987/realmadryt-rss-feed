@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 22:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 22:39:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Wygrana Olympiakosu była zasłużona</title>
+        <link>https://www.realmadryt.pl/news/135866-mateo-wygrana-olympiakosu-byla-zasluzona</link>
+        <pubDate>Thu, 16 Jan 2025 23:39:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko przegrane spotkanie z Olympiakosem. Chus Mateo przyznał, że Grecy byli zasłużonymi zwycięzcami tej rywalizacji.</description>
+    </item>
     
     <item>
         <title>Olympiakos przerwał passę koszykarzy</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Real Madryt – Celta [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/135862-real-madryt-celta-live</link>
+        <title>Dogrywka w meczu z Celtą [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/135862-dogrywka-w-meczu-z-celta-live</link>
         <pubDate>Thu, 16 Jan 2025 21:25:00 GMT</pubDate>
-        <description>W meczu 1/8 finału Pucharu Króla Real Madryt gra u siebie z Celtą Vigo.</description>
+        <description>W meczu 1/8 finału Pucharu Króla Real Madryt gra u siebie z Celtą Vigo. Bramki dla Królewskich zdobyli Kylian Mbappé i Vinícius Júnior.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135852-bild-davies-oczekuje-wiecej-pieniedzy-od-bayernu-i-negocjacje-utknely-w-martwym-punkcie</link>
         <pubDate>Thu, 16 Jan 2025 14:49:00 GMT</pubDate>
         <description>Real wysunął się na prowadzenie w wyścigu po Kanadyjczyka.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius pod lupą</title>
-        <link>https://www.realmadryt.pl/news/135851-vinicius-pod-lupa</link>
-        <pubDate>Thu, 16 Jan 2025 14:21:00 GMT</pubDate>
-        <description>Brazylijczyk, który nie zagra w lidze aż do lutego, nie zdobył bramki od ponad miesiąca i został wskazany jako jeden z winnych w Dżuddzie.</description>
     </item>
     
 </channel>
