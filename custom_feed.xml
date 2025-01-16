@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 07:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 07:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Zawodnicy zignorowali plan Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/135829-marca-zawodnicy-zignorowali-plan-ancelottiego</link>
+        <pubDate>Thu, 16 Jan 2025 08:40:00 GMT</pubDate>
+        <description>Solidarność i zasada gonienia przeciwnika, by pomóc koledze z drużyny, które Carlo Ancelotti widział u swoich podopiecznych w ostatnich meczach, wyparowały w finale Superpucharu Hiszpanii w Dżuddzie.</description>
+    </item>
     
     <item>
         <title>Niewidzialni rezerwowi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135822-mbappe-znow-jest-soba</link>
         <pubDate>Wed, 15 Jan 2025 15:18:00 GMT</pubDate>
         <description>W finale Superpucharu Hiszpanii z Barceloną Kylian Mbappé rozegrał swój najlepszy mecz od czasu transferu do Realu Madryt. Był liderem formacji ofensywnej, oddał najwięcej strzałów i wykonał najwięcej dryblingów.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Celty na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/135821-kadra-celty-na-mecz-z-realem</link>
-        <pubDate>Wed, 15 Jan 2025 15:18:00 GMT</pubDate>
-        <description>Claudio Giráldez González ogłosił listę piłkarzy powołanych na mecz 1/8 finału Pucharu Króla z Realem Madryt na Santiago Bernabéu. W Galicji pozostanie dwóch piłkarzy kontuzjowanych.</description>
     </item>
     
 </channel>
