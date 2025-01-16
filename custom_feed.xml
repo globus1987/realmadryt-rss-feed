@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 22:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 23:21:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Celtą</title>
+        <link>https://www.realmadryt.pl/news/135863-ocen-pilkarzy-po-meczu-z-celta</link>
+        <pubDate>Fri, 17 Jan 2025 00:11:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Mateo: Wygrana Olympiakosu była zasłużona</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Dogrywka w meczu z Celtą [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/135862-dogrywka-w-meczu-z-celta-live</link>
+        <title>Awans z niesmakiem</title>
+        <link>https://www.realmadryt.pl/news/135862-awans-z-niesmakiem</link>
         <pubDate>Thu, 16 Jan 2025 21:25:00 GMT</pubDate>
-        <description>W meczu 1/8 finału Pucharu Króla Real Madryt gra u siebie z Celtą Vigo. Bramki dla Królewskich zdobyli Kylian Mbappé i Vinícius Júnior.</description>
+        <description>W meczu 1/8 finału Pucharu Króla Real Madryt gra u siebie z Celtą Vigo. Bramki dla Królewskich zdobyli Kylian Mbappé, Vinícius Júnior, Endrick (dwie) i Fede Valverde.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135853-rafael-louzan-przeprosil-kibicow-mallorki-i-wyrazil-checi-na-powrot-do-arabii-saudyjskiej</link>
         <pubDate>Thu, 16 Jan 2025 15:12:00 GMT</pubDate>
         <description>Prezes RFEF przyznaje, że „wystąpiły pewne problemy” przy opuszczaniu stadionu w Dżuddzie, choć określa tegoroczną edycję jako „udaną”.</description>
-    </item>
-    
-    <item>
-        <title>BILD: Davies oczekuje więcej pieniędzy od Bayernu i negocjacje utknęły w martwym punkcie</title>
-        <link>https://www.realmadryt.pl/news/135852-bild-davies-oczekuje-wiecej-pieniedzy-od-bayernu-i-negocjacje-utknely-w-martwym-punkcie</link>
-        <pubDate>Thu, 16 Jan 2025 14:49:00 GMT</pubDate>
-        <description>Real wysunął się na prowadzenie w wyścigu po Kanadyjczyka.</description>
     </item>
     
 </channel>
