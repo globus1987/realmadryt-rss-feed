@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 13:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 13:31:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius pod lupą</title>
+        <link>https://www.realmadryt.pl/news/135851-vinicius-pod-lupa</link>
+        <pubDate>Thu, 16 Jan 2025 14:21:00 GMT</pubDate>
+        <description>Brazylijczyk, który nie zagra w lidze aż do lutego, nie zdobył bramki od ponad miesiąca i został wskazany jako jeden z winnych w Dżuddzie.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Lucas Vázquez wygłosi przemówienie na święcie w Alcobendas</title>
+        <link>https://www.realmadryt.pl/news/135850-marca-lucas-vazquez-wyglosi-przemowienie-na-swiecie-w-alcobendas</link>
+        <pubDate>Thu, 16 Jan 2025 14:13:00 GMT</pubDate>
+        <description>Obrońca Realu, wraz z Mario Suárezem (były zawodnik Atlético), weźmie udział w sobotnich uroczystościach pod Madrytem.</description>
+    </item>
     
     <item>
         <title>Coentrão został przyłapany z toną nielegalnych krabów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135825-mateo-olympiakos-nie-pozwoli-nam-na-taka-swobode-w-ofensywie</link>
         <pubDate>Thu, 16 Jan 2025 11:01:00 GMT</pubDate>
         <description>Chus Mateo i Eli Ndiaye wypowiadali się przed spotkaniem z Olympiakosem w Eurolidze. Obaj chwalili rywala i mówili o tym, jak dobrze na zespół wpływa ostatnia zwycięska passa.</description>
-    </item>
-    
-    <item>
-        <title>Spojrzeć w oczy</title>
-        <link>https://www.realmadryt.pl/news/135806-spojrzec-w-oczy</link>
-        <pubDate>Thu, 16 Jan 2025 10:30:00 GMT</pubDate>
-        <description>Szykowała się szampańska zabawa. Przynajmniej z założenia.</description>
-    </item>
-    
-    <item>
-        <title>Dzień, w którym Celta wyeliminowała Real Madryt z Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/135840-dzien-w-ktorym-celta-wyeliminowala-real-madryt-z-pucharu-krola</link>
-        <pubDate>Thu, 16 Jan 2025 10:08:00 GMT</pubDate>
-        <description>Celta wyrzuciła Królewskich z rozgrywek osiem lat temu w ich ostatnim starciu w Pucharze Króla, pozbawiając Zidane’a szansy na triplet.</description>
     </item>
     
 </channel>
