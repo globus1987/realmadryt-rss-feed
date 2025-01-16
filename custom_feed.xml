@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Jan 2025 20:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 20:39:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Celta [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/135862-real-madryt-celta-live</link>
+        <pubDate>Thu, 16 Jan 2025 21:25:00 GMT</pubDate>
+        <description>Od 21:30 trwa mecz 1/8 finału Pucharu Króla pomiędzy Realem Madryt a Celtą Vigo.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Celta: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135850-marca-lucas-vazquez-wyglosi-przemowienie-na-swiecie-w-alcobendas</link>
         <pubDate>Thu, 16 Jan 2025 14:13:00 GMT</pubDate>
         <description>Obrońca Realu, wraz z Mario Suárezem (były zawodnik Atlético), weźmie udział w sobotnich uroczystościach pod Madrytem.</description>
-    </item>
-    
-    <item>
-        <title>Coentrão został przyłapany z toną nielegalnych krabów</title>
-        <link>https://www.realmadryt.pl/news/135849-coentrao-zostal-przylapany-z-tona-nielegalnych-krabow</link>
-        <pubDate>Thu, 16 Jan 2025 13:29:00 GMT</pubDate>
-        <description>Byłego piłkarza Realu Madryt czekają kary.</description>
     </item>
     
 </channel>
