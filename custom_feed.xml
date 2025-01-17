@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 Jan 2025 08:27:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 08:43:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz z Salzburgiem także w Telewizji Polskiej</title>
+        <link>https://www.realmadryt.pl/news/135880-mecz-z-salzburgiem-takze-w-telewizji-polskiej</link>
+        <pubDate>Fri, 17 Jan 2025 09:29:00 GMT</pubDate>
+        <description>Prawa do pokazywania jednego meczu w kolejce Ligi Mistrzów ma także Telewizja Polska.</description>
+    </item>
     
     <item>
         <title>Sportowo-ekonomiczne połączenie Miami z Madrytem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135871-real-madryt-5-2-celta-vigo-video</link>
         <pubDate>Fri, 17 Jan 2025 01:08:00 GMT</pubDate>
         <description>W spotkaniu 1/8 finału Pucharu Króla zespół Carlo Ancelottigo wygrał dopiero po dogrywce i strzelił pięć goli.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Graliśmy dobry mecz do 70. minuty</title>
-        <link>https://www.realmadryt.pl/news/135872-ancelotti-gralismy-dobry-mecz-do-70-minuty</link>
-        <pubDate>Fri, 17 Jan 2025 00:58:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po spotkaniu z Celtą Vigo w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
