@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 Jan 2025 13:09:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 13:30:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/135893-dzisiejszy-trening</link>
+        <pubDate>Fri, 17 Jan 2025 14:16:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Odkupienie Endricka</title>
+        <link>https://www.realmadryt.pl/news/135892-odkupienie-endricka</link>
+        <pubDate>Fri, 17 Jan 2025 14:10:00 GMT</pubDate>
+        <description>Brazylijczyk ma za sobą trudne chwile, ale w meczu z Celtą ponownie udowodnił swoją wartość.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Tedesco nie jest już selekcjonerem reprezentacji Belgii</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135884-oficjalnie-eduardo-camavinga-kontuzjowany</link>
         <pubDate>Fri, 17 Jan 2025 11:23:00 GMT</pubDate>
         <description>Francuski pomocnik wypada z gry i nie zagra w kilku najbliższych spotkaniach.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Haaland przedłużył kontrakt z City do 2034 roku!</title>
-        <link>https://www.realmadryt.pl/news/135881-oficjalnie-haaland-przedluzyl-kontrakt-z-city-do-2034-roku</link>
-        <pubDate>Fri, 17 Jan 2025 10:15:00 GMT</pubDate>
-        <description>Wygląda na to, że transfer norweskiego napastnika do Realu Madryt w najbliższej przyszłości nie będzie możliwy.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 17 stycznia</title>
-        <link>https://www.realmadryt.pl/news/135864-kartka-z-kalendarza-17-stycznia</link>
-        <pubDate>Fri, 17 Jan 2025 10:00:00 GMT</pubDate>
-        <description>Urodziny byłego zawodnika, zwycięstwo z Atlético i manita ze Sportingiem Gijón. Co działo się 17 stycznia?</description>
     </item>
     
 </channel>
