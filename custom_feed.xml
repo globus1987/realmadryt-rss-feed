@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 Jan 2025 07:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 07:38:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Neymar: Gdy pojawił się Messi, Mbappé zrobił się trochę zazdrosny</title>
+        <link>https://www.realmadryt.pl/news/135878-neymar-gdy-pojawil-sie-messi-mbappe-zrobil-sie-troche-zazdrosny</link>
+        <pubDate>Fri, 17 Jan 2025 08:30:00 GMT</pubDate>
+        <description>Neymar udzielił wywiadu Romário na jego kanale na YouTubie. Przedstawiamy najważniejsze wypowiedzi byłego piłkarza PSG.</description>
+    </item>
     
     <item>
         <title>Smith Jr.: Wiele dla mnie znaczy przyjście tutaj</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135868-endrick-te-dwa-gole-dedykuje-ruedigerowi</link>
         <pubDate>Fri, 17 Jan 2025 00:26:00 GMT</pubDate>
         <description>Endrick udzielił wywiadu klubowej telewizji po wygranej 5:2 z Celtą Vigo w Pucharze Króla. Przedstawiamy wypowiedzi atakującego Realu Madryt z murawy Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/135863-ocen-pilkarzy-po-meczu-z-celta</link>
-        <pubDate>Fri, 17 Jan 2025 00:11:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
