@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 Jan 2025 23:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 23:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Ta sama gra, inne zasady”</title>
+        <link>https://www.realmadryt.pl/news/135942-ta-sama-gra-inne-zasady</link>
+        <pubDate>Sun, 19 Jan 2025 00:49:00 GMT</pubDate>
+        <description>Przed i w trakcie sobotniego meczu Getafe z Barceloną kibice gospodarzy okazali swoje oburzenie z decyzji hiszpańskiego rządu, który pozwolił na rejestrację Daniego Olmo i Paua Víctora.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/135941-dzisiejsze-okladki</link>
+        <pubDate>Sun, 19 Jan 2025 00:39:00 GMT</pubDate>
+        <description>Porażka Atlético, remis Barcelony i mecz Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barcelona traci punkty na Coliseum!</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135927-pirri-xxi-wieku</link>
         <pubDate>Sat, 18 Jan 2025 12:45:00 GMT</pubDate>
         <description>Fede Valverde nie tylko jest jednym z najlepszych strzelców Realu Madryt w tym sezonie, ale również prawdziwym liderem w szatni i coraz ważniejszą postacią w klubie. MARCA porównuje go do legendarnego Pirriego.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Słowa Simeone? To rzeczy mówione na pokaz i przypuszczam, że to jak cierń, który boli</title>
-        <link>https://www.realmadryt.pl/news/135922-ancelotti-slowa-simeone-to-rzeczy-mowione-na-pokaz-i-przypuszczam-ze-to-jak-ciern-ktory-boli</link>
-        <pubDate>Sat, 18 Jan 2025 12:39:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Las Palmas w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Las Palmas</title>
-        <link>https://www.realmadryt.pl/news/135923-ostatni-trening-przed-las-palmas</link>
-        <pubDate>Sat, 18 Jan 2025 12:23:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
