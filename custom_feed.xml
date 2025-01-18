@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 Jan 2025 19:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 19:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona gra z Getafe [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/135937-barcelona-gra-z-getafe-na-zywo</link>
+        <pubDate>Sat, 18 Jan 2025 20:40:00 GMT</pubDate>
+        <description>W 20. kolejce Barcelona gra na wyjeździe z Getafe. Katalończycy w czterech ostatnich meczach na Coliseum ani razu nie strzelili gola.</description>
+    </item>
     
     <item>
         <title>Szczególny mecz dla Raúla Asencio</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135923-ostatni-trening-przed-las-palmas</link>
         <pubDate>Sat, 18 Jan 2025 12:23:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Rekordowy Endrick</title>
-        <link>https://www.realmadryt.pl/news/135925-rekordowy-endrick</link>
-        <pubDate>Sat, 18 Jan 2025 11:51:00 GMT</pubDate>
-        <description>Endrick strzela gola średnio co 73 minuty i pod tym względem jest trzecim najlepszym graczem w całej Europie. Młody atakujący ma już na koncie kilka rekordów, odkąd trafił na Santiago Bernabéu.</description>
     </item>
     
 </channel>
