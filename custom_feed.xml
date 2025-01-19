@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Jan 2025 07:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 07:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Myślę, że Ancelotti bardzo dobrze dawkuje minuty Asencio”</title>
+        <link>https://www.realmadryt.pl/news/135947-mysle-ze-ancelotti-bardzo-dobrze-dawkuje-minuty-asencio</link>
+        <pubDate>Sun, 19 Jan 2025 08:37:00 GMT</pubDate>
+        <description>Redakcja Radia MARCA w nocnym programie porozmawiała z Miguelem Gonzálezem, który prowadził defensora w szkółce Las Palmas.</description>
+    </item>
+    
+    <item>
+        <title>Real stracił głowę</title>
+        <link>https://www.realmadryt.pl/news/135946-real-stracil-glowe</link>
+        <pubDate>Sun, 19 Jan 2025 08:28:00 GMT</pubDate>
+        <description>Królewscy od niemal roku bez gola po dośrodkowaniu ze stałego fragmentu.</description>
+    </item>
     
     <item>
         <title>Magiczne słowo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135935-fabregas-nawet-jesli-real-nie-zechce-odkupic-nico-nie-sprzedamy-go-za-40-50-milionow</link>
         <pubDate>Sat, 18 Jan 2025 17:55:00 GMT</pubDate>
         <description>Trener Como wypowiedział się dla agencji EFE na temat przyszłości Nico Paza.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Las Palmas na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/135934-kadra-las-palmas-na-mecz-z-realem</link>
-        <pubDate>Sat, 18 Jan 2025 17:08:00 GMT</pubDate>
-        <description>Diego Martínez ogłosił listę piłkarzy powołanych na mecz 20. kolejki La Ligi z Realem Madryt. W kadrze Kanaryjczyków brakuje kilku piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Porażka Atlético z Leganés, Real z szansą na lidera!</title>
-        <link>https://www.realmadryt.pl/news/135932-porazka-atletico-z-leganes-real-z-szansa-na-lidera</link>
-        <pubDate>Sat, 18 Jan 2025 15:55:00 GMT</pubDate>
-        <description>Za nami trzy mecze 20. kolejki La Ligi. Leganés pokonało dziś lidera, Atlético Madryt, dzięki trafieniu Matiji Nastasicia. Porażka drużyny Diego Simeone oznacza, że Real Madryt w przypadku remisu lub wygranej z Las Palmas obejmie pozycję lidera.</description>
     </item>
     
 </channel>
