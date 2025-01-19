@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Jan 2025 08:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 08:40:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 19 stycznia</title>
+        <link>https://www.realmadryt.pl/news/135940-kartka-z-kalendarza-19-stycznia</link>
+        <pubDate>Sun, 19 Jan 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza i trenera, zwycięskie spotkanie z Sevillą oraz kapitalna remontada z Villarrealem. Co działo się 19 stycznia?</description>
+    </item>
     
     <item>
         <title>Zamieszanie i dyskusyjna terapia: „Wspieranie Viníciusa to bez wątpienia najlepsza opcja”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135941-dzisiejsze-okladki</link>
         <pubDate>Sun, 19 Jan 2025 00:39:00 GMT</pubDate>
         <description>Porażka Atlético, remis Barcelony i mecz Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona traci punkty na Coliseum!</title>
-        <link>https://www.realmadryt.pl/news/135937-barcelona-traci-punkty-na-coliseum</link>
-        <pubDate>Sat, 18 Jan 2025 20:40:00 GMT</pubDate>
-        <description>W 20. kolejce Barcelona grała na wyjeździe z Getafe i tylko zremisowała 1:1. Jutro Real Madryt może powiększyć przewagę nad Katalończykami do siedmiu punktów.</description>
     </item>
     
 </channel>
