@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Jan 2025 17:18:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 17:38:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: W Realu Madryt wszyscy są liderami</title>
+        <link>https://www.realmadryt.pl/news/135968-mbappe-w-realu-madryt-wszyscy-sa-liderami</link>
+        <pubDate>Sun, 19 Jan 2025 18:35:00 GMT</pubDate>
+        <description>Kylian Mbappé udzielił wywiadu z murawy dla klubowej telewizji po wygranym 4:1 meczu z UD Las Palmas. Przedstawiamy wypowiedzi napastnika Realu Madryt, autora dwóch bramek w tym meczu.</description>
+    </item>
+    
+    <item>
+        <title>Alaba wraca po kontuzji!</title>
+        <link>https://www.realmadryt.pl/news/135967-alaba-wraca-po-kontuzji</link>
+        <pubDate>Sun, 19 Jan 2025 18:29:00 GMT</pubDate>
+        <description>W meczu z Las Palmas w 76. minucie na boisku pojawił się David Alaba. Austriak czekał na powrót do gry ponad rok po zerwaniu więzadła krzyżowego.</description>
+    </item>
     
     <item>
         <title>Fede Valverde wybrany najzdrowszym piłkarzem Realu Madryt w 2024 roku</title>
@@ -24,7 +38,7 @@
         <title>Kylian Mbappé MVP meczu z Las Palmas</title>
         <link>https://www.realmadryt.pl/news/135962-kylian-mbappe-mvp-meczu-z-las-palmas</link>
         <pubDate>Sun, 19 Jan 2025 18:12:00 GMT</pubDate>
-        <description>Kylian Mbappé został wyróżniony po wygranym przez Real 3:1 spotkaniu na Estadio Santiago Bernabéu.</description>
+        <description>Kylian Mbappé został wyróżniony po wygranym przez Real 4:1 spotkaniu na Estadio Santiago Bernabéu.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/135958-relevo-florentino-moze-namascic-nastepce-i-chce-zmienic-strukture-wlascicielska-klubu</link>
         <pubDate>Sun, 19 Jan 2025 13:22:00 GMT</pubDate>
         <description>Prezes będzie kierował Realem Madryt przez kolejne cztery lata. Priorytetem są Superliga i zmiana struktury właścicielskiej klubu.</description>
-    </item>
-    
-    <item>
-        <title>Problem ze środkiem obrony wciąż nierozwiązany</title>
-        <link>https://www.realmadryt.pl/news/135957-problem-ze-srodkiem-obrony-wciaz-nierozwiazany</link>
-        <pubDate>Sun, 19 Jan 2025 13:22:00 GMT</pubDate>
-        <description>Pomimo powrotu Davida Alaby Real Madryt potrzebuje wzmocnić środek obrony. Tylko Asencio ma mniej niż 25 lat, Militão jest poważnie kontuzjowany, Tchouaméni nie daje rady, a Vallejo kompletnie się nie liczy, zauważa AS.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Tchouaméni nie zagra z Las Palmas</title>
-        <link>https://www.realmadryt.pl/news/135956-oficjalnie-tchouameni-nie-zagra-z-las-palmas</link>
-        <pubDate>Sun, 19 Jan 2025 13:00:00 GMT</pubDate>
-        <description>Carlo Ancelotti nie będzie mógł dziś liczyć na Auréliena Tchouaméniego.</description>
     </item>
     
 </channel>
