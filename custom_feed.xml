@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Jan 2025 06:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 07:19:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Magiczne słowo</title>
+        <link>https://www.realmadryt.pl/news/135931-magiczne-slowo</link>
+        <pubDate>Sun, 19 Jan 2025 08:00:00 GMT</pubDate>
+        <description>By dane słowo spełniało swą funkcję, nieraz trzeba nadać mu w pewien sposób moc.</description>
+    </item>
     
     <item>
         <title>Praktyki Diego Martíneza przynoszą efekty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135932-porazka-atletico-z-leganes-real-z-szansa-na-lidera</link>
         <pubDate>Sat, 18 Jan 2025 15:55:00 GMT</pubDate>
         <description>Za nami trzy mecze 20. kolejki La Ligi. Leganés pokonało dziś lidera, Atlético Madryt, dzięki trafieniu Matiji Nastasicia. Porażka drużyny Diego Simeone oznacza, że Real Madryt w przypadku remisu lub wygranej z Las Palmas obejmie pozycję lidera.</description>
-    </item>
-    
-    <item>
-        <title>Dyrektor Bayernu o sytuacji Daviesa: Próbujemy się do siebie zbliżyć</title>
-        <link>https://www.realmadryt.pl/news/135933-dyrektor-bayernu-o-sytuacji-daviesa-probujemy-sie-do-siebie-zblizyc</link>
-        <pubDate>Sat, 18 Jan 2025 15:46:00 GMT</pubDate>
-        <description>Max Eberl, dyrektor sportowy Bayernu Monachium, podczas piątkowej konferencji prasowej mówił o zamieszaniu wokół sytuacji kontraktowej Alphonso Daviesa. Kilka godzin po tym spotkaniu z dziennikarzami media obiegły informacje o zbliżeniu stanowisk obu stron.</description>
     </item>
     
 </channel>
