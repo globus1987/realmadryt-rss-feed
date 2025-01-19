@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Jan 2025 11:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 11:38:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Przepraszamy, przyjechaliśmy narobić hałasu”, czyli jak Las Palmas zapowiada mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/135954-przepraszamy-przyjechalismy-narobic-halasu-czyli-jak-las-palmas-zapowiada-mecz-z-realem</link>
+        <pubDate>Sun, 19 Jan 2025 12:34:00 GMT</pubDate>
+        <description>Goście podchodzą do spotkania w humorystyczny sposób.</description>
+    </item>
     
     <item>
         <title>Juan Iglesias: Gavi mówił nam, żebyśmy spadli do drugiej ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135931-magiczne-slowo</link>
         <pubDate>Sun, 19 Jan 2025 08:00:00 GMT</pubDate>
         <description>By dane słowo spełniało swą funkcję, nieraz trzeba nadać mu w pewien sposób moc.</description>
-    </item>
-    
-    <item>
-        <title>Praktyki Diego Martíneza przynoszą efekty</title>
-        <link>https://www.realmadryt.pl/news/135945-praktyki-diego-martineza-przynosza-efekty</link>
-        <pubDate>Sun, 19 Jan 2025 07:43:00 GMT</pubDate>
-        <description>Po miesiącach analizowania zespołów Premier League zapisuje się w historii Las Palmas. Z nim drużyna zdobyła 19 punktów w 10 kolejkach. Wcześniej miała tylko trzy w pierwszych dziewięciu.</description>
     </item>
     
 </channel>
