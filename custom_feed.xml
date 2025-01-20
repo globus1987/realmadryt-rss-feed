@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Jan 2025 04:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 04:42:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś losowanie 1/4 finału Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/135980-dzis-losowanie-1-4-finalu-pucharu-krola</link>
+        <pubDate>Mon, 20 Jan 2025 05:30:00 GMT</pubDate>
+        <description>Dziś o godzinie 13:00 rozpocznie się ceremonia losowania par ćwierćfinałowych Copa del Rey.</description>
+    </item>
     
     <item>
         <title>Chema: Drzwi do drużyny są otwarte dla każdego, kto ciężko pracuje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135969-ceballos-mysle-ze-cholo-wciaz-nie-przebolal-dwoch-przegranych-finalow-ligi-mistrzow-z-realem</link>
         <pubDate>Sun, 19 Jan 2025 18:47:00 GMT</pubDate>
         <description>Dani Ceballos pojawił się w strefie mieszanej po wygranej z Las Palmas. Przedstawiamy najważniejsze wypowiedzi hiszpańskiego pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: W Realu Madryt wszyscy są liderami</title>
-        <link>https://www.realmadryt.pl/news/135968-mbappe-w-realu-madryt-wszyscy-sa-liderami</link>
-        <pubDate>Sun, 19 Jan 2025 18:35:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielił wywiadu z murawy dla klubowej telewizji po wygranym 4:1 meczu z UD Las Palmas. Przedstawiamy wypowiedzi napastnika Realu Madryt, autora dwóch bramek w tym meczu.</description>
     </item>
     
 </channel>
