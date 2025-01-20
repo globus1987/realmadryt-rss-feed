@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Jan 2025 14:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 15:23:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kepa błyszczy w Bournemouth</title>
+        <link>https://www.realmadryt.pl/news/136001-kepa-blyszczy-w-bournemouth</link>
+        <pubDate>Mon, 20 Jan 2025 16:07:00 GMT</pubDate>
+        <description>Hiszpański bramkarz jest podstawowym golkiperem rewelacji tego sezonu Premier League.</description>
+    </item>
     
     <item>
         <title>Media wypominają Ceballosowi wspieranie Atleti w przeszłości</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135990-ceballos-spogladal-z-ukosa-na-betis-w-pazdzierniku-a-teraz-nie-ma-juz-watpliwosci</link>
         <pubDate>Mon, 20 Jan 2025 10:16:00 GMT</pubDate>
         <description>Pomocnik pozostanie w Realu Madryt do końca sezonu, choć jeszcze kilka miesięcy temu nie było to takie pewne.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 20 stycznia</title>
-        <link>https://www.realmadryt.pl/news/135986-kartka-z-kalendarza-20-stycznia</link>
-        <pubDate>Mon, 20 Jan 2025 10:00:00 GMT</pubDate>
-        <description>Śmierć byłego koszykarza i trenera, wygrane derby z Atlético w lidze i Pucharze Króla, spektakularny występ na Estadio Mestalla i Alcoyanazo. Co działo się 20 stycznia?</description>
     </item>
     
 </channel>
