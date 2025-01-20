@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Jan 2025 19:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 19:53:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 23. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/136010-terminarz-23-kolejki-la-ligi</link>
+        <pubDate>Mon, 20 Jan 2025 20:44:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz kolejki, która zostanie rozegrana na początku przyszłego miesiąca. Real Madryt zmierzy się na własnym boisku z Atlético Madryt.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Abdukodir Chusanow piłkarzem City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135996-dzisiejszy-trening</link>
         <pubDate>Mon, 20 Jan 2025 13:52:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>W 1/4 finału Pucharu Króla z Leganés!</title>
-        <link>https://www.realmadryt.pl/news/135993-w-1-4-finalu-pucharu-krola-z-leganes</link>
-        <pubDate>Mon, 20 Jan 2025 13:00:00 GMT</pubDate>
-        <description>Królewscy poznali dzisiaj rywala, z którym zmierzą się na początku przyszłego miesiąca.</description>
     </item>
     
 </channel>
