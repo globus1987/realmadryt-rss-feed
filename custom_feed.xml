@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Jan 2025 10:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 10:42:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Glenn Nyberg na Salzburg</title>
+        <link>https://www.realmadryt.pl/news/135994-glenn-nyberg-na-salzburg</link>
+        <pubDate>Mon, 20 Jan 2025 11:40:00 GMT</pubDate>
+        <description>36-latek po raz pierwszy w karierze poprowadzi mecz z udziałem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Laporta: Sędziowanie w Getafe to była hańba, niepodyktowanie karnego za faul na Koundé to skandal</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135982-alaba-nie-potrafie-opisac-jak-bardzo-tesknilem-za-tym-uczuciem</link>
         <pubDate>Mon, 20 Jan 2025 07:25:00 GMT</pubDate>
         <description>David Alaba zamieścił emocjonalny wpis w mediach społecznościowych, po tym jak wrócił do gry po 399 dniach przerwy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Mbappé celuje w zdobycie ponad 40 goli</title>
-        <link>https://www.realmadryt.pl/news/135984-marca-mbappe-celuje-w-zdobycie-ponad-40-goli</link>
-        <pubDate>Mon, 20 Jan 2025 06:31:00 GMT</pubDate>
-        <description>W trzech ze swoich siedmiu sezonów w PSG przekroczył barierę 40 bramek i zamierza powtórzyć ten wynik w swoim pierwszym sezonie w zespole Los Blancos.</description>
     </item>
     
 </channel>
