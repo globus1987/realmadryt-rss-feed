@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Jan 2025 07:38:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 07:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziwny przypadek Jeremy’ego</title>
+        <link>https://www.realmadryt.pl/news/135987-dziwny-przypadek-jeremy-ego</link>
+        <pubDate>Mon, 20 Jan 2025 08:41:00 GMT</pubDate>
+        <description>Zawodnik do tej pory nie liczył się dla Raúla, a cała jego rola sprowadziła się do bycia „talizmanem” Ancelottiego w drodze po Puchar Europy.</description>
+    </item>
     
     <item>
         <title>Ceballos: Czułem się bardzo komfortowo na boisku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135974-150-ligowych-zwyciestw-ancelottiego-z-realem-madryt</link>
         <pubDate>Sun, 19 Jan 2025 19:58:00 GMT</pubDate>
         <description>W starciu z Las Palmas Carletto wygrał swój 150. mecz ligowy z Królewskimi i pod tym względem ustępuje tylko Miguelowi Muñozowi.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Słyszałem, że gramy bardzo źle, ale widzę, że Real jest liderem</title>
-        <link>https://www.realmadryt.pl/news/135973-ancelotti-slyszalem-ze-gramy-bardzo-zle-ale-widze-ze-real-jest-liderem</link>
-        <pubDate>Sun, 19 Jan 2025 19:28:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w konferencji prasowej po wygranym 4:1 meczu z UD Las Palmas. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
