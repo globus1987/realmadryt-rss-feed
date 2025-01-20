@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Jan 2025 22:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 23:19:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136012-dzisiejsze-okladki</link>
+        <pubDate>Tue, 21 Jan 2025 00:14:00 GMT</pubDate>
+        <description>Mecze Hiszpanów w Lidze Mistrzów to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Real? Lata lecą, ale uczucie pozostaje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/135998-butragueno-leganes-mecz-bedzie-bardzo-wyrownany-i-zdecyduja-detale</link>
         <pubDate>Mon, 20 Jan 2025 14:04:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wypowiedzi klubowej telewizji po dzisiejszym losowaniu Pucharu Króla. Przedstawiamy słowa działacza.</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Kiedy Ancelotti i Ceballos byli w innej drużynie, myśleli inaczej</title>
-        <link>https://www.realmadryt.pl/news/135997-simeone-kiedy-ancelotti-i-ceballos-byli-w-innej-druzynie-mysleli-inaczej</link>
-        <pubDate>Mon, 20 Jan 2025 14:03:00 GMT</pubDate>
-        <description>Trwa słowna wymiana trenera Atlético Madryt z przedstawicielami Królewskich. Argentyńczyk zabrał dzisiaj głos przed spotkaniem Ligi Mistrzów.</description>
     </item>
     
 </channel>
