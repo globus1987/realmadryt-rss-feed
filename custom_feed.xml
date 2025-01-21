@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 Jan 2025 07:38:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 07:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti nie daje za wygraną</title>
+        <link>https://www.realmadryt.pl/news/136007-ancelotti-nie-daje-za-wygrana</link>
+        <pubDate>Tue, 21 Jan 2025 08:40:00 GMT</pubDate>
+        <description>Włoch przeżył trudny tydzień, ale wyszedł z niego obronną ręką po zwycięstwie w Pucharze Króla i objęciu prowadzenia w La Lidze.</description>
+    </item>
     
     <item>
         <title>Jak wygląda drabinka po fazie ligowej Ligi Mistrzów?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136003-tylko-dwie-wygrane-leganes-z-realem-w-historii-i-obie-w-pucharze-krola</link>
         <pubDate>Mon, 20 Jan 2025 18:07:00 GMT</pubDate>
         <description>W obecnym sezonie Leganés pokonało już w La Lidze Barcelonę oraz Atlético. W ćwierćfinale Pucharu Króla podopieczni Carlo Ancelottiego zmierzą się właśnie z Los Pepineros, którzy znają smak wyeliminowania Realu Madryt z tych rozgrywek.</description>
-    </item>
-    
-    <item>
-        <title>Le Parisien: Zidane niezmiennie marzy o reprezentacji Francji</title>
-        <link>https://www.realmadryt.pl/news/136002-le-parisien-zidane-niezmiennie-marzy-o-reprezentacji-francji</link>
-        <pubDate>Mon, 20 Jan 2025 17:36:00 GMT</pubDate>
-        <description>Po ogłoszeniu ze strony Didiera Deschampsa wszyscy spoglądają na byłego trenera Realu Madryt. Zizou pozostaje powściągliwy, ale niezmiennie marzy o przejęciu reprezentacji Francji, podkreśla Le Parisien.</description>
     </item>
     
 </channel>
