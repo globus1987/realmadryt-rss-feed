@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 Jan 2025 16:46:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 17:20:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Vinícius ma problem</title>
+        <link>https://www.realmadryt.pl/news/136037-as-vinicius-ma-problem</link>
+        <pubDate>Tue, 21 Jan 2025 17:55:00 GMT</pubDate>
+        <description>Brazylijczyk, który w ostatnich pięciu meczach trafił do siatki tylko raz, wraca na Bernabéu po wygwizdaniu w spotkaniu z Celtą.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Vitor Reis dołącza do Manchesteru City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136022-ancelotti-moim-celem-jest-pozostanie-na-te-4-kolejne-lata-z-florentino</link>
         <pubDate>Tue, 21 Jan 2025 13:25:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Salzburgiem w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Baxi Manresa rywalem w ćwierćfinale Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/136025-baxi-manresa-rywalem-w-cwiercfinale-pucharu-krola</link>
-        <pubDate>Tue, 21 Jan 2025 13:05:00 GMT</pubDate>
-        <description>Real Madryt zagra z Baxi Manresa w ćwierćfinale Pucharu Króla. Zwycięzca tego pojedynku zmierzy się z wygranym z pary Dreamland Gran Canaria – Valencia.</description>
     </item>
     
 </channel>
