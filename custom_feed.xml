@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Jan 2025 21:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 22:20:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius MVP meczu z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/136074-vinicius-mvp-meczu-z-salzburgiem</link>
+        <pubDate>Wed, 22 Jan 2025 23:14:00 GMT</pubDate>
+        <description>Brazylijski napastnik otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Salzburgiem.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius: Chcemy naznaczyć epokę w tym klubie</title>
+        <link>https://www.realmadryt.pl/news/136073-vinicius-chcemy-naznaczyc-epoke-w-tym-klubie</link>
+        <pubDate>Wed, 22 Jan 2025 23:12:00 GMT</pubDate>
+        <description>Vinícius Júnior udzielił wypowiedzi z murawy dla telewizji Movistar+ po wygranym 5:1 meczu Ligi Mistrzów z Salzburgiem. Przedstawiamy wypowiedzi napastnika Realu Madryt, autora dwóch bramek w tym spotkaniu.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/136070-ocen-pilkarzy-po-meczu-z-salzburgiem</link>
+        <pubDate>Wed, 22 Jan 2025 22:55:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Vinícius nie zagra z Brestem</title>
@@ -35,10 +56,10 @@
     </item>
     
     <item>
-        <title>Które miejsce zajmuje Real Madryt? [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/136058-ktore-miejsce-zajmuje-real-madryt-live</link>
+        <title>Real na 16. miejscu, PSG ogrywa City</title>
+        <link>https://www.realmadryt.pl/news/136058-real-na-16-miejscu-psg-ogrywa-city</link>
         <pubDate>Wed, 22 Jan 2025 18:30:00 GMT</pubDate>
-        <description>Przed nami przedostatnia kolejka Ligi Mistrzów, a w niej kilka znakomitych spotkań. Królewscy podejmą RB Salzburg, Milan zagra z Gironą, a PSG zmierzy się z Manchesterem City w meczu gigantów o to, by pozostać w grze o awans do kolejnej fazy.</description>
+        <description>Real Madryt pokonał u siebie RB Salzburg, co pozwala Królewskim zachować minimalne szanse na awans do pierwszej ósemki, ale jednocześnie daje im pewny awans do baraży.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/136063-perelka-ktorej-nie-zauwazyli-krolewscy</link>
         <pubDate>Wed, 22 Jan 2025 15:08:00 GMT</pubDate>
         <description>Real Madryt jak mało który klub umie wyłapywać młode talenty. W jednym konkretnym przypadku Królewscy przegapili jednak gwiazdę, którą przez chwilę mieli wręcz pod nosem.</description>
-    </item>
-    
-    <item>
-        <title>AS: Rodrygo dochodzi do głosu</title>
-        <link>https://www.realmadryt.pl/news/136062-as-rodrygo-dochodzi-do-glosu</link>
-        <pubDate>Wed, 22 Jan 2025 15:00:00 GMT</pubDate>
-        <description>Napastnik przezwyciężył kryzys i potwierdził, że jest ważny dla Ancelottiego. Przeciwko Las Palmas wywalczył rzut karny, strzelił gola, a jego liczby są lepsze od tych, które ostatnio notuje Vinícius.</description>
-    </item>
-    
-    <item>
-        <title>Zrozumieć sezon Realu Madryt: kontuzje, równowaga i problemy w meczach o dużą stawkę</title>
-        <link>https://www.realmadryt.pl/news/136061-zrozumiec-sezon-realu-madryt-kontuzje-rownowaga-i-problemy-w-meczach-o-duza-stawke</link>
-        <pubDate>Wed, 22 Jan 2025 14:57:00 GMT</pubDate>
-        <description>Tomás Hill López-Menchero postanowił przeanalizować ostatnie miesiące i wskazać powody, przez które sytuacja Realu Madryt wygląda teraz tak, a nie inaczej.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé spełnił wielkie marzenie chłopca chorego na nowotwór</title>
-        <link>https://www.realmadryt.pl/news/136059-mbappe-spelnil-wielkie-marzenie-chlopca-chorego-na-nowotwor</link>
-        <pubDate>Wed, 22 Jan 2025 14:27:00 GMT</pubDate>
-        <description>Zawodnik Realu Madryt zareagował od razu, gdy tylko dowiedział się o sytuacji malca.</description>
     </item>
     
 </channel>
