@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Jan 2025 13:12:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 13:32:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé spełnił ostatnie życzenie chłopca chorego na nowotwór</title>
+        <link>https://www.realmadryt.pl/news/136059-mbappe-spelnil-ostatnie-zyczenie-chlopca-chorego-na-nowotwor</link>
+        <pubDate>Wed, 22 Jan 2025 14:27:00 GMT</pubDate>
+        <description>Zawodnik Realu Madryt zareagował od razu, gdy tylko dowiedział się o sytuacji malca.</description>
+    </item>
+    
+    <item>
+        <title>Luki w polityce transferowej</title>
+        <link>https://www.realmadryt.pl/news/136060-luki-w-polityce-transferowej</link>
+        <pubDate>Wed, 22 Jan 2025 14:26:00 GMT</pubDate>
+        <description>Choć Real Madryt słynie w ostatnich latach z wyjątkowo rozsądnej i efektywnej polityki transferowej, to jednak nie zawsze działaczom udaje się odtrąbić sukces. Przypadki Alphonso Daviesa i Leny'ego Yoro pokazują, że strategia Królewskich ma mimo wszystko pewne luki, zauważa Relevo.</description>
+    </item>
     
     <item>
         <title>Sport: Real kradnie w białych rękawiczkach od 1902 roku</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136038-kartka-z-kalendarza-22-stycznia</link>
         <pubDate>Wed, 22 Jan 2025 09:30:00 GMT</pubDate>
         <description>Rozgromienie Elche, urodziny byłego obrońcy, zwycięstwa z Athletikiem i Unionistas oraz… transfer Martina Ødegaarda. Co działo się 22 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>Izraelczyk, który odrzucił Barcelonę i spełni swoje marzenie o grze na Bernabéu… choć nie w barwach Realu</title>
-        <link>https://www.realmadryt.pl/news/136049-izraelczyk-ktory-odrzucil-barcelone-i-spelni-swoje-marzenie-o-grze-na-bernabeu-choc-nie-w-barwach-realu</link>
-        <pubDate>Wed, 22 Jan 2025 09:14:00 GMT</pubDate>
-        <description>Oscar Gloukh zmierzy się dziś ze swoim ulubionym klubem, któremu kibicuje od dziecka.</description>
-    </item>
-    
-    <item>
-        <title>Raphinha: Sędziowanie? Gdybym powiedział, co myślę, to pewnie nie wróciłbym do gry w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/136044-raphinha-sedziowanie-gdybym-powiedzial-co-mysle-to-pewnie-nie-wrocilbym-do-gry-w-la-lidze</link>
-        <pubDate>Wed, 22 Jan 2025 08:40:00 GMT</pubDate>
-        <description>Barcelona kontynuuje swoje skargi na sędziowanie w La Lidze. Po prezesie Joanie Laporcie i trenerze Hansim Flicku także Raphinha wypowiedział się krytycznie o pracy arbitrów w Hiszpanii.</description>
     </item>
     
 </channel>
