@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Jan 2025 08:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 09:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jezioro szczęścia</title>
+        <link>https://www.realmadryt.pl/news/136042-jezioro-szczescia</link>
+        <pubDate>Wed, 22 Jan 2025 10:15:00 GMT</pubDate>
+        <description>Jezioro ma Jej zapach i Jej smak…</description>
+    </item>
+    
+    <item>
+        <title>Piękny gol Hazarda i nieudany eksperyment Zidane’a, czyli jedyny mecz z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/136051-piekny-gol-hazarda-i-nieudany-eksperyment-zidane-a-czyli-jedyny-mecz-z-salzburgiem</link>
+        <pubDate>Wed, 22 Jan 2025 10:00:00 GMT</pubDate>
+        <description>Madrytczycy i Austriacy zmierzyli się w historii tylko raz, w meczu towarzyskim w 2019 roku, w którym Eden Hazard zdobył swoją pierwszą bramkę w barwach Los Blancos, a trener próbował nowych rozwiązań taktycznych.</description>
+    </item>
     
     <item>
         <title>Jonathan Soriano: Salzburg nie idzie już tą samą drogą co kiedyś</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136043-dzisiejsze-okladki</link>
         <pubDate>Wed, 22 Jan 2025 00:45:00 GMT</pubDate>
         <description>Wygrane Hiszpanów w Lidze Mistrzów to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Blaswich: Gra na Bernabéu była moim marzeniem</title>
-        <link>https://www.realmadryt.pl/news/136040-blaswich-gra-na-bernabeu-byla-moim-marzeniem</link>
-        <pubDate>Tue, 21 Jan 2025 19:23:00 GMT</pubDate>
-        <description>Janis Blaswich wziął udział w konferencji prasowej przed środowym meczem Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Red Bulla Salzburg z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Letsch: Jeśli mówimy, że Real gra źle, to dlatego, że zawieszamy bardzo wysoko poprzeczkę</title>
-        <link>https://www.realmadryt.pl/news/136039-letsch-jesli-mowimy-ze-real-gra-zle-to-dlatego-ze-zawieszamy-bardzo-wysoko-poprzeczke</link>
-        <pubDate>Tue, 21 Jan 2025 19:03:00 GMT</pubDate>
-        <description>Thomas Letsch wziął udział w konferencji prasowej przed środowym meczem Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Red Bulla Salzburg z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
