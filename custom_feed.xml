@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 09:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 09:41:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Mbappé jest w gazie</title>
+        <link>https://www.realmadryt.pl/news/136091-marca-mbappe-jest-w-gazie</link>
+        <pubDate>Thu, 23 Jan 2025 10:39:00 GMT</pubDate>
+        <description>Prezent od bramkarza Salzburga pomógł Kylianowi utrzymać świetną passę.</description>
+    </item>
+    
+    <item>
+        <title>Real pierwszym klubem piłkarskim w historii, który osiągnął przychód w wysokości 1 miliarda euro!</title>
+        <link>https://www.realmadryt.pl/news/136095-real-pierwszym-klubem-pilkarskim-w-historii-ktory-osiagnal-przychod-w-wysokosci-1-miliarda-euro</link>
+        <pubDate>Thu, 23 Jan 2025 10:25:00 GMT</pubDate>
+        <description>Już w swojej 28. edycji, raport Deloitte Football Money League przedstawia profile klubów piłkarskich generujących największe przychody na świecie. Sezon 2023/24 otworzył nową erę – Real Madryt stał się pierwszym klubem piłkarskim w historii, który osiągnął przychód w wysokości 1 miliarda euro. Przedstawiamy pełne tłumaczenie raportu.</description>
+    </item>
     
     <item>
         <title>Mateo: Dennis Smith jeszcze nie jest gotowy do gry</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136089-as-real-ma-cztery-armaty</link>
         <pubDate>Thu, 23 Jan 2025 08:27:00 GMT</pubDate>
         <description>Real Madryt strzelił co najmniej dwa gole w każdym meczu od czasu porażki w Bilbao 4 grudnia 2024 roku. Zebrał w tym okresie 42 gole w 12 pojedynkach, czyli ma średnią 3,5 trafienia na mecz.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Plotki o odejściu? Moje marzenie to myślenie o tym, co jest teraz</title>
-        <link>https://www.realmadryt.pl/news/136084-vinicius-plotki-o-odejsciu-moje-marzenie-to-myslenie-o-tym-co-jest-teraz</link>
-        <pubDate>Thu, 23 Jan 2025 07:50:00 GMT</pubDate>
-        <description>Brazylijczyk otrzymał pytanie o swoją przyszłość przy rosnących spekulacjach i... wzbudził tylko więcej wątpliwości.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt ma 2,9% szans na wejście do najlepszej 8 w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/136083-real-madryt-ma-2-9-szans-na-wejscie-do-najlepszej-8-w-lidze-mistrzow</link>
-        <pubDate>Thu, 23 Jan 2025 07:00:00 GMT</pubDate>
-        <description>Królewscy ciągle mogą awnsować do najlepszej ósemki fazy ligowej Ligi Mistrzów, ale ich szanse są minimalne. Opta przedstawiła swoje najnowsze wyliczenia na podstawie 50 tysięcy symulacji specjalnego superkomputera.</description>
     </item>
     
 </channel>
