@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 07:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 07:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jacobo: Nie potrafię opisać tego, co czuję w tym momencie</title>
+        <link>https://www.realmadryt.pl/news/136090-jacobo-nie-potrafie-opisac-tego-co-czuje-w-tym-momencie</link>
+        <pubDate>Thu, 23 Jan 2025 08:48:00 GMT</pubDate>
+        <description>Jacobo Ramón udzielił wywiadu z szatni po meczu Ligi Mistrzów z Salzburgiem, w którym oficjalnie zadebiutował w barwach Realu Madryt. Przedstawiamy wypowiedzi 20-letniego wychowanka Królewskich, który trafił do cantery w 2013 roku.</description>
+    </item>
     
     <item>
         <title>Rodrygo: To był dla mnie wyjątkowy dzień</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136078-rodrygo-mvp-nie-ma-znaczenia-tutaj-gramy-dla-druzyny</link>
         <pubDate>Wed, 22 Jan 2025 23:30:00 GMT</pubDate>
         <description>Rodrygo po meczu Ligi Mistrzów z Salzburgiem udzielił kilku wypowiedzi telewizji Movistar+. Poniżej przedstawiamy ich zapis.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Defensywa to nie jest problem samej obrony</title>
-        <link>https://www.realmadryt.pl/news/136076-ancelotti-defensywa-to-nie-jest-problem-samej-obrony</link>
-        <pubDate>Wed, 22 Jan 2025 23:22:00 GMT</pubDate>
-        <description>Carlo Ancelotti po meczu Ligi Mistrzów z Salzbugiem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
