@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 11:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 11:38:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Busquets Ferrer na Real Valladolid</title>
+        <link>https://www.realmadryt.pl/news/136097-busquets-ferrer-na-real-valladolid</link>
+        <pubDate>Thu, 23 Jan 2025 12:35:00 GMT</pubDate>
+        <description>31-latek z Majorki poprowadzi sobotni mecz Realu Valladolid z Realem Madryt. Będzie to dla niego czwarty mecz Królewskich. Sędzią VAR będzie Juan Luis Pulido Santana.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Salzburgiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136085-ancelotti-odpadniecie-city-byloby-dobra-informacja</link>
         <pubDate>Thu, 23 Jan 2025 08:37:00 GMT</pubDate>
         <description>Carlo Ancelotti po meczu Ligi Mistrzów z Salzbugiem pojawił się na konferencji prasowej. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Asencio: Będę próbować grać dobrze niezależnie od pozycji</title>
-        <link>https://www.realmadryt.pl/news/136082-asencio-bede-probowac-grac-dobrze-niezaleznie-od-pozycji</link>
-        <pubDate>Thu, 23 Jan 2025 08:37:00 GMT</pubDate>
-        <description>Raúl Asencio po meczu Ligi Mistrzów z Salzbugiem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi obrońcy Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
