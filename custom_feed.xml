@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 20:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 20:39:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie w finale Superpucharu Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/136109-krolewskie-w-finale-superpucharu-hiszpanii</link>
+        <pubDate>Thu, 23 Jan 2025 21:27:00 GMT</pubDate>
+        <description>Po emocjonującym meczu piłkarki Realu Madryt pokonały w drugim półfinale Superpucharu Hiszpanii Real Sociedad 3:2 i w niedzielę zagrają o tytuł z Barceloną. Bramki dla Królewskich zdobywały Caroline Weir, Filippa Angeldahl i Linda Caicedo.</description>
+    </item>
     
     <item>
         <title>BILD: Real rozmawia z Kimmichem!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136100-ser-barcelona-mysli-o-przeniesieniu-domowego-klasyku-na-zagraniczny-stadion</link>
         <pubDate>Thu, 23 Jan 2025 14:13:00 GMT</pubDate>
         <description>Drugi ligowy Klasyk odbędzie się w maju. W teorii ma zostać rozegrany w Barcelonie, ale klub Joana Laporty ma sprytny plan na wypadek niepowodzenia opcji z grą na nowym Camp Nou.</description>
-    </item>
-    
-    <item>
-        <title>Lahoz: Vinícius nie próbował oszukać sędziego</title>
-        <link>https://www.realmadryt.pl/news/136099-lahoz-vinicius-nie-probowal-oszukac-sedziego</link>
-        <pubDate>Thu, 23 Jan 2025 13:39:00 GMT</pubDate>
-        <description>Były hiszpański sędzia pracuje teraz jako ekspert w radiu COPE i telewizji Movistar+. Przedstawiamy jego komentarze na temat sytuacji z ostatniej kolejki Ligi Mistrzów.</description>
     </item>
     
 </channel>
