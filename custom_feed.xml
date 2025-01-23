@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 10:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 11:18:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/136094-oceny-zawodnikow-po-meczu-z-salzburgiem</link>
+        <pubDate>Thu, 23 Jan 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Salzburgiem 5:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Passa pokoju</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136082-asencio-bede-probowac-grac-dobrze-niezaleznie-od-pozycji</link>
         <pubDate>Thu, 23 Jan 2025 08:37:00 GMT</pubDate>
         <description>Raúl Asencio po meczu Ligi Mistrzów z Salzbugiem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi obrońcy Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Toril: Jesteśmy podekscytowani możliwością gry w finale</title>
-        <link>https://www.realmadryt.pl/news/136071-toril-jestesmy-podekscytowani-mozliwoscia-gry-w-finale</link>
-        <pubDate>Thu, 23 Jan 2025 08:30:00 GMT</pubDate>
-        <description>Alberto Toril wziął udział w konferencji prasowej przed czwartkowym półfinałem Superpucharu Hiszpanii z Realem Sociedad. Przedstawiamy wypowiedzi trenera Las Blancas z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
