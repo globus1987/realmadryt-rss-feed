@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 17:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 18:30:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>BILD: Real rozmawia z Kimmichem!</title>
+        <link>https://www.realmadryt.pl/news/136108-bild-real-rozmawia-z-kimmichem</link>
+        <pubDate>Thu, 23 Jan 2025 19:28:00 GMT</pubDate>
+        <description>Jak informuje niemiecki dziennik, Joshua Kimmich nawiązał kontakt z Realem Madryt w sprawie potencjalnego transferu w letnim okienku.</description>
+    </item>
     
     <item>
         <title>Carlos Sainz: Zawsze będę gotowy, by pomóc Realowi Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136099-lahoz-vinicius-nie-probowal-oszukac-sedziego</link>
         <pubDate>Thu, 23 Jan 2025 13:39:00 GMT</pubDate>
         <description>Były hiszpański sędzia pracuje teraz jako ekspert w radiu COPE i telewizji Movistar+. Przedstawiamy jego komentarze na temat sytuacji z ostatniej kolejki Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/136098-dzisiejszy-trening</link>
-        <pubDate>Thu, 23 Jan 2025 13:26:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
