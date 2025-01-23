@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 04:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 04:41:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius przebił barierę 100 goli strzelonych w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/136081-vinicius-przebil-bariere-100-goli-strzelonych-w-realu-madryt</link>
+        <pubDate>Thu, 23 Jan 2025 05:30:00 GMT</pubDate>
+        <description>Brazylijczyk w meczu z Salzburgiem przebił symboliczną barierę goli strzelonych w Realu Madryt. To 23. piłkarz w historii klubu, który strzelił dla niego przynajmniej 100 goli.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136065-real-madryt-salzburg-znamy-sklady</link>
         <pubDate>Wed, 22 Jan 2025 19:06:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Spotkanie rozpocznie się o godzinie 21:00 na Estadio Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real na 16. miejscu, PSG ogrywa City</title>
-        <link>https://www.realmadryt.pl/news/136058-real-na-16-miejscu-psg-ogrywa-city</link>
-        <pubDate>Wed, 22 Jan 2025 18:30:00 GMT</pubDate>
-        <description>Real Madryt pokonał u siebie RB Salzburg, co pozwala Królewskim zachować minimalne szanse na awans do pierwszej ósemki, ale jednocześnie daje im pewny awans do baraży.</description>
     </item>
     
 </channel>
