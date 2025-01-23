@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 07:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 08:28:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 stycznia</title>
+        <link>https://www.realmadryt.pl/news/136077-kartka-z-kalendarza-23-stycznia</link>
+        <pubDate>Thu, 23 Jan 2025 09:15:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, odejście holenderskiego napastnika i transfer Brazylijczyka. Co działo się 23 stycznia?</description>
+    </item>
     
     <item>
         <title>Jacobo: Nie potrafię opisać tego, co czuję w tym momencie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136080-dzisiejsze-okladki</link>
         <pubDate>Thu, 23 Jan 2025 00:26:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i osiągnięcia Raphinhi to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: MVP nie ma znaczenia, tutaj gramy dla drużyny</title>
-        <link>https://www.realmadryt.pl/news/136078-rodrygo-mvp-nie-ma-znaczenia-tutaj-gramy-dla-druzyny</link>
-        <pubDate>Wed, 22 Jan 2025 23:30:00 GMT</pubDate>
-        <description>Rodrygo po meczu Ligi Mistrzów z Salzburgiem udzielił kilku wypowiedzi telewizji Movistar+. Poniżej przedstawiamy ich zapis.</description>
     </item>
     
 </channel>
