@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Jan 2025 23:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 23:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136116-dzisiejsze-okladki</link>
+        <pubDate>Fri, 24 Jan 2025 00:41:00 GMT</pubDate>
+        <description>Osiągnięcia Realu Madryt i nowy kontrakt Ronalda Araújo to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze wygrywają w ostatniej sekundzie po rzucie Hezonji [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136096-nowy-rodrygo-wiecej-ego-nowa-celebracja-i-dylemat-dla-ancelottiego</link>
         <pubDate>Thu, 23 Jan 2025 15:01:00 GMT</pubDate>
         <description>Brazylijski napastnik zanotował osiem goli i trzy asysty w ostatnich dziesięciu meczach w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie rozpoczynają walkę o Superpuchar Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/136101-krolewskie-rozpoczynaja-walke-o-superpuchar-hiszpanii</link>
-        <pubDate>Thu, 23 Jan 2025 14:31:00 GMT</pubDate>
-        <description>W drugim półfinale kobiecego Superpucharu Hiszpanii Real Madryt zagra na Estadio Municipal de Butarque z Realem Sociedad. Początek meczu o godzinie 19:00.</description>
     </item>
     
 </channel>
