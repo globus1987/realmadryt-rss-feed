@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 Jan 2025 22:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 23:19:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136148-dzisiejsze-okladki</link>
+        <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
+        <description>Walka o lidera La Ligi i wywiezienie Klasyku poza Barcelonę to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Bruno Fernando zawodnikiem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136131-ancelotti-ludzie-zapomnieli-ze-z-viniciusem-wygralismy-dwie-ligi-mistrzow</link>
         <pubDate>Fri, 24 Jan 2025 12:58:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem La Ligi z Valladolidem. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Realem Valladolid</title>
-        <link>https://www.realmadryt.pl/news/136133-ostatni-trening-przed-realem-valladolid</link>
-        <pubDate>Fri, 24 Jan 2025 12:30:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
