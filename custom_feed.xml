@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 Jan 2025 18:30:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 18:45:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Anulowani przez VAR</title>
+        <link>https://www.realmadryt.pl/news/136143-anulowani-przez-var</link>
+        <pubDate>Fri, 24 Jan 2025 19:43:00 GMT</pubDate>
+        <description>Od sezonu 2018/19 VAR anulował piłkarzom Realu Madryt aż 32 ligowe bramki. Jest to zdecydowanie najwyższy wynik w hiszpańskim futbolu. Dla porównania Barcelonie anulowano w tym samym czasie tylko 13 bramek.</description>
+    </item>
     
     <item>
         <title>MARCA: Real otrzymał ofertę wypożyczenia Kyle'a Walkera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136130-real-poleci-do-valladolidu-samolotem</link>
         <pubDate>Fri, 24 Jan 2025 12:01:00 GMT</pubDate>
         <description>Jutro Królewscy pokonają w przestworzach raptem 200 kilometrów.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lucas Vázquez nie jest kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/136127-oficjalnie-lucas-vazquez-nie-jest-kontuzjowany</link>
-        <pubDate>Fri, 24 Jan 2025 11:23:00 GMT</pubDate>
-        <description>Hiszpański obrońca jest gotowy do gry.</description>
     </item>
     
 </channel>
