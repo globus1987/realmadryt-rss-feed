@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 Jan 2025 11:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 12:42:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 24. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/136136-terminarz-24-kolejki-la-ligi</link>
+        <pubDate>Fri, 24 Jan 2025 13:07:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz kolejki, która zostanie rozegrana w połowie lutego. Real Madryt zmierzy się na wyjeździe z Osasuną.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Ludzie zapomnieli, że z Viníciusem wygraliśmy dwie Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/136131-ancelotti-ludzie-zapomnieli-ze-z-viniciusem-wygralismy-dwie-ligi-mistrzow</link>
+        <pubDate>Fri, 24 Jan 2025 12:58:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem La Ligi z Valladolidem. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed Realem Valladolid</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136124-hezonja-obsrywalem-sie-caly-mecz-i-musialem-cos-wykombinowac</link>
         <pubDate>Fri, 24 Jan 2025 09:54:00 GMT</pubDate>
         <description>Mario Hezonja i Chus Mateo rozmawiali z mediami po wygranej nad Baskonią. Przedstawiamy najważniejsze wypowiedzi koszykarza i trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Postaw na wygraną Królewskich z Realem Valladolid i zgarnij 200 zł!</title>
-        <link>https://www.realmadryt.pl/news/136123-postaw-na-wygrana-krolewskich-z-realem-valladolid-i-zgarnij-200-zl</link>
-        <pubDate>Fri, 24 Jan 2025 09:46:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real Madryt stracił Daviesa już kilka miesięcy temu</title>
-        <link>https://www.realmadryt.pl/news/136122-marca-real-madryt-stracil-daviesa-juz-kilka-miesiecy-temu</link>
-        <pubDate>Fri, 24 Jan 2025 09:33:00 GMT</pubDate>
-        <description>Obrońca przestał traktować Królewskich jako priorytet, gdy po osiągnięciu porozumienia z nim w lutym nie zdecydowali się na jego transfer, mimo że latem Bayern wyraził zgodę na sprzedaż.</description>
     </item>
     
 </channel>
