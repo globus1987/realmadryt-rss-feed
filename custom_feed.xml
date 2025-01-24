@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 Jan 2025 10:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 11:18:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real poleci do Valladolidu samolotem</title>
+        <link>https://www.realmadryt.pl/news/136130-real-poleci-do-valladolidu-samolotem</link>
+        <pubDate>Fri, 24 Jan 2025 12:01:00 GMT</pubDate>
+        <description>Jutro Królewscy pokonają w przestworzach raptem 200 kilometrów.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Lucas Vázquez nie jest kontuzjowany</title>
         <link>https://www.realmadryt.pl/news/136127-oficjalnie-lucas-vazquez-nie-jest-kontuzjowany</link>
         <pubDate>Fri, 24 Jan 2025 11:23:00 GMT</pubDate>
-        <description>Hiszpański obrońca wypada z gry i nie zagra w kilku najbliższych spotkaniach.</description>
+        <description>Hiszpański obrońca jest gotowy do gry.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136117-marca-trent-bylby-gotowy-na-zimowy-transfer-ale-liverpool-nie-chce-o-tym-slyszec</link>
         <pubDate>Fri, 24 Jan 2025 08:49:00 GMT</pubDate>
         <description>Anglik ma być gotowy do zmiany klubu już teraz, ale jego klub nie chce słyszeć o utracie jednego ze swoich podstawowych graczy przy walce o Premier League i Ligę Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>AS: Getafe obserwuje Víctora Muñoza</title>
-        <link>https://www.realmadryt.pl/news/136120-as-getafe-obserwuje-victora-munoza</link>
-        <pubDate>Fri, 24 Jan 2025 08:49:00 GMT</pubDate>
-        <description>Kolejny młody talent może trafić na południe od centrum Madrytu? Zimą raczej nie, ale latem bardzo możliwe, że tak.</description>
     </item>
     
 </channel>
