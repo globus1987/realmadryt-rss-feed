@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Jan 2025 23:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 23:38:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136179-dzisiejsze-okladki</link>
+        <pubDate>Sun, 26 Jan 2025 00:25:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Asencio: Będę grał tam, gdzie zdecyduje trener</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136164-toril-niech-zawodniczki-pokaza-osobowosc-i-charakter</link>
         <pubDate>Sat, 25 Jan 2025 19:40:00 GMT</pubDate>
         <description>Albetro Toril i Caroline Weir wzięli udział w konferencji prasowej przed meczem z Barceloną o Superpuchar Hiszpanii. Przedstawiamy wypowiedzi trenera i zawodniczki Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Valladolid – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/136162-valladolid-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 25 Jan 2025 19:06:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu La Ligi. Mecz rozpocznie się o godzinie 21:00 na Estadio José Zorrilla.</description>
     </item>
     
 </channel>
