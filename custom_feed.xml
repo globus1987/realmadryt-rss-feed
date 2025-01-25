@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Jan 2025 10:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 10:39:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Operacja Pichichi</title>
+        <link>https://www.realmadryt.pl/news/136151-operacja-pichichi</link>
+        <pubDate>Sat, 25 Jan 2025 11:30:00 GMT</pubDate>
+        <description>Drużyna chce pomóc Kylianowi Mbappé w walce o Trofeo Pichichi. Francuz traci obecnie do liderującego Roberta Lewandowskiego cztery bramki.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136110-telewizyjny-terminarz-21-kolejki-la-ligi</link>
         <pubDate>Fri, 24 Jan 2025 20:01:00 GMT</pubDate>
         <description>Przed nami 21. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Realem Valladolid. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Anulowani przez VAR</title>
-        <link>https://www.realmadryt.pl/news/136143-anulowani-przez-var</link>
-        <pubDate>Fri, 24 Jan 2025 19:43:00 GMT</pubDate>
-        <description>Od sezonu 2018/19 VAR anulował piłkarzom Realu Madryt aż 32 ligowe bramki. Jest to zdecydowanie najwyższy wynik w hiszpańskim futbolu. Dla porównania Barcelonie anulowano w tym samym czasie tylko 13 bramek.</description>
     </item>
     
 </channel>
