@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Jan 2025 21:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 22:20:38 GMT</lastBuildDate>
     
     <item>
-        <title>Real Valladolid – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/136168-real-valladolid-real-madryt-live</link>
+        <title>Oceń piłkarzy po meczu z Realem Valladolid</title>
+        <link>https://www.realmadryt.pl/news/136172-ocen-pilkarzy-po-meczu-z-realem-valladolid</link>
+        <pubDate>Sat, 25 Jan 2025 22:59:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Kylian Mbappé MVP meczu z Valladolidem</title>
+        <link>https://www.realmadryt.pl/news/136171-kylian-mbappe-mvp-meczu-z-valladolidem</link>
+        <pubDate>Sat, 25 Jan 2025 22:55:00 GMT</pubDate>
+        <description>Francuz został wyróżniony po wygranym przez Real spotkaniu na Estadio José Zorrilla.</description>
+    </item>
+    
+    <item>
+        <title>21. kolejka: Real Madryt odskakuje Atlético na 4 punkty i Barçy aż na 10</title>
+        <link>https://www.realmadryt.pl/news/136166-21-kolejka-real-madryt-odskakuje-atletico-na-4-punkty-i-barcy-az-na-10</link>
+        <pubDate>Sat, 25 Jan 2025 22:55:00 GMT</pubDate>
+        <description>Królewscy wypełnili cel i wygrali na boisku ostatniej drużyny. Pozwala to im odskoczyć od Atlético i narzucić presję na grającą w niedzielę Barcelonę.</description>
+    </item>
+    
+    <item>
+        <title>Przybyli, zobaczyli, zwyciężyli</title>
+        <link>https://www.realmadryt.pl/news/136168-przybyli-zobaczyli-zwyciezyli</link>
         <pubDate>Sat, 25 Jan 2025 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz 21. kolejki La Ligi, w którym Real Madryt mierzy się na wyjeździe z Realem Valladolid.</description>
+        <description>W meczu 21. kolejki La Ligi Real Madryt pokonał Real Valladolid 3:0. Pierwszym hat-trickiem w barwach Królewskich popisał się Kylian Mbappé.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/136158-bayer-spodziewa-sie-odejscia-alonso-do-realu-ale</link>
         <pubDate>Sat, 25 Jan 2025 13:53:00 GMT</pubDate>
         <description>Nawet w klubie Hiszpana panuje przekonanie, że obejmie Królewskich w najbliższej przyszłości. Nie jest jednak takie oczywiste, że zrobi to już po tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius trenował w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/136157-vinicius-trenowal-w-valdebebas</link>
-        <pubDate>Sat, 25 Jan 2025 12:54:00 GMT</pubDate>
-        <description>Vinícius nie zagra dziś z Realem Valladolid. Brazylijczyk pojawił się dziś w Valdebebas, gdzie odbył sesję treningową.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Valladolidzie</title>
-        <link>https://www.realmadryt.pl/news/136156-krolewscy-sa-juz-w-valladolidzie</link>
-        <pubDate>Sat, 25 Jan 2025 12:40:00 GMT</pubDate>
-        <description>Piłkarze Realu Madryt są już na miejscu. Dziś o 21:00 w Valladolidzie rozegrają mecz 21. kolejki La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Zmarł Dražen Dalipagić</title>
-        <link>https://www.realmadryt.pl/news/136155-zmarl-drazen-dalipagic</link>
-        <pubDate>Sat, 25 Jan 2025 12:33:00 GMT</pubDate>
-        <description>Zmarł były koszykarz Realu Madryt, który grał w klubie w latach osiemdziesiątych poprzedniego wieku.</description>
     </item>
     
 </channel>
