@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Jan 2025 08:54:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 09:20:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>W stronę słońca</title>
+        <link>https://www.realmadryt.pl/news/136146-w-strone-slonca</link>
+        <pubDate>Sat, 25 Jan 2025 10:00:00 GMT</pubDate>
+        <description>Szczęśliwi, którzy znają cel swojej podróży…</description>
+    </item>
     
     <item>
         <title>„Wygrana z Realem Madryt? Statystyki są po to, aby je przełamywać”</title>
@@ -31,7 +38,7 @@
         <title>Casillas i Piqué spierają się w reklamie: Manity czy Puchary Europy?</title>
         <link>https://www.realmadryt.pl/news/136144-casillas-i-pique-spieraja-sie-w-reklamie-manity-czy-puchary-europy</link>
         <pubDate>Sat, 25 Jan 2025 07:50:00 GMT</pubDate>
-        <description>Legendy Realu Madryt wzięły udział w kampanii reklamowej jednego ze sponsorów La Ligi.</description>
+        <description>Legenda Realu Madryt wzięła udział w kampanii reklamowej jednego ze sponsorów La Ligi.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136142-marca-real-otrzymal-oferte-wypozyczenia-kylea-walkera</link>
         <pubDate>Fri, 24 Jan 2025 19:28:00 GMT</pubDate>
         <description>Klub interesuje tylko pozyskanie Alexandra-Arnolda i jest zamknięty na inne opcje, nawet tymczasowe. Wygląda jednak na to, że na zakontraktowanie Trenta przyjdzie mu poczekać do lata.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Valladolidu na Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/136141-kadra-valladolidu-na-real-madryt</link>
-        <pubDate>Fri, 24 Jan 2025 18:05:00 GMT</pubDate>
-        <description>Rywale mają poważne osłabienia w każdej z formacji z pola. Na liście znalazło się trzech byłych piłkarzy Królewskich.</description>
     </item>
     
 </channel>
