@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Jan 2025 11:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 11:38:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmarł Dražen Dalipagić</title>
+        <link>https://www.realmadryt.pl/news/136155-zmarl-drazen-dalipagic</link>
+        <pubDate>Sat, 25 Jan 2025 12:33:00 GMT</pubDate>
+        <description>Zmarł były koszykarz Realu Madryt, który grał w klubie w latach osiemdziesiątych poprzedniego wieku.</description>
+    </item>
     
     <item>
         <title>Di Marzio: Como chce wykupić Paza od Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136148-dzisiejsze-okladki</link>
         <pubDate>Sat, 25 Jan 2025 00:00:00 GMT</pubDate>
         <description>Walka o lidera La Ligi i wywiezienie Klasyku poza Barcelonę to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Bruno Fernando zawodnikiem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/136147-oficjalnie-bruno-fernando-zawodnikiem-realu-madryt</link>
-        <pubDate>Fri, 24 Jan 2025 23:17:00 GMT</pubDate>
-        <description>Bruno Fernando jest drugim zimowym wzmocnieniem koszykarskiej sekcji Realu Madryt. Pochodzący z Angoli środkowy podpisał półtoraroczny kontrakt z Królewskimi i wkrótce dołączy do treningów z drużyną.</description>
     </item>
     
 </channel>
