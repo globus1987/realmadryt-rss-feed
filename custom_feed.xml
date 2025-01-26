@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Jan 2025 08:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 08:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fernando: Wiele dla mnie znaczy dołączenie do Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/136163-fernando-wiele-dla-mnie-znaczy-dolaczenie-do-realu-madryt</link>
+        <pubDate>Sun, 26 Jan 2025 09:40:00 GMT</pubDate>
+        <description>Bruno Fernando udzielił wywiadu klubowym mediom, w którym podzielił się pierwszymi wrażeniami po podpisaniu kontraktu z Realem Madryt. Przyznał między innymi, że znajduje się w dobrej formie fizycznej, bo trenował w czasie, gdy pozostawał bez klubu.</description>
+    </item>
     
     <item>
         <title>The Athletic: Real nie straci praw do Paza, ale też hamuje euforię ws. jego powrotu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136174-anuar-mario-dotyka-pilke-a-pozniej-nogi-bellinghama</link>
         <pubDate>Sat, 25 Jan 2025 23:22:00 GMT</pubDate>
         <description>Anuar Tuhami udzielił wywiadu dla telewizji Movistar+ po przegranym 0:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi pomocnika Realu Valladolid.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Realem Valladolid</title>
-        <link>https://www.realmadryt.pl/news/136172-ocen-pilkarzy-po-meczu-z-realem-valladolid</link>
-        <pubDate>Sat, 25 Jan 2025 22:59:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
