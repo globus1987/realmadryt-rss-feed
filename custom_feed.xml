@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Jan 2025 20:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 20:38:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Nasza mentalność była odpowiednia</title>
+        <link>https://www.realmadryt.pl/news/136202-mateo-nasza-mentalnosc-byla-odpowiednia</link>
+        <pubDate>Sun, 26 Jan 2025 21:30:00 GMT</pubDate>
+        <description>Chus Mateo podsumował wygrane spotkanie z Leymą Coruña. Był zadowolony z energii, którą zaprezentowali zawodnicy i z awansu na pozycję lidera w Lidze Endesa.</description>
+    </item>
     
     <item>
         <title>Brest wygrał przed meczem z Realem w Lidze Mistrzów</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>Barça prowadzi z Valencią 3:0 [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/136197-barca-prowadzi-z-valencia-3-0-live</link>
+        <title>Barça miażdży Valencię [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/136197-barca-miazdzy-valencie-live</link>
         <pubDate>Sun, 26 Jan 2025 19:55:00 GMT</pubDate>
         <description>Real Madryt wygrał z Realem Valladolid i powiększył przewagę nad Barceloną do 10 punktów. Podopieczni Hansiego Flicka mogą wrócić dziś do 7-punktowej straty. Grają u siebie z Valencią.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136192-mistrzowskie-liczby</link>
         <pubDate>Sun, 26 Jan 2025 14:34:00 GMT</pubDate>
         <description>Tylko raz na 15 okazji Real Madryt nie zdobył mistrzostwa, mając po 21 kolejkach 49 punktów. Przy zachowaniu tej częstotliwości Królewscy na koniec rozgrywek zgromadziliby 89 oczek.</description>
-    </item>
-    
-    <item>
-        <title>Szansa na pozycję lidera</title>
-        <link>https://www.realmadryt.pl/news/136191-szansa-na-pozycje-lidera</link>
-        <pubDate>Sun, 26 Jan 2025 14:29:00 GMT</pubDate>
-        <description>W 18. kolejce Ligi Endesa Real Madryt zmierzy się z Leymą Coruña. Królewscy niespodziewanie staną dzisiaj przed szansą na odzyskanie pozycji lidera. Do tego byłoby potrzebne zwycięstwo przynajmniej 15 punktami.</description>
     </item>
     
 </channel>
