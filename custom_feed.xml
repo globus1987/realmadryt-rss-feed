@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Jan 2025 07:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 07:38:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Leupolz z kontuzją więzadła krzyżowego</title>
+        <link>https://www.realmadryt.pl/news/136170-media-leupolz-z-kontuzja-wiezadla-krzyzowego</link>
+        <pubDate>Sun, 26 Jan 2025 08:30:00 GMT</pubDate>
+        <description>Według hiszpańskich mediów pomocniczka Realu Madryt zerwała więzadło w kolanie, ale nie będzie musiała przejść operacji.</description>
+    </item>
     
     <item>
         <title>Pierwszy kobiecy Klasyk w finale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136171-kylian-mbappe-mvp-meczu-z-valladolidem</link>
         <pubDate>Sat, 25 Jan 2025 22:55:00 GMT</pubDate>
         <description>Francuz został wyróżniony po wygranym przez Real spotkaniu na Estadio José Zorrilla.</description>
-    </item>
-    
-    <item>
-        <title>21. kolejka: Real Madryt odskakuje Atlético na 4 punkty i Barçy aż na 10</title>
-        <link>https://www.realmadryt.pl/news/136166-21-kolejka-real-madryt-odskakuje-atletico-na-4-punkty-i-barcy-az-na-10</link>
-        <pubDate>Sat, 25 Jan 2025 22:55:00 GMT</pubDate>
-        <description>Królewscy wypełnili cel i wygrali na boisku ostatniej drużyny. Pozwala to im odskoczyć od Atlético i narzucić presję na grającą w niedzielę Barcelonę.</description>
     </item>
     
 </channel>
