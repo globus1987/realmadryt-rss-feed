@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Jan 2025 09:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 09:38:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 26 stycznia</title>
+        <link>https://www.realmadryt.pl/news/136183-kartka-z-kalendarza-26-stycznia</link>
+        <pubDate>Sun, 26 Jan 2025 10:30:00 GMT</pubDate>
+        <description>Urodziny byłego trenera, Míchel w roli bramkarza oraz zwycięstwa z Sevillą, Realem Valladolid i Atlético. Co działo się 26 stycznia?</description>
+    </item>
     
     <item>
         <title>Fernando: Wiele dla mnie znaczy dołączenie do Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136175-ancelotti-liga-jest-za-dluga-by-myslec-ze-jest-skonczona</link>
         <pubDate>Sat, 25 Jan 2025 23:24:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu La Ligi z Valladolidem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Estadio José Zorrilla.</description>
-    </item>
-    
-    <item>
-        <title>Anuar: Mario dotyka piłkę, a później nogi Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/136174-anuar-mario-dotyka-pilke-a-pozniej-nogi-bellinghama</link>
-        <pubDate>Sat, 25 Jan 2025 23:22:00 GMT</pubDate>
-        <description>Anuar Tuhami udzielił wywiadu dla telewizji Movistar+ po przegranym 0:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi pomocnika Realu Valladolid.</description>
     </item>
     
 </channel>
