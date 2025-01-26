@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Jan 2025 15:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 15:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé goni Cristiano</title>
+        <link>https://www.realmadryt.pl/news/136195-mbappe-goni-cristiano</link>
+        <pubDate>Sun, 26 Jan 2025 16:26:00 GMT</pubDate>
+        <description>W 2025 roku Francuz przeżywa eksplozję formy, strzelając 8 goli w 8 występach we wszystkich rozgrywkach. Tym samym zbliża się do liczb legendarnego Portugalczyka z jego pierwszego sezonu w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Toril: Idziemy swoją drogą i nie jest łatwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136182-cocca-real-madryt-cie-wyczerpuje-poszukuje-bledu-i-wykancza</link>
         <pubDate>Sun, 26 Jan 2025 11:20:00 GMT</pubDate>
         <description>Trener Realu Valladolid, Diego Cocca, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis wypowiedzi argentyńskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Sport: Skandaliczy bilans rzutów karnych Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/136185-sport-skandaliczy-bilans-rzutow-karnych-realu-madryt</link>
-        <pubDate>Sun, 26 Jan 2025 11:18:00 GMT</pubDate>
-        <description>Królewscy otrzymali już dziesięć rzutów karnych w tym sezonie ligowym. Nie podyktowano za to żadnego przeciwko nim. Katalończycy wyrażają sprzeciw.</description>
     </item>
     
 </channel>
