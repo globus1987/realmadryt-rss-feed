@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Jan 2025 22:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 23:19:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136204-dzisiejsze-okladki</link>
+        <pubDate>Mon, 27 Jan 2025 00:08:00 GMT</pubDate>
+        <description>Forma Kyliana Mbappé i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Nasza mentalność była odpowiednia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136193-ceballos-staje-sie-kroosem</link>
         <pubDate>Sun, 26 Jan 2025 14:55:00 GMT</pubDate>
         <description>Wśród wielu słynnych cytatów Carlo Ancelottiego, jednym z najdłużej pamiętanych jest być może ten, w którym Włoch przyznaje, że jest niesprawiedliwy wobec Ceballosa. Dziś mu to jednak wynagradza, choć niewykluczone, że doszłoby do tego wcześniej, gdyby nie częste problemy zdrowotne pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Mistrzowskie liczby</title>
-        <link>https://www.realmadryt.pl/news/136192-mistrzowskie-liczby</link>
-        <pubDate>Sun, 26 Jan 2025 14:34:00 GMT</pubDate>
-        <description>Tylko raz na 15 okazji Real Madryt nie zdobył mistrzostwa, mając po 21 kolejkach 49 punktów. Przy zachowaniu tej częstotliwości Królewscy na koniec rozgrywek zgromadziliby 89 oczek.</description>
     </item>
     
 </channel>
