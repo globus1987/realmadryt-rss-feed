@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Jan 2025 23:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 23:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Saudyjczycy zaoferują Viníciusowi miliard euro</title>
+        <link>https://www.realmadryt.pl/news/136234-as-saudyjczycy-zaoferuja-viniciusowi-miliard-euro</link>
+        <pubDate>Tue, 28 Jan 2025 00:41:00 GMT</pubDate>
+        <description>To pierwsza tak konkretna informacja o powrocie Saudyjczyków po Brazylijczyka. Pada też konkretna kwota, jaką miałby otrzymać Real Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -83,13 +90,6 @@ Piłka nożna to sport wymagający dużej sprawności fizycznej. Aby utrzymać w
         <link>https://www.realmadryt.pl/news/136216-wymarzony-tydzien-jacobo-ramona</link>
         <pubDate>Mon, 27 Jan 2025 15:37:00 GMT</pubDate>
         <description>Młody wychowanek na przestrzeni tygodnia zadebiutował w pierwszej drużynie Realu Madryt, otrzymał pochwałę od Carlo Ancelottiego i zanotował dublet, który pomógł mu nadal twardo stąpać po ziemi.</description>
-    </item>
-    
-    <item>
-        <title>Bernabéu z kolejną otwartą restauracją</title>
-        <link>https://www.realmadryt.pl/news/136215-bernabeu-z-kolejna-otwarta-restauracja</link>
-        <pubDate>Mon, 27 Jan 2025 15:01:00 GMT</pubDate>
-        <description>Na stadionie Królewskich otwarto kolejną restaurację. Ciągle nie ma jednak informacji o otwarciu najważniejszego takiego lokalu z lożami SuperVIP.</description>
     </item>
     
 </channel>
