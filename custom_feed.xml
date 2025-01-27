@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Jan 2025 04:27:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 04:43:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie tylko Pichichi, ale także Złoty But?</title>
+        <link>https://www.realmadryt.pl/news/136205-nie-tylko-pichichi-ale-takze-zloty-but</link>
+        <pubDate>Mon, 27 Jan 2025 05:30:00 GMT</pubDate>
+        <description>Wszyscy patrzą na rywalizację o króla strzelców La Ligi. Hiszpański dziennikarz wyznacza jednak napastnikowi Realu Madryt jeszcze wyższy cel.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136194-oszustwo-ancelottiego</link>
         <pubDate>Sun, 26 Jan 2025 15:27:00 GMT</pubDate>
         <description>Jeszcze 11 dni temu Carlo Ancelotti twierdził, że Raúl Asencio nie jest gotowy, by grać na boku obrony. Z Realem Valladolid wychowanek zagrał więc… na prawej obronie.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos staje się Kroosem</title>
-        <link>https://www.realmadryt.pl/news/136193-ceballos-staje-sie-kroosem</link>
-        <pubDate>Sun, 26 Jan 2025 14:55:00 GMT</pubDate>
-        <description>Wśród wielu słynnych cytatów Carlo Ancelottiego, jednym z najdłużej pamiętanych jest być może ten, w którym Włoch przyznaje, że jest niesprawiedliwy wobec Ceballosa. Dziś mu to jednak wynagradza, choć niewykluczone, że doszłoby do tego wcześniej, gdyby nie częste problemy zdrowotne pomocnika.</description>
     </item>
     
 </channel>
