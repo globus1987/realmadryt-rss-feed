@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Jan 2025 22:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 23:20:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136233-dzisiejsze-okladki</link>
+        <pubDate>Tue, 28 Jan 2025 00:08:00 GMT</pubDate>
+        <description>Oferta Saudyjczyków dla Viníciusa, osiągnięcia ataku Barcelony i nowe kontrakty w hiszpańskim futbolu to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Złote Gów*o”. Skandaliczna figura Viniego na święto w Walencji</title>
@@ -83,13 +90,6 @@ Piłka nożna to sport wymagający dużej sprawności fizycznej. Aby utrzymać w
         <link>https://www.realmadryt.pl/news/136215-bernabeu-z-kolejna-otwarta-restauracja</link>
         <pubDate>Mon, 27 Jan 2025 15:01:00 GMT</pubDate>
         <description>Na stadionie Królewskich otwarto kolejną restaurację. Ciągle nie ma jednak informacji o otwarciu najważniejszego takiego lokalu z lożami SuperVIP.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 25. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/136214-terminarz-25-kolejki-la-ligi</link>
-        <pubDate>Mon, 27 Jan 2025 13:13:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 25. kolejki, w której Real Madryt podejmie Gironę.</description>
     </item>
     
 </channel>
