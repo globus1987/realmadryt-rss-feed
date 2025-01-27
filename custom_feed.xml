@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Jan 2025 13:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 14:21:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bernabéu z kolejną otwartą restauracją</title>
+        <link>https://www.realmadryt.pl/news/136215-bernabeu-z-kolejna-otwarta-restauracja</link>
+        <pubDate>Mon, 27 Jan 2025 15:01:00 GMT</pubDate>
+        <description>Na stadionie Królewskich otwarto kolejną restaurację. Ciągle nie ma jednak informacji o otwarciu najważniejszego takiego lokalu z lożami SuperVIP.</description>
+    </item>
     
     <item>
         <title>Terminarz 25. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136205-nie-tylko-pichichi-ale-takze-zloty-but</link>
         <pubDate>Mon, 27 Jan 2025 05:30:00 GMT</pubDate>
         <description>Wszyscy patrzą na rywalizację o króla strzelców La Ligi. Hiszpański dziennikarz wyznacza jednak napastnikowi Realu Madryt jeszcze wyższy cel.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/136204-dzisiejsze-okladki</link>
-        <pubDate>Mon, 27 Jan 2025 00:08:00 GMT</pubDate>
-        <description>Forma Kyliana Mbappé i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
