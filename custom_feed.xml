@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Jan 2025 11:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:44:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 25. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/136214-terminarz-25-kolejki-la-ligi</link>
+        <pubDate>Mon, 27 Jan 2025 13:13:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 25. kolejki, w której Real Madryt podejmie Gironę.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Real przekazał Bayernowi, że nie rozmawia z Kimmichem</title>
+        <link>https://www.realmadryt.pl/news/136213-marca-real-przekazal-bayernowi-ze-nie-rozmawia-z-kimmichem</link>
+        <pubDate>Mon, 27 Jan 2025 13:12:00 GMT</pubDate>
+        <description>W poprzednim tygodniu w Niemczech poinformowano o rozmowach pomocnika z Realem Madryt. MARCA utrzymuje, że temat nie istnieje.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 stycznia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136204-dzisiejsze-okladki</link>
         <pubDate>Mon, 27 Jan 2025 00:08:00 GMT</pubDate>
         <description>Forma Kyliana Mbappé i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Nasza mentalność była odpowiednia</title>
-        <link>https://www.realmadryt.pl/news/136202-mateo-nasza-mentalnosc-byla-odpowiednia</link>
-        <pubDate>Sun, 26 Jan 2025 21:30:00 GMT</pubDate>
-        <description>Chus Mateo podsumował wygrane spotkanie z Leymą Coruña. Był zadowolony z energii, którą zaprezentowali zawodnicy i z awansu na pozycję lidera w Lidze Endesa.</description>
-    </item>
-    
-    <item>
-        <title>Brest wygrał przed meczem z Realem w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/136201-brest-wygral-przed-meczem-z-realem-w-lidze-mistrzow</link>
-        <pubDate>Sun, 26 Jan 2025 20:01:00 GMT</pubDate>
-        <description>W meczu 19. kolejki Ligue 1 najbliżsi rywale Królewskich pokonali na wyjeździe Le Havre.</description>
     </item>
     
 </channel>
