@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Jan 2025 09:24:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 09:40:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joyeux Anniversaire, Aurélien!</title>
+        <link>https://www.realmadryt.pl/news/136212-joyeux-anniversaire-aurelien</link>
+        <pubDate>Mon, 27 Jan 2025 10:29:00 GMT</pubDate>
+        <description>Dziś 25. urodziny obchodzi Aurélien Tchouaméni. Życzymy mu dalszego rozwoju i nieco bardziej sprawiedliwego spojrzenia ze strony kibiców.</description>
+    </item>
     
     <item>
         <title>„Czy Realowi opłaca się prowadzić kobiecą sekcję?”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136197-barca-strzela-7-goli-valencii-i-zmniejsza-strate-do-atletico</link>
         <pubDate>Sun, 26 Jan 2025 19:55:00 GMT</pubDate>
         <description>Real Madryt wygrał z Realem Valladolid i powiększył przewagę nad Barceloną do 10 punktów. Podopieczni Hansiego Flicka wygrali jednak dziś z Valencią i nadal tracą do Królewskich 7 oczek.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt liderem Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/136200-real-madryt-liderem-ligi-endesa</link>
-        <pubDate>Sun, 26 Jan 2025 19:09:00 GMT</pubDate>
-        <description>W 18. kolejce Ligi Endesa Real Madryt pokonał Leymę Coruña. Kluczowe były rozmiary zwycięstwa, ponieważ Królewscy potrzebowali przynajmniej 15 punktów różnicy, żeby zostać liderem. To się udało, a teraz czas na przygotowanie do piątkowego starcia w Eurolidze.</description>
     </item>
     
 </channel>
