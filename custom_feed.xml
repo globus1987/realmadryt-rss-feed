@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 Jan 2025 12:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 13:11:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowa twarz na wyjazdach</title>
+        <link>https://www.realmadryt.pl/news/136229-nowa-twarz-na-wyjazdach</link>
+        <pubDate>Tue, 28 Jan 2025 14:08:00 GMT</pubDate>
+        <description>Real Madryt w sześciu ostatnich wyjazdowych meczach zanotował pięć zwycięstw i jeden remis. Jest to drastyczna wręcz zmiana względem pierwszej części sezonu, gdy Królewscy zupełnie sobie nie radzili poza Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Czterech wspaniałych</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136231-tebas-zagraniczny-klasyk-mozna-przeanalizowac-jesli-zgodzilby-sie-na-to-real-madryt</link>
         <pubDate>Tue, 28 Jan 2025 07:00:00 GMT</pubDate>
         <description>Prezes La Ligi pojawił się na gali Stowarzyszenia Madryckiej Prasy Sportowej. Przedstawiamy jego najważniejsze wypowiedzi dla zgromadzonych dziennikarzy.</description>
-    </item>
-    
-    <item>
-        <title>AS: Saudyjczycy zaoferują Viníciusowi miliard euro</title>
-        <link>https://www.realmadryt.pl/news/136234-as-saudyjczycy-zaoferuja-viniciusowi-miliard-euro</link>
-        <pubDate>Tue, 28 Jan 2025 00:41:00 GMT</pubDate>
-        <description>To pierwsza tak konkretna informacja o powrocie Saudyjczyków po Brazylijczyka. Pada też konkretna kwota, jaką miałby otrzymać Real Madryt.</description>
     </item>
     
 </channel>
