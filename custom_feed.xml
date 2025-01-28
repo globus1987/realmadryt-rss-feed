@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 Jan 2025 22:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 23:20:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136256-dzisiejsze-okladki</link>
+        <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
+        <description>Ostatnia kolejka fazy ligowej Ligi Mistrzów to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>FH: Pierwsze zdjęcie domowej koszulki Realu na sezon 2025/26</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136227-jorge-higuain-ten-mecz-bedzie-w-brescie-niezapomniany</link>
         <pubDate>Tue, 28 Jan 2025 16:09:00 GMT</pubDate>
         <description>Jorge Higuaín, ojciec byłego napastnika Realu Madryt, Gonzalo Higuaína, w trakcie swojej piłkarskiej kariery miał okazję rozegrać jeden sezon we francuskim Stade Brestois. Teraz w przeddzień starcia swojego byłego klubu z Królewskimi udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real ma i nadal będzie miał kontrolę nad sytuacją Nico Paza</title>
-        <link>https://www.realmadryt.pl/news/136243-marca-real-ma-i-nadal-bedzie-mial-kontrole-nad-sytuacja-nico-paza</link>
-        <pubDate>Tue, 28 Jan 2025 15:39:00 GMT</pubDate>
-        <description>Dziennik MARCA informuje, że nie ma co do tego wątpliwości. Królewscy liczą na Nico Paza. O tym, kiedy stanie się członkiem pierwszej drużyny, zadecyduje gra reprezentanta Argentyny i potrzeby kadrowe zespołu Carlo Ancelottiego.</description>
     </item>
     
 </channel>
