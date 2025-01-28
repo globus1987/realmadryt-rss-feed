@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 Jan 2025 11:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 12:42:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czterech wspaniałych</title>
+        <link>https://www.realmadryt.pl/news/136230-czterech-wspanialych</link>
+        <pubDate>Tue, 28 Jan 2025 13:20:00 GMT</pubDate>
+        <description>Kwartet Mbappé, Vinícius, Rodrygo i Bellingham wygenerował w tym sezonie już 91 goli. Jeśli chodzi o bramki zdobyte przez tych czterech zawodników łącznie, to na poziomie La Ligi tylko dwa zespoły mają ich więcej, a są nimi Barcelona (59) i Villarreal (39).</description>
+    </item>
     
     <item>
         <title>Królewscy są już we Francji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136234-as-saudyjczycy-zaoferuja-viniciusowi-miliard-euro</link>
         <pubDate>Tue, 28 Jan 2025 00:41:00 GMT</pubDate>
         <description>To pierwsza tak konkretna informacja o powrocie Saudyjczyków po Brazylijczyka. Pada też konkretna kwota, jaką miałby otrzymać Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/136233-dzisiejsze-okladki</link>
-        <pubDate>Tue, 28 Jan 2025 00:08:00 GMT</pubDate>
-        <description>Oferta Saudyjczyków dla Viníciusa, osiągnięcia ataku Barcelony i nowe kontrakty w hiszpańskim futbolu to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
