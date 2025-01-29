@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Jan 2025 15:23:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 15:40:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Florentino jest moim idolem i jestem jego największą fanką”</title>
+        <link>https://www.realmadryt.pl/news/136285-florentino-jest-moim-idolem-i-jestem-jego-najwieksza-fanka</link>
+        <pubDate>Wed, 29 Jan 2025 16:30:00 GMT</pubDate>
+        <description>Esperanza Aguirre chwali Florentino Péreza, ale uważa, że problem hałasu musi zostać rozwiązany.</description>
+    </item>
     
     <item>
         <title>Relevo: Joselu Sánchez nowym trenerem Realu Madryt C</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136262-wyboista-droga-pola-fortunyego</link>
         <pubDate>Wed, 29 Jan 2025 11:15:00 GMT</pubDate>
         <description>Hiszpan może wreszcie zadebiutować w pierwszym zespole Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>„Dla Realu to na pewno nie będzie spacerek, stawiam na 1:1”</title>
-        <link>https://www.realmadryt.pl/news/136270-dla-realu-to-na-pewno-nie-bedzie-spacerek-stawiam-na-1-1</link>
-        <pubDate>Wed, 29 Jan 2025 10:45:00 GMT</pubDate>
-        <description>Martín Satriano udzielił wywiadu dziennikowi AS. Zawodnik Lens, który spędził dwa sezony na wypożyczeniu w Breście, analizuje rywala Realu Madryt w dzisiejszym meczu Ligi Mistrzów.</description>
     </item>
     
 </channel>
