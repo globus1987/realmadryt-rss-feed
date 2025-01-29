@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Jan 2025 22:40:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 22:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jak oceniam nową fazę ligową? Za dużo meczów</title>
+        <link>https://www.realmadryt.pl/news/136298-ancelotti-jak-oceniam-nowa-faze-ligowa-za-duzo-meczow</link>
+        <pubDate>Wed, 29 Jan 2025 23:51:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu dla Movistar+ po wygranej 3:0 z Brest. Przedstawiamy wypowiedzi szkoleniowca Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Courtois: Jeśli chcesz wygrać Ligę Mistrzów, musisz wygrywać z najlepszymi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136285-florentino-jest-moim-idolem-i-jestem-jego-najwieksza-fanka</link>
         <pubDate>Wed, 29 Jan 2025 16:30:00 GMT</pubDate>
         <description>Esperanza Aguirre chwali Florentino Péreza, ale uważa, że problem hałasu musi zostać rozwiązany.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Joselu Sánchez nowym trenerem Realu Madryt C</title>
-        <link>https://www.realmadryt.pl/news/136284-relevo-joselu-sanchez-nowym-trenerem-realu-madryt-c</link>
-        <pubDate>Wed, 29 Jan 2025 15:59:00 GMT</pubDate>
-        <description>Królewscy wybrali już następcę Álvaro Gómeza Reya.</description>
     </item>
     
 </channel>
