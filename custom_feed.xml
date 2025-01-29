@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Jan 2025 23:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 23:38:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136300-dzisiejsze-okladki</link>
+        <pubDate>Thu, 30 Jan 2025 00:38:00 GMT</pubDate>
+        <description>Wyniki ostatniej kolejki fazy ligowej Ligi Mistrzów to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Brest 0:3 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136286-brest-real-madryt-znamy-sklady</link>
         <pubDate>Wed, 29 Jan 2025 18:36:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Stade du Roudourou.</description>
-    </item>
-    
-    <item>
-        <title>Dwóch graczy zagrożonych zawieszeniem w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/136281-dwoch-graczy-zagrozonych-zawieszeniem-w-lidze-mistrzow</link>
-        <pubDate>Wed, 29 Jan 2025 17:00:00 GMT</pubDate>
-        <description>Królewscy muszą patrzeć na sytuację kartkową w Lidze Mistrzów. Co ważne, kartoniki wyzerowane będą dopiero po zakończeniu ćwierćfinałów.</description>
     </item>
     
 </channel>
