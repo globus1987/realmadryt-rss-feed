@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Jan 2025 22:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 22:40:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Jeśli chcesz wygrać Ligę Mistrzów, musisz wygrywać z najlepszymi</title>
+        <link>https://www.realmadryt.pl/news/136297-courtois-jesli-chcesz-wygrac-lige-mistrzow-musisz-wygrywac-z-najlepszymi</link>
+        <pubDate>Wed, 29 Jan 2025 23:32:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po wygranym 3:0 meczu z Brestem w ostatniej kolejce fazy ligowej Ligi Mistrzów. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy.</description>
+    </item>
+    
+    <item>
+        <title>Bellingham MVP meczu z Brestem</title>
+        <link>https://www.realmadryt.pl/news/136296-bellingham-mvp-meczu-z-brestem</link>
+        <pubDate>Wed, 29 Jan 2025 23:28:00 GMT</pubDate>
+        <description>Angielski pomocnik otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Brestem.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Możemy zagrać z City? W tych rozgrywkach każdy rywal jest trudny</title>
@@ -14,8 +28,8 @@
     </item>
     
     <item>
-        <title>Oceń piłkarzy po meczu z Brest</title>
-        <link>https://www.realmadryt.pl/news/136294-ocen-pilkarzy-po-meczu-z-brest</link>
+        <title>Oceń piłkarzy po meczu z Brestem</title>
+        <link>https://www.realmadryt.pl/news/136294-ocen-pilkarzy-po-meczu-z-brestem</link>
         <pubDate>Wed, 29 Jan 2025 22:56:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136284-relevo-joselu-sanchez-nowym-trenerem-realu-madryt-c</link>
         <pubDate>Wed, 29 Jan 2025 15:59:00 GMT</pubDate>
         <description>Królewscy wybrali już następcę Álvaro Gómeza Reya.</description>
-    </item>
-    
-    <item>
-        <title>Cerezo: Nie słyszałem, żeby Florentino mówił coś takiego o sędziach na naszych spotkaniach</title>
-        <link>https://www.realmadryt.pl/news/136283-cerezo-nie-slyszalem-zeby-florentino-mowil-cos-takiego-o-sedziach-na-naszych-spotkaniach</link>
-        <pubDate>Wed, 29 Jan 2025 15:40:00 GMT</pubDate>
-        <description>Prezes Atlético Madryt, Enrique Cerezo, rozmawiał z mediami przed dzisiejszym spotkaniem z Salzburgiem.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Mam nadzieję i myślę, że Vinícius zostanie w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/136282-tebas-mam-nadzieje-i-mysle-ze-vinicius-zostanie-w-la-lidze</link>
-        <pubDate>Wed, 29 Jan 2025 15:15:00 GMT</pubDate>
-        <description>Prezes La Ligi, Javier Tebas, spotkał się z dziennikarzami przy okazji otwarcia miasteczka sportowego w Maladze sfinansowanego ze środków z projektu CVC. Poniżej przedstawiamy zapis jego wypowiedzi dla mediów.</description>
     </item>
     
 </channel>
