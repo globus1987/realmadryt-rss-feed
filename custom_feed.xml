@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Jan 2025 19:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 20:23:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brest – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/136289-brest-real-madryt-live</link>
+        <pubDate>Wed, 29 Jan 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwają mecze 8. kolejki fazy ligowej Champions League. Real Madryt mierzy się na wyjeździe z Brestem.</description>
+    </item>
     
     <item>
         <title>Na którym miejscu w tabeli znajduje się Real Madryt? [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136280-footy-headlines-pierwsze-zdjecie-wyjazdowej-koszulki-realu-na-sezon-2025-26</link>
         <pubDate>Wed, 29 Jan 2025 14:10:00 GMT</pubDate>
         <description>Footy Headlines pokazało pierwsze zdjęcie wyjazdowego trykotu Realu Madryt na kolejny sezon.</description>
-    </item>
-    
-    <item>
-        <title>Gol Mbappé synonimem zwycięstwa</title>
-        <link>https://www.realmadryt.pl/news/136278-gol-mbappe-synonimem-zwyciestwa</link>
-        <pubDate>Wed, 29 Jan 2025 13:45:00 GMT</pubDate>
-        <description>Za każdym razem gdy Kylian Mbappé zdobywa bramkę w La Lidze lub w Lidze Mistrzów, Real Madryt wygrywa swój mecz. Jak do tej pory, dochodziło do tego czternastokrotnie. Jest to jedyny taki przypadek w pięciu największych ligach Europy.</description>
     </item>
     
 </channel>
