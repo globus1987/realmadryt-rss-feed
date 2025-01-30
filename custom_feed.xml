@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Jan 2025 15:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 15:40:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Louzán: Jestem kibicem Celty, a nie Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/136324-louzan-jestem-kibicem-celty-a-nie-realu-madryt</link>
+        <pubDate>Thu, 30 Jan 2025 16:37:00 GMT</pubDate>
+        <description>Josep Pedrerol przeprowadził wywiad z Rafaelem Louzánem w programie El Cafelito. Już sama zapowiedź rozmowy odbiła się szerokim echem w mediach, a teraz przedstawiamy najważniejsze wypowiedzi prezesa Hiszpańskiej Federacji Piłkarskiej.</description>
+    </item>
     
     <item>
         <title>Mbappé i Rodrygo czytają sobie w myślach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136313-kartka-z-kalendarza-30-stycznia</link>
         <pubDate>Thu, 30 Jan 2025 10:00:00 GMT</pubDate>
         <description>Urodziny dwóch wychowanków, piętka Gutiego i fantastyczny pierwszy Klasyk w wykonaniu Varane'a. Co działo się 30 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>Sąd przyznał rację La Lidze w sporze o zarejestrowanie marki El Clásico w Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/136308-sad-przyznal-racje-la-lidze-w-sporze-o-zarejestrowanie-marki-el-clasico-w-hiszpanii</link>
-        <pubDate>Thu, 30 Jan 2025 09:30:00 GMT</pubDate>
-        <description>Sąd uznał, że próba rejestracji przez kluby koliduje z wcześniej używanymi znakami La Ligi.</description>
     </item>
     
 </channel>
