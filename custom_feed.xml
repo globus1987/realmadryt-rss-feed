@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Jan 2025 08:26:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 08:43:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sąd przyznał rację La Lidze w sporze o zarejestrowanie marki El Clásico w Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/136308-sad-przyznal-racje-la-lidze-w-sporze-o-zarejestrowanie-marki-el-clasico-w-hiszpanii</link>
+        <pubDate>Thu, 30 Jan 2025 09:30:00 GMT</pubDate>
+        <description>Sąd uznał, że próba rejestracji przez kluby koliduje z wcześniej używanymi znakami La Ligi.</description>
+    </item>
     
     <item>
         <title>Piłkarze Realu odpowiadali, kogo wolą w 1/16 finału: „I tak trzeba wygrać, nie?”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136291-relevo-carvajal-chce-wrocic-na-klubowe-mistrzostwa-swiata</link>
         <pubDate>Thu, 30 Jan 2025 06:11:00 GMT</pubDate>
         <description>Rehabilitacja prawego obrońcy przebiega lepiej, niż oczekiwano. Wkrótce zacznie biegać. Jego celem jest powrót i występ na Klubowych Mistrzostwach Świata.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Dzisiaj Real i Bayern są o wiele lepsi od nas, ale za dwa tygodnie…</title>
-        <link>https://www.realmadryt.pl/news/136301-guardiola-dzisiaj-real-i-bayern-sa-o-wiele-lepsi-od-nas-ale-za-dwa-tygodnie</link>
-        <pubDate>Thu, 30 Jan 2025 01:50:00 GMT</pubDate>
-        <description>Manchester City i Celtic to możliwi rywale Realu Madryt w play-offach Ligi Mistrzów. Przedstawiamy wypowiedzi trenera angielskiej drużyny w tej sprawie.</description>
     </item>
     
 </channel>
