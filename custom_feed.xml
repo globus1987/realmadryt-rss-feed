@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Jan 2025 05:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 06:30:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klęska drużyny Arbeloi</title>
+        <link>https://www.realmadryt.pl/news/136293-kleska-druzyny-arbeloi</link>
+        <pubDate>Thu, 30 Jan 2025 07:17:00 GMT</pubDate>
+        <description>Drużyna Realu Madryt do lat 19 przegrała 1:6 z rówieśnikami z Betisu. Królewscy rozpoczęli mecz całkiem dobrze, ale brak skuteczności i dziurawa obrona dały rywalom pole do popisu.</description>
+    </item>
+    
+    <item>
+        <title>Bellingham: Czytamy o napięciu w ekipie, a praktycznie w każdym tygodniu razem gdzieś wychodzimy</title>
+        <link>https://www.realmadryt.pl/news/136302-bellingham-czytamy-o-napieciu-w-ekipie-a-praktycznie-w-kazdym-tygodniu-razem-gdzies-wychodzimy</link>
+        <pubDate>Thu, 30 Jan 2025 07:00:00 GMT</pubDate>
+        <description>Jude Bellingham po meczu z Brestem w Lidze Mistrzów udzielił wywiadów telewizji Movistar+ oraz CBS. Przedstawiamy wypowiedzi pomocnika Realu Madryt z tych rozmów.</description>
+    </item>
     
     <item>
         <title>Real Madryt wyprzedził Bayern w tabeli dzięki wygranym na wyjeździe</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136297-courtois-jesli-chcesz-wygrac-lige-mistrzow-musisz-wygrywac-z-najlepszymi</link>
         <pubDate>Wed, 29 Jan 2025 23:32:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po wygranym 3:0 meczu z Brestem w ostatniej kolejce fazy ligowej Ligi Mistrzów. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham MVP meczu z Brestem</title>
-        <link>https://www.realmadryt.pl/news/136296-bellingham-mvp-meczu-z-brestem</link>
-        <pubDate>Wed, 29 Jan 2025 23:28:00 GMT</pubDate>
-        <description>Angielski pomocnik otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Brestem.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Możemy zagrać z City? W tych rozgrywkach każdy rywal jest trudny</title>
-        <link>https://www.realmadryt.pl/news/136295-rodrygo-mozemy-zagrac-z-city-w-tych-rozgrywkach-kazdy-rywal-jest-trudny</link>
-        <pubDate>Wed, 29 Jan 2025 23:20:00 GMT</pubDate>
-        <description>Rodrygo udzielił wywiadu dla Movistar+ po wygranej 3:0 z Brest. Przedstawiamy wypowiedzi atakującego Realu Madryt z murawy Stade du Roudourou.</description>
     </item>
     
 </channel>
