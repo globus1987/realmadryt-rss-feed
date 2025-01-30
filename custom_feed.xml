@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Jan 2025 07:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 07:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze Realu odpowiadali, kogo wolą w 1/16 finału: „I tak trzeba wygrać, nie?”</title>
+        <link>https://www.realmadryt.pl/news/136312-pilkarze-realu-odpowiadali-kogo-wola-w-1-16-finalu-i-tak-trzeba-wygrac-nie</link>
+        <pubDate>Thu, 30 Jan 2025 08:46:00 GMT</pubDate>
+        <description>Co powiedzieli Rüdiger, Bellingham, Fede czy Modrić?</description>
+    </item>
+    
+    <item>
+        <title>Rodrygo: Vinícius jest skupiony na Realu, nie mówi nic o ofercie Saudyjczyków</title>
+        <link>https://www.realmadryt.pl/news/136304-rodrygo-vinicius-jest-skupiony-na-realu-nie-mowi-nic-o-ofercie-saudyjczykow</link>
+        <pubDate>Thu, 30 Jan 2025 08:40:00 GMT</pubDate>
+        <description>Rodrygo Goes po meczu z Brestem w Lidze Mistrzów zatrzymał się w strefie mieszanej. Przedstawiamy wypowiedzi atakującego Realu Madryt z tej rozmowy ze zgromadzonymi mediami.</description>
+    </item>
     
     <item>
         <title>71. mecz Ancelottiego w Pucharze Europy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136301-guardiola-dzisiaj-real-i-bayern-sa-o-wiele-lepsi-od-nas-ale-za-dwa-tygodnie</link>
         <pubDate>Thu, 30 Jan 2025 01:50:00 GMT</pubDate>
         <description>Manchester City i Celtic to możliwi rywale Realu Madryt w play-offach Ligi Mistrzów. Przedstawiamy wypowiedzi trenera angielskiej drużyny w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/136300-dzisiejsze-okladki</link>
-        <pubDate>Thu, 30 Jan 2025 00:38:00 GMT</pubDate>
-        <description>Wyniki ostatniej kolejki fazy ligowej Ligi Mistrzów to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Brest 0:3 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/136299-brest-0-3-real-madryt-video</link>
-        <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-        <description>W meczu 8. kolejki fazy ligowej Champions League Real Madryt wygrał z Brest 3:0. Bramki zdobyli Rodrygo Goes (dwie) i Jude Bellingham.</description>
     </item>
     
 </channel>
