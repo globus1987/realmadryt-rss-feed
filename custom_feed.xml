@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Jan 2025 22:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 23:21:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136336-dzisiejsze-okladki</link>
+        <pubDate>Fri, 31 Jan 2025 00:12:00 GMT</pubDate>
+        <description>Przyszłość Rodrygo, losowanie 1/16 finału Ligi Mistrzów i nowa umowa Pedriego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Burzliwa relacja Francji z Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136318-as-godoy-wybiera-barcelone</link>
         <pubDate>Thu, 30 Jan 2025 12:48:00 GMT</pubDate>
         <description>Wygląda na to, że Katalończycy wygrywają walkę o napastnika z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Muñiz Ruiz na Espanyol</title>
-        <link>https://www.realmadryt.pl/news/136317-muniz-ruiz-na-espanyol</link>
-        <pubDate>Thu, 30 Jan 2025 12:45:00 GMT</pubDate>
-        <description>33-latek po raz czwarty spotka się na boisku z Realem Madryt. Sędzią VAR będzie Javier Iglesias Villanueva.</description>
     </item>
     
 </channel>
