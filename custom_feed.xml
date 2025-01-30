@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Jan 2025 10:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 11:18:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Brestem</title>
+        <link>https://www.realmadryt.pl/news/136315-oceny-zawodnikow-po-meczu-z-brestem</link>
+        <pubDate>Thu, 30 Jan 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z Brestem 3:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Rodrygo błyszczy jak nigdy wcześniej na stronie Viníciusa i Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136303-ancelotti-nie-lubimy-grac-z-city</link>
         <pubDate>Thu, 30 Jan 2025 06:16:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu z Brestem w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Stade du Roudourou w Guingamp, gdzie rywale rozgrywają swoje mecze w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Éric Roy: Ogólnie mam pozytywne odczucia ze względu na zaangażowanie zespołu</title>
-        <link>https://www.realmadryt.pl/news/136306-eric-roy-ogolnie-mam-pozytywne-odczucia-ze-wzgledu-na-zaangazowanie-zespolu</link>
-        <pubDate>Thu, 30 Jan 2025 06:16:00 GMT</pubDate>
-        <description>Éric Roy pojawił się na konferencji prasowej po meczu z Realem Madryt i krótko odpowiedział na kilka pytań dziennikarzy.</description>
     </item>
     
 </channel>
