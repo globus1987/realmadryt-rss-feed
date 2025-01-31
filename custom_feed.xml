@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Jan 2025 22:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 23:19:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136366-dzisiejsze-okladki</link>
+        <pubDate>Sat, 01 Feb 2025 00:00:00 GMT</pubDate>
+        <description>Losowanie Ligi Mistrzów i nowy kontrakt Gaviego to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: Nie zagraliśmy dobrze</title>
+        <link>https://www.realmadryt.pl/news/136367-mateo-nie-zagralismy-dobrze</link>
+        <pubDate>Fri, 31 Jan 2025 23:59:00 GMT</pubDate>
+        <description>Chus Mateo podsumował krótko wyjazdową porażkę z Monaco. Nie był zadowolony z gry podopiecznych i podkreślił, że drużyna straciła zbyt wiele piłek.</description>
+    </item>
     
     <item>
         <title>Cztery gole Gonzalo, pewna wygrana Castilli</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136356-relevo-real-zawiera-specjalna-klauzule-w-kontraktach-swoich-wychowankow</link>
         <pubDate>Fri, 31 Jan 2025 17:41:00 GMT</pubDate>
         <description>Klub chroni się przed potencjalnymi odejściami wychowanków za sprawą specjalnej klauzuli kontraktowej, która gwarantuje automatyczne przedłużenie umowy po spełnieniu określonego warunku.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Mam nadzieję, że będę mógł zostać tu jeszcze przez wiele lat</title>
-        <link>https://www.realmadryt.pl/news/136355-vinicius-mam-nadzieje-ze-bede-mogl-zostac-tu-jeszcze-przez-wiele-lat</link>
-        <pubDate>Fri, 31 Jan 2025 16:19:00 GMT</pubDate>
-        <description>Klubowa telewizja nagrała krótki filmiki z udziałem Viníciusa Júniora z okazji zdobycia przez Brazylijczyka ponad 100 bramek dla Realu Madryt. Przedstawiamy wypowiedzi piłkarza.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x18: Czy zaufałbyś Asencio w starciu z Haalandem?</title>
-        <link>https://www.realmadryt.pl/news/136354-podcast-6x18-czy-zaufalbys-asencio-w-starciu-z-haalandem</link>
-        <pubDate>Fri, 31 Jan 2025 15:33:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy przede wszystkim wylosowanie Manchesteru City w Lidze Mistrzów czy ostatnie spekulacje dotyczące drużyny. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
     </item>
     
 </channel>
