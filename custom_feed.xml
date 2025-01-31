@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Jan 2025 13:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 13:30:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Espanyol</title>
+        <link>https://www.realmadryt.pl/news/136349-kadra-na-espanyol</link>
+        <pubDate>Fri, 31 Jan 2025 14:23:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu z Espanyolem bez trzech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 22 zawodników.</description>
+    </item>
+    
+    <item>
+        <title>Butragueño: Chcemy, by historia odegrała kluczową rolę w tej rywalizacji</title>
+        <link>https://www.realmadryt.pl/news/136352-butragueno-chcemy-by-historia-odegrala-kluczowa-role-w-tej-rywalizacji</link>
+        <pubDate>Fri, 31 Jan 2025 14:13:00 GMT</pubDate>
+        <description>Emilio Butragueño podzielił się swoimi odczuciami po losowaniu 1/16 finału Ligi Mistrzów. Przedstawiamy wypowiedzi popularnego Sępa.</description>
+    </item>
     
     <item>
         <title>Guardiola: Wygląda to już na derby, czwarty rok z rzędu mierzenia się z Realem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136335-wyjazd-do-ksiestwa</link>
         <pubDate>Fri, 31 Jan 2025 09:00:00 GMT</pubDate>
         <description>W 24. kolejce Euroligi Real Madryt zagra na wyjeździe z Monaco. Z drużyną do Księstwa poleciał Bruno Fernando, który ma dzisiaj zadebiutować. Dennis Smith Jr. na swoją szansę musi jeszcze poczekać.</description>
-    </item>
-    
-    <item>
-        <title>Szewczenko: Carlo to wyjątkowy przyjaciel</title>
-        <link>https://www.realmadryt.pl/news/136344-szewczenko-carlo-to-wyjatkowy-przyjaciel</link>
-        <pubDate>Fri, 31 Jan 2025 08:31:00 GMT</pubDate>
-        <description>Andrij Szewczenko udzielił wywiadu dla klubowej telewizji Realu Madryt przy okazji wczorajszej wizyty w Valdebebas na treningu Królewskich. Przedstawiamy wypowiedzi byłego napastnika, a obecnie prezesa Ukraińskiego Związku Piłki Nożnej.</description>
-    </item>
-    
-    <item>
-        <title>„Real chce zmiany systemu sędziowskiego, który od dekad cuchnie na odległość”</title>
-        <link>https://www.realmadryt.pl/news/136343-real-chce-zmiany-systemu-sedziowskiego-ktory-od-dekad-cuchnie-na-odleglosc</link>
-        <pubDate>Fri, 31 Jan 2025 08:27:00 GMT</pubDate>
-        <description>Santiago Siguero, redaktor dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat systemu sędziowskiego. Przedstawiamy opinię dziennikarza.</description>
     </item>
     
 </channel>
