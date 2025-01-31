@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Jan 2025 07:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 08:27:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd do Księstwa</title>
+        <link>https://www.realmadryt.pl/news/136335-wyjazd-do-ksiestwa</link>
+        <pubDate>Fri, 31 Jan 2025 09:00:00 GMT</pubDate>
+        <description>W 24. kolejce Euroligi Real Madryt zagra na wyjeździe z Monaco. Z drużyną do Księstwa poleciał Bruno Fernando, który ma dzisiaj zadebiutować. Dennis Smith Jr. na swoją szansę musi jeszcze poczekać.</description>
+    </item>
     
     <item>
         <title>Szewczenko: Carlo to wyjątkowy przyjaciel</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136327-oficjalnie-barcelona-poprosi-o-uzyczenie-montjuic-do-konca-sezonu</link>
         <pubDate>Thu, 30 Jan 2025 19:27:00 GMT</pubDate>
         <description>Kataloński klub w oficjalnym komunikacie przekazał, że poprosi miasto o możliwość gry na Estadi Olímpic Lluís Companys do końca sezonu, ponieważ podobno nie odbędą się tam zaplanowane koncerty.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt nie znalazł się wśród dwudziestu klubów, które wydały najwięcej na transfery w 2024 roku</title>
-        <link>https://www.realmadryt.pl/news/136326-real-madryt-nie-znalazl-sie-wsrod-dwudziestu-klubow-ktore-wydaly-najwiecej-na-transfery-w-2024-roku</link>
-        <pubDate>Thu, 30 Jan 2025 18:13:00 GMT</pubDate>
-        <description>Najwięcej pieniędzy przeznaczyły na wzmocnienia Paris Saint-Germain, Manchester United, Olympique Lyon, Bayern Monachium, Brighton, Atlético Madryt, Chelsea, Napoli, Barcelona i Juventus.</description>
     </item>
     
 </channel>
