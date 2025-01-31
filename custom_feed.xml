@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Jan 2025 20:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 21:19:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie rozgromiły Espanyol</title>
+        <link>https://www.realmadryt.pl/news/136363-krolewskie-rozgromily-espanyol</link>
+        <pubDate>Fri, 31 Jan 2025 22:04:00 GMT</pubDate>
+        <description>Królewskie bez problemu ograły Espanyol i umocniły się na drugim miejscu w tabeli. Był to pierwszy występ piłkarek po manicie przyjętej od Barcelony.</description>
+    </item>
     
     <item>
         <title>Co dzieje się ze sprawą oskarżenia City o oszustwa finansowe?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136353-oni-sa-tak-samo-zadowoleni-jak-i-my</link>
         <pubDate>Fri, 31 Jan 2025 14:57:00 GMT</pubDate>
         <description>Jak zareagowano w Valdebebas na wylosowanie Anglików?</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Espanyol</title>
-        <link>https://www.realmadryt.pl/news/136349-kadra-na-espanyol</link>
-        <pubDate>Fri, 31 Jan 2025 14:23:00 GMT</pubDate>
-        <description>Królewscy podejdą do meczu z Espanyolem bez trzech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 22 zawodników.</description>
     </item>
     
 </channel>
