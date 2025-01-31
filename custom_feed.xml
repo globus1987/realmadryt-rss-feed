@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Jan 2025 10:23:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 10:41:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>„To, czego chce Vinícius”</title>
+        <link>https://www.realmadryt.pl/news/136339-to-czego-chce-vinicius</link>
+        <pubDate>Fri, 31 Jan 2025 11:36:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat sytuacji Brazylijczyka. Przedstawiamy opinię dziennikarza.</description>
+    </item>
     
     <item>
         <title>Mateo: Bruno leci z nami i zagra, Dennis potrzebuje więcej czasu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136337-rodrygo-odrzucil-latem-oferty-city-liverpoolu-chelsea-i-psg-a-teraz-mowi-nie-saudyjczykom</link>
         <pubDate>Fri, 31 Jan 2025 06:25:00 GMT</pubDate>
         <description>Brazylijczyk jasno dał do zrozumienia, że jest w pełni oddany Realowi Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dziś losowanie play-offów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/136331-dzis-losowanie-play-offow-ligi-mistrzow</link>
-        <pubDate>Fri, 31 Jan 2025 06:24:00 GMT</pubDate>
-        <description>Przedwczoraj dobiegła końca faza ligowa Champions League. Dzisiaj dowiemy się, z kim Real Madryt będzie mierzyć się w meczu o awans do najlepszej szesnastki turnieju.</description>
     </item>
     
 </channel>
