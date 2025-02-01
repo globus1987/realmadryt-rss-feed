@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 19:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 20:22:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Espanyol – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/136397-espanyol-real-madryt-live</link>
+        <pubDate>Sat, 01 Feb 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 Real Madryt gra na wyjeździe z Espanyolem w ramach 22. kolejki La Ligi.</description>
+    </item>
     
     <item>
         <title>Espanyol – Real Madryt: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136388-krolewscy-sa-juz-w-barcelonie</link>
         <pubDate>Sat, 01 Feb 2025 13:04:00 GMT</pubDate>
         <description>22 powołanych zawodników dotarło już do Barcelony, gdzie Królewscy zmierzą się dzisiaj z Espanyolem i powalczą o kolejne ligowe punkty.</description>
-    </item>
-    
-    <item>
-        <title>Wraca Vinícius, wracają debaty</title>
-        <link>https://www.realmadryt.pl/news/136379-wraca-vinicius-wracaja-debaty</link>
-        <pubDate>Sat, 01 Feb 2025 12:58:00 GMT</pubDate>
-        <description>Lewa strona, kartki, zachowania, forma… Przed dzisiejszym meczem pojawia się dużo pytań dotyczących Brazylijczyka.</description>
     </item>
     
 </channel>
