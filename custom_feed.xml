@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 04:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 05:20:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tebas: Misja, z którą rzekomo przyszedł Real, by „ratować futbol”, wygląda raczej na próbę jego zniszczenia</title>
+        <link>https://www.realmadryt.pl/news/136375-tebas-misja-z-ktora-rzekomo-przyszedl-real-by-ratowac-futbol-wyglada-raczej-na-probe-jego-zniszczenia</link>
+        <pubDate>Sat, 01 Feb 2025 06:02:00 GMT</pubDate>
+        <description>Javier Tebas udzielił wywiadu dziennikowi El País. Prezes La Ligi mówił głównie o nowej Lidze Mistrzów i Superlidze.</description>
+    </item>
     
     <item>
         <title>Relevo: Miguel wzbudza coraz większe zainteresowanie, a Real milczy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136358-marca-spokoj-w-sprawie-saudyjskiej-oferty-za-rodrygo</link>
         <pubDate>Fri, 31 Jan 2025 18:09:00 GMT</pubDate>
         <description>Klub ma już ofertę na stole, ale zawodnik pozostaje skoncentrowany na dalszym odnoszeniu sukcesów w Madrycie.</description>
-    </item>
-    
-    <item>
-        <title>Dokładny terminarz 1/16 finału Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/136357-dokladny-terminarz-1-16-finalu-ligi-mistrzow</link>
-        <pubDate>Fri, 31 Jan 2025 18:05:00 GMT</pubDate>
-        <description>UEFA oficjalnie potwierdziła terminy spotkań 1/16 finału Ligi Mistrzów. Na dzień meczowy przypadają cztery spotkania, a trzy z nich rozpoczną się o tej samej porze.</description>
     </item>
     
 </channel>
