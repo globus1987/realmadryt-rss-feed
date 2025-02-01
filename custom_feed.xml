@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 12:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 13:00:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Espanyolu na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/136390-kadra-espanyolu-na-mecz-z-realem</link>
+        <pubDate>Sat, 01 Feb 2025 13:40:00 GMT</pubDate>
+        <description>Manolo González ogłosił listę piłkarzy powołanych na dzisiejszy mecz La Ligi z Realem Madryt. W kadrze Katalończyków brakuje kilku piłkarzy.</description>
+    </item>
     
     <item>
         <title>Piłkarze zagrają dziś z zielonymi opaskami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136345-casilla-na-miejscu-viniciusa-zostalbym-aby-stac-sie-legenda-realu-madryt</link>
         <pubDate>Sat, 01 Feb 2025 09:30:00 GMT</pubDate>
         <description>Były bramkarz między innymi Realu Madryt i Espanyolu, Kiko Casilla, w przeddzień starcia pomiędzy swoimi byłymi klubami udzielił wywiadu dziennikowi AS. Poniżej przedstawiamy zapis tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Bordalás: Z wielu powodów życzymy Realowi Madryt wszystkiego najlepszego z City</title>
-        <link>https://www.realmadryt.pl/news/136382-bordalas-z-wielu-powodow-zyczymy-realowi-madryt-wszystkiego-najlepszego-z-city</link>
-        <pubDate>Sat, 01 Feb 2025 09:06:00 GMT</pubDate>
-        <description>José Bordalás wziął wczoraj udział w konferencji prasowej przed meczem z Sevillą. Trener Getafe został zapytany o rywala Realu Madryt w Lidze Mistrzów.</description>
     </item>
     
 </channel>
