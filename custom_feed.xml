@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 20:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 21:19:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger grał wszystko, ale w końcu nie wytrzymał</title>
+        <link>https://www.realmadryt.pl/news/136402-ruediger-gral-wszystko-ale-w-koncu-nie-wytrzymal</link>
+        <pubDate>Sat, 01 Feb 2025 21:57:00 GMT</pubDate>
+        <description>Antonio Rüdiger nie dokończył meczu z Espanyolem i musiał opuścić boisko.</description>
+    </item>
     
     <item>
         <title>Rüdiger zszedł z kontuzją</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136390-kadra-espanyolu-na-mecz-z-realem</link>
         <pubDate>Sat, 01 Feb 2025 13:40:00 GMT</pubDate>
         <description>Manolo González ogłosił listę piłkarzy powołanych na dzisiejszy mecz La Ligi z Realem Madryt. W kadrze Katalończyków brakuje kilku piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarze zagrają dziś z zielonymi opaskami</title>
-        <link>https://www.realmadryt.pl/news/136389-pilkarze-zagraja-dzis-z-zielonymi-opaskami</link>
-        <pubDate>Sat, 01 Feb 2025 13:26:00 GMT</pubDate>
-        <description>Celem jest mobilizacja społeczeństwa do zwiększenia nakładów na profilaktykę, badania naukowe i leczenie nowotworów.</description>
     </item>
     
 </channel>
