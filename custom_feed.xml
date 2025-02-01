@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 11:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 11:39:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi Gonzalo</title>
+        <link>https://www.realmadryt.pl/news/136386-pichichi-gonzalo</link>
+        <pubDate>Sat, 01 Feb 2025 12:23:00 GMT</pubDate>
+        <description>Gonzalo García w tym sezonie prezentuje znakomitą skuteczność. Zdecydowanie prowadzi w klasyfikacji strzelców i może pobić rekord Mariano, jeśli chodzi o liczbę goli w jednym sezonie w Castilli.</description>
+    </item>
     
     <item>
         <title>Obalając kataloński mit, że Espanyol to przybudówka Realu Madryt: „Cała ta kpina to pomysł Barcelony”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136374-bild-bayer-chce-przedluzyc-umowy-wirtza-i-xabiego-alonso</link>
         <pubDate>Sat, 01 Feb 2025 07:50:00 GMT</pubDate>
         <description>BILD informuje, że Bayer Leverkusen chce zatrzymać swoich dwóch liderów na dłużej, ale jednocześnie obu łączy z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Zgarnij 200 zł za wygraną Realu Madryt z Espanyolem!</title>
-        <link>https://www.realmadryt.pl/news/136369-zgarnij-200-zl-za-wygrana-realu-madryt-z-espanyolem</link>
-        <pubDate>Sat, 01 Feb 2025 07:30:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
