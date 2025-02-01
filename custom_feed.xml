@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 07:21:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 07:39:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joan García: Wiemy, że jesteśmy silni na naszym terenie</title>
+        <link>https://www.realmadryt.pl/news/136347-joan-garcia-wiemy-ze-jestesmy-silni-na-naszym-terenie</link>
+        <pubDate>Sat, 01 Feb 2025 08:30:00 GMT</pubDate>
+        <description>Bramkarz Espanyolu, Joan García, podzielił się swoimi odczuciami przed jutrzejszym meczem z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi dla radia MARCA.</description>
+    </item>
     
     <item>
         <title>BILD: Bayer chce przedłużyć umowy Wirtza i Xabiego Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136365-cztery-gole-gonzalo-pewna-wygrana-castilli</link>
         <pubDate>Fri, 31 Jan 2025 23:43:00 GMT</pubDate>
         <description>W 22. kolejce Primera Federación Castilla pokonała na wyjeździe Algeciras 4:1. Wszystkie gole dla Królewskich strzelił Gonzalo, który jest niekwestionowanym liderem klasyfikacji strzelców.</description>
-    </item>
-    
-    <item>
-        <title>Słaby występ i porażka z Monaco</title>
-        <link>https://www.realmadryt.pl/news/136364-slaby-wystep-i-porazka-z-monaco</link>
-        <pubDate>Fri, 31 Jan 2025 22:58:00 GMT</pubDate>
-        <description>W 24. kolejce Euroligi Real Madryt przegrał na wyjeździe z Monaco. Królewscy rozegrali słabe spotkanie przeciwko rywalowi, który również nie miał swojego dnia. Ta porażka komplikuje sytuację madrytczyków przed wylotem do Stambułu.</description>
     </item>
     
 </channel>
