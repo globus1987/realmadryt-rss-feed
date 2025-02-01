@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 20:22:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 20:39:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger zszedł z kontuzją</title>
+        <link>https://www.realmadryt.pl/news/136401-ruediger-zszedl-z-kontuzja</link>
+        <pubDate>Sat, 01 Feb 2025 21:23:00 GMT</pubDate>
+        <description>Antonio Rüdiger opuścił boisko podczas meczu Realu Madryt z Espanyolem.</description>
+    </item>
     
     <item>
         <title>Espanyol – Real Madryt [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136389-pilkarze-zagraja-dzis-z-zielonymi-opaskami</link>
         <pubDate>Sat, 01 Feb 2025 13:26:00 GMT</pubDate>
         <description>Celem jest mobilizacja społeczeństwa do zwiększenia nakładów na profilaktykę, badania naukowe i leczenie nowotworów.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Barcelonie</title>
-        <link>https://www.realmadryt.pl/news/136388-krolewscy-sa-juz-w-barcelonie</link>
-        <pubDate>Sat, 01 Feb 2025 13:04:00 GMT</pubDate>
-        <description>22 powołanych zawodników dotarło już do Barcelony, gdzie Królewscy zmierzą się dzisiaj z Espanyolem i powalczą o kolejne ligowe punkty.</description>
     </item>
     
 </channel>
