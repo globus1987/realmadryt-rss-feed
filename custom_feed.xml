@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 06:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 06:44:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zgarnij 200 zł za wygraną Realu Madryt z Espanyolem!</title>
+        <link>https://www.realmadryt.pl/news/136369-zgarnij-200-zl-za-wygrana-realu-madryt-z-espanyolem</link>
+        <pubDate>Sat, 01 Feb 2025 07:30:00 GMT</pubDate>
+        <description>Artykuł sponsorowany.</description>
+    </item>
     
     <item>
         <title>AS: Alaba ma zagrać od początku z City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136363-krolewskie-rozgromily-espanyol</link>
         <pubDate>Fri, 31 Jan 2025 22:04:00 GMT</pubDate>
         <description>Królewskie bez problemu ograły Espanyol i umocniły się na drugim miejscu w tabeli. Był to pierwszy występ piłkarek po manicie przyjętej od Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Co dzieje się ze sprawą oskarżenia City o oszustwa finansowe?</title>
-        <link>https://www.realmadryt.pl/news/136362-co-dzieje-sie-ze-sprawa-oskarzenia-city-o-oszustwa-finansowe</link>
-        <pubDate>Fri, 31 Jan 2025 21:20:00 GMT</pubDate>
-        <description>The Athletic opublikował aktualizację sprawy, w której Manchester City oficjalnie oskarżony jest o 115 naruszeń angielskiego Finansowego Fair Play.</description>
     </item>
     
 </channel>
