@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 13:27:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 13:40:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Najwyższa porażka Realu w oficjalnym meczu miała miejsce z Espanyolem</title>
+        <link>https://www.realmadryt.pl/news/136383-najwyzsza-porazka-realu-w-oficjalnym-meczu-miala-miejsce-z-espanyolem</link>
+        <pubDate>Sat, 01 Feb 2025 14:38:00 GMT</pubDate>
+        <description>5 marca 1930 roku, w przededniu rocznicy założenia klubu, Real został zniszczony przez drużynę z Barcelony.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Alan Godoy piłkarzem Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136329-zludzenie-bezpieczenstwa</link>
         <pubDate>Sat, 01 Feb 2025 10:15:00 GMT</pubDate>
         <description>Poczucie pełnego bezpieczeństwa jest wyłącznie złudzeniem.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 1 lutego</title>
-        <link>https://www.realmadryt.pl/news/136378-kartka-z-kalendarza-1-lutego</link>
-        <pubDate>Sat, 01 Feb 2025 09:45:00 GMT</pubDate>
-        <description>Urodziny byłych zawodników oraz zwycięstwa z Realem Valladolid i Atlético Madryt. Co działo się 1 lutego?</description>
     </item>
     
 </channel>
