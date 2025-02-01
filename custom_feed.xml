@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 08:54:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 09:22:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złudzenie bezpieczeństwa</title>
+        <link>https://www.realmadryt.pl/news/136329-zludzenie-bezpieczenstwa</link>
+        <pubDate>Sat, 01 Feb 2025 10:15:00 GMT</pubDate>
+        <description>Poczucie pełnego bezpieczeństwa jest wyłącznie złudzeniem.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 lutego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136376-ceballos-przestal-myslec-o-tym-co-zrobic-z-pilka-teraz-mysli-grajac</link>
         <pubDate>Sat, 01 Feb 2025 06:49:00 GMT</pubDate>
         <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami o Danim Ceballosie.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Misja, z którą rzekomo przyszedł Real, by „ratować futbol”, wygląda raczej na próbę jego zniszczenia</title>
-        <link>https://www.realmadryt.pl/news/136375-tebas-misja-z-ktora-rzekomo-przyszedl-real-by-ratowac-futbol-wyglada-raczej-na-probe-jego-zniszczenia</link>
-        <pubDate>Sat, 01 Feb 2025 06:02:00 GMT</pubDate>
-        <description>Javier Tebas udzielił wywiadu dziennikowi El País. Prezes La Ligi mówił głównie o nowej Lidze Mistrzów i Superlidze.</description>
     </item>
     
 </channel>
