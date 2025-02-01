@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 04:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 04:41:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Rodrygo na lewym skrzydle to może być temat do przemyślenia i debaty</title>
+        <link>https://www.realmadryt.pl/news/136360-ancelotti-rodrygo-na-lewym-skrzydle-to-moze-byc-temat-do-przemyslenia-i-debaty</link>
+        <pubDate>Sat, 01 Feb 2025 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Espanyolem w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136333-telewizyjny-terminarz-22-kolejki-la-ligi</link>
         <pubDate>Fri, 31 Jan 2025 17:51:00 GMT</pubDate>
         <description>Przed nami 22. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Espanyolem. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real zawiera specjalną klauzulę w kontraktach swoich wychowanków</title>
-        <link>https://www.realmadryt.pl/news/136356-relevo-real-zawiera-specjalna-klauzule-w-kontraktach-swoich-wychowankow</link>
-        <pubDate>Fri, 31 Jan 2025 17:41:00 GMT</pubDate>
-        <description>Klub chroni się przed potencjalnymi odejściami wychowanków za sprawą specjalnej klauzuli kontraktowej, która gwarantuje automatyczne przedłużenie umowy po spełnieniu określonego warunku.</description>
     </item>
     
 </channel>
