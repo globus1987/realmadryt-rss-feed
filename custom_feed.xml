@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Feb 2025 23:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 23:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136413-dzisiejsze-okladki</link>
+        <pubDate>Sun, 02 Feb 2025 00:51:00 GMT</pubDate>
+        <description>Porażka Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136401-ruediger-zszedl-z-kontuzja</link>
         <pubDate>Sat, 01 Feb 2025 21:23:00 GMT</pubDate>
         <description>Antonio Rüdiger opuścił boisko podczas meczu Realu Madryt z Espanyolem.</description>
-    </item>
-    
-    <item>
-        <title>Głowa rozbita o mur</title>
-        <link>https://www.realmadryt.pl/news/136397-glowa-rozbita-o-mur</link>
-        <pubDate>Sat, 01 Feb 2025 20:55:00 GMT</pubDate>
-        <description>W meczu 22. kolejki La Ligi Real Madryt przegrał na wyjeździe z Espanyolem 0:1. Jedyną bramkę w 85. minucie zdobył Carlos Romero.</description>
     </item>
     
 </channel>
