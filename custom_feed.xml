@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Feb 2025 04:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 04:40:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger doznał kontuzji mięśniowej i przejdzie badania medyczne</title>
+        <link>https://www.realmadryt.pl/news/136411-ruediger-doznal-kontuzji-miesniowej-i-przejdzie-badania-medyczne</link>
+        <pubDate>Sun, 02 Feb 2025 05:30:00 GMT</pubDate>
+        <description>Na diagnozę będzie trzeba zaczekać, aż zawodnikiem zajmą się lekarze w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136402-ruediger-gral-wszystko-ale-w-koncu-nie-wytrzymal</link>
         <pubDate>Sat, 01 Feb 2025 21:57:00 GMT</pubDate>
         <description>Antonio Rüdiger nie dokończył meczu z Espanyolem i musiał opuścić boisko.</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger zszedł z kontuzją</title>
-        <link>https://www.realmadryt.pl/news/136401-ruediger-zszedl-z-kontuzja</link>
-        <pubDate>Sat, 01 Feb 2025 21:23:00 GMT</pubDate>
-        <description>Antonio Rüdiger opuścił boisko podczas meczu Realu Madryt z Espanyolem.</description>
     </item>
     
 </channel>
