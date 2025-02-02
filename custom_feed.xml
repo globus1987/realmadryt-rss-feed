@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Feb 2025 05:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 06:28:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Manolo González: Romero nie trafił Mbappé</title>
+        <link>https://www.realmadryt.pl/news/136412-manolo-gonzalez-romero-nie-trafil-mbappe</link>
+        <pubDate>Sun, 02 Feb 2025 07:25:00 GMT</pubDate>
+        <description>Trener Espanyolu, Manolo González, wziął udział w konferencji prasowej po wygranej z Realem Madryt. Przedstawiamy słowa szkoleniowca gospodarzy.</description>
+    </item>
     
     <item>
         <title>ESPN: Luka Dončić zostanie koszykarzem Los Angeles Lakers!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136399-22-kolejka-przewaga-realu-topnieje</link>
         <pubDate>Sat, 01 Feb 2025 23:08:00 GMT</pubDate>
         <description>Atlético traci już tylko jeden punkt do Realu Madryt. Za tydzień derby.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Espanyolem</title>
-        <link>https://www.realmadryt.pl/news/136398-ocen-pilkarzy-po-meczu-z-espanyolem</link>
-        <pubDate>Sat, 01 Feb 2025 22:57:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
