@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Feb 2025 16:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 16:41:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Luka Dončić graczem Los Angeles Lakers</title>
+        <link>https://www.realmadryt.pl/news/136434-oficjalnie-luka-doncic-graczem-los-angeles-lakers</link>
+        <pubDate>Sun, 02 Feb 2025 17:26:00 GMT</pubDate>
+        <description>Ta wymiana wstrząsa całą NBA, gdy dwaj czołowi zawodnicy ligi zmieniają drużyny.</description>
+    </item>
     
     <item>
         <title>Arsenal vs Manchester City [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136422-oficjalnie-antonio-ruediger-kontuzjowany</link>
         <pubDate>Sun, 02 Feb 2025 11:05:00 GMT</pubDate>
         <description>We wczorajszym meczu z Espanyolem Antonio Rüdiger doznał kontuzji prawej nogi. Dziś poznaliśmy dokładną diagnozę.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Espanyolem</title>
-        <link>https://www.realmadryt.pl/news/136418-oceny-zawodnikow-po-meczu-z-espanyolem</link>
-        <pubDate>Sun, 02 Feb 2025 11:00:00 GMT</pubDate>
-        <description>Real Madryt przegrał na wyjeździe z Espanyolem 0:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
