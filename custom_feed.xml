@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Feb 2025 15:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 16:25:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arsenal vs Manchester City [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/136433-arsenal-vs-manchester-city-live</link>
+        <pubDate>Sun, 02 Feb 2025 17:15:00 GMT</pubDate>
+        <description>Manchester City gra z Arsenalem w 24. kolejce Premier League. Do pierwszego meczu Obywateli z Realem Madryt pozostaje 9 dni.</description>
+    </item>
     
     <item>
         <title>Real Madryt przeżywa godziny prawdziwego gniewu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136418-oceny-zawodnikow-po-meczu-z-espanyolem</link>
         <pubDate>Sun, 02 Feb 2025 11:00:00 GMT</pubDate>
         <description>Real Madryt przegrał na wyjeździe z Espanyolem 0:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/136421-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Sun, 02 Feb 2025 10:56:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
