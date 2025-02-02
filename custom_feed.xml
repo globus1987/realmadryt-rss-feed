@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Feb 2025 23:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 23:38:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136442-dzisiejsze-okladki</link>
+        <pubDate>Mon, 03 Feb 2025 00:24:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Jestem zadowolony, ponieważ każdy dołożył coś od siebie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136429-tchouameni-znow-na-swieczniku</link>
         <pubDate>Sun, 02 Feb 2025 12:45:00 GMT</pubDate>
         <description>Aurélien Tchouaméni znów wystąpił na środku obrony i znów jego postawa budzi uzasadnione wątpliwości. Dyskusje dotyczące gry Francuza w najbliższym czasie będą jeszcze bardziej intensywne, ponieważ z gry wypadł Rüdiger.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Rüdiger ma wrócić na rewanż z Manchesterem City</title>
-        <link>https://www.realmadryt.pl/news/136428-cope-ruediger-ma-wrocic-na-rewanz-z-manchesterem-city</link>
-        <pubDate>Sun, 02 Feb 2025 12:36:00 GMT</pubDate>
-        <description>Niemiec ma wyznaczony cel, którym jest rewanżowe spotkanie z Anglikami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
