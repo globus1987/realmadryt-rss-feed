@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Feb 2025 06:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 07:19:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>City zagra dziś na wyjeździe z Arsenalem</title>
+        <link>https://www.realmadryt.pl/news/136408-city-zagra-dzis-na-wyjezdzie-z-arsenalem</link>
+        <pubDate>Sun, 02 Feb 2025 08:18:00 GMT</pubDate>
+        <description>Manchester City wybierze się dziś do Londynu, gdzie będzie mógł odrobić stratę do wicelidera. Zadanie nie będzie jednak należeć do łatwych.</description>
+    </item>
     
     <item>
         <title>Manolo González: Romero nie trafił Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136400-joan-garcia-mvp-meczu-realu-z-espanyolem</link>
         <pubDate>Sat, 01 Feb 2025 23:10:00 GMT</pubDate>
         <description>Hiszpański bramkarz został wyróżniony po przegranym przez Real spotkaniu na RCDE Stadium.</description>
-    </item>
-    
-    <item>
-        <title>22. kolejka: Przewaga Realu topnieje</title>
-        <link>https://www.realmadryt.pl/news/136399-22-kolejka-przewaga-realu-topnieje</link>
-        <pubDate>Sat, 01 Feb 2025 23:08:00 GMT</pubDate>
-        <description>Atlético traci już tylko jeden punkt do Realu Madryt. Za tydzień derby.</description>
     </item>
     
 </channel>
