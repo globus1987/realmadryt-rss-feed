@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Feb 2025 23:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 23:38:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136515-dzisiejsze-okladki</link>
+        <pubDate>Wed, 05 Feb 2025 00:28:00 GMT</pubDate>
+        <description>Mecze madryckich ekip w Pucharze Króla i wypowiedzi kapitana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt złożył życzenia urodzinowe Cristiano Ronaldo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136488-gabriel-bramka-na-bernabeu-byla-najwazniejsza-w-mojej-karierze</link>
         <pubDate>Tue, 04 Feb 2025 18:20:00 GMT</pubDate>
         <description>Gabriel Appelt Pires to jeden z bohaterów Leganés, które w 2016 roku awansowało do Primera División, a także zawodnik, który swoim golem wyeliminował Real Madryt z Copa del Rey w sezonie 2017/18. Teraz w przeddzień ponownego pucharowego starcia swojego byłego klubu z Królewskimi udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Van Dijk ze szkółki</title>
-        <link>https://www.realmadryt.pl/news/136504-van-dijk-ze-szkolki</link>
-        <pubDate>Tue, 04 Feb 2025 17:47:00 GMT</pubDate>
-        <description>Jacobo Ramón ma być rozwiązaniem problemu ze środkiem obrony pod nieobecność Rüdigera i Alaby. Wielkim entuzjastą talentu wychowanka jest zwłaszcza Davide Ancelotti. Sam trener również zapewnia o swoim zaufaniu względem 20-latka.</description>
     </item>
     
 </channel>
