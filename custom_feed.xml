@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Feb 2025 11:38:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 11:53:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Bellingham i Mbappé nie są dostępni na jutrzejszy mecz</title>
+        <link>https://www.realmadryt.pl/news/136492-ancelotti-bellingham-i-mbappe-nie-sa-dostepni-na-jutrzejszy-mecz</link>
+        <pubDate>Tue, 04 Feb 2025 12:52:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Leganés w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
+    
+    <item>
+        <title>Ostatni trening przed Leganés</title>
+        <link>https://www.realmadryt.pl/news/136493-ostatni-trening-przed-leganes</link>
+        <pubDate>Tue, 04 Feb 2025 12:45:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Wyjazd do Stambułu, część pierwsza</title>
@@ -14,8 +28,8 @@
     </item>
     
     <item>
-        <title>Bellingham i Vinícius prawdopodobnie nie zagrają z Leganés</title>
-        <link>https://www.realmadryt.pl/news/136491-bellingham-i-vinicius-prawdopodobnie-nie-zagraja-z-leganes</link>
+        <title>Bellingham nie zagra z Leganés, ale gotowy będzie Vinícius</title>
+        <link>https://www.realmadryt.pl/news/136491-bellingham-nie-zagra-z-leganes-ale-gotowy-bedzie-vinicius</link>
         <pubDate>Tue, 04 Feb 2025 11:37:00 GMT</pubDate>
         <description>Anglik i Brazylijczyk nie trenują dzisiaj z zespołem.</description>
     </item>
@@ -28,8 +42,8 @@
     </item>
     
     <item>
-        <title>Oficjalnie: David Alaba kontujzjowany</title>
-        <link>https://www.realmadryt.pl/news/136490-oficjalnie-david-alaba-kontujzjowany</link>
+        <title>Oficjalnie: David Alaba kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/136490-oficjalnie-david-alaba-kontuzjowany</link>
         <pubDate>Tue, 04 Feb 2025 10:56:00 GMT</pubDate>
         <description>Austriacki obrońca wypada z gry i prawdopodobnie nie zagra w kilku najbliższych spotkaniach.</description>
     </item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136484-marca-real-madryt-nie-wierzy-ani-nie-oczekuje-niczego-po-obietnicach-zmian-ze-strony-rfef</link>
         <pubDate>Tue, 04 Feb 2025 07:51:00 GMT</pubDate>
         <description>Królewscy uważają, że przy obecnym kierownictwie, powiązanym z „przeszłością Negreiry”, niemożliwa jest jakakolwiek zmiana w toksycznej relacji wewnątrz Hiszpańskiej Federacji Piłkarskiej.</description>
-    </item>
-    
-    <item>
-        <title>AS: Człowiek, który załatwił Barçę i Atleti</title>
-        <link>https://www.realmadryt.pl/news/136478-as-czlowiek-ktory-zalatwil-barce-i-atleti</link>
-        <pubDate>Tue, 04 Feb 2025 07:25:00 GMT</pubDate>
-        <description>Leganés wygrał już w tym sezonie z Barceloną i Atlético dzięki bramkom ze stałych fragmentów gry opracowanych przez Jesúsa Ruedę, asystenta Borjy Jiméneza. Teraz trener ma nadzieję powtórzyć ten wyczyn przeciwko Realowi Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Media: Soto Grado na derby Madrytu</title>
-        <link>https://www.realmadryt.pl/news/136479-media-soto-grado-na-derby-madrytu</link>
-        <pubDate>Tue, 04 Feb 2025 05:30:00 GMT</pubDate>
-        <description>César Soto Grado najprawdopodobniej poprowadzi derby Madrytu, a sędzią VAR będzie Ricardo de Burgos Bengoetxea. W czwartek poznamy ostateczne decyzje w tej sprawie.</description>
     </item>
     
 </channel>
