@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Feb 2025 17:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 17:39:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé zawodnikiem na Pięć Gwiazdek za styczeń</title>
+        <link>https://www.realmadryt.pl/news/136550-mbappe-zawodnikiem-na-piec-gwiazdek-za-styczen</link>
+        <pubDate>Wed, 05 Feb 2025 18:29:00 GMT</pubDate>
+        <description>Francuski napastnik po raz trzeci w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu tego roku.</description>
+    </item>
     
     <item>
         <title>Óscar Rodríguez: Real przegrał ostatni mecz, więc pewnie wyjdą na boisko naładowani</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136538-oficjalnie-mario-hezonja-zawieszony-na-mecz-z-fenerbahce</link>
         <pubDate>Wed, 05 Feb 2025 14:57:00 GMT</pubDate>
         <description>Mario Hezonja został zawieszony na jedno spotkanie za zachowanie względem sędziów w spotkaniu z AS Monaco. Chorwat przegapi starcie z Fenerbahçe, chociaż Realowi Madryt przysługuje prawo do odwołania.</description>
-    </item>
-    
-    <item>
-        <title>Puchar Króla jedynym schronieniem Gülera</title>
-        <link>https://www.realmadryt.pl/news/136537-puchar-krola-jedynym-schronieniem-guelera</link>
-        <pubDate>Wed, 05 Feb 2025 14:45:00 GMT</pubDate>
-        <description>Arda Güler strzelił dwa gole w Pucharze Króla i… zniknął. Turek w tym sezonie zebrał taką samą liczbę minut, co kontuzjowany od czterech miesięcy Carvajal, zauważa Relevo.</description>
     </item>
     
 </channel>
