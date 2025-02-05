@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Feb 2025 23:21:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 23:38:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136562-dzisiejsze-okladki</link>
+        <pubDate>Thu, 06 Feb 2025 00:34:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Valverde: Do drugiej bramki graliśmy bardzo dobry mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136546-oscar-rodriguez-real-przegral-ostatni-mecz-wiec-pewnie-wyjda-na-boisko-naladowani</link>
         <pubDate>Wed, 05 Feb 2025 18:00:00 GMT</pubDate>
         <description>Óscar Rodríguez udzielił wywiadu dziennikowi El Mundo. Wychowanek Realu Madryt opowiadał o dotychczasowych krokach w jego karierze.</description>
-    </item>
-    
-    <item>
-        <title>Pablo Maffeo od starcia z Viníciusem grał na środkach przeciwbólowych i z pękniętą kością</title>
-        <link>https://www.realmadryt.pl/news/136548-pablo-maffeo-od-starcia-z-viniciusem-gral-na-srodkach-przeciwbolowych-i-z-peknieta-koscia</link>
-        <pubDate>Wed, 05 Feb 2025 17:46:00 GMT</pubDate>
-        <description>Przypadkowe starcie z Brazylijczykiem sprawiło, że obrońca musiał rozgrywać kolejne mecze na środkach przeciwbólowych.</description>
     </item>
     
 </channel>
