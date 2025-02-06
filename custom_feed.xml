@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 14:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 14:40:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Guardian: UEFA rozważa rezygnację z dogrywek w Lidze Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/136592-the-guardian-uefa-rozwaza-rezygnacje-z-dogrywek-w-lidze-mistrzow</link>
+        <pubDate>Thu, 06 Feb 2025 15:33:00 GMT</pubDate>
+        <description>Trwają dyskusje na temat przechodzenia od razu do rzutów karnych. Zmiana jest jednak mało prawdopodobna przed końcem obecnego kontraktu telewizyjnego, który obowiązuje do 2027 roku.</description>
+    </item>
     
     <item>
         <title>Juan José: Di Stéfano wchodził do szatni i rzucał: „Gra ten, ten i ten, a że jesteśmy lepsi, to wygramy”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136580-oceny-zawodnikow-po-meczu-z-leganes</link>
         <pubDate>Thu, 06 Feb 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Leganés 3:2 i awansował do półfinału Pucharu Króla. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt wspiera Kiriana w walce z nawrotem nowotworu</title>
-        <link>https://www.realmadryt.pl/news/136581-real-madryt-wspiera-kiriana-w-walce-z-nawrotem-nowotworu</link>
-        <pubDate>Thu, 06 Feb 2025 11:52:00 GMT</pubDate>
-        <description>Pomocnik Las Palmas potwierdził dzisiaj złe wieści na temat jego stanu zdrowia.</description>
     </item>
     
 </channel>
