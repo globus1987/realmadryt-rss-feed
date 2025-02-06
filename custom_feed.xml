@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 19:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 20:23:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Correa: Wygramy 0:2!</title>
+        <link>https://www.realmadryt.pl/news/136603-correa-wygramy-0-2</link>
+        <pubDate>Thu, 06 Feb 2025 21:04:00 GMT</pubDate>
+        <description>Browar Mahou opublikował kampanię z piłkarzami Atlético Madryt. Przedstawiamy ich wypowiedzi przed sobotnimi derbami z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Valencia vs Barcelona: Ostatnie rozstrzygnięcia w ćwierćfinałach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136593-as-modric-chce-przedluzyc-kontrakt-o-kolejny-rok</link>
         <pubDate>Thu, 06 Feb 2025 15:50:00 GMT</pubDate>
         <description>Chorwat w wieku 39 lat zaczął trafiać do siatki z imponującą regularnością. W ostatnich 9 meczach w barwach Realu strzelił tyle samo goli, co w poprzednich 107. Jego pragnieniem jest pozostanie w Madrycie jeszcze na kolejny rok.</description>
-    </item>
-    
-    <item>
-        <title>The Guardian: UEFA rozważa rezygnację z dogrywek w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/136592-the-guardian-uefa-rozwaza-rezygnacje-z-dogrywek-w-lidze-mistrzow</link>
-        <pubDate>Thu, 06 Feb 2025 15:33:00 GMT</pubDate>
-        <description>Trwają dyskusje na temat przechodzenia od razu do rzutów karnych. Zmiana jest jednak mało prawdopodobna przed końcem obecnego kontraktu telewizyjnego, który obowiązuje do 2027 roku.</description>
     </item>
     
 </channel>
