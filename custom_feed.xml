@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 08:28:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 08:45:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd do Stambułu, część druga</title>
+        <link>https://www.realmadryt.pl/news/136558-wyjazd-do-stambulu-czesc-druga</link>
+        <pubDate>Thu, 06 Feb 2025 09:35:00 GMT</pubDate>
+        <description>Real Madryt w 26. kolejce Euroligi zmierzy się na wyjeździe z Fenerbahçe. Królewscy po dwóch kolejnych porażkach potrzebują zwycięstwa, żeby poprawić swoją sytuację w tabeli.</description>
+    </item>
     
     <item>
         <title>Losowanie półfinałów Pucharu Króla dopiero w następnym tygodniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136563-klotnia-modricia-z-vinim-czlowieku-to-sprawy-pilkarskie</link>
         <pubDate>Thu, 06 Feb 2025 01:46:00 GMT</pubDate>
         <description>Media po meczu Realu Madryt z Leganés wzięły pod lupę kłótnię dwóch piłkarzy Królewskich w końcówce po groźnej akcji gospodarzy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/136562-dzisiejsze-okladki</link>
-        <pubDate>Thu, 06 Feb 2025 00:34:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
