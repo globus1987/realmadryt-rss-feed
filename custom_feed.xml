@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 06:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 06:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prezes Federacji niedługo pozna wyrok w sprawie swojego domniemanego matactwa</title>
+        <link>https://www.realmadryt.pl/news/136566-prezes-federacji-niedlugo-pozna-wyrok-w-sprawie-swojego-domniemanego-matactwa</link>
+        <pubDate>Thu, 06 Feb 2025 07:45:00 GMT</pubDate>
+        <description>W środę odbyło się posiedzenie Sądu Najwyższego w sprawie odwołania nowego prezesa Federacji. Jeśli sędzia utrzyma wyrok 7-letniego zakazu pełnienia funkcji publicznych, rząd rozpocznie procedurę jego odwołania.</description>
+    </item>
     
     <item>
         <title>COPE: Lucas Vázquez zmaga się z problemami mięśniowymi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136552-partido-varbaro-i-usmiechnijcie-sie-czyli-jak-leganes-zapowiada-mecz-z-realem</link>
         <pubDate>Wed, 05 Feb 2025 20:10:00 GMT</pubDate>
         <description>Ogórki znów podchodzą do spotkania w humorystyczny sposób.</description>
-    </item>
-    
-    <item>
-        <title>Atlético wyśmiewa skargi i naciski Realu Madryt na sędziów</title>
-        <link>https://www.realmadryt.pl/news/136551-atletico-wysmiewa-skargi-i-naciski-realu-madryt-na-sedziow</link>
-        <pubDate>Wed, 05 Feb 2025 19:37:00 GMT</pubDate>
-        <description>Rojiblancos wystosowali serię wpisów na portalu X, w których wyśmiewają ostatnie skargi Realu Madryt i sugerują, że ci po prostu próbują wpłynąć na sędziów.</description>
     </item>
     
 </channel>
