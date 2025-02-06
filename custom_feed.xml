@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 23:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 23:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136609-dzisiejsze-okladki</link>
+        <pubDate>Fri, 07 Feb 2025 00:41:00 GMT</pubDate>
+        <description>Bunt klubów przeciwko Realowi Madryt i wygrana Realu Madryt nad Valencią to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Sergio Ramos podpisał roczny kontrakt w Meksyku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136549-relevo-rownolegly-biznes-stojacy-za-przeciekami-na-temat-wygladu-nowych-koszulek</link>
         <pubDate>Thu, 06 Feb 2025 17:30:00 GMT</pubDate>
         <description>Szkice, które podpisałby sam Da Vinci, koncepcje, które sprawiają, że oryginał wygląda źle, oraz rendery, które Grok chciałby mieć. Wszystko to komentujemy, porównujemy i czekamy na nowe informacje na temat kolejnych trykotów.</description>
-    </item>
-    
-    <item>
-        <title>„Klub prosi Ancelottiego o kolejny cud”</title>
-        <link>https://www.realmadryt.pl/news/136590-klub-prosi-ancelottiego-o-kolejny-cud</link>
-        <pubDate>Thu, 06 Feb 2025 16:40:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu z Leganés i trudnej sytuacji drużyny Carlo Ancelottiego w obliczu nadchodzących potyczek z Atlético i Manchesterem City. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
