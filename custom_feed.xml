@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 06:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 07:21:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Leganés 2:3 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/136568-leganes-2-3-real-madryt-video</link>
+        <pubDate>Thu, 06 Feb 2025 08:12:00 GMT</pubDate>
+        <description>Królewscy wygrali na Butarque i awansowali do półfinałów Pucharu Króla.</description>
+    </item>
     
     <item>
         <title>Prezes Federacji niedługo pozna wyrok w sprawie swojego domniemanego matactwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136553-gonzalo-prowadzi-do-polfinalu</link>
         <pubDate>Wed, 05 Feb 2025 20:55:00 GMT</pubDate>
         <description>W meczu ćwierćfinałowym Pucharu Króla Real Madryt wygrał na wyjeździe z Leganés 3:2.</description>
-    </item>
-    
-    <item>
-        <title>Partido várbaro i uśmiechnijcie się, czyli jak Leganés zapowiada mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/136552-partido-varbaro-i-usmiechnijcie-sie-czyli-jak-leganes-zapowiada-mecz-z-realem</link>
-        <pubDate>Wed, 05 Feb 2025 20:10:00 GMT</pubDate>
-        <description>Ogórki znów podchodzą do spotkania w humorystyczny sposób.</description>
     </item>
     
 </channel>
