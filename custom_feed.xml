@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 07:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 07:39:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo: Powiedziałem Brahimowi, że kiedy będzie przy linii, niech dogra mi piłkę</title>
+        <link>https://www.realmadryt.pl/news/136561-gonzalo-powiedzialem-brahimowi-ze-kiedy-bedzie-przy-linii-niech-dogra-mi-pilke</link>
+        <pubDate>Thu, 06 Feb 2025 08:30:00 GMT</pubDate>
+        <description>Gonzalo García udzielił wywiadu klubowej telewizji po wygranej 3:2 z Leganés w Pucharze Króla. Przedstawiamy wypowiedzi napastnika Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Leganés 2:3 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136555-ocen-pilkarzy-po-meczu-z-leganes</link>
         <pubDate>Wed, 05 Feb 2025 22:59:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo prowadzi do półfinału!</title>
-        <link>https://www.realmadryt.pl/news/136553-gonzalo-prowadzi-do-polfinalu</link>
-        <pubDate>Wed, 05 Feb 2025 20:55:00 GMT</pubDate>
-        <description>W meczu ćwierćfinałowym Pucharu Króla Real Madryt wygrał na wyjeździe z Leganés 3:2.</description>
     </item>
     
 </channel>
