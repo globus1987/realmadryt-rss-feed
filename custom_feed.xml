@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Feb 2025 11:17:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 11:38:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Uwaga na De Paula</title>
+        <link>https://www.realmadryt.pl/news/136623-uwaga-na-de-paula</link>
+        <pubDate>Fri, 07 Feb 2025 12:20:00 GMT</pubDate>
+        <description>Piłkarze Realu Madryt będą musieli jutro uważać na Rodrigo de Paula. Argentyńczyk rozgrywa bardzo dobry sezon i posyła średnio najwięcej kluczowych podań spośród wszystkich graczy w pięciu najmocniejszych ligach w Europie.</description>
+    </item>
     
     <item>
         <title>O'Reilly: Chcemy stworzyć coś wyjątkowego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136610-chiringuito-tebas-nakrecal-kluby-do-atakowania-realu-madryt</link>
         <pubDate>Fri, 07 Feb 2025 01:45:00 GMT</pubDate>
         <description>W nocnym programie przekazano ciekawy aspekt czwartkowego spotkania klubów z sędziami.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/136609-dzisiejsze-okladki</link>
-        <pubDate>Fri, 07 Feb 2025 00:41:00 GMT</pubDate>
-        <description>Bunt klubów przeciwko Realowi Madryt i wygrana Barcelony nad Valencią to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
