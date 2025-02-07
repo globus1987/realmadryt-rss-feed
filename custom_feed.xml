@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Feb 2025 22:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 23:20:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136638-dzisiejsze-okladki</link>
+        <pubDate>Sat, 08 Feb 2025 00:14:00 GMT</pubDate>
+        <description>Derby Madrytu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Wielu zapomina, że mamy totalnie alarmową sytuację w obronie</title>
+        <link>https://www.realmadryt.pl/news/136636-ancelotti-wielu-zapomina-ze-mamy-totalnie-alarmowa-sytuacje-w-obronie</link>
+        <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym meczem z Atlético Madryt w La Lidze. Przedstawiamy pełny zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Atlético: Pełne wsparcie dla zespołu sędziowskiego, ich rodzin i przyjaciół</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136627-real-bez-porazki-u-siebie-w-derbach-madrytu-od-2016-roku</link>
         <pubDate>Fri, 07 Feb 2025 15:38:00 GMT</pubDate>
         <description>Królewscy notują ostatnio dobrą serię w domowych meczach z Atlético, ale jeszcze nie tak dawno nie było tak kolorowo.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Atlético</title>
-        <link>https://www.realmadryt.pl/news/136624-kadra-realu-madryt-na-atletico</link>
-        <pubDate>Fri, 07 Feb 2025 15:04:00 GMT</pubDate>
-        <description>Królewscy podejdą do derbów Atlético Madryt bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 23 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Tebas do Ancelottiego: Carlo, bądź spokojny…</title>
-        <link>https://www.realmadryt.pl/news/136626-tebas-do-ancelottiego-carlo-badz-spokojny</link>
-        <pubDate>Fri, 07 Feb 2025 15:02:00 GMT</pubDate>
-        <description>Prezes La Ligi, znany i lubiany madridista, odpowiedział na portalu X na dzisiejsze słowa trenera Realu Madryt.</description>
     </item>
     
 </channel>
