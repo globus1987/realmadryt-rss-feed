@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Feb 2025 19:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 19:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 23. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/136622-telewizyjny-terminarz-23-kolejki-la-ligi</link>
+        <pubDate>Fri, 07 Feb 2025 20:41:00 GMT</pubDate>
+        <description>Przed nami 23. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Atlético. Gdzie obejrzeć to spotkanie?</description>
+    </item>
     
     <item>
         <title>Simeone: Nie myślę o tym, jak na mecz wyjdzie sędzia, ale jak wyjdziemy my</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136625-mbappe-musimy-wygrac-i-zrobimy-wszystko-by-wygrac</link>
         <pubDate>Fri, 07 Feb 2025 14:40:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu klubowej telewizji w związku z jego debiutem w derbach Madrytu. Przedstawiamy wypowiedzi Francuza z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>W ćwierćfinale Ligi Mistrzyń z Arsenalem!</title>
-        <link>https://www.realmadryt.pl/news/136618-w-cwiercfinale-ligi-mistrzyn-z-arsenalem</link>
-        <pubDate>Fri, 07 Feb 2025 13:32:00 GMT</pubDate>
-        <description>W ćwierćfinale Ligi Mistrzyń piłkarki Realu Madryt zmierzą się w dwumeczu z Arsenalem. Pierwsze spotkanie odbędzie się 18 lub 19 marca na Estadio Alfredo Di Stéfano.</description>
     </item>
     
 </channel>
