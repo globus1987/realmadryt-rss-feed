@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Feb 2025 23:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 01:46:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chiringuito: Tebas nakręcał kluby do atakowania Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/136610-chiringuito-tebas-nakrecal-kluby-do-atakowania-realu-madryt</link>
+        <pubDate>Fri, 07 Feb 2025 01:45:00 GMT</pubDate>
+        <description>W nocnym programie przekazano ciekawy aspekt czwartkowego spotkania klubów z sędziami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
         <link>https://www.realmadryt.pl/news/136609-dzisiejsze-okladki</link>
         <pubDate>Fri, 07 Feb 2025 00:41:00 GMT</pubDate>
-        <description>Bunt klubów przeciwko Realowi Madryt i wygrana Realu Madryt nad Valencią to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+        <description>Bunt klubów przeciwko Realowi Madryt i wygrana Barcelony nad Valencią to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136596-podcast-6x19-sedziowanie-i-lucas-na-wielkie-mecze</link>
         <pubDate>Thu, 06 Feb 2025 18:03:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy przede wszystkim wylosowanie Manchesteru City w Lidze Mistrzów czy ostatnie spekulacje dotyczące drużyny. Partnerem podcastu jest Fortuna Zakłady Bukmacherskie Online.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Równoległy biznes stojący za przeciekami na temat wyglądu nowych koszulek</title>
-        <link>https://www.realmadryt.pl/news/136549-relevo-rownolegly-biznes-stojacy-za-przeciekami-na-temat-wygladu-nowych-koszulek</link>
-        <pubDate>Thu, 06 Feb 2025 17:30:00 GMT</pubDate>
-        <description>Szkice, które podpisałby sam Da Vinci, koncepcje, które sprawiają, że oryginał wygląda źle, oraz rendery, które Grok chciałby mieć. Wszystko to komentujemy, porównujemy i czekamy na nowe informacje na temat kolejnych trykotów.</description>
     </item>
     
 </channel>
