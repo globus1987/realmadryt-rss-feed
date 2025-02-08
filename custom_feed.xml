@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Feb 2025 09:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 09:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick robi swoje</title>
+        <link>https://www.realmadryt.pl/news/136635-endrick-robi-swoje</link>
+        <pubDate>Sat, 08 Feb 2025 10:40:00 GMT</pubDate>
+        <description>Gdy Endrick otrzymuje już szansę na grę, to nie zawodzi. 18-letni Brazylijczyk ma najlepszą średnią bramek do rozegranych minut w Realu Madryt – strzela gola średnio raz na 80 minut. Mimo to Carlo Ancelotti w dalszym ciągu obchodzi się z nim w dosyć chłodny sposób.</description>
+    </item>
     
     <item>
         <title>City zagra dziś w Pucharze Anglii z trzecioligowcem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136622-telewizyjny-terminarz-23-kolejki-la-ligi</link>
         <pubDate>Fri, 07 Feb 2025 20:41:00 GMT</pubDate>
         <description>Przed nami 23. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Atlético. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Nie myślę o tym, jak na mecz wyjdzie sędzia, ale jak wyjdziemy my</title>
-        <link>https://www.realmadryt.pl/news/136634-simeone-nie-mysle-o-tym-jak-na-mecz-wyjdzie-sedzia-ale-jak-wyjdziemy-my</link>
-        <pubDate>Fri, 07 Feb 2025 19:09:00 GMT</pubDate>
-        <description>Diego Simeone wziął udział w konferencji prasowej przed meczem z Realem Madryt. Przedstawiamy zapis wypowiedzi trenera Atlético Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
