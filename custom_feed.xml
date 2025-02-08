@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Feb 2025 23:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 23:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136671-dzisiejsze-okladki</link>
+        <pubDate>Sun, 09 Feb 2025 00:42:00 GMT</pubDate>
+        <description>Remis w derbach Madrytu to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Nie chcę rozmawiać o arbitrze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136656-pilkarki-wygrywaja-z-levante</link>
         <pubDate>Sat, 08 Feb 2025 16:36:00 GMT</pubDate>
         <description>W meczu 18. kolejki Ligi F piłkarki Realu Madryt pokonały na wyjeździe Levante 2:1. Bramki dla Królewskich zdobyły Caroline Weir i Alba Redondo.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham w poszukiwaniu pierwszego derbowego gola</title>
-        <link>https://www.realmadryt.pl/news/136655-bellingham-w-poszukiwaniu-pierwszego-derbowego-gola</link>
-        <pubDate>Sat, 08 Feb 2025 15:49:00 GMT</pubDate>
-        <description>Pięć spotkań z Rojiblancos i zero bramek. Pomocnik Realu na razie nie potrafił znaleźć sposobu na defensywę lokalnego rywala.</description>
     </item>
     
 </channel>
