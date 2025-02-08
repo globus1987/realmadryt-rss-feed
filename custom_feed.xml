@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Feb 2025 09:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 10:21:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scenariusz w toku</title>
+        <link>https://www.realmadryt.pl/news/136595-scenariusz-w-toku</link>
+        <pubDate>Sat, 08 Feb 2025 11:17:00 GMT</pubDate>
+        <description>Gdyby bieżący sezon był filmem lub książką, to zdecydowanie by nas wciągnął.</description>
+    </item>
     
     <item>
         <title>Endrick robi swoje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136637-atletico-pelne-wsparcie-dla-zespolu-sedziowskiego-ich-rodzin-i-przyjaciol</link>
         <pubDate>Fri, 07 Feb 2025 23:13:00 GMT</pubDate>
         <description>Atlético Madryt kontynuuje swoją radosną krucjatę w social mediach i dziś wystosowało ironiczny komunikat wsparcia dla sędziów.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 23. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/136622-telewizyjny-terminarz-23-kolejki-la-ligi</link>
-        <pubDate>Fri, 07 Feb 2025 20:41:00 GMT</pubDate>
-        <description>Przed nami 23. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Atlético. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
