@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Feb 2025 19:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 20:21:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Atlético [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/136663-real-madryt-atletico-live</link>
+        <pubDate>Sat, 08 Feb 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwają derby Madrytu na Estadio Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Atlético [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136650-dlaczego-julian-alvarez-nie-podpisal-kontraktu-z-realem</link>
         <pubDate>Sat, 08 Feb 2025 14:07:00 GMT</pubDate>
         <description>Argentyńczyk jako dziecko zachwycił publiczność w Valdebebas, ale nie udało mu się dołączyć do Realu z powodu pewnych przepisów i spraw rodzinnych.</description>
-    </item>
-    
-    <item>
-        <title>Mijatović: Sędziowie mają prawo do błędów</title>
-        <link>https://www.realmadryt.pl/news/136649-mijatovic-sedziowie-maja-prawo-do-bledow</link>
-        <pubDate>Sat, 08 Feb 2025 13:37:00 GMT</pubDate>
-        <description>Predrag Mijatović był gościem audycji El Larguero na antenie Cadena SER. Były napastnik udzielił kilku wypowiedzi związanych z wieczornymi derbami Madrytu.</description>
     </item>
     
 </channel>
