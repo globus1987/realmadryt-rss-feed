@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 15:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 15:39:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Lucas Vázquez kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/136690-oficjalnie-lucas-vazquez-kontuzjowany</link>
+        <pubDate>Sun, 09 Feb 2025 16:35:00 GMT</pubDate>
+        <description>Hiszpan nie zagra w najbliższych meczach.</description>
+    </item>
     
     <item>
         <title>Mateo: Musieliśmy ten mecz wygrać dwa czy trzy razy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136680-oceny-zawodnikow-po-meczu-z-atletico</link>
         <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt zremisował u siebie z Atlético 1:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Giménez: Gdybyśmy zachowywali większy spokój, moglibyśmy zabić ten mecz</title>
-        <link>https://www.realmadryt.pl/news/136676-gimenez-gdybysmy-zachowywali-wiekszy-spokoj-moglibysmy-zabic-ten-mecz</link>
-        <pubDate>Sun, 09 Feb 2025 11:30:00 GMT</pubDate>
-        <description>Obrońca Atlético Madryt, José María Giménez, podzielił się swoimi odczuciami po zakończonymi remisem derbami Madrytu. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
