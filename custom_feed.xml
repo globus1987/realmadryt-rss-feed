@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 07:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 07:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni test przed Pucharem Króla</title>
+        <link>https://www.realmadryt.pl/news/136661-ostatni-test-przed-pucharem-krola</link>
+        <pubDate>Sun, 09 Feb 2025 08:40:00 GMT</pubDate>
+        <description>W 20. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Lleidą. Będzie to szansa na umocnienie się na pozycji lidera. Jest to jednocześnie ostatni sprawdzian drużyny Chusa Mateo przed Pucharem Króla.</description>
+    </item>
     
     <item>
         <title>Lucas: Wyszli na prowadzenie bez zrobienia praktycznie niczego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136663-remis-i-niedosyt</link>
         <pubDate>Sat, 08 Feb 2025 20:55:00 GMT</pubDate>
         <description>Real zremisował w derbach Madrytu z Atlético 1:1. Jedyną bramkę dla Królewskich zdobył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Atlético [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/136659-rozgrzewka-przed-atletico-video</link>
-        <pubDate>Sat, 08 Feb 2025 20:16:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Atlético Madryt. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
     </item>
     
 </channel>
