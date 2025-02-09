@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 09:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 10:22:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Llorente: Nie sądzę, że Barcelona jest tu wygranym</title>
+        <link>https://www.realmadryt.pl/news/136670-llorente-nie-sadze-ze-barcelona-jest-tu-wygranym</link>
+        <pubDate>Sun, 09 Feb 2025 10:55:00 GMT</pubDate>
+        <description>Marcos Llorente udzielił wypowiedzi mediom po meczu z Realem Madryt w La Lidze. Przedstawiamy komentarze zawodnika Atlético Madryt z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 9 lutego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136664-real-madryt-1-1-atletico-video</link>
         <pubDate>Sat, 08 Feb 2025 23:18:00 GMT</pubDate>
         <description>Real zremisował w derbach Madrytu z Atlético 1:1. Jedyną bramkę dla Królewskich zdobył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Julián Álvarez MVP derbów Madrytu</title>
-        <link>https://www.realmadryt.pl/news/136668-julian-alvarez-mvp-derbow-madrytu</link>
-        <pubDate>Sat, 08 Feb 2025 23:16:00 GMT</pubDate>
-        <description>Argentyński napastnik został wyróżniony po zremisowanym przez Real spotkaniu na Santiago Bernabéu.</description>
     </item>
     
 </channel>
