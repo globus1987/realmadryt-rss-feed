@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 23:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 23:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136699-dzisiejsze-okladki</link>
+        <pubDate>Mon, 10 Feb 2025 00:39:00 GMT</pubDate>
+        <description>Wymagania Carlo Ancelottiego i wygrana Barcelony to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Prezes Sevilli: Real Madryt próbuje zniszczyć hiszpański futbol</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136688-atletico-dostalo-karnego-na-bernabeu-w-lidze-po-prawie-15-latach</link>
         <pubDate>Sun, 09 Feb 2025 14:44:00 GMT</pubDate>
         <description>Diego Forlán był ostatnim piłkarzem Atlético, który wykonał rzut karny na stadionie Realu, a miało to miejsce blisko piętnaście lat temu. Rojiblancos dostali 6 rzutów karnych w 88 meczach ligowych na obiekcie Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze umocnili się na pozycji lidera</title>
-        <link>https://www.realmadryt.pl/news/136687-koszykarze-umocnili-sie-na-pozycji-lidera</link>
-        <pubDate>Sun, 09 Feb 2025 14:38:00 GMT</pubDate>
-        <description>W 20. kolejce Ligi Endesa Real Madryt pokonał na wyjeździe Lleidę. Katalończycy sprawili madrytczykom sporo problemów, ale ostatnia kwarta należała do Królewskich.</description>
     </item>
     
 </channel>
