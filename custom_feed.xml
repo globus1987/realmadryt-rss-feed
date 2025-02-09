@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 22:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 23:21:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prezes Sevilli: Real Madryt próbuje zniszczyć hiszpański futbol</title>
+        <link>https://www.realmadryt.pl/news/136698-prezes-sevilli-real-madryt-probuje-zniszczyc-hiszpanski-futbol</link>
+        <pubDate>Mon, 10 Feb 2025 00:08:00 GMT</pubDate>
+        <description>José María del Nido Carrasco udzielił wywiadu telewizji DAZN przed niedzielnym meczem z Barceloną. Przedstawiamy jego wypowiedzi w sprawach sędziowskich.</description>
+    </item>
     
     <item>
         <title>23. kolejka: Barcelona dominuje na Pizjuán i odrabia straty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136687-koszykarze-umocnili-sie-na-pozycji-lidera</link>
         <pubDate>Sun, 09 Feb 2025 14:38:00 GMT</pubDate>
         <description>W 20. kolejce Ligi Endesa Real Madryt pokonał na wyjeździe Lleidę. Katalończycy sprawili madrytczykom sporo problemów, ale ostatnia kwarta należała do Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x20: Dobre i złe odczucia po derbach</title>
-        <link>https://www.realmadryt.pl/news/136686-podcast-6x20-dobre-i-zle-odczucia-po-derbach</link>
-        <pubDate>Sun, 09 Feb 2025 14:37:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy przede wszystkim derby Madrytu oraz mecz z Manchesterem City.</description>
     </item>
     
 </channel>
