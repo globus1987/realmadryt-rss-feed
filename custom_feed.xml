@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 14:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 14:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fantastyczna Czwórka lub wzmocnienie środka</title>
+        <link>https://www.realmadryt.pl/news/136679-fantastyczna-czworka-lub-wzmocnienie-srodka</link>
+        <pubDate>Sun, 09 Feb 2025 15:47:00 GMT</pubDate>
+        <description>Carlo Ancelotti ma niewiele czasu na to, aby podjąć decyzję, na jakie ustawienie postawić w pierwszym meczu z Manchesterem City na Etihad Stadium. Z jednej strony jest bardziej ofensywna i ryzykowna opcja z Fantastyczną Czwórką z przodu, a z drugiej wzmocnienie środka pola większą liczbą pomocników.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Manchester City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136670-llorente-nie-sadze-ze-barcelona-jest-tu-wygranym</link>
         <pubDate>Sun, 09 Feb 2025 10:55:00 GMT</pubDate>
         <description>Marcos Llorente udzielił wypowiedzi mediom po meczu z Realem Madryt w La Lidze. Przedstawiamy komentarze zawodnika Atlético Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 9 lutego</title>
-        <link>https://www.realmadryt.pl/news/136678-kartka-z-kalendarza-9-lutego</link>
-        <pubDate>Sun, 09 Feb 2025 10:20:00 GMT</pubDate>
-        <description>Wysokie wygrane z Espanyolem i Osasuną, niezwykły finał Pucharu Króla, mecz reprezentacji w Madrycie i pokonanie Atlético na Wanda Metropolitano. Co działo się 9 lutego?</description>
     </item>
     
 </channel>
