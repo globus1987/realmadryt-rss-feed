@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 08:54:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 09:19:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znamy sędziego na City</title>
+        <link>https://www.realmadryt.pl/news/136677-znamy-sedziego-na-city</link>
+        <pubDate>Sun, 09 Feb 2025 10:06:00 GMT</pubDate>
+        <description>Znamy już nazwiska sędziów na najbliższe mecze barażowe w Lidze Mistrzów.</description>
+    </item>
     
     <item>
         <title>RMTV: Ten sam sędzia VAR nie widział jako VAR faulu w tych korkach w udzie Varane'a</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136666-ocen-pilkarzy-po-meczu-z-atletico</link>
         <pubDate>Sat, 08 Feb 2025 23:09:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>23. kolejka: Remis w derbach i status quo na szczycie</title>
-        <link>https://www.realmadryt.pl/news/136665-23-kolejka-remis-w-derbach-i-status-quo-na-szczycie</link>
-        <pubDate>Sat, 08 Feb 2025 23:06:00 GMT</pubDate>
-        <description>Rayo Vallecano, Celta, Athletic i Villarreal wygrały swoje mecze w 23. kolejce. W derbach Madrytu padł remis. Jak wygląda sytuacja w tabeli?</description>
     </item>
     
 </channel>
