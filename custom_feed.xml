@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 10:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 11:17:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Atlético</title>
+        <link>https://www.realmadryt.pl/news/136680-oceny-zawodnikow-po-meczu-z-atletico</link>
+        <pubDate>Sun, 09 Feb 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt zremisował u siebie z Atlético 1:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Giménez: Gdybyśmy zachowywali większy spokój, moglibyśmy zabić ten mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136671-dzisiejsze-okladki</link>
         <pubDate>Sun, 09 Feb 2025 00:42:00 GMT</pubDate>
         <description>Remis w derbach Madrytu to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Nie chcę rozmawiać o arbitrze</title>
-        <link>https://www.realmadryt.pl/news/136669-ancelotti-nie-chce-rozmawiac-o-arbitrze</link>
-        <pubDate>Sat, 08 Feb 2025 23:56:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu z Atlético Madryt w La Lidze. Przedstawiamy pełny zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
     </item>
     
 </channel>
