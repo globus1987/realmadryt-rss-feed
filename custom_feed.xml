@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 09:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 09:38:23 GMT</lastBuildDate>
     
     <item>
-        <title>Znamy sędziego na City</title>
-        <link>https://www.realmadryt.pl/news/136677-znamy-sedziego-na-city</link>
+        <title>Kartka z kalendarza: 9 lutego</title>
+        <link>https://www.realmadryt.pl/news/136678-kartka-z-kalendarza-9-lutego</link>
+        <pubDate>Sun, 09 Feb 2025 10:20:00 GMT</pubDate>
+        <description>Wysokie wygrane z Espanyolem i Osasuną, niezwykły finał Pucharu Króla, mecz reprezentacji w Madrycie i pokonanie Atlético na Wanda Metropolitano. Co działo się 9 lutego?</description>
+    </item>
+    
+    <item>
+        <title>Clément Turpin na pierwszy mecz z City</title>
+        <link>https://www.realmadryt.pl/news/136677-clement-turpin-na-pierwszy-mecz-z-city</link>
         <pubDate>Sun, 09 Feb 2025 10:06:00 GMT</pubDate>
-        <description>Znamy już nazwiska sędziów na najbliższe mecze barażowe w Lidze Mistrzów.</description>
+        <description>UEFA wybrała francuskich sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Clément Turpin, a za wideoweryfikację odpowiadać będzie Jérôme Brisard.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136668-julian-alvarez-mvp-derbow-madrytu</link>
         <pubDate>Sat, 08 Feb 2025 23:16:00 GMT</pubDate>
         <description>Argentyński napastnik został wyróżniony po zremisowanym przez Real spotkaniu na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Atlético</title>
-        <link>https://www.realmadryt.pl/news/136666-ocen-pilkarzy-po-meczu-z-atletico</link>
-        <pubDate>Sat, 08 Feb 2025 23:09:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
