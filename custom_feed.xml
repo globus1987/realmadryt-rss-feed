@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Feb 2025 13:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 13:41:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koszykarze umocnili się na pozycji lidera</title>
+        <link>https://www.realmadryt.pl/news/136687-koszykarze-umocnili-sie-na-pozycji-lidera</link>
+        <pubDate>Sun, 09 Feb 2025 14:38:00 GMT</pubDate>
+        <description>W 20. kolejce Ligi Endesa Real Madryt pokonał na wyjeździe Lleidę. Katalończycy sprawili madrytczykom sporo problemów, ale ostatnia kwarta należała do Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Podcast 6x20: Dobre i złe odczucia po derbach</title>
+        <link>https://www.realmadryt.pl/news/136686-podcast-6x20-dobre-i-zle-odczucia-po-derbach</link>
+        <pubDate>Sun, 09 Feb 2025 14:37:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy przede wszystkim derby Madrytu oraz mecz z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Asencio uderza pięścią w stół</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136673-rmtv-ten-sam-sedzia-var-nie-widzial-jako-var-faulu-w-tych-korkach-w-udzie-varanea</link>
         <pubDate>Sun, 09 Feb 2025 09:45:00 GMT</pubDate>
         <description>Klubowa telewizja była zszokowana karnym, jaki sędziowie podyktowali przeciwko Realowi Madryt w derbach. Oczywiście skrytykowano tę decyzję. Przypomniano przy tym o innej decyzji sędziego VAR, którą ten podjął w Klasyku.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Byłoby znakomicie utrzymać prowadzenie w lidze na trudnym terenie</title>
-        <link>https://www.realmadryt.pl/news/136660-mateo-byloby-znakomicie-utrzymac-prowadzenie-w-lidze-na-trudnym-terenie</link>
-        <pubDate>Sun, 09 Feb 2025 09:10:00 GMT</pubDate>
-        <description>Chus Mateo wypowiedział się dla klubowych mediów przed spotkaniem z Lleidą w Lidze Endesa. Mówił o tym, jak istotne może być podchodzenie do Pucharu Króla z dobrymi odczuciami, a do tego potrzebne jest zwycięstwo w dzisiejszym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni test przed Pucharem Króla</title>
-        <link>https://www.realmadryt.pl/news/136661-ostatni-test-przed-pucharem-krola</link>
-        <pubDate>Sun, 09 Feb 2025 08:40:00 GMT</pubDate>
-        <description>W 20. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Lleidą. Będzie to szansa na umocnienie się na pozycji lidera. Jest to jednocześnie ostatni sprawdzian drużyny Chusa Mateo przed Pucharem Króla.</description>
     </item>
     
 </channel>
