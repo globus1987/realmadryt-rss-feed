@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Feb 2025 05:53:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 06:32:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Decyzja Viníciusa burzy ustawienie</title>
+        <link>https://www.realmadryt.pl/news/136694-decyzja-viniciusa-burzy-ustawienie</link>
+        <pubDate>Mon, 10 Feb 2025 07:00:00 GMT</pubDate>
+        <description>Brazylijczyk w meczu z Atlético zmienił swoją strefę działania na boisku, co spowodowało całkowite rozpadnięcie się drużyny w pierwszej połowie. Z kolei Carlo Ancelotti desperacko domaga się poszukiwania przestrzeni, które na początku sezonu było problemem.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136684-kadra-realu-madryt-na-manchester-city</link>
         <pubDate>Sun, 09 Feb 2025 14:54:00 GMT</pubDate>
         <description>Królewscy podejdą do pierwszego meczu z Manchesterem City bez czterech piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 23 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Atlético dostało karnego na Bernabéu w lidze po prawie 15 latach</title>
-        <link>https://www.realmadryt.pl/news/136688-atletico-dostalo-karnego-na-bernabeu-w-lidze-po-prawie-15-latach</link>
-        <pubDate>Sun, 09 Feb 2025 14:44:00 GMT</pubDate>
-        <description>Diego Forlán był ostatnim piłkarzem Atlético, który wykonał rzut karny na stadionie Realu, a miało to miejsce blisko piętnaście lat temu. Rojiblancos dostali 6 rzutów karnych w 88 meczach ligowych na obiekcie Królewskich.</description>
     </item>
     
 </channel>
