@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Feb 2025 22:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 23:21:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136726-dzisiejsze-okladki</link>
+        <pubDate>Tue, 11 Feb 2025 00:20:00 GMT</pubDate>
+        <description>Mecz Manchesteru City z Realem Madryt to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>COPE: Mendy trenował w Manchesterze jako prawy obrońca</title>
+        <link>https://www.realmadryt.pl/news/136725-cope-mendy-trenowal-w-manchesterze-jako-prawy-obronca</link>
+        <pubDate>Mon, 10 Feb 2025 23:57:00 GMT</pubDate>
+        <description>Przeciek z treningu Królewskich wskazuje na to, że trener ma poważne wątpliwości w sprawie obsady prawej obrony i ogólnego zestawienie defensywy.</description>
+    </item>
     
     <item>
         <title>Ancelotti w przerwie finału na Wembley: Nie traćmy piłek i atakujmy pole karne [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136710-relevo-vinicius-mieszka-w-willi-sergio-ramosa</link>
         <pubDate>Mon, 10 Feb 2025 16:34:00 GMT</pubDate>
         <description>Napastnik przeprowadził się do posiadłości Ramosa w dzielnicy La Moraleja na czas remontu swojego domu.</description>
-    </item>
-    
-    <item>
-        <title>Zgarnij 300 zł za gola w meczu Realu Madryt z City!</title>
-        <link>https://www.realmadryt.pl/news/136709-zgarnij-300-zl-za-gola-w-meczu-realu-madryt-z-city</link>
-        <pubDate>Mon, 10 Feb 2025 16:20:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Dias: Rewanż rok temu był frustrujący</title>
-        <link>https://www.realmadryt.pl/news/136708-dias-rewanz-rok-temu-byl-frustrujacy</link>
-        <pubDate>Mon, 10 Feb 2025 14:51:00 GMT</pubDate>
-        <description>Rúben Dias stawił się na konferencji prasowej przed pierwszym meczem z Realem Madryt w ramach 1/16 finału Ligi Mistrzów. Przedstawiamy wypowiedzi zawodnika Manchesteru City.</description>
     </item>
     
 </channel>
