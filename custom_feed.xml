@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Feb 2025 07:38:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 07:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo z rekordem strzeleckim Primera Federación</title>
+        <link>https://www.realmadryt.pl/news/136696-gonzalo-z-rekordem-strzeleckim-primera-federacion</link>
+        <pubDate>Mon, 10 Feb 2025 08:40:00 GMT</pubDate>
+        <description>Gonzalo García jest nowym rekordzistą, jeśli chodzi o bramki zdobyte w Primera Federación. Napastnik ma szansę, by w barwach Castilli pobić osiągnięcia takich zawodników jak Jesé czy Mariano.</description>
+    </item>
     
     <item>
         <title>Chiringuito: Komitet Arbitrów uznaje, że karny został podyktowany prawidłowo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136689-mateo-musielismy-ten-mecz-wygrac-dwa-czy-trzy-razy</link>
         <pubDate>Sun, 09 Feb 2025 16:11:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko wygrane spotkanie z Lleidą. Mówił o tym, że to nie był łatwy mecz po podróży do Stambułu i przy tak dobrze dysponowanym rywalu.</description>
-    </item>
-    
-    <item>
-        <title>Fantastyczna Czwórka lub wzmocnienie środka</title>
-        <link>https://www.realmadryt.pl/news/136679-fantastyczna-czworka-lub-wzmocnienie-srodka</link>
-        <pubDate>Sun, 09 Feb 2025 15:47:00 GMT</pubDate>
-        <description>Carlo Ancelotti ma niewiele czasu na to, aby podjąć decyzję, na jakie ustawienie postawić w pierwszym meczu z Manchesterem City na Etihad Stadium. Z jednej strony jest bardziej ofensywna i ryzykowna opcja z Fantastyczną Czwórką z przodu, a z drugiej wzmocnienie środka pola większą liczbą pomocników.</description>
     </item>
     
 </channel>
