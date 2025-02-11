@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 14:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 14:42:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Weteran pojedynków z Manchesterem City</title>
+        <link>https://www.realmadryt.pl/news/136736-weteran-pojedynkow-z-manchesterem-city</link>
+        <pubDate>Tue, 11 Feb 2025 15:37:00 GMT</pubDate>
+        <description>Od momentu dołączenia do Realu Madryt Chorwat mierzył się z City dwanaście razy. Dziewięć razy wychodził w podstawowym składzie, a trzykrotnie wchodził na boisko z ławki.</description>
+    </item>
     
     <item>
         <title>Pierwsze starcie Realu z City i Hiszpan z rozdartym sercem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136723-pichichi-zamora-asistencias</link>
         <pubDate>Tue, 11 Feb 2025 08:30:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 23. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City – Real Madryt: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/136727-manchester-city-real-madryt-przewidywane-sklady</link>
-        <pubDate>Tue, 11 Feb 2025 07:45:00 GMT</pubDate>
-        <description>Królewscy podchodzą do pierwszego meczu z Anglikami bez kontuzjowanych Davida Alaby, Daniego Carvajala, Édera Militão, Antonio Rüdigera i Lucasa Vázqueza.</description>
     </item>
     
 </channel>
