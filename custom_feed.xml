@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 14:42:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 14:54:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Starcie Dawida z Goliatem</title>
+        <link>https://www.realmadryt.pl/news/136737-starcie-dawida-z-goliatem</link>
+        <pubDate>Tue, 11 Feb 2025 15:42:00 GMT</pubDate>
+        <description>Raúl Asencio staje przed arcytrudnym wyzwaniem, jakim jest zatrzymanie Erlinga Haalanda. Pod nieobecność Rüdigera to właśnie wychowanek zmierzy się z Norwegiem, który z kolei poszuka swojej pierwszej bramki przeciwko Realowi Madryt.</description>
+    </item>
     
     <item>
         <title>Weteran pojedynków z Manchesterem City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136722-ancelotti-to-najtrudniejszy-mecz-jaki-mozemy-miec</link>
         <pubDate>Tue, 11 Feb 2025 09:20:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Manchesterem City w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/136723-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 11 Feb 2025 08:30:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 23. kolejce La Ligi.</description>
     </item>
     
 </channel>
