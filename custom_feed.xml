@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 19:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 20:23:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Manchester City vs Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/136744-manchester-city-vs-real-madryt-live</link>
+        <pubDate>Tue, 11 Feb 2025 20:55:00 GMT</pubDate>
+        <description>Manchester City mierzy się z Realem Madryt w pierwszym meczu baraży o awans do 1/8 finału Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Po kontuzji Lucasa zniknęły wątpliwości w sprawie składu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136733-el-pais-asencio-pozostaje-podejrzanym-w-aferze-seksualnej</link>
         <pubDate>Tue, 11 Feb 2025 13:01:00 GMT</pubDate>
         <description>W styczniu informowano, że stoper jest już tylko świadkiem w aferze seksualnej z 2023 roku związanej z piłkarzami Realu Madryt. El País podaje, że sędzia odrzucił wniosek zawodnika o usunięcie go z listy podejrzanych i pozostaje objęty sądowym śledztwem.</description>
-    </item>
-    
-    <item>
-        <title>Mijatović: Fede to jedyna dobra opcja na prawą obronę</title>
-        <link>https://www.realmadryt.pl/news/136732-mijatovic-fede-to-jedyna-dobra-opcja-na-prawa-obrone</link>
-        <pubDate>Tue, 11 Feb 2025 11:51:00 GMT</pubDate>
-        <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, pojawił się w audycji El Larguero na antenie Cadena SER. Czarnogórzec podzielił się swoimi przewidywaniami przed meczem Realu Madryt z Manchesterem CIty.</description>
     </item>
     
 </channel>
