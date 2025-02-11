@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 09:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 10:24:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Andrij!</title>
+        <link>https://www.realmadryt.pl/news/136730-wszystkiego-najlepszego-andrij</link>
+        <pubDate>Tue, 11 Feb 2025 11:18:00 GMT</pubDate>
+        <description>Andrij Łunin obchodzi dziś 26. urodziny. W najbliższym czasie będzie musiał zadowolić się mniejszą liczbą szans, ale życzymy mu po prostu tego, by każdą z nich wykorzystał w jak najlepszy sposób.</description>
+    </item>
+    
+    <item>
+        <title>Sześciu piłkarzy oraz Ancelotti zagrożeni zawieszeniem na rewanż</title>
+        <link>https://www.realmadryt.pl/news/136728-szesciu-pilkarzy-oraz-ancelotti-zagrozeni-zawieszeniem-na-rewanz</link>
+        <pubDate>Tue, 11 Feb 2025 11:10:00 GMT</pubDate>
+        <description>Królewscy zmierzą się z bardzo trudnym rywalem i muszą dodatkowo spoglądać na sytuację kartkową w Lidze Mistrzów. Kartoniki wyzerowane będą dopiero po zakończeniu ćwierćfinałów.</description>
+    </item>
     
     <item>
         <title>To nie tak miało być</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136720-ancelotti-w-przerwie-finalu-na-wembley-nie-tracmy-pilek-i-atakujmy-pole-karne-video</link>
         <pubDate>Mon, 10 Feb 2025 22:36:00 GMT</pubDate>
         <description>Amazon Prime opublikował dzisiaj 6-odcinkowy dokument o poprzednim sezonie Realu Madryt. W Internecie viralem stała się przemowa Carlo Ancelottiego w przerwie finału Ligi Mistrzów na Wembley.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt trenował na stadionie Manchesteru City</title>
-        <link>https://www.realmadryt.pl/news/136719-real-madryt-trenowal-na-stadionie-manchesteru-city</link>
-        <pubDate>Mon, 10 Feb 2025 21:36:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w na stadionie rywala i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Jest źle, a może być jeszcze gorzej</title>
-        <link>https://www.realmadryt.pl/news/136718-jest-zle-a-moze-byc-jeszcze-gorzej</link>
-        <pubDate>Mon, 10 Feb 2025 20:58:00 GMT</pubDate>
-        <description>Fatalna sytuacja w obronie nie jest żadną tajemnicą. Może być ona jednak jeszcze gorsza, jeśli w pierwszym meczu z City kartkę ujrzy Tchouaméni. Przy tym scenariuszu Francuz przegapiłby rewanż.</description>
     </item>
     
 </channel>
