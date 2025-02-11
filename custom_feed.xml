@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 10:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 10:42:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nunes, czyli szybka broń na Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/136731-nunes-czyli-szybka-bron-na-viniciusa</link>
+        <pubDate>Tue, 11 Feb 2025 11:29:00 GMT</pubDate>
+        <description>Matheus Nunes może dziś zagrać na prawej stronie defensywy. Portugalczyk jest trzecim najszybszym graczem w tej edycji Ligi Mistrzów, więc przed Viníciusem niełatwe zadanie. Na pierwszym miejscu jest inny gracz Manchesteru City, Erlang Haaland.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, Andrij!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136725-cope-mendy-trenowal-w-manchesterze-jako-prawy-obronca</link>
         <pubDate>Mon, 10 Feb 2025 23:57:00 GMT</pubDate>
         <description>Przeciek z treningu Królewskich wskazuje na to, że trener ma poważne wątpliwości w sprawie obsady prawej obrony i ogólnego zestawienie defensywy.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti w przerwie finału na Wembley: Nie traćmy piłek i atakujmy pole karne [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/136720-ancelotti-w-przerwie-finalu-na-wembley-nie-tracmy-pilek-i-atakujmy-pole-karne-video</link>
-        <pubDate>Mon, 10 Feb 2025 22:36:00 GMT</pubDate>
-        <description>Amazon Prime opublikował dzisiaj 6-odcinkowy dokument o poprzednim sezonie Realu Madryt. W Internecie viralem stała się przemowa Carlo Ancelottiego w przerwie finału Ligi Mistrzów na Wembley.</description>
     </item>
     
 </channel>
