@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 19:16:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 19:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Po kontuzji Lucasa zniknęły wątpliwości w sprawie składu</title>
+        <link>https://www.realmadryt.pl/news/136743-ancelotti-po-kontuzji-lucasa-zniknely-watpliwosci-w-sprawie-skladu</link>
+        <pubDate>Tue, 11 Feb 2025 20:23:00 GMT</pubDate>
+        <description>Carlo Ancelotti na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Etihad Stadium.</description>
+    </item>
     
     <item>
         <title>Manchester City – Real Madryt: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136732-mijatovic-fede-to-jedyna-dobra-opcja-na-prawa-obrone</link>
         <pubDate>Tue, 11 Feb 2025 11:51:00 GMT</pubDate>
         <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, pojawił się w audycji El Larguero na antenie Cadena SER. Czarnogórzec podzielił się swoimi przewidywaniami przed meczem Realu Madryt z Manchesterem CIty.</description>
-    </item>
-    
-    <item>
-        <title>Nunes, czyli szybka broń na Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/136731-nunes-czyli-szybka-bron-na-viniciusa</link>
-        <pubDate>Tue, 11 Feb 2025 11:29:00 GMT</pubDate>
-        <description>Matheus Nunes może dziś zagrać na prawej stronie defensywy. Portugalczyk jest trzecim najszybszym graczem w tej edycji Ligi Mistrzów, więc przed Viníciusem niełatwe zadanie. Na pierwszym miejscu jest inny gracz Manchesteru City, Erlang Haaland.</description>
     </item>
     
 </channel>
