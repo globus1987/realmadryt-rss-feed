@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 23:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 23:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136793-dzisiejsze-okladki</link>
+        <pubDate>Thu, 13 Feb 2025 00:50:00 GMT</pubDate>
+        <description>Osiągnięcia Jude'a Bellinghama, przyszlość Viníciusa i wywiad z dyrektorem sportowym Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Vinicius prowadzi rozmowy z Arabią Saudyjską od 2 lat</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136779-terminarz-1-2-finalu-pucharu-krola</link>
         <pubDate>Wed, 12 Feb 2025 17:18:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska potwierdziła terminy spotkań półfinałowych Pucharu Króla. Real Madryt zmierzy się w tej rundzie Realem Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Barcelona nie rozwiąże kontraktu z Lewandowskim</title>
-        <link>https://www.realmadryt.pl/news/136777-marca-barcelona-nie-rozwiaze-kontraktu-z-lewandowskim</link>
-        <pubDate>Wed, 12 Feb 2025 16:50:00 GMT</pubDate>
-        <description>Katalończycy mogli to zrobić, gdyby Polak nie rozegrał 60% meczów. Napastnik spędzi też kolejny sezon w Barcelonie.</description>
     </item>
     
 </channel>
