@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 14:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 14:41:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x21: Pokora</title>
+        <link>https://www.realmadryt.pl/news/136773-podcast-6x21-pokora</link>
+        <pubDate>Wed, 12 Feb 2025 15:39:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy mecz z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Sociedad całkiem niedawno eliminował już Real z Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136760-ancelotti-ta-czworka-w-obronie-nigdy-nie-zagrala-razem-nawet-nigdy-razem-nie-trenowali</link>
         <pubDate>Wed, 12 Feb 2025 10:00:00 GMT</pubDate>
         <description>Carlo Ancelotti po meczu Ligi Mistrzów z Manchesterem City pojawił się na konferencji prasowej. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Juvenil A gra o awans do 1/8 finału Ligi Młodzieżowej</title>
-        <link>https://www.realmadryt.pl/news/136750-juvenil-a-gra-o-awans-do-1-8-finalu-ligi-mlodziezowej</link>
-        <pubDate>Wed, 12 Feb 2025 09:15:00 GMT</pubDate>
-        <description>W 1/16 finału Ligi Młodzieżowej Real Madryt zagra z Borussią Dortmund. Spotkanie odbędzie się na Alfredo Di Stéfano. Zwycięzca awansuje dalej, ponieważ w tych rozgrywkach nie ma rewanżów.</description>
     </item>
     
 </channel>
