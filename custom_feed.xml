@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 07:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 07:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>300 zwycięstw Realu Madryt w Pucharze Europy</title>
+        <link>https://www.realmadryt.pl/news/136764-300-zwyciestw-realu-madryt-w-pucharze-europy</link>
+        <pubDate>Wed, 12 Feb 2025 08:42:00 GMT</pubDate>
+        <description>Real Madryt jest pierwszym w historii klubem, który osiągnął taki wynik w rozgrywkach, które wygrywał łącznie aż 15 razy.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius: Jeśli Bóg zechce, to w następnych dniach rozwiążemy sprawę negocjacji i zostanę tu na długo</title>
+        <link>https://www.realmadryt.pl/news/136756-vinicius-jesli-bog-zechce-to-w-nastepnych-dniach-rozwiazemy-sprawe-negocjacji-i-zostane-tu-na-dlugo</link>
+        <pubDate>Wed, 12 Feb 2025 08:40:00 GMT</pubDate>
+        <description>Vinícius Júnior po meczu z Manchesterem City udzielił wywiadu brazylijskiemu TNT Sports. Przedstawiamy wypowiedzi Brazylijczyka z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Bez zawieszonych na rewanż z City</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136748-brahim-praca-nie-jest-jeszcze-skonczona</link>
         <pubDate>Tue, 11 Feb 2025 23:25:00 GMT</pubDate>
         <description>Brahim udzielił wywiadu dla telewizji Movistar+ po wygranym 3:2 meczu z Manchesterem City na Etihad. Przedstawiamy wypowiedzi zawodnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Gdy rzucaliśmy się do szaleńczego pressingu, to oni tworzyli zagrożenie</title>
-        <link>https://www.realmadryt.pl/news/136747-ancelotti-gdy-rzucalismy-sie-do-szalenczego-pressingu-to-oni-tworzyli-zagrozenie</link>
-        <pubDate>Tue, 11 Feb 2025 23:25:00 GMT</pubDate>
-        <description>Carlo Ancelotti udzielił wywiadu dla Movistar+ po meczu Ligi Mistrzów z Manchesterem City. Przedstawiamy wypowiedzi trenera Realu Madryt ze strefy mieszanej na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z City</title>
-        <link>https://www.realmadryt.pl/news/136746-vinicius-mvp-meczu-z-city</link>
-        <pubDate>Tue, 11 Feb 2025 23:14:00 GMT</pubDate>
-        <description>Brazylijczyk otrzymał nagrodę dla najlepszego zawodnika meczu Manchesteru City z Realu Madryt.</description>
     </item>
     
 </channel>
