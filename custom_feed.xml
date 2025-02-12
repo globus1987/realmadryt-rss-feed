@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 11:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 11:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni stał się nieoczekiwanym bohaterem</title>
+        <link>https://www.realmadryt.pl/news/136770-tchouameni-stal-sie-nieoczekiwanym-bohaterem</link>
+        <pubDate>Wed, 12 Feb 2025 12:52:00 GMT</pubDate>
+        <description>Francuz, bez zbędnego rozgłosu, notuje serię świetnych występów i rozwiewa część wątpliwości. Szatnia i Carletto stoją za nim murem.</description>
+    </item>
+    
+    <item>
+        <title>Wzmocnienia warte 6 minut gry</title>
+        <link>https://www.realmadryt.pl/news/136765-wzmocnienia-warte-6-minut-gry</link>
+        <pubDate>Wed, 12 Feb 2025 12:46:00 GMT</pubDate>
+        <description>Angielski klub był najbardziej aktywnym graczem zimowego okna transferowego, ale trzej nowi piłkarze zgłoszeni do Ligi Mistrzów spędzili na boisku łącznie mniej niż dziesięć minut.</description>
+    </item>
     
     <item>
         <title>Mecz, który przejdzie do historii</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136759-bez-zawieszonych-na-rewanz-z-city</link>
         <pubDate>Wed, 12 Feb 2025 08:08:00 GMT</pubDate>
         <description>Sędzia nie pokazał we wtorkowym meczu ani jednej kartki, więc Królewscy nie tracą nikogo na rewanż przez zawieszenie za kartki.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj losowanie półfinałów Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/136761-dzisiaj-losowanie-polfinalow-pucharu-krola</link>
-        <pubDate>Wed, 12 Feb 2025 08:02:00 GMT</pubDate>
-        <description>Real Madryt w ubiegłym tygodniu pokonał Leganés i awansował do 1/2 finału Copa del Rey.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos: Dzięki DNA Realu Madryt wyciągasz mecz w najtrudniejszym momencie</title>
-        <link>https://www.realmadryt.pl/news/136751-ceballos-dzieki-dna-realu-madryt-wyciagasz-mecz-w-najtrudniejszym-momencie</link>
-        <pubDate>Wed, 12 Feb 2025 07:50:00 GMT</pubDate>
-        <description>Dani Ceballos udzielił wywiadu dla telewizji Movistar+ po wygranym 3:2 meczu z Manchesterem City na Etihad. Przedstawiamy wypowiedzi zawodnika Realu Madryt.</description>
     </item>
     
 </channel>
