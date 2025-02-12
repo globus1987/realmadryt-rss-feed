@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 18:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsze zdjęcia remake'ów koszulek Realu</title>
+        <link>https://www.realmadryt.pl/news/136787-pierwsze-zdjecia-remakeow-koszulek-realu</link>
+        <pubDate>Wed, 12 Feb 2025 19:51:00 GMT</pubDate>
+        <description>W Internecie pojawiły się pierwsze zdjęcia specjalnej kolekcji remake, którą Adidas wypuści już wkrótce do sprzedaży z okazji 25. rocznicy wygrania przez Królewskich ósmego Pucharu Europy.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136774-relevo-muniz-ruiz-pozostaje-w-lodowce-ale-iglesias-villanueva-wraca-do-pracy</link>
         <pubDate>Wed, 12 Feb 2025 15:53:00 GMT</pubDate>
         <description>Kara dla sędziego VAR nie trwała zbyt długo.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x21: Pokora</title>
-        <link>https://www.realmadryt.pl/news/136773-podcast-6x21-pokora</link>
-        <pubDate>Wed, 12 Feb 2025 15:39:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy mecz z Manchesterem City.</description>
     </item>
     
 </channel>
