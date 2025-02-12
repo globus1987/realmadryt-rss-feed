@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 14:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 14:54:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Muñiz Ruiz pozostaje w „lodówce”, ale Iglesias Villanueva wraca do pracy</title>
+        <link>https://www.realmadryt.pl/news/136774-relevo-muniz-ruiz-pozostaje-w-lodowce-ale-iglesias-villanueva-wraca-do-pracy</link>
+        <pubDate>Wed, 12 Feb 2025 15:53:00 GMT</pubDate>
+        <description>Kara dla sędziego VAR nie trwała zbyt długo.</description>
+    </item>
     
     <item>
         <title>Podcast 6x21: Pokora</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136763-canizares-jesli-w-city-nie-dojdzie-do-wielu-zmian-to-dwumecz-jest-rozstrzygniety</link>
         <pubDate>Wed, 12 Feb 2025 10:20:00 GMT</pubDate>
         <description>Były bramkarz Realu Madryt i Valencii, Santiago Cañizares, był gościem programu Tiempo de Juego na falach radia COPE. Poniżej przedstawiamy zapis jego wypowiedzi dotyczących wczorajszego meczu z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Ta czwórka w obronie nigdy nie zagrała razem, nawet nigdy razem nie trenowali</title>
-        <link>https://www.realmadryt.pl/news/136760-ancelotti-ta-czworka-w-obronie-nigdy-nie-zagrala-razem-nawet-nigdy-razem-nie-trenowali</link>
-        <pubDate>Wed, 12 Feb 2025 10:00:00 GMT</pubDate>
-        <description>Carlo Ancelotti po meczu Ligi Mistrzów z Manchesterem City pojawił się na konferencji prasowej. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Etihad Stadium.</description>
     </item>
     
 </channel>
