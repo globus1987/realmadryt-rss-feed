@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 12:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 13:13:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Butragueño: Real Sociedad u siebie jest bardzo mocny</title>
+        <link>https://www.realmadryt.pl/news/136771-butragueno-real-sociedad-u-siebie-jest-bardzo-mocny</link>
+        <pubDate>Wed, 12 Feb 2025 14:09:00 GMT</pubDate>
+        <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wypowiedzi klubowej telewizji po dzisiejszym losowaniu półfinałów Pucharu Króla. Przedstawiamy słowa działacza.</description>
+    </item>
     
     <item>
         <title>W 1/2 finału Pucharu Króla z Realem Sociedad!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136764-300-zwyciestw-realu-madryt-w-pucharze-europy</link>
         <pubDate>Wed, 12 Feb 2025 08:42:00 GMT</pubDate>
         <description>Real Madryt jest pierwszym w historii klubem, który osiągnął taki wynik w rozgrywkach, które wygrywał łącznie aż 15 razy.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Jeśli Bóg zechce, to w następnych dniach rozwiążemy sprawę negocjacji i zostanę tu na długo</title>
-        <link>https://www.realmadryt.pl/news/136756-vinicius-jesli-bog-zechce-to-w-nastepnych-dniach-rozwiazemy-sprawe-negocjacji-i-zostane-tu-na-dlugo</link>
-        <pubDate>Wed, 12 Feb 2025 08:40:00 GMT</pubDate>
-        <description>Vinícius Júnior po meczu z Manchesterem City udzielił wywiadu brazylijskiemu TNT Sports. Przedstawiamy wypowiedzi Brazylijczyka z tej rozmowy.</description>
     </item>
     
 </channel>
