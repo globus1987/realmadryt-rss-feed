@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Feb 2025 23:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 01:46:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136754-dzisiejsze-okladki</link>
+        <pubDate>Wed, 12 Feb 2025 01:02:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt nad City i przyszłość Roberta Lewandowskiego to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Oprawa z Rodrim? W taki sposób kibice rywali dodają mi więcej siły</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136741-florentino-perez-dolaczyl-do-druzyny-w-manchesterze</link>
         <pubDate>Tue, 11 Feb 2025 18:11:00 GMT</pubDate>
         <description>Prezes Królewskich dołączył do drużyny przed starciem w Manchesterze.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Rüdiger może wrócić już na mecz z Osasuną</title>
-        <link>https://www.realmadryt.pl/news/136740-cope-ruediger-moze-wrocic-juz-na-mecz-z-osasuna</link>
-        <pubDate>Tue, 11 Feb 2025 17:51:00 GMT</pubDate>
-        <description>Sytuacja Niemca ma być dobra i na dzisiaj trenerzy spodziewają się jego powrotu najpóźniej na rewanż z Manchesterem City.</description>
     </item>
     
 </channel>
