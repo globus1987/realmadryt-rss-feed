@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Feb 2025 10:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 10:54:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz, który przejdzie do historii</title>
+        <link>https://www.realmadryt.pl/news/136768-mecz-ktory-przejdzie-do-historii</link>
+        <pubDate>Wed, 12 Feb 2025 11:47:00 GMT</pubDate>
+        <description>Real Madryt po raz pierwszy wygrał na Etihad w siódmym podejściu, prezentując niezwykłą dyscyplinę defensywną w spotkaniu, które zapisało się w pamięci pod wieloma względami.</description>
+    </item>
     
     <item>
         <title>Królewscy mają dziś wolne</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136751-ceballos-dzieki-dna-realu-madryt-wyciagasz-mecz-w-najtrudniejszym-momencie</link>
         <pubDate>Wed, 12 Feb 2025 07:50:00 GMT</pubDate>
         <description>Dani Ceballos udzielił wywiadu dla telewizji Movistar+ po wygranym 3:2 meczu z Manchesterem City na Etihad. Przedstawiamy wypowiedzi zawodnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: W końcu wykorzystaliśmy niektóre z wielu naszych okazji</title>
-        <link>https://www.realmadryt.pl/news/136755-bellingham-w-koncu-wykorzystalismy-niektore-z-wielu-naszych-okazji</link>
-        <pubDate>Wed, 12 Feb 2025 07:00:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu dla brytyjskiemu Amazon Prime po meczu Ligi Mistrzów z Manchesterem City. Przedstawiamy wypowiedzi piłkarza Realu Madryt ze strefy mieszanej na Etihad Stadium.</description>
     </item>
     
 </channel>
