@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Feb 2025 11:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 12:45:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/136807-dzisiejszy-trening</link>
+        <pubDate>Thu, 13 Feb 2025 12:56:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Królewskie zagrają o półfinał Pucharu Królowej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136799-mendy-koszmarem-manchesteru-city-guardioli</link>
         <pubDate>Thu, 13 Feb 2025 08:33:00 GMT</pubDate>
         <description>Lewy obrońca miał swój udział przy dwóch (a właściwie trzech) ostatnich porażkach City na Etihad w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>W tym roku drużyna miała tylko trzy wolne dni</title>
-        <link>https://www.realmadryt.pl/news/136798-w-tym-roku-druzyna-miala-tylko-trzy-wolne-dni</link>
-        <pubDate>Thu, 13 Feb 2025 08:28:00 GMT</pubDate>
-        <description>Po zwycięstwie na Etihad Los Blancos mieli dzień odpoczynku. Jeśli wyeliminują City, będą grać co trzy dni aż do 16 marca.</description>
     </item>
     
 </channel>
