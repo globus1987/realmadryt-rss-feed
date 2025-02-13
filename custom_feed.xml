@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Feb 2025 22:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 22:40:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie z awansem do półfinału Pucharu Królowej</title>
+        <link>https://www.realmadryt.pl/news/136821-krolewskie-z-awansem-do-polfinalu-pucharu-krolowej</link>
+        <pubDate>Thu, 13 Feb 2025 23:36:00 GMT</pubDate>
+        <description>W ćwierćfinale Copa de la Reina piłkarki Realu Madryt pokonały po dogrywce Real Sociedad 3:1. Bramki dla Las Blancas zdobyły Caroline Weir, Sandie Toletti i Linda Caicedo.</description>
+    </item>
+    
+    <item>
+        <title>Deschamps: Mbappé nigdy od początku kariery nie doświadczył tak negatywnego okresu</title>
+        <link>https://www.realmadryt.pl/news/136822-deschamps-mbappe-nigdy-od-poczatku-kariery-nie-doswiadczyl-tak-negatywnego-okresu</link>
+        <pubDate>Thu, 13 Feb 2025 23:29:00 GMT</pubDate>
+        <description>Didier Deschamps w styczniu ogłosił, że opuści reprezentację Francji po mundialu w 2026 roku. Selekcjoner Francji udzielił wywiadu przed marcowym zgrupowaniem. Przedstawiamy najważniejsze fragmenty jego rozmowy z L’Équipe.</description>
+    </item>
     
     <item>
         <title>MARCA: Real Madryt w poniedziałek pozna nagrania z VAR-u z meczu z Espanyolem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136809-nie-zyje-chlopiec-ktorego-ostatnie-marzenie-spelnil-mbappe</link>
         <pubDate>Thu, 13 Feb 2025 14:53:00 GMT</pubDate>
         <description>Dzisiejszego ranka zmarł Lorenzo, francuski chłopiec, który cierpiał na nieuleczalnego glejaka mózgu. Jego ostatnie marzenie niespełna miesiąc temu spełnił Kylian Mbappé. Klub złożył kondolencje bliskim chłopca na łamach oficjalnej strony.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/136807-dzisiejszy-trening</link>
-        <pubDate>Thu, 13 Feb 2025 12:56:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie zagrają o półfinał Pucharu Królowej</title>
-        <link>https://www.realmadryt.pl/news/136806-krolewskie-zagraja-o-polfinal-pucharu-krolowej</link>
-        <pubDate>Thu, 13 Feb 2025 12:52:00 GMT</pubDate>
-        <description>W ćwierćfinale Copa de la Reina piłkarki Realu Madryt podejmą na Estadio Alfred Di Stéfano Real Sociedad. Początek meczu o godzinie 21:00.</description>
     </item>
     
 </channel>
