@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Feb 2025 23:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 23:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136824-dzisiejsze-okladki</link>
+        <pubDate>Fri, 14 Feb 2025 00:50:00 GMT</pubDate>
+        <description>Sprawa Viníciusa, nastawienie Realu Madryt i przedłużenie umowy w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Unicaja i Tenerife w półfinale, Barça za burtą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136811-metamorfoza-realu-madryt-od-reprymendy-ancelottiego-do-zebrania-druzyny</link>
         <pubDate>Thu, 13 Feb 2025 16:29:00 GMT</pubDate>
         <description>Gra z czwórką ofensywnych zawodników była początkowo wykluczona nawet przez samego trenera, ale rozmowa w przerwie derbów oraz dyskusje między piłkarzami doprowadziły do tego, co zobaczyliśmy na Etihad przeciwko City.</description>
-    </item>
-    
-    <item>
-        <title>AS: Rüdiger i Alaba nie zagrają z Osasuną</title>
-        <link>https://www.realmadryt.pl/news/136810-as-ruediger-i-alaba-nie-zagraja-z-osasuna</link>
-        <pubDate>Thu, 13 Feb 2025 16:20:00 GMT</pubDate>
-        <description>Występ Niemca z City cały czas jest możliwy, ale Austriak raczej nie będzie mógł zagrać przeciwko Anglikom.</description>
     </item>
     
 </channel>
