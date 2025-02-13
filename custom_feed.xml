@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Feb 2025 11:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 11:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie zagrają o półfinał Pucharu Królowej</title>
+        <link>https://www.realmadryt.pl/news/136806-krolewskie-zagraja-o-polfinal-pucharu-krolowej</link>
+        <pubDate>Thu, 13 Feb 2025 12:52:00 GMT</pubDate>
+        <description>W ćwierćfinale Copa de la Reina piłkarki Realu Madryt podejmą na Estadio Alfred Di Stéfano Real Sociedad. Początek meczu o godzinie 21:00.</description>
+    </item>
+    
+    <item>
+        <title>Manuel Akanji nie zagra w rewanżu z Realem Madryt?</title>
+        <link>https://www.realmadryt.pl/news/136805-manuel-akanji-nie-zagra-w-rewanzu-z-realem-madryt</link>
+        <pubDate>Thu, 13 Feb 2025 12:45:00 GMT</pubDate>
+        <description>Szwajcar najprawdopodobniej wypada z gry na kilka miesięcy.</description>
+    </item>
     
     <item>
         <title>Munuera Montero na Osasunę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136798-w-tym-roku-druzyna-miala-tylko-trzy-wolne-dni</link>
         <pubDate>Thu, 13 Feb 2025 08:28:00 GMT</pubDate>
         <description>Po zwycięstwie na Etihad Los Blancos mieli dzień odpoczynku. Jeśli wyeliminują City, będą grać co trzy dni aż do 16 marca.</description>
-    </item>
-    
-    <item>
-        <title>Wszystkiego najlepszego, Raúl!</title>
-        <link>https://www.realmadryt.pl/news/136778-wszystkiego-najlepszego-raul</link>
-        <pubDate>Thu, 13 Feb 2025 07:50:00 GMT</pubDate>
-        <description>Dziś swoje 22. urodziny obchodzi Raúl Asencio. Życzymy mu z tej okazji dalszego równie błyskawicznego rozwoju i udowadniania, że wychowankowie mogą wnieść coś do pierwszego zespołu częściej niż raz na sto lat.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham strzelił więcej goli dających zwycięstwo w końcówce niż Ramos i Cristiano razem wzięci</title>
-        <link>https://www.realmadryt.pl/news/136797-bellingham-strzelil-wiecej-goli-dajacych-zwyciestwo-w-koncowce-niz-ramos-i-cristiano-razem-wzieci</link>
-        <pubDate>Thu, 13 Feb 2025 07:33:00 GMT</pubDate>
-        <description>Bellingham ma już na koncie sześć goli w doliczonym czasie gry, które dały Realowi Madryt zwycięstwo – i to zaledwie w półtora roku. Zdecydowanie wyprzedził pod tym względem Ramosa i Cristiano. Cztery z tych bramek padły w la lidze, a dwa w lidze mistrzów.</description>
     </item>
     
 </channel>
