@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Feb 2025 23:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 23:39:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136873-dzisiejsze-okladki</link>
+        <pubDate>Sat, 15 Feb 2025 00:36:00 GMT</pubDate>
+        <description>Mecze Realu Madryt i Atlético oraz sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Gran Canaria półfinałowym rywalem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136860-as-real-planuje-pozostawic-asencio-w-kadrze-na-kolejny-sezon</link>
         <pubDate>Fri, 14 Feb 2025 17:25:00 GMT</pubDate>
         <description>Jak na razie bardziej prawdopodobne jest to, iż defensor w kampanii 2025/26 nadal będzie bronił barw Królewskich, niż to, że klub spróbuje na nim zarobić.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Osasuną</title>
-        <link>https://www.realmadryt.pl/news/136846-ostatni-trening-przed-osasuna</link>
-        <pubDate>Fri, 14 Feb 2025 16:37:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
