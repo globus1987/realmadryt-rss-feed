@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Feb 2025 17:21:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 17:38:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Osasunę</title>
+        <link>https://www.realmadryt.pl/news/136848-kadra-na-osasune</link>
+        <pubDate>Fri, 14 Feb 2025 18:35:00 GMT</pubDate>
+        <description>Królewscy podejdą do meczu z Osasuną bez pięciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 20 zawodników.</description>
+    </item>
     
     <item>
         <title>Jeden piłkarz na siedem pozycji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136852-guardiola-akanji-przejdzie-operacje-i-wypada-z-gry-na-8-10-tygodni</link>
         <pubDate>Fri, 14 Feb 2025 14:42:00 GMT</pubDate>
         <description>Pep pojawił się na konferencji prasowej przed spotkaniem z Newcastle United.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Jestem zmęczony tematem Viníciusa, ale mnie to nie martwi</title>
-        <link>https://www.realmadryt.pl/news/136849-ancelotti-jestem-zmeczony-tematem-viniciusa-ale-mnie-to-nie-martwi</link>
-        <pubDate>Fri, 14 Feb 2025 14:26:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Osasuną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
