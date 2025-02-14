@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Feb 2025 07:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 07:53:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pojedynek Mbappé – Sergio Herrera</title>
+        <link>https://www.realmadryt.pl/news/136815-pojedynek-mbappe-sergio-herrera</link>
+        <pubDate>Fri, 14 Feb 2025 08:40:00 GMT</pubDate>
+        <description>Kylian Mbappé ma najwięcej celnych strzałów w La Lidze, a Sergio Herrera prawie najwięcej parad. W sobotę obaj staną naprzeciwko siebie w starciu pomiędzy Realem Madryt a Osasuną.</description>
+    </item>
     
     <item>
         <title>Bogata historia błędów Munuery Montero</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136823-unicaja-i-tenerife-w-polfinale-barca-za-burta</link>
         <pubDate>Fri, 14 Feb 2025 00:18:00 GMT</pubDate>
         <description>Dwa pierwsze ćwierćfinały koszykarskiego Pucharu Króla nie były pomyślne dla drużyn z Katalonii. Joventut i Barcelona pożegnały się z turniejem, a Unicaja i Tenerife grają dalej. Dzisiaj do gry wkracza Real Madryt, który zmierzy się z Manresą.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie z awansem do półfinałów Pucharu Królowej</title>
-        <link>https://www.realmadryt.pl/news/136821-krolewskie-z-awansem-do-polfinalow-pucharu-krolowej</link>
-        <pubDate>Thu, 13 Feb 2025 23:36:00 GMT</pubDate>
-        <description>W ćwierćfinale Copa de la Reina piłkarki Realu Madryt pokonały po dogrywce Real Sociedad 3:1. Bramki dla Las Blancas zdobyły Caroline Weir, Sandie Toletti i Linda Caicedo.</description>
     </item>
     
 </channel>
