@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Feb 2025 17:03:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 17:21:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jeden piłkarz na siedem pozycji</title>
+        <link>https://www.realmadryt.pl/news/136862-jeden-pilkarz-na-siedem-pozycji</link>
+        <pubDate>Fri, 14 Feb 2025 18:03:00 GMT</pubDate>
+        <description>Urugwajczyk pokazał w Manchesterze, że sprawdza się też jako prawy obrońca. Od momentu transferu do Realu grał na prawie każdej możliwej pozycji.</description>
+    </item>
     
     <item>
         <title>Mbappé: Wiemy, co mamy robić</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136849-ancelotti-jestem-zmeczony-tematem-viniciusa-ale-mnie-to-nie-martwi</link>
         <pubDate>Fri, 14 Feb 2025 14:26:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Osasuną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Osasuny na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/136850-kadra-osasuny-na-mecz-z-realem</link>
-        <pubDate>Fri, 14 Feb 2025 14:04:00 GMT</pubDate>
-        <description>Wiemy już, na kogo w jutrzejszym meczu Osasuny z Realem Madryt będzie mógł liczyć szkoleniowiec gospodarzy, który podał dziś 22-osobową kadrę na to spotkanie.</description>
     </item>
     
 </channel>
