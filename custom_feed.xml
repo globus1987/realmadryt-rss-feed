@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Feb 2025 16:26:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 16:44:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Wiemy, co mamy robić</title>
+        <link>https://www.realmadryt.pl/news/136861-mbappe-wiemy-co-mamy-robic</link>
+        <pubDate>Fri, 14 Feb 2025 17:32:00 GMT</pubDate>
+        <description>Kylian Mbappé został wybrany najlepszym piłkarzem ubiegłego miesiąca w Realu Madryt i dziś w Valdebebas odebrał specjalną nagrodę od sponsora klubu, browaru Mahou. Z tej okazji Francuz udzielił wypowiedzi dla klubowych mediów.</description>
+    </item>
     
     <item>
         <title>AS: Real planuje pozostawić Asencio w kadrze na kolejny sezon</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136850-kadra-osasuny-na-mecz-z-realem</link>
         <pubDate>Fri, 14 Feb 2025 14:04:00 GMT</pubDate>
         <description>Wiemy już, na kogo w jutrzejszym meczu Osasuny z Realem Madryt będzie mógł liczyć szkoleniowiec gospodarzy, który podał dziś 22-osobową kadrę na to spotkanie.</description>
-    </item>
-    
-    <item>
-        <title>„Asencio i wina Ancelottiego”</title>
-        <link>https://www.realmadryt.pl/news/136845-asencio-i-wina-ancelottiego</link>
-        <pubDate>Fri, 14 Feb 2025 13:56:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat decyzji podejmowanych przez Carlo Ancelottiego w oparciu o świetny występ Raúla Asencio w meczu z Manchesterem City. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
