@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Feb 2025 16:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 17:20:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/136891-ocen-pilkarzy-po-meczu-z-osasuna</link>
+        <pubDate>Sat, 15 Feb 2025 18:19:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Doskonały mecz Marmousha, wygrana City z Newcastle</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Osasuna – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/136890-osasuna-real-madryt-live</link>
+        <title>Remis w Pampelunie</title>
+        <link>https://www.realmadryt.pl/news/136890-remis-w-pampelunie</link>
         <pubDate>Sat, 15 Feb 2025 16:10:00 GMT</pubDate>
-        <description>Od 16:15 trwa mecz 24. kolejki między Osasuną a Realem Madryt.</description>
+        <description>W meczu 24. kolejki Real Madryt zremisował na wyjeździe z Osasuną 1:1. Jedyną bramkę dla Królewskich zdobył Kylian Mbappé.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136880-punal-real-madryt-ma-dynamit-w-ataku</link>
         <pubDate>Sat, 15 Feb 2025 10:08:00 GMT</pubDate>
         <description>Jako zawodnik Patxi Puñal wielokrotnie mierzył się z Realem Madryt na El Sadar. Między innymi o tych starciach opowiedział w rozmowie z dziennikiem AS.</description>
-    </item>
-    
-    <item>
-        <title>14 lat bez porażki na El Sadar</title>
-        <link>https://www.realmadryt.pl/news/136800-14-lat-bez-porazki-na-el-sadar</link>
-        <pubDate>Sat, 15 Feb 2025 10:05:00 GMT</pubDate>
-        <description>Już dzisiaj Real Madryt zagra z Osasuną na El Sadar, gdzie od wielu lat radzi sobie świetnie, choć historycznie był to zawsze trudny teren dla Królewskich.</description>
     </item>
     
 </channel>
