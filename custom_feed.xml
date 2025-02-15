@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Feb 2025 05:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 06:29:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kiepski moment na żucie kamieni</title>
+        <link>https://www.realmadryt.pl/news/136788-kiepski-moment-na-zucie-kamieni</link>
+        <pubDate>Sat, 15 Feb 2025 07:20:00 GMT</pubDate>
+        <description>Niby można, ale jednak lepiej się chwilę wstrzymać.</description>
+    </item>
     
     <item>
         <title>Osasuna – Real Madryt: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136853-telewizyjny-terminarz-24-kolejki-la-ligi</link>
         <pubDate>Fri, 14 Feb 2025 19:22:00 GMT</pubDate>
         <description>Przed nami 24. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Osasuną. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Osasunę</title>
-        <link>https://www.realmadryt.pl/news/136848-kadra-na-osasune</link>
-        <pubDate>Fri, 14 Feb 2025 18:35:00 GMT</pubDate>
-        <description>Królewscy podejdą do meczu z Osasuną bez pięciu piłkarzy pierwszego zespołu. Carlo Ancelotti powołał na spotkanie 21 zawodników.</description>
     </item>
     
 </channel>
