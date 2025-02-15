@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Feb 2025 22:40:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 22:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt w finale Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/136905-real-madryt-w-finale-pucharu-krola</link>
+        <pubDate>Sat, 15 Feb 2025 23:42:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Gran Canarią, awansując do finału i wyrzucając za burtę gospodarzy turnieju. Królewscy słabo weszli w to spotkanie, ale później zdołali się poprawić i przechylić szalę zwycięstwa na swoją korzyść.</description>
+    </item>
     
     <item>
         <title>24. kolejka: Atlético remisuje i nie wykorzystuje potknięcia Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136893-budimir-wslizg-camavingi-mnie-przeraza-to-byl-mocny-cios</link>
         <pubDate>Sat, 15 Feb 2025 18:31:00 GMT</pubDate>
         <description>Ante Budimir udzielił wywiadu dla DAZN po zremisowanym 1:1 meczu z Realem Madryt. Przedstawiamy wypowiedzi gracza Osasuny.</description>
-    </item>
-    
-    <item>
-        <title>Ante Budimir MVP meczu na El Sadar</title>
-        <link>https://www.realmadryt.pl/news/136892-ante-budimir-mvp-meczu-na-el-sadar</link>
-        <pubDate>Sat, 15 Feb 2025 18:19:00 GMT</pubDate>
-        <description>Chorwacki napastnik został wyróżniony po zremisowanym przez Real spotkaniu na El Sadar.</description>
     </item>
     
 </channel>
