@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Feb 2025 08:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 08:54:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwaj menedżerowie i ojciec kierują przyszłością Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/136879-dwaj-menedzerowie-i-ojciec-kieruja-przyszloscia-viniciusa</link>
+        <pubDate>Sat, 15 Feb 2025 09:50:00 GMT</pubDate>
+        <description>Brazylijczyka reprezentują dwaj członkowie jego agencji – Frederico Peña i Thássilio Soares, choć kluczową rolę odgrywa również jego ojciec.</description>
+    </item>
     
     <item>
         <title>„Jak bardzo się boję być z Madrytu i grać na El Sadar”: czyli długa historia trudnych meczów w Pampelunie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136873-dzisiejsze-okladki</link>
         <pubDate>Sat, 15 Feb 2025 00:36:00 GMT</pubDate>
         <description>Mecze Realu Madryt i Atlético oraz sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Gran Canaria półfinałowym rywalem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/136870-gran-canaria-polfinalowym-rywalem-realu-madryt</link>
-        <pubDate>Fri, 14 Feb 2025 23:39:00 GMT</pubDate>
-        <description>W sobotnim półfinale rywalem Realu Madryt będzie Gran Canaria. Gospodarze Pucharu Króla wyeliminowali Valencię i jako jedyna nierozstawiona drużyna awansowała do najlepszej czwórki.</description>
     </item>
     
 </channel>
