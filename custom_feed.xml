@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Feb 2025 13:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 14:19:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Flick: „Fuck you” czy „fuck off” to brak szacunku</title>
+        <link>https://www.realmadryt.pl/news/136931-flick-fuck-you-czy-fuck-off-to-brak-szacunku</link>
+        <pubDate>Sun, 16 Feb 2025 15:08:00 GMT</pubDate>
+        <description>Hansi Flick stawił się na konferencji prasowej przed jutrzejszym meczem z Rayo Vallecano, w trakcie której skomentował wczorajsze zamieszanie wokół czerwonej kartki Jude'a Bellinghama. Przedstawiamy opinię trenera Barcelony.</description>
+    </item>
     
     <item>
         <title>Bezbramkowy remis Castilli, Gonzalo zmarnował karnego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136918-wielki-final-pucharu-krola</link>
         <pubDate>Sun, 16 Feb 2025 11:06:00 GMT</pubDate>
         <description>Real Madryt i Unicaja zagrają dzisiaj w finale Pucharu Króla. Po raz drugi w tym sezonie te dwa zespoły spotykają się w decydującym o tytule spotkaniu. Za pierwszym razem lepsza była Unicaja, a dzisiaj Królewscy poszukają okazji do rewanżu.</description>
-    </item>
-    
-    <item>
-        <title>RealMadryt.pl szuka Full Stack Developera!</title>
-        <link>https://www.realmadryt.pl/news/136855-realmadryt-pl-szuka-full-stack-developera</link>
-        <pubDate>Sun, 16 Feb 2025 11:00:00 GMT</pubDate>
-        <description>Dołącz do nas!</description>
     </item>
     
 </channel>
