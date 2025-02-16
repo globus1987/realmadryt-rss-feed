@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Feb 2025 12:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 13:04:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bezbramkowy remis Castilli, Gonzalo zmarnował karnego</title>
+        <link>https://www.realmadryt.pl/news/136930-bezbramkowy-remis-castilli-gonzalo-zmarnowal-karnego</link>
+        <pubDate>Sun, 16 Feb 2025 13:56:00 GMT</pubDate>
+        <description>W 24. kolejce Primera Federación Castilla bezbramkowo zremisowała z Antequerą. Królewscy stworzyli sobie wiele okazji strzeleckich, mieli też rzut karny, ale nie byli w stanie zamienić tego na gola.</description>
+    </item>
     
     <item>
         <title>Sesja regeneracyjna w Valdebebas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136855-realmadryt-pl-szuka-full-stack-developera</link>
         <pubDate>Sun, 16 Feb 2025 11:00:00 GMT</pubDate>
         <description>Dołącz do nas!</description>
-    </item>
-    
-    <item>
-        <title>Federacja w stanie gotowości w sprawie sędziów: system nominacji oraz awansów i degradacji pod lupą</title>
-        <link>https://www.realmadryt.pl/news/136917-federacja-w-stanie-gotowosci-w-sprawie-sedziow-system-nominacji-oraz-awansow-i-degradacji-pod-lupa</link>
-        <pubDate>Sun, 16 Feb 2025 10:49:00 GMT</pubDate>
-        <description>W Las Rozas opowiadają się za zmianą u podstaw.</description>
     </item>
     
 </channel>
