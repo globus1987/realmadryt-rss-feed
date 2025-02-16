@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Feb 2025 23:19:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 23:39:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/136945-dzisiejsze-okladki</link>
+        <pubDate>Mon, 17 Feb 2025 00:26:00 GMT</pubDate>
+        <description>Porażka koszykarzy Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Unicaja zagrała lepiej od nas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136931-flick-fuck-you-czy-fuck-off-to-brak-szacunku</link>
         <pubDate>Sun, 16 Feb 2025 15:08:00 GMT</pubDate>
         <description>Hansi Flick stawił się na konferencji prasowej przed jutrzejszym meczem z Rayo Vallecano, w trakcie której skomentował wczorajsze zamieszanie wokół czerwonej kartki Jude'a Bellinghama. Przedstawiamy opinię trenera Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Bezbramkowy remis Castilli, Gonzalo zmarnował karnego</title>
-        <link>https://www.realmadryt.pl/news/136930-bezbramkowy-remis-castilli-gonzalo-zmarnowal-karnego</link>
-        <pubDate>Sun, 16 Feb 2025 13:56:00 GMT</pubDate>
-        <description>W 24. kolejce Primera Federación Castilla bezbramkowo zremisowała z Antequerą. Królewscy stworzyli sobie wiele okazji strzeleckich, mieli też rzut karny, ale nie byli w stanie zamienić tego na gola.</description>
     </item>
     
 </channel>
