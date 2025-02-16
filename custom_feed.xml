@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Feb 2025 04:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 04:42:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt może jutro stracić fotel lidera</title>
+        <link>https://www.realmadryt.pl/news/136904-real-madryt-moze-jutro-stracic-fotel-lidera</link>
+        <pubDate>Sun, 16 Feb 2025 05:30:00 GMT</pubDate>
+        <description>Wystarczy, że Barcelona pokona Rayo na własnym boisku i Królewscy spadną na drugie miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136896-moreno-protesty-graczy-realu-kazdy-skupia-sie-na-sobie</link>
         <pubDate>Sat, 15 Feb 2025 19:19:00 GMT</pubDate>
         <description>Vicente Moreno stawił się na konferencji prasowej po zremisowanym 1:1 meczu z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Osasuny.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Myślę, że sędzia nie do końca zrozumiał język angielski</title>
-        <link>https://www.realmadryt.pl/news/136895-ancelotti-mysle-ze-sedzia-nie-do-konca-zrozumial-jezyk-angielski</link>
-        <pubDate>Sat, 15 Feb 2025 18:54:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu z Osasuną. Przedstawiamy wypowiedzi włoskiego trenera ze spotkania z dziennikarzami na El Sadar.</description>
     </item>
     
 </channel>
