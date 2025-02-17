@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Feb 2025 07:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 08:30:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 17 lutego</title>
+        <link>https://www.realmadryt.pl/news/136942-kartka-z-kalendarza-17-lutego</link>
+        <pubDate>Mon, 17 Feb 2025 09:15:00 GMT</pubDate>
+        <description>Pierwszy ligowy Klasyk, mecze piłkarzy i koszykarzy z Barceloną i pierwszy mecz Ligi Mistrzów Zidane'a. Co działo się 17 lutego?</description>
+    </item>
     
     <item>
         <title>„Lekarz powiedział mi, że taka sytuacja zdarza się raz na 10 000 przypadków… i że ja byłem tym jednym przypadkiem”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136936-asencio-jest-wart-70-milionow-euro</link>
         <pubDate>Sun, 16 Feb 2025 17:54:00 GMT</pubDate>
         <description>Dziś mija sto dni od pojawienia się Raula Asencio w pierwszym zespole. Pomimo tak krótkiego stażu wychowanek zdołał ugruntować swoją pozycję, a jego dzisiejszej wartości rynkowej nie da się w żaden sposób porównać z tą sprzed trzech miesięcy.</description>
-    </item>
-    
-    <item>
-        <title>„Jeśli idziesz na wojnę z sędziami, licz się z tym, że zostaniesz ranny”</title>
-        <link>https://www.realmadryt.pl/news/136935-jesli-idziesz-na-wojne-z-sedziami-licz-sie-z-tym-ze-zostaniesz-ranny</link>
-        <pubDate>Sun, 16 Feb 2025 16:59:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat sędziowania w meczach Realu Madryt. Przedstawiamy spostrzeżenia dziennikarza.</description>
     </item>
     
 </channel>
