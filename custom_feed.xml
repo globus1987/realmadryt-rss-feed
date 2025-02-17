@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Feb 2025 06:32:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 06:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Gdybyś zapytał przed meczem o nasze szanse na awans, nie wiem… może jeden procent?</title>
+        <link>https://www.realmadryt.pl/news/136948-guardiola-gdybys-zapytal-przed-meczem-o-nasze-szanse-na-awans-nie-wiem-moze-jeden-procent</link>
+        <pubDate>Mon, 17 Feb 2025 07:36:00 GMT</pubDate>
+        <description>Pep Guardiola w sobotę pojawił się na konferencji prasowej po meczu z Newcastle. Przedstawiamy jego wszystkie wypowiedzi z drugiej części spotkania z dziennikarzami, objętej przez ponad dzień embargiem na korzyść prasy pisanej.</description>
+    </item>
     
     <item>
         <title>Casemiro: Nikt nie wygrywa tylu trofeów tylko dlatego, że jest sympatyczny, choć Carlo rzeczywiście taki jest</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/136934-bede-nadal-pracowal-aby-w-ciagu-najblizszych-czterech-lat-nasz-klub-zajmowal-nalezne-mu-miejsce</link>
         <pubDate>Sun, 16 Feb 2025 16:36:00 GMT</pubDate>
         <description>Co Florentino Pérez napisał w liście do socios?</description>
-    </item>
-    
-    <item>
-        <title>AS: Lucas Vázquez nie zagra w rewanżu z Manchesterem City</title>
-        <link>https://www.realmadryt.pl/news/136933-as-lucas-vazquez-nie-zagra-w-rewanzu-z-manchesterem-city</link>
-        <pubDate>Sun, 16 Feb 2025 16:23:00 GMT</pubDate>
-        <description>Wychowanek nie ma szans na powrót do gry w środę, a pod znakiem zapytania nadal stoi występ Rüdigera i Alaby, którzy jutro powinni jednak trenować z zespołem.</description>
     </item>
     
 </channel>
