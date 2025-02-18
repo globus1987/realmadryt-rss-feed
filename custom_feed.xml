@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Feb 2025 11:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 11:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed City</title>
+        <link>https://www.realmadryt.pl/news/136991-ostatni-trening-przed-city</link>
+        <pubDate>Tue, 18 Feb 2025 12:41:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>W 1/2 finału Pucharu Królowej z Barceloną!</title>
+        <link>https://www.realmadryt.pl/news/136993-w-1-2-finalu-pucharu-krolowej-z-barcelona</link>
+        <pubDate>Tue, 18 Feb 2025 12:40:00 GMT</pubDate>
+        <description>Królewskie poznały dzisiaj rywalki, z którymi zmierzą się w dwóch półfinałowych spotkaniach.</description>
+    </item>
     
     <item>
         <title>40 meczów Realu Madryt i wciąż rośnie: „Żaden zawodnik nie rywalizuje na 100%, to niemożliwe”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/136971-kartka-z-kalendarza-18-lutego</link>
         <pubDate>Tue, 18 Feb 2025 09:26:00 GMT</pubDate>
         <description>Urodziny byłego piłkarza, wygrane z Schalke i Betisem oraz prezentacja brazylijskiego talentu. Co działo się 18 lutego?</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/136974-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 18 Feb 2025 09:09:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 24. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Dennis Smith Jr. opuści Real Madryt?</title>
-        <link>https://www.realmadryt.pl/news/136973-dennis-smith-jr-opusci-real-madryt</link>
-        <pubDate>Tue, 18 Feb 2025 08:18:00 GMT</pubDate>
-        <description>Przygoda Dennisa Smitha z Realem Madryt może się zakończyć ledwie po miesiącu. Amerykanin nie czuje się przygotowany do rywalizacji na poziomie Euroligi i z tego powodu rozważa odejście.</description>
     </item>
     
 </channel>
