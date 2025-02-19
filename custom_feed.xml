@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Feb 2025 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 08:29:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dennis Smith Jr. odchodzi z Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/137020-dennis-smith-jr-odchodzi-z-realu-madryt</link>
+        <pubDate>Wed, 19 Feb 2025 09:15:00 GMT</pubDate>
+        <description>Zaledwie miesiąc trwała przygoda Dennisa Smitha w Realu Madryt. Amerykanin zdecydował się na opuszczenie klubu i powrót do Stanów Zjednoczonych, gdzie ma zamiar powalczyć o kontrakt w NBA.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 19 lutego</title>
+        <link>https://www.realmadryt.pl/news/137016-kartka-z-kalendarza-19-lutego</link>
+        <pubDate>Wed, 19 Feb 2025 09:09:00 GMT</pubDate>
+        <description>Minimalne wygrane z Atlético i Porto, porażka w 1/8 finału z Romą i ważne wygrane koszykarzy. Co działo się 19 lutego?</description>
+    </item>
     
     <item>
         <title>Bernardo: Jesteśmy tu z własnej winy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137010-guardiola-mamy-wiecej-niz-jeden-procent-szans-oszukalem-was</link>
         <pubDate>Tue, 18 Feb 2025 21:26:00 GMT</pubDate>
         <description>Pep Guardiola pojawił się wczoraj na konferencji prasowej przed rewanżowym meczem Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis tego spotkania trenera Manchesteru City z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Munuera Montero odsunięty od sędziowania przez RFEF i UEFA</title>
-        <link>https://www.realmadryt.pl/news/137009-marca-munuera-montero-odsuniety-od-sedziowania-przez-rfef-i-uefa</link>
-        <pubDate>Tue, 18 Feb 2025 21:01:00 GMT</pubDate>
-        <description>Hiszpański sędzia międzynarodowy może poświęcić najbliższe dni na odpoczynek, ponieważ ani Komitet Techczniny Sędziów, ani UEFA na czas trwającego postępowania nie będzie obsadzać go do prowadzenia spotkań.</description>
-    </item>
-    
-    <item>
-        <title>Atlético: „Ciekawe, kto odważy się teraz wymierzyć sprawiedliwość, wiedząc, że może być następny”</title>
-        <link>https://www.realmadryt.pl/news/137008-atletico-ciekawe-kto-odwazy-sie-teraz-wymierzyc-sprawiedliwosc-wiedzac-ze-moze-byc-nastepny</link>
-        <pubDate>Tue, 18 Feb 2025 20:51:00 GMT</pubDate>
-        <description>Los Rojiblancos opublikowali nowy wpis, wymierzony – jak się wydaje – w Real Madryt. „Machina działa już od kilku tygodni i miażdży wszystko, co stanie jej na drodze” – napisano.</description>
     </item>
     
 </channel>
