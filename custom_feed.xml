@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Feb 2025 19:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 20:24:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt vs Manchester City [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/137041-real-madryt-vs-manchester-city-live</link>
+        <pubDate>Wed, 19 Feb 2025 20:55:00 GMT</pubDate>
+        <description>Real Madryt gra z Manchesterem City o awans do 1/8 finału Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Manchester City: Znamy składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137031-oficjalnie-jude-bellingham-zawieszony-na-dwa-mecze</link>
         <pubDate>Wed, 19 Feb 2025 12:59:00 GMT</pubDate>
         <description>Anglik nie będzie mógł zagrać z Gironą i Betisem.</description>
-    </item>
-    
-    <item>
-        <title>Uniknąć tego, co stało się z Ajaksem</title>
-        <link>https://www.realmadryt.pl/news/137030-uniknac-tego-co-stalo-sie-z-ajaksem</link>
-        <pubDate>Wed, 19 Feb 2025 12:57:00 GMT</pubDate>
-        <description>W sezonie 2018/19 Ajax wygrał na Santiago Bernabéu 4:1 i wyrzucił z rozgrywek Real Madryt, który w pierwszym meczu na wyjeździe wygrał 2:1. Jest to jedyny przypadek, gdy Królewscy pożegnali się z Ligą Mistrzów po wygraniu pierwszego meczu na terenie rywala. Inne podobne sytuacje kończyły się najczęściej na strachu.</description>
     </item>
     
 </channel>
