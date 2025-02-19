@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Feb 2025 21:38:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 21:53:16 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt vs Manchester City [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137041-real-madryt-vs-manchester-city-live</link>
+        <title>Mbappé MVP meczu z City</title>
+        <link>https://www.realmadryt.pl/news/137043-mbappe-mvp-meczu-z-city</link>
+        <pubDate>Wed, 19 Feb 2025 22:51:00 GMT</pubDate>
+        <description>Francuz otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Manchesterem City.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z City</title>
+        <link>https://www.realmadryt.pl/news/137042-ocen-pilkarzy-po-meczu-z-city</link>
+        <pubDate>Wed, 19 Feb 2025 22:51:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Don't look back in anger</title>
+        <link>https://www.realmadryt.pl/news/137041-dont-look-back-in-anger</link>
         <pubDate>Wed, 19 Feb 2025 20:55:00 GMT</pubDate>
-        <description>Real Madryt gra z Manchesterem City o awans do 1/8 finału Ligi Mistrzów.</description>
+        <description>Real Madryt wygrał 3:1 z Manchesterem City i awansował do 1/8 finału Ligi Mistrzów.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137033-as-agenci-endricka-moga-poszukac-dla-niego-wypozyczenia</link>
         <pubDate>Wed, 19 Feb 2025 13:28:00 GMT</pubDate>
         <description>Pod koniec sezonu zawodnik omówi sytuację ze swoimi przedstawicielami, aby podjąć decyzję o ewentualnym wypożyczeniu. Strzela gola co 80 minut.</description>
-    </item>
-    
-    <item>
-        <title>Militão: Kolejny krok</title>
-        <link>https://www.realmadryt.pl/news/137032-militao-kolejny-krok</link>
-        <pubDate>Wed, 19 Feb 2025 13:15:00 GMT</pubDate>
-        <description>Brazylijczyk chwali się postępami w rehabilitacji, co nie przeszło niezauważone przez kolegów z szatni. Celem defensora jest powrót na Klubowe Mistrzostwa Świata.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Jude Bellingham zawieszony na dwa mecze!</title>
-        <link>https://www.realmadryt.pl/news/137031-oficjalnie-jude-bellingham-zawieszony-na-dwa-mecze</link>
-        <pubDate>Wed, 19 Feb 2025 12:59:00 GMT</pubDate>
-        <description>Anglik nie będzie mógł zagrać z Gironą i Betisem.</description>
     </item>
     
 </channel>
