@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Feb 2025 22:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 23:21:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Real zasłużył na awans</title>
+        <link>https://www.realmadryt.pl/news/137055-guardiola-real-zasluzyl-na-awans</link>
+        <pubDate>Thu, 20 Feb 2025 00:19:00 GMT</pubDate>
+        <description>Pep Guardiola rozmawiał z angielskimi i hiszpańskimi mediami po meczu Realu Madryt z Manchesterem City. Przedstawiamy najważniejsze wypowiedzi trenera.</description>
+    </item>
+    
+    <item>
+        <title>Bellingham: Mbappé jest wyjątkowy</title>
+        <link>https://www.realmadryt.pl/news/137054-bellingham-mbappe-jest-wyjatkowy</link>
+        <pubDate>Thu, 20 Feb 2025 00:13:00 GMT</pubDate>
+        <description>Jude Bellingham rozmawiał z klubową telewizji po zwycięstwie nad Manchesterem City. Przedstawiamy najważniejsze wypowiedzi Anglika.</description>
+    </item>
     
     <item>
         <title>Kibice na Bernabéu: „Aj, Guardiola, aj, Guardiola, jak szczupło dziś wyglądasz, najpierw były narkotyki…”</title>
         <link>https://www.realmadryt.pl/news/137051-kibice-na-bernabeu-aj-guardiola-aj-guardiola-jak-szczuplo-dzis-wygladasz-najpierw-byly-narkotyki</link>
         <pubDate>Wed, 19 Feb 2025 23:51:00 GMT</pubDate>
-        <description>Homofobiczna przyśpiewka kibiców Realu w kierunku trenera Manchesteru City.</description>
+        <description>Obraźliwa przyśpiewka kibiców Realu w kierunku trenera Manchesteru City.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137042-ocen-pilkarzy-po-meczu-z-city</link>
         <pubDate>Wed, 19 Feb 2025 22:51:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Don't look back in anger</title>
-        <link>https://www.realmadryt.pl/news/137041-dont-look-back-in-anger</link>
-        <pubDate>Wed, 19 Feb 2025 20:55:00 GMT</pubDate>
-        <description>Real Madryt wygrał 3:1 z Manchesterem City i awansował do 1/8 finału Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Manchester City: Znamy składy</title>
-        <link>https://www.realmadryt.pl/news/137024-real-madryt-manchester-city-znamy-sklady</link>
-        <pubDate>Wed, 19 Feb 2025 19:06:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w rewanżowym meczu barażowym Ligi Mistrzów z Manchesterem City. Spotkanie rozpocznie się o 21:00 na Estadio Santiago Bernabéu.</description>
     </item>
     
 </channel>
