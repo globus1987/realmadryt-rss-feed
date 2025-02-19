@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Feb 2025 23:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 23:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137058-dzisiejsze-okladki</link>
+        <pubDate>Thu, 20 Feb 2025 00:51:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Guardiola: Real zasłużył na awans</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137043-mbappe-mvp-meczu-z-city</link>
         <pubDate>Wed, 19 Feb 2025 22:51:00 GMT</pubDate>
         <description>Francuz otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z City</title>
-        <link>https://www.realmadryt.pl/news/137042-ocen-pilkarzy-po-meczu-z-city</link>
-        <pubDate>Wed, 19 Feb 2025 22:51:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
