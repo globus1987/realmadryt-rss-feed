@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Feb 2025 10:24:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 10:42:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/137063-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 20 Feb 2025 11:25:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Mbappé jest już sobą: 18 goli w 18 meczach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137054-bellingham-mbappe-jest-wyjatkowy</link>
         <pubDate>Thu, 20 Feb 2025 00:13:00 GMT</pubDate>
         <description>Jude Bellingham rozmawiał z klubową telewizji po zwycięstwie nad Manchesterem City. Przedstawiamy najważniejsze wypowiedzi Anglika.</description>
-    </item>
-    
-    <item>
-        <title>Kibice na Bernabéu: „Aj, Guardiola, aj, Guardiola, jak szczupło dziś wyglądasz, najpierw były narkotyki…”</title>
-        <link>https://www.realmadryt.pl/news/137051-kibice-na-bernabeu-aj-guardiola-aj-guardiola-jak-szczuplo-dzis-wygladasz-najpierw-byly-narkotyki</link>
-        <pubDate>Wed, 19 Feb 2025 23:51:00 GMT</pubDate>
-        <description>Obraźliwa przyśpiewka kibiców Realu w kierunku trenera Manchesteru City.</description>
     </item>
     
 </channel>
