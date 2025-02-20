@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Feb 2025 16:30:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 16:54:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z City</title>
+        <link>https://www.realmadryt.pl/news/137071-oceny-zawodnikow-po-meczu-z-city</link>
+        <pubDate>Thu, 20 Feb 2025 17:52:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Manchesterem City 3:1 i awansował do 1/8 finału Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>10:0 w trzech ostatnich meczach z Gironą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137053-butragueno-posiadanie-w-zespole-kyliana-mbappe-to-przywilej</link>
         <pubDate>Thu, 20 Feb 2025 08:18:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wywiadu dla klubowej telewizji po wygranej z Manchesterem City w Lidze Mistrzów. Przedstawiamy słowa działacza.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Rodrygo jest strasznie niedoceniany, a to chyba najbardziej utalentowany piłkarz w naszej drużynie</title>
-        <link>https://www.realmadryt.pl/news/137060-bellingham-rodrygo-jest-strasznie-niedoceniany-a-to-chyba-najbardziej-utalentowany-pilkarz-w-naszej-druzynie</link>
-        <pubDate>Thu, 20 Feb 2025 07:35:00 GMT</pubDate>
-        <description>Jude Bellingham po spotkaniu z Manchesterem City pojawił się w studiu telewizji CBS Sports, gdzie rozmawiali z nim Thierry Henry, Jamie Carragher, Micah Richards i Kate Abdo.</description>
     </item>
     
 </channel>
