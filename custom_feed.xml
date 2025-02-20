@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Feb 2025 23:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 23:39:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137083-dzisiejsze-okladki</link>
+        <pubDate>Fri, 21 Feb 2025 00:30:00 GMT</pubDate>
+        <description>Losowanie 1/8 finału Ligi Mistrzów oraz sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hugo González zadebiutował w reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137068-real-madryt-liderem-rankingu-uefa</link>
         <pubDate>Thu, 20 Feb 2025 13:36:00 GMT</pubDate>
         <description>Real Madryt jest liderem najnowszego rankingu UEFA. Klub ze stolicy Hiszpanii wyprzedza w tej klasyfikacji drugi Manchester City i trzeci Bayern Monachium.</description>
-    </item>
-    
-    <item>
-        <title>Gaspart: Mam nadzieję, że Vinícius przyjmie saudyjską ofertę</title>
-        <link>https://www.realmadryt.pl/news/137069-gaspart-mam-nadzieje-ze-vinicius-przyjmie-saudyjska-oferte</link>
-        <pubDate>Thu, 20 Feb 2025 13:35:00 GMT</pubDate>
-        <description>Joan Gaspart, były prezes Barcelony, który rozpoczął płacenie wiceszefowi Komitetu Arbitrów [oficjalnie, bo inne źródła wskazują, że proceder mógł trwać od lat 90.], udzielił krótkich wypowiedzi arabskiemu portalowi Al-Eqtisadiah.</description>
     </item>
     
 </channel>
