@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Feb 2025 04:27:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 04:43:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Mamy realne szanse, by zajść daleko w tej edycji Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/137056-ancelotti-mamy-realne-szanse-by-zajsc-daleko-w-tej-edycji-ligi-mistrzow</link>
+        <pubDate>Thu, 20 Feb 2025 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti wziął udział w konferencji prasowej po wygranej z Manchesterem City. Poniżej przedstawiamy pełny zapis tego spotkania szkoleniowca z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137044-mbappe-chce-naznaczyc-epoke-i-napisac-historie-w-realu-madryt</link>
         <pubDate>Wed, 19 Feb 2025 23:07:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu dla telewizji Movistar+ po wygranym 3:1 meczu Ligi Mistrzów z Manchesterem City. Przedstawiamy wypowiedzi napastnika Realu Madryt, autora hat-tricka w tym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z City</title>
-        <link>https://www.realmadryt.pl/news/137043-mbappe-mvp-meczu-z-city</link>
-        <pubDate>Wed, 19 Feb 2025 22:51:00 GMT</pubDate>
-        <description>Francuz otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Manchesterem City.</description>
     </item>
     
 </channel>
