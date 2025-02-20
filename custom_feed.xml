@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Feb 2025 05:53:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 06:31:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Asencio: Byliśmy drużyną</title>
+        <link>https://www.realmadryt.pl/news/137047-asencio-bylismy-druzyna</link>
+        <pubDate>Thu, 20 Feb 2025 07:25:00 GMT</pubDate>
+        <description>Raúl Asencio udzielił wywiadu dla telewizji Movistar+ po wygranym 3:1 rewanżowym starciu z Manchesterem City w 1/16 finału Ligi Mistrzów. Przedstawiamy wypowiedzi stopera Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Guardiola: W poprzednim sezonie, gdy odpadliśmy, grając świetnie, bolało to bardziej niż dziś</title>
+        <link>https://www.realmadryt.pl/news/137059-guardiola-w-poprzednim-sezonie-gdy-odpadlismy-grajac-swietnie-bolalo-to-bardziej-niz-dzis</link>
+        <pubDate>Thu, 20 Feb 2025 07:17:00 GMT</pubDate>
+        <description>Pep Guardiola wziął udział w konferencji prasowej po porażce z Realem Madryt. Poniżej przedstawiamy pełny zapis tego spotkania szkoleniowca Manchesteru City z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Mamy realne szanse, by zajść daleko w tej edycji Ligi Mistrzów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137046-vinicius-okay-okay-okay</link>
         <pubDate>Wed, 19 Feb 2025 23:23:00 GMT</pubDate>
         <description>Brazylijczyk po tygodniu odpowiedział kibicom City także w mediach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham nie zagra w pierwszym meczu 1/8 finału Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/137045-bellingham-nie-zagra-w-pierwszym-meczu-1-8-finalu-ligi-mistrzow</link>
-        <pubDate>Wed, 19 Feb 2025 23:14:00 GMT</pubDate>
-        <description>Jude Bellingham dostał żółtą kartkę w rewanżowym meczu z Manchesterem City i nie będzie mógł zagrać w kolejnym starciu w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Chcę naznaczyć epokę i napisać historię w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/137044-mbappe-chce-naznaczyc-epoke-i-napisac-historie-w-realu-madryt</link>
-        <pubDate>Wed, 19 Feb 2025 23:07:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielił wywiadu dla telewizji Movistar+ po wygranym 3:1 meczu Ligi Mistrzów z Manchesterem City. Przedstawiamy wypowiedzi napastnika Realu Madryt, autora hat-tricka w tym spotkaniu.</description>
     </item>
     
 </channel>
