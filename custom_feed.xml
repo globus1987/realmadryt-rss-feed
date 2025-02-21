@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Feb 2025 03:56:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 04:30:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni uzupełnia układankę Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/137080-tchouameni-uzupelnia-ukladanke-ancelottiego</link>
+        <pubDate>Fri, 21 Feb 2025 05:30:00 GMT</pubDate>
+        <description>W starciu z Manchesterem City Francuz ponownie zagrał w drugiej linii za sprawą powrotu do wyjściowego składu Antonio Rüdigera i postępom Raúla Asencio, a miesiąc po tym, jak przez publiczność na Santiago Bernabéu został przyjęty gwizdami, schodził z boiska przy owacji na stojąco.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137070-10-0-w-trzech-ostatnich-meczach-z-girona</link>
         <pubDate>Thu, 20 Feb 2025 13:56:00 GMT</pubDate>
         <description>Real Madryt w trzech ostatnich meczach z Gironą zanotował komplet trzech zwycięstw przy bilansie bramkowym 10:0. Jest to zupełnie inna dynamika względem tej, jaka miała miejsce między tymi dwoma zespołami w latach poprzednich.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt liderem rankingu UEFA</title>
-        <link>https://www.realmadryt.pl/news/137068-real-madryt-liderem-rankingu-uefa</link>
-        <pubDate>Thu, 20 Feb 2025 13:36:00 GMT</pubDate>
-        <description>Real Madryt jest liderem najnowszego rankingu UEFA. Klub ze stolicy Hiszpanii wyprzedza w tej klasyfikacji drugi Manchester City i trzeci Bayern Monachium.</description>
     </item>
     
 </channel>
