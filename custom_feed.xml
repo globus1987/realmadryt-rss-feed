@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Feb 2025 23:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 23:38:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137116-dzisiejsze-okladki</link>
+        <pubDate>Sat, 22 Feb 2025 00:29:00 GMT</pubDate>
+        <description>Losowanie 1/8 finału Ligi Mistrzów i mecz Barcelony w La Lidze to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Chorwacja pierwszy raz bez awansu na Eurobasket</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137096-simeone-real-dla-mnie-najwazniejsze-jest-to-ze-czeka-nas-wielki-mecz-jestesmy-przygotowani</link>
         <pubDate>Fri, 21 Feb 2025 14:06:00 GMT</pubDate>
         <description>Trener Atlético zabrał głos podczas konferencji prasowej, gdzie został zapytany o losowanie 1/8 finału Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Míchel: Nie martwi mnie sędziowanie, martwią mnie Mbappé, Vinícius, Rodrygo, Brahim…</title>
-        <link>https://www.realmadryt.pl/news/137094-michel-nie-martwi-mnie-sedziowanie-martwia-mnie-mbappe-vinicius-rodrygo-brahim</link>
-        <pubDate>Fri, 21 Feb 2025 13:34:00 GMT</pubDate>
-        <description>Trener Girony wziął udział w konferencji prasowej przed niedzielnym spotkaniem z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi Míchela.</description>
     </item>
     
 </channel>
