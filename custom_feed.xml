@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Feb 2025 17:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 18:30:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga będzie musiał przełożyć mecz Betisu z Realem</title>
+        <link>https://www.realmadryt.pl/news/137102-la-liga-bedzie-musial-przelozyc-mecz-betisu-z-realem</link>
+        <pubDate>Fri, 21 Feb 2025 19:30:00 GMT</pubDate>
+        <description>Spotkanie miało odbyć się w przyszłą niedzielę o 16:15, ale wtorkowy mecz Królewskich w Lidze Mistrzów sprawia, że starcie w Andaluzji musi odbyć się wcześniej.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 25. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137084-w-1-8-finalu-ligi-mistrzow-z-atletico</link>
         <pubDate>Fri, 21 Feb 2025 12:00:00 GMT</pubDate>
         <description>Królewscy trafili na zespół Diego Simeone. Pierwszy mecz zostanie rozegrany na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé połknął City</title>
-        <link>https://www.realmadryt.pl/news/137090-mbappe-polknal-city</link>
-        <pubDate>Fri, 21 Feb 2025 11:45:00 GMT</pubDate>
-        <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje środowe spotkanie między Realem Madryt a Manchesterem City.</description>
     </item>
     
 </channel>
