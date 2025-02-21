@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Feb 2025 18:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 19:17:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Mecz Betisu z Realem przeniesiony z niedzieli na sobotę</title>
+        <link>https://www.realmadryt.pl/news/137103-oficjalnie-mecz-betisu-z-realem-przeniesiony-z-niedzieli-na-sobote</link>
+        <pubDate>Fri, 21 Feb 2025 19:55:00 GMT</pubDate>
+        <description>La Liga opublikowała zmiany w terminarzu kolejki, która zostanie rozegrana ostatniego dnia lutego i na początku marca. Real Madryt zmierzy się na wyjeździe z Betisem w sobotę, a nie w niedzielę, jak pierwotnie planowano.</description>
+    </item>
     
     <item>
         <title>La Liga będzie musiała przełożyć mecz Betisu z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137091-relevo-real-obserwuje-gittensa</link>
         <pubDate>Fri, 21 Feb 2025 12:58:00 GMT</pubDate>
         <description>Królewscy obserwowali skrzydłowego na żywo i umieścili go na swojej liście potencjalnych wzmocnień, jeśli w ataku zwolni się miejsce.</description>
-    </item>
-    
-    <item>
-        <title>W 1/8 finału Ligi Mistrzów z Atlético!</title>
-        <link>https://www.realmadryt.pl/news/137084-w-1-8-finalu-ligi-mistrzow-z-atletico</link>
-        <pubDate>Fri, 21 Feb 2025 12:00:00 GMT</pubDate>
-        <description>Królewscy trafili na zespół Diego Simeone. Pierwszy mecz zostanie rozegrany na Santiago Bernabéu.</description>
     </item>
     
 </channel>
