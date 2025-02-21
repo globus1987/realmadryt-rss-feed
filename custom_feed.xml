@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Feb 2025 05:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 06:31:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cichy powrót</title>
+        <link>https://www.realmadryt.pl/news/137081-cichy-powrot</link>
+        <pubDate>Fri, 21 Feb 2025 07:25:00 GMT</pubDate>
+        <description>Dwumecz z Manchesterem City pokazał, że Ferland Mendy zaczyna wchodzić na swój najlepszy poziom.</description>
+    </item>
     
     <item>
         <title>Tchouaméni uzupełnia układankę Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137071-oceny-zawodnikow-po-meczu-z-city</link>
         <pubDate>Thu, 20 Feb 2025 17:52:00 GMT</pubDate>
         <description>Real Madryt wygrał u siebie z Manchesterem City 3:1 i awansował do 1/8 finału Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>10:0 w trzech ostatnich meczach z Gironą</title>
-        <link>https://www.realmadryt.pl/news/137070-10-0-w-trzech-ostatnich-meczach-z-girona</link>
-        <pubDate>Thu, 20 Feb 2025 13:56:00 GMT</pubDate>
-        <description>Real Madryt w trzech ostatnich meczach z Gironą zanotował komplet trzech zwycięstw przy bilansie bramkowym 10:0. Jest to zupełnie inna dynamika względem tej, jaka miała miejsce między tymi dwoma zespołami w latach poprzednich.</description>
     </item>
     
 </channel>
