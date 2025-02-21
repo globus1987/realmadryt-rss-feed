@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Feb 2025 10:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 10:55:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé połknął City</title>
+        <link>https://www.realmadryt.pl/news/137090-mbappe-polknal-city</link>
+        <pubDate>Fri, 21 Feb 2025 11:45:00 GMT</pubDate>
+        <description>Tomasz Ćwiąkała przedstawia najnowszy film, w którym analizuje środowe spotkanie między Realem Madryt a Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Europejskie spotkanie w Budapeszcie ma zahamować problemy z sędziowaniem: „Jest ogromne napięcie”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137083-dzisiejsze-okladki</link>
         <pubDate>Fri, 21 Feb 2025 00:30:00 GMT</pubDate>
         <description>Losowanie 1/8 finału Ligi Mistrzów oraz sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hugo González zadebiutował w reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/137079-hugo-gonzalez-zadebiutowal-w-reprezentacji</link>
-        <pubDate>Thu, 20 Feb 2025 22:31:00 GMT</pubDate>
-        <description>Hugo González wykonał kolejny krok w karierze. Zaliczył debiut w reprezentacji Hiszpanii i rozegrał dobre spotkanie, chociaż jego drużyna wyraźnie przegrała z Łotwą.</description>
     </item>
     
 </channel>
