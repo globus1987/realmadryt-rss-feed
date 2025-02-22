@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 07:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 08:25:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 22 lutego</title>
+        <link>https://www.realmadryt.pl/news/137107-kartka-z-kalendarza-22-lutego</link>
+        <pubDate>Sat, 22 Feb 2025 09:10:00 GMT</pubDate>
+        <description>Urodziny byłego bramkarza, wygrana z Juventusem, Puchar Króla koszykarzy i porażka z Levante. Co działo się 22 lutego?</description>
+    </item>
     
     <item>
         <title>Postaw, że Real ogra Gironę i odbierz 300 zł!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137101-telewizyjny-terminarz-25-kolejki-la-ligi</link>
         <pubDate>Fri, 21 Feb 2025 18:47:00 GMT</pubDate>
         <description>Przed nami 25. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Gironą. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Dokładny terminarz 1/8 finału Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/137100-dokladny-terminarz-1-8-finalu-ligi-mistrzow</link>
-        <pubDate>Fri, 21 Feb 2025 17:29:00 GMT</pubDate>
-        <description>UEFA oficjalnie potwierdziła terminy spotkań 1/8 finału Ligi Mistrzów. Na dzień meczowy przypadają cztery spotkania, a trzy z nich rozpoczną się o tej samej porze.</description>
     </item>
     
 </channel>
