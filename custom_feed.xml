@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 05:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 05:39:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Militão nabiera sił</title>
+        <link>https://www.realmadryt.pl/news/137112-militao-nabiera-sil</link>
+        <pubDate>Sat, 22 Feb 2025 06:25:00 GMT</pubDate>
+        <description>Brazylijczyk wybrał się w madryckie góry, gdzie przez kilka godzin wędrował, testując postępy w rehabilitacji swojego kolana.</description>
+    </item>
     
     <item>
         <title>Fede Valverde, czyli najwszechstronniejszy piłkarz świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137098-butragueno-mecz-z-city-jest-swietnym-punktem-wyjscia-do-tego-co-nas-czeka</link>
         <pubDate>Fri, 21 Feb 2025 14:17:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wywiadu dla klubowej telewizji po dzisiejszym losowaniu Ligi Mistrzów. Przedstawiamy słowa działacza.</description>
-    </item>
-    
-    <item>
-        <title>Flick: To, co dzieje się teraz z sędziami, jest niewiarygodne, nie podoba mi się sposób, w jaki się ich traktuje</title>
-        <link>https://www.realmadryt.pl/news/137097-flick-to-co-dzieje-sie-teraz-z-sedziami-jest-niewiarygodne-nie-podoba-mi-sie-sposob-w-jaki-sie-ich-traktuje</link>
-        <pubDate>Fri, 21 Feb 2025 14:13:00 GMT</pubDate>
-        <description>Trener Barcelony pojawił się na konferencji prasowej, gdzie został zapytany o losowanie 1/8 finału Ligi Mistrzów i sytuacje z sędziami w La Lidze.</description>
     </item>
     
 </channel>
