@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 20:39:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 20:53:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Girony na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/137136-kadra-girony-na-mecz-z-realem</link>
+        <pubDate>Sat, 22 Feb 2025 21:42:00 GMT</pubDate>
+        <description>Trener jutrzejszego rywala Realu Madryt może liczyć niemal na całą kadrę pierwszego zespołu. Do Madrytu nie przyjechał jedynie jeden zawodnik, który pauzuje za czerwoną kartkę.</description>
+    </item>
     
     <item>
         <title>Relevo: Real nawołuje kibiców do wykonywania przyśpiewek na temat RFEF</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137128-campazzo-pomogl-reprezentacji-i-wrocil-do-madrytu</link>
         <pubDate>Sat, 22 Feb 2025 12:35:00 GMT</pubDate>
         <description>Facundo Campazzo razem z reprezentacją Argentyny przegrał w Caracas z Wenezuelą. Zaliczka z pierwszego spotkania jednak wystarczyła, żeby zagwarantować Argentyńczykom awans na AmeriCup. Facundo został przez trenera zwolniony z obowiązku gry w kolejnym meczu z Kolumbią.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Zbliża się moment decyzji Xabiego Alonso</title>
-        <link>https://www.realmadryt.pl/news/137127-marca-zbliza-sie-moment-decyzji-xabiego-alonso</link>
-        <pubDate>Sat, 22 Feb 2025 12:27:00 GMT</pubDate>
-        <description>Xabi Alonso czeka na spotkanie z działaczami Bayeru Leverkusen, aby zdecydować o swojej przyszłości. Dziennik MARCA informuje, że wszystko ma rozstrzygnąć się w marcu.</description>
     </item>
     
 </channel>
