@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 08:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 08:42:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Güler znów anonimowy dla Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/137119-gueler-znow-anonimowy-dla-ancelottiego</link>
+        <pubDate>Sat, 22 Feb 2025 09:41:00 GMT</pubDate>
+        <description>Turecki zawodnik nie wystąpił w czterech ostatnich meczach, a w najważniejszych rozgrywkach dostaje znikome minuty.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 22 lutego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137102-la-liga-bedzie-musiala-przelozyc-mecz-betisu-z-realem</link>
         <pubDate>Fri, 21 Feb 2025 19:30:00 GMT</pubDate>
         <description>Spotkanie miało odbyć się w przyszłą niedzielę o 16:15, ale wtorkowy mecz Królewskich w Lidze Mistrzów sprawia, że starcie w Andaluzji musi odbyć się wcześniej.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 25. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/137101-telewizyjny-terminarz-25-kolejki-la-ligi</link>
-        <pubDate>Fri, 21 Feb 2025 18:47:00 GMT</pubDate>
-        <description>Przed nami 25. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra u siebie z Gironą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
