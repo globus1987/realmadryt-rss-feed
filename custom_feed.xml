@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 13:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 13:28:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Gironę</title>
+        <link>https://www.realmadryt.pl/news/137118-kadra-na-girone</link>
+        <pubDate>Sat, 22 Feb 2025 14:09:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie będzie mógł liczyć na trzech zawodników podczas ligowego spotkania z Gironą. Włoch powołał 21 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Od Smudy do Guardioli – 28 lat europejskich lekcji Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137109-kwadrans-ostatniego-treningu-przed-girona-video</link>
         <pubDate>Sat, 22 Feb 2025 11:27:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Gironą w La Lidze.</description>
-    </item>
-    
-    <item>
-        <title>Morderczy terminarz wielkiej trójki</title>
-        <link>https://www.realmadryt.pl/news/137117-morderczy-terminarz-wielkiej-trojki</link>
-        <pubDate>Sat, 22 Feb 2025 11:18:00 GMT</pubDate>
-        <description>Real Madryt, FC Barcelona i Atlético Madryt zagrają w najbliższych tygodnia o wszystko i w La Lidze, i Lidze Mistrzów, i w Copa del Rey. Przed wielką trójką morderczy terminarz, który naznaczy pozostałą część sezonu 2024/25.</description>
     </item>
     
 </channel>
