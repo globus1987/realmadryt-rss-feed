@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 18:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 19:17:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona na Wyspach Kanaryjskich [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/137134-barcelona-na-wyspach-kanaryjskich-live</link>
+        <pubDate>Sat, 22 Feb 2025 20:00:00 GMT</pubDate>
+        <description>Od 21:00 FC Barcelona, lider La Ligi, gra na Estadio de Gran Canaria. Rywalem Katalończyków jest 17. w tabeli Las Palmas.</description>
+    </item>
     
     <item>
         <title>Atlético gra z Valencią [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137126-zaufanie-wsparcie-rozmowy-reprymendy-koniec-z-ego-a-potem-nagle-mozemy-to-zrobic-ponownie</link>
         <pubDate>Sat, 22 Feb 2025 12:09:00 GMT</pubDate>
         <description>Real Madryt odrodził się po przerwie w derbach z Atlético. Powróciła najlepsza wersja drużyny – ta, która wierzy i czuje, że jest zdolna do wszystkiego pod wodzą Carlo Ancelottiego.</description>
-    </item>
-    
-    <item>
-        <title>„Na treningach mógł posyłać tysiąc takich długich podań”</title>
-        <link>https://www.realmadryt.pl/news/137125-na-treningach-mogl-posylac-tysiac-takich-dlugich-podan</link>
-        <pubDate>Sat, 22 Feb 2025 11:51:00 GMT</pubDate>
-        <description>Jednymi z największych zalet Raúla Asencio są jego długie podania oraz wyprowadzanie piłki, co pokazał kilka razy w tym sezonie. Jego asysty zwróciły uwagę kibiców, ale nie są czymś zaskakującym dla ludzi w Valdebebas, którzy w przeszłości pracowali z 22-latkiem.</description>
     </item>
     
 </channel>
