@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Feb 2025 20:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 21:19:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejne zwycięstwo Castilli</title>
+        <link>https://www.realmadryt.pl/news/137138-kolejne-zwyciestwo-castilli</link>
+        <pubDate>Sat, 22 Feb 2025 22:07:00 GMT</pubDate>
+        <description>W 25. kolejce Primera División Castilla pokonała Alcorcón, potwierdzając dobrą formę i chęć podłączenia się do walki o awans. Gole na wagę trzech punktów strzelili Valdepeñas i Jacobo.</description>
+    </item>
     
     <item>
         <title>Kadra Girony na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137123-courtois-i-valverde-trenowali-z-druzyna-tylko-przez-czesc-zajec</link>
         <pubDate>Sat, 22 Feb 2025 12:35:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Campazzo pomógł reprezentacji i wrócił do Madrytu</title>
-        <link>https://www.realmadryt.pl/news/137128-campazzo-pomogl-reprezentacji-i-wrocil-do-madrytu</link>
-        <pubDate>Sat, 22 Feb 2025 12:35:00 GMT</pubDate>
-        <description>Facundo Campazzo razem z reprezentacją Argentyny przegrał w Caracas z Wenezuelą. Zaliczka z pierwszego spotkania jednak wystarczyła, żeby zagwarantować Argentyńczykom awans na AmeriCup. Facundo został przez trenera zwolniony z obowiązku gry w kolejnym meczu z Kolumbią.</description>
     </item>
     
 </channel>
