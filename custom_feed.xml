@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Feb 2025 16:55:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 17:18:40 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Girona FC [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137153-real-madryt-girona-fc-live</link>
+        <title>Luka Modrić MVP meczu z Gironą</title>
+        <link>https://www.realmadryt.pl/news/137155-luka-modric-mvp-meczu-z-girona</link>
+        <pubDate>Sun, 23 Feb 2025 18:14:00 GMT</pubDate>
+        <description>Luka Modrić został wyróżniony po wygranym przez Real 2:0 spotkaniu na Estadio Santiago Bernabéu.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Gironą</title>
+        <link>https://www.realmadryt.pl/news/137152-ocen-pilkarzy-po-meczu-z-girona</link>
+        <pubDate>Sun, 23 Feb 2025 18:10:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>25. kolejka: Status quo</title>
+        <link>https://www.realmadryt.pl/news/137154-25-kolejka-status-quo</link>
+        <pubDate>Sun, 23 Feb 2025 18:09:00 GMT</pubDate>
+        <description>W 25. kolejce La Ligi Real Madryt wygrał 2:0 i utrzymał się na drugim miejscu w tabeli</description>
+    </item>
+    
+    <item>
+        <title>Skromność też jest cnotą</title>
+        <link>https://www.realmadryt.pl/news/137153-skromnosc-tez-jest-cnota</link>
         <pubDate>Sun, 23 Feb 2025 16:10:00 GMT</pubDate>
-        <description>O 16:15 na Santiago Bernabéu rozpoczął się mecz 25. kolejki La Ligi, w którym Real Madryt mierzy się z Gironą.</description>
+        <description>W meczu 25. kolejki La Ligi Real Madryt na Santiago Bernabéu pokonał Gironę 2:0. Bramki dla Królewskich zdobywali Luka Modrić i Vinícius Júnior.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/137146-duzo-i-bardzo-malo</link>
         <pubDate>Sun, 23 Feb 2025 09:10:00 GMT</pubDate>
         <description>Rezerwowi Realu Madryt rzadko dostają szansę, ale względnie często ją wykorzystują. Najbardziej w tej kwestii wyróżnia się</description>
-    </item>
-    
-    <item>
-        <title>Mbappé przeciera szlaki</title>
-        <link>https://www.realmadryt.pl/news/137144-mbappe-przeciera-szlaki</link>
-        <pubDate>Sun, 23 Feb 2025 09:00:00 GMT</pubDate>
-        <description>Kylian Mbappé w piętnastu meczach tego sezonu strzelał gola otwierającego wynik Realu Madryt. W sumie Francuz za sprawą swoich bramek zagwarantował Królewskim czternaście punktów w La Lidze.</description>
-    </item>
-    
-    <item>
-        <title>Odrodzony Rodrygo</title>
-        <link>https://www.realmadryt.pl/news/137145-odrodzony-rodrygo</link>
-        <pubDate>Sun, 23 Feb 2025 08:48:00 GMT</pubDate>
-        <description>W 2025 roku bierze udział przy golu średnio co 83,3 minuty. W ostatnich 17 meczach zdobył 10 bramek, zaliczył 6 asyst i wywalczył jeden rzut karny.</description>
-    </item>
-    
-    <item>
-        <title>Girona wydała zimą więcej niż Real</title>
-        <link>https://www.realmadryt.pl/news/137137-girona-wydala-zima-wiecej-niz-real</link>
-        <pubDate>Sun, 23 Feb 2025 08:30:00 GMT</pubDate>
-        <description>Girona pozyskała zimą jednego zawodnika. Arthur Melo, były gracz Barcelony, przeszedł do Girony w ramach wypożyczenia z Juventusu za 700 tysięcy euro.</description>
     </item>
     
 </channel>
