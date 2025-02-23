@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Feb 2025 23:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 23:38:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137168-dzisiejsze-okladki</link>
+        <pubDate>Mon, 24 Feb 2025 00:30:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Drugi dobry występ Hugo Gonzáleza w reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137153-skromnosc-tez-jest-cnota</link>
         <pubDate>Sun, 23 Feb 2025 16:10:00 GMT</pubDate>
         <description>W meczu 25. kolejki La Ligi Real Madryt na Santiago Bernabéu pokonał Gironę 2:0. Bramki dla Królewskich zdobywali Luka Modrić i Vinícius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Girona: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/137148-real-madryt-girona-znamy-sklady</link>
-        <pubDate>Sun, 23 Feb 2025 14:22:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w dzisiejszym meczu 25. kolejki La Ligi z Gironą. Spotkanie rozpocznie się o 16:15 na Estadio Santiago Bernabéu.</description>
     </item>
     
 </channel>
