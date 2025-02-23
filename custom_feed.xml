@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Feb 2025 08:26:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 08:42:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Samo życie</title>
+        <link>https://www.realmadryt.pl/news/137095-samo-zycie</link>
+        <pubDate>Sun, 23 Feb 2025 09:30:00 GMT</pubDate>
+        <description>To historia, jakich wiele.</description>
+    </item>
     
     <item>
         <title>Dużo i bardzo mało</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137135-relevo-real-nawoluje-kibicow-do-wykonywania-przyspiewek-na-temat-rfef</link>
         <pubDate>Sat, 22 Feb 2025 20:28:00 GMT</pubDate>
         <description>Wcześniej klub był przeciwny śpiewaniu tego typu tekstów, ale teraz namawia swoich fanów, aby to robili.</description>
-    </item>
-    
-    <item>
-        <title>25. kolejka: Barcelona pozostaje liderem</title>
-        <link>https://www.realmadryt.pl/news/137134-25-kolejka-barcelona-pozostaje-liderem</link>
-        <pubDate>Sat, 22 Feb 2025 20:00:00 GMT</pubDate>
-        <description>W 25. kolejce La Ligi FC Barcelona wygrała z Las Palmas 2:0 po golach Daniego Olmo i Ferrana Torresa.</description>
     </item>
     
 </channel>
