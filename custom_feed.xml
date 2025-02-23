@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Feb 2025 09:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 09:40:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 lutego</title>
+        <link>https://www.realmadryt.pl/news/137139-kartka-z-kalendarza-23-lutego</link>
+        <pubDate>Sun, 23 Feb 2025 10:30:00 GMT</pubDate>
+        <description>Udana remontada w Galicji, porażka u siebie z Getafe, hat-trick Šukera i urodziny ważnych piłkarzy w historii Królewskich. Co działo się 23 lutego?</description>
+    </item>
     
     <item>
         <title>Samo życie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137136-kadra-girony-na-mecz-z-realem</link>
         <pubDate>Sat, 22 Feb 2025 21:42:00 GMT</pubDate>
         <description>Trener jutrzejszego rywala Realu Madryt może liczyć niemal na całą kadrę pierwszego zespołu. Do Madrytu nie przyjechał jedynie jeden zawodnik, który pauzuje za czerwoną kartkę.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real nawołuje kibiców do wykonywania przyśpiewek na temat RFEF</title>
-        <link>https://www.realmadryt.pl/news/137135-relevo-real-nawoluje-kibicow-do-wykonywania-przyspiewek-na-temat-rfef</link>
-        <pubDate>Sat, 22 Feb 2025 20:28:00 GMT</pubDate>
-        <description>Wcześniej klub był przeciwny śpiewaniu tego typu tekstów, ale teraz namawia swoich fanów, aby to robili.</description>
     </item>
     
 </channel>
