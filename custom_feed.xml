@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Feb 2025 17:18:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 17:39:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alaba: Kocham Modricia</title>
+        <link>https://www.realmadryt.pl/news/137157-alaba-kocham-modricia</link>
+        <pubDate>Sun, 23 Feb 2025 18:33:00 GMT</pubDate>
+        <description>David Alaba udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Gironą. Przedstawiamy wypowiedzi defensora Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Modrić: Strzelanie goli na Bernabéu to zawsze coś wyjątkowego</title>
+        <link>https://www.realmadryt.pl/news/137156-modric-strzelanie-goli-na-bernabeu-to-zawsze-cos-wyjatkowego</link>
+        <pubDate>Sun, 23 Feb 2025 18:23:00 GMT</pubDate>
+        <description>Luka Modrić udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Gironą. Przedstawiamy wypowiedzi kapitana Realu Madryt z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Luka Modrić MVP meczu z Gironą</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137139-kartka-z-kalendarza-23-lutego</link>
         <pubDate>Sun, 23 Feb 2025 10:30:00 GMT</pubDate>
         <description>Udana remontada w Galicji, porażka u siebie z Getafe, hat-trick Šukera i urodziny ważnych piłkarzy w historii Królewskich. Co działo się 23 lutego?</description>
-    </item>
-    
-    <item>
-        <title>Samo życie</title>
-        <link>https://www.realmadryt.pl/news/137095-samo-zycie</link>
-        <pubDate>Sun, 23 Feb 2025 09:30:00 GMT</pubDate>
-        <description>To historia, jakich wiele.</description>
-    </item>
-    
-    <item>
-        <title>Dużo i bardzo mało</title>
-        <link>https://www.realmadryt.pl/news/137146-duzo-i-bardzo-malo</link>
-        <pubDate>Sun, 23 Feb 2025 09:10:00 GMT</pubDate>
-        <description>Rezerwowi Realu Madryt rzadko dostają szansę, ale względnie często ją wykorzystują. Najbardziej w tej kwestii wyróżnia się</description>
     </item>
     
 </channel>
