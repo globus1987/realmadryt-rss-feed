@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Feb 2025 10:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 11:17:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tebas: Real to klub płaczek</title>
+        <link>https://www.realmadryt.pl/news/137150-tebas-real-to-klub-placzek</link>
+        <pubDate>Sun, 23 Feb 2025 12:07:00 GMT</pubDate>
+        <description>Javier Tebas, prezes La Ligi, udzielił obszernego wywiadu dla The Objective, w którym poruszył wiele kwestii związanych z Realem Madryt. Przedstawiamy jego najważniejsze wypowiedzi z tej rozmowy.</description>
+    </item>
+    
+    <item>
+        <title>Coś jest na rzeczy z Franem Gonzalezem</title>
+        <link>https://www.realmadryt.pl/news/137149-cos-jest-na-rzeczy-z-franem-gonzalezem</link>
+        <pubDate>Sun, 23 Feb 2025 12:00:00 GMT</pubDate>
+        <description>Coś jest na rzeczy z Franem Gonzalezem. Trzeci bramkarz Ancelottiego przestał się liczyć dla Raula w Castilli, a decyzja ta budzi w Valdebebas kontrowersje, pisze MARCA.</description>
+    </item>
     
     <item>
         <title>Pięciokrotny trener Girony i pierwszy Hiszpan na angielskich boiskach</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137141-ancelotti-najwazniejsze-ze-klub-jest-zadowolony-z-mojej-pracy</link>
         <pubDate>Sun, 23 Feb 2025 05:30:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Gironą. Poniżej przedstawiamy pełny zapis tego spotkania szkoleniowca Królewskich z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/137140-dzisiejsze-okladki</link>
-        <pubDate>Sun, 23 Feb 2025 00:19:00 GMT</pubDate>
-        <description>Wyniki Atlético i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kolejne zwycięstwo Castilli</title>
-        <link>https://www.realmadryt.pl/news/137138-kolejne-zwyciestwo-castilli</link>
-        <pubDate>Sat, 22 Feb 2025 22:07:00 GMT</pubDate>
-        <description>W 25. kolejce Primera División Castilla pokonała Alcorcón, potwierdzając dobrą formę i chęć podłączenia się do walki o awans. Gole na wagę trzech punktów strzelili Valdepeñas i Jacobo.</description>
     </item>
     
 </channel>
