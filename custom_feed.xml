@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Feb 2025 05:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 06:33:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jesteśmy zadowoleni, bo po Lidze Mistrzów zdarzają się mecze pułapki</title>
+        <link>https://www.realmadryt.pl/news/137161-ancelotti-jestesmy-zadowoleni-bo-po-lidze-mistrzow-zdarzaja-sie-mecze-pulapki</link>
+        <pubDate>Mon, 24 Feb 2025 07:25:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Gironą na Santiago Bernabéu. Przedstawiamy wypowiedzi szkoleniowca Realu Madryt.</description>
+    </item>
     
     <item>
         <title>(Prawie) 40 lat to nic</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137152-ocen-pilkarzy-po-meczu-z-girona</link>
         <pubDate>Sun, 23 Feb 2025 18:10:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>25. kolejka: Status quo</title>
-        <link>https://www.realmadryt.pl/news/137154-25-kolejka-status-quo</link>
-        <pubDate>Sun, 23 Feb 2025 18:09:00 GMT</pubDate>
-        <description>W 25. kolejce La Ligi Real Madryt wygrał 2:0 i utrzymał się na drugim miejscu w tabeli</description>
     </item>
     
 </channel>
