@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Feb 2025 06:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 07:21:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real wygrał w białych rękawiczkach</title>
+        <link>https://www.realmadryt.pl/news/137170-real-wygral-w-bialych-rekawiczkach</link>
+        <pubDate>Mon, 24 Feb 2025 08:19:00 GMT</pubDate>
+        <description>Królewscy i ich rywale z Katalonii rozegrali niezwykle czyste spotkanie, w którym sędzia nie miał zbyt wiele do roboty.</description>
+    </item>
+    
+    <item>
+        <title>Terminarz 27. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/137162-terminarz-27-kolejki-la-ligi</link>
+        <pubDate>Mon, 24 Feb 2025 08:18:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 27. kolejki, która zostanie rozegrana pomiędzy dwumeczami 1/8 finału Ligi Mistrzów. Real Madryt zmierzy się u siebie z Rayo Vallecano.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jesteśmy zadowoleni, bo po Lidze Mistrzów zdarzają się mecze pułapki</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137156-modric-strzelanie-goli-na-bernabeu-to-zawsze-cos-wyjatkowego</link>
         <pubDate>Sun, 23 Feb 2025 18:23:00 GMT</pubDate>
         <description>Luka Modrić udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Gironą. Przedstawiamy wypowiedzi kapitana Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Luka Modrić MVP meczu z Gironą</title>
-        <link>https://www.realmadryt.pl/news/137155-luka-modric-mvp-meczu-z-girona</link>
-        <pubDate>Sun, 23 Feb 2025 18:14:00 GMT</pubDate>
-        <description>Luka Modrić został wyróżniony po wygranym przez Real 2:0 spotkaniu na Estadio Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Gironą</title>
-        <link>https://www.realmadryt.pl/news/137152-ocen-pilkarzy-po-meczu-z-girona</link>
-        <pubDate>Sun, 23 Feb 2025 18:10:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
