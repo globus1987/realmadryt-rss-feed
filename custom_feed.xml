@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Feb 2025 23:21:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 23:39:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137193-dzisiejsze-okladki</link>
+        <pubDate>Tue, 25 Feb 2025 00:26:00 GMT</pubDate>
+        <description>Mecze w Pucharze Króla to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>COPE: Komitet Dyscyplinarny wszczyna postępowanie wobec Realu Madryt za list przeciwko sędziom</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137178-flick-w-hiszpanii-zawsze-dzieja-sie-rzeczy-ktore-mnie-zaskakuja-szczegolnie-jesli-chodzi-o-barcelone</link>
         <pubDate>Mon, 24 Feb 2025 14:32:00 GMT</pubDate>
         <description>Hansi Flick wziął udział w konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/137177-dzisiejszy-trening</link>
-        <pubDate>Mon, 24 Feb 2025 13:27:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
