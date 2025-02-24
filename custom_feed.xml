@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Feb 2025 10:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 11:19:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Gironą</title>
+        <link>https://www.realmadryt.pl/news/137169-oceny-zawodnikow-po-meczu-z-girona</link>
+        <pubDate>Mon, 24 Feb 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Gironą 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Dużo okazji, mało goli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137161-ancelotti-jestesmy-zadowoleni-bo-po-lidze-mistrzow-zdarzaja-sie-mecze-pulapki</link>
         <pubDate>Mon, 24 Feb 2025 07:25:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Gironą na Santiago Bernabéu. Przedstawiamy wypowiedzi szkoleniowca Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>(Prawie) 40 lat to nic</title>
-        <link>https://www.realmadryt.pl/news/137167-prawie-40-lat-to-nic</link>
-        <pubDate>Mon, 24 Feb 2025 05:30:00 GMT</pubDate>
-        <description>Mimo że nie jest podstawowym zawodnikiem, Modrić ma już na koncie cztery gole i sześć asyst. W meczu z Gironą był najbardziej zaangażowanym graczem i stworzył najwięcej okazji. Chce grać jeszcze przez kolejny rok.</description>
     </item>
     
 </channel>
