@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Feb 2025 04:26:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 04:43:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>(Prawie) 40 lat to nic</title>
+        <link>https://www.realmadryt.pl/news/137167-prawie-40-lat-to-nic</link>
+        <pubDate>Mon, 24 Feb 2025 05:30:00 GMT</pubDate>
+        <description>Mimo że nie jest podstawowym zawodnikiem, Modrić ma już na koncie cztery gole i sześć asyst. W meczu z Gironą był najbardziej zaangażowanym graczem i stworzył najwięcej okazji. Chce grać jeszcze przez kolejny rok.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137154-25-kolejka-status-quo</link>
         <pubDate>Sun, 23 Feb 2025 18:09:00 GMT</pubDate>
         <description>W 25. kolejce La Ligi Real Madryt wygrał 2:0 i utrzymał się na drugim miejscu w tabeli</description>
-    </item>
-    
-    <item>
-        <title>Skromność też jest cnotą</title>
-        <link>https://www.realmadryt.pl/news/137153-skromnosc-tez-jest-cnota</link>
-        <pubDate>Sun, 23 Feb 2025 16:10:00 GMT</pubDate>
-        <description>W meczu 25. kolejki La Ligi Real Madryt na Santiago Bernabéu pokonał Gironę 2:0. Bramki dla Królewskich zdobywali Luka Modrić i Vinícius Júnior.</description>
     </item>
     
 </channel>
