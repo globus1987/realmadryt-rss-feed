@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Feb 2025 05:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 06:32:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/137192-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 25 Feb 2025 07:25:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 25. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Courtois – zapomniany bohater</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137181-ancelotti-wreszcie-sklada-ukladanke-w-calosc</link>
         <pubDate>Mon, 24 Feb 2025 16:17:00 GMT</pubDate>
         <description>Powrót Alaby to ostatnia dobra wiadomość, która łagodzi problemy trenera w defensywie i daje mu więcej możliwości przy ustalaniu składów oraz planowaniu meczów.</description>
-    </item>
-    
-    <item>
-        <title>Sánchez Martínez na pierwszy mecz z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/137179-sanchez-martinez-na-pierwszy-mecz-z-realem-sociedad</link>
-        <pubDate>Mon, 24 Feb 2025 14:34:00 GMT</pubDate>
-        <description>Najbliższy mecz Realu Madryt poprowadzi arbiter pochodzący z Lorki. Dotychczas sędziował aż 37 spotkań z udziałem Królewskich i 23 z udziałem Realu Sociedad.</description>
     </item>
     
 </channel>
