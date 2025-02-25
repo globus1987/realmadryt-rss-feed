@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Feb 2025 11:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 11:39:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Tebas za dużo mówi o Realu Madryt, a najbardziej uderza mnie to, że okazuje brak szacunku milionom madridistas</title>
+        <link>https://www.realmadryt.pl/news/137206-ancelotti-tebas-za-duzo-mowi-o-realu-madryt-a-najbardziej-uderza-mnie-to-ze-okazuje-brak-szacunku-milionom-madridistas</link>
+        <pubDate>Tue, 25 Feb 2025 12:34:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Realem Sociedad w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
+    
+    <item>
+        <title>Ostatni trening przed Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/137205-ostatni-trening-przed-realem-sociedad</link>
+        <pubDate>Tue, 25 Feb 2025 12:23:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Louis Vuitton ma zastąpić Zegnę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137196-relevo-courtois-i-valverde-nie-zagraja-z-realem-sociedad</link>
         <pubDate>Tue, 25 Feb 2025 09:02:00 GMT</pubDate>
         <description>Ancelotti zdecydował się dać odpocząć Urugwajczykowi i Belgowi, którzy mają w nogach wiele minut gry.</description>
-    </item>
-    
-    <item>
-        <title>Mesut Özil został politykiem w Turcji</title>
-        <link>https://www.realmadryt.pl/news/137195-mesut-oezil-zostal-politykiem-w-turcji</link>
-        <pubDate>Tue, 25 Feb 2025 08:46:00 GMT</pubDate>
-        <description>Były piłkarz dołączył do narodowo-konserwatywnej Partii Sprawiedliwości i Rozwoju, która rządzi w Turcji.</description>
-    </item>
-    
-    <item>
-        <title>Olasagasti: Real Madryt odzyskał już najlepszą wersję Mbappé</title>
-        <link>https://www.realmadryt.pl/news/137188-olasagasti-real-madryt-odzyskal-juz-najlepsza-wersje-mbappe</link>
-        <pubDate>Tue, 25 Feb 2025 08:18:00 GMT</pubDate>
-        <description>Pomocnik Realu Sociedad, Jon Ander Olasagasti, podzielił się swoimi odczuciami przed meczem z Realem Madryt w półfinale Copa del Rey. Poniżej przedstawiamy zapis rozmowy z baskijskim zawodnikiem.</description>
     </item>
     
 </channel>
