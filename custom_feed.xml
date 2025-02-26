@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Feb 2025 23:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 01:49:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137221-dzisiejsze-okladki</link>
+        <pubDate>Wed, 26 Feb 2025 01:05:00 GMT</pubDate>
+        <description>Remis Barcelony i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewscy nie podali kadry na mecz z Realem Sociedad</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137207-marca-modric-chce-pojechac-na-mundial-jako-zawodnik-realu</link>
         <pubDate>Tue, 25 Feb 2025 12:40:00 GMT</pubDate>
         <description>Jest przekonany, że ma nadal odpowiednią jakość i jest gotowy mentalnie na kolejną kampanię w stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Tebas za dużo mówi o Realu Madryt, a najbardziej uderza mnie to, że okazuje brak szacunku milionom madridistas</title>
-        <link>https://www.realmadryt.pl/news/137206-ancelotti-tebas-za-duzo-mowi-o-realu-madryt-a-najbardziej-uderza-mnie-to-ze-okazuje-brak-szacunku-milionom-madridistas</link>
-        <pubDate>Tue, 25 Feb 2025 12:34:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Realem Sociedad w Pucharze Króla. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
