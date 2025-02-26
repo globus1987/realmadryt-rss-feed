@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Feb 2025 09:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 09:54:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Real Sociedad</title>
+        <link>https://www.realmadryt.pl/news/137208-kadra-na-real-sociedad</link>
+        <pubDate>Wed, 26 Feb 2025 10:49:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu podczas półfinałowego meczu Pucharu Króla z Realem Sociedad. Włoch powołał 21 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Może jesteście już zmęczeni oglądaniem codziennie mojej twarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137219-valdano-masz-odczucie-ze-istnieje-projekt-majacy-na-celu-oglupienie-futbolu</link>
         <pubDate>Tue, 25 Feb 2025 20:16:00 GMT</pubDate>
         <description>Jorge Valdano gościł w Instytucie Cervantesa w Madrycie, gdzie podzielił się swoimi spostrzeżeniami na temat futbolu. Przedstawiamy wypowiedzi byłego piłkarza, trenera i dyrektora generalnego Realu Madryt z tej prelekcji.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Arabia Saudyjska czeka na odpowiedni moment w sprawie Viniciusa</title>
-        <link>https://www.realmadryt.pl/news/137217-relevo-arabia-saudyjska-czeka-na-odpowiedni-moment-w-sprawie-viniciusa</link>
-        <pubDate>Tue, 25 Feb 2025 19:18:00 GMT</pubDate>
-        <description>Jakkolwiek Carlo Ancelotti będzie próbował unikać odpowiedzi na pytania dotyczące przyszłości Viniciusa w szatni temat jest obecny. Trudno uciec przed taką bombą i nawet ci zawodnicy, którzy na co dzień starają się trzymać z dala od mediów i portali społecznościowych, żyją tym, co dzieje się wokół Brazylijczyka, donosi Relevo.</description>
     </item>
     
 </channel>
