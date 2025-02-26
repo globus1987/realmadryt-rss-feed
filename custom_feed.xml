@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Feb 2025 22:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 22:41:39 GMT</lastBuildDate>
     
     <item>
-        <title>Real Sociedad – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137241-real-sociedad-real-madryt-live</link>
+        <title>Ceballos mógł nabawić się poważnej kontuzji!</title>
+        <link>https://www.realmadryt.pl/news/137244-ceballos-mogl-nabawic-sie-powaznej-kontuzji</link>
+        <pubDate>Wed, 26 Feb 2025 23:39:00 GMT</pubDate>
+        <description>Hiszpan nie dokończył meczu z Realem Sociedad i miał problemy z poruszaniem się o własnych siłach.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/137243-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
+        <pubDate>Wed, 26 Feb 2025 23:34:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Zaliczka przed rewanżem na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/137241-zaliczka-przed-rewanzem-na-bernabeu</link>
         <pubDate>Wed, 26 Feb 2025 21:25:00 GMT</pubDate>
-        <description>Od 21:00 zawodnicy Realu Madryt i Realu Sociedad rywalizują o miejsce w finale Pucharu Króla.</description>
+        <description>W pierwszym meczu półfinału Pucharu Króla Real Madryt wygrał na wyjeździe z Realem Sociedad 1:0 po trafieniu Endricka. Rewanż odbędzie się 1 kwietnia.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137232-zubimendi-mozg-szachow-i-futbolu-za-ktorym-wzdycha-pol-europy-odmowa-liverpoolowi-jego-idol-xabi-zainteresowanie-realu</link>
         <pubDate>Wed, 26 Feb 2025 13:04:00 GMT</pubDate>
         <description>Pomocnik Realu Sociedad ma klauzulę wykupu wynoszącą 60 milionów euro i kontrakt do 2027 roku. Jego występ w finale EURO, gdy zastąpił Rodriego, przyciągnął wiele spojrzeń. Tego lata zdecyduje o swojej przyszłości. Sytuację pomocnika na łamach El Mundo opisuje Abraham P. Romero. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Komitet Rozgrywek anulował czerwoną kartkę Antony'ego, który będzie mógł zagrać z Realem</title>
-        <link>https://www.realmadryt.pl/news/137231-komitet-rozgrywek-anulowal-czerwona-kartke-antonyego-ktory-bedzie-mogl-zagrac-z-realem</link>
-        <pubDate>Wed, 26 Feb 2025 12:04:00 GMT</pubDate>
-        <description>W najbliższą sobotę Brazylijczyk będzie mógł wystąpić w spotkaniu przeciwko Realowi Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé nadal odczuwa ból po ekstrakcji zęba i nie zagra z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/137230-mbappe-nadal-odczuwa-bol-po-ekstrakcji-zeba-i-nie-zagra-z-realem-sociedad</link>
-        <pubDate>Wed, 26 Feb 2025 11:47:00 GMT</pubDate>
-        <description>Francuz zostaje w Madrycie i nie zagra dzisiaj na Estadio Anoeta.</description>
     </item>
     
 </channel>
