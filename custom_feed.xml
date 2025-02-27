@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Feb 2025 13:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 13:56:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bez błysku, ale z docenieniem</title>
+        <link>https://www.realmadryt.pl/news/137268-bez-blysku-ale-z-docenieniem</link>
+        <pubDate>Thu, 27 Feb 2025 14:50:00 GMT</pubDate>
+        <description>Mecz z Realem Sociedad w Pucharze Króla nie okazał się kojącym balsamem dla Ardy Gülera. Choć Turkowi nie można zarzucić braku ciężkiej pracy, którą zresztą docenił Ancelotti, to jednak jego występ był pozbawiony większego błysku.</description>
+    </item>
     
     <item>
         <title>Zmarł Javier Dorado</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137242-mateo-z-ta-czternastka-zawodnikow-bedziemy-walczyc-do-konca-sezonu</link>
         <pubDate>Thu, 27 Feb 2025 10:29:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed meczem z Barceloną. Odniósł się na niej między innymi do sytuacji z Dennisem Smithem oraz zdradził szczegóły dotyczące etapu rehabilitacji, na jakim znajduje się Gabriel Deck.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 27 lutego</title>
-        <link>https://www.realmadryt.pl/news/137246-kartka-z-kalendarza-27-lutego</link>
-        <pubDate>Thu, 27 Feb 2025 10:29:00 GMT</pubDate>
-        <description>Dymisja Florentino Péreza, wysoka wygrana na Teneryfie, urodziny byłego bramkarza i porażki z Atlético, Espanyolem i Barceloną. Co działo się 27 lutego?</description>
     </item>
     
 </channel>
