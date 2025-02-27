@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Feb 2025 22:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 23:22:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137285-dzisiejsze-okladki</link>
+        <pubDate>Fri, 28 Feb 2025 00:09:00 GMT</pubDate>
+        <description>Kontuzja Daniego Ceballosa, dokonania młodych graczy Realu oraz sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: Klasyk zawsze dodaje ci pewności siebie, albo ci ją zabiera</title>
+        <link>https://www.realmadryt.pl/news/137283-mateo-klasyk-zawsze-dodaje-ci-pewnosci-siebie-albo-ci-ja-zabiera</link>
+        <pubDate>Thu, 27 Feb 2025 23:58:00 GMT</pubDate>
+        <description>Chus Mateo wypowiedział się po wygranym meczu z Barceloną. Mówił o tym, że to spotkanie było bardzo ważne dla drużyny, ale nie kluczowe.</description>
+    </item>
     
     <item>
         <title>Drenthe: Mourinho nie miał jaj powiedzieć mi, żebym odszedł</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137269-benito-villamarin-nie-jest-twierdza-ale</link>
         <pubDate>Thu, 27 Feb 2025 15:00:00 GMT</pubDate>
         <description>Domowe mecze Verdiblancos w tym sezonie mają pewien paradoks, bo gospodarze najlepiej grają w nich z czołowymi klubami La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Bez błysku, ale z docenieniem</title>
-        <link>https://www.realmadryt.pl/news/137268-bez-blysku-ale-z-docenieniem</link>
-        <pubDate>Thu, 27 Feb 2025 14:50:00 GMT</pubDate>
-        <description>Mecz z Realem Sociedad w Pucharze Króla nie okazał się kojącym balsamem dla Ardy Gülera. Choć Turkowi nie można zarzucić braku ciężkiej pracy, którą zresztą docenił Ancelotti, to jednak jego występ był pozbawiony większego błysku.</description>
-    </item>
-    
-    <item>
-        <title>Zmarł Javier Dorado</title>
-        <link>https://www.realmadryt.pl/news/137267-zmarl-javier-dorado</link>
-        <pubDate>Thu, 27 Feb 2025 14:22:00 GMT</pubDate>
-        <description>Real Madryt w oficjalnym komunikacie poinformował o śmierci Javiera Dorado, czyli swojego byłego zawodnika, który wychował się w szkółce Królewskich.</description>
     </item>
     
 </channel>
