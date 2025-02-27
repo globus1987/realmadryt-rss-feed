@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Feb 2025 04:27:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 04:44:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Sędzia przerwał mecz przez przyśpiewki kibiców Realu Sociedad i po reakcji Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/137250-oficjalnie-sedzia-przerwal-mecz-przez-przyspiewki-kibicow-realu-sociedad-i-po-reakcji-viniciusa</link>
+        <pubDate>Thu, 27 Feb 2025 05:30:00 GMT</pubDate>
+        <description>Fatalne zachowanie fanów na Estadio Anoeta.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137238-relevo-real-planuje-letnie-okno-transferowe-z-duzym-spokojem</link>
         <pubDate>Wed, 26 Feb 2025 18:18:00 GMT</pubDate>
         <description>W Madrycie szykuje się lato praktycznie bez żadnych wzmocnień, choć wszystko zależy od tego, jak zakończy się trwający sezon, informuje Relevo.</description>
-    </item>
-    
-    <item>
-        <title>Jeden mecz w ciągu 18 dni</title>
-        <link>https://www.realmadryt.pl/news/137237-jeden-mecz-w-ciagu-18-dni</link>
-        <pubDate>Wed, 26 Feb 2025 17:52:00 GMT</pubDate>
-        <description>Jude Bellingham podczas napiętego terminarza całego zespołu rozegra zaledwie jeden mecz w ciągu osiemnastu dni. Przez zawieszenia w La Lidze i w Lidze Mistrzów angielski pomocnik może zagrać tylko dzisiaj z Realem Sociedad w Copa del Rey.</description>
     </item>
     
 </channel>
