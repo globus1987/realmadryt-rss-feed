@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Feb 2025 10:56:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 11:19:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hernández Hernández na Betis</title>
+        <link>https://www.realmadryt.pl/news/137260-hernandez-hernandez-na-betis</link>
+        <pubDate>Thu, 27 Feb 2025 12:01:00 GMT</pubDate>
+        <description>42-latek z Wysp Kanaryjskich poprowadzi sobotni mecz Betisu z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Álex Baena: Gdyby pojawiła się taka możliwość, chętnie bym usiadł i porozmawiał z Valverde</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137252-endrick-dla-mnie-wazne-jest-pomaganie-zespolowi</link>
         <pubDate>Thu, 27 Feb 2025 07:25:00 GMT</pubDate>
         <description>Endrik udzielił wywiadu dla klubowej telewizji po wygranym 1:0 pierwszym półfinale Pucharu Króla z Realem Sociedad. Przedstawiamy wypowiedzi autora zwycięskiej bramki dla Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Sędzia przerwał mecz przez przyśpiewki kibiców Realu Sociedad i po reakcji Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/137250-oficjalnie-sedzia-przerwal-mecz-przez-przyspiewki-kibicow-realu-sociedad-i-po-reakcji-viniciusa</link>
-        <pubDate>Thu, 27 Feb 2025 05:30:00 GMT</pubDate>
-        <description>Fatalne zachowanie fanów na Estadio Anoeta.</description>
     </item>
     
 </channel>
