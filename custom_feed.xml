@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Feb 2025 12:47:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 13:29:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmarł Javier Dorado</title>
+        <link>https://www.realmadryt.pl/news/137267-zmarl-javier-dorado</link>
+        <pubDate>Thu, 27 Feb 2025 14:22:00 GMT</pubDate>
+        <description>Real Madryt w oficjalnym komunikacie poinformował o śmierci Javiera Dorado, czyli swojego byłego zawodnika, który wychował się w szkółce Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/137265-oceny-zawodnikow-po-meczu-z-realem-sociedad</link>
+        <pubDate>Thu, 27 Feb 2025 14:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z Realem Sociedad 1:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Ceballos: Wychodziłem z gorszych rzeczy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137246-kartka-z-kalendarza-27-lutego</link>
         <pubDate>Thu, 27 Feb 2025 10:29:00 GMT</pubDate>
         <description>Dymisja Florentino Péreza, wysoka wygrana na Teneryfie, urodziny byłego bramkarza i porażki z Atlético, Espanyolem i Barceloną. Co działo się 27 lutego?</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger po meczu z Realem Sociedad: „Niech żyje Athletic Bilbao!”</title>
-        <link>https://www.realmadryt.pl/news/137258-ruediger-po-meczu-z-realem-sociedad-niech-zyje-athletic-bilbao</link>
-        <pubDate>Thu, 27 Feb 2025 10:29:00 GMT</pubDate>
-        <description>Słowa Niemca nie były skierowane do rywali, a do kolegów z zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Imanol: Jeśli Real Madryt chce być w finale, będzie musiał rozegrać wielki mecz</title>
-        <link>https://www.realmadryt.pl/news/137256-imanol-jesli-real-madryt-chce-byc-w-finale-bedzie-musial-rozegrac-wielki-mecz</link>
-        <pubDate>Thu, 27 Feb 2025 09:31:00 GMT</pubDate>
-        <description>Trener Realu Sociedad, Imanol Alguacil, spotkał się z dziennikarzami po porażce z Realem Madryt w Copa del Rey. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
