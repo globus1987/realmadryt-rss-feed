@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Feb 2025 23:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 01:50:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137253-dzisiejsze-okladki</link>
+        <pubDate>Thu, 27 Feb 2025 00:53:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Sociedad 0:1 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137237-jeden-mecz-w-ciagu-18-dni</link>
         <pubDate>Wed, 26 Feb 2025 17:52:00 GMT</pubDate>
         <description>Jude Bellingham podczas napiętego terminarza całego zespołu rozegra zaledwie jeden mecz w ciągu osiemnastu dni. Przez zawieszenia w La Lidze i w Lidze Mistrzów angielski pomocnik może zagrać tylko dzisiaj z Realem Sociedad w Copa del Rey.</description>
-    </item>
-    
-    <item>
-        <title>AS: Oburzenie w Madrycie z powodu anulowania czerwonej kartki Antony’ego</title>
-        <link>https://www.realmadryt.pl/news/137236-as-oburzenie-w-madrycie-z-powodu-anulowania-czerwonej-kartki-antony-ego</link>
-        <pubDate>Wed, 26 Feb 2025 14:26:00 GMT</pubDate>
-        <description>W klubie z Madrytu podkreślają, że Komitet Rozgrywek „ignoruje argumenty prawne”, i zapewniają: „Nie spuścimy głowy wobec takiej bezczelności”. Dla Komitetu Technicznego Arbitrów była to ewidentna czerwona kartka.</description>
     </item>
     
 </channel>
