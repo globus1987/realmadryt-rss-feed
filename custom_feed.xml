@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Feb 2025 14:55:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:24:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Betisu na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/137300-kadra-betisu-na-mecz-z-realem</link>
+        <pubDate>Fri, 28 Feb 2025 15:58:00 GMT</pubDate>
+        <description>Betis podejdzie do meczu z Realem Madryt nieco osłabiony, ponieważ Manuel Pellegrini nie może liczyć na kilku kontuzjowanych.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Dennis Smith Jr. nie jest już zawodnikiem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137275-kartka-z-kalendarza-28-lutego</link>
         <pubDate>Fri, 28 Feb 2025 09:38:00 GMT</pubDate>
         <description>Wygrana z Juventusem w Pucharze Europy, urodziny Luki i wyjazdowa wygrana z Espanyolem. Co działo się 28 lutego?</description>
-    </item>
-    
-    <item>
-        <title>Kontuzja, która jest ciosem dla Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/137288-kontuzja-ktora-jest-ciosem-dla-ancelottiego</link>
-        <pubDate>Fri, 28 Feb 2025 09:08:00 GMT</pubDate>
-        <description>Plan włoskiego trenera mocno się chwieje po poważnej kontuzji hiszpańskiego pomocnika.</description>
     </item>
     
 </channel>
