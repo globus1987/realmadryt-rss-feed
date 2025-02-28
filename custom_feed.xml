@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Feb 2025 22:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 23:21:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137306-dzisiejsze-okladki</link>
+        <pubDate>Sat, 01 Mar 2025 00:08:00 GMT</pubDate>
+        <description>Mecz Realu z Betisem i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 26. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137293-ancelotti-valverde-odczuwa-drobny-dyskomfort-i-nie-bedzie-jutro-dostepny-ale-na-nastepny-mecz-juz-tak</link>
         <pubDate>Fri, 28 Feb 2025 12:42:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Realem Betis w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Sześciu piłkarzy nie trenowało z drużyną</title>
-        <link>https://www.realmadryt.pl/news/137294-szesciu-pilkarzy-nie-trenowalo-z-druzyna</link>
-        <pubDate>Fri, 28 Feb 2025 12:29:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
