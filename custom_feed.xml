@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 23:38:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 23:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137333-dzisiejsze-okladki</link>
+        <pubDate>Sun, 02 Mar 2025 00:45:00 GMT</pubDate>
+        <description>Porażka Realu, wygrana Atlético i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137318-camavinga-przed-szansa-wyjscia-na-prosta</link>
         <pubDate>Sat, 01 Mar 2025 13:26:00 GMT</pubDate>
         <description>Eduardo Camavinga przechodzi przez sezon pełen przeciwności losu. Z powodu kontuzji przegapił aż 18 meczów, co stanowi 42% wszystkich spotkań. Ancelotti nie przestaje go jednak wspierać.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Sewilli</title>
-        <link>https://www.realmadryt.pl/news/137316-krolewscy-sa-juz-w-sewilli</link>
-        <pubDate>Sat, 01 Mar 2025 12:05:00 GMT</pubDate>
-        <description>Królewscy dotarli już do Andaluzji, gdzie Królewscy zmierzą się dzisiaj z Realem Betis w ramach 26. kolejki La Ligi.</description>
     </item>
     
 </channel>
