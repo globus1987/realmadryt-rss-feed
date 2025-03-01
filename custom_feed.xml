@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 10:53:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 11:17:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Sewilli</title>
+        <link>https://www.realmadryt.pl/news/137316-krolewscy-sa-juz-w-sewilli</link>
+        <pubDate>Sat, 01 Mar 2025 12:05:00 GMT</pubDate>
+        <description>Królewscy dotarli już do Andaluzji, gdzie Królewscy zmierzą się dzisiaj z Realem Betis w ramach 26. kolejki La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>Diego Llorente: Młodzi zawodnicy powinni brać przykład z takich piłkarzy jak Isco i Modrić</title>
+        <link>https://www.realmadryt.pl/news/137310-diego-llorente-mlodzi-zawodnicy-powinni-brac-przyklad-z-takich-pilkarzy-jak-isco-i-modric</link>
+        <pubDate>Sat, 01 Mar 2025 12:00:00 GMT</pubDate>
+        <description>Diego Llorente udzielił wywiadu dziennikowi MARCA. Wychowanek Realu Madryt opowiadał o swoim pobycie w stolicy Hiszpanii i w Andaluzji.</description>
+    </item>
     
     <item>
         <title>Pellegrini nie pokonał jeszcze Realu jako trener Betisu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137306-dzisiejsze-okladki</link>
         <pubDate>Sat, 01 Mar 2025 00:08:00 GMT</pubDate>
         <description>Mecz Realu z Betisem i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 26. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/137276-telewizyjny-terminarz-26-kolejki-la-ligi</link>
-        <pubDate>Fri, 28 Feb 2025 20:00:00 GMT</pubDate>
-        <description>Przed nami 26. kolejka sezonu 2024/25 La Ligi. Real Madryt zagra na wyjeździe z Betisem. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Wytypuj, że Królewscy wygrają z Betisem i odbierz 200 zł!</title>
-        <link>https://www.realmadryt.pl/news/137304-wytypuj-ze-krolewscy-wygraja-z-betisem-i-odbierz-200-zl</link>
-        <pubDate>Fri, 28 Feb 2025 18:45:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
