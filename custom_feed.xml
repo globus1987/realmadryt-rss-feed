@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 21:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 21:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce</title>
+        <link>https://www.realmadryt.pl/news/137329-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce</link>
+        <pubDate>Sat, 01 Mar 2025 22:22:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po porażce z Betisem. To efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jeśli zagramy tak we wtorek, to przegramy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137316-krolewscy-sa-juz-w-sewilli</link>
         <pubDate>Sat, 01 Mar 2025 12:05:00 GMT</pubDate>
         <description>Królewscy dotarli już do Andaluzji, gdzie Królewscy zmierzą się dzisiaj z Realem Betis w ramach 26. kolejki La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Diego Llorente: Młodzi zawodnicy powinni brać przykład z takich piłkarzy jak Isco i Modrić</title>
-        <link>https://www.realmadryt.pl/news/137310-diego-llorente-mlodzi-zawodnicy-powinni-brac-przyklad-z-takich-pilkarzy-jak-isco-i-modric</link>
-        <pubDate>Sat, 01 Mar 2025 12:00:00 GMT</pubDate>
-        <description>Diego Llorente udzielił wywiadu dziennikowi MARCA. Wychowanek Realu Madryt opowiadał o swoim pobycie w stolicy Hiszpanii i w Andaluzji.</description>
     </item>
     
 </channel>
