@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 07:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 08:27:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>To są te detale</title>
+        <link>https://www.realmadryt.pl/news/137298-to-sa-te-detale</link>
+        <pubDate>Sat, 01 Mar 2025 09:09:00 GMT</pubDate>
+        <description>Dowiedz się więcej o sobie! Czy jesteś gotów rozwiązać ten test?</description>
+    </item>
     
     <item>
         <title>Vinícius coraz bliżej Ronaldo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137300-kadra-betisu-na-mecz-z-realem</link>
         <pubDate>Fri, 28 Feb 2025 15:58:00 GMT</pubDate>
         <description>Betis podejdzie do meczu z Realem Madryt nieco osłabiony, ponieważ Manuel Pellegrini nie może liczyć na kilku kontuzjowanych.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Dennis Smith Jr. nie jest już zawodnikiem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/137299-oficjalnie-dennis-smith-jr-nie-jest-juz-zawodnikiem-realu-madryt</link>
-        <pubDate>Fri, 28 Feb 2025 15:18:00 GMT</pubDate>
-        <description>Dennis Smith Jr. zostanie zapamiętany jako jeden z najgorszych transferów Realu Madryt. Nie zdołał się zaadaptować w stolicy Hiszpanii i wrócił już do Stanów Zjednoczonych, gdzie zamierza dalej walczyć o powrót do NBA.</description>
     </item>
     
 </channel>
