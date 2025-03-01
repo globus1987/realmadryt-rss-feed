@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 10:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 10:53:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pellegrini nie pokonał jeszcze Realu jako trener Betisu</title>
+        <link>https://www.realmadryt.pl/news/137315-pellegrini-nie-pokonal-jeszcze-realu-jako-trener-betisu</link>
+        <pubDate>Sat, 01 Mar 2025 11:53:00 GMT</pubDate>
+        <description>Manuel Pellegrini pracuje w Betisie już piąty sezon. Do tej pory nie był jednak w stanie znaleźć sposobu na swojego byłego pracodawcę i zarazem dzisiejszego rywala.</description>
+    </item>
     
     <item>
         <title>Valverde a sprawa Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137304-wytypuj-ze-krolewscy-wygraja-z-betisem-i-odbierz-200-zl</link>
         <pubDate>Fri, 28 Feb 2025 18:45:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: UEFA nakłada karę na Real i grozi zamknięciem Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/137303-oficjalnie-uefa-naklada-kare-na-real-i-grozi-zamknieciem-bernabeu</link>
-        <pubDate>Fri, 28 Feb 2025 18:03:00 GMT</pubDate>
-        <description>Komitet Apelacyjny UEFA nakłada karę częściowego zamknięcia stadionu, choć pozostawia ją w zawieszeniu i uzależnia od warunków na okres dwóch lat. Ponadto nakłada grzywnę w wysokości 30 tysięcy euro.</description>
     </item>
     
 </channel>
