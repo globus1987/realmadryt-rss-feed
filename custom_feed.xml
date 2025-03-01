@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 19:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 19:38:14 GMT</lastBuildDate>
     
     <item>
-        <title>Betis – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137321-betis-real-madryt-live</link>
+        <title>Oceń piłkarzy po meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/137322-ocen-pilkarzy-po-meczu-z-betisem</link>
+        <pubDate>Sat, 01 Mar 2025 20:37:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Isco MVP meczu na Benito Villamarín</title>
+        <link>https://www.realmadryt.pl/news/137325-isco-mvp-meczu-na-benito-villamarin</link>
+        <pubDate>Sat, 01 Mar 2025 20:34:00 GMT</pubDate>
+        <description>Hiszpański pomocnik został wyróżniony w przegranym przez Real Madryt meczu na Benito Villamarín.</description>
+    </item>
+    
+    <item>
+        <title>Starannie wypracowana porażka</title>
+        <link>https://www.realmadryt.pl/news/137321-starannie-wypracowana-porazka</link>
         <pubDate>Sat, 01 Mar 2025 18:25:00 GMT</pubDate>
-        <description>Od 18:30 trwa mecz 26. kolejki La Ligi, w którym Real Madryt mierzy się na Estadio Benito Villamarín z Betisem. W przypadku zwycięstwa Królewscy przynajmniej do jutra znajdą się na pierwszym miejscu w tabeli.</description>
+        <description>W meczu 26. kolejki La Ligi Real Madryt przegrał na Estadio Benito Villamarín z Betisem 1:2. Jedyne trafienie dla gości zanotował Brahim Díaz.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137312-kartka-z-kalendarza-1-marca</link>
         <pubDate>Sat, 01 Mar 2025 10:00:00 GMT</pubDate>
         <description>Urodziny byłego trenera, zakrwawiona głowa Goyo Benito, starcie z Koemanem i Romário, pierwszy hat-trick Ronaldo, wyrzucenie Álvaro Benito z klubu i ostatni mecz na Bernabéu przed pandemią. Co działo się 1 marca?</description>
-    </item>
-    
-    <item>
-        <title>To są te detale</title>
-        <link>https://www.realmadryt.pl/news/137298-to-sa-te-detale</link>
-        <pubDate>Sat, 01 Mar 2025 09:09:00 GMT</pubDate>
-        <description>Dowiedz się więcej o sobie! Czy jesteś gotów rozwiązać ten test?</description>
-    </item>
-    
-    <item>
-        <title>Vinícius coraz bliżej Ronaldo</title>
-        <link>https://www.realmadryt.pl/news/137307-vinicius-coraz-blizej-ronaldo</link>
-        <pubDate>Sat, 01 Mar 2025 08:18:00 GMT</pubDate>
-        <description>Jeśli brazylijski skrzydłowy zdobędzie więcej niż dwie bramki w meczu przeciwko Betisowi, prześcignie Ronaldo Nazário, który strzelił 104 gole jako zawodnik Realu Madryt. Vinícius ma już w tej kampanii 17 goli – to jego najlepszy sezon, a wielu nawet tego nie zauważa.</description>
     </item>
     
 </channel>
