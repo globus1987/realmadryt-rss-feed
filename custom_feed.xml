@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Mar 2025 08:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 09:22:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 marca</title>
+        <link>https://www.realmadryt.pl/news/137312-kartka-z-kalendarza-1-marca</link>
+        <pubDate>Sat, 01 Mar 2025 10:00:00 GMT</pubDate>
+        <description>Urodziny byłego trenera, zakrwawiona głowa Goyo Benito, starcie z Koemanem i Romário, pierwszy hat-trick Ronaldo, wyrzucenie Álvaro Benito z klubu i ostatni mecz na Bernabéu przed pandemią. Co działo się 1 marca?</description>
+    </item>
     
     <item>
         <title>To są te detale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137301-relevo-krolewscy-sa-zafascynowani-saliba</link>
         <pubDate>Fri, 28 Feb 2025 16:35:00 GMT</pubDate>
         <description>Real Madryt ma próbować pozyskać francuskiego obrońcę, choć najbardziej prawdopodobne wydaje się to dopiero wtedy, gdy piłkarzowi Arsenalu będzie pozostawał już tylko rok ważnego kontraktu.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Betisu na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/137300-kadra-betisu-na-mecz-z-realem</link>
-        <pubDate>Fri, 28 Feb 2025 15:58:00 GMT</pubDate>
-        <description>Betis podejdzie do meczu z Realem Madryt nieco osłabiony, ponieważ Manuel Pellegrini nie może liczyć na kilku kontuzjowanych.</description>
     </item>
     
 </channel>
