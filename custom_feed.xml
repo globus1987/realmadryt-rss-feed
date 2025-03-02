@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Mar 2025 06:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 07:19:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>„We Francji wciąż widzą w nas tylko synów znanego ojca”</title>
+        <link>https://www.realmadryt.pl/news/137317-we-francji-wciaz-widza-w-nas-tylko-synow-znanego-ojca</link>
+        <pubDate>Sun, 02 Mar 2025 08:18:00 GMT</pubDate>
+        <description>Niedzielne starcie Córdoby z Granadą jest jednym z najciekawiej zapowiadających się meczów tej kolejki Segunda División. Zawierać będzie ono w sobie element, który może zaciekawić także kibiców Realu Madryt. Naprzeciwko siebie staną bowiem dwaj synowie Zinédine'a Zidane'a – Luca (Granada) i Théo (Córdoba). Z tej okazji dziennikarze Relevo postanowili porozmawiać zarówno z bramkarzem, jak i pomocnikiem.</description>
+    </item>
     
     <item>
         <title>Pellegrini: Zdominowaliśmy ten mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137321-starannie-wypracowana-porazka</link>
         <pubDate>Sat, 01 Mar 2025 18:25:00 GMT</pubDate>
         <description>W meczu 26. kolejki La Ligi Real Madryt przegrał na Estadio Benito Villamarín z Betisem 1:2. Jedyne trafienie dla gości zanotował Brahim Díaz.</description>
-    </item>
-    
-    <item>
-        <title>Betis – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/137320-betis-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 01 Mar 2025 16:37:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w ligowym mecz z Betisem. Spotkanie rozpocznie się o godzinie 18:30 na Estadio Benito Villamarín.</description>
     </item>
     
 </channel>
