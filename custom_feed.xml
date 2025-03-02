@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Mar 2025 21:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 21:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Defensywne zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/137357-defensywne-zwyciestwo</link>
+        <pubDate>Sun, 02 Mar 2025 22:41:00 GMT</pubDate>
+        <description>W 21. kolejce Ligi Endesa Real Madryt był lepszy od Gran Canarii. Królewscy zaprezentowali się bardzo dobrze w obronie, ale tego samego nie można powiedzieć o ofensywie. Graczem spotkania został Bruno Fernando.</description>
+    </item>
     
     <item>
         <title>Cristiano Ronaldo nie poleciał na mecz do Iranu, bo groziło mu 99 batów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137347-punkty-stracone-w-ostatnich-sekundach</link>
         <pubDate>Sun, 02 Mar 2025 13:57:00 GMT</pubDate>
         <description>W 26. kolejce Primera Federación Castilla zremisowała na wyjeździe z Intercity 2:2. To gospodarze wyszli na prowadzenie, później Królewscy odrobili straty, ale wypuścili zwycięstwo z rąk w ostatnich sekundach rywalizacji.</description>
-    </item>
-    
-    <item>
-        <title>Real stracił głowę</title>
-        <link>https://www.realmadryt.pl/news/137345-real-stracil-glowe</link>
-        <pubDate>Sun, 02 Mar 2025 13:10:00 GMT</pubDate>
-        <description>Real Madryt stracił już 10 goli strzelonych głową we wszystkich rozgrywkach, czyli tyle samo, co Celta Vigo. Wszystko to pomimo faktu, że w składzie Królewskich występują tacy zawodnicy, jak Courtois, Rüdiger, czy Tchouaméni, pisze AS.</description>
     </item>
     
 </channel>
