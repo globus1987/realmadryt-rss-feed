@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Mar 2025 08:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 09:23:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd do najsłabszej drużyny w lidze</title>
+        <link>https://www.realmadryt.pl/news/137314-wyjazd-do-najslabszej-druzyny-w-lidze</link>
+        <pubDate>Sun, 02 Mar 2025 10:10:00 GMT</pubDate>
+        <description>W 26. kolejce Primera Federación Castilla zagra na wyjeździe z Intercity. Podopieczni Raúla tracą tylko punkt do strefy play-offów, a w 2025 roku jeszcze nie przegrali ani jednego meczu.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 2 marca</title>
+        <link>https://www.realmadryt.pl/news/137334-kartka-z-kalendarza-2-marca</link>
+        <pubDate>Sun, 02 Mar 2025 10:01:00 GMT</pubDate>
+        <description>„Mourinho pokazuje, że jest autentycznym pajacem”, Di Stéfano otwiera warzywniak, Ramos całuje opaskę, Real ogrywa PSG, remisuje z Interem, przegrywa z Bayernem i Barceloną, a Gil Manzano czyni cuda. Co działo się 2 marca?</description>
+    </item>
     
     <item>
         <title>„We Francji wciąż widzą w nas tylko synów znanego ojca”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137322-ocen-pilkarzy-po-meczu-z-betisem</link>
         <pubDate>Sat, 01 Mar 2025 20:37:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Isco MVP meczu na Benito Villamarín</title>
-        <link>https://www.realmadryt.pl/news/137325-isco-mvp-meczu-na-benito-villamarin</link>
-        <pubDate>Sat, 01 Mar 2025 20:34:00 GMT</pubDate>
-        <description>Hiszpański pomocnik został wyróżniony w przegranym przez Real Madryt meczu na Benito Villamarín.</description>
-    </item>
-    
-    <item>
-        <title>Starannie wypracowana porażka</title>
-        <link>https://www.realmadryt.pl/news/137321-starannie-wypracowana-porazka</link>
-        <pubDate>Sat, 01 Mar 2025 18:25:00 GMT</pubDate>
-        <description>W meczu 26. kolejki La Ligi Real Madryt przegrał na Estadio Benito Villamarín z Betisem 1:2. Jedyne trafienie dla gości zanotował Brahim Díaz.</description>
     </item>
     
 </channel>
