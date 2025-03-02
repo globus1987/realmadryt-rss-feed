@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Mar 2025 19:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 19:38:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Granice wytrzymałości Valverde zostały przekroczone</title>
+        <link>https://www.realmadryt.pl/news/137355-granice-wytrzymalosci-valverde-zostaly-przekroczone</link>
+        <pubDate>Sun, 02 Mar 2025 20:37:00 GMT</pubDate>
+        <description>Urugwajczyk przez dwa lata i trzy miesiące unikał kontuzji.</description>
+    </item>
     
     <item>
         <title>Rzuty karne zmorą Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137344-valverde-znow-nie-trenowal-z-druzyna</link>
         <pubDate>Sun, 02 Mar 2025 13:05:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Gdy Asencio nie gra od pierwszej minuty, Real przegrywa</title>
-        <link>https://www.realmadryt.pl/news/137343-gdy-asencio-nie-gra-od-pierwszej-minuty-real-przegrywa</link>
-        <pubDate>Sun, 02 Mar 2025 13:02:00 GMT</pubDate>
-        <description>Statystyki z ostatnich spotkań pokazują, jakoby Real był uzależniony od gry swojego wychowanka w podstawowym składzie.</description>
     </item>
     
 </channel>
