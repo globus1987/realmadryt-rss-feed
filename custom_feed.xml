@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Mar 2025 23:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 01:53:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137360-dzisiejsze-okladki</link>
+        <pubDate>Mon, 03 Mar 2025 01:09:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt oraz wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Nie graliśmy ładnie dla widza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137350-valverde-podtrzymuje-niepokoj-ancelottiego</link>
         <pubDate>Sun, 02 Mar 2025 14:21:00 GMT</pubDate>
         <description>Urugwajczyk nadal trenuje indywidualnie na dwa dni przed derbami. Jutro zapadnie decyzja, czy będzie mógł dołączyć do zespołu.</description>
-    </item>
-    
-    <item>
-        <title>„Sprawa Antony’ego” dostarcza argumentów Realowi Madryt</title>
-        <link>https://www.realmadryt.pl/news/137346-sprawa-antony-ego-dostarcza-argumentow-realowi-madryt</link>
-        <pubDate>Sun, 02 Mar 2025 14:14:00 GMT</pubDate>
-        <description>„Ułaskawienie zawodnika Betisu potwierdza obsesyjną retorykę zawartą w tej przerażającej skardze Królewskich”, zaczyna swój felieton na łamach El País Alfredo Relaño. Hiszpan to emerytowany dziennikarz i były dyrektor dziennika AS od 1996 do 2019 roku, ale ciągle udziela się w mediach.</description>
     </item>
     
 </channel>
