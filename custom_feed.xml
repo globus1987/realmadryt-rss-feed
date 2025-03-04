@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Mar 2025 06:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 06:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bezcenny Asencio</title>
+        <link>https://www.realmadryt.pl/news/137383-bezcenny-asencio</link>
+        <pubDate>Tue, 04 Mar 2025 07:50:00 GMT</pubDate>
+        <description>Trzy ostatnie mecze Realu Madryt bez Raúla Asencio w pierwszym składzie skończyły się trzema porażkami. Chociaż w oczach wielu wychowanek powinien być obecnie bezcennym elementem pierwszego składu Królewskich, Carlo Ancelotti między wierszami regularnie wskazuje na jego brak doświadczenia.</description>
+    </item>
     
     <item>
         <title>Real Madryt chce zwiększyć pojemność Bernabéu z myślą o finale mundialu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137379-prawie-2000-osob-zabezpieczy-wtorkowe-derby-madrytu</link>
         <pubDate>Mon, 03 Mar 2025 18:12:00 GMT</pubDate>
         <description>Santiago Bernabéu będzie chronione przed wszelkimi możliwymi incydentami związanymi z meczem.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Denerwuje mnie, kiedy sędziowie nie pokazują kartki innym, ale pokazują mi za pierwsze protesty</title>
-        <link>https://www.realmadryt.pl/news/137377-vinicius-denerwuje-mnie-kiedy-sedziowie-nie-pokazuja-kartki-innym-ale-pokazuja-mi-za-pierwsze-protesty</link>
-        <pubDate>Mon, 03 Mar 2025 17:20:00 GMT</pubDate>
-        <description>Vinícius Júnior pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w Lidze Mistrzów. Przedstawiamy zapis tego spotkania zawodnika Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
