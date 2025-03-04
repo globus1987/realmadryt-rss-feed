@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Mar 2025 08:47:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 09:25:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czyja kolej tym razem?</title>
+        <link>https://www.realmadryt.pl/news/137324-czyja-kolej-tym-razem</link>
+        <pubDate>Tue, 04 Mar 2025 10:15:00 GMT</pubDate>
+        <description>Imion było więcej, ale to te będą najdłużej pamiętane.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 4 marca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137382-brahim-zawodnikiem-na-piec-gwiazdek-za-luty</link>
         <pubDate>Mon, 03 Mar 2025 20:18:00 GMT</pubDate>
         <description>Marokańsko-hiszpański pomocnik po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu tego roku.</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Myślę, że będą próbować zrównoważyć środek poprzez Camavingę, Modricia i Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/137381-simeone-mysle-ze-beda-probowac-zrownowazyc-srodek-poprzez-camavinge-modricia-i-tchouameniego</link>
-        <pubDate>Mon, 03 Mar 2025 20:06:00 GMT</pubDate>
-        <description>Diego Simeone po konferencji prasowej udzielił wywiadu telewizji Movistar+, która jest oficjalnym nadawcą Ligi Mistrzów w Hiszpanii. Przedstawiamy opublikowane wypowiedzi trenera Atlético Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
