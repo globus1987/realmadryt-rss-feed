@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Mar 2025 19:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 20:25:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Atlético Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/137413-real-madryt-atletico-madryt-live</link>
+        <pubDate>Tue, 04 Mar 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa pierwszy mecz 1/8 finału Ligi Mistrzów pomiędzy Realem Madryt a Atlético Madryt.</description>
+    </item>
     
     <item>
         <title>Simeone: Kto wykorzysta swoje momenty i sytuacje, ten zyska przewagę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137404-pieciu-pilkarzy-oraz-ancelotti-zagrozeni-zawieszeniem-na-rewanz</link>
         <pubDate>Tue, 04 Mar 2025 12:56:00 GMT</pubDate>
         <description>Dzisiaj za żółte kartki pauzuje Jude Bellingham. Na rewanż zagrożonych zawieszeniem jest pięciu piłkarzy i trener.</description>
-    </item>
-    
-    <item>
-        <title>Sport: Barcelona nie wróci na Camp Nou w tym sezonie</title>
-        <link>https://www.realmadryt.pl/news/137402-sport-barcelona-nie-wroci-na-camp-nou-w-tym-sezonie</link>
-        <pubDate>Tue, 04 Mar 2025 12:23:00 GMT</pubDate>
-        <description>Katalończycy podkreślają, że Barcelona nie ma szans na powrót na Camp Nou w tym sezonie. Oznacza to, że Klasyk z Realem Madryt w La Lidze zostanie kolejny raz rozegrany na Stadionie Olimpijskim.</description>
     </item>
     
 </channel>
