@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Mar 2025 15:43:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 15:56:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde i Rüdiger na granicy wytrzymałości</title>
+        <link>https://www.realmadryt.pl/news/137407-valverde-i-ruediger-na-granicy-wytrzymalosci</link>
+        <pubDate>Tue, 04 Mar 2025 16:54:00 GMT</pubDate>
+        <description>AS twierdzi, że obaj wyjdą w pierwszym składzie przeciwko Atlético, mimo że nie są w stu procentach gotowi. Niemcowi grozi również zawieszenie, jeśli otrzyma żółtą kartkę.</description>
+    </item>
     
     <item>
         <title>McManaman: Na pewno nie miałbym pretensji do Trenta, gdyby zdecydował się na odejście do Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137397-terminarz-29-kolejki-la-ligi</link>
         <pubDate>Tue, 04 Mar 2025 11:15:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 29. kolejki, która zostanie rozegrana po pierwszej w tym roku przerwie na reprezentacje. Królewscy zagrają u siebie z Leganés.</description>
-    </item>
-    
-    <item>
-        <title>Ławka Atlético daje więcej niż ławka Realu</title>
-        <link>https://www.realmadryt.pl/news/137396-lawka-atletico-daje-wiecej-niz-lawka-realu</link>
-        <pubDate>Tue, 04 Mar 2025 11:07:00 GMT</pubDate>
-        <description>Rezerwowi Atleti grają więcej i strzelają więcej.</description>
     </item>
     
 </channel>
