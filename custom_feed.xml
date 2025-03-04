@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Mar 2025 23:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 23:39:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137424-dzisiejsze-okladki</link>
+        <pubDate>Wed, 05 Mar 2025 00:32:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Naszym celem było zdobycie małej przewagi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137410-ancelotti-valverde-czuje-sie-dobrze-trenowal-dobrze-i-moze-rozegrac-90-minut</link>
         <pubDate>Tue, 04 Mar 2025 20:18:00 GMT</pubDate>
         <description>Carlo Ancelotti na godzinę przed meczem Ligi Mistrzów z Atlético udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Atlético Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/137409-real-madryt-atletico-madryt-znamy-sklady</link>
-        <pubDate>Tue, 04 Mar 2025 19:05:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu 1/8 finału Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
