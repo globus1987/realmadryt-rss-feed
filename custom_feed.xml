@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Mar 2025 08:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 08:53:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 5 marca</title>
+        <link>https://www.realmadryt.pl/news/137429-kartka-z-kalendarza-5-marca</link>
+        <pubDate>Wed, 05 Mar 2025 09:51:00 GMT</pubDate>
+        <description>Wspaniały mecz na Old Trafford, starcie Juanito z Stielike, porażki z Romą i Ajaxem na Bernabéu, cztery gole Cristiano i urodziny byłych zawodników. Co działo się 5 marca?</description>
+    </item>
     
     <item>
         <title>Llorente: Real wykorzysta nawet najmniejszy błąd</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137422-simeone-ostatnia-akcja-mogla-wyrzucic-nas-z-dwumeczu</link>
         <pubDate>Tue, 04 Mar 2025 23:34:00 GMT</pubDate>
         <description>Diego Simeone po pierwszym meczu 1/8 finału Ligi Mistrzów z Realem Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Atlético Madryt z tej rozmowy na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Atlético trochę nas zaskoczyło</title>
-        <link>https://www.realmadryt.pl/news/137419-rodrygo-atletico-troche-nas-zaskoczylo</link>
-        <pubDate>Tue, 04 Mar 2025 23:30:00 GMT</pubDate>
-        <description>Rodrygo udzielił wywiadu telewizji Movistar+ po wygranym 2:1 meczu z Atlético Madryt w Lidze Mistrzów. Przedstawiamy wypowiedzi gracza Królewskich.</description>
     </item>
     
 </channel>
