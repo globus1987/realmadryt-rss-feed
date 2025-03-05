@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Mar 2025 10:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 10:56:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zaniepokojenie Mbappé</title>
+        <link>https://www.realmadryt.pl/news/137438-zaniepokojenie-mbappe</link>
+        <pubDate>Wed, 05 Mar 2025 11:55:00 GMT</pubDate>
+        <description>Dwa tygodnie temu był punktem odniesienia dzięki temu, co zrobił przeciwko City. Trzy mecze później, patrząc na jego występ przeciwko Atlético, nie ma po tym śladu.</description>
+    </item>
     
     <item>
         <title>Niefortunny mem, stare rany – Xavi i Barcelona wciąż w konflikcie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137421-juvenil-a-zagra-o-cwiercfinal-ligi-mlodziezowej</link>
         <pubDate>Wed, 05 Mar 2025 08:40:00 GMT</pubDate>
         <description>W 1/8 finału Ligi Młodzieżowej Real Madryt zmierzy się z AZ Alkmaar. Stawką tego spotkania jest awans do ćwierćfinału. Ostatnie i jedyne spotkanie między tymi zespołami zakończyło się wysoką wygraną Holendrów.</description>
-    </item>
-    
-    <item>
-        <title>Asencio: Dziękuję kolegom i trenerom za wszystko, co dla mnie robią</title>
-        <link>https://www.realmadryt.pl/news/137427-asencio-dziekuje-kolegom-i-trenerom-za-wszystko-co-dla-mnie-robia</link>
-        <pubDate>Wed, 05 Mar 2025 07:50:00 GMT</pubDate>
-        <description>Raúl Asencio po pierwszym meczu 1/8 finału Ligi Mistrzów z Atlético Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt na Santiago Bernabéu.</description>
     </item>
     
 </channel>
