@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Mar 2025 07:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 07:53:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>W Lidze Mistrzów to inna historia</title>
+        <link>https://www.realmadryt.pl/news/137430-w-lidze-mistrzow-to-inna-historia</link>
+        <pubDate>Wed, 05 Mar 2025 08:50:00 GMT</pubDate>
+        <description>Szóste z rzędu zwycięstwo Królewskich w Europie.</description>
+    </item>
     
     <item>
         <title>Juvenil A zagra o ćwierćfinał Ligi Młodzieżowej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137416-julian-alvarez-w-niektorych-momentach-kontrolowalismy-mecz</link>
         <pubDate>Tue, 04 Mar 2025 23:07:00 GMT</pubDate>
         <description>Julián Álvarez udzielił wywiadu telewizji Movistar+ po przegranym 1:2 meczu z Realem Madryt w Lidze Mistrzów. Przedstawiamy wypowiedzi gracza Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo MVP meczu z Atlético</title>
-        <link>https://www.realmadryt.pl/news/137415-rodrygo-mvp-meczu-z-atletico</link>
-        <pubDate>Tue, 04 Mar 2025 23:07:00 GMT</pubDate>
-        <description>Brazylijczyk otrzymał nagrodę dla najlepszego zawodnika meczu Realu Madryt z Atlético Madryt.</description>
     </item>
     
 </channel>
