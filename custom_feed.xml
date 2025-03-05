@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Mar 2025 06:33:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 06:53:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Asencio: Dziękuję kolegom i trenerom za wszystko, co dla mnie robią</title>
+        <link>https://www.realmadryt.pl/news/137427-asencio-dziekuje-kolegom-i-trenerom-za-wszystko-co-dla-mnie-robia</link>
+        <pubDate>Wed, 05 Mar 2025 07:50:00 GMT</pubDate>
+        <description>Raúl Asencio po pierwszym meczu 1/8 finału Ligi Mistrzów z Atlético Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Lahoz: W Hiszpanii anuluje się takie gole jak ten Brahima</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137414-ocen-pilkarzy-po-meczu-z-atletico</link>
         <pubDate>Tue, 04 Mar 2025 23:01:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Pierwsza część zadania wykonana!</title>
-        <link>https://www.realmadryt.pl/news/137413-pierwsza-czesc-zadania-wykonana</link>
-        <pubDate>Tue, 04 Mar 2025 20:55:00 GMT</pubDate>
-        <description>W pierwszym meczu 1/8 finału Ligi Mistrzów Real Madryt wygrał u siebie z Atlético 2:1. Gole dla Królewskich strzelili Rodrygo Goes i Brahim Díaz.</description>
     </item>
     
 </channel>
