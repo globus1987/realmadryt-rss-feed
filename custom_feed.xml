@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Mar 2025 23:39:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 23:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137453-dzisiejsze-okladki</link>
+        <pubDate>Thu, 06 Mar 2025 00:47:00 GMT</pubDate>
+        <description>Echa derbów Madrytu i wygrana Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bernabéu na dniach otworzy nową restaurację pod dachem obiektu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137437-oceny-zawodnikow-po-meczu-z-atletico</link>
         <pubDate>Wed, 05 Mar 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał u siebie z Atlético 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Zaniepokojenie Mbappé</title>
-        <link>https://www.realmadryt.pl/news/137438-zaniepokojenie-mbappe</link>
-        <pubDate>Wed, 05 Mar 2025 11:55:00 GMT</pubDate>
-        <description>Dwa tygodnie temu był punktem odniesienia dzięki temu, co zrobił przeciwko City. Trzy mecze później, patrząc na jego występ przeciwko Atlético, nie ma po tym śladu.</description>
     </item>
     
 </channel>
