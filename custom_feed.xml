@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Mar 2025 23:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 23:39:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137484-dzisiejsze-okladki</link>
+        <pubDate>Fri, 07 Mar 2025 00:38:00 GMT</pubDate>
+        <description>Powrót Jude'a Bellinghama i pochwały dla Wojciecha Szczęsnego to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Nie trafialiśmy za trzy punkty w kluczowych momentach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137470-kobiecy-klasyk-odcinek-17</link>
         <pubDate>Thu, 06 Mar 2025 14:20:00 GMT</pubDate>
         <description>Wieczorem dojdzie do kolejnego kobiecego Klasyku. Piłkarki Barcelony są zdecydowanymi faworytkami tego starcia i całego dwumeczu. Królewskie mają zupełnie inne cele na te spotkania i sezon.</description>
-    </item>
-    
-    <item>
-        <title>Valverde nie trenował z zespołem</title>
-        <link>https://www.realmadryt.pl/news/137469-valverde-nie-trenowal-z-zespolem</link>
-        <pubDate>Thu, 06 Mar 2025 13:18:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczeli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
