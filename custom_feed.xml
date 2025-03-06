@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Mar 2025 04:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 04:46:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziennikarze mają wątpliwości, czy Mbappé miał problem tylko z zębem</title>
+        <link>https://www.realmadryt.pl/news/137454-dziennikarze-maja-watpliwosci-czy-mbappe-mial-problem-tylko-z-zebem</link>
+        <pubDate>Thu, 06 Mar 2025 05:30:00 GMT</pubDate>
+        <description>Występ Francuza w derbach pozostaje jednym z głównych tematów debat po stronie Królewskich. Dziennikarze cały czas zastanawiają się, czy atakujący nie doznał w poprzednim tygodniu jakiejś kontuzji.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137439-delegat-uefa-odnotowal-skandaliczne-zachowania-kibicow-atletico-na-bernabeu</link>
         <pubDate>Wed, 05 Mar 2025 13:17:00 GMT</pubDate>
         <description>Los Rojiblancos też grożą kary od UEFA.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Atlético</title>
-        <link>https://www.realmadryt.pl/news/137437-oceny-zawodnikow-po-meczu-z-atletico</link>
-        <pubDate>Wed, 05 Mar 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Atlético 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
