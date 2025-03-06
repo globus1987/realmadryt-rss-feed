@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Mar 2025 08:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 08:47:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 6 marca</title>
+        <link>https://www.realmadryt.pl/news/137449-kartka-z-kalendarza-6-marca</link>
+        <pubDate>Thu, 06 Mar 2025 09:40:00 GMT</pubDate>
+        <description>Urodziny Realu Madryt, mecze z Tottenhamem i Spartakiem, nieudane obchody stulecia klubu, wielkie starcia z Sevillą i Paris Saint-Germain oraz śmierć byłego piłkarza. Co działo się 6 marca?</description>
+    </item>
     
     <item>
         <title>Czy Camavinga utrzyma miejsce w jedenastce na rewanż z Atlético?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137447-mundo-deportivo-gol-brahima-powinien-zostac-anulowany</link>
         <pubDate>Wed, 05 Mar 2025 19:14:00 GMT</pubDate>
         <description>Kataloński dziennik, powołujący się na własne źródła sędziowskie, twierdzi, że bramka Brahima nie powinna zostać uznana, ponieważ znajdujący się na spalonym Vinícius ograniczał widoczność Oblakowi.</description>
-    </item>
-    
-    <item>
-        <title>Środowe mecze Ligi Mistrzów: Bayern rozbił Leverkusen, Barça wygrała w dziesiątkę</title>
-        <link>https://www.realmadryt.pl/news/137445-srodowe-mecze-ligi-mistrzow-bayern-rozbil-leverkusen-barca-wygrala-w-dziesiatke</link>
-        <pubDate>Wed, 05 Mar 2025 18:30:00 GMT</pubDate>
-        <description>W środowych meczach 1/8 finału Ligi Mistrzów doszło do kolejnych wielkich hitów. Zaliczki wypracowały drużyny Interu, Liverpoolu, Barcelony i Bayernu.</description>
     </item>
     
 </channel>
