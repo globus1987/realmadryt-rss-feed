@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Mar 2025 14:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 14:42:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Atlético nie chce i nie będzie oszczędzać się w ten weekend</title>
+        <link>https://www.realmadryt.pl/news/137497-atletico-nie-chce-i-nie-bedzie-oszczedzac-sie-w-ten-weekend</link>
+        <pubDate>Fri, 07 Mar 2025 15:31:00 GMT</pubDate>
+        <description>Sąsiedzi Królewskich przed środowym rewanżem też zagrają w La Lidze dopiero w niedzielę. Nie myślą jednak o rotacjach, bo skupiają się też na walce o mistrzostwo.</description>
+    </item>
     
     <item>
         <title>Fede Valverde przekonuje, że może być najlepszym prawym obrońcą na świecie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137486-bernabeu-od-wow-taylor-swift-do-pustego-kalendarza-koncertowego-na-2025-rok</link>
         <pubDate>Fri, 07 Mar 2025 09:13:00 GMT</pubDate>
         <description>Koncerty nie wrócą na stadion Realu Madryt, dopóki nie zostanie znalezione rozwiązanie problemu wygłuszenia.</description>
-    </item>
-    
-    <item>
-        <title>Wraca brakujący element</title>
-        <link>https://www.realmadryt.pl/news/137485-wraca-brakujacy-element</link>
-        <pubDate>Fri, 07 Mar 2025 08:51:00 GMT</pubDate>
-        <description>Anglik, najbardziej kreatywny pomocnik Realu w roli asystenta i najbardziej zaangażowany w pojedynki, wraca po zawieszeniu ligowym, by przywrócić równowagę w środku pola Królewskich.</description>
     </item>
     
 </channel>
