@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Mar 2025 23:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 23:38:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137508-dzisiejsze-okladki</link>
+        <pubDate>Sat, 08 Mar 2025 00:28:00 GMT</pubDate>
+        <description>Dzień Kobiet to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Slot: Real jest jednym z najlepszych przykładów, że wygrywają nawet, gdy rywal jest lepszy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137494-lejeune-vinicius-to-dobra-osoba-ktora-nie-chce-nikomu-zrobic-krzywdy-ale</link>
         <pubDate>Fri, 07 Mar 2025 13:19:00 GMT</pubDate>
         <description>Florian Lejeune udzielił wywiadu agencji EFE. Przedstawiamy najważniejsze wypowiedzi obrońcy Rayo Vallecano przed niedzielnym meczem z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/137493-dzisiejszy-trening</link>
-        <pubDate>Fri, 07 Mar 2025 12:58:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
