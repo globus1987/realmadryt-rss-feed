@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Mar 2025 10:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 10:38:13 GMT</lastBuildDate>
     
     <item>
-        <title>Czy Federico Valverde trenuje z drużyną? [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/137515-czy-federico-valverde-trenuje-z-druzyna-na-zywo</link>
+        <title>Rüdiger nie trenuje z powodu grypy</title>
+        <link>https://www.realmadryt.pl/news/137516-ruediger-nie-trenuje-z-powodu-grypy</link>
+        <pubDate>Sat, 08 Mar 2025 11:33:00 GMT</pubDate>
+        <description>Niemiec nie trenuje z grupą. Klub informuje, że powodem jest choroba.</description>
+    </item>
+    
+    <item>
+        <title>Antonio Rüdiger nie trenuje z drużyną! [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/137515-antonio-ruediger-nie-trenuje-z-druzyna-na-zywo</link>
         <pubDate>Sat, 08 Mar 2025 11:15:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Rayo Vallecano w La Lidze.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137508-dzisiejsze-okladki</link>
         <pubDate>Sat, 08 Mar 2025 00:28:00 GMT</pubDate>
         <description>Dzień Kobiet to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Slot: Real jest jednym z najlepszych przykładów, że wygrywają nawet, gdy rywal jest lepszy</title>
-        <link>https://www.realmadryt.pl/news/137507-slot-real-jest-jednym-z-najlepszych-przykladow-ze-wygrywaja-nawet-gdy-rywal-jest-lepszy</link>
-        <pubDate>Fri, 07 Mar 2025 20:02:00 GMT</pubDate>
-        <description>Trener Liverpoolu odpowiedział na komentarze dotyczące wygranej jego zespołu w Paryżu. Holender kolejny raz w swoich analizach przywołał sukcesy Realu Madryt.</description>
     </item>
     
 </channel>
