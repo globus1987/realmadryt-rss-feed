@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Mar 2025 23:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 23:39:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137539-dzisiejsze-okladki</link>
+        <pubDate>Sun, 09 Mar 2025 00:22:00 GMT</pubDate>
+        <description>Śmierć doktora Barcelony to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: W takim sezonie nie możesz myśleć, że będziesz gotowy na 100% na każdy mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137525-inigo-perez-nie-mozemy-stracic-naszej-tozsamosci</link>
         <pubDate>Sat, 08 Mar 2025 14:53:00 GMT</pubDate>
         <description>Trener Rayo Vallecano, Iñigo Pérez, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 27. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi hiszpańskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt z doskonałymi wynikami finansowymi na półmetku sezonu</title>
-        <link>https://www.realmadryt.pl/news/137524-real-madryt-z-doskonalymi-wynikami-finansowymi-na-polmetku-sezonu</link>
-        <pubDate>Sat, 08 Mar 2025 14:02:00 GMT</pubDate>
-        <description>Ramón Álvarez de Mon, socio Realu Madryt, youtuber, prawnik i współpracownik hiszpańskich mediów, przekazał informacje o półrocznym podsumowaniu finansowym Realu Madryt.</description>
     </item>
     
 </channel>
