@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 16:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 17:17:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Rayo</title>
+        <link>https://www.realmadryt.pl/news/137560-ocen-pilkarzy-po-meczu-z-rayo</link>
+        <pubDate>Sun, 09 Mar 2025 18:17:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>27. kolejka: Real wygrywa i zrównuje się punktami z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/137563-27-kolejka-real-wygrywa-i-zrownuje-sie-punktami-z-barcelona</link>
+        <pubDate>Sun, 09 Mar 2025 18:16:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:1 z Rayo Vallecano w meczu 27. kolejki Primera División, więc czas rzucić okiem na układ tabeli.</description>
+    </item>
     
     <item>
         <title>Piłkarki wygrywają w Sewilli</title>
@@ -14,10 +28,10 @@
     </item>
     
     <item>
-        <title>Real Madryt – Rayo Vallecano [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137557-real-madryt-rayo-vallecano-live</link>
+        <title>Wygrana w derbach między derbami</title>
+        <link>https://www.realmadryt.pl/news/137557-wygrana-w-derbach-miedzy-derbami</link>
         <pubDate>Sun, 09 Mar 2025 16:10:00 GMT</pubDate>
-        <description>W meczu 27. kolejki Real Madryt gra u siebie z Rayo Vallecano.</description>
+        <description>W meczu 27. kolejki Real Madryt wygrał u siebie z Rayo Vallecano 2:1. Gole dla Królewskich strzelili Kylian Mbappé i Vinícius Júnior.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137523-kadra-realu-madryt-na-rayo-vallecano</link>
         <pubDate>Sun, 09 Mar 2025 12:16:00 GMT</pubDate>
         <description>Carlo Ancelotti w kolejnym ligowym meczu nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu. Włoch powołał na to spotkanie 19 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Pozostanie w Realu priorytetem Rüdigera</title>
-        <link>https://www.realmadryt.pl/news/137550-relevo-pozostanie-w-realu-priorytetem-ruedigera</link>
-        <pubDate>Sun, 09 Mar 2025 11:56:00 GMT</pubDate>
-        <description>Niezależnie od tego, co wydarzy się w przyszłości, Real Madryt będzie mógł jednoznacznie dobrze ocenić transfer Antonio Rüdigera. Niemiec dołączył do Królewskich za darmo i szybko stał się kluczowym graczem.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona uważnie obejrzy występ Rayo na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/137549-barcelona-uwaznie-obejrzy-wystep-rayo-na-bernabeu</link>
-        <pubDate>Sun, 09 Mar 2025 11:38:00 GMT</pubDate>
-        <description>Katalończycy mają być poważnie zainteresowani zawodnikiem, który dzisiaj ma być odpowiedzialny za zatrzymanie Viníciusa Júniora.</description>
     </item>
     
 </channel>
