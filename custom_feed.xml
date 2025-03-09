@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 17:17:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 17:38:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz z Rayo poprzedzony minutą ciszy</title>
+        <link>https://www.realmadryt.pl/news/137564-mecz-z-rayo-poprzedzony-minuta-ciszy</link>
+        <pubDate>Sun, 09 Mar 2025 18:31:00 GMT</pubDate>
+        <description>Dzisiejszy mecz Realu Madryt z Rayo Vallecano został poprzedzony minutą ciszy w związku z wczorajszą śmiercią lekarza Barcelony, Carlesa Miñarro Garcíi.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius MVP meczu z Rayo</title>
+        <link>https://www.realmadryt.pl/news/137562-vinicius-mvp-meczu-z-rayo</link>
+        <pubDate>Sun, 09 Mar 2025 18:24:00 GMT</pubDate>
+        <description>Brazylijczyk został wyróżniony w wygranym przez Real Madryt meczu z Rayo Vallecano.</description>
+    </item>
     
     <item>
         <title>Oceń piłkarzy po meczu z Rayo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137546-27-kolejka-atletico-przegrywa-na-coliseum</link>
         <pubDate>Sun, 09 Mar 2025 13:30:00 GMT</pubDate>
         <description>Atlético Madryt przegrało 1:2 na wyjeździe z Getafe w 27. kolejce Primera División, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Courtois odpocznie z powodu małych dolegliwości</title>
-        <link>https://www.realmadryt.pl/news/137551-courtois-odpocznie-z-powodu-malych-dolegliwosci</link>
-        <pubDate>Sun, 09 Mar 2025 12:42:00 GMT</pubDate>
-        <description>Belg ma zmagać się z małymi dolegliwościami kolana. Jego występ w euroderbach nie jest zagrożony.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Rayo Vallecano</title>
-        <link>https://www.realmadryt.pl/news/137523-kadra-realu-madryt-na-rayo-vallecano</link>
-        <pubDate>Sun, 09 Mar 2025 12:16:00 GMT</pubDate>
-        <description>Carlo Ancelotti w kolejnym ligowym meczu nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu. Włoch powołał na to spotkanie 19 piłkarzy.</description>
     </item>
     
 </channel>
