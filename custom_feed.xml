@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 13:38:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 13:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo po zaciętym meczu</title>
+        <link>https://www.realmadryt.pl/news/137554-zwyciestwo-po-zacietym-meczu</link>
+        <pubDate>Sun, 09 Mar 2025 14:52:00 GMT</pubDate>
+        <description>W 22. kolejce Ligi Endesa Real Madryt pokonał Murcię i utrzymał się na szczycie ligowej tabeli. Królewscy długo musieli gonić rywali, ale udało im ostatecznie przechylić szalę zwycięstwa na swoją korzyść.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Rayo Vallecano: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137543-kartka-z-kalendarza-9-marca</link>
         <pubDate>Sun, 09 Mar 2025 10:00:00 GMT</pubDate>
         <description>Pierwszy mecz w historii klubu, urodziny legendarnego trenera, kolejna porażka w 1/8 finału Ligi Mistrzów i ogłoszenie Roberto Carlosa o odejściu z klubu. Co działo się 9 marca?</description>
-    </item>
-    
-    <item>
-        <title>Bez zagrożonych zawieszeniem w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/137542-bez-zagrozonych-zawieszeniem-w-la-lidze</link>
-        <pubDate>Sun, 09 Mar 2025 09:20:00 GMT</pubDate>
-        <description>Królewscy pozostają z jednym zagrożonym zawieszeniem piłkarzem, ale na razie pozostaje on kontuzjowany.</description>
     </item>
     
 </channel>
