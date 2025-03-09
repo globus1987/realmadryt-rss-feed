@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 11:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 11:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois odpocznie z powodu małych dolegliwości</title>
+        <link>https://www.realmadryt.pl/news/137551-courtois-odpocznie-z-powodu-malych-dolegliwosci</link>
+        <pubDate>Sun, 09 Mar 2025 12:42:00 GMT</pubDate>
+        <description>Belg ma zmagać się z małymi dolegliwościami kolana. Jego występ w euroderbach nie jest zagrożony.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Rayo Vallecano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137544-mbappe-i-vinicius-wyhamowali</link>
         <pubDate>Sun, 09 Mar 2025 07:55:00 GMT</pubDate>
         <description>Żaden z nich nie zdobył gola i nie zaliczył asysty w dwóch ostatnich spotkaniach. Wcześniej taki przypadek zdarzył się tylko raz.</description>
-    </item>
-    
-    <item>
-        <title>Ważny mecz dla Castilli</title>
-        <link>https://www.realmadryt.pl/news/137529-wazny-mecz-dla-castilli</link>
-        <pubDate>Sun, 09 Mar 2025 07:30:00 GMT</pubDate>
-        <description>W 27. kolejce Primera Federación Castilla podejmie rezerwy Sevilli. Oba zespoły mają tyle samo punktów na koncie, więc dzisiejszy wynik nabiera większego znaczenia w kontekście walki o awans.</description>
     </item>
     
 </channel>
