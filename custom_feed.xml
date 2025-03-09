@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 14:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 15:19:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Rayo Vallecano [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/137557-real-madryt-rayo-vallecano-live</link>
+        <pubDate>Sun, 09 Mar 2025 16:10:00 GMT</pubDate>
+        <description>W meczu 27. kolejki Real Madryt gra u siebie z Rayo Vallecano.</description>
+    </item>
     
     <item>
         <title>Mateo: Trudno jest wygrać dziesięć meczów z rzędu w lidze</title>
@@ -42,10 +49,10 @@
     </item>
     
     <item>
-        <title>Getafe vs Atlético: Zacięte starcie na Coliseum</title>
-        <link>https://www.realmadryt.pl/news/137546-getafe-vs-atletico-zaciete-starcie-na-coliseum</link>
+        <title>27. kolejka: Atlético przegrywa na Coliseum!</title>
+        <link>https://www.realmadryt.pl/news/137546-27-kolejka-atletico-przegrywa-na-coliseum</link>
         <pubDate>Sun, 09 Mar 2025 13:30:00 GMT</pubDate>
-        <description>Atlético Madryt mierzy się na wyjeździe z Getafe w 27. kolejce Primera División.</description>
+        <description>Atlético Madryt przegrało 1:2 na wyjeździe z Getafe w 27. kolejce Primera División, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137548-ostatni-mecz-cunninghama-na-bernabeu</link>
         <pubDate>Sun, 09 Mar 2025 11:33:00 GMT</pubDate>
         <description>20 maja 1989 roku na Vicente Calderón Atlético zremisowało z Realem po fantastycznym meczu 3:3. Tego samego dnia w stolicy Hiszpanii odbyły się jednak jeszcze jedne derby na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Camacho: Jeśli Real nie będzie mentalnie gotowy, może się dzisiaj rozczarować</title>
-        <link>https://www.realmadryt.pl/news/137547-camacho-jesli-real-nie-bedzie-mentalnie-gotowy-moze-sie-dzisiaj-rozczarowac</link>
-        <pubDate>Sun, 09 Mar 2025 11:19:00 GMT</pubDate>
-        <description>Były trener Realu Madryt i Rayo Vallecano, José Antonio Camacho, udzielił wywiadu dziennikowi AS przy okazji dzisiejszego meczu obu drużyn. Przedstawiamy rozmowę z Hiszpanem.</description>
     </item>
     
 </channel>
