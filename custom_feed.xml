@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 17:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 17:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt 2:1 Rayo Vallecano [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/137561-real-madryt-2-1-rayo-vallecano-video</link>
+        <pubDate>Sun, 09 Mar 2025 18:40:00 GMT</pubDate>
+        <description>W meczu 27. kolejki Real Madryt wygrał u siebie z Rayo Vallecano 2:1. Gole dla Królewskich strzelili Kylian Mbappé i Vinícius Júnior.</description>
+    </item>
+    
+    <item>
+        <title>Real Madrid TV: VAR i kataloński realizator „ukryli” rzut karny na Viníciusie</title>
+        <link>https://www.realmadryt.pl/news/137565-real-madrid-tv-var-i-katalonski-realizator-ukryli-rzut-karny-na-viniciusie</link>
+        <pubDate>Sun, 09 Mar 2025 18:38:00 GMT</pubDate>
+        <description>Klubowa telewizja analizę meczu z Rayo Vallecano poświęcono w dużej mierze nieodgwizdanemu karnemu z 2. minuty meczu. Tradycyjnie kataloński realizator meczu nie pokazał w transmisji tego zdarzenia widzowi w odpowiedni sposób. Wielu kibiców w ogóle nie wiedziało, że doszło do takiej akcji.</description>
+    </item>
     
     <item>
         <title>Mecz z Rayo poprzedzony minutą ciszy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137552-real-madryt-rayo-vallecano-znamy-sklady</link>
         <pubDate>Sun, 09 Mar 2025 14:21:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym starciu o ligowe punkty. Mecz rozpocznie się o godzinie 16:15 na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Nieskuteczna Castilla</title>
-        <link>https://www.realmadryt.pl/news/137553-nieskuteczna-castilla</link>
-        <pubDate>Sun, 09 Mar 2025 14:00:00 GMT</pubDate>
-        <description>W 27. kolejce Primera Federación Castilla bezbramkowo zremisowała z Sevillą Atlético. Królewscy mieli mnóstwo okazji na strzelenie gola, lecz zawiodła ich skuteczność.</description>
-    </item>
-    
-    <item>
-        <title>27. kolejka: Atlético przegrywa na Coliseum!</title>
-        <link>https://www.realmadryt.pl/news/137546-27-kolejka-atletico-przegrywa-na-coliseum</link>
-        <pubDate>Sun, 09 Mar 2025 13:30:00 GMT</pubDate>
-        <description>Atlético Madryt przegrało 1:2 na wyjeździe z Getafe w 27. kolejce Primera División, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
