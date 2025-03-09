@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 23:16:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 23:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137577-dzisiejsze-okladki</link>
+        <pubDate>Mon, 10 Mar 2025 00:23:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt, porażka Atlético i przygotowania Barcelony na Ligę Mistrzów to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bellingham, Vinícius i Rodrygo z urazami po meczu z Rayo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137560-ocen-pilkarzy-po-meczu-z-rayo</link>
         <pubDate>Sun, 09 Mar 2025 18:17:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>27. kolejka: Real wygrywa i zrównuje się punktami z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/137563-27-kolejka-real-wygrywa-i-zrownuje-sie-punktami-z-barcelona</link>
-        <pubDate>Sun, 09 Mar 2025 18:16:00 GMT</pubDate>
-        <description>Real Madryt wygrał 2:1 z Rayo Vallecano w meczu 27. kolejki Primera División, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
