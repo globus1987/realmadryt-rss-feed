@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Mar 2025 12:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 13:20:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nieskuteczna Castilla</title>
+        <link>https://www.realmadryt.pl/news/137553-nieskuteczna-castilla</link>
+        <pubDate>Sun, 09 Mar 2025 14:00:00 GMT</pubDate>
+        <description>W 27. kolejce Primera Federación Castilla bezbramkowo zremisowała z Sevillą Atlético. Królewscy mieli mnóstwo okazji na strzelenie gola, lecz zawiodła ich skuteczność.</description>
+    </item>
     
     <item>
         <title>Getafe vs Atlético: Zacięte starcie na Coliseum</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137541-dwoch-19-latkow-objetych-sledztwem-ws-rasistowskich-zachowan-w-meczu-z-sociedadem</link>
         <pubDate>Sun, 09 Mar 2025 08:35:00 GMT</pubDate>
         <description>Baskijska policja potwierdziła, że zajęła się donosem w sprawie rasistowskich zachowań w meczu Sociedadu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Obronić pozycję lidera</title>
-        <link>https://www.realmadryt.pl/news/137531-obronic-pozycje-lidera</link>
-        <pubDate>Sun, 09 Mar 2025 08:00:00 GMT</pubDate>
-        <description>W 22. kolejce Ligi Endesa Real Madryt zagra z Murcią. Królewscy będą chcieli obronić pozycję samodzielnego lidera, natomiast rywale skupiają się na walce o awans do play-offów.</description>
     </item>
     
 </channel>
