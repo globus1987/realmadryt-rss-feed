@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Mar 2025 09:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 09:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 marca</title>
+        <link>https://www.realmadryt.pl/news/137575-kartka-z-kalendarza-10-marca</link>
+        <pubDate>Mon, 10 Mar 2025 10:40:00 GMT</pubDate>
+        <description>Urodziny byłych piłkarzy lubianych i nielubianych, mnóstwo potyczek w 1/8 finału, emocjonujący Klasyk na Camp Nou i ostatnie spotkanie Santiago Solariego. Co działo się 10 marca?</description>
+    </item>
     
     <item>
         <title>Szymon Marciniak na rewanż z Atlético!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137567-lunin-jestesmy-swiadomi-z-jakim-herbem-gramy</link>
         <pubDate>Sun, 09 Mar 2025 19:08:00 GMT</pubDate>
         <description>Andrij Łunin udzielił wypowiedzi dla klubowej telewizji po wygranym 2:1 spotkaniu z Rayo. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>200 ligowych meczów Fede Valverde w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/137566-200-ligowych-meczow-fede-valverde-w-realu-madryt</link>
-        <pubDate>Sun, 09 Mar 2025 18:53:00 GMT</pubDate>
-        <description>Mecz z Rayo Vallecano był dla Fede Valverde 200. ligowym występem w barwach Realu Madryt.</description>
     </item>
     
 </channel>
