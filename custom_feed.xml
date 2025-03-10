@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Mar 2025 07:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 07:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Duże zainteresowanie byłym trenerem Realu Madryt C</title>
+        <link>https://www.realmadryt.pl/news/137573-duze-zainteresowanie-bylym-trenerem-realu-madryt-c</link>
+        <pubDate>Mon, 10 Mar 2025 08:40:00 GMT</pubDate>
+        <description>Zwolnienie Álvaro Gómeza-Reya była trudną decyzją dla Realu Madryt. Dziennik AS donosi, że strata pracy nie zatrzyma rozwoju tego młodego trenera (ma zaledwie 31 lat), ponieważ interesuje się nim wiele klubów.</description>
+    </item>
     
     <item>
         <title>Casteels: Federacja rozłożyła przed Courtois czerwony dywan</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137565-real-madrid-tv-var-i-katalonski-realizator-ukryli-rzut-karny-na-viniciusie</link>
         <pubDate>Sun, 09 Mar 2025 18:38:00 GMT</pubDate>
         <description>Klubowa telewizja analizę meczu z Rayo Vallecano poświęcono w dużej mierze nieodgwizdanemu karnemu z 2. minuty meczu. Tradycyjnie kataloński realizator meczu nie pokazał w transmisji tego zdarzenia widzowi w odpowiedni sposób. Wielu kibiców w ogóle nie wiedziało, że doszło do takiej akcji.</description>
-    </item>
-    
-    <item>
-        <title>Mecz z Rayo poprzedzony minutą ciszy</title>
-        <link>https://www.realmadryt.pl/news/137564-mecz-z-rayo-poprzedzony-minuta-ciszy</link>
-        <pubDate>Sun, 09 Mar 2025 18:31:00 GMT</pubDate>
-        <description>Dzisiejszy mecz Realu Madryt z Rayo Vallecano został poprzedzony minutą ciszy w związku z wczorajszą śmiercią lekarza Barcelony, Carlesa Miñarro Garcíi.</description>
     </item>
     
 </channel>
