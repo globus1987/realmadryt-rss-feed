@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Mar 2025 17:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 17:41:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Firma Florentino wśród kandydatów do zbudowania toru F1 w Madrycie</title>
+        <link>https://www.realmadryt.pl/news/137587-firma-florentino-wsrod-kandydatow-do-zbudowania-toru-f1-w-madrycie</link>
+        <pubDate>Mon, 10 Mar 2025 18:40:00 GMT</pubDate>
+        <description>Hiszpanie szykują się do przyjęcia wyścigów F1. Wśród firm stających do przetargu na budowę i rozmontowanie toru jest także ta prezesa Królewskich.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Mecze z Atlético mają inny klimat</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137574-szymon-marciniak-na-rewanz-z-atletico</link>
         <pubDate>Mon, 10 Mar 2025 10:03:00 GMT</pubDate>
         <description>Po raz dziesiąty w karierze Szymon Marciniak poprowadzi mecz z udziałem Realu Madryt. Królewscy wygrali dotychczas cztery spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Sędziowie nie mają nic wspólnego z tym, co stało się z naszą grą</title>
-        <link>https://www.realmadryt.pl/news/137572-simeone-sedziowie-nie-maja-nic-wspolnego-z-tym-co-stalo-sie-z-nasza-gra</link>
-        <pubDate>Mon, 10 Mar 2025 09:30:00 GMT</pubDate>
-        <description>Diego Simeone zabrał głos po porażce z Getafe i na trzy dni przed rewanżem w Lidze Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi trenera Atlético Madryt po niedzielnym spotkaniu na konferencji prasowej i w wywiadzie dla DAZN.</description>
     </item>
     
 </channel>
