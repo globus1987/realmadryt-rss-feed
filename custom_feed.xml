@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Mar 2025 08:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 08:40:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Simeone: Sędziowie nie mają nic wspólnego z tym, co stało się z naszą grą</title>
+        <link>https://www.realmadryt.pl/news/137572-simeone-sedziowie-nie-maja-nic-wspolnego-z-tym-co-stalo-sie-z-nasza-gra</link>
+        <pubDate>Mon, 10 Mar 2025 09:30:00 GMT</pubDate>
+        <description>Diego Simeone zabrał głos po porażce z Getafe i na trzy dni przed rewanżem w Lidze Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi trenera Atlético Madryt po niedzielnym spotkaniu na konferencji prasowej i w wywiadzie dla DAZN.</description>
+    </item>
     
     <item>
         <title>Duże zainteresowanie byłym trenerem Realu Madryt C</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137561-real-madryt-2-1-rayo-vallecano-video</link>
         <pubDate>Sun, 09 Mar 2025 18:40:00 GMT</pubDate>
         <description>W meczu 27. kolejki Real Madryt wygrał u siebie z Rayo Vallecano 2:1. Gole dla Królewskich strzelili Kylian Mbappé i Vinícius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV: VAR i kataloński realizator „ukryli” rzut karny na Viníciusie</title>
-        <link>https://www.realmadryt.pl/news/137565-real-madrid-tv-var-i-katalonski-realizator-ukryli-rzut-karny-na-viniciusie</link>
-        <pubDate>Sun, 09 Mar 2025 18:38:00 GMT</pubDate>
-        <description>Klubowa telewizja analizę meczu z Rayo Vallecano poświęcono w dużej mierze nieodgwizdanemu karnemu z 2. minuty meczu. Tradycyjnie kataloński realizator meczu nie pokazał w transmisji tego zdarzenia widzowi w odpowiedni sposób. Wielu kibiców w ogóle nie wiedziało, że doszło do takiej akcji.</description>
     </item>
     
 </channel>
