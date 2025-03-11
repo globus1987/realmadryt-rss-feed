@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Mar 2025 23:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 23:53:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137624-dzisiejsze-okladki</link>
+        <pubDate>Wed, 12 Mar 2025 00:48:00 GMT</pubDate>
+        <description>Euroderby Madrytu i wygrana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Trent Alexander-Arnold zmieniony przez możliwą kontuzję kolana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137611-ancelotti-brahim-i-modric-mam-wiecej-niz-11-pilkarzy-ktorzy-moga-zagrac-w-tym-meczu</link>
         <pubDate>Tue, 11 Mar 2025 16:43:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Wybory Raúla dotyczące bramkarzy zaskakują klub</title>
-        <link>https://www.realmadryt.pl/news/137609-relevo-wybory-raula-dotyczace-bramkarzy-zaskakuja-klub</link>
-        <pubDate>Tue, 11 Mar 2025 15:43:00 GMT</pubDate>
-        <description>Real chciał promować Frana Gonzáleza i ewentualnie Diego Piñeiro, ale trener Castilli ostatecznie zdecydował się stawiać na Mario de Luisa.</description>
     </item>
     
 </channel>
