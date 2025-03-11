@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Mar 2025 14:24:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 14:44:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Wybory Raúla dotyczące bramkarzy zaskakują klub</title>
+        <link>https://www.realmadryt.pl/news/137609-relevo-wybory-raula-dotyczace-bramkarzy-zaskakuja-klub</link>
+        <pubDate>Tue, 11 Mar 2025 15:43:00 GMT</pubDate>
+        <description>Real chciał promować Frana Gonzáleza i ewentualnie Diego Piñeiro, ale trener Castilli ostatecznie zdecydował się stawiać na Mario de Luisa.</description>
+    </item>
     
     <item>
         <title>Romano: Real przedłużył kontrakt z Wołoszynem do 2029 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137596-zgarnij-400-zl-za-awans-realu-madryt-w-derbach-z-atletico</link>
         <pubDate>Tue, 11 Mar 2025 10:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Atlético wie, jak zatrzymać Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/137593-atletico-wie-jak-zatrzymac-viniciusa</link>
-        <pubDate>Tue, 11 Mar 2025 09:30:00 GMT</pubDate>
-        <description>Zespół z Metropolitano jest niewygodnym rywalem dla Viniego, który rzadko pomaga drużynie w derbach.</description>
     </item>
     
 </channel>
