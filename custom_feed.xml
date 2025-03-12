@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Mar 2025 07:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 07:53:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiaj spotkanie dotyczące zmian w systemie sędziowskim z udziałem Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/137631-dzisiaj-spotkanie-dotyczace-zmian-w-systemie-sedziowskim-z-udzialem-realu-madryt</link>
+        <pubDate>Wed, 12 Mar 2025 08:48:00 GMT</pubDate>
+        <description>Hiszpańska Federacja Piłkarska zaprosiła Królewskich na dzisiejsze spotkanie, podczas którego omawiana będzie możliwa restrukturyzacja Komitetu Technicznego Sędziów.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Odpowiedzialni za zwycięstwo zawsze są piłkarze, a za porażkę wy już wiecie kto</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137615-marca-mbappe-zmaga-sie-z-dolegliwosciami-miesniowymi</link>
         <pubDate>Tue, 11 Mar 2025 18:17:00 GMT</pubDate>
         <description>Francuz nie rozpoczął treningu z kolegami. Pierwsze dokładniejsze informacje mówią o problemach mięśniowych.</description>
-    </item>
-    
-    <item>
-        <title>Wtorkowe mecze Ligi Mistrzów: PSG wyeliminowało Liverpool!</title>
-        <link>https://www.realmadryt.pl/news/137614-wtorkowe-mecze-ligi-mistrzow-psg-wyeliminowalo-liverpool</link>
-        <pubDate>Tue, 11 Mar 2025 18:15:00 GMT</pubDate>
-        <description>We wtorkowych rewanżach 1/8 finału Ligi Mistrzów trójka faworytów obroniła swoje zaliczki z pierwszych meczów, ale zawiódł ten największy z nich!</description>
     </item>
     
 </channel>
