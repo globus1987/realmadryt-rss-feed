@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Mar 2025 22:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 22:54:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Atlético</title>
+        <link>https://www.realmadryt.pl/news/137652-ocen-pilkarzy-po-meczu-z-atletico</link>
+        <pubDate>Wed, 12 Mar 2025 23:44:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
     
     <item>
         <title>Klasyczna porażka kobiet</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Atlético Madryt – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137647-atletico-madryt-real-madryt-live</link>
+        <title>Esto es fútbol, papá</title>
+        <link>https://www.realmadryt.pl/news/137647-esto-es-futbol-papa</link>
         <pubDate>Wed, 12 Mar 2025 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa rewanżowe spotkanie w 1/8 finału Ligi Mistrzów między Atlético Madryt a Realem Madryt. W pierwszym meczu Królewscy wygrali 2:1.</description>
+        <description>Real Madryt gra dalej!</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137641-cope-mbappe-i-modric-od-pierwszej-minuty</link>
         <pubDate>Wed, 12 Mar 2025 14:58:00 GMT</pubDate>
         <description>Dziennikarz COPE podaje, że trener Realu Madryt podjął ostateczne decyzje w sprawie składu na rewanżowe euroderby.</description>
-    </item>
-    
-    <item>
-        <title>Zakończyło się spotkanie dotyczące zmian w systemie sędziowskim: „Nie rozmawialiśmy o Real Madrid TV”</title>
-        <link>https://www.realmadryt.pl/news/137640-zakonczylo-sie-spotkanie-dotyczace-zmian-w-systemie-sedziowskim-nie-rozmawialismy-o-real-madrid-tv</link>
-        <pubDate>Wed, 12 Mar 2025 14:28:00 GMT</pubDate>
-        <description>W Las Rozas odbyło się pierwsze spotkanie komisji ds. analizy systemu sędziowskiego z udziałem Realu Madryt i innych przedstawicieli.</description>
     </item>
     
 </channel>
