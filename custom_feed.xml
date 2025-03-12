@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Mar 2025 05:54:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 06:32:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zaktualizowana drabinka Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/137628-zaktualizowana-drabinka-ligi-mistrzow</link>
+        <pubDate>Wed, 12 Mar 2025 07:30:00 GMT</pubDate>
+        <description>Wtorkowe rewanże 1/8 finału pozwoliły zaktualizować drabinkę Ligi Mistrzów. Po stronie Królewskich na razie awansowała tylko jedna ekipa.</description>
+    </item>
+    
+    <item>
+        <title>Atlético Madryt – Real Madryt: Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/137626-atletico-madryt-real-madryt-przewidywane-sklady</link>
+        <pubDate>Wed, 12 Mar 2025 07:00:00 GMT</pubDate>
+        <description>Królewscy podchodzą do rewanżowych euroderbów bez kontuzjowanych Daniego Carvajala, Édera Militão Jesúsa Vallejo i Daniego Ceballosa. Poza tym do końca wahać się będzie status Kyliana Mbappé.</description>
+    </item>
     
     <item>
         <title>Media: Decyzja ws. występu Mbappé po porannym teście</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137613-tchouameni-gwizdy-najwazniejsze-jest-bycie-skoncentrowanym-na-meczu</link>
         <pubDate>Tue, 11 Mar 2025 17:12:00 GMT</pubDate>
         <description>Aurélien Tchouaméni pojawił się dzisiaj na konferencji prasowej przed jutrzjeszym spotkaniem z Atlético Madryt w Lidze Mistrzów. Przedstawiamy zapis tego spotkania pomocnika Realu Madryt z dziennikarzami w Valdebebas. Francuz odpowiadał głównie po hiszpańsku.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé nie trenuje z grupą! [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/137610-mbappe-nie-trenuje-z-grupa-na-zywo</link>
-        <pubDate>Tue, 11 Mar 2025 17:01:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Atlético Madryt w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Footy Headlines: Kolejne zdjęcie wyjazdowej koszulki Realu na sezon 2025/26</title>
-        <link>https://www.realmadryt.pl/news/137612-footy-headlines-kolejne-zdjecie-wyjazdowej-koszulki-realu-na-sezon-2025-26</link>
-        <pubDate>Tue, 11 Mar 2025 16:44:00 GMT</pubDate>
-        <description>Portal Footy Headlines pokazał kolejne zdjęcia zdjęcie wyjazdowego trykotu Realu Madryt na kolejny sezon.</description>
     </item>
     
 </channel>
