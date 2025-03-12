@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Mar 2025 11:53:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 12:48:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Atlético</title>
+        <link>https://www.realmadryt.pl/news/137630-kadra-na-atletico</link>
+        <pubDate>Wed, 12 Mar 2025 13:42:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas rewanżowego meczu z Atlético Madryt. Włoch powołał 23 piłkarzy.</description>
+    </item>
+    
+    <item>
+        <title>„To maszyna do koncentracji, ma niezwykle poukładaną głowę i rzadko traci skupienie”</title>
+        <link>https://www.realmadryt.pl/news/137638-to-maszyna-do-koncentracji-ma-niezwykle-poukladana-glowe-i-rzadko-traci-skupienie</link>
+        <pubDate>Wed, 12 Mar 2025 13:00:00 GMT</pubDate>
+        <description>Raúl Asencio imponuje nie tylko samą grą, ale także pozostałymi cechami.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Correa zawieszony na 5 meczów za obrażenie sędziego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137618-de-paul-w-futbolu-nie-zawsze-wygrywa-lepszy-zespol</link>
         <pubDate>Wed, 12 Mar 2025 09:10:00 GMT</pubDate>
         <description>Rodrigo De Paul stawił się na konferencji prasowej przed rewanżowym meczem 1/8 finału Ligi Mistrzów z Realem Madryt. Poniżej przedstawiamy zapis wypowiedzi zawodnika Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj spotkanie dotyczące zmian w systemie sędziowskim z udziałem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/137631-dzisiaj-spotkanie-dotyczace-zmian-w-systemie-sedziowskim-z-udzialem-realu-madryt</link>
-        <pubDate>Wed, 12 Mar 2025 08:48:00 GMT</pubDate>
-        <description>Hiszpańska Federacja Piłkarska zaprosiła Królewskich na dzisiejsze spotkanie, podczas którego omawiana będzie możliwa restrukturyzacja Komitetu Technicznego Sędziów.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Odpowiedzialni za zwycięstwo zawsze są piłkarze, a za porażkę wy już wiecie kto</title>
-        <link>https://www.realmadryt.pl/news/137621-ancelotti-odpowiedzialni-za-zwyciestwo-zawsze-sa-pilkarze-a-za-porazke-wy-juz-wiecie-kto</link>
-        <pubDate>Wed, 12 Mar 2025 08:20:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Atlético Madryt w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
