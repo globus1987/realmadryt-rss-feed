@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Mar 2025 14:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 15:27:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rewanżowy Klasyk w półfinale Pucharu Królowej</title>
+        <link>https://www.realmadryt.pl/news/137642-rewanzowy-klasyk-w-polfinale-pucharu-krolowej</link>
+        <pubDate>Wed, 12 Mar 2025 16:15:00 GMT</pubDate>
+        <description>W rewanżowym półfinale Copa de la Reina piłkarki Realu Madryt zmierzą się na Estadi Johan Cruyff z Barceloną. Początek meczu o godzinie 19:00.</description>
+    </item>
     
     <item>
         <title>COPE: Mbappé i Modrić od pierwszej minuty!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137623-pokonac-siebie</link>
         <pubDate>Wed, 12 Mar 2025 10:37:00 GMT</pubDate>
         <description>Czy najtrudniejszym rywalem Realu Madryt jest… sam Real Madryt?</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 12 marca</title>
-        <link>https://www.realmadryt.pl/news/137629-kartka-z-kalendarza-12-marca</link>
-        <pubDate>Wed, 12 Mar 2025 10:36:00 GMT</pubDate>
-        <description>Pierwszy mecz Vicente del Bosque w roli trenera, powrót legendarnego pomocnika na Santiago Bernabéu i fatalny mecz Keylora, któremu na ratunek przyszedł Sergio Ramos. Co działo się 12 marca?</description>
     </item>
     
 </channel>
