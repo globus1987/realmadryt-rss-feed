@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Mar 2025 23:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 01:51:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Decyzja ws. występu Mbappé po porannym teście</title>
+        <link>https://www.realmadryt.pl/news/137625-media-decyzja-ws-wystepu-mbappe-po-porannym-tescie</link>
+        <pubDate>Wed, 12 Mar 2025 01:38:00 GMT</pubDate>
+        <description>Francuz zmaga się ze stłuczeniem kostki z ostatniego spotkania. Decyzja w sprawie jego występu w euroderbach zapadnie po dzisiejszym teście na murawie. Jego występ ma stać pod dużym znakiem zapytania.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137612-footy-headlines-kolejne-zdjecie-wyjazdowej-koszulki-realu-na-sezon-2025-26</link>
         <pubDate>Tue, 11 Mar 2025 16:44:00 GMT</pubDate>
         <description>Portal Footy Headlines pokazał kolejne zdjęcia zdjęcie wyjazdowego trykotu Realu Madryt na kolejny sezon.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Brahim i Modrić? Mam więcej niż 11 piłkarzy, którzy mogą zagrać w tym meczu</title>
-        <link>https://www.realmadryt.pl/news/137611-ancelotti-brahim-i-modric-mam-wiecej-niz-11-pilkarzy-ktorzy-moga-zagrac-w-tym-meczu</link>
-        <pubDate>Tue, 11 Mar 2025 16:43:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
