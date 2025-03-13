@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 08:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 08:55:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bez miejsca na błąd</title>
+        <link>https://www.realmadryt.pl/news/137669-bez-miejsca-na-blad</link>
+        <pubDate>Thu, 13 Mar 2025 09:33:00 GMT</pubDate>
+        <description>W 29. kolejce Euroligi Real Madryt zagra na wyjeździe z Virtusem. Dla Królewskich jest to kluczowe spotkanie w walce o miejsce w czołowej dziesiątce.</description>
+    </item>
     
     <item>
         <title>Tchouaméni zawieszony na pierwszy ćwierćfinał z Arsenalem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137658-ancelotti-piatego-karnego-mial-strzelac-endrick-ale-nie-byl-z-tego-powodu-najszczesliwszy</link>
         <pubDate>Thu, 13 Mar 2025 00:33:00 GMT</pubDate>
         <description>Carlo Ancelotti po meczu Ligi Mistrzów z Atlético Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Estadio Metropolitano.</description>
-    </item>
-    
-    <item>
-        <title>Arsenal rywalem Realu w ćwierćfinale</title>
-        <link>https://www.realmadryt.pl/news/137657-arsenal-rywalem-realu-w-cwiercfinale</link>
-        <pubDate>Thu, 13 Mar 2025 00:23:00 GMT</pubDate>
-        <description>Znamy wszystkich ośmiu ćwierćfinalistów Ligi Mistrzów.</description>
     </item>
     
 </channel>
