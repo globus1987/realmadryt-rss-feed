@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 08:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 09:25:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Julián Álvarez w szatni: „Nie czułem, żebym dotknął piłki”</title>
+        <link>https://www.realmadryt.pl/news/137670-julian-alvarez-w-szatni-nie-czulem-zebym-dotknal-pilki</link>
+        <pubDate>Thu, 13 Mar 2025 10:22:00 GMT</pubDate>
+        <description>Argentyńczyk nie zrozumiał decyzji VAR-u, ponieważ uważa, że przy strzale zmylił Courtois.</description>
+    </item>
     
     <item>
         <title>Bez miejsca na błąd</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137659-dzisiejsze-okladki</link>
         <pubDate>Thu, 13 Mar 2025 01:32:00 GMT</pubDate>
         <description>Awans Realu Madryt i osiągnięcia Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Piątego karnego miał strzelać Endrick, ale nie był z tego powodu najszczęśliwszy!</title>
-        <link>https://www.realmadryt.pl/news/137658-ancelotti-piatego-karnego-mial-strzelac-endrick-ale-nie-byl-z-tego-powodu-najszczesliwszy</link>
-        <pubDate>Thu, 13 Mar 2025 00:33:00 GMT</pubDate>
-        <description>Carlo Ancelotti po meczu Ligi Mistrzów z Atlético Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Estadio Metropolitano.</description>
     </item>
     
 </channel>
