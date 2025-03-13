@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 07:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 07:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo: Siedziałem wtedy na ławce i od razu zwróciłem uwagę, że piłka odbiła się jakoś dziwnie od jego stopy</title>
+        <link>https://www.realmadryt.pl/news/137667-rodrygo-siedzialem-wtedy-na-lawce-i-od-razu-zwrocilem-uwage-ze-pilka-odbila-sie-jakos-dziwnie-od-jego-stopy</link>
+        <pubDate>Thu, 13 Mar 2025 08:51:00 GMT</pubDate>
+        <description>Brazylijski atakujący po wczorajszym spotkaniu rozmawiał z TNT Sports Brasil. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
+    </item>
+    
+    <item>
+        <title>Courtois: Jestem zmęczony zgrywaniem ofiary przez Simeone i wiecznym płaczem</title>
+        <link>https://www.realmadryt.pl/news/137664-courtois-jestem-zmeczony-zgrywaniem-ofiary-przez-simeone-i-wiecznym-placzem</link>
+        <pubDate>Thu, 13 Mar 2025 08:40:00 GMT</pubDate>
+        <description>Thibaut Courtois po meczu pojawił się w strefie mieszanej Metropolitano. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tego spotkania z dziennikarzami telewizyjnymi i radiowymi.</description>
+    </item>
     
     <item>
         <title>Camavinga: Pierwszy raz widziałem, aby ktoś dwa razy dotknął piłkę przed wykonaniem karnego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137655-oblak-to-bardzo-boli</link>
         <pubDate>Thu, 13 Mar 2025 00:04:00 GMT</pubDate>
         <description>Jan Oblak udzielił wywiadu dla telewizji Movistar+ po odpadnięciu Atlético Madryt z Ligi Mistrzów. Przedstawiamy wypowiedzi bramkarza Atleti.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Zawsze wychodzimy tu, jakby mecz był już wygrany</title>
-        <link>https://www.realmadryt.pl/news/137654-valverde-zawsze-wychodzimy-tu-jakby-mecz-byl-juz-wygrany</link>
-        <pubDate>Thu, 13 Mar 2025 00:02:00 GMT</pubDate>
-        <description>Federico Valverde po meczu Ligi Mistrzów z Atlético Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt z murawy Estadio Metropolitano.</description>
-    </item>
-    
-    <item>
-        <title>Álvarez MVP rewanżu w 1/8 finału</title>
-        <link>https://www.realmadryt.pl/news/137653-alvarez-mvp-rewanzu-w-1-8-finalu</link>
-        <pubDate>Thu, 13 Mar 2025 00:01:00 GMT</pubDate>
-        <description>Argentyńczyk otrzymał nagrodę dla najlepszego zawodnika meczu Atlético Madryt z Realem Madryt.</description>
     </item>
     
 </channel>
