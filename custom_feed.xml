@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 10:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 11:20:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Atlético</title>
+        <link>https://www.realmadryt.pl/news/137671-oceny-zawodnikow-po-meczu-z-atletico</link>
+        <pubDate>Thu, 13 Mar 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt przegrał na wyjeździe z Atlético 0:1, ale był lepszy w rzutach karnych (4:2) i awansował do ćwierćfinału Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>200 meczów Mendy'ego w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137663-atletico-1-0-karne-2-4-real-madryt-skrot</link>
         <pubDate>Thu, 13 Mar 2025 07:00:00 GMT</pubDate>
         <description>Real Madryt awansował do ćwierćfinału Ligi Mistrzów, wygrywając serię karnych na Metropolitano. Zapraszamy do obejrzenia wszystkich trafień.</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Niech podniesie rękę, kto widział podwójne dotknięcie Juliána | Ceballos: 🤚🏼</title>
-        <link>https://www.realmadryt.pl/news/137661-simeone-niech-podniesie-reke-kto-widzial-podwojne-dotkniecie-juliana-ceballos</link>
-        <pubDate>Thu, 13 Mar 2025 06:00:00 GMT</pubDate>
-        <description>Diego Simeone nie pogodził się z decyzją sędziego, który anulował rzut karny Atlético Madryt. Jedną emotką odpowiedział mu Dani Ceballos.</description>
     </item>
     
 </channel>
