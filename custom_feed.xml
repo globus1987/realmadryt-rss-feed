@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 07:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 07:39:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Camavinga: Pierwszy raz widziałem, aby ktoś dwa razy dotknął piłkę przed wykonaniem karnego</title>
+        <link>https://www.realmadryt.pl/news/137666-camavinga-pierwszy-raz-widzialem-aby-ktos-dwa-razy-dotknal-pilke-przed-wykonaniem-karnego</link>
+        <pubDate>Thu, 13 Mar 2025 08:36:00 GMT</pubDate>
+        <description>Eduardo Camavinga udzielił wywiadu mediom po meczu z Atlético Madryt w Lidze Mistrzów. Przedstawiamy wypowiedzi zawodnika Królewskich.</description>
+    </item>
     
     <item>
         <title>Vinícius po meczu odpalił się na murawie i na portalu X</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137653-alvarez-mvp-rewanzu-w-1-8-finalu</link>
         <pubDate>Thu, 13 Mar 2025 00:01:00 GMT</pubDate>
         <description>Argentyńczyk otrzymał nagrodę dla najlepszego zawodnika meczu Atlético Madryt z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Atlético</title>
-        <link>https://www.realmadryt.pl/news/137652-ocen-pilkarzy-po-meczu-z-atletico</link>
-        <pubDate>Wed, 12 Mar 2025 23:44:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
