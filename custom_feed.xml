@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 11:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 11:39:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/137676-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 13 Mar 2025 12:27:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Vinícius poprosił o zmianę, ale i tak nie strzelałby karnego</title>
+        <link>https://www.realmadryt.pl/news/137675-ancelotti-vinicius-poprosil-o-zmiane-ale-i-tak-nie-strzelalby-karnego</link>
+        <pubDate>Thu, 13 Mar 2025 12:22:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po rewanżu 1/8 finału Ligi Mistrzów z Atlético Madryt. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Estadio Metropolitano.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Atlético</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137666-camavinga-pierwszy-raz-widzialem-aby-ktos-dwa-razy-dotknal-pilke-przed-wykonaniem-karnego</link>
         <pubDate>Thu, 13 Mar 2025 08:36:00 GMT</pubDate>
         <description>Eduardo Camavinga udzielił wywiadu mediom po meczu z Atlético Madryt w Lidze Mistrzów. Przedstawiamy wypowiedzi zawodnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius po meczu odpalił się na murawie i na portalu X</title>
-        <link>https://www.realmadryt.pl/news/137662-vinicius-po-meczu-odpalil-sie-na-murawie-i-na-portalu-x</link>
-        <pubDate>Thu, 13 Mar 2025 08:00:00 GMT</pubDate>
-        <description>Brazylijczyk po meczu nie brał jeńców na portalu X (dawnym Twitterze).</description>
-    </item>
-    
-    <item>
-        <title>Atlético 1:0 (karne 2:4) Real Madryt [SKRÓT]</title>
-        <link>https://www.realmadryt.pl/news/137663-atletico-1-0-karne-2-4-real-madryt-skrot</link>
-        <pubDate>Thu, 13 Mar 2025 07:00:00 GMT</pubDate>
-        <description>Real Madryt awansował do ćwierćfinału Ligi Mistrzów, wygrywając serię karnych na Metropolitano. Zapraszamy do obejrzenia wszystkich trafień.</description>
     </item>
     
 </channel>
