@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 14:23:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 14:43:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalne oświadczenie UEFA w sprawie decyzji VAR-u podczas meczu Atlético z Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/137682-oficjalne-oswiadczenie-uefa-w-sprawie-decyzji-var-u-podczas-meczu-atletico-z-realem-madryt</link>
+        <pubDate>Thu, 13 Mar 2025 15:23:00 GMT</pubDate>
+        <description>UEFA zawiera oficjalnie głos i przedstawia nagranie.</description>
+    </item>
     
     <item>
         <title>Mbappé powołany do reprezentacji Francji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137673-podwojne-dotkniecie-juliana-alvareza-i-inne-podobne-przypadki</link>
         <pubDate>Thu, 13 Mar 2025 11:25:00 GMT</pubDate>
         <description>Argentyńczyk wykonał rzut karny, ale polski sędzia anulował gola, ponieważ piłka dotknęła obu stóp napastnika, zanim wpadła do bramki.</description>
-    </item>
-    
-    <item>
-        <title>Julián Álvarez po strzale: „Nie wiem”; Julián Álvarez w szatni: „Nie czułem, żebym dotknął piłki”</title>
-        <link>https://www.realmadryt.pl/news/137670-julian-alvarez-po-strzale-nie-wiem-julian-alvarez-w-szatni-nie-czulem-zebym-dotknal-pilki</link>
-        <pubDate>Thu, 13 Mar 2025 10:22:00 GMT</pubDate>
-        <description>Argentyńczyk nie zrozumiał decyzji VAR-u, ponieważ uważa, że przy strzale zmylił Courtois.</description>
     </item>
     
 </channel>
