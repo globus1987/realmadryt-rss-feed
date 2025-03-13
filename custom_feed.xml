@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 14:43:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 14:56:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Ferland Mendy kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/137684-oficjalnie-ferland-mendy-kontuzjowany</link>
+        <pubDate>Thu, 13 Mar 2025 15:53:00 GMT</pubDate>
+        <description>Francuski pomocnik wypada z gry i nie będzie mógł zagrać w najbliższych spotkaniach.</description>
+    </item>
+    
+    <item>
+        <title>Wejście, które uratowało Real</title>
+        <link>https://www.realmadryt.pl/news/137683-wejscie-ktore-uratowalo-real</link>
+        <pubDate>Thu, 13 Mar 2025 15:50:00 GMT</pubDate>
+        <description>Wychowanek w 58. minucie spotkania z Atlético wykonał spektakularny wślizg, który zatrzymał niebezpieczny atak gospodarzy.</description>
+    </item>
     
     <item>
         <title>Oficjalne oświadczenie UEFA w sprawie decyzji VAR-u podczas meczu Atlético z Realem Madryt</title>
@@ -38,7 +52,7 @@
         <title>Antonio Rüdiger powołany do reprezentacji</title>
         <link>https://www.realmadryt.pl/news/137678-antonio-ruediger-powolany-do-reprezentacji</link>
         <pubDate>Thu, 13 Mar 2025 14:03:00 GMT</pubDate>
-        <description>Julian Nagelsmann powołał 23 zawodników na wrześniowe mecze reprezentacji Niemiec z Włochami w ćwierćfinałach Ligi Narodów.</description>
+        <description>Julian Nagelsmann powołał 23 zawodników na marcowe mecze reprezentacji Niemiec z Włochami w ćwierćfinałach Ligi Narodów.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137671-oceny-zawodnikow-po-meczu-z-atletico</link>
         <pubDate>Thu, 13 Mar 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt przegrał na wyjeździe z Atlético 0:1, ale był lepszy w rzutach karnych (4:2) i awansował do ćwierćfinału Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>200 meczów Mendy'ego w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/137674-200-meczow-mendyego-w-realu-madryt</link>
-        <pubDate>Thu, 13 Mar 2025 11:33:00 GMT</pubDate>
-        <description>Ferland Mendy zanotował w meczu z Atlético Madryt swój 200. występ w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Podwójne dotknięcie Juliána Álvareza i inne podobne przypadki</title>
-        <link>https://www.realmadryt.pl/news/137673-podwojne-dotkniecie-juliana-alvareza-i-inne-podobne-przypadki</link>
-        <pubDate>Thu, 13 Mar 2025 11:25:00 GMT</pubDate>
-        <description>Argentyńczyk wykonał rzut karny, ale polski sędzia anulował gola, ponieważ piłka dotknęła obu stóp napastnika, zanim wpadła do bramki.</description>
     </item>
     
 </channel>
