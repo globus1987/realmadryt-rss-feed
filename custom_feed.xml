@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 21:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 22:21:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pewna wygrana w Bolonii</title>
+        <link>https://www.realmadryt.pl/news/137696-pewna-wygrana-w-bolonii</link>
+        <pubDate>Thu, 13 Mar 2025 23:03:00 GMT</pubDate>
+        <description>W 29. kolejce Euroligi Real Madryt pokonał na wyjeździe Virtusa i przybliżyła się do czołowej dziesiątki. Teraz Królewscy muszą czekać na jutrzejszą odpowiedź sąsiadów z tabeli.</description>
+    </item>
     
     <item>
         <title>Od ramadanu do ekstazy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137683-wejscie-ktore-uratowalo-real</link>
         <pubDate>Thu, 13 Mar 2025 15:50:00 GMT</pubDate>
         <description>Wychowanek w 58. minucie spotkania z Atlético wykonał spektakularny wślizg, który zatrzymał niebezpieczny atak gospodarzy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalne oświadczenie UEFA w sprawie decyzji VAR-u podczas meczu Atlético z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/137682-oficjalne-oswiadczenie-uefa-w-sprawie-decyzji-var-u-podczas-meczu-atletico-z-realem-madryt</link>
-        <pubDate>Thu, 13 Mar 2025 15:23:00 GMT</pubDate>
-        <description>UEFA zawiera oficjalnie głos i przedstawia nagranie.</description>
     </item>
     
 </channel>
