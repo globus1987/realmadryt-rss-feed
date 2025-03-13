@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 18:32:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 18:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od ramadanu do ekstazy</title>
+        <link>https://www.realmadryt.pl/news/137694-od-ramadanu-do-ekstazy</link>
+        <pubDate>Thu, 13 Mar 2025 19:41:00 GMT</pubDate>
+        <description>Niemiec, podobnie jak przed rokiem z Manchesterem City, wziął na siebie odpowiedzialność wykonania decydującego rzutu karnego i nie zawiódł.</description>
+    </item>
     
     <item>
         <title>Julián Álvarez: Gratulacje dla Realu Madryt za awans</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137682-oficjalne-oswiadczenie-uefa-w-sprawie-decyzji-var-u-podczas-meczu-atletico-z-realem-madryt</link>
         <pubDate>Thu, 13 Mar 2025 15:23:00 GMT</pubDate>
         <description>UEFA zawiera oficjalnie głos i przedstawia nagranie.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé powołany do reprezentacji Francji</title>
-        <link>https://www.realmadryt.pl/news/137681-mbappe-powolany-do-reprezentacji-francji</link>
-        <pubDate>Thu, 13 Mar 2025 14:43:00 GMT</pubDate>
-        <description>Kylian Mbappé, Aurélien Tchouaméni i Eduardo Camavinga znaleźli się na liście powołanych zawodników na marcowe mecze reprezentacji Francji w Lidze Narodów.</description>
     </item>
     
 </channel>
