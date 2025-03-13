@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Mar 2025 13:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 13:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé powołany do reprezentacji Francji</title>
+        <link>https://www.realmadryt.pl/news/137681-mbappe-powolany-do-reprezentacji-francji</link>
+        <pubDate>Thu, 13 Mar 2025 14:43:00 GMT</pubDate>
+        <description>Kylian Mbappé, Aurélien Tchouaméni i Eduardo Camavinga znaleźli się na liście powołanych zawodników na marcowe mecze reprezentacji Francji w Lidze Narodów.</description>
+    </item>
+    
+    <item>
+        <title>„Rzut karny? Arsenal w ćwierćfinale”</title>
+        <link>https://www.realmadryt.pl/news/137680-rzut-karny-arsenal-w-cwiercfinale</link>
+        <pubDate>Thu, 13 Mar 2025 14:34:00 GMT</pubDate>
+        <description>Real Madryt nie przejmuje się kontrowersjami i już koncentruje się na starciu z drużyną Mikela Artety… ale nie traci z oczu sobotniego wyjazdu na Estadio de la Ceràmica.</description>
+    </item>
     
     <item>
         <title>Modrić trzecim graczem Realu z największą liczbą występów w Pucharze Europy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137670-julian-alvarez-po-strzale-nie-wiem-julian-alvarez-w-szatni-nie-czulem-zebym-dotknal-pilki</link>
         <pubDate>Thu, 13 Mar 2025 10:22:00 GMT</pubDate>
         <description>Argentyńczyk nie zrozumiał decyzji VAR-u, ponieważ uważa, że przy strzale zmylił Courtois.</description>
-    </item>
-    
-    <item>
-        <title>Bez miejsca na błąd</title>
-        <link>https://www.realmadryt.pl/news/137669-bez-miejsca-na-blad</link>
-        <pubDate>Thu, 13 Mar 2025 09:33:00 GMT</pubDate>
-        <description>W 29. kolejce Euroligi Real Madryt zagra na wyjeździe z Virtusem. Dla Królewskich jest to kluczowe spotkanie w walce o miejsce w czołowej dziesiątce.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni zawieszony na pierwszy ćwierćfinał z Arsenalem</title>
-        <link>https://www.realmadryt.pl/news/137665-tchouameni-zawieszony-na-pierwszy-cwiercfinal-z-arsenalem</link>
-        <pubDate>Thu, 13 Mar 2025 09:20:00 GMT</pubDate>
-        <description>Real Madryt traci jednego zawodnika na pierwszy ćwierćfinał Ligi Mistrzów, a zagrożonych zawieszeniem pozostaje sześciu innych graczy.</description>
     </item>
     
 </channel>
