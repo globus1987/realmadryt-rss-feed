@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Mar 2025 13:42:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 13:56:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Villarreal</title>
+        <link>https://www.realmadryt.pl/news/137719-kadra-na-villarreal</link>
+        <pubDate>Fri, 14 Mar 2025 14:51:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas ligowego spotkania z Villarrealem. Włoch powołał 21 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Gerard Piqué ze łzami w oczach zeznawał jako podejrzany w sprawie przeniesienia Superpucharu Hiszpanii do Arabii Saudyjskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137709-nadmierny-szacunek-atletico-wobec-realu-madryt</link>
         <pubDate>Fri, 14 Mar 2025 11:23:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat ostatnich derbów Madrytu w Lidze Mistrzów. Przedstawiamy spostrzeżenia dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Pojedynek z ligowym sąsiadem</title>
-        <link>https://www.realmadryt.pl/news/137698-pojedynek-z-ligowym-sasiadem</link>
-        <pubDate>Fri, 14 Mar 2025 09:47:00 GMT</pubDate>
-        <description>W 28. kolejce Primera Federación Castilla zagra na wyjeździe z Hérculesem. Oba zespoły mają tyle samo punktów i liczą się w walce o awans. W pierwszym spotkaniu górą byli madrytczycy.</description>
     </item>
     
 </channel>
