@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Mar 2025 09:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 10:25:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Nadmierny szacunek Atlético wobec Realu Madryt”</title>
+        <link>https://www.realmadryt.pl/news/137709-nadmierny-szacunek-atletico-wobec-realu-madryt</link>
+        <pubDate>Fri, 14 Mar 2025 11:23:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat ostatnich derbów Madrytu w Lidze Mistrzów. Przedstawiamy spostrzeżenia dziennikarza.</description>
+    </item>
     
     <item>
         <title>Pojedynek z ligowym sąsiadem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137697-podcast-6x23-czy-wymagasz-wiecej-od-realu-w-takim-rewanzu</link>
         <pubDate>Fri, 14 Mar 2025 00:03:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy rewanż z Atlético Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Graliśmy inteligentnie, kontrolując mecz od początku</title>
-        <link>https://www.realmadryt.pl/news/137699-mateo-gralismy-inteligentnie-kontrolujac-mecz-od-poczatku</link>
-        <pubDate>Thu, 13 Mar 2025 23:39:00 GMT</pubDate>
-        <description>Chus Mateo podsumował krótko zwycięskie spotkanie z Virtusem. Był zadowolony ze sposobu gry drużyny. Zapowiedział również powrót Decka.</description>
     </item>
     
 </channel>
