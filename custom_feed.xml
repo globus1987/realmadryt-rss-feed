@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Mar 2025 23:23:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 23:40:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137737-dzisiejsze-okladki</link>
+        <pubDate>Sat, 15 Mar 2025 00:24:00 GMT</pubDate>
+        <description>Mecz Realu Madryt oraz powołania do reprezentacji Hiszpanii to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Vinícius jest dla mnie niepodważalnym graczem, nawet jeśli czasami popełnia błędy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137723-brahim-z-powolaniem-do-reprezentacji</link>
         <pubDate>Fri, 14 Mar 2025 15:36:00 GMT</pubDate>
         <description>Selekcjoner Walid Regragui ogłosił kadrę na spotkania 5. i 6. kolejki eliminacji Mistrzostw Świata 2026.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Thibaut Courtois wraca do reprezentacji Belgii!</title>
-        <link>https://www.realmadryt.pl/news/137722-oficjalnie-thibaut-courtois-wraca-do-reprezentacji-belgii</link>
-        <pubDate>Fri, 14 Mar 2025 15:18:00 GMT</pubDate>
-        <description>Bramkarz otrzymał powołanie na najbliższe zgrupowanie, które rozpocznie się na początku przyszłego tygodnia.</description>
     </item>
     
 </channel>
