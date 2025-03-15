@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Mar 2025 20:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 20:39:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Granie dziś to brak szacunku do naszej drużyny,</title>
+        <link>https://www.realmadryt.pl/news/137771-courtois-granie-dzis-to-brak-szacunku-do-naszej-druzyny</link>
+        <pubDate>Sat, 15 Mar 2025 21:25:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu dla klubowej telewizji po wygranym 2:1 spotkaniu z Villarrealem. Przedstawiamy wypowiedzi bramkarza Królewskich.</description>
+    </item>
     
     <item>
         <title>Simeone: Powinienem mówić o Barcelonie, ale mamy poczucie wściekłości i niesprawiedliwości</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137760-najlepszy-bramkarz-w-historii-realu-madryt</link>
         <pubDate>Sat, 15 Mar 2025 15:56:00 GMT</pubDate>
         <description>Poniższy tekst jest tłumaczeniem felietonu, którego autorem jest Juan Ignacio García-Ochoa, redaktor dziennika MARCA. Przedstawiamy spostrzeżenia dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Remis z Deportivo przed starciem z Arsenalem</title>
-        <link>https://www.realmadryt.pl/news/137759-remis-z-deportivo-przed-starciem-z-arsenalem</link>
-        <pubDate>Sat, 15 Mar 2025 14:29:00 GMT</pubDate>
-        <description>W meczu 22. kolejki Ligi F piłkarki Realu Madryt zremisowały na Estadio Alfredo Di Stéfano z Deportivo La Coruña 2:2. Bramki dla Królewskich zdobyły Carla Camacho i Olga Carmona.</description>
     </item>
     
 </channel>
