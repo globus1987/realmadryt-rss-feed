@@ -4,7 +4,15 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Mar 2025 07:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 07:39:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tu nie ma co trenować…</title>
+        <link>https://www.realmadryt.pl/news/137695-tu-nie-ma-co-trenowac</link>
+        <pubDate>Sat, 15 Mar 2025 08:30:00 GMT</pubDate>
+        <description>„Przyszedł mecz półfinałowy z Australią. Trener powtarzał, że nie możemy dostać od gości, którzy na co dzień kopią się z kangurami”. 
+~ Wojciech Kowalczyk</description>
+    </item>
     
     <item>
         <title>Real Madrid TV: Dzisiaj gwiżdże sędzia od światowego skandalu, a na Varze zasiądzie żołnierz Cantalejo</title>
@@ -81,13 +89,6 @@
         <link>https://www.realmadryt.pl/news/137730-gimenez-chce-przekonac-siebie-do-tej-decyzji-by-nie-wrzucac-sobie-do-glowy-niczego-dziwnego</link>
         <pubDate>Fri, 14 Mar 2025 21:31:00 GMT</pubDate>
         <description>Decyzja Szymona Marciniaka, który anulowała rzut karny Atlético Madryt w serii jedenastek z Realem Madryt, wciąż wzbudza duże kontrowersje w Hiszpanii. Ostatnim, który zabrał głos w tej sprawie jest José María Giménez, obrońca Rojiblancos.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 28. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/137727-telewizyjny-terminarz-28-kolejki-la-ligi</link>
-        <pubDate>Fri, 14 Mar 2025 20:00:00 GMT</pubDate>
-        <description>Przed nami 28. kolejka La Ligi. Real Madryt zagra na wyjeździe z Villarrealem. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
