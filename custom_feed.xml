@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Mar 2025 19:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 19:38:11 GMT</lastBuildDate>
     
     <item>
-        <title>Villarreal CF – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/137763-villarreal-cf-real-madryt-live</link>
+        <title>Oceń piłkarzy po meczu z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/137764-ocen-pilkarzy-po-meczu-z-villarrealem</link>
+        <pubDate>Sat, 15 Mar 2025 20:26:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>28. kolejka: Real Madryt wygrywa, jest liderem i narzuca presję</title>
+        <link>https://www.realmadryt.pl/news/137766-28-kolejka-real-madryt-wygrywa-jest-liderem-i-narzuca-presje</link>
+        <pubDate>Sat, 15 Mar 2025 20:23:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Villarrealem w meczu 28. kolejki Primera División, więc czas rzucić okiem na układ tabeli.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé MVP meczu z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/137765-mbappe-mvp-meczu-z-villarrealem</link>
+        <pubDate>Sat, 15 Mar 2025 20:22:00 GMT</pubDate>
+        <description>Francuz został wyróżniony w wygranym przez Real Madryt meczu z Villarrealem.</description>
+    </item>
+    
+    <item>
+        <title>Cierpienie uszlachetnia</title>
+        <link>https://www.realmadryt.pl/news/137763-cierpienie-uszlachetnia</link>
         <pubDate>Sat, 15 Mar 2025 18:25:00 GMT</pubDate>
-        <description>O 18:30 rozpoczął się mecz 28. kolejki La Ligi, w którym Real Madryt mierzy się z Villarrealem na Estadio de la Cerámica.</description>
+        <description>W meczu 28. kolejki La Ligi Real Madryt wygrał z Villarrealem 2:1 na Estadio de la Cerámica. Bramkę dla gospodarzy zdobył Ayoze Pérez, natomiast trzy punkty zapewnił Królewskim dublet Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/137756-relevo-w-klubie-zapanowal-optymizm-w-sprawie-koncertow-na-bernabeu</link>
         <pubDate>Sat, 15 Mar 2025 13:47:00 GMT</pubDate>
         <description>Królewscy wskazali kwiecień jako kluczowy miesiąc na podjęcie kolejnych kroków w organizacji wydarzeń na swoim stadionie.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga rozwiewa wątpliwości co do swojej osoby</title>
-        <link>https://www.realmadryt.pl/news/137755-camavinga-rozwiewa-watpliwosci-co-do-swojej-osoby</link>
-        <pubDate>Sat, 15 Mar 2025 13:38:00 GMT</pubDate>
-        <description>Ancelotti pochwalił go: „W najtrudniejszym meczu był w najlepszej formie”. Czy Eduardo zagra od początku na La Cerámice?</description>
-    </item>
-    
-    <item>
-        <title>UEFA nie może zmieniać przepisów gry w piłkę nożną</title>
-        <link>https://www.realmadryt.pl/news/137754-uefa-nie-moze-zmieniac-przepisow-gry-w-pilke-nozna</link>
-        <pubDate>Sat, 15 Mar 2025 13:38:00 GMT</pubDate>
-        <description>Jedynym organem uprawnionym do wprowadzania zmian w przepisach jest IFAB.</description>
-    </item>
-    
-    <item>
-        <title>Tak sprawa Negreiry wyszła na światło dzienne… z tajemniczą wiadomością w burofaksie: „Dlaczego obiecał Bartomeu wyłączność?”</title>
-        <link>https://www.realmadryt.pl/news/137753-tak-sprawa-negreiry-wyszla-na-swiatlo-dzienne-z-tajemnicza-wiadomoscia-w-burofaksie-dlaczego-obiecal-bartomeu-wylacznosc</link>
-        <pubDate>Sat, 15 Mar 2025 13:17:00 GMT</pubDate>
-        <description>Sique Rodríguez, Jordi Martí i Adrià Soldevila ujawniają kulisy śledztwa, które doprowadziło do największego skandalu w historii hiszpańskiego futbolu. Tekst na łamach Relevo przygotował Alberto Martínez. Przedstawiamy jego pełne tłumaczenie.</description>
     </item>
     
 </channel>
