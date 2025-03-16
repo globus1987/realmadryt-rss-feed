@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Mar 2025 08:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 08:57:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kłopotliwe powołanie Mario de Luisa</title>
+        <link>https://www.realmadryt.pl/news/137787-klopotliwe-powolanie-mario-de-luisa</link>
+        <pubDate>Sun, 16 Mar 2025 09:56:00 GMT</pubDate>
+        <description>Powołanie Raula Asencio do reprezentacji nie było jedynym, o jakim dyskutowano w Valdebebas. Podobne poruszenie wywołała bowiem obecność na liście kadry U-21 Mario de Luisa. Reakcje w przypadku obu zawodników nie były jednak podobne.</description>
+    </item>
     
     <item>
         <title>„Powtarzająca się sytuacja budzi w AFE ogromne zaniepokojenie ze względu na możliwe konsekwencje zdrowotne dla piłkarzy”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137773-mbappe-mielismy-osobowosc-i-checi-by-grac-i-wygrac</link>
         <pubDate>Sun, 16 Mar 2025 05:30:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu dla klubowej telewizji po wygranym 2:1 spotkaniu z Villarrealem. Przedstawiamy zapis rozmowy z napastnikiem Realu Madryt, autorem dwóch bramek i MVP meczu z Żółtą Łodzią Podwodną.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/137781-dzisiejsze-okladki</link>
-        <pubDate>Sun, 16 Mar 2025 00:56:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i spotkanie Barcelony z Atlético to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
