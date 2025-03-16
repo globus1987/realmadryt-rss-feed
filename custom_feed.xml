@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Mar 2025 23:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 01:59:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137781-dzisiejsze-okladki</link>
+        <pubDate>Sun, 16 Mar 2025 00:56:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i spotkanie Barcelony z Atlético to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: La Liga zapewnia, że Real Madryt nie prosił o przełożenie meczu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137761-villarreal-real-madryt-znamy-sklady</link>
         <pubDate>Sat, 15 Mar 2025 16:38:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w ligowym mecz z Villarrealem. Spotkanie rozpocznie się o godzinie 18:30 na Estadio de la Cerámica.</description>
-    </item>
-    
-    <item>
-        <title>Bez zagrożonych zawieszeniem w La Lidze poza Viníciusem</title>
-        <link>https://www.realmadryt.pl/news/137740-bez-zagrozonych-zawieszeniem-w-la-lidze-poza-viniciusem</link>
-        <pubDate>Sat, 15 Mar 2025 15:58:00 GMT</pubDate>
-        <description>Królewscy pozostają z jednym zagrożonym zawieszeniem piłkarzem, ale na razie pozostaje on kontuzjowany.</description>
     </item>
     
 </channel>
