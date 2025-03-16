@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Mar 2025 05:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 05:40:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Skupmy się na terminarzu, który jest absolutnie absurdalny</title>
+        <link>https://www.realmadryt.pl/news/137780-ancelotti-skupmy-sie-na-terminarzu-ktory-jest-absolutnie-absurdalny</link>
+        <pubDate>Sun, 16 Mar 2025 06:25:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu dla klubowej telewizji po wygranym 2:1 spotkaniu z Villarrealem na Estadio de la Cerámica. Przedstawiamy zapis rozmowy z trenerem Królewskich.</description>
+    </item>
     
     <item>
         <title>Mbappé: Mieliśmy osobowość i chęci, by grać i wygrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137763-cierpienie-uszlachetnia</link>
         <pubDate>Sat, 15 Mar 2025 18:25:00 GMT</pubDate>
         <description>W meczu 28. kolejki La Ligi Real Madryt wygrał z Villarrealem 2:1 na Estadio de la Cerámica. Bramkę dla gospodarzy zdobył Juan Foyth, natomiast trzy punkty zapewnił Królewskim dublet Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV: Real Madryt nigdy więcej nie zagra bez co najmniej 72 godzin odpoczynku</title>
-        <link>https://www.realmadryt.pl/news/137762-real-madrid-tv-real-madryt-nigdy-wiecej-nie-zagra-bez-co-najmniej-72-godzin-odpoczynku</link>
-        <pubDate>Sat, 15 Mar 2025 17:11:00 GMT</pubDate>
-        <description>Real Madrid Televisión ogłasza, że klub „nigdy więcej nie zagra bez co najmniej 72 godzin odpoczynku” i zwróci się o ochronę do FIFA.</description>
     </item>
     
 </channel>
