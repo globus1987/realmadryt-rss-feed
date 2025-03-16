@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Mar 2025 10:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 11:18:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/137777-oceny-zawodnikow-po-meczu-z-villarrealem</link>
+        <pubDate>Sun, 16 Mar 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z Villarrealem 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Mbappé staje się liderem, jakiego widział w nim Florentino</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137783-cope-butragueno-dwukrotnie-prosil-la-lige-o-przelozenie-meczu-z-villarrealem</link>
         <pubDate>Sun, 16 Mar 2025 09:16:00 GMT</pubDate>
         <description>Oprócz sporu między La Ligą a Realem Madryt, dotyczącego godziny sobotniego meczu, pojawiło się także zamieszanie wokół spotkania Królewskich z Leganés.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dwa dni wolnego</title>
-        <link>https://www.realmadryt.pl/news/137775-krolewscy-maja-dwa-dni-wolnego</link>
-        <pubDate>Sun, 16 Mar 2025 09:00:00 GMT</pubDate>
-        <description>Tylko dwóch zdrowych zawodników będzie mieć do dyspozycji Carlo Ancelotti podczas przerwy na reprezentacje. Pięciu graczy jest kontuzjowanych, a większość piłkarzy otrzymała powołania do reprezentacji.</description>
     </item>
     
 </channel>
