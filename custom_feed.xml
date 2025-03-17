@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Mar 2025 23:53:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 01:56:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137802-dzisiejsze-okladki</link>
+        <pubDate>Mon, 17 Mar 2025 01:09:00 GMT</pubDate>
+        <description>Wygrana Barcelony z Atlético to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Powrót Decka jest bardzo dobrą wiadomością</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137790-cerezo-var-pozbawil-nas-jednego-z-najwiekszych-marzen</link>
         <pubDate>Sun, 16 Mar 2025 14:26:00 GMT</pubDate>
         <description>Enrique Cerezo udzielił wywiadu w programie El Pelotazo w telewizji Telemundo Deportes, gdzie podzielił się swoimi odczuciami z rewanżowego starcia 1/8 finału Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis rozmowy z prezesem Atleti.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/137777-oceny-zawodnikow-po-meczu-z-villarrealem</link>
-        <pubDate>Sun, 16 Mar 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał na wyjeździe z Villarrealem 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
