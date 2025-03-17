@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Mar 2025 05:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 06:34:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Aganzo: Zdrowie piłkarzy jest niepodważalne</title>
+        <link>https://www.realmadryt.pl/news/137804-aganzo-zdrowie-pilkarzy-jest-niepodwazalne</link>
+        <pubDate>Mon, 17 Mar 2025 07:25:00 GMT</pubDate>
+        <description>Królewscy zagrozili, że nie przystąpią do meczu, jeśli będą mieli mniej niż 72 godziny odpoczynku.</description>
+    </item>
     
     <item>
         <title>James: Zadzwonił do mnie Florentino i zapytał: „Chcesz chwały czy pieniędzy?”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137792-72-godziny-niezgody-maja-techniczne-uzasadnienie-to-wyznaczony-czas-na-odpoczynek</link>
         <pubDate>Sun, 16 Mar 2025 16:46:00 GMT</pubDate>
         <description>Oburzenie Królewskich z powodu braku wystarczającej przerwy między meczami znajduje poparcie w opiniach ekspertów od przygotowania sportowego.</description>
-    </item>
-    
-    <item>
-        <title>Arsenal wygrał w derbach Londynu</title>
-        <link>https://www.realmadryt.pl/news/137791-arsenal-wygral-w-derbach-londynu</link>
-        <pubDate>Sun, 16 Mar 2025 14:41:00 GMT</pubDate>
-        <description>W meczu 29. kolejki Premier League najbliższy rywal Realu w Lidze Mistrzów grał z Chelsea na Emirates Stadium.</description>
     </item>
     
 </channel>
