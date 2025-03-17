@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Mar 2025 18:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 19:18:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Panika przed wirusem FIFA</title>
+        <link>https://www.realmadryt.pl/news/137817-panika-przed-wirusem-fifa</link>
+        <pubDate>Mon, 17 Mar 2025 20:12:00 GMT</pubDate>
+        <description>Real Madryt traci 16 z 23 zawodników, a Ancelotti zostaje tylko z dwoma zdrowymi. Valverde, który ma już w nogach ponad 4 000 minut, jedzie na kadrę Urugwaju mimo odczuwanych dolegliwości.</description>
+    </item>
     
     <item>
         <title>Mistrz przetrwania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137805-kartka-z-kalendarza-17-marca</link>
         <pubDate>Mon, 17 Mar 2025 09:30:00 GMT</pubDate>
         <description>Mistrzostwo Hiszpanii, niezwykły finał koszykarzy, finał Pucharu Króla z golami z rzutów wolnych, kat Szewczenko i przełożenie EURO 2020. Co działo się 17 marca?</description>
-    </item>
-    
-    <item>
-        <title>22 mecze w dwa i pół miesiąca – Real Madryt na skraju wytrzymałości</title>
-        <link>https://www.realmadryt.pl/news/137806-22-mecze-w-dwa-i-pol-miesiaca-real-madryt-na-skraju-wytrzymalosci</link>
-        <pubDate>Mon, 17 Mar 2025 08:37:00 GMT</pubDate>
-        <description>Real Madryt zmaga się z ekstremalnie napiętym terminarzem, rozgrywając 22 mecze od początku roku przy minimalnym czasie na regenerację. Klub wielokrotnie musiał rywalizować po zaledwie kilkudziesięciu godzinach odpoczynku, co doprowadziło do zmęczenia i licznych kontuzji. Carlo Ancelotti oraz eksperci alarmują, że obecny kalendarz jest niebezpieczny dla zdrowia zawodników i wymaga zmian.</description>
     </item>
     
 </channel>
