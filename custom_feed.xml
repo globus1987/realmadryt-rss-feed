@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Mar 2025 04:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 04:46:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>James: Zadzwonił do mnie Florentino i zapytał: „Chcesz chwały czy pieniędzy?”</title>
+        <link>https://www.realmadryt.pl/news/137803-james-zadzwonil-do-mnie-florentino-i-zapytal-chcesz-chwaly-czy-pieniedzy</link>
+        <pubDate>Mon, 17 Mar 2025 05:30:00 GMT</pubDate>
+        <description>James Rodríguez udzielił wywiadu swojemu znajomemu, Edu Aguirre. Przedstawiamy najważniejsze wypowiedzi Kolumbijczyka z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137791-arsenal-wygral-w-derbach-londynu</link>
         <pubDate>Sun, 16 Mar 2025 14:41:00 GMT</pubDate>
         <description>W meczu 29. kolejki Premier League najbliższy rywal Realu w Lidze Mistrzów grał z Chelsea na Emirates Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Cerezo: VAR pozbawił nas jednego z największych marzeń</title>
-        <link>https://www.realmadryt.pl/news/137790-cerezo-var-pozbawil-nas-jednego-z-najwiekszych-marzen</link>
-        <pubDate>Sun, 16 Mar 2025 14:26:00 GMT</pubDate>
-        <description>Enrique Cerezo udzielił wywiadu w programie El Pelotazo w telewizji Telemundo Deportes, gdzie podzielił się swoimi odczuciami z rewanżowego starcia 1/8 finału Ligi Mistrzów z Realem Madryt. Przedstawiamy zapis rozmowy z prezesem Atleti.</description>
     </item>
     
 </channel>
