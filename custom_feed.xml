@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Mar 2025 10:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 11:20:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Fran García kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/137830-marca-fran-garcia-kontuzjowany</link>
+        <pubDate>Tue, 18 Mar 2025 12:07:00 GMT</pubDate>
+        <description>Na ten moment Real nie ma ani jednego zdrowego lewego obrońcy, a w Madrycie przebywa obecnie tylko jeden zdrowy piłkarz.</description>
+    </item>
+    
+    <item>
+        <title>Asencio: Wszystko przebiegło bardzo szybko i nagle</title>
+        <link>https://www.realmadryt.pl/news/137825-asencio-wszystko-przebieglo-bardzo-szybko-i-nagle</link>
+        <pubDate>Tue, 18 Mar 2025 12:02:00 GMT</pubDate>
+        <description>Obrońca Realu Madryt, Raúl Asencio, podzielił się swoimi odczuciami na starcie swojego debiutanckiego zgrupowania w pierwszej reprezentacji Hiszpanii. Poniżej przedstawiamy zapis wypowiedzi wychowanka Królewskich.</description>
+    </item>
     
     <item>
         <title>Królewskie walczą o półfinał Ligi Mistrzyń</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137818-valverde-trzeba-wiedziec-kiedy-zrobic-przerwe-ale-prawda-jest-taka-ze-czuje-sie-bardzo-dobrze</link>
         <pubDate>Mon, 17 Mar 2025 20:23:00 GMT</pubDate>
         <description>Po przylocie do Urugwaju Fede Valverde odpowiedział krótko na pytanie dziennikarzy El Espectador Deportes o stan swojego zdrowia.</description>
-    </item>
-    
-    <item>
-        <title>Panika przed wirusem FIFA</title>
-        <link>https://www.realmadryt.pl/news/137817-panika-przed-wirusem-fifa</link>
-        <pubDate>Mon, 17 Mar 2025 20:12:00 GMT</pubDate>
-        <description>Real Madryt traci 16 z 23 zawodników, a Ancelotti zostaje tylko z dwoma zdrowymi. Valverde, który ma już w nogach ponad 4 000 minut, jedzie na kadrę Urugwaju mimo odczuwanych dolegliwości.</description>
-    </item>
-    
-    <item>
-        <title>Mistrz przetrwania</title>
-        <link>https://www.realmadryt.pl/news/137816-mistrz-przetrwania</link>
-        <pubDate>Mon, 17 Mar 2025 17:34:00 GMT</pubDate>
-        <description>Królewscy przezwyciężyli w tym sezonie wszystkie przeciwności, aby pozostać w walce o najwyższe cele.</description>
     </item>
     
 </channel>
