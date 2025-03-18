@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Mar 2025 23:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 01:54:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137824-dzisiejsze-okladki</link>
+        <pubDate>Tue, 18 Mar 2025 01:27:00 GMT</pubDate>
+        <description>Cele Realu Madryt oraz osiągnięcia i problemy Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé: Staram się nie myśleć o niczym innym i dać z siebie 150% dla Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137811-carvajal-rozpoczal-treningi-w-butach-pilkarskich</link>
         <pubDate>Mon, 17 Mar 2025 14:48:00 GMT</pubDate>
         <description>Hiszpan robi coraz większe postępy w rehabilitacji. Jego powrót w tym sezonie wciąż jest mało prawdopodobny, ale już nie jest niemożliwy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mecz Barcelony z Osasuną zostanie rozegrany 27 marca</title>
-        <link>https://www.realmadryt.pl/news/137809-oficjalnie-mecz-barcelony-z-osasuna-zostanie-rozegrany-27-marca</link>
-        <pubDate>Mon, 17 Mar 2025 11:36:00 GMT</pubDate>
-        <description>Katalończycy muszą zagrać tuż po przerwie reprezentacyjnej</description>
     </item>
     
 </channel>
