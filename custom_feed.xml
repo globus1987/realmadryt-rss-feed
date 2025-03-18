@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Mar 2025 23:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 23:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137856-dzisiejsze-okladki</link>
+        <pubDate>Wed, 19 Mar 2025 00:50:00 GMT</pubDate>
+        <description>Wywiady z piłkarzami reprezentacji Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>74,5% szans na czołową dziesiątkę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137841-vallejo-ponownie-pojawi-sie-w-opustoszalym-valdebebas-cieszac-sie</link>
         <pubDate>Tue, 18 Mar 2025 15:25:00 GMT</pubDate>
         <description>Środkowy obrońca i Lucas Vázquez mają być jedynymi piłkarzami pierwszego zespołu, którzy będą ćwiczyli na boiskach 1 i 2 w ośrodku treningowym Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Weterani Bayernu gromią Real Madryt w finale Beckenbauer Cup</title>
-        <link>https://www.realmadryt.pl/news/137840-weterani-bayernu-gromia-real-madryt-w-finale-beckenbauer-cup</link>
-        <pubDate>Tue, 18 Mar 2025 15:13:00 GMT</pubDate>
-        <description>Monachijczycy pokonali madrytczyków 4:0 w turnieju zorganizowanym przez niemiecki klub z okazji 125-lecia oraz ku czci legendy niemieckiego futbolu, a swój debiut zaliczył Pepe.</description>
     </item>
     
 </channel>
