@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Mar 2025 22:54:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 23:23:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137890-dzisiejsze-okladki</link>
+        <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+        <description>Mecz Hiszpanii to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Media: Leupolz ponownie z kontuzją więzadła krzyżowego</title>
+        <link>https://www.realmadryt.pl/news/137886-media-leupolz-ponownie-z-kontuzja-wiezadla-krzyzowego</link>
+        <pubDate>Wed, 19 Mar 2025 23:55:00 GMT</pubDate>
+        <description>Hiszpańskie media informują, że podczas meczu z Arsenalem niemiecka pomocniczka doznała częściowego zerwania więzadła krzyżowego w prawym kolanie. To drugi taki sam uraz Leupolz w tym roku.</description>
+    </item>
     
     <item>
         <title>La Liga przegrywa z Realem Madryt, Barceloną i Athletikiem w sprawie zgromadzenia dotyczącego CVC</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137873-alaba-wraca-do-kadry-po-16-miesiacach</link>
         <pubDate>Wed, 19 Mar 2025 14:56:00 GMT</pubDate>
         <description>David Alaba wraca do reprezentacji Austrii po 16 miesiącach przerwy. Defensor chce wykorzystać mecz z Serbią, aby udowodnić Carlo Ancelottiemu, że przed ostatnią fazą sezonu jest gotowy na 100%.</description>
-    </item>
-    
-    <item>
-        <title>Zaprezentowano Corazón Classic Match z legendami Borussii Dortmund</title>
-        <link>https://www.realmadryt.pl/news/137872-zaprezentowano-corazon-classic-match-z-legendami-borussii-dortmund</link>
-        <pubDate>Wed, 19 Mar 2025 14:42:00 GMT</pubDate>
-        <description>Mecz zostanie rozegrany w czerwcu tego roku Santiago Bernabéu</description>
-    </item>
-    
-    <item>
-        <title>Louzán: Rozwiązanie nie jest łatwe przy obecnym terminarzu</title>
-        <link>https://www.realmadryt.pl/news/137871-louzan-rozwiazanie-nie-jest-latwe-przy-obecnym-terminarzu</link>
-        <pubDate>Wed, 19 Mar 2025 13:12:00 GMT</pubDate>
-        <description>Prezes Hiszpańskiej Federacji Piłkarskiej odniósł się do problemu związanego z brakiem odpowiedniej liczby godzin odpoczynku dla graczy.</description>
     </item>
     
 </channel>
