@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Mar 2025 23:22:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 23:39:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137927-dzisiejsze-okladki</link>
+        <pubDate>Fri, 21 Mar 2025 00:28:00 GMT</pubDate>
+        <description>Remis Hiszpanii to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mario Gila powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/137926-mario-gila-powolany-do-reprezentacji</link>
+        <pubDate>Fri, 21 Mar 2025 00:27:00 GMT</pubDate>
+        <description>Luis de la Fuente reaguje na kolejne problemy zdrowotne stoperów reprezentacji Hiszpanii. Do kadry jeszcze dziś dołączy Mario Gila.</description>
+    </item>
     
     <item>
         <title>Mateo: Potrzebowaliśmy tego zwycięstwa</title>
@@ -31,7 +45,7 @@
         <title>Chorwacja lepsza od Francji, Niemcy wygrywają na San Siro</title>
         <link>https://www.realmadryt.pl/news/137916-chorwacja-lepsza-od-francji-niemcy-wygrywaja-na-san-siro</link>
         <pubDate>Thu, 20 Mar 2025 19:45:00 GMT</pubDate>
-        <description>Reprezentacje Luki Modricia i Antonio Rüdigera są bliżej udziału w Final Four. Chorwacja wygrała u siebie z Francją 2:0, a Niemcy pokonali na wyjeździe Włochy 2:0.</description>
+        <description>Reprezentacje Luki Modricia i Antonio Rüdigera są bliżej udziału w Final Four. Chorwacja wygrała u siebie z Francją 2:0, a Niemcy pokonali na wyjeździe Włochy 2:1.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137909-bunt-fortei</link>
         <pubDate>Thu, 20 Mar 2025 14:46:00 GMT</pubDate>
         <description>Perła z La Fábriki odzyskuje swoją najlepszą wersję po przezwyciężeniu chwilowego kryzysu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Komitet Apelacyjny odrzucił odwołanie Barcelony i Osasuny</title>
-        <link>https://www.realmadryt.pl/news/137908-oficjalnie-komitet-apelacyjny-odrzucil-odwolanie-barcelony-i-osasuny</link>
-        <pubDate>Thu, 20 Mar 2025 14:44:00 GMT</pubDate>
-        <description>Mecz zostanie ostatecznie rozegrany 27 marca.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 31. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/137906-terminarz-31-kolejki-la-ligi</link>
-        <pubDate>Thu, 20 Mar 2025 14:19:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 31. kolejki, w której Real Madryt zagra na wyjeździe z Deportivo Alavés.</description>
     </item>
     
 </channel>
