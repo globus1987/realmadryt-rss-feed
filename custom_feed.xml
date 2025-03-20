@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Mar 2025 04:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 05:23:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x24: Wasze pytania. Czy boicie się finału z Barçą?</title>
+        <link>https://www.realmadryt.pl/news/137889-podcast-6x24-wasze-pytania-czy-boicie-sie-finalu-z-barca</link>
+        <pubDate>Thu, 20 Mar 2025 06:00:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym odpowiadamy na wasze pytania.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137874-saka-celuje-w-pierwszy-mecz-z-realem-madryt</link>
         <pubDate>Wed, 19 Mar 2025 15:00:00 GMT</pubDate>
         <description>Skrzydłowy wraca do zdrowia po kontuzji i po przerwie reprezentacyjnej ma już normalnie trenować z zespołem.</description>
-    </item>
-    
-    <item>
-        <title>Alaba wraca do kadry po 16 miesiącach</title>
-        <link>https://www.realmadryt.pl/news/137873-alaba-wraca-do-kadry-po-16-miesiacach</link>
-        <pubDate>Wed, 19 Mar 2025 14:56:00 GMT</pubDate>
-        <description>David Alaba wraca do reprezentacji Austrii po 16 miesiącach przerwy. Defensor chce wykorzystać mecz z Serbią, aby udowodnić Carlo Ancelottiemu, że przed ostatnią fazą sezonu jest gotowy na 100%.</description>
     </item>
     
 </channel>
