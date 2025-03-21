@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Mar 2025 22:55:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 23:21:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137949-dzisiejsze-okladki</link>
+        <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+        <description>Cele transferowe Realu Madryt i przygotowania Barcelony na mecz z Osasuną to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Anglia pewnie wygrała z Albanią</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137935-200-mecz-raula-w-roli-trenera-castilli</link>
         <pubDate>Fri, 21 Mar 2025 13:54:00 GMT</pubDate>
         <description>Raúl pracuje jako trener Castilli wyjątkowo długo. Dzisiaj osiągnie granicę 200 meczów jako szkoleniowiec. Lepszy wynik w całej historii rezerw osiągnął tylko Juan Santisteban.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: U Kyliana najbardziej imponuje mi to, jakim jest człowiekiem</title>
-        <link>https://www.realmadryt.pl/news/137934-modric-u-kyliana-najbardziej-imponuje-mi-to-jakim-jest-czlowiekiem</link>
-        <pubDate>Fri, 21 Mar 2025 12:52:00 GMT</pubDate>
-        <description>Luka Modrić po wygranym spotkaniu z Francją rozmawiał z chorwackimi mediami i nie szczędził pochwał kolegom z drużyny i Kylianowi Mbappé.</description>
     </item>
     
 </channel>
