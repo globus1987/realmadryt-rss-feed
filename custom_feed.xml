@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Mar 2025 10:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 11:20:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>UOL: Endrick nie zagrał z Kolumbią, bo jest za niski</title>
+        <link>https://www.realmadryt.pl/news/137933-uol-endrick-nie-zagral-z-kolumbia-bo-jest-za-niski</link>
+        <pubDate>Fri, 21 Mar 2025 12:06:00 GMT</pubDate>
+        <description>Selekcjoner reprezentacji Brazylii w drugiej połowie wpuszczał na boisko tylko wysokich graczy.</description>
+    </item>
     
     <item>
         <title>Huijsen: To duma, że tak wielki klub jak Real się tobą interesuje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137927-dzisiejsze-okladki</link>
         <pubDate>Fri, 21 Mar 2025 00:28:00 GMT</pubDate>
         <description>Remis Hiszpanii to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mario Gila powołany do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/137926-mario-gila-powolany-do-reprezentacji</link>
-        <pubDate>Fri, 21 Mar 2025 00:27:00 GMT</pubDate>
-        <description>Luis de la Fuente reaguje na kolejne problemy zdrowotne stoperów reprezentacji Hiszpanii. Do kadry jeszcze dziś dołączy Mario Gila.</description>
     </item>
     
 </channel>
