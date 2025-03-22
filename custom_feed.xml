@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Mar 2025 23:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 23:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/137978-dzisiejsze-okladki</link>
+        <pubDate>Sun, 23 Mar 2025 00:41:00 GMT</pubDate>
+        <description>Mecz Hiszpanii w Lidze Narodów to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Akanji zaoferowany Realowi Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137959-modric-chcialbym-zakonczyc-kariere-w-realu-madryt</link>
         <pubDate>Sat, 22 Mar 2025 12:48:00 GMT</pubDate>
         <description>Chorwat z okazji rewanżowego starcia z Francją w ćwierćfinałach Ligi Narodów udzielił wywiadu programowi telewizyjnemu Téléfoot. Przedstawiamy pierwszą zapowiedź tej rozmowy, która w całości ma zostać wyemitowana w niedzielę przed południem.</description>
-    </item>
-    
-    <item>
-        <title>Valverde może zostać oszczędzony w meczu z Boliwią</title>
-        <link>https://www.realmadryt.pl/news/137958-valverde-moze-zostac-oszczedzony-w-meczu-z-boliwia</link>
-        <pubDate>Sat, 22 Mar 2025 12:02:00 GMT</pubDate>
-        <description>Powroty i zmęczenie reprezentantów z Ameryki Południowej to jak zawsze jeden z głównych tematów przerwy na reprezentacje. Real Madryt i Barcelona ze swoich powodów obserwują sytuacje swoich graczy szczególnie mocno.</description>
     </item>
     
 </channel>
