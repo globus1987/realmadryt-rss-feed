@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Mar 2025 09:24:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 09:40:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Najlepsza para stoperów Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/137956-najlepsza-para-stoperow-ancelottiego</link>
+        <pubDate>Sat, 22 Mar 2025 10:32:00 GMT</pubDate>
+        <description>Niemiec i Francuz to najlepiej spisujący się duet środkowych obrońców Realu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Onda Cero: Real Madryt czeka z nową umową Asencio</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137949-dzisiejsze-okladki</link>
         <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
         <description>Cele transferowe Realu Madryt i Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Anglia pewnie wygrała z Albanią</title>
-        <link>https://www.realmadryt.pl/news/137947-anglia-pewnie-wygrala-z-albania</link>
-        <pubDate>Fri, 21 Mar 2025 22:47:00 GMT</pubDate>
-        <description>W meczu 1. kolejki eliminacji Mistrzostw Świata 2026 Synowie Albionu, z pomocnikiem Realu w składzie, zainkasowali trzy punkty.</description>
     </item>
     
 </channel>
