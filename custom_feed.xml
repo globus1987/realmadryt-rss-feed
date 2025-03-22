@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Mar 2025 11:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 11:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Chciałbym zakończyć karierę w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/137959-modric-chcialbym-zakonczyc-kariere-w-realu-madryt</link>
+        <pubDate>Sat, 22 Mar 2025 12:48:00 GMT</pubDate>
+        <description>Chorwat z okazji rewanżowego starcia z Francją w ćwierćfinałach Ligi Narodów udzielił wywiadu programowi telewizyjnemu Téléfoot. Przedstawiamy pierwszą zapowiedź tej rozmowy, która w całości ma zostać wyemitowana w niedzielę przed południem.</description>
+    </item>
     
     <item>
         <title>Valverde może zostać oszczędzony w meczu z Boliwią</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137948-marca-real-madryt-obserwowal-huijsena-i-hato-w-rotterdamie</link>
         <pubDate>Sat, 22 Mar 2025 06:00:00 GMT</pubDate>
         <description>W czwartek zmierzyły się ze sobą dwa potencjalne cele transferowe Królewskich. MARCA podsumowuje, że tę bitwę wygrał reprezentant Hiszpanii, ale to nie koniec.</description>
-    </item>
-    
-    <item>
-        <title>Urugwaj przegrywa z Argentyną [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/137952-urugwaj-przegrywa-z-argentyna-video</link>
-        <pubDate>Sat, 22 Mar 2025 05:49:00 GMT</pubDate>
-        <description>Urugwaj przegrał z Argentyną i spadł na czwarte miejsce w tabeli w kwalifikacjach do Mistrzostw Świata w 2026 roku. W pierwszym składzie Urugwajczyków wyszedł Fede Valverde, który rozegrał 72 minuty.</description>
     </item>
     
 </channel>
