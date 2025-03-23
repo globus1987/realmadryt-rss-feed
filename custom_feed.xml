@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Mar 2025 10:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 10:54:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>FC Barcelona – Real Madryt w Lidze F [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/137979-fc-barcelona-real-madryt-w-lidze-f-na-zywo</link>
+        <pubDate>Sun, 23 Mar 2025 11:50:00 GMT</pubDate>
+        <description>O godzinie 12:00 piłkarki Realu Madryt rozpoczną walkę w meczu 23. kolejki Ligi F z Barceloną na Estadi Olímpic Lluís Companys. Transmisję z tego starcia przeprowadzi TVP.</description>
+    </item>
+    
+    <item>
+        <title>Mecz na szczycie Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/137981-mecz-na-szczycie-ligi-endesa</link>
+        <pubDate>Sun, 23 Mar 2025 11:45:00 GMT</pubDate>
+        <description>W 24. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Unicają. Królewscy przystępują do tego meczu w roli liderów, ale wcale nie są faworytami w starciu z zespołem, na rzecz którego stracili już dwa trofea w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Mateo: Płynność gry ciągle nie jest taka, jakiej byśmy chcieli</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/137977-marca-akanji-zaoferowany-realowi-madryt</link>
         <pubDate>Sun, 23 Mar 2025 00:31:00 GMT</pubDate>
         <description>Ostatnim z graczy oferowanych Królewskim jest obrońca Manchesteru City. Real Madryt wyciąga z tej sytuacji dwa wnioski.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni (?) kobiecy Klasyk w tym sezonie</title>
-        <link>https://www.realmadryt.pl/news/137976-ostatni-kobiecy-klasyk-w-tym-sezonie</link>
-        <pubDate>Sun, 23 Mar 2025 00:00:00 GMT</pubDate>
-        <description>W meczu 23. kolejki Ligi F piłkarki Realu Madryt zagrają na Estadi Olímpic Lluís Companys z Barceloną. Początek spotkania o godzinie 12:00. Transmisję z tego starcia przeprowadzi TVP.</description>
-    </item>
-    
-    <item>
-        <title>RMC: Camavinga ma zagrać z Chorwacją od pierwszej minuty</title>
-        <link>https://www.realmadryt.pl/news/137974-rmc-camavinga-ma-zagrac-z-chorwacja-od-pierwszej-minuty</link>
-        <pubDate>Sat, 22 Mar 2025 21:20:00 GMT</pubDate>
-        <description>Trójka graczy Królewskich ma wyjść w pierwszym składzie Francji w rewanżu z Chorwacją.</description>
     </item>
     
 </channel>
