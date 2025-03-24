@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Mar 2025 23:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 01:58:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138000-dzisiejsze-okladki</link>
+        <pubDate>Mon, 24 Mar 2025 01:08:00 GMT</pubDate>
+        <description>Awans Hiszpanii to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Byliśmy cierpliwi i wystarczająco wytrwali</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/137985-marca-cesc-fabregas-odwiedzil-valdebebas</link>
         <pubDate>Sun, 23 Mar 2025 15:19:00 GMT</pubDate>
         <description>Były pomocnik i wychowanek Barcelony przybył do ośrodka treningowego Realu, by spotkać się z Carlo Ancelottim.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Mbappé? Ja osobiście nigdy czegoś takiego nie widziałem</title>
-        <link>https://www.realmadryt.pl/news/137984-modric-mbappe-ja-osobiscie-nigdy-czegos-takiego-nie-widzialem</link>
-        <pubDate>Sun, 23 Mar 2025 15:02:00 GMT</pubDate>
-        <description>Chorwat z okazji dzisiejszego rewanżowego starcia z Francją w ćwierćfinałach Ligi Narodów udzielił wywiadu programowi telewizyjnemu Téléfoot. Przedstawiamy najważniejsze wypowiedzi pomocnika Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
