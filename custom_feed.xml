@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Mar 2025 22:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 23:23:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138021-dzisiejsze-okladki</link>
+        <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+        <description>Plany Realu Madryt i Barcelony to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Makélélé: Powiedziałem Rüdigerowi, aby ruszył biegiem do Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138005-lahoz-czy-z-negreira-faworyzowano-barcelone-nie-mam-pewnosci</link>
         <pubDate>Mon, 24 Mar 2025 13:32:00 GMT</pubDate>
         <description>Mateu Lahoz w niedzielę tłumaczył w radiu COPE swoją wypowiedź sprzed tygodnia na temat czasów Negreiry, czyli wiceprezesa Komitetu Arbitrów opłacanego przez Barcelonę przynajmniej w latach 2001-2018. Przedstawiamy najważniejsze wypowiedzi byłego arbitra, który obecnie jest ekspertem radiowym i telewizyjnym.</description>
-    </item>
-    
-    <item>
-        <title>Co czeka Real po przerwie na kadry?</title>
-        <link>https://www.realmadryt.pl/news/138004-co-czeka-real-po-przerwie-na-kadry</link>
-        <pubDate>Mon, 24 Mar 2025 12:42:00 GMT</pubDate>
-        <description>W najbliższych tygodniach Real Madryt rozega pięć kolejek La Ligi, ćwierćifnały Ligi Mistrzów i rewanżowy półfinał Pucharu Króla. Potencjalnie może wystąpić też w półfinałach Champions League i finale Copa del Rey.</description>
     </item>
     
 </channel>
