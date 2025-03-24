@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Mar 2025 11:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 12:50:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lahoz: Czy z Negreirą faworyzowano Barcelonę? Nie mam pewności</title>
+        <link>https://www.realmadryt.pl/news/138005-lahoz-czy-z-negreira-faworyzowano-barcelone-nie-mam-pewnosci</link>
+        <pubDate>Mon, 24 Mar 2025 13:32:00 GMT</pubDate>
+        <description>Mateu Lahoz w niedzielę tłumaczył w radiu COPE swoją wypowiedź sprzed tygodnia na temat czasów Negreiry, czyli wiceprezesa Komitetu Arbitrów opłacanego przez Barcelonę przynajmniej w latach 2001-2018. Przedstawiamy najważniejsze wypowiedzi byłego arbitra, który obecnie jest ekspertem radiowym i telewizyjnym.</description>
+    </item>
     
     <item>
         <title>Co czeka Real po przerwie na kadry?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138000-dzisiejsze-okladki</link>
         <pubDate>Mon, 24 Mar 2025 01:08:00 GMT</pubDate>
         <description>Awans Hiszpanii to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Byliśmy cierpliwi i wystarczająco wytrwali</title>
-        <link>https://www.realmadryt.pl/news/137998-mateo-bylismy-cierpliwi-i-wystarczajaco-wytrwali</link>
-        <pubDate>Sun, 23 Mar 2025 23:03:00 GMT</pubDate>
-        <description>Chus Mateo podsumował krótko wygrane spotkanie z Unicają. Docenił drużynę za wytrwałość, bo była w stanie odnieść zwycięstwo, mimo że rywale ustanowili nowy rekord trafionych rzutów za trzy punkty.</description>
     </item>
     
 </channel>
