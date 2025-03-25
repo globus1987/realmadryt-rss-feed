@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Mar 2025 08:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 09:26:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 marca</title>
+        <link>https://www.realmadryt.pl/news/138023-kartka-z-kalendarza-25-marca</link>
+        <pubDate>Tue, 25 Mar 2025 10:00:00 GMT</pubDate>
+        <description>Urodziny jedynego zawodnika Realu Madryt z zastrzeżonym numerem, świetne debiuty napastników w reprezentacji i wysokie wygrane Realu w meczach ligowych. Co działo się 25 marca?</description>
+    </item>
     
     <item>
         <title>Pierwszy z serii „finałów”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138011-oficjalnie-valverde-powolany-na-mecz-w-boliwii</link>
         <pubDate>Mon, 24 Mar 2025 18:28:00 GMT</pubDate>
         <description>Pomocnik Królewskich znalazł się na liście wtorkowy mecz. Nawet jeśli w nim nie zagra lub nie rozegra pełnego spotkania, to do pracy w klubie wróci najwcześniej w czwartek.</description>
-    </item>
-    
-    <item>
-        <title>Prokuratura nie dopatrzyła się przestępstwa w rasistowskich zniewagach rzucanych w stronę Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/138010-prokuratura-nie-dopatrzyla-sie-przestepstwa-w-rasistowskich-zniewagach-rzucanych-w-strone-viniciusa</link>
-        <pubDate>Mon, 24 Mar 2025 18:20:00 GMT</pubDate>
-        <description>Prokuratura ds. Przestępstw z Nienawiści w Barcelonie doszła do wniosku, że nie da się udowodnić winy osobom objętym śledztwem dotyczącym ich zachowania podczas El Clásico z 2023 roku.</description>
     </item>
     
 </channel>
