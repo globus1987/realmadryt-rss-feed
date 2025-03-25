@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Mar 2025 09:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 09:42:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ronaldo: Ancelotti chciał przejść do Brazylii, ale Real go nie puścił</title>
+        <link>https://www.realmadryt.pl/news/138024-ronaldo-ancelotti-chcial-przejsc-do-brazylii-ale-real-go-nie-puscil</link>
+        <pubDate>Tue, 25 Mar 2025 10:42:00 GMT</pubDate>
+        <description>Legendarny napastnik wziął udział w podcaście Charla. Przedstawiamy jego wypowiedzi na temat możliwości, jaka istniała z przejściem Carlo Ancelottiego do prowadzenia reprezentacji Brazylii.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 marca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138012-el-mundo-federacja-zmanipulowala-oceny-stadionow-by-zamienic-miejscami-vigo-i-anoete</link>
         <pubDate>Mon, 24 Mar 2025 19:05:00 GMT</pubDate>
         <description>Dziennik El Mundo informuje o manipulacji i oszustwie Hiszpańskiej Federacji Piłkarskiej. Tym razem w kwestii wyboru stadionów-gospodarzy na mundial w 2030 roku.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Valverde powołany na mecz w Boliwii</title>
-        <link>https://www.realmadryt.pl/news/138011-oficjalnie-valverde-powolany-na-mecz-w-boliwii</link>
-        <pubDate>Mon, 24 Mar 2025 18:28:00 GMT</pubDate>
-        <description>Pomocnik Królewskich znalazł się na liście wtorkowy mecz. Nawet jeśli w nim nie zagra lub nie rozegra pełnego spotkania, to do pracy w klubie wróci najwcześniej w czwartek.</description>
     </item>
     
 </channel>
