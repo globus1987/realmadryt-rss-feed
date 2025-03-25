@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Mar 2025 22:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 22:42:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wygrana z lekkim niedosytem</title>
+        <link>https://www.realmadryt.pl/news/138042-wygrana-z-lekkim-niedosytem</link>
+        <pubDate>Tue, 25 Mar 2025 23:37:00 GMT</pubDate>
+        <description>Real Madryt pokonał Olimpię Mediolan w 31. kolejce Euroligi, wykonując duży krok w kierunku udziału w play-offach oraz czołowej szóstki. Królewskim niewiele zabrakło, żeby uzyskać korzystny bilans dwumeczu z mediolańczykami.</description>
+    </item>
     
     <item>
         <title>Laporta: Powinno się przestrzegać 72 godzin, ale stawimy się na mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138017-mateo-bedziemy-walczyc-o-play-offy-do-samego-konca</link>
         <pubDate>Tue, 25 Mar 2025 13:54:00 GMT</pubDate>
         <description>Chus Mateo i Džanan Musa wzięli udział w konferencji prasowej przed spotkaniem z Olimpią Mediolan w Eurolidze. Obaj podkreślali znaczenie, jakie ma ten mecz dla układu tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Lopetegui: Gdybym mógł cofnąć czas, to ponownie objąłbym Real</title>
-        <link>https://www.realmadryt.pl/news/138027-lopetegui-gdybym-mogl-cofnac-czas-to-ponownie-objalbym-real</link>
-        <pubDate>Tue, 25 Mar 2025 13:37:00 GMT</pubDate>
-        <description>Julen Lopetegui gościł w programie El Larguero w radiu SER, gdzie był pytany o swój etap w Realu Madryt i samo objęcie posady szkoleniowca Królewskich tuż przed rozpoczęciem Mistrzostw Świata w Rosji. Przedstawiamy wypowiedzi byłego szkoleniowca Królewskich.</description>
     </item>
     
 </channel>
