@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Mar 2025 06:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 06:53:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Mendy i Ceballos mogą wrócić szybciej niż zakładano</title>
+        <link>https://www.realmadryt.pl/news/138039-cope-mendy-i-ceballos-moga-wrocic-szybciej-niz-zakladano</link>
+        <pubDate>Wed, 26 Mar 2025 07:50:00 GMT</pubDate>
+        <description>W radiu COPE przekazano, że rehabilitacja kontuzjowanych Mendy'ego i Ceballosa przebiega bardzo dobrze i obaj piłkarze mogą wrócić na boiska szybciej, niż pierwotnie sądzono.</description>
+    </item>
     
     <item>
         <title>COPE: Florentino Pérez nagrodził piłkarzy premią za pokonanie Atlético</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138034-talizman-ancelottiego-na-lige-mistrzow-wypada-z-gry-do-konca-sezonu</link>
         <pubDate>Tue, 25 Mar 2025 19:20:00 GMT</pubDate>
         <description>Jeremy De León potwierdził, że wypada z gry do końca sezonu i zakończy obecne rozgrywki z zaledwie 4 występami w klubie.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt i Betis grają najczęściej z krótkim odpoczynkiem</title>
-        <link>https://www.realmadryt.pl/news/138031-real-madryt-i-betis-graja-najczesciej-z-krotkim-odpoczynkiem</link>
-        <pubDate>Tue, 25 Mar 2025 18:57:00 GMT</pubDate>
-        <description>W pięciu największych ligach Europy Real Madryt i Betis mają na koncie najwięcej meczów z odpoczynkiem krótszym niż 72 godziny. La Liga wyróżnia się pod tym względem w całym europejskim futbolu.</description>
     </item>
     
 </channel>
