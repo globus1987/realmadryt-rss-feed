@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Mar 2025 11:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 12:49:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/138054-dzisiejszy-trening</link>
+        <pubDate>Wed, 26 Mar 2025 13:31:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Zwycięzca Klubowych Mistrzostw Świata może zarobić nawet 125 milionów dolarów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138040-gol-brahima-z-karnego-maroko-jedna-noga-na-mundialu</link>
         <pubDate>Wed, 26 Mar 2025 00:30:00 GMT</pubDate>
         <description>Reprezentacja Maroka z Brahimem Díazem w składzie odniosła kolejne zwycięstwo i już tylko katastrofa może przeszkodzić jej w awansie na Mistrzostwa Świata w 2026 roku. Tym razem pokonała Tanzanię 2:0, a gracz Realu Madryt zdobył drugą bramkę.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Musimy zdjąć z siebie presję związaną z walką o play-offy</title>
-        <link>https://www.realmadryt.pl/news/138046-mateo-musimy-zdjac-z-siebie-presje-zwiazana-z-walka-o-play-offy</link>
-        <pubDate>Wed, 26 Mar 2025 00:11:00 GMT</pubDate>
-        <description>Chus Mateo podsumował wygrane spotkanie z Olimpią Mediolan. Mówił o tym, że drużyna ciągle odczuwa presję związaną z walką o awans. Chwalił też Garubę oraz w miłych słowach mówił o Causerze.</description>
     </item>
     
 </channel>
