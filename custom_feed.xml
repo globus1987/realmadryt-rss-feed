@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Mar 2025 07:22:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 07:40:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Mamy szanse dojść do miejsca, w którym nigdy nas nie było”</title>
+        <link>https://www.realmadryt.pl/news/138041-mamy-szanse-dojsc-do-miejsca-w-ktorym-nigdy-nas-nie-bylo</link>
+        <pubDate>Wed, 26 Mar 2025 08:40:00 GMT</pubDate>
+        <description>Alberto Toril i Caroline Weir wzięli udział w konferencji prasowej przed rewanżowym ćwierćfinałem Ligi Mistrzyń z Arsenalem na Emirates Stadium. Przedstawiamy wypowiedzi trenera i pomocniczki Las Blancas z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>COPE: Mendy i Ceballos mogą wrócić szybciej niż zakładano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138035-firma-florentino-nie-zbuduje-toru-f1-w-madrycie</link>
         <pubDate>Tue, 25 Mar 2025 20:32:00 GMT</pubDate>
         <description>Hiszpanie szykują się do przyjęcia wyścigów F1. Wśród firm stających do przetargu na budowę i rozmontowanie toru była także ta prezesa Królewskich, ale ostatecznie nie wygrała przetargu.</description>
-    </item>
-    
-    <item>
-        <title>„Talizman” Ancelottiego na Ligę Mistrzów wypada z gry do końca sezonu</title>
-        <link>https://www.realmadryt.pl/news/138034-talizman-ancelottiego-na-lige-mistrzow-wypada-z-gry-do-konca-sezonu</link>
-        <pubDate>Tue, 25 Mar 2025 19:20:00 GMT</pubDate>
-        <description>Jeremy De León potwierdził, że wypada z gry do końca sezonu i zakończy obecne rozgrywki z zaledwie 4 występami w klubie.</description>
     </item>
     
 </channel>
