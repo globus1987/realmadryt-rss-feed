@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Mar 2025 12:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 13:32:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarki grają z Arsenalem o półfinał Ligi Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/138056-pilkarki-graja-z-arsenalem-o-polfinal-ligi-mistrzyn</link>
+        <pubDate>Wed, 26 Mar 2025 14:28:00 GMT</pubDate>
+        <description>W rewanżowym spotkaniu ćwierćfinałowym Ligi Mistrzyń piłkarki Realu Madryt zagrają na Emirates Stadium z Arsenalem, gdzie będą bronić dwubramkowej zaliczki z pierwszego spotkania. Początek starcia z Kanonierkami o godzinie 21:00.</description>
+    </item>
+    
+    <item>
+        <title>Bryan Bugarín wraca do reprezentacji, żegna się z Brazylią i podpisuje nowy kontrakt z Realem</title>
+        <link>https://www.realmadryt.pl/news/138055-bryan-bugarin-wraca-do-reprezentacji-zegna-sie-z-brazylia-i-podpisuje-nowy-kontrakt-z-realem</link>
+        <pubDate>Wed, 26 Mar 2025 14:20:00 GMT</pubDate>
+        <description>Królewscy zabezpieczyli jednego ze swoich kluczowych młodych piłkarzy, a Hiszpańska Federacja Piłkarska zmniejszyła ryzyko zmiany barw narodowych, powołując go do kadry U-16.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138048-cope-florentino-perez-nagrodzil-pilkarzy-premia-za-pokonanie-atletico</link>
         <pubDate>Wed, 26 Mar 2025 07:00:00 GMT</pubDate>
         <description>Dziennikarz COPE poinformował o niespodziewanym geście prezesa Królewskich wobec piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA i COPE: Asencio podpisał przedłużenie umowy z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/138047-marca-i-cope-asencio-podpisal-przedluzenie-umowy-z-realem-madryt</link>
-        <pubDate>Wed, 26 Mar 2025 05:30:00 GMT</pubDate>
-        <description>Dwa źródła podają, że wychowanek Królewskich już przedłużył umowę z klubem.</description>
-    </item>
-    
-    <item>
-        <title>Gol Brahima z karnego, Maroko jedną nogą na mundialu</title>
-        <link>https://www.realmadryt.pl/news/138040-gol-brahima-z-karnego-maroko-jedna-noga-na-mundialu</link>
-        <pubDate>Wed, 26 Mar 2025 00:30:00 GMT</pubDate>
-        <description>Reprezentacja Maroka z Brahimem Díazem w składzie odniosła kolejne zwycięstwo i już tylko katastrofa może przeszkodzić jej w awansie na Mistrzostwa Świata w 2026 roku. Tym razem pokonała Tanzanię 2:0, a gracz Realu Madryt zdobył drugą bramkę.</description>
     </item>
     
 </channel>
