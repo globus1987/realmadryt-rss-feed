@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Mar 2025 22:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 23:23:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138071-dzisiejsze-okladki</link>
+        <pubDate>Thu, 27 Mar 2025 00:17:00 GMT</pubDate>
+        <description>Wywiad z Pepe i oburzenie Flicka to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real zasypuje przepaść płacową między Asencio i resztą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138055-bryan-bugarin-wraca-do-reprezentacji-zegna-sie-z-brazylia-i-podpisuje-nowy-kontrakt-z-realem</link>
         <pubDate>Wed, 26 Mar 2025 14:20:00 GMT</pubDate>
         <description>Królewscy zabezpieczyli jednego ze swoich kluczowych młodych piłkarzy, a Hiszpańska Federacja Piłkarska zmniejszyła ryzyko zmiany barw narodowych, powołując go do kadry U-16.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/138054-dzisiejszy-trening</link>
-        <pubDate>Wed, 26 Mar 2025 13:31:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
