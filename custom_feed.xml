@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Mar 2025 22:54:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 23:22:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piąty remis z rzędu</title>
+        <link>https://www.realmadryt.pl/news/138121-piaty-remis-z-rzedu</link>
+        <pubDate>Sat, 29 Mar 2025 00:20:00 GMT</pubDate>
+        <description>W 30. kolejce Primera Federación Castilla zremisowała z Yeclano.</description>
+    </item>
+    
+    <item>
+        <title>Ważna wygrana w Belgradzie</title>
+        <link>https://www.realmadryt.pl/news/138120-wazna-wygrana-w-belgradzie</link>
+        <pubDate>Sat, 29 Mar 2025 00:09:00 GMT</pubDate>
+        <description>Koszykarze Realu Madryt stracili 18-punktowe prowadzenie, ale potrafił wytrzymać w końcówce.</description>
+    </item>
     
     <item>
         <title>Borja Jiménez: Chcemy pokonać trzech wielkich w jednym sezonie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138093-mateo-na-tym-etapie-kazdy-mecz-ma-wieksze-znaczenie</link>
         <pubDate>Fri, 28 Mar 2025 13:42:00 GMT</pubDate>
         <description>Chus Mateo i Facundo Campazzo wypowiedzieli się przed meczem z Crveną zvezdą. Obaj podkreślali znaczenie tego pojedynku w kontekście walki o awans.</description>
-    </item>
-    
-    <item>
-        <title>„Finał” w Belgradzie</title>
-        <link>https://www.realmadryt.pl/news/138095-final-w-belgradzie</link>
-        <pubDate>Fri, 28 Mar 2025 13:41:00 GMT</pubDate>
-        <description>W 32. kolejce Euroligi Real Madryt zagra na wyjeździe z Crveną zvezdą. Będzie to kolejne kluczowe spotkanie w kontekście walki o awans do następnej rundy.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Mam ogromny sentyment do Brazylii, jej piłkarzy i kibiców, ale mam tutaj kontrakt z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/138108-ancelotti-mam-ogromny-sentyment-do-brazylii-jej-pilkarzy-i-kibicow-ale-mam-tutaj-kontrakt-z-realem-madryt</link>
-        <pubDate>Fri, 28 Mar 2025 12:49:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Leganés w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
