@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Mar 2025 12:48:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 13:30:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wrócić do wygrywania</title>
+        <link>https://www.realmadryt.pl/news/138113-wrocic-do-wygrywania</link>
+        <pubDate>Fri, 28 Mar 2025 13:59:00 GMT</pubDate>
+        <description>W 29. kolejce Primera Federación Castilla zagra na wyjeździe z Yeclano. Królewscy dawno nie przegrali, ale też od ostatniego zwycięstwa minął już ponad miesiąc.</description>
+    </item>
     
     <item>
         <title>Mateo: Na tym etapie każdy mecz ma większe znaczenie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138102-bukayo-saka-wrocil-do-treningow-z-zespolem</link>
         <pubDate>Fri, 28 Mar 2025 09:32:00 GMT</pubDate>
         <description>Anglik wraca do treningów z Arsenalem i przygotowuje się do starcia z Realem Madryt w ćwierćfinale Ligi Mistrzów UEFA.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 28 marca</title>
-        <link>https://www.realmadryt.pl/news/138101-kartka-z-kalendarza-28-marca</link>
-        <pubDate>Fri, 28 Mar 2025 09:31:00 GMT</pubDate>
-        <description>Urodziny byłego piłkarza, wysoka wygrana z Sevillą, doskonały występ Xabiego Alonso z Atlético i buzzer beater Rudy'ego w Atenach. Co działo się 28 marca?</description>
     </item>
     
 </channel>
