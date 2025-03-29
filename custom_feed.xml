@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Mar 2025 23:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 01:53:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138126-dzisiejsze-okladki</link>
+        <pubDate>Sat, 29 Mar 2025 01:14:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Dorival Júnior nie jest już selekcjonerem reprezentacji Brazylii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138114-mistrzostwa-europy-w-koszykowce-na-santiago-bernabeu</link>
         <pubDate>Fri, 28 Mar 2025 14:37:00 GMT</pubDate>
         <description>Hiszpańska Federacja pracuje nad możliwością rozegrania meczów na zmodernizowanym stadionie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Wrócić do wygrywania</title>
-        <link>https://www.realmadryt.pl/news/138113-wrocic-do-wygrywania</link>
-        <pubDate>Fri, 28 Mar 2025 13:59:00 GMT</pubDate>
-        <description>W 29. kolejce Primera Federación Castilla zagra na wyjeździe z Yeclano. Królewscy dawno nie przegrali, ale też od ostatniego zwycięstwa minął już ponad miesiąc.</description>
     </item>
     
 </channel>
