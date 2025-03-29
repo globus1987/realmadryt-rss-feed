@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Mar 2025 10:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 10:43:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bernabéu powita swoich bohaterów</title>
+        <link>https://www.realmadryt.pl/news/138133-bernabeu-powita-swoich-bohaterow</link>
+        <pubDate>Sat, 29 Mar 2025 11:28:00 GMT</pubDate>
+        <description>Real Madryt wraca do domu po 20 dniach, a kibice przygotowują się do oddania hołdu swoim piłkarzom po wspaniałym wieczorze na Metropolitano i zasłużonym zwycięstwie na La Cerámice.</description>
+    </item>
     
     <item>
         <title>Sieć skautów, życie w klubowej rezydencji, szkolenie zawodników i trenerów… Tak rekrutuje La Fábrica</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138126-dzisiejsze-okladki</link>
         <pubDate>Sat, 29 Mar 2025 01:14:00 GMT</pubDate>
         <description>Mecz Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Dorival Júnior nie jest już selekcjonerem reprezentacji Brazylii</title>
-        <link>https://www.realmadryt.pl/news/138122-oficjalnie-dorival-junior-nie-jest-juz-selekcjonerem-reprezentacji-brazylii</link>
-        <pubDate>Sat, 29 Mar 2025 00:28:00 GMT</pubDate>
-        <description>CBF rozpoczęło poszukiwanie następcy.</description>
     </item>
     
 </channel>
