@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Mar 2025 08:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 09:23:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rozliczenie ascezy</title>
+        <link>https://www.realmadryt.pl/news/138092-rozliczenie-ascezy</link>
+        <pubDate>Sat, 29 Mar 2025 09:55:00 GMT</pubDate>
+        <description>Jak zgodnie podają różne źródła, blisko połowa Polaków żyje od pierwszego do pierwszego.</description>
+    </item>
+    
+    <item>
+        <title>Tebas atakuje Ancelottiego, wykorzystując jego wypowiedzi z ostatnich lat</title>
+        <link>https://www.realmadryt.pl/news/138130-tebas-atakuje-ancelottiego-wykorzystujac-jego-wypowiedzi-z-ostatnich-lat</link>
+        <pubDate>Sat, 29 Mar 2025 09:53:00 GMT</pubDate>
+        <description>Pan Javier znowu w akcji.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 29 marca</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138120-wazna-wygrana-w-belgradzie</link>
         <pubDate>Sat, 29 Mar 2025 00:09:00 GMT</pubDate>
         <description>Koszykarze Realu Madryt stracili 18-punktowe prowadzenie, ale potrafił wytrzymać w końcówce.</description>
-    </item>
-    
-    <item>
-        <title>Borja Jiménez: Chcemy pokonać trzech wielkich w jednym sezonie</title>
-        <link>https://www.realmadryt.pl/news/138119-borja-jimenez-chcemy-pokonac-trzech-wielkich-w-jednym-sezonie</link>
-        <pubDate>Fri, 28 Mar 2025 19:19:00 GMT</pubDate>
-        <description>Trener Leganés, Borja Jiménez, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 29. kolejki La Ligi. Poniżej przedstawiamy zapis rozmowy z kastylijskim szkoleniowcem.</description>
-    </item>
-    
-    <item>
-        <title>Javi Hernández: Opuszczenie bańki Realu Madryt pozwoliło mi się stać prawdziwym piłkarzem</title>
-        <link>https://www.realmadryt.pl/news/138109-javi-hernandez-opuszczenie-banki-realu-madryt-pozwolilo-mi-sie-stac-prawdziwym-pilkarzem</link>
-        <pubDate>Fri, 28 Mar 2025 18:31:00 GMT</pubDate>
-        <description>Lewy obrońca Leganés, Javi Hernández, w przeddzień meczu z Realem Madryt na Santiago Bernabéu udzielił wywiadu dla dziennika AS. Poniżej przedstawiamy zapis tej rozmowy z hiszpańskim zawodnikiem.</description>
     </item>
     
 </channel>
