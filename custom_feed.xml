@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Mar 2025 07:20:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 07:38:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyzwanie 17 meczów Ancelottiego</title>
+        <link>https://www.realmadryt.pl/news/138129-wyzwanie-17-meczow-ancelottiego</link>
+        <pubDate>Sat, 29 Mar 2025 08:30:00 GMT</pubDate>
+        <description>Ancelotti podkreśla, że jego zespół jest blisko zdobycia trofeów, ale by sięgnąć po komplet, trzeba wygrać dziesięć spotkań w La Lidze, dwa w Pucharze Króla i pięć w Lidze Mistrzów.</description>
+    </item>
     
     <item>
         <title>Wytypuj, że Królewscy wygrają z Leganés i odbierz 200 zł!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138117-as-asencio-podpisal-tymczasowy-kontrakt-do-konca-sezonu</link>
         <pubDate>Fri, 28 Mar 2025 16:15:00 GMT</pubDate>
         <description>Nowa umowa pozwoli młodemu stoperowi otrzymywać premie i kilkukrotnie zwiększy jego wynagrodzenie. Klub spotka się z nim w lipcu i ponownie przedłuży kontrakt, tym razem do 2029 roku.</description>
-    </item>
-    
-    <item>
-        <title>AS: Alaba i Rüdiger z niepewną przyszłością</title>
-        <link>https://www.realmadryt.pl/news/138116-as-alaba-i-ruediger-z-niepewna-przyszloscia</link>
-        <pubDate>Fri, 28 Mar 2025 16:01:00 GMT</pubDate>
-        <description>Obaj piłkarze Realu Madryt mają 32 lata i kontrakty ważne do 2026 roku. Klub musi zastanowić się nad ich przyszłością. Przedłużą umowy czy nie? Potencjalny transfer Huijsena i rozwój Asencio mogą mieć na to wpływ.</description>
     </item>
     
 </channel>
