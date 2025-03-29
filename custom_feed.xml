@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Mar 2025 19:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 20:23:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Leganés [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/138143-real-madryt-leganes-live</link>
+        <pubDate>Sat, 29 Mar 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 Real Madryt mierzy się na własnym boisku z Leganés. W przypadku wygranej Królewscy zrównają się punktami z Barceloną, która jutro podejmie Gironę.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Leganés: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138132-siec-skautow-zycie-w-klubowej-rezydencji-szkolenie-zawodnikow-i-trenerow-tak-rekrutuje-la-fabrica</link>
         <pubDate>Sat, 29 Mar 2025 11:00:00 GMT</pubDate>
         <description>Raport dziennika AS na temat sposobu działania najbardziej płodnej akademii w Europie.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 29. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/138131-telewizyjny-terminarz-29-kolejki-la-ligi</link>
-        <pubDate>Sat, 29 Mar 2025 10:45:00 GMT</pubDate>
-        <description>Przed nami 29. kolejka La Ligi. Real Madryt zagra u siebie z Leganés. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
