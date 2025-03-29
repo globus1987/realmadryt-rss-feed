@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Mar 2025 23:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 23:40:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138155-dzisiejsze-okladki</link>
+        <pubDate>Sun, 30 Mar 2025 00:34:00 GMT</pubDate>
+        <description>Wygrana Realu i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Asencio: Jeśli będziemy drużyną, to będziemy wygrywać wszystko</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138134-szymanowski-futbol-w-elicie-zamyka-czlowieka-w-bance</link>
         <pubDate>Sat, 29 Mar 2025 16:19:00 GMT</pubDate>
         <description>Alexander Szymanowski jest prawdziwą legendą Leganés. Argentyńczyk trafił do klubu w 2015 roku i szybko stał się jednym z symboli klubu. Z nim w składzie zespół po raz pierwszy w historii awansował do La Ligi, a rok później utrzymał się w niej dzięki jego trafieniu. Dziennikarze Asa przed konfrontacją z Realem Madryt przeprowadzili wywiad z byłym pomocnikiem Ogórków. Zapraszamy do lektury tej interesującej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>29. kolejka: Atlético remisuje z Espanyolem, Sociedad wygrywa przed rewanżem z Realem</title>
-        <link>https://www.realmadryt.pl/news/138140-29-kolejka-atletico-remisuje-z-espanyolem-sociedad-wygrywa-przed-rewanzem-z-realem</link>
-        <pubDate>Sat, 29 Mar 2025 16:00:00 GMT</pubDate>
-        <description>Atlético zremisowało na wyjeździe z Espanyolem 1:1 i zmniejszyło stratę do Realu Madryt do trzech punktów. Królewscy mogą jednak jeszcze dziś powiększyć przewagę do sześciu oczek.</description>
     </item>
     
 </channel>
