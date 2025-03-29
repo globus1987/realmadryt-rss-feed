@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Mar 2025 09:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 09:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 29. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/138131-telewizyjny-terminarz-29-kolejki-la-ligi</link>
+        <pubDate>Sat, 29 Mar 2025 10:45:00 GMT</pubDate>
+        <description>Przed nami 29. kolejka La Ligi. Real Madryt zagra u siebie z Leganés. Gdzie obejrzeć to spotkanie?</description>
+    </item>
     
     <item>
         <title>Rozliczenie ascezy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138121-piaty-remis-z-rzedu</link>
         <pubDate>Sat, 29 Mar 2025 00:20:00 GMT</pubDate>
         <description>W 30. kolejce Primera Federación Castilla zremisowała z Yeclano.</description>
-    </item>
-    
-    <item>
-        <title>Ważna wygrana w Belgradzie</title>
-        <link>https://www.realmadryt.pl/news/138120-wazna-wygrana-w-belgradzie</link>
-        <pubDate>Sat, 29 Mar 2025 00:09:00 GMT</pubDate>
-        <description>Koszykarze Realu Madryt stracili 18-punktowe prowadzenie, ale potrafił wytrzymać w końcówce.</description>
     </item>
     
 </channel>
