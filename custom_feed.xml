@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 10:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 10:55:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ligowy przerywnik</title>
+        <link>https://www.realmadryt.pl/news/138165-ligowy-przerywnik</link>
+        <pubDate>Sun, 30 Mar 2025 12:52:00 GMT</pubDate>
+        <description>W 25. kolejce Ligi Endesa Real Madryt zagra z Bilbao. Wczoraj drużyna Tenerife doskoczyła do Realu Madryt i dzisiaj Królewscy mają okazję do odpowiedzi.</description>
+    </item>
     
     <item>
         <title>Mateo: To, co drużyna zrobiła przez ostatni miesiąc, zasługuje na uznanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138148-maledon-wiem-ze-real-madryt-sie-mna-interesuje</link>
         <pubDate>Sun, 30 Mar 2025 08:18:00 GMT</pubDate>
         <description>Théo Maledon rozmawiał z dziennikarzem portalu Gazzetta. Skomentował w nim doniesienia dotyczące możliwego transferu do Realu Madryt latem.</description>
-    </item>
-    
-    <item>
-        <title>Borja Jiménez: Sędziowanie? Mam nadzieję, że klub podniesie głos</title>
-        <link>https://www.realmadryt.pl/news/138153-borja-jimenez-sedziowanie-mam-nadzieje-ze-klub-podniesie-glos</link>
-        <pubDate>Sun, 30 Mar 2025 07:25:00 GMT</pubDate>
-        <description>Trener Leganés, Borja Jiménez, spotkał się z dziennikarzami po przegranym meczu z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
