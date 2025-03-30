@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 10:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 11:19:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/138167-dzisiejszy-trening</link>
+        <pubDate>Sun, 30 Mar 2025 12:58:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Ligowy przerywnik</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138147-kartka-z-kalendarza-30-marca</link>
         <pubDate>Sun, 30 Mar 2025 09:09:00 GMT</pubDate>
         <description>Kolejne puchary i mistrzostwa, urodziny spełnionego i niespełnionego talentu oraz informacja o nas w… piśmie dla dorosłych. Co działo się 30 marca?</description>
-    </item>
-    
-    <item>
-        <title>Maledon: Wiem, że Real Madryt się mną interesuje</title>
-        <link>https://www.realmadryt.pl/news/138148-maledon-wiem-ze-real-madryt-sie-mna-interesuje</link>
-        <pubDate>Sun, 30 Mar 2025 08:18:00 GMT</pubDate>
-        <description>Théo Maledon rozmawiał z dziennikarzem portalu Gazzetta. Skomentował w nim doniesienia dotyczące możliwego transferu do Realu Madryt latem.</description>
     </item>
     
 </channel>
