@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 08:57:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 09:23:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mundial 2030 pod lupą – nic nie jest przesądzone</title>
+        <link>https://www.realmadryt.pl/news/138159-mundial-2030-pod-lupa-nic-nie-jest-przesadzone</link>
+        <pubDate>Sun, 30 Mar 2025 11:22:00 GMT</pubDate>
+        <description>Zaufanie nie jest już takie samo, zwłaszcza po wycieku dokumentów i ujawnieniu, że spotkania robocze były nagrywane.</description>
+    </item>
     
     <item>
         <title>Łunin: Było widać, że wracamy po przerwie na kadry</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138149-mbappe-damy-z-siebie-wszystko-by-wygrac-wszystkie-mozliwe-tytuly</link>
         <pubDate>Sat, 29 Mar 2025 23:15:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu dla klubowej telewizji po wygranym 3:2 meczu z Leganés. Przedstawiamy wypowiedzi napastnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>29. kolejka: Real ucieka Atlético i dogania Barcelonę</title>
-        <link>https://www.realmadryt.pl/news/138145-29-kolejka-real-ucieka-atletico-i-dogania-barcelone</link>
-        <pubDate>Sat, 29 Mar 2025 23:06:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Leganés 3:2, dzięki czemu znów mają tyle samo punktów co Barcelona, która jutro zmierzy się z Gironą.</description>
     </item>
     
 </channel>
