@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 08:28:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 08:44:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin: Było widać, że wracamy po przerwie na kadry</title>
+        <link>https://www.realmadryt.pl/news/138157-lunin-bylo-widac-ze-wracamy-po-przerwie-na-kadry</link>
+        <pubDate>Sun, 30 Mar 2025 10:38:00 GMT</pubDate>
+        <description>Andrij Łunin udzielił wywiadu klubowym mediom po wygranej 3:2 z Leganés na Santiago Bernabéu. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Fran García: Po przerwie reprezentacyjnej zazwyczaj wszystko więcej kosztuje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138145-29-kolejka-real-ucieka-atletico-i-dogania-barcelone</link>
         <pubDate>Sat, 29 Mar 2025 23:06:00 GMT</pubDate>
         <description>Real Madryt wygrał z Leganés 3:2, dzięki czemu znów mają tyle samo punktów co Barcelona, która jutro zmierzy się z Gironą.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z Leganés</title>
-        <link>https://www.realmadryt.pl/news/138146-mbappe-mvp-meczu-z-leganes</link>
-        <pubDate>Sat, 29 Mar 2025 23:04:00 GMT</pubDate>
-        <description>Francuz został wyróżniony w wygranym przez Real Madryt meczu z Leganés.</description>
     </item>
     
 </channel>
