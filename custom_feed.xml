@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 05:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 06:32:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Maledon: Wiem, że Real Madryt się mną interesuje</title>
+        <link>https://www.realmadryt.pl/news/138148-maledon-wiem-ze-real-madryt-sie-mna-interesuje</link>
+        <pubDate>Sun, 30 Mar 2025 08:18:00 GMT</pubDate>
+        <description>Théo Maledon rozmawiał z dziennikarzem portalu Gazzetta. Skomentował w nim doniesienia dotyczące możliwego transferu do Realu Madryt latem.</description>
+    </item>
     
     <item>
         <title>Borja Jiménez: Sędziowanie? Mam nadzieję, że klub podniesie głos</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138143-remontada-ktora-nie-daje-spokoju</link>
         <pubDate>Sat, 29 Mar 2025 20:55:00 GMT</pubDate>
         <description>W meczu 29. kolejki La Ligi Real Madryt wygrał na własnym boisku z Leganés po golach Kyliana Mbappé i Jude'a Bellinghama. Królewscy objęli prowadzenie, ale jeszcze w pierwszej połowie rywal odpowiedział dwoma trafieniami. Gospodarze walczyli jednak do końca</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Leganés: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/138141-real-madryt-leganes-znamy-sklady</link>
-        <pubDate>Sat, 29 Mar 2025 19:07:00 GMT</pubDate>
-        <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w ligowym mecz z Leganés. Spotkanie rozpocznie się o godzinie 21:00 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
