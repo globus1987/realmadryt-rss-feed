@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 22:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 22:40:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138177-dzisiejsze-okladki</link>
+        <pubDate>Mon, 31 Mar 2025 00:28:00 GMT</pubDate>
+        <description>Wygrana Barcelony i liczby Mbappé to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Efektowny debiut Enzo w Juvenilu A</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138164-mateo-to-co-druzyna-zrobila-przez-ostatni-miesiac-zasluguje-na-uznanie</link>
         <pubDate>Sun, 30 Mar 2025 12:17:00 GMT</pubDate>
         <description>Chus Mateo wypowiedział się dla klubowych mediów przed meczem z Bilbao w Lidze Endesa. Mówił o tym, że drużyna musi rozsądnie zarządzać siłami, bo terminarz jest bardzo napięty.</description>
-    </item>
-    
-    <item>
-        <title>Miliony dla wszystkich w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/138163-miliony-dla-wszystkich-w-realu-madryt</link>
-        <pubDate>Sun, 30 Mar 2025 12:10:00 GMT</pubDate>
-        <description>Na razie mają dwa trofea, a mogą zdobyć aż sześć. Spośród 40 milionów euro wypłaconych w sezonie 2023/24 w formie premii, sukcesy mogą sprawić, że Real Madryt sięgnie po raz kolejny do kieszeni – tym razem nawet po 80 milionów. I wszyscy są z tego powodu bardzo zadowoleni.</description>
     </item>
     
 </channel>
