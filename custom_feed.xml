@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 13:12:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 13:32:35 GMT</lastBuildDate>
     
     <item>
-        <title>Łunin: Wykorzystywanie braku znajomości hiszpańskiego nie wydaje mi się poprawne</title>
-        <link>https://www.realmadryt.pl/news/138168-lunin-wykorzystywanie-braku-znajomosci-hiszpanskiego-nie-wydaje-mi-sie-poprawne</link>
+        <title>Barcelona vs Girona: Derby Katalonii z fotelem lidera w tle</title>
+        <link>https://www.realmadryt.pl/news/138169-barcelona-vs-girona-derby-katalonii-z-fotelem-lidera-w-tle</link>
+        <pubDate>Sun, 30 Mar 2025 15:12:00 GMT</pubDate>
+        <description>Barcelona podejmuje Gironę w meczu 29. kolejki Primera División i wobec wczorajszego zwycięstwa Realu Madryt musi dalej punktować, by zachować pozycję lidera.</description>
+    </item>
+    
+    <item>
+        <title>Łunin: Wykorzystywanie mojego braku znajomości hiszpańskiego nie wydaje mi się poprawne</title>
+        <link>https://www.realmadryt.pl/news/138168-lunin-wykorzystywanie-mojego-braku-znajomosci-hiszpanskiego-nie-wydaje-mi-sie-poprawne</link>
         <pubDate>Sun, 30 Mar 2025 15:10:00 GMT</pubDate>
         <description>Andrij Łunin za pośrednictwem swoich mediów społecznościowych musiał wyhamować zapędy tych, którzy w jego wypowiedziach po meczu z Leganés starają się doszukać drugiego dna.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138157-lunin-bylo-widac-ze-wracamy-po-przerwie-na-kadry</link>
         <pubDate>Sun, 30 Mar 2025 10:38:00 GMT</pubDate>
         <description>Andrij Łunin udzielił wywiadu klubowym mediom po wygranej 3:2 z Leganés na Santiago Bernabéu. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Fran García: Po przerwie reprezentacyjnej zazwyczaj wszystko więcej kosztuje</title>
-        <link>https://www.realmadryt.pl/news/138156-fran-garcia-po-przerwie-reprezentacyjnej-zazwyczaj-wszystko-wiecej-kosztuje</link>
-        <pubDate>Sun, 30 Mar 2025 09:52:00 GMT</pubDate>
-        <description>Fran García udzielił kilku wypowiedzi dla klubowych mediów po meczu z Leganés. Poniżej przedstawiamy ich zapis.</description>
     </item>
     
 </channel>
