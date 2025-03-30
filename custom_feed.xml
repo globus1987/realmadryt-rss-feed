@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Mar 2025 16:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 17:20:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pewne zwycięstwo z Bilbao</title>
+        <link>https://www.realmadryt.pl/news/138170-pewne-zwyciestwo-z-bilbao</link>
+        <pubDate>Sun, 30 Mar 2025 19:01:00 GMT</pubDate>
+        <description>W 25. kolejce Ligi Endesa Real Madryt pewnie pokonał Bilbao. Królewscy mieli trochę problemów w pierwszej połowie, jednak patrząc na całokształt, to mecz przebiegł w pełni po ich myśli. Chus Mateo mógł oszczędzać kluczowych graczy.</description>
+    </item>
     
     <item>
         <title>29. kolejka: Barcelona wygrywa i utrzymuje fotel lidera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138159-mundial-2030-pod-lupa-nic-nie-jest-przesadzone</link>
         <pubDate>Sun, 30 Mar 2025 11:22:00 GMT</pubDate>
         <description>Zaufanie nie jest już takie samo, zwłaszcza po wycieku dokumentów i ujawnieniu, że spotkania robocze były nagrywane.</description>
-    </item>
-    
-    <item>
-        <title>Łunin: Było widać, że wracamy po przerwie na kadry</title>
-        <link>https://www.realmadryt.pl/news/138157-lunin-bylo-widac-ze-wracamy-po-przerwie-na-kadry</link>
-        <pubDate>Sun, 30 Mar 2025 10:38:00 GMT</pubDate>
-        <description>Andrij Łunin udzielił wywiadu klubowym mediom po wygranej 3:2 z Leganés na Santiago Bernabéu. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
     </item>
     
 </channel>
