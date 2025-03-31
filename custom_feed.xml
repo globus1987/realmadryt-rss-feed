@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 31 Mar 2025 22:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 22:42:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138205-dzisiejsze-okladki</link>
+        <pubDate>Tue, 01 Apr 2025 00:24:00 GMT</pubDate>
+        <description>Rewanż Realu Madryt z Sociedadem i powrót Ter Stegena to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: City oczekuje, że Haaland zagra na Klubowym Mundialu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138189-kadra-realu-sociedad-na-jutrzejszy-mecz</link>
         <pubDate>Mon, 31 Mar 2025 14:22:00 GMT</pubDate>
         <description>Szkoleniowiec gości może liczyć niemal na wszystkich zawodników pierwszego zespołu. Gotowi do gry są Nayef Aguerd, Ander Barrenetxea i Orri Óskarsson.</description>
-    </item>
-    
-    <item>
-        <title>Simeone: Odpadliśmy decyzją sędziego i UEFA przez rzekome dotknięcie piłki przy karnym</title>
-        <link>https://www.realmadryt.pl/news/138188-simeone-odpadlismy-decyzja-sedziego-i-uefa-przez-rzekome-dotkniecie-pilki-przy-karnym</link>
-        <pubDate>Mon, 31 Mar 2025 13:54:00 GMT</pubDate>
-        <description>Diego Simeone na konferencjach prasowych przy okazji meczu z Espanyolem pokazał, że ciągle nie może przeboleć odpadnięcie z Ligi Mistrzów po dwumeczu z Realem Madryt. Przedstawiamy zapis wypowiedzi Argentyńczyka z tych spotkań z dziennikarzami.</description>
     </item>
     
 </channel>
