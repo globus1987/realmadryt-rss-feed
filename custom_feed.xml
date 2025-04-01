@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Apr 2025 23:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 23:40:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138229-dzisiejsze-okladki</link>
+        <pubDate>Wed, 02 Apr 2025 01:25:00 GMT</pubDate>
+        <description>Półfinały Pucharu Króla to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Przywołanie do porządku wyciągnęło najlepszego Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138219-od-zmiennika-do-bohatera-czyli-historia-endricka-w-pucharze-krola</link>
         <pubDate>Tue, 01 Apr 2025 16:16:00 GMT</pubDate>
         <description>Już dzisiaj Endrick może otrzymać kolejną szansę gry od pierwszej minuty w Pucharze Króla. To właśnie w tych rozgrywkach Brazylijczyk czuje się najlepiej i prawie za każdym razem jest kluczową postacią w zespole Carlo Ancelottiego.</description>
-    </item>
-    
-    <item>
-        <title>Kompan od wszystkiego</title>
-        <link>https://www.realmadryt.pl/news/138218-kompan-od-wszystkiego</link>
-        <pubDate>Tue, 01 Apr 2025 15:55:00 GMT</pubDate>
-        <description>Jude Bellingham robi na boisku wszystko… i wszystko mu wychodzi. Anglik wrócił do wysokiej formy w kluczowym momencie sezonu.</description>
     </item>
     
 </channel>
