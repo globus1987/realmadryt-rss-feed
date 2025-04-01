@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Apr 2025 19:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 19:39:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Real Sociedad [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/138225-real-madryt-real-sociedad-live</link>
+        <pubDate>Tue, 01 Apr 2025 21:25:00 GMT</pubDate>
+        <description>Od 21:30 trwa rewanżowy mecz półfinału Pucharu Króla pomiędzy Realem Madryt a Realem Sociedad. W pierwszym meczu podopieczni Carlo Ancelottiego wygrali na wyjeździe 1:0.</description>
+    </item>
     
     <item>
         <title>Juanito, Real Sociedad i długie 90 minut na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138216-flick-nie-sadze-ze-trzeba-sie-porownywac-z-realem-madryt</link>
         <pubDate>Tue, 01 Apr 2025 13:57:00 GMT</pubDate>
         <description>Trener Barcelony został ponownie zapytany o Królewskich podczas dzisiejszej konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w półfinale Pucharu Króla.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona znowu oszukała La Ligę fałszywą dźwignią?</title>
-        <link>https://www.realmadryt.pl/news/138215-barcelona-znowu-oszukala-la-lige-falszywa-dzwignia</link>
-        <pubDate>Tue, 01 Apr 2025 13:54:00 GMT</pubDate>
-        <description>W nowy rok weszliśmy z polemiką wokół rejestracji Daniego Olmo. Teraz wiele wskazuje na to, że Barcelona po prostu kolejny raz stworzyła fałszywą dźwignię i oszukała La Ligę, w tym sfałszowała całe rozgrywki.</description>
     </item>
     
 </channel>
