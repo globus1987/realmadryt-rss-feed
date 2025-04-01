@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Apr 2025 21:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 22:24:01 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Real Sociedad [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/138225-real-madryt-real-sociedad-live</link>
+        <title>Tchouaméni: Musimy grać lepiej</title>
+        <link>https://www.realmadryt.pl/news/138227-tchouameni-musimy-grac-lepiej</link>
+        <pubDate>Wed, 02 Apr 2025 00:20:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni udzielił wywiadu dla klubowej telewizji po uzyskaniu awansu do finału Pucharu Króla. Przedstawiamy wypowiedzi Francuza.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/138226-ocen-pilkarzy-po-meczu-z-realem-sociedad</link>
+        <pubDate>Wed, 02 Apr 2025 00:15:00 GMT</pubDate>
+        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
+    </item>
+    
+    <item>
+        <title>Żarty żartami, ale Real to Real</title>
+        <link>https://www.realmadryt.pl/news/138225-zarty-zartami-ale-real-to-real</link>
         <pubDate>Tue, 01 Apr 2025 21:25:00 GMT</pubDate>
-        <description>Od 21:30 trwa rewanżowy mecz półfinału Pucharu Króla pomiędzy Realem Madryt a Realem Sociedad. W pierwszym meczu podopieczni Carlo Ancelottiego wygrali na wyjeździe 1:0.</description>
+        <description>W rewanżowym meczu półfinału Pucharu Króla Real Madryt zremisował z Realem Sociedad 4:4 po dogrywce. W pierwszym meczu podopieczni Carlo Ancelottiego wygrali na wyjeździe 1:0 i to oni zagrają w finale w Sewilli.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138217-zubimendi-krag-sie-zamyka</link>
         <pubDate>Tue, 01 Apr 2025 15:33:00 GMT</pubDate>
         <description>Real Madryt definitywnie zajął pozycję wyjściową w sprawie transferu pomocnika. Zawodnik jest świadomy zainteresowania, a wszystko zależy już tylko od zakończenia sezonu i ostatecznej decyzji Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Ferdinand: Kibice Liverpoolu powinni powiedzieć Trentowi „Dziękujemy i powodzenia”</title>
-        <link>https://www.realmadryt.pl/news/138201-ferdinand-kibice-liverpoolu-powinni-powiedziec-trentowi-dziekujemy-i-powodzenia</link>
-        <pubDate>Tue, 01 Apr 2025 15:15:00 GMT</pubDate>
-        <description>Rio Ferdinand w swoim podcaście skomentował zapowiadany wolny transfer Trenta Alexandra-Arnolda do Realu Madryt. Przedstawiamy wypowiedzi byłego obrońcy i obecnie eksperta na temat sytuacji gracza Liverpoolu.</description>
-    </item>
-    
-    <item>
-        <title>Flick: Nie sądzę, że trzeba się porównywać z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/138216-flick-nie-sadze-ze-trzeba-sie-porownywac-z-realem-madryt</link>
-        <pubDate>Tue, 01 Apr 2025 13:57:00 GMT</pubDate>
-        <description>Trener Barcelony został ponownie zapytany o Królewskich podczas dzisiejszej konferencji prasowej przed jutrzejszym spotkaniem z Atlético Madryt w półfinale Pucharu Króla.</description>
     </item>
     
 </channel>
