@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Apr 2025 16:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 16:54:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fałszywy alarm, który opróżnił Bernabéu w osiem minut</title>
+        <link>https://www.realmadryt.pl/news/138223-falszywy-alarm-ktory-oproznil-bernabeu-w-osiem-minut</link>
+        <pubDate>Tue, 01 Apr 2025 18:44:00 GMT</pubDate>
+        <description>Z okazji dzisiejszej rewanżowej potyczki Realu Madryt z Realem Sociedad Relevo przypomina historię sprzed niemal 20 lat, która przez wielu kibiców doskonale pamiętana jest do dziś. Choć wydarzenia z grudnia 2004 roku wywołały olbrzymią panikę, to jednak skończyło się jedynie na strachu.</description>
+    </item>
     
     <item>
         <title>Bez zagrożonych zawieszeniem na potencjalny finał Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138211-enzo-alves-w-pogoni-za-rekordem-odegaarda</link>
         <pubDate>Tue, 01 Apr 2025 13:08:00 GMT</pubDate>
         <description>Hiszpański napastnik, który w wieku 15 lat zadebiutował już w Juvenilu A, błyskawicznie przeskakuje kolejne etapy szkoleniowe w La Fábrice.</description>
-    </item>
-    
-    <item>
-        <title>Odriozola nie może się przełamać po powrocie do San Sebastián</title>
-        <link>https://www.realmadryt.pl/news/138212-odriozola-nie-moze-sie-przelamac-po-powrocie-do-san-sebastian</link>
-        <pubDate>Tue, 01 Apr 2025 12:18:00 GMT</pubDate>
-        <description>Prawy obrońca Realu Sociedad nie może się podnieść, a w minioną sobotę znów doznał kontuzji na Anoecie – podczas treningu rezerwowych po meczu z Realem Valladolid.</description>
     </item>
     
 </channel>
