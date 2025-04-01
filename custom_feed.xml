@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Apr 2025 07:53:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 08:32:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żarty się skończyły</title>
+        <link>https://www.realmadryt.pl/news/138203-zarty-sie-skonczyly</link>
+        <pubDate>Tue, 01 Apr 2025 10:30:00 GMT</pubDate>
+        <description>Śmiech to zdrowie. Podobno.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 kwietnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138197-spotkanie-prezesow-realu-i-river-plate</link>
         <pubDate>Mon, 31 Mar 2025 19:52:00 GMT</pubDate>
         <description>Jorge Brito, prezes River Plate, i Ignacio Villarroel, drugi wiceprezes argentyńskiego klubu, oglądali zwycięstwo Realu Madryt nad Leganés w loży Santiago Bernabéu. Tam zostali przyjęci przez Florentino Péreza, któremu wręczyli koszulkę River.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Ancelotti zastanawia się nad przyszłością przez zmęczenie i zużycie</title>
-        <link>https://www.realmadryt.pl/news/138196-the-athletic-ancelotti-zastanawia-sie-nad-przyszloscia-przez-zmeczenie-i-zuzycie</link>
-        <pubDate>Mon, 31 Mar 2025 19:28:00 GMT</pubDate>
-        <description>Brazylijczycy chcą zatrudnić nowego selekcjonera na czerwcowe mecze eliminacji do mundialu. Trener Realu Madryt będzie mieć wtedy przed sobą jeszcze Klubowy Mundial. Włoch ma jednak mocno zastanawiać się nad swoją przyszłością w klubie.</description>
     </item>
     
 </channel>
