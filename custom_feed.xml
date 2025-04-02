@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Apr 2025 13:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 14:24:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mistrz dogrywek</title>
+        <link>https://www.realmadryt.pl/news/138248-mistrz-dogrywek</link>
+        <pubDate>Wed, 02 Apr 2025 16:06:00 GMT</pubDate>
+        <description>Włoski trener jako szkoleniowiec Realu Madryt przegrał w dogrywce tylko raz. Wczoraj w meczu z Realem Sociedad znów górą byli jego podopieczni.</description>
+    </item>
+    
+    <item>
+        <title>Trzy ostrzeżenia przed finałem</title>
+        <link>https://www.realmadryt.pl/news/138247-trzy-ostrzezenia-przed-finalem</link>
+        <pubDate>Wed, 02 Apr 2025 15:56:00 GMT</pubDate>
+        <description>Królewscy nie popisali się w defensywie w meczu z Realem Sociedad, a największa krytyka spadła na Andrija Łunina, Davida Alabę i Eduardo Camavingę. Szanse na występ tej trójki w finale znacząco spadły.</description>
+    </item>
     
     <item>
         <title>Laporta: To kolejna próba destabilizacji zespołu, nie potrafią nas pokonać na boisku i próbują to zrobić przy stoliku</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138237-carlo-i-davide-wsciekli-sie-na-viniciusa-i-wtedy-zaczal-lepiej-grac</link>
         <pubDate>Wed, 02 Apr 2025 10:03:00 GMT</pubDate>
         <description>Energetyczna rozmowa przy linii bocznej, która odmieniła mecz Brazylijczyka: „Ten impuls wydobył z Viníciusa to, co najlepsze”.</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger: To bardzo trudny sezon, ale mamy kolejny finał i wygramy go</title>
-        <link>https://www.realmadryt.pl/news/138233-ruediger-to-bardzo-trudny-sezon-ale-mamy-kolejny-final-i-wygramy-go</link>
-        <pubDate>Wed, 02 Apr 2025 09:30:00 GMT</pubDate>
-        <description>Antonio Rüdiger po rewanżowym półfinale Pucharu Króla z Sociedadem zatrzymał się w strefie mieszanej. Przedstawiamy jego wypowiedzi dla Real Madrid TV. Niemiec odpowiadał po hiszpańsku.</description>
-    </item>
-    
-    <item>
-        <title>„Real Madryt budzi się do życia dopiero, gdy wybucha chaos”</title>
-        <link>https://www.realmadryt.pl/news/138236-real-madryt-budzi-sie-do-zycia-dopiero-gdy-wybucha-chaos</link>
-        <pubDate>Wed, 02 Apr 2025 09:15:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Królewskich z Realem Sociedad w półfinale Pucharu Króla. Przedstawiamy opinię dziennikarza.</description>
     </item>
     
 </channel>
