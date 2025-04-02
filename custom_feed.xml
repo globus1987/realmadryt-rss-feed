@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Apr 2025 09:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 10:29:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/138242-oceny-zawodnikow-po-meczu-z-realem-sociedad</link>
+        <pubDate>Wed, 02 Apr 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt zremisował u siebie z Realem Sociedad 4:4 i awansował do finału Pucharu Króla. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Barcelona nie spełnia Finansowego Fair Play, by zarejestrować Olmo i Paua Víctora</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138231-endrick-wy-wiecie-kto-tu-gra-w-ataku-ja-jestem-nikim</link>
         <pubDate>Wed, 02 Apr 2025 07:00:00 GMT</pubDate>
         <description>Endrick po rewanżowym półfinale Pucharu Króla z Sociedadem zatrzymał się w strefie mieszanej. Przedstawiamy jego wypowiedzi dla dziennikarzy radiowych i telewizyjnych zgromadzonych na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 4:4 Real Sociedad [SKRÓT]</title>
-        <link>https://www.realmadryt.pl/news/138234-real-madryt-4-4-real-sociedad-skrot</link>
-        <pubDate>Wed, 02 Apr 2025 04:11:00 GMT</pubDate>
-        <description>Królewscy awansowali do finału Pucharu Króla, wygrywając półfinałowy dwumecz po rewanżu, w którym doszło do dogrywki.</description>
     </item>
     
 </channel>
