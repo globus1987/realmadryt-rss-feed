@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Apr 2025 22:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 23:22:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138262-dzisiejsze-okladki</link>
+        <pubDate>Thu, 03 Apr 2025 01:13:00 GMT</pubDate>
+        <description>Awans Barcelony do finału Pucharu Króla to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barcelona w finale Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138245-remiro-uderzenie-judea-chcialem-zablokowac-strzal-to-byl-przypadek-i-nie-jest-to-rzut-karny</link>
         <pubDate>Wed, 02 Apr 2025 13:38:00 GMT</pubDate>
         <description>Álex Remiro rozmawiał z dziennikarzami w strefie mieszanej po odpadnięciu z rozgrywek o Puchar Króla z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Realu Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti przed sądem: „Nigdy nie pomyślałem, że to może być oszustwo”</title>
-        <link>https://www.realmadryt.pl/news/138244-ancelotti-przed-sadem-nigdy-nie-pomyslalem-ze-to-moze-byc-oszustwo</link>
-        <pubDate>Wed, 02 Apr 2025 12:40:00 GMT</pubDate>
-        <description>Trener Realu Madryt stawił się w madryckim sądzie Audiencia Provincial w atmosferze ogromnego zainteresowania. Grozi mu prawie pięć lat więzienia.</description>
     </item>
     
 </channel>
