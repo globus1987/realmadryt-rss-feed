@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Apr 2025 06:34:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 06:54:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>41. finał Copa del Rey</title>
+        <link>https://www.realmadryt.pl/news/138259-41-final-copa-del-rey</link>
+        <pubDate>Thu, 03 Apr 2025 08:40:00 GMT</pubDate>
+        <description>Real Madryt rozegra za trzy tygodnie swój 41. finał w historii Copa del Rey. Dotychczasowy bilans finałowych starć Królewskich to 20 zwycięstw i 20 porażek.</description>
+    </item>
     
     <item>
         <title>Ósmy Klasyk w finale Copa del Rey</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138251-czarna-skrzynka-realu-madryt-ujawnia-ze-carlo-ancelotti-stracil-kontrole-nad-druzyna</link>
         <pubDate>Wed, 02 Apr 2025 18:50:00 GMT</pubDate>
         <description>Królewscy po szalonym remisie 4:4 z Realem Sociedad zapewnili sobie miejsce w finale Pucharu Króla, ale mimo początkowej przewagi, znaleźli się w poważnych tarapatach, które uwypukliły największe bolączki drużyny Carlo Ancelottiego.</description>
-    </item>
-    
-    <item>
-        <title>Kto będzie „gospodarzem” finału Pucharu Króla?</title>
-        <link>https://www.realmadryt.pl/news/138250-kto-bedzie-gospodarzem-finalu-pucharu-krola</link>
-        <pubDate>Wed, 02 Apr 2025 18:25:00 GMT</pubDate>
-        <description>Finał Copa del Rey Real rozegra 26 kwietnia, a dziś w nocy pozna swojego rywala.</description>
     </item>
     
 </channel>
