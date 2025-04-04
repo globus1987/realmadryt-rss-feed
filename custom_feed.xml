@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Apr 2025 21:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 22:23:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arsenal zagra dziś na wyjeździe z Evertonem</title>
+        <link>https://www.realmadryt.pl/news/138325-arsenal-zagra-dzis-na-wyjezdzie-z-evertonem</link>
+        <pubDate>Sat, 05 Apr 2025 00:20:00 GMT</pubDate>
+        <description>Dziś o 13:30 rozpocznie się 31. kolejka Premier League. W pierwszym meczu Everton podejmie Arsenal, dla którego będzie to ostatnie starcie przed ćwierćfinałem Ligi Mistrzów przeciwko Realowi Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138328-dzisiejsze-okladki</link>
+        <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+        <description>Mecze ligowe to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Związek Peñi Atlético: Filmik UEFA z podwójnym dotknięciem jest zmanipulowany</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138311-oficjalnie-ruediger-i-mbappe-ukarani-w-zawieszeniu</link>
         <pubDate>Fri, 04 Apr 2025 16:15:00 GMT</pubDate>
         <description>Obrońca i napastnik będą mogli zagrać z Arsenalem.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Valencią [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/138309-kwadrans-ostatniego-treningu-przed-valencia-video</link>
-        <pubDate>Fri, 04 Apr 2025 16:06:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Valencią w La Lidze.</description>
-    </item>
-    
-    <item>
-        <title>Corberán: Czy mecz z Realem jest w naszym zasięgu? Tak, gramy w jednej lidze</title>
-        <link>https://www.realmadryt.pl/news/138310-corberan-czy-mecz-z-realem-jest-w-naszym-zasiegu-tak-gramy-w-jednej-lidze</link>
-        <pubDate>Fri, 04 Apr 2025 15:50:00 GMT</pubDate>
-        <description>Trener Valencii, Carlos Corberán, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 30. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi hiszpańskiego szkoleniowca.</description>
     </item>
     
 </channel>
