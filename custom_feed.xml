@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Apr 2025 17:53:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 18:32:31 GMT</lastBuildDate>
     
     <item>
-        <title>Sky: Real Madryt rozmawia z Rudigerem o przedłużeniu umowy</title>
-        <link>https://www.realmadryt.pl/news/138318-sky-real-madryt-rozmawia-z-rudigerem-o-przedluzeniu-umowy</link>
+        <title>Telewizyjny terminarz 30. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/138319-telewizyjny-terminarz-30-kolejki-la-ligi</link>
+        <pubDate>Fri, 04 Apr 2025 20:18:00 GMT</pubDate>
+        <description>Przed nami 30. kolejka La Ligi. Real Madryt zagra u siebie z Valencią. Gdzie obejrzeć to spotkanie?</description>
+    </item>
+    
+    <item>
+        <title>Sky: Real Madryt rozmawia z Rüdigerem o przedłużeniu umowy</title>
+        <link>https://www.realmadryt.pl/news/138318-sky-real-madryt-rozmawia-z-ruedigerem-o-przedluzeniu-umowy</link>
         <pubDate>Fri, 04 Apr 2025 19:49:00 GMT</pubDate>
         <description>Umowa 32-latka wygasa za rok i dotychczas plotkowano jedynie o jego odejściu do Arabii Saudyjskiej. Niemcy podają, że klub chce zatrzymać stopera na dłużej i jest nawet gotowy zrobić dla niego wyjątek.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138308-marca-viniciusa-nie-ma-juz-w-blasku-fleszy</link>
         <pubDate>Fri, 04 Apr 2025 15:12:00 GMT</pubDate>
         <description>Podczas 23-minutowej konferencji prasowej przed meczem z Realem Madryt Carlos Corberán ani razu nie wspomniał o Vinim.</description>
-    </item>
-    
-    <item>
-        <title>Dwie passy Zidane'a wskazują drogę Ancelottiemu</title>
-        <link>https://www.realmadryt.pl/news/138306-dwie-passy-zidanea-wskazuja-droge-ancelottiemu</link>
-        <pubDate>Fri, 04 Apr 2025 14:35:00 GMT</pubDate>
-        <description>Po wznowieniu rozgrywek w sezonie 2019/20 Real Madryt pod wodzą Zinédine'a Zidane’a zanotował dziesięć zwycięstw z rzędu i wyprzedził Barcelonę, która zaliczyła kilka potknięć. Francuz był bliski zdobycia mistrzostwa również w kampanii 2015/16, gdy Królewscy wygrywali w ostatnich dwunastu kolejkach. Passy Zidane’a mogą być punktem odniesienia dla Carlo Ancelottiego przed finałowym etapem rozgrywek.</description>
     </item>
     
 </channel>
