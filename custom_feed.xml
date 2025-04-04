@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Apr 2025 18:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 18:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Valencii na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/138321-kadra-valencii-na-mecz-z-realem</link>
+        <pubDate>Fri, 04 Apr 2025 20:40:00 GMT</pubDate>
+        <description>Carlos Corberán ogłosił listę powołanych na jutrzejszy mecz Valencii z Realem Madryt. Na liście brakuje pięciu zawodników pierwszego zespołu.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 30. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138307-ancelotti-nie-sadze-ze-decyzja-w-sprawie-olmo-falszuje-rozgrywki</link>
         <pubDate>Fri, 04 Apr 2025 15:28:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Valencią w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Viníciusa nie ma już w blasku fleszy</title>
-        <link>https://www.realmadryt.pl/news/138308-marca-viniciusa-nie-ma-juz-w-blasku-fleszy</link>
-        <pubDate>Fri, 04 Apr 2025 15:12:00 GMT</pubDate>
-        <description>Podczas 23-minutowej konferencji prasowej przed meczem z Realem Madryt Carlos Corberán ani razu nie wspomniał o Vinim.</description>
     </item>
     
 </channel>
