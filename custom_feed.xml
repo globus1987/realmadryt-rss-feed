@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 09:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 10:24:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arizmendi: Ta Valencia może przełamać klątwę Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/138330-arizmendi-ta-valencia-moze-przelamac-klatwe-bernabeu</link>
+        <pubDate>Sat, 05 Apr 2025 12:21:00 GMT</pubDate>
+        <description>Javier Arizmendi spędził w Valencii jeden sezon, w trakcie którego zdołał zdobyć tylko jedną bramkę. Los chciał, że trafił akurat na Santiago Bernabéu przy okazji ostatniego zwycięstwa Nietoperzy na stadionie Realu Madryt 23 marca 2008 roku. Teraz w przeddzień kolejnego starcia z Królewskimi udzielił wywiadu dla dziennika AS.</description>
+    </item>
+    
+    <item>
+        <title>Bez zagrożonych zawieszeniem w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/138320-bez-zagrozonych-zawieszeniem-w-la-lidze</link>
+        <pubDate>Sat, 05 Apr 2025 11:54:00 GMT</pubDate>
+        <description>Królewscy pozostają z jednym zagrożonym zawieszeniem piłkarzem, ale na razie pozostaje on kontuzjowany.</description>
+    </item>
     
     <item>
         <title>Ostatni wielki wieczór Valencii na Bernabéu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138325-arsenal-zagra-dzis-na-wyjezdzie-z-evertonem</link>
         <pubDate>Sat, 05 Apr 2025 00:20:00 GMT</pubDate>
         <description>Dziś o 13:30 rozpocznie się 31. kolejka Premier League. W pierwszym meczu Everton podejmie Arsenal, dla którego będzie to ostatnie starcie przed ćwierćfinałem Ligi Mistrzów przeciwko Realowi Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/138328-dzisiejsze-okladki</link>
-        <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
-        <description>Mecze ligowe to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Związek Peñi Atlético: Filmik UEFA z podwójnym dotknięciem jest zmanipulowany</title>
-        <link>https://www.realmadryt.pl/news/138324-zwiazek-peni-atletico-filmik-uefa-z-podwojnym-dotknieciem-jest-zmanipulowany</link>
-        <pubDate>Fri, 04 Apr 2025 22:01:00 GMT</pubDate>
-        <description>Unión Internacional de Peñas del Atlético de Madrid opublikowało oficjalny komunikat z ekspertyzą, która ma wskazywać na to, że UEFA sfałszowała filmik, na podstawie którego broniła decyzji w sprawie podwójnego dotknięcia piłki przez Juliána Álvareza przy rzucie karnym.</description>
     </item>
     
 </channel>
