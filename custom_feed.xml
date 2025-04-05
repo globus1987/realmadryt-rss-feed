@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 17:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 17:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce</title>
+        <link>https://www.realmadryt.pl/news/138351-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce</link>
+        <pubDate>Sat, 05 Apr 2025 19:53:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po porażce z Valencią. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>Ancelotti zawieszony na mecz z Deportivo Alavés</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138341-30-kolejka-real-przegrywa-i-daje-barcelonie-szanse-na-odskoczenie</link>
         <pubDate>Sat, 05 Apr 2025 18:18:00 GMT</pubDate>
         <description>Real Madryt przegrał z Valencią, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Kompromitacja, która nie zaskakuje</title>
-        <link>https://www.realmadryt.pl/news/138337-kompromitacja-ktora-nie-zaskakuje</link>
-        <pubDate>Sat, 05 Apr 2025 16:10:00 GMT</pubDate>
-        <description>W meczu 30. kolejki La Ligi Real Madryt przegrał u siebie z Valencią 1:2. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
     </item>
     
 </channel>
