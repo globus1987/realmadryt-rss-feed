@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 18:29:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 18:45:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona vs Betis: Katalończycy chcą odskoczyć [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/138354-barcelona-vs-betis-katalonczycy-chca-odskoczyc-live</link>
+        <pubDate>Sat, 05 Apr 2025 20:40:00 GMT</pubDate>
+        <description>Katalończycy mają szansę odskoczyć Królewskim po ich porażce z Valencią.</description>
+    </item>
     
     <item>
         <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138340-ocen-pilkarzy-po-meczu-z-valencia</link>
         <pubDate>Sat, 05 Apr 2025 18:28:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>30. kolejka: Real przegrywa i daje Barcelonie szansę na odskoczenie</title>
-        <link>https://www.realmadryt.pl/news/138341-30-kolejka-real-przegrywa-i-daje-barcelonie-szanse-na-odskoczenie</link>
-        <pubDate>Sat, 05 Apr 2025 18:18:00 GMT</pubDate>
-        <description>Real Madryt przegrał z Valencią, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
