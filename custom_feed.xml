@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 03:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 04:27:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ten sam mecz</title>
+        <link>https://www.realmadryt.pl/news/138252-ten-sam-mecz</link>
+        <pubDate>Sat, 05 Apr 2025 06:00:00 GMT</pubDate>
+        <description>Teorie spiskowe mają to do siebie, że są albo absurdalne, albo bardzo absurdalne. Oczywiście z wyłączeniem tych, które potem okazują się prawdą.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Valencia: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138313-guti-moj-ulubiony-moment-kariery-w-realu-to-jej-poczatki</link>
         <pubDate>Fri, 04 Apr 2025 16:46:00 GMT</pubDate>
         <description>Były piłkarz Realu był jednym z gości na Międzynarodowym Forum Sportu zorganizowanym w Segowii. Przedstawiamy, jak odpowiadał na zadane mu pytania.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni zawodnikiem na Pięć Gwiazdek za marzec</title>
-        <link>https://www.realmadryt.pl/news/138312-tchouameni-zawodnikiem-na-piec-gwiazdek-za-marzec</link>
-        <pubDate>Fri, 04 Apr 2025 16:26:00 GMT</pubDate>
-        <description>Francuski pomocnik po raz pierwszy w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
