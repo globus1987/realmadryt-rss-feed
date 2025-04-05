@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 22:22:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt 1:2 Valencia [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/138359-real-madryt-1-2-valencia-video</link>
+        <pubDate>Sun, 06 Apr 2025 00:09:00 GMT</pubDate>
+        <description>W meczu 30. kolejki La Ligi Real Madryt przegrał u siebie z Valencią 1:2. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
+    </item>
     
     <item>
         <title>30. kolejka: Barcelona zremisowała z Betisem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138342-javi-guerra-to-najlepsza-sceneria-na-zwyciestwo</link>
         <pubDate>Sat, 05 Apr 2025 18:29:00 GMT</pubDate>
         <description>Javi Guerra udzielił krótkiego wywiadu z murawy dla platformy DAZN po zwycięstwie 2:1 z Realem Madryt na Estadio Santiago Bernabéu. Przedstawiamy wypowiedzi gracza Valencii.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/138340-ocen-pilkarzy-po-meczu-z-valencia</link>
-        <pubDate>Sat, 05 Apr 2025 18:28:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
     </item>
     
 </channel>
