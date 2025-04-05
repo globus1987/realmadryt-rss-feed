@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 15:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 16:27:52 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Valencia [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/138337-real-madryt-valencia-live</link>
+        <title>30. kolejka: Real przegrywa i daje Barcelonie szansę na odskoczenie</title>
+        <link>https://www.realmadryt.pl/news/138341-30-kolejka-real-przegrywa-i-daje-barcelonie-szanse-na-odskoczenie</link>
+        <pubDate>Sat, 05 Apr 2025 18:18:00 GMT</pubDate>
+        <description>Real Madryt przegrał z Valencią, więc czas rzucić okiem na układ tabeli.</description>
+    </item>
+    
+    <item>
+        <title>Kompromitacja, która nie zaskakuje</title>
+        <link>https://www.realmadryt.pl/news/138337-kompromitacja-ktora-nie-zaskakuje</link>
         <pubDate>Sat, 05 Apr 2025 16:10:00 GMT</pubDate>
-        <description>Od 16:15 trwa trzeci mecz 30. kolejki La Ligi, w którym Real Madryt podejmuje Valencię.</description>
+        <description>W meczu 30. kolejki La Ligi Real Madryt przegrał u siebie z Valencią 1:2. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138331-w-pogoni-za-trypletem</link>
         <pubDate>Sat, 05 Apr 2025 09:05:00 GMT</pubDate>
         <description>Los Blancos byli tego kilka razy bliscy, ale nigdy nie udało im się wygrać La Ligi, Ligi Mistrzów i Pucharu Króla w tym samym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj gwiżdże… po prostu Cuadra Fernández [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/138317-dzisiaj-gwizdze-po-prostu-cuadra-fernandez-video</link>
-        <pubDate>Sat, 05 Apr 2025 08:30:00 GMT</pubDate>
-        <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Valencią. Tradycyjnie materiałów nie zabrakło ani na sędziego boiskowego, ani na arbitra VAR.</description>
     </item>
     
 </channel>
