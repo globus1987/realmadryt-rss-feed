@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 10:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 10:42:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Everton – Arsenal: Ostatni występ Kanonierów przed Realem [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/138333-everton-arsenal-ostatni-wystep-kanonierow-przed-realem-live</link>
+        <pubDate>Sat, 05 Apr 2025 12:30:00 GMT</pubDate>
+        <description>Rywale Królewskich rozgrywają ostatni ligowy mecz przed pierwszym wtorkowym ćwierćfinałem.</description>
+    </item>
     
     <item>
         <title>Arizmendi: Ta Valencia może przełamać klątwę Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138329-real-madryt-valencia-przewidywane-sklady</link>
         <pubDate>Sat, 05 Apr 2025 02:39:00 GMT</pubDate>
         <description>Królewscy podchodzą do kolejnego meczu bez kontuzjowanych Daniego Carvajala, Édera Militão, Ferlanda Mendy'ego i Daniego Ceballosa. Problemy fizyczne ma także Thibaut Courtois. Wszyscy czekają na decyzję w sprawie Andrija Łunina.</description>
-    </item>
-    
-    <item>
-        <title>Arsenal zagra dziś na wyjeździe z Evertonem</title>
-        <link>https://www.realmadryt.pl/news/138325-arsenal-zagra-dzis-na-wyjezdzie-z-evertonem</link>
-        <pubDate>Sat, 05 Apr 2025 00:20:00 GMT</pubDate>
-        <description>Dziś o 13:30 rozpocznie się 31. kolejka Premier League. W pierwszym meczu Everton podejmie Arsenal, dla którego będzie to ostatnie starcie przed ćwierćfinałem Ligi Mistrzów przeciwko Realowi Madryt.</description>
     </item>
     
 </channel>
