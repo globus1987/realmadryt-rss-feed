@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Apr 2025 07:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 08:27:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Prezes obdarzał mnie sympatią także wtedy, gdy powiedziałem mu, że zostaję w Paryżu</title>
+        <link>https://www.realmadryt.pl/news/138323-mbappe-prezes-obdarzal-mnie-sympatia-takze-wtedy-gdy-powiedzialem-mu-ze-zostaje-w-paryzu</link>
+        <pubDate>Sat, 05 Apr 2025 10:00:00 GMT</pubDate>
+        <description>La Sexta przedstawiła kolejne zapowiedzi pierwszego wywiadu z Kylianem Mbappé z hiszpańskim medium. Z Francuzem rozmawiała Ana Pastor, a cała rozmowa zostanie wyemitowana w najbliższą niedzielę o 21:30 w telewizji La Sexta w tej programie El Objetivo. Przedstawiamy nowe wypowiedzi piłkarza z zapowiedzi, które ukazały się w mediach społecznościowych.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 5 kwietnia</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>W pogoni na trypletem</title>
-        <link>https://www.realmadryt.pl/news/138331-w-pogoni-na-trypletem</link>
+        <title>W pogoni za trypletem</title>
+        <link>https://www.realmadryt.pl/news/138331-w-pogoni-za-trypletem</link>
         <pubDate>Sat, 05 Apr 2025 09:05:00 GMT</pubDate>
         <description>Los Blancos byli tego kilka razy bliscy, ale nigdy nie udało im się wygrać La Ligi, Ligi Mistrzów i Pucharu Króla w tym samym sezonie.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138321-kadra-valencii-na-mecz-z-realem</link>
         <pubDate>Fri, 04 Apr 2025 20:40:00 GMT</pubDate>
         <description>Carlos Corberán ogłosił listę powołanych na jutrzejszy mecz Valencii z Realem Madryt. Na liście brakuje pięciu zawodników pierwszego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 30. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/138319-telewizyjny-terminarz-30-kolejki-la-ligi</link>
-        <pubDate>Fri, 04 Apr 2025 20:18:00 GMT</pubDate>
-        <description>Przed nami 30. kolejka La Ligi. Real Madryt zagra u siebie z Valencią. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
