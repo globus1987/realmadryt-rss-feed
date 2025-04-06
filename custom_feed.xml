@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 08:46:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 09:23:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazdowy ligowy Klasyk</title>
+        <link>https://www.realmadryt.pl/news/138353-wyjazdowy-ligowy-klasyk</link>
+        <pubDate>Sun, 06 Apr 2025 11:14:00 GMT</pubDate>
+        <description>W 26. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Barceloną. Królewscy chcą utrzymać pozycję samodzielnego lidera, a Katalończycy walczą o awans do czołowej czwórki.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 6 kwietnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138359-real-madryt-1-2-valencia-video</link>
         <pubDate>Sun, 06 Apr 2025 00:09:00 GMT</pubDate>
         <description>W meczu 30. kolejki La Ligi Real Madryt przegrał u siebie z Valencią 1:2. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>30. kolejka: Barcelona zremisowała z Betisem</title>
-        <link>https://www.realmadryt.pl/news/138354-30-kolejka-barcelona-zremisowala-z-betisem</link>
-        <pubDate>Sat, 05 Apr 2025 20:40:00 GMT</pubDate>
-        <description>Katalończycy mieli szansę odskoczyć Królewskim po ich porażce z Valencią i ostatecznie wykorzystali to tylko po części, zdobywając jeden punkt w meczu domowym.</description>
     </item>
     
 </channel>
