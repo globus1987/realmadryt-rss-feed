@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 22:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 22:41:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138386-dzisiejsze-okladki</link>
+        <pubDate>Mon, 07 Apr 2025 00:27:00 GMT</pubDate>
+        <description>Sytuacje Realu Madryt i Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Francuzi atakują Mbappé za wypowiedź z wywiadu, ten od razu odpowiada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138370-kadra-realu-madryt-na-arsenal</link>
         <pubDate>Sun, 06 Apr 2025 15:47:00 GMT</pubDate>
         <description>Carlo Ancelotti nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu podczas ćwierćfinału Ligi Mistrzów z Arsenalem. Włoch powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Mecz z Barceloną zawsze jest wyjątkowy i piękny dla kibiców</title>
-        <link>https://www.realmadryt.pl/news/138350-mateo-mecz-z-barcelona-zawsze-jest-wyjatkowy-i-piekny-dla-kibicow</link>
-        <pubDate>Sun, 06 Apr 2025 14:00:00 GMT</pubDate>
-        <description>Chus Mateo i Facundo Campazzo wypowiedzieli się przed ligowym Klasykiem. Obaj podkreślali, że Barcelona pozostaje groźna mimo braków w składzie.</description>
     </item>
     
 </channel>
