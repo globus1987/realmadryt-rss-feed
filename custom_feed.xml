@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 05:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 05:41:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd na Ibizę</title>
+        <link>https://www.realmadryt.pl/news/138338-wyjazd-na-ibize</link>
+        <pubDate>Sun, 06 Apr 2025 07:30:00 GMT</pubDate>
+        <description>W 31. kolejce Primera Federación Castilla zagra na wyjeździe z Ibizą. Królewscy spróbują przerwać passę pięciu remisów z rzędu, żeby znów podłączyć się do walki o awans.</description>
+    </item>
     
     <item>
         <title>„Musimy to zmienić na wtorek!”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138345-oficjalny-debiut-frana-gonzaleza-w-pierwszym-zespole-krolewskich</link>
         <pubDate>Sat, 05 Apr 2025 19:14:00 GMT</pubDate>
         <description>W starciu z Valencią Fran González zaliczył swój oficjalny debiut w pierwszym zespole Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Diakhaby: Ten gol to dla mnie niesamowita historia</title>
-        <link>https://www.realmadryt.pl/news/138344-diakhaby-ten-gol-to-dla-mnie-niesamowita-historia</link>
-        <pubDate>Sat, 05 Apr 2025 19:12:00 GMT</pubDate>
-        <description>Mouctar Diakhaby udzielił wywiadu dla VCF Media po wygranym starciu z Realem Madryt. Przedstawiamy słowa defensora Nietoperzy po triumfie na Santiago Bernabéu.</description>
     </item>
     
 </channel>
