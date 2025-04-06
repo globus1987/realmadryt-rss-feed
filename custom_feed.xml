@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 07:20:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 07:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arteta: To jeden z najpiękniejszych meczów, jaki możesz rozegrać w futbolu</title>
+        <link>https://www.realmadryt.pl/news/138358-arteta-to-jeden-z-najpiekniejszych-meczow-jaki-mozesz-rozegrac-w-futbolu</link>
+        <pubDate>Sun, 06 Apr 2025 09:30:00 GMT</pubDate>
+        <description>Mikel Arteta pojawił się na konferencji prasowej po meczu ligowym z Evertonem. Przedstawiamy wypowiedzi trenera Arsenalu z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Sędzia przy monitorze: To dotknięcie jest tym, które przewraca [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138348-corberan-bylismy-to-dluzni-naszym-kibicom</link>
         <pubDate>Sat, 05 Apr 2025 19:38:00 GMT</pubDate>
         <description>Trener Valencii, Carlos Corberán, wziął udział w konferencji prasowej po zwycięstwie swoich podopiecznych na Santiago Bernabéu. Przedstawiamy poniżej wypowiedzi szkoleniowca Nietoperzy.</description>
-    </item>
-    
-    <item>
-        <title>Butragueño: Drużyna nie zasłużyła na porażkę</title>
-        <link>https://www.realmadryt.pl/news/138347-butragueno-druzyna-nie-zasluzyla-na-porazke</link>
-        <pubDate>Sat, 05 Apr 2025 19:37:00 GMT</pubDate>
-        <description>Emilio Butragueño, dyrektor ds. Instytucjonalnych Realu Madryt, udzielił wypowiedzi dla klubowej telewizji po przegranym 1:2 meczu z Valencią na Santiago Bernabéu. Przedstawiamy słowa popularnego Sępa.</description>
     </item>
     
 </channel>
