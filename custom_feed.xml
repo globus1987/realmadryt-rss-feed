@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 09:23:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 09:40:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Lucas lub Modrić wątpliwością w składzie na Arsenal</title>
+        <link>https://www.realmadryt.pl/news/138364-cope-lucas-lub-modric-watpliwoscia-w-skladzie-na-arsenal</link>
+        <pubDate>Sun, 06 Apr 2025 11:36:00 GMT</pubDate>
+        <description>Dobrze poinformowany dziennikarz twierdzi, że w składzie na Arsenal pozostają tylko dwie wątpliwości.</description>
+    </item>
     
     <item>
         <title>Wyjazdowy ligowy Klasyk</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138360-dzisiejsze-okladki</link>
         <pubDate>Sun, 06 Apr 2025 00:23:00 GMT</pubDate>
         <description>Straty punktów Realu i Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 1:2 Valencia [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/138359-real-madryt-1-2-valencia-video</link>
-        <pubDate>Sun, 06 Apr 2025 00:09:00 GMT</pubDate>
-        <description>W meczu 30. kolejki La Ligi Real Madryt przegrał u siebie z Valencią 1:2. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
     </item>
     
 </channel>
