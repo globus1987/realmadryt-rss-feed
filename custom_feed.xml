@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 13:33:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 13:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Arsenal</title>
+        <link>https://www.realmadryt.pl/news/138370-kadra-realu-madryt-na-arsenal</link>
+        <pubDate>Sun, 06 Apr 2025 15:47:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas ćwierćfinału Ligi Mistrzów z Arsenalem. Włoch powołał 24 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Mateo: Mecz z Barceloną zawsze jest wyjątkowy i piękny dla kibiców</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138352-200-meczow-ligowych-viniego-w-realu-madryt</link>
         <pubDate>Sun, 06 Apr 2025 10:00:00 GMT</pubDate>
         <description>Sobotnie spotkanie z Valencią było 200. występem ligowym Viníciusa w szeregach Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Arteta: To jeden z najpiękniejszych meczów, jaki możesz rozegrać w futbolu</title>
-        <link>https://www.realmadryt.pl/news/138358-arteta-to-jeden-z-najpiekniejszych-meczow-jaki-mozesz-rozegrac-w-futbolu</link>
-        <pubDate>Sun, 06 Apr 2025 09:30:00 GMT</pubDate>
-        <description>Mikel Arteta pojawił się na konferencji prasowej po meczu ligowym z Evertonem. Przedstawiamy wypowiedzi trenera Arsenalu z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
