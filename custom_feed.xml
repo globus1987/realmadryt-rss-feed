@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Apr 2025 08:28:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 08:46:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 6 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/138362-kartka-z-kalendarza-6-kwietnia</link>
+        <pubDate>Sun, 06 Apr 2025 10:45:00 GMT</pubDate>
+        <description>Śmierć byłego trenera Realu Madryt, Barcelony i Atlético, porażki w Lidze Mistrzów, mecz Pucharu Europy prowadzony przez Polaka i szósty Puchar Europy koszykarzy. Co działo się 6 kwietnia?</description>
+    </item>
     
     <item>
         <title>Irfan Peljto na pierwszy mecz z Arsenalem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138354-30-kolejka-barcelona-zremisowala-z-betisem</link>
         <pubDate>Sat, 05 Apr 2025 20:40:00 GMT</pubDate>
         <description>Katalończycy mieli szansę odskoczyć Królewskim po ich porażce z Valencią i ostatecznie wykorzystali to tylko po części, zdobywając jeden punkt w meczu domowym.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce</title>
-        <link>https://www.realmadryt.pl/news/138351-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce</link>
-        <pubDate>Sat, 05 Apr 2025 19:53:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po porażce z Valencią. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
     </item>
     
 </channel>
