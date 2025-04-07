@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Apr 2025 07:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 08:33:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 7 kwietnia</title>
+        <link>https://www.realmadryt.pl/news/138390-kartka-z-kalendarza-7-kwietnia</link>
+        <pubDate>Mon, 07 Apr 2025 10:15:00 GMT</pubDate>
+        <description>Urodziny byłego bramkarza Realu Madryt i wysoka porażka z Atlético na własnym stadionie. Co działo się 7 kwietnia?</description>
+    </item>
     
     <item>
         <title>Mbappé w La Sexcie cz.2: Zagrałem źle kilka meczów, ale to nie był problem mentalny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138380-rodrygo-rozchodzi-sie-z-nike</link>
         <pubDate>Sun, 06 Apr 2025 20:33:00 GMT</pubDate>
         <description>Brazylijczyk zaczął trenować i grać w jednokolorowych butach. Zazwyczaj oznacza to zmianę sponsora technicznego.</description>
-    </item>
-    
-    <item>
-        <title>30. kolejka: Atlético wygrywa i odrabia straty</title>
-        <link>https://www.realmadryt.pl/news/138376-30-kolejka-atletico-wygrywa-i-odrabia-straty</link>
-        <pubDate>Sun, 06 Apr 2025 18:16:00 GMT</pubDate>
-        <description>Zakończył się mecz Sevilli z Atlético, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
