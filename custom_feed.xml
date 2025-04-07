@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Apr 2025 08:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 09:27:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Ciężka niedziela w Valdebebas</title>
+        <link>https://www.realmadryt.pl/news/138392-marca-ciezka-niedziela-w-valdebebas</link>
+        <pubDate>Mon, 07 Apr 2025 11:14:00 GMT</pubDate>
+        <description>Atmosfera podczas wczorajszych zajęć w Valdebebas nie była najlepsza i Ancelotti musiał wstrząsnąć piłkarzami, przypominając im, że nic nie jest jeszcze stracone.</description>
+    </item>
     
     <item>
         <title>Real Madryt marnuje najwięcej karnych spośród wielkich Europy</title>
         <link>https://www.realmadryt.pl/news/138377-real-madryt-marnuje-najwiecej-karnych-sposrod-wielkich-europy</link>
         <pubDate>Mon, 07 Apr 2025 10:55:00 GMT</pubDate>
-        <description>Real Madryt przestrzelił w tym sezonie już sześć rzutów karnych. Królewscy notują pod tym względem najgorsze liczby spośród wielkich klubów Europy.</description>
+        <description>Real Madryt przestrzelił w tym sezonie już pięć rzutów karnych. Królewscy notują pod tym względem najgorsze liczby spośród wielkich klubów Europy.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138382-mbappe-w-la-sexcie-cz-1-to-nie-byla-trudna-decyzja-by-wybrac-miedzy-realem-a-pieniedzmi</link>
         <pubDate>Sun, 06 Apr 2025 22:48:00 GMT</pubDate>
         <description>La Sexta opublikowała swój wywiad z Kylianem Mbappé. Z Francuzem w swoim programie El Objetivo rozmawiała Ana Pastor. Przedstawiamy pierwszą część wypowiedzi piłkarza z tej godzinnej rozmowy nagranej na Santiago Bernabéu. To jego pierwszy tego typu wywiad w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Ósmy wygrany Klasyk z rzędu</title>
-        <link>https://www.realmadryt.pl/news/138381-osmy-wygrany-klasyk-z-rzedu</link>
-        <pubDate>Sun, 06 Apr 2025 20:49:00 GMT</pubDate>
-        <description>W 26. kolejce Ligi Endesa Real Madryt pokonał Barcelonę na wyjeździe. Królewscy utrzymali dzięki temu pozycję samodzielnego lidera i uciekli Valencii, która potknęła się w tej serii gier. To już ósmy Klasyk z rzędu wygrany przez madrytczyków.</description>
     </item>
     
 </channel>
