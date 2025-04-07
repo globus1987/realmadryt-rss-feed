@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Apr 2025 22:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 22:42:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138414-dzisiejsze-okladki</link>
+        <pubDate>Tue, 08 Apr 2025 00:25:00 GMT</pubDate>
+        <description>Mecze Realu Madryt i Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Bernabéu odwołuje czerwcowe koncerty Aitany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138389-mbappe-w-la-sexcie-cz-3-nie-wyobrazam-sobie-realu-bez-viniego</link>
         <pubDate>Mon, 07 Apr 2025 15:40:00 GMT</pubDate>
         <description>La Sexta opublikowała swój wywiad z Kylianem Mbappé. Z Francuzem w swoim programie El Objetivo rozmawiała Ana Pastor. Przedstawiamy trzecią część wypowiedzi piłkarza z tej godzinnej rozmowy nagranej na Santiago Bernabéu. To jego pierwszy tego typu wywiad w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Valdano: Prognoza na finałowy Klasyk jest niepewna</title>
-        <link>https://www.realmadryt.pl/news/138391-valdano-prognoza-na-finalowy-klasyk-jest-niepewna</link>
-        <pubDate>Mon, 07 Apr 2025 13:50:00 GMT</pubDate>
-        <description>Jorge Valdano był gościem Międzynarodowego Forum Sportowego w Segowii. Po wystąpieniu były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i ekspert udzielił wywiadu dziennikowi AS na temat sytuacji Królewskich.</description>
     </item>
     
 </channel>
