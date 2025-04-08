@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Apr 2025 22:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 22:55:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138439-dzisiejsze-okladki</link>
+        <pubDate>Wed, 09 Apr 2025 00:48:00 GMT</pubDate>
+        <description>Porażka Realu Madryt to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Arteta: Na Bernabéu trzeba będzie podnieść poziom</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138424-arsenal-real-madryt-znamy-sklady</link>
         <pubDate>Tue, 08 Apr 2025 18:37:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym starciu 1/4 finału Ligi Mistrzów z Arsenalem. Mecz rozpocznie się o godzinie 21:00 na Emirates Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Tridente marzeń</title>
-        <link>https://www.realmadryt.pl/news/138426-tridente-marzen</link>
-        <pubDate>Tue, 08 Apr 2025 18:30:00 GMT</pubDate>
-        <description>Mbappé, Vinicius i Rodrygo zdobyli w tej edycji Ligi Mistrzów łącznie 19 bramek, co stanowi 68% wszystkich trafień Realu.</description>
     </item>
     
 </channel>
