@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Apr 2025 08:32:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 08:55:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historia do napisania</title>
+        <link>https://www.realmadryt.pl/news/138371-historia-do-napisania</link>
+        <pubDate>Tue, 08 Apr 2025 10:55:00 GMT</pubDate>
+        <description>Są rzeczy, które się wydarzyły, choć trudno w to uwierzyć. Są też rzeczy, które dzieją się rzadko, choć przecież powinny dużo częściej.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 8 kwietnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138408-oficjalnie-bernabeu-odwoluje-czerwcowe-koncerty-aitany</link>
         <pubDate>Mon, 07 Apr 2025 22:11:00 GMT</pubDate>
         <description>Klub całkowicie potwierdził odwołanie już wcześniej przełożonych koncertów Aitany. Na ten moment nie ma informacji o rozwiązaniu problemu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt trenował na Emirates Stadium [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/138406-real-madryt-trenowal-na-emirates-stadium-video</link>
-        <pubDate>Mon, 07 Apr 2025 21:34:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w na stadionie rywala i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
