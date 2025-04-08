@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Apr 2025 18:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 18:54:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arsenal – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/138428-arsenal-real-madryt-live</link>
+        <pubDate>Tue, 08 Apr 2025 20:45:00 GMT</pubDate>
+        <description>Od 21:00 Real Madryt mierzy się na wyjeździe z Arsenalem. Za osiem dni na Santiago Bernabéu odbędzie się rewanż.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Stawiam na Alabę ze względu na jego doświadczenie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138371-historia-do-napisania</link>
         <pubDate>Tue, 08 Apr 2025 10:55:00 GMT</pubDate>
         <description>Są rzeczy, które się wydarzyły, choć trudno w to uwierzyć. Są też rzeczy, które dzieją się rzadko, choć przecież powinny dużo częściej.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 8 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/138412-kartka-z-kalendarza-8-kwietnia</link>
-        <pubDate>Tue, 08 Apr 2025 10:20:00 GMT</pubDate>
-        <description>Finał pierwszej edycji Pucharu Króla, europejskie przygody koszykarzy, wybryk Juanito, urodziny wielkiego talentu, który się rozpadł i „mecz wstydu”. Co działo się 8 kwietnia?</description>
     </item>
     
 </channel>
