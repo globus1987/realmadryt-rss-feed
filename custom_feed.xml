@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 10:29:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 10:49:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Liczby, które podważają ten Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/138445-liczby-ktore-podwazaja-ten-real-madryt</link>
+        <pubDate>Wed, 09 Apr 2025 12:45:00 GMT</pubDate>
+        <description>Statystyki Realu Madryt w tej edycji Ligi Mistrzów obnażają największe słabości podopiecznych Carlo Ancelottiego. Królewscy biegają dużo mniej od swoich rywali i jednocześnie pozwalają im na oddawanie dużo większej liczby strzałów.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Arsenalem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138437-arteta-na-bernabeu-trzeba-bedzie-podniesc-poziom</link>
         <pubDate>Wed, 09 Apr 2025 00:07:00 GMT</pubDate>
         <description>Mikel Arteta udzielił wywiadu dla telewizji Movistar+ po wygranym 3:0 pierwszym ćwierćfinale Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Arsenalu.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga nie zagra w rewanżu z Arsenalem</title>
-        <link>https://www.realmadryt.pl/news/138431-camavinga-nie-zagra-w-rewanzu-z-arsenalem</link>
-        <pubDate>Tue, 08 Apr 2025 23:40:00 GMT</pubDate>
-        <description>Eduardo Camavinga nie zagra w rewanżu z Arsenalem. Dziś Francuz otrzymał żółtą kartkę, która i tak eliminowałaby go z rewanżu, a w doliczonym czasie gry został ukarany po raz drugi i w konsekwencji opuścił boisko przed czasem.</description>
     </item>
     
 </channel>
