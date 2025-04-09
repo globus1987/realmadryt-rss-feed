@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 09:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 10:29:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Arsenalem</title>
+        <link>https://www.realmadryt.pl/news/138447-oceny-zawodnikow-po-meczu-z-arsenalem</link>
+        <pubDate>Wed, 09 Apr 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt przegrał na wyjeździe z Arsenalem 0:3. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Merino: Na Bernabéu wszystko się może zdarzyć</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138431-camavinga-nie-zagra-w-rewanzu-z-arsenalem</link>
         <pubDate>Tue, 08 Apr 2025 23:40:00 GMT</pubDate>
         <description>Eduardo Camavinga nie zagra w rewanżu z Arsenalem. Dziś Francuz otrzymał żółtą kartkę, która i tak eliminowałaby go z rewanżu, a w doliczonym czasie gry został ukarany po raz drugi i w konsekwencji opuścił boisko przed czasem.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Po dwóch golach drużyna trochę upadła mentalnie</title>
-        <link>https://www.realmadryt.pl/news/138435-ancelotti-po-dwoch-golach-druzyna-troche-upadla-mentalnie</link>
-        <pubDate>Tue, 08 Apr 2025 23:32:00 GMT</pubDate>
-        <description>Carlo Ancelotti po meczu Ligi Mistrzów z Arsenalem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Emirates Stadium.</description>
     </item>
     
 </channel>
