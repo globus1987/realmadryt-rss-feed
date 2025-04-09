@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 05:42:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 05:56:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham: To był podobny schemat do tego z całego sezonu</title>
+        <link>https://www.realmadryt.pl/news/138440-bellingham-to-byl-podobny-schemat-do-tego-z-calego-sezonu</link>
+        <pubDate>Wed, 09 Apr 2025 07:50:00 GMT</pubDate>
+        <description>Jude Bellingham po meczu z Arsenalem udzielił wypowiedzi anglojęzycznym telewizjom. Przedstawiamy jego wypowiedzi z dwóch rozmów.</description>
+    </item>
     
     <item>
         <title>Rice: Miałem dośrodkować, ale zobaczyłem ustawienie muru i bramkarza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138432-lucas-jesli-jest-jakas-druzyna-ktora-moze-to-odwrocic-to-jestesmy-nia-my</link>
         <pubDate>Tue, 08 Apr 2025 23:13:00 GMT</pubDate>
         <description>Lucas Vázquez udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 0:3 pierwszym spotkaniu ćwierćfinałowym Ligi Mistrzów z Arsenalem na Emirates. Przedstawiamy wypowiedzi zawodnika Realu.</description>
-    </item>
-    
-    <item>
-        <title>Można gasić światło?</title>
-        <link>https://www.realmadryt.pl/news/138428-mozna-gasic-swiatlo</link>
-        <pubDate>Tue, 08 Apr 2025 20:45:00 GMT</pubDate>
-        <description>Real Madryt przegrał na wyjeździe z Arsenalem 0:3 i jest więcej niż jedną nogą poza Ligą Mistrzów. Za osiem dni na Santiago Bernabéu odbędzie się rewanż.</description>
     </item>
     
 </channel>
