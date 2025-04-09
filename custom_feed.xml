@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 14:48:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 15:29:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od porażki do porażki</title>
+        <link>https://www.realmadryt.pl/news/138454-od-porazki-do-porazki</link>
+        <pubDate>Wed, 09 Apr 2025 17:07:00 GMT</pubDate>
+        <description>W obecnym sezonie Real Madryt przegrał już łącznie jedenaście spotkań we wszystkich rozgrywkach, podczas gdy w poprzedniej kampanii drużyna zanotowała zaledwie dwie porażki.</description>
+    </item>
+    
+    <item>
+        <title>Oczy bolą, serce krwawi, dusza wierzy</title>
+        <link>https://www.realmadryt.pl/news/138453-oczy-bola-serce-krwawi-dusza-wierzy</link>
+        <pubDate>Wed, 09 Apr 2025 17:02:00 GMT</pubDate>
+        <description>Real Madryt przegrał na Emirates Stadium z Arsenalem 0:3 w pierwszym meczu 1/4 finału Ligi Mistrzów. Królewscy potrzebują prawdziwego cudu w rewanżu na Santiago Bernabéu, żeby doprowadzić do kolejnej remontady i awansować do półfinału. Swoimi rozważaniami po wczorajszym spotkaniu dzieli się nasz redaktor, Jakub Glibowski.</description>
+    </item>
     
     <item>
         <title>Wraca tęsknota za CKM</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138443-133-mecz-modricia-w-lidze-mistrzow-w-realu-madryt</link>
         <pubDate>Wed, 09 Apr 2025 10:50:00 GMT</pubDate>
         <description>Luka Modrić rozegrał swój 133. mecz w Lidze Mistrzów w koszulce Realu Madryt. Chorwat wyrównał wynik Karima Benzemy i wskoczył na drugie miejsce w klubowej klasyfikacji.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 9 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/138436-kartka-z-kalendarza-9-kwietnia</link>
-        <pubDate>Wed, 09 Apr 2025 10:20:00 GMT</pubDate>
-        <description>Porażka z Galatasarayem, która nie przeszkodziła w awansie do półfinału, ostatnie derby Bernabéu, dwunaste mistrzostwo Hiszpanii i ubiegłoroczne 3:3 z City. Co działo się 9 kwietnia?</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Skład z czterema atakującymi jest najlepszy</title>
-        <link>https://www.realmadryt.pl/news/138441-ancelotti-sklad-z-czterema-atakujacymi-jest-najlepszy</link>
-        <pubDate>Wed, 09 Apr 2025 09:30:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu Ligi Mistrzów z Arsenalem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Emirates Stadium.</description>
     </item>
     
 </channel>
