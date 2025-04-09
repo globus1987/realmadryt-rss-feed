@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 08:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 08:57:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Pierwsze dwa gole nas zabiły</title>
+        <link>https://www.realmadryt.pl/news/138446-modric-pierwsze-dwa-gole-nas-zabily</link>
+        <pubDate>Wed, 09 Apr 2025 10:53:00 GMT</pubDate>
+        <description>Thierry Henry, obecnie komentator CBS Sports, przeprowadził rozmowę z Luką Modriciem po wczorajszym meczu z Arsenalem w Lidze Mistrzów. Przedstawiamy wypowiedzi Chorwata.</description>
+    </item>
+    
+    <item>
+        <title>133. mecz Modricia w Lidze Mistrzów w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/138443-133-mecz-modricia-w-lidze-mistrzow-w-realu-madryt</link>
+        <pubDate>Wed, 09 Apr 2025 10:50:00 GMT</pubDate>
+        <description>Luka Modrić rozegrał swój 133. mecz w Lidze Mistrzów w koszulce Realu Madryt. Chorwat wyrównał wynik Karima Benzemy i wskoczył na drugie miejsce w klubowej klasyfikacji.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 9 kwietnia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138434-asencio-nie-zagralismy-na-100</link>
         <pubDate>Tue, 08 Apr 2025 23:29:00 GMT</pubDate>
         <description>Raúl Asencio udzielił wywiadu dla telewizji Movistar+ po przegranym 0:3 pierwszym spotkaniu ćwierćfinałowym Ligi Mistrzów z Arsenalem na Emirates. Przedstawiamy wypowiedzi obrońcy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Arsenal 3:0 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/138433-arsenal-3-0-real-madryt-video</link>
-        <pubDate>Tue, 08 Apr 2025 23:25:00 GMT</pubDate>
-        <description>Real Madryt przegrał na wyjeździe z Arsenalem 0:3 i jest więcej niż jedną nogą poza Ligą Mistrzów. Za osiem dni na Santiago Bernabéu odbędzie się rewanż.</description>
-    </item>
-    
-    <item>
-        <title>Rice MVP meczu na Emirates</title>
-        <link>https://www.realmadryt.pl/news/138427-rice-mvp-meczu-na-emirates</link>
-        <pubDate>Tue, 08 Apr 2025 23:18:00 GMT</pubDate>
-        <description>Anglik otrzymał nagrodę dla najlepszego zawodnika meczu Arsenalu z Realem Madryt.</description>
     </item>
     
 </channel>
