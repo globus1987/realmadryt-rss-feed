@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 05:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 05:42:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rice: Miałem dośrodkować, ale zobaczyłem ustawienie muru i bramkarza</title>
+        <link>https://www.realmadryt.pl/news/138442-rice-mialem-dosrodkowac-ale-zobaczylem-ustawienie-muru-i-bramkarza</link>
+        <pubDate>Wed, 09 Apr 2025 07:40:00 GMT</pubDate>
+        <description>Declan Rice po meczu z Realem Madryt udzielił wywiadów telewizjom. Przedstawiamy najważniejsze wypowiedzi pomocnika Arsenalu z tych rozmów.</description>
+    </item>
     
     <item>
         <title>Courtois: Mogę wziąć odpowiedzialność za pierwszego wolnego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138428-mozna-gasic-swiatlo</link>
         <pubDate>Tue, 08 Apr 2025 20:45:00 GMT</pubDate>
         <description>Real Madryt przegrał na wyjeździe z Arsenalem 0:3 i jest więcej niż jedną nogą poza Ligą Mistrzów. Za osiem dni na Santiago Bernabéu odbędzie się rewanż.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Stawiam na Alabę ze względu na jego doświadczenie</title>
-        <link>https://www.realmadryt.pl/news/138425-ancelotti-stawiam-na-alabe-ze-wzgledu-na-jego-doswiadczenie</link>
-        <pubDate>Tue, 08 Apr 2025 20:20:00 GMT</pubDate>
-        <description>Carlo Ancelotti na godzinę przed meczem Ligi Mistrzów z Arsenalem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Emirates Stadium.</description>
     </item>
     
 </channel>
