@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 07:24:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 07:41:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Skład z czterema atakującymi jest najlepszy</title>
+        <link>https://www.realmadryt.pl/news/138441-ancelotti-sklad-z-czterema-atakujacymi-jest-najlepszy</link>
+        <pubDate>Wed, 09 Apr 2025 09:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po meczu Ligi Mistrzów z Arsenalem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Emirates Stadium.</description>
+    </item>
     
     <item>
         <title>Bellingham: To był podobny schemat do tego z całego sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138429-ocen-pilkarzy-po-meczu-z-arsenalem</link>
         <pubDate>Tue, 08 Apr 2025 23:17:00 GMT</pubDate>
         <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>Lucas: Jeśli jest jakaś drużyna, która może to odwrócić, to jesteśmy nią my</title>
-        <link>https://www.realmadryt.pl/news/138432-lucas-jesli-jest-jakas-druzyna-ktora-moze-to-odwrocic-to-jestesmy-nia-my</link>
-        <pubDate>Tue, 08 Apr 2025 23:13:00 GMT</pubDate>
-        <description>Lucas Vázquez udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 0:3 pierwszym spotkaniu ćwierćfinałowym Ligi Mistrzów z Arsenalem na Emirates. Przedstawiamy wypowiedzi zawodnika Realu.</description>
     </item>
     
 </channel>
