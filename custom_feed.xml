@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Apr 2025 12:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 13:34:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x26: Czuwanie przy ciele</title>
+        <link>https://www.realmadryt.pl/news/138450-podcast-6x26-czuwanie-przy-ciele</link>
+        <pubDate>Wed, 09 Apr 2025 15:20:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym zajmujemy się głównie porażką z Arsenalem.</description>
+    </item>
+    
+    <item>
+        <title>Relevo: Tylko cud pozwoli Ancelottiemu uniknąć zwolnienia</title>
+        <link>https://www.realmadryt.pl/news/138451-relevo-tylko-cud-pozwoli-ancelottiemu-uniknac-zwolnienia</link>
+        <pubDate>Wed, 09 Apr 2025 15:11:00 GMT</pubDate>
+        <description>Carlo Ancelotti zwykł oszukiwać podczas konferencji prasowych. Nie wykłada kart na stół i nie mówi mediom tego, co tak naprawdę myśli. Włoch jest bystrym facetem i umie dostosowywać się do okoliczności. Na Emirates nie udało mu się jednak w pełni ukryć swego prawdziwego oblicza ani w trakcie meczu, ani podczas późniejszego spotkania z dziennikarzami, pisze Relevo.</description>
+    </item>
     
     <item>
         <title>„Powrót w końcówce maja? Zobaczymy, czy się uda”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138440-bellingham-to-byl-podobny-schemat-do-tego-z-calego-sezonu</link>
         <pubDate>Wed, 09 Apr 2025 07:50:00 GMT</pubDate>
         <description>Jude Bellingham po meczu z Arsenalem udzielił wypowiedzi anglojęzycznym telewizjom. Przedstawiamy jego wypowiedzi z dwóch rozmów.</description>
-    </item>
-    
-    <item>
-        <title>Rice: Miałem dośrodkować, ale zobaczyłem ustawienie muru i bramkarza</title>
-        <link>https://www.realmadryt.pl/news/138442-rice-mialem-dosrodkowac-ale-zobaczylem-ustawienie-muru-i-bramkarza</link>
-        <pubDate>Wed, 09 Apr 2025 07:40:00 GMT</pubDate>
-        <description>Declan Rice po meczu z Realem Madryt udzielił wywiadów telewizjom. Przedstawiamy najważniejsze wypowiedzi pomocnika Arsenalu z tych rozmów.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Mogę wziąć odpowiedzialność za pierwszego wolnego</title>
-        <link>https://www.realmadryt.pl/news/138438-courtois-moge-wziac-odpowiedzialnosc-za-pierwszego-wolnego</link>
-        <pubDate>Wed, 09 Apr 2025 07:00:00 GMT</pubDate>
-        <description>Thibaut Courtois po meczu Ligi Mistrzów z Arsenalem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt ze strefy mieszanej na Emirates Stadium.</description>
     </item>
     
 </channel>
