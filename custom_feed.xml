@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Apr 2025 21:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 22:24:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138492-dzisiejsze-okladki</link>
+        <pubDate>Fri, 11 Apr 2025 00:20:00 GMT</pubDate>
+        <description>Sytuacja w ataku Realu Madryt i nowy kontrakt Hansiego Flicka to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: To zwycięstwo jest wielką wiadomością dla nas</title>
+        <link>https://www.realmadryt.pl/news/138491-mateo-to-zwyciestwo-jest-wielka-wiadomoscia-dla-nas</link>
+        <pubDate>Thu, 10 Apr 2025 23:53:00 GMT</pubDate>
+        <description>Chus Mateo i Edy Tavares podsumowali krótko zwycięskie spotkanie z Partizanem. Obaj podkreślali, że to był bardzo trudny mecz, który dobrze się zakończył.</description>
+    </item>
     
     <item>
         <title>Koszykarze trzymają kciuki za Žalgiris i Virtus</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138478-sad-administracyjny-odrzuca-pilny-srodek-zapobiegawczy-w-sprawie-olmo-o-ktory-wnioskowala-la-liga</link>
         <pubDate>Thu, 10 Apr 2025 14:38:00 GMT</pubDate>
         <description>Olmo i Pau Víctor będą mogli grać w Barcelonie do końca sezonu po kolejnym niepowodzeniu ligi przed sądem.</description>
-    </item>
-    
-    <item>
-        <title>Koeman: Real może odrobić straty z Arsenalem, ale muszą bardzo się poprawić</title>
-        <link>https://www.realmadryt.pl/news/138477-koeman-real-moze-odrobic-straty-z-arsenalem-ale-musza-bardzo-sie-poprawic</link>
-        <pubDate>Thu, 10 Apr 2025 13:10:00 GMT</pubDate>
-        <description>Ronald Koeman pojawił się na charytatywnym turnieju golfowym, gdzie przy okazji został zapytany o rywalizację Realu Madryt z Arsenalem. Przedstawiamy słowa Holendra.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/138474-dzisiejszy-trening</link>
-        <pubDate>Thu, 10 Apr 2025 12:52:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
