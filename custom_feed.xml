@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Apr 2025 17:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 18:31:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmarł Leo Beenhakker</title>
+        <link>https://www.realmadryt.pl/news/138486-zmarl-leo-beenhakker</link>
+        <pubDate>Thu, 10 Apr 2025 19:57:00 GMT</pubDate>
+        <description>Były trener zmarł w wieku 82 lat.</description>
+    </item>
     
     <item>
         <title>Porzucona tożsamość</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138476-martinez-munuera-na-alaves</link>
         <pubDate>Thu, 10 Apr 2025 12:47:00 GMT</pubDate>
         <description>42-latek poprowadzi najbliższy mecz Realu Madryt z Deportivo Alavés. Sędzią VAR będzie Jesús Gil Manzano.</description>
-    </item>
-    
-    <item>
-        <title>Mundo Deportivo: Pojawi się kolejny raport ws. manipulacji filmikiem przez UEFA</title>
-        <link>https://www.realmadryt.pl/news/138460-mundo-deportivo-pojawi-sie-kolejny-raport-ws-manipulacji-filmikiem-przez-uefa</link>
-        <pubDate>Thu, 10 Apr 2025 12:39:00 GMT</pubDate>
-        <description>W poprzednim tygodniu jedno ze stowarzyszeń kibicowskich Atlético opublikowało ekspertyzę, która ma wskazywać na to, że UEFA sfałszowała filmik, na podstawie którego broniła decyzji w sprawie podwójnego dotknięcia piłki przez Juliána Álvareza przy rzucie karnym. Teraz druga taka organizacja ma wypuścić drugą tego typu analizę. Fani zapowiadają walkę z UEFA w tej sprawie nawet w sądach.</description>
     </item>
     
 </channel>
