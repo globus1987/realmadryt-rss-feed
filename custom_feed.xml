@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Apr 2025 22:24:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 22:43:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138519-dzisiejsze-okladki</link>
+        <pubDate>Sat, 12 Apr 2025 00:32:00 GMT</pubDate>
+        <description>Mecz Barcelony i sytuacja w Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hapoel Tel Awiw zwycięzcą Eurocupu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138505-komitet-dyscyplinarny-uznal-ze-nie-doszlo-do-nieuprawnionego-wystepu-inigo-martineza-w-meczu-przeciwko-osasunie</link>
         <pubDate>Fri, 11 Apr 2025 13:18:00 GMT</pubDate>
         <description>Komitet Dyscyplinarny nie dopatrzył się nieuprawnionego udziału stopera Barcelony, który zagrał w La Lidze po wycofaniu z kadry z powodu kontuzji.</description>
-    </item>
-    
-    <item>
-        <title>Alaba ponownie nie trenował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/138504-alaba-ponownie-nie-trenowal-z-druzyna</link>
-        <pubDate>Fri, 11 Apr 2025 13:09:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
