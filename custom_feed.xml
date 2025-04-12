@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Apr 2025 17:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 18:30:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona gra z Leganés [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/138538-barcelona-gra-z-leganes-na-zywo</link>
+        <pubDate>Sat, 12 Apr 2025 20:30:00 GMT</pubDate>
+        <description>W ostatnim sobotnim meczu 31. kolejki La Ligi CD Leganés podejmuje na Estadio Municipal Butarque Barcelonę.</description>
+    </item>
+    
+    <item>
+        <title>Dyrektor Bayeru: Byłbym szczęśliwszy, gdyby Real Madryt wygrał po goleadzie</title>
+        <link>https://www.realmadryt.pl/news/138541-dyrektor-bayeru-bylbym-szczesliwszy-gdyby-real-madryt-wygral-po-goleadzie</link>
+        <pubDate>Sat, 12 Apr 2025 20:27:00 GMT</pubDate>
+        <description>Dyrektor generalny Bayeru Leverkusen, Fernando Carro, w rozmowie ze Sky Sport przed ligowym meczem z Unionem Berlin podzielił się swoimi odczuciami dotyczącymi przyszłości Xabiego Alonso i Floriana Wirtza. Przy okazji w temat wciągnięta została ostatnia wysoka porażka Realu Madryt z Arsenalem.</description>
+    </item>
+    
+    <item>
+        <title>Dwie czerwone kartki dla Castilli i uratowany remis</title>
+        <link>https://www.realmadryt.pl/news/138539-dwie-czerwone-kartki-dla-castilli-i-uratowany-remis</link>
+        <pubDate>Sat, 12 Apr 2025 20:08:00 GMT</pubDate>
+        <description>W 32. kolejce Primera Federación Castilla zremisowała z rezerwami Atlético Madryt 1:1. Jest to siódmy podział punktów z rzędu w wykonaniu Królewskich, ale tym razem trudno było prosić o więcej, kiedy drużyna musiała kończyć mecz w dziewiątkę.</description>
+    </item>
     
     <item>
         <title>Kadra na Deportivo Alavés</title>
@@ -21,10 +42,10 @@
     </item>
     
     <item>
-        <title>Arsenal vs Brentford: Kanonierzy grają przed rewanżem z Realem [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/138536-arsenal-vs-brentford-kanonierzy-graja-przed-rewanzem-z-realem-live</link>
+        <title>Arsenal remisuje z Brentford przed rewanżem na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/138536-arsenal-remisuje-z-brentford-przed-rewanzem-na-bernabeu</link>
         <pubDate>Sat, 12 Apr 2025 17:50:00 GMT</pubDate>
-        <description>Arsenal podejmuje Brentford w ramach 32. kolejki Premier League. W pierwszym spotkaniu ćwierćfinałowym Ligi Mistrzów ograli Real Madryt 3:0, a na kilka dni przed rewanżem przed nimi intensywny mecz na Emirates.</description>
+        <description>Arsenal zremisował Brentford w ramach 32. kolejki Premier League. W pierwszym spotkaniu ćwierćfinałowym Ligi Mistrzów ograli Real Madryt 3:0, a na kilka dni przed rewanżem stracili punkty na Emirates.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/138529-marca-de-burgos-bengoetxea-staje-sie-faworytem-do-poprowadzenia-finalu-pucharu-krola</link>
         <pubDate>Sat, 12 Apr 2025 13:56:00 GMT</pubDate>
         <description>Wyznaczenie sędziego do finału Pucharu Króla, na zaledwie dwa tygodnie przed meczem, może zacząć się wyjaśniać.</description>
-    </item>
-    
-    <item>
-        <title>Środowa remontada wiedzie przez Mendizorrozę</title>
-        <link>https://www.realmadryt.pl/news/138528-srodowa-remontada-wiedzie-przez-mendizorroze</link>
-        <pubDate>Sat, 12 Apr 2025 13:35:00 GMT</pubDate>
-        <description>Wszystko, co może wydarzyć się w środę 16 kwietnia na Bernabéu, musi mieć swój początek w tym, że Real Madryt wciąż będzie liczył się w walce o La Ligę. To warunek konieczny, by w ogóle myśleć o cudzie.</description>
-    </item>
-    
-    <item>
-        <title>Derby w walce o awans</title>
-        <link>https://www.realmadryt.pl/news/138526-derby-w-walce-o-awans</link>
-        <pubDate>Sat, 12 Apr 2025 12:11:00 GMT</pubDate>
-        <description>W 32. kolejce Primera Federación Castilla podejmie rezerwy Atlético Madryt. Obie drużyny liczą się jeszcze w walce o awans, chociaż potrzebują zwycięstw, żeby dogonić czołówkę.</description>
-    </item>
-    
-    <item>
-        <title>SER: Real poprosił o wcześniejsze rozegranie meczu z Alavés, ale La Liga nie wyraziła na to zgody</title>
-        <link>https://www.realmadryt.pl/news/138525-ser-real-poprosil-o-wczesniejsze-rozegranie-meczu-z-alaves-ale-la-liga-nie-wyrazila-na-to-zgody</link>
-        <pubDate>Sat, 12 Apr 2025 11:45:00 GMT</pubDate>
-        <description>Organizator rozgrywek odpowiedział, że wniosek powinien zostać złożony przed ogłoszeniem terminarza.</description>
     </item>
     
 </channel>
