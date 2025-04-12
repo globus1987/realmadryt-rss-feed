@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Apr 2025 09:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 10:23:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Derby w walce o awans</title>
+        <link>https://www.realmadryt.pl/news/138526-derby-w-walce-o-awans</link>
+        <pubDate>Sat, 12 Apr 2025 12:11:00 GMT</pubDate>
+        <description>W 32. kolejce Primera Federación Castilla podejmie rezerwy Atlético Madryt. Obie drużyny liczą się jeszcze w walce o awans, chociaż potrzebują zwycięstw, żeby dogonić czołówkę.</description>
+    </item>
     
     <item>
         <title>SER: Real poprosił o wcześniejsze rozegranie meczu z Alavés, ale La Liga nie wyraziła na to zgody</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138516-oficjalnie-zmiana-sedziego-na-alaves</link>
         <pubDate>Fri, 11 Apr 2025 21:53:00 GMT</pubDate>
         <description>Juan Martínez Munuera nie poprowadzi ostatecznie meczu w tej kolejce ligi hiszpańskiej. Dziś RFEF ogłosiła zmianę w obsadzie najbliższego spotkania Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 31. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/138512-telewizyjny-terminarz-31-kolejki-la-ligi</link>
-        <pubDate>Fri, 11 Apr 2025 20:52:00 GMT</pubDate>
-        <description>Przed nami 31. kolejka La Ligi. Real Madryt zagra na wyjeździe z Deportivo Alavés. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
