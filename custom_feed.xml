@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Apr 2025 22:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 23:23:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Ligowy Klasyk w niedzielę o 16:15</title>
+        <link>https://www.realmadryt.pl/news/138581-oficjalnie-ligowy-klasyk-w-niedziele-o-16-15</link>
+        <pubDate>Mon, 14 Apr 2025 01:19:00 GMT</pubDate>
+        <description>Poznaliśmy datę i godzinę meczu z Barceloną.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138580-dzisiejsze-okladki</link>
+        <pubDate>Mon, 14 Apr 2025 01:15:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé po meczu przeprosił Antonio Blanco</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138568-camavinga-mvp-meczu-z-deportivo-alaves</link>
         <pubDate>Sun, 13 Apr 2025 18:24:00 GMT</pubDate>
         <description>Francuz został wyróżniony w wygranym przez Real Madryt meczu z Deportivo Alavés.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Alavés</title>
-        <link>https://www.realmadryt.pl/news/138566-ocen-pilkarzy-po-meczu-z-alaves</link>
-        <pubDate>Sun, 13 Apr 2025 18:17:00 GMT</pubDate>
-        <description>Zapraszamy do oceniania występu piłkarzy Królewskich. Sposób głosowania jest prosty – wystarczy poniżej wystawić noty, klikając w odpowiednią gwiazdkę. Skala od 1 do 6 (1 to najsłabiej, 6 – najlepiej).</description>
-    </item>
-    
-    <item>
-        <title>31. kolejka: Real wygrywa i utrzymuje dystans do Barcelony</title>
-        <link>https://www.realmadryt.pl/news/138567-31-kolejka-real-wygrywa-i-utrzymuje-dystans-do-barcelony</link>
-        <pubDate>Sun, 13 Apr 2025 18:14:00 GMT</pubDate>
-        <description>Real Madryt wygrał 1:0 z Deportivo Alavés w meczu 31. kolejki Primera División, więc czas rzucić okiem na układ tabeli.</description>
     </item>
     
 </channel>
