@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Apr 2025 07:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 07:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz na szczycie Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/138548-mecz-na-szczycie-ligi-endesa</link>
+        <pubDate>Sun, 13 Apr 2025 09:46:00 GMT</pubDate>
+        <description>W 27. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Tenerife. Jest to starcie na szczycie tabeli, które może zadecydować o zwycięstwie w sezonie zasadniczym.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 13 kwietnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138544-kadra-alaves-na-mecz-z-realem</link>
         <pubDate>Sat, 12 Apr 2025 21:03:00 GMT</pubDate>
         <description>Bez trzech zawodników pierwszej drużyny Deportivo Alavés musi radzić sobie w starciu z Realem Madryt. Cała trójka wyeliminowała się z tego starcia z powodu żółtych kartek.</description>
-    </item>
-    
-    <item>
-        <title>Torres: Raúl jest największym symbolem madridismo w historii, traktował mnie jak kolegę, choć był idolem</title>
-        <link>https://www.realmadryt.pl/news/138543-torres-raul-jest-najwiekszym-symbolem-madridismo-w-historii-traktowal-mnie-jak-kolege-choc-byl-idolem</link>
-        <pubDate>Sat, 12 Apr 2025 20:52:00 GMT</pubDate>
-        <description>Fernando Torres, trener rezerw Atlético Madryt, pojawił się na konferencji prasowej po zremisowanym spotkaniu z Castillą.</description>
     </item>
     
 </channel>
