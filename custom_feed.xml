@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Apr 2025 02:00:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 04:11:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Mieliśmy ogólny spadek formy</title>
+        <link>https://www.realmadryt.pl/news/138551-ancelotti-mielismy-ogolny-spadek-formy</link>
+        <pubDate>Sun, 13 Apr 2025 05:30:00 GMT</pubDate>
+        <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Leganés. Poniżej przedstawiamy zapis tego spotkania Włocha z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138535-alaba-i-ceballos-trenowali-z-zespolem</link>
         <pubDate>Sat, 12 Apr 2025 18:29:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Arsenal remisuje z Brentfordem przed rewanżem na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/138536-arsenal-remisuje-z-brentfordem-przed-rewanzem-na-bernabeu</link>
-        <pubDate>Sat, 12 Apr 2025 17:50:00 GMT</pubDate>
-        <description>Arsenal zremisował Brentford w ramach 32. kolejki Premier League. W pierwszym spotkaniu ćwierćfinałowym Ligi Mistrzów ograli Real Madryt 3:0, a na kilka dni przed rewanżem stracili punkty na Emirates.</description>
     </item>
     
 </channel>
