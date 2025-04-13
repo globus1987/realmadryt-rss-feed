@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Apr 2025 13:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 14:20:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alavés – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/138563-alaves-real-madryt-live</link>
+        <pubDate>Sun, 13 Apr 2025 16:10:00 GMT</pubDate>
+        <description>Od 16:15 trwa drugi niedzielny mecz La Ligi, w którym Deportivo Alavés podejmuje Real Madryt.</description>
+    </item>
     
     <item>
         <title>Pewne zwycięstwo w meczu na szczycie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138548-mecz-na-szczycie-ligi-endesa</link>
         <pubDate>Sun, 13 Apr 2025 09:46:00 GMT</pubDate>
         <description>W 27. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Tenerife. Jest to starcie na szczycie tabeli, które może zadecydować o zwycięstwie w sezonie zasadniczym.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 13 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/138546-kartka-z-kalendarza-13-kwietnia</link>
-        <pubDate>Sun, 13 Apr 2025 09:09:00 GMT</pubDate>
-        <description>Mnóstwo triumfów koszykarzy, Puchar Króla piłkarzy i wygrana na White Hart Lane przeciwko Bale'owi i Modriciowi. Co działo się 13 kwietnia?</description>
     </item>
     
 </channel>
