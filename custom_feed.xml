@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Apr 2025 23:23:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 23:42:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Mbappé prawdopodobnie zostanie zawieszony tylko na jeden mecz</title>
+        <link>https://www.realmadryt.pl/news/138582-cope-mbappe-prawdopodobnie-zostanie-zawieszony-tylko-na-jeden-mecz</link>
+        <pubDate>Mon, 14 Apr 2025 01:28:00 GMT</pubDate>
+        <description>Francuza nie czeka raczej dotkliwa kara.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Ligowy Klasyk w niedzielę o 16:15</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138569-deportivo-alaves-0-1-real-madryt-video</link>
         <pubDate>Sun, 13 Apr 2025 18:40:00 GMT</pubDate>
         <description>W meczu 31. kolejki La Ligi Real Madryt wygrał na wyjeździe z Deportivo Alavés. Jedyną bramkę dla Królewskich zdobył Eduardo Camavinga.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga MVP meczu z Deportivo Alavés</title>
-        <link>https://www.realmadryt.pl/news/138568-camavinga-mvp-meczu-z-deportivo-alaves</link>
-        <pubDate>Sun, 13 Apr 2025 18:24:00 GMT</pubDate>
-        <description>Francuz został wyróżniony w wygranym przez Real Madryt meczu z Deportivo Alavés.</description>
     </item>
     
 </channel>
