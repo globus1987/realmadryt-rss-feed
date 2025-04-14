@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Apr 2025 21:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 22:23:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138610-dzisiejsze-okladki</link>
+        <pubDate>Tue, 15 Apr 2025 00:13:00 GMT</pubDate>
+        <description>Sytuacja Realu i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>31. kolejka: Atlético wygrywa i utrzymuje tempo czołówki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138593-mirror-jorginho-nie-zagra-z-realem-wystep-thomasa-pod-znakiem-zapytania</link>
         <pubDate>Mon, 14 Apr 2025 17:17:00 GMT</pubDate>
         <description>Kolejne złe wieści dla Artety.</description>
-    </item>
-    
-    <item>
-        <title>Media: Luka Modrić został współwłaścicielem Swansea</title>
-        <link>https://www.realmadryt.pl/news/138592-media-luka-modric-zostal-wspolwlascicielem-swansea</link>
-        <pubDate>Mon, 14 Apr 2025 14:38:00 GMT</pubDate>
-        <description>Chorwat debiutuje w roli działacza, ale myślami wciąż jest przy grze… i przy Realu Madryt.</description>
     </item>
     
 </channel>
