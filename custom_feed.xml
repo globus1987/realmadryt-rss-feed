@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Apr 2025 09:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 10:31:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Alavés</title>
+        <link>https://www.realmadryt.pl/news/138584-oceny-zawodnikow-po-meczu-z-alaves</link>
+        <pubDate>Mon, 14 Apr 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z Deportivo Alavés 1:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Antonio Blanco: Kylian przeprosił i to jest najważniejsze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138580-dzisiejsze-okladki</link>
         <pubDate>Mon, 14 Apr 2025 01:15:00 GMT</pubDate>
         <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé po meczu przeprosił Antonio Blanco</title>
-        <link>https://www.realmadryt.pl/news/138578-mbappe-po-meczu-przeprosil-antonio-blanco</link>
-        <pubDate>Sun, 13 Apr 2025 20:49:00 GMT</pubDate>
-        <description>Gwiazdor za swoje brutalne wejście osobiście przeprosił Blanco, a także kolegów z drużyny. Wraca z Vitorii bardzo zły na samego siebie.</description>
     </item>
     
 </channel>
