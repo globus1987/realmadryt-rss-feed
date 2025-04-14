@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Apr 2025 19:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 19:39:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Burzliwa rozmowa Ancelottiego z piłkarzami podczas dzisiejszego treningu</title>
+        <link>https://www.realmadryt.pl/news/138603-cope-burzliwa-rozmowa-ancelottiego-z-pilkarzami-podczas-dzisiejszego-treningu</link>
+        <pubDate>Mon, 14 Apr 2025 21:23:00 GMT</pubDate>
+        <description>Trener domagał się zaangażowania i dodatkowego wysiłku przed starciem z Arsenalem.</description>
+    </item>
     
     <item>
         <title>Unboxing nowej domowej koszulki Realu Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138591-dzisiejszy-trening</link>
         <pubDate>Mon, 14 Apr 2025 13:22:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: La Liga żegna się z katalońskim Mediapro i zmienia dostawcę usług audiowizualnych</title>
-        <link>https://www.realmadryt.pl/news/138590-oficjalnie-la-liga-zegna-sie-z-katalonskim-mediapro-i-zmienia-dostawce-uslug-audiowizualnych</link>
-        <pubDate>Mon, 14 Apr 2025 13:10:00 GMT</pubDate>
-        <description>HBS została wybrana na kolejne 5 sezonów do realizacji trzech z pięciu pakietów, Telefónica Servicios Audiovisuales zajmie się jednym z nich, a ostatni pozostał bez rozstrzygnięcia.</description>
     </item>
     
 </channel>
