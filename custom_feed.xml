@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 10:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 11:20:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Thomas Partey i Ben White gotowi na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/138619-thomas-partey-i-ben-white-gotowi-na-mecz-z-realem</link>
+        <pubDate>Tue, 15 Apr 2025 13:04:00 GMT</pubDate>
+        <description>Calafiori i Jorginho nie trenowali z zespołem.</description>
+    </item>
     
     <item>
         <title>Wielkie wyzwanie Frana Garcíi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138609-pichichi-zamora-asistencias</link>
         <pubDate>Tue, 15 Apr 2025 07:25:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 31. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos wraca na afisz</title>
-        <link>https://www.realmadryt.pl/news/138605-ceballos-wraca-na-afisz</link>
-        <pubDate>Tue, 15 Apr 2025 05:30:00 GMT</pubDate>
-        <description>Trwający sezon nie jest łatwy dla Daniego Ceballosa. Dwie dość poważne kontuzje wykluczyły go z gry na łącznie niemal trzy miesiące. Nie zmienia to jednak faktu, że bieżąca kampania i tak jest jego najlepszą w barwach Realu Madryt.</description>
     </item>
     
 </channel>
