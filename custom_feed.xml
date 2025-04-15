@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 05:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 06:35:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bitwa o ćwierćfinał</title>
+        <link>https://www.realmadryt.pl/news/138608-bitwa-o-cwiercfinal</link>
+        <pubDate>Tue, 15 Apr 2025 08:18:00 GMT</pubDate>
+        <description>Real Madryt zadebiutuje dzisiaj w play-in Euroligi. W meczu, którego stawką jest ćwierćfinał, Królewscy zmierzą się z beniaminkiem i jednocześnie rewelacją rozgrywek, czyli drużyną Paris Basketball.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138597-as-camavinga-znow-jest-soba</link>
         <pubDate>Mon, 14 Apr 2025 17:52:00 GMT</pubDate>
         <description>Eduardo Camavingą był najlepszym graczem Realu Madryt w starciu z Deportivo Alavés. Francuz nie będzie mógł zagrać z Arsenalem, ale wczoraj sprawił, że Królewscy nie zgubili punktów przed środowym rewanżem.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti liczy na Tchouaméniego i Ceballosa w poszukiwaniu cudu i równowagi</title>
-        <link>https://www.realmadryt.pl/news/138596-ancelotti-liczy-na-tchouameniego-i-ceballosa-w-poszukiwaniu-cudu-i-rownowagi</link>
-        <pubDate>Mon, 14 Apr 2025 17:51:00 GMT</pubDate>
-        <description>Włoski szkoleniowiec wierzy we Francuza i Andaluzyjczyka w walce o odrobienie strat z Arsenalem w Lidze Mistrzów.</description>
     </item>
     
 </channel>
