@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 11:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 11:54:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Londyński mur</title>
+        <link>https://www.realmadryt.pl/news/138620-londynski-mur</link>
+        <pubDate>Tue, 15 Apr 2025 13:50:00 GMT</pubDate>
+        <description>Arsenal w tym sezonie zanotował aż 18 meczów z czystym kontem z tyłu. Londyńczycy mają ponadto najmniej straconych bramek w Premier League, a w Lidze Mistrzów stracili tylko pięć bramek w dziesięciu meczach.</description>
+    </item>
     
     <item>
         <title>Thomas Partey i Ben White gotowi na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138608-bitwa-o-cwiercfinal</link>
         <pubDate>Tue, 15 Apr 2025 08:18:00 GMT</pubDate>
         <description>Real Madryt zadebiutuje dzisiaj w play-in Euroligi. W meczu, którego stawką jest ćwierćfinał, Królewscy zmierzą się z beniaminkiem i jednocześnie rewelacją rozgrywek, czyli drużyną Paris Basketball.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/138609-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 15 Apr 2025 07:25:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 31. kolejce La Ligi.</description>
     </item>
     
 </channel>
