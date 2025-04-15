@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 05:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 05:43:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/138609-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 15 Apr 2025 07:25:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 31. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Ceballos wraca na afisz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138596-ancelotti-liczy-na-tchouameniego-i-ceballosa-w-poszukiwaniu-cudu-i-rownowagi</link>
         <pubDate>Mon, 14 Apr 2025 17:51:00 GMT</pubDate>
         <description>Włoski szkoleniowiec wierzy we Francuza i Andaluzyjczyka w walce o odrobienie strat z Arsenalem w Lidze Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Cristiano Ronaldo i Real Madryt: złota era, która zmieniła historię klubu</title>
-        <link>https://www.realmadryt.pl/news/138595-cristiano-ronaldo-i-real-madryt-zlota-era-ktora-zmienila-historie-klubu</link>
-        <pubDate>Mon, 14 Apr 2025 17:37:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
