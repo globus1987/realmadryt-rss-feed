@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 03:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 03:45:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ceballos wraca na afisz</title>
+        <link>https://www.realmadryt.pl/news/138605-ceballos-wraca-na-afisz</link>
+        <pubDate>Tue, 15 Apr 2025 05:30:00 GMT</pubDate>
+        <description>Trwający sezon nie jest łatwy dla Daniego Ceballosa. Dwie dość poważne kontuzje wykluczyły go z gry na łącznie niemal trzy miesiące. Nie zmienia to jednak faktu, że bieżąca kampania i tak jest jego najlepszą w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>MARCA: Florentino i Ancelotti cały czas rozmawiają z Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138595-cristiano-ronaldo-i-real-madryt-zlota-era-ktora-zmienila-historie-klubu</link>
         <pubDate>Mon, 14 Apr 2025 17:37:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Katalońskie Mediapro odpowiada ostrym oświadczeniem, a następnie je usuwa</title>
-        <link>https://www.realmadryt.pl/news/138594-katalonskie-mediapro-odpowiada-ostrym-oswiadczeniem-a-nastepnie-je-usuwa</link>
-        <pubDate>Mon, 14 Apr 2025 17:29:00 GMT</pubDate>
-        <description>Mediapro, grupa medialna, której kontrakt z La Ligą wygasa w tym roku, wyraziła publicznie swoje niezadowolenie z decyzji o dopuszczeniu nowego operatora, sugerując, że za wyborem mogły stać inne czynniki niż względy techniczne czy ekonomiczne.</description>
     </item>
     
 </channel>
