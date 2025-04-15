@@ -4,7 +4,35 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 11:54:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 12:50:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Julen Guerrero: Álex Jiménez jest graczem o odpowiednim profilu dla Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/138623-julen-guerrero-alex-jimenez-jest-graczem-o-odpowiednim-profilu-dla-realu-madryt</link>
+        <pubDate>Tue, 15 Apr 2025 14:42:00 GMT</pubDate>
+        <description>Były legendarny piłkarz Athleticu bardzo dobrze zna wychowanka Królewskich z młodzieżowych kadr La Rojy, które prowadził jako selekcjoner. W wywiadzie dla La Gazetty dello Sport stwierdził, że Real powinien odkupić Álexa Jiméneza od Milanu.</description>
+    </item>
+    
+    <item>
+        <title>Senderos: Na Bernabéu czuć aurę Realu Madryt i ciężar historii</title>
+        <link>https://www.realmadryt.pl/news/138613-senderos-na-bernabeu-czuc-aure-realu-madryt-i-ciezar-historii</link>
+        <pubDate>Tue, 15 Apr 2025 14:25:00 GMT</pubDate>
+        <description>Były zawodnik Arsenalu, Philippe Senderos, w przeddzień rewanżowego starcia Kanonierów z Realem Madryt udzielił wywiadu dziennikowi AS. Poniżej przedstawiamy zapis tej rozmowy z byłym szwajcarskim defensorem.</description>
+    </item>
+    
+    <item>
+        <title>OkDiario: Sędzia zawiesza przesłuchania kluczowych osób w Sprawie Negreiry</title>
+        <link>https://www.realmadryt.pl/news/138622-okdiario-sedzia-zawiesza-przesluchania-kluczowych-osob-w-sprawie-negreiry</link>
+        <pubDate>Tue, 15 Apr 2025 14:00:00 GMT</pubDate>
+        <description>W czerwcu miały ruszyć przesłuchania kluczowych osób objętych śledztwem w Sprawie Negreiry, czyli sprawy opłacania byłego wiceszefa Komitetu Arbitrów przez Barcelonę. Dziennik OkDiario podaje, że z nieznanego publicznie powodu wszystkie przesłuchania zostały zawieszone.</description>
+    </item>
+    
+    <item>
+        <title>Mario Gómez: Byli jak pociąg, który po nas przejechał</title>
+        <link>https://www.realmadryt.pl/news/138621-mario-gomez-byli-jak-pociag-ktory-po-nas-przejechal</link>
+        <pubDate>Tue, 15 Apr 2025 13:58:00 GMT</pubDate>
+        <description>Były reprezentant Niemiec (mający hiszpańskie korzenie) w rozmowie z Relevo wspominał między innymi pamiętne boje Bayernu z Realem Madryt w półfinale Champions League 2011/12. Przedstawiamy wypowiedzi Mario dotyczące Królewskich i ich graczy.</description>
+    </item>
     
     <item>
         <title>Londyński mur</title>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/138614-joselu-najwazniejsze-by-real-jak-najszybciej-strzelil-pierwszego-gola-a-reszte-zrobi-bernabeu</link>
         <pubDate>Tue, 15 Apr 2025 10:26:00 GMT</pubDate>
         <description>Joselu przy okazji wyścigu MotoGP udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Mateo: Play-in to most do play-offów i powinniśmy go wykorzystać</title>
-        <link>https://www.realmadryt.pl/news/138606-mateo-play-in-to-most-do-play-offow-i-powinnismy-go-wykorzystac</link>
-        <pubDate>Tue, 15 Apr 2025 10:19:00 GMT</pubDate>
-        <description>Chus Mateo wziął udział w konferencji prasowej przed spotkaniem z Paris Basketball w ramach play-in Euroligi. Mówił między innymi o tym, że kluczowa będzie defensywa.</description>
-    </item>
-    
-    <item>
-        <title>AS: Barça nie będzie zabiegać o „dziką kartę” na Klubowe Mistrzostwa Świata</title>
-        <link>https://www.realmadryt.pl/news/138612-as-barca-nie-bedzie-zabiegac-o-dzika-karte-na-klubowe-mistrzostwa-swiata</link>
-        <pubDate>Tue, 15 Apr 2025 09:22:00 GMT</pubDate>
-        <description>Choć Laporta chętnie wziąłby w nich udział, klub nie będzie zabiegać o „dziką kartę” nawet w przypadku wygranej w Lidze Mistrzów. Letnia trasa po Azji jest już zaplanowana – Barça odwiedzi Koreę i Japonię. Na razie ma zagwarantowane 15 milionów euro i będzie próbowała zwiększyć tę kwotę do 25 milionów.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 15 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/138604-kartka-z-kalendarza-15-kwietnia</link>
-        <pubDate>Tue, 15 Apr 2025 09:09:00 GMT</pubDate>
-        <description>Mistrzostwo Hiszpanii, awans do finału Ligi Mistrzów oraz wygrane ze Sportingiem Gijón i Atlético. Co działo się 15 kwietnia?</description>
-    </item>
-    
-    <item>
-        <title>Bitwa o ćwierćfinał</title>
-        <link>https://www.realmadryt.pl/news/138608-bitwa-o-cwiercfinal</link>
-        <pubDate>Tue, 15 Apr 2025 08:18:00 GMT</pubDate>
-        <description>Real Madryt zadebiutuje dzisiaj w play-in Euroligi. W meczu, którego stawką jest ćwierćfinał, Królewscy zmierzą się z beniaminkiem i jednocześnie rewelacją rozgrywek, czyli drużyną Paris Basketball.</description>
     </item>
     
 </channel>
