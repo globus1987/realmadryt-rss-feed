@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Apr 2025 22:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 22:56:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138639-dzisiejsze-okladki</link>
+        <pubDate>Wed, 16 Apr 2025 00:46:00 GMT</pubDate>
+        <description>Rewanż Realu Madryt i awans Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Powinniśmy zachować więcej spokoju i lepiej wybierać opcje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138623-julen-guerrero-alex-jimenez-jest-graczem-o-odpowiednim-profilu-dla-realu-madryt</link>
         <pubDate>Tue, 15 Apr 2025 14:42:00 GMT</pubDate>
         <description>Były legendarny piłkarz Athleticu bardzo dobrze zna wychowanka Królewskich z młodzieżowych kadr La Rojy, które prowadził jako selekcjoner. W wywiadzie dla La Gazetty dello Sport stwierdził, że Real powinien odkupić Álexa Jiméneza od Milanu.</description>
-    </item>
-    
-    <item>
-        <title>Senderos: Na Bernabéu czuć aurę Realu Madryt i ciężar historii</title>
-        <link>https://www.realmadryt.pl/news/138613-senderos-na-bernabeu-czuc-aure-realu-madryt-i-ciezar-historii</link>
-        <pubDate>Tue, 15 Apr 2025 14:25:00 GMT</pubDate>
-        <description>Były zawodnik Arsenalu, Philippe Senderos, w przeddzień rewanżowego starcia Kanonierów z Realem Madryt udzielił wywiadu dziennikowi AS. Poniżej przedstawiamy zapis tej rozmowy z byłym szwajcarskim defensorem.</description>
     </item>
     
 </channel>
