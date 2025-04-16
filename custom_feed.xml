@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Apr 2025 20:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 21:24:25 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Arsenal [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/138662-real-madryt-arsenal-live</link>
+        <title>Lucas: Wrócimy silniejsi</title>
+        <link>https://www.realmadryt.pl/news/138666-lucas-wrocimy-silniejsi</link>
+        <pubDate>Wed, 16 Apr 2025 23:24:00 GMT</pubDate>
+        <description>Lucas Vázquez udzielił wywiadu dla telewizji Movistar+ po przegranej z Arsenalem w rewanżowym ćwierćfinale Ligi Mistrzów i odpadnięciu z rozgrywek. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Cudu nie było</title>
+        <link>https://www.realmadryt.pl/news/138662-cudu-nie-bylo</link>
         <pubDate>Wed, 16 Apr 2025 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa rewanżowy mecz ćwierćfinału Ligi Mistrzów, w którym Real Madryt podejmuje Arsenal. W pierwszym meczu londyńczycy wygrali 3:0.</description>
+        <description>Real Madryt przegrał u siebie z Arsenalem 1:2. W pierwszym meczu londyńczycy wygrali 3:0, dlatego to oni zagrają w półfinale Ligi Mistrzów.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138642-w-sumie-9-pilkarzy-i-trener-zagrozonych-zawieszeniem-na-ewentualny-polfinal</link>
         <pubDate>Wed, 16 Apr 2025 12:00:00 GMT</pubDate>
         <description>Dzisiaj przez zawieszenie wystąpić nie może Eduardo Camavinga. Poza nim w sumie 9 zawodników i jeden trener są zagrożeni na ewentualny półfinał.</description>
-    </item>
-    
-    <item>
-        <title>Wiceprezes Barcelony: Kara dla Mbappé to wstyd i zły przykład dla futbolu</title>
-        <link>https://www.realmadryt.pl/news/138652-wiceprezes-barcelony-kara-dla-mbappe-to-wstyd-i-zly-przyklad-dla-futbolu</link>
-        <pubDate>Wed, 16 Apr 2025 11:01:00 GMT</pubDate>
-        <description>Rafael Yuste, wiceprezes sportowy Barcelony, ostro skrytykował w środę na antenie RAC1 decyzję Komitetu Dyscyplinarnego, który ukarała Kyliana Mbappé zawieszeniem na jeden mecz. W programie El Món a RAC1 nie szczędził ostrych słów.</description>
     </item>
     
 </channel>
