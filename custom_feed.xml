@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 05:43:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 05:56:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Saka: Trzeba było trochę popracować i pobiegać</title>
+        <link>https://www.realmadryt.pl/news/138675-saka-trzeba-bylo-troche-popracowac-i-pobiegac</link>
+        <pubDate>Thu, 17 Apr 2025 07:50:00 GMT</pubDate>
+        <description>Bukayo Saka po rewanżu ćwierćfinałów Ligi Mistrzów z Realem Madryt udzielił wywiadów angielskim telewizjom. Przedstawiamy wypowiedzi zawodnika Arsenalu na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Brazylijczycy rozpoczęli operację pozyskania Ancelottiego już na meczu z Arsenalem?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138662-cudu-nie-bylo</link>
         <pubDate>Wed, 16 Apr 2025 20:55:00 GMT</pubDate>
         <description>Real Madryt przegrał u siebie z Arsenalem 1:2. W pierwszym meczu londyńczycy wygrali 3:0 i to oni zagrają w półfinale Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Spróbujemy zagrać trochę intensywniej i naciskać trochę bardziej z przodu</title>
-        <link>https://www.realmadryt.pl/news/138658-ancelotti-sprobujemy-zagrac-troche-intensywniej-i-naciskac-troche-bardziej-z-przodu</link>
-        <pubDate>Wed, 16 Apr 2025 20:17:00 GMT</pubDate>
-        <description>Carlo Ancelotti na godzinę przed meczem Ligi Mistrzów z Arsenalem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Santiago Bernabéu.</description>
     </item>
     
 </channel>
