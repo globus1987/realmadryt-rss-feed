@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 15:43:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 15:56:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Porażka z konsekwencjami</title>
+        <link>https://www.realmadryt.pl/news/138697-porazka-z-konsekwencjami</link>
+        <pubDate>Thu, 17 Apr 2025 17:53:00 GMT</pubDate>
+        <description>Po odpadnięciu z Ligi Mistrzów wygranie Pucharu Króla i walka o mistrzostwo Hiszpanii stają się nieodzowne. Zarówno dla klubu, jak i dla balansującego na krawędzi Carlo Ancelottiego. Operacja zakontraktowania Trenta Alexandra-Arnolda została praktycznie sfinalizowana, a kolejnymi celami Realu są środkowy obrońca i środkowy pomocnik.</description>
+    </item>
     
     <item>
         <title>Relevo: Szatnia już nie ufa Ancelottiemu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138687-dziewiata-kleska-mbappe-w-lidze-mistrzow</link>
         <pubDate>Thu, 17 Apr 2025 12:13:00 GMT</pubDate>
         <description>Po meczu z Arsenalem napastnik zszedł z boiska kontuzjowany, przy akompaniamencie gwizdów i z kolejną zmarnowaną szansą na zdobycie Pucharu Europy.</description>
-    </item>
-    
-    <item>
-        <title>Zmiana terminu meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/138685-zmiana-terminu-meczu-z-celta</link>
-        <pubDate>Thu, 17 Apr 2025 12:05:00 GMT</pubDate>
-        <description>La Liga wprowadziła dwie modyfikacje w terminarzu 34. kolejki. Zmianom uległy terminy spotkań Realu Madryt z Celtą i Realu Valladolid z Barceloną.</description>
     </item>
     
 </channel>
