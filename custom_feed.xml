@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 07:42:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 07:56:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Ancelotti potrzebuje cudu, aby zachować posadę</title>
+        <link>https://www.realmadryt.pl/news/138682-as-ancelotti-potrzebuje-cudu-aby-zachowac-posade</link>
+        <pubDate>Thu, 17 Apr 2025 09:47:00 GMT</pubDate>
+        <description>Przyszłość trenera Królewskich zależy od zdobycia przynajmniej jednego z dwóch trofeów, o które rywalizuje z Barceloną – Pucharu Króla lub mistrzostwa Hiszpanii. Jednak nawet to nie daje mu gwarancji bezpieczeństwa.</description>
+    </item>
     
     <item>
         <title>Arteta: Dziś zdałem sobie sprawę z atmosfery tego stadionu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138669-courtois-przegralismy-z-lepsza-druzyna-i-nalezy-to-zaakceptowac</link>
         <pubDate>Wed, 16 Apr 2025 23:51:00 GMT</pubDate>
         <description>Thibaut Courtois pojawił się w strefie mieszanej po porażce z Arsenalem. Poniżej przedstawiamy przemyślenia bramkarza Królewskich po odpadnięciu drużyny z Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Najpierw głowa do góry, a potem wyciągnięcie wniosków z błędów</title>
-        <link>https://www.realmadryt.pl/news/138667-ancelotti-najpierw-glowa-do-gory-a-potem-wyciagniecie-wnioskow-z-bledow</link>
-        <pubDate>Wed, 16 Apr 2025 23:48:00 GMT</pubDate>
-        <description>Carlo Ancelotti po rewanżu ćwierćfinałów Ligi Mistrzów z Arsenalem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Santiago Bernabéu.</description>
     </item>
     
 </channel>
