@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 15:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 16:32:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Martínez Munuera na Athletic</title>
+        <link>https://www.realmadryt.pl/news/138698-martinez-munuera-na-athletic</link>
+        <pubDate>Thu, 17 Apr 2025 18:31:00 GMT</pubDate>
+        <description>42-latek poprowadzi najbliższy mecz Realu Madryt z Athletikiem. Sędzią VAR będzie Adrián Cordero Vega.</description>
+    </item>
     
     <item>
         <title>Porażka z konsekwencjami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138688-oficjalnie-van-dijk-podpisal-nowy-kontrakt-z-liverpoolem</link>
         <pubDate>Thu, 17 Apr 2025 12:27:00 GMT</pubDate>
         <description>Wobec wygasającej umowy z The Reds stoper, nie tak dawno temu, był łączony z przejściem do Realu.</description>
-    </item>
-    
-    <item>
-        <title>Dziewiąta klęska Mbappé w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/138687-dziewiata-kleska-mbappe-w-lidze-mistrzow</link>
-        <pubDate>Thu, 17 Apr 2025 12:13:00 GMT</pubDate>
-        <description>Po meczu z Arsenalem napastnik zszedł z boiska kontuzjowany, przy akompaniamencie gwizdów i z kolejną zmarnowaną szansą na zdobycie Pucharu Europy.</description>
     </item>
     
 </channel>
