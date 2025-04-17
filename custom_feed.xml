@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 22:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 22:42:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138707-dzisiejsze-okladki</link>
+        <pubDate>Fri, 18 Apr 2025 00:33:00 GMT</pubDate>
+        <description>Kryzys Realu Madryt to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii. Pojawiają się na nich informacje także na sobotę, gdyż niektóre okładki są na dwa dni, bo Wielki Piątek to w Hiszpanii dzień świąteczny i w większości kraju następnego dnia nie wydaje się drukowanych gazet. Można jednak tradycyjnie spodziewać się aktualizacji na sobotnich okładkach dzięki wydaniom internetowym.</description>
+    </item>
     
     <item>
         <title>MARCA: Potrzeba zmian zaczyna coraz głośniej wybrzmiewać w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138690-sky-sports-ancelotti-ma-odejsc-z-realu-po-finale-pucharu-krola</link>
         <pubDate>Thu, 17 Apr 2025 14:16:00 GMT</pubDate>
         <description>Według informacji brytyjskiej stacji Sky Sports, Carlo Ancelotti ma odejść z Realu Madryt po finale Pucharu Króla, mimo że Królewscy wciąż walczą o mistrzostwo Hiszpanii. Decyzja ma mieć związek z dotkliwą porażką z Arsenalem w Lidze Mistrzów oraz możliwym objęciem przez Włocha funkcji selekcjonera reprezentacji Brazylii.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Arsenalem</title>
-        <link>https://www.realmadryt.pl/news/138686-oceny-zawodnikow-po-meczu-z-arsenalem</link>
-        <pubDate>Thu, 17 Apr 2025 13:52:00 GMT</pubDate>
-        <description>Real Madryt przegrał u siebie z Arsenalem 1:2 i odpadł z Ligi Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
