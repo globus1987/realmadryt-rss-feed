@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 09:27:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 09:43:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Nie zawsze możemy oczekiwać, że czwórka z przodu okiwa trzech i strzeli golazo</title>
+        <link>https://www.realmadryt.pl/news/138684-courtois-nie-zawsze-mozemy-oczekiwac-ze-czworka-z-przodu-okiwa-trzech-i-strzeli-golazo</link>
+        <pubDate>Thu, 17 Apr 2025 11:41:00 GMT</pubDate>
+        <description>Thibaut Courtois udzieliał wywiadów w strefie mieszanej po przegranym rewanżowym ćwierćfinale Ligi Mistrzów z Arsenalem. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tego spotkania z dziennikarzami.</description>
+    </item>
+    
+    <item>
+        <title>21 kilometrów mniej w całym dwumeczu z Arsenalem</title>
+        <link>https://www.realmadryt.pl/news/138683-21-kilometrow-mniej-w-calym-dwumeczu-z-arsenalem</link>
+        <pubDate>Thu, 17 Apr 2025 11:40:00 GMT</pubDate>
+        <description>Real Madryt w całym dwumeczu z Arsenalem przebiegł aż o 21 kilometrów mniej od swojego rywala. Ogólnie spośród wszystkich ćwierćfinalistów Ligi Mistrzów Królewscy pod względem kilometrów zanotowali zdecydowanie najgorszy wynik.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jeśli klub zdecyduje się na zmianę, nie będzie absolutnie żadnego problemu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138674-brazylijczycy-rozpoczeli-operacje-pozyskania-ancelottiego-juz-na-meczu-z-arsenalem</link>
         <pubDate>Thu, 17 Apr 2025 07:00:00 GMT</pubDate>
         <description>Media podają, że na meczu z Arsenalem pojawił się potencjalny emisariusz brazylijskiego związku. Canarinhos wierzą, że mają wszelkie szanse, by przekonać trenera Realu Madryt do przejęcia ich kadry.</description>
-    </item>
-    
-    <item>
-        <title>Media: Mbappé doznał lekkiego skręcenia kostki</title>
-        <link>https://www.realmadryt.pl/news/138672-media-mbappe-doznal-lekkiego-skrecenia-kostki</link>
-        <pubDate>Thu, 17 Apr 2025 03:40:00 GMT</pubDate>
-        <description>Francuz doznał urazu w drugiej połowie rewanżu z Arsenalem. Wstępnie jego problem nie jest poważny, ale oczywiście przejdzie dokładniejsze badania.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/138673-dzisiejsze-okladki</link>
-        <pubDate>Thu, 17 Apr 2025 00:49:00 GMT</pubDate>
-        <description>Porażka Realu Madryt to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
