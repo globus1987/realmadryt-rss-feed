@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Apr 2025 08:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 09:27:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ancelotti: Jeśli klub zdecyduje się na zmianę, nie będzie absolutnie żadnego problemu</title>
+        <link>https://www.realmadryt.pl/news/138676-ancelotti-jesli-klub-zdecyduje-sie-na-zmiane-nie-bedzie-absolutnie-zadnego-problemu</link>
+        <pubDate>Thu, 17 Apr 2025 11:10:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej po rewanżowym ćwierćfinale Ligi Mistrzów z Arsenalem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 17 kwietnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138673-dzisiejsze-okladki</link>
         <pubDate>Thu, 17 Apr 2025 00:49:00 GMT</pubDate>
         <description>Porażka Realu Madryt to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Znamy półfinalistów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/138670-znamy-polfinalistow-ligi-mistrzow</link>
-        <pubDate>Wed, 16 Apr 2025 23:56:00 GMT</pubDate>
-        <description>Arsenal oraz Inter Mediolan uzupełniły grono półfinalistów Ligi Mistrzów.</description>
     </item>
     
 </channel>
