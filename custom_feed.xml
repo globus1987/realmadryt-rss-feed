@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Apr 2025 11:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 11:40:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trzy rzeczy, których Real może nauczyć się od Arsenalu</title>
+        <link>https://www.realmadryt.pl/news/138712-trzy-rzeczy-ktorych-real-moze-nauczyc-sie-od-arsenalu</link>
+        <pubDate>Fri, 18 Apr 2025 13:37:00 GMT</pubDate>
+        <description>Arsenal wywalczył więcej niż zasłużony awans do półfinału Ligi Mistrzów, nie ulega to żadnej wątpliwości. Tak naprawdę zespół Mikela Artety zaskoczył Królewskich trzema tak prostymi rozwiązaniami, że aż dziw bierze, iż przez tyle miesięcy nikt nie wpadł na coś podobnego w Valdebebas.</description>
+    </item>
     
     <item>
         <title>AS: Klopp byłby skłonny wysłuchać oferty Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138702-the-athletic-ancelotti-mysli-o-brazylii-rozmowa-z-klubem-po-finale-z-barca</link>
         <pubDate>Fri, 18 Apr 2025 05:30:00 GMT</pubDate>
         <description>Swoje informacje w sprawie przyszłości Carlo Ancelottiego przekazał także Mario Cortegana z The Athletic.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/138707-dzisiejsze-okladki</link>
-        <pubDate>Fri, 18 Apr 2025 00:33:00 GMT</pubDate>
-        <description>Kryzys Realu Madryt to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii. Pojawiają się na nich informacje także na sobotę, gdyż niektóre okładki są na dwa dni, bo Wielki Piątek to w Hiszpanii dzień świąteczny i w większości kraju następnego dnia nie wydaje się drukowanych gazet. Można jednak tradycyjnie spodziewać się aktualizacji na sobotnich okładkach dzięki wydaniom internetowym.</description>
     </item>
     
 </channel>
