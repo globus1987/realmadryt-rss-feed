@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Apr 2025 21:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 22:24:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138731-dzisiejsze-okladki</link>
+        <pubDate>Sat, 19 Apr 2025 00:00:00 GMT</pubDate>
+        <description>Kryzys Realu Madryt i cele Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Kiedy osiągasz cel, czujesz ulgę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138716-media-mbappe-bedzie-gotowy-na-final-pucharu-krola-z-barca</link>
         <pubDate>Fri, 18 Apr 2025 14:11:00 GMT</pubDate>
         <description>Francuz doznał urazu w drugiej połowie rewanżu z Arsenalem. Ostatecznie jego problem nie jest poważny i do gry ma wrócić w następny weekend w starciu z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Łunin wrócił do treningów z drużyną</title>
-        <link>https://www.realmadryt.pl/news/138714-lunin-wrocil-do-treningow-z-druzyna</link>
-        <pubDate>Fri, 18 Apr 2025 13:44:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie. Poza grupą pozostało czterech piłkarzy.</description>
     </item>
     
 </channel>
