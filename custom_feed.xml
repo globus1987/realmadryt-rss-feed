@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Apr 2025 23:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 02:05:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138763-dzisiejsze-okladki</link>
+        <pubDate>Sun, 20 Apr 2025 03:07:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„A więc to był tydzień remontady! 😉”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138744-niespodziewana-awaria</link>
         <pubDate>Sat, 19 Apr 2025 13:51:00 GMT</pubDate>
         <description>Mbappé, Vinícius i Rodrygo utrudniają Realowi osiąganie dobrych wyników na decydującym odcinku sezonu, a powinni pomagać swoimi trafieniami zespołowi, który cierpi w defensywie.</description>
-    </item>
-    
-    <item>
-        <title>Czterech piłkarzy nie trenowało z drużyną</title>
-        <link>https://www.realmadryt.pl/news/138741-czterech-pilkarzy-nie-trenowalo-z-druzyna</link>
-        <pubDate>Sat, 19 Apr 2025 13:01:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie. Poza grupą pozostało czterech piłkarzy.</description>
     </item>
     
 </channel>
