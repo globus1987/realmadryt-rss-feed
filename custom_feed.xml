@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Apr 2025 15:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 15:54:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Osiem spotkań na uratowanie sezonu</title>
+        <link>https://www.realmadryt.pl/news/138773-osiem-spotkan-na-uratowanie-sezonu</link>
+        <pubDate>Sun, 20 Apr 2025 17:54:00 GMT</pubDate>
+        <description>Los Blancos mają podwójną motywację: zdobyć jeszcze jeden lub dwa tytuły i udaremnić atak Barcelony na potrójną koronę.</description>
+    </item>
     
     <item>
         <title>Wysoka wygrana Castilli, znakomity występ Víctora Muñoza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138766-jauregizar-chce-czarowac-na-bernabeu</link>
         <pubDate>Sun, 20 Apr 2025 10:39:00 GMT</pubDate>
         <description>21-latek po raz pierwszy karierze zagra dziś na stadionie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 20 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/138765-kartka-z-kalendarza-20-kwietnia</link>
-        <pubDate>Sun, 20 Apr 2025 10:20:00 GMT</pubDate>
-        <description>Pierwszy finał José Mourinho, wygrane ligowe, urodziny koszykarskich legend i awans do finału Pucharu Europy. Co działo się 20 kwietnia?</description>
     </item>
     
 </channel>
