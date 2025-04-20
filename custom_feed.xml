@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Apr 2025 22:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 22:55:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138789-dzisiejsze-okladki</link>
+        <pubDate>Mon, 21 Apr 2025 00:53:00 GMT</pubDate>
+        <description>Wygrane Realu Madryt i kobiecej Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt 1:0 Athletic [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138774-solari-i-raul-rozwazani-jako-tymczasowi-trenerzy</link>
         <pubDate>Sun, 20 Apr 2025 18:06:00 GMT</pubDate>
         <description>Bardzo słaba pozycja Ancelottiego oraz termin rozgrywania Klubowego Mundialu sprawiają, że położenie Królewskich jest na ten moment nieciekawe. Jak donosi AS, klub w zaistniałych okolicznościach nie wyklucza zatrudnienia tymczasowego trenera.</description>
-    </item>
-    
-    <item>
-        <title>Osiem spotkań na uratowanie sezonu</title>
-        <link>https://www.realmadryt.pl/news/138773-osiem-spotkan-na-uratowanie-sezonu</link>
-        <pubDate>Sun, 20 Apr 2025 17:54:00 GMT</pubDate>
-        <description>Los Blancos mają podwójną motywację: zdobyć jeszcze jeden lub dwa tytuły i udaremnić atak Barcelony na potrójną koronę.</description>
     </item>
     
 </channel>
