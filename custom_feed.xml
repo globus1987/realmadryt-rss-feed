@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Apr 2025 13:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 13:36:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świąteczne zwycięstwo koszykarzy</title>
+        <link>https://www.realmadryt.pl/news/138770-swiateczne-zwyciestwo-koszykarzy</link>
+        <pubDate>Sun, 20 Apr 2025 15:20:00 GMT</pubDate>
+        <description>W 28. kolejce Ligi Endesa Real Madryt minimalnie pokonał Andorrę. Królewscy starali się oszczędzać siły przed rywalizacją z Olympiakosem w Eurolidze i niewiele zabrakło, żeby musieli rozgrywać dogrywkę.</description>
+    </item>
     
     <item>
         <title>Dwóch piłkarzy zagrożonych zawieszeniem za kartki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138755-mateo-nie-mozemy-sie-w-zadnym-momencie-rozluznic</link>
         <pubDate>Sun, 20 Apr 2025 09:00:00 GMT</pubDate>
         <description>Chus Mateo wypowiadał się przed ligowym spotkaniem z Andorrą. W pozytywnych słowach mówił o rywalu i podkreślał, że nie można go zlekceważyć.</description>
-    </item>
-    
-    <item>
-        <title>Przerywnik w euroligowej walce</title>
-        <link>https://www.realmadryt.pl/news/138753-przerywnik-w-euroligowej-walce</link>
-        <pubDate>Sun, 20 Apr 2025 08:20:00 GMT</pubDate>
-        <description>W 28. kolejce Ligi Endesa Real Madryt podejmie Andorrę. Dla Królewskich to spotkanie jest tylko przerywnikiem w kluczowym okresie rywalizacji w Eurolidze.</description>
     </item>
     
 </channel>
