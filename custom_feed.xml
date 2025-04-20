@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Apr 2025 05:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 06:33:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przerywnik w euroligowej walce</title>
+        <link>https://www.realmadryt.pl/news/138753-przerywnik-w-euroligowej-walce</link>
+        <pubDate>Sun, 20 Apr 2025 08:20:00 GMT</pubDate>
+        <description>W 28. kolejce Ligi Endesa Real Madryt podejmie Andorrę. Dla Królewskich to spotkanie jest tylko przerywnikiem w kluczowym okresie rywalizacji w Eurolidze.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Athletic: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138749-sad-wyznaczyl-nowe-daty-przesluchan-w-sprawie-negreiry</link>
         <pubDate>Sat, 19 Apr 2025 16:38:00 GMT</pubDate>
         <description>Nowa sędzia prowadząca śledztwo w Sprawie Negreiry w marcu zdecydowała, że w czerwcu zacznie przesłuchania kluczowych osób objętych postępowaniem. Ostatnio informowano, że zawiesiła te przesłuchania, ale teraz podano, że już wyznaczono ich nową datę.</description>
-    </item>
-    
-    <item>
-        <title>BILD: Real Madryt na czele preferowanych kierunków Wirtza</title>
-        <link>https://www.realmadryt.pl/news/138748-bild-real-madryt-na-czele-preferowanych-kierunkow-wirtza</link>
-        <pubDate>Sat, 19 Apr 2025 16:21:00 GMT</pubDate>
-        <description>W Niemczech nasilają się plotki dotyczące przyszłości nie tylko trenera, ale także głównej gwiazdy Bayeru Leverkusen. BILD twierdzi, że 21-latek może preferować transfer do Realu Madryt.</description>
     </item>
     
 </channel>
