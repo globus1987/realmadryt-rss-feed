@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Apr 2025 19:39:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 19:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 36. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/138815-terminarz-36-kolejki-la-ligi</link>
+        <pubDate>Mon, 21 Apr 2025 21:48:00 GMT</pubDate>
+        <description>Poznaliśmy termin pierwszego meczu po ligowym Klasyku.</description>
+    </item>
     
     <item>
         <title>Real Madryt z nagrodą Laureus dla drużyny roku!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138791-valverde-idea-byla-taka-aby-wytrzymac-jak-najdluzej</link>
         <pubDate>Mon, 21 Apr 2025 13:00:00 GMT</pubDate>
         <description>Trener Athleticu Bilbao, Ernesto Valverde, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Athletikiem</title>
-        <link>https://www.realmadryt.pl/news/138795-oceny-zawodnikow-po-meczu-z-athletikiem</link>
-        <pubDate>Mon, 21 Apr 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Athletikiem 1:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
