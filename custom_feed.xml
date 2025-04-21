@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Apr 2025 17:42:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 17:55:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Olga Carmona podpisze kontrakt z PSG</title>
+        <link>https://www.realmadryt.pl/news/138810-media-olga-carmona-podpisze-kontrakt-z-psg</link>
+        <pubDate>Mon, 21 Apr 2025 19:53:00 GMT</pubDate>
+        <description>Obrończyni Królewskich ma opuścić klub po zakończeniu sezonu.</description>
+    </item>
+    
+    <item>
+        <title>Kendrick Nunn MVP Euroligi 2024/25</title>
+        <link>https://www.realmadryt.pl/news/138808-kendrick-nunn-mvp-euroligi-2024-25</link>
+        <pubDate>Mon, 21 Apr 2025 19:43:00 GMT</pubDate>
+        <description>Kendrick Nunn zasłużenie zgarnął nagrodę dla najlepszego zawodnika Euroligi. Niedawno Amerykanin przedłużył kontrakt z Panathinaikosem i jest najlepiej zarabiającym koszykarzem w Europie.</description>
+    </item>
     
     <item>
         <title>Relevo: Ancelotti może przejąć kadrę Brazylii już od czerwca</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138800-alonso-kolejny-sezon-chcemy-dobrze-zakonczyc-ten-sezon-i-wtedy-zobaczymy</link>
         <pubDate>Mon, 21 Apr 2025 11:05:00 GMT</pubDate>
         <description>Xabi Alonso i Bayer Leverkusen zremisowali w niedzielę na boisku czternastego St. Pauli. Na cztery kolejki przed końcem Bundesligi Bayern ma 8 punktów przewagi nad Aptekarzami i jest bardzo blisko mistrzostwa. Po spotkaniu Baska zapytano kolejny raz o decyzję w sprawie jego przyszłości. Niezmiennie coraz mocniej łączy się go z odejściem do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kondolencje Realu Madryt po śmierci papieża Franciszka</title>
-        <link>https://www.realmadryt.pl/news/138799-kondolencje-realu-madryt-po-smierci-papieza-franciszka</link>
-        <pubDate>Mon, 21 Apr 2025 10:51:00 GMT</pubDate>
-        <description>Klub wystosował komunikat po śmierci papieża Franciszka.</description>
-    </item>
-    
-    <item>
-        <title>Kondolencje Realu Madryt po śmierci Hugo Gattiego</title>
-        <link>https://www.realmadryt.pl/news/138798-kondolencje-realu-madryt-po-smierci-hugo-gattiego</link>
-        <pubDate>Mon, 21 Apr 2025 10:47:00 GMT</pubDate>
-        <description>Klub wystosował komunikat po śmierci Hugo Gattiego.</description>
     </item>
     
 </channel>
