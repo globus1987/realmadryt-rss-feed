@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Apr 2025 21:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 22:24:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138821-dzisiejsze-okladki</link>
+        <pubDate>Tue, 22 Apr 2025 00:17:00 GMT</pubDate>
+        <description>Nagrody Laureus i mecz Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Figo wkręca Florentino w pytanie o Ancelottiego, a prezes Realu… [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138801-interwencja-var-u-w-sprawie-anulowania-gola-viniego-przez-spalonego-endricka-audio</link>
         <pubDate>Mon, 21 Apr 2025 14:40:00 GMT</pubDate>
         <description>Federacja kontrolująca Komitet Arbitrów udostępniła nagranie z decyzji sędziów w meczu z Athletikiem, w której anulowano gola Realu Madryt. Przedstawiamy tłumaczenie tej interwencji.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé i Mendy ćwiczyli indywidualnie na murawie</title>
-        <link>https://www.realmadryt.pl/news/138803-mbappe-i-mendy-cwiczyli-indywidualnie-na-murawie</link>
-        <pubDate>Mon, 21 Apr 2025 13:47:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie. Była to sesja regeneracyjna.</description>
     </item>
     
 </channel>
