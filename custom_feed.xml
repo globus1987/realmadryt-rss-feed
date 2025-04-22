@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Apr 2025 23:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 23:41:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138850-dzisiejsze-okladki</link>
+        <pubDate>Wed, 23 Apr 2025 01:28:00 GMT</pubDate>
+        <description>Wygrana Barcelony i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>SER: Real ogłosi przedłużenie kontraktu z Viníciusem po zakończeniu obecnego sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138835-kadra-na-getafe</link>
         <pubDate>Tue, 22 Apr 2025 14:43:00 GMT</pubDate>
         <description>Carlo Ancelotti nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas ligowego spotkania z Getafe. Włoch powołał 21 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Bordalás: Ancelotti to najlepszy trener, jakiego może mieć Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/138834-bordalas-ancelotti-to-najlepszy-trener-jakiego-moze-miec-real-madryt</link>
-        <pubDate>Tue, 22 Apr 2025 14:39:00 GMT</pubDate>
-        <description>Trener Getafe, José Bordalás, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 33. kolejki La Ligi. Poniżej przedstawiamy zapis rozmowy z walenckim szkoleniowcem.</description>
     </item>
     
 </channel>
