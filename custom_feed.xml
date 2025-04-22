@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Apr 2025 05:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 06:35:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/138819-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 22 Apr 2025 08:20:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 32. kolejce La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>Zagadka Mayorala</title>
+        <link>https://www.realmadryt.pl/news/138822-zagadka-mayorala</link>
+        <pubDate>Tue, 22 Apr 2025 08:13:00 GMT</pubDate>
+        <description>Wychowanek Realu wyleczył kontuzję, ale trener bardzo rzadko wystawia go w pierwszym składzie.</description>
+    </item>
     
     <item>
         <title>Szef sędziów ogłasza, że chce stworzyć zespół arbitrów tylko od VAR-u</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/138808-kendrick-nunn-mvp-euroligi-2024-25</link>
         <pubDate>Mon, 21 Apr 2025 19:43:00 GMT</pubDate>
         <description>Kendrick Nunn zasłużenie zgarnął nagrodę dla najlepszego zawodnika Euroligi. Niedawno Amerykanin przedłużył kontrakt z Panathinaikosem i jest najlepiej zarabiającym koszykarzem w Europie.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Ancelotti może przejąć kadrę Brazylii już od czerwca</title>
-        <link>https://www.realmadryt.pl/news/138807-relevo-ancelotti-moze-przejac-kadre-brazylii-juz-od-czerwca</link>
-        <pubDate>Mon, 21 Apr 2025 19:32:00 GMT</pubDate>
-        <description>Włoch powinien opuścić Real przed Klubowymi Mistrzostwami Świata.</description>
-    </item>
-    
-    <item>
-        <title>Kiedy gra Alaba, to… Real nie wygrywa</title>
-        <link>https://www.realmadryt.pl/news/138806-kiedy-gra-alaba-to-real-nie-wygrywa</link>
-        <pubDate>Mon, 21 Apr 2025 19:04:00 GMT</pubDate>
-        <description>Austriak nie ma najlepszej passy, bo gdy już dostaje minuty, to Królewscy z nim na boisku nie zwyciężają.</description>
     </item>
     
 </channel>
