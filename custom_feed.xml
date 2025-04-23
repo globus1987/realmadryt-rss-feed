@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Apr 2025 22:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 22:56:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138881-dzisiejsze-okladki</link>
+        <pubDate>Thu, 24 Apr 2025 00:55:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i przygotowania do finału Pucharu Króla to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Myślę, że przyszłość Gülera będzie bardziej na tej pozycji niż z przodu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138869-rodrygo-zniknal</link>
         <pubDate>Wed, 23 Apr 2025 18:27:00 GMT</pubDate>
         <description>Forma Rodrygo pozostawia wiele do życzenia, co potwierdzają statystyki: Brazylijczyk zdobył tylko jedną bramkę w ostatnich 20 spotkaniach. Piłkarz może zapłacić za to ławką w finale Pucharu Króla.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Umowa Viníciusa „przyklepana”</title>
-        <link>https://www.realmadryt.pl/news/138868-marca-umowa-viniciusa-przyklepana</link>
-        <pubDate>Wed, 23 Apr 2025 17:32:00 GMT</pubDate>
-        <description>Zarówno zawodnik, jak i klub zrozumieli sytuację i przyjmują, że oferta z Arabii Saudyjskiej to już przeszłość.</description>
     </item>
     
 </channel>
