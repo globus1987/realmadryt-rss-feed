@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Apr 2025 07:28:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 07:44:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przypadek</title>
+        <link>https://www.realmadryt.pl/news/138833-przypadek</link>
+        <pubDate>Wed, 23 Apr 2025 09:30:00 GMT</pubDate>
+        <description>To są te detale.</description>
+    </item>
     
     <item>
         <title>Mendy walczy z czasem, aby zagrać w finale Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138844-33-kolejka-barcelona-wygrywa-i-powieksza-przewage</link>
         <pubDate>Tue, 22 Apr 2025 20:42:00 GMT</pubDate>
         <description>Barcelona wygrała z Mallorcą w meczu 33. kolejki Primera División, więc czas rzucić okiem na układ tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Sprawa Olmo? Według Wyższej Rady Sport Di Stéfano nadal posiada ważną licencję w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/138842-tebas-sprawa-olmo-wedlug-wyzszej-rady-sport-di-stefano-nadal-posiada-wazna-licencje-w-realu-madryt</link>
-        <pubDate>Tue, 22 Apr 2025 19:26:00 GMT</pubDate>
-        <description>La Liga opublikowała we wtorek raport finansowy za miniony sezon, z którego wynika, że piłka zawodowa ponownie przekroczyła próg 5 miliardów euro przychodów. To pierwszy raz od czasu przed pandemią. Prezes ligi Javier Tebas podsumował te wyniki i odniósł się również do bieżących wydarzeń sportowych.</description>
     </item>
     
 </channel>
