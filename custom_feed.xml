@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Apr 2025 11:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 11:39:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Relevo: Davide Ancelotti jest już gotowy do samodzielnej pracy</title>
+        <link>https://www.realmadryt.pl/news/138863-relevo-davide-ancelotti-jest-juz-gotowy-do-samodzielnej-pracy</link>
+        <pubDate>Wed, 23 Apr 2025 13:35:00 GMT</pubDate>
+        <description>Szkoleniowiec ma swojego przedstawiciela i rozważa oferty objęcia jednego z klubów z najwyższej ligi w Europie.</description>
+    </item>
     
     <item>
         <title>Sytuacja kartkowa na dwa mecze przed ligowym Klasykiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138854-mendy-walczy-z-czasem-aby-zagrac-w-finale-pucharu-krola</link>
         <pubDate>Wed, 23 Apr 2025 09:20:00 GMT</pubDate>
         <description>W klubie panuje optymizm, ale nikt nie daje stuprocentowej gwarancji. W tym tygodniu wrócił do treningów z drużyną – wątpliwości dotyczą jednak jego formy meczowej.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 23 kwietnia</title>
-        <link>https://www.realmadryt.pl/news/138853-kartka-z-kalendarza-23-kwietnia</link>
-        <pubDate>Wed, 23 Apr 2025 09:08:00 GMT</pubDate>
-        <description>Wybitne spotkanie R9 na Old Trafford, wygrana z Barceloną w półfinale Ligi Mistrzów, pokonanie Bayernu po golu Benzemy, debiut Nacho w pierwszym zespole… Co działo się 23 kwietnia?</description>
     </item>
     
 </channel>
