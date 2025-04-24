@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Apr 2025 22:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 22:44:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/138913-dzisiejsze-okladki</link>
+        <pubDate>Fri, 25 Apr 2025 00:29:00 GMT</pubDate>
+        <description>Przygotowania do finału Pucharu Króla to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Podcast 6x28: Projekt na przyszłość</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138896-oficjalnie-camavinga-powaznie-kontuzjowany</link>
         <pubDate>Thu, 24 Apr 2025 12:04:00 GMT</pubDate>
         <description>Francuz niemal na pewno nie zagra już w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Postaw na gola dla Realu lub Barcelony i zgarnij 400 zł!</title>
-        <link>https://www.realmadryt.pl/news/138894-postaw-na-gola-dla-realu-lub-barcelony-i-zgarnij-400-zl</link>
-        <pubDate>Thu, 24 Apr 2025 10:35:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
