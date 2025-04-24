@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Apr 2025 19:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 19:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6x28: Projekt na przyszłość</title>
+        <link>https://www.realmadryt.pl/news/138906-podcast-6x28-projekt-na-przyszlosc</link>
+        <pubDate>Thu, 24 Apr 2025 21:45:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym przede wszystkim rozmawiamy o możliwych zmianach w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Finałowa logistyka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138894-postaw-na-gola-dla-realu-lub-barcelony-i-zgarnij-400-zl</link>
         <pubDate>Thu, 24 Apr 2025 10:35:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Mundo Deportivo: Szczęsny, Olmo i Ferran mają zagrać od pierwszej minuty z Realem w finale Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/138893-mundo-deportivo-szczesny-olmo-i-ferran-maja-zagrac-od-pierwszej-minuty-z-realem-w-finale-pucharu-krola</link>
-        <pubDate>Thu, 24 Apr 2025 10:19:00 GMT</pubDate>
-        <description>Wygląda na to, że wyjściowa jedenastka Barcelony na finał Pucharu Króla jest już znana.</description>
     </item>
     
 </channel>
