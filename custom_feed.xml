@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Apr 2025 10:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 10:46:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Nie rozumiem, jak Real Madryt może się godzić na takie traktowanie”</title>
+        <link>https://www.realmadryt.pl/news/138926-nie-rozumiem-jak-real-madryt-moze-sie-godzic-na-takie-traktowanie</link>
+        <pubDate>Fri, 25 Apr 2025 12:42:00 GMT</pubDate>
+        <description>Prezes Panathinaikosu ostro uderza w Euroligę i sędziów za pośrednictwem mediów społecznościowych.</description>
+    </item>
     
     <item>
         <title>Real myli się co do Pucharu Króla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138912-pichichi-zamora-asistencias</link>
         <pubDate>Fri, 25 Apr 2025 08:40:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 33. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Dr Ripoll: Kontuzja Camavingi jest poważna, ale prognozy są bardzo dobre</title>
-        <link>https://www.realmadryt.pl/news/138910-dr-ripoll-kontuzja-camavingi-jest-powazna-ale-prognozy-sa-bardzo-dobre</link>
-        <pubDate>Fri, 25 Apr 2025 08:26:00 GMT</pubDate>
-        <description>Pedro Luis Ripoll to członek Komisji Medycznej Hiszpańskiej Federacji Piłkarskiej oraz właściciel centrum medycznego Ripoll y De Prado, które posiada licencję FIFA. Przedstawiamy jego komentarze na temat poważnej kontuzji Eduardo Camavingi.</description>
     </item>
     
 </channel>
