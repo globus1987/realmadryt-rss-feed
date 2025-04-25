@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Apr 2025 15:56:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 16:32:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Araújo: Wspominano mi, że możecie zapytać mnie o sędziów</title>
+        <link>https://www.realmadryt.pl/news/138938-araujo-wspominano-mi-ze-mozecie-zapytac-mnie-o-sedziow</link>
+        <pubDate>Fri, 25 Apr 2025 18:00:00 GMT</pubDate>
+        <description>Stoper Barcelony wziął udział w oficjalnej konferencji prasowej przed jutrzejszym finałem Pucharem Króla w Sewilli. Przedstawiamy pełne tłumaczenie rozmowy Urugwajczyka z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Hansi Flick nie przegrywa finałów</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>MARCA: Lucas Vázquez zagra z Barceloną od pierwszej minuty</title>
-        <link>https://www.realmadryt.pl/news/138935-marca-lucas-vazquez-zagra-z-barcelona-od-pierwszej-minuty</link>
+        <title>Radio MARCA: Lucas Vázquez zagra z Barceloną od pierwszej minuty</title>
+        <link>https://www.realmadryt.pl/news/138935-radio-marca-lucas-vazquez-zagra-z-barcelona-od-pierwszej-minuty</link>
         <pubDate>Fri, 25 Apr 2025 17:07:00 GMT</pubDate>
         <description>Miguel Ángel Toribio na antenie Radia MARCA przekazał kilka informacji na temat tego, jak ma wyglądać jedenastka Realu Madryt na jutrzejszy finał Copa del Rey.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138928-sedzia-finalu-pucharu-krola-rozplakal-sie-przy-pytaniu-o-filmiki-real-madrid-tv-video</link>
         <pubDate>Fri, 25 Apr 2025 14:21:00 GMT</pubDate>
         <description>Sędzia główny Ricardo de Burgos Bengoetxea i sędzia VAR Pablo González Fuertes wzięli udział w konferencji prasowej przed finałem Pucharu Króla. Przedstawiamy ich najważniejsze wypowiedzi w sprawie krytykowania sędziów.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Mendy zagra od początku w finale Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/138927-marca-mendy-zagra-od-poczatku-w-finale-pucharu-krola</link>
-        <pubDate>Fri, 25 Apr 2025 13:15:00 GMT</pubDate>
-        <description>Ancelotti ma zdecydowanie postawić na Francuza.</description>
     </item>
     
 </channel>
