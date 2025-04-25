@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Apr 2025 22:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 22:44:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Występ Mbappé pod dużym znakiem zapytania</title>
+        <link>https://www.realmadryt.pl/news/138954-media-wystep-mbappe-pod-duzym-znakiem-zapytania</link>
+        <pubDate>Sat, 26 Apr 2025 00:32:00 GMT</pubDate>
+        <description>Francuz urazu kostki doznał 10 dni temu. Do teraz w pełni go nie zaleczył i jego występ w finale stoi pod ogromnym znakiem zapytania.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138937-hansi-flick-nie-przegrywa-finalow</link>
         <pubDate>Fri, 25 Apr 2025 17:53:00 GMT</pubDate>
         <description>Niemiec jako szkoleniowiec wygrał sześć z sześciu finałów. Jego drużyna zawsze zgarniała puchar.</description>
-    </item>
-    
-    <item>
-        <title>RMTV odpowiada sędziom: Futbol będzie zdrowszy, gdy nie będzie was, prezesa Cantalejo i dyrektora Closa Gómeza</title>
-        <link>https://www.realmadryt.pl/news/138936-rmtv-odpowiada-sedziom-futbol-bedzie-zdrowszy-gdy-nie-bedzie-was-prezesa-cantalejo-i-dyrektora-closa-gomeza</link>
-        <pubDate>Fri, 25 Apr 2025 17:09:00 GMT</pubDate>
-        <description>Liderzy opinii klubowej telewizji odpowiedzieli na głośną konferencję arbitrów finału Pucharu Króla.</description>
     </item>
     
 </channel>
