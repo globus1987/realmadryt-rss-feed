@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Apr 2025 06:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 06:55:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/138912-pichichi-zamora-asistencias</link>
+        <pubDate>Fri, 25 Apr 2025 08:40:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 33. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Dr Ripoll: Kontuzja Camavingi jest poważna, ale prognozy są bardzo dobre</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138901-bild-uefa-moze-wprowadzic-trzy-istotne-zmiany-juz-w-najblizszej-edycji-ligi-mistrzow</link>
         <pubDate>Thu, 24 Apr 2025 14:01:00 GMT</pubDate>
         <description>Od razu rzuty karne, przywilej rewanżu u siebie i „ochrona kraju”…</description>
-    </item>
-    
-    <item>
-        <title>Mundo Deportivo: Real odwoła się od kartki Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/138900-mundo-deportivo-real-odwola-sie-od-kartki-tchouameniego</link>
-        <pubDate>Thu, 24 Apr 2025 13:51:00 GMT</pubDate>
-        <description>Kataloński dziennik przekazuje, że Królewscy odwołają się od żółtej kartki Tchouaméniego obejrzanej we wczorajszym meczu z Getafe. Dla pomocnika było to czwarte napomnienie w tym sezonie.</description>
     </item>
     
 </channel>
