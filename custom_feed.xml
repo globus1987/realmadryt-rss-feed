@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Apr 2025 07:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 07:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Nie możemy tracić wiary</title>
+        <link>https://www.realmadryt.pl/news/138908-mateo-nie-mozemy-tracic-wiary</link>
+        <pubDate>Fri, 25 Apr 2025 09:49:00 GMT</pubDate>
+        <description>Chus Mateo, Facundo Campazzo i Gabriel Deck wypowiadali się przed drugim spotkaniem z Olympiakosem. Wszyscy zgodnie powtarzali, że drużyna musi lepiej bronić i poprawić błędy z pierwszego pojedynku.</description>
+    </item>
     
     <item>
         <title>Regragui: W zeszłym roku w Realu było widać zespół – jedność, rodzinę w trakcie meczów, a w tym tego nie widać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138906-podcast-6x28-projekt-na-przyszlosc</link>
         <pubDate>Thu, 24 Apr 2025 21:45:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym przede wszystkim rozmawiamy o możliwych zmianach w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Finałowa logistyka</title>
-        <link>https://www.realmadryt.pl/news/138905-finalowa-logistyka</link>
-        <pubDate>Thu, 24 Apr 2025 21:02:00 GMT</pubDate>
-        <description>Już w sobotę Real Madryt zmierzy się w finale Pucharu Króla z Barceloną. Jak wygląda plan przygotowań Królewskich od strony logistycznej?</description>
     </item>
     
 </channel>
