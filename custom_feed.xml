@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Apr 2025 08:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 08:46:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zawiasy</title>
+        <link>https://www.realmadryt.pl/news/138904-zawiasy</link>
+        <pubDate>Sat, 26 Apr 2025 10:30:00 GMT</pubDate>
+        <description>Proszę wstać, Sąd idzie.</description>
+    </item>
     
     <item>
         <title>Santillana: Ancelotti zdobył w karierze wszystko i zasługuje na szacunek</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138959-pilkarki-z-7-golami-w-derbach-video</link>
         <pubDate>Sat, 26 Apr 2025 08:04:00 GMT</pubDate>
         <description>Piłkarki wygrały derbowy mecz i doskoczyły do liderującej Barcelony, która rozegra swój mecz po rewanżowym półfinale Ligi Mistrzyń.</description>
-    </item>
-    
-    <item>
-        <title>Trzeci z rzędu spadek z La Ligi Realu Valladolid Ronaldo Nazário</title>
-        <link>https://www.realmadryt.pl/news/138960-trzeci-z-rzedu-spadek-z-la-ligi-realu-valladolid-ronaldo-nazario</link>
-        <pubDate>Sat, 26 Apr 2025 08:01:00 GMT</pubDate>
-        <description>Valladolid żegna się z Primera División trzeci raz w ciągu pięciu ostatnich lat.</description>
     </item>
     
 </channel>
