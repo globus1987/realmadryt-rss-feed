@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Apr 2025 13:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Apr 2025 13:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Noc, której brakuje Ceballosowi</title>
+        <link>https://www.realmadryt.pl/news/138975-noc-ktorej-brakuje-ceballosowi</link>
+        <pubDate>Sat, 26 Apr 2025 15:45:00 GMT</pubDate>
+        <description>Podczas swojej kariery w Realu Madryt Dani Ceballos nigdy nie był tak blisko jak teraz, by wyjść na finał jako zawodnik pierwszego składu.</description>
+    </item>
     
     <item>
         <title>Puchar Króla oddechem dla Endricka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/138966-final-warty-dwa-tytuly</link>
         <pubDate>Sat, 26 Apr 2025 09:52:00 GMT</pubDate>
         <description>Dzisiejszy finał Copa del Rey będzie miał swoje konsekwencje w La Lidze. W tym sezonie wszystkie cztery Klasyki są decydujące w kontekście zdobycia trzech różnych tytułów.</description>
-    </item>
-    
-    <item>
-        <title>„Wygrana Realu w finale może zmienić dynamikę sezonu”</title>
-        <link>https://www.realmadryt.pl/news/138965-wygrana-realu-w-finale-moze-zmienic-dynamike-sezonu</link>
-        <pubDate>Sat, 26 Apr 2025 09:48:00 GMT</pubDate>
-        <description>W historii futbolu było tylko 22 graczy, którzy grali zarówno w Realu Madryt, jak i Barcelonie. Dwóch z nich, Luis Milla i Miquel Soler, udzielili wspólnego wywiadu dziennikowi AS przed dzisiejszym Klasykiem w Pucharze Króla. Przedstawiamy zapis tej rozmowy.</description>
     </item>
     
 </channel>
