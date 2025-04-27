@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Apr 2025 22:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 22:41:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139027-dzisiejsze-okladki</link>
+        <pubDate>Mon, 28 Apr 2025 00:29:00 GMT</pubDate>
+        <description>Pokłosia finału Pucharu Króla i przyszłość Ancelottiego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>The Athletic: Ancelotti odejdzie z Realu i zostanie selekcjonerem reprezentacji Brazylii!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139014-siedemnaste-zwyciestwo-z-rzedu-w-lidze</link>
         <pubDate>Sun, 27 Apr 2025 15:28:00 GMT</pubDate>
         <description>W 29. kolejce Ligi Endesa Real Madryt pokonał na wyjeździe Gironę. Królewscy powiększyli dzięki temu przewagę nad Valencią, która po emocjonującym spotkaniu i dwóch dogrywkach uległa Baskonii 125:128.</description>
-    </item>
-    
-    <item>
-        <title>Gavi świętował wygraną z flagą „Gavi lub ołów antimadridistas”</title>
-        <link>https://www.realmadryt.pl/news/139013-gavi-swietowal-wygrana-z-flaga-gavi-lub-olow-antimadridistas</link>
-        <pubDate>Sun, 27 Apr 2025 15:24:00 GMT</pubDate>
-        <description>Katalońskie media rozpływają się nad „intensywnym” sposobem świętowania Gaviego po zdobyciu Pucharu Króla. Zwracają też uwagę na brzydki gest Jude'a Bellinghama przy szpalerze wykonanym przez graczy Barcelony.</description>
     </item>
     
 </channel>
