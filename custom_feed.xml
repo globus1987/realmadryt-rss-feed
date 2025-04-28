@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Apr 2025 14:50:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 15:27:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Całą Hiszpanię dotknęła ogromna awaria prądu</title>
+        <link>https://www.realmadryt.pl/news/139046-cala-hiszpanie-dotknela-ogromna-awaria-pradu</link>
+        <pubDate>Mon, 28 Apr 2025 17:23:00 GMT</pubDate>
+        <description>Trwają analizy możliwych przyczyn, a ogólny blackout dotyczy także Francji i Portugalii.</description>
+    </item>
     
     <item>
         <title>Podcast 6x29: Ból</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139035-ojciec-laminea-yamala-nawet-jesli-bylem-kibicem-realu-mam-to-gdzies-to-barca-daje-mi-chleb</link>
         <pubDate>Mon, 28 Apr 2025 09:15:00 GMT</pubDate>
         <description>Mounir Nasraoui pokusił się o szczerą deklarację, gdy zapytano go o jego sympatie kibicowskie.</description>
-    </item>
-    
-    <item>
-        <title>Dlaczego piłkarze wybierają odzież kompresyjną?</title>
-        <link>https://www.realmadryt.pl/news/139034-dlaczego-pilkarze-wybieraja-odziez-kompresyjna</link>
-        <pubDate>Mon, 28 Apr 2025 09:15:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
