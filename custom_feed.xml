@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Apr 2025 04:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 05:25:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podłączyć prąd</title>
+        <link>https://www.realmadryt.pl/news/139052-podlaczyc-prad</link>
+        <pubDate>Tue, 29 Apr 2025 07:25:00 GMT</pubDate>
+        <description>Real Madryt i Olympiakos zagrają dzisiaj ze sobą po raz trzeci w ramach ćwierćfinałowej rywalizacji w Eurolidze. Królewscy potrzebują zwycięstwa, by móc ponownie podłączyć się do tej walki.</description>
+    </item>
     
     <item>
         <title>Relevo: Real chce sprowadzić Alexandra-Arnolda już w czerwcu, a Carvajal marzy o szybszym powrocie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139042-raul-jestem-zadowolony-ze-tu-jestem-jestem-tam-gdzie-chce-byc</link>
         <pubDate>Mon, 28 Apr 2025 11:46:00 GMT</pubDate>
         <description>Trener Castilli nie jest raczej brany pod uwagę jako następca Ancelottiego.</description>
-    </item>
-    
-    <item>
-        <title>Celta wraca na Bernabéu po pucharowych kontrowersjach</title>
-        <link>https://www.realmadryt.pl/news/139041-celta-wraca-na-bernabeu-po-pucharowych-kontrowersjach</link>
-        <pubDate>Mon, 28 Apr 2025 11:45:00 GMT</pubDate>
-        <description>Celta Vigo wyjdzie w niedzielę na Santiago Bernabéu mając w pamięci styczniowe kontrowersje w Copa del Rey. Zdaniem Galisyjczyków wpływ na ich odpadnięcie z pucharowych rozgrywek miały krzywdzące decyzje arbitra i VAR-u.</description>
     </item>
     
 </channel>
