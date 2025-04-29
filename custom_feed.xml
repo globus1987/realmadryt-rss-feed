@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Apr 2025 22:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Apr 2025 22:43:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139087-dzisiejsze-okladki</link>
+        <pubDate>Wed, 30 Apr 2025 00:39:00 GMT</pubDate>
+        <description>Problemy Realu i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Żeby pokonać Olympiakos, bardzo ważna jest jedność</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>Media: Ancelotti coraz dalej reprezentacji Brazylii!</title>
-        <link>https://www.realmadryt.pl/news/139085-media-ancelotti-coraz-dalej-reprezentacji-brazylii</link>
+        <title>Ancelotti coraz dalej reprezentacji Brazylii!</title>
+        <link>https://www.realmadryt.pl/news/139085-ancelotti-coraz-dalej-reprezentacji-brazylii</link>
         <pubDate>Tue, 29 Apr 2025 23:58:00 GMT</pubDate>
         <description>Hiszpańskie media informują o niespodziewanym zwrocie akcji pomiędzy Carlo Ancelottim a Brazylijską Federacją Piłkarską. Nie są jednak zgodne w sprawie tego, jakie są tego przyczyny.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139076-oficjalnie-mendy-nie-zagra-do-konca-sezonu</link>
         <pubDate>Tue, 29 Apr 2025 19:06:00 GMT</pubDate>
         <description>Klub potwierdził kontuzję Francuza. To dla niego koniec sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy rozpoczęli przygotowania na Celtę</title>
-        <link>https://www.realmadryt.pl/news/139073-krolewscy-rozpoczeli-przygotowania-na-celte</link>
-        <pubDate>Tue, 29 Apr 2025 18:24:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do meczu z Celtą Vigo.</description>
     </item>
     
 </channel>
