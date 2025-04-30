@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Apr 2025 16:56:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 17:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Alaba i Mendy przeszli operacje</title>
+        <link>https://www.realmadryt.pl/news/139109-oficjalnie-alaba-i-mendy-przeszli-operacje</link>
+        <pubDate>Wed, 30 Apr 2025 19:11:00 GMT</pubDate>
+        <description>Klub potwierdził, że jego kolejni obrońcy przeszli dzisiaj operacje. Austriak celuje w powrót na Klubowy Mundial, a Francuz na początek kolejnego sezonu.</description>
+    </item>
     
     <item>
         <title>AS: Real wkracza do walki o Taha</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139097-jak-rozpadla-sie-umowa-miedzy-ancelottim-a-brazylia</link>
         <pubDate>Wed, 30 Apr 2025 12:38:00 GMT</pubDate>
         <description>MARCA opisuje chronologię wydarzeń i przyczyny, dla których Włoch nie podpisał umowy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Alaba i Mendy będą dzisiaj operowani</title>
-        <link>https://www.realmadryt.pl/news/139096-marca-alaba-i-mendy-beda-dzisiaj-operowani</link>
-        <pubDate>Wed, 30 Apr 2025 12:14:00 GMT</pubDate>
-        <description>Wczoraj klub poinformował o ich kontuzjach, a dzisiaj obaj mają przejść zabiegi.</description>
     </item>
     
 </channel>
