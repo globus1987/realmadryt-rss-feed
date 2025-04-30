@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Apr 2025 22:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 22:43:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139113-dzisiejsze-okladki</link>
+        <pubDate>Thu, 01 May 2025 00:42:00 GMT</pubDate>
+        <description>Przyszłość Carlo Ancelottiego i remis Barcelony z Interem to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barcelona zremisowała z Interem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139100-tchouameni-wrocil-zbyt-pozno</link>
         <pubDate>Wed, 30 Apr 2025 15:18:00 GMT</pubDate>
         <description>25-latek w końcu pokazuje, że jest potworem w środku pola. Ale Ancelotti, jego wielki zwolennik, nie może się tym w pełni cieszyć...</description>
-    </item>
-    
-    <item>
-        <title>Ośmiu piłkarzy nie trenowało z drużyną</title>
-        <link>https://www.realmadryt.pl/news/139098-osmiu-pilkarzy-nie-trenowalo-z-druzyna</link>
-        <pubDate>Wed, 30 Apr 2025 13:16:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
