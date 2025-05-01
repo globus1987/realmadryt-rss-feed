@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 May 2025 13:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 13:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona potwierdziła kontuzję mięśniową Koundé</title>
+        <link>https://www.realmadryt.pl/news/139131-barcelona-potwierdzila-kontuzje-miesniowa-kounde</link>
+        <pubDate>Thu, 01 May 2025 15:34:00 GMT</pubDate>
+        <description>Królewskim pozostaje w tym sezonie jeszcze jedno starcie z Barceloną. Informacje po badaniach wskazują, że Katalończycy stracili na to spotkanie swojego podstawowego zawodnika.</description>
+    </item>
     
     <item>
         <title>Doradca Laporty: W Polsce dotykanie nosa ma specjalne znaczenie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139120-alaba-chce-wrocic-jak-najszybciej-i-mocniejszy</link>
         <pubDate>Thu, 01 May 2025 10:45:00 GMT</pubDate>
         <description>Austriak wystosował wiadomość do kibiców po przejściu operacji kolana.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni zawodnikiem na Pięć Gwiazdek za kwiecień</title>
-        <link>https://www.realmadryt.pl/news/139119-tchouameni-zawodnikiem-na-piec-gwiazdek-za-kwiecien</link>
-        <pubDate>Thu, 01 May 2025 10:30:00 GMT</pubDate>
-        <description>Francuski pomocnik po raz drugi w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
