@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 May 2025 08:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 08:55:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alaba: Chcę wrócić jak najszybciej i mocniejszy</title>
+        <link>https://www.realmadryt.pl/news/139120-alaba-chce-wrocic-jak-najszybciej-i-mocniejszy</link>
+        <pubDate>Thu, 01 May 2025 10:45:00 GMT</pubDate>
+        <description>Austriak wystosował wiadomość do kibiców po przejściu operacji kolana.</description>
+    </item>
     
     <item>
         <title>Tchouaméni zawodnikiem na Pięć Gwiazdek za kwiecień</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139110-radio-marca-rodrygo-rozwaza-odejscie-z-realu</link>
         <pubDate>Wed, 30 Apr 2025 19:25:00 GMT</pubDate>
         <description>Brazylijski piłkarz ma podobno zamiar opuścić Real Madryt podczas najbliższego letniego okna transferowego.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Alaba i Mendy przeszli operacje</title>
-        <link>https://www.realmadryt.pl/news/139109-oficjalnie-alaba-i-mendy-przeszli-operacje</link>
-        <pubDate>Wed, 30 Apr 2025 19:11:00 GMT</pubDate>
-        <description>Klub potwierdził, że jego kolejni obrońcy przeszli dzisiaj operacje. Austriak celuje w powrót na Klubowy Mundial, a Francuz na początek kolejnego sezonu.</description>
     </item>
     
 </channel>
