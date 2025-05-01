@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 May 2025 07:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 08:31:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni zawodnikiem na Pięć Gwiazdek za kwiecień</title>
+        <link>https://www.realmadryt.pl/news/139119-tchouameni-zawodnikiem-na-piec-gwiazdek-za-kwiecien</link>
+        <pubDate>Thu, 01 May 2025 10:30:00 GMT</pubDate>
+        <description>Francuski pomocnik po raz drugi w tym sezonie zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 maja</title>
+        <link>https://www.realmadryt.pl/news/139118-kartka-z-kalendarza-1-maja</link>
+        <pubDate>Thu, 01 May 2025 10:02:00 GMT</pubDate>
+        <description>Piękne pożegnanie kapitana Królewskich, zaciekłe boje z Bayernem Monachium w Lidze Mistrzów i bardzo poważne zagrożenie zdrowia dla legendy Królewskich. Co wydarzyło się 1 maja?</description>
+    </item>
     
     <item>
         <title>Kolejny talent ucieka ze szkółki Realu Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139109-oficjalnie-alaba-i-mendy-przeszli-operacje</link>
         <pubDate>Wed, 30 Apr 2025 19:11:00 GMT</pubDate>
         <description>Klub potwierdził, że jego kolejni obrońcy przeszli dzisiaj operacje. Austriak celuje w powrót na Klubowy Mundial, a Francuz na początek kolejnego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real wkracza do walki o Taha</title>
-        <link>https://www.realmadryt.pl/news/139108-as-real-wkracza-do-walki-o-taha</link>
-        <pubDate>Wed, 30 Apr 2025 18:29:00 GMT</pubDate>
-        <description>Jonathan Tah będzie jednym z najbardziej rozchwytywanych piłkarzy na rynku podczas letniego okienka transferowego. Jak informuje AS, w walkę o stopera włączyć chce się także Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Güler wyciągnięty z pawlacza</title>
-        <link>https://www.realmadryt.pl/news/139107-gueler-wyciagniety-z-pawlacza</link>
-        <pubDate>Wed, 30 Apr 2025 18:15:00 GMT</pubDate>
-        <description>Arda Güler zyskuje na znaczeniu na ostatniej prostej sezonu. Klub od jakiegoś czasu szuka kreatywnego pomocnika po odejściu Kroosa i w obliczu coraz bliższego rozstania z Modriciem. Ostatnie występy Turka wskazują jednak, że być może to właśnie on będzie w stanie wypełnić tę lukę, dywaguje MARCA.</description>
     </item>
     
 </channel>
