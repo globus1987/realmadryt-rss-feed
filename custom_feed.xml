@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 May 2025 22:24:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 22:43:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139139-dzisiejsze-okladki</link>
+        <pubDate>Fri, 02 May 2025 00:41:00 GMT</pubDate>
+        <description>Sytuacja kadrowa Realu Madryt i pochwały dla Lamine'a Yamala to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Jestem bardzo dumny z tych zawodników</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139126-vinicius-i-mbappe-trenowali-z-druzyna</link>
         <pubDate>Thu, 01 May 2025 13:11:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Historia podpowiada Raúla, klub woli Solariego</title>
-        <link>https://www.realmadryt.pl/news/139125-historia-podpowiada-raula-klub-woli-solariego</link>
-        <pubDate>Thu, 01 May 2025 13:09:00 GMT</pubDate>
-        <description>Zasada „dziedziczenia” w Realu Madryt w przypadku zwolnienia trenera w trakcie sezonu do tej pory najczęściej kończyła się przejęciem zespołu przez trenera rezerw. Jeśli jednak tym razem dojdzie do podobnej sytuacji, pierwszy w kolejce nie będzie Raúl, lecz Santiago Solari, przekonuje Relevo.</description>
     </item>
     
 </channel>
