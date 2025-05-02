@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 May 2025 22:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 May 2025 22:45:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139166-dzisiejsze-okladki</link>
+        <pubDate>Sat, 03 May 2025 00:27:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt i powrót Ter Stegena w Barcelonie to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 34. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139152-ancelotti-liczy-na-pomoc-wychowankow</link>
         <pubDate>Fri, 02 May 2025 13:29:00 GMT</pubDate>
         <description>Mówi się, że Yusi i Jacobo Ramón będą powołani do pierwszej drużyny na mecz z Celtą</description>
-    </item>
-    
-    <item>
-        <title>Bellingham nie trenował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/139151-bellingham-nie-trenowal-z-druzyna</link>
-        <pubDate>Fri, 02 May 2025 13:03:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
