@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 May 2025 21:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 21:39:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mirotić wróci do Realu Madryt?</title>
+        <link>https://www.realmadryt.pl/news/139188-mirotic-wroci-do-realu-madryt</link>
+        <pubDate>Sat, 03 May 2025 23:36:00 GMT</pubDate>
+        <description>Zbliża się koniec sezonu, więc na sile nabierają plotki transferowe. W sekcji koszykarskiej nie są one tak intensywne, jak w sekcji piłkarskiej, co oczywiste, ale też ich nie brakuje. Portal 24segundosenblanco informuje, że do drużyny może wrócić Nikola Mirotić.</description>
+    </item>
     
     <item>
         <title>Relevo: Bayer pogodzony z odejściem Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139174-bellingham-trenowal-z-druzyna</link>
         <pubDate>Sat, 03 May 2025 12:38:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: O mojej przyszłości będę rozmawiać 25 maja, nie wcześniej</title>
-        <link>https://www.realmadryt.pl/news/139175-ancelotti-o-mojej-przyszlosci-bede-rozmawiac-25-maja-nie-wczesniej</link>
-        <pubDate>Sat, 03 May 2025 12:33:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
