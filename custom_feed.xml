@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 May 2025 10:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 10:42:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bellingham trenował z drużyną</title>
+        <link>https://www.realmadryt.pl/news/139174-bellingham-trenowal-z-druzyna</link>
+        <pubDate>Sat, 03 May 2025 12:38:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: O mojej przyszłości będę rozmawiać 25 maja, nie wcześniej</title>
+        <link>https://www.realmadryt.pl/news/139175-ancelotti-o-mojej-przyszlosci-bede-rozmawiac-25-maja-nie-wczesniej</link>
+        <pubDate>Sat, 03 May 2025 12:33:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Czy Jude Bellingham trenuje z grupą? [LIVE]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139163-marca-real-rozumie-ze-xabi-alonso-nie-chce-prowadzic-druzyny-na-klubowym-mundialu</link>
         <pubDate>Sat, 03 May 2025 02:28:00 GMT</pubDate>
         <description>Klub postawi na Klubowym Mundialu na Santiago Solariego, jeśli sytuacja Carlo Ancelottiego nie odwróci się o 180 stopni, donosi MARCA.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/139166-dzisiejsze-okladki</link>
-        <pubDate>Sat, 03 May 2025 00:27:00 GMT</pubDate>
-        <description>Sytuacja Realu Madryt i powrót Ter Stegena w Barcelonie to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 34. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/139153-telewizyjny-terminarz-34-kolejki-la-ligi</link>
-        <pubDate>Fri, 02 May 2025 20:00:00 GMT</pubDate>
-        <description>Przed nami 34. kolejka La Ligi. Real Madryt zagra u siebie z Celtą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
