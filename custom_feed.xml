@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 May 2025 07:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 07:39:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>RMTV: Mecz z Celtą poprowadzi sędzia od „światowego skandalu”</title>
+        <link>https://www.realmadryt.pl/news/139165-rmtv-mecz-z-celta-poprowadzi-sedzia-od-swiatowego-skandalu</link>
+        <pubDate>Sat, 03 May 2025 09:30:00 GMT</pubDate>
+        <description>Klubowa telewizja przygotowała tradycyjny materiał na sędziów dzisiejszego meczu La Ligi. Po polemice wokół finału Pucharu Króla klub nie odpuszcza ataków na hiszpańskich arbitrów.</description>
+    </item>
     
     <item>
         <title>Sky: Real Madryt pozostaje w walce o Taha</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139158-najslabsza-lawka-w-hiszpanii</link>
         <pubDate>Fri, 02 May 2025 16:45:00 GMT</pubDate>
         <description>W tym sezonie we wszystkich rozgrywkach rezerwowi Realu Madryt zdobyli zaledwie 12 bramek. W samej La Lidze podopieczni Carlo Ancelottiego notują pod tym względem najsłabsze wyniki spośród wszystkich drużyn.</description>
-    </item>
-    
-    <item>
-        <title>OkDiario: Real Madryt nie zaproponuje Lucasowi Vázquezowi nowej umowy</title>
-        <link>https://www.realmadryt.pl/news/139157-okdiario-real-madryt-nie-zaproponuje-lucasowi-vazquezowi-nowej-umowy</link>
-        <pubDate>Fri, 02 May 2025 16:02:00 GMT</pubDate>
-        <description>Iván Martín podaje, że Hiszpan odejdzie z Realu Madryt po tym sezonie, bo klub nie zaoferuje mu nowej umowy.</description>
     </item>
     
 </channel>
