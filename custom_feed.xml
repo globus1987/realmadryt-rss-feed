@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 May 2025 22:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 May 2025 22:42:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139189-dzisiejsze-okladki</link>
+        <pubDate>Sun, 04 May 2025 00:33:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Kiedy dojdzie do pożegnania, będzie to bardzo piękny dzień</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139178-arteta-saliba-jest-tu-bardzo-szczesliwy</link>
         <pubDate>Sat, 03 May 2025 13:53:00 GMT</pubDate>
         <description>Na konferencji prasowej przed dzisiejszym meczem Arsenalu z Bournemouth szkoleniowiec Kanonierów, Mikel Arteta, został zapytany o możliwy transfer Williama Saliby do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Courtois walczy o Trofeo Zamora</title>
-        <link>https://www.realmadryt.pl/news/139177-courtois-walczy-o-trofeo-zamora</link>
-        <pubDate>Sat, 03 May 2025 13:22:00 GMT</pubDate>
-        <description>Golkiper Królewskich będzie na prowadzeniu w klasyfikacji, ale Jan Oblak i David Soria depczą mu po piętach.</description>
     </item>
     
 </channel>
