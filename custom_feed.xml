@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 May 2025 22:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 22:42:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139224-dzisiejsze-okladki</link>
+        <pubDate>Mon, 05 May 2025 00:33:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i powrót Roberta Lewandowskiego to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>L’Équipe: Real Madryt rozmawia z Williamem Salibą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139207-34-kolejka-real-nie-daje-za-wygrana</link>
         <pubDate>Sun, 04 May 2025 16:22:00 GMT</pubDate>
         <description>Za nami najważniejsze mecze 34. kolejki La Ligi z perspektywy drużyn walczących o tytuł.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/139203-mbappe-mvp-meczu-z-celta</link>
-        <pubDate>Sun, 04 May 2025 16:07:00 GMT</pubDate>
-        <description>Napastnik Królewskich został wyróżniony w wygranym 3:2 przez Real Madryt meczu z Celtą.</description>
     </item>
     
 </channel>
