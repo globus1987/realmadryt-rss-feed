@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 May 2025 08:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 09:23:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz dwóch zranionych drużyn</title>
+        <link>https://www.realmadryt.pl/news/139200-mecz-dwoch-zranionych-druzyn</link>
+        <pubDate>Sun, 04 May 2025 11:19:00 GMT</pubDate>
+        <description>W 30. kolejce Ligi Endesa Real Madryt podejmie Valencię. Obie drużyny w tym sezonie mają za sobą bolesne rozczarowanie w europejskich pucharach, które będą próbowały zamazać sukcesami w lidze.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: Musimy się pozbierać i nadać wartość całej pracy, którą wykonujemy w lidze</title>
+        <link>https://www.realmadryt.pl/news/139198-mateo-musimy-sie-pozbierac-i-nadac-wartosc-calej-pracy-ktora-wykonujemy-w-lidze</link>
+        <pubDate>Sun, 04 May 2025 10:56:00 GMT</pubDate>
+        <description>Chus Mateo udzielił wypowiedzi klubowej telewizji przed ligowym spotkaniem z Valencią. Mówił o tym, że drużyna musi się pozbierać po odpadnięciu z Euroligi.</description>
+    </item>
     
     <item>
         <title>Dokończyć sezon w dobrym stylu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139182-ancelotti-kiedy-dojdzie-do-pozegnania-bedzie-to-bardzo-piekny-dzien</link>
         <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Mirotić wróci do Realu Madryt?</title>
-        <link>https://www.realmadryt.pl/news/139188-mirotic-wroci-do-realu-madryt</link>
-        <pubDate>Sat, 03 May 2025 23:36:00 GMT</pubDate>
-        <description>Zbliża się koniec sezonu, więc na sile nabierają plotki transferowe. W sekcji koszykarskiej nie są one tak intensywne, jak w sekcji piłkarskiej, co oczywiste, ale też ich nie brakuje. Portal 24segundosenblanco informuje, że do drużyny może wrócić Nikola Mirotić.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Bayer pogodzony z odejściem Xabiego</title>
-        <link>https://www.realmadryt.pl/news/139187-relevo-bayer-pogodzony-z-odejsciem-xabiego</link>
-        <pubDate>Sat, 03 May 2025 21:42:00 GMT</pubDate>
-        <description>Klub z Leverkusen oczekuje, że Bask przekaże swoją decyzję w najbliższym czasie, by działacze mogli skupić się na pozyskaniu jego następcy i dopięciu kadry na nadchodzący sezon.</description>
     </item>
     
 </channel>
