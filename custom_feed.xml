@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 May 2025 18:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 18:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świetny mecz Feliza, 18. ligowe zwycięstwo z rzędu</title>
+        <link>https://www.realmadryt.pl/news/139215-swietny-mecz-feliza-18-ligowe-zwyciestwo-z-rzedu</link>
+        <pubDate>Sun, 04 May 2025 20:38:00 GMT</pubDate>
+        <description>W 30. kolejce Ligi Endesa Real Madryt pokonał Valencię i umocnił się na pozycji lidera, którą odebrać mu może już tylko katastrofa. Królewscy zaprezentowali się z dobrej strony i wygrali przekonująco. Graczem meczu został Andrés Feliz.</description>
+    </item>
     
     <item>
         <title>Castilla lepsza od Marbelli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139205-borja-iglesias-nie-bylismy-skuteczni-a-oni-byli-bardzo-skuteczni</link>
         <pubDate>Sun, 04 May 2025 16:05:00 GMT</pubDate>
         <description>Borja Iglesias udzielił wypowiedzi dla telewizji Movistar+ po przegranym 2:3 meczu z Realem Madryt na Estadio Santiago Bernabéu. Przedstawiamy wypowiedzi popularnego Pandy.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/139202-ocen-pilkarzy-po-meczu-z-celta</link>
-        <pubDate>Sun, 04 May 2025 16:00:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
