@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 May 2025 03:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 04:32:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Byle do końca</title>
+        <link>https://www.realmadryt.pl/news/139186-byle-do-konca</link>
+        <pubDate>Sun, 04 May 2025 06:00:00 GMT</pubDate>
+        <description>Daleko jeszcze?</description>
+    </item>
     
     <item>
         <title>Real Madryt – Celta Vigo: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139180-trzech-graczy-barcy-zagrozonych-zawieszeniem-na-klasyk</link>
         <pubDate>Sat, 03 May 2025 14:18:00 GMT</pubDate>
         <description>Czterech piłkarzy Barcelony jest zagrożonych zawieszeniem na Klasyk, w tym jeden z nich jest kontuzjowanych. Na dzisiejszy ważny dla sytuacji ligowej mecz katalońskie media zapowiadają szerokie rotacje.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Celty na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/139179-kadra-celty-na-mecz-z-realem</link>
-        <pubDate>Sat, 03 May 2025 14:17:00 GMT</pubDate>
-        <description>Bez Carla Starfelta będzie musiała radzić sobie jutro Celta Vigo. Poza nim i odstawionym od składu jakiś czas temu Javierem Manquillo trener może liczyć na wszystkich swoich zawodników.</description>
     </item>
     
 </channel>
