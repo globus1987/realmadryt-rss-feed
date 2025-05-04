@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 May 2025 21:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 May 2025 22:23:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>L’Équipe: Real Madryt rozmawia z Williamem Salibą</title>
+        <link>https://www.realmadryt.pl/news/139218-l-equipe-real-madryt-rozmawia-z-williamem-saliba</link>
+        <pubDate>Mon, 05 May 2025 00:01:00 GMT</pubDate>
+        <description>L’Équipe analizuje, że rynek środkowych obrońców będzie tego lata ruchliwy, a wśród najgorętszych nazwisk znajdą się też Francuzi. Jednym z klubów szukających stopera będzie Real Madryt, a jednym z jego celów ma być William Saliba.</description>
+    </item>
     
     <item>
         <title>Mateo: Gramy coraz lepiej jako drużyna i jestem z tego zadowolony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139203-mbappe-mvp-meczu-z-celta</link>
         <pubDate>Sun, 04 May 2025 16:07:00 GMT</pubDate>
         <description>Napastnik Królewskich został wyróżniony w wygranym 3:2 przez Real Madryt meczu z Celtą.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Opadliśmy i to nie może mieć miejsca</title>
-        <link>https://www.realmadryt.pl/news/139206-valverde-opadlismy-i-to-nie-moze-miec-miejsca</link>
-        <pubDate>Sun, 04 May 2025 16:06:00 GMT</pubDate>
-        <description>Federico Valverde udzielił wywiadu Real Madrid TV po spotkaniu z Celtą Vigo w La Lidze. Przedstawiamy wypowiedzi gracza Realu Madryt z tej rozmowy na murawie Santiago Bernabéu.</description>
     </item>
     
 </channel>
