@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 May 2025 13:33:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 13:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Miłośnicy cierpienia</title>
+        <link>https://www.realmadryt.pl/news/139238-milosnicy-cierpienia</link>
+        <pubDate>Mon, 05 May 2025 15:52:00 GMT</pubDate>
+        <description>Real od lutego nie wygrał meczu dwiema bramkami różnicy lub wyżej.</description>
+    </item>
     
     <item>
         <title>Kulisy odejścia Trenta z Liverpoolu: frustracja związana z kontraktem, co powiedział Slotowi i dlaczego właśnie teraz?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139216-krolewscy-maja-dzis-wolne</link>
         <pubDate>Mon, 05 May 2025 11:10:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy jutro po południu i wówczas rozpoczną przygotowania do niedzielnego meczu z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 5 maja</title>
-        <link>https://www.realmadryt.pl/news/139223-kartka-z-kalendarza-5-maja</link>
-        <pubDate>Mon, 05 May 2025 10:20:00 GMT</pubDate>
-        <description>Ważne gole Hugo Sáncheza, pierwszy hat-trick najlepszego w historii strzelca Realu Madryt, wygrana z Villarrealem i odpadnięcie z Ligi Mistrzów na Stamford Bridge. Co działo się 5 maja?</description>
     </item>
     
 </channel>
