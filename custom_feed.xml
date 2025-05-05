@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 May 2025 21:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 22:25:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139246-dzisiejsze-okladki</link>
+        <pubDate>Tue, 06 May 2025 00:08:00 GMT</pubDate>
+        <description>Wywiad z Juliánem Álvarezem i mecz Barcelony z Interem to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Libertad: Atlético osiągnęło porozumienie z Miguelem Gutiérrezem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139232-oficjalnie-lewandowski-bedzie-mogl-zagrac-z-realem</link>
         <pubDate>Mon, 05 May 2025 11:44:00 GMT</pubDate>
         <description>Polak wraca po kontuzji już na wtorkowy mecz Barcelony z Interem w Mediolanie.</description>
-    </item>
-    
-    <item>
-        <title>Alexander-Arnold: Potrzebuję zmiany i nowego wyzwania dla mnie jako piłkarza i człowieka</title>
-        <link>https://www.realmadryt.pl/news/139231-alexander-arnold-potrzebuje-zmiany-i-nowego-wyzwania-dla-mnie-jako-pilkarza-i-czlowieka</link>
-        <pubDate>Mon, 05 May 2025 11:43:00 GMT</pubDate>
-        <description>Anglik wytłumaczył swoje odejście w wywiadzie dla mediów Liverpoolu. Przedstawiamy jego pełne wypowiedzi.</description>
     </item>
     
 </channel>
