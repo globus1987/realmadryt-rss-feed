@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 May 2025 07:55:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 08:34:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 5 maja</title>
+        <link>https://www.realmadryt.pl/news/139223-kartka-z-kalendarza-5-maja</link>
+        <pubDate>Mon, 05 May 2025 10:20:00 GMT</pubDate>
+        <description>Ważne gole Hugo Sáncheza, pierwszy hat-trick najlepszego w historii strzelca Realu Madryt, wygrana z Villarrealem i odpadnięcie z Ligi Mistrzów na Stamford Bridge. Co działo się 5 maja?</description>
+    </item>
     
     <item>
         <title>Athletic rywalem Juvenilu A w Pucharze Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139215-swietny-mecz-feliza-18-ligowe-zwyciestwo-z-rzedu</link>
         <pubDate>Sun, 04 May 2025 20:38:00 GMT</pubDate>
         <description>W 30. kolejce Ligi Endesa Real Madryt pokonał Valencię i umocnił się na pozycji lidera, którą odebrać mu może już tylko katastrofa. Królewscy zaprezentowali się z dobrej strony i wygrali przekonująco. Graczem meczu został Andrés Feliz.</description>
-    </item>
-    
-    <item>
-        <title>Castilla lepsza od Marbelli</title>
-        <link>https://www.realmadryt.pl/news/139214-castilla-lepsza-od-marbelli</link>
-        <pubDate>Sun, 04 May 2025 20:09:00 GMT</pubDate>
-        <description>W 35. kolejce Primera Federación Castilla pokonała Marbellę 3:2. Królewscy zmniejszyli dzięki temu stratę do strefy play-offów do czterech punktów. Gonzalo natomiast ma już o tylko jednego gola mniej od rekordu Mariano.</description>
     </item>
     
 </channel>
