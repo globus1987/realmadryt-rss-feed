@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 May 2025 10:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 May 2025 11:20:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Celtą</title>
+        <link>https://www.realmadryt.pl/news/139221-oceny-zawodnikow-po-meczu-z-celta</link>
+        <pubDate>Mon, 05 May 2025 13:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał u siebie z Celtą 3:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Magia na boisku i zmiana statusu w szatni</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139227-marca-gueler-wywalczyl-swoj-final-na-montjuic</link>
         <pubDate>Mon, 05 May 2025 09:26:00 GMT</pubDate>
         <description>Hiszpański dziennik stwierdza, że dzięki swojej grze turecki pomocnik wywalczył sobie prawo do gry w wyjściowej jedenastce w decydującym o losach sezonu Klasyku.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé ucisza gwizdy na Bernabéu i zbliża się do rekordu Zamorano</title>
-        <link>https://www.realmadryt.pl/news/139226-mbappe-ucisza-gwizdy-na-bernabeu-i-zbliza-sie-do-rekordu-zamorano</link>
-        <pubDate>Mon, 05 May 2025 09:08:00 GMT</pubDate>
-        <description>Francuz ma już 36 bramek w tym sezonie i wyrasta na lidera ofensywy drużyny.</description>
     </item>
     
 </channel>
