@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 May 2025 03:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 03:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Rozmawianie o Ancelottim nie jest produktywne dla negocjacji”</title>
+        <link>https://www.realmadryt.pl/news/139248-rozmawianie-o-ancelottim-nie-jest-produktywne-dla-negocjacji</link>
+        <pubDate>Tue, 06 May 2025 05:30:00 GMT</pubDate>
+        <description>Brazylijczycy żyją wyborem nowego selekcjonera. Dyrektor Federacji przekazał, że nowości w tej sprawie należy spodziewać się w następnym tygodniu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139233-ta-druzyna-potrafi-wskrzesic-zmarlego</link>
         <pubDate>Mon, 05 May 2025 11:53:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami po meczu Realu Madryt z Celtą. Przedstawiamy refleksje dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lewandowski będzie mógł zagrać z Realem</title>
-        <link>https://www.realmadryt.pl/news/139232-oficjalnie-lewandowski-bedzie-mogl-zagrac-z-realem</link>
-        <pubDate>Mon, 05 May 2025 11:44:00 GMT</pubDate>
-        <description>Polak wraca po kontuzji już na wtorkowy mecz Barcelony z Interem w Mediolanie.</description>
     </item>
     
 </channel>
