@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 May 2025 22:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 23:24:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139273-dzisiejsze-okladki</link>
+        <pubDate>Wed, 07 May 2025 01:20:00 GMT</pubDate>
+        <description>Porażka Barcelony to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Olympiakos, Monaco, Panathinaikos i Fenerbahçe w Final Four</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139257-bbc-real-rozmawia-z-liverpoolem-o-wczesniejszym-wykupie-alexandra-arnolda</link>
         <pubDate>Tue, 06 May 2025 15:00:00 GMT</pubDate>
         <description>Również w Anglii zaczyna się mówić, że Królewscy chcą zapłacić Liverpoolowi, by móc skorzystać z usług Anglika na Klubowym Mundialu. Do tego dochodzi temat ostatniej pensji zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>BILD: Wirtz zdecydował, że chce grać w Bayernie</title>
-        <link>https://www.realmadryt.pl/news/139256-bild-wirtz-zdecydowal-ze-chce-grac-w-bayernie</link>
-        <pubDate>Tue, 06 May 2025 14:49:00 GMT</pubDate>
-        <description>Atakujący miał przekazać swojemu jeszcze obecnemu trenerowi, że podjął decyzję w sprawie swojej przyszłości. Ostatecznie nie chce podążać za Baskiem do Madrytu.</description>
     </item>
     
 </channel>
