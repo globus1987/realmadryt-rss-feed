@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 May 2025 11:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 12:53:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>BILD: Wirtz zdecydował, że chce grać w Bayernie</title>
+        <link>https://www.realmadryt.pl/news/139256-bild-wirtz-zdecydowal-ze-chce-grac-w-bayernie</link>
+        <pubDate>Tue, 06 May 2025 14:49:00 GMT</pubDate>
+        <description>Atakujący miał przekazać swojemu jeszcze obecnemu trenerowi, że podjął decyzję w sprawie swojej przyszłości. Ostatecznie nie chce podążać za Baskiem do Madrytu.</description>
+    </item>
     
     <item>
         <title>Louzán: Florentino powiedział mi, że trzeba coś zrobić w sprawie Negreiry</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139243-marca-gonzalo-idzie-po-rekord-i-do-primera-division</link>
         <pubDate>Tue, 06 May 2025 07:50:00 GMT</pubDate>
         <description>Gonzalo García w najbliższym czasie może pobić strzelecki rekord Mariano Díaza w Castilli i opuścić rezerwy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Real Madryt zapłaci milion euro za pozyskanie Trenta na Klubowy Mundial</title>
-        <link>https://www.realmadryt.pl/news/139247-cope-real-madryt-zaplaci-milion-euro-za-pozyskanie-trenta-na-klubowy-mundial</link>
-        <pubDate>Tue, 06 May 2025 07:00:00 GMT</pubDate>
-        <description>Kolejne źródło potwierdza, że Królewscy będą musieli zapłacić Liverpoolowi, by móc skorzystać z usług Anglika na Klubowym Mundialu.</description>
     </item>
     
 </channel>
