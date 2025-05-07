@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 May 2025 11:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 11:40:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/139281-dzisiejszy-trening</link>
+        <pubDate>Wed, 07 May 2025 13:25:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>„Grazie Inter, merci AS Monaco”</title>
+        <link>https://www.realmadryt.pl/news/139282-grazie-inter-merci-as-monaco</link>
+        <pubDate>Wed, 07 May 2025 13:25:00 GMT</pubDate>
+        <description>Fani Realu podziękowali rywalom Barcelony za wyeliminowanie jej z Ligi Mistrzów i Euroligi.</description>
+    </item>
     
     <item>
         <title>Kolejna zatruta strzała ze strony Barcelony, która rozpala madrycką szatnię</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139267-powtarzalna-strategia</link>
         <pubDate>Wed, 07 May 2025 07:00:00 GMT</pubDate>
         <description>Trent Alexander-Arnold dołącza do Davida Alaby i Antonio Rüdigera, którzy również wyczekali końca swoich kontraktów, aby móc za darmo dołączyć do Realu Madryt. Ta strategia w wykonaniu Realu Madryt na pewno będzie kontynuowana.</description>
-    </item>
-    
-    <item>
-        <title>Co mówią w Hiszpanii o sędziowaniu Szymona Marciniaka na San Siro?</title>
-        <link>https://www.realmadryt.pl/news/139274-co-mowia-w-hiszpanii-o-sedziowaniu-szymona-marciniaka-na-san-siro</link>
-        <pubDate>Wed, 07 May 2025 03:14:00 GMT</pubDate>
-        <description>Wobec wielu ataków na Szymona Marciniaka i oskarżanie go o związki z Realem Madryt przez dziennikarzy z Polski i Hiszpanii, publikujemy artykuł z wypowiedziami z Hiszpanii i Barcelony na temat sędziowania Polaka w meczu Katalończyków z Interem w Mediolanie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/139273-dzisiejsze-okladki</link>
-        <pubDate>Wed, 07 May 2025 01:20:00 GMT</pubDate>
-        <description>Porażka Barcelony to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
