@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 May 2025 20:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 21:20:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Alba Berlin zamienia Euroligę na Ligę Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/139299-oficjalnie-alba-berlin-zamienia-eurolige-na-lige-mistrzow</link>
+        <pubDate>Wed, 07 May 2025 23:04:00 GMT</pubDate>
+        <description>Konflikt na linii Euroliga – FIBA trwa od wielu lat. Najświeższą informacją w tej sprawie jest decyzja Alby Berlin o opuszczeniu Euroligi po 24 latach współpracy.</description>
+    </item>
     
     <item>
         <title>Zubimendi w rozkroku między Realem i Arsenalem</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Paris Saint-Germain – Arsenal FC [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/139287-paris-saint-germain-arsenal-fc-live</link>
+        <title>Paris Saint-Germain drugim finalistą Ligi Mistrzów!</title>
+        <link>https://www.realmadryt.pl/news/139287-paris-saint-germain-drugim-finalista-ligi-mistrzow</link>
         <pubDate>Wed, 07 May 2025 20:00:00 GMT</pubDate>
-        <description>O 21:00 rozpocznie się drugi rewanżowym półfinał Ligi Mistrzów, w którym Paris Saint-Germain podejmie Arsenal – pogromcę Realu Madryt. W pierwszym meczu minimalnie lepsi byli Francuzi.</description>
+        <description>W drugim półfinale Ligi Mistrzów Paris Saint-Germain pokonało Arsenal – pogromcę Realu Madryt. Francuzi w finale spotkają się z Interem Mediolan.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139282-grazie-inter-merci-as-monaco</link>
         <pubDate>Wed, 07 May 2025 13:25:00 GMT</pubDate>
         <description>Fani Realu podziękowali rywalom Barcelony za wyeliminowanie jej z Ligi Mistrzów i Euroligi.</description>
-    </item>
-    
-    <item>
-        <title>Kolejna zatruta strzała ze strony Barcelony, która rozpala madrycką szatnię</title>
-        <link>https://www.realmadryt.pl/news/139280-kolejna-zatruta-strzala-ze-strony-barcelony-ktora-rozpala-madrycka-szatnie</link>
-        <pubDate>Wed, 07 May 2025 12:48:00 GMT</pubDate>
-        <description>Jeszcze więcej oliwy do ognia przed najważniejszym meczem roku dla obu drużyn.</description>
     </item>
     
 </channel>
