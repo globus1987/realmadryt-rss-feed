@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 May 2025 10:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 11:21:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejna zatruta strzała ze strony Barcelony, która rozpala madrycką szatnię</title>
+        <link>https://www.realmadryt.pl/news/139280-kolejna-zatruta-strzala-ze-strony-barcelony-ktora-rozpala-madrycka-szatnie</link>
+        <pubDate>Wed, 07 May 2025 12:48:00 GMT</pubDate>
+        <description>Jeszcze więcej oliwy do ognia przed najważniejszym meczem roku dla obu drużyn.</description>
+    </item>
     
     <item>
         <title>Co Trent Alexander-Arnold może wnieść do Realu Madryt?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139273-dzisiejsze-okladki</link>
         <pubDate>Wed, 07 May 2025 01:20:00 GMT</pubDate>
         <description>Porażka Barcelony to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Olympiakos, Monaco, Panathinaikos i Fenerbahçe w Final Four</title>
-        <link>https://www.realmadryt.pl/news/139270-olympiakos-monaco-panathinaikos-i-fenerbahce-w-final-four</link>
-        <pubDate>Tue, 06 May 2025 23:12:00 GMT</pubDate>
-        <description>W Eurolidze w grze o tytuł zostały już tylko cztery zespoły. Dzisiaj dobiegły końca ćwierćfinały. Do Fenerbahçe i Olympiakosu dołączyły Monaco oraz Panathinaikos.</description>
     </item>
     
 </channel>
