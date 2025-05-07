@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 May 2025 08:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 09:29:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Real Madryt obserwuje Álvaro Carrerasa</title>
+        <link>https://www.realmadryt.pl/news/139277-as-real-madryt-obserwuje-alvaro-carrerasa</link>
+        <pubDate>Wed, 07 May 2025 11:20:00 GMT</pubDate>
+        <description>Hiszpan jest mocnym kandydatem na lewą stronę obrony.</description>
+    </item>
     
     <item>
         <title>The Athletic: Real negocjuje z Liverpoolem wcześniejsze pozyskanie Alexandra-Arnolda</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139266-inter-mediolan-w-finale-ligi-mistrzow</link>
         <pubDate>Tue, 06 May 2025 20:00:00 GMT</pubDate>
         <description>Inter Mediolan został pierwszym finalistą Ligi Mistrzów, eliminując po rewanżowym półfinale Barcelonę.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Po Klasyku oficjalne ogłoszenie odejścia Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/139265-marca-po-klasyku-oficjalne-ogloszenie-odejscia-ancelottiego</link>
-        <pubDate>Tue, 06 May 2025 19:05:00 GMT</pubDate>
-        <description>Dziennik potwierdza doniesienia The Athletic. Do ogłoszenia ma dojść już w najbliższych dniach.</description>
     </item>
     
 </channel>
