@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 May 2025 07:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 07:42:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pechowy Gabriel Deck</title>
+        <link>https://www.realmadryt.pl/news/139272-pechowy-gabriel-deck</link>
+        <pubDate>Wed, 07 May 2025 09:30:00 GMT</pubDate>
+        <description>Gabriel Deck w pełni formy jest kluczowym zawodnikiem Realu Madryt zdolnym do robienia różnicy na parkiecie. Argentyńczyk nie potrafi jednak rozwinąć skrzydeł, bo gnębią go kontuzje.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Fankluby proszą Atlético o pozyskanie od UEFA filmiku z karnym Álvareza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139262-marca-joan-martinez-wrocil-do-treningow</link>
         <pubDate>Tue, 06 May 2025 18:24:00 GMT</pubDate>
         <description>Stoper stopniowo wraca do pracy z resztą kolegów z Juvenilu A.</description>
-    </item>
-    
-    <item>
-        <title>Club América lub Los Angeles FC zagrają w Klubowych Mistrzostwach Świata</title>
-        <link>https://www.realmadryt.pl/news/139261-club-america-lub-los-angeles-fc-zagraja-w-klubowych-mistrzostwach-swiata</link>
-        <pubDate>Tue, 06 May 2025 17:37:00 GMT</pubDate>
-        <description>Club América lub Los Angeles FC zajmą na Klubowych Mistrzostwach Świata miejsce Clubu León. Trybunał Arbitrażowy odrzucił odwołanie meksykańskiej drużyny.</description>
     </item>
     
 </channel>
