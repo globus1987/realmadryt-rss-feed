@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 May 2025 07:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 08:34:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hernández Hernández na Klasyk</title>
+        <link>https://www.realmadryt.pl/news/139278-hernandez-hernandez-na-klasyk</link>
+        <pubDate>Thu, 08 May 2025 10:11:00 GMT</pubDate>
+        <description>42-latek z Wysp Kanaryjskich poprowadzi niedzielny mecz Barcelony z Realem Madryt. Sędzią VAR będzie Juan Martínez Munuera.</description>
+    </item>
     
     <item>
         <title>Rodrygo w poważnych tarapatach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139300-dzisiejsze-okladki</link>
         <pubDate>Thu, 08 May 2025 00:42:00 GMT</pubDate>
         <description>Echa półfinałów Ligi Mistrzów to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Alba Berlin zamienia Euroligę na Ligę Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/139299-oficjalnie-alba-berlin-zamienia-eurolige-na-lige-mistrzow</link>
-        <pubDate>Wed, 07 May 2025 23:04:00 GMT</pubDate>
-        <description>Konflikt na linii Euroliga – FIBA trwa od wielu lat. Najświeższą informacją w tej sprawie jest decyzja Alby Berlin o opuszczeniu Euroligi po 24 latach współpracy.</description>
     </item>
     
 </channel>
