@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 May 2025 14:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 May 2025 15:29:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>List do dzieci z mojego kraju</title>
+        <link>https://www.realmadryt.pl/news/139317-list-do-dzieci-z-mojego-kraju</link>
+        <pubDate>Thu, 08 May 2025 17:17:00 GMT</pubDate>
+        <description>The Players' Tribune opublikowało list od Ardy Gülera skierowany do dzieci z jego kraju. Przedstawiamy pełne tłumaczenie.</description>
+    </item>
+    
+    <item>
+        <title>Tchouaméni i dziesięciu pozostałych</title>
+        <link>https://www.realmadryt.pl/news/139316-tchouameni-i-dziesieciu-pozostalych</link>
+        <pubDate>Thu, 08 May 2025 17:10:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni przebył w tym sezonie długą drogę od bycia wygwizdywanym przez własnych kibiców do jednego z kluczowych ogniw zespołu. Dziś Francuz jest jednym z najpewniejszych punktów ekipy Carlo Ancelottiego.</description>
+    </item>
     
     <item>
         <title>Zaskoczeni Carvajalem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139307-relevo-transfer-miguela-do-atletico-jest-niemozliwy-a-real-caly-czas-go-obserwuje</link>
         <pubDate>Thu, 08 May 2025 10:48:00 GMT</pubDate>
         <description>Lewy obrońca nie trafi na Metropolitano, ale może trafić na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Hernández Hernández na Klasyk</title>
-        <link>https://www.realmadryt.pl/news/139278-hernandez-hernandez-na-klasyk</link>
-        <pubDate>Thu, 08 May 2025 10:11:00 GMT</pubDate>
-        <description>42-latek z Wysp Kanaryjskich poprowadzi niedzielny mecz Barcelony z Realem Madryt. Sędzią VAR będzie Juan Martínez Munuera.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo w poważnych tarapatach</title>
-        <link>https://www.realmadryt.pl/news/139305-rodrygo-w-powaznych-tarapatach</link>
-        <pubDate>Thu, 08 May 2025 09:48:00 GMT</pubDate>
-        <description>Arda Güler wykorzystał słabą formę Brazylijczyka i wyprzedził go w hierarchii zespołu. W obliczu obecności Viníciusa, Mbappé i Bellinghama jego miejsce w wyjściowej jedenastce staje się coraz mniej pewne. Dla klubu jego sprzedaż wydaje się realną opcją.</description>
     </item>
     
 </channel>
