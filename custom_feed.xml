@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 May 2025 22:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 22:43:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139350-dzisiejsze-okladki</link>
+        <pubDate>Sat, 10 May 2025 00:26:00 GMT</pubDate>
+        <description>Ogłoszenie Xabiego Alonso i przygotowania do Klasyku to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 35. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139340-oficjalnie-xabi-alonso-odchodzi-z-bayeru-leverkusen</link>
         <pubDate>Fri, 09 May 2025 14:06:00 GMT</pubDate>
         <description>Bask potwierdził to sam podczas konferencji prasowej. Zrobił to także niemiecki klub za pośrednictwem swojej strony internetowej.</description>
-    </item>
-    
-    <item>
-        <title>Niemieckie media: Xabi Alonso opuszcza Bayer</title>
-        <link>https://www.realmadryt.pl/news/139339-niemieckie-media-xabi-alonso-opuszcza-bayer</link>
-        <pubDate>Fri, 09 May 2025 13:22:00 GMT</pubDate>
-        <description>Czołowe niemieckie media, w tym telewizja Sky Sport i magazyn Kicker przekazują, że Xabi Alonso obwieścił już włodarzom Bayeru decyzję o opuszczeniu klubu po zakończeniu sezonu.</description>
     </item>
     
 </channel>
