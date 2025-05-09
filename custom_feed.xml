@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 May 2025 03:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 03:55:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Xabi Alonso przejmie Real ze swoimi dwoma asystentami</title>
+        <link>https://www.realmadryt.pl/news/139325-marca-xabi-alonso-przejmie-real-ze-swoimi-dwoma-asystentami</link>
+        <pubDate>Fri, 09 May 2025 05:30:00 GMT</pubDate>
+        <description>Dziennik utrzymuje, że przyjście Baska jest dogadane. Teraz dodaje, że ten na pewno dołączy do drużyny z przynajmniej dwoma współpracownikami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139312-balde-i-eric-garcia-maja-byc-gotowi-na-klasyk</link>
         <pubDate>Thu, 08 May 2025 14:04:00 GMT</pubDate>
         <description>Boczny obrońca trenował dzisiaj z zespołem.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/139311-dzisiejszy-trening</link>
-        <pubDate>Thu, 08 May 2025 13:10:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
