@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 May 2025 10:47:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 11:20:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/139338-dzisiejszy-trening</link>
+        <pubDate>Fri, 09 May 2025 12:55:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Arne Slot: Po moim uśmiechu widzisz, że obaj wiemy, gdzie idzie Trent, ale oficjalnie jeszcze tego nie ogłoszono</title>
+        <link>https://www.realmadryt.pl/news/139337-arne-slot-po-moim-usmiechu-widzisz-ze-obaj-wiemy-gdzie-idzie-trent-ale-oficjalnie-jeszcze-tego-nie-ogloszono</link>
+        <pubDate>Fri, 09 May 2025 12:51:00 GMT</pubDate>
+        <description>Arne Slot wziął udział w konferencji prasowej przed niedzielnym spotkaniem Liverpoolu z Arsenalem. Trener The Reds był oczywiście pytany o decyzję Trenta Alexandra-Arnolda.</description>
+    </item>
     
     <item>
         <title>Real Madryt wspiera trenera Girony</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139328-ponowne-spotkanie-realu-madryt-z-sedziami-od-burzy-do-tymczasowego-spokoju</link>
         <pubDate>Fri, 09 May 2025 07:54:00 GMT</pubDate>
         <description>Komitet ds. reformy sędziowskiej zgromadził Królewskich (obecnych online), Javiera Tebasa, Gonzáleza Fuertesa i Hernándeza Hernándeza.</description>
-    </item>
-    
-    <item>
-        <title>Związek Piłkarzy rozmawia z graczami Realu Madryt o starcie kolejnego sezonu</title>
-        <link>https://www.realmadryt.pl/news/139322-zwiazek-pilkarzy-rozmawia-z-graczami-realu-madryt-o-starcie-kolejnego-sezonu</link>
-        <pubDate>Fri, 09 May 2025 07:50:00 GMT</pubDate>
-        <description>Rozpoczyna się planowanie kalendarza kolejnego sezonu. Dla Realu Madryt jego start może być trudniejszy z powodu udziału w Klubowym Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV o arbitrze na Klasyk: To od dziecka fan Barcelony [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/139324-real-madrid-tv-o-arbitrze-na-klasyk-to-od-dziecka-fan-barcelony-video</link>
-        <pubDate>Fri, 09 May 2025 07:00:00 GMT</pubDate>
-        <description>Klubowa telewizja odniosła się do obsady sędziowskiej na mecz Realu Madryt z Barceloną. Tym razem skupiono się na arbitrze głównym oraz arbitrze VAR.</description>
     </item>
     
 </channel>
