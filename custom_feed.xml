@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 May 2025 08:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 May 2025 09:27:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejne rozczarowanie Raula</title>
+        <link>https://www.realmadryt.pl/news/139332-kolejne-rozczarowanie-raula</link>
+        <pubDate>Fri, 09 May 2025 11:16:00 GMT</pubDate>
+        <description>Nie jest tajemnicą, że największym marzeniem Raula jest objęcie pierwszego zespołu. Sen byłego napastnika po raz kolejny jednak się nie ziści.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 9 maja</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139323-dzisiejsze-okladki</link>
         <pubDate>Fri, 09 May 2025 00:50:00 GMT</pubDate>
         <description>Awans Betisu do finału Ligi Konferencji i przygotowania Barcelony do Klasyku to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat Realu Madryt ws. wyboru papieża</title>
-        <link>https://www.realmadryt.pl/news/139321-oficjalny-komunikat-realu-madryt-ws-wyboru-papieza</link>
-        <pubDate>Thu, 08 May 2025 21:52:00 GMT</pubDate>
-        <description>Klub wystosował komunikat po wyborze nowego papieża. Przedstawiamy jego pełną treść.</description>
     </item>
     
 </channel>
