@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 May 2025 09:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 09:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klasyk pod kontrolą</title>
+        <link>https://www.realmadryt.pl/news/139365-klasyk-pod-kontrola</link>
+        <pubDate>Sat, 10 May 2025 11:52:00 GMT</pubDate>
+        <description>Około 700 funkcjonariuszy będzie czuwać nad bezpieczeństwem podczas meczu, na który nie jest spodziewana obecność radykalnych kibiców.</description>
+    </item>
     
     <item>
         <title>AS: Fran García planem na zatrzymanie Yamala</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139355-400-zl-za-poprawny-typ-na-zwyciezce-el-clasico</link>
         <pubDate>Sat, 10 May 2025 08:40:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Wyjazdowe potyczki z Barceloną nie takie straszne dla Realu</title>
-        <link>https://www.realmadryt.pl/news/139298-wyjazdowe-potyczki-z-barcelona-nie-takie-straszne-dla-realu</link>
-        <pubDate>Sat, 10 May 2025 08:30:00 GMT</pubDate>
-        <description>Bilans niedawnych wyjazdowych starć Realu z Barceloną jest bardzo pozytywny dla stołecznej drużyny.</description>
     </item>
     
 </channel>
