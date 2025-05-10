@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 May 2025 09:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 10:25:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bez narodowego wsparcia</title>
+        <link>https://www.realmadryt.pl/news/139366-bez-narodowego-wsparcia</link>
+        <pubDate>Sat, 10 May 2025 11:59:00 GMT</pubDate>
+        <description>W obecnym sezonie ligowym hiszpańscy piłkarze Realu Madryt zdołali zdobyć zaledwie dwie bramki. Jest to zdecydowanie najgorszy wynik w całej La Lidze.</description>
+    </item>
     
     <item>
         <title>Klasyk pod kontrolą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139358-xabi-wypycha-ancelottiego-ale-czas-nie-dziala-na-jego-korzysc</link>
         <pubDate>Sat, 10 May 2025 09:00:00 GMT</pubDate>
         <description>Przyjście szkoleniowca z Tolosy przybliża Włocha do objęcia reprezentacji Brazylii. Tamtejsza federacja zamyka sprawę i chce podpisać kontrakt z Ancelottim w przyszłym tygodniu, mimo pojawiających się ostatnio problemów natury prawnej.</description>
-    </item>
-    
-    <item>
-        <title>400 zł za poprawny typ na zwycięzcę El Clasico!</title>
-        <link>https://www.realmadryt.pl/news/139355-400-zl-za-poprawny-typ-na-zwyciezce-el-clasico</link>
-        <pubDate>Sat, 10 May 2025 08:40:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
