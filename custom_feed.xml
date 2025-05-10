@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 May 2025 22:22:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 May 2025 22:41:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139385-dzisiejsze-okladki</link>
+        <pubDate>Sun, 11 May 2025 00:28:00 GMT</pubDate>
+        <description>Ligowy Klasyk to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w stolicy Katalonii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139371-w-rekach-courtois</link>
         <pubDate>Sat, 10 May 2025 15:47:00 GMT</pubDate>
         <description>Przy zdziesiątkowanej defensywie Thibaut Courtois będzie musiał wspiąć się na wyżyny swoich umiejętności, by pomóc zespołowi osiągnąć korzystny wynik w meczu z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Być może Barcelona ma nieco większe szanse od nas, ale jeśli zagramy dobrze, wszystko pozostanie otwarte</title>
-        <link>https://www.realmadryt.pl/news/139369-ancelotti-byc-moze-barcelona-ma-nieco-wieksze-szanse-od-nas-ale-jesli-zagramy-dobrze-wszystko-pozostanie-otwarte</link>
-        <pubDate>Sat, 10 May 2025 15:37:00 GMT</pubDate>
-        <description>Carlo Ancelotti pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Barceloną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
