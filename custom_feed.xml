@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 May 2025 22:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 22:55:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139427-dzisiejsze-okladki</link>
+        <pubDate>Mon, 12 May 2025 00:53:00 GMT</pubDate>
+        <description>Ligowy Klasyk to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Opublikowano nagrania audio dotyczące zagrań ręką w Klasyku: „Całe szczęście”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139410-flick-nie-czujemy-sie-jeszcze-mistrzami</link>
         <pubDate>Sun, 11 May 2025 19:04:00 GMT</pubDate>
         <description>Niemiec zabrał głos po Klasyku i rozmawiał z telewizją Movistar. Przedstawiamy najważniejsze wypowiedzi trenera Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>FC Barcelona 4:3 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/139409-fc-barcelona-4-3-real-madryt-video</link>
-        <pubDate>Sun, 11 May 2025 18:48:00 GMT</pubDate>
-        <description>W meczu 35. kolejki La Ligi Real Madryt przegrał z Barceloną na wyjeździe. Trzy bramki dla Królewskich zdobył Kylian Mbappé.</description>
     </item>
     
 </channel>
