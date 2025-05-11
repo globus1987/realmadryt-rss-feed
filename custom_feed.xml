@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 May 2025 20:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 20:41:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Wiemy, że to pierwsze miejsce nic nie znaczy</title>
+        <link>https://www.realmadryt.pl/news/139420-mateo-wiemy-ze-to-pierwsze-miejsce-nic-nie-znaczy</link>
+        <pubDate>Sun, 11 May 2025 22:39:00 GMT</pubDate>
+        <description>Chus Mateo podsumował zwycięskie spotkanie z Breogánem. Powiedział, że zdaje sobie sprawę z tego, że wygranie sezonu zasadniczego przekłada się wyłącznie na przewagę własnego parkietu w play-offach.</description>
+    </item>
     
     <item>
         <title>Szczęsny: Zespoły strzelają nam na 2:0 i wiedzą, że zacznie się pod górkę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139407-lamine-yamal-idziemy-po-mistrzostwo</link>
         <pubDate>Sun, 11 May 2025 18:39:00 GMT</pubDate>
         <description>Lamine Yamal udzielił wywiadu z murawy dla telewizji Movistar+ po wygranym 4:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi gracza Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/139406-ocen-pilkarzy-po-meczu-z-barcelona</link>
-        <pubDate>Sun, 11 May 2025 18:33:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
