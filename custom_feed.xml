@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 May 2025 13:56:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 14:24:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>FC Barcelona – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/139405-fc-barcelona-real-madryt-live</link>
+        <pubDate>Sun, 11 May 2025 16:10:00 GMT</pubDate>
+        <description>Od 16:15 trwa mecz 35. kolejki La Ligi, w którym Barcelona podejmuje Real Madryt. Przed tym spotkaniem Katalończycy mieli cztery punkty przewagi nad Królewskimi.</description>
+    </item>
     
     <item>
         <title>Remis Królewskich, Barcelona z mistrzostwem Hiszpanii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139395-kartka-z-kalendarza-11-maja</link>
         <pubDate>Sun, 11 May 2025 09:39:00 GMT</pubDate>
         <description>Szósty Puchar Europy, porażka z Alexem Fergusonem, urodziny byłego i obecnego zawodnika oraz pierwszy ligowy występ Jerzego Dudka. Co działo się 11 maja?</description>
-    </item>
-    
-    <item>
-        <title>Gdzie obejrzeć Klasyk?</title>
-        <link>https://www.realmadryt.pl/news/139394-gdzie-obejrzec-klasyk</link>
-        <pubDate>Sun, 11 May 2025 09:31:00 GMT</pubDate>
-        <description>Przed nami ostatni Klasyk w tym sezonie, w którym Real Madryt zagra na wyjeździe z Barceloną. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
