@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 May 2025 07:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 07:40:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 maja</title>
+        <link>https://www.realmadryt.pl/news/139395-kartka-z-kalendarza-11-maja</link>
+        <pubDate>Sun, 11 May 2025 09:39:00 GMT</pubDate>
+        <description>Szósty Puchar Europy, porażka z Alexem Fergusonem, urodziny byłego i obecnego zawodnika oraz pierwszy ligowy występ Jerzego Dudka. Co działo się 11 maja?</description>
+    </item>
+    
+    <item>
+        <title>Gdzie obejrzeć Klasyk?</title>
+        <link>https://www.realmadryt.pl/news/139394-gdzie-obejrzec-klasyk</link>
+        <pubDate>Sun, 11 May 2025 09:31:00 GMT</pubDate>
+        <description>Przed nami ostatni Klasyk w tym sezonie, w którym Real Madryt zagra na wyjeździe z Barceloną. Gdzie obejrzeć to spotkanie?</description>
+    </item>
+    
+    <item>
+        <title>Co się gotuje w Barcelonie?</title>
+        <link>https://www.realmadryt.pl/news/139393-co-sie-gotuje-w-barcelonie</link>
+        <pubDate>Sun, 11 May 2025 09:27:00 GMT</pubDate>
+        <description>Ślepa wiara w Hansiego Flicka, kuszenie Fermína przez Arabię i opłacalne przyspieszenie wyborów przez Joana Laportę.</description>
+    </item>
     
     <item>
         <title>Kluczową rolę mogą odegrać stałe fragmenty</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/139382-ancelotti-jesli-zawodnicy-mnie-posluchaja-wszystko-pojdzie-dobrze</link>
         <pubDate>Sun, 11 May 2025 05:30:00 GMT</pubDate>
         <description>Carlo Ancelotti wziął udział w konferencji prasowej przed meczem z Barceloną. Poniżej przedstawiamy zapis tego spotkania Włocha z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/139385-dzisiejsze-okladki</link>
-        <pubDate>Sun, 11 May 2025 00:28:00 GMT</pubDate>
-        <description>Ligowy Klasyk to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w stolicy Katalonii</title>
-        <link>https://www.realmadryt.pl/news/139381-krolewscy-sa-juz-w-stolicy-katalonii</link>
-        <pubDate>Sat, 10 May 2025 20:55:00 GMT</pubDate>
-        <description>21 powołanych zawodników dotarło już do Barcelony, gdzie Królewscy zmierzą się jutro z Katalończykami.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Real nie zamierzał ruszać po Zubimendiego</title>
-        <link>https://www.realmadryt.pl/news/139380-relevo-real-nie-zamierzal-ruszac-po-zubimendiego</link>
-        <pubDate>Sat, 10 May 2025 19:15:00 GMT</pubDate>
-        <description>Real Madryt nie sprowadzi Marina Zubimendiego. Nie jest to jednak wyłącznie kwestia wcześniejszego porozumienia pomocnika z Arsenalem, zapewnia Relevo.</description>
     </item>
     
 </channel>
