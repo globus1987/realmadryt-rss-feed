@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 May 2025 04:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 05:25:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od Palanki do Víctora Muñoza</title>
+        <link>https://www.realmadryt.pl/news/139415-od-palanki-do-victora-munoza</link>
+        <pubDate>Mon, 12 May 2025 07:25:00 GMT</pubDate>
+        <description>Víctor Muñoz zadebiutował wczoraj w pierwszym zespole Realu Madryt, ale ten dzień nie będzie dla niego do końca udany. Wychowanek zmarnował okazję na zdobycie wyrównującej bramki w ostatniej minucie Klasyku.</description>
+    </item>
     
     <item>
         <title>Najlepszy debiutancki sezon w historii klubu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139413-pedri-w-aspekcie-odrabiania-strat-druzyna-bardzo-dobrze-sie-zmienila</link>
         <pubDate>Sun, 11 May 2025 19:41:00 GMT</pubDate>
         <description>Pedri González udzielił wypowiedzi dla telewizji Movistar+ po wygranym 4:3 spotkaniu z Realem Madryt. Przedstawiamy wypowiedzi pomocnika Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo mówił w ciągu tygodnia, że nie czuje się na siłach, by zagrać w Klasyku</title>
-        <link>https://www.realmadryt.pl/news/139412-rodrygo-mowil-w-ciagu-tygodnia-ze-nie-czuje-sie-na-silach-by-zagrac-w-klasyku</link>
-        <pubDate>Sun, 11 May 2025 19:33:00 GMT</pubDate>
-        <description>Brazylijczyk nie podniósł się nawet z ławki w meczu z Barceloną na Montjuïc.</description>
     </item>
     
 </channel>
