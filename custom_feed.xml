@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 May 2025 21:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 22:24:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139457-dzisiejsze-okladki</link>
+        <pubDate>Tue, 13 May 2025 00:10:00 GMT</pubDate>
+        <description>Przyjście Xabiego Alonso i odejście Carlo Ancelottiego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telesport: Musa dołączy do Dubaju</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139445-oficjalnie-vinicius-z-kontuzja-stawu-skokowego</link>
         <pubDate>Mon, 12 May 2025 16:39:00 GMT</pubDate>
         <description>Brazylijski atakujący wypada z gry i nie będzie mógł zagrać w najbliższych spotkaniach.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Carlo Ancelotti selekcjonerem reprezentacji Brazylii!</title>
-        <link>https://www.realmadryt.pl/news/139444-oficjalnie-carlo-ancelotti-selekcjonerem-reprezentacji-brazylii</link>
-        <pubDate>Mon, 12 May 2025 16:18:00 GMT</pubDate>
-        <description>Canarinhos potwierdzają podpisanie umowy z Włochem w mediach społecznościowych, choć o jego odejściu nie poinformował Real Madryt,</description>
     </item>
     
 </channel>
