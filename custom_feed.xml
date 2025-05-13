@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 May 2025 07:26:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 07:42:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 13 maja</title>
+        <link>https://www.realmadryt.pl/news/139460-kartka-z-kalendarza-13-maja</link>
+        <pubDate>Tue, 13 May 2025 09:27:00 GMT</pubDate>
+        <description>Pierwszy oficjalny mecz w historii, półfinały w Pucharze Europy, mistrzowska celebracja i urodziny jedynego oficjalnego stowarzyszenia Realu Madryt w Polsce. Co działo się 13 maja?</description>
+    </item>
     
     <item>
         <title>Radio MARCA: Rodrygo nie chce już więcej grać w Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139449-oficjalnie-signe-bruun-przedluzyla-kontrakt-do-2027-roku</link>
         <pubDate>Mon, 12 May 2025 19:17:00 GMT</pubDate>
         <description>Klub potwierdził, że duńska napastniczka pozostanie w Valdebebas przynajmniej do 30 czerwca 2027 roku.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni nie zagra z Mallorcą</title>
-        <link>https://www.realmadryt.pl/news/139448-tchouameni-nie-zagra-z-mallorca</link>
-        <pubDate>Mon, 12 May 2025 18:11:00 GMT</pubDate>
-        <description>W starciu z Barceloną trzech zawodników Realu Madryt otrzymało żółte kartki. Wśród nich był też Aurélien Tchouaméni, który był zagrożony pauzą, co oznacza, że Francuza zabraknie w środę w potyczce z Mallorcą.</description>
     </item>
     
 </channel>
