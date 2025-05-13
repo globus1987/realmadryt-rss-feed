@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 May 2025 22:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 22:44:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139487-dzisiejsze-okladki</link>
+        <pubDate>Wed, 14 May 2025 00:34:00 GMT</pubDate>
+        <description>Mecz Realu Madryt to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Podpisałbym się krwią pod 11 tytułami w ciągu 4 lat</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139470-kadra-na-mallorce</link>
         <pubDate>Tue, 13 May 2025 15:29:00 GMT</pubDate>
         <description>Carlo Ancelotti nie będzie mógł liczyć na dziesięciu zawodników pierwszego zespołu podczas spotkania z Mallorcą. Włoch powołał 21 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>„Problemem jest ocenianie historii przez pryzmat jej zakończenia”</title>
-        <link>https://www.realmadryt.pl/news/139472-problemem-jest-ocenianie-historii-przez-pryzmat-jej-zakonczenia</link>
-        <pubDate>Tue, 13 May 2025 15:17:00 GMT</pubDate>
-        <description>Joel del Río z Marki podzielił się swoimi odczuciami z odejścia Carlo Ancelottiego z Realu Madryt. Przedstawiamy przemyślenia dziennikarza.</description>
     </item>
     
 </channel>
