@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 May 2025 12:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 13:37:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Mallorcę</title>
+        <link>https://www.realmadryt.pl/news/139470-kadra-na-mallorce</link>
+        <pubDate>Tue, 13 May 2025 15:29:00 GMT</pubDate>
+        <description>Carlo Ancelotti nie będzie mógł liczyć na dziesięciu zawodników pierwszego zespołu podczas spotkania z Mallorcą. Włoch powołał 21 piłkarzy.</description>
+    </item>
+    
+    <item>
+        <title>„Problemem jest ocenianie historii przez pryzmat jej zakończenia”</title>
+        <link>https://www.realmadryt.pl/news/139472-problemem-jest-ocenianie-historii-przez-pryzmat-jej-zakonczenia</link>
+        <pubDate>Tue, 13 May 2025 15:17:00 GMT</pubDate>
+        <description>Joel del Río z Marki podzielił się swoimi odczuciami z odejścia Carlo Ancelottiego z Realu Madryt. Przedstawiamy przemyślenia dziennikarza.</description>
+    </item>
     
     <item>
         <title>Arrasate: Carlo to jeden z najlepszych trenerów w historii i z pewnością najlepszy w historii Realu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139461-marca-ancelotti-rozmawial-z-casemiro</link>
         <pubDate>Tue, 13 May 2025 09:44:00 GMT</pubDate>
         <description>Pomocnik Manchesteru United chciałby ponownie pracować pod okiem włoskiego szkoleniowca, ale tym razem w reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 13 maja</title>
-        <link>https://www.realmadryt.pl/news/139460-kartka-z-kalendarza-13-maja</link>
-        <pubDate>Tue, 13 May 2025 09:27:00 GMT</pubDate>
-        <description>Pierwszy oficjalny mecz w historii, półfinały w Pucharze Europy, mistrzowska celebracja i urodziny jedynego oficjalnego stowarzyszenia Realu Madryt w Polsce. Co działo się 13 maja?</description>
-    </item>
-    
-    <item>
-        <title>Radio MARCA: Rodrygo nie chce już więcej grać w Realu</title>
-        <link>https://www.realmadryt.pl/news/139459-radio-marca-rodrygo-nie-chce-juz-wiecej-grac-w-realu</link>
-        <pubDate>Tue, 13 May 2025 08:18:00 GMT</pubDate>
-        <description>Pod znakiem zapytania stanęła też przyszłość Viníciusa.</description>
     </item>
     
 </channel>
