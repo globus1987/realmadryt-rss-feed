@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 21:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 21:39:26 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – RCD Mallorca [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/139513-real-madryt-rcd-mallorca-live</link>
+        <title>Leo Román MVP meczu Realu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/139507-leo-roman-mvp-meczu-realu-z-mallorca</link>
+        <pubDate>Wed, 14 May 2025 23:38:00 GMT</pubDate>
+        <description>Bramkarz Mallorki został wyróżniony w przegranym przez jego zespół meczu z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>36. kolejka: Real obronił piłkę meczową</title>
+        <link>https://www.realmadryt.pl/news/139508-36-kolejka-real-obronil-pilke-meczowa</link>
+        <pubDate>Wed, 14 May 2025 23:29:00 GMT</pubDate>
+        <description>Po meczu Realu Madryt z Mallorcą Barcelona nie może jeszcze cieszyć się z mistrzostwa Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt wygrał z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/139513-real-madryt-wygral-z-mallorca</link>
         <pubDate>Wed, 14 May 2025 21:25:00 GMT</pubDate>
-        <description>Od 21:30 Real Madryt rozgrywa mecz 36. kolejki La Ligi przeciwko Mallorce.</description>
+        <description>Real Madryt wygrał w meczu 36. kolejki i w ten sposób utrzymał się w walce o mistrzostwo.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139502-telegraph-real-madryt-chce-przejac-trenta-wczesniej-ale-za-darmo</link>
         <pubDate>Wed, 14 May 2025 15:18:00 GMT</pubDate>
         <description>Królewscy skontaktowali się z Liverpoolem w sprawie wcześniejszego przejęcia obrońcy. Anglicy podają, że nie zaproponował za to jednak żadnego rekompensaty, jak podawano w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Arango: Xabi nada Realowi Madryt nowy styl</title>
-        <link>https://www.realmadryt.pl/news/139496-arango-xabi-nada-realowi-madryt-nowy-styl</link>
-        <pubDate>Wed, 14 May 2025 15:00:00 GMT</pubDate>
-        <description>Juan Arango to żywa legenda Mallorki i trzeci najlepszy strzelec w historii klubu. Podczas swojej przygody na Balearach czterokrotnie był w stanie pokonać Real Madryt, a teraz w przeddzień starcia swojego byłego klubu właśnie z Królewskimi udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Dani Rodríguez: Asencio to kawał piłkarza</title>
-        <link>https://www.realmadryt.pl/news/139501-dani-rodriguez-asencio-to-kawal-pilkarza</link>
-        <pubDate>Wed, 14 May 2025 14:27:00 GMT</pubDate>
-        <description>Pomocnik Mallorki, Dani Rodríguez, udzielił wywiadu dziennikowi MARCA w przeddzień meczu z Realem Madryt na Santiago Bernabéu. Poniżej przedstawiamy zapis tej rozmowy.</description>
     </item>
     
 </channel>
