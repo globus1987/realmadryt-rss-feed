@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 07:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 07:55:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś odbędzie się mecz</title>
+        <link>https://www.realmadryt.pl/news/139480-dzis-odbedzie-sie-mecz</link>
+        <pubDate>Wed, 14 May 2025 09:45:00 GMT</pubDate>
+        <description>Nie dla psa kiełbasa.</description>
+    </item>
     
     <item>
         <title>Real Madryt musi dzisiaj uważać, by… nie przegrać walkowerem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139482-wlosi-potwierdzaja-real-na-czele-wyscigu-po-huijsena-decyzja-nawet-w-ciagu-najblizszych-godzin</link>
         <pubDate>Tue, 13 May 2025 19:40:00 GMT</pubDate>
         <description>Obóz włoskiego dziennikarza transferowego przekazał najnowsze informacje w sprawie Deana Huijsena.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City wchodzi do walki o Wirtza</title>
-        <link>https://www.realmadryt.pl/news/139481-manchester-city-wchodzi-do-walki-o-wirtza</link>
-        <pubDate>Tue, 13 May 2025 19:29:00 GMT</pubDate>
-        <description>Niemieckie źródła twierdzą, że Anglicy weszli do gry o pozyskanie atakującego Bayeru Leverkusen. Cały czas w kontekście tego transferu wymienia się Real Madryt.</description>
     </item>
     
 </channel>
