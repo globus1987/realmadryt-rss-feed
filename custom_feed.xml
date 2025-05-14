@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 21:39:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 21:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jacobo: To coś niewytłumaczalnego</title>
+        <link>https://www.realmadryt.pl/news/139515-jacobo-to-cos-niewytlumaczalnego</link>
+        <pubDate>Wed, 14 May 2025 23:41:00 GMT</pubDate>
+        <description>Jacobo Ramón udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Mallorcą. Przedstawiamy wypowiedzi autora zwycięskiej bramki dla Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/139506-ocen-pilkarzy-po-meczu-z-mallorca</link>
+        <pubDate>Wed, 14 May 2025 23:41:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
     
     <item>
         <title>Leo Román MVP meczu Realu z Mallorcą</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139504-real-madryt-zaprezentowal-madrid-innovation-district</link>
         <pubDate>Wed, 14 May 2025 16:22:00 GMT</pubDate>
         <description>Prezes Realu Madryt zaprezentował nową inicjatywę, która ma zająć część klubowych terenów w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Brahim może nie zagrać z Mallorcą, a Real może przegrać walkowerem</title>
-        <link>https://www.realmadryt.pl/news/139503-marca-brahim-moze-nie-zagrac-z-mallorca-a-real-moze-przegrac-walkowerem</link>
-        <pubDate>Wed, 14 May 2025 16:02:00 GMT</pubDate>
-        <description>Tego jeszcze nie grali.</description>
-    </item>
-    
-    <item>
-        <title>Telegraph: Real Madryt chce przejąć Trenta wcześniej… ale za darmo</title>
-        <link>https://www.realmadryt.pl/news/139502-telegraph-real-madryt-chce-przejac-trenta-wczesniej-ale-za-darmo</link>
-        <pubDate>Wed, 14 May 2025 15:18:00 GMT</pubDate>
-        <description>Królewscy skontaktowali się z Liverpoolem w sprawie wcześniejszego przejęcia obrońcy. Anglicy podają, że nie zaproponował za to jednak żadnego rekompensaty, jak podawano w Hiszpanii.</description>
     </item>
     
 </channel>
