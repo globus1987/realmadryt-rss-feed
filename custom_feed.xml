@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 05:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 05:57:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Premier League bije się o Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/139492-premier-league-bije-sie-o-rodrygo</link>
+        <pubDate>Wed, 14 May 2025 07:53:00 GMT</pubDate>
+        <description>Jego możliwe odejście latem ponownie rozbudza zainteresowanie w Anglii. Manchester City już sondował sytuację, podoba się Arsenalowi, a Manchester United i Chelsea potrzebują wzmocnień w ofensywie.</description>
+    </item>
+    
+    <item>
+        <title>Tebas: W przypadku Barcelony doszło do korupcji sportowej</title>
+        <link>https://www.realmadryt.pl/news/139489-tebas-w-przypadku-barcelony-doszlo-do-korupcji-sportowej</link>
+        <pubDate>Wed, 14 May 2025 07:50:00 GMT</pubDate>
+        <description>Javier Tebas był gościem Komisji Sportu w Kongresie Deputowanych. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi na temat przyszłości hiszpańskiego futbolu.</description>
+    </item>
     
     <item>
         <title>Vinícius i widmo oferty z Arabii</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139478-oficjalnie-nfl-potwierdza-date-i-zestawienie-swojego-meczu-na-bernabeu</link>
         <pubDate>Tue, 13 May 2025 17:40:00 GMT</pubDate>
         <description>Amerykanie potwierdzili datę i zestawienie meczu ich ligi, który odbędzie się na stadionie Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Espanyol to nie rezerwowa drużyna Realu</title>
-        <link>https://www.realmadryt.pl/news/139477-espanyol-to-nie-rezerwowa-druzyna-realu</link>
-        <pubDate>Tue, 13 May 2025 17:38:00 GMT</pubDate>
-        <description>Wobec zbliżających się derbów Barcelony, AS chce obalić mit, jakoby Espanyol był drużyną blisko związaną z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>The Telegraph: Real wyprzedza Chelsea w wyścigu o Huijsena</title>
-        <link>https://www.realmadryt.pl/news/139475-the-telegraph-real-wyprzedza-chelsea-w-wyscigu-o-huijsena</link>
-        <pubDate>Tue, 13 May 2025 16:07:00 GMT</pubDate>
-        <description>Środkowy obrońca Bournemouth zwrócił uwagę największych klubów Europy po znakomitym sezonie pod wodzą Andoniego Iraoli.</description>
     </item>
     
 </channel>
