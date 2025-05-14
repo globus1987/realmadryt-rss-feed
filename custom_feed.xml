@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 19:20:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 19:39:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – RCD Mallorca [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/139513-real-madryt-rcd-mallorca-live</link>
+        <pubDate>Wed, 14 May 2025 21:25:00 GMT</pubDate>
+        <description>Od 21:30 Real Madryt rozgrywa mecz 36. kolejki La Ligi przeciwko Mallorce.</description>
+    </item>
     
     <item>
         <title>MARCA: Huijsen zostanie piłkarzem Realu Madryt!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139501-dani-rodriguez-asencio-to-kawal-pilkarza</link>
         <pubDate>Wed, 14 May 2025 14:27:00 GMT</pubDate>
         <description>Pomocnik Mallorki, Dani Rodríguez, udzielił wywiadu dziennikowi MARCA w przeddzień meczu z Realem Madryt na Santiago Bernabéu. Poniżej przedstawiamy zapis tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Dziś najgorsza frekwencja na Bernabéu w tym sezonie</title>
-        <link>https://www.realmadryt.pl/news/139500-marca-dzis-najgorsza-frekwencja-na-bernabeu-w-tym-sezonie</link>
-        <pubDate>Wed, 14 May 2025 13:54:00 GMT</pubDate>
-        <description>Po niedzielnej porażce z Barceloną Real Madryt nie ma praktycznie żadnych szans na obronę mistrzowskiego tytułu, co odbije się na frekwencji podczas dzisiejszego spotkania z Mallorcą. Szacuje się, że na Bernabéu przyjdzie około 55 tysięcy kibiców.</description>
     </item>
     
 </channel>
