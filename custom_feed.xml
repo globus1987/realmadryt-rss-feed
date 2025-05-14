@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 22:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 22:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139519-dzisiejsze-okladki</link>
+        <pubDate>Thu, 15 May 2025 00:45:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i derby Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Lekka ręka i bicz to ogromne głupoty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139510-real-madryt-mallorca-znamy-sklady</link>
         <pubDate>Wed, 14 May 2025 19:37:00 GMT</pubDate>
         <description>Wiemy, kto wystąpi od pierwszej minuty w meczu La Ligi z Mallorcą. Mecz rozpocznie się o godzinie 21:30 na Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj sędziuje arbiter, który tylko w tym sezonie nie odgwizdał Realowi 6 karnych [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/139509-dzisiaj-sedziuje-arbiter-ktory-tylko-w-tym-sezonie-nie-odgwizdal-realowi-6-karnych-video</link>
-        <pubDate>Wed, 14 May 2025 18:43:00 GMT</pubDate>
-        <description>Klubowa telewizja oczywiście przyjrzała się obsadzie sędziowskiej na dzisiejszy mecz Realu Madryt.</description>
     </item>
     
 </channel>
