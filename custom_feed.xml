@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 May 2025 23:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 02:01:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chiringuito: Transfer Huijsena nie jest jeszcze domknięty, ale jest blisko</title>
+        <link>https://www.realmadryt.pl/news/139522-chiringuito-transfer-huijsena-nie-jest-jeszcze-domkniety-ale-jest-blisko</link>
+        <pubDate>Thu, 15 May 2025 03:39:00 GMT</pubDate>
+        <description>W nocnym telewizyjnym Chiringuito przekazano najnowsze informacje w sprawie 20-letniego stopera.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139511-media-transferowe-real-rozpoczal-rozmowy-z-bournemouth-ws-huijsena</link>
         <pubDate>Wed, 14 May 2025 19:55:00 GMT</pubDate>
         <description>Media z Hiszpanii i Włoch informują, że Real Madryt rozpoczął rozmowy w sprawie wykupu stopera.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Mallorca: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/139510-real-madryt-mallorca-znamy-sklady</link>
-        <pubDate>Wed, 14 May 2025 19:37:00 GMT</pubDate>
-        <description>Wiemy, kto wystąpi od pierwszej minuty w meczu La Ligi z Mallorcą. Mecz rozpocznie się o godzinie 21:30 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
