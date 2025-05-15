@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 May 2025 07:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 07:42:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 maja</title>
+        <link>https://www.realmadryt.pl/news/139517-kartka-z-kalendarza-15-maja</link>
+        <pubDate>Thu, 15 May 2025 09:30:00 GMT</pubDate>
+        <description>Spektakularny strzał Zinédine'a Zidane'a i dziewiąty Puchar Europy dla Realu Madryt, a także piękne pożegnanie Pirriego, rekord Cristiano Ronaldo oraz… mistrzostwo Castilli. Co działo się 15 maja?</description>
+    </item>
     
     <item>
         <title>Ancelotti w Brazylii potwierdzeniem wielkości włoskiej myśli szkoleniowej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139506-ocen-pilkarzy-po-meczu-z-mallorca</link>
         <pubDate>Wed, 14 May 2025 23:41:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Leo Román MVP meczu Realu z Mallorcą</title>
-        <link>https://www.realmadryt.pl/news/139507-leo-roman-mvp-meczu-realu-z-mallorca</link>
-        <pubDate>Wed, 14 May 2025 23:38:00 GMT</pubDate>
-        <description>Bramkarz Mallorki został wyróżniony w przegranym przez jego zespół meczu z Realem Madryt.</description>
     </item>
     
 </channel>
