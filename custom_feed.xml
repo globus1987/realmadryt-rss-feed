@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 May 2025 22:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 23:25:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139547-dzisiejsze-okladki</link>
+        <pubDate>Fri, 16 May 2025 01:04:00 GMT</pubDate>
+        <description>Zdobycie mistrzostwa Hiszpanii przez Barcelonę to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt pogratulował Barcelonie mistrzostwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139534-rok-wiezienia-zakaz-pelnienia-funkcji-publicznych-i-grzywny-dla-kibicow-ktorzy-nazwali-viniciusa-pie-olonym-czarnuchem</link>
         <pubDate>Thu, 15 May 2025 13:51:00 GMT</pubDate>
         <description>Oskarżeni kierowali różen obelgi, gdy zawodnik schodził z boiska i zmierzał w kierunku ławki rezerwowych.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Álvaro Carreras priorytetowym celem na lewą obronę</title>
-        <link>https://www.realmadryt.pl/news/139533-marca-alvaro-carreras-priorytetowym-celem-na-lewa-obrone</link>
-        <pubDate>Thu, 15 May 2025 12:51:00 GMT</pubDate>
-        <description>Królewscy chcą pozyskać piłkarza Benfiki.</description>
     </item>
     
 </channel>
