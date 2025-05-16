@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 May 2025 09:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 10:27:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak wygląda wyścig Real Madryt z Barceloną na trofea?</title>
+        <link>https://www.realmadryt.pl/news/139556-jak-wyglada-wyscig-real-madryt-z-barcelona-na-trofea</link>
+        <pubDate>Fri, 16 May 2025 11:51:00 GMT</pubDate>
+        <description>Barcelona zdobyła 28. mistrzostwo Hiszpanii w swojej historii. Real Madryt ma ich na koncie 36. A jak ma się sprawa wyścigu ze wszystkimi tytułami?</description>
+    </item>
     
     <item>
         <title>Ile pieniędzy Real Madryt otrzyma za wicemistrzostwo Hiszpanii?</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>Oficjalnie: Mecz z Sevillą przesunięty na poniedziałek</title>
-        <link>https://www.realmadryt.pl/news/139554-oficjalnie-mecz-z-sevilla-przesuniety-na-poniedzialek</link>
+        <title>Mecz z Sevillą przesunięty na poniedziałek? [NOWA AKTUALIZACJA]</title>
+        <link>https://www.realmadryt.pl/news/139554-mecz-z-sevilla-przesuniety-na-poniedzialek-nowa-aktualizacja</link>
         <pubDate>Fri, 16 May 2025 11:33:00 GMT</pubDate>
         <description>Królewscy nie grają już praktycznie o nic, a w bardzo podobnej sytuacji jest Sevilla. W związku z tym najbliższa potyczka między tymi zespołami zostanie rozegrana w innym terminie, niż pierwotnie zakładano.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139547-dzisiejsze-okladki</link>
         <pubDate>Fri, 16 May 2025 01:04:00 GMT</pubDate>
         <description>Zdobycie mistrzostwa Hiszpanii przez Barcelonę to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt pogratulował Barcelonie mistrzostwa</title>
-        <link>https://www.realmadryt.pl/news/139544-real-madryt-pogratulowal-barcelonie-mistrzostwa</link>
-        <pubDate>Thu, 15 May 2025 23:47:00 GMT</pubDate>
-        <description>Klub wystosował gratulacje dla nowego mistrza Hiszpanii kilka minut po zdobyciu przez niego tytułu.</description>
     </item>
     
 </channel>
