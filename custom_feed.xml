@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 May 2025 21:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 May 2025 22:24:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139574-dzisiejsze-okladki</link>
+        <pubDate>Sat, 17 May 2025 00:00:00 GMT</pubDate>
+        <description>Triumf Hiszpana w kolarskim Giro d'Italia, plany transferowe Realu Madryt i świętowanie Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Klątwa, która trwa już niemal dwie dekady</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139558-przynajmniej-dziesieciu-pilkarzy-realu-madryt-nie-trenowalo-z-grupa</link>
         <pubDate>Fri, 16 May 2025 13:50:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Hugo González odrzucił ofertę na milion dolarów, żeby zostać w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/139559-hugo-gonzalez-odrzucil-oferte-na-milion-dolarow-zeby-zostac-w-realu-madryt</link>
-        <pubDate>Fri, 16 May 2025 13:15:00 GMT</pubDate>
-        <description>Hugo González mógł podzielić los wielu innych młodych zawodników, którzy na wczesnym etapie odeszli z Realu Madryt. Postanowił jednak odrzucić korzystną ekonomicznie ofertę i zostać w stolicy Hiszpanii.</description>
     </item>
     
 </channel>
