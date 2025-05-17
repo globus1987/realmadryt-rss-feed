@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 May 2025 21:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 22:22:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139602-dzisiejsze-okladki</link>
+        <pubDate>Sun, 18 May 2025 00:17:00 GMT</pubDate>
+        <description>Kolejka La Ligi i transfer Deana Huijsena to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Nie sądzę, że zimowe transfery zmieniłyby ten sezon</title>
+        <link>https://www.realmadryt.pl/news/139586-ancelotti-nie-sadze-ze-zimowe-transfery-zmienilyby-ten-sezon</link>
+        <pubDate>Sun, 18 May 2025 00:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Sevillą w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Sevillę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139581-dziesieciu-pilkarzy-realu-madryt-nie-trenowalo-z-grupa</link>
         <pubDate>Sat, 17 May 2025 12:33:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Dean Huijsen piłkarzem Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/139583-oficjalnie-dean-huijsen-pilkarzem-realu-madryt</link>
-        <pubDate>Sat, 17 May 2025 12:05:00 GMT</pubDate>
-        <description>Klub potwierdził pozyskanie 20-letniego stopera.</description>
-    </item>
-    
-    <item>
-        <title>Zakończenie sezonu Castilli na Di Stéfano</title>
-        <link>https://www.realmadryt.pl/news/139580-zakonczenie-sezonu-castilli-na-di-stefano</link>
-        <pubDate>Sat, 17 May 2025 11:27:00 GMT</pubDate>
-        <description>W 37. kolejce Primera Federación Castilla podejmie Fuenlabradę. Będzie to ostatnie spotkanie rezerw w tym sezonie na stadionie Alfredo Di Stéfano.</description>
     </item>
     
 </channel>
