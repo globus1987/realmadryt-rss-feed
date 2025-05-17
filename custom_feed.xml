@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 May 2025 07:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 May 2025 07:39:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 17 maja</title>
+        <link>https://www.realmadryt.pl/news/139566-kartka-z-kalendarza-17-maja</link>
+        <pubDate>Sat, 17 May 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, inauguracja nowego stadionu, koniec kariery pierwszego galáctico, ostatni przegrany finał, koszykarski Puchar Europy, ważna wygrana w Vigo i lanie w Manchesterze. Co działo się 17 maja?</description>
+    </item>
     
     <item>
         <title>Busquets Ferrer na Sevillę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139564-xabi-alonso-ogloszenie-nowego-klubu-na-wszystko-przychodzi-odpowiedni-moment</link>
         <pubDate>Fri, 16 May 2025 15:46:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się na konferencji prasowej przed meczem Bayeru z Mainz. Przedstawiamy najważniejsze wypowiedzi trenera, który według mediów od czerwca ma objąć Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Wątpliwości wokół przyszłości Modricia</title>
-        <link>https://www.realmadryt.pl/news/139563-watpliwosci-wokol-przyszlosci-modricia</link>
-        <pubDate>Fri, 16 May 2025 14:53:00 GMT</pubDate>
-        <description>Luka Modrić chce zostać w Realu Madryt na sezon 2025/26. Tegoroczne liczby w wykonaniu Chorwata oraz potencjalne braki w środku pola pokazują, że Real Madryt raczej nie może sobie pozwolić na tę stratę. Ostateczna decyzja należeć będzie do Xabiego Alonso.</description>
     </item>
     
 </channel>
