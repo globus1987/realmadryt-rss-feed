@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 May 2025 19:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 20:25:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sevilla FC 0:2 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/139627-sevilla-fc-0-2-real-madryt-video</link>
+        <pubDate>Sun, 18 May 2025 22:07:00 GMT</pubDate>
+        <description>Real Madryt wygrał na wyjeździe z Sevillą w 37. kolejce La Ligi. Gole zdobywali Kylian Mbappé i Jude Bellingham.</description>
+    </item>
     
     <item>
         <title>Fede: Kiedy zakładasz tę koszulkę, to musisz bronić jej z ogromną dumą i honorem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139612-sevilla-real-madryt-znamy-sklady</link>
         <pubDate>Sun, 18 May 2025 17:16:00 GMT</pubDate>
         <description>Carlo Ancelotti odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu La Ligi. Mecz rozpocznie się o godzinie 19:00 na Estadio Ramón Sánchez Pizjuán.</description>
-    </item>
-    
-    <item>
-        <title>Juvenil A pokonał Athletic i zagra w turnieju finałowym Pucharu Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/139616-juvenil-a-pokonal-athletic-i-zagra-w-turnieju-finalowym-pucharu-mistrzow</link>
-        <pubDate>Sun, 18 May 2025 16:30:00 GMT</pubDate>
-        <description>Drużyna Realu Madryt do lat 19 wygrała z Athletikiem i pojedzie na turniej finałowy w Pucharze  Mistrzów. Po raz ostatni Królewscy zdobyli ten tytuł w 2023 roku. Rok temu tryumfowało Atlético, które tym razem nie zakwalifikowało się do play-offów.</description>
     </item>
     
 </channel>
