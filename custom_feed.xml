@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 May 2025 13:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 13:44:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Raúl: Jestem gotowy na każde wyzwanie</title>
+        <link>https://www.realmadryt.pl/news/139615-raul-jestem-gotowy-na-kazde-wyzwanie</link>
+        <pubDate>Sun, 18 May 2025 15:31:00 GMT</pubDate>
+        <description>Raúl González Blanco rozmawiał z dziennikarzami po ostatnim domowym meczu Castilli w tym sezonie. Szkoleniowiec rezerw mówił m.in. o swojej przyszłości, możliwym przyjściu Xabiego Alonso i rozmowie z Víctorem Muñozem na temat zmarnowanej sytuacji w meczu z Barceloną oraz hejcie, jaki wylał się na zawodnika.</description>
+    </item>
     
     <item>
         <title>600. meczów Tavaresa w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139605-mecz-z-realem-okazja-do-protestu</link>
         <pubDate>Sun, 18 May 2025 10:55:00 GMT</pubDate>
         <description>Stadion będzie otwarty przez cały mecz, jednak istnieją obawy, że spotkanie może zostać przerwane, co mogłoby skutkować częściowym lub całkowitym zamknięciem Sánchez-Pizjuán.</description>
-    </item>
-    
-    <item>
-        <title>Buntownik, który stał się legendą</title>
-        <link>https://www.realmadryt.pl/news/139604-buntownik-ktory-stal-sie-legenda</link>
-        <pubDate>Sun, 18 May 2025 10:41:00 GMT</pubDate>
-        <description>Przed meczem z Sevillą MARCA jak zawsze bierze na tapet historię jednego z zawodników Królewskich z dawnych lat. Dziś wybór padł na Chusa Alonso.</description>
     </item>
     
 </channel>
