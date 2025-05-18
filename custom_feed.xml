@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 May 2025 20:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 21:21:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/139634-pichichi-zamora-asistencias</link>
+        <pubDate>Sun, 18 May 2025 23:19:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 37. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Terminarz 38. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139618-real-madryt-wygral-z-sevilla</link>
         <pubDate>Sun, 18 May 2025 18:55:00 GMT</pubDate>
         <description>Królewscy zdobyli trzy punkty w ostatnim wyjazdowym meczu La Ligi w tym sezonie. Gole zdobywali Kylian Mbappé i Jude Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Sevillą [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/139614-rozgrzewka-przed-sevilla-video</link>
-        <pubDate>Sun, 18 May 2025 18:15:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Estadio Ramón Sánchez Pizjuán, gdzie za kilkadziesiąt minut zaczną mecz z Sevillą. Pierwszy gwizdek arbitra wybrzmi o 19:00.</description>
     </item>
     
 </channel>
