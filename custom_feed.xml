@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 May 2025 22:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 May 2025 22:42:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139635-dzisiejsze-okladki</link>
+        <pubDate>Mon, 19 May 2025 00:37:00 GMT</pubDate>
+        <description>Ligowe wyniki to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139621-real-madryt-c-zostaje-w-czwartej-lidze</link>
         <pubDate>Sun, 18 May 2025 20:53:00 GMT</pubDate>
         <description>Trzecia drużyna Realu Madryt dwukrotnie pokonała Villanovense w barażu o utrzymanie w Segunda Federación. Dzięki temu Królewskim udało się uniknąć spadku w debiutanckim sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt wygrał z Sevillą</title>
-        <link>https://www.realmadryt.pl/news/139618-real-madryt-wygral-z-sevilla</link>
-        <pubDate>Sun, 18 May 2025 18:55:00 GMT</pubDate>
-        <description>Królewscy zdobyli trzy punkty w ostatnim wyjazdowym meczu La Ligi w tym sezonie. Gole zdobywali Kylian Mbappé i Jude Bellingham.</description>
     </item>
     
 </channel>
