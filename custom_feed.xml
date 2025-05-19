@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 May 2025 21:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 22:25:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139652-dzisiejsze-okladki</link>
+        <pubDate>Tue, 20 May 2025 00:23:00 GMT</pubDate>
+        <description>Plany Realu Madryt i Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Twój dom na ciebie czeka”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139640-krolewscy-otrzymali-dwa-dni-wolnego</link>
         <pubDate>Mon, 19 May 2025 12:50:00 GMT</pubDate>
         <description>Królewscy wrócą do pracy w środę. Na ten moment prawie połowa graczy zmaga się z problemami fizycznymi.</description>
-    </item>
-    
-    <item>
-        <title>Rodri: Są świetni zawodnicy, którzy obrażają rywala, prowokują, narzekają i symulują</title>
-        <link>https://www.realmadryt.pl/news/139639-rodri-sa-swietni-zawodnicy-ktorzy-obrazaja-rywala-prowokuja-narzekaja-i-symuluja</link>
-        <pubDate>Mon, 19 May 2025 11:29:00 GMT</pubDate>
-        <description>Październikowa Złota Piłka spotkała się El País przed swoim powrotem do gry po poważnej kontuzji kolana. W rozmowie wystosował niesprecyzowany atak w kierunku zawodników, którzy „obrażają, prowokują i narzekają”.</description>
     </item>
     
 </channel>
