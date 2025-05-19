@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 May 2025 10:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 11:21:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy otrzymali dwa dni wolnego</title>
+        <link>https://www.realmadryt.pl/news/139640-krolewscy-otrzymali-dwa-dni-wolnego</link>
+        <pubDate>Mon, 19 May 2025 12:50:00 GMT</pubDate>
+        <description>Królewscy wrócą do pracy w środę. Na ten moment prawie połowa graczy zmaga się z problemami fizycznymi.</description>
+    </item>
     
     <item>
         <title>Rodri: Są świetni zawodnicy, którzy obrażają rywala, prowokują, narzekają i symulują</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139634-pichichi-zamora-asistencias</link>
         <pubDate>Sun, 18 May 2025 23:19:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 37. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 38. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/139631-terminarz-38-kolejki-la-ligi</link>
-        <pubDate>Sun, 18 May 2025 22:49:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz ostatniej serii gier w tym sezonie, w której Real Madryt zmierzy się z Realem Sociedad.</description>
     </item>
     
 </channel>
