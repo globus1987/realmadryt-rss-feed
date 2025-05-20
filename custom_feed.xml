@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 May 2025 16:32:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 May 2025 16:56:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wątpliwości Łunina</title>
+        <link>https://www.realmadryt.pl/news/139670-watpliwosci-lunina</link>
+        <pubDate>Tue, 20 May 2025 18:38:00 GMT</pubDate>
+        <description>Po świetnym sezonie 2023/24 pod koniec kampanii 2024/25 sytuacja Andrija Łunina ponownie budzi wątpliwości. Ukrainiec musi zdecydować, czy chce pozostać w cieniu Courtois, czy jednak poszukać nowego pracodawcy.</description>
+    </item>
     
     <item>
         <title>Fernando Sanz: Ancelotti był najlepszym możliwym rzecznikiem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139659-oceny-zawodnikow-po-meczu-z-sevilla</link>
         <pubDate>Tue, 20 May 2025 10:14:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Sevillą 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>AS: Xabi chce, żeby Modrić został w klubie</title>
-        <link>https://www.realmadryt.pl/news/139658-as-xabi-chce-zeby-modric-zostal-w-klubie</link>
-        <pubDate>Tue, 20 May 2025 09:33:00 GMT</pubDate>
-        <description>Przyszły trener dał zielone światło na jego pozostanie. Świetna forma i niezawodność Chorwata wciąż sprawiają, że jest ważną postacią. Modrić będzie musiał ponownie zgodzić się na obniżkę pensji.</description>
     </item>
     
 </channel>
