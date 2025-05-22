@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 May 2025 10:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 May 2025 10:47:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Melero López na Real Sociedad</title>
+        <link>https://www.realmadryt.pl/news/139710-melero-lopez-na-real-sociedad</link>
+        <pubDate>Thu, 22 May 2025 12:46:00 GMT</pubDate>
+        <description>45-letni sędzia z Andaluzji poprowadzi mecz Realu Madryt z Realem Sociedad. Sędzią VAR będzie za to Jorge Figueroa Vázquez.</description>
+    </item>
     
     <item>
         <title>Dlaczego Bellingham przejdzie operację barku dopiero latem?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139701-dzisiejsze-okladki</link>
         <pubDate>Thu, 22 May 2025 00:29:00 GMT</pubDate>
         <description>Plany Realu Madryt, finał Ligi Europy i nowy kontrakt Hansiego Flicka to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Tottenham wygrywa Ligę Europy i wchodzi do kolejnej Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/139698-tottenham-wygrywa-lige-europy-i-wchodzi-do-kolejnej-ligi-mistrzow</link>
-        <pubDate>Wed, 21 May 2025 22:58:00 GMT</pubDate>
-        <description>Koguty wygrały wewnętrzny angielski finał w Bilbao i zostały 24. ekipą z pewnym awansem do kolejnej Ligi Mistrzów.</description>
     </item>
     
 </channel>
