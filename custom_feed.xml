@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 May 2025 07:42:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 07:55:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 maja</title>
+        <link>https://www.realmadryt.pl/news/139719-kartka-z-kalendarza-23-maja</link>
+        <pubDate>Fri, 23 May 2025 09:50:00 GMT</pubDate>
+        <description>Urodziny legendy, długo wyczekiwane mistrzostwo Hiszpanii, transfery młodych skrzydłowych i mecz pełny pożegnań… ale nie tylko. Co działo się 23 maja?</description>
+    </item>
     
     <item>
         <title>MARCA: Florentino poinformował zarząd o decyzjach ws. Ancelottiego, Modricia i Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139722-bellingham-do-modricia-bedzie-mi-ciebie-bardzo-brakowac</link>
         <pubDate>Thu, 22 May 2025 17:58:00 GMT</pubDate>
         <description>Jude Bellingham wystosował pożegnalny wpis po informacji o odejściu Luki Modricia. Przedstawiamy jego tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Relevo: Raúl wkrótce ogłosi odejście z Castilli</title>
-        <link>https://www.realmadryt.pl/news/139721-relevo-raul-wkrotce-oglosi-odejscie-z-castilli</link>
-        <pubDate>Thu, 22 May 2025 17:48:00 GMT</pubDate>
-        <description>Jak informują Jorge Picón i Alfredo Matilla z portalu Relevo, Raúl zakomunikował swojemu otoczeniu, że po sześciu latach opuści Castillę.</description>
     </item>
     
 </channel>
