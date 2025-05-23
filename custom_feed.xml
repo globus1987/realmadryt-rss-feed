@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 May 2025 21:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 22:24:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139756-dzisiejsze-okladki</link>
+        <pubDate>Sat, 24 May 2025 00:04:00 GMT</pubDate>
+        <description>Pożegnania w Realu Madryt i finał Ligi Mistrzyń to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Chciałbym zostać zapamiętany jako dobry trener</title>
+        <link>https://www.realmadryt.pl/news/139746-ancelotti-chcialbym-zostac-zapamietany-jako-dobry-trener</link>
+        <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Sociedadem w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas. Była to ostatnia konferencja prasowa Włocha w roli trenera Królewskich. Trwała rekordowe 23 minuty, gdy normalnie trwała od 12 do 16 minut.</description>
+    </item>
     
     <item>
         <title>Fenerbahçe i Monaco w finale Euroligi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139742-militao-i-vinicius-trenowali-z-zespolem</link>
         <pubDate>Fri, 23 May 2025 12:47:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do ostatniego ligowego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Arne Slot: Może to już pierwszy prezent, jaki mogę zrobić Xabiemu Alonso</title>
-        <link>https://www.realmadryt.pl/news/139740-arne-slot-moze-to-juz-pierwszy-prezent-jaki-moge-zrobic-xabiemu-alonso</link>
-        <pubDate>Fri, 23 May 2025 12:15:00 GMT</pubDate>
-        <description>Trener Liverpoolu wziął udział w konferencji prasowej i był pytany o Trenta Alexandra-Arnolda. Przedstawiamy najważniejsze fragmenty ze spotkania Arne Slota z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu pod wodzą Ancelottiego [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/139737-kwadrans-ostatniego-treningu-pod-wodza-ancelottiego-video</link>
-        <pubDate>Fri, 23 May 2025 11:35:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Baskami w La Lidze.</description>
     </item>
     
 </channel>
