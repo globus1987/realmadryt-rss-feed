@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 May 2025 21:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 21:40:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fenerbahçe i Monaco w finale Euroligi</title>
+        <link>https://www.realmadryt.pl/news/139755-fenerbahce-i-monaco-w-finale-euroligi</link>
+        <pubDate>Fri, 23 May 2025 23:27:00 GMT</pubDate>
+        <description>Fenerbahçe po raz drugi czy Monaco po raz pierwszy? W grze o tytuł w Eurolidze pozostały już tylko dwa zespoły i nie ma w tym gronie ani Panathinaikosu, ani Olympiakosu.</description>
+    </item>
     
     <item>
         <title>Szansa Gonzalo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139737-kwadrans-ostatniego-treningu-pod-wodza-ancelottiego-video</link>
         <pubDate>Fri, 23 May 2025 11:35:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym starciem z Baskami w La Lidze.</description>
-    </item>
-    
-    <item>
-        <title>Umorzono skargę Realu przeciwko Tebasowi za ujawnienie głosowania podczas Zgromadzenia La Ligi</title>
-        <link>https://www.realmadryt.pl/news/139739-umorzono-skarge-realu-przeciwko-tebasowi-za-ujawnienie-glosowania-podczas-zgromadzenia-la-ligi</link>
-        <pubDate>Fri, 23 May 2025 11:30:00 GMT</pubDate>
-        <description>Klub kierowany przez Florentino Péreza uznał, że Javier Tebas naruszył prawo do poufności, publikując w mediach społecznościowych stanowisko Realu Madryt w tajnej ankiecie dotyczącej systemu sędziowskiego, przeprowadzonej w kwietniu 2023 roku.</description>
     </item>
     
 </channel>
