@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 May 2025 05:44:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 05:57:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni przystanek Trójkąta Bermudzkiego</title>
+        <link>https://www.realmadryt.pl/news/139725-ostatni-przystanek-trojkata-bermudzkiego</link>
+        <pubDate>Fri, 23 May 2025 07:50:00 GMT</pubDate>
+        <description>Wraz z odejściem Luki Modricia dochodzi do definitywnego zakończenia ery z Casemiro i Tonim Kroosem. Chorwat, Brazylijczyk i Niemiec stworzyli niepowtarzalny środek pola, który przeszedł do historii Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Piąty sezon z rzędu z odejściem pierwszego kapitana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139718-relevo-real-odmowil-modriciowi-mozliwosci-pozostania-na-kolejny-rok</link>
         <pubDate>Thu, 22 May 2025 17:08:00 GMT</pubDate>
         <description>W sobotę ostatni mecz pomocnika na stadionie Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Kto znajdzie się w czwórce kapitanów Realu Madryt po odejściu Modricia?</title>
-        <link>https://www.realmadryt.pl/news/139717-kto-znajdzie-sie-w-czworce-kapitanow-realu-madryt-po-odejsciu-modricia</link>
-        <pubDate>Thu, 22 May 2025 16:57:00 GMT</pubDate>
-        <description>Odejście Luki Modricia i najpewniej Lucasa Vázqueza wpływa na kadrę Królewskich. Jednym z ciekawszych aspektów tych decyzji klubu są zmiany w hierarchii kapitanów.</description>
     </item>
     
 </channel>
