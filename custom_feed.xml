@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 May 2025 06:54:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 07:22:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pożegnalny mecz Raúla</title>
+        <link>https://www.realmadryt.pl/news/139752-pozegnalny-mecz-raula</link>
+        <pubDate>Sat, 24 May 2025 09:00:00 GMT</pubDate>
+        <description>Castilla rozegra dzisiaj ostatni mecz w sezonie 2024/25. Będzie to jednocześnie pożegnanie Raúla, który był szkoleniowcem drugiego zespołu od sześciu lat.</description>
+    </item>
     
     <item>
         <title>MARCA: Athletic odsyła wszystkich do klauzuli Nico</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139751-szansa-gonzalo</link>
         <pubDate>Fri, 23 May 2025 21:51:00 GMT</pubDate>
         <description>Podczas gdy szklanka Endricka się opróżnia, napełnia się ta należąca do Gonzalo. Napastnik Castilli może otrzymać kolejną szansę w pierwszym zespole.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Ronaldo Nazario sprzedaje Valladolid</title>
-        <link>https://www.realmadryt.pl/news/139749-oficjalnie-ronaldo-nazario-sprzedaje-valladolid</link>
-        <pubDate>Fri, 23 May 2025 20:24:00 GMT</pubDate>
-        <description>Brazylijczyk oficjalnie przestanie być właścicielem i prezesem klubu, który żegna się z Primera División.</description>
     </item>
     
 </channel>
