@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 May 2025 15:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 16:29:08 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Real Sociedad [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/139764-real-madryt-real-sociedad-live</link>
+        <title>Ancelotti: Bardzo was kocham</title>
+        <link>https://www.realmadryt.pl/news/139773-ancelotti-bardzo-was-kocham</link>
+        <pubDate>Sat, 24 May 2025 18:27:00 GMT</pubDate>
+        <description>Carlo Ancelotti przemówił ze środka murawy na Santiago Bernabéu po ostatnim meczu w roli trenera Królewskich. Przedstawiamy Włocha, który nie potrafił ukryć swojego wzruszenia.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Sociedadem</title>
+        <link>https://www.realmadryt.pl/news/139768-ocen-pilkarzy-po-meczu-z-sociedadem</link>
+        <pubDate>Sat, 24 May 2025 18:09:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not za mecz z Realem Sociedad.</description>
+    </item>
+    
+    <item>
+        <title>Kylian Mbappé MVP meczu z Realem Sociedad</title>
+        <link>https://www.realmadryt.pl/news/139772-kylian-mbappe-mvp-meczu-z-realem-sociedad</link>
+        <pubDate>Sat, 24 May 2025 18:09:00 GMT</pubDate>
+        <description>Atakujący został wyróżniony w wygranym meczu z Baskami.</description>
+    </item>
+    
+    <item>
+        <title>Pożegnanie Ancelottiego i Modricia na Bernabéu [TRANSMISJA]</title>
+        <link>https://www.realmadryt.pl/news/139771-pozegnanie-ancelottiego-i-modricia-na-bernabeu-transmisja</link>
+        <pubDate>Sat, 24 May 2025 18:08:00 GMT</pubDate>
+        <description>Zapraszamy na transmisje uroczystości na zakończenie europejskiej części sezonu Realu Madryt i pożegnania dwóch wielkich legend.</description>
+    </item>
+    
+    <item>
+        <title>Trzy punkty i łzy wzruszenia</title>
+        <link>https://www.realmadryt.pl/news/139764-trzy-punkty-i-lzy-wzruszenia</link>
         <pubDate>Sat, 24 May 2025 16:10:00 GMT</pubDate>
-        <description>Trwa spotkanie ostatniej kolejki tego sezonu La Ligi, w którym Los Blancos podejmują zespół z San Sebastián.</description>
+        <description>Real Madryt zwyciężył z Realem Sociedad po dublecie Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/139762-relevo-diego-lopez-blisko-powrotu-do-realu</link>
         <pubDate>Sat, 24 May 2025 09:27:00 GMT</pubDate>
         <description>Były bramkarz Los Blancos, Villarrealu, Milanu i Espanyolu ma dołączyć do sztabu trenerskiego drużyny rezerw.</description>
-    </item>
-    
-    <item>
-        <title>Pożegnalny mecz Raúla</title>
-        <link>https://www.realmadryt.pl/news/139752-pozegnalny-mecz-raula</link>
-        <pubDate>Sat, 24 May 2025 09:00:00 GMT</pubDate>
-        <description>Castilla rozegra dzisiaj ostatni mecz w sezonie 2024/25. Będzie to jednocześnie pożegnanie Raúla, który był szkoleniowcem drugiego zespołu od sześciu lat.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Athletic odsyła wszystkich do klauzuli Nico</title>
-        <link>https://www.realmadryt.pl/news/139761-marca-athletic-odsyla-wszystkich-do-klauzuli-nico</link>
-        <pubDate>Sat, 24 May 2025 08:48:00 GMT</pubDate>
-        <description>Żadne negocjacje nie wchodzę w grę.</description>
-    </item>
-    
-    <item>
-        <title>AS: Güler będzie następcą Modricia</title>
-        <link>https://www.realmadryt.pl/news/139760-as-gueler-bedzie-nastepca-modricia</link>
-        <pubDate>Sat, 24 May 2025 08:40:00 GMT</pubDate>
-        <description>Decyzja Realu Madryt o nieprzedłużeniu kontraktu z Luką wynika między innymi z chęci wsparcia tureckiej gwiazdy w jej przemianie w kreatywnego środkowego pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Coś się kończy</title>
-        <link>https://www.realmadryt.pl/news/139750-cos-sie-konczy</link>
-        <pubDate>Sat, 24 May 2025 08:40:00 GMT</pubDate>
-        <description>To będzie trudne emocjonalnie późne popołudnie.</description>
     </item>
     
 </channel>
