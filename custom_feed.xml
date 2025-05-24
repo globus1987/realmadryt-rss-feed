@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 May 2025 17:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 18:32:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arsenal pokonał Barcelonę w finale Ligi Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/139779-arsenal-pokonal-barcelone-w-finale-ligi-mistrzyn</link>
+        <pubDate>Sat, 24 May 2025 19:56:00 GMT</pubDate>
+        <description>Pogromczynie Królewskich z ćwierćfinałów wygrały ostatecznie całą Ligę Mistrzyń, pokonując w finale Barcelonę.</description>
+    </item>
     
     <item>
         <title>Modrić: Dziękuję z całego serca za wszystko</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139767-rozgrzewka-przed-sociedadem-video</link>
         <pubDate>Sat, 24 May 2025 15:30:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Sociedadem. Pierwszy gwizdek arbitra wybrzmi o 16:15.</description>
-    </item>
-    
-    <item>
-        <title>Prezes Bayernu: Wirtz skłania się ku Liverpoolowi</title>
-        <link>https://www.realmadryt.pl/news/139769-prezes-bayernu-wirtz-sklania-sie-ku-liverpoolowi</link>
-        <pubDate>Sat, 24 May 2025 15:05:00 GMT</pubDate>
-        <description>Herbert Hainer, prezes Bayernu Monachium, potwierdził, że Florian Wirtz odrzucił ofertę Bawarczyków i prawdopodobnie odejdzie do Liverpoolu.</description>
     </item>
     
 </channel>
