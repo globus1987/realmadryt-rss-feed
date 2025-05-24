@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 May 2025 19:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 19:39:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znamy wszystkich spadkowiczów z La Ligi</title>
+        <link>https://www.realmadryt.pl/news/139781-znamy-wszystkich-spadkowiczow-z-la-ligi</link>
+        <pubDate>Sat, 24 May 2025 21:37:00 GMT</pubDate>
+        <description>Z Primera División żegnają się Valladolid, Las Palmas i Leganés.</description>
+    </item>
     
     <item>
         <title>Bezbramkowy remis na zakończenie sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139771-pozegnanie-ancelottiego-i-modricia-na-bernabeu-transmisja</link>
         <pubDate>Sat, 24 May 2025 18:08:00 GMT</pubDate>
         <description>Zapraszamy na transmisje uroczystości na zakończenie europejskiej części sezonu Realu Madryt i pożegnania dwóch wielkich legend.</description>
-    </item>
-    
-    <item>
-        <title>Trzy punkty i łzy wzruszenia</title>
-        <link>https://www.realmadryt.pl/news/139764-trzy-punkty-i-lzy-wzruszenia</link>
-        <pubDate>Sat, 24 May 2025 16:10:00 GMT</pubDate>
-        <description>Real Madryt zwyciężył z Realem Sociedad po dublecie Kyliana Mbappé.</description>
     </item>
     
 </channel>
