@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 May 2025 03:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 04:13:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 maja</title>
+        <link>https://www.realmadryt.pl/news/139792-kartka-z-kalendarza-25-maja</link>
+        <pubDate>Sun, 25 May 2025 05:48:00 GMT</pubDate>
+        <description>Dwa puchary koszykarzy, Klasyk pełen skandali, dwa zwolnienia Florentino Péreza i piękne pożegnanie Kroosa. Co działo się 25 maja?</description>
+    </item>
     
     <item>
         <title>TNT: Ancelotti nie powoła Rodrygo do reprezentacji Brazylii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139774-real-madryt-2-0-real-sociedad-video</link>
         <pubDate>Sat, 24 May 2025 18:29:00 GMT</pubDate>
         <description>Real Madryt wygrał w meczu 38. kolejki z Realem Sociedad i w ten sposób zakończył ligowy sezon.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Bardzo was kocham</title>
-        <link>https://www.realmadryt.pl/news/139773-ancelotti-bardzo-was-kocham</link>
-        <pubDate>Sat, 24 May 2025 18:27:00 GMT</pubDate>
-        <description>Carlo Ancelotti przemówił ze środka murawy na Santiago Bernabéu po ostatnim meczu w roli trenera Królewskich. Przedstawiamy słowa Włocha, który nie potrafił ukryć swojego wzruszenia.</description>
     </item>
     
 </channel>
