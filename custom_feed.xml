@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 May 2025 04:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 05:25:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim – kontuzja numer 50</title>
+        <link>https://www.realmadryt.pl/news/139784-brahim-kontuzja-numer-50</link>
+        <pubDate>Sun, 25 May 2025 07:00:00 GMT</pubDate>
+        <description>Brahim Díaz z powodu problemów mięśniowych musiał przed czasem opuścić murawę w meczu z Realem Sociedad. Jest to już w sumie 50. kontuzja w Realu Madryt w sezonie 2024/25.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 maja</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139775-turrientes-odejscie-modricia-to-smutny-dzien-dla-futbolu</link>
         <pubDate>Sat, 24 May 2025 18:30:00 GMT</pubDate>
         <description>Beñat Turrientes udzielił wywiadu dla platformy DAZN po przegranym 0:2 meczu z Realem Madryt. Przedstawiamy słowa gracza Realu Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:0 Real Sociedad [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/139774-real-madryt-2-0-real-sociedad-video</link>
-        <pubDate>Sat, 24 May 2025 18:29:00 GMT</pubDate>
-        <description>Real Madryt wygrał w meczu 38. kolejki z Realem Sociedad i w ten sposób zakończył ligowy sezon.</description>
     </item>
     
 </channel>
