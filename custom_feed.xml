@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 May 2025 22:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 22:43:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139814-dzisiejsze-okladki</link>
+        <pubDate>Mon, 26 May 2025 00:30:00 GMT</pubDate>
+        <description>Pożegnanie Rafy Nadala w Paryżu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Fenerbahçe zwycięzcą Euroligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139793-oficjalnie-xabi-alonso-trenerem-realu-madryt</link>
         <pubDate>Sun, 25 May 2025 12:00:00 GMT</pubDate>
         <description>Powrót 43-letniego Baska do madryckiego klubu stał się dzisiaj faktem. Real oficjalnie potwierdził, że Xabi Alonso poprowadzi drużynę już podczas Klubowych Mistrzostw Świata.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé udowodnił, że warto budować zespół wokół niego</title>
-        <link>https://www.realmadryt.pl/news/139799-mbappe-udowodnil-ze-warto-budowac-zespol-wokol-niego</link>
-        <pubDate>Sun, 25 May 2025 11:53:00 GMT</pubDate>
-        <description>Francuz zmierza po Złoty But, zostaje królem strzelców La Ligi i kończy debiutancki sezon z 43 bramkami</description>
     </item>
     
 </channel>
