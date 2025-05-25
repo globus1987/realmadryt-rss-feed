@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 May 2025 06:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 06:54:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>400 meczów Lucasa w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/139782-400-meczow-lucasa-w-realu-madryt</link>
+        <pubDate>Sun, 25 May 2025 08:50:00 GMT</pubDate>
+        <description>W starciu z Baskami Lucas Vázquez zanotował swój 400. występ dla Realu Madryt. Wiele wskazuje też na to, że był to ostatni mecz defensora na  Santiago Bernabéu.</description>
+    </item>
     
     <item>
         <title>Ostatni mecz u siebie przed play-offami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139778-modric-dziekuje-z-calego-serca-za-wszystko</link>
         <pubDate>Sat, 24 May 2025 19:11:00 GMT</pubDate>
         <description>Luka Modrić udzielił wywiadu dla klubowej telewizji po swoim ostatnim meczu na Santiago Bernabéu w koszulce Realu Madryt. Przedstawiamy pełne wypowiedzi kapitana Królewskich z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Chciałem przejść do historii Realu i to osiągnąłem</title>
-        <link>https://www.realmadryt.pl/news/139777-ancelotti-chcialem-przejsc-do-historii-realu-i-to-osiagnalem</link>
-        <pubDate>Sat, 24 May 2025 19:04:00 GMT</pubDate>
-        <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po swoim ostatnim meczu w roli trenera Realu Madryt. Przedstawiamy słowa wzruszonego Włocha.</description>
     </item>
     
 </channel>
