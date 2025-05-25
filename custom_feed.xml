@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 May 2025 05:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 06:34:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni mecz u siebie przed play-offami</title>
+        <link>https://www.realmadryt.pl/news/139787-ostatni-mecz-u-siebie-przed-play-offami</link>
+        <pubDate>Sun, 25 May 2025 08:15:00 GMT</pubDate>
+        <description>W 33. kolejce Ligi Endesa Real Madryt zmierzy się z Granadą. Królewscy od dawna mają zagwarantowane pierwsze miejsce, natomiast Andaluzyjczycy jeszcze mogą wierzyć w utrzymanie.</description>
+    </item>
     
     <item>
         <title>Ancelotti i Modrić otrzymali najwyższe klubowe wyróżnienia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139777-ancelotti-chcialem-przejsc-do-historii-realu-i-to-osiagnalem</link>
         <pubDate>Sat, 24 May 2025 19:04:00 GMT</pubDate>
         <description>Carlo Ancelotti udzielił wywiadu klubowej telewizji po swoim ostatnim meczu w roli trenera Realu Madryt. Przedstawiamy słowa wzruszonego Włocha.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Największym trofeum, które wygrałem, jest wasza miłość</title>
-        <link>https://www.realmadryt.pl/news/139776-modric-najwiekszym-trofeum-ktore-wygralem-jest-wasza-milosc</link>
-        <pubDate>Sat, 24 May 2025 18:41:00 GMT</pubDate>
-        <description>Luka Modrić przemówił ze środka murawy po ostatnim meczu na Santiago Bernabéu. Przedstawiamy słowa wyraźnie wzruszonego Chorwata.</description>
     </item>
     
 </channel>
