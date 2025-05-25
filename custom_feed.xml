@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 May 2025 02:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 May 2025 03:35:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>TNT: Ancelotti nie powoła Rodrygo do reprezentacji Brazylii</title>
+        <link>https://www.realmadryt.pl/news/139789-tnt-ancelotti-nie-powola-rodrygo-do-reprezentacji-brazylii</link>
+        <pubDate>Sun, 25 May 2025 05:30:00 GMT</pubDate>
+        <description>Brazylijczyk od miesiąca pozostaje poza grą. Teraz nowy selekcjoner nie powoła go także na zgrupowanie kadry.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139773-ancelotti-bardzo-was-kocham</link>
         <pubDate>Sat, 24 May 2025 18:27:00 GMT</pubDate>
         <description>Carlo Ancelotti przemówił ze środka murawy na Santiago Bernabéu po ostatnim meczu w roli trenera Królewskich. Przedstawiamy słowa Włocha, który nie potrafił ukryć swojego wzruszenia.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Sociedadem</title>
-        <link>https://www.realmadryt.pl/news/139768-ocen-pilkarzy-po-meczu-z-sociedadem</link>
-        <pubDate>Sat, 24 May 2025 18:09:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not za mecz z Realem Sociedad.</description>
     </item>
     
 </channel>
