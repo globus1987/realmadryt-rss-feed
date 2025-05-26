@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 May 2025 09:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 10:30:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen powołany do reprezentacji Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/139822-huijsen-powolany-do-reprezentacji-hiszpanii</link>
+        <pubDate>Mon, 26 May 2025 12:22:00 GMT</pubDate>
+        <description>Najnowszy nabytek Realu Madryt będzie mógł pokazać się kibicom w barwach reprezentacji przed debiutem w nowych barwach.</description>
+    </item>
+    
+    <item>
+        <title>Prezentacja Xabiego Alonso w Realu Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/139809-prezentacja-xabiego-alonso-w-realu-madryt-na-zywo</link>
+        <pubDate>Mon, 26 May 2025 12:15:00 GMT</pubDate>
+        <description>Zapraszamy na transmisje klubu z prezentacji baskijskiego szkoleniowca.</description>
+    </item>
     
     <item>
         <title>Kto może odejść, a kto zostać? Klubowy Mundial zdecyduje o przyszłości kilku piłkarzy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139808-dzisiaj-prezentacja-xabiego-alonso</link>
         <pubDate>Mon, 26 May 2025 05:30:00 GMT</pubDate>
         <description>Bask przywita się dzisiaj z kibicami i mediami oraz zostanie przedstawiony przez Florentino Péreza.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/139814-dzisiejsze-okladki</link>
-        <pubDate>Mon, 26 May 2025 00:30:00 GMT</pubDate>
-        <description>Pożegnanie Rafy Nadala w Paryżu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Fenerbahçe zwycięzcą Euroligi</title>
-        <link>https://www.realmadryt.pl/news/139811-fenerbahce-zwyciezca-euroligi</link>
-        <pubDate>Sun, 25 May 2025 23:07:00 GMT</pubDate>
-        <description>Fenerbahçe po raz drugi w swojej historii wygrało Euroligę. W finale pokonało Monaco. Trzecie miejsce zajął Olympiakos, który okazał się lepszy od Panathinaikosu w pojedynku wielkich przegranych.</description>
     </item>
     
 </channel>
