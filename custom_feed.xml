@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 May 2025 03:29:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 04:00:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiaj prezentacja Xabiego Alonso</title>
+        <link>https://www.realmadryt.pl/news/139808-dzisiaj-prezentacja-xabiego-alonso</link>
+        <pubDate>Mon, 26 May 2025 05:30:00 GMT</pubDate>
+        <description>Bask przywita się dzisiaj z kibicami i mediami oraz zostanie przedstawiony przez Florentino Péreza.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139800-dzien-w-ktorym-real-madryt-odkryl-kim-jest-luka-modric</link>
         <pubDate>Sun, 25 May 2025 12:29:00 GMT</pubDate>
         <description>Chorwat stał się legendą Realu Madryt, choć początki nie były dla niego łatwe. Jednak mecz na Old Trafford wszystko odmienił i zmienił też historię Los Blancos.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Xabi Alonso trenerem Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/139793-oficjalnie-xabi-alonso-trenerem-realu-madryt</link>
-        <pubDate>Sun, 25 May 2025 12:00:00 GMT</pubDate>
-        <description>Powrót 43-letniego Baska do madryckiego klubu stał się dzisiaj faktem. Real oficjalnie potwierdził, że Xabi Alonso poprowadzi drużynę już podczas Klubowych Mistrzostw Świata.</description>
     </item>
     
 </channel>
