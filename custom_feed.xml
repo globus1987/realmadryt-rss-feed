@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 May 2025 21:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 22:24:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139835-dzisiejsze-okladki</link>
+        <pubDate>Tue, 27 May 2025 00:21:00 GMT</pubDate>
+        <description>Prezentacja Xabiego Alonso i nowa umowa dla Lamine'a Yamala to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Cristiano Ronaldo sugeruje pożegnanie z Al-Nassr: „Ten rozdział został zamknięty”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139822-huijsen-powolany-do-reprezentacji-hiszpanii</link>
         <pubDate>Mon, 26 May 2025 12:22:00 GMT</pubDate>
         <description>Najnowszy nabytek Realu Madryt będzie mógł pokazać się kibicom w barwach reprezentacji przed debiutem w nowych barwach.</description>
-    </item>
-    
-    <item>
-        <title>Prezentacja Xabiego Alonso w Realu Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/139809-prezentacja-xabiego-alonso-w-realu-madryt-na-zywo</link>
-        <pubDate>Mon, 26 May 2025 12:15:00 GMT</pubDate>
-        <description>Zapraszamy na transmisje klubu z prezentacji baskijskiego szkoleniowca.</description>
     </item>
     
 </channel>
