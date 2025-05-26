@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 May 2025 04:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 05:27:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/139813-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 26 May 2025 07:25:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 38. kolejce La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>Carlo Ancelotti jest już w Brazylii</title>
+        <link>https://www.realmadryt.pl/news/139815-carlo-ancelotti-jest-juz-w-brazylii</link>
+        <pubDate>Mon, 26 May 2025 07:21:00 GMT</pubDate>
+        <description>Były trener Realu Madryt dotarł do Rio de Janeiro i w poniedziałek zostanie zaprezentowany jako nowy selekcjoner Canarinhos oraz ogłosi swoją pierwszą listę powołanych.</description>
+    </item>
     
     <item>
         <title>Dzisiaj prezentacja Xabiego Alonso</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139802-brak-nowych-modriciow-na-horyzoncie</link>
         <pubDate>Sun, 25 May 2025 15:22:00 GMT</pubDate>
         <description>Odejście Luki Modricia pozostawia w środku pola dziurę, którą trzeba będzie w jakiś sposób załatać. Kłopot w tym, że na rynku brakuje nowych Modriciów.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Fede Valverde kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/139801-oficjalnie-fede-valverde-kontuzjowany</link>
-        <pubDate>Sun, 25 May 2025 12:57:00 GMT</pubDate>
-        <description>Real Madryt wydał komunikat, w którym poinformował o kontuzji Urugwajczyka.</description>
-    </item>
-    
-    <item>
-        <title>Dzień, w którym Real Madryt odkrył, kim jest Luka Modrić</title>
-        <link>https://www.realmadryt.pl/news/139800-dzien-w-ktorym-real-madryt-odkryl-kim-jest-luka-modric</link>
-        <pubDate>Sun, 25 May 2025 12:29:00 GMT</pubDate>
-        <description>Chorwat stał się legendą Realu Madryt, choć początki nie były dla niego łatwe. Jednak mecz na Old Trafford wszystko odmienił i zmienił też historię Los Blancos.</description>
     </item>
     
 </channel>
