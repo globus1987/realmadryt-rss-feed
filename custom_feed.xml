@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 May 2025 06:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 07:37:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 26 maja</title>
+        <link>https://www.realmadryt.pl/news/139812-kartka-z-kalendarza-26-maja</link>
+        <pubDate>Mon, 26 May 2025 09:09:00 GMT</pubDate>
+        <description>Pożegnalny hołd dla legendy, wygrana w finale z Barceloną, mistrzostwo Hiszpanii i La Decimotercera. Co działo się 26 maja?</description>
+    </item>
     
     <item>
         <title>Militão – ciche wzmocnienie dla Xabiego Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139810-mateo-play-offy-sa-zupelnie-inna-historia</link>
         <pubDate>Sun, 25 May 2025 22:33:00 GMT</pubDate>
         <description>Chus Mateo podsumował krótko zwycięskie spotkanie z Granadą. Mówił przede wszystkim o tym, że już niedługo rozpoczną się play-offy.</description>
-    </item>
-    
-    <item>
-        <title>Levante pierwszym beniaminkiem La Liga 2025/26</title>
-        <link>https://www.realmadryt.pl/news/139807-levante-pierwszym-beniaminkiem-la-liga-2025-26</link>
-        <pubDate>Sun, 25 May 2025 20:56:00 GMT</pubDate>
-        <description>Nikt już nie odbierze awansu klubowi z Walencji.</description>
     </item>
     
 </channel>
