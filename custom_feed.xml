@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 May 2025 09:29:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 09:46:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rozmowa symbolizująca przekazanie władzy</title>
+        <link>https://www.realmadryt.pl/news/139842-rozmowa-symbolizujaca-przekazanie-wladzy</link>
+        <pubDate>Tue, 27 May 2025 11:29:00 GMT</pubDate>
+        <description>Kilka dni temu Carlo Ancelotti i Xabi Alonso odbyli ze sobą dłuższą rozmowę symbolizującą przekazanie władzy w Realu Madryt. Włoch zgodził się z uwagami Baska, ale jednocześnie podkreślił, że ta drużyna wciąż ma wielkie pokłady jakości.</description>
+    </item>
     
     <item>
         <title>José Luis Sánchez: Florentino Pérez nie płaci nam, dziennikarzom związanym z Realem, to miejska legenda</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139834-cristiano-ronaldo-sugeruje-pozegnanie-z-al-nassr-ten-rozdzial-zostal-zamkniety</link>
         <pubDate>Mon, 26 May 2025 23:18:00 GMT</pubDate>
         <description>Portugalczykowi kończy się kontrakt po tym sezonie i nie przedłuży umowy.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Jeśli Vini jeszcze nie pokazał swojej najlepszej wersji, to z pewnością ją pokaże</title>
-        <link>https://www.realmadryt.pl/news/139830-ancelotti-jesli-vini-jeszcze-nie-pokazal-swojej-najlepszej-wersji-to-z-pewnoscia-ja-pokaze</link>
-        <pubDate>Mon, 26 May 2025 20:55:00 GMT</pubDate>
-        <description>Carlo Ancelotti wziął udział w swojej pierwszej konferencji prasowej po zostaniu selekcjonerem reprezentacji Brazylii. Przedstawiamy najważniejsze wypowiedzi Włocha ze spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
