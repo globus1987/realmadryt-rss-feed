@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 May 2025 06:56:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 07:26:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 27 maja</title>
+        <link>https://www.realmadryt.pl/news/139837-kartka-z-kalendarza-27-maja</link>
+        <pubDate>Tue, 27 May 2025 09:10:00 GMT</pubDate>
+        <description>Dwa przegrane finały Pucharu Europy, urodziny byłego napastnika, śmierć byłego prezesa i awans Castilli do drugiej ligi. Co działo się 27 maja?</description>
+    </item>
     
     <item>
         <title>Media: W czwartek prezentacja Huijsena</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139828-spor-mbappe-z-psg-sad-uniewaznil-zabezpieczenie-kwoty-55-milionow-euro-na-kontach-klubu</link>
         <pubDate>Mon, 26 May 2025 20:25:00 GMT</pubDate>
         <description>Zastosowane w kwietniu na wniosek Kyliana Mbappé zabezpieczenie majątkowe w wysokości 55 milionów euro na kontach PSG, będące częścią sporu finansowego między stronami, zostało w poniedziałek unieważnione przez sąd.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/139827-oceny-zawodnikow-po-meczu-z-realem-sociedad</link>
-        <pubDate>Mon, 26 May 2025 17:57:00 GMT</pubDate>
-        <description>Real Madryt wygrał u siebie z Realem Sociedad 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
