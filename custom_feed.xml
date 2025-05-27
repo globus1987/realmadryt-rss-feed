@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 May 2025 12:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 13:36:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim Díaz powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/139850-brahim-diaz-powolany-do-reprezentacji</link>
+        <pubDate>Tue, 27 May 2025 15:35:00 GMT</pubDate>
+        <description>Pomocnik Realu znalazł się na liście Walida Regraguiego.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Trzeba stworzyć zespół, bo potencjał tu jest</title>
+        <link>https://www.realmadryt.pl/news/139849-xabi-alonso-trzeba-stworzyc-zespol-bo-potencjal-tu-jest</link>
+        <pubDate>Tue, 27 May 2025 14:54:00 GMT</pubDate>
+        <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji, w którym podzielił się pierwszymi odczuciami po rozpoczęciu pracy trenera w Realu Madryt. Przedstawiamy zapis rozmowy z nowym szkoleniowcem Królewskich.</description>
+    </item>
     
     <item>
         <title>Real drużyną z największą liczbą minut efektywnego czasu gry</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139837-kartka-z-kalendarza-27-maja</link>
         <pubDate>Tue, 27 May 2025 09:10:00 GMT</pubDate>
         <description>Dwa przegrane finały Pucharu Europy, urodziny byłego napastnika, śmierć byłego prezesa i awans Castilli do drugiej ligi. Co działo się 27 maja?</description>
-    </item>
-    
-    <item>
-        <title>Media: W czwartek prezentacja Huijsena</title>
-        <link>https://www.realmadryt.pl/news/139839-media-w-czwartek-prezentacja-huijsena</link>
-        <pubDate>Tue, 27 May 2025 08:35:00 GMT</pubDate>
-        <description>Obrońca w tym tygodniu przywita się z kibicami.</description>
-    </item>
-    
-    <item>
-        <title>Jak wypada Castilla na tle innych rezerwowych drużyn?</title>
-        <link>https://www.realmadryt.pl/news/139833-jak-wypada-castilla-na-tle-innych-rezerwowych-druzyn</link>
-        <pubDate>Tue, 27 May 2025 08:18:00 GMT</pubDate>
-        <description>Porównując występy wszystkich drużyn rezerw w Hiszpanii aż do piątej ligi, Castilla wypada bardzo dobrze. Królewscy zajęli gorsze miejsce tylko od drugiej ekipy Realu Sociedad. Drugi zespół Barcelony natomiast spadł do czwartej ligi.</description>
     </item>
     
 </channel>
