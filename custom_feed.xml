@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 May 2025 22:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 May 2025 22:44:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139862-dzisiejsze-okladki</link>
+        <pubDate>Wed, 28 May 2025 00:31:00 GMT</pubDate>
+        <description>Finał Ligi Konferencji i przedłużenie umowy z młodą gwiazdą Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Stiller na celowniku Królewskich!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139847-carvajal-otrzymal-zloty-medal-wspolnoty-madrytu</link>
         <pubDate>Tue, 27 May 2025 13:54:00 GMT</pubDate>
         <description>Zaszczytne wyróżnienie dla wychowanka.</description>
-    </item>
-    
-    <item>
-        <title>Raúl: Odchodzę z przekonaniem, że pewnego dnia wrócę do miejsca, które zawsze będzie moim domem</title>
-        <link>https://www.realmadryt.pl/news/139845-raul-odchodze-z-przekonaniem-ze-pewnego-dnia-wroce-do-miejsca-ktore-zawsze-bedzie-moim-domem</link>
-        <pubDate>Tue, 27 May 2025 13:01:00 GMT</pubDate>
-        <description>Raúl oficjalnie przestał być dzisiaj trenerem Castilli i pożegnał się w mediach społecznościowych z Realem Madryt.</description>
     </item>
     
 </channel>
