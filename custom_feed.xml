@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 May 2025 11:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 11:53:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Zubimendi podpisał już kontrakt z Arsenalem</title>
+        <link>https://www.realmadryt.pl/news/139872-media-zubimendi-podpisal-juz-kontrakt-z-arsenalem</link>
+        <pubDate>Wed, 28 May 2025 13:49:00 GMT</pubDate>
+        <description>Pomocnik nie trafi do Madrytu.</description>
+    </item>
     
     <item>
         <title>AS: Łunin został zaoferowany Galatasaray</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139856-xabi-alonso-chce-abysmy-stworzyli-cos-z-czego-wszyscy-bedziemy-dumni</link>
         <pubDate>Wed, 28 May 2025 07:25:00 GMT</pubDate>
         <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji po prezentacji w roli trenera Realu Madryt. Przedstawiamy wypowiedzi nowego szkoleniowca Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>AS: Rüdiger powinien się wyrobić na Klubowy Mundial</title>
-        <link>https://www.realmadryt.pl/news/139854-as-ruediger-powinien-sie-wyrobic-na-klubowy-mundial</link>
-        <pubDate>Wed, 28 May 2025 05:30:00 GMT</pubDate>
-        <description>Rehabilitacja Antonio Rüdigera po przeprowadzonej 29 kwietnia operacji kolana przebiega lepiej niż zakładano. W tym momencie mówi się o tym, że niemiecki stoper powinien być gotowy do gry już na drugi mecz Klubowego Mundialu z Pachucą.</description>
     </item>
     
 </channel>
