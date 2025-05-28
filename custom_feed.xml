@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 May 2025 22:24:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 22:44:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139883-dzisiejsze-okladki</link>
+        <pubDate>Thu, 29 May 2025 00:42:00 GMT</pubDate>
+        <description>Porażka Betisu w finale i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Juvenil A odpadł z walki o młodzieżowe mistrzostwo Hiszpanii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139869-real-pracuje-juz-nad-powrotem-nico-paza</link>
         <pubDate>Wed, 28 May 2025 12:43:00 GMT</pubDate>
         <description>Argentyński piłkarz kosztowałby Królewskich osiem milionów euro, a w Como zaczynają się z nim żegnać.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé piłkarzem na Pięć Gwiazdek za cały sezon</title>
-        <link>https://www.realmadryt.pl/news/139868-mbappe-pilkarzem-na-piec-gwiazdek-za-caly-sezon</link>
-        <pubDate>Wed, 28 May 2025 12:14:00 GMT</pubDate>
-        <description>Francuz zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu w zakończonym już sezonie.</description>
     </item>
     
 </channel>
