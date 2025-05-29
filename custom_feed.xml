@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 May 2025 21:54:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 22:24:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139905-dzisiejsze-okladki</link>
+        <pubDate>Fri, 30 May 2025 00:13:00 GMT</pubDate>
+        <description>Wywiady z Carlo Ancelottim i Raphinhą oraz cel Realu Madryt to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: 20 drużyn w Eurolidze od nowego sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139890-co-dzisiaj-wiemy-o-madrid-innovation-district</link>
         <pubDate>Thu, 29 May 2025 13:03:00 GMT</pubDate>
         <description>Dwa tygodnie temu Real Madryt ogłosił nową inicjatywę. Co więcej wiemy o niej po tym czasie?</description>
-    </item>
-    
-    <item>
-        <title>Football Benchmark: Real Madryt najbardziej wartościowym klubem w Europie</title>
-        <link>https://www.realmadryt.pl/news/139888-football-benchmark-real-madryt-najbardziej-wartosciowym-klubem-w-europie</link>
-        <pubDate>Thu, 29 May 2025 11:23:00 GMT</pubDate>
-        <description>Football Benchmark opublikował najnowszą edycję zestawienia The European Elite, w którym zestawia najbardziej wartościowe europejskie kluby w Europie. Kolejny raz na czele zestawienia znaleźli się Królewscy.</description>
     </item>
     
 </channel>
