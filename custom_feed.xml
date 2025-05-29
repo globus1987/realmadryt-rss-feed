@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 May 2025 15:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 15:57:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Víctor Muñoz na celowniku Alavés</title>
+        <link>https://www.realmadryt.pl/news/139895-as-victor-munoz-na-celowniku-alaves</link>
+        <pubDate>Thu, 29 May 2025 17:48:00 GMT</pubDate>
+        <description>Innym zawodnikiem, który znajduje się w orbicie zainteresowań Albiazules jest Yusi.</description>
+    </item>
     
     <item>
         <title>AS: Rodrygo czeka na rozmowę z Xabim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139884-kartka-z-kalendarza-29-maja</link>
         <pubDate>Thu, 29 May 2025 08:18:00 GMT</pubDate>
         <description>Piękne pożegnanie legendy i biały finał w Pucharze Króla. Co działo się 29 maja?</description>
-    </item>
-    
-    <item>
-        <title>Platini: Mbappé to goleador – nie oczekujcie, aby grał jak Messi czy Zidane</title>
-        <link>https://www.realmadryt.pl/news/139880-platini-mbappe-to-goleador-nie-oczekujcie-aby-gral-jak-messi-czy-zidane</link>
-        <pubDate>Thu, 29 May 2025 07:25:00 GMT</pubDate>
-        <description>Michel Platini postanowił w kilku słowach ocenić pierwszy sezon Kyliana Mbappé w Realu Madryt.</description>
     </item>
     
 </channel>
