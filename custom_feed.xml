@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 May 2025 22:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 22:44:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139931-dzisiejsze-okladki</link>
+        <pubDate>Sat, 31 May 2025 00:33:00 GMT</pubDate>
+        <description>Transfer Trenta Alexandra-Arnolda i sytuacja w bramce Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Dla nas ten mecz był ważny, by utrzymać i wzmocnić naszą mentalność</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139917-the-athletic-real-madryt-wykupil-trenta-za-10-milionow-euro</link>
         <pubDate>Fri, 30 May 2025 12:25:00 GMT</pubDate>
         <description>Dziennikarze The Athletic twierdzą, że ostatecznie wykupienie obrońcy na czerwcowe mecze kosztowało Real Madryt dużo większe pieniądze.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Trent Alexander-Arnold piłkarzem Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/139889-oficjalnie-trent-alexander-arnold-pilkarzem-realu-madryt</link>
-        <pubDate>Fri, 30 May 2025 12:00:00 GMT</pubDate>
-        <description>Królewscy za pośrednictwem swojej oficjalnej strony internetowej potwierdzili, że angielski obrońca został nowym zawodnikiem klubu.</description>
     </item>
     
 </channel>
