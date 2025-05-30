@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 May 2025 06:37:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 06:57:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni test przed play-offami</title>
+        <link>https://www.realmadryt.pl/news/139904-ostatni-test-przed-play-offami</link>
+        <pubDate>Fri, 30 May 2025 08:40:00 GMT</pubDate>
+        <description></description>
+    </item>
     
     <item>
         <title>Operacja Klubowy Mundial</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139896-alvarez-de-mon-alexander-arnold-zagra-z-realem-na-klubowym-mundialu</link>
         <pubDate>Thu, 29 May 2025 20:01:00 GMT</pubDate>
         <description>Wkrótce ogłoszenie transferu.</description>
-    </item>
-    
-    <item>
-        <title>Podsumowanie ocen za sezon 2024/25 – środkowi obrońcy</title>
-        <link>https://www.realmadryt.pl/news/139865-podsumowanie-ocen-za-sezon-2024-25-srodkowi-obroncy</link>
-        <pubDate>Thu, 29 May 2025 18:00:00 GMT</pubDate>
-        <description>Jak spisali się Antonio Rüdiger, Raúl Asencio, Éder Militão, David Alaba, Jacobo Ramón, Jesús Vallejo i Diego Aguado?</description>
     </item>
     
 </channel>
