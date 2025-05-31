@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 May 2025 22:23:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 22:43:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139948-dzisiejsze-okladki</link>
+        <pubDate>Sun, 01 Jun 2025 00:33:00 GMT</pubDate>
+        <description>Triumf Luisa Enrique to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé: W końcu nadszedł wielki dzień</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139935-baskonia-cwiercfinalowym-rywalem-realu-madryt</link>
         <pubDate>Sat, 31 May 2025 11:05:00 GMT</pubDate>
         <description>Real Madryt zmierzy się z Baskonią w ćwierćfinale Ligi Endesa. Jeśli Królewscy zdołają pokonać Basków, to w półfinale trafią na Unicaję lub Barcelonę.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy dominują w statystykach dotyczących finałów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/139934-krolewscy-dominuja-w-statystykach-dotyczacych-finalow-ligi-mistrzow</link>
-        <pubDate>Sat, 31 May 2025 10:51:00 GMT</pubDate>
-        <description>UEFA opublikowała historyczne rekordy przed dzisiejszym finałem Ligi Mistrzów. Zestawienie oczywiście otwierają piłkarze związani z Realem Madryt.</description>
     </item>
     
 </channel>
