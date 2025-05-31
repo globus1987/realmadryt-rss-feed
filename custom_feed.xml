@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 May 2025 08:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 09:24:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Najnowsze zdjęcie nowej domowej koszulki Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/139936-najnowsze-zdjecie-nowej-domowej-koszulki-realu-madryt</link>
+        <pubDate>Sat, 31 May 2025 11:13:00 GMT</pubDate>
+        <description>Zbliża się premiera nowej domowej koszulki Królewskich, co wiąże się z wyciekiem coraz większej liczby materiałów prezentujących ten trykot.</description>
+    </item>
+    
+    <item>
+        <title>Baskonia ćwierćfinałowym rywalem Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/139935-baskonia-cwiercfinalowym-rywalem-realu-madryt</link>
+        <pubDate>Sat, 31 May 2025 11:05:00 GMT</pubDate>
+        <description>Real Madryt zmierzy się z Baskonią w ćwierćfinale Ligi Endesa. Jeśli Królewscy zdołają pokonać Basków, to w półfinale trafią na Unicaję lub Barcelonę.</description>
+    </item>
     
     <item>
         <title>Królewscy dominują w statystykach dotyczących finałów Ligi Mistrzów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139926-efektowne-zwyciestwo-na-zakonczenie-sezonu-zasadniczego</link>
         <pubDate>Fri, 30 May 2025 20:33:00 GMT</pubDate>
         <description>W ostatniej kolejce sezonu zasadniczego Ligi Endesa Real Madryt pokonał Saragossę. We wtorek Królewscy rozpoczną ćwierćfinałową rywalizację z Baskonią.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Vallejo odchodzi z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/139925-oficjalnie-vallejo-odchodzi-z-realu-madryt</link>
-        <pubDate>Fri, 30 May 2025 20:10:00 GMT</pubDate>
-        <description>Real Madryt opublikował oficjalny komunikat w sprawie hiszpańskiego zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>Podsumowanie ocen za sezon 2024/25 – boczni obrońcy</title>
-        <link>https://www.realmadryt.pl/news/139874-podsumowanie-ocen-za-sezon-2024-25-boczni-obroncy</link>
-        <pubDate>Fri, 30 May 2025 18:00:00 GMT</pubDate>
-        <description>Jak spisali się Lucas Vázquez, Fran García, Ferland Mendy, Dani Carvajal i Lorenzo Aguado?</description>
     </item>
     
 </channel>
