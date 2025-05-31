@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 May 2025 21:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 21:40:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: W końcu nadszedł wielki dzień</title>
+        <link>https://www.realmadryt.pl/news/139945-mbappe-w-koncu-nadszedl-wielki-dzien</link>
+        <pubDate>Sat, 31 May 2025 23:31:00 GMT</pubDate>
+        <description>Kylian Mbappé pogratulował swojemu byłemu klubowi wygrania Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Paris Saint-Germain zwycięzcą Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139934-krolewscy-dominuja-w-statystykach-dotyczacych-finalow-ligi-mistrzow</link>
         <pubDate>Sat, 31 May 2025 10:51:00 GMT</pubDate>
         <description>UEFA opublikowała historyczne rekordy przed dzisiejszym finałem Ligi Mistrzów. Zestawienie oczywiście otwierają piłkarze związani z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 31 maja</title>
-        <link>https://www.realmadryt.pl/news/139933-kartka-z-kalendarza-31-maja</link>
-        <pubDate>Sat, 31 May 2025 10:15:00 GMT</pubDate>
-        <description>Ostatni mecz reprezentacji Hiszpanii w Bilbao, mecz jako hołd dla legendarnego piłkarza (a później trenera), przybycie i odejście ważnych trenerów oraz wyjątkowo dziwny mecz w Pampelunie. Co działo się 31 maja?</description>
     </item>
     
 </channel>
