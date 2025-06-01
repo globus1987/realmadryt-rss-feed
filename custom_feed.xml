@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Jun 2025 14:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:57:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Thibaut Courtois kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/139961-oficjalnie-thibaut-courtois-kontuzjowany</link>
+        <pubDate>Sun, 01 Jun 2025 16:55:00 GMT</pubDate>
+        <description>Real Madryt wydał komunikat, w którym poinformował o kontuzji Belga.</description>
+    </item>
     
     <item>
         <title>Valverde wchodzi w nowy wymiar</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139950-footy-headlines-prezentuje-font-na-nowych-koszulkach-realu-madryt</link>
         <pubDate>Sun, 01 Jun 2025 09:30:00 GMT</pubDate>
         <description>Portal Footy Headlines przedstawił font Realu Madryt na nowy sezon. Tradycyjnie klub nie będzie korzystać z niego we wszystkich meczach.</description>
-    </item>
-    
-    <item>
-        <title>Paris Saint-Germain zdobyło swój pierwszy Puchar Europy</title>
-        <link>https://www.realmadryt.pl/news/139946-paris-saint-germain-zdobylo-swoj-pierwszy-puchar-europy</link>
-        <pubDate>Sun, 01 Jun 2025 08:40:00 GMT</pubDate>
-        <description>Paryżanie sięgnęli w sobotę po swój pierwszy Puchar Europy. Na czele historycznej klasyfikacji tych rozgrywek i samej Ligi Mistrzów pozostaje Real Madryt.</description>
     </item>
     
 </channel>
