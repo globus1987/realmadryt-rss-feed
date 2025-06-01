@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Jun 2025 04:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 05:29:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>L’Équipe: Zidane odrzucił 100 milionów euro za rok pracy w Arabii Saudyjskiej</title>
+        <link>https://www.realmadryt.pl/news/139944-l-equipe-zidane-odrzucil-100-milionow-euro-za-rok-pracy-w-arabii-saudyjskiej</link>
+        <pubDate>Sun, 01 Jun 2025 07:00:00 GMT</pubDate>
+        <description>Były trener Królewskich odrzucił propozycję z Arabii Saudyjskiej i niezmiennie czeka na propozycję objęcia reprezentacji Francji.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139936-najnowsze-zdjecie-nowej-domowej-koszulki-realu-madryt</link>
         <pubDate>Sat, 31 May 2025 11:13:00 GMT</pubDate>
         <description>Zbliża się premiera nowej domowej koszulki Królewskich, co wiąże się z wyciekiem coraz większej liczby materiałów prezentujących ten trykot.</description>
-    </item>
-    
-    <item>
-        <title>Baskonia ćwierćfinałowym rywalem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/139935-baskonia-cwiercfinalowym-rywalem-realu-madryt</link>
-        <pubDate>Sat, 31 May 2025 11:05:00 GMT</pubDate>
-        <description>Real Madryt zmierzy się z Baskonią w ćwierćfinale Ligi Endesa. Jeśli Królewscy zdołają pokonać Basków, to w półfinale trafią na Unicaję lub Barcelonę.</description>
     </item>
     
 </channel>
