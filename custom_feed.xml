@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Jun 2025 21:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 22:24:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139970-dzisiejsze-okladki</link>
+        <pubDate>Mon, 02 Jun 2025 00:15:00 GMT</pubDate>
+        <description>Plany Realu Madryt i wywiad z Robertem Lewandowskim to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rekordowy sezon w szkółce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139958-jak-rodzil-sie-xabi-alonso-jako-trener</link>
         <pubDate>Sun, 01 Jun 2025 14:28:00 GMT</pubDate>
         <description>Kariera trenerska Xabiego oficjalnie rozpoczęła się 31 maja 2018 roku. Wtedy to Bask otrzymał licencję UEFA A, a jego kolegami z kursu byli choćby Xavi, czy Raúl. Tak naprawdę trenerski duch obudził się w nim jeszcze w momencie kariery piłkarskiej.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt gratuluje PSG: „Najbardziej wyjątkowe gratulacje dla naszego kochanego Luisa Enrique”</title>
-        <link>https://www.realmadryt.pl/news/139957-real-madryt-gratuluje-psg-najbardziej-wyjatkowe-gratulacje-dla-naszego-kochanego-luisa-enrique</link>
-        <pubDate>Sun, 01 Jun 2025 13:50:00 GMT</pubDate>
-        <description>Królewscy po południu pogratulowali publicznie zwycięzcy sobotniego finału Ligi Mistrzów.</description>
     </item>
     
 </channel>
