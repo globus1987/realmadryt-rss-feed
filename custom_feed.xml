@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Jun 2025 11:19:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 11:39:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real nakazał Mbappé i Tchouaméniemu opóźnienie przyjazdu na zgrupowanie kadry</title>
+        <link>https://www.realmadryt.pl/news/139955-real-nakazal-mbappe-i-tchouameniemu-opoznienie-przyjazdu-na-zgrupowanie-kadry</link>
+        <pubDate>Sun, 01 Jun 2025 13:21:00 GMT</pubDate>
+        <description>Francuzi zagrają w czwartek w półfinale Ligi Narodów. Ich zgrupowanie trwa od piątku, ale piłkarze Realu Madryt dołączą do niego w poniedziałek. Tak zdecydował klub.</description>
+    </item>
     
     <item>
         <title>MARCA: Fede Valverde nie leci na zgrupowanie Urugwaju</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139943-paris-saint-germain-zwyciezca-ligi-mistrzow</link>
         <pubDate>Sat, 31 May 2025 19:55:00 GMT</pubDate>
         <description>Paris Saint-Germain sięgnęło w Monachium po swój pierwszy Puchar Europy, demolując w finale 5:0 Inter Mediolan.</description>
-    </item>
-    
-    <item>
-        <title>Podsumowanie ocen za sezon 2024/25 – defensywni pomocnicy</title>
-        <link>https://www.realmadryt.pl/news/139921-podsumowanie-ocen-za-sezon-2024-25-defensywni-pomocnicy</link>
-        <pubDate>Sat, 31 May 2025 18:00:00 GMT</pubDate>
-        <description>Jak spisali się Fede Valverde, Aurélien Tchouaméni, Eduardo Camavinga i Chema Andrés?</description>
     </item>
     
 </channel>
