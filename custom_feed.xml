@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Jun 2025 11:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 11:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt gratuluje PSG: „Najbardziej wyjątkowe gratulacje dla naszego kochanego Luisa Enrique”</title>
+        <link>https://www.realmadryt.pl/news/139957-real-madryt-gratuluje-psg-najbardziej-wyjatkowe-gratulacje-dla-naszego-kochanego-luisa-enrique</link>
+        <pubDate>Sun, 01 Jun 2025 13:50:00 GMT</pubDate>
+        <description>Królewscy po południu pogratulowali publicznie zwycięzcy sobotniego finału Ligi Mistrzów.</description>
+    </item>
+    
+    <item>
+        <title>Wciąż niejasna przyszłość Łunina</title>
+        <link>https://www.realmadryt.pl/news/139956-wciaz-niejasna-przyszlosc-lunina</link>
+        <pubDate>Sun, 01 Jun 2025 13:43:00 GMT</pubDate>
+        <description>Real Madryt rozpoczyna nowy cykl, w obrębie którego nie wszystko jest jednak jeszcze jasne. Pomimo oficjalnego ogłoszenia transferów Huijsena i Alexandra-Arnolda transferowe okienko w kontekście Królewskich będzie dawać sporo tematów do dyskusji. Jednym z piłkarzy, o jakich będzie się mówić, jest niewątpliwie Andrij Łunin.</description>
+    </item>
     
     <item>
         <title>Real nakazał Mbappé i Tchouaméniemu opóźnienie przyjazdu na zgrupowanie kadry</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/139948-dzisiejsze-okladki</link>
         <pubDate>Sun, 01 Jun 2025 00:33:00 GMT</pubDate>
         <description>Triumf Luisa Enrique to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: W końcu nadszedł wielki dzień</title>
-        <link>https://www.realmadryt.pl/news/139945-mbappe-w-koncu-nadszedl-wielki-dzien</link>
-        <pubDate>Sat, 31 May 2025 23:31:00 GMT</pubDate>
-        <description>Kylian Mbappé pogratulował swojemu byłemu klubowi wygrania Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Paris Saint-Germain zwycięzcą Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/139943-paris-saint-germain-zwyciezca-ligi-mistrzow</link>
-        <pubDate>Sat, 31 May 2025 19:55:00 GMT</pubDate>
-        <description>Paris Saint-Germain sięgnęło w Monachium po swój pierwszy Puchar Europy, demolując w finale 5:0 Inter Mediolan.</description>
     </item>
     
 </channel>
