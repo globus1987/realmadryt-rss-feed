@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Jun 2025 05:46:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:38:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>47 lat bez Santiago Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/139972-47-lat-bez-santiago-bernabeu</link>
+        <pubDate>Mon, 02 Jun 2025 07:50:00 GMT</pubDate>
+        <description>Klub wspomina dzisiaj o swojej wielkiej legendzie.</description>
+    </item>
     
     <item>
         <title>A Bola: Benfica oczekuje klauzuli za Carrerasa, Real celuje w dużo niższą kwotę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139961-oficjalnie-thibaut-courtois-kontuzjowany</link>
         <pubDate>Sun, 01 Jun 2025 16:55:00 GMT</pubDate>
         <description>Real Madryt wydał komunikat, w którym poinformował o kontuzji Belga.</description>
-    </item>
-    
-    <item>
-        <title>Valverde wchodzi w nowy wymiar</title>
-        <link>https://www.realmadryt.pl/news/139960-valverde-wchodzi-w-nowy-wymiar</link>
-        <pubDate>Sun, 01 Jun 2025 15:46:00 GMT</pubDate>
-        <description>Po odejściu Modricia i Lucasa, El Halcón będzie miał przed sobą tylko Carvajala na liście kapitanów. Jest niepodważalny na boisku i w szatni. Jako jedyny rozegrał w tym sezonie ponad 5000 minut.</description>
     </item>
     
 </channel>
