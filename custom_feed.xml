@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Jun 2025 07:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 07:44:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 2 czerwca</title>
+        <link>https://www.realmadryt.pl/news/139973-kartka-z-kalendarza-2-czerwca</link>
+        <pubDate>Mon, 02 Jun 2025 09:30:00 GMT</pubDate>
+        <description>Śmierć legendarnego prezesa, urodziny byłego prezesa i byłego trenera, a także prezentacje trenerów. Co działo się 2 czerwca?</description>
+    </item>
     
     <item>
         <title>Real Madryt zakończył sezon na czele rankingu UEFA</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139922-podsumowanie-ocen-za-sezon-2024-25-ofensywni-pomocnicy</link>
         <pubDate>Sun, 01 Jun 2025 18:00:00 GMT</pubDate>
         <description>Jak spisali się Jude Bellingham, Luka Modrić i Dani Ceballos?</description>
-    </item>
-    
-    <item>
-        <title>Paz: Powrót do Realu? Niech zdarzy się, co ma się zdarzyć</title>
-        <link>https://www.realmadryt.pl/news/139962-paz-powrot-do-realu-niech-zdarzy-sie-co-ma-sie-zdarzyc</link>
-        <pubDate>Sun, 01 Jun 2025 17:09:00 GMT</pubDate>
-        <description>Pomocnik dołączył do zgrupowania Argentyny i nie zdradził niczego w kwestii ewentualnego powrotu do Realu Madryt. W ostatnich dniach te informacje ustały.</description>
     </item>
     
 </channel>
