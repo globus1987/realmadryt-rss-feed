@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Jun 2025 20:28:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 20:45:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Moretto: Milan marzy o zakontraktowaniu Modricia</title>
+        <link>https://www.realmadryt.pl/news/139994-moretto-milan-marzy-o-zakontraktowaniu-modricia</link>
+        <pubDate>Mon, 02 Jun 2025 22:43:00 GMT</pubDate>
+        <description>W przeszłości nie ukrywał swojej sympatii do Rossonerich.</description>
+    </item>
     
     <item>
         <title>Kataloński Sport: Lucas Vázquez może dołączyć do Espanyolu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139982-carreras-jedna-z-gwiazd-prezentacji-nowej-koszulki-benfiki</link>
         <pubDate>Mon, 02 Jun 2025 13:36:00 GMT</pubDate>
         <description>Portugalski klub zaprezentował trykoty na kolejny sezon.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real chce Carrerasa, ale nie za wszelką cenę</title>
-        <link>https://www.realmadryt.pl/news/139981-marca-real-chce-carrerasa-ale-nie-za-wszelka-cene</link>
-        <pubDate>Mon, 02 Jun 2025 13:35:00 GMT</pubDate>
-        <description>MARCA potwierdza, że operacja sprowadzenia Hiszpana jest daleka od zamknięcia, a Benfica stawia twarde warunki.</description>
     </item>
     
 </channel>
