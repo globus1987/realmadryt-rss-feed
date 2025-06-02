@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Jun 2025 06:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:58:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt zakończył sezon na czele rankingu UEFA</title>
+        <link>https://www.realmadryt.pl/news/139971-real-madryt-zakonczyl-sezon-na-czele-rankingu-uefa</link>
+        <pubDate>Mon, 02 Jun 2025 08:40:00 GMT</pubDate>
+        <description>Po zaktualizowaniu klubowego rankingu UEFA na jego czele sezon kończą Królewscy. Ostatni raz taka sytuacja miała miejsce w 2019 roku.</description>
+    </item>
     
     <item>
         <title>47 lat bez Santiago Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139962-paz-powrot-do-realu-niech-zdarzy-sie-co-ma-sie-zdarzyc</link>
         <pubDate>Sun, 01 Jun 2025 17:09:00 GMT</pubDate>
         <description>Pomocnik dołączył do zgrupowania Argentyny i nie zdradził niczego w kwestii ewentualnego powrotu do Realu Madryt. W ostatnich dniach te informacje ustały.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Thibaut Courtois kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/139961-oficjalnie-thibaut-courtois-kontuzjowany</link>
-        <pubDate>Sun, 01 Jun 2025 16:55:00 GMT</pubDate>
-        <description>Real Madryt wydał komunikat, w którym poinformował o kontuzji Belga.</description>
     </item>
     
 </channel>
