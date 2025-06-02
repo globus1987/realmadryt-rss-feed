@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Jun 2025 21:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 22:26:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/139998-dzisiejsze-okladki</link>
+        <pubDate>Tue, 03 Jun 2025 00:13:00 GMT</pubDate>
+        <description>Wywiady z Grimaldo i Huijsenem to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Moretto: Milan marzy o zakontraktowaniu Modricia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139983-oficjalnie-mylene-chavas-odchodzi-z-realu-madryt</link>
         <pubDate>Mon, 02 Jun 2025 15:07:00 GMT</pubDate>
         <description>Królewscy wydali komunikat, w którym przekazali, że Mylène Chavas, której kontrakt wygasł wraz z zakończeniem bieżącego sezonu, opuszcza żeński zespół.</description>
-    </item>
-    
-    <item>
-        <title>Carreras jedną z gwiazd prezentacji nowej koszulki Benfiki</title>
-        <link>https://www.realmadryt.pl/news/139982-carreras-jedna-z-gwiazd-prezentacji-nowej-koszulki-benfiki</link>
-        <pubDate>Mon, 02 Jun 2025 13:36:00 GMT</pubDate>
-        <description>Portugalski klub zaprezentował trykoty na kolejny sezon.</description>
     </item>
     
 </channel>
