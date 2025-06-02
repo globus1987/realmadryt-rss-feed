@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Jun 2025 13:37:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 13:55:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen: Chcę być jak Sergio Ramos</title>
+        <link>https://www.realmadryt.pl/news/139984-huijsen-chce-byc-jak-sergio-ramos</link>
+        <pubDate>Mon, 02 Jun 2025 15:45:00 GMT</pubDate>
+        <description>Nowy obrońca Realu Madryt, przebywający na zgrupowaniu reprezentacji Hiszpanii, udzielił wywiadu dziennikowi AS.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Mylène Chavas odchodzi z Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139972-47-lat-bez-santiago-bernabeu</link>
         <pubDate>Mon, 02 Jun 2025 07:50:00 GMT</pubDate>
         <description>Klub wspomina dzisiaj o swojej wielkiej legendzie.</description>
-    </item>
-    
-    <item>
-        <title>A Bola: Benfica oczekuje klauzuli za Carrerasa, Real celuje w dużo niższą kwotę</title>
-        <link>https://www.realmadryt.pl/news/139968-a-bola-benfica-oczekuje-klauzuli-za-carrerasa-real-celuje-w-duzo-nizsza-kwote</link>
-        <pubDate>Mon, 02 Jun 2025 07:00:00 GMT</pubDate>
-        <description>Przed weekendem temat Hiszpana mocno schłodził prowadzący Chiringuito. W weekend także doniesienia z Portugalii wskazały, że do porozumienia z Benficą pozostaje bardzo daleko.</description>
     </item>
     
 </channel>
