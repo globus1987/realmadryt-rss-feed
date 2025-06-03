@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Jun 2025 09:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 10:29:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Czy Rodrygo poleci na Klubowy Mundial? Na ten moment nie ma odpowiedzi”</title>
+        <link>https://www.realmadryt.pl/news/140006-czy-rodrygo-poleci-na-klubowy-mundial-na-ten-moment-nie-ma-odpowiedzi</link>
+        <pubDate>Tue, 03 Jun 2025 12:16:00 GMT</pubDate>
+        <description>Dziennikarz madryckiego ABC przekazał najnowsze wiadomości w sprawie Rodrygo w trakcie programu na platformie Twitch.</description>
+    </item>
     
     <item>
         <title>Mateo: Ten mecz jest absolutnie kluczowy.</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140002-psg-zainteresowane-mario-gila-ile-moze-zarobic-na-tym-real-madryt</link>
         <pubDate>Tue, 03 Jun 2025 07:00:00 GMT</pubDate>
         <description>Wychowanek Królewskich może dołączyć do paryskiego klubu. Real Madryt posiada do niego prawa i może zarobić na tej operacji.</description>
-    </item>
-    
-    <item>
-        <title>Pedrerol: Carreras jest blisko, a Real pozyska też pomocnika i napastnika</title>
-        <link>https://www.realmadryt.pl/news/140001-pedrerol-carreras-jest-blisko-a-real-pozyska-tez-pomocnika-i-napastnika</link>
-        <pubDate>Tue, 03 Jun 2025 02:15:00 GMT</pubDate>
-        <description>Prowadzący Chiringuito podał najnowsze informacje w sprawie planów Królewskich.</description>
     </item>
     
 </channel>
