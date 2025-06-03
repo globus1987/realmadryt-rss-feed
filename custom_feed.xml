@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Jun 2025 22:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 22:45:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140024-dzisiejsze-okladki</link>
+        <pubDate>Wed, 04 Jun 2025 00:35:00 GMT</pubDate>
+        <description>Wywiady z Isco i Gavim oraz przygotowania do Klubowego Mundialu to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Carla Camacho odchodzi z Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/139980-podsumowanie-ocen-za-sezon-2024-25-srodkowi-napastnicy</link>
         <pubDate>Tue, 03 Jun 2025 18:00:00 GMT</pubDate>
         <description>Jak spisali się Kylian Mbappé, Endrick i Gonzalo García?</description>
-    </item>
-    
-    <item>
-        <title>Zubimendi: Co, gdyby zadzwonił Xabi? Zawsze mówiłem, że to mój idol</title>
-        <link>https://www.realmadryt.pl/news/140011-zubimendi-co-gdyby-zadzwonil-xabi-zawsze-mowilem-ze-to-moj-idol</link>
-        <pubDate>Tue, 03 Jun 2025 17:11:00 GMT</pubDate>
-        <description>Martín Zubimendi udzielił wywiadu Radio Nacional na zgrupowaniu reprezentacji Hiszpanii. Pomocnik Realu Sociedad cały czas jest łączony z Arsenalem, ale sam tonuje plotki. Klauzula jego odejścia to 60 milionów euro i co jakiś czas wraca się do tematu zainteresowania ze strony Realu Madryt. Przedstawiamy jego wypowiedzi na temat przyszłości.</description>
     </item>
     
 </channel>
