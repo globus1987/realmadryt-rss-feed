@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Jun 2025 23:42:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 23:55:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Times: UEFA może ukarać Barcelonę za naruszenie Finansowego Fair Play</title>
+        <link>https://www.realmadryt.pl/news/140025-the-times-uefa-moze-ukarac-barcelone-za-naruszenie-finansowego-fair-play</link>
+        <pubDate>Wed, 04 Jun 2025 01:46:00 GMT</pubDate>
+        <description>W Anglii informuje się, że Barcelona po raz drugi z rzędu złamała Finansowe Fair Play UEFA. Przy pierwszy razie otrzymała grzywnę, a teraz kara może mieć większy wymiar.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140013-taniec-numerow</link>
         <pubDate>Tue, 03 Jun 2025 19:16:00 GMT</pubDate>
         <description>Rotacja numerów na koszulkach odbywa się w Realu Madryt każdego lata. Tym razem zmiany będą jednak zakrojone na szerszą skalę niż zazwyczaj.</description>
-    </item>
-    
-    <item>
-        <title>Podsumowanie ocen za sezon 2024/25 – środkowi napastnicy</title>
-        <link>https://www.realmadryt.pl/news/139980-podsumowanie-ocen-za-sezon-2024-25-srodkowi-napastnicy</link>
-        <pubDate>Tue, 03 Jun 2025 18:00:00 GMT</pubDate>
-        <description>Jak spisali się Kylian Mbappé, Endrick i Gonzalo García?</description>
     </item>
     
 </channel>
