@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Jun 2025 11:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 12:55:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>MilanNews: Na początku przyszłego tygodnia testy medyczne Modricia</title>
+        <link>https://www.realmadryt.pl/news/140034-milannews-na-poczatku-przyszlego-tygodnia-testy-medyczne-modricia</link>
+        <pubDate>Wed, 04 Jun 2025 14:18:00 GMT</pubDate>
+        <description>Pomocnik nie mógł się oprzeć ofercie klubu z Mediolanu, który jak twierdził, wspierał jako dziecko.</description>
+    </item>
+    
+    <item>
+        <title>Podcast 6x31: Najlepszy i najgorszy piłkarz sezonu</title>
+        <link>https://www.realmadryt.pl/news/140033-podcast-6x31-najlepszy-i-najgorszy-pilkarz-sezonu</link>
+        <pubDate>Wed, 04 Jun 2025 14:01:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest podsumowaniu zakończonej europejskiej części sezonu.</description>
+    </item>
     
     <item>
         <title>Modrić odrzucił propozycję powrotu do Dinama i wybrał Milan</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140025-the-times-uefa-moze-ukarac-barcelone-za-naruszenie-finansowego-fair-play</link>
         <pubDate>Wed, 04 Jun 2025 01:46:00 GMT</pubDate>
         <description>W Anglii informuje się, że Barcelona po raz drugi z rzędu złamała Finansowe Fair Play UEFA. Przy pierwszy razie otrzymała grzywnę, a teraz kara może mieć większy wymiar.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140024-dzisiejsze-okladki</link>
-        <pubDate>Wed, 04 Jun 2025 00:35:00 GMT</pubDate>
-        <description>Wywiady z Isco i Gavim oraz przygotowania do Klubowego Mundialu to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Carla Camacho odchodzi z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/140022-oficjalnie-carla-camacho-odchodzi-z-realu-madryt</link>
-        <pubDate>Tue, 03 Jun 2025 22:40:00 GMT</pubDate>
-        <description>Królewscy wydali komunikat, w którym przekazali, że Carla Camacho, której kontrakt wygasł wraz z zakończeniem bieżącego sezonu, opuszcza żeński zespół.</description>
     </item>
     
 </channel>
