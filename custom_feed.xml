@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Jun 2025 22:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 22:54:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140052-dzisiejsze-okladki</link>
+        <pubDate>Thu, 05 Jun 2025 00:43:00 GMT</pubDate>
+        <description>Półfinał Hiszpanii z Francją i transfer Joana Garcíi to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Portugalia w finale Ligi Narodów! [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140034-milannews-na-poczatku-przyszlego-tygodnia-testy-medyczne-modricia</link>
         <pubDate>Wed, 04 Jun 2025 14:18:00 GMT</pubDate>
         <description>Pomocnik nie mógł się oprzeć ofercie klubu z Mediolanu, który jak twierdził, wspierał jako dziecko.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6x31: Najlepszy i najgorszy piłkarz sezonu</title>
-        <link>https://www.realmadryt.pl/news/140033-podcast-6x31-najlepszy-i-najgorszy-pilkarz-sezonu</link>
-        <pubDate>Wed, 04 Jun 2025 14:01:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, który poświęcony jest podsumowaniu zakończonej europejskiej części sezonu.</description>
     </item>
     
 </channel>
