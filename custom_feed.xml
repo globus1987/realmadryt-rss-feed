@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Jun 2025 14:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jun 2025 15:09:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joselu odwiedził Valdebebas</title>
+        <link>https://www.realmadryt.pl/news/140039-joselu-odwiedzil-valdebebas</link>
+        <pubDate>Wed, 04 Jun 2025 16:48:00 GMT</pubDate>
+        <description>Były napastnik Realu Madryt wykorzystał czas wolny, aby zajrzeć do ośrodka treningowego Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Media z Pampeluny: Budimir opcją na wzmocnienie ataku Realu</title>
+        <link>https://www.realmadryt.pl/news/140038-media-z-pampeluny-budimir-opcja-na-wzmocnienie-ataku-realu</link>
+        <pubDate>Wed, 04 Jun 2025 16:45:00 GMT</pubDate>
+        <description>Media z Nawarry informują, że Ante Budimir budzi niemałe zainteresowanie na rynku transferowym. Trzeci napastnik ubiegłego sezonu w Hiszpanii łączony jest przede wszystkim z Beşiktaşem, ale wspomina się również o Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: UEFA od dzisiaj wprowadza nowe wytyczne ws. podwójnego dotknięcia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140028-trwaja-negocjacje-w-sprawie-odpoczynku-i-przygotowan-przed-kolejnym-sezonem</link>
         <pubDate>Wed, 04 Jun 2025 09:00:00 GMT</pubDate>
         <description>Za kulisami trwają negocjacje w sprawie terminarza hiszpańskiego futbolu na kolejny sezon. Królewscy mogą rozpocząć sezon później niż reszta drużyn.</description>
-    </item>
-    
-    <item>
-        <title>Juni Calafat jest w Buenos Aires i prowadzi rozmowy w sprawie Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/140030-juni-calafat-jest-w-buenos-aires-i-prowadzi-rozmowy-w-sprawie-mastantuono</link>
-        <pubDate>Wed, 04 Jun 2025 08:38:00 GMT</pubDate>
-        <description>W związku z zaangażowaniem PSG w sprawę Argentyńczyka, władze Realu Madryt chcą jak najszybciej sfinalizować transfer utalentowanego zawodnika River Plate.</description>
-    </item>
-    
-    <item>
-        <title>ARA: Sędziowie tworzą stowarzyszenie, by bronić się przed Realem i innymi klubami</title>
-        <link>https://www.realmadryt.pl/news/140026-ara-sedziowie-tworza-stowarzyszenie-by-bronic-sie-przed-realem-i-innymi-klubami</link>
-        <pubDate>Wed, 04 Jun 2025 08:20:00 GMT</pubDate>
-        <description>Katalońska ARA, która na co dzień słynie z publikowania mocnych informacji o finansach Barcelony i działania prezesa Joana Laporty, informuje tym razem o planach, jakie realizują hiszpańscy sędziowie w związku z poczuciem niesprawiedliwych i nieczystych ataków na ich pracę.</description>
     </item>
     
 </channel>
