@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Jun 2025 19:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jun 2025 20:23:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Reuters: Real dopiął transfer Mastantuono</title>
+        <link>https://www.realmadryt.pl/news/140077-reuters-real-dopial-transfer-mastantuono</link>
+        <pubDate>Thu, 05 Jun 2025 22:06:00 GMT</pubDate>
+        <description>Agencja Reuters przekazała, że transfer Franco Mastantuono do Realu Madryt został sfinalizowany.</description>
+    </item>
     
     <item>
         <title>MARCA: Júlio Baptista odrzucił propozycję Realu Madryt</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>Hiszpania vs Francja: Kto zagra z Portugalią w finale? [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140050-hiszpania-vs-francja-kto-zagra-z-portugalia-w-finale-live</link>
+        <title>Hiszpania vs Francja: La Roja miażdży Trójkolorowych [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140050-hiszpania-vs-francja-la-roja-miazdzy-trojkolorowych-live</link>
         <pubDate>Thu, 05 Jun 2025 19:48:00 GMT</pubDate>
         <description>W Stuttgarcie trwa potyczka Hiszpanii z Francją. Bliżej finału jest reprezentacja prowadzona przez Luisa de la Fuente, która prowadzi 2:0 po golach Nico Williamsa i Mikela Merino.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140064-ancelotti-vinicius-pokaze-w-kadrze-najlepsza-wersje-jak-robi-to-w-realu</link>
         <pubDate>Thu, 05 Jun 2025 13:35:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej przed swoim debiutem w reprezentacji Brazylii. Przedstawiamy najważniejsze wypowiedzi byłego szkoleniowca Królewskich z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>CIES: Lamine Yamal jest wyceniany trzy razy wyżej niż Vinícius</title>
-        <link>https://www.realmadryt.pl/news/140063-cies-lamine-yamal-jest-wyceniany-trzy-razy-wyzej-niz-vinicius</link>
-        <pubDate>Thu, 05 Jun 2025 12:21:00 GMT</pubDate>
-        <description>Bellingham spadł na trzecie miejsce, a wartość Viníciusa jest coraz niższa. Zdecydowanym liderem gwiazdor Barcelony.</description>
     </item>
     
 </channel>
