@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Jun 2025 15:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 15:43:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak zastąpić Gonzalo i Víctora Muñoza?</title>
+        <link>https://www.realmadryt.pl/news/140098-jak-zastapic-gonzalo-i-victora-munoza</link>
+        <pubDate>Fri, 06 Jun 2025 17:26:00 GMT</pubDate>
+        <description>Wspomniani atakujący dali rezerwom w minionym sezonie aż 36 goli.</description>
+    </item>
     
     <item>
         <title>Xabi przyjrzy się Victorowi Muñozowi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140081-kartka-z-kalendarza-6-czerwca</link>
         <pubDate>Fri, 06 Jun 2025 09:50:00 GMT</pubDate>
         <description>Urodziny legendarnego zawodnika, Klasyki w Pucharze Króla i trzeci triumf w tych rozgrywkach w wykonaniu koszykarzy. Co działo się 6 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Po awans do półfinału</title>
-        <link>https://www.realmadryt.pl/news/140080-po-awans-do-polfinalu</link>
-        <pubDate>Fri, 06 Jun 2025 09:15:00 GMT</pubDate>
-        <description>Real Madryt rozegra dzisiaj drugi pojedynek z Baskonią. Królewscy prowadzą w tej rywalizacji 1:0, więc dzisiaj mogą sobie zagwarantować awans do półfinału.</description>
     </item>
     
 </channel>
