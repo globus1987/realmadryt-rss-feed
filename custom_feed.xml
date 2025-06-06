@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Jun 2025 07:42:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Jun 2025 07:55:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 6 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140081-kartka-z-kalendarza-6-czerwca</link>
+        <pubDate>Fri, 06 Jun 2025 09:50:00 GMT</pubDate>
+        <description>Urodziny legendarnego zawodnika, Klasyki w Pucharze Króla i trzeci triumf w tych rozgrywkach w wykonaniu koszykarzy. Co działo się 6 czerwca?</description>
+    </item>
     
     <item>
         <title>Po awans do półfinału</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140079-oficjalnie-jesus-fortea-2029</link>
         <pubDate>Thu, 05 Jun 2025 22:26:00 GMT</pubDate>
         <description>Jesús Fortea związał się z Realem Madryt kontraktem do 2029 roku. Wszystko potwierdził sam zawodnik, publikując w mediach społecznościowych krótkie video.</description>
-    </item>
-    
-    <item>
-        <title>Reuters: Real dopiął transfer Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/140077-reuters-real-dopial-transfer-mastantuono</link>
-        <pubDate>Thu, 05 Jun 2025 22:06:00 GMT</pubDate>
-        <description>Agencja Reuters przekazała, że transfer Franco Mastantuono do Realu Madryt został sfinalizowany.</description>
     </item>
     
 </channel>
