@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Jun 2025 16:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 16:55:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real „wypisuje się” z Euro U-19</title>
+        <link>https://www.realmadryt.pl/news/140127-real-wypisuje-sie-z-euro-u-19</link>
+        <pubDate>Sat, 07 Jun 2025 18:39:00 GMT</pubDate>
+        <description>Początkowo na liście selekcjonera Gallardo było trzech hiszpańskich zawodników z Valdebebas, ale ostatecznie żaden z nich nie uda się do Rumunii.</description>
+    </item>
     
     <item>
         <title>COPE: Kolejny kandydaci odmawiają prowadzenia zespołu kobiet</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140116-eksplozja-talentu-deana-huijsena</link>
         <pubDate>Sat, 07 Jun 2025 09:42:00 GMT</pubDate>
         <description>W meczu z Francją Dean Huijsen pokazał wielką dojrzałość i udowodnił, że jest gotowy na grę w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Trybunał Administracyjny ds. Sportu umarza kolejną skargę Realu na Tebasa</title>
-        <link>https://www.realmadryt.pl/news/140115-trybunal-administracyjny-ds-sportu-umarza-kolejna-skarge-realu-na-tebasa</link>
-        <pubDate>Sat, 07 Jun 2025 09:33:00 GMT</pubDate>
-        <description>Trybunał Administracyjny ds. Sportu rezygnuje z wszczęcia postępowania wobec prezesa La Ligi za wykluczenie Królewskich z procesu, w którym uzgodniono sprzedaż praw telewizyjnych.</description>
     </item>
     
 </channel>
