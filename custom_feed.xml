@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Jun 2025 21:23:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 21:40:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Güler z bramką, a Łunin jedynie jako rezerwowy</title>
+        <link>https://www.realmadryt.pl/news/140130-gueler-z-bramka-a-lunin-jedynie-jako-rezerwowy</link>
+        <pubDate>Sat, 07 Jun 2025 23:37:00 GMT</pubDate>
+        <description>Ukraina i Turcja rozegrały dzisiaj dwa towarzyskie spotkania odpowiednio z Kanadą i Stanami Zjednoczonymi. Ukraińcy przegrali swój mecz 2:4, a Andrij Łunin pełne 90 minut przesiedział na ławce rezerwowych, natomiast Turcy wygrali 2:1, a Arda Güler wyszedł w pierwszym składzie i zdobył bramkę na 1:1.</description>
+    </item>
     
     <item>
         <title>Salgado: Najpierw trzeba podziękować Carlo, a później zacząć wspierać Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140118-efekt-domina-po-odejsciu-raula</link>
         <pubDate>Sat, 07 Jun 2025 12:12:00 GMT</pubDate>
         <description>MARCA informuje o planowanych zmianach w szkółce. Są one możliwe po odejściu Raúla, które uruchomiło efekt domina i umożliwiło awans przynajmniej kilku szkoleniowcom.</description>
-    </item>
-    
-    <item>
-        <title>Corazón Classic Match: Real zremisował z Borussią, gole Kroosa i Raúla</title>
-        <link>https://www.realmadryt.pl/news/140117-corazon-classic-match-real-zremisowal-z-borussia-gole-kroosa-i-raula</link>
-        <pubDate>Sat, 07 Jun 2025 11:55:00 GMT</pubDate>
-        <description>Na Bernabéu odbył się charytatywny mecz.</description>
     </item>
     
 </channel>
