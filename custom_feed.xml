@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Jun 2025 07:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 08:30:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 7 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140112-kartka-z-kalendarza-7-czerwca</link>
+        <pubDate>Sat, 07 Jun 2025 10:20:00 GMT</pubDate>
+        <description>Mecz w hołdzie dla Alfredo Di Stéfano, prezentacja pozyskanego z Barcelony zawodnika, Tenerifazo i tragiczna śmierć chorwackiego koszykarza. Co działo się 7 czerwca?</description>
+    </item>
     
     <item>
         <title>Eksplozja talentu Deana Huijsena</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140106-tebas-zlota-pilka-powinna-rozstrzygac-sie-miedzy-lamineem-a-viniciusem</link>
         <pubDate>Sat, 07 Jun 2025 05:30:00 GMT</pubDate>
         <description>Wyższy Instytut Prawa i Ekonomii zorganizował w piątek w Madrycie swój tradycyjny kongres, na którym zgromadził czołowe postaci ze świata sportu. Głos zabrał tam prezes La Ligi, po czym wyszedł także do zgromadzonych dziennikarzy. Przedstawiamy jego komentarze.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140109-dzisiejsze-okladki</link>
-        <pubDate>Sat, 07 Jun 2025 00:39:00 GMT</pubDate>
-        <description>Transfer Franco Mastantuono, awans Carlosa Alcaraza i Złota Piłka dla Lamine'a Yamala to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
