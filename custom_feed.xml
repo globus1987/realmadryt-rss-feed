@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Jun 2025 11:19:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jun 2025 11:40:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Zagłosowałbym na Dembélé w Złotej Piłce, czy trzeba to w ogóle tłumaczyć?</title>
+        <link>https://www.realmadryt.pl/news/140119-mbappe-zaglosowalbym-na-dembele-w-zlotej-pilce-czy-trzeba-to-w-ogole-tlumaczyc</link>
+        <pubDate>Sat, 07 Jun 2025 13:40:00 GMT</pubDate>
+        <description>Kylian Mbappé wziął udział w konferencji prasowej przed spotkaniem z Niemcami.</description>
+    </item>
     
     <item>
         <title>Efekt domina po odejściu Raúla</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Corazón Classic Match: Real Madryt vs Borussia Dortmund [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/140117-corazon-classic-match-real-madryt-vs-borussia-dortmund-na-zywo</link>
+        <title>Corazón Classic Match: Real prowadzi z Borussią po golach Kroosa i Raúla [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/140117-corazon-classic-match-real-prowadzi-z-borussia-po-golach-kroosa-i-raula-na-zywo</link>
         <pubDate>Sat, 07 Jun 2025 11:55:00 GMT</pubDate>
-        <description>Kroos i Marcelo wracają dzisiaj na Bernabéu!</description>
+        <description>Charytatywny mecz na Bernabéu.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140100-cherki-marzy-o-grze-w-realu-ale-na-razie-idzie-do-city</link>
         <pubDate>Sat, 07 Jun 2025 07:50:00 GMT</pubDate>
         <description>Francuski piłkarz w kilku wywiadach przyznał, że jego marzeniem jest gra w koszulce Los Blancos.</description>
-    </item>
-    
-    <item>
-        <title>Kroos i spółka zagrają dzisiaj w meczu Legend na Santiago Bernabéu [TRANSMISJA]</title>
-        <link>https://www.realmadryt.pl/news/140101-kroos-i-spolka-zagraja-dzisiaj-w-meczu-legend-na-santiago-bernabeu-transmisja</link>
-        <pubDate>Sat, 07 Jun 2025 07:00:00 GMT</pubDate>
-        <description>Dzisiaj w południe odbędzie się 12. edycja charytatywnego meczu legend Realu Madryt. Wielką atrakcją jest powrót Toniego Kroosa, Marcelo, Pepego czy Rafy Varane'a do gry w barwach Królewskich.</description>
     </item>
     
 </channel>
