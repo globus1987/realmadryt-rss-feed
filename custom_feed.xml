@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Jun 2025 22:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 23:24:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140164-dzisiejsze-okladki</link>
+        <pubDate>Mon, 09 Jun 2025 01:04:00 GMT</pubDate>
+        <description>Wygrana Carlosa Alcaraza w Paryżu i porażka Hiszpanów z Portugalczykami to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Unicaja rywalem Realu Madryt w półfinale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140152-fabrizio-romano-real-zaproponuje-courtois-nowy-kontrakt</link>
         <pubDate>Sun, 08 Jun 2025 13:53:00 GMT</pubDate>
         <description>W ostatnim sezonie golkiper zachował 15 czystych kont we wszystkich rozgrywkach i często ratował Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Maroto: Stiller nigdy nie przejdzie do Realu</title>
-        <link>https://www.realmadryt.pl/news/140151-maroto-stiller-nigdy-nie-przejdzie-do-realu</link>
-        <pubDate>Sun, 08 Jun 2025 13:50:00 GMT</pubDate>
-        <description>Joaquín Maroto to dziennikarz Asa, który może pochwalić się bezpośrednim dostępem do Florentino Péreza. Maroto to były dyrektor komunikacji w Realu Madryt i były dyrektor komunikacji w firmie prezesa Królewskich.</description>
     </item>
     
 </channel>
