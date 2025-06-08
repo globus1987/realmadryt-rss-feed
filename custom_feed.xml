@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Jun 2025 05:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 06:37:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joyeux anniversaire, Ferland!</title>
+        <link>https://www.realmadryt.pl/news/140137-joyeux-anniversaire-ferland</link>
+        <pubDate>Sun, 08 Jun 2025 08:20:00 GMT</pubDate>
+        <description>Dziś 30. urodziny obchodzi Ferland Mendy. Obrońcy Królewskich z okazji jego święta życzymy zdrowia.</description>
+    </item>
     
     <item>
         <title>Abdellah Ouazane i strategia pozyskiwania coraz młodszych talentów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140127-real-wypisuje-sie-z-euro-u-19</link>
         <pubDate>Sat, 07 Jun 2025 18:39:00 GMT</pubDate>
         <description>Początkowo na liście selekcjonera Gallardo było trzech hiszpańskich zawodników z Valdebebas, ale ostatecznie żaden z nich nie uda się do Rumunii.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Kolejny kandydaci odmawiają prowadzenia zespołu kobiet</title>
-        <link>https://www.realmadryt.pl/news/140126-cope-kolejny-kandydaci-odmawiaja-prowadzenia-zespolu-kobiet</link>
-        <pubDate>Sat, 07 Jun 2025 18:29:00 GMT</pubDate>
-        <description>Od zwolnienia Alberto Torila minęło już kilka dni, a Real Madryt dalej nie znalazł jego następcy. Kolejni kandydaci, jak Guti czy Solari, odmawiają objęcia posady trenera pierwszej drużyny kobiet.</description>
     </item>
     
 </channel>
