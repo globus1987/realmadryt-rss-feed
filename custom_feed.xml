@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Jun 2025 08:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Jun 2025 09:25:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Amerykańskie wyzwanie Gonzalo</title>
+        <link>https://www.realmadryt.pl/news/140144-amerykanskie-wyzwanie-gonzalo</link>
+        <pubDate>Sun, 08 Jun 2025 11:01:00 GMT</pubDate>
+        <description>Klubowy Mundial będzie ważnym egzaminem dla Gonzalo. Xabi Alonso i działacze widzą w nim napastnika o profilu Joselu. Jego przyszłość wciąż stoi jednak pod znakiem zapytania.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 8 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140135-kartka-z-kalendarza-8-czerwca</link>
+        <pubDate>Sun, 08 Jun 2025 11:00:00 GMT</pubDate>
+        <description>Urodziny legendarnego prezesa i legendarnego piłkarza, wejście, które niemal zakończyło karierę Amancio, a także wyjątkowy mecz reprezentacji Hiszpanii z samymi piłkarzami młodzieżówki. Co działo się 8 czerwca?</description>
+    </item>
     
     <item>
         <title>Huijsen z szansą na zwycięstwo w Lidze Narodów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140134-dzisiejsze-okladki</link>
         <pubDate>Sun, 08 Jun 2025 01:00:00 GMT</pubDate>
         <description>Mecz między Hiszpanią a Portugalią to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Güler z bramką, a Łunin jedynie jako rezerwowy</title>
-        <link>https://www.realmadryt.pl/news/140130-gueler-z-bramka-a-lunin-jedynie-jako-rezerwowy</link>
-        <pubDate>Sat, 07 Jun 2025 23:37:00 GMT</pubDate>
-        <description>Ukraina i Turcja rozegrały dzisiaj dwa towarzyskie spotkania odpowiednio z Kanadą i Stanami Zjednoczonymi. Ukraińcy przegrali swój mecz 2:4, a Andrij Łunin pełne 90 minut przesiedział na ławce rezerwowych, natomiast Turcy wygrali 2:1, a Arda Güler wyszedł w pierwszym składzie i zdobył bramkę na 1:1.</description>
-    </item>
-    
-    <item>
-        <title>Salgado: Najpierw trzeba podziękować Carlo, a później zacząć wspierać Xabiego</title>
-        <link>https://www.realmadryt.pl/news/140129-salgado-najpierw-trzeba-podziekowac-carlo-a-pozniej-zaczac-wspierac-xabiego</link>
-        <pubDate>Sat, 07 Jun 2025 21:38:00 GMT</pubDate>
-        <description>Míchel Salgado, legendarny prawy obrońca Realu Madryt, rozmawiał z dziennikarzami w strefie mieszanej po towarzyskim spotkaniu Corazón Classic Match z Borussią. Przedstawiamy wypowiedzi byłego defensora Królewskich.</description>
     </item>
     
 </channel>
