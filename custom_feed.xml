@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Jun 2025 21:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jun 2025 22:26:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140185-dzisiejsze-okladki</link>
+        <pubDate>Tue, 10 Jun 2025 00:08:00 GMT</pubDate>
+        <description>Transfer Zubimendiego, początek Xabiego i zamieszanie w bramce Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Chorwaci rozbijają Czechów, gol i asysta Modricia! [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140171-jakie-wyzwania-stoja-przed-xabim-alonso</link>
         <pubDate>Mon, 09 Jun 2025 12:06:00 GMT</pubDate>
         <description>Nowy projekt Realu Madryt startuje od ostatniego trofeum w sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Prezes River: Klauzula jest jednostronna – jeśli piłkarz chce odejść, uruchamia ją i niewiele można zrobić</title>
-        <link>https://www.realmadryt.pl/news/140170-prezes-river-klauzula-jest-jednostronna-jesli-pilkarz-chce-odejsc-uruchamia-ja-i-niewiele-mozna-zrobic</link>
-        <pubDate>Mon, 09 Jun 2025 11:07:00 GMT</pubDate>
-        <description>Jorge Brito odniósł się do transferu Franco Mastantuono.</description>
     </item>
     
 </channel>
