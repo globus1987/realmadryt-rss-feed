@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Jun 2025 11:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 12:54:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen: To najlepszy dzień w moim życiu</title>
+        <link>https://www.realmadryt.pl/news/140204-huijsen-to-najlepszy-dzien-w-moim-zyciu</link>
+        <pubDate>Tue, 10 Jun 2025 14:30:00 GMT</pubDate>
+        <description>Dean Huijsen po swojej prezentacji pojawił się na konferencji prasowej w Valdebebas. Przedstawiamy pełny zapis z tego spotkania zawodnika z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Florentino: Dean, jesteś gotów, by odnieść sukces w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140198-israel-salazar-znam-prawde-w-tej-sprawie-asencio-i-jestem-o-niego-spokojny</link>
         <pubDate>Tue, 10 Jun 2025 11:13:00 GMT</pubDate>
         <description>Israel Salazar udzielił wywiadu dziennikowi AS. Napastnik od 2015 do 2023 występował w szkółce Królewskich. Obecnie jest piłkarzem Estorilu.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Arsenal uważa transfer Zubimendiego za dopięty</title>
-        <link>https://www.realmadryt.pl/news/140192-the-athletic-arsenal-uwaza-transfer-zubimendiego-za-dopiety</link>
-        <pubDate>Tue, 10 Jun 2025 10:24:00 GMT</pubDate>
-        <description>Real ceni pomocnika, ale nie próbuje go sprowadzić.</description>
     </item>
     
 </channel>
