@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Jun 2025 21:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 22:26:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140215-dzisiejsze-okladki</link>
+        <pubDate>Wed, 11 Jun 2025 00:20:00 GMT</pubDate>
+        <description>Prezentacja Huijsena i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Historyczna wpadka Anglii z Senegalem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140197-dean-huijsen-zaprezentowany</link>
         <pubDate>Tue, 10 Jun 2025 12:59:00 GMT</pubDate>
         <description>Hiszpański piłkarz pojawił się dzisiaj w Valdebebas, gdzie w towarzystwie prezesa, członków zarządu i swojej rodziny został przedstawiony jako nowy stoper Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/140200-dzisiejszy-trening</link>
-        <pubDate>Tue, 10 Jun 2025 12:56:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do Klubowych Mistrzostw Świata, które rozpoczną od meczu z Al-Hilal 18 czerwca.</description>
     </item>
     
 </channel>
