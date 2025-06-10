@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Jun 2025 13:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 14:28:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Owen: Nie wiedziałem, że istnieje Złota Piłka</title>
+        <link>https://www.realmadryt.pl/news/140208-owen-nie-wiedzialem-ze-istnieje-zlota-pilka</link>
+        <pubDate>Tue, 10 Jun 2025 15:58:00 GMT</pubDate>
+        <description>Anglik wyjawił, że dopóki nie otrzymał tej nagrody, nigdy wcześniej o niej nie słyszał.</description>
+    </item>
     
     <item>
         <title>MARCA: Napoli negocjuje transfer Miguela Gutiérreza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140194-dean-huijsen-podpisal-kontrakt-z-realem-madryt</link>
         <pubDate>Tue, 10 Jun 2025 12:22:00 GMT</pubDate>
         <description>Hiszpan formalnie został nowym piłkarzem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real Madryt zapisze miliard euro w klauzuli Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/140199-marca-real-madryt-zapisze-miliard-euro-w-klauzuli-mastantuono</link>
-        <pubDate>Tue, 10 Jun 2025 12:00:00 GMT</pubDate>
-        <description>Franco Mastantuono stanie się pierwszym argentyńskim piłkarzem w historii, który będzie miał zapisaną w swoim kontrakcie klauzulę odstępnego na astronomiczną kwotę jednego miliarda euro. Real Madryt chce w ten sposób zabezpieczyć się przed przyszłymi zakusami ze strony szejków.</description>
     </item>
     
 </channel>
