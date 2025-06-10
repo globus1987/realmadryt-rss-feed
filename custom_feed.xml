@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Jun 2025 17:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jun 2025 18:38:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: River zgłosiło Franco Mastantuono do gry na Klubowym Mundialu</title>
+        <link>https://www.realmadryt.pl/news/140210-oficjalnie-river-zglosilo-franco-mastantuono-do-gry-na-klubowym-mundialu</link>
+        <pubDate>Tue, 10 Jun 2025 20:31:00 GMT</pubDate>
+        <description>Piłkarz na razie zostaje w obecnym klubie.</description>
+    </item>
+    
+    <item>
+        <title>Prezentacja Deana Huijsena w pigułce</title>
+        <link>https://www.realmadryt.pl/news/140205-prezentacja-deana-huijsena-w-pigulce</link>
+        <pubDate>Tue, 10 Jun 2025 20:00:00 GMT</pubDate>
+        <description>Real Madryt zaprezentował dzisiaj Deana Huijsena jako nowego piłkarza swojej pierwszej drużyny.</description>
+    </item>
     
     <item>
         <title>Owen: Nie wiedziałem, że istnieje Złota Piłka</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140196-prezentacja-deana-huijsena-w-realu-madryt-na-zywo</link>
         <pubDate>Tue, 10 Jun 2025 12:25:00 GMT</pubDate>
         <description>Zapraszamy na transmisje klubu z prezentacji hiszpańskiego zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>Dean Huijsen otrzymał numer 24</title>
-        <link>https://www.realmadryt.pl/news/140195-dean-huijsen-otrzymal-numer-24</link>
-        <pubDate>Tue, 10 Jun 2025 12:22:00 GMT</pubDate>
-        <description>Hiszpan ma już swoją koszulkę.</description>
-    </item>
-    
-    <item>
-        <title>Dean Huijsen podpisał kontrakt z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/140194-dean-huijsen-podpisal-kontrakt-z-realem-madryt</link>
-        <pubDate>Tue, 10 Jun 2025 12:22:00 GMT</pubDate>
-        <description>Hiszpan formalnie został nowym piłkarzem Królewskich.</description>
     </item>
     
 </channel>
