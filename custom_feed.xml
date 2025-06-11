@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Jun 2025 21:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 22:25:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140242-dzisiejsze-okladki</link>
+        <pubDate>Thu, 12 Jun 2025 00:24:00 GMT</pubDate>
+        <description>Przygotowania do Klubowego Mundialu i plany transferowe Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mateo: Ta rywalizacja z pewnością będzie długa</title>
+        <link>https://www.realmadryt.pl/news/140241-mateo-ta-rywalizacja-z-pewnoscia-bedzie-dluga</link>
+        <pubDate>Thu, 12 Jun 2025 00:08:00 GMT</pubDate>
+        <description>Chus Mateo i Facundo Campazzo podsumowali krótko zwycięskie spotkanie z Unicają. Obaj podkreślali, że w piątek wszystko zaczyna się od początku.</description>
+    </item>
     
     <item>
         <title>Znakomity początek półfinałów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140221-mateo-spodziewam-sie-bardzo-trudnej-rywalizacji</link>
         <pubDate>Wed, 11 Jun 2025 14:33:00 GMT</pubDate>
         <description>Chus Mateo wziął udział w konferencji prasowej przed początkiem rywalizacji z Unicają w półfinale Ligi Endesa. Powiedział, że nie szuka rewanżu, tylko chce się skupić na rozegraniu dobrych meczów.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Pau Quesada ma zostać trenerem zespołu kobiet</title>
-        <link>https://www.realmadryt.pl/news/140228-cope-pau-quesada-ma-zostac-trenerem-zespolu-kobiet</link>
-        <pubDate>Wed, 11 Jun 2025 14:21:00 GMT</pubDate>
-        <description>Według informacji przekazanych przez dziennikarkę Andreę Peláez 32-latek ma zastąpić na stanowisku trenera kobiecego Realu Madryt zwolnionego w maju Alberto Torila.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Federacja szykuje ogromne zmiany w strukturze sędziowskiej</title>
-        <link>https://www.realmadryt.pl/news/140227-chiringuito-federacja-szykuje-ogromne-zmiany-w-strukturze-sedziowskiej</link>
-        <pubDate>Wed, 11 Jun 2025 13:54:00 GMT</pubDate>
-        <description>Juanfe Sanz, ekspert sędziowski Chiringuito i doskonałe źródło w tych sprawach, przedstawił plan Hiszpańskiej Federacji Piłkarskiej na reformę sędziowania w Hiszpanii.</description>
     </item>
     
 </channel>
