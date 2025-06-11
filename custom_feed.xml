@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Jun 2025 10:49:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 11:22:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Jutro prezentacja Trenta Alexandra-Arnolda</title>
+        <link>https://www.realmadryt.pl/news/140226-oficjalnie-jutro-prezentacja-trenta-alexandra-arnolda</link>
+        <pubDate>Wed, 11 Jun 2025 13:19:00 GMT</pubDate>
+        <description>Klub w oficjalnym komunikacie przekazał, że w czwartek zawodnik podpisze kontrakt i zostanie zaprezentowany jako nowy piłkarz Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/140225-dzisiejszy-trening</link>
+        <pubDate>Wed, 11 Jun 2025 13:19:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do Klubowego Mundialu, które rozpoczną od meczu z Al-Hilal 18 czerwca.</description>
+    </item>
+    
+    <item>
+        <title>Rodrygo wysyła wiadomość</title>
+        <link>https://www.realmadryt.pl/news/140224-rodrygo-wysyla-wiadomosc</link>
+        <pubDate>Wed, 11 Jun 2025 12:56:00 GMT</pubDate>
+        <description>Brazylijski atakujący, którego przyszłość w Realu Madryt stała pod znakiem zapytania, przekazuje, że czuje się szczęśliwy po pierwszych dniach pracy z Xabi Alonso.</description>
+    </item>
     
     <item>
         <title>AS: River chce zatrzymać Mastantuono na dłużej, ale decyzja należy do Realu i piłkarza</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/140217-brazylia-wygrywa-po-golu-viniciusa</link>
         <pubDate>Wed, 11 Jun 2025 01:38:00 GMT</pubDate>
         <description>W nocy czasu polskiego Carlo Ancelotti rozgrywał pierwszy domowy mecz w reprezentacji Brazylii, mierząc się z trzecim w tabeli Paragwajem. Zwycięstwo dał mu gol Viniego, który oznacza także zapewniony awans na mundial.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140215-dzisiejsze-okladki</link>
-        <pubDate>Wed, 11 Jun 2025 00:20:00 GMT</pubDate>
-        <description>Prezentacja Huijsena i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Historyczna wpadka Anglii z Senegalem</title>
-        <link>https://www.realmadryt.pl/news/140213-historyczna-wpadka-anglii-z-senegalem</link>
-        <pubDate>Tue, 10 Jun 2025 22:56:00 GMT</pubDate>
-        <description>Anglicy przegrali 1:3 w meczu towarzyskim z Senegalem. Synowie Albionu pierwszy raz w swojej historii ulegli reprezentacji z Afryki. Jude Bellingham i Trent Alexander Arnold rozpoczęli spotkanie na ławce. W drugiej połowie na murawie pojawił się tylko ten pierwszy.</description>
-    </item>
-    
-    <item>
-        <title>Mundo Deportivo: Real nie jest zainteresowany Zubimendim</title>
-        <link>https://www.realmadryt.pl/news/140212-mundo-deportivo-real-nie-jest-zainteresowany-zubimendim</link>
-        <pubDate>Tue, 10 Jun 2025 22:00:00 GMT</pubDate>
-        <description>Kataloński dziennik przekazuje, że Martín Zubimendi w żadnym momencie nie znajdował się w kręgu zainteresowań Królewskich i w tej kwestii nic się nie zmieniło.</description>
     </item>
     
 </channel>
