@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Jun 2025 21:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 21:42:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znakomity początek półfinałów</title>
+        <link>https://www.realmadryt.pl/news/140240-znakomity-poczatek-polfinalow</link>
+        <pubDate>Wed, 11 Jun 2025 23:24:00 GMT</pubDate>
+        <description>Real Madryt wysoko pokonał Unicaję na otwarcie półfinałowej rywalizacji. Królewscy objęli wysokie prowadzenie w pierwszej kwarcie i nie oddali go do samego końca.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: FIFA ujawniła numer Trenta Alexandra-Arnolda</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140227-chiringuito-federacja-szykuje-ogromne-zmiany-w-strukturze-sedziowskiej</link>
         <pubDate>Wed, 11 Jun 2025 13:54:00 GMT</pubDate>
         <description>Juanfe Sanz, ekspert sędziowski Chiringuito i doskonałe źródło w tych sprawach, przedstawił plan Hiszpańskiej Federacji Piłkarskiej na reformę sędziowania w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Jutro prezentacja Trenta Alexandra-Arnolda</title>
-        <link>https://www.realmadryt.pl/news/140226-oficjalnie-jutro-prezentacja-trenta-alexandra-arnolda</link>
-        <pubDate>Wed, 11 Jun 2025 13:19:00 GMT</pubDate>
-        <description>Klub w oficjalnym komunikacie przekazał, że w czwartek zawodnik podpisze kontrakt i zostanie zaprezentowany jako nowy piłkarz Realu Madryt.</description>
     </item>
     
 </channel>
