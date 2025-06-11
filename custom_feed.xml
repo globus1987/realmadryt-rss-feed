@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Jun 2025 09:30:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 09:53:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Drzwi dla Reiniera są zamknięte</title>
+        <link>https://www.realmadryt.pl/news/140222-marca-drzwi-dla-reiniera-sa-zamkniete</link>
+        <pubDate>Wed, 11 Jun 2025 11:52:00 GMT</pubDate>
+        <description>Piłkarz, który ma już za sobą cztery nieudane wypożyczenia od czasu transferu do Królewskich w styczniu 2020 roku, trenuje w Brazylii, czekając na znalezienie nowego klubu.</description>
+    </item>
     
     <item>
         <title>Zapomniany Mały Puchar Świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140211-drugi-dzien-przygotowan-do-klubowego-mundialu-video</link>
         <pubDate>Tue, 10 Jun 2025 21:06:00 GMT</pubDate>
         <description>Klubowa telewizja przygotowała materiał video z drugiego dnia treningów pod wodzą Xabiego Alonso.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: River zgłosiło Franco Mastantuono do gry na Klubowym Mundialu</title>
-        <link>https://www.realmadryt.pl/news/140210-oficjalnie-river-zglosilo-franco-mastantuono-do-gry-na-klubowym-mundialu</link>
-        <pubDate>Tue, 10 Jun 2025 20:31:00 GMT</pubDate>
-        <description>Piłkarz na razie zostaje w obecnym klubie.</description>
     </item>
     
 </channel>
