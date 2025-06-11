@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Jun 2025 15:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 15:46:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Klubowy Mundial</title>
+        <link>https://www.realmadryt.pl/news/140231-kadra-realu-madryt-na-klubowy-mundial</link>
+        <pubDate>Wed, 11 Jun 2025 17:40:00 GMT</pubDate>
+        <description>Klub potwierdził listę 34 piłkarzy powołanych na Klubowy Mundial. Znaleźli się na niej także piłkarze kontuzjowani, którzy nie wezmą udziału w turnieju.</description>
+    </item>
     
     <item>
         <title>Sky: Testy medyczne Modricia w Milanie jednak dopiero po Klubowym Mundialu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140220-zapomniany-maly-puchar-swiata</link>
         <pubDate>Wed, 11 Jun 2025 10:07:00 GMT</pubDate>
         <description>Nowy Klubowy Mundial FIFA to czwarty format turnieju mającego wyłonić klubowego mistrza świata. Wcześniej rozgrywane były Puchar Interkontynentalny, Klubowy Mundial w jego poprzednim formacie i zapomniany już nieco Mały Puchar Świata.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 11 czerwca</title>
-        <link>https://www.realmadryt.pl/news/140219-kartka-z-kalendarza-11-czerwca</link>
-        <pubDate>Wed, 11 Jun 2025 09:38:00 GMT</pubDate>
-        <description>Urodziny byłego koszykarza i bramkarza, 24. mistrzostwo Hiszpanii, zgoda, która zmieniła historię, indywidualna nagroda dla Fede Valverde i transfer pomocnika. Co działo się 11 czerwca?</description>
     </item>
     
 </channel>
