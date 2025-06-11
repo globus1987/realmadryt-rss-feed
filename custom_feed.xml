@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Jun 2025 02:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 03:31:26 GMT</lastBuildDate>
     
     <item>
-        <title>Brazylia – Paragwaj: Vinícius z golem [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140217-brazylia-paragwaj-vinicius-z-golem-live</link>
+        <title>Al-Khelaïfi: Myślę, że muszę szczerze podziękować Kylianowi</title>
+        <link>https://www.realmadryt.pl/news/140214-al-khelaifi-mysle-ze-musze-szczerze-podziekowac-kylianowi</link>
+        <pubDate>Wed, 11 Jun 2025 05:30:00 GMT</pubDate>
+        <description>Nasser Al-Khelaifi był gościem programu C à vous w kanale France 5. Przedstawiamy wypowiedzi prezesa PSG.</description>
+    </item>
+    
+    <item>
+        <title>Brazylia wygrywa po golu Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/140217-brazylia-wygrywa-po-golu-viniciusa</link>
         <pubDate>Wed, 11 Jun 2025 01:38:00 GMT</pubDate>
         <description>W nocy czasu polskiego Carlo Ancelotti rozgrywa pierwszy domowy mecz w reprezentacji Brazylii, mierząc się z trzecim w tabeli Paragwajem.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140204-huijsen-to-najlepszy-dzien-w-moim-zyciu</link>
         <pubDate>Tue, 10 Jun 2025 14:30:00 GMT</pubDate>
         <description>Dean Huijsen po swojej prezentacji pojawił się na konferencji prasowej w Valdebebas. Przedstawiamy pełny zapis z tego spotkania zawodnika z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Florentino: Dean, jesteś gotów, by odnieść sukces w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/140201-florentino-dean-jestes-gotow-by-odniesc-sukces-w-realu-madryt</link>
-        <pubDate>Tue, 10 Jun 2025 13:46:00 GMT</pubDate>
-        <description>Prezes przedstawił Deana Huijsena podczas prezentacji Hiszpana w roli nowego piłkarza Realu Madryt. Przedstawiamy wypowiedzi Florentino Péreza.</description>
     </item>
     
 </channel>
