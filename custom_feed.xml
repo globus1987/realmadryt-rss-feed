@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Jun 2025 22:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jun 2025 22:57:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140266-dzisiejsze-okladki</link>
+        <pubDate>Fri, 13 Jun 2025 00:46:00 GMT</pubDate>
+        <description>Prezentacja Trenta Alexandra-Arnolda i plany transferowe Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Podsumowanie prezentacji Trenta Alexandra-Arnolda w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140250-trent-alexander-arnold-podpisal-umowe-z-realem-madryt</link>
         <pubDate>Thu, 12 Jun 2025 12:24:00 GMT</pubDate>
         <description>Anglik formalnie został nowym piłkarzem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Prezentacja Trenta Alexandra-Arnolda w Realu Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/140252-prezentacja-trenta-alexandra-arnolda-w-realu-madryt-na-zywo</link>
-        <pubDate>Thu, 12 Jun 2025 12:15:00 GMT</pubDate>
-        <description>Zapraszamy na transmisję klubu z prezentacji angielskiego zawodnika.</description>
     </item>
     
 </channel>
