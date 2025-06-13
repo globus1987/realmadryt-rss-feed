@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Jun 2025 21:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jun 2025 22:26:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140293-dzisiejsze-okladki</link>
+        <pubDate>Sat, 14 Jun 2025 00:18:00 GMT</pubDate>
+        <description>Początek Klubowego Mundialu i plany transferowe Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Wzorowa ocena dla drużyny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140275-pierwsi-reprezentanci-rozpoczeli-treningi-z-xabim-alonso-video</link>
         <pubDate>Fri, 13 Jun 2025 13:16:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do Klubowego Mundialu, który rozpoczną od meczu z Al-Hilal 18 czerwca. Do grupy dołączyła część reprezentantów.</description>
-    </item>
-    
-    <item>
-        <title>Wspomnienia pierwszego Klubowego Mundialu w historii</title>
-        <link>https://www.realmadryt.pl/news/140276-wspomnienia-pierwszego-klubowego-mundialu-w-historii</link>
-        <pubDate>Fri, 13 Jun 2025 13:09:00 GMT</pubDate>
-        <description>Pierwszy w historii Klubowy Mundial odbył się w styczniu 2000 roku w Brazylii. Real Madryt zajął na nim zaledwie czwarte miejsce, a triumfatorem było brazylijskie Corinthians.</description>
     </item>
     
 </channel>
