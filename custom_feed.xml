@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Jun 2025 22:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 22:56:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140313-dzisiejsze-okladki</link>
+        <pubDate>Sun, 15 Jun 2025 00:44:00 GMT</pubDate>
+        <description>Start Klubowego Mundialu i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kiedy może dojść do derbów Madrytu na Klubowym Mundialu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140300-walka-na-drugim-planie</link>
         <pubDate>Sat, 14 Jun 2025 10:45:00 GMT</pubDate>
         <description>Wraz z przybyciem Xabiego Alonso Real Madryt chce wkroczyć w nowy etap oparty na intensywnym, zorganizowanym i kombinacyjnym stylu nawet w dalszej odległości od bramki. Panorama ta sprzyja zwłaszcza trzem zawodnikom.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt wita Franco Mastantuono [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140288-real-madryt-wita-franco-mastantuono-video</link>
-        <pubDate>Sat, 14 Jun 2025 10:20:00 GMT</pubDate>
-        <description>Real Madryt przywitał Franco Mastantuono tradycyjną kompilacją oraz filmikiem przedstawiającym różne fakty z życia nastolatka.</description>
     </item>
     
 </channel>
