@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Jun 2025 07:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 07:40:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 14 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140290-kartka-z-kalendarza-14-czerwca</link>
+        <pubDate>Sat, 14 Jun 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny dwóch piłkarzy, dwa mistrzostwa Hiszpanii, debiut pierwszej drużyny w Valdebebas i rocznica oficjalnego rozpoczęcia działalności polskiego stowarzyszenia Águila Blanca. Co działo się 14 czerwca?</description>
+    </item>
     
     <item>
         <title>Trent: Trochę mnie kosztuje przyswojenie tego, że to się dzieje naprawdę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140281-byly-youtuber-i-wschodzaca-gwiazda-tenisa</link>
         <pubDate>Fri, 13 Jun 2025 18:22:00 GMT</pubDate>
         <description>Argentyńczyk w dzieciństwie był jednym z najlepszych tenisistów w swojej kategorii wiekowej w kraju. Teraz prowadzi dyskretne życie i właśnie podpisał kontrakt z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy prezentacji Trenta Alexandra-Arnolda [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140280-kulisy-prezentacji-trenta-alexandra-arnolda-video</link>
-        <pubDate>Fri, 13 Jun 2025 17:42:00 GMT</pubDate>
-        <description>Klub opublikował filmik z prezentacji Anglika.</description>
     </item>
     
 </channel>
