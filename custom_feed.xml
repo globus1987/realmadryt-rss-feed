@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Jun 2025 13:31:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 13:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wylecieli na Florydę</title>
+        <link>https://www.realmadryt.pl/news/140306-krolewscy-wylecieli-na-floryde</link>
+        <pubDate>Sat, 14 Jun 2025 15:37:00 GMT</pubDate>
+        <description>Zawodnicy i sztab szkoleniowy Realu Madryt są w drodze do Stanów Zjednoczonych, gdzie powalczą o triumf na Klubowym Mundialu.</description>
+    </item>
     
     <item>
         <title>Courtois: Nadszedł już czas, aby odnowić formułę Klubowego Mundialu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140285-trent-troche-mnie-kosztuje-przyswojenie-tego-ze-to-sie-dzieje-naprawde</link>
         <pubDate>Sat, 14 Jun 2025 08:40:00 GMT</pubDate>
         <description>Trent Alexander-Arnold udzielił swojego pierwszego wywiadu dla klubowych mediów po prezentacji w roli nowego zawodnika Realu Madryt. Poniżej przedstawiamy zapis tej rozmowy z angielskim obrońcą.</description>
-    </item>
-    
-    <item>
-        <title>Gdzie oglądać mecze Klubowego Mundialu?</title>
-        <link>https://www.realmadryt.pl/news/140289-gdzie-ogladac-mecze-klubowego-mundialu</link>
-        <pubDate>Sat, 14 Jun 2025 07:50:00 GMT</pubDate>
-        <description>Platforma DAZN oferuje bezpłatne transmisje z Klubowego Mundialu z polskim komentarzem. Użytkownicy mogą też wykupić dodatkowy pakiet.</description>
     </item>
     
 </channel>
