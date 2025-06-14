@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Jun 2025 05:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Jun 2025 06:33:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gdzie oglądać mecze Klubowego Mundialu?</title>
+        <link>https://www.realmadryt.pl/news/140289-gdzie-ogladac-mecze-klubowego-mundialu</link>
+        <pubDate>Sat, 14 Jun 2025 07:50:00 GMT</pubDate>
+        <description>Platforma DAZN oferuje bezpłatne transmisje z Klubowego Mundialu z polskim komentarzem. Użytkownicy mogą też wykupić dodatkowy pakiet.</description>
+    </item>
     
     <item>
         <title>Katalońskie media: Nico Williams chce grać w Barcelonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140278-oficjalnie-river-plate-informuje-ze-transfer-franco-kosztowal-63-2-miliona-euro</link>
         <pubDate>Fri, 13 Jun 2025 15:21:00 GMT</pubDate>
         <description>Argentyński klub potwierdził wykupienie atakującego przez Real Madryt. Przedstawiamy jego komunikat.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Franco Mastantuono zostanie piłkarzem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/140274-oficjalnie-franco-mastantuono-zostanie-pilkarzem-realu-madryt</link>
-        <pubDate>Fri, 13 Jun 2025 15:00:00 GMT</pubDate>
-        <description>Królewscy za pośrednictwem swojej oficjalnej strony internetowej potwierdzili, że argentyński pomocnik został nowym zawodnikiem klubu.</description>
     </item>
     
 </channel>
