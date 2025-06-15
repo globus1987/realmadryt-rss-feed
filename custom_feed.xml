@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Jun 2025 07:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 07:40:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140291-kartka-z-kalendarza-15-czerwca</link>
+        <pubDate>Sun, 15 Jun 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza i byłych koszykarzy, rocznica zwycięstw z Atlético, hołdu dla Sępa i transferu młodego Brazylijczyka z Santosu. Co działo się 15 czerwca?</description>
+    </item>
     
     <item>
         <title>FIFPro przedstawia 12 wniosków ochronnych ws. obciążeń piłkarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140307-wielkie-wyzwanie-mbappe</link>
         <pubDate>Sat, 14 Jun 2025 16:52:00 GMT</pubDate>
         <description>Kylian Mbappé zdobył 12 bramek w ostatnich ośmiu spotkaniach w klubie i reprezentacji. Teraz jego celem jest triumf na Klubowym Mundialu. Wygrana i dobre występy w tak dużej imprezie mogą być kluczowe w wyścigu o Złotą Piłkę.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy wylecieli na Florydę</title>
-        <link>https://www.realmadryt.pl/news/140306-krolewscy-wylecieli-na-floryde</link>
-        <pubDate>Sat, 14 Jun 2025 15:37:00 GMT</pubDate>
-        <description>Zawodnicy i sztab szkoleniowy Realu Madryt są w drodze do Stanów Zjednoczonych, gdzie powalczą o triumf na Klubowym Mundialu.</description>
     </item>
     
 </channel>
