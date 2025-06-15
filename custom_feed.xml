@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Jun 2025 22:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 22:44:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140331-dzisiejsze-okladki</link>
+        <pubDate>Mon, 16 Jun 2025 00:25:00 GMT</pubDate>
+        <description>Wygrana PSG nad Atlético i plany transferowe Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mateo: Musimy wychodzić na parkiet bardziej skoncentrowani niż dzisiaj</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140321-karanka-xabi-wyobraz-sobie-ze-trener-posyla-ci-podanie-na-40-metrow-a-ty-masz-to-powtorzyc</link>
         <pubDate>Sun, 15 Jun 2025 11:52:00 GMT</pubDate>
         <description>Aitor Karanka, były piłkarz Realu (1997-2002) i asystent José Mourinho podczas jego okresu w ekipie Królewskich (2010-2013), udzielił wywiadu dziennikowi AS. Przedstawiamy najważniejsze wypowiedzi z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>San Pablo Burgos i Betis wracają do Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/140320-san-pablo-burgos-i-betis-wracaja-do-ligi-endesa</link>
-        <pubDate>Sun, 15 Jun 2025 11:50:00 GMT</pubDate>
-        <description>W sezonie 2024/25 z Ligą Endesa pożegnały się Granada oraz Leyma Coruña. Na ich miejsce wskoczyły San Pablo Burgos jako zwycięzca sezonu zasadniczego w Primera FEB oraz Real Betis jako zwycięzca play-offów.</description>
     </item>
     
 </channel>
