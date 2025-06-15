@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Jun 2025 07:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 08:30:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsza piłka meczowa</title>
+        <link>https://www.realmadryt.pl/news/140312-pierwsza-pilka-meczowa</link>
+        <pubDate>Sun, 15 Jun 2025 10:20:00 GMT</pubDate>
+        <description>Real Madryt i Unicaja staną naprzeciw siebie po raz trzeci w tym tygodniu. Dwukrotnie lepsi byli Królewscy, ale teraz rywalizacja przenosi się do Malagi.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 15 czerwca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140303-trzy-transfery-xabiego-alonso-i-niepewnosc-wokol-pintusa</link>
         <pubDate>Sat, 14 Jun 2025 18:09:00 GMT</pubDate>
         <description>Xabi Alonso powiększył swój sztab przez wylotem do Stanów Zjednoczonych. Na Klubowy Mundial razem z zespołem ma udać się również Antonio Pintus.</description>
-    </item>
-    
-    <item>
-        <title>Wielkie wyzwanie Mbappé</title>
-        <link>https://www.realmadryt.pl/news/140307-wielkie-wyzwanie-mbappe</link>
-        <pubDate>Sat, 14 Jun 2025 16:52:00 GMT</pubDate>
-        <description>Kylian Mbappé zdobył 12 bramek w ostatnich ośmiu spotkaniach w klubie i reprezentacji. Teraz jego celem jest triumf na Klubowym Mundialu. Wygrana i dobre występy w tak dużej imprezie mogą być kluczowe w wyścigu o Złotą Piłkę.</description>
     </item>
     
 </channel>
