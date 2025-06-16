@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Jun 2025 13:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 13:57:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>SER: Alonso odsuwa Pintusa od pracy z pierwszą drużyną</title>
+        <link>https://www.realmadryt.pl/news/140344-ser-alonso-odsuwa-pintusa-od-pracy-z-pierwsza-druzyna</link>
+        <pubDate>Mon, 16 Jun 2025 15:46:00 GMT</pubDate>
+        <description>Nowy trener podjął pierwszą ważną decyzję.</description>
+    </item>
+    
+    <item>
+        <title>AS: Xabi pracuje nad pressingiem, ale nie tym wysokim</title>
+        <link>https://www.realmadryt.pl/news/140343-as-xabi-pracuje-nad-pressingiem-ale-nie-tym-wysokim</link>
+        <pubDate>Mon, 16 Jun 2025 15:44:00 GMT</pubDate>
+        <description>Pierwsze dni Baska upłynęły na położeniu nacisku na pressing, ale wbrew oczekiwaniom nie pracowano nad bardzo wysokim naciskiem na rywala.</description>
+    </item>
     
     <item>
         <title>MARCA: Brahim z porozumieniem ws. przedłużenia umowy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140333-nie-mieli-tu-niczego-wszystko-zbudowalismy-my</link>
         <pubDate>Mon, 16 Jun 2025 07:00:00 GMT</pubDate>
         <description>Królewscy będą w tych dniach trenować w zaimprowizowanym ośrodku w parku w Miami.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Musimy dalej mocno pracować, by wygrać z Xabim wiele rzeczy</title>
-        <link>https://www.realmadryt.pl/news/140332-vinicius-musimy-dalej-mocno-pracowac-by-wygrac-z-xabim-wiele-rzeczy</link>
-        <pubDate>Mon, 16 Jun 2025 05:30:00 GMT</pubDate>
-        <description>Vinícius Júnior po pierwszym treningu z Xabim Alonso udzielił wypowiedzi klubowym mediom. Przedstawiamy opublikowane komentarze ze strony Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140331-dzisiejsze-okladki</link>
-        <pubDate>Mon, 16 Jun 2025 00:25:00 GMT</pubDate>
-        <description>Wygrana PSG nad Atlético i plany transferowe Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
