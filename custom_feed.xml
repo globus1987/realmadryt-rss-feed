@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Jun 2025 09:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 10:29:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Benfica nie zamierza odpuszczać w sprawie Carrerasa</title>
+        <link>https://www.realmadryt.pl/news/140339-benfica-nie-zamierza-odpuszczac-w-sprawie-carrerasa</link>
+        <pubDate>Mon, 16 Jun 2025 12:17:00 GMT</pubDate>
+        <description>Portugalczycy podkreślają, że oferty za Hiszpana ich nie zadowalały. Królewscy próbowali jak najbardziej obniżyć cenę transferu.</description>
+    </item>
     
     <item>
         <title>W pogoni za kolejną Décimą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140328-pelne-zdjecie-trzeciej-koszulki-realu-na-sezon-2025-26</link>
         <pubDate>Sun, 15 Jun 2025 19:48:00 GMT</pubDate>
         <description>W sieci pojawiły się kolejne zdjęcia trzeciej koszulki Realu Madryt na następny sezon.</description>
-    </item>
-    
-    <item>
-        <title>To jeszcze nie koniec</title>
-        <link>https://www.realmadryt.pl/news/140327-to-jeszcze-nie-koniec</link>
-        <pubDate>Sun, 15 Jun 2025 19:42:00 GMT</pubDate>
-        <description>Unicaja pokonała Real Madryt w trzecim półfinałowym meczu Ligi Endesa. Andaluzyjczycy zdołali obronić wysoką przewagę, jaką wywalczyli sobie w pierwszej połowie spotkania, chociaż Królewscy byli o krok od doprowadzenia do dogrywki.</description>
     </item>
     
 </channel>
