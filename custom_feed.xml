@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Jun 2025 08:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 08:59:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Ten, który nie będzie biegać, nie będzie grać”</title>
+        <link>https://www.realmadryt.pl/news/140337-ten-ktory-nie-bedzie-biegac-nie-bedzie-grac</link>
+        <pubDate>Mon, 16 Jun 2025 10:55:00 GMT</pubDate>
+        <description>W radiu SER przekazano kolejne informacje z treningów Królewskich.</description>
+    </item>
     
     <item>
         <title>Wyjazdowe koszulki na sezon 2025/26 zaprezentowane!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140326-pierwszy-trening-w-stanach-zjednoczonych-video</link>
         <pubDate>Sun, 15 Jun 2025 18:53:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt mają za sobą pierwszy trening w The Gardens North County District Park w Palm Beach. Królewscy kontynuowali boiskowe przygotowania do Klubowego Mundialu, który rozpoczną od meczu z Al-Hilal 18 czerwca.</description>
-    </item>
-    
-    <item>
-        <title>Bayern gromi na starcie Klubowego Mundialu</title>
-        <link>https://www.realmadryt.pl/news/140319-bayern-gromi-na-starcie-klubowego-mundialu</link>
-        <pubDate>Sun, 15 Jun 2025 17:45:00 GMT</pubDate>
-        <description>Bayern Monachium rozbił Auckland City aż 10:0 w 1. kolejce Klubowego Mundialu.</description>
     </item>
     
 </channel>
