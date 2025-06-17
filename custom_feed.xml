@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Jun 2025 17:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 18:36:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real koszmarem Bono</title>
+        <link>https://www.realmadryt.pl/news/140379-real-koszmarem-bono</link>
+        <pubDate>Tue, 17 Jun 2025 20:02:00 GMT</pubDate>
+        <description>Żadna drużyna nie strzeliła mu więcej goli niż Real.</description>
+    </item>
     
     <item>
         <title>Florentino pojawił się na treningu drużyny</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>Mbappé nie trenował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/140375-mbappe-nie-trenowal-z-druzyna</link>
+        <title>Mbappé nie trenował z drużyną [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/140375-mbappe-nie-trenowal-z-druzyna-video</link>
         <pubDate>Tue, 17 Jun 2025 18:58:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt mają za sobą ostatni trening przed ich startem Klubowego Mundialu. Poza grupą pozostał jeden powołany piłkarz.</description>
     </item>
@@ -49,10 +56,10 @@
     </item>
     
     <item>
-        <title>Fluminense vs Borussia Dortmund: Brazylijczycy zaskoczą? [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140369-fluminense-vs-borussia-dortmund-brazylijczycy-zaskocza-live</link>
+        <title>Jobe Bellingham z debiutem w BVB, Fluminense remisuje z Borussią</title>
+        <link>https://www.realmadryt.pl/news/140369-jobe-bellingham-z-debiutem-w-bvb-fluminense-remisuje-z-borussia</link>
         <pubDate>Tue, 17 Jun 2025 17:42:00 GMT</pubDate>
-        <description>W pierwszym meczu grupy F zmierzą się ze sobą Fluminense i Borussia Dortmund.</description>
+        <description>Fluminense zremisowało z Borussią Dortmund w grupie F na Klubowym Mundialu. Swój debiut w barwach BVB zaliczył młodszy brat Jude'a Bellinghama, Jobe.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140367-oficjalnie-pau-quesada-trenerem-zespolu-kobiet</link>
         <pubDate>Tue, 17 Jun 2025 15:45:00 GMT</pubDate>
         <description>Klub oficjalnie poinformował o zatrudnieniu Hiszpana na stanowisku trenera kobiecego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>„Wyrok za kukłę Viníciusa to ugoda, kary są niskie”</title>
-        <link>https://www.realmadryt.pl/news/140365-wyrok-za-kukle-viniciusa-to-ugoda-kary-sa-niskie</link>
-        <pubDate>Tue, 17 Jun 2025 14:36:00 GMT</pubDate>
-        <description>W poniedziałek ogłoszono wyrok przeciwko czterem kibicom Atlético z grupy Frente za ich czyn, w którym wywiesili na wiadukcie kukłę Viníciusa. Postępowanie rozpoczęto także na podstawie skargi ze strony Ruchu Przeciwko Nietolerancji. Jego prezes Esteban Ibarra opowiedział o kulisach postępowania w radiu Onda Cero. Przedstawiamy jego wypowiedzi.</description>
     </item>
     
 </channel>
