@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Jun 2025 22:27:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jun 2025 22:46:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140386-dzisiejsze-okladki</link>
+        <pubDate>Wed, 18 Jun 2025 00:42:00 GMT</pubDate>
+        <description>Mecz Realu Madryt na Klubowym Mundialu i plany transferowe Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Jeśli będziemy mieć lepsze dystanse między sobą z piłką i bez niej, to wszystko będzie działać dużo lepiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140372-gipuzkoa-podbija-swiatowy-futbol</link>
         <pubDate>Tue, 17 Jun 2025 18:02:00 GMT</pubDate>
         <description>Od Xabiego Alonso po Sanse, piłka nożna z Gipuzkoi odciska swoje piętno na najlepszych klubach i reprezentacjach.</description>
-    </item>
-    
-    <item>
-        <title>Jobe Bellingham z debiutem w BVB, Fluminense remisuje z Borussią</title>
-        <link>https://www.realmadryt.pl/news/140369-jobe-bellingham-z-debiutem-w-bvb-fluminense-remisuje-z-borussia</link>
-        <pubDate>Tue, 17 Jun 2025 17:42:00 GMT</pubDate>
-        <description>Fluminense zremisowało z Borussią Dortmund w grupie F na Klubowym Mundialu. Swój debiut w barwach BVB zaliczył młodszy brat Jude'a Bellinghama, Jobe.</description>
     </item>
     
 </channel>
