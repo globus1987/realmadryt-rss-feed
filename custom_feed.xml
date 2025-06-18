@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Jun 2025 22:44:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 22:58:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140424-dzisiejsze-okladki</link>
+        <pubDate>Thu, 19 Jun 2025 00:46:00 GMT</pubDate>
+        <description>Remis Realu Madryt i transfer Joana Garcíi to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt 1:1 Al-Hilal [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140415-rozgrzewka-przed-al-hilal-video</link>
         <pubDate>Wed, 18 Jun 2025 20:31:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Hard Rock Stadium, gdzie za kilkadziesiąt minut zaczną mecz z Al-Hilal. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Al-Hilal: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/140408-real-madryt-al-hilal-znamy-sklady</link>
-        <pubDate>Wed, 18 Jun 2025 19:27:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu fazy grupowej Klubowego Mundialu. Mecz rozpocznie się o godzinie 21:00 czasu polskiego na Hard Rock Stadium w Miami.</description>
     </item>
     
 </channel>
