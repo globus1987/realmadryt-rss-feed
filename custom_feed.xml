@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Jun 2025 20:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 21:24:24 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Al-Hilal [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140412-real-madryt-al-hilal-live</link>
+        <title>Oceń piłkarzy po meczu z Al-Hilal</title>
+        <link>https://www.realmadryt.pl/news/140414-ocen-pilkarzy-po-meczu-z-al-hilal</link>
+        <pubDate>Wed, 18 Jun 2025 23:13:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Gonzalo Najlepszym Zawodnikiem Meczu</title>
+        <link>https://www.realmadryt.pl/news/140413-gonzalo-najlepszym-zawodnikiem-meczu</link>
+        <pubDate>Wed, 18 Jun 2025 23:13:00 GMT</pubDate>
+        <description>Napastnik wyróżniony po zdobyciu gola.</description>
+    </item>
+    
+    <item>
+        <title>Inauguracja na remis</title>
+        <link>https://www.realmadryt.pl/news/140412-inauguracja-na-remis</link>
         <pubDate>Wed, 18 Jun 2025 20:55:00 GMT</pubDate>
-        <description>Królewscy zaczynają Klubowy Mundial od starcia z Al-Hilal, którego rozpoczęcie zaplanowano na 21:00 czasu polskiego. Będzie to zarazem debiut Xabiego Alonso w roli trenera Realu Madryt, a także pierwsze występy w nowych barwach dla Trenta Alexandra-Arnolda i Deana Huijsena.</description>
+        <description>Real Madryt zremisował z Al-Hilal w swoim pierwszym meczu w Klubowym Mundialu. Jedyną bramkę dla Królewskich zdobył Gonzalo.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140406-as-real-zaoferowal-courtois-umowe-do-2028-roku</link>
         <pubDate>Wed, 18 Jun 2025 15:32:00 GMT</pubDate>
         <description>Real Madryt postanowił zaoferować mu przedłużenie umowy do 2028 roku, kiedy będzie miał 36 lat. Klub chce nadal stawiać na Thibo, tak bardzo, że wykluczył transfer Joana Garcii.</description>
-    </item>
-    
-    <item>
-        <title>Historia trenerskich debiutów</title>
-        <link>https://www.realmadryt.pl/news/140405-historia-trenerskich-debiutow</link>
-        <pubDate>Wed, 18 Jun 2025 15:15:00 GMT</pubDate>
-        <description>Od początku XXI wieku Real Madryt prowadziło w sumie 16 różnych trenerów. Ich debiuty wyglądały… różnie. Dzisiaj do tego grona dołączy Xabi Alonso.</description>
-    </item>
-    
-    <item>
-        <title>HYPEX: Fortnite nawiąże współpracę z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/140404-hypex-fortnite-nawiaze-wspolprace-z-realem-madryt</link>
-        <pubDate>Wed, 18 Jun 2025 14:48:00 GMT</pubDate>
-        <description>Fortnite'owy insider wskazuje, że Królewscy niedługo rozpoczną współpracę z wydawcą wspomnianej gry.</description>
     </item>
     
 </channel>
