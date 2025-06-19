@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Jun 2025 09:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 10:28:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Al-Hilal</title>
+        <link>https://www.realmadryt.pl/news/140435-oceny-zawodnikow-po-meczu-z-al-hilal</link>
+        <pubDate>Thu, 19 Jun 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt zremisował z Al-Hilal 1:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Sabuncuoğlu: Fenerbahçe rozmawia z Lucasem Vázquezem</title>
+        <link>https://www.realmadryt.pl/news/140436-sabuncuoglu-fenerbahce-rozmawia-z-lucasem-vazquezem</link>
+        <pubDate>Thu, 19 Jun 2025 11:56:00 GMT</pubDate>
+        <description>Wychowanek na pewno opuści Real po Klubowym Mundialu, ale nie znamy jeszcze jego nowego klubu.</description>
+    </item>
     
     <item>
         <title>Huijsen: Myślę, że dobrze wypadłem w debiucie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140429-salzburg-liderem-grupy-realu-po-meczu-ze-100-minutowa-przerwa-video</link>
         <pubDate>Thu, 19 Jun 2025 04:08:00 GMT</pubDate>
         <description>Austriacy objęli prowadzenie w grupie Królewskich. Co ciekawe, ich mecz został przerwany na 100 minut z powodu burzy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140424-dzisiejsze-okladki</link>
-        <pubDate>Thu, 19 Jun 2025 00:46:00 GMT</pubDate>
-        <description>Remis Realu Madryt i transfer Joana Garcíi to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 1:1 Al-Hilal [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140423-real-madryt-1-1-al-hilal-video</link>
-        <pubDate>Thu, 19 Jun 2025 00:14:00 GMT</pubDate>
-        <description>Real Madryt zremisował z Al-Hilal w swoim pierwszym meczu w Klubowym Mundialu. Jedyną bramkę dla Królewskich zdobył Gonzalo.</description>
     </item>
     
 </channel>
