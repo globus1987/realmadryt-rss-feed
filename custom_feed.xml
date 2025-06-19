@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Jun 2025 10:28:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 10:49:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo: Mam nadzieję, że nadejdzie jeszcze taka szansa jak dziś</title>
+        <link>https://www.realmadryt.pl/news/140437-gonzalo-mam-nadzieje-ze-nadejdzie-jeszcze-taka-szansa-jak-dzis</link>
+        <pubDate>Thu, 19 Jun 2025 12:34:00 GMT</pubDate>
+        <description>Gonzalo García udzielił wywiadu dla klubowej telewizji oraz pojawił się na konferencji prasowej po zremisowanym 1:1 pierwszym meczu Klubowego Mundialu z Al-Hilal. Przedstawiamy wypowiedzi wychowanka Królewskich.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Al-Hilal</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140418-manita-juventusu-w-starciu-z-al-ain</link>
         <pubDate>Thu, 19 Jun 2025 05:23:00 GMT</pubDate>
         <description>Juventus popisał się goleadą z prawdziwego zdarzenia z emirackim Al-Ain w ostatnim meczu 1. kolejki Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Salzburg liderem grupy Realu po meczu ze 100-minutową przerwą [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140429-salzburg-liderem-grupy-realu-po-meczu-ze-100-minutowa-przerwa-video</link>
-        <pubDate>Thu, 19 Jun 2025 04:08:00 GMT</pubDate>
-        <description>Austriacy objęli prowadzenie w grupie Królewskich. Co ciekawe, ich mecz został przerwany na 100 minut z powodu burzy.</description>
     </item>
     
 </channel>
