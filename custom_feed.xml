@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Jun 2025 11:54:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 12:54:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 6,5x1: Zbyt wysokie oczekiwania</title>
+        <link>https://www.realmadryt.pl/news/140439-podcast-6-5x1-zbyt-wysokie-oczekiwania</link>
+        <pubDate>Thu, 19 Jun 2025 14:40:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym zajmujemy się pierwszym meczem pod wodzą Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Huijsen nominowany do nagrody dla Najlepszego Młodego Piłkarza Roku PFA</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140427-siodmy-zmarnowany-karny-w-tym-sezonie-i-dziewietnasty-w-ostatnich-czterech-latach</link>
         <pubDate>Thu, 19 Jun 2025 07:50:00 GMT</pubDate>
         <description>Królewscy zmarnowali siódmego karnego w tym sezonie. Ostatnie cztery lata to zdecydowanie najgorsze wyniki w tym względzie w tym wieku.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Zmiana automatyzmów po 4 latach z Ancelottim nie przychodzi od razu po 4 dniach</title>
-        <link>https://www.realmadryt.pl/news/140426-courtois-zmiana-automatyzmow-po-4-latach-z-ancelottim-nie-przychodzi-od-razu-po-4-dniach</link>
-        <pubDate>Thu, 19 Jun 2025 07:00:00 GMT</pubDate>
-        <description>Thibaut Courtois po meczu z Al-Hilal udzielił wywiadu hiszpańskiemu DAZN i pojawił się w strefie mieszanej. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tych rozmów na Hard Rock Stadium.</description>
     </item>
     
 </channel>
