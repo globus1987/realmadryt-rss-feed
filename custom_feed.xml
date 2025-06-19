@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Jun 2025 22:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jun 2025 22:44:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140455-dzisiejsze-okladki</link>
+        <pubDate>Fri, 20 Jun 2025 00:41:00 GMT</pubDate>
+        <description>Hospitalizacja Kyliana Mbappé i transfer Nico Williamsa to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych.</description>
+    </item>
     
     <item>
         <title>Kwadrans pomeczowego treningu [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140440-kartka-z-kalendarza-19-czerwca</link>
         <pubDate>Thu, 19 Jun 2025 15:20:00 GMT</pubDate>
         <description>Mecz z Polską, urodziny dwóch byłych piłkarzy i koszykarza, triumfy w lidze hiszpańskiej drużyny prowadzonej przez Pablo Laso i wypożyczenie napastnika. Co działo się 19 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Kylian Mbappé trafił do szpitala</title>
-        <link>https://www.realmadryt.pl/news/140442-oficjalnie-kylian-mbappe-trafil-do-szpitala</link>
-        <pubDate>Thu, 19 Jun 2025 15:11:00 GMT</pubDate>
-        <description>Klub wydał komunikat w sprawie stanu Francuza.</description>
     </item>
     
 </channel>
