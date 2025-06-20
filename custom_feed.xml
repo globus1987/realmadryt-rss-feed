@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Jun 2025 06:58:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 07:27:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mateo: Wiemy, do czego jest zdolna Valencia</title>
+        <link>https://www.realmadryt.pl/news/140453-mateo-wiemy-do-czego-jest-zdolna-valencia</link>
+        <pubDate>Fri, 20 Jun 2025 09:20:00 GMT</pubDate>
+        <description>Chus Mateo wziął udział w konferencji prasowej przed rozpoczęciem finałowej rywalizacji z Valencią. Chwalił przeciwników i podsumował drogę Królewskich do tego momentu.</description>
+    </item>
     
     <item>
         <title>Chiringuito: Hiszpania będzie starać się o kolejny Klubowy Mundial</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140450-tajemnicze-trofeum-za-wygranie-klubowego-mundialu</link>
         <pubDate>Thu, 19 Jun 2025 20:21:00 GMT</pubDate>
         <description>Nagroda, która trafi do zwycięzcy turnieju, kryje w sobie niezliczone tajemnice.</description>
-    </item>
-    
-    <item>
-        <title>Inter Miami zaskoczył Porto!</title>
-        <link>https://www.realmadryt.pl/news/140443-inter-miami-zaskoczyl-porto</link>
-        <pubDate>Thu, 19 Jun 2025 20:00:00 GMT</pubDate>
-        <description>Za nami kolejne spotkania Klubowego Mundialu. W grupie A wreszcie padły pierwsze gole i doszło do sporej niespodzianki.</description>
     </item>
     
 </channel>
