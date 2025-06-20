@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Jun 2025 07:43:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 07:56:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Remis z przeszłości na początek przyszłości</title>
+        <link>https://www.realmadryt.pl/news/140432-remis-z-przeszlosci-na-poczatek-przyszlosci</link>
+        <pubDate>Fri, 20 Jun 2025 09:52:00 GMT</pubDate>
+        <description>Orfeo Suárez, redaktor naczelny działu sportowego w Madrycie i felietonista dziennika El Mundo, podzielił się swoimi spostrzeżeniami na temat pierwszego spotkania Królewskich na Klubowym Mundialu.</description>
+    </item>
     
     <item>
         <title>Mateo: Wiemy, do czego jest zdolna Valencia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140451-oficjalnie-kylian-mbappe-wyszedl-za-szpitala</link>
         <pubDate>Thu, 19 Jun 2025 22:07:00 GMT</pubDate>
         <description>Klub wydał nowy komunikat w sprawie stanu Francuza.</description>
-    </item>
-    
-    <item>
-        <title>Tajemnicze trofeum za wygranie Klubowego Mundialu</title>
-        <link>https://www.realmadryt.pl/news/140450-tajemnicze-trofeum-za-wygranie-klubowego-mundialu</link>
-        <pubDate>Thu, 19 Jun 2025 20:21:00 GMT</pubDate>
-        <description>Nagroda, która trafi do zwycięzcy turnieju, kryje w sobie niezliczone tajemnice.</description>
     </item>
     
 </channel>
