@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Jun 2025 22:24:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 22:44:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140477-dzisiejsze-okladki</link>
+        <pubDate>Sat, 21 Jun 2025 00:27:00 GMT</pubDate>
+        <description>Echa występu Realu Madryt na Klubowym Mundialu i prezentacja Joana Garcíi to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt wychodzi na prowadzenie w finale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140467-rusza-decydujaca-walka-o-mistrzostwo-hiszpanii</link>
         <pubDate>Fri, 20 Jun 2025 12:17:00 GMT</pubDate>
         <description>Real Madryt i Valencia staną dzisiaj naprzeciw siebie po raz pierwszy w finałowej rywalizacji w Lidze Endesa. Gospodarzami będą Królewscy, którzy spróbują utrzymać status niepokonanej drużyny na własnym parkiecie w lidze.</description>
-    </item>
-    
-    <item>
-        <title>Sprowadzenie rozgrywającego jest koniecznością</title>
-        <link>https://www.realmadryt.pl/news/140466-sprowadzenie-rozgrywajacego-jest-koniecznoscia</link>
-        <pubDate>Fri, 20 Jun 2025 11:47:00 GMT</pubDate>
-        <description>Real Madryt odczuwa brak kreatora gry. W pierwszej połowie meczu z Al-Hilal zespół nawet przegrał walkę o posiadanie piłki – tylko 45%. Klub zdaje sobie sprawę z problemu, ale nie widzi jasnych kandydatów do jego rozwiązania.</description>
     </item>
     
 </channel>
