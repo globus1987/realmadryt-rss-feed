@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Jun 2025 16:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 16:57:38 GMT</lastBuildDate>
     
     <item>
-        <title>Benfica po pierwsze zwycięstwo, Carreras w pierwszym składzie [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140468-benfica-po-pierwsze-zwyciestwo-carreras-w-pierwszym-skladzie-live</link>
+        <title>Drugi trening przed meczem z Pachucą</title>
+        <link>https://www.realmadryt.pl/news/140473-drugi-trening-przed-meczem-z-pachuca</link>
+        <pubDate>Fri, 20 Jun 2025 18:44:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt mają za sobą kolejny trening w trakcie Klubowego Mundialu. Była to druga sesja przed niedzielnym meczem.</description>
+    </item>
+    
+    <item>
+        <title>Minimalne prowadzenie Benfiki, Carreras zawieszony na Bayern [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140468-minimalne-prowadzenie-benfiki-carreras-zawieszony-na-bayern-live</link>
         <pubDate>Fri, 20 Jun 2025 17:31:00 GMT</pubDate>
-        <description>Benfica zagra w 2. kolejce Klubowego Mundialu z Auckland City.</description>
+        <description>Benfica mierzy się z Auckland City w 2. kolejce Klubowego Mundialu.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140454-kartka-z-kalendarza-20-czerwca</link>
         <pubDate>Fri, 20 Jun 2025 10:00:00 GMT</pubDate>
         <description>Tenerifazo w 1993 roku, mecz towarzyski w Sewilli z golem Wojciecha Kowalczyka i rocznica transferu Marcosa Llorente. Co działo się 20 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Remis z przeszłości na początek przyszłości</title>
-        <link>https://www.realmadryt.pl/news/140432-remis-z-przeszlosci-na-poczatek-przyszlosci</link>
-        <pubDate>Fri, 20 Jun 2025 09:52:00 GMT</pubDate>
-        <description>Orfeo Suárez, redaktor naczelny działu sportowego w Madrycie i felietonista dziennika El Mundo, podzielił się swoimi spostrzeżeniami na temat pierwszego spotkania Królewskich na Klubowym Mundialu.</description>
     </item>
     
 </channel>
