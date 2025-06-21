@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 22:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 23:24:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140514-dzisiejsze-okladki</link>
+        <pubDate>Sun, 22 Jun 2025 01:16:00 GMT</pubDate>
+        <description>Mecz Realu Madryt, awans Oviedo i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Tchouaméni: Bardzo zależy nam na tym trofeum</title>
+        <link>https://www.realmadryt.pl/news/140513-tchouameni-bardzo-zalezy-nam-na-tym-trofeum</link>
+        <pubDate>Sun, 22 Jun 2025 00:58:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni rozmawiał z mediami po przylocie do Charlotte. Przedstawiamy rozmowę z pomocnikiem Królewskich.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Liczymy na to, że uda nam się odzyskać Mbappé na mecz z Salzburgiem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140502-mbappe-i-carvajal-nie-zagraja-z-pachuca</link>
         <pubDate>Sat, 21 Jun 2025 17:17:00 GMT</pubDate>
         <description>Obaj piłkarze przegapią drugi mecz w fazie grupowej Klubowych Mistrzostw Świata.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Pachucą; Mbappé i Carvajal nie ćwiczą z zespołem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140499-kwadrans-ostatniego-treningu-przed-pachuca-mbappe-i-carvajal-nie-cwicza-z-zespolem-video</link>
-        <pubDate>Sat, 21 Jun 2025 16:57:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed jutrzejszym drugim meczem Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Odporność Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/140501-odpornosc-mastantuono</link>
-        <pubDate>Sat, 21 Jun 2025 16:23:00 GMT</pubDate>
-        <description>Franco Mastantuono w młodzieżowych kategoriach River Plate czynił postępy w niewiarygodnym tempie. Potencjał pomocnika zwrócił uwagę największych klubów w Europie, co koniec końców poskutkowało transferem do Realu Madryt.</description>
     </item>
     
 </channel>
