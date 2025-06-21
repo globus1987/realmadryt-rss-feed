@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 18:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 18:53:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ramon Abatti na Pachucę</title>
+        <link>https://www.realmadryt.pl/news/140506-ramon-abatti-na-pachuce</link>
+        <pubDate>Sat, 21 Jun 2025 20:52:00 GMT</pubDate>
+        <description>35-letni Brazylijczyk będzie głównym arbitrem drugiego meczu Królewskich na Klubowym Mundialu z Pachucą.</description>
+    </item>
+    
+    <item>
+        <title>Inter w starciu z drużyną Skorży [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140505-inter-w-starciu-z-druzyna-skorzy-live</link>
+        <pubDate>Sat, 21 Jun 2025 20:40:00 GMT</pubDate>
+        <description>Inter Mediolan zmierzy się z Urawą Red Diamonds w 2. kolejce grupy E na Klubowym Mundialu.</description>
+    </item>
     
     <item>
         <title>Ostatni trening przed Pachucą</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140493-marca-barca-nie-przejmuje-sie-ofensywa-bayernu-w-sprawie-nico-williamsa</link>
         <pubDate>Sat, 21 Jun 2025 12:12:00 GMT</pubDate>
         <description>W katalońskim klubie wiedzą, że priorytetem zawodnika Athleticu jest gra w Barcelonie.</description>
-    </item>
-    
-    <item>
-        <title>Ironman Modrić</title>
-        <link>https://www.realmadryt.pl/news/140492-ironman-modric</link>
-        <pubDate>Sat, 21 Jun 2025 11:56:00 GMT</pubDate>
-        <description>Luka jest czwartym najstarszym zawodnikiem na Klubowym Mundialu… a jeśli zagra przeciwko Pachuce i Salzburgowi, zaliczy swój 60. mecz w tym sezonie. Bez ani jednej kontuzji.</description>
-    </item>
-    
-    <item>
-        <title>Pogoda zagraża Klubowemu Mundialowi</title>
-        <link>https://www.realmadryt.pl/news/140491-pogoda-zagraza-klubowemu-mundialowi</link>
-        <pubDate>Sat, 21 Jun 2025 11:45:00 GMT</pubDate>
-        <description>Dobra frekwencja w Los Angeles i Miami równoważy słabe wyniki na innych stadionach. „Nigdy wcześniej nie czułem takiego gorąca” – skarżą się piłkarze na mecze rozgrywane w południe, kluczowe dla europejskich transmisji.</description>
     </item>
     
 </channel>
