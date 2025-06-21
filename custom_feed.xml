@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 21:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 21:41:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Charlotte</title>
+        <link>https://www.realmadryt.pl/news/140509-krolewscy-sa-juz-w-charlotte</link>
+        <pubDate>Sat, 21 Jun 2025 23:30:00 GMT</pubDate>
+        <description>26 powołanych zawodników dotarło już do Karoliny Północnej, gdzie Królewscy zmierzą się jutro z Pachucą.</description>
+    </item>
     
     <item>
         <title>Kadra na Pachucę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140496-huijsen-jestesmy-realem-i-musimy-wygrac-video</link>
         <pubDate>Sat, 21 Jun 2025 13:38:00 GMT</pubDate>
         <description>Podczas piątkowego treningu jedna z kamer klubowej telewizji śledziła poczynania Deana Huijsena, który podzielił się swoimi spostrzeżeniami m.in. na temat treningów w USA i pracy z Xabim Alonso. Przedstawiamy materiał klubowej telewizji wraz z wypowiedziami defensora Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo przymierza buty Joselu</title>
-        <link>https://www.realmadryt.pl/news/140495-gonzalo-przymierza-buty-joselu</link>
-        <pubDate>Sat, 21 Jun 2025 13:18:00 GMT</pubDate>
-        <description>Gonzalo García może okazać się bardzo przydatnym elementem układanki Xabiego Alonso. Wychowanek strzelił gola w pierwszym spotkaniu podczas Klubowego Mundialu i coraz częściej można odnieść wrażenie, że docelowo może on wejść w buty Joselu.</description>
     </item>
     
 </channel>
