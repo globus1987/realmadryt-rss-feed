@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 22:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 22:44:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Mam nadzieję, że zakończę tu karierę</title>
+        <link>https://www.realmadryt.pl/news/140512-courtois-mam-nadzieje-ze-zakoncze-tu-kariere</link>
+        <pubDate>Sun, 22 Jun 2025 00:43:00 GMT</pubDate>
+        <description>Thibaut Courtois rozmawiał z mediami po przylocie do Charlotte. Przedstawiamy rozmowę z bramkarzem Królewskich.</description>
+    </item>
     
     <item>
         <title>Real Oviedo wraca do Primera División po 24 latach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140498-ser-mbappe-prawie-na-pewno-nie-zagra-takze-z-salzburgiem</link>
         <pubDate>Sat, 21 Jun 2025 14:35:00 GMT</pubDate>
         <description>Napastnik może dłużej dochodzić do siebie, a klub przygotował specjalny plan.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga w pogoni za cudem</title>
-        <link>https://www.realmadryt.pl/news/140497-camavinga-w-pogoni-za-cudem</link>
-        <pubDate>Sat, 21 Jun 2025 13:46:00 GMT</pubDate>
-        <description>Eduardo Camavinga 23 kwietnia doznał całkowitego zerwania ścięgna mięśnia przywodziciela w lewej nodze. Jego występ w Klubowym Mundialu wydawał się w pierwszej chwili niemożliwy, ale dziś wcale nie da się takiej ewentualności wykluczyć.</description>
     </item>
     
 </channel>
