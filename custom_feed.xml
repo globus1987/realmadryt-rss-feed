@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 18:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 19:19:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Pachucę</title>
+        <link>https://www.realmadryt.pl/news/140507-kadra-na-pachuce</link>
+        <pubDate>Sat, 21 Jun 2025 21:17:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na siedmiu zawodników pierwszego zespołu podczas spotkania z Pachucą. Bask powołał 26 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Ramon Abatti na Pachucę</title>
@@ -17,7 +24,7 @@
         <title>Inter w starciu z drużyną Skorży [LIVE]</title>
         <link>https://www.realmadryt.pl/news/140505-inter-w-starciu-z-druzyna-skorzy-live</link>
         <pubDate>Sat, 21 Jun 2025 20:40:00 GMT</pubDate>
-        <description>Inter Mediolan zmierzy się z Urawą Red Diamonds w 2. kolejce grupy E na Klubowym Mundialu.</description>
+        <description>Inter Mediolan mierzy się z Urawą Red Diamonds w 2. kolejce grupy E na Klubowym Mundialu.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140495-gonzalo-przymierza-buty-joselu</link>
         <pubDate>Sat, 21 Jun 2025 13:18:00 GMT</pubDate>
         <description>Gonzalo García może okazać się bardzo przydatnym elementem układanki Xabiego Alonso. Wychowanek strzelił gola w pierwszym spotkaniu podczas Klubowego Mundialu i coraz częściej można odnieść wrażenie, że docelowo może on wejść w buty Joselu.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Barça nie przejmuje się ofensywą Bayernu w sprawie Nico Williamsa</title>
-        <link>https://www.realmadryt.pl/news/140493-marca-barca-nie-przejmuje-sie-ofensywa-bayernu-w-sprawie-nico-williamsa</link>
-        <pubDate>Sat, 21 Jun 2025 12:12:00 GMT</pubDate>
-        <description>W katalońskim klubie wiedzą, że priorytetem zawodnika Athleticu jest gra w Barcelonie.</description>
     </item>
     
 </channel>
