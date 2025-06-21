@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 07:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 07:41:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Arsenal rusza po Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/140483-as-arsenal-rusza-po-rodrygo</link>
+        <pubDate>Sat, 21 Jun 2025 09:25:00 GMT</pubDate>
+        <description>Kanonierzy, widząc, że Nico Williams wymyka im się z rąk, kierują swoją uwagę na Brazylijczyka z Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Media: Federacja opublikuje terminarz Primera División 1 lipca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140468-benfica-zgodnie-z-planem-z-auckland-city-carreras-zawieszony-na-bayern</link>
         <pubDate>Fri, 20 Jun 2025 17:31:00 GMT</pubDate>
         <description>Benfica wygrała 6:0 z nowozelandzkim Auckland City w 2. kolejce grupy C na Klubowym Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Raport Realu o Stanach Zjednoczonych, który wstrzymał Carvajala, Militão i Alabę</title>
-        <link>https://www.realmadryt.pl/news/140472-raport-realu-o-stanach-zjednoczonych-ktory-wstrzymal-carvajala-militao-i-alabe</link>
-        <pubDate>Fri, 20 Jun 2025 17:31:00 GMT</pubDate>
-        <description>Królewscy wysłali emisariuszy, by sprawdzili stan murawy, co wpłynie na decyzje Xabiego Alonso.</description>
     </item>
     
 </channel>
