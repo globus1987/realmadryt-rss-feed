@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Jun 2025 14:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jun 2025 14:43:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Odporność Mastantuono</title>
+        <link>https://www.realmadryt.pl/news/140501-odpornosc-mastantuono</link>
+        <pubDate>Sat, 21 Jun 2025 16:23:00 GMT</pubDate>
+        <description>Franco Mastantuono w młodzieżowych kategoriach River Plate czynił postępy w niewiarygodnym tempie. Potencjał pomocnika zwrócił uwagę największych klubów w Europie, co koniec końców poskutkowało transferem do Realu Madryt.</description>
+    </item>
     
     <item>
         <title>SER: Mbappé prawie na pewno nie zagra także z Salzburgiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140488-mateo-mamy-jeden-punkt-w-rywalizacji-ktora-bedzie-dluga</link>
         <pubDate>Sat, 21 Jun 2025 10:31:00 GMT</pubDate>
         <description>Chus Mateo podsumował wygrane spotkanie z Valencią na początek finałowej rywalizacji w Lidze Endesa. Starał się tonować nastroje i chwalił występ Feliza.</description>
-    </item>
-    
-    <item>
-        <title>„Florentino powiedział, że bardzo podobał mu się mój styl gry”</title>
-        <link>https://www.realmadryt.pl/news/140487-florentino-powiedzial-ze-bardzo-podobal-mu-sie-moj-styl-gry</link>
-        <pubDate>Sat, 21 Jun 2025 10:23:00 GMT</pubDate>
-        <description>Elías Montiel był gwiazdą Pucharu Interkontynentalnego. Po finale z Realem wrócił do domu z Brązową Piłką, ale też pochwałą od prezesa Królewskich. W niedzielę ponownie stanie naprzeciw Los Blancos. Dziennik AS przeprowadził rozmowę z 19-letnim zawodnikiem Pachuki.</description>
     </item>
     
 </channel>
