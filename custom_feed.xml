@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Jun 2025 04:52:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 05:25:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan awaryjny Xabiego Alonso</title>
+        <link>https://www.realmadryt.pl/news/140504-plan-awaryjny-xabiego-alonso</link>
+        <pubDate>Sun, 22 Jun 2025 07:25:00 GMT</pubDate>
+        <description>Bask ma bardzo mało czasu, by naprawić to, co nie zadziałało w meczu z Al-Hilal.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Pachuca: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140503-ostatni-trening-przed-pachuca</link>
         <pubDate>Sat, 21 Jun 2025 19:01:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Palm Beach i zakończyli boiskowe przygotowania do drugiego meczu Klubowych Mistrzostw Świata.</description>
-    </item>
-    
-    <item>
-        <title>Borussia odwraca wynik i wygrywa z Mamelodi</title>
-        <link>https://www.realmadryt.pl/news/140494-borussia-odwraca-wynik-i-wygrywa-z-mamelodi</link>
-        <pubDate>Sat, 21 Jun 2025 17:40:00 GMT</pubDate>
-        <description>Borussia Dortmund wygrała z Mamelodi Sundowns w 2. kolejce grupy F na Klubowym Mundialu.</description>
     </item>
     
 </channel>
