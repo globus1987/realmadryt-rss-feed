@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Jun 2025 14:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 15:25:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmarł socio nr 1 Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/140526-zmarl-socio-nr-1-realu-madryt</link>
+        <pubDate>Sun, 22 Jun 2025 17:19:00 GMT</pubDate>
+        <description>Klub składa kondolencje rodzinie wiernego kibica Królewskich</description>
+    </item>
     
     <item>
         <title>Vinícius zagrożony zawieszeniem za kartki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140515-xabi-alonso-tchouameni-to-fundamentalna-postac-dla-tej-druzyny</link>
         <pubDate>Sun, 22 Jun 2025 08:30:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się w nocy na konferencji prasowej przed dzisiejszym spotkaniem z Pachucą w fazie grupowej Klubowego Mundialu. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bank of America Stadium w Charlotte.</description>
-    </item>
-    
-    <item>
-        <title>Bezbramkowy remis River z Monterrey</title>
-        <link>https://www.realmadryt.pl/news/140517-bezbramkowy-remis-river-z-monterrey</link>
-        <pubDate>Sun, 22 Jun 2025 08:11:00 GMT</pubDate>
-        <description>River Plate zremisowało z Monterrey w meczu 2. kolejki grupy E na Klubowym Mundialu.</description>
     </item>
     
 </channel>
