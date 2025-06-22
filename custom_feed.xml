@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Jun 2025 11:19:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 11:41:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poszukiwany: Jude Bellingham</title>
+        <link>https://www.realmadryt.pl/news/140524-poszukiwany-jude-bellingham</link>
+        <pubDate>Sun, 22 Jun 2025 13:24:00 GMT</pubDate>
+        <description>Mecz z Al-Hilal pokazał, że nowy trener musi znaleźć dla Jude'a Bellinghama odpowiednie miejsce na boisku, aby ten mógł błyszczeć tak jak w swoim pierwszym sezonie w Realu.</description>
+    </item>
     
     <item>
         <title>Niespodziewany rozgrywający, którego tak bardzo brakowało</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140504-plan-awaryjny-xabiego-alonso</link>
         <pubDate>Sun, 22 Jun 2025 07:25:00 GMT</pubDate>
         <description>Bask ma bardzo mało czasu, by naprawić to, co nie zadziałało w meczu z Al-Hilal.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Pachuca: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/140508-real-madryt-pachuca-przewidywane-sklady</link>
-        <pubDate>Sun, 22 Jun 2025 05:30:00 GMT</pubDate>
-        <description>Real Madryt rozegra dzisiaj kolejne spotkanie i tym razem zmierzy się z Pachucą. W obu zespołach należy spodziewać się niewielu zmian względem ostatnich meczów.</description>
     </item>
     
 </channel>
