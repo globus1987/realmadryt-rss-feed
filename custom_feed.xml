@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Jun 2025 07:24:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 07:41:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poznajmy się lepiej</title>
+        <link>https://www.realmadryt.pl/news/140500-poznajmy-sie-lepiej</link>
+        <pubDate>Sun, 22 Jun 2025 09:30:00 GMT</pubDate>
+        <description>Świętej pamięci Franciszek Smuda stwierdził niegdyś, że jest w stanie poznać dobrego piłkarza po tym, jak wchodzi po schodach. Choć Franz miewał wybitną intuicję, to jednak cały mechanizm nie działa chyba w ten sposób.</description>
+    </item>
     
     <item>
         <title>Güler: Odejście z Realu? Kiedy nie grasz, to myślisz o wszystkim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140509-krolewscy-sa-juz-w-charlotte</link>
         <pubDate>Sat, 21 Jun 2025 23:30:00 GMT</pubDate>
         <description>26 powołanych zawodników dotarło już do Karoliny Północnej, gdzie Królewscy zmierzą się jutro z Pachucą.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Pachucę</title>
-        <link>https://www.realmadryt.pl/news/140507-kadra-na-pachuce</link>
-        <pubDate>Sat, 21 Jun 2025 21:17:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na siedmiu zawodników pierwszego zespołu podczas spotkania z Pachucą. Bask powołał 26 piłkarzy.</description>
     </item>
     
 </channel>
