@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Jun 2025 07:54:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 08:31:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 22 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140516-kartka-z-kalendarza-22-czerwca</link>
+        <pubDate>Sun, 22 Jun 2025 10:30:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza Realu Madryt i Barcelony, wygrane trofea piłkarzy i koszykarzy oraz transfer obiecującego bramkarza. Co działo się 22 czerwca?</description>
+    </item>
+    
+    <item>
+        <title>„Rewanż” przyszłego kapitana</title>
+        <link>https://www.realmadryt.pl/news/140520-rewanz-przyszlego-kapitana</link>
+        <pubDate>Sun, 22 Jun 2025 10:10:00 GMT</pubDate>
+        <description>Fede Valverde czuł się fatalnie po zmarnowaniu rzutu karnego w meczu z Al-Hilal i chce się zrewanżować za swój błąd w dzisiejszym meczu z Pachucą.</description>
+    </item>
     
     <item>
         <title>Poznajmy się lepiej</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140512-courtois-mam-nadzieje-ze-zakoncze-tu-kariere</link>
         <pubDate>Sun, 22 Jun 2025 00:43:00 GMT</pubDate>
         <description>Thibaut Courtois rozmawiał z mediami po przylocie do Charlotte. Przedstawiamy rozmowę z bramkarzem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Real Oviedo wraca do Primera División po 24 latach</title>
-        <link>https://www.realmadryt.pl/news/140510-real-oviedo-wraca-do-primera-division-po-24-latach</link>
-        <pubDate>Sat, 21 Jun 2025 23:45:00 GMT</pubDate>
-        <description>Zespół z Asturii pokonał w finale baraży Mirandés po niezwykle wyrównanym dwumeczu.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Charlotte</title>
-        <link>https://www.realmadryt.pl/news/140509-krolewscy-sa-juz-w-charlotte</link>
-        <pubDate>Sat, 21 Jun 2025 23:30:00 GMT</pubDate>
-        <description>26 powołanych zawodników dotarło już do Karoliny Północnej, gdzie Królewscy zmierzą się jutro z Pachucą.</description>
     </item>
     
 </channel>
