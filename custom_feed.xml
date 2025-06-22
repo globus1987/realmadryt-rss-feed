@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Jun 2025 23:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jun 2025 23:43:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140542-dzisiejsze-okladki</link>
+        <pubDate>Mon, 23 Jun 2025 01:29:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Cabral: Powiedziałem Rüdigerowi, że jest zasrańcem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140530-real-madryt-wygrywa-po-dogrywce</link>
         <pubDate>Sun, 22 Jun 2025 20:51:00 GMT</pubDate>
         <description>Real Madryt po bardzo zaciętym spotkaniu po raz drugi w tym tygodniu pokonał Valencię i wykonał kolejny krok w kierunku mistrzostwa Hiszpanii. Goście byli o włos od wygranej, lecz Sergio Llull doprowadził do dogrywki w ostatnich sekundach czwartej kwarty. Znów ze świetnej strony pokazał się Andrés Feliz, chociaż MVP meczu został Campazzo.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Pachuca: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/140528-real-madryt-pachuca-znamy-sklady</link>
-        <pubDate>Sun, 22 Jun 2025 19:26:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w drugim meczu fazy grupowej Klubowego Mundialu. Spotkanie rozpocznie się o 21:00 czasu polskiego na Bank of America Stadium w Charlotte.</description>
     </item>
     
 </channel>
