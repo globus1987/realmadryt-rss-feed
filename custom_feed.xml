@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Jun 2025 22:26:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jun 2025 22:46:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140567-dzisiejsze-okladki</link>
+        <pubDate>Tue, 24 Jun 2025 00:42:00 GMT</pubDate>
+        <description>Odpadnięcie Atlético i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Grupa B: PSG i Botafogo grają dalej, Atlético i Seattle za burtą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140552-infantino-zawodnicy-uwielbiaja-klubowy-mundial</link>
         <pubDate>Mon, 23 Jun 2025 15:49:00 GMT</pubDate>
         <description>Melanie Anzidei z The Athletic relacjonuje, że prezes FIFA w ostatni weekend wziął udział w wydarzeniu Fanatics Fest na Manhattanie. Podczas niego odpowiedział na kilka pytań, chwaląc trwający Klubowy Mundial i twierdząc, że turniej jest krytykowany, gdyż jest nowością.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Wszyscy po mnie jechali, że Jobe jest lepszy ode mnie, więc musiałem coś zrobić</title>
-        <link>https://www.realmadryt.pl/news/140551-bellingham-wszyscy-po-mnie-jechali-ze-jobe-jest-lepszy-ode-mnie-wiec-musialem-cos-zrobic</link>
-        <pubDate>Mon, 23 Jun 2025 13:17:00 GMT</pubDate>
-        <description>Jude Bellingham rozmawiał z reporterką DAZN po wczorajszym starciu z Pachucą. Poniżej możecie zapoznać się ze słowami Anglika.</description>
     </item>
     
 </channel>
