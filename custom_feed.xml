@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Jun 2025 09:33:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 09:54:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Barcelona wraca w sierpniu na Camp Nou</title>
+        <link>https://www.realmadryt.pl/news/140594-oficjalnie-barcelona-wraca-w-sierpniu-na-camp-nou</link>
+        <pubDate>Wed, 25 Jun 2025 11:46:00 GMT</pubDate>
+        <description>Koniec Klasyków na Montjuïc.</description>
+    </item>
     
     <item>
         <title>„Widzę Gülera w roli Modricia”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140589-dzisiejsze-okladki</link>
         <pubDate>Wed, 25 Jun 2025 00:37:00 GMT</pubDate>
         <description>Wydarzenia na Klubowym Mundialu i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Grupa C: Benfica pokonuje Bayern i zajmuje pierwsze miejsce [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140580-grupa-c-benfica-pokonuje-bayern-i-zajmuje-pierwsze-miejsce-video</link>
-        <pubDate>Tue, 24 Jun 2025 20:32:00 GMT</pubDate>
-        <description>Poznaliśmy końcowe rozstrzygnięcia w grupie C Klubowego Mundialu. W ostatniej serii gier Benfica pokonała 1:0 Bayern Monachium i wygrała rywalizację w tej grupie, spychając Bawarczyków na drugie miejsce. Przy obecnej sytuacji w grupie D Benfica zmierzy się w 1/8 finału z Chelsea, a Bayern zagra z Flamengo.</description>
     </item>
     
 </channel>
