@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Jun 2025 10:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 10:50:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen, architekt gry od tyłu</title>
+        <link>https://www.realmadryt.pl/news/140595-huijsen-architekt-gry-od-tylu</link>
+        <pubDate>Wed, 25 Jun 2025 12:46:00 GMT</pubDate>
+        <description>Młody stoper już narzuca swoje reguły w obronie Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Barcelona wraca w sierpniu na Camp Nou</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140590-dyrektor-sportowy-milanu-przyjscie-modricia-jest-kluczowe-dla-grupy-ktora-potrzebuje-takich-pilkarzy</link>
         <pubDate>Wed, 25 Jun 2025 00:45:00 GMT</pubDate>
         <description>Igli Tare udzielił wywiadu dla La Gazzetta dello Sport. Przedstawiamy najważniejsze wypowiedzi nowego dyrektora sporotwego Milanu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140589-dzisiejsze-okladki</link>
-        <pubDate>Wed, 25 Jun 2025 00:37:00 GMT</pubDate>
-        <description>Wydarzenia na Klubowym Mundialu i transfery Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
