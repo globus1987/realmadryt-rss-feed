@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Jun 2025 22:26:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 22:46:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140612-dzisiejsze-okladki</link>
+        <pubDate>Thu, 26 Jun 2025 00:43:00 GMT</pubDate>
+        <description>Mistrzostwo koszykarzy Realu Madryt i przekaz z Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Musa: To był mój ostatni mecz w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140601-pierwszy-trener-huijsena-przeciwnicy-prosili-sedziego-o-sprawdzenie-wieku-deana</link>
         <pubDate>Wed, 25 Jun 2025 16:51:00 GMT</pubDate>
         <description>Hiszpan polskiego pochodzenia był szkoleniowcem nowego piłkarza Realu w Costa Unida de Marbella, do którego Dean został zapisany, mając pięć lat.</description>
-    </item>
-    
-    <item>
-        <title>De la Fuente: Huijsen zaskoczył wielu dziennikarzy, ale nie nas</title>
-        <link>https://www.realmadryt.pl/news/140599-de-la-fuente-huijsen-zaskoczyl-wielu-dziennikarzy-ale-nie-nas</link>
-        <pubDate>Wed, 25 Jun 2025 15:38:00 GMT</pubDate>
-        <description>Luis de la Fuente był gościem programu El Partidazo w radiu COPE. Przedstawiamy najważniejsze wypowiedzi selekcjonera seniorskiej Hiszpanii z tej rozmowy.</description>
     </item>
     
 </channel>
