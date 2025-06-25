@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Jun 2025 11:55:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jun 2025 12:56:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt wypuścił kolekcję Magic Moments</title>
+        <link>https://www.realmadryt.pl/news/140597-real-madryt-wypuscil-kolekcje-magic-moments</link>
+        <pubDate>Wed, 25 Jun 2025 14:16:00 GMT</pubDate>
+        <description>Niemiecka firma wypuszcza kolekcję związaną z czterema specjalnymi momentami w historii Królewskich.</description>
+    </item>
     
     <item>
         <title>FIFA otwiera postępowanie dysycplinarne przeciwko Cabralowi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140585-mastantuono-slowa-xabiego-bardzo-mnie-zmotywowaly-do-podjecia-tej-decyzji</link>
         <pubDate>Wed, 25 Jun 2025 05:57:00 GMT</pubDate>
         <description>Franco Mastantuono udzielił wywiadu telewizji DAZN. Przedstawiamy najważniejsze wypowiedzi Argentyńczyka.</description>
-    </item>
-    
-    <item>
-        <title>Chelsea rozbiła Espérance i wyszła z grupy [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140588-chelsea-rozbila-esperance-i-wyszla-z-grupy-video</link>
-        <pubDate>Wed, 25 Jun 2025 05:21:00 GMT</pubDate>
-        <description>W 1/8 finału zagrają Flamengo i Chelsea.</description>
     </item>
     
 </channel>
