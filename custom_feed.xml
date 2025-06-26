@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Jun 2025 22:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 22:46:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140643-dzisiejsze-okladki</link>
+        <pubDate>Fri, 27 Jun 2025 00:34:00 GMT</pubDate>
+        <description>Transfer Atlético, przyszłość Franco Mastantuono, nowy numer Yamala oraz konfrontacja Athleticu z Barceloną to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>DAZN: Endrick może dolecieć do drużyny, a Militão otrzymać powołanie na kolejny mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140631-oficjalnie-cristiano-ronaldo-przedluzyl-kontakt-z-al-nassr</link>
         <pubDate>Thu, 26 Jun 2025 15:22:00 GMT</pubDate>
         <description>Portugalczyk zostaje w Arabii Saudyjskiej, choć nie podano, do którego roku zawarto nową umowę.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Na pewno czuję zmęczenie</title>
-        <link>https://www.realmadryt.pl/news/140630-bellingham-na-pewno-czuje-zmeczenie</link>
-        <pubDate>Thu, 26 Jun 2025 15:14:00 GMT</pubDate>
-        <description>Jude Bellingham po meczu z Pachucą udzielił wypowiedzi angielskim mediom. Przedstawiamy komentarze zawodnika Realu Madryt ze strefy mieszanej.</description>
     </item>
     
 </channel>
