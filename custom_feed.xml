@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Jun 2025 07:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 08:36:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real gra z Salzburgiem o ponad 8 milionów euro</title>
+        <link>https://www.realmadryt.pl/news/140621-real-gra-z-salzburgiem-o-ponad-8-milionow-euro</link>
+        <pubDate>Thu, 26 Jun 2025 09:58:00 GMT</pubDate>
+        <description>Awans do 1/8 finału oznacza prawie 7 milionów euro, a dodatkowym zastrzykiem byłoby zwycięstwo nad Salzburgiem. Łącznie w Klubowych Mistrzostwach Świata do zgarnięcia jest prawie 110 milionów euro.</description>
+    </item>
     
     <item>
         <title>Campazzo: To była zasłużona i wycierpiana liga</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140611-musa-to-byl-moj-ostatni-mecz-w-realu-madryt</link>
         <pubDate>Thu, 26 Jun 2025 00:18:00 GMT</pubDate>
         <description>Džanan Musa przyznał w wywiadzie po zdobyciu mistrzostwa Hiszpanii, że rozegrał swój ostatni mecz w barwach Realu Madryt. Bośniak ma się teraz przenieść do Dubaju.</description>
-    </item>
-    
-    <item>
-        <title>Facundo Campazzo MVP Finałów Ligi Endesa</title>
-        <link>https://www.realmadryt.pl/news/140610-facundo-campazzo-mvp-finalow-ligi-endesa</link>
-        <pubDate>Wed, 25 Jun 2025 23:50:00 GMT</pubDate>
-        <description>Facundo Campazzo po raz drugi w karierze otrzymał nagrodę dla MVP Finałów Ligi Endesa. Dzisiaj powtórzył osiągnięcie z sezonu 2018/19.</description>
     </item>
     
 </channel>
