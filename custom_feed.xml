@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Jun 2025 14:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 15:28:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Uwaga na alert burzowy</title>
+        <link>https://www.realmadryt.pl/news/140634-uwaga-na-alert-burzowy</link>
+        <pubDate>Thu, 26 Jun 2025 16:58:00 GMT</pubDate>
+        <description>Mecz pomiędzy Realem Madryt a Salzburgiem może się zetknąć z niesprzyjającymi warunkami atmosferycznymi. Kibice muszą być przygotowani na ewentualne przerwanie spotkania.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso diagnozuje problem i wyciąga bata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140622-marca-andrij-lunin-odrzuca-liczne-oferty</link>
         <pubDate>Thu, 26 Jun 2025 10:43:00 GMT</pubDate>
         <description>Ukrainiec chce zostać w Madrycie, mimo że nie może liczyć na regularną grę od pierwszych minut.</description>
-    </item>
-    
-    <item>
-        <title>Real gra z Salzburgiem o ponad 8 milionów euro</title>
-        <link>https://www.realmadryt.pl/news/140621-real-gra-z-salzburgiem-o-ponad-8-milionow-euro</link>
-        <pubDate>Thu, 26 Jun 2025 09:58:00 GMT</pubDate>
-        <description>Awans do 1/8 finału oznacza prawie 7 milionów euro, a dodatkowym zastrzykiem byłoby zwycięstwo nad Salzburgiem. Łącznie w Klubowych Mistrzostwach Świata do zgarnięcia jest prawie 110 milionów euro.</description>
     </item>
     
 </channel>
