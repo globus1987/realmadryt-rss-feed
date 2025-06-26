@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Jun 2025 08:36:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jun 2025 08:58:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Andrij Łunin odrzuca liczne oferty</title>
+        <link>https://www.realmadryt.pl/news/140622-marca-andrij-lunin-odrzuca-liczne-oferty</link>
+        <pubDate>Thu, 26 Jun 2025 10:43:00 GMT</pubDate>
+        <description>Ukrainiec chce zostać w Madrycie, mimo że nie może liczyć na regularną grę od pierwszych minut.</description>
+    </item>
     
     <item>
         <title>Real gra z Salzburgiem o ponad 8 milionów euro</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140612-dzisiejsze-okladki</link>
         <pubDate>Thu, 26 Jun 2025 00:43:00 GMT</pubDate>
         <description>Mistrzostwo koszykarzy Realu Madryt i przekaz z Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Musa: To był mój ostatni mecz w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/140611-musa-to-byl-moj-ostatni-mecz-w-realu-madryt</link>
-        <pubDate>Thu, 26 Jun 2025 00:18:00 GMT</pubDate>
-        <description>Džanan Musa przyznał w wywiadzie po zdobyciu mistrzostwa Hiszpanii, że rozegrał swój ostatni mecz w barwach Realu Madryt. Bośniak ma się teraz przenieść do Dubaju.</description>
     </item>
     
 </channel>
