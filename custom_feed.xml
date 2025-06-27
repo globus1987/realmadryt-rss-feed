@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 05:47:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 06:38:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 27 czerwca</title>
+        <link>https://www.realmadryt.pl/news/140649-kartka-z-kalendarza-27-czerwca</link>
+        <pubDate>Fri, 27 Jun 2025 08:20:00 GMT</pubDate>
+        <description>Urodziny legendarnego napastnika i transfery dwóch obiecujących graczy. Co działo się 27 czerwca?</description>
+    </item>
+    
+    <item>
+        <title>Trent: Mnie narobił już problemów, więc dobrze widzieć, że teraz inni muszą męczyć się z Viníciusem</title>
+        <link>https://www.realmadryt.pl/news/140655-trent-mnie-narobil-juz-problemow-wiec-dobrze-widziec-ze-teraz-inni-musza-meczyc-sie-z-viniciusem</link>
+        <pubDate>Fri, 27 Jun 2025 07:57:00 GMT</pubDate>
+        <description>Trent Alexander-Arnold po meczu z Salzburgiem udzielił wywiadu telewizji DAZN. Przedstawiamy zapis rozmowy z obrońcą Realu Madryt na Lincoln Financial Field w Filadelfii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Muszę znowu dostosować się do gry w środku</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140644-rozgrzewka-przed-salzburgiem-vidieo</link>
         <pubDate>Fri, 27 Jun 2025 02:22:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Lincoln Financial Field w Filadelfii, gdzie za kilkadziesiąt minut zaczną mecz z Salzburgiem. Pierwszy gwizdek arbitra wybrzmi wstępnie o godzinie 3:00.</description>
-    </item>
-    
-    <item>
-        <title>Salzburg – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/140642-salzburg-real-madryt-znamy-sklady</link>
-        <pubDate>Fri, 27 Jun 2025 01:26:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w trzecim meczu fazy grupowej Klubowego Mundialu. Mecz rozpocznie się o godzinie 3:00 czasu polskiego na Lincoln Financial Field w Filadelfii, ale uwaga na możliwe opóźnienia z powodów meteorologicznych.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140643-dzisiejsze-okladki</link>
-        <pubDate>Fri, 27 Jun 2025 00:34:00 GMT</pubDate>
-        <description>Transfer Atlético, przyszłość Franco Mastantuono, nowy numer Yamala oraz konfrontacja Athleticu z Barceloną to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
