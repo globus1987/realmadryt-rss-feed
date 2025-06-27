@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 07:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 07:44:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger do Huijsena: „Przyzwyczajaj się”</title>
+        <link>https://www.realmadryt.pl/news/140658-ruediger-do-huijsena-przyzwyczajaj-sie</link>
+        <pubDate>Fri, 27 Jun 2025 09:31:00 GMT</pubDate>
+        <description>Niemiec i Hiszpan po raz pierwszy zagrali razem w wyjściowym składzie i udało im się zachować czyste konto.</description>
+    </item>
     
     <item>
         <title>Jacobo: Xabi prosi mnie, abym był sobą i się cieszył</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140647-ocen-pilkarzy-po-meczu-z-salzburgiem</link>
         <pubDate>Fri, 27 Jun 2025 05:05:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Pewna wygrana z Salzburgiem</title>
-        <link>https://www.realmadryt.pl/news/140628-pewna-wygrana-z-salzburgiem</link>
-        <pubDate>Fri, 27 Jun 2025 02:55:00 GMT</pubDate>
-        <description>Real Madryt pokonał Salzburg w meczu 3. kolejki fazy grupowej Klubowego Mundialu 3:0. Gole dla Królewskich zdobyli Vinícius Júnior, Fede Valverde i Gonzalo García.</description>
     </item>
     
 </channel>
