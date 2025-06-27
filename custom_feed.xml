@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 08:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 09:30:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rewolucja w sekcji koszykarskiej</title>
+        <link>https://www.realmadryt.pl/news/140662-rewolucja-w-sekcji-koszykarskiej</link>
+        <pubDate>Fri, 27 Jun 2025 11:21:00 GMT</pubDate>
+        <description>Real Madryt planuje przeprowadzić duże zmiany w sekcji koszykarskiej. Impulsem do takiej decyzji była słaba pierwsza część sezonu. Roszady mają dotknąć również Juana Carlosa Sáncheza, który od 15 lat odpowiadał za tę sekcję.</description>
+    </item>
     
     <item>
         <title>Reakcja Gutiego na piętkę Viniego [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140653-tchouameni-trener-poprosil-mnie-dzisiaj-o-wiecej-rzeczy-w-obronie</link>
         <pubDate>Fri, 27 Jun 2025 06:11:00 GMT</pubDate>
         <description>Aurélien Tchouaméni po meczu z Salzburgiem udzielił wywiadu Real Madrid TV. Przedstawiamy wypowiedzi pomocnika Realu Madryt w tej rozmowy na Lincoln Financial Field w Filadelfii.</description>
-    </item>
-    
-    <item>
-        <title>Salzburg 0:3 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140651-salzburg-0-3-real-madryt-video</link>
-        <pubDate>Fri, 27 Jun 2025 05:43:00 GMT</pubDate>
-        <description>Real Madryt pokonał Salzburg w meczu 3. kolejki fazy grupowej Klubowego Mundialu 3:0. Gole dla Królewskich zdobyli Vinícius Júnior, Fede Valverde i Gonzalo García.</description>
     </item>
     
 </channel>
