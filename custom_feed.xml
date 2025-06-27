@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 05:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 05:47:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius: Muszę znowu dostosować się do gry w środku</title>
+        <link>https://www.realmadryt.pl/news/140652-vinicius-musze-znowu-dostosowac-sie-do-gry-w-srodku</link>
+        <pubDate>Fri, 27 Jun 2025 07:30:00 GMT</pubDate>
+        <description>Vinícius Júnior po meczu z Salzburgiem pojawił się na konferencji prasowej jak MVP spotkania. Przedstawiamy zapis tego spotkania Brazylijczyka z dziennikarzami na Lincoln Financial Field w Filadelfii.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Trener poprosił mnie dzisiaj o więcej rzeczy w obronie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140643-dzisiejsze-okladki</link>
         <pubDate>Fri, 27 Jun 2025 00:34:00 GMT</pubDate>
         <description>Transfer Atlético, przyszłość Franco Mastantuono, nowy numer Yamala oraz konfrontacja Athleticu z Barceloną to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>DAZN: Endrick może dolecieć do drużyny, a Militão otrzymać powołanie na kolejny mecz</title>
-        <link>https://www.realmadryt.pl/news/140641-dazn-endrick-moze-doleciec-do-druzyny-a-militao-otrzymac-powolanie-na-kolejny-mecz</link>
-        <pubDate>Thu, 26 Jun 2025 21:18:00 GMT</pubDate>
-        <description>Królewscy do dzisiejszego nocnego meczu podchodzą bez aż 8 piłkarzy pierwszej drużyny. Jeśli awansują, mogą odzyskać nawet połowę z nieobecnych piłkarzy.</description>
     </item>
     
 </channel>
