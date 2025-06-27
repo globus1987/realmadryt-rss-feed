@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 22:26:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 22:46:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140678-dzisiejsze-okladki</link>
+        <pubDate>Sat, 28 Jun 2025 00:31:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kwadrans pierwszego treningu przed Juventusem; Mbappé ćwiczy z drużyną [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140666-rfef-czysci-struktury-sedziowskie-louzan-zrywa-z-dawnym-systemem</link>
         <pubDate>Fri, 27 Jun 2025 12:29:00 GMT</pubDate>
         <description>Juanma Castaño wyjaśnia zmiany w RFEF dotyczące arbitrów i ich związek ze sprawą Negreiry: „Tak dłużej być nie mogło”. Isaac Fouto ujawnił nazwiska rozważane przez Federację w celu zakończenia kontrowersji wokół tego środowiska.</description>
-    </item>
-    
-    <item>
-        <title>Jakie są powody nierównego podziału pieniędzy między europejskie kluby na Klubowym Mundialu?</title>
-        <link>https://www.realmadryt.pl/news/140665-jakie-sa-powody-nierownego-podzialu-pieniedzy-miedzy-europejskie-kluby-na-klubowym-mundialu</link>
-        <pubDate>Fri, 27 Jun 2025 12:21:00 GMT</pubDate>
-        <description>FIFA rozdzieliła 284 miliony euro, kierując się kryteriami sportowymi (ranking UEFA z ostatnich czterech lat) oraz komercyjnymi.</description>
     </item>
     
 </channel>
