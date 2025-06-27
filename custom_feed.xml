@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 13:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 14:25:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/140663-oceny-zawodnikow-po-meczu-z-salzburgiem</link>
+        <pubDate>Fri, 27 Jun 2025 16:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Salzburgiem 3:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>RFEF czyści struktury sędziowskie: Louzán zrywa z dawnym systemem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140657-jacobo-xabi-prosi-mnie-abym-byl-soba-i-sie-cieszyl</link>
         <pubDate>Fri, 27 Jun 2025 08:56:00 GMT</pubDate>
         <description>Jacobo Ramón udzielił wywiadu dla klubowej telewizji po wygranym 3:0 meczu z Salzburgiem. Przedstawiamy zapis rozmowy z wychowankiem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 27 czerwca</title>
-        <link>https://www.realmadryt.pl/news/140649-kartka-z-kalendarza-27-czerwca</link>
-        <pubDate>Fri, 27 Jun 2025 08:20:00 GMT</pubDate>
-        <description>Urodziny legendarnego napastnika i transfery dwóch obiecujących graczy. Co działo się 27 czerwca?</description>
     </item>
     
 </channel>
