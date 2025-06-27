@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Jun 2025 23:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 02:11:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Salzburg – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140628-salzburg-real-madryt-live</link>
+        <pubDate>Fri, 27 Jun 2025 02:55:00 GMT</pubDate>
+        <description>Od 3:00 polskiego czasu Real Madryt mierzy się z Salzburgiem w meczu 3. kolejki fazy grupowej Klubowego Mundialu.</description>
+    </item>
+    
+    <item>
+        <title>Rozgrzewka przed Salzburgiem [VIDIEO]</title>
+        <link>https://www.realmadryt.pl/news/140644-rozgrzewka-przed-salzburgiem-vidieo</link>
+        <pubDate>Fri, 27 Jun 2025 02:22:00 GMT</pubDate>
+        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Lincoln Financial Field w Filadelfii, gdzie za kilkadziesiąt minut zaczną mecz z Salzburgiem. Pierwszy gwizdek arbitra wybrzmi wstępnie o godzinie 3:00.</description>
+    </item>
     
     <item>
         <title>Salzburg – Real Madryt: Znamy składy!</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140634-uwaga-na-alert-burzowy</link>
         <pubDate>Thu, 26 Jun 2025 16:58:00 GMT</pubDate>
         <description>Mecz pomiędzy Realem Madryt a Salzburgiem może się zetknąć z niesprzyjającymi warunkami atmosferycznymi. Kibice muszą być przygotowani na ewentualne przerwanie spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso diagnozuje problem i wyciąga bata</title>
-        <link>https://www.realmadryt.pl/news/140633-xabi-alonso-diagnozuje-problem-i-wyciaga-bata</link>
-        <pubDate>Thu, 26 Jun 2025 16:27:00 GMT</pubDate>
-        <description>Ancelotti wskazywał to jako największy problem swojego Realu Madryt w ostatnich miesiącach, a nowy trener już wyraźnie dał to do zrozumienia swoim piłkarzom.</description>
-    </item>
-    
-    <item>
-        <title>ABC: Najgorsza seria Viníciusa od czterech lat</title>
-        <link>https://www.realmadryt.pl/news/140632-abc-najgorsza-seria-viniciusa-od-czterech-lat</link>
-        <pubDate>Thu, 26 Jun 2025 15:38:00 GMT</pubDate>
-        <description>Na Klubowym Mundialu w górę idą akcje Ardy Gülera czy Gonzalo. W dół poza Raúlem Asencio i Rodrygo idą także te Viníciusa. W tym okresie Brazylijczyk notuje swoją najgorszą serię od lat.</description>
     </item>
     
 </channel>
