@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 02:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 03:33:12 GMT</lastBuildDate>
     
     <item>
-        <title>Salzburg – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140628-salzburg-real-madryt-live</link>
+        <title>Z Juventusem w 1/8 finału!</title>
+        <link>https://www.realmadryt.pl/news/140646-z-juventusem-w-1-8-finalu</link>
+        <pubDate>Fri, 27 Jun 2025 05:16:00 GMT</pubDate>
+        <description>W najbliższy wtorek, 1 lipca, o 21:00 Real Madryt zagra z Juventusem w 1/8 finału Klubowego Mundialu.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius: Powoli dostosowujemy się do gry trenera</title>
+        <link>https://www.realmadryt.pl/news/140648-vinicius-powoli-dostosowujemy-sie-do-gry-trenera</link>
+        <pubDate>Fri, 27 Jun 2025 05:12:00 GMT</pubDate>
+        <description>Vinícius po meczu z Salzburgiem udzielił wywiadu DAZN. Przedstawiamy wypowiedzi Brazylijczyka z murawy Lincoln Financial Field w Filadelfii.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius Najlepszym Zawodnikiem Meczu</title>
+        <link>https://www.realmadryt.pl/news/140645-vinicius-najlepszym-zawodnikiem-meczu</link>
+        <pubDate>Fri, 27 Jun 2025 05:06:00 GMT</pubDate>
+        <description>Brazylijczyk został wyróżniony przez kibiców po meczu z Salzburgiem.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/140647-ocen-pilkarzy-po-meczu-z-salzburgiem</link>
+        <pubDate>Fri, 27 Jun 2025 05:05:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Pewna wygrana z Salzburgiem</title>
+        <link>https://www.realmadryt.pl/news/140628-pewna-wygrana-z-salzburgiem</link>
         <pubDate>Fri, 27 Jun 2025 02:55:00 GMT</pubDate>
-        <description>Od 3:00 polskiego czasu Real Madryt mierzy się z Salzburgiem w meczu 3. kolejki fazy grupowej Klubowego Mundialu.</description>
+        <description>Real Madryt pokonał Salzburg w meczu 3. kolejki fazy grupowej Klubowego Mundialu 3:0. Gole dla Królewskich zdobyli Vinícius Júnior, Fede Valverde i Gonzalo García.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/140639-athletic-nie-peka-i-odpowiada-barcelonie-oficjalnym-komunikatem</link>
         <pubDate>Thu, 26 Jun 2025 19:24:00 GMT</pubDate>
         <description>Baskowie publicznie opierają się praktykom katalońskiego klubu być może jako jedyny klub w Hiszpanii. Kolejny odcinek przepychanek słownych przyniósł tym razem oficjalny komunikat ze strony Athleticu.</description>
-    </item>
-    
-    <item>
-        <title>Holmgaard: Gra w Realu Madryt to spełnienie marzeń</title>
-        <link>https://www.realmadryt.pl/news/140638-holmgaard-gra-w-realu-madryt-to-spelnienie-marzen</link>
-        <pubDate>Thu, 26 Jun 2025 18:52:00 GMT</pubDate>
-        <description>Sara Holmgaard udzieliła wywiadu dla klubowej telewizji po transferze do Realu Madryt. Przedstawiamy wypowiedzi nowej zawodniczki Las Blancas.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real wyraził zgodę na wypożyczenie Rafy Marína do Villarrealu</title>
-        <link>https://www.realmadryt.pl/news/140637-marca-real-wyrazil-zgode-na-wypozyczenie-rafy-marina-do-villarrealu</link>
-        <pubDate>Thu, 26 Jun 2025 18:31:00 GMT</pubDate>
-        <description>Królewscy mając możliwość pierwokupu defensora, musieli przedstawić swoją wolę.</description>
-    </item>
-    
-    <item>
-        <title>FootMercato: Konaté chce odejść z Liverpoolu</title>
-        <link>https://www.realmadryt.pl/news/140635-footmercato-konate-chce-odejsc-z-liverpoolu</link>
-        <pubDate>Thu, 26 Jun 2025 18:01:00 GMT</pubDate>
-        <description>Stoper wciąż nie przedłużył kontraktu z Liverpoolem, mimo że jego umowa wygasa w 2026 roku. Obawy wśród fanów The Reds rosną. I słusznie, ponieważ francuski obrońca chce podjąć nowe wyzwanie, a kilka klubów już zostało o tym poinformowanych.</description>
-    </item>
-    
-    <item>
-        <title>Uwaga na alert burzowy</title>
-        <link>https://www.realmadryt.pl/news/140634-uwaga-na-alert-burzowy</link>
-        <pubDate>Thu, 26 Jun 2025 16:58:00 GMT</pubDate>
-        <description>Mecz pomiędzy Realem Madryt a Salzburgiem może się zetknąć z niesprzyjającymi warunkami atmosferycznymi. Kibice muszą być przygotowani na ewentualne przerwanie spotkania.</description>
     </item>
     
 </channel>
