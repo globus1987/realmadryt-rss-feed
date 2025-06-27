@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Jun 2025 09:47:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jun 2025 10:28:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jakie są powody nierównego podziału pieniędzy między europejskie kluby na Klubowym Mundialu?</title>
+        <link>https://www.realmadryt.pl/news/140665-jakie-sa-powody-nierownego-podzialu-pieniedzy-miedzy-europejskie-kluby-na-klubowym-mundialu</link>
+        <pubDate>Fri, 27 Jun 2025 12:21:00 GMT</pubDate>
+        <description>FIFA rozdzieliła 284 miliony euro, kierując się kryteriami sportowymi (ranking UEFA z ostatnich czterech lat) oraz komercyjnymi.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt na razie najlepiej zarabia na Klubowym Mundialu</title>
+        <link>https://www.realmadryt.pl/news/140664-real-madryt-na-razie-najlepiej-zarabia-na-klubowym-mundialu</link>
+        <pubDate>Fri, 27 Jun 2025 12:10:00 GMT</pubDate>
+        <description>Królewscy mogą już liczyć na ponad 43 miliony euro, co jest najlepszym wynikiem spośród wszystkich klubów, które wzięły udział w turnieju.</description>
+    </item>
     
     <item>
         <title>Rewolucja w sekcji koszykarskiej</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140655-trent-mnie-narobil-juz-problemow-wiec-dobrze-widziec-ze-teraz-inni-musza-meczyc-sie-z-viniciusem</link>
         <pubDate>Fri, 27 Jun 2025 07:57:00 GMT</pubDate>
         <description>Trent Alexander-Arnold po meczu z Salzburgiem udzielił wywiadu telewizji DAZN. Przedstawiamy zapis rozmowy z obrońcą Realu Madryt na Lincoln Financial Field w Filadelfii.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Muszę znowu dostosować się do gry w środku</title>
-        <link>https://www.realmadryt.pl/news/140652-vinicius-musze-znowu-dostosowac-sie-do-gry-w-srodku</link>
-        <pubDate>Fri, 27 Jun 2025 07:30:00 GMT</pubDate>
-        <description>Vinícius Júnior po meczu z Salzburgiem pojawił się na konferencji prasowej jak MVP spotkania. Przedstawiamy zapis tego spotkania Brazylijczyka z dziennikarzami na Lincoln Financial Field w Filadelfii.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Trener poprosił mnie dzisiaj o więcej rzeczy w obronie</title>
-        <link>https://www.realmadryt.pl/news/140653-tchouameni-trener-poprosil-mnie-dzisiaj-o-wiecej-rzeczy-w-obronie</link>
-        <pubDate>Fri, 27 Jun 2025 06:11:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni po meczu z Salzburgiem udzielił wywiadu Real Madrid TV. Przedstawiamy wypowiedzi pomocnika Realu Madryt w tej rozmowy na Lincoln Financial Field w Filadelfii.</description>
     </item>
     
 </channel>
