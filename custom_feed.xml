@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Jun 2025 08:31:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 08:55:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Zmiana charakteru to kluczowy przełom, bo przecież piłkarze są niemal ci sami i grać w piłkę nie zapomnieli”</title>
+        <link>https://www.realmadryt.pl/news/140688-zmiana-charakteru-to-kluczowy-przelom-bo-przeciez-pilkarze-sa-niemal-ci-sami-i-grac-w-pilke-nie-zapomnieli</link>
+        <pubDate>Sat, 28 Jun 2025 10:51:00 GMT</pubDate>
+        <description>Ramón Besa (dziennikarz El País, gdzie pełni funkcję redaktora naczelnego ds. sportu w Barcelonie) i Manuel Jabois (dziennikarz i autor słów do ostatniego hymnu Realu Madryt) pojawili się w programie El Larguero, by porozmawiać o aktualnej sytuacji dwóch największych klubów hiszpańskiego futbolu.</description>
+    </item>
     
     <item>
         <title>Real Madryt, który nadchodzi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140675-espn-eli-ndiaye-porozumial-sie-z-atlanta</link>
         <pubDate>Fri, 27 Jun 2025 22:25:00 GMT</pubDate>
         <description>Wszystko wskazuje na to, że Eli Ndiaye będzie kolejnym wychowankiem Realu Madryt, który opuści klub, żeby kontynuować karierę w Stanach Zjednoczonych. 21-latek porozumiał się z zespołem Atlanta Hawks.</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo zatańczył w deszczu</title>
-        <link>https://www.realmadryt.pl/news/140673-gonzalo-zatanczyl-w-deszczu</link>
-        <pubDate>Fri, 27 Jun 2025 20:11:00 GMT</pubDate>
-        <description>Wychowanek znów błysnął – kompletne występ i gol przeciwko Salzburgowi.</description>
     </item>
     
 </channel>
