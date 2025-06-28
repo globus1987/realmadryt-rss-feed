@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Jun 2025 07:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 08:31:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt, który nadchodzi</title>
+        <link>https://www.realmadryt.pl/news/140682-real-madryt-ktory-nadchodzi</link>
+        <pubDate>Sat, 28 Jun 2025 10:00:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat początków pracy Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Valverde dodaje blasku opasce kapitańskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140673-gonzalo-zatanczyl-w-deszczu</link>
         <pubDate>Fri, 27 Jun 2025 20:11:00 GMT</pubDate>
         <description>Wychowanek znów błysnął – kompletne występ i gol przeciwko Salzburgowi.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Militão otrzyma powołanie na mecz z Juventusem</title>
-        <link>https://www.realmadryt.pl/news/140672-marca-militao-otrzyma-powolanie-na-mecz-z-juventusem</link>
-        <pubDate>Fri, 27 Jun 2025 20:01:00 GMT</pubDate>
-        <description>Brazylijczyk wróci po wielu miesiącach przerwy i rehabilitacji po kontuzji zerwania więzadła krzyżowego przedniego w prawym kolanie z naruszeniem obu łąkotek.</description>
     </item>
     
 </channel>
