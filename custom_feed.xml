@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Jun 2025 23:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Jun 2025 23:42:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140699-dzisiejsze-okladki</link>
+        <pubDate>Sun, 29 Jun 2025 01:37:00 GMT</pubDate>
+        <description>Sytuacja Gonzalo, transfery Barcelony i zmiany u Yamala to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Przerwany mecz przy prowadzeniu Chelsea [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140686-vinicius-zatrybil-u-xabiego-alonso</link>
         <pubDate>Sat, 28 Jun 2025 11:42:00 GMT</pubDate>
         <description>Zaangażowanie w grze defensywnej, gol, asysta i chęć przedłużenia kontraktu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt C poznał rywali na sezon 2025/26</title>
-        <link>https://www.realmadryt.pl/news/140690-real-madryt-c-poznal-rywali-na-sezon-2025-26</link>
-        <pubDate>Sat, 28 Jun 2025 11:20:00 GMT</pubDate>
-        <description>Real Madryt C już wie, z kim będzie rywalizował w nadchodzącym sezonie. Trafił do grupy 5., gdzie czekają go między innymi wyjazdy na Wyspy Kanaryjskie.</description>
     </item>
     
 </channel>
