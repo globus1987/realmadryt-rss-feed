@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Jun 2025 22:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 22:57:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140721-dzisiejsze-okladki</link>
+        <pubDate>Mon, 30 Jun 2025 00:50:00 GMT</pubDate>
+        <description>Triumf Ilii Topurii w UFC i klauzula Ronalda Araújo to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zmarł Francisco Pérez Durán</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140708-prokuratura-prosi-o-zlozenie-zeznan-przez-laporte-luisa-enrique-i-valverde</link>
         <pubDate>Sun, 29 Jun 2025 11:50:00 GMT</pubDate>
         <description>Nowa sędzia prowadząca postępowanie śledcze w Sprawie Negreiry wykonała nowe działania. Dodatkowo nie przeszedł wniosek o umorzenie procesu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Andrés Campos zawodnikiem Leganés</title>
-        <link>https://www.realmadryt.pl/news/140707-oficjalnie-andres-campos-zawodnikiem-leganes</link>
-        <pubDate>Sun, 29 Jun 2025 11:31:00 GMT</pubDate>
-        <description>Andrés Campos jest pierwszym piłkarzem, który oficjalnie opuścił Castillę po zakończeniu sezonu. Podpisał dwuletnią umowę z Leganés.</description>
     </item>
     
 </channel>
