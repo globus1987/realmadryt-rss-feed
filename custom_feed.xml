@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Jun 2025 17:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 18:34:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Szymon Marciniak na Juventus</title>
+        <link>https://www.realmadryt.pl/news/140716-szymon-marciniak-na-juventus</link>
+        <pubDate>Sun, 29 Jun 2025 20:03:00 GMT</pubDate>
+        <description>Polski arbiter został wyznaczony do poprowadzenia najbliższego meczu Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Królewscy wrócili do treningów</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>PSG rozbił Interem Miami [wideo]</title>
-        <link>https://www.realmadryt.pl/news/140713-psg-rozbil-interem-miami-wideo</link>
+        <title>PSG rozbiło Inter Miami [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/140713-psg-rozbilo-inter-miami-video</link>
         <pubDate>Sun, 29 Jun 2025 17:44:00 GMT</pubDate>
-        <description>Zwycięzca Ligi Mistrzów nie miał problemów w meczu z przedstawicielem gospodarzy.</description>
+        <description>Zwycięzca Ligi Mistrzów nie miał problemów w meczu z przedstawicielem gospodarzy i zameldował się w ćwierćfinale Klubowego Mundialu, w którym zagra z Flamengo lub Bayernem.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140706-happy-birthday-jude</link>
         <pubDate>Sun, 29 Jun 2025 11:22:00 GMT</pubDate>
         <description>Anglik ma dzisiaj swój dzień i życzymy mu oczywiście wszystkiego najlepszego.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 29 czerwca</title>
-        <link>https://www.realmadryt.pl/news/140700-kartka-z-kalendarza-29-czerwca</link>
-        <pubDate>Sun, 29 Jun 2025 09:10:00 GMT</pubDate>
-        <description>Królewski Madryt, wygrana w finale Pucharu Hiszpanii, transferowa wtopa i triumf reprezentacji Hiszpanii po raz pierwszy od lat. Co działo się 29 czerwca?</description>
     </item>
     
 </channel>
