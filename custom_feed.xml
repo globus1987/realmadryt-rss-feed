@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Jun 2025 08:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 09:25:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Happy birthday, Jude!</title>
+        <link>https://www.realmadryt.pl/news/140706-happy-birthday-jude</link>
+        <pubDate>Sun, 29 Jun 2025 11:22:00 GMT</pubDate>
+        <description>Anglik ma dzisiaj swój dzień i życzymy mu oczywiście wszystkiego najlepszego.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 29 czerwca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140685-palmeiras-pierwszym-cwiercfinalista-klubowego-mundialu</link>
         <pubDate>Sat, 28 Jun 2025 17:40:00 GMT</pubDate>
         <description>Palmeiras wygrało 1:0 z Botafogo i awansowało do ćwierćfinału Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Prezes Liverpoolu: Szanujemy fakt, że Trent zdecydował się odejść i nic dziwnego, że Real jest zachwycony</title>
-        <link>https://www.realmadryt.pl/news/140694-prezes-liverpoolu-szanujemy-fakt-ze-trent-zdecydowal-sie-odejsc-i-nic-dziwnego-ze-real-jest-zachwycony</link>
-        <pubDate>Sat, 28 Jun 2025 16:38:00 GMT</pubDate>
-        <description>Tom Werner udzielił wywiadu dla Liverpool Echo. Prezes opowiadał o Arne Slocie, historycznych wydatkach transferowych, odejściu Trenta i przyszłych planach Fenway Sports Group dotyczących Anfield.</description>
     </item>
     
 </channel>
