@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Jun 2025 15:56:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 16:31:22 GMT</lastBuildDate>
     
     <item>
-        <title>PSG vs Inter Miami: Messi pogrąży swój były klub?</title>
-        <link>https://www.realmadryt.pl/news/140713-psg-vs-inter-miami-messi-pograzy-swoj-byly-klub</link>
+        <title>Królewscy wrócili do treningów</title>
+        <link>https://www.realmadryt.pl/news/140715-krolewscy-wrocili-do-treningow</link>
+        <pubDate>Sun, 29 Jun 2025 18:29:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt po dniu wolnym wrócili do pracy w Palm Beach i kontynuowali boiskowe przygotowania do kolejnego meczu Klubowych Mistrzostw Świata.</description>
+    </item>
+    
+    <item>
+        <title>PSG prowadzi z Interem Miami [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140713-psg-prowadzi-z-interem-miami-live</link>
         <pubDate>Sun, 29 Jun 2025 17:44:00 GMT</pubDate>
-        <description>Leo Messi w latach 2021-2023 był zawodnikiem Paris Saint-Germain. Dziś on i jego koledzy będą chcieli sprawić niespodziankę w starciu z francuskim klubem. Początek spotkania o 18:00.</description>
+        <description>Leo Messi w latach 2021-2023 był zawodnikiem Paris Saint-Germain. Dziś on i jego koledzy chcą sprawić niespodziankę w starciu z francuskim klubem.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140700-kartka-z-kalendarza-29-czerwca</link>
         <pubDate>Sun, 29 Jun 2025 09:10:00 GMT</pubDate>
         <description>Królewski Madryt, wygrana w finale Pucharu Hiszpanii, transferowa wtopa i triumf reprezentacji Hiszpanii po raz pierwszy od lat. Co działo się 29 czerwca?</description>
-    </item>
-    
-    <item>
-        <title>Real zmorą Juventusu</title>
-        <link>https://www.realmadryt.pl/news/140704-real-zmora-juventusu</link>
-        <pubDate>Sun, 29 Jun 2025 08:27:00 GMT</pubDate>
-        <description>Zespół z Turynu na słaby bilans pojedynków z Realem.</description>
     </item>
     
 </channel>
