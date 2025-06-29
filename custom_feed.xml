@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Jun 2025 19:19:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 19:39:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmarł Francisco Pérez Durán</title>
+        <link>https://www.realmadryt.pl/news/140719-zmarl-francisco-perez-duran</link>
+        <pubDate>Sun, 29 Jun 2025 21:33:00 GMT</pubDate>
+        <description>Real pożegnał go w oficjalnym komunikacie.</description>
+    </item>
     
     <item>
         <title>Flamengo – Bayern: Kto w ćwierćfinale dołączy do PSG?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140707-oficjalnie-andres-campos-zawodnikiem-leganes</link>
         <pubDate>Sun, 29 Jun 2025 11:31:00 GMT</pubDate>
         <description>Andrés Campos jest pierwszym piłkarzem, który oficjalnie opuścił Castillę po zakończeniu sezonu. Podpisał dwuletnią umowę z Leganés.</description>
-    </item>
-    
-    <item>
-        <title>„Jeśli dostanie szansę, to nie sądzę, aby Gonzalo był daleko za Haalandem”</title>
-        <link>https://www.realmadryt.pl/news/140705-jesli-dostanie-szanse-to-nie-sadze-aby-gonzalo-byl-daleko-za-haalandem</link>
-        <pubDate>Sun, 29 Jun 2025 11:26:00 GMT</pubDate>
-        <description>Obecny selekcjoner reprezentacji Hiszpanii U-17, Hernán Pérez, w sezonie 2021/22 miał okazję trenować w drużynie Juvenilu A Realu Madryt takich zawodników jak Raúl Asencio, Víctor Muñoz, Marc Cucalón, Mario Martín, Peter Federico czy będący ostatnio na ustach wszystkich Gonzalo García. Teraz pochodzący z Oviedo szkoleniowiec udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
