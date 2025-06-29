@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 29 Jun 2025 11:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jun 2025 11:40:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Sergio Ramos chce zapisać się w historii i zagrać przeciwko Realowi</title>
+        <link>https://www.realmadryt.pl/news/140710-marca-sergio-ramos-chce-zapisac-sie-w-historii-i-zagrac-przeciwko-realowi</link>
+        <pubDate>Sun, 29 Jun 2025 13:30:00 GMT</pubDate>
+        <description>Hiszpan jest bardzo zmotywowany.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Przed kolejnym sezonem ciągle może dojść do wielu zmian w kadrze</title>
+        <link>https://www.realmadryt.pl/news/140709-marca-przed-kolejnym-sezonem-ciagle-moze-dojsc-do-wielu-zmian-w-kadrze</link>
+        <pubDate>Sun, 29 Jun 2025 13:24:00 GMT</pubDate>
+        <description>Drużyna wyraźnie rozwija się pod wodzą nowego trenera, ale to nie oznacza końca zmian w kadrze.</description>
+    </item>
     
     <item>
         <title>Prokuratura prosi o złożenie zeznań przez Laportę, Luisa Enrique i Valverde</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140696-xabiemu-trudno-bedzie-sprawic-aby-mbappe-i-vinicius-wiecej-bronili</link>
         <pubDate>Sun, 29 Jun 2025 06:30:00 GMT</pubDate>
         <description>Były selekcjoner reprezentacji Niemiec, Jürgen Klinsmann, przedstawił swój pogląd na to, jak trudne zadanie czeka Xabiego Alonso w poszukiwaniu równowagi w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140699-dzisiejsze-okladki</link>
-        <pubDate>Sun, 29 Jun 2025 01:37:00 GMT</pubDate>
-        <description>Sytuacja zawodników Realu Madryt, transfery Barcelony i zmiany u Yamala to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Chelsea rozbiła Benficę w dogrywce i zagra w ćwierćfinale</title>
-        <link>https://www.realmadryt.pl/news/140697-chelsea-rozbila-benfice-w-dogrywce-i-zagra-w-cwiercfinale</link>
-        <pubDate>Sat, 28 Jun 2025 21:30:00 GMT</pubDate>
-        <description>W drugim meczu 1/8 finału Klubowego Mundialu w Benfica przegrała po dogrywce z Chelsea 1:4. Álvaro Carreras, cel transferowy Realu Madryt, nie zagrał ani minuty i całe spotkanie spędził na ławce rezerwowych.</description>
     </item>
     
 </channel>
