@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Jun 2025 09:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 10:29:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>SER: Carreras pozostaje priorytetem Realu na lewą obronę</title>
+        <link>https://www.realmadryt.pl/news/140729-ser-carreras-pozostaje-priorytetem-realu-na-lewa-obrone</link>
+        <pubDate>Mon, 30 Jun 2025 12:04:00 GMT</pubDate>
+        <description>Hiszpan pozostaje priorytetem do wzmocnienia lewej strony defensywy i wszyscy czekają na kolejne rozmowy z Portugalczykami.</description>
+    </item>
     
     <item>
         <title>Florentino Pérez dołączył do zgrupowania Królewskich</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140719-zmarl-francisco-perez-duran</link>
         <pubDate>Sun, 29 Jun 2025 21:33:00 GMT</pubDate>
         <description>Real pożegnał go w oficjalnym komunikacie.</description>
-    </item>
-    
-    <item>
-        <title>Bayern pokonał Flamengo i zagra w ćwierćfinale z PSG</title>
-        <link>https://www.realmadryt.pl/news/140718-bayern-pokonal-flamengo-i-zagra-w-cwiercfinale-z-psg</link>
-        <pubDate>Sun, 29 Jun 2025 21:05:00 GMT</pubDate>
-        <description>Zdobywcy Copa Libertadores z 2022 roku zmierzyli się z europejskim gigantem. Ostatecznie triumfowali mistrzowie Niemiec, na których teraz czeka mistrz Europy.</description>
     </item>
     
 </channel>
