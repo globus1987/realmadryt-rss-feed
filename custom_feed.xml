@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Jun 2025 10:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 11:22:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>ABC: Antonio Pintus został zdradzony</title>
+        <link>https://www.realmadryt.pl/news/140730-abc-antonio-pintus-zostal-zdradzony</link>
+        <pubDate>Mon, 30 Jun 2025 12:57:00 GMT</pubDate>
+        <description>Wycieki w trakcie sezonu wskazały Antonio Pintusa jako winnego plagi kontuzji. Dziennik ABC wskazuje, że członek sztabu Carlo Ancelottiego przejął odpowiedzialność za przygotowanie fizyczne i gdy mu nie wyszło, zrzucił winę na swojego rodaka.</description>
+    </item>
     
     <item>
         <title>SER: Carreras pozostaje priorytetem Realu na lewą obronę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140721-dzisiejsze-okladki</link>
         <pubDate>Mon, 30 Jun 2025 00:50:00 GMT</pubDate>
         <description>Triumf Ilii Topurii w UFC i klauzula Ronalda Araújo to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Zmarł Francisco Pérez Durán</title>
-        <link>https://www.realmadryt.pl/news/140719-zmarl-francisco-perez-duran</link>
-        <pubDate>Sun, 29 Jun 2025 21:33:00 GMT</pubDate>
-        <description>Real pożegnał go w oficjalnym komunikacie.</description>
     </item>
     
 </channel>
