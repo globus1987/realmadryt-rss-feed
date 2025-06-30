@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 30 Jun 2025 04:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jun 2025 05:29:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Rüdiger zagra z Juve</title>
+        <link>https://www.realmadryt.pl/news/140720-as-ruediger-zagra-z-juve</link>
+        <pubDate>Mon, 30 Jun 2025 07:00:00 GMT</pubDate>
+        <description>Hiszpański dziennik informuje, że stoper nie nabawił się żadnego urazu i w meczu ze Starą Damą zagra od pierwszej minuty.</description>
+    </item>
     
     <item>
         <title>Katarczycy zainteresowani kolejnym Klubowym Mundialem… zimą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140710-marca-sergio-ramos-chce-zapisac-sie-w-historii-i-zagrac-przeciwko-realowi</link>
         <pubDate>Sun, 29 Jun 2025 13:30:00 GMT</pubDate>
         <description>Hiszpan jest bardzo zmotywowany.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Przed kolejnym sezonem ciągle może dojść do wielu zmian w kadrze</title>
-        <link>https://www.realmadryt.pl/news/140709-marca-przed-kolejnym-sezonem-ciagle-moze-dojsc-do-wielu-zmian-w-kadrze</link>
-        <pubDate>Sun, 29 Jun 2025 13:24:00 GMT</pubDate>
-        <description>Drużyna wyraźnie rozwija się pod wodzą nowego trenera, ale to nie oznacza końca zmian w kadrze.</description>
     </item>
     
 </channel>
