@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Jul 2025 22:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 22:46:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140775-dzisiejsze-okladki</link>
+        <pubDate>Wed, 02 Jul 2025 00:28:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja Nico Williamsa to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Juve zagrało cofnięte, a my mieliśmy za wielu graczy za linią piłki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140762-real-madryt-juventus-znamy-sklady</link>
         <pubDate>Tue, 01 Jul 2025 19:26:00 GMT</pubDate>
         <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w meczu 1/8 finału Klubowego Mundialu. Mecz rozpocznie się o godzinie 21:00 czasu polskiego na Hard Rock Stadium w Miami, ale uwaga na możliwe opóźnienia z powodów meteorologicznych.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius pozostaje zagrożony zawieszeniem za kartki</title>
-        <link>https://www.realmadryt.pl/news/140761-vinicius-pozostaje-zagrozony-zawieszeniem-za-kartki</link>
-        <pubDate>Tue, 01 Jul 2025 16:39:00 GMT</pubDate>
-        <description>Do gry po czerwonej kartce wraca dzisiaj Raúl Asencio, a na zawieszenie musi uważać Brazylijczyk.</description>
     </item>
     
 </channel>
