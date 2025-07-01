@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Jul 2025 21:24:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 21:44:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fede: To zaszczyt być kapitanem tej drużyny</title>
+        <link>https://www.realmadryt.pl/news/140772-fede-to-zaszczyt-byc-kapitanem-tej-druzyny</link>
+        <pubDate>Tue, 01 Jul 2025 23:34:00 GMT</pubDate>
+        <description>Fede Valverde udzielił wypowiedzi z murawy dla platformy DAZN po zwycięstwie w 1/8 finału Klubowego Mundialu z Juventusem. Przedstawiamy wypowiedzi Urugwajczyka.</description>
+    </item>
     
     <item>
         <title>Ćwierćfinałowe spotkanie Królewskich 5 lipca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140760-carvajal-i-militao-moga-dzisiaj-wrocic-do-gry</link>
         <pubDate>Tue, 01 Jul 2025 16:19:00 GMT</pubDate>
         <description>Królewscy nie ogłosili wcześniej kadry meczowej, bo rozgrywają mecz w mieście, gdzie przebywają na zgrupowaniu. Trener zapowiedział jednak tak wyczekiwane powroty dwóch kontuzjowanych obrońców.</description>
-    </item>
-    
-    <item>
-        <title>Mecz z Juventusem też może być przerwany przez burzę</title>
-        <link>https://www.realmadryt.pl/news/140759-mecz-z-juventusem-tez-moze-byc-przerwany-przez-burze</link>
-        <pubDate>Tue, 01 Jul 2025 14:03:00 GMT</pubDate>
-        <description>Mecz Królewskich z Juventusem także pozostaje zagrożony przerwaniem go przez niekorzystne warunki pogodowe. FIFA na dzisiaj nic nie może z tym zrobić i nie wiadomo, czy będzie mogła obejść to na mundial reprezentacji, o co zaczyna wnosić szczególnie europejskie środowisko.</description>
     </item>
     
 </channel>
