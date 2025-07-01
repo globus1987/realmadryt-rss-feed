@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Jul 2025 18:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 18:57:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Juventus [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140765-real-madryt-juventus-live</link>
+        <pubDate>Tue, 01 Jul 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz Realu Madryt z Juventusem w 1/8 finału Klubowego Mundialu.</description>
+    </item>
     
     <item>
         <title>Huijsen: Znam zawodników Juve, ale na boisku trzeba ich pokopać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140748-kartka-z-kalendarza-1-lipca</link>
         <pubDate>Tue, 01 Jul 2025 10:15:00 GMT</pubDate>
         <description>Urodziny wielu zawodników, wygrana tenisisty Realu Madryt na kortach Wimbledonu, transfer Karima Benzemy i wygrana reprezentacji Hiszpanii w trzeciej dużej imprezie z rzędu. Co działo się 1 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Kiedy jesteś kapitanem tego klubu, musisz prezentować inny wizerunek</title>
-        <link>https://www.realmadryt.pl/news/140753-valverde-kiedy-jestes-kapitanem-tego-klubu-musisz-prezentowac-inny-wizerunek</link>
-        <pubDate>Tue, 01 Jul 2025 09:30:00 GMT</pubDate>
-        <description>Federico Valverde udzielił wywiadu DAZN przed meczem z Juventusem. Przedstawiamy opublikowane wypowiedzi pomocnika Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
