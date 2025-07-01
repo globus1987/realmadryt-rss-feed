@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Jul 2025 06:39:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 06:59:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Lucas!</title>
+        <link>https://www.realmadryt.pl/news/140733-wszystkiego-najlepszego-lucas</link>
+        <pubDate>Tue, 01 Jul 2025 08:45:00 GMT</pubDate>
+        <description>Dziś swoje 34. urodziny obchodzi Lucas Vázquez. Z tej okazji życzymy mu, by niezależnie od jego dalszych losów, cieszył się na ostatniej prostej kariery dobrą formą i zdrowiem.</description>
+    </item>
     
     <item>
         <title>Davide Ancelotti: To normalne, że 44-letni Xabi Alonso jest aktywniejszy od 65-letniego Carlo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140743-oficjalnie-we-wtorek-federacja-opublikuje-terminarz-la-ligi</link>
         <pubDate>Mon, 30 Jun 2025 20:15:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska zamknęła dzisiaj sezon na Walnym Zgromadzeniu. Wśród zatwierdzonych decyzji znalazły się daty kalendarza na kolejny sezon. Publikacja terminarza Primera División już jutro - 1 lipca.</description>
-    </item>
-    
-    <item>
-        <title>Trzech piłkarzy nie pracowało z grupą</title>
-        <link>https://www.realmadryt.pl/news/140742-trzech-pilkarzy-nie-pracowalo-z-grupa</link>
-        <pubDate>Mon, 30 Jun 2025 19:35:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pracowali dzisiaj w Palm Beach i zakończyli boiskowe przygotowania do kolejnego meczu Klubowych Mistrzostw Świata.</description>
     </item>
     
 </channel>
