@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Jul 2025 08:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jul 2025 09:32:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Na świecie nie ma już słabych drużyn</title>
+        <link>https://www.realmadryt.pl/news/140740-na-swiecie-nie-ma-juz-slabych-druzyn</link>
+        <pubDate>Tue, 01 Jul 2025 11:00:00 GMT</pubDate>
+        <description>Miało być różnorodnie i… jakimś cudem chyba się udało.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 lipca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140746-xabi-alonso-mamy-juz-mbappe-do-naszej-dyspozycji</link>
         <pubDate>Mon, 30 Jun 2025 22:28:00 GMT</pubDate>
         <description>Xabi Alonso udzielił wywiadu DAZN przed meczem z Juventusem. Przedstawiamy opublikowane wypowiedzi trenera Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Florentino spotkał się z drużyną w Palm Beach</title>
-        <link>https://www.realmadryt.pl/news/140745-florentino-spotkal-sie-z-druzyna-w-palm-beach</link>
-        <pubDate>Mon, 30 Jun 2025 22:13:00 GMT</pubDate>
-        <description>Prezes Królewskich doleciał do Miami wczoraj, ale dopiero dzisiaj odbył aktywności z drużyną.</description>
     </item>
     
 </channel>
