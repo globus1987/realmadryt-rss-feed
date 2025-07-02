@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 10:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 10:50:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias – Klubowe Mistrzostwa Świata</title>
+        <link>https://www.realmadryt.pl/news/140781-pichichi-zamora-asistencias-klubowe-mistrzostwa-swiata</link>
+        <pubDate>Wed, 02 Jul 2025 12:45:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 1/8 finału Klubowych Mistrzostw Świata.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Juventusem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140779-borussia-rywalem-realu-madryt-ale-zagra-z-nim-bez-drugiego-bellinghama-video</link>
         <pubDate>Wed, 02 Jul 2025 03:00:00 GMT</pubDate>
         <description>Ostatni mecz 1/8 finału wyłonił najbliższego rywala Królewskich. Nie dojdzie w nim jednak do oczekiwanego starcia braci Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140775-dzisiejsze-okladki</link>
-        <pubDate>Wed, 02 Jul 2025 00:28:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i sytuacja Nico Williamsa to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
