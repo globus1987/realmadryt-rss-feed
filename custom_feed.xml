@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 19:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 19:40:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Atlético pozyskało Álexa Baenę</title>
+        <link>https://www.realmadryt.pl/news/140796-oficjalnie-atletico-pozyskalo-alexa-baene</link>
+        <pubDate>Wed, 02 Jul 2025 21:36:00 GMT</pubDate>
+        <description>Sąsiedzi Królewskich po odpadnięciu z Klubowego Mundialu rozpoczęli ofensywę transferową.</description>
+    </item>
     
     <item>
         <title>Sport: Mastantuono nie jest wart 63 milionów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140781-pichichi-zamora-asistencias-klubowe-mistrzostwa-swiata</link>
         <pubDate>Wed, 02 Jul 2025 12:45:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 1/8 finału Klubowych Mistrzostw Świata.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Juventusem</title>
-        <link>https://www.realmadryt.pl/news/140786-oceny-zawodnikow-po-meczu-z-juventusem</link>
-        <pubDate>Wed, 02 Jul 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Juventusem 1:0 i awansował do ćwierćfinału Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
