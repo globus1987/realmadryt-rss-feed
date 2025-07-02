@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 06:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 06:58:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo: Porównania z Raúlem to coś więcej niż pochwała</title>
+        <link>https://www.realmadryt.pl/news/140774-gonzalo-porownania-z-raulem-to-cos-wiecej-niz-pochwala</link>
+        <pubDate>Wed, 02 Jul 2025 08:40:00 GMT</pubDate>
+        <description>Gonzalo García udzielił wypowiedzi z murawy dla platformy DAZN po zwycięstwie w 1/8 finału Klubowego Mundialu z Juventusem. Przedstawiamy wypowiedzi autora bramki na wagę awansu do ćwierćfinału turnieju.</description>
+    </item>
     
     <item>
         <title>Sąd nakazuje Federacji otwarcie postępowania wobec filmików Real Madrid TV</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140770-chus-mateo-odchodzi-z-realu-madryt</link>
         <pubDate>Tue, 01 Jul 2025 22:15:00 GMT</pubDate>
         <description>Chus Mateo nie będzie dłużej trenerem Realu Madryt. Klub już podziękował mu za pracę, a jego następcą zostanie Sergio Scariolo.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Pierwszy Klasyk na Bernabéu w październiku, a rewanż na Camp Nou w maju</title>
-        <link>https://www.realmadryt.pl/news/140769-oficjalnie-pierwszy-klasyk-na-bernabeu-w-pazdzierniku-a-rewanz-na-camp-nou-w-maju</link>
-        <pubDate>Tue, 01 Jul 2025 21:58:00 GMT</pubDate>
-        <description>Dziś opublikowany ligowy terminarz na najbliższy sezon. Sezon ligowy ruszy w weekend 16–17 sierpnia, chociaż nie wiadomo jeszcze, czy pierwszy mecz Królewskich nie zostanie przełożony.</description>
     </item>
     
 </channel>
