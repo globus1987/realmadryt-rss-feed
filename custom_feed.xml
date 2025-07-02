@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 20:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 21:26:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie Serge Ibaka odchodzi z Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/140800-oficjalnie-serge-ibaka-odchodzi-z-realu-madryt</link>
+        <pubDate>Wed, 02 Jul 2025 23:20:00 GMT</pubDate>
+        <description>Serge Ibaka zakończył swój drugi etap w barwach Realu Madryt. Jego kontrakt wygasł, a Królewscy nie chcieli go przedłużyć.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Sergio Rodríguez nowym dyrektorem sportowym sekcji koszykarskiej</title>
+        <link>https://www.realmadryt.pl/news/140799-oficjalnie-sergio-rodriguez-nowym-dyrektorem-sportowym-sekcji-koszykarskiej</link>
+        <pubDate>Wed, 02 Jul 2025 23:04:00 GMT</pubDate>
+        <description>Równo rok trwało rozstanie Realu Madryt i Sergio Rodrígueza. Tyle czasu minęło od zakończenia przez Hiszpana kariery koszykarskiej. Teraz wraca, by pełnić funkcję dyrektora sportowego.</description>
+    </item>
     
     <item>
         <title>Kwadrans treningu regeneracyjnego w Palm Beach [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140788-wraz-ze-zmiana-trenera-real-madryt-ma-inna-mentalnosc</link>
         <pubDate>Wed, 02 Jul 2025 15:28:00 GMT</pubDate>
         <description>Trener Borussii Dortmund, Niko Kovač, oraz dwóch zawodników, Yan Couto i Gregor Kobel, podzielili się swoimi odczuciami po zwycięskim meczu z meksykańskim Monterrey i tym samym awansie do ćwierćfinału Klubowego Mundialu, w którym zmierzą się z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Prawnik i były sędzia amatorski nowym prezesem Komitetu Arbitrów</title>
-        <link>https://www.realmadryt.pl/news/140789-prawnik-i-byly-sedzia-amatorski-nowym-prezesem-komitetu-arbitrow</link>
-        <pubDate>Wed, 02 Jul 2025 15:27:00 GMT</pubDate>
-        <description>Federacja przedstawiła nowego prezesa Komitetu Arbitrów. Przedstawiamy jego wypowiedzi z dzisiejszej konferencji prasowej.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 6,5x2: Czy Xabi faktycznie potrzebuje nowego pomocnika?</title>
-        <link>https://www.realmadryt.pl/news/140787-podcast-6-5x2-czy-xabi-faktycznie-potrzebuje-nowego-pomocnika</link>
-        <pubDate>Wed, 02 Jul 2025 14:50:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym zajmujemy się kolejnym meczem pod wodzą Xabiego Alonso.</description>
     </item>
     
 </channel>
