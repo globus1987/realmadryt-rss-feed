@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 01 Jul 2025 23:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 02:10:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt 1:0 Juventus [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/140780-real-madryt-1-0-juventus-video</link>
+        <pubDate>Wed, 02 Jul 2025 03:08:00 GMT</pubDate>
+        <description>Real Madryt pokonał Juventus 1:0 w 1/8 finału Klubowego Mundialu. Gola dla Królewskich zdobył Gonzalo García.</description>
+    </item>
+    
+    <item>
+        <title>Dortmund – Monterrey: Bellingham czy Ramos kolejnym rywalem Królewskich? [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140779-dortmund-monterrey-bellingham-czy-ramos-kolejnym-rywalem-krolewskich-live</link>
+        <pubDate>Wed, 02 Jul 2025 03:00:00 GMT</pubDate>
+        <description>Od 3:00 trwa ostatni mecz 1/8 finału, który wyłoni najbliższego rywala Królewskich.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140766-huijsen-znam-zawodnikow-juve-ale-na-boisku-trzeba-ich-pokopac</link>
         <pubDate>Tue, 01 Jul 2025 20:32:00 GMT</pubDate>
         <description>Dean Huijsen udzielił wywiadu dla platformy DAZN na kilka chwil przed rozpoczęciem meczu z Juventusem w 1/8 finału Klubowego Mundialu. Przedstawiamy jak zawsze krótkie i konkretne wypowiedzi defensora Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Juventusem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140763-rozgrzewka-przed-juventusem-video</link>
-        <pubDate>Tue, 01 Jul 2025 20:17:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Hard Rock Stadium, gdzie za kilkadziesiąt minut zaczną mecz z Juventusem. Pierwszy gwizdek arbitra wybrzmi o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Juventus: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/140762-real-madryt-juventus-znamy-sklady</link>
-        <pubDate>Tue, 01 Jul 2025 19:26:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w meczu 1/8 finału Klubowego Mundialu. Mecz rozpocznie się o godzinie 21:00 czasu polskiego na Hard Rock Stadium w Miami, ale uwaga na możliwe opóźnienia z powodów meteorologicznych.</description>
     </item>
     
 </channel>
