@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 15:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 16:33:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sokół lata coraz wyżej</title>
+        <link>https://www.realmadryt.pl/news/140794-sokol-lata-coraz-wyzej</link>
+        <pubDate>Wed, 02 Jul 2025 18:29:00 GMT</pubDate>
+        <description>Fede Valverde pokazuje swoją najlepszą wersję pod wodzą Xabiego Alonso. W meczu z Juventusem nie trafił do siatki, ale i tak był najlepszym zawodnikiem Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Rekordowy sezon</title>
+        <link>https://www.realmadryt.pl/news/140793-rekordowy-sezon</link>
+        <pubDate>Wed, 02 Jul 2025 18:05:00 GMT</pubDate>
+        <description>Awans do ćwierćfinału oznacza, że Real Madryt rozegra przynajmniej 67 spotkań w sezonie 2024/25. Tym samym Królewscy wyrównali historyczne wyniki Liverpoolu i Chelsea pod kątem liczby meczów rozegranych przez europejski klub w jednej kampanii.</description>
+    </item>
     
     <item>
         <title>Związek Piłkarzy wnosi o przełożenie meczu Realu, La Liga gra w swoją grę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140784-mario-de-luis-trafi-do-rezerw-atletico-madryt</link>
         <pubDate>Wed, 02 Jul 2025 11:11:00 GMT</pubDate>
         <description>Mario de Luis jest obecnie zawodnikiem bez klubu. Atlético obserwowało jego sytuację od kilku miesięcy i niedługo bramkarz może podpisać kontrakt z Rojiblancos.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 2 lipca</title>
-        <link>https://www.realmadryt.pl/news/140782-kartka-z-kalendarza-2-lipca</link>
-        <pubDate>Wed, 02 Jul 2025 11:10:00 GMT</pubDate>
-        <description>Mecz w hołdzie legendarnym koszykarzom, urodziny Granero, wybory nowego prezesa, transfer Lucasa i prezentacje dwóch zawodników. Co działo się 2 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Fran García: Mamy bardzo dobre możliwości fizyczne</title>
-        <link>https://www.realmadryt.pl/news/140783-fran-garcia-mamy-bardzo-dobre-mozliwosci-fizyczne</link>
-        <pubDate>Wed, 02 Jul 2025 10:32:00 GMT</pubDate>
-        <description>Fran García udzielił kilku wypowiedzi dla klubowych mediów po meczu z Juventusem. Poniżej przedstawiamy ich zapis.</description>
     </item>
     
 </channel>
