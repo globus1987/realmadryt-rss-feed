@@ -4,10 +4,17 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 21:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 21:43:21 GMT</lastBuildDate>
     
     <item>
-        <title>Oficjalnie Serge Ibaka odchodzi z Realu Madryt</title>
+        <title>Oficjalnie: Eli Ndiaye odchodzi z Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/140802-oficjalnie-eli-ndiaye-odchodzi-z-realu-madryt</link>
+        <pubDate>Wed, 02 Jul 2025 23:30:00 GMT</pubDate>
+        <description>Real Madryt traci kolejnego młodego zawodnika na rzecz NBA. Eli Ndiaye odchodzi z zespołu Królewskich i ma dołączyć do Atlanty.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Serge Ibaka odchodzi z Realu Madryt</title>
         <link>https://www.realmadryt.pl/news/140800-oficjalnie-serge-ibaka-odchodzi-z-realu-madryt</link>
         <pubDate>Wed, 02 Jul 2025 23:20:00 GMT</pubDate>
         <description>Serge Ibaka zakończył swój drugi etap w barwach Realu Madryt. Jego kontrakt wygasł, a Królewscy nie chcieli go przedłużyć.</description>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140790-co-wydarzylo-sie-miedzy-bellinghamem-a-arda-guelerem-video</link>
         <pubDate>Wed, 02 Jul 2025 16:16:00 GMT</pubDate>
         <description>Portale społecznościowe rozgrzały się dyskusją Anglika z Turkiem. Media raczej nie poświęcają temu większej uwagi.</description>
-    </item>
-    
-    <item>
-        <title>„Wraz ze zmianą trenera Real Madryt ma inną mentalność”</title>
-        <link>https://www.realmadryt.pl/news/140788-wraz-ze-zmiana-trenera-real-madryt-ma-inna-mentalnosc</link>
-        <pubDate>Wed, 02 Jul 2025 15:28:00 GMT</pubDate>
-        <description>Trener Borussii Dortmund, Niko Kovač, oraz dwóch zawodników, Yan Couto i Gregor Kobel, podzielili się swoimi odczuciami po zwycięskim meczu z meksykańskim Monterrey i tym samym awansie do ćwierćfinału Klubowego Mundialu, w którym zmierzą się z Realem Madryt.</description>
     </item>
     
 </channel>
