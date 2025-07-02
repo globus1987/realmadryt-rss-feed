@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 05:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 06:38:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sąd nakazuje Federacji otwarcie postępowania wobec filmików Real Madrid TV</title>
+        <link>https://www.realmadryt.pl/news/140764-sad-nakazuje-federacji-otwarcie-postepowania-wobec-filmikow-real-madrid-tv</link>
+        <pubDate>Wed, 02 Jul 2025 07:50:00 GMT</pubDate>
+        <description>Organizacja Javiera Tebasa dąży do ukarania Królewskich i odniosła mały sukces w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Courtois: Jeśli w sprawie Klubowego Mundialu wierzysz użytkownikom Twittera, to popełniasz błąd</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>Borussia rywalem Realu Madryt, ale zagra z nim bez drugiego Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/140779-borussia-rywalem-realu-madryt-ale-zagra-z-nim-bez-drugiego-bellinghama</link>
+        <title>Borussia rywalem Realu Madryt, ale zagra z nim bez drugiego Bellinghama [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/140779-borussia-rywalem-realu-madryt-ale-zagra-z-nim-bez-drugiego-bellinghama-video</link>
         <pubDate>Wed, 02 Jul 2025 03:00:00 GMT</pubDate>
         <description>Ostatni mecz 1/8 finału wyłonił najbliższego rywala Królewskich. Nie dojdzie w nim jednak do oczekiwanego starcia braci Bellingham.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140769-oficjalnie-pierwszy-klasyk-na-bernabeu-w-pazdzierniku-a-rewanz-na-camp-nou-w-maju</link>
         <pubDate>Tue, 01 Jul 2025 21:58:00 GMT</pubDate>
         <description>Dziś opublikowany ligowy terminarz na najbliższy sezon. Sezon ligowy ruszy w weekend 16–17 sierpnia, chociaż nie wiadomo jeszcze, czy pierwszy mecz Królewskich nie zostanie przełożony.</description>
-    </item>
-    
-    <item>
-        <title>Gol Gonzalo daje ćwierćfinał</title>
-        <link>https://www.realmadryt.pl/news/140765-gol-gonzalo-daje-cwiercfinal</link>
-        <pubDate>Tue, 01 Jul 2025 20:55:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Juventusem 1:0 w 1/8 finału Klubowego Mundialu po trafieniu Gonzalo Garcíi.</description>
     </item>
     
 </channel>
