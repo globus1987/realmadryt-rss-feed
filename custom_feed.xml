@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 15:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 15:48:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Związek Piłkarzy wnosi o przełożenie meczu Realu, La Liga gra w swoją grę</title>
+        <link>https://www.realmadryt.pl/news/140792-zwiazek-pilkarzy-wnosi-o-przelozenie-meczu-realu-la-liga-gra-w-swoja-gre</link>
+        <pubDate>Wed, 02 Jul 2025 17:29:00 GMT</pubDate>
+        <description>Federacja we wtorek ogłosiła terminarz na nowy sezon ligowy, ale faktyczna data rozpoczęcia sezonu przez Real Madryt nie jest ciągle znana.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Hanna Bennison piłkarką Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140783-fran-garcia-mamy-bardzo-dobre-mozliwosci-fizyczne</link>
         <pubDate>Wed, 02 Jul 2025 10:32:00 GMT</pubDate>
         <description>Fran García udzielił kilku wypowiedzi dla klubowych mediów po meczu z Juventusem. Poniżej przedstawiamy ich zapis.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Real Madryt powinien zostać ukarany za filmiki Real Madrid TV</title>
-        <link>https://www.realmadryt.pl/news/140777-tebas-real-madryt-powinien-zostac-ukarany-za-filmiki-real-madrid-tv</link>
-        <pubDate>Wed, 02 Jul 2025 10:20:00 GMT</pubDate>
-        <description>Javier Tebas był gościem Federacji na ogłoszeniu ligowych terminarzy na nowy sezon. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi dla zgromadzonych dziennikarzy.</description>
     </item>
     
 </channel>
