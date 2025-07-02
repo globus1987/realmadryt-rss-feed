@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 02 Jul 2025 09:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jul 2025 10:29:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Juventusem</title>
+        <link>https://www.realmadryt.pl/news/140786-oceny-zawodnikow-po-meczu-z-juventusem</link>
+        <pubDate>Wed, 02 Jul 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Juventusem 1:0 i awansował do ćwierćfinału Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Mario de Luis trafi do rezerw Atlético Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140775-dzisiejsze-okladki</link>
         <pubDate>Wed, 02 Jul 2025 00:28:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i sytuacja Nico Williamsa to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Juve zagrało cofnięte, a my mieliśmy za wielu graczy za linią piłki</title>
-        <link>https://www.realmadryt.pl/news/140773-xabi-alonso-juve-zagralo-cofniete-a-my-mielismy-za-wielu-graczy-za-linia-pilki</link>
-        <pubDate>Tue, 01 Jul 2025 23:50:00 GMT</pubDate>
-        <description>Xabi Alonso po meczu z Juventusem udzielił wywiadu DAZN. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy w studiu platformy na murawie.</description>
     </item>
     
 </channel>
