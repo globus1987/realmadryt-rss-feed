@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Jul 2025 22:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 22:45:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140830-dzisiejsze-okladki</link>
+        <pubDate>Fri, 04 Jul 2025 00:33:00 GMT</pubDate>
+        <description>Śmierć Diogo Joty, start Hiszpanek na EURO i transfer Nico Williamsa to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Trent: Spoczywaj w pokoju, Diogo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140813-hanna-bennison-celem-jest-wygrywanie-tytulow</link>
         <pubDate>Thu, 03 Jul 2025 13:41:00 GMT</pubDate>
         <description>Hanna Bennison udzieliła wywiadu dla klubowej telewizji po transferze do Realu Madryt. Przedstawiamy wypowiedzi nowej zawodniczki Las Blancas.</description>
-    </item>
-    
-    <item>
-        <title>Mijatović: Xabi szybko zdał sobie sprawę, na kogo będzie liczył, a kogo nie chce</title>
-        <link>https://www.realmadryt.pl/news/140811-mijatovic-xabi-szybko-zdal-sobie-sprawe-na-kogo-bedzie-liczyl-a-kogo-nie-chce</link>
-        <pubDate>Thu, 03 Jul 2025 11:50:00 GMT</pubDate>
-        <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, był gościem nocnej audycji programu El Larguero na antenie Cadena SER. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
