@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Jul 2025 11:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 11:42:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hanna Bennison: Celem jest wygrywanie tytułów</title>
+        <link>https://www.realmadryt.pl/news/140813-hanna-bennison-celem-jest-wygrywanie-tytulow</link>
+        <pubDate>Thu, 03 Jul 2025 13:41:00 GMT</pubDate>
+        <description>Hanna Bennison udzieliła wywiadu dla klubowej telewizji po transferze do Realu Madryt. Przedstawiamy wypowiedzi nowej zawodniczki Las Blancas.</description>
+    </item>
     
     <item>
         <title>Mijatović: Xabi szybko zdał sobie sprawę, na kogo będzie liczył, a kogo nie chce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140804-dzisiejsze-okladki</link>
         <pubDate>Thu, 03 Jul 2025 00:24:00 GMT</pubDate>
         <description>Start kobiecej Hiszpanii na EURO i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Eli Ndiaye odchodzi z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/140802-oficjalnie-eli-ndiaye-odchodzi-z-realu-madryt</link>
-        <pubDate>Wed, 02 Jul 2025 23:30:00 GMT</pubDate>
-        <description>Real Madryt traci kolejnego młodego zawodnika na rzecz NBA. Eli Ndiaye odchodzi z zespołu Królewskich i ma dołączyć do Atlanty.</description>
     </item>
     
 </channel>
