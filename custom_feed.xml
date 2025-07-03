@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 03 Jul 2025 17:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jul 2025 18:36:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Sergio Scariolo nowym trenerem koszykarzy Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/140821-oficjalnie-sergio-scariolo-nowym-trenerem-koszykarzy-realu-madryt</link>
+        <pubDate>Thu, 03 Jul 2025 20:24:00 GMT</pubDate>
+        <description>Real Madryt oficjalnie ogłosił, że nowym trenerem koszykarskiego Realu Madryt będzie Sergio Scariolo. Doświadczony włoski szkoleniowiec dołączy do drużyny po Eurobaskecie.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Chus Mateo odchodzi z Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/140820-oficjalnie-chus-mateo-odchodzi-z-realu-madryt</link>
+        <pubDate>Thu, 03 Jul 2025 20:01:00 GMT</pubDate>
+        <description>Real Madryt ogłosił to, co już od pewnego czasu było jasne. Chus Mateo po trzech latach został zwolniony, a na jego miejsce przyjdzie Sergio Scariolo.</description>
+    </item>
     
     <item>
         <title>Dyskretne pożegnanie dyskretnego Lucasa</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140812-diogo-jota-nie-zyje</link>
         <pubDate>Thu, 03 Jul 2025 11:02:00 GMT</pubDate>
         <description>Piłkarz Liverpoolu i reprezentant Portugalii zginął w wypadku samochodowym.</description>
-    </item>
-    
-    <item>
-        <title>Ramos: Jestem smutny, bo być może to był mój ostatni występ na mundialu</title>
-        <link>https://www.realmadryt.pl/news/140806-ramos-jestem-smutny-bo-byc-moze-to-byl-moj-ostatni-wystep-na-mundialu</link>
-        <pubDate>Thu, 03 Jul 2025 10:20:00 GMT</pubDate>
-        <description>Hiszpan wystosował przesłanie po odpadnięciu z Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona promuje nową koszulkę… rozmowami o wygranych nad Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/140805-barcelona-promuje-nowa-koszulke-rozmowami-o-wygranych-nad-realem-madryt</link>
-        <pubDate>Thu, 03 Jul 2025 09:30:00 GMT</pubDate>
-        <description>Katalończycy promocję nowych koszulek oparli na rozmowie o najlepszych momentach sezonu, wśród których wyróżnili zwycięstwa nad Realem Madryt.</description>
     </item>
     
 </channel>
