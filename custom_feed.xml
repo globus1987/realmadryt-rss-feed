@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Jul 2025 06:59:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 07:30:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Rachad Fettal ma wzmocnić Castillę</title>
+        <link>https://www.realmadryt.pl/news/140824-marca-rachad-fettal-ma-wzmocnic-castille</link>
+        <pubDate>Fri, 04 Jul 2025 09:15:00 GMT</pubDate>
+        <description>Rachad Fettal ma być pierwszym wzmocnieniem Castilli z zewnątrz. Występuje na pozycji środkowego napastnika i w minionym sezonie grał w Almeríi na poziomie Segunda División.</description>
+    </item>
     
     <item>
         <title>Ramon Abatti na Dortmund</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140832-cope-przyszlosc-endricka-i-gonzalo-w-pelni-otwarta</link>
         <pubDate>Fri, 04 Jul 2025 01:02:00 GMT</pubDate>
         <description>W radiu COPE przekazano najnowsze informacje w sprawie przyszłości dwóch młodych atakujących i decyzji klubu w sprawie zestawienia ataku.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140830-dzisiejsze-okladki</link>
-        <pubDate>Fri, 04 Jul 2025 00:33:00 GMT</pubDate>
-        <description>Śmierć Diogo Joty, start Hiszpanek na EURO i transfer Nico Williamsa to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
