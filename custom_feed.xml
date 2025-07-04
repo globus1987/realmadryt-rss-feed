@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 04 Jul 2025 23:42:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 23:55:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140866-dzisiejsze-okladki</link>
+        <pubDate>Sat, 05 Jul 2025 01:44:00 GMT</pubDate>
+        <description>Przedłużenie kontraktu przez Nico Williamsa i kara dla Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w New Jersey</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140850-wychowanek-realu-czarnym-koniem-w-walce-o-zlota-pilke</link>
         <pubDate>Fri, 04 Jul 2025 15:36:00 GMT</pubDate>
         <description>Dobra postawa Marokańczyka na Klubowym Mundialu wzmacnia jego kandydaturę</description>
-    </item>
-    
-    <item>
-        <title>Borussia była niewygodnym rywalem dla Bayeru Xabiego Alonso</title>
-        <link>https://www.realmadryt.pl/news/140849-borussia-byla-niewygodnym-rywalem-dla-bayeru-xabiego-alonso</link>
-        <pubDate>Fri, 04 Jul 2025 14:57:00 GMT</pubDate>
-        <description>Aptekarze wygrali tylko jeden z pięciu meczów z ekipą z Dortmundu, gdy prowadził ich Xabi.</description>
     </item>
     
 </channel>
