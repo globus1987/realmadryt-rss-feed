@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 07:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 07:40:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Adeyemi i Guirassy są jak Vinícius i Mbappé”</title>
+        <link>https://www.realmadryt.pl/news/140874-adeyemi-i-guirassy-sa-jak-vinicius-i-mbappe</link>
+        <pubDate>Sat, 05 Jul 2025 09:27:00 GMT</pubDate>
+        <description>Daniel Ríos, aktualny trener drużyny młodzieżowej Borussii Dortmund, udzielił wywiadu dziennikowi AS przed starciem BVB z Realem Madryt na Klubowym Mundialu. Przedstawiamy najważniejsze wypowiedzi z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 5 lipca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140866-dzisiejsze-okladki</link>
         <pubDate>Sat, 05 Jul 2025 01:44:00 GMT</pubDate>
         <description>Przedłużenie kontraktu przez Nico Williamsa i kara dla Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w New Jersey</title>
-        <link>https://www.realmadryt.pl/news/140865-krolewscy-sa-juz-w-new-jersey</link>
-        <pubDate>Sat, 05 Jul 2025 01:12:00 GMT</pubDate>
-        <description>Powołani zawodnicy dotarli do już do New Jersey, gdzie dziś Królewscy zagrają z Borussią Dortmund w ćwierćfinale Klubowego Mundialu.</description>
     </item>
     
 </channel>
