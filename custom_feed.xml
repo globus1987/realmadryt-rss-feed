@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 21:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 22:23:53 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Borussia Dortmund [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140886-real-madryt-borussia-dortmund-live</link>
+        <title>Gonzalo: Cieszę się z kolejnej bramki, ale jeszcze bardziej z wygranej i awansu</title>
+        <link>https://www.realmadryt.pl/news/140889-gonzalo-ciesze-sie-z-kolejnej-bramki-ale-jeszcze-bardziej-z-wygranej-i-awansu</link>
+        <pubDate>Sun, 06 Jul 2025 00:21:00 GMT</pubDate>
+        <description>Napastnik Realu Madryt rozmawiał po meczu z telewizją DAZN. Przedstawiamy najważniejsze wypowiedzi wychowanka.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Borussią</title>
+        <link>https://www.realmadryt.pl/news/140887-ocen-pilkarzy-po-meczu-z-borussia</link>
+        <pubDate>Sun, 06 Jul 2025 00:18:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Fran García Najlepszym Zawodnikiem Meczu</title>
+        <link>https://www.realmadryt.pl/news/140888-fran-garcia-najlepszym-zawodnikiem-meczu</link>
+        <pubDate>Sun, 06 Jul 2025 00:15:00 GMT</pubDate>
+        <description>Fran García został wyróżniony przez kibiców po meczu z Borussią Dortmund. To pierwsza taka nagroda dla Hiszpana podczas Klubowych Mistrzostw Świata.</description>
+    </item>
+    
+    <item>
+        <title>Real w półfinale, ale bez Huijsena</title>
+        <link>https://www.realmadryt.pl/news/140886-real-w-polfinale-ale-bez-huijsena</link>
         <pubDate>Sat, 05 Jul 2025 21:55:00 GMT</pubDate>
-        <description>Od 22:00 polskiego czasu trwa ćwierćfinał Klubowego Mundialu, w którym Real Madryt mierzy się z Borussią Dortmund. Wygrany tego starcia zagra w półfinale z Paris Saint-Germain.</description>
+        <description>W ćwierćfinale Klubowego Mundialu Real Madryt wygrał z Borussią Dortmund 3:2 po golach Gonzalo Garcíi, Frana Garcíi i Kyliana Mbappé. Królewscy zagrają w półfinale z Paris Saint-Germain.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/140878-terminarz-1-kolejki-la-ligi</link>
         <pubDate>Sat, 05 Jul 2025 11:55:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz pierwszej kolejki sezonu 2025/26, która rozpocznie się w połowie sierpnia tego roku. Real Madryt zmierzy się w niej u siebie z Osasuną.</description>
-    </item>
-    
-    <item>
-        <title>Rywal, przeciwko któremu Vinícius wchodzi na wyższy poziom</title>
-        <link>https://www.realmadryt.pl/news/140877-rywal-przeciwko-ktoremu-vinicius-wchodzi-na-wyzszy-poziom</link>
-        <pubDate>Sat, 05 Jul 2025 11:16:00 GMT</pubDate>
-        <description>Finał Ligi Mistrzów 2024 czy remontada na Bernabéu to ostatnie wspomnienia z meczów z Dortmundem.</description>
-    </item>
-    
-    <item>
-        <title>Dwa transfery i dwa tempa aklimatyzacji</title>
-        <link>https://www.realmadryt.pl/news/140876-dwa-transfery-i-dwa-tempa-aklimatyzacji</link>
-        <pubDate>Sat, 05 Jul 2025 10:34:00 GMT</pubDate>
-        <description>Reprezentant Hiszpanii, który grał już w kilku klubach i ligach, szybciej odnalazł się w drużynie Realu, niż Anglik, który do tej pory występował tylko w Liverpoolu.</description>
-    </item>
-    
-    <item>
-        <title>Kovač: Xabi stosuje ten sam system, co w Leverkusen</title>
-        <link>https://www.realmadryt.pl/news/140875-kovac-xabi-stosuje-ten-sam-system-co-w-leverkusen</link>
-        <pubDate>Sat, 05 Jul 2025 09:50:00 GMT</pubDate>
-        <description>Niko Kovač, trener Borussi Dortmund, stawił się na konferencji prasowej przed meczem z Realem Madryt w ćwierćfinale Klubowego Mundialu. Przedstawiamy wypowiedzi chorwackiego szkoleniowca.</description>
     </item>
     
 </channel>
