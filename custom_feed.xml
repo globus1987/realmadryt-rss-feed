@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 22:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 22:43:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt 3:2 Borussia Dortmund [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/140891-real-madryt-3-2-borussia-dortmund-video</link>
+        <pubDate>Sun, 06 Jul 2025 00:39:00 GMT</pubDate>
+        <description>W ćwierćfinale Klubowego Mundialu Real Madryt wygrał z Borussią Dortmund 3:2 po golach Gonzalo Garcíi, Frana Garcíi i Kyliana Mbappé.</description>
+    </item>
+    
+    <item>
+        <title>Fran García: Zawsze starałem się pracować po cichu i nie pakować się w żadne afery</title>
+        <link>https://www.realmadryt.pl/news/140890-fran-garcia-zawsze-staralem-sie-pracowac-po-cichu-i-nie-pakowac-sie-w-zadne-afery</link>
+        <pubDate>Sun, 06 Jul 2025 00:30:00 GMT</pubDate>
+        <description>Fran García rozmawiał po meczu z Cadena SER i Real Madrid TV. Przedstawiamy najważniejsze wypowiedzi wychowanka.</description>
+    </item>
     
     <item>
         <title>Gonzalo: Cieszę się z kolejnej bramki, ale jeszcze bardziej z wygranej i awansu</title>
         <link>https://www.realmadryt.pl/news/140889-gonzalo-ciesze-sie-z-kolejnej-bramki-ale-jeszcze-bardziej-z-wygranej-i-awansu</link>
         <pubDate>Sun, 06 Jul 2025 00:21:00 GMT</pubDate>
-        <description>Napastnik Realu Madryt rozmawiał po meczu z telewizją DAZN. Przedstawiamy najważniejsze wypowiedzi wychowanka.</description>
+        <description>Napastnik Realu Madryt rozmawiał po meczu z telewizją DAZN i Real Madrid TV. Przedstawiamy najważniejsze wypowiedzi wychowanka.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/140881-znakomita-reakcja-xabiego-alonso-podczas-przerw-na-wode</link>
         <pubDate>Sat, 05 Jul 2025 14:14:00 GMT</pubDate>
         <description>Bask reorganizuje ustawienie drużyny po analizie taktyki rywali w pierwszych trzydziestu minutach meczu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Borussia Dortmund: Gdzie oglądać? Transmisja za darmo</title>
-        <link>https://www.realmadryt.pl/news/140879-real-madryt-borussia-dortmund-gdzie-ogladac-transmisja-za-darmo</link>
-        <pubDate>Sat, 05 Jul 2025 13:13:00 GMT</pubDate>
-        <description>Artykuł sponsorowany. // Mecz Real Madryt – Borussia Dortmund odbędzie się w sobotę, 5 lipca, o godzinie 22:00. Będzie to ćwierćfinał Klubowych Mistrzostw Świata. Gdzie oglądać? Sprawdź, gdzie obejrzysz Real – Borussia za darmo.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 1. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/140878-terminarz-1-kolejki-la-ligi</link>
-        <pubDate>Sat, 05 Jul 2025 11:55:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz pierwszej kolejki sezonu 2025/26, która rozpocznie się w połowie sierpnia tego roku. Real Madryt zmierzy się w niej u siebie z Osasuną.</description>
     </item>
     
 </channel>
