@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 19:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 20:26:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Borussia Dortmund [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/140886-real-madryt-borussia-dortmund-live</link>
+        <pubDate>Sat, 05 Jul 2025 21:55:00 GMT</pubDate>
+        <description>Od 22:00 polskiego czasu trwa ćwierćfinał Klubowego Mundialu, w którym Real Madryt mierzy się z Borussią Dortmund. Wygrany tego starcia zagra w półfinale z Paris Saint-Germain.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Borussia Dortmund: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140875-kovac-xabi-stosuje-ten-sam-system-co-w-leverkusen</link>
         <pubDate>Sat, 05 Jul 2025 09:50:00 GMT</pubDate>
         <description>Niko Kovač, trener Borussi Dortmund, stawił się na konferencji prasowej przed meczem z Realem Madryt w ćwierćfinale Klubowego Mundialu. Przedstawiamy wypowiedzi chorwackiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Zawsze żywi kontra zawsze groźni</title>
-        <link>https://www.realmadryt.pl/news/140863-zawsze-zywi-kontra-zawsze-grozni</link>
-        <pubDate>Sat, 05 Jul 2025 09:45:00 GMT</pubDate>
-        <description>Dziś czeka nas starcie zespołów, z których jednego „nigdy nie można uznawać za martwego”, drugi zaś jest „zawsze groźny”.</description>
     </item>
     
 </channel>
