@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 22:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 23:25:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140894-dzisiejsze-okladki</link>
+        <pubDate>Sun, 06 Jul 2025 01:08:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Pod koniec – pam, pam, pam – i wszystko się wymknęło spod kontroli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140883-atak-na-pociag-pelen-pieniedzy</link>
         <pubDate>Sat, 05 Jul 2025 15:36:00 GMT</pubDate>
         <description>Królewscy zgromadzili już 54,83 miliona euro z tytułu premii, a przed nimi faza finałowa, która może niemal potroić te wpływy</description>
-    </item>
-    
-    <item>
-        <title>Sky Sport: Al-Nassr rusza po Rodrygo i oferuje mu czek in blanco</title>
-        <link>https://www.realmadryt.pl/news/140882-sky-sport-al-nassr-rusza-po-rodrygo-i-oferuje-mu-czek-in-blanco</link>
-        <pubDate>Sat, 05 Jul 2025 14:51:00 GMT</pubDate>
-        <description>Al-Nassr rozpoczęło starania o sprowadzenie Rodrygo, oferując mu czek in blanco i czyniąc go priorytetem transferowym wskazanym przez Cristiano Ronaldo. Brazylijczyk na razie odrzucił saudyjską propozycję, stawiając na cele sportowe i ewentualny transfer do Premier League.</description>
     </item>
     
 </channel>
