@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 09:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 09:56:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 1. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/140878-terminarz-1-kolejki-la-ligi</link>
+        <pubDate>Sat, 05 Jul 2025 11:55:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz pierwszej kolejki sezonu 2025/26, która rozpocznie się w połowie sierpnia tego roku. Real Madryt zmierzy się w niej u siebie z Osasuną.</description>
+    </item>
     
     <item>
         <title>Rywal, przeciwko któremu Vinícius wchodzi na wyższy poziom</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140862-krolewskie-potwierdzaja-pierwsze-sparingi</link>
         <pubDate>Sat, 05 Jul 2025 08:18:00 GMT</pubDate>
         <description>Klub potwierdził dwa mecze towarzyskie Las Blancas podczas letnich przygotowań.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Borussia Dortmund: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/140868-real-madryt-borussia-dortmund-przewidywane-sklady</link>
-        <pubDate>Sat, 05 Jul 2025 07:25:00 GMT</pubDate>
-        <description>Real Madryt rozegra dzisiaj kolejne spotkanie i tym razem zmierzy się z Borussią Dortmund. W obu zespołach należy spodziewać się niewielu zmian względem ostatnich meczów.</description>
     </item>
     
 </channel>
