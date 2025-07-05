@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 05 Jul 2025 17:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 18:33:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Borussia Dortmund: Znamy składy!</title>
+        <link>https://www.realmadryt.pl/news/140885-real-madryt-borussia-dortmund-znamy-sklady</link>
+        <pubDate>Sat, 05 Jul 2025 20:32:00 GMT</pubDate>
+        <description>Wiemy już, kto wystąpi od pierwszej minuty w ćwierćfinale Klubowego Mundialu. Spotkanie rozpocznie się o 22:00 czasu polskiego na MetLife Stadium w New Jersey.</description>
+    </item>
     
     <item>
         <title>Trent wraca do „domu”</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>PSG vs Bayern – europejski hit na Klubowym Mundialu [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/140880-psg-vs-bayern-europejski-hit-na-klubowym-mundialu-live</link>
+        <title>PSG w półfinale Klubowego Mundialu</title>
+        <link>https://www.realmadryt.pl/news/140880-psg-w-polfinale-klubowego-mundialu</link>
         <pubDate>Sat, 05 Jul 2025 17:40:00 GMT</pubDate>
-        <description>PSG i Bayern Monachium zmierzą się dzisiaj w europejskim hicie Klubowego Mundialu.</description>
+        <description>PSG pokonało Bayern Monachium i awansowało do półfinału Klubowego Mundialu.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140863-zawsze-zywi-kontra-zawsze-grozni</link>
         <pubDate>Sat, 05 Jul 2025 09:45:00 GMT</pubDate>
         <description>Dziś czeka nas starcie zespołów, z których jednego „nigdy nie można uznawać za martwego”, drugi zaś jest „zawsze groźny”.</description>
-    </item>
-    
-    <item>
-        <title>„Adeyemi i Guirassy są jak Vinícius i Mbappé”</title>
-        <link>https://www.realmadryt.pl/news/140874-adeyemi-i-guirassy-sa-jak-vinicius-i-mbappe</link>
-        <pubDate>Sat, 05 Jul 2025 09:27:00 GMT</pubDate>
-        <description>Daniel Ríos, aktualny trener drużyny młodzieżowej Borussii Dortmund, udzielił wywiadu dziennikowi AS przed starciem BVB z Realem Madryt na Klubowym Mundialu. Przedstawiamy najważniejsze wypowiedzi z tej rozmowy.</description>
     </item>
     
 </channel>
