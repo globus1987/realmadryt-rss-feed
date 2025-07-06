@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Jul 2025 08:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 09:25:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Real zbliża się do poziomu PSG”</title>
+        <link>https://www.realmadryt.pl/news/140905-real-zbliza-sie-do-poziomu-psg</link>
+        <pubDate>Sun, 06 Jul 2025 11:24:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu z Borussią i zbliżającym się półfinałem z PSG. Przedstawiamy refleksje dziennikarza.</description>
+    </item>
     
     <item>
         <title>Huijsen, Pacho i Lucas Hernández nie zagrają w półfinale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140893-xabi-alonso-pod-koniec-pam-pam-pam-i-wszystko-sie-wymknelo-spod-kontroli</link>
         <pubDate>Sun, 06 Jul 2025 00:53:00 GMT</pubDate>
         <description>Trener rozmawiał po meczu z telewizją DAZN. Przedstawiamy najważniejsze wypowiedzi Baska.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 3:2 Borussia Dortmund [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/140891-real-madryt-3-2-borussia-dortmund-video</link>
-        <pubDate>Sun, 06 Jul 2025 00:39:00 GMT</pubDate>
-        <description>W ćwierćfinale Klubowego Mundialu Real Madryt wygrał z Borussią Dortmund 3:2 po golach Gonzalo Garcíi, Frana Garcíi i Kyliana Mbappé.</description>
     </item>
     
 </channel>
