@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Jul 2025 09:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 10:28:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Borussią</title>
+        <link>https://www.realmadryt.pl/news/140902-oceny-zawodnikow-po-meczu-z-borussia</link>
+        <pubDate>Sun, 06 Jul 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał z Borussią Dortmund 3:2 i awansował do półfinału Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>„Real zbliża się do poziomu PSG”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140894-dzisiejsze-okladki</link>
         <pubDate>Sun, 06 Jul 2025 01:08:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Pod koniec – pam, pam, pam – i wszystko się wymknęło spod kontroli</title>
-        <link>https://www.realmadryt.pl/news/140893-xabi-alonso-pod-koniec-pam-pam-pam-i-wszystko-sie-wymknelo-spod-kontroli</link>
-        <pubDate>Sun, 06 Jul 2025 00:53:00 GMT</pubDate>
-        <description>Trener rozmawiał po meczu z telewizją DAZN. Przedstawiamy najważniejsze wypowiedzi Baska.</description>
     </item>
     
 </channel>
