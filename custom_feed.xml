@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Jul 2025 12:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 13:32:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi pokonał swoją zmorę</title>
+        <link>https://www.realmadryt.pl/news/140909-xabi-pokonal-swoja-zmore</link>
+        <pubDate>Sun, 06 Jul 2025 14:58:00 GMT</pubDate>
+        <description>Bask nie miał najlepszego bilans pojedynków z BVB.</description>
+    </item>
     
     <item>
         <title>Nieoczekiwany bohater</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140898-100-zwyciestwo-tchouameniego-w-realu-madryt</link>
         <pubDate>Sun, 06 Jul 2025 08:52:00 GMT</pubDate>
         <description>We wczorajszym meczu z Borussią Dortmund Aurélien Tchouaméni odniósł swoje 100. zwycięstwo w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real zostawił Mbappé na stadionie – wyszedł 58 minut później przez kontrolę antydopingową</title>
-        <link>https://www.realmadryt.pl/news/140897-real-zostawil-mbappe-na-stadionie-wyszedl-58-minut-pozniej-przez-kontrole-antydopingowa</link>
-        <pubDate>Sun, 06 Jul 2025 08:49:00 GMT</pubDate>
-        <description>Królewscy udali się na lotnisko, zostawiając francuskiego napastnika na MetLife Stadium.</description>
     </item>
     
 </channel>
