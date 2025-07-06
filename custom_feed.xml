@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Jul 2025 21:54:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 22:25:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140918-dzisiejsze-okladki</link>
+        <pubDate>Mon, 07 Jul 2025 00:15:00 GMT</pubDate>
+        <description>Słowa Ricky’ego Rubio i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Achraf i Fabián nie trenowali z drużyną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140904-mbappe-psg-pelne-napiecie</link>
         <pubDate>Sun, 06 Jul 2025 13:00:00 GMT</pubDate>
         <description>Mbappé spotka się ze swoim byłym klubem, z którym toczy spór o niewypłacone 55 milionów euro, oraz z Luisem Enrique, który wskazał go jako wolnego ducha wymykającego się jego „kontroli”.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Borussią</title>
-        <link>https://www.realmadryt.pl/news/140902-oceny-zawodnikow-po-meczu-z-borussia</link>
-        <pubDate>Sun, 06 Jul 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał z Borussią Dortmund 3:2 i awansował do półfinału Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
