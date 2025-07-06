@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 06 Jul 2025 17:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Jul 2025 17:56:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Achraf i Fabián nie trenowali z drużyną</title>
+        <link>https://www.realmadryt.pl/news/140915-achraf-i-fabian-nie-trenowali-z-druzyna</link>
+        <pubDate>Sun, 06 Jul 2025 19:49:00 GMT</pubDate>
+        <description>Boczny obrońca i pomocnik, podobnie jak Kimpembe, nie trenowali z resztą drużyny PSG i pozostali na siłowni.</description>
+    </item>
     
     <item>
         <title>Real Madryt i AFE naciskają na La Ligę, by przełożyła pierwszy mecz Królewskich</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140902-oceny-zawodnikow-po-meczu-z-borussia</link>
         <pubDate>Sun, 06 Jul 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał z Borussią Dortmund 3:2 i awansował do półfinału Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>„Real zbliża się do poziomu PSG”</title>
-        <link>https://www.realmadryt.pl/news/140905-real-zbliza-sie-do-poziomu-psg</link>
-        <pubDate>Sun, 06 Jul 2025 11:24:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu z Borussią i zbliżającym się półfinałem z PSG. Przedstawiamy refleksje dziennikarza.</description>
     </item>
     
 </channel>
