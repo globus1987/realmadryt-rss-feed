@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Jul 2025 22:57:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 23:26:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140942-dzisiejsze-okladki</link>
+        <pubDate>Tue, 08 Jul 2025 01:00:00 GMT</pubDate>
+        <description>Wysoka wygrana Hiszpanek na Mistrzostwach Europy to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maledon: Kiedy się dowiedziałem, że Real Madryt mnie chce, byłem bardzo szczęśliwy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140930-marca-arbeloa-awansowal-manu-serrano-do-castilli</link>
         <pubDate>Mon, 07 Jul 2025 13:20:00 GMT</pubDate>
         <description>Stoper ma już kilka występów w drugiej drużynie.</description>
-    </item>
-    
-    <item>
-        <title>Nico Paz wątpi w sens powrotu do Realu</title>
-        <link>https://www.realmadryt.pl/news/140929-nico-paz-watpi-w-sens-powrotu-do-realu</link>
-        <pubDate>Mon, 07 Jul 2025 13:16:00 GMT</pubDate>
-        <description>Problemy Realu Madryt nie wydają się już tak palące po pięciu spotkaniach Klubowego Mundialu. Poprawa po przyjściu Xabiego była natychmiastowa. Dlatego też transfer środkowego pomocnika, który do niedawna wydawał się konieczny, dziś nie jest już priorytetem.</description>
     </item>
     
 </channel>
