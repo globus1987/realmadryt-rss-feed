@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Jul 2025 11:22:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 11:41:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Théo Maledon zawodnikiem Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/140931-oficjalnie-theo-maledon-zawodnikiem-realu-madryt</link>
+        <pubDate>Mon, 07 Jul 2025 13:37:00 GMT</pubDate>
+        <description>Koszykarska sekcja Realu Madryt doczekała się pierwszego wzmocnienia. Do zespołu dołączył Théo Maledon, który podpisał z Królewskimi dwuletni kontrakt.</description>
+    </item>
     
     <item>
         <title>MARCA: Arbeloa awansował Manu Serrano do Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140921-uwaga-na-hakimiego</link>
         <pubDate>Mon, 07 Jul 2025 08:22:00 GMT</pubDate>
         <description>Wychowanek Realu jest czołową postacią francuskiej drużyny i generuje duże zagrożenie pod bramką rywala. Na boisku spotka się ze swoim przyjacielem.</description>
-    </item>
-    
-    <item>
-        <title>Szymon Marciniak na PSG</title>
-        <link>https://www.realmadryt.pl/news/140920-szymon-marciniak-na-psg</link>
-        <pubDate>Mon, 07 Jul 2025 08:04:00 GMT</pubDate>
-        <description>Polski arbiter został wyznaczony do poprowadzenia najbliższego meczu Realu Madryt z PSG.</description>
     </item>
     
 </channel>
