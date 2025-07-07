@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 07 Jul 2025 11:41:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2025 11:54:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Allegri: Modrić przyjdzie w sierpniu</title>
+        <link>https://www.realmadryt.pl/news/140932-allegri-modric-przyjdzie-w-sierpniu</link>
+        <pubDate>Mon, 07 Jul 2025 13:44:00 GMT</pubDate>
+        <description>Włoski szkoleniowiec potwierdził ostatnie doniesienia mediów, iż doświadczony pomocnik trafi do Rossonerich.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Théo Maledon zawodnikiem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140922-ser-real-doradza-endrickowi-wypozyczenie</link>
         <pubDate>Mon, 07 Jul 2025 08:45:00 GMT</pubDate>
         <description>Wygląda na to, że Królewscy podjęli decyzję w sprawie napastników.</description>
-    </item>
-    
-    <item>
-        <title>Uwaga na Hakimiego</title>
-        <link>https://www.realmadryt.pl/news/140921-uwaga-na-hakimiego</link>
-        <pubDate>Mon, 07 Jul 2025 08:22:00 GMT</pubDate>
-        <description>Wychowanek Realu jest czołową postacią francuskiej drużyny i generuje duże zagrożenie pod bramką rywala. Na boisku spotka się ze swoim przyjacielem.</description>
     </item>
     
 </channel>
