@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Jul 2025 09:54:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 10:29:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>„W naszym futbolu jest wszystko, tylko nie zdrowy rozsądek, tutaj chodzi o to, kto ma «dłuższego»”</title>
+        <link>https://www.realmadryt.pl/news/140954-w-naszym-futbolu-jest-wszystko-tylko-nie-zdrowy-rozsadek-tutaj-chodzi-o-to-kto-ma-dluzszego</link>
+        <pubDate>Tue, 08 Jul 2025 12:04:00 GMT</pubDate>
+        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprowadzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat ostatnich wydarzeń w La Lidze.</description>
+    </item>
     
     <item>
         <title>AS: Odejście Łunina nie jest wykluczone</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140941-scariolo-powrot-do-tego-klubu-jest-powodem-do-dumy</link>
         <pubDate>Tue, 08 Jul 2025 07:20:00 GMT</pubDate>
         <description>Sergio Scariolo udzielił wywiadu klubowym mediom. Wspominał o pierwszym etapie w barwach Realu Madryt i przyznał, że jest zadowolony z powrotu do stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/140942-dzisiejsze-okladki</link>
-        <pubDate>Tue, 08 Jul 2025 01:00:00 GMT</pubDate>
-        <description>Wysoka wygrana Hiszpanek na Mistrzostwach Europy to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
