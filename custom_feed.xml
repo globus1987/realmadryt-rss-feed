@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 08 Jul 2025 21:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jul 2025 22:27:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/140974-dzisiejsze-okladki</link>
+        <pubDate>Wed, 09 Jul 2025 00:19:00 GMT</pubDate>
+        <description>Mecz Realu z PSG i zachowanie bramkarza Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Obrador odchodzi do Benfiki, co odblokuje transfer Carrerasa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140960-marca-real-madryt-i-benfica-znow-negocjuja-w-sprawie-carrerasa</link>
         <pubDate>Tue, 08 Jul 2025 16:33:00 GMT</pubDate>
         <description>Rozmowy między oboma klubami zostały wznowione.</description>
-    </item>
-    
-    <item>
-        <title>Prezes Getafe: Półtora miesiąca temu osiągnęliśmy porozumienie w sprawie przyjścia Gonzalo</title>
-        <link>https://www.realmadryt.pl/news/140959-prezes-getafe-poltora-miesiaca-temu-osiagnelismy-porozumienie-w-sprawie-przyjscia-gonzalo</link>
-        <pubDate>Tue, 08 Jul 2025 15:11:00 GMT</pubDate>
-        <description>Sternik Los Azulones udzielił wywiadu klubowym mediom po prezentacji koszulek na sezon 2025/26.</description>
     </item>
     
 </channel>
