@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 09 Jul 2025 22:27:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jul 2025 22:46:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141007-dzisiejsze-okladki</link>
+        <pubDate>Thu, 10 Jul 2025 00:37:00 GMT</pubDate>
+        <description>Porażka Realu Madryt z PSG to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: To nie jest punkt wyjścia na przyszły sezon</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/140996-paris-saint-germain-real-madryt-znamy-sklady</link>
         <pubDate>Wed, 09 Jul 2025 19:31:00 GMT</pubDate>
         <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w półfinale Klubowego Mundialu. Mecz rozpocznie się o godzinie 21:00 czasu polskiego na MetLife Stadium w East Rutherford w New Jersey.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti skazany za jedno oszustwo podatkowe i uniewinniony w drugim takim przypadku</title>
-        <link>https://www.realmadryt.pl/news/140995-ancelotti-skazany-za-jedno-oszustwo-podatkowe-i-uniewinniony-w-drugim-takim-przypadku</link>
-        <pubDate>Wed, 09 Jul 2025 17:08:00 GMT</pubDate>
-        <description>Zakończyła się się sprawa oszustwa podatkowego popełnionego przez Carlo Ancelottiego w jego pierwszym etapie pracy dla Realu Madryt. Przedstawiciele fiskusa wygrali ją połowicznie.</description>
     </item>
     
 </channel>
