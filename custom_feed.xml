@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 21:57:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 22:28:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141037-dzisiejsze-okladki</link>
+        <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
+        <description>Plany Realu Madryt i decyzje Hansiego Flicka to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Jesús Vallejo o krok od Albacete</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141026-vinicius-zagral-tylko-dlatego-ze-trent-nabawil-sie-kontuzji</link>
         <pubDate>Thu, 10 Jul 2025 15:57:00 GMT</pubDate>
         <description>Xabi miał zacząć mecz z PGS tylko dwójką atakujących i posadzić Brazylijczyka na ławce, gdyby Anglik był zdolny do gry.</description>
-    </item>
-    
-    <item>
-        <title>Sezon pełen czarnych nocy</title>
-        <link>https://www.realmadryt.pl/news/141025-sezon-pelen-czarnych-nocy</link>
-        <pubDate>Thu, 10 Jul 2025 15:43:00 GMT</pubDate>
-        <description>Od Barcelony do PSG. Kampania 2024/25 była dla Królewskich i ich kibiców pełna bolesnych porażek.</description>
     </item>
     
 </channel>
