@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 08:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 09:33:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius i Mbappé znów sobie przeszkadzają</title>
+        <link>https://www.realmadryt.pl/news/141020-vinicius-i-mbappe-znow-sobie-przeszkadzaja</link>
+        <pubDate>Thu, 10 Jul 2025 11:32:00 GMT</pubDate>
+        <description>W meczu z PSG oddali razem jeden celny strzał i zaliczyli tylko dwa udane dryblingi. W swoim pierwszym wspólnym występie w wyjściowym składzie u Xabiego kompletnie się nie zgrali.</description>
+    </item>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias – Klubowe Mistrzostwa Świata</title>
+        <link>https://www.realmadryt.pl/news/141019-pichichi-zamora-asistencias-klubowe-mistrzostwa-swiata</link>
+        <pubDate>Thu, 10 Jul 2025 11:20:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po półfinałach Klubowych Mistrzostw Świata.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Mamy margines na poprawę składu kadry</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141007-dzisiejsze-okladki</link>
         <pubDate>Thu, 10 Jul 2025 00:37:00 GMT</pubDate>
         <description>Porażka Realu Madryt z PSG to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: To nie jest punkt wyjścia na przyszły sezon</title>
-        <link>https://www.realmadryt.pl/news/141006-xabi-alonso-to-nie-jest-punkt-wyjscia-na-przyszly-sezon</link>
-        <pubDate>Wed, 09 Jul 2025 23:58:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu dla telewizji DAZN po przegranym 0:4 półfinale Klubowego Mundialu z PSG. Przedstawiamy pierwsze refleksje baskijskiego trenera.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Czasami taki wpie**ol przydaje się, by zobaczyć, że przed nami ciągle wiele pracy</title>
-        <link>https://www.realmadryt.pl/news/141005-courtois-czasami-taki-wpie-ol-przydaje-sie-by-zobaczyc-ze-przed-nami-ciagle-wiele-pracy</link>
-        <pubDate>Wed, 09 Jul 2025 23:41:00 GMT</pubDate>
-        <description>Thibaut Courtois po meczu z Paris Saint-Germain udzielił wywiadu DAZN. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
