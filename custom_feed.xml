@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 09:55:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 10:29:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Xabi Alonso po raz pierwszy rzeczywiście poczuł, czym jest prowadzenie szatni Realu Madryt”</title>
+        <link>https://www.realmadryt.pl/news/141022-xabi-alonso-po-raz-pierwszy-rzeczywiscie-poczul-czym-jest-prowadzenie-szatni-realu-madryt</link>
+        <pubDate>Thu, 10 Jul 2025 12:06:00 GMT</pubDate>
+        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprowadzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat meczu Królewskich z PSG.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z PSG</title>
+        <link>https://www.realmadryt.pl/news/141017-oceny-zawodnikow-po-meczu-z-psg</link>
+        <pubDate>Thu, 10 Jul 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt przegrał z Paris Saint-Germain 0:4 i odpadł z Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>100. mecz Bellinghama w Realu Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141009-pierwsze-od-trzech-lat-spotkanie-florentino-z-al-khelaifim</link>
         <pubDate>Thu, 10 Jul 2025 07:50:00 GMT</pubDate>
         <description>Prezes Królewskich po raz pierwszych od trzech lat spotkał się z liderem projektu Paris Saint-Germain.</description>
-    </item>
-    
-    <item>
-        <title>Hakimi: Gdy biega cała drużyna, to wszystko jest łatwiejsze</title>
-        <link>https://www.realmadryt.pl/news/141011-hakimi-gdy-biega-cala-druzyna-to-wszystko-jest-latwiejsze</link>
-        <pubDate>Thu, 10 Jul 2025 07:00:00 GMT</pubDate>
-        <description>Achraf Hakimi po półfinale Klubowego Mundialu był gościem hiszpańskiego studia DAZN na murawie, w którym ekspertem był między innymi Guti. Przedstawiamy wypowiedzi obrońcy PSG i byłego gracza Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Luis Enrique: Xabi nie miał czasu, by cokolwiek zrobić</title>
-        <link>https://www.realmadryt.pl/news/141012-luis-enrique-xabi-nie-mial-czasu-by-cokolwiek-zrobic</link>
-        <pubDate>Thu, 10 Jul 2025 05:30:00 GMT</pubDate>
-        <description>Luis Enrique pojawił się na konferencji prasowej po półfinale Klubowego Mundialu. Przedstawiamy wypowiedzi trenera Paris Saint-Germain z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
