@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 17:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 17:36:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarz Athleticu poinformował, że został złapany na dopingu</title>
+        <link>https://www.realmadryt.pl/news/141029-pilkarz-athleticu-poinformowal-ze-zostal-zlapany-na-dopingu</link>
+        <pubDate>Thu, 10 Jul 2025 19:25:00 GMT</pubDate>
+        <description>Piłkarz baskijskiej drużyny sam poinformował o wykryciu u niego niedozwolonej substancji przy okazji meczu europejskich pucharów.</description>
+    </item>
     
     <item>
         <title>Víctor Muñoz ma trafić do Osasuny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141020-vinicius-i-mbappe-znow-sobie-przeszkadzaja</link>
         <pubDate>Thu, 10 Jul 2025 11:32:00 GMT</pubDate>
         <description>W meczu z PSG oddali razem jeden celny strzał i zaliczyli tylko dwa udane dryblingi. W swoim pierwszym wspólnym występie w wyjściowym składzie u Xabiego kompletnie się nie zgrali.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias – Klubowe Mistrzostwa Świata</title>
-        <link>https://www.realmadryt.pl/news/141019-pichichi-zamora-asistencias-klubowe-mistrzostwa-swiata</link>
-        <pubDate>Thu, 10 Jul 2025 11:20:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po półfinałach Klubowych Mistrzostw Świata.</description>
     </item>
     
 </channel>
