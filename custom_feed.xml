@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 09:33:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 09:55:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>100. mecz Bellinghama w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/141021-100-mecz-bellinghama-w-realu-madryt</link>
+        <pubDate>Thu, 10 Jul 2025 11:52:00 GMT</pubDate>
+        <description>Smutny jubileusz Anglika.</description>
+    </item>
     
     <item>
         <title>Vinícius i Mbappé znów sobie przeszkadzają</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141012-luis-enrique-xabi-nie-mial-czasu-by-cokolwiek-zrobic</link>
         <pubDate>Thu, 10 Jul 2025 05:30:00 GMT</pubDate>
         <description>Luis Enrique pojawił się na konferencji prasowej po półfinale Klubowego Mundialu. Przedstawiamy wypowiedzi trenera Paris Saint-Germain z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141007-dzisiejsze-okladki</link>
-        <pubDate>Thu, 10 Jul 2025 00:37:00 GMT</pubDate>
-        <description>Porażka Realu Madryt z PSG to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
