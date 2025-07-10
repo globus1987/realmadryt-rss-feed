@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 06:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 07:29:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>A Bola: Obrador jest już w Lizbonie, droga wolna dla Carrerasa</title>
+        <link>https://www.realmadryt.pl/news/141016-a-bola-obrador-jest-juz-w-lizbonie-droga-wolna-dla-carrerasa</link>
+        <pubDate>Thu, 10 Jul 2025 09:28:00 GMT</pubDate>
+        <description>Powrót Álvaro coraz bliżej.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 lipca</title>
+        <link>https://www.realmadryt.pl/news/141008-kartka-z-kalendarza-10-lipca</link>
+        <pubDate>Thu, 10 Jul 2025 09:15:00 GMT</pubDate>
+        <description>Odejście jednego z największych w historii, pozdrowienia od Sergio Ramosa, transfer i prezentacja stoperów pozyskanych z FC Porto i triumf Portugalii z Francją na EURO 2016. Co działo się 10 lipca?</description>
+    </item>
     
     <item>
         <title>Courtois: Tebas bardzo chce być w centrum uwagi, żaden inny prezes się tak nie wypowiada</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141003-fabian-ruiz-jestem-szczesliwcem-ze-moge-grac-w-tym-wspanialym-zespole</link>
         <pubDate>Wed, 09 Jul 2025 23:23:00 GMT</pubDate>
         <description>Fabián Ruiz udzielił wywiadu z murawy dla platformy DAZN po wygranym 4:0 półfinale Klubowego Mundialu z Realem Madryt. Przedstawiamy wypowiedzi MVP tego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Fabián Ruiz Najlepszym Zawodnikiem Meczu</title>
-        <link>https://www.realmadryt.pl/news/141002-fabian-ruiz-najlepszym-zawodnikiem-meczu</link>
-        <pubDate>Wed, 09 Jul 2025 23:15:00 GMT</pubDate>
-        <description>Fran García został wyróżniony przez kibiców po meczu z Borussią Dortmund. To pierwsza taka nagroda dla Hiszpana podczas Klubowych Mistrzostw Świata.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z PSG</title>
-        <link>https://www.realmadryt.pl/news/141000-ocen-pilkarzy-po-meczu-z-psg</link>
-        <pubDate>Wed, 09 Jul 2025 23:09:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
