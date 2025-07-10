@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 13:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 13:57:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sezon pełen czarnych nocy</title>
+        <link>https://www.realmadryt.pl/news/141025-sezon-pelen-czarnych-nocy</link>
+        <pubDate>Thu, 10 Jul 2025 15:43:00 GMT</pubDate>
+        <description>Od Barcelony do PSG. Kampania 2024/25 była dla Królewskich i ich kibiców pełna bolesnych porażek.</description>
+    </item>
     
     <item>
         <title>Terminarz 2. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141016-a-bola-obrador-jest-juz-w-lizbonie-droga-wolna-dla-carrerasa</link>
         <pubDate>Thu, 10 Jul 2025 09:28:00 GMT</pubDate>
         <description>Powrót Álvaro coraz bliżej.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 10 lipca</title>
-        <link>https://www.realmadryt.pl/news/141008-kartka-z-kalendarza-10-lipca</link>
-        <pubDate>Thu, 10 Jul 2025 09:15:00 GMT</pubDate>
-        <description>Odejście jednego z największych w historii, pozdrowienia od Sergio Ramosa, transfer i prezentacja stoperów pozyskanych z FC Porto i triumf Portugalii z Francją na EURO 2016. Co działo się 10 lipca?</description>
     </item>
     
 </channel>
