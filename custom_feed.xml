@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 20:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 20:48:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Yarek Gąsiorowski zawodnikiem PSV</title>
+        <link>https://www.realmadryt.pl/news/141034-oficjalnie-yarek-gasiorowski-zawodnikiem-psv</link>
+        <pubDate>Thu, 10 Jul 2025 22:47:00 GMT</pubDate>
+        <description>Yarek Gąsiorowski przeniósł się z Hiszpanii do Holandii. Obrońca podpisał pięcioletnią umowę z PSV, a Valencia otrzymała 9,5 miliona euro.</description>
+    </item>
     
     <item>
         <title>Romano: Real Madryt osiągnął porozumienie z Benficą ws. Carrerasa!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141023-marca-real-chce-uciac-problem-ego-w-druzynie-planuje-rozmowy-z-wybranymi-pilkarzami</link>
         <pubDate>Thu, 10 Jul 2025 13:50:00 GMT</pubDate>
         <description>Władze klubu zamierzają porozmawiać z wybranymi zawodnikami, aby dokładnie ustalić, czego oczekują, do czego dążą i jaki jest poziom ich zaangażowania.</description>
-    </item>
-    
-    <item>
-        <title>Ile ostatecznie Real Madryt zarobił za udział w Klubowym Mundialu?</title>
-        <link>https://www.realmadryt.pl/news/141010-ile-ostatecznie-real-madryt-zarobil-za-udzial-w-klubowym-mundialu</link>
-        <pubDate>Thu, 10 Jul 2025 13:00:00 GMT</pubDate>
-        <description>Królewscy wracają ze Stanów Zjednoczonych z półfinałem Klubowego Mundialu i znaczącymi środkami finansowymi za udział w nowym turnieju FIFA.</description>
     </item>
     
 </channel>
