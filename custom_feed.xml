@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 10 Jul 2025 17:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jul 2025 18:37:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>UOL: W następnym tygodniu spotkanie ws. Rodrygo, cena wyjściowa to 100 milionów euro</title>
+        <link>https://www.realmadryt.pl/news/141031-uol-w-nastepnym-tygodniu-spotkanie-ws-rodrygo-cena-wyjsciowa-to-100-milionow-euro</link>
+        <pubDate>Thu, 10 Jul 2025 20:01:00 GMT</pubDate>
+        <description>Brazylijczyk przekazali najnowsze informacje w sprawie przyszłości atakującego.</description>
+    </item>
+    
+    <item>
+        <title>Dwie różne drogi Gonzalo i Ikera Bravo</title>
+        <link>https://www.realmadryt.pl/news/141030-dwie-rozne-drogi-gonzalo-i-ikera-bravo</link>
+        <pubDate>Thu, 10 Jul 2025 19:58:00 GMT</pubDate>
+        <description>Napastnik może odejść z włoskiego klubu w tym okienku, gdyż w minionym sezonie nie radził sobie najlepiej.</description>
+    </item>
     
     <item>
         <title>Piłkarz Athleticu poinformował, że został złapany na dopingu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141017-oceny-zawodnikow-po-meczu-z-psg</link>
         <pubDate>Thu, 10 Jul 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt przegrał z Paris Saint-Germain 0:4 i odpadł z Klubowego Mundialu. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>100. mecz Bellinghama w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141021-100-mecz-bellinghama-w-realu-madryt</link>
-        <pubDate>Thu, 10 Jul 2025 11:52:00 GMT</pubDate>
-        <description>Smutny jubileusz Anglika.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius i Mbappé znów sobie przeszkadzają</title>
-        <link>https://www.realmadryt.pl/news/141020-vinicius-i-mbappe-znow-sobie-przeszkadzaja</link>
-        <pubDate>Thu, 10 Jul 2025 11:32:00 GMT</pubDate>
-        <description>W meczu z PSG oddali razem jeden celny strzał i zaliczyli tylko dwa udane dryblingi. W swoim pierwszym wspólnym występie w wyjściowym składzie u Xabiego kompletnie się nie zgrali.</description>
     </item>
     
 </channel>
