@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Jul 2025 21:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 22:28:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141065-dzisiejsze-okladki</link>
+        <pubDate>Sat, 12 Jul 2025 00:27:00 GMT</pubDate>
+        <description>Awans Carlosa Alcaraza do finału Wimbledonu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Rafael Obrador sprzedany do Benfiki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141048-oficjalnie-david-kraemer-zawodnikiem-realu-madryt</link>
         <pubDate>Fri, 11 Jul 2025 13:09:00 GMT</pubDate>
         <description>Królewscy poinformowali o pozyskaniu 28-letniego Niemca.</description>
-    </item>
-    
-    <item>
-        <title>Rüdigera ma plan, by zapomnieć o największym błędzie w karierze</title>
-        <link>https://www.realmadryt.pl/news/141047-ruedigera-ma-plan-by-zapomniec-o-najwiekszym-bledzie-w-karierze</link>
-        <pubDate>Fri, 11 Jul 2025 12:39:00 GMT</pubDate>
-        <description>Niemiec wyjechał na wakacje przekonany, że odzyska swoją najlepszą formę.</description>
     </item>
     
 </channel>
