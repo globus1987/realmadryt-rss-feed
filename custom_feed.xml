@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Jul 2025 10:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 11:23:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: David Krämer zawodnikiem Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/141048-oficjalnie-david-kraemer-zawodnikiem-realu-madryt</link>
+        <pubDate>Fri, 11 Jul 2025 13:09:00 GMT</pubDate>
+        <description>Królewscy poinformowali o pozyskaniu 28-letniego Niemca.</description>
+    </item>
     
     <item>
         <title>Rüdigera ma plan, by zapomnieć o największym błędzie w karierze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141037-dzisiejsze-okladki</link>
         <pubDate>Fri, 11 Jul 2025 00:00:00 GMT</pubDate>
         <description>Plany Realu Madryt i decyzje Hansiego Flicka to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Jesús Vallejo o krok od Albacete</title>
-        <link>https://www.realmadryt.pl/news/141036-jesus-vallejo-o-krok-od-albacete</link>
-        <pubDate>Thu, 10 Jul 2025 23:24:00 GMT</pubDate>
-        <description>Jesús Vallejo jest blisko podpisania umowy z Albacete. Obrońca szybko znalazł nowy klub po zakończeniu przygody z Realem Madryt.</description>
     </item>
     
 </channel>
