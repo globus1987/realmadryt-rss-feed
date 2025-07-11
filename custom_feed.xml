@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 11 Jul 2025 02:22:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jul 2025 03:46:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>OkDiario: Viníciusowi nie spodobała się decyzja Xabiego Alonso</title>
+        <link>https://www.realmadryt.pl/news/141041-okdiario-viniciusowi-nie-spodobala-sie-decyzja-xabiego-alonso</link>
+        <pubDate>Fri, 11 Jul 2025 05:30:00 GMT</pubDate>
+        <description>Zestawienie ataku było głównym tematem debat przed półfinałowym starciem z Paris Saint-Germain. Xabi Alonso zdecydował się posadzić na ławce Brazylijczyka, ale kontuzja Trenta Alexandra-Arnolda zmieniła jego plany. Mimo wszystko Viniemu nie spodobało się, w jaki sposób trener postanowił z niego skorzystać w tym spotkaniu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141027-militao-zabraklo-troche-wiecej-checi</link>
         <pubDate>Thu, 10 Jul 2025 16:24:00 GMT</pubDate>
         <description>Éder Militão wyszedł do dziennikarzy w strefie mieszanej po półfinale Klubowego Mundialu. Przedstawiamy wypowiedzi stopera Realu Madryt, w środę wrócił do gry po 8-miesięcznej przerwie.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius zagrał tylko dlatego, że Trent nabawił się kontuzji?</title>
-        <link>https://www.realmadryt.pl/news/141026-vinicius-zagral-tylko-dlatego-ze-trent-nabawil-sie-kontuzji</link>
-        <pubDate>Thu, 10 Jul 2025 15:57:00 GMT</pubDate>
-        <description>Xabi miał zacząć mecz z PGS tylko dwójką atakujących i posadzić Brazylijczyka na ławce, gdyby Anglik był zdolny do gry.</description>
     </item>
     
 </channel>
