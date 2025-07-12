@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Jul 2025 14:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 14:44:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Roncero: Odzyskajmy Trofeo Bernabéu i zaprośmy Cristiano</title>
+        <link>https://www.realmadryt.pl/news/141077-roncero-odzyskajmy-trofeo-bernabeu-i-zaprosmy-cristiano</link>
+        <pubDate>Sat, 12 Jul 2025 16:24:00 GMT</pubDate>
+        <description>Dziennikarz (a raczej bardziej madrycki napinacz) Asa proponuje odzyskanie meczu o Trofeo Bernabéu i podsuwa nawet dwóch jego zdaniem ekscytujących rywali na taki mecz.</description>
+    </item>
     
     <item>
         <title>Kroos: Wierzę w to, że Xabi przekaże piłkarzom jasny pomysł</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141063-historia-koleczek-przed-rozpoczeciem-meczow</link>
         <pubDate>Sat, 12 Jul 2025 10:20:00 GMT</pubDate>
         <description>Królewscy na Klubowym Mundialu zaczęli robić składem wychodzącym na mecz kółeczko z przemową liderów tuż przed pierwszym gwizdkiem sędziego. Klubowa telewizja zapytała piłkarzy skąd wziął się ten pomysł.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 12 lipca</title>
-        <link>https://www.realmadryt.pl/news/141070-kartka-z-kalendarza-12-lipca</link>
-        <pubDate>Sat, 12 Jul 2025 10:14:00 GMT</pubDate>
-        <description>Wygrana Francji na własnym terenie z Zidane'em w roli bohatera, prezentacja Pepego i potwierdzenie przybycia Jerzego Dudka. Co działo się 12 lipca?</description>
     </item>
     
 </channel>
