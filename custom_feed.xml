@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Jul 2025 09:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 09:44:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Krämer: Reprezentowanie Realu Madryt to zaszczyt</title>
+        <link>https://www.realmadryt.pl/news/141060-kraemer-reprezentowanie-realu-madryt-to-zaszczyt</link>
+        <pubDate>Sat, 12 Jul 2025 11:39:00 GMT</pubDate>
+        <description>David Krämer udzielił wywiadu dla klubowych mediów po podpisaniu kontraktu z Realem Madryt. Podzielił się pierwszymi wrażeniami i mówił o celach na sezon.</description>
+    </item>
     
     <item>
         <title>Del Bosque: Xabi dobrze sobie poradzi, ponieważ ma do tego głowę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141065-dzisiejsze-okladki</link>
         <pubDate>Sat, 12 Jul 2025 00:27:00 GMT</pubDate>
         <description>Awans Carlosa Alcaraza do finału Wimbledonu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Rafael Obrador sprzedany do Benfiki</title>
-        <link>https://www.realmadryt.pl/news/141058-oficjalnie-rafael-obrador-sprzedany-do-benfiki</link>
-        <pubDate>Fri, 11 Jul 2025 20:13:00 GMT</pubDate>
-        <description>Klub opublikował komunikat w sprawie transferu wychowanka.</description>
     </item>
     
 </channel>
