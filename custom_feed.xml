@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Jul 2025 19:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 20:27:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Modrić: Do zobaczenia</title>
+        <link>https://www.realmadryt.pl/news/141083-modric-do-zobaczenia</link>
+        <pubDate>Sat, 12 Jul 2025 22:06:00 GMT</pubDate>
+        <description>Luka Modrić opublikował krótki wpis w mediach społecznościowych, w którym pożegnał się z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Urodziny w morzu wątpliwości</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141072-tebas-slowa-courtois-to-kwestia-jednego-dnia</link>
         <pubDate>Sat, 12 Jul 2025 12:14:00 GMT</pubDate>
         <description>Bramkarz Królewskich wystosował mocną krytykę w kierunku prezesa La Ligi, że ten za dużo gada. Co zrobił Javier Tebas? Oczywiście odpowiedział.</description>
-    </item>
-    
-    <item>
-        <title>Federacja otworzyła postępowanie ws. przełożenia meczu Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141059-federacja-otworzyla-postepowanie-ws-przelozenia-meczu-realu-madryt</link>
-        <pubDate>Sat, 12 Jul 2025 11:44:00 GMT</pubDate>
-        <description>Federacja formalnie otworzyła postępowanie w sprawie przełożenia meczu Realu Madryt na otwarcie La Ligi.</description>
     </item>
     
 </channel>
