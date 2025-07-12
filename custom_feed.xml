@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Jul 2025 09:44:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 09:57:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Federacja otworzyła postępowanie ws. przełożenia meczu Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/141059-federacja-otworzyla-postepowanie-ws-przelozenia-meczu-realu-madryt</link>
+        <pubDate>Sat, 12 Jul 2025 11:44:00 GMT</pubDate>
+        <description>Federacja formalnie otworzyła postępowanie w sprawie przełożenia meczu Realu Madryt na otwarcie La Ligi.</description>
+    </item>
     
     <item>
         <title>Krämer: Reprezentowanie Realu Madryt to zaszczyt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141066-romano-carreras-przyleci-dzisiaj-do-madrytu-na-badania-medyczne</link>
         <pubDate>Sat, 12 Jul 2025 01:07:00 GMT</pubDate>
         <description>Słynny Włoch potwierdzający transfery wystosował aktualizację w sprawie hiszpańskiego obrońcy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141065-dzisiejsze-okladki</link>
-        <pubDate>Sat, 12 Jul 2025 00:27:00 GMT</pubDate>
-        <description>Awans Carlosa Alcaraza do finału Wimbledonu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
