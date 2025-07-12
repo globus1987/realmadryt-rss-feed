@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 12 Jul 2025 21:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jul 2025 22:25:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141086-dzisiejsze-okladki</link>
+        <pubDate>Sun, 13 Jul 2025 00:06:00 GMT</pubDate>
+        <description>Finały Klubowego Mundialu i Wimbledonu oraz urodziny Lamine'a Yamala to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Klub daje Xabiemu Alonso wolną rękę w decyzjach i szykuje mu więcej wzmocnień</title>
+        <link>https://www.realmadryt.pl/news/141085-marca-klub-daje-xabiemu-alonso-wolna-reke-w-decyzjach-i-szykuje-mu-wiecej-wzmocnien</link>
+        <pubDate>Sun, 13 Jul 2025 00:00:00 GMT</pubDate>
+        <description>Wolna droga dla trenera do sadzania, zdejmowania lub wystawiania jakiegokolwiek zawodnika oraz decydowaniu o wzmocnieniach.</description>
+    </item>
     
     <item>
         <title>Modrić: Do zobaczenia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141074-marca-marvel-moze-trafic-do-leganes</link>
         <pubDate>Sat, 12 Jul 2025 13:16:00 GMT</pubDate>
         <description>Stoper Realu poprzedni sezon spędził na wypożyczeniu w Córdobie.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Konaté przekazał Liverpoolowi, że jest otwarty na transfer, ale tylko do Realu</title>
-        <link>https://www.realmadryt.pl/news/141073-marca-konate-przekazal-liverpoolowi-ze-jest-otwarty-na-transfer-ale-tylko-do-realu</link>
-        <pubDate>Sat, 12 Jul 2025 12:34:00 GMT</pubDate>
-        <description>Królewscy pracują z myślą o tym transferze na kolejne lato, ale rozwój sytuacji może wszystko przyśpieszyć.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Słowa Courtois? To kwestia jednego dnia</title>
-        <link>https://www.realmadryt.pl/news/141072-tebas-slowa-courtois-to-kwestia-jednego-dnia</link>
-        <pubDate>Sat, 12 Jul 2025 12:14:00 GMT</pubDate>
-        <description>Bramkarz Królewskich wystosował mocną krytykę w kierunku prezesa La Ligi, że ten za dużo gada. Co zrobił Javier Tebas? Oczywiście odpowiedział.</description>
     </item>
     
 </channel>
