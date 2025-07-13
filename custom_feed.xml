@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Jul 2025 13:33:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 13:53:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Davide Ancelotti: Z nami Gonzalo na pewno również grałby w jedenastce</title>
+        <link>https://www.realmadryt.pl/news/141101-davide-ancelotti-z-nami-gonzalo-na-pewno-rowniez-gralby-w-jedenastce</link>
+        <pubDate>Sun, 13 Jul 2025 15:34:00 GMT</pubDate>
+        <description>Davide Ancelotti udzielił wywiadu radiu COPE. Przedstawiamy najważniejsze wypowiedzi byłego asystenta trenera w Realu Madryt. Rozmowę nagrano zanim Włoch objął Botafogo, ale tłumaczymy ją z powodu wartości dotyczącej omówienia ostatniego sezonu.</description>
+    </item>
     
     <item>
         <title>Zła passa Asencio</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141091-as-przyszlosc-ceballosa-pozostaje-otwarta</link>
         <pubDate>Sun, 13 Jul 2025 09:55:00 GMT</pubDate>
         <description>Xabi liczy na Ceballosa, ale jego odejście nie jest niemożliwe. Real szuka rozgrywającego, a wychowanek Betisu może chcieć grać regularnie z myślą o mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Infantino: Lepszą frekwencję ma tylko Premier League, a takich przychodów na mecz nie ma nikt</title>
-        <link>https://www.realmadryt.pl/news/141084-infantino-lepsza-frekwencje-ma-tylko-premier-league-a-takich-przychodow-na-mecz-nie-ma-nikt</link>
-        <pubDate>Sun, 13 Jul 2025 09:30:00 GMT</pubDate>
-        <description>Gianni Infantino na zakończenie Klubowego Mundialu spotkał się z mediami. Przedstawiamy opublikowane wypowiedzi prezesa FIFA z tego spotkania w Nowym Jorku.</description>
     </item>
     
 </channel>
