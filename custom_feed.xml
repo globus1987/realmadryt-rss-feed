@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Jul 2025 04:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 05:01:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jeden piłkarz Realu Madryt w rankingu The Athletic do Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/141087-jeden-pilkarz-realu-madryt-w-rankingu-the-athletic-do-zlotej-pilki</link>
+        <pubDate>Sun, 13 Jul 2025 07:00:00 GMT</pubDate>
+        <description>The Athletic przed finałem Klubowego Mundialu przedstawił swój ranking faworytów do Złotej Piłki.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141075-kadra-wypelniona-ale-nie-kompletna</link>
         <pubDate>Sat, 12 Jul 2025 14:25:00 GMT</pubDate>
         <description>Nim ktoś przyjdzie, ktoś inny musi odejść. Ewentualnie po przyjściu kogoś, trzeba będzie wyprosić kogoś innego. Być może nawet ta druga opcja lepiej odzwierciedla obecną sytuację kadrową Realu Madryt, pisze Mario de la Riva z dziennika AS.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Marvel może trafić do Leganés</title>
-        <link>https://www.realmadryt.pl/news/141074-marca-marvel-moze-trafic-do-leganes</link>
-        <pubDate>Sat, 12 Jul 2025 13:16:00 GMT</pubDate>
-        <description>Stoper Realu poprzedni sezon spędził na wypożyczeniu w Córdobie.</description>
     </item>
     
 </channel>
