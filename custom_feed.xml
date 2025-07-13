@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 13 Jul 2025 11:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 11:56:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Federacja zmieniła przepisy dotyczące minimalnej liczby piłkarzy pierwszej drużyny</title>
+        <link>https://www.realmadryt.pl/news/141097-federacja-zmienila-przepisy-dotyczace-minimalnej-liczby-pilkarzy-pierwszej-druzyny</link>
+        <pubDate>Sun, 13 Jul 2025 13:45:00 GMT</pubDate>
+        <description>Królewscy pod koniec sezonu byli realnie zagrożeni walkowerami z powodu niewielu dostępnych graczy pierwszej drużyny. Federacja teraz lekko zmieniła te przepisy.</description>
+    </item>
     
     <item>
         <title>Gonzalo zakończy „tęsknotę” za Moratą?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141087-jeden-pilkarz-realu-madryt-w-rankingu-the-athletic-do-zlotej-pilki</link>
         <pubDate>Sun, 13 Jul 2025 07:00:00 GMT</pubDate>
         <description>The Athletic przed finałem Klubowego Mundialu przedstawił swój ranking faworytów do Złotej Piłki.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141086-dzisiejsze-okladki</link>
-        <pubDate>Sun, 13 Jul 2025 00:06:00 GMT</pubDate>
-        <description>Finały Klubowego Mundialu i Wimbledonu oraz urodziny Lamine'a Yamala to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
