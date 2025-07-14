@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 21:56:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 22:28:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141138-dzisiejsze-okladki</link>
+        <pubDate>Tue, 15 Jul 2025 00:00:00 GMT</pubDate>
+        <description>Transfery Álvaro Carrerasa i Roony'ego Bradghjiego to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Jesús Vallejo piłkarzem Albacete</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141124-carreras-nie-stawil-sie-na-treningu-benfiki</link>
         <pubDate>Mon, 14 Jul 2025 13:52:00 GMT</pubDate>
         <description>Hiszpański defensor za zgodą klubu nie stawił się na początku przygotowań Benfiki do nowego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos: Jestem otwarty na wszystko</title>
-        <link>https://www.realmadryt.pl/news/141123-ceballos-jestem-otwarty-na-wszystko</link>
-        <pubDate>Mon, 14 Jul 2025 13:33:00 GMT</pubDate>
-        <description>Media złapały Hiszpana na lotnisku po przylocie do rodzinnej Sewilli. Przedstawiamy jego wypowiedzi w sprawie przyszłości.</description>
     </item>
     
 </channel>
