@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 10:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:25:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rekord świata Valverde</title>
+        <link>https://www.realmadryt.pl/news/141121-rekord-swiata-valverde</link>
+        <pubDate>Mon, 14 Jul 2025 13:16:00 GMT</pubDate>
+        <description>Urugwajczyk to najlepszy przykład szalonego kalendarza piłki nożnej. Zamknięty właśnie sezon zakończył z ponad 6 tysiącami rozegranych minut i ponad 70 zaliczonymi meczami.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Modrić piłkarzem AC Milan</title>
+        <link>https://www.realmadryt.pl/news/141120-oficjalnie-modric-pilkarzem-ac-milan</link>
+        <pubDate>Mon, 14 Jul 2025 13:12:00 GMT</pubDate>
+        <description>AC Milan ogłosił podpisanie kontraktu z byłym pomocnikiem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias – Klubowe Mistrzostwa Świata</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141112-dzisiejsze-okladki</link>
         <pubDate>Mon, 14 Jul 2025 01:14:00 GMT</pubDate>
         <description>Porażka Carlosa Alcaraza, zwycięstwo Chelsea i powrót Barcelony do treningów to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Media: Najprawdopodobniej dzisiaj ogłoszenie transferu Carrerasa</title>
-        <link>https://www.realmadryt.pl/news/141109-media-najprawdopodobniej-dzisiaj-ogloszenie-transferu-carrerasa</link>
-        <pubDate>Mon, 14 Jul 2025 00:00:00 GMT</pubDate>
-        <description>Fabrizio Romano jako pierwszy w czwartek informował o transferze Hiszpana do Realu Madryt. W niedzielę dołączyły do niego madryckie media.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Gonzalo królem strzelców Klubowego Mundialu!</title>
-        <link>https://www.realmadryt.pl/news/141110-oficjalnie-gonzalo-krolem-strzelcow-klubowego-mundialu</link>
-        <pubDate>Sun, 13 Jul 2025 23:54:00 GMT</pubDate>
-        <description>Po finale Klubowego Mundialu ogłoszono zwycięzców nagród indywidualnych, wśród których znalazł się jeden piłkarz Królewskich.</description>
     </item>
     
 </channel>
