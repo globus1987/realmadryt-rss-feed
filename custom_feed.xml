@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 09:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 09:43:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Równia pochyła Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/141118-rownia-pochyla-viniciusa</link>
+        <pubDate>Mon, 14 Jul 2025 11:10:00 GMT</pubDate>
+        <description>Vinícius zamyka niepokojący sezon 2024/25, w którym wraz z upływem kolejnych miesięcy prezentował się coraz słabiej. Punktem zwrotnym była listopadowa polemika ze Złotą Piłką w roli głównej.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 14 lipca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141106-the-athletic-arsenal-ze-wstepnym-porozumieniem-ws-gyoekeresa</link>
         <pubDate>Sun, 13 Jul 2025 22:26:00 GMT</pubDate>
         <description>Kanonierzy dopinają transfer środkowego napastnika. Opcję na jego pozyskanie mieli Królewscy, ale ją odrzucili.</description>
-    </item>
-    
-    <item>
-        <title>Chelsea zwycięzcą Klubowego Mundialu! [WIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141102-chelsea-zwyciezca-klubowego-mundialu-wideo</link>
-        <pubDate>Sun, 13 Jul 2025 20:04:00 GMT</pubDate>
-        <description>The Blues niespodziewanie utarli nosa faworyzowanej drużynie Luisa Enrique.</description>
     </item>
     
 </channel>
