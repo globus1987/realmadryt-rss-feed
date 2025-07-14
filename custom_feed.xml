@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 05:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 06:43:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tebas: Real Madryt pracuje z celem osłabienia ligi krajowej</title>
+        <link>https://www.realmadryt.pl/news/141105-tebas-real-madryt-pracuje-z-celem-oslabienia-ligi-krajowej</link>
+        <pubDate>Mon, 14 Jul 2025 08:40:00 GMT</pubDate>
+        <description>Javier Tebas udzielił wywiadu agencji AP. Przedstawiamy wypowiedzi prezesa La Ligi z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Nowa Castilla</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141103-marca-krolewscy-planuja-w-nowym-sezonie-uzyskanie-1-3-miliarda-przychodow</link>
         <pubDate>Sun, 13 Jul 2025 16:35:00 GMT</pubDate>
         <description>Królewscy planują na najbliższy sezon pobicie kolejnego rekordu przychodów, podaje madrycka gazeta.</description>
-    </item>
-    
-    <item>
-        <title>Davide Ancelotti: Z nami Gonzalo na pewno również grałby w jedenastce</title>
-        <link>https://www.realmadryt.pl/news/141101-davide-ancelotti-z-nami-gonzalo-na-pewno-rowniez-gralby-w-jedenastce</link>
-        <pubDate>Sun, 13 Jul 2025 15:34:00 GMT</pubDate>
-        <description>Davide Ancelotti udzielił wywiadu radiu COPE. Przedstawiamy najważniejsze wypowiedzi byłego asystenta trenera w Realu Madryt. Rozmowę nagrano zanim Włoch objął Botafogo, ale tłumaczymy ją z powodu wartości dotyczącej omówienia ostatniego sezonu.</description>
     </item>
     
 </channel>
