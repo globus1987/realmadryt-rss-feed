@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 19:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 20:31:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Jesús Vallejo piłkarzem Albacete</title>
+        <link>https://www.realmadryt.pl/news/141134-oficjalnie-jesus-vallejo-pilkarzem-albacete</link>
+        <pubDate>Mon, 14 Jul 2025 22:13:00 GMT</pubDate>
+        <description>Były defensor Realu zagra w zespole z Segunda División.</description>
+    </item>
     
     <item>
         <title>Moretto: Villarreal pyta o Łunina</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141123-ceballos-jestem-otwarty-na-wszystko</link>
         <pubDate>Mon, 14 Jul 2025 13:33:00 GMT</pubDate>
         <description>Media złapały Hiszpana na lotnisku po przylocie do rodzinnej Sewilli. Przedstawiamy jego wypowiedzi w sprawie przyszłości.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 3. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/141122-terminarz-3-kolejki-la-ligi</link>
-        <pubDate>Mon, 14 Jul 2025 13:31:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 3. kolejki sezonu 2025/2026, w której Real Madryt zagra u siebie z Mallorcą.</description>
     </item>
     
 </channel>
