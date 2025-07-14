@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 17:54:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 18:40:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona rozpoczęła przygotowania do sezonu</title>
+        <link>https://www.realmadryt.pl/news/141131-barcelona-rozpoczela-przygotowania-do-sezonu</link>
+        <pubDate>Mon, 14 Jul 2025 20:40:00 GMT</pubDate>
+        <description>Katalończycy mają już za sobą pierwszy trening przed nowym sezonem. Dla kontrastu, Królewscy dopiero zaczynają wakacje.</description>
+    </item>
+    
+    <item>
+        <title>Carreras: Odchodzę podążając za moim marzeniem</title>
+        <link>https://www.realmadryt.pl/news/141130-carreras-odchodze-podazajac-za-moim-marzeniem</link>
+        <pubDate>Mon, 14 Jul 2025 20:18:00 GMT</pubDate>
+        <description>Álvaro Carreras pożegnał się z Benficą wpisem na social mediach. Przedstawiamy jego tłumaczenie.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Benfica potwierdza cenę transferu Carrerasa</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141121-rekord-swiata-valverde</link>
         <pubDate>Mon, 14 Jul 2025 13:16:00 GMT</pubDate>
         <description>Urugwajczyk to najlepszy przykład szalonego kalendarza piłki nożnej. Zamknięty właśnie sezon zakończył z ponad 6 tysiącami rozegranych minut i ponad 70 zaliczonymi meczami.</description>
-    </item>
-    
-    <item>
-        <title>Modrić jest już w Mediolanie</title>
-        <link>https://www.realmadryt.pl/news/141120-modric-jest-juz-w-mediolanie</link>
-        <pubDate>Mon, 14 Jul 2025 13:12:00 GMT</pubDate>
-        <description>AC Milan zapowiedział podpisanie kontraktu z byłym pomocnikiem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias – Klubowe Mistrzostwa Świata</title>
-        <link>https://www.realmadryt.pl/news/141117-pichichi-zamora-asistencias-klubowe-mistrzostwa-swiata</link>
-        <pubDate>Mon, 14 Jul 2025 12:18:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po finale Klubowych Mistrzostw Świata.</description>
     </item>
     
 </channel>
