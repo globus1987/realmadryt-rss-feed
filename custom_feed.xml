@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 19:44:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 19:57:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Moretto: Villarreal pyta o Łunina</title>
+        <link>https://www.realmadryt.pl/news/141133-moretto-villarreal-pyta-o-lunina</link>
+        <pubDate>Mon, 14 Jul 2025 21:55:00 GMT</pubDate>
+        <description>Kontrakt 26-latka z Realem obowiązuje do czerwca 2030 roku, ale czy ten nie zdecyduje się opuścić klubu szybciej?</description>
+    </item>
     
     <item>
         <title>Barcelona rozpoczęła przygotowania do sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141122-terminarz-3-kolejki-la-ligi</link>
         <pubDate>Mon, 14 Jul 2025 13:31:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 3. kolejki sezonu 2025/2026, w której Real Madryt zagra u siebie z Mallorcą.</description>
-    </item>
-    
-    <item>
-        <title>Rekord świata Valverde</title>
-        <link>https://www.realmadryt.pl/news/141121-rekord-swiata-valverde</link>
-        <pubDate>Mon, 14 Jul 2025 13:16:00 GMT</pubDate>
-        <description>Urugwajczyk to najlepszy przykład szalonego kalendarza piłki nożnej. Zamknięty właśnie sezon zakończył z ponad 6 tysiącami rozegranych minut i ponad 70 zaliczonymi meczami.</description>
     </item>
     
 </channel>
