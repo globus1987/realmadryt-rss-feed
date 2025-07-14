@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 14 Jul 2025 05:32:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 05:56:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowa Castilla</title>
+        <link>https://www.realmadryt.pl/news/141107-nowa-castilla</link>
+        <pubDate>Mon, 14 Jul 2025 07:50:00 GMT</pubDate>
+        <description>Castilla w tym sezonie będzie prowadzona przez Álvaro Arbeloę. Celem jak zwykle będzie awans do Segunda División, ale najważniejszą funkcją rezerw jest dostarczanie zawodników do pierwszego zespołu. Kto ma największy potencjał, żeby zagrać u Xabiego Alonso?</description>
+    </item>
     
     <item>
         <title>Co Gianni Infantino szykuje po zakończeniu pierwszego Klubowego Mundialu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141101-davide-ancelotti-z-nami-gonzalo-na-pewno-rowniez-gralby-w-jedenastce</link>
         <pubDate>Sun, 13 Jul 2025 15:34:00 GMT</pubDate>
         <description>Davide Ancelotti udzielił wywiadu radiu COPE. Przedstawiamy najważniejsze wypowiedzi byłego asystenta trenera w Realu Madryt. Rozmowę nagrano zanim Włoch objął Botafogo, ale tłumaczymy ją z powodu wartości dotyczącej omówienia ostatniego sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Zła passa Asencio</title>
-        <link>https://www.realmadryt.pl/news/141100-zla-passa-asencio</link>
-        <pubDate>Sun, 13 Jul 2025 15:28:00 GMT</pubDate>
-        <description>Raúl Asencio wychodzi poturbowany z Klubowego Mundialu. Obrońca przebojem wdarł się do pierwszej drużyny, ale w ostatnich miesiącach stopniowo obniżał loty. Turniej w USA stanowi zaś kubeł zimnej wody dla niego, Xabiego i klubu. Piłkarz stracił olbrzymią część zaufania, jakie wypracował sobie w poprzedniej kampanii, pisze José Luis Calderón z dziennika MARCA.</description>
     </item>
     
 </channel>
