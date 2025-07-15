@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Jul 2025 07:54:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 08:36:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 lipca</title>
+        <link>https://www.realmadryt.pl/news/141139-kartka-z-kalendarza-15-lipca</link>
+        <pubDate>Tue, 15 Jul 2025 10:20:00 GMT</pubDate>
+        <description>Mistrzostwo świata dla Francji, urodziny byłych piłkarzy i tragiczna śmierć Laurie'ego Cunninghama. Co działo się 15 lipca?</description>
+    </item>
     
     <item>
         <title>AS: Liverpool wycenił Konaté</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141133-moretto-villarreal-pyta-o-lunina</link>
         <pubDate>Mon, 14 Jul 2025 21:55:00 GMT</pubDate>
         <description>Kontrakt 26-latka z Realem obowiązuje do czerwca 2030 roku, ale czy ten nie zdecyduje się opuścić klubu szybciej?</description>
-    </item>
-    
-    <item>
-        <title>Barcelona rozpoczęła przygotowania do sezonu</title>
-        <link>https://www.realmadryt.pl/news/141131-barcelona-rozpoczela-przygotowania-do-sezonu</link>
-        <pubDate>Mon, 14 Jul 2025 20:40:00 GMT</pubDate>
-        <description>Katalończycy mają już za sobą pierwszy trening przed nowym sezonem. Dla kontrastu, Królewscy dopiero zaczynają wakacje.</description>
     </item>
     
 </channel>
