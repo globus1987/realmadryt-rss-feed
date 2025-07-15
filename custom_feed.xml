@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Jul 2025 05:57:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 06:44:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt wita Álvaro Carrerasa [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/141135-real-madryt-wita-alvaro-carrerasa-video</link>
+        <pubDate>Tue, 15 Jul 2025 08:40:00 GMT</pubDate>
+        <description>Real Madryt przywitał Álvaro Carrerasa tradycyjną kompilacją.</description>
+    </item>
     
     <item>
         <title>Franco: Było mi łatwiej, bo Xabi zadzwonił i wszystko przedstawił</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141114-oficjalnie-alvaro-carreras-pilkarzem-realu-madryt</link>
         <pubDate>Mon, 14 Jul 2025 19:29:00 GMT</pubDate>
         <description>Królewscy za pośrednictwem swojej oficjalnej strony internetowej potwierdzili, że hiszpański obrońca został nowym zawodnikiem klubu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Luka Modrić nowym piłkarzem Milanu!</title>
-        <link>https://www.realmadryt.pl/news/141127-oficjalnie-luka-modric-nowym-pilkarzem-milanu</link>
-        <pubDate>Mon, 14 Jul 2025 19:21:00 GMT</pubDate>
-        <description>Rossoneri ogłosili, że zakontraktowali legendę Realu Madryt.</description>
     </item>
     
 </channel>
