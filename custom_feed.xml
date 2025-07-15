@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Jul 2025 07:02:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 07:36:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cisza Camavingi</title>
+        <link>https://www.realmadryt.pl/news/141136-cisza-camavingi</link>
+        <pubDate>Tue, 15 Jul 2025 09:30:00 GMT</pubDate>
+        <description>Po odejściu Luki Modricia i spekulacjach w sprawie przyszłości Daniego Ceballosa trwają analizy dotyczące zestawienia środka pola. MARCA wskazuje na Eduardo Camavingę, który jej zdaniem w piątym sezonie w Madrycie musi zrobić oczekiwany krok do przodu.</description>
+    </item>
     
     <item>
         <title>„Gdyby była taka możliwość, Florentino zdecydowałby się ściągnąć Rodriego”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141130-carreras-odchodze-podazajac-za-moim-marzeniem</link>
         <pubDate>Mon, 14 Jul 2025 20:18:00 GMT</pubDate>
         <description>Álvaro Carreras pożegnał się z Benficą wpisem na social mediach. Przedstawiamy jego tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Benfica potwierdza cenę transferu Carrerasa</title>
-        <link>https://www.realmadryt.pl/news/141128-oficjalnie-benfica-potwierdza-cene-transferu-carrerasa</link>
-        <pubDate>Mon, 14 Jul 2025 19:47:00 GMT</pubDate>
-        <description>Portugalczycy potwierdzili dojście do porozumienia z Realem Madryt w sprawie transferu Hiszpana i tradycyjnie wobec notowania klubu na giełdzie przedstawili szczegóły finansowe tej operacji.</description>
     </item>
     
 </channel>
