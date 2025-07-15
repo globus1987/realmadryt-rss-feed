@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Jul 2025 21:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 22:30:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141163-dzisiejsze-okladki</link>
+        <pubDate>Wed, 16 Jul 2025 00:26:00 GMT</pubDate>
+        <description>Prezentacja Carrerasa i sytuacja Ter Stegena to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Gabriel Castrelo podpisał umowę z Realem Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141149-alvaro-rodriguez-musze-odejsc-z-realu</link>
         <pubDate>Tue, 15 Jul 2025 13:14:00 GMT</pubDate>
         <description>Álvaro Rodríguez udzielił wywiadu dla podcastu Post United, w którym podzielił się planami na najbliższą przyszłość. Przedstawiamy wypowiedzi wychowanka, który wrócił z wypożyczenia z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Carreras będzie grać z numerem 18</title>
-        <link>https://www.realmadryt.pl/news/141146-carreras-bedzie-grac-z-numerem-18</link>
-        <pubDate>Tue, 15 Jul 2025 12:54:00 GMT</pubDate>
-        <description>Hiszpan ma już swoją koszulkę.</description>
     </item>
     
 </channel>
