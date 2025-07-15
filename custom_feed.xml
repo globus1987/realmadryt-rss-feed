@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 15 Jul 2025 20:55:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 21:26:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Gabriel Castrelo podpisał umowę z Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/141162-oficjalnie-gabriel-castrelo-podpisal-umowe-z-realem-madryt</link>
+        <pubDate>Tue, 15 Jul 2025 23:11:00 GMT</pubDate>
+        <description>Gabriel Castrelo jest kolejnym piłkarzem, który zamienił Atlético na Real Madryt. Młody zawodnik musiał się z tego powodu nacierpieć, bo został odsunięty od składu i przez pół roku nie pojawiał się na murawie.</description>
+    </item>
     
     <item>
         <title>Real Madryt walczy o Vasilije Micicia?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141146-carreras-bedzie-grac-z-numerem-18</link>
         <pubDate>Tue, 15 Jul 2025 12:54:00 GMT</pubDate>
         <description>Hiszpan ma już swoją koszulkę.</description>
-    </item>
-    
-    <item>
-        <title>Carreras podpisał umowę z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/141145-carreras-podpisal-umowe-z-realem-madryt</link>
-        <pubDate>Tue, 15 Jul 2025 12:50:00 GMT</pubDate>
-        <description>Hiszpan złożył ostateczny podpis pod kontraktem.</description>
     </item>
     
 </channel>
