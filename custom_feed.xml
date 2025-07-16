@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Jul 2025 21:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 22:27:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141192-dzisiejsze-okladki</link>
+        <pubDate>Thu, 17 Jul 2025 00:07:00 GMT</pubDate>
+        <description>Srebrne Gody Florentino Péreza, operacja Jude'a Bellinghama i nowy kontrakt oraz numer Lamine'a Yamala to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt C rozpoczął przygotowania do sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141178-carreras-zawsze-marzylem-o-powrocie-do-realu-madryt</link>
         <pubDate>Wed, 16 Jul 2025 16:02:00 GMT</pubDate>
         <description>Álvaro Carreras udzielił swojego pierwszego wywiadu dla klubowych mediów po prezentacji w roli nowego zawodnika Realu Madryt. Poniżej przedstawiamy zapis tej rozmowy z hiszpańskim obrońcą.</description>
-    </item>
-    
-    <item>
-        <title>Modrić: Chciałem zostać w Europie, żeby dalej grać w piłkę na wysokim poziomie</title>
-        <link>https://www.realmadryt.pl/news/141177-modric-chcialem-zostac-w-europie-zeby-dalej-grac-w-pilke-na-wysokim-poziomie</link>
-        <pubDate>Wed, 16 Jul 2025 15:33:00 GMT</pubDate>
-        <description>Chorwat udzielił wywiadu telewizji Milanu po podpisaniu kontraktu z tym klubem. Przedstawiamy wypowiedzi dotyczące</description>
     </item>
     
 </channel>
