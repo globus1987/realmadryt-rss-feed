@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Jul 2025 05:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 05:58:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>SER: Drużyna chce pozostania Ceballosa</title>
+        <link>https://www.realmadryt.pl/news/141157-ser-druzyna-chce-pozostania-ceballosa</link>
+        <pubDate>Wed, 16 Jul 2025 07:50:00 GMT</pubDate>
+        <description>Wychowanek Betisu stoi przed dylematem.</description>
+    </item>
     
     <item>
         <title>OkDiario: „Talizman” Barcelony zostanie nowym szefem Komitetu Technicznego Arbitrów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141152-carreras-po-raz-pierwszy-pokazal-sie-w-koszulce-realu-madryt</link>
         <pubDate>Tue, 15 Jul 2025 15:55:00 GMT</pubDate>
         <description>Hiszpański zawodnik pojawił się na boisku w Valdebebas, aby oficjalnie zapozować do zdjęć w koszulce Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Carreras: Oddam wszystko i zrobię wszystko dla tej koszulki</title>
-        <link>https://www.realmadryt.pl/news/141151-carreras-oddam-wszystko-i-zrobie-wszystko-dla-tej-koszulki</link>
-        <pubDate>Tue, 15 Jul 2025 15:50:00 GMT</pubDate>
-        <description>Álvaro Carreras po swojej prezentacji pojawił się na konferencji prasowej w Valdebebas. Przedstawiamy pełny zapis z tego spotkania zawodnika z dziennikarzami.</description>
     </item>
     
 </channel>
