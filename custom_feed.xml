@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 16 Jul 2025 02:23:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 03:46:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Bellingham dzisiaj przejdzie operację barku</title>
+        <link>https://www.realmadryt.pl/news/141158-media-bellingham-dzisiaj-przejdzie-operacje-barku</link>
+        <pubDate>Wed, 16 Jul 2025 05:30:00 GMT</pubDate>
+        <description>Na social mediach spekulowano, że zabieg odbył się wczoraj, ale najważniejsze madryckie dzienniki informują, że dojdzie do niego dzisiaj.</description>
+    </item>
     
     <item>
         <title>AS: Liverpool wchodzi do walki o Rodrygo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141150-florentino-dzis-przychodzi-jeden-z-naszych</link>
         <pubDate>Tue, 15 Jul 2025 15:02:00 GMT</pubDate>
         <description>Florentino Pérez wygłosił tradycyjną przemową podczas prezentacji Álvaro Carrerasa jako nowego zawodnika Realu Madryt. Przedstawiamy pełne tłumaczenie słów prezesa Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Álvaro Carreras zaprezentowany jako piłkarz Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/141148-alvaro-carreras-zaprezentowany-jako-pilkarz-realu-madryt</link>
-        <pubDate>Tue, 15 Jul 2025 13:18:00 GMT</pubDate>
-        <description>Hiszpański piłkarz pojawił się dzisiaj w Valdebebas, gdzie w towarzystwie prezesa, członków zarządu i swojej rodziny został przedstawiony jako nowy zawodnik Realu Madryt.</description>
     </item>
     
 </channel>
