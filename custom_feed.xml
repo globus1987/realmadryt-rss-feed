@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Jul 2025 22:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 22:49:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141218-dzisiejsze-okladki</link>
+        <pubDate>Fri, 18 Jul 2025 00:33:00 GMT</pubDate>
+        <description>Mecz Hiszpanek i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Tebas: Real Madryt ma wystarczająco dużo dni na odpoczynek</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141203-florentino-lucas-vazquez-jest-wzorem-na-ktorym-powinni-sie-opierac-wszyscy-wychowankowie-tego-klubu</link>
         <pubDate>Thu, 17 Jul 2025 13:55:00 GMT</pubDate>
         <description>Prezes Realu Madryt osobiście pożegnał Lucasa Vázqueza w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Lucas Vázquez pożegnał się z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/141202-lucas-vazquez-pozegnal-sie-z-realem-madryt</link>
-        <pubDate>Thu, 17 Jul 2025 13:23:00 GMT</pubDate>
-        <description>Wychowanek odszedł z klubu, który z tej okazji zorganizował specjalną uroczystość.</description>
     </item>
     
 </channel>
