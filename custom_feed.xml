@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 17 Jul 2025 21:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jul 2025 21:57:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tebas: Real Madryt ma wystarczająco dużo dni na odpoczynek</title>
+        <link>https://www.realmadryt.pl/news/141216-tebas-real-madryt-ma-wystarczajaco-duzo-dni-na-odpoczynek</link>
+        <pubDate>Thu, 17 Jul 2025 23:45:00 GMT</pubDate>
+        <description>Javier Tebas, prezes La Ligi, przebywa obecnie w Londynie, gdzie podpisał dziś umowę z Arabią Saudyjską mającą na celu poprawę transmisji telewizyjnych saudyjskiej ligi piłkarskiej. Podczas pobytu został zapytany o różne kwestie i nie zawahał się wyrazić swojej opinii, jasno prezentując swoje stanowisko.</description>
+    </item>
     
     <item>
         <title>MARCA: Ouazane nie trafi do Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141202-lucas-vazquez-pozegnal-sie-z-realem-madryt</link>
         <pubDate>Thu, 17 Jul 2025 13:23:00 GMT</pubDate>
         <description>Wychowanek odszedł z klubu, który z tej okazji zorganizował specjalną uroczystość.</description>
-    </item>
-    
-    <item>
-        <title>Pożegnanie Lucasa Vázqueza z Realem Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/141201-pozegnanie-lucasa-vazqueza-z-realem-madryt-na-zywo</link>
-        <pubDate>Thu, 17 Jul 2025 12:55:00 GMT</pubDate>
-        <description>Wychowanek odchodzi z klubu, który z tej okazji zorganizował specjalną uroczystość.</description>
     </item>
     
 </channel>
