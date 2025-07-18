@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Jul 2025 22:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 23:26:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141232-dzisiejsze-okladki</link>
+        <pubDate>Sat, 19 Jul 2025 01:12:00 GMT</pubDate>
+        <description>Wygrana Hiszpanek i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barça sprzymierzeńcem Realu w sprawie Rodrygo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141221-ewentualny-powrot-ceballosa-dzieli-srodowisko-betisu</link>
         <pubDate>Fri, 18 Jul 2025 08:43:00 GMT</pubDate>
         <description>Pojawiają się zwolennicy i przeciwnicy transferu Ceballosa. Verdiblancos mają wątpliwości.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Lonnie Walker IV oraz Daniel Theis na celowniku Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141215-marca-lonnie-walker-iv-oraz-daniel-theis-na-celowniku-realu-madryt</link>
-        <pubDate>Fri, 18 Jul 2025 08:18:00 GMT</pubDate>
-        <description>Koszykarska sekcja Realu Madryt przechodzi tego lata wielką przebudowę. Jeszcze się ona nie zakończyła, a z Królewskimi łączy się kolejnych zawodników.</description>
     </item>
     
 </channel>
