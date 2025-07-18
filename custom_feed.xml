@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 18 Jul 2025 10:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jul 2025 11:25:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Radio MARCA: Málaga wstrzymała rozmowy w sprawie Jeremy'ego de Leóna</title>
+        <link>https://www.realmadryt.pl/news/141225-radio-marca-malaga-wstrzymala-rozmowy-w-sprawie-jeremyego-de-leona</link>
+        <pubDate>Fri, 18 Jul 2025 13:17:00 GMT</pubDate>
+        <description>Chodzi o dwa poważne urazy barku, których doznał Portorykańczyk.</description>
+    </item>
     
     <item>
         <title>Tuttosport: Juventus myśli o Lucasie Vázquezie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141218-dzisiejsze-okladki</link>
         <pubDate>Fri, 18 Jul 2025 00:33:00 GMT</pubDate>
         <description>Mecz Hiszpanek i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Real Madryt ma wystarczająco dużo dni na odpoczynek</title>
-        <link>https://www.realmadryt.pl/news/141216-tebas-real-madryt-ma-wystarczajaco-duzo-dni-na-odpoczynek</link>
-        <pubDate>Thu, 17 Jul 2025 23:45:00 GMT</pubDate>
-        <description>Javier Tebas, prezes La Ligi, przebywa obecnie w Londynie, gdzie podpisał dziś umowę z Arabią Saudyjską mającą na celu poprawę transmisji telewizyjnych saudyjskiej ligi piłkarskiej. Podczas pobytu został zapytany o różne kwestie i nie zawahał się wyrazić swojej opinii, jasno prezentując swoje stanowisko.</description>
     </item>
     
 </channel>
