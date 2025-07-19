@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Jul 2025 05:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 06:37:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Garuba: Jestem wdzięczny Mateo za wszystko</title>
+        <link>https://www.realmadryt.pl/news/141231-garuba-jestem-wdzieczny-mateo-za-wszystko</link>
+        <pubDate>Sat, 19 Jul 2025 08:10:00 GMT</pubDate>
+        <description>Usman Garuba udzielił wywiadu dziennikowi AS. Mówił w nim między innymi o różnicą między NBA a Europą.</description>
+    </item>
     
     <item>
         <title>Cztery decyzje do podjęcia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141220-real-otwiera-drzwi-do-odejsc</link>
         <pubDate>Fri, 18 Jul 2025 10:00:00 GMT</pubDate>
         <description>Królewscy muszą odciążyć szatnię, aby móc domknąć kadrę Xabiego Alonso nowymi wzmocnieniami.</description>
-    </item>
-    
-    <item>
-        <title>AS: Álvaro bliski przenosin do Elche</title>
-        <link>https://www.realmadryt.pl/news/141222-as-alvaro-bliski-przenosin-do-elche</link>
-        <pubDate>Fri, 18 Jul 2025 09:54:00 GMT</pubDate>
-        <description>Zdaniem Asa Álvaro Rodríguez jest bliski podpisania umowy z nowym pracodawcą. Napastnik ma trafić na zasadzie wypożyczenia do Elche.</description>
     </item>
     
 </channel>
