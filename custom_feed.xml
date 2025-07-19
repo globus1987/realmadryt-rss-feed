@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Jul 2025 11:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 12:52:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Éder Militão wziął ślub</title>
+        <link>https://www.realmadryt.pl/news/141243-eder-militao-wzial-slub</link>
+        <pubDate>Sat, 19 Jul 2025 14:28:00 GMT</pubDate>
+        <description>Obrońca Realu Madryt zmienił stan cywilny. Wczoraj w Brazylii odbyła się ceremonia weselna, na której nie zabrakło innych zawodników Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Kolej na nowych kapitanów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141233-cztery-decyzje-do-podjecia</link>
         <pubDate>Sat, 19 Jul 2025 07:19:00 GMT</pubDate>
         <description>Real Madryt musi rozstrzygnąć, czy przedłuży współpracę z Rüdigerem, Alabą, Carvajalem i Courtoisem, których kontrakty wygasają w 2026 roku.</description>
-    </item>
-    
-    <item>
-        <title>Manuel Ángel: Trener chce, żebyśmy dawali z siebie wszystko</title>
-        <link>https://www.realmadryt.pl/news/141230-manuel-angel-trener-chce-zebysmy-dawali-z-siebie-wszystko</link>
-        <pubDate>Sat, 19 Jul 2025 05:30:00 GMT</pubDate>
-        <description>Manuel Ángel udzielił wywiadu Real Madrid TV.</description>
     </item>
     
 </channel>
