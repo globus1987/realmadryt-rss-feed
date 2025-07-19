@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Jul 2025 11:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 11:41:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolej na nowych kapitanów</title>
+        <link>https://www.realmadryt.pl/news/141239-kolej-na-nowych-kapitanow</link>
+        <pubDate>Sat, 19 Jul 2025 13:38:00 GMT</pubDate>
+        <description>Funkcję pierwszego kapitana przejmie Dani Carvajal. Za nim w kolejce do zakładania opaski będą Valverde, Courtois i Vinícius.</description>
+    </item>
     
     <item>
         <title>Tchouaméni kluczowy dla Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141230-manuel-angel-trener-chce-zebysmy-dawali-z-siebie-wszystko</link>
         <pubDate>Sat, 19 Jul 2025 05:30:00 GMT</pubDate>
         <description>Manuel Ángel udzielił wywiadu Real Madrid TV.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141232-dzisiejsze-okladki</link>
-        <pubDate>Sat, 19 Jul 2025 01:12:00 GMT</pubDate>
-        <description>Wygrana Hiszpanek i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
