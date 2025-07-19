@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Jul 2025 10:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 10:49:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni kluczowy dla Xabiego</title>
+        <link>https://www.realmadryt.pl/news/141238-tchouameni-kluczowy-dla-xabiego</link>
+        <pubDate>Sat, 19 Jul 2025 12:48:00 GMT</pubDate>
+        <description>Wszystko wskazuje na to, że Aurélien Tchouaméni będzie kluczowym zawodnikiem w drużynie Xabiego Alonso. Francuz może grać zarówno jako pivot w ustawieniu z czterema obrońcami, jak i wyprowadzający piłkę stoper w ustawieniu z trójką z tyłu.</description>
+    </item>
     
     <item>
         <title>Di Marzio: Jacobo Ramón wybrał Como</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141232-dzisiejsze-okladki</link>
         <pubDate>Sat, 19 Jul 2025 01:12:00 GMT</pubDate>
         <description>Wygrana Hiszpanek i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Barça sprzymierzeńcem Realu w sprawie Rodrygo</title>
-        <link>https://www.realmadryt.pl/news/141229-barca-sprzymierzencem-realu-w-sprawie-rodrygo</link>
-        <pubDate>Fri, 18 Jul 2025 20:03:00 GMT</pubDate>
-        <description>Podczas gdy Królewscy wysłuchują ofert za Brazylijczyka, którym interesuje się Liverpool, Barcelona wciąż nie rezygnuje z walki o Luisa Díaza, wycenianego przez The Reds na 100 milionów euro.</description>
     </item>
     
 </channel>
