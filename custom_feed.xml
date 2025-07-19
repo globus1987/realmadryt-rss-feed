@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Jul 2025 02:19:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 03:40:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Manuel Ángel: Trener chce, żebyśmy dawali z siebie wszystko</title>
+        <link>https://www.realmadryt.pl/news/141230-manuel-angel-trener-chce-zebysmy-dawali-z-siebie-wszystko</link>
+        <pubDate>Sat, 19 Jul 2025 05:30:00 GMT</pubDate>
+        <description>Manuel Ángel udzielił wywiadu Real Madrid TV.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141217-kartka-z-kalendarza-18-lipca</link>
         <pubDate>Fri, 18 Jul 2025 09:09:00 GMT</pubDate>
         <description>Prezentacja zespołu i nowych strojów, urodziny byłych zawodników, nieoficjalny debiut Rafy Beníteza i prezentacja wypożyczonego obrońcy. Co działo się 18 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Ewentualny powrót Ceballosa dzieli środowisko Betisu</title>
-        <link>https://www.realmadryt.pl/news/141221-ewentualny-powrot-ceballosa-dzieli-srodowisko-betisu</link>
-        <pubDate>Fri, 18 Jul 2025 08:43:00 GMT</pubDate>
-        <description>Pojawiają się zwolennicy i przeciwnicy transferu Ceballosa. Verdiblancos mają wątpliwości.</description>
     </item>
     
 </channel>
