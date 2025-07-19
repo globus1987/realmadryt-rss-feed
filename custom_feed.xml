@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 19 Jul 2025 23:28:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 23:47:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141251-dzisiejsze-okladki</link>
+        <pubDate>Sun, 20 Jul 2025 01:35:00 GMT</pubDate>
+        <description>Kontrakty piłkarzy Realu Madryt i transfer Rashforda to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>De Lucas: Xavier Rathan-Mayes blisko Bayernu Monachium</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141234-od-di-stefano-do-mastantuono</link>
         <pubDate>Sat, 19 Jul 2025 11:30:00 GMT</pubDate>
         <description>23 września 1953 roku Di Stéfano po raz pierwszy zagrał w bieli. Prawie dokładnie 72 lata później dołączy Mastantuono. Kolejny ruch w historii transferów między tymi dwoma klubami.</description>
-    </item>
-    
-    <item>
-        <title>BasketNews: Chuma Okeke blisko Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141241-basketnews-chuma-okeke-blisko-realu-madryt</link>
-        <pubDate>Sat, 19 Jul 2025 10:59:00 GMT</pubDate>
-        <description>Chuma Okeke może być czwartym wzmocnieniem tego lata dla sekcji koszykarskiej Realu Madryt. Amerykanin do tej pory nigdy nie grał w Europie, ale ma na koncie ponad 200 występów w NBA.</description>
     </item>
     
 </channel>
