@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Jul 2025 19:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 19:53:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Marvel trenuje z Leganés</title>
+        <link>https://www.realmadryt.pl/news/141263-as-marvel-trenuje-z-leganes</link>
+        <pubDate>Sun, 20 Jul 2025 21:49:00 GMT</pubDate>
+        <description>22-letni stoper ma podpisać z Los Pepineros trzyletni kontrakt.</description>
+    </item>
     
     <item>
         <title>Moretto: Real jeszcze nie zdecydował w sprawie Ceballosa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141251-dzisiejsze-okladki</link>
         <pubDate>Sun, 20 Jul 2025 01:35:00 GMT</pubDate>
         <description>Kontrakty piłkarzy Realu Madryt i transfer Rashforda to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>De Lucas: Xavier Rathan-Mayes blisko Bayernu Monachium</title>
-        <link>https://www.realmadryt.pl/news/141249-de-lucas-xavier-rathan-mayes-blisko-bayernu-monachium</link>
-        <pubDate>Sat, 19 Jul 2025 23:22:00 GMT</pubDate>
-        <description>Przygoda Xaviera Rathana-Mayesa w Realu Madryt dobiega końca. Chema de Lucas informuje, że jego kolejnym klubem ma być Bayern Monachium.</description>
     </item>
     
 </channel>
