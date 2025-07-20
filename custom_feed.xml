@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Jul 2025 21:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 22:27:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141266-dzisiejsze-okladki</link>
+        <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+        <description>Wygrana hiszpańskiego motocyklisty oraz letnie okienko transferowe w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Marvel trenuje z Leganés</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141250-kartka-z-kalendarza-20-lipca</link>
         <pubDate>Sun, 20 Jul 2025 08:00:00 GMT</pubDate>
         <description>Pierwszy mecz drugiej ery Florentino Péreza, w którym debiutowali Cristiano Ronaldo czy Karim Benzema, a także prezentacje dwóch zawodników. Co działo się 20 lipca?</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141251-dzisiejsze-okladki</link>
-        <pubDate>Sun, 20 Jul 2025 01:35:00 GMT</pubDate>
-        <description>Kontrakty piłkarzy Realu Madryt i transfer Rashforda to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
