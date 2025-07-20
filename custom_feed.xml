@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 20 Jul 2025 11:54:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jul 2025 12:53:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Szefowie Deportivo La Coruña spotkali się z Lucasem Vázquezem</title>
+        <link>https://www.realmadryt.pl/news/141259-as-szefowie-deportivo-la-coruna-spotkali-sie-z-lucasem-vazquezem</link>
+        <pubDate>Sun, 20 Jul 2025 14:18:00 GMT</pubDate>
+        <description>Zawodnik, który niedawno opuścił Real Madryt, w sobotę zjadł kolację w A Coruñi z Juanem Carlosem Escotetem, Massimo Benassim i Fernando Soriano.</description>
+    </item>
     
     <item>
         <title>MARCA: Od niedostatku do nadmiaru, czyli nowy „problem” w obronie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141247-uol-barcelona-mysli-o-sprowadzeniu-rodrygo</link>
         <pubDate>Sat, 19 Jul 2025 18:49:00 GMT</pubDate>
         <description>W Brazylii twierdzą, że Barcelona uważnie przygląda się sytuacji Rodrygo i jest zainteresowana pozyskaniem napastnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarze Realu wrócą do pracy 4 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/141246-pilkarze-realu-wroca-do-pracy-4-sierpnia</link>
-        <pubDate>Sat, 19 Jul 2025 17:29:00 GMT</pubDate>
-        <description>Jeśli pierwsza kolejka nie zostanie przełożona, Xabi Alonso będzie miał zaledwie 15-dniową pretemporadę. To oznacza, że zawodnicy będą mieli ponad trzy tygodnie wakacji.</description>
     </item>
     
 </channel>
