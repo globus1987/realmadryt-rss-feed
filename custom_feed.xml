@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Jul 2025 22:27:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 22:48:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141286-dzisiejsze-okladki</link>
+        <pubDate>Tue, 22 Jul 2025 00:40:00 GMT</pubDate>
+        <description>Piłka kobieca i plany Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Nowy szef AI w Komitecie Arbitrów: Więcej niż klub... Klub i 2 sędziów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141274-media-como-z-porozumieniem-w-sprawie-transferu-jacobo</link>
         <pubDate>Mon, 21 Jul 2025 12:56:00 GMT</pubDate>
         <description>Włosi informują, że domknięto operację transferową dotyczącą canterano Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Tamto zdjęcie bardzo mi pomogło, ale nie byłem kibicem Realu</title>
-        <link>https://www.realmadryt.pl/news/141273-kroos-tamto-zdjecie-bardzo-mi-pomoglo-ale-nie-bylem-kibicem-realu</link>
-        <pubDate>Mon, 21 Jul 2025 12:30:00 GMT</pubDate>
-        <description>Były piłkarz Królewskich został wyróżniony przez władze swojego rodzinnego regionu i w trakcie przemówienia opowiedział o zdarzeniu związanym z Realem Madryt.</description>
     </item>
     
 </channel>
