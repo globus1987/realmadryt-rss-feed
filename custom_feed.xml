@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Jul 2025 09:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 10:36:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kroos: Tamto zdjęcie bardzo mi pomogło, ale nie byłem kibicem Realu</title>
+        <link>https://www.realmadryt.pl/news/141273-kroos-tamto-zdjecie-bardzo-mi-pomoglo-ale-nie-bylem-kibicem-realu</link>
+        <pubDate>Mon, 21 Jul 2025 12:30:00 GMT</pubDate>
+        <description>Były piłkarz Królewskich został wyróżniony przez władze swojego rodzinnego regionu i w trakcie przemówienia opowiedział o zdarzeniu związanym z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Dylematy Brahima</title>
+        <link>https://www.realmadryt.pl/news/141270-dylematy-brahima</link>
+        <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+        <description>Brahim Díaz wraca do sytuacji sprzed dwóch lat i ponownie na nowo będzie musiał przekonać do siebie trenera. Sezon 2024/25 nie należał do udanych w jego wykonaniu, a Klubowy Mundial tylko potwierdził, że daleko mu do roli pierwszoplanowego zawodnika.</description>
+    </item>
     
     <item>
         <title>Pełny komunikat finansowy Realu Madryt za sezon 2024/25</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141266-dzisiejsze-okladki</link>
         <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
         <description>Wygrana hiszpańskiego motocyklisty oraz letnie okienko transferowe w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>AS: Marvel trenuje z Leganés</title>
-        <link>https://www.realmadryt.pl/news/141263-as-marvel-trenuje-z-leganes</link>
-        <pubDate>Sun, 20 Jul 2025 21:49:00 GMT</pubDate>
-        <description>22-letni stoper ma podpisać z Los Pepineros trzyletni kontrakt.</description>
-    </item>
-    
-    <item>
-        <title>Moretto: Real jeszcze nie zdecydował w sprawie Ceballosa</title>
-        <link>https://www.realmadryt.pl/news/141261-moretto-real-jeszcze-nie-zdecydowal-w-sprawie-ceballosa</link>
-        <pubDate>Sun, 20 Jul 2025 21:00:00 GMT</pubDate>
-        <description>Matteo Moretto to jeden z włoskich ekspertów na rynku transferowym. Tym razem we współpracy z Marcą podzielił się informacjami dotyczącymi Daniego Ceballosa.</description>
     </item>
     
 </channel>
