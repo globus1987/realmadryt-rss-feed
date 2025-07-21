@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 21 Jul 2025 04:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jul 2025 05:34:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Endrick!</title>
+        <link>https://www.realmadryt.pl/news/141256-wszystkiego-najlepszego-endrick</link>
+        <pubDate>Mon, 21 Jul 2025 07:25:00 GMT</pubDate>
+        <description>Dziś swoje 19. urodziny obchodzi Endrick. Życzymy mu z tej okazji zdrowia, większej liczby minut, dalszego rozwoju i gry na miarę potencjału.</description>
+    </item>
     
     <item>
         <title>Co Xabi zrobi z Camavingą?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141253-l-equipe-liverpool-sie-nie-poddaje-w-sprawie-konate</link>
         <pubDate>Sun, 20 Jul 2025 10:58:00 GMT</pubDate>
         <description>Francuski dziennik analizuje sytuację Ibrahimy Konaté, którym zainteresowany jest Real Madryt. Co z przyszłością obrońcy?</description>
-    </item>
-    
-    <item>
-        <title>AS: Powrót do rozmów w sprawie kontraktu Viníciusa w przyszłym roku</title>
-        <link>https://www.realmadryt.pl/news/141252-as-powrot-do-rozmow-w-sprawie-kontraktu-viniciusa-w-przyszlym-roku</link>
-        <pubDate>Sun, 20 Jul 2025 08:53:00 GMT</pubDate>
-        <description>Negocjacje pozostają w zawieszeniu od lutego, gdy klub dowiedział się, ile jego napastnik chciałby zarabiać.</description>
     </item>
     
 </channel>
