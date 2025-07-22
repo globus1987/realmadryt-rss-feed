@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Jul 2025 09:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 10:33:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Marvel zawodnikiem Leganés</title>
+        <link>https://www.realmadryt.pl/news/141297-oficjalnie-marvel-zawodnikiem-leganes</link>
+        <pubDate>Tue, 22 Jul 2025 12:26:00 GMT</pubDate>
+        <description>Marvel znalazł sobie nowy klub. Związał się trzyletnią umową z Leganés, więc dalej będzie mógł występować na poziomie trzeciej ligi.</description>
+    </item>
     
     <item>
         <title>Haker-„madridista” z Komitetu Arbitrów: Jestem za Realem Atlético Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141287-marca-real-musi-zdecydowac-kto-przejmie-10-po-modriciu</link>
         <pubDate>Tue, 22 Jul 2025 00:58:00 GMT</pubDate>
         <description>Dziennik twierdzi, że ta decyzja jeszcze nie zapadła. Na pierwszy rzut oka jest dwóch faworytów do przejęcia numeru po Luce Modriciu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141286-dzisiejsze-okladki</link>
-        <pubDate>Tue, 22 Jul 2025 00:40:00 GMT</pubDate>
-        <description>Piłka kobieca i plany Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
