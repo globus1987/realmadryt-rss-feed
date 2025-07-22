@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 22 Jul 2025 22:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 22:48:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141314-dzisiejsze-okladki</link>
+        <pubDate>Wed, 23 Jul 2025 00:28:00 GMT</pubDate>
+        <description>Półfinał EURO Hiszpanek to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Edgar Pujol zawodnikiem Racingu Ferrol</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141301-iturralde-realowi-dali-na-tacy-glowy-wszystkich-z-komitetu-arbitrow-poza-zona-ich-delegata</link>
         <pubDate>Tue, 22 Jul 2025 14:49:00 GMT</pubDate>
         <description>Iturralde González, który jest liczbowo najgorszym sędzią dla Królewskich w historii ich występów w Hiszpanii (bilans z nim to 30 wygranych Realu, 5 remisów i 14 porażek). Obecnie jest ekspertem sędziowskim w radiu SER i kolejny raz skrytykował zmiany w Komitecie Arbitrów, sugerując wspieranie Realu Madryt. Przedstawiamy jego najnowsze wypowiedzi w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>AS: Saliba wciąż na radarze Królewskich</title>
-        <link>https://www.realmadryt.pl/news/141300-as-saliba-wciaz-na-radarze-krolewskich</link>
-        <pubDate>Tue, 22 Jul 2025 14:09:00 GMT</pubDate>
-        <description>William Saliba w dalszym ciągu znajduje się na radarze Realu Madryt w kontekście wzmocnienia defensywy. Klub jest zdania, że wokół obecnych stoperów w zespole pojawia się zbyt dużo wątpliwości.</description>
     </item>
     
 </channel>
