@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Jul 2025 13:49:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 14:29:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen spotkał się z Castillą i Arbeloą</title>
+        <link>https://www.realmadryt.pl/news/141322-huijsen-spotkal-sie-z-castilla-i-arbeloa</link>
+        <pubDate>Wed, 23 Jul 2025 16:07:00 GMT</pubDate>
+        <description>Stoper już rozpoczął przygotowania do przygotowań drużyny. W Andaluzji spotkał Castillę na czele z jej trenerem.</description>
+    </item>
     
     <item>
         <title>AS: Dwie drogi do pozyskania Rodriego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141311-oficjalnie-edgar-pujol-zawodnikiem-racingu-ferrol</link>
         <pubDate>Tue, 22 Jul 2025 22:13:00 GMT</pubDate>
         <description>Edgar Pujol dołączył do Racingu Ferrol po sześciu latach spędzonych w szkółce Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Atlético pozyskuje Marca Pubilla</title>
-        <link>https://www.realmadryt.pl/news/141310-oficjalnie-atletico-pozyskuje-marca-pubilla</link>
-        <pubDate>Tue, 22 Jul 2025 21:18:00 GMT</pubDate>
-        <description>Los Rojiblancos oficjalnie potwierdzili transfer Marca Pubilla z Almeríi, który ma podpisać kontrakt po przejściu badań medycznych.</description>
     </item>
     
 </channel>
