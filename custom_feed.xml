@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 23 Jul 2025 22:27:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jul 2025 22:48:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141340-dzisiejsze-okladki</link>
+        <pubDate>Thu, 24 Jul 2025 00:41:00 GMT</pubDate>
+        <description>Awans Hiszpanek do finału EURO to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé: 10</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141324-hofmann-gdyby-xabi-alonso-tu-zostal-zapewne-myslalbym-o-odejsciu</link>
         <pubDate>Wed, 23 Jul 2025 17:21:00 GMT</pubDate>
         <description>Były podopieczny nowego trenera Realu Madryt kolejny raz skrytykował jego podejście do zarządzania piłkarzami.</description>
-    </item>
-    
-    <item>
-        <title>Sneijder: Xabi jest bardzo inteligentny, poradzi sobie</title>
-        <link>https://www.realmadryt.pl/news/141323-sneijder-xabi-jest-bardzo-inteligentny-poradzi-sobie</link>
-        <pubDate>Wed, 23 Jul 2025 16:46:00 GMT</pubDate>
-        <description>Wesley Sneijder udzielił wywiadu dla arabskiego portalu Winwin-allsports, w którym mówił m.in. o nowym Realu Madryt Xabiego oraz swoim niepowodzeniu w stolicy Hiszpanii. Przedstawiamy wypowiedzi byłego gracza Królewskich.</description>
     </item>
     
 </channel>
