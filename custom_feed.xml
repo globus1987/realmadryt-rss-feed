@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 24 Jul 2025 22:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jul 2025 22:49:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141357-dzisiejsze-okladki</link>
+        <pubDate>Fri, 25 Jul 2025 00:32:00 GMT</pubDate>
+        <description>Informacje z Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>BasketNews: Lonnie Walker IV dołączy do Maccabi Tel Awiw</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141343-media-chema-przechodzi-do-stuttgartu</link>
         <pubDate>Thu, 24 Jul 2025 11:54:00 GMT</pubDate>
         <description>Królewscy otrzymają 3 miliony euro i będą mieli opcję odkupu zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>Footy Headlines: Real przygotowuje kolejną kolekcję z Marvelem</title>
-        <link>https://www.realmadryt.pl/news/141337-footy-headlines-real-przygotowuje-kolejna-kolekcje-z-marvelem</link>
-        <pubDate>Thu, 24 Jul 2025 11:10:00 GMT</pubDate>
-        <description>Królewscy wypuszczą kolejną kolekcję ubrań z motywem Marvela.</description>
     </item>
     
 </channel>
