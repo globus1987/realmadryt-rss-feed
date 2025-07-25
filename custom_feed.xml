@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Jul 2025 07:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 07:54:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 lipca</title>
+        <link>https://www.realmadryt.pl/news/141360-kartka-z-kalendarza-25-lipca</link>
+        <pubDate>Fri, 25 Jul 2025 09:45:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza i trenera, rocznica prezentacji wybitnego włoskiego obrońcy i porażka w meczu towarzyskim w Glasgow. Co działo się 25 lipca?</description>
+    </item>
     
     <item>
         <title>La Fábrica znów daje miliony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141351-figo-nie-balem-sie-o-swoja-integralnosc-cielesna</link>
         <pubDate>Thu, 24 Jul 2025 21:21:00 GMT</pubDate>
         <description>Luís Figo w 25. rocznicę swojej prezentacji w roli zawodnika Realu Madryt wrócił wspomnieniami do wydarzeń sprzed lat.</description>
-    </item>
-    
-    <item>
-        <title>AS: Fran García zostaje, Ferland Mendy jest na sprzedaż</title>
-        <link>https://www.realmadryt.pl/news/141350-as-fran-garcia-zostaje-ferland-mendy-jest-na-sprzedaz</link>
-        <pubDate>Thu, 24 Jul 2025 20:56:00 GMT</pubDate>
-        <description>Klub ma odrzucać oferty za Hiszpana, a Xabi Alonso chce go w swojej drużynie. Wystawiony na sprzedaż ma być za to Ferland Mendy.</description>
     </item>
     
 </channel>
