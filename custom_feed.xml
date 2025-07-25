@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 25 Jul 2025 15:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jul 2025 16:35:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niepewna przyszłość Endricka</title>
+        <link>https://www.realmadryt.pl/news/141370-niepewna-przyszlosc-endricka</link>
+        <pubDate>Fri, 25 Jul 2025 18:12:00 GMT</pubDate>
+        <description>Endrick mimo nieudanej końcówki sezonu 2024/25 chce zostać w Realu Madryt. Obecność Gonzalo Garcíi wzbudza jednak wątpliwości co do roli Brazylijczyka w pierwszym zespole.</description>
+    </item>
     
     <item>
         <title>W sobotę rano pierwszy sparing Castilli pod wodzą Arbeloi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141359-oficjalnie-betis-nie-zagra-w-lidze-endesa</link>
         <pubDate>Fri, 25 Jul 2025 08:51:00 GMT</pubDate>
         <description>Z powodu braku spełnienia wymogów formalnych Betis nie został dopuszczony do rozgrywek Ligi Endesa w sezonie 2025/26. Na jego miejsce wskoczyła Granada, która uchroniła się dzięki temu przed spadkiem.</description>
-    </item>
-    
-    <item>
-        <title>Baba prawdopodobnie odejdzie z Realu Madryt C</title>
-        <link>https://www.realmadryt.pl/news/141358-baba-prawdopodobnie-odejdzie-z-realu-madryt-c</link>
-        <pubDate>Fri, 25 Jul 2025 08:31:00 GMT</pubDate>
-        <description>20-letniemu zawodnikowi pozostał rok kontraktu i rozważa on oferty, które otrzymał.</description>
     </item>
     
 </channel>
