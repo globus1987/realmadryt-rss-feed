@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 26 Jul 2025 11:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 11:55:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé akceptuje wyzwanie „dziesiątki”</title>
+        <link>https://www.realmadryt.pl/news/141391-mbappe-akceptuje-wyzwanie-dziesiatki</link>
+        <pubDate>Sat, 26 Jul 2025 13:53:00 GMT</pubDate>
+        <description>Kylian Mbappé w kolejnym sezonie będzie biegał z numerem 10 na koszulce. Choć 9 na plecach w niczym mu nie wadziła, to jednak nigdy nie uważał się za typowego środkowego napastnika, którym zazwyczaj przypisuje się ten numer. Wręcz przeciwnie, z biegiem czasu stawał się zawodnikiem biorącym coraz aktywniejszy udział w grze, czy to z 7 w PSG, czy też z 10 w reprezentacji, pisze Pablo Polo z dziennika MARCA.</description>
+    </item>
     
     <item>
         <title>MARCA: Mario Martín zostanie graczem Getafe</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141382-alaba-chce-jeszcze-o-sobie-przypomniec</link>
         <pubDate>Sat, 26 Jul 2025 09:28:00 GMT</pubDate>
         <description>Austriak chce wyleczyć kontuzję i rozpocząć pretemporadę 4 sierpnia.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 26 lipca</title>
-        <link>https://www.realmadryt.pl/news/141377-kartka-z-kalendarza-26-lipca</link>
-        <pubDate>Sat, 26 Jul 2025 09:10:00 GMT</pubDate>
-        <description>Pierwszy mecz legendarnych napastników na Santiago Bernabéu i pożegnanie jednego z największych zawodników Realu w historii. Co działo się 26 lipca?</description>
     </item>
     
 </channel>
