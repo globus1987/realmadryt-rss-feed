@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Jul 2025 21:56:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 22:28:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sędzia finału EURO nakazała powtórkę karnego po podwójnym dotknięciu Angielki</title>
+        <link>https://www.realmadryt.pl/news/141414-sedzia-finalu-euro-nakazala-powtorke-karnego-po-podwojnym-dotknieciu-angielki</link>
+        <pubDate>Mon, 28 Jul 2025 00:20:00 GMT</pubDate>
+        <description>Finał kobiecego EURO przyniósł powtórkę słynnej akcji z derbów Madrytu z podwójnym dotknięciem piłki przy rzucie karnym. Tym razem zastosowano już nowe przepisy.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141419-dzisiejsze-okladki</link>
+        <pubDate>Mon, 28 Jul 2025 00:14:00 GMT</pubDate>
+        <description>Porażka Hiszpanek w finale EURO to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Angielki mistrzyniami Europy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141404-reinier-nie-zostal-zaproszony-nawet-do-treningow-z-grupa-skreslonych</link>
         <pubDate>Sun, 27 Jul 2025 11:20:00 GMT</pubDate>
         <description>Brazylijczyk na rok przed końcem umowy ma zamknięte wszystkie drzwi w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Pięciu w zawieszeniu</title>
-        <link>https://www.realmadryt.pl/news/141403-pieciu-w-zawieszeniu</link>
-        <pubDate>Sun, 27 Jul 2025 10:30:00 GMT</pubDate>
-        <description>Przed klubem rozpoczęcie operacji odejść z klubu. W tym momencie na tapecie jest pięć głównych nazwisk, co do których muszą zostać podjęte konkretne decyzje.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 27 lipca</title>
-        <link>https://www.realmadryt.pl/news/141402-kartka-z-kalendarza-27-lipca</link>
-        <pubDate>Sun, 27 Jul 2025 09:45:00 GMT</pubDate>
-        <description>Odejście legendarnych zawodników, transfer snajpera z Manchesteru United, seria meczów towarzyskich i prezentacja Endricka. Co działo się 27 lipca?</description>
     </item>
     
 </channel>
