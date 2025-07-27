@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 27 Jul 2025 07:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jul 2025 08:32:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pięciu w zawieszeniu</title>
+        <link>https://www.realmadryt.pl/news/141403-pieciu-w-zawieszeniu</link>
+        <pubDate>Sun, 27 Jul 2025 10:30:00 GMT</pubDate>
+        <description>Przed klubem rozpoczęcie operacji odejść z klubu. W tym momencie na tapecie jest pięć głównych nazwisk, co do których muszą zostać podjęte konkretne decyzje.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 lipca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141392-courtois-honorowym-gosciem-sprintu-f1-w-belgii</link>
         <pubDate>Sat, 26 Jul 2025 14:19:00 GMT</pubDate>
         <description>Belg jest jedną z gwiazd weekendu wyścigowego F1 w ojczyźnie.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé akceptuje wyzwanie „dziesiątki”</title>
-        <link>https://www.realmadryt.pl/news/141391-mbappe-akceptuje-wyzwanie-dziesiatki</link>
-        <pubDate>Sat, 26 Jul 2025 13:53:00 GMT</pubDate>
-        <description>Kylian Mbappé w kolejnym sezonie będzie biegał z numerem 10 na koszulce. Choć 9 na plecach w niczym mu nie wadziła, to jednak nigdy nie uważał się za typowego środkowego napastnika, którym zazwyczaj przypisuje się ten numer. Wręcz przeciwnie, z biegiem czasu stawał się zawodnikiem biorącym coraz aktywniejszy udział w grze, czy to z 7 w PSG, czy też z 10 w reprezentacji, pisze Pablo Polo z dziennika MARCA.</description>
     </item>
     
 </channel>
