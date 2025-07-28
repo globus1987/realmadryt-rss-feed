@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Jul 2025 15:30:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 15:57:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mission Impossible Carrerasa</title>
+        <link>https://www.realmadryt.pl/news/141430-mission-impossible-carrerasa</link>
+        <pubDate>Mon, 28 Jul 2025 17:41:00 GMT</pubDate>
+        <description>Od czasów Brazylijczyka nikomu nie udało się stać niekwestionowanym lewym obrońcą Realu. Mendy, najregularniejszy, przekroczył 3000 minut tylko w jednym sezonie. Klub ma duże zaufanie do Carrerasa.</description>
+    </item>
     
     <item>
         <title>Bale: Nie zostanę zawodowym golfistą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141416-oficjalnie-real-madryt-zarejestrowal-carrerasa-w-la-lidze</link>
         <pubDate>Mon, 28 Jul 2025 08:40:00 GMT</pubDate>
         <description>La Liga potwierdziła, że ostatni nabytek Realu Madryt został zarejestrowany do gry w jej rozgrywkach.</description>
-    </item>
-    
-    <item>
-        <title>Getafe nieświadomie ogłosiło transfer Mario Martína</title>
-        <link>https://www.realmadryt.pl/news/141420-getafe-nieswiadomie-oglosilo-transfer-mario-martina</link>
-        <pubDate>Mon, 28 Jul 2025 08:30:00 GMT</pubDate>
-        <description>Podczas transmisji sparingu, można było zobaczyć pomocnika wśród rezerwowych Los Azulones.</description>
     </item>
     
 </channel>
