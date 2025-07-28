@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 28 Jul 2025 21:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jul 2025 22:28:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141439-dzisiejsze-okladki</link>
+        <pubDate>Tue, 29 Jul 2025 00:21:00 GMT</pubDate>
+        <description>Przekaz z Atlético i Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewskie rozpoczynają przygotowania do sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141424-the-athletic-reinier-bedzie-trenowac-z-castilla</link>
         <pubDate>Mon, 28 Jul 2025 11:08:00 GMT</pubDate>
         <description>Według doniesień Mario Cortegany Reinier nie będzie musiał trenować indywidualnie. Castilla zaprosi go na treningi, ale… Álvaro Arbeloa na niego nie liczy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Asencio zarejestrowany w pierwszej drużynie Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141423-oficjalnie-asencio-zarejestrowany-w-pierwszej-druzynie-realu-madryt</link>
-        <pubDate>Mon, 28 Jul 2025 10:51:00 GMT</pubDate>
-        <description>La Liga potwierdziła, że Królewscy awansowali stopera z Castilli do pierwszej drużyny. Oznacza to, że Hiszpan otrzyma numer z puli 1-25.</description>
     </item>
     
 </channel>
