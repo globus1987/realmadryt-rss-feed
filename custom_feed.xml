@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Jul 2025 21:47:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 22:27:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141459-dzisiejsze-okladki</link>
+        <pubDate>Wed, 30 Jul 2025 00:24:00 GMT</pubDate>
+        <description>Sytuacje w Realu Madryt i Barcelonie to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Globo: Reinier blisko Atlético Mineiro</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141445-oficjalnie-mario-martin-wypozyczony-do-getafe</link>
         <pubDate>Tue, 29 Jul 2025 11:37:00 GMT</pubDate>
         <description>Real Madryt potwierdził wypożyczenie 21-latka, który ostatni sezon spędził w Realu Valladolid.</description>
-    </item>
-    
-    <item>
-        <title>AS: Alaba i Rüdiger na wylocie</title>
-        <link>https://www.realmadryt.pl/news/141444-as-alaba-i-ruediger-na-wylocie</link>
-        <pubDate>Tue, 29 Jul 2025 09:54:00 GMT</pubDate>
-        <description>Real Madryt uznaje transfery Rüdigera i Alaby za zamortyzowane. Zdaniem Asa tylko pierwszy z nich ma jakiekolwiek szanse na otrzymanie po kolejnym sezonie oferty nowej umowy.</description>
     </item>
     
 </channel>
