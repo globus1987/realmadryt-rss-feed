@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 29 Jul 2025 04:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 05:40:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klub sportowy czy spółka akcyjna? A może mieszanka, jak chce Florentino?</title>
+        <link>https://www.realmadryt.pl/news/141433-klub-sportowy-czy-spolka-akcyjna-a-moze-mieszanka-jak-chce-florentino</link>
+        <pubDate>Tue, 29 Jul 2025 07:00:00 GMT</pubDate>
+        <description>W ostatnich tygodniach podawano, że Florentino Pérez napotyka problemu w połączeniu socios z prywatnymi inwestorami, ale dziennik El País wskazuje, że taka droga nie jest wykluczona i jest częścią debaty o przyszłości futbolu.</description>
+    </item>
     
     <item>
         <title>Trzy warunki do pozyskania Konaté</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141426-cope-federacja-wprowadza-var-low-cost-w-trzeciej-lidze</link>
         <pubDate>Mon, 28 Jul 2025 13:34:00 GMT</pubDate>
         <description>Obecnie wideosędziowanie jest dostępne w dwóch najwyższych ligach mężczyzn w Hiszpanii. Federacja zatwierdziła właśnie wprowadzenie go w ograniczonej formie na trzeci poziom rozgrywkowy, podaje radio COPE.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Moje marzenie to zakończenie kariery w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141425-courtois-moje-marzenie-to-zakonczenie-kariery-w-realu-madryt</link>
-        <pubDate>Mon, 28 Jul 2025 13:11:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu belgijskiej Sporzy przy okazji wizyty na sprincie F1 na torze Spa w Belgii. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
