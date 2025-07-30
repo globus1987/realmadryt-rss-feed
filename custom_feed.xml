@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Jul 2025 09:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 10:36:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Lorenzo Aguado piłkarzem Albacete</title>
+        <link>https://www.realmadryt.pl/news/141464-oficjalnie-lorenzo-aguado-pilkarzem-albacete</link>
+        <pubDate>Wed, 30 Jul 2025 12:12:00 GMT</pubDate>
+        <description>Kastylijski klub ogłosił pozyskanie wychowanka Królewskich.</description>
+    </item>
     
     <item>
         <title>Mendy myśli tylko o powrocie do formy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141453-czy-real-madryt-powinien-oglosic-zmiane-numeru-mbappe-z-wiekszym-rozmachem</link>
         <pubDate>Tue, 29 Jul 2025 20:42:00 GMT</pubDate>
         <description>Królewscy po dokonaniu zmiany numeru Francuza zabrali się za ogłoszenie tego faktu na social mediach. Niektórzy krytykują brak rozmachu klubu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mbappé z numerem 10</title>
-        <link>https://www.realmadryt.pl/news/141452-oficjalnie-mbappe-z-numerem-10</link>
-        <pubDate>Tue, 29 Jul 2025 18:37:00 GMT</pubDate>
-        <description>Kylian Mbappé od sezonu 2025/26 będzie grał w Realu Madryt z numerem 10.</description>
     </item>
     
 </channel>
