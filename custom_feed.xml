@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Jul 2025 11:26:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 11:45:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mundialowy problem Arbeloi</title>
+        <link>https://www.realmadryt.pl/news/141466-mundialowy-problem-arbeloi</link>
+        <pubDate>Wed, 30 Jul 2025 13:43:00 GMT</pubDate>
+        <description>Powołania do młodzieżowej kadry La Roja na Mistrzostwa Świata U-20 mogą przetrzebić kadrę rezerw Realu na kilka tygodni.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Chuma Okeke zawodnikiem Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141456-globo-reinier-blisko-atletico-mineiro</link>
         <pubDate>Tue, 29 Jul 2025 22:09:00 GMT</pubDate>
         <description>Jak informuje brazylijskie Globo, Atlético Mineiro może niebawem uwolnić Real Madryt od Reiniera. 23-latek ma podpisać z Brazylijczykami czteroipółletni kontrakt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Xavier Rathan-Mayes zawodnikiem Bayernu Monachium</title>
-        <link>https://www.realmadryt.pl/news/141454-oficjalnie-xavier-rathan-mayes-zawodnikiem-bayernu-monachium</link>
-        <pubDate>Tue, 29 Jul 2025 21:07:00 GMT</pubDate>
-        <description>Xavier Rathan-Mayes znalazł nowy klub. Związał się rocznym kontraktem z Bayernem Monachium z opcją o przedłużenie go na kolejny rok.</description>
     </item>
     
 </channel>
