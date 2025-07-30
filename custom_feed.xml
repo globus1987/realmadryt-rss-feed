@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 30 Jul 2025 05:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jul 2025 06:48:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 lipca</title>
+        <link>https://www.realmadryt.pl/news/141458-kartka-z-kalendarza-30-lipca</link>
+        <pubDate>Wed, 30 Jul 2025 08:40:00 GMT</pubDate>
+        <description>Mecz towarzyski z polskim klubem, transfer niemieckiego pomocnika i sparing z Barceloną w Stanach Zjednoczonych. Co działo się 30 lipca?</description>
+    </item>
     
     <item>
         <title>Di Marzio: Como chce wykupić 100% praw do Nico Paza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141449-gueler-zdal-pierwszy-egzamin-u-xabiego</link>
         <pubDate>Tue, 29 Jul 2025 16:23:00 GMT</pubDate>
         <description>Młody pomocnik rozpocznie okres przygotowawczy jako zawodnik podstawowego składu.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x00 – pytania</title>
-        <link>https://www.realmadryt.pl/news/141448-podcast-7x00-pytania</link>
-        <pubDate>Tue, 29 Jul 2025 13:30:00 GMT</pubDate>
-        <description>Rozpoczęliśmy przygotowania do nagrania odcinka otwierającego siómy sezon podcastu RealMadryt.pl. Ponownie zbieramy pytania od użytkowników przed kolejną publikacją.</description>
     </item>
     
 </channel>
