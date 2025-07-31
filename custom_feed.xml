@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 31 Jul 2025 18:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 19:01:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Federacja nie przełoży meczu Realu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/141495-oficjalnie-federacja-nie-przelozy-meczu-realu-z-osasuna</link>
+        <pubDate>Thu, 31 Jul 2025 20:48:00 GMT</pubDate>
+        <description>Organ Federacji odrzucił wniosek Realu Madryt o przełożenie pierwszego meczu ligowego. To koniec tej historii.</description>
+    </item>
+    
+    <item>
+        <title>Politycy z Walencji rozpoczynają walkę z dokumentem Netflixa o Viníciusie</title>
+        <link>https://www.realmadryt.pl/news/141494-politycy-z-walencji-rozpoczynaja-walke-z-dokumentem-netflixa-o-viniciusie</link>
+        <pubDate>Thu, 31 Jul 2025 20:43:00 GMT</pubDate>
+        <description>Po Valencii teraz to lokalne władze walczą w sprawie zmiany zawartości dokumentu o Viníciusie znajdującego się na Netflixie.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Stiller z częściowym naderwaniem więzadła w kostce</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141484-jovic-blisko-powrotu-do-la-ligi</link>
         <pubDate>Thu, 31 Jul 2025 11:08:00 GMT</pubDate>
         <description>Madryckie media informują, że były piłkarz Królewskich jest bardzo blisko powrotu do La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>SER: Endrick nie chce słyszeć o wypożyczeniu</title>
-        <link>https://www.realmadryt.pl/news/141483-ser-endrick-nie-chce-slyszec-o-wypozyczeniu</link>
-        <pubDate>Thu, 31 Jul 2025 10:58:00 GMT</pubDate>
-        <description>Młody napastnik nie zgadza się na zdobywanie doświadczenia w innym hiszpańskim klubie.</description>
-    </item>
-    
-    <item>
-        <title>AS: Nowy kontrakt Viníciusa nie jest zagrożony</title>
-        <link>https://www.realmadryt.pl/news/141482-as-nowy-kontrakt-viniciusa-nie-jest-zagrozony</link>
-        <pubDate>Thu, 31 Jul 2025 10:05:00 GMT</pubDate>
-        <description>Nowa umowa Brazylijczyka nie jest zagrożona, ale zapowiada się, że nie zostanie podpisana w najbliższym czasie. Wszystkie strony uznają, że nie ma pośpiechu, przy czym zawodnik nie rozważa odejścia, informuje AS.</description>
     </item>
     
 </channel>
