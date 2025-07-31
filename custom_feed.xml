@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 31 Jul 2025 21:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:27:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141501-dzisiejsze-okladki</link>
+        <pubDate>Fri, 01 Aug 2025 00:01:00 GMT</pubDate>
+        <description>Zapowiedź przyjścia Frano Mastantuono i wygrana Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Federacja nie przełoży meczu Realu z Osasuną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141485-pierwsza-dymisja-w-nowym-komitecie-arbitrow</link>
         <pubDate>Thu, 31 Jul 2025 11:22:00 GMT</pubDate>
         <description>W lipcu ogłoszono nowe struktury Komitetu Arbitrów. Media informują, że po 9 dniach pracy doszło w nich do pierwszej dymisji.</description>
-    </item>
-    
-    <item>
-        <title>Jović blisko powrotu do La Ligi</title>
-        <link>https://www.realmadryt.pl/news/141484-jovic-blisko-powrotu-do-la-ligi</link>
-        <pubDate>Thu, 31 Jul 2025 11:08:00 GMT</pubDate>
-        <description>Madryckie media informują, że były piłkarz Królewskich jest bardzo blisko powrotu do La Ligi.</description>
     </item>
     
 </channel>
