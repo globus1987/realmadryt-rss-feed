@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 01 Aug 2025 05:48:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 06:44:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poszukiwania ostatniego wzmocnienia drużyny koszykarzy</title>
+        <link>https://www.realmadryt.pl/news/141497-poszukiwania-ostatniego-wzmocnienia-druzyny-koszykarzy</link>
+        <pubDate>Fri, 01 Aug 2025 08:40:00 GMT</pubDate>
+        <description>Po zakończeniu sezonu 2024/25 z sekcji koszykarskiej odeszło pięciu zawodników. Królewscy na ich miejsce sprowadzili na razie czterech nowych graczy i poszukują piątego.</description>
+    </item>
+    
+    <item>
+        <title>Osasuna trenuje już od trzech tygodni i jest po trzech sparingach</title>
+        <link>https://www.realmadryt.pl/news/141500-osasuna-trenuje-juz-od-trzech-tygodni-i-jest-po-trzech-sparingach</link>
+        <pubDate>Fri, 01 Aug 2025 07:50:00 GMT</pubDate>
+        <description>Rywale Królewskich trenują od dokładnie trzech tygodni i mają już za sobą trzy sparingi.</description>
+    </item>
     
     <item>
         <title>Komisarz NBA spotkał się z Realem Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141489-bardzo-doceniamy-modricia-za-asyste-przy-golu-kounde</link>
         <pubDate>Thu, 31 Jul 2025 15:52:00 GMT</pubDate>
         <description>Klubowe media Barcelony znowu błysnęły przy komentowaniu piłkarza innego klubu. Tym razem zażartowano sobie z Luki Modricia.</description>
-    </item>
-    
-    <item>
-        <title>Santiago Solari planuje powrót do trenowania?</title>
-        <link>https://www.realmadryt.pl/news/141488-santiago-solari-planuje-powrot-do-trenowania</link>
-        <pubDate>Thu, 31 Jul 2025 14:04:00 GMT</pubDate>
-        <description>Madryckie rozgłośnie spierają się co do przyszłości Santiago Solariego. Argentyńczyk to były trener pierwszej drużyny, a obecnie dyrektor Królewskich ds. futbolu.</description>
-    </item>
-    
-    <item>
-        <title>Fani Fenerbahçe oszaleli na punkcie Brahima</title>
-        <link>https://www.realmadryt.pl/news/141487-fani-fenerbahce-oszaleli-na-punkcie-brahima</link>
-        <pubDate>Thu, 31 Jul 2025 13:08:00 GMT</pubDate>
-        <description>W Turcji pojawiły się plotki o możliwym przyjściu pomocnika do Fenerbahçe, jednak ten planuje zostać w Realu.</description>
     </item>
     
 </channel>
