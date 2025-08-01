@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 01 Aug 2025 21:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 22:27:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141522-dzisiejsze-okladki</link>
+        <pubDate>Sat, 02 Aug 2025 00:01:00 GMT</pubDate>
+        <description>Odejścia z Realu Madryt, sytuacja Atlético i wywiad z Raphinhą to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Media: Prokuratura wnosi o 2,5 roku więzienia dla Asencio</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141507-gavi-to-jasne-ze-real-madryt-jest-zaniepokojony</link>
         <pubDate>Fri, 01 Aug 2025 12:57:00 GMT</pubDate>
         <description>Pomocnik i wychowanek Barcelony, Gavi, udzielił wywiadu dziennikowi AS w trakcie okresu przygotowawczego Katalończyków w Korei Południowej. Poniżej przedstawiamy zapis najważniejszych wypowiedzi 20-letniego zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Nikt nie chce odchodzić z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/141506-marca-nikt-nie-chce-odchodzic-z-realu-madryt</link>
-        <pubDate>Fri, 01 Aug 2025 12:37:00 GMT</pubDate>
-        <description>Od porażki z Paris Saint-Germain nikt nie zgłosił klubowi chęci odejścia ani oferty innego klubu. Na dzisiaj wszyscy chcą zostać w zespole.</description>
     </item>
     
 </channel>
