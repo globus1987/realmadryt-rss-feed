@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 02 Aug 2025 21:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Aug 2025 22:28:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141543-dzisiejsze-okladki</link>
+        <pubDate>Sun, 03 Aug 2025 00:00:00 GMT</pubDate>
+        <description>Przylot Franco Mastantuono to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Castilla z drugą wygraną, gol Rachada, świetny mecz Fortei</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141529-voetbal-international-ouazane-podpisze-umowe-z-ajaksem</link>
         <pubDate>Sat, 02 Aug 2025 11:40:00 GMT</pubDate>
         <description>Marokańczyk urodzony w Holandii był na prostej drodze do podpisania umowy z Realem Madryt, ale klub zrezygnował z niego po badaniach medycznych. Teraz pomocnik wraca do Ajaxu.</description>
-    </item>
-    
-    <item>
-        <title>Odkrywca talentu Endricka: Odniesie sukces… jeśli nie w Realu Madryt, to w innym wielkim klubie</title>
-        <link>https://www.realmadryt.pl/news/141528-odkrywca-talentu-endricka-odniesie-sukces-jesli-nie-w-realu-madryt-to-w-innym-wielkim-klubie</link>
-        <pubDate>Sat, 02 Aug 2025 10:57:00 GMT</pubDate>
-        <description>Paulo Roca, agent piłkarski i odkrywcą talentów w Brazylii, udzielił krótkiego wywiadu, w którym podkreśla talent Endricka. To właśnie Roca dostrzegł atakującego, gdy ten rozpoczynał swoją przygodę z futbolem.</description>
     </item>
     
 </channel>
