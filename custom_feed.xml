@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 03 Aug 2025 22:30:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Aug 2025 22:50:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141561-dzisiejsze-okladki</link>
+        <pubDate>Mon, 04 Aug 2025 00:41:00 GMT</pubDate>
+        <description>Start przygotowań Realu Madryt i rejestracje Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Dzisiaj startuje Real Madryt 2025/26</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141549-vinicius-wraca-w-pelni-zmotywowany</link>
         <pubDate>Sun, 03 Aug 2025 11:17:00 GMT</pubDate>
         <description>Vinícius w ostatnim czasie był bohaterem wielu doniesień dotyczących jego przepychanek kontraktowych z klubem. Jutro Brazylijczyk wraz z resztą zespołu rozpocznie przygotowania do kolejnego sezonu, a pomimo towarzyszącego mu zgiełku, jego nastawienie jest jasne.</description>
-    </item>
-    
-    <item>
-        <title>Media: Promotor Superligi bankrutuje</title>
-        <link>https://www.realmadryt.pl/news/141548-media-promotor-superligi-bankrutuje</link>
-        <pubDate>Sun, 03 Aug 2025 10:54:00 GMT</pubDate>
-        <description>Wolny rozwój i postęp nad pracami Superligi odbija się na jej promotorze. Madryckie media wskazują, że A22 Sports Management bankrutuje, ale nieoficjalni rzecznicy Superligi uspokajają.</description>
     </item>
     
 </channel>
