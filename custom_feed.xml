@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 04 Aug 2025 09:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 10:33:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze Realu Madryt przeszli badania medyczne</title>
+        <link>https://www.realmadryt.pl/news/141566-pilkarze-realu-madryt-przeszli-badania-medyczne</link>
+        <pubDate>Mon, 04 Aug 2025 12:31:00 GMT</pubDate>
+        <description>Klub potwierdził, że piłkarz pierwszej drużyny przeszli badania medyczne przed rozpoczęciem przygotowań do sezonu.</description>
+    </item>
     
     <item>
         <title>Xabi i problem z rzutami karnymi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141555-portugalskie-media-brahim-na-celowniku-benfiki</link>
         <pubDate>Sun, 03 Aug 2025 16:00:00 GMT</pubDate>
         <description>Portugalskie Record i CNN informują, że Benfica jest zainteresowana sprowadzeniem Brahima i w tej sprawie miały już odbyć się pierwsze rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Reinier dołączy do Atlético Mineiro</title>
-        <link>https://www.realmadryt.pl/news/141554-marca-reinier-dolaczy-do-atletico-mineiro</link>
-        <pubDate>Sun, 03 Aug 2025 14:08:00 GMT</pubDate>
-        <description>Brazylijczyk zakończy swoją przygodę w Realu Madryt bez debiutu w pierwszym zespole.</description>
     </item>
     
 </channel>
