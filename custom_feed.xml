@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 04 Aug 2025 21:28:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Aug 2025 21:47:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 4 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141563-kartka-z-kalendarza-4-sierpnia</link>
+        <pubDate>Mon, 04 Aug 2025 23:44:00 GMT</pubDate>
+        <description>Koniec kariery wielkiego bramkarza, zamieszanie na stołku prezesa klubu, dwa transfery pomocników i pożegnanie z legendarnym bocznym obrońcą. Co działo się 4 sierpnia?</description>
+    </item>
     
     <item>
         <title>Lucas trafi do Espanyolu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141566-pilkarze-realu-madryt-przeszli-badania-medyczne</link>
         <pubDate>Mon, 04 Aug 2025 12:31:00 GMT</pubDate>
         <description>Klub potwierdził, że piłkarz pierwszej drużyny przeszli badania medyczne przed rozpoczęciem przygotowań do sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Xabi i problem z rzutami karnymi</title>
-        <link>https://www.realmadryt.pl/news/141565-xabi-i-problem-z-rzutami-karnymi</link>
-        <pubDate>Mon, 04 Aug 2025 10:08:00 GMT</pubDate>
-        <description>Klub z Leverkusen w zeszłym sezonie zmarnował trzy z siedmiu jedenastek, a Real siedem z dziewiętnastu.</description>
     </item>
     
 </channel>
