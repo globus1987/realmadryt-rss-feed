@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 05 Aug 2025 22:28:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 22:50:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141608-dzisiejsze-okladki</link>
+        <pubDate>Wed, 06 Aug 2025 00:35:00 GMT</pubDate>
+        <description>Rozwój Ardy Gülera i wojna Barcelony z Ter Stegenem to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>SER: Tottenham szykuje ofertę za Rodrygo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141592-marca-miguel-gutierrez-odchodzi-do-napoli</link>
         <pubDate>Tue, 05 Aug 2025 13:07:00 GMT</pubDate>
         <description>Wychowanek Królewskich ma w końcu opuścić kataloński klub. Królewscy otrzymają z tego tytułu dodatkowe pieniądze.</description>
-    </item>
-    
-    <item>
-        <title>Drugi trening przed nowym sezonem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141591-drugi-trening-przed-nowym-sezonem-video</link>
-        <pubDate>Tue, 05 Aug 2025 12:45:00 GMT</pubDate>
-        <description>Królewscy odbyli przed południem drugi trening przed nowym sezonem. Poza grupą ponownie pozostało trzech piłkarzy.</description>
     </item>
     
 </channel>
