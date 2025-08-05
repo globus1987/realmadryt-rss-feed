@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 05 Aug 2025 21:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Aug 2025 22:28:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>SER: Tottenham szykuje ofertę za Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/141607-ser-tottenham-szykuje-oferte-za-rodrygo</link>
+        <pubDate>Wed, 06 Aug 2025 00:00:00 GMT</pubDate>
+        <description>Rozgłośnia twierdzi, że Koguty w końcu zgłoszą się do Realu Madryt z konkretną ofertą.</description>
+    </item>
     
     <item>
         <title>MARCA: Gonzalo zostaje w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141591-drugi-trening-przed-nowym-sezonem-video</link>
         <pubDate>Tue, 05 Aug 2025 12:45:00 GMT</pubDate>
         <description>Królewscy odbyli przed południem drugi trening przed nowym sezonem. Poza grupą ponownie pozostało trzech piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Luka Jović na razie nie wróci do Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/141590-oficjalnie-luka-jovic-na-razie-nie-wroci-do-hiszpanii</link>
-        <pubDate>Tue, 05 Aug 2025 12:03:00 GMT</pubDate>
-        <description>Serb podpisał kontrakt z AEK FC.</description>
     </item>
     
 </channel>
