@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 06 Aug 2025 10:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 11:27:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy z dwóch dzisiejszych treningów</title>
+        <link>https://www.realmadryt.pl/news/141611-pierwszy-z-dwoch-dzisiejszych-treningow</link>
+        <pubDate>Wed, 06 Aug 2025 13:04:00 GMT</pubDate>
+        <description>Królewscy odbyli przed południem trzeci trening przed nowym sezonem i pierwszy z dwóch dzisiejszego dnia. Poza grupą ponownie pozostało trzech piłkarzy, a czwarty czeka na prezentację.</description>
+    </item>
     
     <item>
         <title>Reinier: Jestem szczęśliwy z tej sympatii, której wcześniej nie miałem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141600-oficjalnie-odwolanie-realu-ws-terminu-meczu-z-osasuna-odrzucone</link>
         <pubDate>Tue, 05 Aug 2025 20:25:00 GMT</pubDate>
         <description>Organ apelacyjny odrzucił odwołanie Realu Madryt w sprawie przełożenia meczu La Ligi z Osasuną. Królewskim pozostaje dalsza walka, ale są pogodzeni z tym, że będą musieli rozegrać oficjalny mecz już za dwa tygodnie.</description>
-    </item>
-    
-    <item>
-        <title>García Caba do Tebasa: To nie tylko twoja wojna z Realem, to atak na zdrowie piłkarzy</title>
-        <link>https://www.realmadryt.pl/news/141599-garcia-caba-do-tebasa-to-nie-tylko-twoja-wojna-z-realem-to-atak-na-zdrowie-pilkarzy</link>
-        <pubDate>Tue, 05 Aug 2025 18:24:00 GMT</pubDate>
-        <description>Prawnik Miguel García Caba odpowiedział na zarzuty wystosowane prezesa La Ligi Javiera Tebasa.</description>
     </item>
     
 </channel>
