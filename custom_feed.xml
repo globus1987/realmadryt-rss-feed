@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 06 Aug 2025 21:45:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Aug 2025 22:28:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141630-dzisiejsze-okladki</link>
+        <pubDate>Thu, 07 Aug 2025 00:09:00 GMT</pubDate>
+        <description>Rozwój współpracy Mbappé z Viníciusem oraz sprawa Ter Stegena to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Romano: PSG spojrzałoby w kierunku Rodrygo, gdyby odszedł Barcola</title>
+        <link>https://www.realmadryt.pl/news/141626-romano-psg-spojrzaloby-w-kierunku-rodrygo-gdyby-odszedl-barcola</link>
+        <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
+        <description>Słynny Włoch potwierdzający transfery wystosował aktualizację w sprawie brazylijskiego atakującego.</description>
+    </item>
     
     <item>
         <title>Świetny występ Hezonji w reprezentacji</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141615-zadania-xabiego-przed-startem-ligi</link>
         <pubDate>Wed, 06 Aug 2025 16:51:00 GMT</pubDate>
         <description>Real Madryt Xabiego Alonso ruszył z przygotowaniami do sezonu. Choć Bask poprowadził już zespół w Klubowym Mundialu, tak naprawdę była to końcówka poprzedniego etapu. Ten nowy rozpocznie się dopiero wraz ze startem ligowych rozgrywek.</description>
-    </item>
-    
-    <item>
-        <title>AS: Arbeloa stawia na Frana Gonzáleza</title>
-        <link>https://www.realmadryt.pl/news/141614-as-arbeloa-stawia-na-frana-gonzaleza</link>
-        <pubDate>Wed, 06 Aug 2025 16:31:00 GMT</pubDate>
-        <description>Fran ponownie będzie trzecim bramkarzem pierwszej drużyny i pierwszym bramkarzem rezerw. To działało na jego niekorzyść w zeszłym sezonie. Tego lata kilka klubów wyraziło zainteresowanie jego usługami.</description>
-    </item>
-    
-    <item>
-        <title>Relaño: Ludziom coraz mniej podoba się wizerunek Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/141613-relano-ludziom-coraz-mniej-podoba-sie-wizerunek-viniciusa</link>
-        <pubDate>Wed, 06 Aug 2025 15:19:00 GMT</pubDate>
-        <description>Alfredo Relaño to emerytowany dziennikarz i były dyrektor dziennika AS od 1996 do 2019 roku, ale ciągle udziela się w mediach, jak dziennik El País czy radio SER. Do tego pozostaje głosującym Hiszpanem w plebiscycie Złotej Piłki. Teraz na antenie rozgłośni skomentował sytuację Viníciusa i plany Realu Madryt.</description>
     </item>
     
 </channel>
