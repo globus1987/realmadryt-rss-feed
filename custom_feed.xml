@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Aug 2025 21:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 22:28:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141651-dzisiejsze-okladki</link>
+        <pubDate>Fri, 08 Aug 2025 00:23:00 GMT</pubDate>
+        <description>Nominacje do Złotej Piłki, przyszłość Gonzalo i odejście Iñigo Martíneza z Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Praca fizyczna i piłkarska na czwartkowym treningu [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141637-bez-ancelottiego-ani-xabiego-wsrod-nominowanych-do-trofeum-cruyffa</link>
         <pubDate>Thu, 07 Aug 2025 13:56:00 GMT</pubDate>
         <description>Francuzi ujawniają dzisiaj nominowanych w swoich plebiscytach. Teraz ogłosili finalistów do nagrody dla najlepszych trenerów.</description>
-    </item>
-    
-    <item>
-        <title>Courtois nominowany do Trofeum Jaszyna</title>
-        <link>https://www.realmadryt.pl/news/141636-courtois-nominowany-do-trofeum-jaszyna</link>
-        <pubDate>Thu, 07 Aug 2025 13:28:00 GMT</pubDate>
-        <description>Francuzi ujawniają dzisiaj nominowanych w swoich plebiscytach. Teraz ogłosili finalistów do nagrody dla najlepszego bramkarza.</description>
     </item>
     
 </channel>
