@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Aug 2025 04:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 05:35:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Dani!</title>
+        <link>https://www.realmadryt.pl/news/141616-wszystkiego-najlepszego-dani</link>
+        <pubDate>Thu, 07 Aug 2025 07:00:00 GMT</pubDate>
+        <description>Dziś swoje 29. urodziny obchodzi Dani Ceballos. Z tej okazji życzymy pomocnikowi przede wszystkim regularnej gry i, co za tym idzie, częstszego pokazywania swojego ponadprzeciętnego talentu.</description>
+    </item>
     
     <item>
         <title>Endrick obraził się, że Gonzalo przejmie numer 9?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141618-olbrzymia-szansa-ale-i-wielki-ciezar</link>
         <pubDate>Wed, 06 Aug 2025 17:32:00 GMT</pubDate>
         <description>Gdy Real Madryt zdecyduje się już dać szansę któremuś wychowankowi, wymagania wobec niego są bardzo wysokie. Tym bardziej w sytuacji, w której za chwilę może odziedziczyć on numer 9 na plecach.</description>
-    </item>
-    
-    <item>
-        <title>Tebas atakuje Iturralde: Mój sen to niezależne sędziowanie, czego ty nie doświadczyłeś</title>
-        <link>https://www.realmadryt.pl/news/141617-tebas-atakuje-iturralde-moj-sen-to-niezalezne-sedziowanie-czego-ty-nie-doswiadczyles</link>
-        <pubDate>Wed, 06 Aug 2025 17:14:00 GMT</pubDate>
-        <description>Prezes La Ligi tym razem wystosował atak na byłego arbitra, w którym odniósł się nie wprost do Sprawy Negreiry.</description>
     </item>
     
 </channel>
