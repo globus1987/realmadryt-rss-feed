@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Aug 2025 09:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 09:58:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo chce iść za ciosem</title>
+        <link>https://www.realmadryt.pl/news/141632-gonzalo-chce-isc-za-ciosem</link>
+        <pubDate>Thu, 07 Aug 2025 11:56:00 GMT</pubDate>
+        <description>Trwają prace nad przedłużeniem kontraktu z Gonzalo. Początek sezonu, podobnie jak Klubowy Mundial, może należeć do niego.</description>
+    </item>
     
     <item>
         <title>Połączenie do wykorzystania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141622-carreras-xabi-jest-bardzo-intensywny-video</link>
         <pubDate>Wed, 06 Aug 2025 19:40:00 GMT</pubDate>
         <description>Álvaro Carreras był bohaterem serii Real Madrid TV pod tytułem „Player Cam” w trakcie środowego treningu. Przedstawiamy materiał klubowej telewizji i wypowiedzi obrońcy.</description>
-    </item>
-    
-    <item>
-        <title>Trwające prace i wyzwania w przebudowie Santiago Bernabéu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141621-trwajace-prace-i-wyzwania-w-przebudowie-santiago-bernabeu-video</link>
-        <pubDate>Wed, 06 Aug 2025 19:35:00 GMT</pubDate>
-        <description>Prowadzący kanał Fanáticos Real Madrid przekazał najnowsze informacje w sprawie przebudowy Santiago Bernabéu.</description>
     </item>
     
 </channel>
