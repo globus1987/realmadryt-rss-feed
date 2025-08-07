@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Aug 2025 18:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 19:09:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Praca fizyczna i piłkarska na czwartkowym treningu [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/141647-praca-fizyczna-i-pilkarska-na-czwartkowym-treningu-video</link>
+        <pubDate>Thu, 07 Aug 2025 21:05:00 GMT</pubDate>
+        <description>Klub zamieścił pełny filmik z czwartkowych zajęć w Valdebebas.<iframe width="560" height="315" src="https://www.youtube.com/embed/WLXVuUa5uF4?si=qkn7VaXLpJ_1-Q1m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></description>
+    </item>
     
     <item>
         <title>AS: Gonzalo z kontraktem do 2030 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141636-courtois-nominowany-do-trofeum-jaszyna</link>
         <pubDate>Thu, 07 Aug 2025 13:28:00 GMT</pubDate>
         <description>Francuzi ujawniają dzisiaj nominowanych w swoich plebiscytach. Teraz ogłosili finalistów do nagrody dla najlepszego bramkarza.</description>
-    </item>
-    
-    <item>
-        <title>Huijsen i Linda wśród nominowanych do Trofeum Kopy</title>
-        <link>https://www.realmadryt.pl/news/141634-huijsen-i-linda-wsrod-nominowanych-do-trofeum-kopy</link>
-        <pubDate>Thu, 07 Aug 2025 12:55:00 GMT</pubDate>
-        <description>Francuzi rozpoczęli ujawnianie nominowanych w swoich plebiscytach. Na pierwszy ogień poszło Trofeum Kopy, gdzie Królewscy mają dwóch zawodników.</description>
     </item>
     
 </channel>
