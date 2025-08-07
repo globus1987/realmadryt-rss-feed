@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 07 Aug 2025 11:27:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 11:46:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois nominowany do Trofeum Jaszyna</title>
+        <link>https://www.realmadryt.pl/news/141636-courtois-nominowany-do-trofeum-jaszyna</link>
+        <pubDate>Thu, 07 Aug 2025 13:28:00 GMT</pubDate>
+        <description>Francuzi ujawniają dzisiaj nominowanych w swoich plebiscytach. Teraz ogłosili finalistów do nagrody dla najlepszego bramkarza.</description>
+    </item>
     
     <item>
         <title>Huijsen i Linda wśród nominowanych do Trofeum Kopy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141626-romano-psg-spojrzaloby-w-kierunku-rodrygo-gdyby-odszedl-barcola</link>
         <pubDate>Thu, 07 Aug 2025 00:00:00 GMT</pubDate>
         <description>Słynny Włoch potwierdzający transfery wystosował aktualizację w sprawie brazylijskiego atakującego.</description>
-    </item>
-    
-    <item>
-        <title>Świetny występ Hezonji w reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/141628-swietny-wystep-hezonji-w-reprezentacji</link>
-        <pubDate>Wed, 06 Aug 2025 22:47:00 GMT</pubDate>
-        <description>Mario Hezonja wrócił na parkiet po przerwie. Poprowadził reprezentację Chorwacji do zwycięstwa w meczu z Norwegią w ramach eliminacji do mistrzostw świata.</description>
     </item>
     
 </channel>
