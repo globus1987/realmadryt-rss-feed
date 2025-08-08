@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Aug 2025 08:37:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 09:02:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 8 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141655-kartka-z-kalendarza-8-sierpnia</link>
+        <pubDate>Fri, 08 Aug 2025 10:50:00 GMT</pubDate>
+        <description>Śmierć kapitana Espanyolu, zdobycie Superpucharu Europy, odejście jednego z najbardziej obiecujących wychowanków i transfer bramkarza. Co działo się 8 sierpnia?</description>
+    </item>
+    
+    <item>
+        <title>Nie żyje Manolete</title>
+        <link>https://www.realmadryt.pl/news/141659-nie-zyje-manolete</link>
+        <pubDate>Fri, 08 Aug 2025 10:42:00 GMT</pubDate>
+        <description>Klub złożył kondolencje z powodu śmierci Manolete, znanego hiszpańskiego dziennikarza sportowego.</description>
+    </item>
     
     <item>
         <title>Real nadal ma ostatnie słowo w sprawie Nico Paza</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141651-dzisiejsze-okladki</link>
         <pubDate>Fri, 08 Aug 2025 00:23:00 GMT</pubDate>
         <description>Nominacje do Złotej Piłki, przyszłość Gonzalo i odejście Iñigo Martíneza z Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Praca fizyczna i piłkarska na czwartkowym treningu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141647-praca-fizyczna-i-pilkarska-na-czwartkowym-treningu-video</link>
-        <pubDate>Thu, 07 Aug 2025 21:05:00 GMT</pubDate>
-        <description>Klub zamieścił pełny filmik z czwartkowych zajęć w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>AS: Gonzalo z kontraktem do 2030 roku</title>
-        <link>https://www.realmadryt.pl/news/141646-as-gonzalo-z-kontraktem-do-2030-roku</link>
-        <pubDate>Thu, 07 Aug 2025 20:01:00 GMT</pubDate>
-        <description>Gonzalo García nie tylko awansował do pierwszego zespołu, ale miał już również domknąć temat nowego kontraktu z klubem do 2030 roku. Dla wychowanka od samego początku priorytetem było pozostanie w Realu Madryt.</description>
     </item>
     
 </channel>
