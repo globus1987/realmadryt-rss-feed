@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Aug 2025 06:48:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 07:31:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Cisza Realu Madryt wokół Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/141656-cisza-realu-madryt-wokol-zlotej-pilki</link>
+        <pubDate>Fri, 08 Aug 2025 09:25:00 GMT</pubDate>
+        <description>Real Madryt w żaden sposób nie zareagował na wczorajsze nominacje do Złotej Piłki. Wiele wskazuje na to, że klub podtrzyma ubiegłoroczną decyzję i ponownie nie pojawi się na paryskiej gali.</description>
+    </item>
+    
+    <item>
+        <title>Rewolucja Arbeloi</title>
+        <link>https://www.realmadryt.pl/news/141654-rewolucja-arbeloi</link>
+        <pubDate>Fri, 08 Aug 2025 09:12:00 GMT</pubDate>
+        <description>Nowa Castilla jest ekscytująca, nie tyle ze względu na wyniki (dwa zwycięstwa), co na atrakcyjną, odważną i bezpośrednią grę. Talenty już błyszczą: Fortea, Aguado, Yáñez, Rachad...</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Antonio David zawodnikiem Albacete</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141643-oficjalnie-mariano-pilkarzem-deportivo-alaves</link>
         <pubDate>Thu, 07 Aug 2025 16:46:00 GMT</pubDate>
         <description>Zawodnik podpisał kontrakt do czerwca 2027 roku.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Na treningach jest dużo taktyki, pracujemy nad pressingiem</title>
-        <link>https://www.realmadryt.pl/news/141642-valverde-na-treningach-jest-duzo-taktyki-pracujemy-nad-pressingiem</link>
-        <pubDate>Thu, 07 Aug 2025 15:55:00 GMT</pubDate>
-        <description>Federico Valverde po zakończeniu czwartkowego treningu udzielił wywiadu klubowym mediom. Przedstawiamy wypowiedzi drugiego kapitana Królewskich z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Media: Real zagra jutro towarzysko z Leganés</title>
-        <link>https://www.realmadryt.pl/news/141641-media-real-zagra-jutro-towarzysko-z-leganes</link>
-        <pubDate>Thu, 07 Aug 2025 15:50:00 GMT</pubDate>
-        <description>Spotkanie zostanie rozegrane za zamkniętymi drzwiami.</description>
     </item>
     
 </channel>
