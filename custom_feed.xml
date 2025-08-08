@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Aug 2025 19:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 20:29:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Reinier piłkarzem Atlético Mineiro</title>
+        <link>https://www.realmadryt.pl/news/141671-oficjalnie-reinier-pilkarzem-atletico-mineiro</link>
+        <pubDate>Fri, 08 Aug 2025 22:18:00 GMT</pubDate>
+        <description>To koniec przygody Brazylijczyka z Realem Madryt. Reinier wraca do ojczyzny.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Pablo Laso zwolniony z Baskonii</title>
+        <link>https://www.realmadryt.pl/news/141669-oficjalnie-pablo-laso-zwolniony-z-baskonii</link>
+        <pubDate>Fri, 08 Aug 2025 22:13:00 GMT</pubDate>
+        <description>Pablo Laso nie jest już trenerem Baskonii. Szkoleniowiec został zwolniony przez klub z Vitorii, który ogłosił jednocześnie nazwisko następcy Laso.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Endrick z numerem 9, a Gonzalo z 16</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141655-kartka-z-kalendarza-8-sierpnia</link>
         <pubDate>Fri, 08 Aug 2025 10:50:00 GMT</pubDate>
         <description>Śmierć kapitana Espanyolu, zdobycie Superpucharu Europy, odejście jednego z najbardziej obiecujących wychowanków i transfer bramkarza. Co działo się 8 sierpnia?</description>
-    </item>
-    
-    <item>
-        <title>Nie żyje Manolete</title>
-        <link>https://www.realmadryt.pl/news/141659-nie-zyje-manolete</link>
-        <pubDate>Fri, 08 Aug 2025 10:42:00 GMT</pubDate>
-        <description>Klub złożył kondolencje z powodu śmierci Manolete, znanego hiszpańskiego dziennikarza sportowego.</description>
-    </item>
-    
-    <item>
-        <title>Real nadal ma ostatnie słowo w sprawie Nico Paza</title>
-        <link>https://www.realmadryt.pl/news/141658-real-nadal-ma-ostatnie-slowo-w-sprawie-nico-paza</link>
-        <pubDate>Fri, 08 Aug 2025 10:26:00 GMT</pubDate>
-        <description>Królewscy mogą go odkupić do 2027 roku.</description>
     </item>
     
 </channel>
