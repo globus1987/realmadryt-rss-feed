@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 08 Aug 2025 21:56:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Aug 2025 22:28:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141674-dzisiejsze-okladki</link>
+        <pubDate>Sat, 09 Aug 2025 00:23:00 GMT</pubDate>
+        <description>Sparing Realu Madryt i jego plany oraz sytuacja Ter Stegena w Barcelonie to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Guardiola: Rodri do pełnej dyspozycji wróci po wrześniowej przerwie na kadry</title>
+        <link>https://www.realmadryt.pl/news/141673-guardiola-rodri-do-pelnej-dyspozycji-wroci-po-wrzesniowej-przerwie-na-kadry</link>
+        <pubDate>Sat, 09 Aug 2025 00:09:00 GMT</pubDate>
+        <description>Madryckie media wskazują, że Królewscy widzą jedynie w Hiszpanie realną opcję do wzmocnienia środka pola. Ten transfer w tym roku wydaje się bardzo trudny do zrealizowania, a tym bardziej, że Hiszpan zmaga się z kolejnymi problemami fizycznymi.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Reinier piłkarzem Atlético Mineiro</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141661-krolewscy-rozegrali-mecz-treningowy-z-leganes-video</link>
         <pubDate>Fri, 08 Aug 2025 13:10:00 GMT</pubDate>
         <description>Królewscy odbyli przed południem szósty trening przed nowym sezonem. Rozegrali na nim mecz treningowy.</description>
-    </item>
-    
-    <item>
-        <title>Castilla przegrała z Andorrą, kolejny gol Rachada</title>
-        <link>https://www.realmadryt.pl/news/141660-castilla-przegrala-z-andorra-kolejny-gol-rachada</link>
-        <pubDate>Fri, 08 Aug 2025 12:18:00 GMT</pubDate>
-        <description>Castilla kontynuuje przygotowania do sezonu. W trzecim meczu zanotowała pierwszą porażkę. Przegrała 1:3 z Andorrą, a jedynego gola dla Królewskich strzelił Rachad Fettal.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 8 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/141655-kartka-z-kalendarza-8-sierpnia</link>
-        <pubDate>Fri, 08 Aug 2025 10:50:00 GMT</pubDate>
-        <description>Śmierć kapitana Espanyolu, zdobycie Superpucharu Europy, odejście jednego z najbardziej obiecujących wychowanków i transfer bramkarza. Co działo się 8 sierpnia?</description>
     </item>
     
 </channel>
