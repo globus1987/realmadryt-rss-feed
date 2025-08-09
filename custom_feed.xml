@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Aug 2025 21:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 22:26:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141698-dzisiejsze-okladki</link>
+        <pubDate>Sun, 10 Aug 2025 00:25:00 GMT</pubDate>
+        <description>Wygrana Atlético, status Kyliana Mbappé i Puchar Gampera to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Terminarz 4. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141682-hazard-thibaut-i-karim-dali-nam-lige-mistrzow-a-ja-dbalem-o-atmosfere-w-szatni</link>
         <pubDate>Sat, 09 Aug 2025 10:46:00 GMT</pubDate>
         <description>Eden Hazard był gościem podcastu Zacka Naniego. Przedstawiamy najciekawsze fragmenty rozmowy z byłym piłkarzem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>City, Everton, Southampton i Wolves rywalami Castilli</title>
-        <link>https://www.realmadryt.pl/news/141681-city-everton-southampton-i-wolves-rywalami-castilli</link>
-        <pubDate>Sat, 09 Aug 2025 10:43:00 GMT</pubDate>
-        <description>Castilla w nowym sezonie przynajmniej cztery razy wybierze się do Anglii, by zmierzyć się z tamtejszymi klubami w ramach Premier League International Cup.</description>
     </item>
     
 </channel>
