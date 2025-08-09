@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Aug 2025 21:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 21:42:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 4. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/141696-terminarz-4-kolejki-la-ligi</link>
+        <pubDate>Sat, 09 Aug 2025 23:25:00 GMT</pubDate>
+        <description>La Liga opublikowała częściowy terminarz 4. kolejki sezonu 2025/2026, w której Real Madryt zagra na wyjeździe z Realem Sociedad. Dokładny dzień i godzina meczu Królewskich z Baskami będą uzależniony od losowania fazy ligowej Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Iñigo Martínez odszedł z Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141681-city-everton-southampton-i-wolves-rywalami-castilli</link>
         <pubDate>Sat, 09 Aug 2025 10:43:00 GMT</pubDate>
         <description>Castilla w nowym sezonie przynajmniej cztery razy wybierze się do Anglii, by zmierzyć się z tamtejszymi klubami w ramach Premier League International Cup.</description>
-    </item>
-    
-    <item>
-        <title>AS: Rodri jeszcze nie zdecydował w sprawie swojej przyszłości</title>
-        <link>https://www.realmadryt.pl/news/141680-as-rodri-jeszcze-nie-zdecydowal-w-sprawie-swojej-przyszlosci</link>
-        <pubDate>Sat, 09 Aug 2025 10:30:00 GMT</pubDate>
-        <description>Pomocnik w najbliższych dniach otrzyma od City ofertę przedłużenia kontraktu, ale nie wie jeszcze, czy ją przyjmie.</description>
     </item>
     
 </channel>
