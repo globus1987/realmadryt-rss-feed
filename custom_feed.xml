@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Aug 2025 16:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 17:24:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Strzelec poszukiwany</title>
+        <link>https://www.realmadryt.pl/news/141690-strzelec-poszukiwany</link>
+        <pubDate>Sat, 09 Aug 2025 19:00:00 GMT</pubDate>
+        <description>Po pożegnaniu Cristiano Ronaldo, Sergio Ramosa i Karima Benzemy Real Madryt ma dramatyczne statystyki w rzutach karnych. Skuteczność spadła z 86% do 60,7%.</description>
+    </item>
     
     <item>
         <title>Nowy szef arbitrów tworzy zespół do analizy pracy systemu VAR</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141679-kartka-z-kalendarza-9-sierpnia</link>
         <pubDate>Sat, 09 Aug 2025 10:10:00 GMT</pubDate>
         <description>Zwycięstwo w Superpucharze Europy po wspaniałej remontadzie, urodziny zmarłego prezesa i transfer holenderskiego talentu. Co działo się 9 sierpnia?</description>
-    </item>
-    
-    <item>
-        <title>Od septete do pokera</title>
-        <link>https://www.realmadryt.pl/news/141678-od-septete-do-pokera</link>
-        <pubDate>Sat, 09 Aug 2025 09:20:00 GMT</pubDate>
-        <description>W sezonie 2025/26 Real Madryt Xabiego Alonso powalczy o cztery trofea – Ligę Mistrzów, La Ligę, Copa del Rey i Superpuchar Hiszpanii. Do rozegrania są maksymalnie 63 mecze.</description>
     </item>
     
 </channel>
