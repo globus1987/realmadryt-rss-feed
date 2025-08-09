@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 09 Aug 2025 19:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 20:28:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Iñigo Martínez odszedł z Barcelony</title>
+        <link>https://www.realmadryt.pl/news/141691-oficjalnie-inigo-martinez-odszedl-z-barcelony</link>
+        <pubDate>Sat, 09 Aug 2025 21:53:00 GMT</pubDate>
+        <description>Katalończycy potwierdzili odejście zawodnika, którego wielu ekspertów uważało za lidera jej defensywy.</description>
+    </item>
     
     <item>
         <title>Strzelec poszukiwany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141680-as-rodri-jeszcze-nie-zdecydowal-w-sprawie-swojej-przyszlosci</link>
         <pubDate>Sat, 09 Aug 2025 10:30:00 GMT</pubDate>
         <description>Pomocnik w najbliższych dniach otrzyma od City ofertę przedłużenia kontraktu, ale nie wie jeszcze, czy ją przyjmie.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 9 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/141679-kartka-z-kalendarza-9-sierpnia</link>
-        <pubDate>Sat, 09 Aug 2025 10:10:00 GMT</pubDate>
-        <description>Zwycięstwo w Superpucharze Europy po wspaniałej remontadzie, urodziny zmarłego prezesa i transfer holenderskiego talentu. Co działo się 9 sierpnia?</description>
     </item>
     
 </channel>
