@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Aug 2025 10:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 11:21:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy z dwóch dzisiejszych treningów</title>
+        <link>https://www.realmadryt.pl/news/141706-pierwszy-z-dwoch-dzisiejszych-treningow</link>
+        <pubDate>Sun, 10 Aug 2025 12:52:00 GMT</pubDate>
+        <description>Królewscy po dniu wolnym wrócili do pracy w Valdebebas. Poza grupą ponownie pozostało trzech piłkarzy, a czwarty czeka na prezentację.</description>
+    </item>
+    
+    <item>
+        <title>Nowe wyzwanie i numer, który zmienia reguły gry</title>
+        <link>https://www.realmadryt.pl/news/141707-nowe-wyzwanie-i-numer-ktory-zmienia-reguly-gry</link>
+        <pubDate>Sun, 10 Aug 2025 12:48:00 GMT</pubDate>
+        <description>Brazylijczyk wchodzi w swój drugi sezon w Realu Madryt z misją udźwignięcia legendarnego numeru 9.</description>
+    </item>
     
     <item>
         <title>„Mastantuono bardziej przypomina Jamesa niż Lamine'a”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141695-chlopak-ktory-odrzucil-oferte-jorge-mendesa</link>
         <pubDate>Sun, 10 Aug 2025 07:45:00 GMT</pubDate>
         <description>Franco Mastantuono w czwartek ma podpisać kontrakt z Realem Madryt i formalnie zostać jego piłkarzem. El Periódico przybliża sylwetkę Argentyńczyka i jego drogę do Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>Hakimi: Na wakacjach żartowaliśmy z Kylianem o meczu na Klubowym Mundialu</title>
-        <link>https://www.realmadryt.pl/news/141693-hakimi-na-wakacjach-zartowalismy-z-kylianem-o-meczu-na-klubowym-mundialu</link>
-        <pubDate>Sun, 10 Aug 2025 07:00:00 GMT</pubDate>
-        <description>Obrońca PSG udzielił wywiadu francuskiemu Canal+, w którym między innymi skomentował swoje szanse na zdobycie Złotej Piłki oraz wspominał ostatnie starcie z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>AS: Vinícius zapowiada walkę</title>
-        <link>https://www.realmadryt.pl/news/141694-as-vinicius-zapowiada-walke</link>
-        <pubDate>Sun, 10 Aug 2025 05:30:00 GMT</pubDate>
-        <description>Według hiszpańskiego dziennika Brazylijczyk zaskoczył w Valdebebas bardzo dobrą formą. W obliczu negocjacji nowego kontraktu i przyszłorocznego mundialu nadchodzący sezon jest dla niego niezwykle istotny.</description>
     </item>
     
 </channel>
