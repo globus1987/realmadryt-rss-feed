@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Aug 2025 02:32:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 03:56:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Vinícius zapowiada walkę</title>
+        <link>https://www.realmadryt.pl/news/141694-as-vinicius-zapowiada-walke</link>
+        <pubDate>Sun, 10 Aug 2025 05:30:00 GMT</pubDate>
+        <description>Według hiszpańskiego dziennika Brazylijczyk zaskoczył w Valdebebas bardzo dobrą formą. W obliczu negocjacji nowego kontraktu i przyszłorocznego mundialu nadchodzący sezon jest dla niego niezwykle istotny.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141683-krolewscy-maja-dzien-wolny</link>
         <pubDate>Sat, 09 Aug 2025 10:47:00 GMT</pubDate>
         <description>Po wczorajszym meczu treningowym dzisiaj zawodnicy otrzymali dzień wolny.</description>
-    </item>
-    
-    <item>
-        <title>Hazard: Thibaut i Karim dali nam Ligę Mistrzów, a ja dbałem o atmosferę w szatni</title>
-        <link>https://www.realmadryt.pl/news/141682-hazard-thibaut-i-karim-dali-nam-lige-mistrzow-a-ja-dbalem-o-atmosfere-w-szatni</link>
-        <pubDate>Sat, 09 Aug 2025 10:46:00 GMT</pubDate>
-        <description>Eden Hazard był gościem podcastu Zacka Naniego. Przedstawiamy najciekawsze fragmenty rozmowy z byłym piłkarzem Realu Madryt.</description>
     </item>
     
 </channel>
