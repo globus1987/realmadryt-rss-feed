@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Aug 2025 22:46:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 23:25:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141721-dzisiejsze-okladki</link>
+        <pubDate>Mon, 11 Aug 2025 00:55:00 GMT</pubDate>
+        <description>Kontuzja Eduardo Camavingi i wygrana Barcelony w Pucharze Gampera to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ostrożnie z Valverde</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141707-nowe-wyzwanie-i-numer-ktory-zmienia-reguly-gry</link>
         <pubDate>Sun, 10 Aug 2025 12:48:00 GMT</pubDate>
         <description>Brazylijczyk wchodzi w swój drugi sezon w Realu Madryt z misją udźwignięcia legendarnego numeru 9.</description>
-    </item>
-    
-    <item>
-        <title>„Mastantuono bardziej przypomina Jamesa niż Lamine'a”</title>
-        <link>https://www.realmadryt.pl/news/141702-mastantuono-bardziej-przypomina-jamesa-niz-laminea</link>
-        <pubDate>Sun, 10 Aug 2025 12:10:00 GMT</pubDate>
-        <description>Dyrektor kategorii młodzieżowych River Plate, Gabriel Orlando Rodríguez, udzielił wywiadu dziennikowi AS. W nim tematem numer jeden oczywiście Franco Mastantuono i jego przenosiny do Realu Madryt.</description>
     </item>
     
 </channel>
