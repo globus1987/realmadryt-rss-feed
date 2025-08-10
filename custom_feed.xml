@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 10 Aug 2025 09:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Aug 2025 10:27:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Mastantuono bardziej przypomina Jamesa niż Lamine'a”</title>
+        <link>https://www.realmadryt.pl/news/141702-mastantuono-bardziej-przypomina-jamesa-niz-laminea</link>
+        <pubDate>Sun, 10 Aug 2025 12:10:00 GMT</pubDate>
+        <description>Dyrektor kategorii młodzieżowych River Plate, Gabriel Orlando Rodríguez, udzielił wywiadu dziennikowi AS. W nim tematem numer jeden oczywiście Franco Mastantuono i jego przenosiny do Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Pedri: Różnica względem uczestników Klubowego Mundialu będzie odczuwalna</title>
+        <link>https://www.realmadryt.pl/news/141705-pedri-roznica-wzgledem-uczestnikow-klubowego-mundialu-bedzie-odczuwalna</link>
+        <pubDate>Sun, 10 Aug 2025 12:06:00 GMT</pubDate>
+        <description>Pedri udzielił wywiadu France Football. Przedstawiamy najważniejsze wypowiedzi pomocnika Barcelony z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 10 sierpnia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141694-as-vinicius-zapowiada-walke</link>
         <pubDate>Sun, 10 Aug 2025 05:30:00 GMT</pubDate>
         <description>Według hiszpańskiego dziennika Brazylijczyk zaskoczył w Valdebebas bardzo dobrą formą. W obliczu negocjacji nowego kontraktu i przyszłorocznego mundialu nadchodzący sezon jest dla niego niezwykle istotny.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141698-dzisiejsze-okladki</link>
-        <pubDate>Sun, 10 Aug 2025 00:25:00 GMT</pubDate>
-        <description>Wygrana Atlético, status Kyliana Mbappé i Puchar Gampera to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 4. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/141696-terminarz-4-kolejki-la-ligi</link>
-        <pubDate>Sat, 09 Aug 2025 23:25:00 GMT</pubDate>
-        <description>La Liga opublikowała częściowy terminarz 4. kolejki sezonu 2025/2026, w której Real Madryt zagra na wyjeździe z Realem Sociedad. Dokładny dzień i godzina meczu Królewskich z Baskami będą uzależniony od losowania fazy ligowej Ligi Mistrzów.</description>
     </item>
     
 </channel>
