@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 11 Aug 2025 06:47:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 07:31:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141722-kartka-z-kalendarza-11-sierpnia</link>
+        <pubDate>Mon, 11 Aug 2025 09:30:00 GMT</pubDate>
+        <description>Srebro hiszpańskich koszykarzy w Los Angeles, debiut Pepe w Realu Madryt, Królewscy w Grodzie Kraka i przegrany w rzutach karnych sparing z Romą. Co działo się 11 sierpnia?</description>
+    </item>
+    
+    <item>
+        <title>Wzlot i upadek Pintusa</title>
+        <link>https://www.realmadryt.pl/news/141723-wzlot-i-upadek-pintusa</link>
+        <pubDate>Mon, 11 Aug 2025 09:12:00 GMT</pubDate>
+        <description>Czterokrotny zwycięzca Ligi Mistrzów został odsunięty na bok na rzecz zaufanego eksperta Xabiego: Ismaela Camenforte.</description>
+    </item>
     
     <item>
         <title>AS: Pau Quesada budzi nadzieje</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141712-oficjalnie-eduardo-camavinga-kontuzjowany</link>
         <pubDate>Sun, 10 Aug 2025 16:49:00 GMT</pubDate>
         <description>Klub oficjalnie potwierdził problemy fizyczne Francuza. Przedstawiamy jego komunikat.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy pierwszego niedzielnego treningu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141711-kulisy-pierwszego-niedzielnego-treningu-video</link>
-        <pubDate>Sun, 10 Aug 2025 16:24:00 GMT</pubDate>
-        <description>Klubowa telewizja opublikowała pełny materiał z pierwszego niedzielnego treningu.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Camavinga z kontuzją kostki</title>
-        <link>https://www.realmadryt.pl/news/141710-the-athletic-camavinga-z-kontuzja-kostki</link>
-        <pubDate>Sun, 10 Aug 2025 15:44:00 GMT</pubDate>
-        <description>Eduardo Camavinga nabawił się urazu kostki i walczy z czasem, aby być gotowym na start ligowego sezonu. We wtorek rywalem Realu w towarzyskim meczu będzie WSG Tirol, a już 19 sierpnia zespół Xabiego Alonso podejmie Osasunę w pierwszej kolejce.</description>
     </item>
     
 </channel>
