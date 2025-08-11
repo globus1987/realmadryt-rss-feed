@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 11 Aug 2025 21:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 22:26:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141744-dzisiejsze-okladki</link>
+        <pubDate>Tue, 12 Aug 2025 00:00:00 GMT</pubDate>
+        <description>Sytuacja Rodrygo Goesa, sparing Realu Madryt i plany Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pierwszy przeciek ws. wyjazdowej koszulki na sezon 2026/27</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141729-krolewskie-wygrywaja-pierwszy-sparing-pretemporady</link>
         <pubDate>Mon, 11 Aug 2025 16:12:00 GMT</pubDate>
         <description>Piłkarki Realu Madryt mają za sobą pierwszy mecz towarzyski okresu przygotowawaczego. Wczoraj podopieczne Paua Quesady wygrały z Madrid CFF 3:1 po bramkach Naomie Feller, Evy Navarro i Caroline Weir.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na sparing z Tirolem</title>
-        <link>https://www.realmadryt.pl/news/141728-kadra-realu-madryt-na-sparing-z-tirolem</link>
-        <pubDate>Mon, 11 Aug 2025 15:12:00 GMT</pubDate>
-        <description>Królewscy opublikowali kadrę na sparing z Tirolem w Austrii. Poza listą zostało sześciu piłkarzy.</description>
     </item>
     
 </channel>
