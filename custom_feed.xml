@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 12 Aug 2025 06:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 06:59:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt rozpoczął sprzedaż biletów na Osasunę</title>
+        <link>https://www.realmadryt.pl/news/141743-real-madryt-rozpoczal-sprzedaz-biletow-na-osasune</link>
+        <pubDate>Tue, 12 Aug 2025 08:40:00 GMT</pubDate>
+        <description>Wobec nieprzełożenia meczu, Królewscy rozpoczęli sprzedaż biletów na spotkanie z Osasuną.</description>
+    </item>
     
     <item>
         <title>Sekretna misja w Alpach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141734-espn-real-blisko-przedluzenia-umowy-thiago-pitarcha</link>
         <pubDate>Mon, 11 Aug 2025 19:06:00 GMT</pubDate>
         <description>Pomocnik jest odkryciem okresu przygotowawczego.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Federacja przyjęła wniosek o wywiezienie wyjazdowego meczu Barcelony do USA</title>
-        <link>https://www.realmadryt.pl/news/141733-oficjalnie-federacja-przyjela-wniosek-o-wywiezienie-wyjazdowego-meczu-barcelony-do-usa</link>
-        <pubDate>Mon, 11 Aug 2025 18:07:00 GMT</pubDate>
-        <description>Federacja potwierdziła przyjęcie wniosku o rozegranie ligowego meczu Villarrealu z Barceloną w Stanach Zjednoczonych. Katalończykom odpadnie gra na jednym z trudniejszych terenów w Hiszpanii.</description>
     </item>
     
 </channel>
