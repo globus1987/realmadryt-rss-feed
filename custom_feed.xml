@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 12 Aug 2025 21:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 22:26:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141768-dzisiejsze-okladki</link>
+        <pubDate>Wed, 13 Aug 2025 00:17:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt, wywiezienie meczu La Ligi do Stanów Zjednoczonych i rejestracje Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>WSG Tirol 0:4 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141751-oficjalnie-nazwiska-sedziow-bedziemy-poznawac-dzien-przed-meczami</link>
         <pubDate>Tue, 12 Aug 2025 14:15:00 GMT</pubDate>
         <description>Na oficjalnej stronie Hiszpańskiej Federacji Piłkarskiej pojawił się komunikat dotyczący ogłaszania nazwisk arbitrów na mecze ligowe w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Zdążę na Osasunę, na pewno</title>
-        <link>https://www.realmadryt.pl/news/141750-valverde-zdaze-na-osasune-na-pewno</link>
-        <pubDate>Tue, 12 Aug 2025 12:37:00 GMT</pubDate>
-        <description>Urugwajczyk nie zagra w dzisiejszym sparingu, ale sam zapewnił, że będzie gotowy na otwarcie La Ligi.</description>
     </item>
     
 </channel>
