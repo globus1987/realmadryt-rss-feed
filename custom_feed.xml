@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 12 Aug 2025 16:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Aug 2025 16:59:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>WSG Tirol – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/141757-wsg-tirol-real-madryt-live</link>
+        <pubDate>Tue, 12 Aug 2025 18:55:00 GMT</pubDate>
+        <description>Od 19:00 Real Madryt mierzy się z WSG Tirol w Innsbrucku.</description>
+    </item>
     
     <item>
         <title>WSG Tirol – Real Madryt: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141747-footy-headlines-domowa-koszulka-na-kolejny-sezon-bedzie-miala-dodatki-w-kolorach-zielonym-i-magenta</link>
         <pubDate>Tue, 12 Aug 2025 09:05:00 GMT</pubDate>
         <description>Kolejne przecieki na temat trykotów na kampanię 2026/27.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt rozpoczął sprzedaż biletów na Osasunę</title>
-        <link>https://www.realmadryt.pl/news/141743-real-madryt-rozpoczal-sprzedaz-biletow-na-osasune</link>
-        <pubDate>Tue, 12 Aug 2025 08:40:00 GMT</pubDate>
-        <description>Wobec nieprzełożenia meczu, Królewscy rozpoczęli sprzedaż biletów na spotkanie z Osasuną.</description>
     </item>
     
 </channel>
