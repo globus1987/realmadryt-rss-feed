@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Aug 2025 12:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 13:42:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carreras: Krótkie przygotowania to nie jest problem</title>
+        <link>https://www.realmadryt.pl/news/141775-carreras-krotkie-przygotowania-to-nie-jest-problem</link>
+        <pubDate>Wed, 13 Aug 2025 15:33:00 GMT</pubDate>
+        <description>Álvaro Carreras udzielił wywiadu radiom COPE i SER po wygranym 4:0 sparingu z WSG Tirol. Przedstawiamy wypowiedzi defensora Królewskich.</description>
+    </item>
     
     <item>
         <title>Valverde trenował indywidualnie [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141766-oficjalnie-vinicius-junior-trzecim-kapitanem-realu-madryt</link>
         <pubDate>Wed, 13 Aug 2025 01:06:00 GMT</pubDate>
         <description>Sparing w Austrii wyjaśnił jeden z tematów w hierarchii pierwszej drużyny.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141768-dzisiejsze-okladki</link>
-        <pubDate>Wed, 13 Aug 2025 00:17:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt, wywiezienie meczu La Ligi do Stanów Zjednoczonych i rejestracje Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
