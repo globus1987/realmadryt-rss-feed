@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Aug 2025 21:24:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 21:42:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt pogratulował PSG</title>
+        <link>https://www.realmadryt.pl/news/141790-real-madryt-pogratulowal-psg</link>
+        <pubDate>Wed, 13 Aug 2025 23:40:00 GMT</pubDate>
+        <description>Królewscy od razu po meczu pogratulowali publicznie zwycięzcy finału Superpucharu Europy.</description>
+    </item>
+    
+    <item>
+        <title>Znakomity występ Tavaresa w reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/141789-znakomity-wystep-tavaresa-w-reprezentacji</link>
+        <pubDate>Wed, 13 Aug 2025 23:39:00 GMT</pubDate>
+        <description>Edy Tavares po raz kolejny zachwyca w barwach reprezentacji Republiki Zielonego Przylądka. W dużej mierze przyczynił się do zwycięstwa z Demokratyczną Republiką Konga.</description>
+    </item>
     
     <item>
         <title>Remis Castilli z rezerwami Valencii</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141772-valverde-trenowal-indywidualnie-video</link>
         <pubDate>Wed, 13 Aug 2025 14:44:00 GMT</pubDate>
         <description>Królewscy odbyli przed południem kolejny trening przed nowym sezonem. Poza grupą pozostało sześciu piłkarzy. Były to zajęcia regeneracyjne po wtorkowym sparingu.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x02: Czy sprzedajemy Rodrygo, żeby zrobić miejsce dla...</title>
-        <link>https://www.realmadryt.pl/news/141773-podcast-7x02-czy-sprzedajemy-rodrygo-zeby-zrobic-miejsce-dla</link>
-        <pubDate>Wed, 13 Aug 2025 13:57:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich przed startem La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>10 celów Kyliana Mbappé</title>
-        <link>https://www.realmadryt.pl/news/141771-10-celow-kyliana-mbappe</link>
-        <pubDate>Wed, 13 Aug 2025 11:19:00 GMT</pubDate>
-        <description>Nowy sezon niesie ze sobą nowe nadzieje.</description>
     </item>
     
 </channel>
