@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Aug 2025 20:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 21:24:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Remis Castilli z rezerwami Valencii</title>
+        <link>https://www.realmadryt.pl/news/141786-remis-castilli-z-rezerwami-valencii</link>
+        <pubDate>Wed, 13 Aug 2025 23:06:00 GMT</pubDate>
+        <description>Castilla ma za sobą czwarty sparing podczas okresu przygotowawczego. Tym razem zremisowała z Valencią Mestalla, strzelając gola rzutem na taśmę w ostatnich sekundach rywalizacji.</description>
+    </item>
     
     <item>
         <title>MARCA: Mastantuono zostanie zarejestrowany z numerem gracza ze szkółki</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Superpuchar Europy: Paris Saint-Germain – Tottenham [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/141780-superpuchar-europy-paris-saint-germain-tottenham-na-zywo</link>
+        <title>Paris Saint-Germain zdobyło Superpuchar Europy</title>
+        <link>https://www.realmadryt.pl/news/141780-paris-saint-germain-zdobylo-superpuchar-europy</link>
         <pubDate>Wed, 13 Aug 2025 20:05:00 GMT</pubDate>
-        <description>Wieczornym meczem UEFA otwiera oficjalny sezon piłkarski w Europie. O Superpuchar grają zdobywcy Ligi Mistrzów i Ligi Europy.</description>
+        <description>W meczu oficjalnie otwierającym sezon w Europie po Superpuchar sięgnęli Francuzi.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141771-10-celow-kyliana-mbappe</link>
         <pubDate>Wed, 13 Aug 2025 11:19:00 GMT</pubDate>
         <description>Nowy sezon niesie ze sobą nowe nadzieje.</description>
-    </item>
-    
-    <item>
-        <title>Pretemporada koszykarzy</title>
-        <link>https://www.realmadryt.pl/news/141762-pretemporada-koszykarzy</link>
-        <pubDate>Wed, 13 Aug 2025 10:30:00 GMT</pubDate>
-        <description>Za niecałe dwa tygodnie koszykarze Realu Madryt rozpoczną przygotowania do sezonu 2025/26. Klub zaplanował pięć sparingów przed Superpucharem Endesa.</description>
     </item>
     
 </channel>
