@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 13 Aug 2025 07:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 08:35:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pretemporada koszykarzy</title>
+        <link>https://www.realmadryt.pl/news/141762-pretemporada-koszykarzy</link>
+        <pubDate>Wed, 13 Aug 2025 10:30:00 GMT</pubDate>
+        <description>Za niecałe dwa tygodnie koszykarze Realu Madryt rozpoczną przygotowania do sezonu 2025/26. Klub zaplanował pięć sparingów przed Superpucharem Endesa.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 13 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141759-alaba-czuje-sie-o-wiele-lepiej</link>
         <pubDate>Tue, 12 Aug 2025 21:29:00 GMT</pubDate>
         <description>David Alaba udzielił wywiadu dla klubowej telewizji po wygranym 4:0 sparingu z WSG Tirol. Przedstawiamy wypowiedzi Austriaka.</description>
-    </item>
-    
-    <item>
-        <title>Carreras: To wielka duma móc ponownie założyć tę koszulkę</title>
-        <link>https://www.realmadryt.pl/news/141758-carreras-to-wielka-duma-moc-ponownie-zalozyc-te-koszulke</link>
-        <pubDate>Tue, 12 Aug 2025 21:02:00 GMT</pubDate>
-        <description>Álvaro Carreras udzielił wywiadu dla klubowej telewizji po wygranym 4:0 sparingu z WSG Tirol. Przedstawiamy wypowiedzi defensora Królewskich.</description>
     </item>
     
 </channel>
