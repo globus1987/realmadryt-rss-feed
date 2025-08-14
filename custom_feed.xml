@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Aug 2025 21:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 22:26:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141816-dzisiejsze-okladki</link>
+        <pubDate>Fri, 15 Aug 2025 00:11:00 GMT</pubDate>
+        <description>Start La Ligi, prezentacja Franco Mastantuono i rejestracje Barcelony to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych na świecie.</description>
+    </item>
+    
+    <item>
+        <title>Bruno Fernando MVP meczu z Gwineą</title>
+        <link>https://www.realmadryt.pl/news/141815-bruno-fernando-mvp-meczu-z-gwinea</link>
+        <pubDate>Thu, 14 Aug 2025 23:59:00 GMT</pubDate>
+        <description>Bruno Fernando zanotował drugi bardzo dobry występ na Afrobaskecie. Był najlepszym zawodnikiem na parkiecie w starciu z Gwineą.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: David Cuenca zawodnikiem Talavery</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141800-florentino-franco-bardzo-dziekujemy-ze-chciales-byc-tu-z-nami</link>
         <pubDate>Thu, 14 Aug 2025 13:54:00 GMT</pubDate>
         <description>Florentino Pérez wygłosił tradycyjną przemową podczas prezentacji Franco Mastantuono jako nowego zawodnika Realu Madryt. Przedstawiamy pełne tłumaczenie słów prezesa Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Franco Mastantuono zaprezentowany jako piłkarz Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/141798-franco-mastantuono-zaprezentowany-jako-pilkarz-realu-madryt</link>
-        <pubDate>Thu, 14 Aug 2025 13:37:00 GMT</pubDate>
-        <description>Argentyńczyk pojawił się dzisiaj w Valdebebas, gdzie w towarzystwie prezesa, członków zarządu i swojej rodziny został przedstawiony jako nowy zawodnik Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono będzie grać z numerem 30</title>
-        <link>https://www.realmadryt.pl/news/141797-mastantuono-bedzie-grac-z-numerem-30</link>
-        <pubDate>Thu, 14 Aug 2025 12:54:00 GMT</pubDate>
-        <description>Argentyńczyk otrzymał koszulkę od prezesa Królewskich.</description>
     </item>
     
 </channel>
