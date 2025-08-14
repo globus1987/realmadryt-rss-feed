@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Aug 2025 05:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 06:40:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/141792-krolewscy-maja-dzien-wolny</link>
+        <pubDate>Thu, 14 Aug 2025 08:40:00 GMT</pubDate>
+        <description>Po sparingu i sesji regeneracyjnej dzisiaj zawodnicy otrzymali dzień wolny. Do startu w La Lidze pozostaje 5 dni.</description>
+    </item>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Fran!</title>
+        <link>https://www.realmadryt.pl/news/141788-wszystkiego-najlepszego-fran</link>
+        <pubDate>Thu, 14 Aug 2025 07:50:00 GMT</pubDate>
+        <description>Dziś swoje 26. urodziny obchodzi Fran García. Życzymy z tej okazji Hiszpanowi dalszej regularnej gry, która przyczyni się do konsekwentnego spełniania marzeń w białej koszulce.</description>
+    </item>
     
     <item>
         <title>Szef sędziów Premier League potwierdza dyskusje o rozszerzeniu VAR-u</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141779-castilla-valencia-b-na-zywo</link>
         <pubDate>Wed, 13 Aug 2025 18:59:00 GMT</pubDate>
         <description>Drugi zespół Królewskich pod wodzą nowego trenera kontynuuje przygotowania do sezonu. Czwarty sparing pokaże klubowa telewizja.</description>
-    </item>
-    
-    <item>
-        <title>Bez pośpiechu w sprawie powrotu Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/141778-bez-pospiechu-w-sprawie-powrotu-bellinghama</link>
-        <pubDate>Wed, 13 Aug 2025 17:26:00 GMT</pubDate>
-        <description>Pomocnik najpewniej nie wróci przed końcem października. Zawodnik realizuje specjalny plan, obejmujący m.in. odpoczynek na Jamajce. Obecnie trenuje już w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Jutro prezentacja Franco Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/141774-oficjalnie-jutro-prezentacja-franco-mastantuono</link>
-        <pubDate>Wed, 13 Aug 2025 16:45:00 GMT</pubDate>
-        <description>Klub w oficjalnym komunikacie przekazał, że w czwartek zawodnik podpisze kontrakt i zostanie zaprezentowany jako nowy piłkarz Realu Madryt.</description>
     </item>
     
 </channel>
