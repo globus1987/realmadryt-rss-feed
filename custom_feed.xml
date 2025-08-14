@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Aug 2025 17:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 17:45:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wytyczne dla sędziów na nowy sezon La Ligi</title>
+        <link>https://www.realmadryt.pl/news/141805-wytyczne-dla-sedziow-na-nowy-sezon-la-ligi</link>
+        <pubDate>Thu, 14 Aug 2025 19:41:00 GMT</pubDate>
+        <description>Komitet Techniczny Arbitrów przy Hiszpańskiej Federacji Piłkarskiej opublikował wytyczne dla sędziów na nowy sezon La Ligi. Przedstawiamy ich podsumowanie.</description>
+    </item>
     
     <item>
         <title>Wytyczne dla sędziów ws. zagrań ręką na nowy sezon La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141794-mastantuono-stawil-sie-na-badania-medyczne</link>
         <pubDate>Thu, 14 Aug 2025 12:15:00 GMT</pubDate>
         <description>Argentyński piłkarz ma już za sobą testy medyczne i czeka na swoją prezentację, która ma rozpocząć się o godzinie 13:00 w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>LaLiga+ przejmuje prawa do transmisji Primera Federación</title>
-        <link>https://www.realmadryt.pl/news/141793-laliga-przejmuje-prawa-do-transmisji-primera-federacion</link>
-        <pubDate>Thu, 14 Aug 2025 12:09:00 GMT</pubDate>
-        <description>Kolejny raz doszło do zmiany platformy, na której będą dostępne transmisje meczów z Primera Federación. Prawa trafiły w ręce LaLigi.</description>
     </item>
     
 </channel>
