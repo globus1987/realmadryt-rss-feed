@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Aug 2025 07:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 08:36:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 14 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141785-kartka-z-kalendarza-14-sierpnia</link>
+        <pubDate>Thu, 14 Aug 2025 10:20:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, prezentacja Owena, odejście Baptisty, remis z Barceloną w Superpucharze Hiszpanii, transfer Varane'a, rozpoczęcie sezonów i trofeum w Warszawie z debuitem Kyliana Mbappé. Co działo się 14 sierpnia?</description>
+    </item>
     
     <item>
         <title>La Liga i Związek Piłkarzy monitorują temperatury i rozwążają zmiany w terminarzu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141781-marca-mastantuono-zostanie-zarejestrowany-z-numerem-gracza-ze-szkolki</link>
         <pubDate>Wed, 13 Aug 2025 21:22:00 GMT</pubDate>
         <description>Królewscy mają przypisać Argentyńczykowi numer przeznaczony dla piłkarza ze szkółki, by móc jeszcze wykonać tego lata potencjalny transfer do pierwszej drużyny.</description>
-    </item>
-    
-    <item>
-        <title>Paris Saint-Germain zdobyło Superpuchar Europy</title>
-        <link>https://www.realmadryt.pl/news/141780-paris-saint-germain-zdobylo-superpuchar-europy</link>
-        <pubDate>Wed, 13 Aug 2025 20:05:00 GMT</pubDate>
-        <description>W meczu oficjalnie otwierającym sezon w Europie po Superpuchar sięgnęli Francuzi.</description>
     </item>
     
 </channel>
