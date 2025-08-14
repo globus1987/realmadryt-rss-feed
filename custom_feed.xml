@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Aug 2025 20:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 20:48:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: David Cuenca zawodnikiem Talavery</title>
+        <link>https://www.realmadryt.pl/news/141809-oficjalnie-david-cuenca-zawodnikiem-talavery</link>
+        <pubDate>Thu, 14 Aug 2025 22:38:00 GMT</pubDate>
+        <description>David Cuenca dołączył do licznego grona piłkarzy, którzy tego lata opuścili szkółkę Realu Madryt. Jego nowym klubem jest Talavera de la Reina.</description>
+    </item>
     
     <item>
         <title>Od wyprowadzania piłki – Huijsen</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141797-mastantuono-bedzie-grac-z-numerem-30</link>
         <pubDate>Thu, 14 Aug 2025 12:54:00 GMT</pubDate>
         <description>Argentyńczyk otrzymał koszulkę od prezesa Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono podpisał umowę z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/141796-mastantuono-podpisal-umowe-z-realem-madryt</link>
-        <pubDate>Thu, 14 Aug 2025 12:51:00 GMT</pubDate>
-        <description>Argentyńczyk złożył ostateczny podpis pod kontraktem.</description>
     </item>
     
 </channel>
