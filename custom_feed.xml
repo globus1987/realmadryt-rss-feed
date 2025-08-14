@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 14 Aug 2025 07:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 07:30:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga i Związek Piłkarzy monitorują temperatury i rozwążają zmiany w terminarzu</title>
+        <link>https://www.realmadryt.pl/news/141782-la-liga-i-zwiazek-pilkarzy-monitoruja-temperatury-i-rozwazaja-zmiany-w-terminarzu</link>
+        <pubDate>Thu, 14 Aug 2025 09:30:00 GMT</pubDate>
+        <description>La Liga już przełożyła dwa mecze Primery i Segundy w związku z wysokimi temperaturami. W tej sprawie trwają stałe rozmowy ze Związkiem Piłkarzy i takich ruchów może być więcej.</description>
+    </item>
     
     <item>
         <title>Królewscy mają dzień wolny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141780-paris-saint-germain-zdobylo-superpuchar-europy</link>
         <pubDate>Wed, 13 Aug 2025 20:05:00 GMT</pubDate>
         <description>W meczu oficjalnie otwierającym sezon w Europie po Superpuchar sięgnęli Francuzi.</description>
-    </item>
-    
-    <item>
-        <title>Castilla – Valencia B [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/141779-castilla-valencia-b-na-zywo</link>
-        <pubDate>Wed, 13 Aug 2025 18:59:00 GMT</pubDate>
-        <description>Drugi zespół Królewskich pod wodzą nowego trenera kontynuuje przygotowania do sezonu. Czwarty sparing pokaże klubowa telewizja.</description>
     </item>
     
 </channel>
