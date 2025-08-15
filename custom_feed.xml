@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Aug 2025 21:54:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 22:25:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141840-dzisiejsze-okladki</link>
+        <pubDate>Sat, 16 Aug 2025 00:24:00 GMT</pubDate>
+        <description>Start La Ligi to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Tebas: A rejestrowanie w rezerwach gracza, który nigdy tam nie zagra, to nie jest naruszenie integralności?</title>
+        <link>https://www.realmadryt.pl/news/141838-tebas-a-rejestrowanie-w-rezerwach-gracza-ktory-nigdy-tam-nie-zagra-to-nie-jest-naruszenie-integralnosci</link>
+        <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
+        <description>Javier Tebas udzielił wywiadu Radio Nacional. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Edy Tavares nie wystarczył do zwycięstwa</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141823-oficjalnie-florentino-perez-wygral-w-sadzie-ws-slynnych-tasm-el-confidencial</link>
         <pubDate>Fri, 15 Aug 2025 13:16:00 GMT</pubDate>
         <description>Real Madryt poinformował o zamknięciu procesu sądowego w sprawie słynnych taśm El Confidencial z nagraniami Florentino Péreza. Przedstawiamy pełny komunikat klubu.</description>
-    </item>
-    
-    <item>
-        <title>Efekt Thiago Pitarcha</title>
-        <link>https://www.realmadryt.pl/news/141822-efekt-thiago-pitarcha</link>
-        <pubDate>Fri, 15 Aug 2025 13:09:00 GMT</pubDate>
-        <description>Thiago Pitarch może być cennym wsparciem dla Xabiego Alonso wobec ewidentnych braków w pomocy na starcie sezonu 2025/26. 18-letni pomocnik Castilli już teraz odbywa regularne treningi z pierwszym zespołem.</description>
-    </item>
-    
-    <item>
-        <title>Bournemouth wylęgarnią graczy dla europejskiej czołówki</title>
-        <link>https://www.realmadryt.pl/news/141821-bournemouth-wylegarnia-graczy-dla-europejskiej-czolowki</link>
-        <pubDate>Fri, 15 Aug 2025 12:58:00 GMT</pubDate>
-        <description>Bournemouth prowadzone przez Andoniego Iraolę to na pierwszy rzut oka średniak ligi angielskiej, który jeszcze cztery lata temu występował w Championship i którego stadion mieści nieco ponad 11 tysięcy widzów. W praktyce zespół ten stał się kuźnią talentów dla największych klubów Europy, pisze Pablo Montaño z Asa.</description>
     </item>
     
 </channel>
