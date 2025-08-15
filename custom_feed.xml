@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Aug 2025 15:27:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 15:45:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 1. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/141828-telewizyjny-terminarz-1-kolejki-la-ligi</link>
+        <pubDate>Fri, 15 Aug 2025 17:30:00 GMT</pubDate>
+        <description>Przed nami 1. kolejka La Ligi. Real Madryt zagra u siebie z Osasuną. Gdzie obejrzeć to spotkanie?</description>
+    </item>
     
     <item>
         <title>Lisci: Nie sądzę, by Real niewiele odpoczywał</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141812-oficjalnie-primera-federacion-i-liga-f-beda-miec-var-low-cost</link>
         <pubDate>Fri, 15 Aug 2025 09:30:00 GMT</pubDate>
         <description>W nowym sezonie Primera Federación i kobiecej Lidze F dojdzie do sędziowskiej rewolucji. Drużyny będą mogli dwukrotnie (lub więcej razy, jeśli będą mieli rację) wysłać sędziego do obejrzenia powtórki.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 15 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/141814-kartka-z-kalendarza-15-sierpnia</link>
-        <pubDate>Fri, 15 Aug 2025 08:40:00 GMT</pubDate>
-        <description>Urodziny byłych zawodników, śmierć działacza, debiut fantastycznego ataku i porażka w Superpucharze Europy. Co działo się 15 sierpnia?</description>
     </item>
     
 </channel>
