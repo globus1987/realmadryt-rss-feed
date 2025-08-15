@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Aug 2025 07:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 07:43:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Primera Federación i Liga F będą mieć VAR „low cost”</title>
+        <link>https://www.realmadryt.pl/news/141812-oficjalnie-primera-federacion-i-liga-f-beda-miec-var-low-cost</link>
+        <pubDate>Fri, 15 Aug 2025 09:30:00 GMT</pubDate>
+        <description>W nowym sezonie Primera Federación i kobiecej Lidze F dojdzie do sędziowskiej rewolucji. Drużyny będą mogli dwukrotnie (lub więcej razy, jeśli będą mieli rację) wysłać sędziego do obejrzenia powtórki.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 15 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141805-wytyczne-dla-sedziow-na-nowy-sezon-la-ligi</link>
         <pubDate>Thu, 14 Aug 2025 19:41:00 GMT</pubDate>
         <description>Komitet Techniczny Arbitrów przy Hiszpańskiej Federacji Piłkarskiej opublikował wytyczne dla sędziów na nowy sezon La Ligi. Przedstawiamy ich podsumowanie.</description>
-    </item>
-    
-    <item>
-        <title>Wytyczne dla sędziów ws. zagrań ręką na nowy sezon La Ligi</title>
-        <link>https://www.realmadryt.pl/news/141804-wytyczne-dla-sedziow-ws-zagran-reka-na-nowy-sezon-la-ligi</link>
-        <pubDate>Thu, 14 Aug 2025 19:13:00 GMT</pubDate>
-        <description>Komitet Techniczny Arbitrów przy Hiszpańskiej Federacji Piłkarskiej opublikował wytyczne dla sędziów na nowy sezon La Ligi. Przedstawiamy punkt dotyczący zagrań ręką. Pozostałe przepisy i wytyczne omówimy w kolejnym artykule.</description>
     </item>
     
 </channel>
