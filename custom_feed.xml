@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Aug 2025 18:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 18:58:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie żyje Javier Lambán</title>
+        <link>https://www.realmadryt.pl/news/141832-nie-zyje-javier-lamban</link>
+        <pubDate>Fri, 15 Aug 2025 20:51:00 GMT</pubDate>
+        <description>Klub złożył kondolencje po śmierci hiszpańskiego polityka.</description>
+    </item>
     
     <item>
         <title>Kulisy piątkowego treningu [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141820-franco-mastantuono-odbyl-pierwszy-trening-z-druzyna-video</link>
         <pubDate>Fri, 15 Aug 2025 12:56:00 GMT</pubDate>
         <description>Królewscy po dniu wolnym wrócili do pracy w Valdebebas. Poza grupą pozostało czterech piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Oglądaj mecze La Ligi w serwisie streamingowym CANAL+</title>
-        <link>https://www.realmadryt.pl/news/141819-ogladaj-mecze-la-ligi-w-serwisie-streamingowym-canal</link>
-        <pubDate>Fri, 15 Aug 2025 11:38:00 GMT</pubDate>
-        <description>Współpraca reklamowa. // Rozgrywki La Ligi w Polsce w rozpoczynającym się sezonie wciąż pokazywać będą dwaj nadawcy, a dostęp do wszystkich meczów można uzyskać na platformie jednego z nich.</description>
     </item>
     
 </channel>
