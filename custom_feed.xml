@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 15 Aug 2025 12:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 13:35:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mastantuono: To był intensywny dzień z wysoką temperaturą, ale czerpałem z niego dużo radości</title>
+        <link>https://www.realmadryt.pl/news/141826-mastantuono-to-byl-intensywny-dzien-z-wysoka-temperatura-ale-czerpalem-z-niego-duzo-radosci</link>
+        <pubDate>Fri, 15 Aug 2025 14:58:00 GMT</pubDate>
+        <description>Franco Mastantuono udzielił wywiadu klubowej telewizji po dzisiejszym treningu, swoim pierwszym w Realu Madryt. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Wygraj wyjazd na El Clásico z Fortuną!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141813-dzis-rusza-la-liga-2025-26</link>
         <pubDate>Fri, 15 Aug 2025 07:50:00 GMT</pubDate>
         <description>Już dziś rusza nowy sezon La Ligi. Tytułu mistrzowskiego broni Barcelona, a nowych twarzy będziemy szukać przede wszystkim w Levante, Elche i Realu Oviedo.</description>
-    </item>
-    
-    <item>
-        <title>Media: VAR w La Lidze ma interweniować w mniejszym stopniu</title>
-        <link>https://www.realmadryt.pl/news/141817-media-var-w-la-lidze-ma-interweniowac-w-mniejszym-stopniu</link>
-        <pubDate>Fri, 15 Aug 2025 07:00:00 GMT</pubDate>
-        <description>Przekaz Komitetu Arbitrów dla dziennikarzy wskazuje na próbę zmniejszenia interwencji VAR-u w nowym sezonie La Ligi i większe stawianie na utrzymywanie decyzji na boisku.</description>
     </item>
     
 </channel>
