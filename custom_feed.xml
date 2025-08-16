@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 16 Aug 2025 10:44:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 10:57:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/141844-dzisiejszy-trening</link>
+        <pubDate>Sat, 16 Aug 2025 12:54:00 GMT</pubDate>
+        <description>Królewscy kontynuują pracę w Valdebebas. Poza grupą pozostało czterech piłkarzy. Do pierwszego ligowego meczu pozostają 3 dni.</description>
+    </item>
+    
+    <item>
+        <title>Stoper i reżyser gry w jednym</title>
+        <link>https://www.realmadryt.pl/news/141845-stoper-i-rezyser-gry-w-jednym</link>
+        <pubDate>Sat, 16 Aug 2025 12:49:00 GMT</pubDate>
+        <description>Dean Huijsen nie tylko sprawdza się w defensywie, ale również znakomicie radzi sobie w wyprowadzaniu piłki. Hiszpan daje początek akcjom i jest kluczowy w układance Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Bernabéu gospodarzem 1. kolejki pierwszy raz od siedmiu lat</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141838-tebas-a-rejestrowanie-w-rezerwach-gracza-ktory-nigdy-tam-nie-zagra-to-nie-jest-naruszenie-integralnosci</link>
         <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
         <description>Javier Tebas udzielił wywiadu Radio Nacional. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Edy Tavares nie wystarczył do zwycięstwa</title>
-        <link>https://www.realmadryt.pl/news/141837-edy-tavares-nie-wystarczyl-do-zwyciestwa</link>
-        <pubDate>Fri, 15 Aug 2025 23:04:00 GMT</pubDate>
-        <description>Edy Tavares rozegrał drugi mecz na Afrobaskecie. Tym razem jego gra nie wystarczyła, by pomóc w sprawieniu niespodzianki w starciu z Wybrzeżem Kości Słoniowej.</description>
-    </item>
-    
-    <item>
-        <title>Nie żyje Javier Lambán</title>
-        <link>https://www.realmadryt.pl/news/141832-nie-zyje-javier-lamban</link>
-        <pubDate>Fri, 15 Aug 2025 20:51:00 GMT</pubDate>
-        <description>Klub złożył kondolencje po śmierci hiszpańskiego polityka.</description>
     </item>
     
 </channel>
