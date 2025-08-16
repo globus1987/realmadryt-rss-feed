@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 16 Aug 2025 07:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 08:32:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 16 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141836-kartka-z-kalendarza-16-sierpnia</link>
+        <pubDate>Sat, 16 Aug 2025 10:00:00 GMT</pubDate>
+        <description>Urodziny wychowanka, towarzyski mecz w Warszawie, prezentacja Marco Asensio i bardzo dobry występ w Superpucharze przeciwko Barcelonie. Co działo się 16 sierpnia?</description>
+    </item>
     
     <item>
         <title>Independent: Realowi Madryt zaproponowano światowe tournée zamiast udziału w Lidze Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141829-wielka-zmiana-komitetu-arbitrow-sedziowie-beda-przedstawiani-jak-normalni-ludzie</link>
         <pubDate>Fri, 15 Aug 2025 19:38:00 GMT</pubDate>
         <description>Nowe otwarcie w Komitecie Arbitrów przynosi wielką zmianę... z przedstawianiem sędziów.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 1. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/141828-telewizyjny-terminarz-1-kolejki-la-ligi</link>
-        <pubDate>Fri, 15 Aug 2025 17:30:00 GMT</pubDate>
-        <description>Przed nami 1. kolejka La Ligi. Real Madryt zagra u siebie z Osasuną. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
