@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 16 Aug 2025 10:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 11:21:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsze kolejki specjalnością Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/141847-pierwsze-kolejki-specjalnoscia-rodrygo</link>
+        <pubDate>Sat, 16 Aug 2025 13:20:00 GMT</pubDate>
+        <description>Rodrygo był autorem pierwszego gola Realu Madryt w La Lidze w dwóch ostatnich sezonach. Teraz Brazylijczyk rozpoczyna kampanię 2025/26 otoczony znakami zapytania.</description>
+    </item>
+    
+    <item>
+        <title>Mastantuono wywołuje kolejne kontrowersje… prowadząc samochód</title>
+        <link>https://www.realmadryt.pl/news/141846-mastantuono-wywoluje-kolejne-kontrowersje-prowadzac-samochod</link>
+        <pubDate>Sat, 16 Aug 2025 12:57:00 GMT</pubDate>
+        <description>Transfer Argentyńczyka najpierw wywołał kontrowersje w związku z rejestracją, a następnie z... prowadzeniem przez niego samochodu.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141841-laporta-barca-sie-odrodzila-i-bedziemy-miec-wiele-lat-sukcesow</link>
         <pubDate>Sat, 16 Aug 2025 01:00:00 GMT</pubDate>
         <description>Prezes Barcelony spotkał się z członkami klubowych fanklubów na Majorce. Przedstawiamy przesłanie prezesa Barcelony na start La Ligi z przemówienia do zebranych kibiców.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141840-dzisiejsze-okladki</link>
-        <pubDate>Sat, 16 Aug 2025 00:24:00 GMT</pubDate>
-        <description>Start La Ligi to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: A rejestrowanie w rezerwach gracza, który nigdy tam nie zagra, to nie jest naruszenie integralności?</title>
-        <link>https://www.realmadryt.pl/news/141838-tebas-a-rejestrowanie-w-rezerwach-gracza-ktory-nigdy-tam-nie-zagra-to-nie-jest-naruszenie-integralnosci</link>
-        <pubDate>Sat, 16 Aug 2025 00:00:00 GMT</pubDate>
-        <description>Javier Tebas udzielił wywiadu Radio Nacional. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi z tej rozmowy.</description>
     </item>
     
 </channel>
