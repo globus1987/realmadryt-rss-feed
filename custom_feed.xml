@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 16 Aug 2025 22:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 22:43:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141861-dzisiejsze-okladki</link>
+        <pubDate>Sun, 17 Aug 2025 00:42:00 GMT</pubDate>
+        <description>Wygrana Barcelony to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Arrasate: Sędzia ocenił, że Raíllo nie miał zawrotów głowy; zobaczymy, czy w innych meczach będą to puszczać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141847-pierwsze-kolejki-specjalnoscia-rodrygo</link>
         <pubDate>Sat, 16 Aug 2025 13:20:00 GMT</pubDate>
         <description>Rodrygo był autorem pierwszego gola Realu Madryt w La Lidze w dwóch ostatnich sezonach. Teraz Brazylijczyk rozpoczyna kampanię 2025/26 otoczony znakami zapytania.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono wywołuje kolejne kontrowersje… prowadząc samochód</title>
-        <link>https://www.realmadryt.pl/news/141846-mastantuono-wywoluje-kolejne-kontrowersje-prowadzac-samochod</link>
-        <pubDate>Sat, 16 Aug 2025 12:57:00 GMT</pubDate>
-        <description>Transfer Argentyńczyka najpierw wywołał kontrowersje w związku z rejestracją, a następnie z... prowadzeniem przez niego samochodu.</description>
     </item>
     
 </channel>
