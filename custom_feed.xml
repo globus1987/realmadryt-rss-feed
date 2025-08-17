@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 17 Aug 2025 21:23:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 21:42:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>1. kolejka: Atlético przegrywa po remontadzie Espanyolu!</title>
+        <link>https://www.realmadryt.pl/news/141884-1-kolejka-atletico-przegrywa-po-remontadzie-espanyolu</link>
+        <pubDate>Sun, 17 Aug 2025 23:26:00 GMT</pubDate>
+        <description>Sąsiedzi Królewscy zaczęli sezon od porażki, chociaż wygrywali na wyjeździe. Przypominamy, że kolej Real Madryt przyjdzie we wtorek.</description>
+    </item>
     
     <item>
         <title>Dobry mecz Tavaresa, jego reprezentacja gra dalej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141870-wygrana-castilli-piaty-gol-rachada-video</link>
         <pubDate>Sun, 17 Aug 2025 12:35:00 GMT</pubDate>
         <description>Castilla ma za sobą kolejny etap przygotowań do sezonu. W piątym sparingu pokonała Ibizę 2:1. Dobrymi wiadomościami są piąty gol Rachada oraz Joan Martínez, który otrzymał od Arbeloi 77. minut. Obrońca jest bliski powrotu do pełnej dyspozycji.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt z największą wyceną banku JP Morgan wśród klubów piłkarskich</title>
-        <link>https://www.realmadryt.pl/news/141869-real-madryt-z-najwieksza-wycena-banku-jp-morgan-wsrod-klubow-pilkarskich</link>
-        <pubDate>Sun, 17 Aug 2025 12:09:00 GMT</pubDate>
-        <description>Amerykański bank inwestycyjny uznał Królewskich za klub sportowy z największą wartością na świecie, chociaż wskazuje, że lepsze warunki do rozwoju mają zespoły z Premier League i organizacje z Stanów Zjednoczonych.</description>
     </item>
     
 </channel>
