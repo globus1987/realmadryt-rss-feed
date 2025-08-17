@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 17 Aug 2025 09:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 09:56:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowa rzeczywistość Gülera</title>
+        <link>https://www.realmadryt.pl/news/141868-nowa-rzeczywistosc-guelera</link>
+        <pubDate>Sun, 17 Aug 2025 11:46:00 GMT</pubDate>
+        <description>Arda Güler przechodzi obecnie swoje najlepsze chwile w Realu Madryt. 20-letni Turek znalazł zaufanie w oczach Xabiego Alonso i sezon 2025/26 rozpoczyna w zupełnie innych okolicznościach niż dotychczas.</description>
+    </item>
     
     <item>
         <title>El Confidencial: Federacja zatwierdziła wywiezienie meczu La Ligi bez podstawowych informacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141858-chorwacja-rozbila-norwegie-hezonja-znow-mvp</link>
         <pubDate>Sat, 16 Aug 2025 23:02:00 GMT</pubDate>
         <description>Chorwacja pewnym krokiem przechodzi przez wstępną fazę eliminacji do mistrzostw świata. Pokonała Norwegię, zdobywając od nich prawie dwa razy więcej punktów. Mario Hezonja kolejny raz był najlepszym graczem spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Angola w ćwierćfinale, słaby występ Bruno Fernando</title>
-        <link>https://www.realmadryt.pl/news/141856-angola-w-cwiercfinale-slaby-wystep-bruno-fernando</link>
-        <pubDate>Sat, 16 Aug 2025 22:40:00 GMT</pubDate>
-        <description>Bruno Fernando po dwóch dobrych meczach zaliczył słabsze spotkanie, ale to nie przeszkodziło jego reprezentacji w odniesieniu zwycięstwa. Angola zapewniła sobie miejsce w ćwierćfinale i teraz czeka na rywala.</description>
     </item>
     
 </channel>
