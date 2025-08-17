@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 17 Aug 2025 07:54:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 08:32:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 17 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141866-kartka-z-kalendarza-17-sierpnia</link>
+        <pubDate>Sun, 17 Aug 2025 10:31:00 GMT</pubDate>
+        <description>Dwie porażki w Superpucharze Hiszpanii, palec Mourinho, transfer niemieckiego pomocnika i udana inauguracja mistrzowskiego sezonu. Co działo się 17 sierpnia?</description>
+    </item>
     
     <item>
         <title>Ceballos traci na znaczeniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141855-kulisy-sobotniego-treningu-video</link>
         <pubDate>Sat, 16 Aug 2025 19:42:00 GMT</pubDate>
         <description>Klubowa telewizja opublikowała materiał wideo z sobotniego treningu w Valdebebas. Poza grupą pozostaje czterech piłkarzy. Pierwszy mecz La Ligi już we wtorek.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Jeden miesiąc za nami</title>
-        <link>https://www.realmadryt.pl/news/141854-bellingham-jeden-miesiac-za-nami</link>
-        <pubDate>Sat, 16 Aug 2025 19:30:00 GMT</pubDate>
-        <description>Anglik symbolicznie odliczył miesiąc od swojej operacji. Wstępnie przed nim jeszcze dwa miesiące rehabilitacji.</description>
     </item>
     
 </channel>
