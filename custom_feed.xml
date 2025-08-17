@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 17 Aug 2025 22:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Aug 2025 23:24:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141887-dzisiejsze-okladki</link>
+        <pubDate>Mon, 18 Aug 2025 00:52:00 GMT</pubDate>
+        <description>Sukcesy hiszpańskich sportowców i echa wygranej Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>1. kolejka: Atlético przegrywa po remontadzie Espanyolu!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141871-przedostatni-trening-przed-osasuna-video</link>
         <pubDate>Sun, 17 Aug 2025 12:48:00 GMT</pubDate>
         <description>Królewscy kontynuują pracę w Valdebebas. Poza grupą pozostało czterech piłkarzy. Do pierwszego ligowego meczu pozostają 2 dni i już tylko jeden trening.</description>
-    </item>
-    
-    <item>
-        <title>Wygrana Castilli, piąty gol Rachada [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141870-wygrana-castilli-piaty-gol-rachada-video</link>
-        <pubDate>Sun, 17 Aug 2025 12:35:00 GMT</pubDate>
-        <description>Castilla ma za sobą kolejny etap przygotowań do sezonu. W piątym sparingu pokonała Ibizę 2:1. Dobrymi wiadomościami są piąty gol Rachada oraz Joan Martínez, który otrzymał od Arbeloi 77. minut. Obrońca jest bliski powrotu do pełnej dyspozycji.</description>
     </item>
     
 </channel>
