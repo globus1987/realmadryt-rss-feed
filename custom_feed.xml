@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Aug 2025 14:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 14:33:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Osasuny na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/141894-kadra-osasuny-na-mecz-z-realem</link>
+        <pubDate>Mon, 18 Aug 2025 16:26:00 GMT</pubDate>
+        <description>Rywale ogłosili kadrę na swój mecz i do Madrytu przyjeżdżają bez tylko jednego piłkarza.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Osasunę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141888-chiringuito-gol-atletico-madryt-zostal-zdobyty-nieprawidlowo</link>
         <pubDate>Mon, 18 Aug 2025 02:32:00 GMT</pubDate>
         <description>Po ogromnych kontrowersjach w meczu Barcelony okazało się, że sędzia mógł przyjść z pomocą także Atlético Madryt, przy czym Rojiblancos swój mecz ostatecznie przegrali.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141887-dzisiejsze-okladki</link>
-        <pubDate>Mon, 18 Aug 2025 00:52:00 GMT</pubDate>
-        <description>Sukcesy hiszpańskich sportowców i echa wygranej Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
