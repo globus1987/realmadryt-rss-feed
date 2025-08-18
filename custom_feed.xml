@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Aug 2025 10:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 10:55:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy Real Madryt może jeszcze kogoś pozyskać?</title>
+        <link>https://www.realmadryt.pl/news/141892-czy-real-madryt-moze-jeszcze-kogos-pozyskac</link>
+        <pubDate>Mon, 18 Aug 2025 12:54:00 GMT</pubDate>
+        <description>Dziennikarze The Athletic przekazali swoje informacje w sprawie planów transferowych Realu Madryt. Do zamknięcia okienka pozostają dokładnie dwa tygodnie.</description>
+    </item>
     
     <item>
         <title>Kwadrans ostatniego treningu przed Osasuną [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141878-tylko-athletic-i-valencia-unikneli-goli-mbappe</link>
         <pubDate>Sun, 17 Aug 2025 19:28:00 GMT</pubDate>
         <description>Athletic Bilbao i Valencia są jedynymi drużynami, którym w poprzednim sezonie La Ligi Kylian Mbappé nie zdołał strzelić ani jednego gola. Z drugiej strony ulubioną ofiarą Francuza jest Barcelona, której strzelił pięć goli.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy niedzielnego treningu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141877-kulisy-niedzielnego-treningu-video</link>
-        <pubDate>Sun, 17 Aug 2025 18:25:00 GMT</pubDate>
-        <description>Klubowa telewizja opublikowała materiał wideo z niedzielnego treningu w Valdebebas. Poza grupą pozostaje czterech piłkarzy. Pierwszy mecz La Ligi już we wtorek.</description>
     </item>
     
 </channel>
