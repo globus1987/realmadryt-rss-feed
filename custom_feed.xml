@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Aug 2025 11:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 12:59:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Osasunę</title>
+        <link>https://www.realmadryt.pl/news/141893-kadra-realu-madryt-na-osasune</link>
+        <pubDate>Mon, 18 Aug 2025 14:53:00 GMT</pubDate>
+        <description>Królewscy podejdą do pierwszego meczu La Ligi bez pięciu piłkarzy pierwszego zespołu. Xabi Alonso powołał na spotkanie 22 zawodników.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Prosiliśmy o więcej czasu ze względu na zdrowie graczy, ale teraz nie ma żadnych wymówek</title>
@@ -21,8 +28,8 @@
     </item>
     
     <item>
-        <title>Ostatni trening przed Osasuną</title>
-        <link>https://www.realmadryt.pl/news/141891-ostatni-trening-przed-osasuna</link>
+        <title>Ostatni trening przed Osasuną [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/141891-ostatni-trening-przed-osasuna-video</link>
         <pubDate>Mon, 18 Aug 2025 13:09:00 GMT</pubDate>
         <description>Królewscy kontynuują pracę w Valdebebas. Poza grupą pozostało czterech piłkarzy. Pierwszy ligowy mecz już jutro.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141887-dzisiejsze-okladki</link>
         <pubDate>Mon, 18 Aug 2025 00:52:00 GMT</pubDate>
         <description>Sukcesy hiszpańskich sportowców i echa wygranej Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>1. kolejka: Atlético przegrywa po remontadzie Espanyolu!</title>
-        <link>https://www.realmadryt.pl/news/141884-1-kolejka-atletico-przegrywa-po-remontadzie-espanyolu</link>
-        <pubDate>Sun, 17 Aug 2025 23:26:00 GMT</pubDate>
-        <description>Sąsiedzi Królewskich zaczęli sezon od porażki, chociaż wygrywali na wyjeździe. Przypominamy, że kolej Realu Madryt przyjdzie we wtorek.</description>
     </item>
     
 </channel>
