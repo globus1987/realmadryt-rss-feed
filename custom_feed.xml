@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Aug 2025 16:59:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 17:30:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Od CKM do TGV</title>
+        <link>https://www.realmadryt.pl/news/141904-od-ckm-do-tgv</link>
+        <pubDate>Mon, 18 Aug 2025 19:08:00 GMT</pubDate>
+        <description>Valverde jest liderem rewolucji w środku pola Realu Madryt. Bez Modricia, tercet CKM całkowicie zniknął po 13 latach. Teraz na scenę może wejść inny tercet, TGV.</description>
+    </item>
+    
+    <item>
+        <title>Figo: Będąc w Realu musisz mieć świadomość, że grasz o wszystko</title>
+        <link>https://www.realmadryt.pl/news/141903-figo-bedac-w-realu-musisz-miec-swiadomosc-ze-grasz-o-wszystko</link>
+        <pubDate>Mon, 18 Aug 2025 19:01:00 GMT</pubDate>
+        <description>Luís Figo udzielił wywiadu dla hiszpańskiego bukmachera Betfair, którego jest ambasadorem. Przedstawiamy przemyślenia Portugalczyka na temat rozpoczynającego się sezonu Primera División i Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Viníciusowi leży Osasuna</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141890-xabi-alonso-prosilismy-o-wiecej-czasu-ze-wzgledu-na-zdrowie-graczy-ale-teraz-nie-ma-zadnych-wymowek</link>
         <pubDate>Mon, 18 Aug 2025 13:45:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Osasuną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny i dokładny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Cordero Vega na Osasunę</title>
-        <link>https://www.realmadryt.pl/news/141885-cordero-vega-na-osasune</link>
-        <pubDate>Mon, 18 Aug 2025 13:30:00 GMT</pubDate>
-        <description>Zgodnie z zapowiedzią dzień przed meczem ligowym opublikowano nazwiska arbitrów na jutrzejszą potyczkę Realu Madryt z Osasuną.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Osasuną [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141891-ostatni-trening-przed-osasuna-video</link>
-        <pubDate>Mon, 18 Aug 2025 13:09:00 GMT</pubDate>
-        <description>Królewscy kontynuują pracę w Valdebebas. Poza grupą pozostało czterech piłkarzy. Pierwszy ligowy mecz już jutro.</description>
     </item>
     
 </channel>
