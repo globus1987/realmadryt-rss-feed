@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Aug 2025 21:54:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 22:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141913-dzisiejsze-okladki</link>
+        <pubDate>Tue, 19 Aug 2025 00:20:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wywiad z Marcusem Rahsfordem to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Napastnicy nie mogą się wyłączać, ale obrońcy i pomocnicy też muszą naciskać</title>
+        <link>https://www.realmadryt.pl/news/141902-xabi-alonso-napastnicy-nie-moga-sie-wylaczac-ale-obroncy-i-pomocnicy-tez-musza-naciskac</link>
+        <pubDate>Tue, 19 Aug 2025 00:00:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Osasuną w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Real Madryt pogratulował Carlosowi Alcarazowi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141899-lisci-klubowy-mundial-posluzyl-realowi-jako-pretemporada</link>
         <pubDate>Mon, 18 Aug 2025 18:13:00 GMT</pubDate>
         <description>Trener Osasuny, Alessio Lisci, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 1. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi włoskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy ostatniego treningu przed meczem z Osasuną [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141898-kulisy-ostatniego-treningu-przed-meczem-z-osasuna-video</link>
-        <pubDate>Mon, 18 Aug 2025 18:07:00 GMT</pubDate>
-        <description>Klubowa telewizja opublikowała materiał wideo z ostatnich zajęć w Valdebebas przed meczem z Osasuną.</description>
-    </item>
-    
-    <item>
-        <title>Catena: Przyjazd na Bernabéu zawsze motywuje</title>
-        <link>https://www.realmadryt.pl/news/141897-catena-przyjazd-na-bernabeu-zawsze-motywuje</link>
-        <pubDate>Mon, 18 Aug 2025 17:28:00 GMT</pubDate>
-        <description>Zawodnik Los Rojillos udzielił wywiadu dziennikowi MARCA, w którym opowiedział między innymi o przygotowaniach drużyny do starcia z Realem Madryt.</description>
     </item>
     
 </channel>
