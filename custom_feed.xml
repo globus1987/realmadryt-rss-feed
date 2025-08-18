@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 18 Aug 2025 21:24:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Aug 2025 21:41:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Real Madryt pogratulował Carlosowi Alcarazowi</title>
+        <link>https://www.realmadryt.pl/news/141912-oficjalnie-real-madryt-pogratulowal-carlosowi-alcarazowi</link>
+        <pubDate>Mon, 18 Aug 2025 23:35:00 GMT</pubDate>
+        <description>Królewscy wystosowali gratulacje wobec tenisisty, który odniósł kolejne wielkie zwycięstwo w swojej karierze.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Powstanie koszykarska Liga U</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141897-catena-przyjazd-na-bernabeu-zawsze-motywuje</link>
         <pubDate>Mon, 18 Aug 2025 17:28:00 GMT</pubDate>
         <description>Zawodnik Los Rojillos udzielił wywiadu dziennikowi MARCA, w którym opowiedział między innymi o przygotowaniach drużyny do starcia z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Luka Modrić zadebiutował w Milanie</title>
-        <link>https://www.realmadryt.pl/news/141896-luka-modric-zadebiutowal-w-milanie</link>
-        <pubDate>Mon, 18 Aug 2025 17:04:00 GMT</pubDate>
-        <description>Pomocnik zaliczył pierwszy oficjalny występ w czerwono-czarnych barwach.</description>
     </item>
     
 </channel>
