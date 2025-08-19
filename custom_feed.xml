@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Aug 2025 18:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 18:56:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Osasuna [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/141929-real-madryt-osasuna-live</link>
+        <pubDate>Tue, 19 Aug 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 na Santiago Bernabéu trwa mecz 1. kolejki La Ligi, w którym Real Madryt podejmuje Osasunę.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Osasuną [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141917-kartka-z-kalendarza-19-sierpnia</link>
         <pubDate>Tue, 19 Aug 2025 10:50:00 GMT</pubDate>
         <description>Wizyta w Afryce, mecze o Superpuchar Hiszpanii, ligowy debiut Julena Lopeteguiego w Realu Madryt i odejście Casemiro. Co działo się 19 sierpnia?</description>
-    </item>
-    
-    <item>
-        <title>Ser y estar fuerte</title>
-        <link>https://www.realmadryt.pl/news/141839-ser-y-estar-fuerte</link>
-        <pubDate>Tue, 19 Aug 2025 10:00:00 GMT</pubDate>
-        <description>Być czy być?</description>
     </item>
     
 </channel>
