@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Aug 2025 15:45:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 16:32:34 GMT</lastBuildDate>
     
     <item>
-        <title>MARCA: Osasuna sama rejestrowała seniora w szkółce</title>
-        <link>https://www.realmadryt.pl/news/141923-marca-osasuna-sama-rejestrowala-seniora-w-szkolce</link>
+        <title>Rüdiger wypełni dzisiaj zawieszenie za finał Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/141925-ruediger-wypelni-dzisiaj-zawieszenie-za-final-pucharu-krola</link>
+        <pubDate>Tue, 19 Aug 2025 18:12:00 GMT</pubDate>
+        <description>Niemiec nie jest dostępny na dzisiejszy mecz z powodu zawieszenia, ale to ostatnie przegapione spotkanie z wymierzonej mu kary.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Osasuna sama zarejestrowała seniora w szkółce</title>
+        <link>https://www.realmadryt.pl/news/141923-marca-osasuna-sama-zarejestrowala-seniora-w-szkolce</link>
         <pubDate>Tue, 19 Aug 2025 17:44:00 GMT</pubDate>
         <description>Madrycki dziennik potwierdza, że Osasuna nie zamierza zaskarżać Realu Madryt za wystawienie Franco Mastantuono. Jeden z powodów jest taki, że... sama zrobiła podobny ruch.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141915-ostatni-dzien-konkursu-fortuny-z-wyjazdem-na-el-clasico</link>
         <pubDate>Tue, 19 Aug 2025 07:45:00 GMT</pubDate>
         <description>Współpraca reklamowa.</description>
-    </item>
-    
-    <item>
-        <title>Romano: City postara się o Rodrygo, jeśli odejdzie Savinho</title>
-        <link>https://www.realmadryt.pl/news/141911-romano-city-postara-sie-o-rodrygo-jesli-odejdzie-savinho</link>
-        <pubDate>Tue, 19 Aug 2025 07:00:00 GMT</pubDate>
-        <description>Fabrizio Romano wystąpił w DAZN w cyklicznym programie o transferach. Przedstawiamy wypowiedzi włoskiego dziennikarza transferowego, który kolejny raz zapewnia o możlwości odejścia Rodrygo do Manchesteru City.</description>
     </item>
     
 </channel>
