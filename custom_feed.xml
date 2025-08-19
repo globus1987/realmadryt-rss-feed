@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Aug 2025 05:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 06:39:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi zaczynie dziś pisać swoją ligową historię</title>
+        <link>https://www.realmadryt.pl/news/141909-xabi-zaczynie-dzis-pisac-swoja-ligowa-historie</link>
+        <pubDate>Tue, 19 Aug 2025 08:30:00 GMT</pubDate>
+        <description>Bask będzie 48. trenerem w historii, który poprowadzi Real w La Lidze.</description>
+    </item>
     
     <item>
         <title>Ostatni dzień konkursu Fortuny z wyjazdem na El Clásico!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141905-globo-vini-bez-powolania-na-wrzesniowe-zgrupowanie-reprezentacji-brazylii</link>
         <pubDate>Mon, 18 Aug 2025 20:55:00 GMT</pubDate>
         <description>Jak podaje brazylijskie Globo, Vini nie otrzyma powołania na najbliższe zgrupowanie reprezentacji Brazylii. Ancelotti zdecydował się dać odpoczynek atakującemu Królewskich, który i tak pozostaje zawieszony na mecz z Chile. Do kadry wraca za to dwóch innych graczy Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Od CKM do TGV</title>
-        <link>https://www.realmadryt.pl/news/141904-od-ckm-do-tgv</link>
-        <pubDate>Mon, 18 Aug 2025 19:08:00 GMT</pubDate>
-        <description>Valverde jest liderem rewolucji w środku pola Realu Madryt. Bez Modricia, tercet CKM całkowicie zniknął po 13 latach. Teraz na scenę może wejść inny tercet, TGV.</description>
     </item>
     
 </channel>
