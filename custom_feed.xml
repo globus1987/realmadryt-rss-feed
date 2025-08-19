@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Aug 2025 07:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 08:34:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ser y estar fuerte</title>
+        <link>https://www.realmadryt.pl/news/141839-ser-y-estar-fuerte</link>
+        <pubDate>Tue, 19 Aug 2025 10:00:00 GMT</pubDate>
+        <description>Być czy być?</description>
+    </item>
     
     <item>
         <title>Militão wraca na start</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141908-oficjalnie-abalde-nie-zagra-na-eurobaskecie</link>
         <pubDate>Mon, 18 Aug 2025 22:17:00 GMT</pubDate>
         <description>Alberto Abalde nie weźmie udziału w Eurobaskecie. W starciu z Francją doznał kontuzji, która wyłączy go z gry na okres od 2 do 3 tygodni.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV pokazuje błędy sędziów, ale nie poprzez filmiki [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/141906-real-madrid-tv-pokazuje-bledy-sedziow-ale-nie-poprzez-filmiki-video</link>
-        <pubDate>Mon, 18 Aug 2025 21:19:00 GMT</pubDate>
-        <description>Klubowa telewizja wypowiedziała się na temat obsady na wtorkowy mecz z Osasuną. Ostatecznie nie opublikowano filmików w starym stylu.</description>
     </item>
     
 </channel>
