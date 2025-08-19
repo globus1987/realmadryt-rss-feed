@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 19 Aug 2025 22:24:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Aug 2025 22:43:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141940-dzisiejsze-okladki</link>
+        <pubDate>Wed, 20 Aug 2025 00:29:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rubén García: Real zasłużył na zwycięstwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141926-bedzie-madrycki-pojedynek-na-afrobaskecie</link>
         <pubDate>Tue, 19 Aug 2025 19:56:00 GMT</pubDate>
         <description>Republika Zielonego Przylądka pokonała Tunezję i zagra w ćwierćfinale przeciwko Angoli. Edy Tavares był przez selekcjonera oszczędzany, ale w kolejnym spotkaniu można się spodziewać, że spędzi na parkiecie nawet ponad 30 minut.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Osasuna: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/141924-real-madryt-osasuna-znamy-sklady</link>
-        <pubDate>Tue, 19 Aug 2025 19:41:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w pierwszym meczu La Ligi. Mecz rozpocznie się o godzinie 21:00 na Bernabéu.</description>
     </item>
     
 </channel>
