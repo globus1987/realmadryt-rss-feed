@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Aug 2025 21:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 22:23:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141961-dzisiejsze-okladki</link>
+        <pubDate>Thu, 21 Aug 2025 00:02:00 GMT</pubDate>
+        <description>Drybling Kyliana Mbappé, ekscytacja wokół Franco Mastantuono i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hezonja doznał kontuzji w meczu z Danią</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141948-sesja-regeneracyjna-w-valdebebas-video</link>
         <pubDate>Wed, 20 Aug 2025 14:34:00 GMT</pubDate>
         <description>Królewscy wrócili do pracy w Valdebebas. Poza grupą pozostaje czterech piłkarzy. Był to trening regeneracyjny po wczorajszym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV atakuje sędziów ws. czerwonych kartek</title>
-        <link>https://www.realmadryt.pl/news/141946-real-madrid-tv-atakuje-sedziow-ws-czerwonych-kartek</link>
-        <pubDate>Wed, 20 Aug 2025 13:35:00 GMT</pubDate>
-        <description>Klubowa telewizja przed meczem z Osasuną krytycznie oceniła jeden z aspektów w pracy sędziów La Ligi.</description>
     </item>
     
 </channel>
