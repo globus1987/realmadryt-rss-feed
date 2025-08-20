@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Aug 2025 12:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 13:34:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo nie wchodzi z cienia</title>
+        <link>https://www.realmadryt.pl/news/141949-rodrygo-nie-wchodzi-z-cienia</link>
+        <pubDate>Wed, 20 Aug 2025 15:31:00 GMT</pubDate>
+        <description>Mecz z Realem Oviedo pokaże, w jakim momencie tak naprawdę znajduje się Rodrygo i jaka ma być jego rola w zespole Xabiego.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Osasuną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141941-trener-osasuny-to-mbappe-pierwszy-depcze-juana</link>
         <pubDate>Wed, 20 Aug 2025 05:30:00 GMT</pubDate>
         <description>Alessio Lisci pojawił się na konferencji prasowej po meczu z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi trenera Osasuny.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/141940-dzisiejsze-okladki</link>
-        <pubDate>Wed, 20 Aug 2025 00:29:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
