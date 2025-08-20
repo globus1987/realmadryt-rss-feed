@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Aug 2025 11:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 12:53:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/141947-oceny-zawodnikow-po-meczu-z-osasuna</link>
+        <pubDate>Wed, 20 Aug 2025 14:44:00 GMT</pubDate>
+        <description>Real Madryt wygrał 1:0 z Osasuną. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
+    
+    <item>
+        <title>Sesja regeneracyjna w Valdebebas [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/141948-sesja-regeneracyjna-w-valdebebas-video</link>
+        <pubDate>Wed, 20 Aug 2025 14:34:00 GMT</pubDate>
+        <description>Królewscy wrócili do pracy w Valdebebas. Poza grupą pozostaje czterech piłkarzy. Był to trening regeneracyjny po wczorajszym spotkaniu.</description>
+    </item>
     
     <item>
         <title>Real Madrid TV atakuje sędziów ws. czerwonych kartek</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141940-dzisiejsze-okladki</link>
         <pubDate>Wed, 20 Aug 2025 00:29:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rubén García: Real zasłużył na zwycięstwo</title>
-        <link>https://www.realmadryt.pl/news/141938-ruben-garcia-real-zasluzyl-na-zwyciestwo</link>
-        <pubDate>Tue, 19 Aug 2025 23:49:00 GMT</pubDate>
-        <description>Rubén García udzielił wywiadu z murawy dla platformy DAZN po przegranym 0:1 meczu z Realem Madryt na Estadio Santiago Bernabéu. Przedstawiamy wypowiedzi gracza Osasuny.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Osasuna grała bardzo nisko i było nam trudno</title>
-        <link>https://www.realmadryt.pl/news/141937-xabi-alonso-osasuna-grala-bardzo-nisko-i-bylo-nam-trudno</link>
-        <pubDate>Tue, 19 Aug 2025 23:36:00 GMT</pubDate>
-        <description>Xabi Alonso po meczu z Osasuną udzielił wywiadu Real Madrid TV. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
