@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Aug 2025 07:27:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 07:44:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 20 sierpnia</title>
+        <link>https://www.realmadryt.pl/news/141930-kartka-z-kalendarza-20-sierpnia</link>
+        <pubDate>Wed, 20 Aug 2025 09:30:00 GMT</pubDate>
+        <description>Jubileusz RealMadryt.pl, transfer angielskiego obrońcy, udana inauguracja nieudanego sezonu ligowego i mistrzostwo świata Hiszpanek. Co działo się 20 sierpnia?</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Oczywiście, że liczę na Rodrygo, to tylko jeden mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141931-1-kolejka-real-wygrywa-ale-barcelona-pozostaje-liderem</link>
         <pubDate>Tue, 19 Aug 2025 23:10:00 GMT</pubDate>
         <description>Dziś zakończono pięciodniową kolejkę La Ligi. Co przyniosła pierwsza seria gier?</description>
-    </item>
-    
-    <item>
-        <title>Kylian Mbappé MVP meczu Realu z Osasuną</title>
-        <link>https://www.realmadryt.pl/news/141932-kylian-mbappe-mvp-meczu-realu-z-osasuna</link>
-        <pubDate>Tue, 19 Aug 2025 23:07:00 GMT</pubDate>
-        <description>Francuz został wyróżniony w wygranym meczu z Osasuną.</description>
     </item>
     
 </channel>
