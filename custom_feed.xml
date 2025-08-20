@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 20 Aug 2025 03:54:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 04:30:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/141939-pichichi-zamora-asistencias</link>
+        <pubDate>Wed, 20 Aug 2025 06:00:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 1. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Trener Osasuny: To Mbappé pierwszy depcze Juana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141929-wygrana-bez-efektu-wow</link>
         <pubDate>Tue, 19 Aug 2025 20:55:00 GMT</pubDate>
         <description>W meczu 1. kolejki La Ligi Real Madryt wygrał u siebie z Osasuną 1:0. Jedyną bramkę zdobył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Osasuną [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/141927-rozgrzewka-przed-osasuna-na-zywo</link>
-        <pubDate>Tue, 19 Aug 2025 20:00:00 GMT</pubDate>
-        <description>Królewscy po 20:20 wybiegną na murawę i rozpoczną rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Osasuną. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
     </item>
     
 </channel>
