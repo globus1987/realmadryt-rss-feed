@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 22:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 22:43:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/141986-dzisiejsze-okladki</link>
+        <pubDate>Fri, 22 Aug 2025 00:43:00 GMT</pubDate>
+        <description>Klasa Deana Huijsena oraz plany Realu Madryt i Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Diego Piñeiro zawodnikiem Realu Murcia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141972-pilkarki-wysoko-przegraly-z-bayernem</link>
         <pubDate>Thu, 21 Aug 2025 18:46:00 GMT</pubDate>
         <description>Królewskie zdecydowanie przegrały z Bayernem w ostatnim sparingu przed sezonem. Za tydzień rusza Liga F, a zbliżają się też eliminacje do Ligi Mistrzyń.</description>
-    </item>
-    
-    <item>
-        <title>Franco Mastantuono będzie mógł grać w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/141971-franco-mastantuono-bedzie-mogl-grac-w-lidze-mistrzow</link>
-        <pubDate>Thu, 21 Aug 2025 17:12:00 GMT</pubDate>
-        <description>Prawnik, który próbuje zrobić aferę z rejestracji Argentyńczyka, złapał się nawet wiadomości portalu Defensa Central, który po wyjaśnieniach ekspertów szybko wycofał się ze swoich clickbaitowych informacji.</description>
     </item>
     
 </channel>
