@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 09:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 10:27:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sprint Mastantuono</title>
+        <link>https://www.realmadryt.pl/news/141966-sprint-mastantuono</link>
+        <pubDate>Thu, 21 Aug 2025 12:10:00 GMT</pubDate>
+        <description>Najnowszy nabytek Realu Madryt zadebiutował we wtorek na Santiago Bernabéu. Już pięć dni po osiemnastych urodzinach mógł liczyć na zaufanie Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Królewscy mają dzień wolny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141957-nikt-nie-zglosil-skargi-w-sprawie-wystepu-mastantuono</link>
         <pubDate>Wed, 20 Aug 2025 22:12:00 GMT</pubDate>
         <description>Żaden klub Primera División nie złożył dzisiaj skargi na Królewskich w sprawie występu Argentyńczyka w meczu z Osasuną.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé odzyskuje ducha</title>
-        <link>https://www.realmadryt.pl/news/141955-mbappe-odzyskuje-ducha</link>
-        <pubDate>Wed, 20 Aug 2025 20:45:00 GMT</pubDate>
-        <description>Kylian Mbappé w pierwszym meczu z Osasuną udowodnił, że zaczyna odzyskiwać swoją najlepszą wersję. Po 1. kolejce La Ligi francuski atakujący jest już zawodnikiem z największą liczbą udanych dryblingów.</description>
     </item>
     
 </channel>
