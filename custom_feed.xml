@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 04:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 05:25:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nieśmiałość Trenta</title>
+        <link>https://www.realmadryt.pl/news/141956-niesmialosc-trenta</link>
+        <pubDate>Thu, 21 Aug 2025 07:00:00 GMT</pubDate>
+        <description>Trent Alexander-Arnold wyszedł w pierwszym składzie Realu Madryt na mecz z Osasuną, ale Dani Carvajal nie zamierza odpuszczać i zapowiada podjęcie rywalizacji. Na ten moment Anglik na pewno nie spełnia wszystkich pokładanych w nim oczekiwań.</description>
+    </item>
     
     <item>
         <title>Ruch należy do Rodrygo: 93 minuty w 7 meczach z Xabim Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141949-rodrygo-nie-wychodzi-z-cienia</link>
         <pubDate>Wed, 20 Aug 2025 15:31:00 GMT</pubDate>
         <description>Mecz z Realem Oviedo pokaże, w jakim momencie tak naprawdę znajduje się Rodrygo i jaka ma być jego rola w zespole Xabiego.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Osasuną</title>
-        <link>https://www.realmadryt.pl/news/141947-oceny-zawodnikow-po-meczu-z-osasuna</link>
-        <pubDate>Wed, 20 Aug 2025 14:44:00 GMT</pubDate>
-        <description>Real Madryt wygrał 1:0 z Osasuną. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
