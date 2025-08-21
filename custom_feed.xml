@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 11:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Być może koncerty wrócą na Bernabéu jeszcze w tym roku</title>
+        <link>https://www.realmadryt.pl/news/141969-cope-byc-moze-koncerty-wroca-na-bernabeu-jeszcze-w-tym-roku</link>
+        <pubDate>Thu, 21 Aug 2025 14:49:00 GMT</pubDate>
+        <description>Dziennikarz rozgłośni przekazał niespodziewanie pozytywne informacje w sprawie przyjmowania koncertów na obiekcie Królewskich. Poza tym poznaliśmy nowości w sprawie meczu NFL i otwarcia nowej restauracji.</description>
+    </item>
     
     <item>
         <title>Fuentes: La Liga nie musi głosować nad rozegraniem meczu w Miami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141961-dzisiejsze-okladki</link>
         <pubDate>Thu, 21 Aug 2025 00:02:00 GMT</pubDate>
         <description>Drybling Kyliana Mbappé, ekscytacja wokół Franco Mastantuono i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hezonja doznał kontuzji w meczu z Danią</title>
-        <link>https://www.realmadryt.pl/news/141958-hezonja-doznal-kontuzji-w-meczu-z-dania</link>
-        <pubDate>Wed, 20 Aug 2025 22:47:00 GMT</pubDate>
-        <description>Chorwacja zakończyła wstępną rundę kwalifikacji zwycięstwem z Danią. Niestety, meczu nie był w stanie dograć Hezonja. Mario doznał urazu i trzeba poczekać na wiadomości dotyczące jego zdrowia.</description>
     </item>
     
 </channel>
