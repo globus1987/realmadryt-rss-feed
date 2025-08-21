@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 08:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 09:29:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/141967-krolewscy-maja-dzien-wolny</link>
+        <pubDate>Thu, 21 Aug 2025 11:15:00 GMT</pubDate>
+        <description>Po meczu z Osasuną i środowej sesji regeneracyjnej dzisiaj zawodnicy otrzymali dzień wolny. Wstępnie kontuzjowani pozostają czterej piłkarze.</description>
+    </item>
+    
+    <item>
+        <title>Podcast 7x03: Rozmowa z socio Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/141965-podcast-7x03-rozmowa-z-socio-realu-madryt</link>
+        <pubDate>Thu, 21 Aug 2025 11:00:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym rozmawiamy z polskim socio Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 21 sierpnia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141955-mbappe-odzyskuje-ducha</link>
         <pubDate>Wed, 20 Aug 2025 20:45:00 GMT</pubDate>
         <description>Kylian Mbappé w pierwszym meczu z Osasuną udowodnił, że zaczyna odzyskiwać swoją najlepszą wersję. Po 1. kolejce La Ligi francuski atakujący jest już zawodnikiem z największą liczbą udanych dryblingów.</description>
-    </item>
-    
-    <item>
-        <title>ESPN: Więcej kilometrów, posiadania i szybkich odbiorów niż z Ancelottim</title>
-        <link>https://www.realmadryt.pl/news/141954-espn-wiecej-kilometrow-posiadania-i-szybkich-odbiorow-niz-z-ancelottim</link>
-        <pubDate>Wed, 20 Aug 2025 20:17:00 GMT</pubDate>
-        <description>Real Madryt wygrał na starcie La Ligi 1:0 z Osasuną po karnym Kyliana Mbappé. ESPN wskazuje, że po krótkich przygotowaniach drużyna Xabiego Alonso przebiegła więcej niż w poprzednim sezonie, lepiej broniła i dłużej utrzymywała się przy piłce.</description>
-    </item>
-    
-    <item>
-        <title>„Na ten moment Trent nie jest na poziomie Realu Madryt”</title>
-        <link>https://www.realmadryt.pl/news/141953-na-ten-moment-trent-nie-jest-na-poziomie-realu-madryt</link>
-        <pubDate>Wed, 20 Aug 2025 19:31:00 GMT</pubDate>
-        <description>Antonio Romero, relacjonujący mecze Realu Madryt na antenie Cadena SER, skrytykował Trenta Alexandra-Arnolda po ligowym meczu z Osasuną. Przedstawiamy opinię dziennikarza.</description>
     </item>
     
 </channel>
