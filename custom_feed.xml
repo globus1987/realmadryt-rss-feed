@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 10:27:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 10:46:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fuentes: La Liga nie musi głosować nad rozegraniem meczu w Miami</title>
+        <link>https://www.realmadryt.pl/news/141968-fuentes-la-liga-nie-musi-glosowac-nad-rozegraniem-meczu-w-miami</link>
+        <pubDate>Thu, 21 Aug 2025 12:46:00 GMT</pubDate>
+        <description>Królewscy wskazywali w komunikacie, że do rozegrania meczu La Ligi poza Hiszpanią potrzeba zgody innych uczestników rozgrywek. Ramón Fuentes podaje, że przepisy mówią inaczej.</description>
+    </item>
     
     <item>
         <title>Sprint Mastantuono</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141958-hezonja-doznal-kontuzji-w-meczu-z-dania</link>
         <pubDate>Wed, 20 Aug 2025 22:47:00 GMT</pubDate>
         <description>Chorwacja zakończyła wstępną rundę kwalifikacji zwycięstwem z Danią. Niestety, meczu nie był w stanie dograć Hezonja. Mario doznał urazu i trzeba poczekać na wiadomości dotyczące jego zdrowia.</description>
-    </item>
-    
-    <item>
-        <title>Nikt nie zgłosił skargi w sprawie występu Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/141957-nikt-nie-zglosil-skargi-w-sprawie-wystepu-mastantuono</link>
-        <pubDate>Wed, 20 Aug 2025 22:12:00 GMT</pubDate>
-        <description>Żaden klub Primera División nie złożył dzisiaj skargi na Królewskich w sprawie występu Argentyńczyka w meczu z Osasuną.</description>
     </item>
     
 </channel>
