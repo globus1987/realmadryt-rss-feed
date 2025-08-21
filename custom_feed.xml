@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 21 Aug 2025 19:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 19:39:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: UEFA gotowa pomóc Barcelonie ws. Camp Nou</title>
+        <link>https://www.realmadryt.pl/news/141976-media-uefa-gotowa-pomoc-barcelonie-ws-camp-nou</link>
+        <pubDate>Thu, 21 Aug 2025 21:35:00 GMT</pubDate>
+        <description>Jeszcze kilka tygodni temu media twierdziły, że losowanie fazy ligowej Ligi Mistrzów jest nienaruszalne, ale dzisiaj hiszpańskie media zgodnie podają, że UEFA może uwarunkować je na prośbę Katalończyków.</description>
+    </item>
     
     <item>
         <title>Związek Piłkarzy i wszyscy kapitanowie La Ligi: Nie mamy informacji ws. meczu w Miami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141965-podcast-7x03-rozmowa-z-socio-realu-madryt</link>
         <pubDate>Thu, 21 Aug 2025 11:00:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym rozmawiamy z polskim socio Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 21 sierpnia</title>
-        <link>https://www.realmadryt.pl/news/141964-kartka-z-kalendarza-21-sierpnia</link>
-        <pubDate>Thu, 21 Aug 2025 10:20:00 GMT</pubDate>
-        <description>Urodziny byłego piłkarza i legendarnego koszykarza oraz inauguracja sezonu ligowego 2016/17 na Estadio Anoeta, gdzie najbardziej błysnął Gareth Bale. Co działo się 21 sierpnia?</description>
     </item>
     
 </channel>
