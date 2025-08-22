@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Aug 2025 13:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 13:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podwójna dźwignia Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/142004-podwojna-dzwignia-realu-madryt</link>
+        <pubDate>Fri, 22 Aug 2025 15:39:00 GMT</pubDate>
+        <description>Królewscy zarobili ponad 110 milionów euro dzięki dwóm źródłom przychodu.</description>
+    </item>
+    
+    <item>
+        <title>Ceballos ma oferty, ale priorytetem jest pozostanie</title>
+        <link>https://www.realmadryt.pl/news/142005-ceballos-ma-oferty-ale-priorytetem-jest-pozostanie</link>
+        <pubDate>Fri, 22 Aug 2025 15:37:00 GMT</pubDate>
+        <description>Historia powtarza się każdego lata. Dani Ceballos co rok musi wiosłować pod prąd, a plotki dotyczącego jego przyszłości można w zasadzie uznawać za pewnik. Sam pomocnik jest jednak przekonany, że – podobnie jak za Ancelottiego – jest jeszcze w stanie odwrócić swoją sytuację.</description>
+    </item>
     
     <item>
         <title>Lucas wciąż bez klubu, ale ofert nie brakuje</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/141991-real-madryt-wciaz-blokuje-wspolprace-audiowizualna-z-la-liga</link>
         <pubDate>Fri, 22 Aug 2025 09:45:00 GMT</pubDate>
         <description>Trwa protest klubu w sprawie działań audiowizualnych La Ligi. Doprowadza to do utrzymania sytuacji z brakiem między innymi pomeczowych wywiadów dla oficjalnych nadawców po starciach w tych rozgrywkach.</description>
-    </item>
-    
-    <item>
-        <title>Rondón: Z Realem Madryt nigdy nie możesz się rozluźnić</title>
-        <link>https://www.realmadryt.pl/news/141995-rondon-z-realem-madryt-nigdy-nie-mozesz-sie-rozluznic</link>
-        <pubDate>Fri, 22 Aug 2025 09:26:00 GMT</pubDate>
-        <description>Nowy napastnik Realu Oviedo, Salomón Rondón, podzielił się swoimi odczuciami przed zbliżającym się meczem z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>AS: Adam Wharton na radarze Królewskich</title>
-        <link>https://www.realmadryt.pl/news/141993-as-adam-wharton-na-radarze-krolewskich</link>
-        <pubDate>Fri, 22 Aug 2025 09:12:00 GMT</pubDate>
-        <description>Real zdaje sobie sprawę, że brakuje mu rozgrywającego, a Anglik znalazł się na radarze klubu. Transfer byłby rozważany tylko w przypadku dużej sprzedaży i kosztowałby co najmniej 80 milionów euro.</description>
     </item>
     
 </channel>
