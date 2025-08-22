@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Aug 2025 22:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 23:23:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142011-dzisiejsze-okladki</link>
+        <pubDate>Sat, 23 Aug 2025 01:08:00 GMT</pubDate>
+        <description>Początek Vuelta a España, sytuacja Viniego i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Rodrygo również nie otrzyma powołania od Ancelottiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141989-castilla-alcorcon-na-zywo</link>
         <pubDate>Fri, 22 Aug 2025 10:55:00 GMT</pubDate>
         <description>Drugi zespół Królewskich pod wodzą nowego trenera kontynuuje przygotowania do sezonu. Szósty i ostatni sparing pokaże klubowa telewizja. Pierwszy ligowy mecz rezerwy rozegrają za 9 dni.</description>
-    </item>
-    
-    <item>
-        <title>„Mastantuono nie może być takim indywidualistą jak w River”</title>
-        <link>https://www.realmadryt.pl/news/141998-mastantuono-nie-moze-byc-takim-indywidualista-jak-w-river</link>
-        <pubDate>Fri, 22 Aug 2025 10:44:00 GMT</pubDate>
-        <description>Eduardo Anzarda był pierwszym piłkarzem w historii, który przeniósł się do Realu Madryt bezpośrednio z River Plate. Teraz w rozmowie z dziennikiem AS wspominał swój transfer sprzed lat i podzielił się kilkoma radami dla swojego rodaka, Franco Mastantuono.</description>
     </item>
     
 </channel>
