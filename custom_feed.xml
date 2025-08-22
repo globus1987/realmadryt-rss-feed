@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Aug 2025 07:25:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 07:40:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rondón: Z Realem Madryt nigdy nie możesz się rozluźnić</title>
+        <link>https://www.realmadryt.pl/news/141995-rondon-z-realem-madryt-nigdy-nie-mozesz-sie-rozluznic</link>
+        <pubDate>Fri, 22 Aug 2025 09:26:00 GMT</pubDate>
+        <description>Nowy napastnik Realu Oviedo, Salomón Rondón, podzielił się swoimi odczuciami przed zbliżającym się meczem z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>AS: Adam Wharton na radarze Królewskich</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141982-oficjalnie-noel-lopez-pilkarzem-tenerife</link>
         <pubDate>Thu, 21 Aug 2025 23:49:00 GMT</pubDate>
         <description>Kolejny zawodnik opuścił Castillę. Noel López wrócił z wypożyczenia do rezerw Osasuny, ale o miejscu w zespole Arbeloi nie było mowy. Jego nowym pracodawcą zostało Tenerife.</description>
-    </item>
-    
-    <item>
-        <title>Bruno Fernando gra dalej, Edy Tavares wraca do Madrytu</title>
-        <link>https://www.realmadryt.pl/news/141981-bruno-fernando-gra-dalej-edy-tavares-wraca-do-madrytu</link>
-        <pubDate>Thu, 21 Aug 2025 23:01:00 GMT</pubDate>
-        <description>Bruno Fernando i jego reprezentacja wykonała kolejny krok w kierunku tryumfu na Afrobaskecie. W ćwierćfinale pokonała Republikę Zielonego Przylądka i na jej drodze znajdują się już tylko dwie przeszkody do pokonania.</description>
     </item>
     
 </channel>
