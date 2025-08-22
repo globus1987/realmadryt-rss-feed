@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 22 Aug 2025 05:43:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 05:56:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Od września publiczne wyjaśnianie kontrowersji sędziowskich</title>
+        <link>https://www.realmadryt.pl/news/141978-cope-od-wrzesnia-publiczne-wyjasnianie-kontrowersji-sedziowskich</link>
+        <pubDate>Fri, 22 Aug 2025 07:50:00 GMT</pubDate>
+        <description>Komitet Arbitrów wywiąże się z obietnicy nowego prezesa, ale dopiero od września.</description>
+    </item>
     
     <item>
         <title>Álvarez de Mon: Bellingham wierzy, że może wrócić już we wrześniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141976-media-uefa-gotowa-pomoc-barcelonie-ws-camp-nou</link>
         <pubDate>Thu, 21 Aug 2025 21:35:00 GMT</pubDate>
         <description>Jeszcze kilka tygodni temu media twierdziły, że losowanie fazy ligowej Ligi Mistrzów jest nienaruszalne, ale dzisiaj hiszpańskie media zgodnie podają, że UEFA może uwarunkować je na prośbę Katalończyków.</description>
-    </item>
-    
-    <item>
-        <title>Związek Piłkarzy i wszyscy kapitanowie La Ligi: Nie mamy informacji ws. meczu w Miami</title>
-        <link>https://www.realmadryt.pl/news/141975-zwiazek-pilkarzy-i-wszyscy-kapitanowie-la-ligi-nie-mamy-informacji-ws-meczu-w-miami</link>
-        <pubDate>Thu, 21 Aug 2025 21:13:00 GMT</pubDate>
-        <description>Związek Piłkarzy wystosował komunikat wskazujący na brak podstawowych informacji w sprawie wywiezienia meczu La Ligi poza Hiszpanię. Pod stanowiskiem mieli podpisać się wszyscy kapitanowie z Primera División. Przedstawiamy to ogłoszenie.</description>
     </item>
     
 </channel>
