@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Aug 2025 03:57:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 04:30:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius musi się podnieść</title>
+        <link>https://www.realmadryt.pl/news/142009-vinicius-musi-sie-podniesc</link>
+        <pubDate>Sat, 23 Aug 2025 06:00:00 GMT</pubDate>
+        <description>Brazylijczyk staje przed wyzwaniem, by znów być decydujący i raz na zawsze zostawić za sobą rozczarowanie Złotą Piłką 2024.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/141999-huijsen-buduje-przyszlosc-krolewskich-od-tylu</link>
         <pubDate>Fri, 22 Aug 2025 11:58:00 GMT</pubDate>
         <description>Młody stoper podbija Bernabéu prawdziwym popisem klasy, spokoju i wizji gry.</description>
-    </item>
-    
-    <item>
-        <title>Castilla – Alcorcón [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/141989-castilla-alcorcon-na-zywo</link>
-        <pubDate>Fri, 22 Aug 2025 10:55:00 GMT</pubDate>
-        <description>Drugi zespół Królewskich pod wodzą nowego trenera kontynuuje przygotowania do sezonu. Szósty i ostatni sparing pokaże klubowa telewizja. Pierwszy ligowy mecz rezerwy rozegrają za 9 dni.</description>
     </item>
     
 </channel>
