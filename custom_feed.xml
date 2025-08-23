@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 23 Aug 2025 09:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 09:40:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger wraca do początków</title>
+        <link>https://www.realmadryt.pl/news/142021-ruediger-wraca-do-poczatkow</link>
+        <pubDate>Sat, 23 Aug 2025 11:29:00 GMT</pubDate>
+        <description>Niemiecki stoper rozpoczyna sezon, w którym będzie musiał walczyć o minuty po dwóch latach jako szef defensywy. Jego obecna sytuacja przypomina tę z początku rozgrywek 2022/23, gdy również nie miał pewnego miejsca a wyjściowej jedenastce.</description>
+    </item>
     
     <item>
         <title>Kwadrans ostatniego treningu przed Oviedo [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142009-vinicius-musi-sie-podniesc</link>
         <pubDate>Sat, 23 Aug 2025 06:00:00 GMT</pubDate>
         <description>Brazylijczyk staje przed wyzwaniem, by znów być decydujący i raz na zawsze zostawić za sobą rozczarowanie Złotą Piłką 2024.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142011-dzisiejsze-okladki</link>
-        <pubDate>Sat, 23 Aug 2025 01:08:00 GMT</pubDate>
-        <description>Początek Vuelta a España, sytuacja Viniego i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
