@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 17:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 18:33:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Oviedo – Real Madryt: Znamy składy!</title>
+        <link>https://www.realmadryt.pl/news/142046-real-oviedo-real-madryt-znamy-sklady</link>
+        <pubDate>Sun, 24 Aug 2025 20:12:00 GMT</pubDate>
+        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym meczu z Realem Oviedo. Spotkanie rozpocznie się o 21:30 na Estadio Carlos Tartiere.</description>
+    </item>
     
     <item>
         <title>Posucha Viníciusa poza Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142036-real-madryt-czeka-na-telefon-z-premier-league</link>
         <pubDate>Sun, 24 Aug 2025 10:38:00 GMT</pubDate>
         <description>Rodrygo i Dani Ceballos to główne – wciąż niepotwierdzone – nazwiska w plotkach transferowych Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Lorem ipsum</title>
-        <link>https://www.realmadryt.pl/news/142002-lorem-ipsum</link>
-        <pubDate>Sun, 24 Aug 2025 09:29:00 GMT</pubDate>
-        <description>W zapowiedzi z zeszłego tygodnia pochyliliśmy się nad różnicami w hiszpańskich odpowiednikach czasownika „być”. Dziś pójdziemy zaś tropem innego języka, czyli łaciny, ale… czy aby na pewno?</description>
     </item>
     
 </channel>
