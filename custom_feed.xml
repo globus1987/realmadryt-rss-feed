@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 07:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 07:39:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lorem ipsum</title>
+        <link>https://www.realmadryt.pl/news/142002-lorem-ipsum</link>
+        <pubDate>Sun, 24 Aug 2025 09:29:00 GMT</pubDate>
+        <description>W zapowiedzi z zeszłego tygodnia pochyliliśmy się nad różnicami w hiszpańskich odpowiednikach czasownika „być”. Dziś pójdziemy zaś tropem innego języka, czyli łaciny, ale… czy aby na pewno?</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 24 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142024-kadra-na-real-oviedo</link>
         <pubDate>Sat, 23 Aug 2025 14:22:00 GMT</pubDate>
         <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Realem Oviedo. Bask powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Jestem zadowolony z kadry, którą mamy, ale zawsze trzeba być gotowym</title>
-        <link>https://www.realmadryt.pl/news/142023-xabi-alonso-jestem-zadowolony-z-kadry-ktora-mamy-ale-zawsze-trzeba-byc-gotowym</link>
-        <pubDate>Sat, 23 Aug 2025 13:15:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Realem Oviedo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
