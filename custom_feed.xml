@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 11:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 11:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Autorytet Fede</title>
+        <link>https://www.realmadryt.pl/news/142041-autorytet-fede</link>
+        <pubDate>Sun, 24 Aug 2025 13:53:00 GMT</pubDate>
+        <description>Real Madryt zainaugurował ligowe rozgrywki z Fede Valverde w roli kapitana. Urugwajczyk jest absolutnie niezbędnym ogniwem zarówno na boisku, jak i w szatni Królewskich.</description>
+    </item>
     
     <item>
         <title>Xabi ma pomysł na Mastantuono</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142034-dzisiejsze-okladki</link>
         <pubDate>Sun, 24 Aug 2025 07:27:00 GMT</pubDate>
         <description>Mecz Realu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Z tygodnia na tydzień będziemy coraz lepsi</title>
-        <link>https://www.realmadryt.pl/news/142026-xabi-alonso-z-tygodnia-na-tydzien-bedziemy-coraz-lepsi</link>
-        <pubDate>Sun, 24 Aug 2025 07:04:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Realem Oviedo w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
