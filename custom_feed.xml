@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 22:43:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 22:56:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142058-dzisiejsze-okladki</link>
+        <pubDate>Mon, 25 Aug 2025 00:48:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: W futbolu trzeba podejmować decyzje z myślą o drużynie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142045-posucha-viniciusa-poza-bernabeu</link>
         <pubDate>Sun, 24 Aug 2025 17:10:00 GMT</pubDate>
         <description>Aż trudno w to uwierzyć, ale Vinícius nie trafił do siatki rywali w meczu wyjazdowym w La Lidze od 19 października ubiegłego roku, kiedy to strzelił gola na Balaídos. To 10 kolejnych meczów wyjazdowych w Primera División bez bramki Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Niezrozumiany słowacki geniusz</title>
-        <link>https://www.realmadryt.pl/news/142043-niezrozumiany-slowacki-geniusz</link>
-        <pubDate>Sun, 24 Aug 2025 15:30:00 GMT</pubDate>
-        <description>Z okazji dzisiejszej konfrontacji z Realem Oviedo José Félix Díaz przypomina losy Petera Dubovský'ego, tragicznie zmarłego piłkarza, który reprezentował barwy obu zespołów.</description>
     </item>
     
 </channel>
