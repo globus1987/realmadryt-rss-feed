@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 08:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 08:47:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt czeka na telefon z Premier League</title>
+        <link>https://www.realmadryt.pl/news/142036-real-madryt-czeka-na-telefon-z-premier-league</link>
+        <pubDate>Sun, 24 Aug 2025 10:38:00 GMT</pubDate>
+        <description>Rodrygo i Dani Ceballos to główne – wciąż niepotwierdzone – nazwiska w plotkach transferowych Królewskich.</description>
+    </item>
     
     <item>
         <title>Lorem ipsum</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142025-paunovic-dla-nas-to-swieto-futbolu</link>
         <pubDate>Sat, 23 Aug 2025 15:21:00 GMT</pubDate>
         <description>Trener Realu Oviedo, Veljko Paunović, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 2. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi serbskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Real Oviedo</title>
-        <link>https://www.realmadryt.pl/news/142024-kadra-na-real-oviedo</link>
-        <pubDate>Sat, 23 Aug 2025 14:22:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Realem Oviedo. Bask powołał 23 piłkarzy.</description>
     </item>
     
 </channel>
