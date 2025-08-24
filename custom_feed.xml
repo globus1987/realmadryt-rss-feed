@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 05:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 05:43:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Oviedo – Real Madryt: Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/142029-real-oviedo-real-madryt-przewidywane-sklady</link>
+        <pubDate>Sun, 24 Aug 2025 07:27:00 GMT</pubDate>
+        <description>Real Madryt rozegra dzisiaj kolejne spotkanie i tym razem zmierzy się z Realem Oviedo. W obu zespołach należy spodziewać się niewielu zmian względem ostatnich meczów.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142034-dzisiejsze-okladki</link>
+        <pubDate>Sun, 24 Aug 2025 07:27:00 GMT</pubDate>
+        <description>Mecz Realu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Z tygodnia na tydzień będziemy coraz lepsi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142021-ruediger-wraca-do-poczatkow</link>
         <pubDate>Sat, 23 Aug 2025 11:29:00 GMT</pubDate>
         <description>Niemiecki stoper rozpoczyna sezon, w którym będzie musiał walczyć o minuty po dwóch latach jako szef defensywy. Jego obecna sytuacja przypomina tę z początku rozgrywek 2022/23, gdy również nie miał pewnego miejsca a wyjściowej jedenastce.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Oviedo [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142017-kwadrans-ostatniego-treningu-przed-oviedo-video</link>
-        <pubDate>Sat, 23 Aug 2025 11:20:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym ligowym meczem w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Dobry mecz Feliza na inaugurację AmeriCup</title>
-        <link>https://www.realmadryt.pl/news/142020-dobry-mecz-feliza-na-inauguracje-americup</link>
-        <pubDate>Sat, 23 Aug 2025 11:13:00 GMT</pubDate>
-        <description>Andrés Feliz i jego reprezentacja rozpoczęli rywalizację w AmeriCup od zwycięstwa z Kolumbią. Koszykarz Realu Madryt zanotował bardzo dobry występ.</description>
     </item>
     
 </channel>
