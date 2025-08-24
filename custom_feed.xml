@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 19:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 19:39:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Oviedo – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/142049-real-oviedo-real-madryt-live</link>
+        <pubDate>Sun, 24 Aug 2025 21:25:00 GMT</pubDate>
+        <description>Od 21:30 na Estadio Carlos Tartiere trwa mecz między Realem Oviedo a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Realem Oviedo [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142037-krolewscy-sa-juz-w-oviedo</link>
         <pubDate>Sun, 24 Aug 2025 11:59:00 GMT</pubDate>
         <description>Zawodnicy i sztab szkoleniowy Realu Madryt dotarli na miejsce.</description>
-    </item>
-    
-    <item>
-        <title>Bez wygranej w Oviedo od 1996 roku</title>
-        <link>https://www.realmadryt.pl/news/142032-bez-wygranej-w-oviedo-od-1996-roku</link>
-        <pubDate>Sun, 24 Aug 2025 11:00:00 GMT</pubDate>
-        <description>Real Madryt nie wygrał czterech ostatnich wyjazdowych spotkań z Realem Oviedo w La Lidze. By przypomnieć sobie ostatnie zwycięstwo Królewskich, musimy cofnąć się pamięcią o niemal 30 lat.</description>
     </item>
     
 </channel>
