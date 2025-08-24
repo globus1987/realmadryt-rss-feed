@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 24 Aug 2025 09:54:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 10:24:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Oviedo</title>
+        <link>https://www.realmadryt.pl/news/142037-krolewscy-sa-juz-w-oviedo</link>
+        <pubDate>Sun, 24 Aug 2025 11:59:00 GMT</pubDate>
+        <description>Zawodnicy i sztab szkoleniowy Realu Madryt dotarli na miejsce.</description>
+    </item>
     
     <item>
         <title>Bez wygranej w Oviedo od 1996 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142028-2-kolejka-remontada-barcelony-z-levante-kolejna-wpadka-atletico</link>
         <pubDate>Sat, 23 Aug 2025 20:30:00 GMT</pubDate>
         <description>W najważniejszych sobotnich meczach La Ligi Atlético zremisowało z Elche 1:1, a Barcelona wygrała z Levante 3:2, choć przegrywała już dwiema bramkami.</description>
-    </item>
-    
-    <item>
-        <title>Kulisy ostatniego treningu przed meczem z Oviedo [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142027-kulisy-ostatniego-treningu-przed-meczem-z-oviedo-video</link>
-        <pubDate>Sat, 23 Aug 2025 18:19:00 GMT</pubDate>
-        <description>Klubowa telewizja opublikowała materiał wideo z ostatnich zajęć w Valdebebas przed meczem z Realem Oviedo.</description>
     </item>
     
 </channel>
