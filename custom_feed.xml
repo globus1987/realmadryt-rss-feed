@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Aug 2025 22:24:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 22:43:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142077-dzisiejsze-okladki</link>
+        <pubDate>Tue, 26 Aug 2025 00:37:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Vinícius od dłuższego czasu potrzebował ławki rezerwowych”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142065-oceny-zawodnikow-po-meczu-z-oviedo</link>
         <pubDate>Mon, 25 Aug 2025 12:30:00 GMT</pubDate>
         <description>Real Madryt wygrał 3:0 z Realem Oviedo w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Media: Ceballos negocjuje z Marsylią</title>
-        <link>https://www.realmadryt.pl/news/142064-media-ceballos-negocjuje-z-marsylia</link>
-        <pubDate>Mon, 25 Aug 2025 11:13:00 GMT</pubDate>
-        <description>Hiszpan może przenieść się do Francji.</description>
     </item>
     
 </channel>
