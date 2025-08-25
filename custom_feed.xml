@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Aug 2025 10:28:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 10:47:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Oviedo</title>
+        <link>https://www.realmadryt.pl/news/142065-oceny-zawodnikow-po-meczu-z-oviedo</link>
+        <pubDate>Mon, 25 Aug 2025 12:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał 3:0 z Realem Oviedo w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Media: Ceballos negocjuje z Marsylią</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142050-real-oviedo-0-3-real-madryt-video</link>
         <pubDate>Sun, 24 Aug 2025 23:45:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Realem Oviedo 3:0 po dwóch trafieniach Kyliana Mbappé i jednym golu Viníciusa Júniora.</description>
-    </item>
-    
-    <item>
-        <title>Escandell: W pierwszej połowie nie rywalizowaliśmy</title>
-        <link>https://www.realmadryt.pl/news/142054-escandell-w-pierwszej-polowie-nie-rywalizowalismy</link>
-        <pubDate>Sun, 24 Aug 2025 23:39:00 GMT</pubDate>
-        <description>Aarón Escandell udzielił wywiadu z murawy dla platformy DAZN po przegranym 0:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Realu Oviedo.</description>
     </item>
     
 </channel>
