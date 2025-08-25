@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Aug 2025 08:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 09:31:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Ceballos negocjuje z Marsylią</title>
+        <link>https://www.realmadryt.pl/news/142064-media-ceballos-negocjuje-z-marsylia</link>
+        <pubDate>Mon, 25 Aug 2025 11:13:00 GMT</pubDate>
+        <description>Hiszpan może przenieść się do Francji.</description>
+    </item>
     
     <item>
         <title>Rodrygo stawia na swoim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142054-escandell-w-pierwszej-polowie-nie-rywalizowalismy</link>
         <pubDate>Sun, 24 Aug 2025 23:39:00 GMT</pubDate>
         <description>Aarón Escandell udzielił wywiadu z murawy dla platformy DAZN po przegranym 0:3 meczu z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Realu Oviedo.</description>
-    </item>
-    
-    <item>
-        <title>2. kolejka: Villarreal liderem, Real i Barcelona również z kompletem punktów</title>
-        <link>https://www.realmadryt.pl/news/142052-2-kolejka-villarreal-liderem-real-i-barcelona-rowniez-z-kompletem-punktow</link>
-        <pubDate>Sun, 24 Aug 2025 23:32:00 GMT</pubDate>
-        <description>Za nami osiem meczów drugiej kolejki La Ligi. Czas na podsumowanie tego, co działo się w niedzielę.</description>
     </item>
     
 </channel>
