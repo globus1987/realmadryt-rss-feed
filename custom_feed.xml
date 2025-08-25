@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Aug 2025 11:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 11:41:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé włącza tryb CR7</title>
+        <link>https://www.realmadryt.pl/news/142066-mbappe-wlacza-tryb-cr7</link>
+        <pubDate>Mon, 25 Aug 2025 13:30:00 GMT</pubDate>
+        <description>Po dublecie z Oviedo francuski napastnik ma 33 gole w 37 meczach w 2025 roku.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Oviedo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142057-xabi-alonso-w-futbolu-trzeba-podejmowac-decyzje-z-mysla-o-druzynie</link>
         <pubDate>Mon, 25 Aug 2025 00:32:00 GMT</pubDate>
         <description>Xabi Alonso spotkał się z dziennikarzami na konferencji prasowej po wygranym 3:0 meczu z Realem Oviedo. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Real Oviedo 0:3 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142050-real-oviedo-0-3-real-madryt-video</link>
-        <pubDate>Sun, 24 Aug 2025 23:45:00 GMT</pubDate>
-        <description>Real Madryt wygrał na wyjeździe z Realem Oviedo 3:0 po dwóch trafieniach Kyliana Mbappé i jednym golu Viníciusa Júniora.</description>
     </item>
     
 </channel>
