@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Aug 2025 11:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 12:54:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/142069-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Mon, 25 Aug 2025 14:24:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>The Athletic: Rodrygo prosił agentów o poszukanie mu nowego klubu</title>
+        <link>https://www.realmadryt.pl/news/142068-the-athletic-rodrygo-prosil-agentow-o-poszukanie-mu-nowego-klubu</link>
+        <pubDate>Mon, 25 Aug 2025 14:22:00 GMT</pubDate>
+        <description>Brazylijczyk nie był przekonany do pozostania w Realu.</description>
+    </item>
+    
+    <item>
+        <title>Kwasi Sibo: To było czyste wejście Tchouaméniego, to prawidłowy gol</title>
+        <link>https://www.realmadryt.pl/news/142067-kwasi-sibo-to-bylo-czyste-wejscie-tchouameniego-to-prawidlowy-gol</link>
+        <pubDate>Mon, 25 Aug 2025 13:56:00 GMT</pubDate>
+        <description>Piłkarz Realu Oviedo po meczu rozmawiał z dziennikarzami w strefie mieszanej i został zapytany między innymi o rzekomy faul Auréliena Tchouaméniego przed pierwszym golem dla Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Mbappé włącza tryb CR7</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/142059-courtois-bronilismy-bardzo-solidnie-dobrze-pressujac-w-ten-sposob-wygramy-wiele-meczow</link>
         <pubDate>Mon, 25 Aug 2025 07:00:00 GMT</pubDate>
         <description>Thibaut Courtois po spotkaniu z Oviedo rozmawiał z klubowymi mediami. Przedstawiamy najważniejsze wypowiedzi belgijskiego bramkarza.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Jesteśmy dobrze zbalansowani w ataku i obronie</title>
-        <link>https://www.realmadryt.pl/news/142056-tchouameni-jestesmy-dobrze-zbalansowani-w-ataku-i-obronie</link>
-        <pubDate>Mon, 25 Aug 2025 06:00:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni po spotkaniu z Oviedo rozmawiał z klubowymi mediami. Przedstawiamy najważniejsze wypowiedzi francuskiego pomocnika.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142058-dzisiejsze-okladki</link>
-        <pubDate>Mon, 25 Aug 2025 00:48:00 GMT</pubDate>
-        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: W futbolu trzeba podejmować decyzje z myślą o drużynie</title>
-        <link>https://www.realmadryt.pl/news/142057-xabi-alonso-w-futbolu-trzeba-podejmowac-decyzje-z-mysla-o-druzynie</link>
-        <pubDate>Mon, 25 Aug 2025 00:32:00 GMT</pubDate>
-        <description>Xabi Alonso spotkał się z dziennikarzami na konferencji prasowej po wygranym 3:0 meczu z Realem Oviedo. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
