@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 25 Aug 2025 08:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Aug 2025 08:58:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo stawia na swoim</title>
+        <link>https://www.realmadryt.pl/news/142063-rodrygo-stawia-na-swoim</link>
+        <pubDate>Mon, 25 Aug 2025 10:48:00 GMT</pubDate>
+        <description>W tym sezonie, w przeciwieństwie do poprzednich, będzie rywalizował z Viníciusem o miejsce na lewym skrzydle.</description>
+    </item>
     
     <item>
         <title>Romano: Real przekazał Como, aby odrzucało wszystkie oferty za Nico Paza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142052-2-kolejka-villarreal-liderem-real-i-barcelona-rowniez-z-kompletem-punktow</link>
         <pubDate>Sun, 24 Aug 2025 23:32:00 GMT</pubDate>
         <description>Za nami osiem meczów drugiej kolejki La Ligi. Czas na podsumowanie tego, co działo się w niedzielę.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Oviedo</title>
-        <link>https://www.realmadryt.pl/news/142047-ocen-pilkarzy-po-meczu-z-oviedo</link>
-        <pubDate>Sun, 24 Aug 2025 23:30:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
