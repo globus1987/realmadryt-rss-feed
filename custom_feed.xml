@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Aug 2025 18:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 18:55:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x04: Czy to koniec betonozy?</title>
+        <link>https://www.realmadryt.pl/news/142094-podcast-7x04-czy-to-koniec-betonozy</link>
+        <pubDate>Tue, 26 Aug 2025 20:53:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym omawiamy ostatnie wydarzenia wokół Królewskich.</description>
+    </item>
     
     <item>
         <title>Krok naprzód Tchouaméniego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142083-trwaja-zapisy-do-aguila-blanca-polskiego-stowarzyszenia-kibicow-realu-madryt</link>
         <pubDate>Tue, 26 Aug 2025 10:41:00 GMT</pubDate>
         <description>Artykuł sponsorowany</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/142082-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 26 Aug 2025 09:29:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 2. kolejce La Ligi.</description>
     </item>
     
 </channel>
