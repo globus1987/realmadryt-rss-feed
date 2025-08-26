@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Aug 2025 13:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 13:54:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Marsylia uważa wycenę Ceballosa za zbyt wygórowaną</title>
+        <link>https://www.realmadryt.pl/news/142088-media-marsylia-uwaza-wycene-ceballosa-za-zbyt-wygorowana</link>
+        <pubDate>Tue, 26 Aug 2025 15:51:00 GMT</pubDate>
+        <description>Real oczekuje za swojego pomocnika około 15 milionów euro.</description>
+    </item>
     
     <item>
         <title>Prezes Realu Oviedo: Współpracujemy z ochroną i policją, aby ustalić, co się stało</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142079-fabrizio-romano-lucas-vazquez-zostanie-pilkarzem-bayeru</link>
         <pubDate>Tue, 26 Aug 2025 01:10:00 GMT</pubDate>
         <description>Hiszpan znalazł klub?</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142077-dzisiejsze-okladki</link>
-        <pubDate>Tue, 26 Aug 2025 00:37:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
