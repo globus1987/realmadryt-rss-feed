@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 26 Aug 2025 19:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 19:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Mourinho chce Łunina w Fenerbahçe</title>
+        <link>https://www.realmadryt.pl/news/142097-as-mourinho-chce-lunina-w-fenerbahce</link>
+        <pubDate>Tue, 26 Aug 2025 21:34:00 GMT</pubDate>
+        <description>Według hiszpańskiego dziennika Andrij Łunin stał się priorytetowym celem transferowym Fenerbahçe, które szykuje się do rozstania z Dominikiem Livakoviciem. Ukrainiec szuka regularnych występów, o które będzie mu trudno w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Jeśli Rodrygo chce wyjaśnień, to może do mnie zadzwonić</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142085-lucas-vazquez-jest-juz-w-niemczech-i-podpisze-dwuletni-kontrakt-z-bayerem</link>
         <pubDate>Tue, 26 Aug 2025 13:15:00 GMT</pubDate>
         <description>Transfer Hiszpana kwestią godzin.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/142084-dzisiejszy-trening</link>
-        <pubDate>Tue, 26 Aug 2025 13:05:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli przygotowania do sobotniego spotkania.</description>
     </item>
     
 </channel>
