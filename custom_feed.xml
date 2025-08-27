@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 07:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 08:32:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiaj poznamy wszystkich uczestników Ligi Mistrzów 2025/26</title>
+        <link>https://www.realmadryt.pl/news/142106-dzisiaj-poznamy-wszystkich-uczestnikow-ligi-mistrzow-2025-26</link>
+        <pubDate>Wed, 27 Aug 2025 10:20:00 GMT</pubDate>
+        <description>Wczoraj do Champions League zakwalifikowały się Bodø/Glimt, Pafos i Kajrat Ałmaty. Dzisiaj wieczorem rozegrane zostaną ostatnie mecze, a jutro odbędzie się losowanie.</description>
+    </item>
+    
+    <item>
+        <title>Na Bernabéu trwają testy mappingu: wolej Zidane'a, główka Ramosa, radość Mbappé… [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/142105-na-bernabeu-trwaja-testy-mappingu-wolej-zidanea-glowka-ramosa-radosc-mbappe-video</link>
+        <pubDate>Wed, 27 Aug 2025 09:56:00 GMT</pubDate>
+        <description>Real Madryt wciąż zachwyca postępami prac nad nowym Santiago Bernabéu, a w najnowszej odsłonie w roli głównej wystąpiła iluminacja.</description>
+    </item>
     
     <item>
         <title>Real Madryt czeka na Nico Paza</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142096-ancelotti-jesli-rodrygo-chce-wyjasnien-to-moze-do-mnie-zadzwonic</link>
         <pubDate>Tue, 26 Aug 2025 21:09:00 GMT</pubDate>
         <description>Carlo Ancelotti odpowiadał na pytania dziennikarzy na konferencji prasowej po ogłoszeniu kadry reprezentacji Brazylii na najbliższe zgrupowanie reprezentacji, na którym nie będzie żadnego zawodnika Realu Madryt. Przedstawiamy najważniejsze wypowiedzi selekcjonera Canarinhos z tego spotkania z mediami.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x04: Czy to koniec betonozy?</title>
-        <link>https://www.realmadryt.pl/news/142094-podcast-7x04-czy-to-koniec-betonozy</link>
-        <pubDate>Tue, 26 Aug 2025 20:53:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym omawiamy ostatnie wydarzenia wokół Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Krok naprzód Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/142093-krok-naprzod-tchouameniego</link>
-        <pubDate>Tue, 26 Aug 2025 19:53:00 GMT</pubDate>
-        <description>U Xabiego Alonso Aurélien Tchouaméni odnalazł swoją najlepszą wersję i jest w tym momencie jednym z liderów tego Realu Madryt. Francuz wyróżnia się w wielu kluczowych dla pomocnika statystykach.</description>
     </item>
     
 </channel>
