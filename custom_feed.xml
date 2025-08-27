@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 07:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 07:40:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt czeka na Nico Paza</title>
+        <link>https://www.realmadryt.pl/news/142104-real-madryt-czeka-na-nico-paza</link>
+        <pubDate>Wed, 27 Aug 2025 09:24:00 GMT</pubDate>
+        <description>Klub przekazał mu, że liczy na niego w 2026 roku – wróciłby za 9 milionów euro. Ta deklaracja utwierdziła go w decyzji o odrzuceniu oferty Tottenhamu. Chce regularnie grać i myśli o Mistrzostwach Świata, dlatego najlepszym miejscem na ten sezon pozostaje Como.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142093-krok-naprzod-tchouameniego</link>
         <pubDate>Tue, 26 Aug 2025 19:53:00 GMT</pubDate>
         <description>U Xabiego Alonso Aurélien Tchouaméni odnalazł swoją najlepszą wersję i jest w tym momencie jednym z liderów tego Realu Madryt. Francuz wyróżnia się w wielu kluczowych dla pomocnika statystykach.</description>
-    </item>
-    
-    <item>
-        <title>AS: La Liga nie widzi rasizmu pod adresem Viniego i Mbappé w Oviedo</title>
-        <link>https://www.realmadryt.pl/news/142092-as-la-liga-nie-widzi-rasizmu-pod-adresem-viniego-i-mbappe-w-oviedo</link>
-        <pubDate>Tue, 26 Aug 2025 18:11:00 GMT</pubDate>
-        <description>W raporcie przesłanym do odpowiednich organów La Liga nie ujęła rasistowskich okrzyków w kierunku Viníciusa i Kyliana Mbappé podczas meczu Realu Oviedo z Realem Madryt.</description>
     </item>
     
 </channel>
