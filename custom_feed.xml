@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 04:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 05:24:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bez nowych twarzy na Mallorcę</title>
+        <link>https://www.realmadryt.pl/news/142095-bez-nowych-twarzy-na-mallorce</link>
+        <pubDate>Wed, 27 Aug 2025 07:00:00 GMT</pubDate>
+        <description>Kadra na mecz z Mallorcą nie przyniesie ze sobą żadnego powrotu kontuzjowanych zawodników. W tym kontekście największe szanse miał Eduardo Camavinga, ale ostatecznie będzie musiał poczekać do zakończenia przerwy na reprezentacje.</description>
+    </item>
     
     <item>
         <title>Prośba Rodrygo na drodze do odkupienia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142090-ser-xabi-alonso-nie-chce-odejscia-ceballosa</link>
         <pubDate>Tue, 26 Aug 2025 16:59:00 GMT</pubDate>
         <description>Waży się przyszłość pomocnika, co do którego Bask jasno wyraził swoje zdanie.</description>
-    </item>
-    
-    <item>
-        <title>Włoskie media: Como chce wypożyczyć Álexa Jiméneza z Milanu</title>
-        <link>https://www.realmadryt.pl/news/142089-wloskie-media-como-chce-wypozyczyc-alexa-jimeneza-z-milanu</link>
-        <pubDate>Tue, 26 Aug 2025 16:26:00 GMT</pubDate>
-        <description>Królewscy mają opcję odkupu swojego wychowanka latem przyszłego roku.</description>
     </item>
     
 </channel>
