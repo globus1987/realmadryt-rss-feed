@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 03:57:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 04:31:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Prośba Rodrygo na drodze do odkupienia</title>
+        <link>https://www.realmadryt.pl/news/142102-prosba-rodrygo-na-drodze-do-odkupienia</link>
+        <pubDate>Wed, 27 Aug 2025 06:00:00 GMT</pubDate>
+        <description>Zmiana w ustawieniu Xabiego Alonso dojrzewała podczas Klubowego Mundialu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142089-wloskie-media-como-chce-wypozyczyc-alexa-jimeneza-z-milanu</link>
         <pubDate>Tue, 26 Aug 2025 16:26:00 GMT</pubDate>
         <description>Królewscy mają opcję odkupu swojego wychowanka latem przyszłego roku.</description>
-    </item>
-    
-    <item>
-        <title>Media: Marsylia uważa wycenę Ceballosa za zbyt wygórowaną</title>
-        <link>https://www.realmadryt.pl/news/142088-media-marsylia-uwaza-wycene-ceballosa-za-zbyt-wygorowana</link>
-        <pubDate>Tue, 26 Aug 2025 15:51:00 GMT</pubDate>
-        <description>Real oczekuje za swojego pomocnika około 15 milionów euro.</description>
     </item>
     
 </channel>
