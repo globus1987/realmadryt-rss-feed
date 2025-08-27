@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 20:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 21:23:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znamy wszystkich uczestników fazy ligowej Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/142120-znamy-wszystkich-uczestnikow-fazy-ligowej-ligi-mistrzow</link>
+        <pubDate>Wed, 27 Aug 2025 22:59:00 GMT</pubDate>
+        <description>Real Madryt i 35 innych zespołów są gotowi do rywalizacji w fazie ligowej Ligi Mistrzów w sezonie 2025/26. Dziś poznaliśmy ostateczne rozstrzygnięcia kwalifikacji.</description>
+    </item>
     
     <item>
         <title>COPE: Ceballos zaoferował się Betisowi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142108-oficjalnie-izan-almansa-zawodnikiem-realu-madryt</link>
         <pubDate>Wed, 27 Aug 2025 11:38:00 GMT</pubDate>
         <description>Klub oficjalnie potwierdził powrót koszykarza do stolicy Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona nie rozegra domowego meczu z Valencią na Camp Nou</title>
-        <link>https://www.realmadryt.pl/news/142107-barcelona-nie-rozegra-domowego-meczu-z-valencia-na-camp-nou</link>
-        <pubDate>Wed, 27 Aug 2025 10:40:00 GMT</pubDate>
-        <description>Kataloński klub rezygnuje z Camp Nou, ale musi negocjować z La Ligą w sprawie pojemności stadionu, jeśli chce zagrać na Estadi Johan Cruyff.</description>
     </item>
     
 </channel>
