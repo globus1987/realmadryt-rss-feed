@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 10:57:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 11:21:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142111-dzisiejszy-trening</link>
+        <pubDate>Wed, 27 Aug 2025 13:13:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali przygotowania do sobotniego spotkania.</description>
+    </item>
+    
+    <item>
+        <title>Wytrych do trudnych zamków</title>
+        <link>https://www.realmadryt.pl/news/142110-wytrych-do-trudnych-zamkow</link>
+        <pubDate>Wed, 27 Aug 2025 13:08:00 GMT</pubDate>
+        <description>Turek stworzył kolegom dziesięć szans w dwóch meczach. W tym sezonie zmienił swój styl gry.</description>
+    </item>
     
     <item>
         <title>MARCA: Fran González będzie grał w Castilli</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142102-prosba-rodrygo-na-drodze-do-odkupienia</link>
         <pubDate>Wed, 27 Aug 2025 06:00:00 GMT</pubDate>
         <description>Zmiana w ustawieniu Xabiego Alonso dojrzewała podczas Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142101-dzisiejsze-okladki</link>
-        <pubDate>Wed, 27 Aug 2025 00:32:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Romano: Marsylia blisko porozumienia z Realem w sprawie Ceballosa</title>
-        <link>https://www.realmadryt.pl/news/142099-romano-marsylia-blisko-porozumienia-z-realem-w-sprawie-ceballosa</link>
-        <pubDate>Tue, 26 Aug 2025 23:01:00 GMT</pubDate>
-        <description>Negocjacje miały posunąć się naprzód w ciągu ostatnich godzin.</description>
     </item>
     
 </channel>
