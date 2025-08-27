@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 27 Aug 2025 21:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 22:22:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142124-dzisiejsze-okladki</link>
+        <pubDate>Thu, 28 Aug 2025 00:21:00 GMT</pubDate>
+        <description>Start EuroBasketu, sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Znamy wszystkich uczestników fazy ligowej Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142109-marca-fran-gonzalez-bedzie-gral-w-castilli</link>
         <pubDate>Wed, 27 Aug 2025 12:49:00 GMT</pubDate>
         <description>Trzeci golkiper Realu skupi się na występach w drużynie rezerw i będzie powoływany do pierwszego zespołu tylko w awaryjnych sytuacjach.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Izan Almansa zawodnikiem Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/142108-oficjalnie-izan-almansa-zawodnikiem-realu-madryt</link>
-        <pubDate>Wed, 27 Aug 2025 11:38:00 GMT</pubDate>
-        <description>Klub oficjalnie potwierdził powrót koszykarza do stolicy Hiszpanii.</description>
     </item>
     
 </channel>
