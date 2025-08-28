@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Aug 2025 15:44:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 15:57:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Losowanie fazy ligowej Ligi Mistrzów na żywo!</title>
+        <link>https://www.realmadryt.pl/news/142125-losowanie-fazy-ligowej-ligi-mistrzow-na-zywo</link>
+        <pubDate>Thu, 28 Aug 2025 17:55:00 GMT</pubDate>
+        <description>Real Madryt pozna dzisiaj ośmiu rywali, z którymi będzie mierzył się w fazie ligowej Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Brahim z powołaniem do reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142119-kroos-huijsen-wydaje-sie-bardzo-kompletnym-zawodnikiem</link>
         <pubDate>Thu, 28 Aug 2025 07:00:00 GMT</pubDate>
         <description>Toni Kroos w trakcie swojego cyklicznego podcastu Einfach mal Luppen nagrywanego wspólnie z bratem Felixem oraz wyjątkowo z redaktorem portalu REAL TOTAL Edinem Soso podzielił się swoimi odczuciami przed nowym sezonem. Przedstawiamy wypowiedzi Niemca.</description>
-    </item>
-    
-    <item>
-        <title>Dziś losowanie par w fazie ligowej Champions League</title>
-        <link>https://www.realmadryt.pl/news/142122-dzis-losowanie-par-w-fazie-ligowej-champions-league</link>
-        <pubDate>Thu, 28 Aug 2025 06:00:00 GMT</pubDate>
-        <description>Każdy zespół w fazie ligowej rozegra osiem spotkań z ośmioma różnymi rywalami. Przed nami losowanie par.</description>
     </item>
     
 </channel>
