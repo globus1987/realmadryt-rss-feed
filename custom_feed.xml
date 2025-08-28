@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Aug 2025 12:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 13:33:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim z powołaniem do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/142133-brahim-z-powolaniem-do-reprezentacji</link>
+        <pubDate>Thu, 28 Aug 2025 14:58:00 GMT</pubDate>
+        <description>Selekcjoner Walid Regragui ogłosił kadrę na mecze 7. i 8. kolejki eliminacji mundialu.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142122-dzis-losowanie-par-w-fazie-ligowej-champions-league</link>
         <pubDate>Thu, 28 Aug 2025 06:00:00 GMT</pubDate>
         <description>Każdy zespół w fazie ligowej rozegra osiem spotkań z ośmioma różnymi rywalami. Przed nami losowanie par.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142124-dzisiejsze-okladki</link>
-        <pubDate>Thu, 28 Aug 2025 00:21:00 GMT</pubDate>
-        <description>Start EuroBasketu, sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
