@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Aug 2025 10:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 11:19:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142132-dzisiejszy-trening</link>
+        <pubDate>Thu, 28 Aug 2025 13:12:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali przygotowania do sobotniego spotkania.</description>
+    </item>
+    
+    <item>
+        <title>AS: Komitet Wykonawczy UEFA zdecyduje 11 września, czy Barcelona i Villarreal mogą zagrać w Miami</title>
+        <link>https://www.realmadryt.pl/news/142131-as-komitet-wykonawczy-uefa-zdecyduje-11-wrzesnia-czy-barcelona-i-villarreal-moga-zagrac-w-miami</link>
+        <pubDate>Thu, 28 Aug 2025 12:45:00 GMT</pubDate>
+        <description>Królewscy wyrazili otwarty sprzeciw i UEFA musi liczyć się z ich zdaniem.</description>
+    </item>
     
     <item>
         <title>Tebas: Czy naprawdę jeden mecz z 380 to wielki problem?</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142124-dzisiejsze-okladki</link>
         <pubDate>Thu, 28 Aug 2025 00:21:00 GMT</pubDate>
         <description>Start EuroBasketu, sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Znamy wszystkich uczestników fazy ligowej Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/142120-znamy-wszystkich-uczestnikow-fazy-ligowej-ligi-mistrzow</link>
-        <pubDate>Wed, 27 Aug 2025 22:59:00 GMT</pubDate>
-        <description>Real Madryt i 35 innych zespołów są gotowi do rywalizacji w fazie ligowej Ligi Mistrzów w sezonie 2025/26. Dziś poznaliśmy ostateczne rozstrzygnięcia kwalifikacji.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Ceballos zaoferował się Betisowi</title>
-        <link>https://www.realmadryt.pl/news/142121-cope-ceballos-zaoferowal-sie-betisowi</link>
-        <pubDate>Wed, 27 Aug 2025 21:58:00 GMT</pubDate>
-        <description>Hiszpański pomocnik miał przekazać działaczom Betisu, że może odejść z Realu Madryt za kwotę od 10 do 12 milionów euro. Los Verdiblancos nie zamierzą jednak wykładać takich pieniędzy.</description>
     </item>
     
 </channel>
