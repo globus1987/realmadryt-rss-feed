@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Aug 2025 03:57:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 04:30:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś losowanie par w fazie ligowej Champions League</title>
+        <link>https://www.realmadryt.pl/news/142122-dzis-losowanie-par-w-fazie-ligowej-champions-league</link>
+        <pubDate>Thu, 28 Aug 2025 06:00:00 GMT</pubDate>
+        <description>Każdy zespół w fazie ligowej rozegra osiem spotkań z ośmioma różnymi rywalami. Przed nami losowanie par.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142110-wytrych-do-trudnych-zamkow</link>
         <pubDate>Wed, 27 Aug 2025 13:08:00 GMT</pubDate>
         <description>Turek stworzył kolegom dziesięć szans w dwóch meczach. W tym sezonie zmienił swój styl gry.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Fran González będzie grał w Castilli</title>
-        <link>https://www.realmadryt.pl/news/142109-marca-fran-gonzalez-bedzie-gral-w-castilli</link>
-        <pubDate>Wed, 27 Aug 2025 12:49:00 GMT</pubDate>
-        <description>Trzeci golkiper Realu skupi się na występach w drużynie rezerw i będzie powoływany do pierwszego zespołu tylko w awaryjnych sytuacjach.</description>
     </item>
     
 </channel>
