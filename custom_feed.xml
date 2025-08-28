@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 28 Aug 2025 07:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Aug 2025 07:41:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carreras zamyka debatę</title>
+        <link>https://www.realmadryt.pl/news/142118-carreras-zamyka-debate</link>
+        <pubDate>Thu, 28 Aug 2025 09:25:00 GMT</pubDate>
+        <description>Álvaro Carreras bardzo szybko wywalczył sobie miejsce w pierwszym składzie Realu Madryt i teraz chce zamknąć jakąkolwiek debatę. Ferland Mendy wciąż jest kontuzjowany, a Fran García po całkiem dobrym Klubowym Mundialu powędrował na ławkę rezerwowych.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 28 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142113-mbappe-i-tchouameni-powolani-do-reprezentacji-francji</link>
         <pubDate>Wed, 27 Aug 2025 14:31:00 GMT</pubDate>
         <description>Dwóch zawodników Królewskich dostało powołania od Didiera Deschampsa.</description>
-    </item>
-    
-    <item>
-        <title>Media: Dani Ceballos zostanie piłkarzem Marsylii</title>
-        <link>https://www.realmadryt.pl/news/142112-media-dani-ceballos-zostanie-pilkarzem-marsylii</link>
-        <pubDate>Wed, 27 Aug 2025 13:33:00 GMT</pubDate>
-        <description>Real ma otrzymać 10–15 milionów euro. Piłkarz ma podpisać trzyletnią umowę.</description>
     </item>
     
 </channel>
