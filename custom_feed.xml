@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Aug 2025 19:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 19:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo Castilli na otwarcie sezonu</title>
+        <link>https://www.realmadryt.pl/news/142160-zwyciestwo-castilli-na-otwarcie-sezonu</link>
+        <pubDate>Fri, 29 Aug 2025 21:52:00 GMT</pubDate>
+        <description>Castilla wygrała pierwszy ligowy mecz na otwarcie sezonu 2025/26. Podopieczni Álvaro Arbeloi w pokonanym polu zostawili Lugo.</description>
+    </item>
     
     <item>
         <title>AS: Manuel Ángel na celowniku Levante</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142147-xabi-alonso-rozmawialem-z-ceballosem-i-sprawa-jest-rozstrzygnieta-zostaje</link>
         <pubDate>Fri, 29 Aug 2025 13:33:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Mallorcą w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Mallorcą</title>
-        <link>https://www.realmadryt.pl/news/142146-ostatni-trening-przed-mallorca</link>
-        <pubDate>Fri, 29 Aug 2025 13:23:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli przygotowania do sobotniego spotkania.</description>
     </item>
     
 </channel>
