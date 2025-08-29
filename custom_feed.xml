@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Aug 2025 22:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 22:41:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142162-dzisiejsze-okladki</link>
+        <pubDate>Sat, 30 Aug 2025 00:30:00 GMT</pubDate>
+        <description>Zapowiedź meczu Realu z Mallorcą, sytuacja Fermína i powołania do reprezentacji to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zwycięstwo Castilli na otwarcie sezonu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142150-mastantuono-powolany-do-reprezentacji-argentyny</link>
         <pubDate>Fri, 29 Aug 2025 15:17:00 GMT</pubDate>
         <description>18-latek uda się na kolejne zgrupowanie z seniorską kadrą.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Rozmawiałem z Ceballosem i sprawa jest rozstrzygnięta – zostaje</title>
-        <link>https://www.realmadryt.pl/news/142147-xabi-alonso-rozmawialem-z-ceballosem-i-sprawa-jest-rozstrzygnieta-zostaje</link>
-        <pubDate>Fri, 29 Aug 2025 13:33:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Mallorcą w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
