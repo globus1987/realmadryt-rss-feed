@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Aug 2025 16:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 17:20:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Telewizyjny terminarz 3. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/142155-telewizyjny-terminarz-3-kolejki-la-ligi</link>
+        <pubDate>Fri, 29 Aug 2025 19:00:00 GMT</pubDate>
+        <description>Przed nami 3. kolejka La Ligi. Real Madryt zagra u siebie z Mallorcą. Gdzie obejrzeć to spotkanie?</description>
+    </item>
     
     <item>
         <title>Courtois powołany do reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142142-kwadrans-ostatniego-treningu-przed-mallorca-video</link>
         <pubDate>Fri, 29 Aug 2025 11:48:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym ligowym meczem w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Dwóch madridistas powołanych do reprezentacji Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/142145-dwoch-madridistas-powolanych-do-reprezentacji-hiszpanii</link>
-        <pubDate>Fri, 29 Aug 2025 11:44:00 GMT</pubDate>
-        <description>Reprezentacja Hiszpanii rozegra w przyszłym miesiącu dwa spotkania.</description>
     </item>
     
 </channel>
