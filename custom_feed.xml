@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 29 Aug 2025 08:54:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 09:26:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: José Mourinho zwolniony z Fenerbahçe</title>
+        <link>https://www.realmadryt.pl/news/142143-oficjalnie-jose-mourinho-zwolniony-z-fenerbahce</link>
+        <pubDate>Fri, 29 Aug 2025 11:02:00 GMT</pubDate>
+        <description>Były trener Realu Madryt zostaje bez pracy.</description>
+    </item>
     
     <item>
         <title>Mbappé rzuca wyzwanie samemu sobie… i Cristiano Ronaldo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142132-dzisiejszy-trening</link>
         <pubDate>Thu, 28 Aug 2025 13:12:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali przygotowania do sobotniego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>AS: Komitet Wykonawczy UEFA zdecyduje 11 września, czy Barcelona i Villarreal mogą zagrać w Miami</title>
-        <link>https://www.realmadryt.pl/news/142131-as-komitet-wykonawczy-uefa-zdecyduje-11-wrzesnia-czy-barcelona-i-villarreal-moga-zagrac-w-miami</link>
-        <pubDate>Thu, 28 Aug 2025 12:45:00 GMT</pubDate>
-        <description>Królewscy wyrazili otwarty sprzeciw i UEFA musi liczyć się z ich zdaniem.</description>
     </item>
     
 </channel>
