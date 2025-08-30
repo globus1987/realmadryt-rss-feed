@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 07:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 08:28:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arda Güler powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/142167-arda-gueler-powolany-do-reprezentacji</link>
+        <pubDate>Sat, 30 Aug 2025 10:10:00 GMT</pubDate>
+        <description>Reprezentacja Turcji zagra wkrótce z Gruzją i Hiszpanią. Powołanie do reprezentacji otrzymał oczywiście Arda Güler.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 30 sierpnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142155-telewizyjny-terminarz-3-kolejki-la-ligi</link>
         <pubDate>Fri, 29 Aug 2025 19:00:00 GMT</pubDate>
         <description>Przed nami 3. kolejka La Ligi. Real Madryt zagra u siebie z Mallorcą. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Courtois powołany do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/142154-courtois-powolany-do-reprezentacji</link>
-        <pubDate>Fri, 29 Aug 2025 16:10:00 GMT</pubDate>
-        <description>Bramkarz Realu uda się wkrótce na zgrupowanie kadry.</description>
     </item>
     
 </channel>
