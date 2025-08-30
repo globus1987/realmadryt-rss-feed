@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 21:20:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 21:39:06 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Mallorca [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/142177-real-madryt-mallorca-live</link>
+        <title>Oceń piłkarzy po meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/142182-ocen-pilkarzy-po-meczu-z-mallorca</link>
+        <pubDate>Sat, 30 Aug 2025 23:33:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Arda Güler MVP meczu Realu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/142180-arda-gueler-mvp-meczu-realu-z-mallorca</link>
+        <pubDate>Sat, 30 Aug 2025 23:30:00 GMT</pubDate>
+        <description>Turecki pomocnik został wyróżniony w meczu Realu Madryt z Mallorcą.</description>
+    </item>
+    
+    <item>
+        <title>Kolejna wygrana ze znakami zapytania</title>
+        <link>https://www.realmadryt.pl/news/142177-kolejna-wygrana-ze-znakami-zapytania</link>
         <pubDate>Sat, 30 Aug 2025 21:25:00 GMT</pubDate>
-        <description>W przypadku remisu lub wygranej Realu Madryt z Mallorcą Królewscy wylądują na pierwszym miejscu w tabeli. Dziś jednak celem drużyny Xabiego Alonso jest komplet punktów.</description>
+        <description>W meczu trzeciej kolejki La Ligi Real Madryt wygrał u siebie z Mallorcą 2:1 po golach Ardy Gülera i Viníciusa Júniora.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142168-camavinga-w-martwym-punkcie</link>
         <pubDate>Sat, 30 Aug 2025 12:01:00 GMT</pubDate>
         <description>Rehabilitacja trwa dłużej, niż wstępnie przewidywano.</description>
-    </item>
-    
-    <item>
-        <title>Koncert życzeń</title>
-        <link>https://www.realmadryt.pl/news/142161-koncert-zyczen</link>
-        <pubDate>Sat, 30 Aug 2025 11:00:00 GMT</pubDate>
-        <description>Życie to nie bajka, ale można spróbować się do takiego stanu rzeczy chociaż zbliżyć.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler powołany do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/142167-arda-gueler-powolany-do-reprezentacji</link>
-        <pubDate>Sat, 30 Aug 2025 10:10:00 GMT</pubDate>
-        <description>Reprezentacja Turcji zagra wkrótce z Gruzją i Hiszpanią. Powołanie do reprezentacji otrzymał oczywiście Arda Güler.</description>
     </item>
     
 </channel>
