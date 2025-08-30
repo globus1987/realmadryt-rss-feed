@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 10:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 10:54:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gdzie obejrzeć weekendowe mecze Realu i Barcelony?</title>
+        <link>https://www.realmadryt.pl/news/142170-gdzie-obejrzec-weekendowe-mecze-realu-i-barcelony</link>
+        <pubDate>Sat, 30 Aug 2025 12:42:00 GMT</pubDate>
+        <description>Rozgrywki La Ligi w Polsce w rozpoczynającym się sezonie wciąż są pokazywane przez dwóch nadawców, a dostęp do wszystkich meczów można uzyskać na platformie jednego z nich. Dzisiejszy mecz Realu Madryt pokaże CANAL+ Sport.</description>
+    </item>
     
     <item>
         <title>Poznaliśmy terminarz fazy ligowej Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142162-dzisiejsze-okladki</link>
         <pubDate>Sat, 30 Aug 2025 00:30:00 GMT</pubDate>
         <description>Zapowiedź meczu Realu z Mallorcą, sytuacja Fermína i powołania do reprezentacji to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo Castilli na otwarcie sezonu</title>
-        <link>https://www.realmadryt.pl/news/142160-zwyciestwo-castilli-na-otwarcie-sezonu</link>
-        <pubDate>Fri, 29 Aug 2025 21:52:00 GMT</pubDate>
-        <description>Castilla wygrała pierwszy ligowy mecz na otwarcie sezonu 2025/26. Podopieczni Álvaro Arbeloi w pokonanym polu zostawili Lugo.</description>
     </item>
     
 </channel>
