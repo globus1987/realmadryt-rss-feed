@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 22:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 22:53:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142189-dzisiejsze-okladki</link>
+        <pubDate>Sun, 31 Aug 2025 00:51:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Xabi: To był mecz z różnymi fazami</title>
+        <link>https://www.realmadryt.pl/news/142185-xabi-to-byl-mecz-z-roznymi-fazami</link>
+        <pubDate>Sun, 31 Aug 2025 00:43:00 GMT</pubDate>
+        <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 2:1 meczu z Mallorcą. Przedstawiamy wypowiedzi szkoleniowca Królewskich z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Real Madryt 2:1 Mallorca [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142175-zaktualizowany-terminarz-4-kolejki-la-ligi</link>
         <pubDate>Sat, 30 Aug 2025 19:38:00 GMT</pubDate>
         <description>La Liga zaktualizowała terminarz 4. kolejki o starcia z udziałem zespołów, biorących udział w fazie ligowej Ligi Mistrzów. W tej serii gier Królewscy zagrają w sobotę.</description>
-    </item>
-    
-    <item>
-        <title>Real z trzema lewymi obrońcami na sezon</title>
-        <link>https://www.realmadryt.pl/news/142172-real-z-trzema-lewymi-obroncami-na-sezon</link>
-        <pubDate>Sat, 30 Aug 2025 15:53:00 GMT</pubDate>
-        <description>Nie ma ofert za Mendy’ego, a on sam nie chce odchodzić. Klub i sztab zakładają, że to będzie sezon z trzema lewymi obrońcami. Wszyscy są zgodni, że pierwszym wyborem jest Carreras.</description>
-    </item>
-    
-    <item>
-        <title>Figo: Nie sądzę, by ławka w Oviedo była dla Viniego ostrzeżeniem</title>
-        <link>https://www.realmadryt.pl/news/142173-figo-nie-sadze-by-lawka-w-oviedo-byla-dla-viniego-ostrzezeniem</link>
-        <pubDate>Sat, 30 Aug 2025 15:21:00 GMT</pubDate>
-        <description>Luís Figo udzielił wywiadu dla hiszpańskiego bukmachera Betfair, którego jest ambasadorem. Przedstawiamy przemyślenia Portugalczyka na temat Viníciusa, Mbappé i Huijsena.</description>
     </item>
     
 </channel>
