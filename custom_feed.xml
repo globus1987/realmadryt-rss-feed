@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 08:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 09:22:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koncert życzeń</title>
+        <link>https://www.realmadryt.pl/news/142161-koncert-zyczen</link>
+        <pubDate>Sat, 30 Aug 2025 11:00:00 GMT</pubDate>
+        <description>Życie to nie bajka, ale można spróbować się do takiego stanu rzeczy chociaż zbliżyć.</description>
+    </item>
     
     <item>
         <title>Arda Güler powołany do reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142157-kadra-mallorki-na-mecz-z-realem</link>
         <pubDate>Fri, 29 Aug 2025 20:08:00 GMT</pubDate>
         <description>Do kadry Mallorki wraca trzech ważnych zawodników. Dwóch z nich – Manu Morlanes i Vedat Muriqi – wraca po czerwonych kartkach otrzymanych w meczu z Barceloną, a Samu Costa wyleczył już uraz i jest gotowy do gry.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 3. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/142155-telewizyjny-terminarz-3-kolejki-la-ligi</link>
-        <pubDate>Fri, 29 Aug 2025 19:00:00 GMT</pubDate>
-        <description>Przed nami 3. kolejka La Ligi. Real Madryt zagra u siebie z Mallorcą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
