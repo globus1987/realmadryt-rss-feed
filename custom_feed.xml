@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 10:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 10:41:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poznaliśmy terminarz fazy ligowej Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/142169-poznalismy-terminarz-fazy-ligowej-ligi-mistrzow</link>
+        <pubDate>Sat, 30 Aug 2025 12:30:00 GMT</pubDate>
+        <description>Królewscy rozpoczną zmagania w Lidze Mistrzów od domowego spotkania ze Marsylią. Wyjazdowy spotkanie z Liverpoolem dopiero na początku listopada.</description>
+    </item>
     
     <item>
         <title>Camavinga w martwym punkcie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142160-zwyciestwo-castilli-na-otwarcie-sezonu</link>
         <pubDate>Fri, 29 Aug 2025 21:52:00 GMT</pubDate>
         <description>Castilla wygrała pierwszy ligowy mecz na otwarcie sezonu 2025/26. Podopieczni Álvaro Arbeloi w pokonanym polu zostawili Lugo.</description>
-    </item>
-    
-    <item>
-        <title>AS: Manuel Ángel na celowniku Levante</title>
-        <link>https://www.realmadryt.pl/news/142158-as-manuel-angel-na-celowniku-levante</link>
-        <pubDate>Fri, 29 Aug 2025 20:14:00 GMT</pubDate>
-        <description>Klub z Walencji skontaktował się z Realem Madryt w sprawie kapitana Castilli.</description>
     </item>
     
 </channel>
