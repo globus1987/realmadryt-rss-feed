@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 30 Aug 2025 09:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Aug 2025 10:22:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Camavinga w martwym punkcie</title>
+        <link>https://www.realmadryt.pl/news/142168-camavinga-w-martwym-punkcie</link>
+        <pubDate>Sat, 30 Aug 2025 12:01:00 GMT</pubDate>
+        <description>Rehabilitacja trwa dłużej, niż wstępnie przewidywano.</description>
+    </item>
     
     <item>
         <title>Koncert życzeń</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142158-as-manuel-angel-na-celowniku-levante</link>
         <pubDate>Fri, 29 Aug 2025 20:14:00 GMT</pubDate>
         <description>Klub z Walencji skontaktował się z Realem Madryt w sprawie kapitana Castilli.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Mallorki na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/142157-kadra-mallorki-na-mecz-z-realem</link>
-        <pubDate>Fri, 29 Aug 2025 20:08:00 GMT</pubDate>
-        <description>Do kadry Mallorki wraca trzech ważnych zawodników. Dwóch z nich – Manu Morlanes i Vedat Muriqi – wraca po czerwonych kartkach otrzymanych w meczu z Barceloną, a Samu Costa wyleczył już uraz i jest gotowy do gry.</description>
     </item>
     
 </channel>
