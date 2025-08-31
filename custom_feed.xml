@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 04:28:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 04:45:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni: Na początku graliśmy zbyt wolno</title>
+        <link>https://www.realmadryt.pl/news/142187-tchouameni-na-poczatku-gralismy-zbyt-wolno</link>
+        <pubDate>Sun, 31 Aug 2025 06:30:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni udzielił wywiadu klubowej telewizji po wygranym 2:1 meczu z Mallorcą. Przedstawiamy wypowiedzi piłkarza Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Arrasate: VAR? Musimy zaufać technologii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142177-kolejna-wygrana-ze-znakami-zapytania</link>
         <pubDate>Sat, 30 Aug 2025 21:25:00 GMT</pubDate>
         <description>W meczu trzeciej kolejki La Ligi Real Madryt wygrał u siebie z Mallorcą 2:1 po golach Ardy Gülera i Viníciusa Júniora.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Mallorcą [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/142176-rozgrzewka-przed-mallorca-na-zywo</link>
-        <pubDate>Sat, 30 Aug 2025 20:31:00 GMT</pubDate>
-        <description>Królewscy po 20:50 wybiegną na murawę i rozpoczną rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Mallorcą. Pierwszy gwizdek arbitra wybrzmi o 21:30.</description>
     </item>
     
 </channel>
