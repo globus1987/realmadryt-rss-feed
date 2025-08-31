@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 05:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 05:41:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Ten mecz miał różne momenty</title>
+        <link>https://www.realmadryt.pl/news/142186-xabi-alonso-ten-mecz-mial-rozne-momenty</link>
+        <pubDate>Sun, 31 Aug 2025 07:30:00 GMT</pubDate>
+        <description>Xabi Alonso udzielił wywiadu klubowej telewizji po wygranym 2:1 meczu z Mallorcą. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Na początku graliśmy zbyt wolno</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142180-arda-gueler-mvp-meczu-realu-z-mallorca</link>
         <pubDate>Sat, 30 Aug 2025 23:30:00 GMT</pubDate>
         <description>Turecki pomocnik został wyróżniony w meczu Realu Madryt z Mallorcą.</description>
-    </item>
-    
-    <item>
-        <title>Kolejna wygrana ze znakami zapytania</title>
-        <link>https://www.realmadryt.pl/news/142177-kolejna-wygrana-ze-znakami-zapytania</link>
-        <pubDate>Sat, 30 Aug 2025 21:25:00 GMT</pubDate>
-        <description>W meczu trzeciej kolejki La Ligi Real Madryt wygrał u siebie z Mallorcą 2:1 po golach Ardy Gülera i Viníciusa Júniora.</description>
     </item>
     
 </channel>
