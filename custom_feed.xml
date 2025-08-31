@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 22:54:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 23:21:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142215-dzisiejsze-okladki</link>
+        <pubDate>Mon, 01 Sep 2025 01:10:00 GMT</pubDate>
+        <description>Remis Barcelony i forma Viniego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Isi: Chłopaki, sędzia właśnie przyznał się do błędu</title>
+        <link>https://www.realmadryt.pl/news/142214-isi-chlopaki-sedzia-wlasnie-przyznal-sie-do-bledu</link>
+        <pubDate>Mon, 01 Sep 2025 00:58:00 GMT</pubDate>
+        <description>Isi Palazón skomentował pracę arbitra, ale został też uchwycony przez kamery DAZN.</description>
+    </item>
     
     <item>
         <title>Sergio Ramos nagrał piosenkę „Cibeles” i śpiewa o odejściu z Realu Madryt [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142203-krolewscy-maja-dzis-wolne</link>
         <pubDate>Sun, 31 Aug 2025 15:42:00 GMT</pubDate>
         <description>Spora część zawodników Realu Madryt wyjechała na zgrupowania swoich reprezentacji i Xabi Alonso wróci do pracy z dostępnymi zawodnikami jutro o godzinie 11:00.</description>
-    </item>
-    
-    <item>
-        <title>Las Blancas rozpoczynają sezon ligowy</title>
-        <link>https://www.realmadryt.pl/news/142202-las-blancas-rozpoczynaja-sezon-ligowy</link>
-        <pubDate>Sun, 31 Aug 2025 15:02:00 GMT</pubDate>
-        <description>W meczu 1. kolejki Ligi F piłkarki Realu Madryt zagrają na wyjeździe z DUX Logroño. Początek meczu o godzinie 20:00</description>
-    </item>
-    
-    <item>
-        <title>AS: Zdrowy Bellingham zajmie miejsce Gülera</title>
-        <link>https://www.realmadryt.pl/news/142201-as-zdrowy-bellingham-zajmie-miejsce-guelera</link>
-        <pubDate>Sun, 31 Aug 2025 14:51:00 GMT</pubDate>
-        <description>Trener ustawia Turka jako rozgrywającego w formacji 4-2-3-1, ale gdy Bellingham wróci po kontuzji, zajmie miejsce młodszego kolegi.</description>
     </item>
     
 </channel>
