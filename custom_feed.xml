@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 05:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 06:33:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Butragueño: Anulowane gole? Byliśmy… trochę zaskoczeni</title>
+        <link>https://www.realmadryt.pl/news/142188-butragueno-anulowane-gole-bylismy-troche-zaskoczeni</link>
+        <pubDate>Sun, 31 Aug 2025 08:30:00 GMT</pubDate>
+        <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wypowiedzi klubowej telewizji po wygranym 2:1 meczu z Mallorcą. Przedstawiamy słowa działacza.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Ten mecz miał różne momenty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142182-ocen-pilkarzy-po-meczu-z-mallorca</link>
         <pubDate>Sat, 30 Aug 2025 23:33:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler MVP meczu Realu z Mallorcą</title>
-        <link>https://www.realmadryt.pl/news/142180-arda-gueler-mvp-meczu-realu-z-mallorca</link>
-        <pubDate>Sat, 30 Aug 2025 23:30:00 GMT</pubDate>
-        <description>Turecki pomocnik został wyróżniony w meczu Realu Madryt z Mallorcą.</description>
     </item>
     
 </channel>
