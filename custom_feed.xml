@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 08:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 08:44:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Najszybsza „lodówka” w historii</title>
+        <link>https://www.realmadryt.pl/news/142196-najszybsza-lodowka-w-historii</link>
+        <pubDate>Sun, 31 Aug 2025 10:35:00 GMT</pubDate>
+        <description>Komitet Techniczny Sędziów zdecydował o odsunięciu Pablo Gonzáleza Fuertesa od funkcji asystenta VAR w meczu Realu Madryt z Mallorcą. To konsekwencja błędnej oceny w spotkaniu Deportivo Alavés z Atlético, gdzie nie zauważył ewidentnego spalonego przy golu Giuliano Simeone.</description>
+    </item>
     
     <item>
         <title>Vinícius zrozumiał przekaz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142185-xabi-to-byl-mecz-z-roznymi-fazami</link>
         <pubDate>Sun, 31 Aug 2025 00:43:00 GMT</pubDate>
         <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 2:1 meczu z Mallorcą. Przedstawiamy wypowiedzi szkoleniowca Królewskich z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:1 Mallorca [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142178-real-madryt-2-1-mallorca-video</link>
-        <pubDate>Sat, 30 Aug 2025 23:53:00 GMT</pubDate>
-        <description>W meczu trzeciej kolejki La Ligi Real Madryt wygrał u siebie z Mallorcą 2:1 po golach Ardy Gülera i Viníciusa Júniora.</description>
     </item>
     
 </channel>
