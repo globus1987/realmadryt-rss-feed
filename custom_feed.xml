@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 16:28:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 16:45:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madrid TV o trzech anulowanych golach w meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/142209-real-madrid-tv-o-trzech-anulowanych-golach-w-meczu-z-mallorca</link>
+        <pubDate>Sun, 31 Aug 2025 18:37:00 GMT</pubDate>
+        <description>Klubowa telewizja opublikowała materiał, w którym skomentowała trzy anulowane gole Realowi Madryt we wczorajszym spotkaniu z Mallorcą. Przedstawiamy tłumaczenie materiału.</description>
+    </item>
     
     <item>
         <title>„Carreras jest obrońcą na miarę wymagań Realu Madryt”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142199-arjen-robben-zamienil-pilke-na-rakiete</link>
         <pubDate>Sun, 31 Aug 2025 13:12:00 GMT</pubDate>
         <description>Były piłkarz Realu Madryt zadebiutował w rozgrywkach CUPRA FIP Tour, międzynarodowych zawodach Międzynarodowej Federacji Padla.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Mallorcą</title>
-        <link>https://www.realmadryt.pl/news/142197-oceny-zawodnikow-po-meczu-z-mallorca</link>
-        <pubDate>Sun, 31 Aug 2025 12:30:00 GMT</pubDate>
-        <description>Real Madryt wygrał 2:1 z Mallorcą w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
