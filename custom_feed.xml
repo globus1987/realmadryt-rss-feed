@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 10:23:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 10:41:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Mallorcą</title>
+        <link>https://www.realmadryt.pl/news/142197-oceny-zawodnikow-po-meczu-z-mallorca</link>
+        <pubDate>Sun, 31 Aug 2025 12:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:1 z Mallorcą w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Dla Realu Madryt w CTA nic się nie zmieniło</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142191-nagranie-rozmow-sedziow-przy-anulowaniu-gola-ardy-guelera-reka-jest-przypadkowa-ale-bezposrednia-anuluje</link>
         <pubDate>Sun, 31 Aug 2025 01:26:00 GMT</pubDate>
         <description>Na jakiej podstawie arbiter podjął taką decyzję?</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142189-dzisiejsze-okladki</link>
-        <pubDate>Sun, 31 Aug 2025 00:51:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
