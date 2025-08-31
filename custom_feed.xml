@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 31 Aug 2025 12:47:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 13:27:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie rozpoczynają sezon ligowy</title>
+        <link>https://www.realmadryt.pl/news/142202-krolewskie-rozpoczynaja-sezon-ligowy</link>
+        <pubDate>Sun, 31 Aug 2025 15:02:00 GMT</pubDate>
+        <description>W meczu 1. kolejki Ligi F piłkarki Realu Madryt zagrają na wyjeździe z DUX Logroño. Początek meczu o godzinie 20:00</description>
+    </item>
+    
+    <item>
+        <title>AS: Zdrowy Bellingham zajmie miejsce Gülera</title>
+        <link>https://www.realmadryt.pl/news/142201-as-zdrowy-bellingham-zajmie-miejsce-guelera</link>
+        <pubDate>Sun, 31 Aug 2025 14:51:00 GMT</pubDate>
+        <description>Trener ustawia Turka jako rozgrywającego w formacji 4-2-3-1, ale gdy Bellingham wróci po kontuzji, zajmie miejsce młodszego kolegi.</description>
+    </item>
     
     <item>
         <title>Piłkarki zagrają z Eintrachtem o Ligę Mistrzyń</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142193-sergi-darder-dla-mnie-to-nie-jest-reka-ale-taki-jest-przepis</link>
         <pubDate>Sun, 31 Aug 2025 08:49:00 GMT</pubDate>
         <description>Piłkarz Mallorki rozmawiał po spotkaniu z dziennikarzami w strefie mieszanej i był pytany głównie o anulowanie gola Ardy Gülera.</description>
-    </item>
-    
-    <item>
-        <title>Butragueño: Anulowane gole? Byliśmy… trochę zaskoczeni</title>
-        <link>https://www.realmadryt.pl/news/142188-butragueno-anulowane-gole-bylismy-troche-zaskoczeni</link>
-        <pubDate>Sun, 31 Aug 2025 08:30:00 GMT</pubDate>
-        <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wypowiedzi klubowej telewizji po wygranym 2:1 meczu z Mallorcą. Przedstawiamy słowa działacza.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Ten mecz miał różne momenty</title>
-        <link>https://www.realmadryt.pl/news/142186-xabi-alonso-ten-mecz-mial-rozne-momenty</link>
-        <pubDate>Sun, 31 Aug 2025 07:30:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu klubowej telewizji po wygranym 2:1 meczu z Mallorcą. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
     </item>
     
 </channel>
