@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Sep 2025 22:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 22:54:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142232-dzisiejsze-okladki</link>
+        <pubDate>Tue, 02 Sep 2025 00:42:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie oraz zamknięcie okienka transferowego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Laporta, Luis Enrique i Valverde wezwani do złożenia zeznań 25 listopada w sprawie Negreiry</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142221-nowy-komitet-arbitrow-nie-uciszyl-halasu-skandaliczne-bledy-odeslania-do-lodowki-niewydolny-var-i-rozmyte-interpretacje</link>
         <pubDate>Mon, 01 Sep 2025 12:12:00 GMT</pubDate>
         <description>Pierwsze trzy kolejki pozostawiły wiele wątpliwości co do odnowionego mandatu organu sędziowskiego. Nieistniejący karny na Vallecas, podyktowany przy niesprawnym systemie VAR, to kropla, która przepełniła czarę alarmującego początku. Plan jest taki, że w przyszłym tygodniu CTA ustami swojej rzeczniczki Marty Frías na konferencji prasowej wyjaśni najbardziej kontrowersyjne sytuacje z tego burzliwego startu rozgrywek. Sytuację opisuje Rubén Cañizares na łamach dziennika ABC. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Vallejo: Za każdym moim tytułem z Realem Madryt stało mnóstwo pracy</title>
-        <link>https://www.realmadryt.pl/news/142220-vallejo-za-kazdym-moim-tytulem-z-realem-madryt-stalo-mnostwo-pracy</link>
-        <pubDate>Mon, 01 Sep 2025 11:49:00 GMT</pubDate>
-        <description>Jesús Vallejo udzielił wywiadu dziennikowi MARCA. Obrońca był głównie pytany o czas spędzony w Realu Madryt.</description>
     </item>
     
 </channel>
