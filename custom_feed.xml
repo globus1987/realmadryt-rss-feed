@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Sep 2025 16:29:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 16:47:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Temat Ceballosa zamknięty</title>
+        <link>https://www.realmadryt.pl/news/142226-as-temat-ceballosa-zamkniety</link>
+        <pubDate>Mon, 01 Sep 2025 18:36:00 GMT</pubDate>
+        <description>Dani Ceballos ostatecznie odciął się od ofert z innych kubów i postanowił zostać w Realu Madryt. Hiszpański pomocnik chce powalczyć o swoje miejsce i udowodnić swoją wartość w oczach Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Rany Rüdigera zaleczone</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142212-kartka-z-kalendarza-1-wrzesnia</link>
         <pubDate>Mon, 01 Sep 2025 08:16:00 GMT</pubDate>
         <description>Ważne transfery do klubu i z klubu, seria debiutów, urodziny szachowego arcymistrza i skrzydłowego wypożyczonego z Arsenalu. Co działo się 1 września?</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142215-dzisiejsze-okladki</link>
-        <pubDate>Mon, 01 Sep 2025 01:10:00 GMT</pubDate>
-        <description>Remis Barcelony i forma Viniego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
