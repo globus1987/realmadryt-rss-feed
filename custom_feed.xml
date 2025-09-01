@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Sep 2025 09:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 09:53:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vallejo: Za każdym moim tytułem z Realem Madryt stało mnóstwo pracy</title>
+        <link>https://www.realmadryt.pl/news/142220-vallejo-za-kazdym-moim-tytulem-z-realem-madryt-stalo-mnostwo-pracy</link>
+        <pubDate>Mon, 01 Sep 2025 11:49:00 GMT</pubDate>
+        <description>Jesús Vallejo udzielił wywiadu dziennikowi MARCA. Obrońca był głównie pytany o czas spędzony w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Decyzje sędziowskie rozpalają Real Madryt: „Skończyło się 2:1… w Matrixie”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142209-real-madrid-tv-o-trzech-anulowanych-golach-w-meczu-z-mallorca</link>
         <pubDate>Sun, 31 Aug 2025 18:37:00 GMT</pubDate>
         <description>Klubowa telewizja opublikowała materiał, w którym skomentowała trzy anulowane gole Realowi Madryt we wczorajszym spotkaniu z Mallorcą. Przedstawiamy tłumaczenie materiału.</description>
-    </item>
-    
-    <item>
-        <title>„Carreras jest obrońcą na miarę wymagań Realu Madryt”</title>
-        <link>https://www.realmadryt.pl/news/142208-carreras-jest-obronca-na-miare-wymagan-realu-madryt</link>
-        <pubDate>Sun, 31 Aug 2025 17:08:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu Madryt z Mallorcą. Przedstawiamy refleksje dziennikarza.</description>
     </item>
     
 </channel>
