@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Sep 2025 05:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Sep 2025 06:41:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 września</title>
+        <link>https://www.realmadryt.pl/news/142212-kartka-z-kalendarza-1-wrzesnia</link>
+        <pubDate>Mon, 01 Sep 2025 08:16:00 GMT</pubDate>
+        <description>Ważne transfery do klubu i z klubu, seria debiutów, urodziny szachowego arcymistrza i skrzydłowego wypożyczonego z Arsenalu. Co działo się 1 września?</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142204-real-madrid-tv-wystarczyly-trzy-kolejki-aby-przekonac-sie-ze-wciaz-zyjemy-w-cieniu-podejrzen</link>
         <pubDate>Sun, 31 Aug 2025 15:42:00 GMT</pubDate>
         <description>Klubowa telewizja była bardzo krytyczne wobec ostatnich wydarzeń w La Lidze. Oficjalne medium Królewskich w pomeczowym studio skupiło się na kilku momentach wczorajszego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/142203-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Sun, 31 Aug 2025 15:42:00 GMT</pubDate>
-        <description>Spora część zawodników Realu Madryt wyjechała na zgrupowania swoich reprezentacji i Xabi Alonso wróci do pracy z dostępnymi zawodnikami jutro o godzinie 11:00.</description>
     </item>
     
 </channel>
