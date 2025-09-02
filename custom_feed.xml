@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Sep 2025 06:57:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 07:26:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pedri: W Valdebebas ktoś powiedział mi, że nie mam poziomu, no to wróciłem do domu</title>
+        <link>https://www.realmadryt.pl/news/142234-pedri-w-valdebebas-ktos-powiedzial-mi-ze-nie-mam-poziomu-no-to-wrocilem-do-domu</link>
+        <pubDate>Tue, 02 Sep 2025 09:06:00 GMT</pubDate>
+        <description>Pedri w rozmowie na antenie Onda Cero znów wrócił do tematu nieudanych testów w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Carvajal: Dużo rozmawialiśmy z Viníciusem, by zachował spokój i skupił się na grze, bo wtedy jest nie do zatrzymania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142223-dzisiejszy-trening</link>
         <pubDate>Mon, 01 Sep 2025 13:54:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli pracę podczas przerwy reprezentacyjnej.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Następca Xabiego w Leverkusen zwolniony już po drugiej kolejce Bundesligi!</title>
-        <link>https://www.realmadryt.pl/news/142222-oficjalnie-nastepca-xabiego-w-leverkusen-zwolniony-juz-po-drugiej-kolejce-bundesligi</link>
-        <pubDate>Mon, 01 Sep 2025 13:19:00 GMT</pubDate>
-        <description>Bayer Leverkusen pożegnał się dziś ze swoim dotychczasowym szkoleniowcem. Erik ten Hag nie był w stanie zastąpić Xabiego Alonso i bardzo szybko został zwolniony.</description>
     </item>
     
 </channel>
