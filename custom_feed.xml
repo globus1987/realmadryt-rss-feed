@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Sep 2025 15:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 15:57:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x05: Czy na pewno chcemy narzekać?</title>
+        <link>https://www.realmadryt.pl/news/142238-podcast-7x05-czy-na-pewno-chcemy-narzekac</link>
+        <pubDate>Tue, 02 Sep 2025 17:49:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym tradycyjnie omawiamy ostatnie wydarzenia wokół Królewskich.</description>
+    </item>
     
     <item>
         <title>W Ardzie znów obudził się killer</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142235-kartka-z-kalendarza-2-wrzesnia</link>
         <pubDate>Tue, 02 Sep 2025 09:32:00 GMT</pubDate>
         <description>Urodziny bramkarza, rozgromienie Villarrealu na wyjeździe, smutek Cristiano Ronaldo i transfer z klubu dwóch zawodników jednego dnia.</description>
-    </item>
-    
-    <item>
-        <title>Pedri: W Valdebebas ktoś powiedział mi, że nie mam poziomu, no to wróciłem do domu</title>
-        <link>https://www.realmadryt.pl/news/142234-pedri-w-valdebebas-ktos-powiedzial-mi-ze-nie-mam-poziomu-no-to-wrocilem-do-domu</link>
-        <pubDate>Tue, 02 Sep 2025 09:06:00 GMT</pubDate>
-        <description>Pedri w rozmowie na antenie Onda Cero znów wrócił do tematu nieudanych testów w Realu Madryt.</description>
     </item>
     
 </channel>
