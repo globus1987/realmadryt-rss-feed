@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Sep 2025 10:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Sep 2025 11:20:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142241-dzisiejszy-trening</link>
+        <pubDate>Tue, 02 Sep 2025 13:14:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej.</description>
+    </item>
     
     <item>
         <title>Finansowe Fair Play dusi hiszpańskie kluby, a Premier League co roku wydaje miliardy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142230-inigo-martinez-real-madryt-szanowal-tylko-nas-dalo-sie-to-wyczuc-na-boisku</link>
         <pubDate>Mon, 01 Sep 2025 23:33:00 GMT</pubDate>
         <description>Były piłkarz Barcelony udzielił wywiadu dla Jijantes. Przedstawiamy najważniejsze wypowiedzi obrońcy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Isak piłkarzem Liverpoolu</title>
-        <link>https://www.realmadryt.pl/news/142229-oficjalnie-isak-pilkarzem-liverpoolu</link>
-        <pubDate>Mon, 01 Sep 2025 23:16:00 GMT</pubDate>
-        <description>Liverpool potwierdził transfer Alexandra Isaka z Newcastle. Zdaniem mediów rywale Królewskich w Lidze Mistrzów rozbili bank i zapłacili za Szweda 150 milionów euro.</description>
     </item>
     
 </channel>
