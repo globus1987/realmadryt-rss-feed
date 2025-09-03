@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Sep 2025 12:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 13:32:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają wolne do poniedziałku</title>
+        <link>https://www.realmadryt.pl/news/142266-krolewscy-maja-wolne-do-poniedzialku</link>
+        <pubDate>Wed, 03 Sep 2025 15:04:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero po weekendzie i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Real Madrid TV: Operator VAR-u w La Lidze ma interesy bezpośrednio związane z Barceloną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142245-dwunastu-madridistas-powolanych-do-reprezentacji</link>
         <pubDate>Wed, 03 Sep 2025 06:00:00 GMT</pubDate>
         <description>Dwunastu piłkarzy Realu Madryt zostało powołanych na wrześniowe zgrupowania reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Raúl jednym z trzech kandydatów do zastąpienia Ten Haga</title>
-        <link>https://www.realmadryt.pl/news/142257-marca-raul-jednym-z-trzech-kandydatow-do-zastapienia-ten-haga</link>
-        <pubDate>Wed, 03 Sep 2025 00:36:00 GMT</pubDate>
-        <description>Bayer szuka nowego trenera i bierze pod uwagę byłego szkoleniowca Castilli.</description>
     </item>
     
 </channel>
