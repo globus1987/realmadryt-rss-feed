@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Sep 2025 22:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 22:40:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142276-dzisiejsze-okladki</link>
+        <pubDate>Thu, 04 Sep 2025 00:33:00 GMT</pubDate>
+        <description>Mecze reprezentacji to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Kadra Realu Madryt na fazę ligową Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/142275-kadra-realu-madryt-na-faze-ligowa-ligi-mistrzow</link>
+        <pubDate>Thu, 04 Sep 2025 00:27:00 GMT</pubDate>
+        <description>UEFA za pośrednictwem swojej oficjalnej strony internetowej potwierdziła kadry zespołów na fazę ligową Ligi Mistrzów. Królewscy zgłosili do kadry pierwszego zespołu ośmiu wychowanków, którzy znaleźli się na liście B.</description>
+    </item>
     
     <item>
         <title>Zwycięskie trafienie Daniela Yáñeza w reprezentacji do lat 19</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142262-ceferin-real-i-barcelona-sa-zawsze-mile-widziane-z-powrotem-w-europejskiej-rodzinie-futbolowej</link>
         <pubDate>Wed, 03 Sep 2025 12:05:00 GMT</pubDate>
         <description>Prezes UEFA udzielił obszernego wywiadu dla portalu Politico. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Mallorca zawiesiła Daniego Rodrígueza za jego komentarze po meczu z Realem</title>
-        <link>https://www.realmadryt.pl/news/142261-mallorca-zawiesila-daniego-rodrigueza-za-jego-komentarze-po-meczu-z-realem</link>
-        <pubDate>Wed, 03 Sep 2025 11:14:00 GMT</pubDate>
-        <description>W komunikacie klub informuje, że odbiera mu także opaskę kapitana. Piłkarz nie uczestniczył już w środowym treningu.</description>
-    </item>
-    
-    <item>
-        <title>Sprzyjająca przerwa na reprezentacje</title>
-        <link>https://www.realmadryt.pl/news/142259-sprzyjajaca-przerwa-na-reprezentacje</link>
-        <pubDate>Wed, 03 Sep 2025 11:00:00 GMT</pubDate>
-        <description>Tym razem wirus FIFA nie uderza w Real Madryt tak mocno, bo trener ma do dyspozycji jedenastu piłkarzy.</description>
     </item>
     
 </channel>
