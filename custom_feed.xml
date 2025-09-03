@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Sep 2025 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 08:31:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Co dalej z Thiago Pitarchem?</title>
+        <link>https://www.realmadryt.pl/news/142260-co-dalej-z-thiago-pitarchem</link>
+        <pubDate>Wed, 03 Sep 2025 10:00:00 GMT</pubDate>
+        <description>Jego obecność przy Xabim Alonso oznaczała duży spadek czasu gry w ostatnich tygodniach.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 3 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142249-historia-do-napisania</link>
         <pubDate>Tue, 02 Sep 2025 21:39:00 GMT</pubDate>
         <description>Brazylijczyk zamieścił w swoich mediach społecznościowych wymowny wpis.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa musi poprawić wyniki Castilli z czołowymi zespołami ligi</title>
-        <link>https://www.realmadryt.pl/news/142248-arbeloa-musi-poprawic-wyniki-castilli-z-czolowymi-zespolami-ligi</link>
-        <pubDate>Tue, 02 Sep 2025 20:47:00 GMT</pubDate>
-        <description>W ciągu ostatnich sześciu sezonów Castilla wygrała tylko 13 z 52 meczów z drużynami, które awansowały lub grały w play-offach.</description>
     </item>
     
 </channel>
