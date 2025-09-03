@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Sep 2025 10:42:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 10:55:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142264-dzisiejszy-trening</link>
+        <pubDate>Wed, 03 Sep 2025 12:51:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej.</description>
+    </item>
     
     <item>
         <title>Mbappé do Fede: Nie możemy grać tylko środkiem, musimy widzieć więcej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142255-huijsen-uwazam-ze-wyprowadzenie-pilki-u-ramosa-bylo-niedoceniane</link>
         <pubDate>Wed, 03 Sep 2025 00:23:00 GMT</pubDate>
         <description>Stoper Realu Madryt udzielił wywiadu dziennikowi MARCA. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142256-dzisiejsze-okladki</link>
-        <pubDate>Wed, 03 Sep 2025 00:23:00 GMT</pubDate>
-        <description>Wywiady z piłkarzami Realu i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
