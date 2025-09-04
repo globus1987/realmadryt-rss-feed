@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Sep 2025 05:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 06:35:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zdumieni Carvajalem</title>
+        <link>https://www.realmadryt.pl/news/142277-zdumieni-carvajalem</link>
+        <pubDate>Thu, 04 Sep 2025 07:55:00 GMT</pubDate>
+        <description>Zaskoczenie w Valdebebas i Las Rozas z powodu jego powrotu do zdrowia i świetnej formy prawego obrońcy.</description>
+    </item>
     
     <item>
         <title>Kto jest kolejnym wymarzonym transferem Realu Madryt?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142265-real-madrid-tv-operator-var-u-w-la-lidze-ma-interesy-bezposrednio-zwiazane-z-barcelona</link>
         <pubDate>Wed, 03 Sep 2025 13:10:00 GMT</pubDate>
         <description>Kolejny materiał od klubowej telewizji, która tym razem powołuje się na publikacje w mediach i skupia się na innym problemie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/142264-dzisiejszy-trening</link>
-        <pubDate>Wed, 03 Sep 2025 12:51:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej.</description>
     </item>
     
 </channel>
