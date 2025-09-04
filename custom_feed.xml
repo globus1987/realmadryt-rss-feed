@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Sep 2025 12:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 13:32:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz Castilli z Racingiem przełożony z powodu… braku piłkarzy</title>
+        <link>https://www.realmadryt.pl/news/142286-mecz-castilli-z-racingiem-przelozony-z-powodu-braku-pilkarzy</link>
+        <pubDate>Thu, 04 Sep 2025 14:57:00 GMT</pubDate>
+        <description>Arbeoli brakuje graczy podczas trwającej przerwy reprezentacyjnej.</description>
+    </item>
     
     <item>
         <title>Jacobo: Jestem takim piłkarzem i takim człowiekiem dzięki Realowi Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142278-pierwsza-druzyna-ograla-castille-po-dublecie-viniciusa</link>
         <pubDate>Thu, 04 Sep 2025 06:00:00 GMT</pubDate>
         <description>Pierwsza drużyna Królewskich wygrała treningową gierkę z Castillą 2:0. Zagrało w niej ośmiu piłkarzy dostępnych dla trenera z Tolosy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142276-dzisiejsze-okladki</link>
-        <pubDate>Thu, 04 Sep 2025 00:33:00 GMT</pubDate>
-        <description>Mecze reprezentacji to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
