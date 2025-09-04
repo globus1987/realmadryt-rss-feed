@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Sep 2025 21:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 22:22:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142299-dzisiejsze-okladki</link>
+        <pubDate>Fri, 05 Sep 2025 00:21:00 GMT</pubDate>
+        <description>Mecze eliminacji mistrzostw świata to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hiszpania sensacyjnie odpada z Eurobasketu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142286-mecz-castilli-z-racingiem-przelozony-z-powodu-braku-pilkarzy</link>
         <pubDate>Thu, 04 Sep 2025 14:57:00 GMT</pubDate>
         <description>Arbeoli brakuje graczy podczas trwającej przerwy reprezentacyjnej.</description>
-    </item>
-    
-    <item>
-        <title>Jacobo: Jestem takim piłkarzem i takim człowiekiem dzięki Realowi Madryt</title>
-        <link>https://www.realmadryt.pl/news/142284-jacobo-jestem-takim-pilkarzem-i-takim-czlowiekiem-dzieki-realowi-madryt</link>
-        <pubDate>Thu, 04 Sep 2025 14:07:00 GMT</pubDate>
-        <description>Jacobo Ramón ma za sobą pierwszy miesiąc w Como, do którego odszedł po dwunastoletnim pobycie w Valdebebas. Teraz przy okazji zgrupowania reprezentacji Hiszpanii U-21 udzielił wywiadu dziennikowi MARCA.</description>
     </item>
     
 </channel>
