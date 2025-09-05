@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Sep 2025 19:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 20:26:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pewne zwycięstwo Hiszpanii U-21</title>
+        <link>https://www.realmadryt.pl/news/142311-pewne-zwyciestwo-hiszpanii-u-21</link>
+        <pubDate>Fri, 05 Sep 2025 21:53:00 GMT</pubDate>
+        <description>Gonzalo i Fran González rozegrali po 90 minut w meczu z Cyprem. Napastnik nie zdołał wpisać się na listę strzelców. Bramkarz natomiast zachował czyste konto, chociaż nie było to akurat najtrudniejsze zadanie, biorąc pod uwagę klasę rywala.</description>
+    </item>
     
     <item>
         <title>Tchouaméni i Mbappé grają we Wrocławiu [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142300-godzina-mastantuono-dublet-messiego-i-wygrana-argentyny-video</link>
         <pubDate>Fri, 05 Sep 2025 07:40:00 GMT</pubDate>
         <description>Franco Mastantuono spędził na murawie dokładnie 62 minuty, a Argentyna wygrała z Wenezuelą 3:0.</description>
-    </item>
-    
-    <item>
-        <title>Encestando: Trey Lyles blisko Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/142298-encestando-trey-lyles-blisko-realu-madryt</link>
-        <pubDate>Fri, 05 Sep 2025 07:00:00 GMT</pubDate>
-        <description>Portal Encestando informuje, że Trey Lyles jest bliski dołączenia do Realu Madryt. Kanadyjczyk miałby być ostatnim wzmocnieniem kadry Królewskich.</description>
     </item>
     
 </channel>
