@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Sep 2025 13:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 13:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hiszpania ma nowego szefa</title>
+        <link>https://www.realmadryt.pl/news/142307-hiszpania-ma-nowego-szefa</link>
+        <pubDate>Fri, 05 Sep 2025 15:36:00 GMT</pubDate>
+        <description>Stoper Realu Madryt przejmuje kontrolę nad grą zespołu Luisa de la Fuente.</description>
+    </item>
     
     <item>
         <title>Niebawem przyjdzie czas na rezerwowych</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142296-hiszpania-sensacyjnie-odpada-z-eurobasketu</link>
         <pubDate>Thu, 04 Sep 2025 23:00:00 GMT</pubDate>
         <description>Po raz pierwszy od 1957 roku Hiszpania zajmie miejsce poza czołową szesnastką na Eurobaskecie. Po porażce z Grecją drużyna Sergio Scariolo pożegnała się z turniejem.</description>
-    </item>
-    
-    <item>
-        <title>Wysoka wygrana Francji na pożegnanie z Katowicami</title>
-        <link>https://www.realmadryt.pl/news/142295-wysoka-wygrana-francji-na-pozegnanie-z-katowicami</link>
-        <pubDate>Thu, 04 Sep 2025 22:12:00 GMT</pubDate>
-        <description>Francuzi pewnie pokonali Islandię i zajęli pierwsze miejsce w grupie. Teraz opuszczą Polskę, ponieważ dalsza część rywalizacji odbędzie się na Łotwie.</description>
     </item>
     
 </channel>
