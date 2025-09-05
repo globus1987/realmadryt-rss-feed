@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Sep 2025 14:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 14:56:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé zawodnikiem na Pięć Gwiazdek za sierpień</title>
+        <link>https://www.realmadryt.pl/news/142308-mbappe-zawodnikiem-na-piec-gwiazdek-za-sierpien</link>
+        <pubDate>Fri, 05 Sep 2025 16:53:00 GMT</pubDate>
+        <description>Francuz zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
+    </item>
     
     <item>
         <title>Hiszpania ma nowego szefa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142299-dzisiejsze-okladki</link>
         <pubDate>Fri, 05 Sep 2025 00:21:00 GMT</pubDate>
         <description>Mecze eliminacji mistrzostw świata to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Hiszpania sensacyjnie odpada z Eurobasketu</title>
-        <link>https://www.realmadryt.pl/news/142296-hiszpania-sensacyjnie-odpada-z-eurobasketu</link>
-        <pubDate>Thu, 04 Sep 2025 23:00:00 GMT</pubDate>
-        <description>Po raz pierwszy od 1957 roku Hiszpania zajmie miejsce poza czołową szesnastką na Eurobaskecie. Po porażce z Grecją drużyna Sergio Scariolo pożegnała się z turniejem.</description>
     </item>
     
 </channel>
