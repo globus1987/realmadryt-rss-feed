@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Sep 2025 23:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 23:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142313-dzisiejsze-okladki</link>
+        <pubDate>Sat, 06 Sep 2025 01:52:00 GMT</pubDate>
+        <description>Wygrana Carlosa Alcaraza to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wysokie zwycięstwo Maroka i awans na mundial</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142302-enzo-francescoli-mastantuono-to-pilkarz-inny-niz-wszyscy-nie-mam-co-do-tego-watpliwosci</link>
         <pubDate>Fri, 05 Sep 2025 08:46:00 GMT</pubDate>
         <description>Enzo Francescoli jest idolem wielu, w tym Zinédine’a Zidane’a. Od niemal dwunastu lat jest dyrektorem sportowym River Plate. W rozmowie z dziennikiem AS analizuje transfer najnowszej argentyńskiej perełki do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Urugwaj pokonał Peru i zakwalifikował się na mundial [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142301-urugwaj-pokonal-peru-i-zakwalifikowal-sie-na-mundial-video</link>
-        <pubDate>Fri, 05 Sep 2025 08:01:00 GMT</pubDate>
-        <description>Fede Valverde rozegrał pełne spotkanie, a Urugwaj pokonał pewnie Peru 3:0.</description>
     </item>
     
 </channel>
