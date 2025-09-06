@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Sep 2025 10:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 10:39:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>FIFA zaostrza walkę z rasizmem: grafiki i komunikaty na ekrany stadionowe</title>
+        <link>https://www.realmadryt.pl/news/142323-fifa-zaostrza-walke-z-rasizmem-grafiki-i-komunikaty-na-ekrany-stadionowe</link>
+        <pubDate>Sat, 06 Sep 2025 12:33:00 GMT</pubDate>
+        <description>FIFA rozesłała do wszystkich federacji grafikę do wyświetlania na ekranach na stadionach, nagrane komunikaty oraz projekty na ekrany LED. Powstaje też 16-osobowa rada piłkarzy.</description>
+    </item>
     
     <item>
         <title>Alaba: Sporo się śmiałem z plotek, bo nic nie było prawdą, to były kłamstwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142310-gol-mbappe-po-asyscie-tchouameniego-wygrana-francji-z-ukraina-video</link>
         <pubDate>Fri, 05 Sep 2025 20:00:00 GMT</pubDate>
         <description>Francja udanie rozpoczęła walkę o udział na przyszłorocznych Mistrzostwach Świata. We Wrocławiu wygrała z Ukrainą 2:0.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé zawodnikiem na Pięć Gwiazdek za sierpień</title>
-        <link>https://www.realmadryt.pl/news/142308-mbappe-zawodnikiem-na-piec-gwiazdek-za-sierpien</link>
-        <pubDate>Fri, 05 Sep 2025 16:53:00 GMT</pubDate>
-        <description>Francuz zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
     </item>
     
 </channel>
