@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Sep 2025 12:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 13:09:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Álvaro Leiva dostanie drugą szansę</title>
+        <link>https://www.realmadryt.pl/news/142319-alvaro-leiva-dostanie-druga-szanse</link>
+        <pubDate>Sat, 06 Sep 2025 15:06:00 GMT</pubDate>
+        <description>Jeden z zawodników przymierzanych do drużyny rezerw na razie będzie grał w Realu Madryt C.</description>
+    </item>
     
     <item>
         <title>Arda Güler wyznacza ton</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142313-dzisiejsze-okladki</link>
         <pubDate>Sat, 06 Sep 2025 01:52:00 GMT</pubDate>
         <description>Wygrana Carlosa Alcaraza to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Wysokie zwycięstwo Maroka i awans na mundial</title>
-        <link>https://www.realmadryt.pl/news/142309-wysokie-zwyciestwo-maroka-i-awans-na-mundial</link>
-        <pubDate>Fri, 05 Sep 2025 22:59:00 GMT</pubDate>
-        <description>Maroko pewnie wygrało z Nigrem i zapewniło sobie awans na Mistrzostwa Świata w 2026 roku. 77 minut rozegrał Brahim Díaz.</description>
     </item>
     
 </channel>
