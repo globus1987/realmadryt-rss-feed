@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Sep 2025 23:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Sep 2025 23:39:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142336-dzisiejsze-okladki</link>
+        <pubDate>Sun, 07 Sep 2025 01:29:00 GMT</pubDate>
+        <description>Finał US Open i mecz reprezentacji Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodri: Z sympatii dałbym Złotą Piłkę Laminowi lub Pedriemu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142319-alvaro-leiva-dostanie-druga-szanse</link>
         <pubDate>Sat, 06 Sep 2025 15:06:00 GMT</pubDate>
         <description>Jeden z zawodników przymierzanych do drużyny rezerw na razie będzie grał w Realu Madryt C.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler wyznacza ton</title>
-        <link>https://www.realmadryt.pl/news/142317-arda-gueler-wyznacza-ton</link>
-        <pubDate>Sat, 06 Sep 2025 14:15:00 GMT</pubDate>
-        <description>Turek ożywia pozycję, która we współczesnym futbolu coraz bardziej zamiera.</description>
     </item>
     
 </channel>
