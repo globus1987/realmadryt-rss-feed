@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Sep 2025 21:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 22:21:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carlos Alcaraz po raz drugi wygrał US Open</title>
+        <link>https://www.realmadryt.pl/news/142359-carlos-alcaraz-po-raz-drugi-wygral-us-open</link>
+        <pubDate>Mon, 08 Sep 2025 00:08:00 GMT</pubDate>
+        <description>Real Madryt pogratulował tenisiście zdobycia szóstego tytułu wielkoszlemowego.</description>
+    </item>
     
     <item>
         <title>Brutalny mecz drużyny U-18 z River Plate</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142348-mbappe-mysle-ze-wiele-nauczylismy-sie-w-zeszlym-sezonie</link>
         <pubDate>Sun, 07 Sep 2025 15:51:00 GMT</pubDate>
         <description>Francuz podczas zgrupowania reprezentacji udzielił wywiadu niemieckiemu dziennikowi BILD.</description>
-    </item>
-    
-    <item>
-        <title>Toshack: Xabi zawsze był inteligentnym i mądrym facetem</title>
-        <link>https://www.realmadryt.pl/news/142338-toshack-xabi-zawsze-byl-inteligentnym-i-madrym-facetem</link>
-        <pubDate>Sun, 07 Sep 2025 14:58:00 GMT</pubDate>
-        <description>Marta Gonzalo dla dziennika AS przeprowadziła rozmowę z Johnnem Toshackiem, który jako trener zdobył z Realem Sociedad Puchar Króla, a z Realem Madryt mistrzostwo Hiszpanii i Superpuchar Hiszpanii. Toshack prowadził Królewskich w latach 1989-1990. Za kilka dni, przy okazji meczu obu swoich byłych zespołów, 76-letni Walijczyk odbierze od Realu Sociedad złotą i brylantową odznakę, czyli najwyższe odznaczenie dla osób zasłużonych dla tego klubu.</description>
     </item>
     
 </channel>
