@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Sep 2025 11:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 11:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Baby La Fábrica”</title>
+        <link>https://www.realmadryt.pl/news/142347-baby-la-fabrica</link>
+        <pubDate>Sun, 07 Sep 2025 13:42:00 GMT</pubDate>
+        <description>Castilla jest obok Celty Fortuny najmłodszą drużyną w Primera RFEF. „Pokolenie Arbeloi” obniżyło średnią wieku zespołu rezerw z 20,7 do 19,8 lat.</description>
+    </item>
     
     <item>
         <title>Ręka Xabiego: 24 zawodników, trzech pewniaków, żelazna szóstka, zapomniani i niemal nieznani</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142336-dzisiejsze-okladki</link>
         <pubDate>Sun, 07 Sep 2025 01:29:00 GMT</pubDate>
         <description>Finał US Open i mecz reprezentacji Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Rodri: Z sympatii dałbym Złotą Piłkę Laminowi lub Pedriemu</title>
-        <link>https://www.realmadryt.pl/news/142333-rodri-z-sympatii-dalbym-zlota-pilke-laminowi-lub-pedriemu</link>
-        <pubDate>Sat, 06 Sep 2025 21:10:00 GMT</pubDate>
-        <description>Rodri wziął udział w konferencji prasowej przed meczem reprezentacji Hiszpanii z Turcją. Przedstawiamy przemyślenia zdobywcy Złotej Piłki na temat potencjalnego triumfatora tego plebiscytu w tym roku.</description>
     </item>
     
 </channel>
