@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Sep 2025 22:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 23:20:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142360-dzisiejsze-okladki</link>
+        <pubDate>Mon, 08 Sep 2025 01:02:00 GMT</pubDate>
+        <description>Finał US Open i wygrana reprezentacji Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Carlos Alcaraz po raz drugi wygrał US Open</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142349-wymagania-river-sa-z-korzyscia-dla-mastantuono-w-realu-madryt</link>
         <pubDate>Sun, 07 Sep 2025 17:12:00 GMT</pubDate>
         <description>Wychowanek River Plate, Chori Domínguez, udzielił wywiadu dziennikowi AS. Poniżej przedstawiamy zapis tej rozmowy z byłym pomocnikiem takich zespołów jak Valencia czy Rayo Vallecano.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Myślę, że wiele nauczyliśmy się w zeszłym sezonie</title>
-        <link>https://www.realmadryt.pl/news/142348-mbappe-mysle-ze-wiele-nauczylismy-sie-w-zeszlym-sezonie</link>
-        <pubDate>Sun, 07 Sep 2025 15:51:00 GMT</pubDate>
-        <description>Francuz podczas zgrupowania reprezentacji udzielił wywiadu niemieckiemu dziennikowi BILD.</description>
     </item>
     
 </channel>
