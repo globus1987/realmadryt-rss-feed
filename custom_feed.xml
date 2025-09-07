@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Sep 2025 04:56:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Sep 2025 05:23:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Owen: Mbappé jest najlepszym piłkarzem świata</title>
+        <link>https://www.realmadryt.pl/news/142334-owen-mbappe-jest-najlepszym-pilkarzem-swiata</link>
+        <pubDate>Sun, 07 Sep 2025 07:00:00 GMT</pubDate>
+        <description>Michael Owen gościł w podcaście Rio Ferdinanda, w którym obaj byli wybitni piłkarze stwierdzili, że Kylian Mbappé jest najlepszym piłkarzem świata. Przedstawiamy zapis fragmentu rozmowy dotyczącego francuskiego napastnika.</description>
+    </item>
     
     <item>
         <title>Bellingham przyspiesza powrót</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142325-valverde-ostatni-dylemat-xabiego</link>
         <pubDate>Sat, 06 Sep 2025 16:25:00 GMT</pubDate>
         <description>Kilka tygodni temu Xabi Alonso porównał Fede Valverde do Gerrarda. Urugwajczyk ma jednak problemy z odnalezieniem swojego miejsca na boisku pod wodzą nowego trenera. W defensywie nie jest już tak potrzebny, a w ofensywie ma mało przestrzeni, by pokazać swój potencjał.</description>
-    </item>
-    
-    <item>
-        <title>Tenerife półfinałowym rywalem Realu Madryt w Superpucharze</title>
-        <link>https://www.realmadryt.pl/news/142324-tenerife-polfinalowym-rywalem-realu-madryt-w-superpucharze</link>
-        <pubDate>Sat, 06 Sep 2025 15:57:00 GMT</pubDate>
-        <description>Rozlosowano półfinałowe pary w Superpucharze Endesa. Real Madryt o finał powalczy z Tenerife, natomiast Unicaja zmierzy się z Valencią.</description>
     </item>
     
 </channel>
