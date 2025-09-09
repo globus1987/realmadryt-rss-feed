@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Sep 2025 17:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 17:39:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Mecz Barcelony z Valencią nie odbędzie się na Camp Nou</title>
+        <link>https://www.realmadryt.pl/news/142400-oficjalnie-mecz-barcelony-z-valencia-nie-odbedzie-sie-na-camp-nou</link>
+        <pubDate>Tue, 09 Sep 2025 19:27:00 GMT</pubDate>
+        <description>„Mecz 4. kolejki La Ligi, który odbędzie się w niedzielę 14 września o godzinie 21:00 przeciwko Valencii CF, zostanie rozegrany na Estadi Johan Cruyff”, napisano w oficjalnym komunikacie, opublikowanym na oficjalnej stronie internetowej Barcelony.</description>
+    </item>
     
     <item>
         <title>Rachad Fettal wypada z gry na sześć tygodni</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142388-zinedine-zidane-szykuje-sie-by-zostac-selekcjonerem-reprezentacji-francji</link>
         <pubDate>Tue, 09 Sep 2025 09:54:00 GMT</pubDate>
         <description>Gotowy, by po zakończeniu mundialu przejąć kadrę po Deschampsie, Zinédine Zidane cierpliwie czeka na swoją kolej. Choć Philippe Diallo, prezes Francuskiej Federacji Piłkarskiej, nie zamierza niczego przyspieszać.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 9 września</title>
-        <link>https://www.realmadryt.pl/news/142381-kartka-z-kalendarza-9-wrzesnia</link>
-        <pubDate>Tue, 09 Sep 2025 09:00:00 GMT</pubDate>
-        <description>Urodziny Modricia, debiut Cunninghama i Figo oraz nieudany mecz z Levante. Co działo się 9 września?</description>
     </item>
     
 </channel>
