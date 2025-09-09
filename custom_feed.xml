@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Sep 2025 10:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 11:20:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142393-dzisiejszy-trening</link>
+        <pubDate>Tue, 09 Sep 2025 13:16:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do sobotniego meczu z Realem Sociedad.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Rodrygo? Boisko jest sędzią, który się nie myli</title>
+        <link>https://www.realmadryt.pl/news/142392-ancelotti-rodrygo-boisko-jest-sedzia-ktory-sie-nie-myli</link>
+        <pubDate>Tue, 09 Sep 2025 13:02:00 GMT</pubDate>
+        <description>Carlo Ancelotti pojawił się na konferencji prasowej przed jutrzejszym spotkaniem Brazylii z Boliwią. Jedno z pytań dotyczyło Endricka i Rodrygo.</description>
+    </item>
     
     <item>
         <title>Valdano: Real to klub, który nadaje tożsamość każdemu, kto przez niego przechodzi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142382-konate-czuje-sie-zwyciezca-walki-realu-z-liverpoolem</link>
         <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
         <description>Na Anfield nic się nie zmienia. Władze angielskiego klubu widzą powtórkę przypadku Trenta, a ich przekonanie, że przyszłość stopera wiąże się z Królewskimi, rośnie z każdym dniem.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt U-18 przegrał z Racingiem</title>
-        <link>https://www.realmadryt.pl/news/142383-real-madryt-u-18-przegral-z-racingiem</link>
-        <pubDate>Mon, 08 Sep 2025 23:31:00 GMT</pubDate>
-        <description>Drużyna Realu Madryt do lat 18 przegrała w półfinale Klubowego Mundialu. Ten towarzyski turniej rozgrywany jest w Kordobie. W finale zagrają Racing z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Deschamps: A co, potem zadzwoni Bayern, potem Real Madryt, i to Ty zagrasz? Poważnie?</title>
-        <link>https://www.realmadryt.pl/news/142380-deschamps-a-co-potem-zadzwoni-bayern-potem-real-madryt-i-to-ty-zagrasz-powaznie</link>
-        <pubDate>Mon, 08 Sep 2025 21:42:00 GMT</pubDate>
-        <description>Selekcjoner reprezentacji Francji wziął udział w konferencji prasowej przed spotkaniem z Islandią. Przedstawiamy najciekawsze pytania dziennikarzy i odpowiedzi Didera Deschampsa.</description>
     </item>
     
 </channel>
