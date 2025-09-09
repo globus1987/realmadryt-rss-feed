@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Sep 2025 22:20:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Sep 2025 22:40:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142406-dzisiejsze-okladki</link>
+        <pubDate>Wed, 10 Sep 2025 00:33:00 GMT</pubDate>
+        <description>Problemy na Vuelcie i mecz Barcelony z Valencią na innym stadionie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Cristiano Ronaldo najlepszym strzelcem w historii eliminacji mistrzostw świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142392-ancelotti-rodrygo-boisko-jest-sedzia-ktory-sie-nie-myli</link>
         <pubDate>Tue, 09 Sep 2025 13:02:00 GMT</pubDate>
         <description>Carlo Ancelotti pojawił się na konferencji prasowej przed jutrzejszym spotkaniem Brazylii z Boliwią. Jedno z pytań dotyczyło Endricka i Rodrygo.</description>
-    </item>
-    
-    <item>
-        <title>Valdano: Real to klub, który nadaje tożsamość każdemu, kto przez niego przechodzi</title>
-        <link>https://www.realmadryt.pl/news/142391-valdano-real-to-klub-ktory-nadaje-tozsamosc-kazdemu-kto-przez-niego-przechodzi</link>
-        <pubDate>Tue, 09 Sep 2025 12:35:00 GMT</pubDate>
-        <description>Jorge Valdano przyleciał w sierpniu, a we wrześniu zadebiutował w hiszpańskim futbolu. Pół wieku później – bo wracamy do 1975 roku – opowiada w wywiadzie dla dziennika MARCA o swojej niezwykłej drodze. Robi to w Vitorii, mieście, w którym wszystko się zaczęło…</description>
     </item>
     
 </channel>
