@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Sep 2025 05:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Sep 2025 05:41:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Samba w Valdebebas</title>
+        <link>https://www.realmadryt.pl/news/142432-samba-w-valdebebas</link>
+        <pubDate>Thu, 11 Sep 2025 07:25:00 GMT</pubDate>
+        <description>Vinícius, Rodrygo, Éder Militão i Endrick nie pojechali na zgrupowanie reprezentacji Brazylii i mogli się skupić na pracy w Valdebebas. Cała czwórka Brazylijczyków wiąże duże nadzieje z nowym sezonem.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Jestem zadowolony ze współpracy z Xabim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142425-remiro-i-oyarzabal-beda-gotowi-na-mecz-z-realem-madryt</link>
         <pubDate>Wed, 10 Sep 2025 18:02:00 GMT</pubDate>
         <description>Jeden bez czystego konta, a drugi bez gola w tym sezonie La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>„Tajemnica o Złotej Piłce jest utrzymywana do samego końca, nawet jeśli to przeszkadza klubom”</title>
-        <link>https://www.realmadryt.pl/news/142424-tajemnica-o-zlotej-pilce-jest-utrzymywana-do-samego-konca-nawet-jesli-to-przeszkadza-klubom</link>
-        <pubDate>Wed, 10 Sep 2025 17:46:00 GMT</pubDate>
-        <description>Dziennik L’Équipe we współpracy z France Football zaprezentował premierowo film dokumentalny, w którym ujawnia, jak co roku przebiega proces wyboru Złotej Piłki.</description>
     </item>
     
 </channel>
