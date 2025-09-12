@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 16:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 16:57:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Antonio Rüdiger poważnie kontuzjowany!</title>
+        <link>https://www.realmadryt.pl/news/142479-oficjalnie-antonio-ruediger-powaznie-kontuzjowany</link>
+        <pubDate>Fri, 12 Sep 2025 18:47:00 GMT</pubDate>
+        <description>Niemiec wypada z gry i może pauzować nawet przez trzy miesiące.</description>
+    </item>
     
     <item>
         <title>Kadra na Real Sociedad</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142468-uefa-otwiera-furtke-dodatkowe-zgloszenie-w-lidze-mistrzow-przy-dlugotrwalej-kontuzji</link>
         <pubDate>Fri, 12 Sep 2025 10:32:00 GMT</pubDate>
         <description>UEFA zmienia przepisy, aby zminimalizować wpływ długotrwałych kontuzji na zespoły. Dopuszcza się jedno dodatkowe zgłoszenie.</description>
-    </item>
-    
-    <item>
-        <title>Jesús Gil na Real Sociedad</title>
-        <link>https://www.realmadryt.pl/news/142467-jesus-gil-na-real-sociedad</link>
-        <pubDate>Fri, 12 Sep 2025 09:47:00 GMT</pubDate>
-        <description>41-latek prowadzi spotkania La Ligi od 2012 roku. Jutro po raz 54. poprowadzi mecz z udziałem Realu Madryt.</description>
     </item>
     
 </channel>
