@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 09:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 09:53:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius na 200%</title>
+        <link>https://www.realmadryt.pl/news/142470-vinicius-na-200</link>
+        <pubDate>Fri, 12 Sep 2025 11:42:00 GMT</pubDate>
+        <description>W ostatnich dwóch tygodniach odświeżył głowę i dopracował formę fizyczną. Po raz pierwszy od pięciu lat spędził przerwę reprezentacyjną w Madrycie, będąc zdrowym. W Valdebebas panuje optymizm: „Wie, że teraz kolej na niego”.</description>
+    </item>
     
     <item>
         <title>Co kluby z La Ligi naprawdę myślą o limitach płacowych?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142460-dzisiejsze-okladki</link>
         <pubDate>Fri, 12 Sep 2025 00:12:00 GMT</pubDate>
         <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>„Decyzja UEFA nt. Miami to świetna wiadomość”</title>
-        <link>https://www.realmadryt.pl/news/142459-decyzja-uefa-nt-miami-to-swietna-wiadomosc</link>
-        <pubDate>Thu, 11 Sep 2025 22:36:00 GMT</pubDate>
-        <description>David Aganzo, prezes Stowarzyszenia Hiszpańskich Piłkarzy (AFE), spotkał się z dziennikarzami podczas wydarzenia dotyczącego macierzyństwa piłkarek organizowanego przez AFE w Madrycie. Aganzo mówił m.in. o decyzji UEFA dotyczącej rozegrania meczu Barcelony z Villarrealem w Miami.</description>
     </item>
     
 </channel>
