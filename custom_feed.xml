@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 06:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 07:22:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mastantuono daje przykład</title>
+        <link>https://www.realmadryt.pl/news/142465-mastantuono-daje-przyklad</link>
+        <pubDate>Fri, 12 Sep 2025 09:12:00 GMT</pubDate>
+        <description>Argentyńczyk zrezygnował z dnia wolnego i liczy na utrzymanie miejsca w wyjściowej jedenastce na mecz z Realem Sociedad, czekając jednocześnie na pierwszego gola w barwach Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>FIFA wciąż daje zielone światło meczowi w Miami</title>
+        <link>https://www.realmadryt.pl/news/142464-fifa-wciaz-daje-zielone-swiatlo-meczowi-w-miami</link>
+        <pubDate>Fri, 12 Sep 2025 09:00:00 GMT</pubDate>
+        <description>UEFA nie ma kompetencji, by zakazać spotkania, ale może wyrazić sprzeciw.</description>
+    </item>
     
     <item>
         <title>Cerezo: Nasz stadion udowodnił, że jest znakomity na koncerty, nie ma uciążliwego hałasu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142454-oficjalnie-uefa-nie-podjela-ostatecznej-decyzji-w-sprawie-meczu-barcelony-z-villarrealem-w-miami</link>
         <pubDate>Thu, 11 Sep 2025 17:57:00 GMT</pubDate>
         <description>Podczas dzisiejszego spotkania w Tiranie wybrano nie tylko gospodarzy europejskich finałów, ale dyskutowano również o rozgrywaniu ligowych spotkań poza granicami danego kraju.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Finał Ligi Mistrzów w 2027 roku w Madrycie, a Ligi Mistrzyń w Warszawie</title>
-        <link>https://www.realmadryt.pl/news/142453-oficjalnie-final-ligi-mistrzow-w-2027-roku-w-madrycie-a-ligi-mistrzyn-w-warszawie</link>
-        <pubDate>Thu, 11 Sep 2025 17:36:00 GMT</pubDate>
-        <description>Turnieje rozstrzygną się na Metropolitano i Stadionie Narodowym.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Real Oviedo przeprasza Kyliana Mbappé i Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/142452-oficjalnie-real-oviedo-przeprasza-kyliana-mbappe-i-real-madryt</link>
-        <pubDate>Thu, 11 Sep 2025 17:04:00 GMT</pubDate>
-        <description>Real Oviedo wydało oficjalny komunikat w sprawie zajścia, do którego doszło podczas meczu 2. kolejki La Ligi.</description>
     </item>
     
 </channel>
