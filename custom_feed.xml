@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 04:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 05:24:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 12 września</title>
+        <link>https://www.realmadryt.pl/news/142458-kartka-z-kalendarza-12-wrzesnia</link>
+        <pubDate>Fri, 12 Sep 2025 07:00:00 GMT</pubDate>
+        <description>Porażka z Valencią, debiut Casillasa, wielki mecz Cristiano Ronaldo, powrót na Santiago Bernabéu i triumf koszykarzy. Co działo się 12 września?</description>
+    </item>
     
     <item>
         <title>Kees Smit gotowy na Real Madryt lub Barçę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142450-kirian-wraca-do-gry-ma-zgode-lekarzy-po-nawrocie-chloniaka-hodgkina</link>
         <pubDate>Thu, 11 Sep 2025 15:23:00 GMT</pubDate>
         <description>Kapitan Las Palmas potwierdził, że otrzymał zgodę lekarzy na powrót do gry. Kolejny chłoniak Hodgkina wykluczał go z gry od lutego.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie rozpoczynają walkę o Ligę Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/142449-krolewskie-rozpoczynaja-walke-o-lige-mistrzyn</link>
-        <pubDate>Thu, 11 Sep 2025 15:00:00 GMT</pubDate>
-        <description>W pierwszym meczu trzeciej rundy kwalifikacji do fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają we Frankfrucie z Eintrachtem. Początek spotkania o godzinie 19:00.</description>
     </item>
     
 </channel>
