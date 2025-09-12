@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 08:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 08:54:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>UEFA otwiera furtkę: dodatkowe zgłoszenie w Lidze Mistrzów przy długotrwałej kontuzji</title>
+        <link>https://www.realmadryt.pl/news/142468-uefa-otwiera-furtke-dodatkowe-zgloszenie-w-lidze-mistrzow-przy-dlugotrwalej-kontuzji</link>
+        <pubDate>Fri, 12 Sep 2025 10:32:00 GMT</pubDate>
+        <description>UEFA zmienia przepisy, aby zminimalizować wpływ długotrwałych kontuzji na zespoły. Dopuszcza się jedno dodatkowe zgłoszenie.</description>
+    </item>
     
     <item>
         <title>Jesús Gil na Real Sociedad</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142457-oficjalnie-fifa-zgadza-sie-na-rejestracje-laportea</link>
         <pubDate>Thu, 11 Sep 2025 20:23:00 GMT</pubDate>
         <description>Zwrot w sprawie transferu Aymerica Laporte'a do Athleticu Bilbao. Jak przekazał w oficjalnym komunikacie baskijski klub, FIFA wyraziła zgodę na rejestrację zawodnika w klubie z San Mamés.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 9. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/142456-terminarz-9-kolejki-la-ligi</link>
-        <pubDate>Thu, 11 Sep 2025 19:12:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 9. kolejki, w której Królewscy zagrają na Coliseum z Getafe.</description>
     </item>
     
 </channel>
