@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 07:39:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 07:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jesús Gil na Real Sociedad</title>
+        <link>https://www.realmadryt.pl/news/142467-jesus-gil-na-real-sociedad</link>
+        <pubDate>Fri, 12 Sep 2025 09:47:00 GMT</pubDate>
+        <description>41-latek prowadzi spotkania La Ligi od 2012 roku. Jutro po raz 54. poprowadzi mecz z udziałem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Pablo Marín: Z Realu wziąłbym Fede Valverde, to kompletny piłkarz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142456-terminarz-9-kolejki-la-ligi</link>
         <pubDate>Thu, 11 Sep 2025 19:12:00 GMT</pubDate>
         <description>La Liga opublikowała terminarz 9. kolejki, w której Królewscy zagrają na Coliseum z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie wygrywają z Eintrachtem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142455-krolewskie-wygrywaja-z-eintrachtem-video</link>
-        <pubDate>Thu, 11 Sep 2025 18:55:00 GMT</pubDate>
-        <description>W pierwszym meczu trzeciej rundy kwalifikacji do Ligi Mistrzyń piłkarki Realu Madryt wygrały we Frankfurcie z Eintrachtem 2:1. Bramki dla Królewskich zdobyły Filippa Angeldahl i Signe Bruun.</description>
     </item>
     
 </channel>
