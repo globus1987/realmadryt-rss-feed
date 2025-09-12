@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Sep 2025 21:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 22:21:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142491-dzisiejsze-okladki</link>
+        <pubDate>Sat, 13 Sep 2025 00:19:00 GMT</pubDate>
+        <description>Słowa Xabiego Alonso i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Zagra ten, kto na to zasłuży i tak będzie przez cały rok</title>
+        <link>https://www.realmadryt.pl/news/142489-xabi-alonso-zagra-ten-kto-na-to-zasluzy-i-tak-bedzie-przez-caly-rok</link>
+        <pubDate>Sat, 13 Sep 2025 00:00:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Realem Sociedad w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Łatwe i szybkie zwycięstwo Marsylii</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142478-francisco-xabi-odmienil-real-madryt</link>
         <pubDate>Fri, 12 Sep 2025 17:16:00 GMT</pubDate>
         <description>Trener Realu Sociedad, Sergio Francisco, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 4. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi hiszpańskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Realem Sociedad [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142474-kwadrans-ostatniego-treningu-przed-realem-sociedad-video</link>
-        <pubDate>Fri, 12 Sep 2025 16:18:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym ligowym meczem w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Sociedad na jutrzejszy mecz</title>
-        <link>https://www.realmadryt.pl/news/142475-kadra-realu-sociedad-na-jutrzejszy-mecz</link>
-        <pubDate>Fri, 12 Sep 2025 15:19:00 GMT</pubDate>
-        <description>Szkoleniowiec gospodarzy może liczyć niemal na wszystkich zawodników pierwszego zespołu. Gotowi do gry są Carlos Soler i Álvaro Odriozola.</description>
     </item>
     
 </channel>
