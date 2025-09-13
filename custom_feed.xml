@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 05:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 06:31:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsza zwrotka</title>
+        <link>https://www.realmadryt.pl/news/142480-pierwsza-zwrotka</link>
+        <pubDate>Sat, 13 Sep 2025 08:18:00 GMT</pubDate>
+        <description>Śpiewać każdy może, trochę lepiej, lub trochę gorzej.</description>
+    </item>
     
     <item>
         <title>Zubeldia: Bardzo trudno jest wyczuć, co zrobi Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142479-oficjalnie-antonio-ruediger-powaznie-kontuzjowany</link>
         <pubDate>Fri, 12 Sep 2025 18:47:00 GMT</pubDate>
         <description>Niemiec wypada z gry i może pauzować nawet przez trzy miesiące.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Real Sociedad</title>
-        <link>https://www.realmadryt.pl/news/142477-kadra-na-real-sociedad</link>
-        <pubDate>Fri, 12 Sep 2025 18:15:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z Realem Sociedad. Bask powołał 21 piłkarzy.</description>
     </item>
     
 </channel>
