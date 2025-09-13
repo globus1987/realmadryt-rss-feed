@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 21:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 21:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Jeszcze nie jesteśmy poukładani</title>
+        <link>https://www.realmadryt.pl/news/142519-scariolo-jeszcze-nie-jestesmy-poukladani</link>
+        <pubDate>Sat, 13 Sep 2025 23:46:00 GMT</pubDate>
+        <description>Sergio Scariolo i Facundo Campazzo wypowiadali się po wygranym towarzyskim spotkaniu z Saragossą. Obaj zgodnie przyznali, że przed drużyną jest jeszcze wiele rzeczy do poprawy.</description>
+    </item>
     
     <item>
         <title>Kolejne zwycięstwo koszykarzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142505-ocen-pilkarzy-po-meczu-z-sociedadem</link>
         <pubDate>Sat, 13 Sep 2025 18:17:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Kylian Mbappé MVP meczu Realu w San Sebastián</title>
-        <link>https://www.realmadryt.pl/news/142502-kylian-mbappe-mvp-meczu-realu-w-san-sebastian</link>
-        <pubDate>Sat, 13 Sep 2025 18:14:00 GMT</pubDate>
-        <description>Francuski napastnik został wyróżniony w meczu Realu Sociedad z Realem Madryt.</description>
     </item>
     
 </channel>
