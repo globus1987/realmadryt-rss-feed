@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 15:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 16:25:36 GMT</lastBuildDate>
     
     <item>
-        <title>Real Sociedad – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/142501-real-sociedad-real-madryt-live</link>
+        <title>Oceń piłkarzy po meczu z Sociedadem</title>
+        <link>https://www.realmadryt.pl/news/142505-ocen-pilkarzy-po-meczu-z-sociedadem</link>
+        <pubDate>Sat, 13 Sep 2025 18:17:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Kylian Mbappé MVP meczu Realu w San Sebastián</title>
+        <link>https://www.realmadryt.pl/news/142502-kylian-mbappe-mvp-meczu-realu-w-san-sebastian</link>
+        <pubDate>Sat, 13 Sep 2025 18:14:00 GMT</pubDate>
+        <description>Francuski napastnik został wyróżniony w meczu Realu Sociedad z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Eksplozja Kyliana ratuje</title>
+        <link>https://www.realmadryt.pl/news/142501-eksplozja-kyliana-ratuje</link>
         <pubDate>Sat, 13 Sep 2025 16:10:00 GMT</pubDate>
-        <description>Od 16:15 Real Madryt mierzy się na wyjeździe z Realem Sociedad.</description>
+        <description>W meczu czwartej kolejki La Ligi Real Madryt wygrał na wyjeździe z Realem Sociedad po golach Kyliana Mbappé i Ardy Gülera.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142494-nasri-zszokowalo-mnie-to-co-powiedziala-matka-kyliana</link>
         <pubDate>Sat, 13 Sep 2025 09:18:00 GMT</pubDate>
         <description>Samir Nasri skrytykował Kyliana Mbappé po wywiadzie jego matki dla L'Equipe, w którym ta stwierdziła między innymi, że jej syn nie ma prawa jazdy.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 13 września</title>
-        <link>https://www.realmadryt.pl/news/142488-kartka-z-kalendarza-13-wrzesnia</link>
-        <pubDate>Sat, 13 Sep 2025 09:09:00 GMT</pubDate>
-        <description>Bolesne porażki z Lyonem i Atlético, pierwszy mecz w nowej odsłonie Pucharu Europy, urodziny obrońcy, debiut Gento i… pierwszy występ Di Stéfano w barwach Espanyolu. Co działo się 13 września?</description>
-    </item>
-    
-    <item>
-        <title>Carlos Soler już dawał się we znaki Realowi Madryt</title>
-        <link>https://www.realmadryt.pl/news/142493-carlos-soler-juz-dawal-sie-we-znaki-realowi-madryt</link>
-        <pubDate>Sat, 13 Sep 2025 08:34:00 GMT</pubDate>
-        <description>Królewscy są ulubioną „ofiarą” 28-letniego pomocnika, który w tę sobotę powinien zadebiutować w nowym zespole.</description>
     </item>
     
 </channel>
