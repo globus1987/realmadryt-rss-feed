@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 22:39:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 22:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142521-dzisiejsze-okladki</link>
+        <pubDate>Sun, 14 Sep 2025 00:40:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony bez Lamine'a Yamala to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ancelotti: Oczywiście, że łatwo jest posadzić Viníciusa na ławce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142503-real-sociedad-1-2-real-madryt-video</link>
         <pubDate>Sat, 13 Sep 2025 18:45:00 GMT</pubDate>
         <description>W meczu czwartej kolejki La Ligi Real Madryt wygrał na wyjeździe z Realem Sociedad 2:1 po golach Kyliana Mbappé i Ardy Gülera.</description>
-    </item>
-    
-    <item>
-        <title>Zubeldia: Drugi gol był dla nas mocnym ciosem</title>
-        <link>https://www.realmadryt.pl/news/142506-zubeldia-drugi-gol-byl-dla-nas-mocnym-ciosem</link>
-        <pubDate>Sat, 13 Sep 2025 18:30:00 GMT</pubDate>
-        <description>Igor Zubeldia udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 1:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi zawodnika Realu Sociedad.</description>
     </item>
     
 </channel>
