@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 07:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 08:27:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Co mogło być, a nie było</title>
+        <link>https://www.realmadryt.pl/news/142472-co-moglo-byc-a-nie-bylo</link>
+        <pubDate>Sat, 13 Sep 2025 10:00:00 GMT</pubDate>
+        <description>Bask wraca na Anoetę jako trener Realu Madryt; po trzech latach w rezerwach Realu Sociedad nie awansował do pierwszej drużyny ze względu na sukcesy Imanola.</description>
+    </item>
     
     <item>
         <title>OkDiario: Czterech piłkarzy Realu Madryt odrzuciło oferty z Arabii Saudyjskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142487-bruno-iglesias-odzyl-pod-wodza-arbeloi</link>
         <pubDate>Fri, 12 Sep 2025 22:33:00 GMT</pubDate>
         <description>Bruno Iglesias kilka lat temu był określanym mianem jednego z największych talentów w szkółce. Jego rozwój jednak się zatrzymał i teraz musi odbudowywać swoją karierę, a zaufanie Arbeloi może mu w tym pomóc.</description>
-    </item>
-    
-    <item>
-        <title>Encestando: Jordan Loyd oddala się od Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/142486-encestando-jordan-loyd-oddala-sie-od-realu-madryt</link>
-        <pubDate>Fri, 12 Sep 2025 22:01:00 GMT</pubDate>
-        <description>Droga Jordana Loyda do Realu Madryt nie jest prosta i Królewscy zdają sobie sprawę, że byłaby to trudna operacja. W tej sytuacji rozgrywający może trafić do Dubaju.</description>
     </item>
     
 </channel>
