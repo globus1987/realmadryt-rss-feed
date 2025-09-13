@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 13:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 14:18:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Sociedad – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/142501-real-sociedad-real-madryt-live</link>
+        <pubDate>Sat, 13 Sep 2025 16:10:00 GMT</pubDate>
+        <description>Od 16:15 Real Madryt mierzy się na wyjeździe z Realem Sociedad.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Sociedadem [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142493-carlos-soler-juz-dawal-sie-we-znaki-realowi-madryt</link>
         <pubDate>Sat, 13 Sep 2025 08:34:00 GMT</pubDate>
         <description>Królewscy są ulubioną „ofiarą” 28-letniego pomocnika, który w tę sobotę powinien zadebiutować w nowym zespole.</description>
-    </item>
-    
-    <item>
-        <title>Pierwsza zwrotka</title>
-        <link>https://www.realmadryt.pl/news/142480-pierwsza-zwrotka</link>
-        <pubDate>Sat, 13 Sep 2025 08:18:00 GMT</pubDate>
-        <description>Śpiewać każdy może, trochę lepiej, lub trochę gorzej.</description>
     </item>
     
 </channel>
