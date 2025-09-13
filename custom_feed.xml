@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Sep 2025 16:25:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Sep 2025 16:41:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zubeldia: Drugi gol był dla nas mocnym ciosem</title>
+        <link>https://www.realmadryt.pl/news/142506-zubeldia-drugi-gol-byl-dla-nas-mocnym-ciosem</link>
+        <pubDate>Sat, 13 Sep 2025 18:30:00 GMT</pubDate>
+        <description>Igor Zubeldia udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 1:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi zawodnika Realu Sociedad.</description>
+    </item>
     
     <item>
         <title>Oceń piłkarzy po meczu z Sociedadem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142495-okdiario-czterech-pilkarzy-realu-madryt-odrzucilo-oferty-z-arabii-saudyjskiej</link>
         <pubDate>Sat, 13 Sep 2025 09:33:00 GMT</pubDate>
         <description>Portal OkDiario twierdzi, że tylko w tym roku Saudyjczycy zgłosili się do czterech zawodników Królewskich. Wszyscy jednak odrzucali propozycje z Bliskiego Wschodu i ostatecznie pozostają graczami Los Blancos.</description>
-    </item>
-    
-    <item>
-        <title>Nasri: Zszokowało mnie to, co powiedziała matka Kyliana</title>
-        <link>https://www.realmadryt.pl/news/142494-nasri-zszokowalo-mnie-to-co-powiedziala-matka-kyliana</link>
-        <pubDate>Sat, 13 Sep 2025 09:18:00 GMT</pubDate>
-        <description>Samir Nasri skrytykował Kyliana Mbappé po wywiadzie jego matki dla L'Equipe, w którym ta stwierdziła między innymi, że jej syn nie ma prawa jazdy.</description>
     </item>
     
 </channel>
