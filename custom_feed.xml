@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Sep 2025 09:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 10:21:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Sociedadem</title>
+        <link>https://www.realmadryt.pl/news/142529-oceny-zawodnikow-po-meczu-z-sociedadem</link>
+        <pubDate>Sun, 14 Sep 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:1 na wyjeździe z Realem Sociedad. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>Irfan Peljto na Marsylię</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142504-huijsen-nie-zagra-z-espanyolem</link>
         <pubDate>Sun, 14 Sep 2025 07:00:00 GMT</pubDate>
         <description>W 32. minucie wczorajszej potyczki na Reale Arena Jesús Gil ukarał czerwoną kartką Deana Huijsena, co oznacza, że obrońcy zabraknie w najbliższym meczu Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Xabi do arbitra: Sprawiacie, że mam złe myśli</title>
-        <link>https://www.realmadryt.pl/news/142515-xabi-do-arbitra-sprawiacie-ze-mam-zle-mysli</link>
-        <pubDate>Sun, 14 Sep 2025 05:30:00 GMT</pubDate>
-        <description>Kontrowersyjna decyzja Gila Manzano o wyrzuceniu z boiska Deana Huijsena spotkała się z dużym oburzeniem ze strony Xabiego Alonso. Po meczu trener Realu Madryt podszedł do arbitra, aby poprosić o wytłumaczenie całej sytuacji.</description>
     </item>
     
 </channel>
