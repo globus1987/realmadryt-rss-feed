@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Sep 2025 22:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 22:40:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142548-dzisiejsze-okladki</link>
+        <pubDate>Mon, 15 Sep 2025 00:24:00 GMT</pubDate>
+        <description>Anulowanie ostatniego etapu Vuelty i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Luka Modrić z pierwszym golem w Serie A [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142532-real-madrid-tv-porownuje-sytuacje-huijsena-do-tych-barcelony-video</link>
         <pubDate>Sun, 14 Sep 2025 13:40:00 GMT</pubDate>
         <description>Klubowa telewizja w niedzielę nie odpuściła sędziom z meczu z Sociedadem i dla uwypuklenia ich błędów pokazała dwie sytuacje z meczów Barcelony z ostatnich dwóch sezonów.</description>
-    </item>
-    
-    <item>
-        <title>Sesja regeneracyjna w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/142531-sesja-regeneracyjna-w-valdebebas</link>
-        <pubDate>Sun, 14 Sep 2025 13:14:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
