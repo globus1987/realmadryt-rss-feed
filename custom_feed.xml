@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Sep 2025 20:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 21:19:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Luka Modrić z pierwszym golem w Serie A [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/142546-luka-modric-z-pierwszym-golem-w-serie-a-video</link>
+        <pubDate>Sun, 14 Sep 2025 23:03:00 GMT</pubDate>
+        <description>Rossoneri pokonali Bolonię 1:0 po bramce byłego pomocnika Realu.</description>
+    </item>
     
     <item>
         <title>Niemcy koszykarskim mistrzem Europy</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>FC Barcelona – Valencia: Katalończycy gonią Królewskich [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/142542-fc-barcelona-valencia-katalonczycy-gonia-krolewskich-live</link>
+        <title>4. kolejka: Barcelona rozbija Valencię i goni Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/142542-4-kolejka-barcelona-rozbija-valencie-i-goni-real-madryt</link>
         <pubDate>Sun, 14 Sep 2025 20:00:00 GMT</pubDate>
-        <description>Katalończycy w swoim meczu 4. kolejki La Ligi zagrają z Valencią. Rywali podejmują na obiekcie w swoim ośrodku treningowym.</description>
+        <description>Katalończycy rozbili rywali i doskoczyli do Królewskich na 2 punkty. Mecz odbył się na stadionie Johana Cruyffa.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142531-sesja-regeneracyjna-w-valdebebas</link>
         <pubDate>Sun, 14 Sep 2025 13:14:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Przyznanie się do błędu i „lodówka” dla Figueroy</title>
-        <link>https://www.realmadryt.pl/news/142530-marca-przyznanie-sie-do-bledu-i-lodowka-dla-figueroy</link>
-        <pubDate>Sun, 14 Sep 2025 12:55:00 GMT</pubDate>
-        <description>W najbliższych dniach powinniśmy poznać kolejne analizy Komitetu Technicznego Arbitrów, w których nie zabraknie sytuacji z udziałem Deana Huijsena i Mikela Oyarzabala.</description>
     </item>
     
 </channel>
