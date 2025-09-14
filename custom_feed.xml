@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Sep 2025 03:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 03:42:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi do arbitra: Sprawiacie, że mam złe myśli</title>
+        <link>https://www.realmadryt.pl/news/142515-xabi-do-arbitra-sprawiacie-ze-mam-zle-mysli</link>
+        <pubDate>Sun, 14 Sep 2025 05:30:00 GMT</pubDate>
+        <description>Kontrowersyjna decyzja Gila Manzano o wyrzuceniu z boiska Deana Huijsena spotkała się z dużym oburzeniem ze strony Xabiego Alonso. Po meczu trener Realu Madryt podszedł do arbitra, aby poprosić o wytłumaczenie całej sytuacji.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142507-huijsen-dziekuje-druzyno-ze-jestes-taka-dobra</link>
         <pubDate>Sat, 13 Sep 2025 18:49:00 GMT</pubDate>
         <description>Tuż po zakończeniu meczu z Realem Sociedad Dean Huijsen podzielił się swoimi odczuciami za pośrednictwem mediów społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Real Sociedad 1:2 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142503-real-sociedad-1-2-real-madryt-video</link>
-        <pubDate>Sat, 13 Sep 2025 18:45:00 GMT</pubDate>
-        <description>W meczu czwartej kolejki La Ligi Real Madryt wygrał na wyjeździe z Realem Sociedad 2:1 po golach Kyliana Mbappé i Ardy Gülera.</description>
     </item>
     
 </channel>
