@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Sep 2025 07:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 08:27:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmiana, która zabolała Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/142524-zmiana-ktora-zabolala-viniciusa</link>
+        <pubDate>Sun, 14 Sep 2025 10:26:00 GMT</pubDate>
+        <description>We wczorajszym meczu z Realem Sociedad Xabi Alonso zdjął Viníciusa na 22 minuty przed końcem, aby wzmocnić obronę i dowieźć zwycięstwo do końca.</description>
+    </item>
+    
+    <item>
+        <title>„Ani obrońcy, ani VAR nie są w stanie zatrzymać Mbappé”</title>
+        <link>https://www.realmadryt.pl/news/142523-ani-obroncy-ani-var-nie-sa-w-stanie-zatrzymac-mbappe</link>
+        <pubDate>Sun, 14 Sep 2025 10:12:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu Madryt z Realem Sociedad. Przedstawiamy refleksje dziennikarza.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Przez głowę mi nie przeszło, że to może być czerwona kartka</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142518-kolejne-zwyciestwo-koszykarzy</link>
         <pubDate>Sat, 13 Sep 2025 23:17:00 GMT</pubDate>
         <description>Real Madryt ma za sobą trzeci sprawdzian podczas pretemporady. Dzisiaj Królewscy wysoko pokonali Saragossę, a pierwsze spotkanie w madryckich barwach zaliczyli Théo Maledon i David Krämer.</description>
-    </item>
-    
-    <item>
-        <title>4. kolejka: Atlético wygrywa i odbija się od dna</title>
-        <link>https://www.realmadryt.pl/news/142514-4-kolejka-atletico-wygrywa-i-odbija-sie-od-dna</link>
-        <pubDate>Sat, 13 Sep 2025 20:41:00 GMT</pubDate>
-        <description>Sobotnie zmagania w La Lidze zamknął hit kolejki, w którym zmierzyły się drużyny, które zagrają w Lidze Mistrzów. Sąsiedzi Królewskich zanotowali pierwsze zwycięstwo w sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV: Real Madryt tworzy raport sędziowski o La Lidze, który wyśle do FIFA</title>
-        <link>https://www.realmadryt.pl/news/142512-real-madrid-tv-real-madryt-tworzy-raport-sedziowski-o-la-lidze-ktory-wysle-do-fifa</link>
-        <pubDate>Sat, 13 Sep 2025 19:35:00 GMT</pubDate>
-        <description>Klubowa telewizja rozjechała krytyką sędziów meczu z Sociedadem i pod koniec pomeczowego studia przekazała, że klub zamierza złożyć skargę do FIFA w sprawie wydarzeń w La Lidze.</description>
     </item>
     
 </channel>
