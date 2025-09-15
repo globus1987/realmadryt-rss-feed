@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Sep 2025 21:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 22:21:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142575-dzisiejsze-okladki</link>
+        <pubDate>Tue, 16 Sep 2025 00:12:00 GMT</pubDate>
+        <description>Start Ligi Mistrzów to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Aby wygrać, trzeba też przegrać</title>
+        <link>https://www.realmadryt.pl/news/142565-xabi-alonso-aby-wygrac-trzeba-tez-przegrac</link>
+        <pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Marsylią w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Joan Martínez przedłużył kontrakt z Realem Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142559-tchouameni-xabi-poprosil-druzyne-o-inne-rzeczy-niz-carlo</link>
         <pubDate>Mon, 15 Sep 2025 15:13:00 GMT</pubDate>
         <description>Aurélien Tchouaméni pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Olympique'em Marsylia w Lidze Mistrzów. Przedstawiamy zapis tego spotkania pomocnika Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Olympique Marsylia</title>
-        <link>https://www.realmadryt.pl/news/142556-kadra-realu-madryt-na-olympique-marsylia</link>
-        <pubDate>Mon, 15 Sep 2025 15:12:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na trzech zawodników pierwszego zespołu podczas spotkania z Olympique'em Marsylia. Bask powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Kontrola antydopingowa La Ligi w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/142558-kontrola-antydopingowa-la-ligi-w-valdebebas</link>
-        <pubDate>Mon, 15 Sep 2025 14:50:00 GMT</pubDate>
-        <description>Królewscy rozpoczęli dzisiejszy trening z godzinnym opóźnieniem, ponieważ sześciu zawodników musiało udać się na kontrolę antydopingową… La Ligi.</description>
     </item>
     
 </channel>
