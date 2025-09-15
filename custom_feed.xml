@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Sep 2025 07:53:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 08:32:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 września</title>
+        <link>https://www.realmadryt.pl/news/142550-kartka-z-kalendarza-15-wrzesnia</link>
+        <pubDate>Mon, 15 Sep 2025 10:20:00 GMT</pubDate>
+        <description>Nominacja Santiago Bernabéu na prezesa Realu Madryt, bramka Jacka Krzynówka przeciwko Królewskim, pierwszy mecz Ligi Mistrzów w drugiej erze Florentino Péreza i przegłosowanie utworzenia żeńskiej sekcji piłkarskiej. Co działo się 15 września?</description>
+    </item>
     
     <item>
         <title>Rodrygo: Intensywność to słowo, które najlepiej opisuje Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142538-oslabiona-castilla-przegrala-z-rezerwami-athleticu</link>
         <pubDate>Sun, 14 Sep 2025 18:01:00 GMT</pubDate>
         <description>Castilla z pierwszego ligowego wyjazdu wróci z pustymi rękami. Królewscy stracili gola na początku meczu, a później wszystko skomplikowała czerwona kartka Cestero.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Decyzje Komitetu Arbitrów ws. kartki Huijsena dopiero w poniedziałek</title>
-        <link>https://www.realmadryt.pl/news/142537-cope-decyzje-komitetu-arbitrow-ws-kartki-huijsena-dopiero-w-poniedzialek</link>
-        <pubDate>Sun, 14 Sep 2025 17:17:00 GMT</pubDate>
-        <description>Dziennikarz powiązany z sędziami zaprzecza, że zapadły już decyzje po decyzji z meczu Sociedadu z Realem Madryt.</description>
     </item>
     
 </channel>
