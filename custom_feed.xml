@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Sep 2025 07:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 08:33:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwsi i najwięksi</title>
+        <link>https://www.realmadryt.pl/news/142573-pierwsi-i-najwieksi</link>
+        <pubDate>Tue, 16 Sep 2025 10:30:00 GMT</pubDate>
+        <description>Mówisz „Liga Mistrzów”, myślisz…</description>
+    </item>
     
     <item>
         <title>Kulisy ostatniego treningu przed meczem z Marsylią [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142567-co-znajdzie-sie-w-raporcie-sedziowskim-realu-wyslanym-do-fifa</link>
         <pubDate>Mon, 15 Sep 2025 18:38:00 GMT</pubDate>
         <description>Klub poprzez swoje media zapowiedział wysłanie FIFA raportu sędziowskiego o zdarzeniach w La Lidze. Dziennikarz COPE poinformował, co ma się w nim znaleźć.</description>
-    </item>
-    
-    <item>
-        <title>Jest miejsce dla Ceballosa</title>
-        <link>https://www.realmadryt.pl/news/142566-jest-miejsce-dla-ceballosa</link>
-        <pubDate>Mon, 15 Sep 2025 18:23:00 GMT</pubDate>
-        <description>Xabi Alonso widzi w Danim Ceballosie kreatywnego pomocnika, który swoją techniką wyróżnia się w środku pola. W meczu z Realem Sociedad 29-latek pokazał się z dobrej strony i wie, że w obecnym zespole jest dla niego miejsce.</description>
     </item>
     
 </channel>
