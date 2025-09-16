@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Sep 2025 20:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 21:21:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Marsylią</title>
+        <link>https://www.realmadryt.pl/news/142594-ocen-pilkarzy-po-meczu-z-marsylia</link>
+        <pubDate>Tue, 16 Sep 2025 23:02:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
     
     <item>
         <title>Trent Alexander-Arnold kontuzjowany</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Real Madryt – Olympique Marsylia [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/142589-real-madryt-olympique-marsylia-live</link>
+        <title>Real znów przetrwał</title>
+        <link>https://www.realmadryt.pl/news/142589-real-znow-przetrwal</link>
         <pubDate>Tue, 16 Sep 2025 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa pierwsze spotkanie Realu Madryt w tej edycji Ligi Mistrzów. Rywalem Królewskich jest Olympique Marsylia.</description>
+        <description>W pierwszym spotkaniu Ligi Mistrzów Real Madryt wygrał z Marsylią 2:1 po dwóch golach Kyliana Mbappé z rzutu karnego. Królewscy znów musieli kończyć mecz w dziesięciu. Tym razem arbiter wyrzucił z boiska Daniego Carvajala.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142572-ramos-marze-o-muzycznym-wystepie-na-bernabeu</link>
         <pubDate>Tue, 16 Sep 2025 12:00:00 GMT</pubDate>
         <description>Legendarny kapitan Królewskich potwierdza, że chce realizować się także muzycznie i marzy o występie na stadionie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>De Zerbi: Bez jakości nie wyjdziesz stąd żywy</title>
-        <link>https://www.realmadryt.pl/news/142580-de-zerbi-bez-jakosci-nie-wyjdziesz-stad-zywy</link>
-        <pubDate>Tue, 16 Sep 2025 11:57:00 GMT</pubDate>
-        <description>Roberto De Zerbi wziął udział w konferencji prasowej przed meczem 1. kolejki fazy grupowej Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi trenera Olympique'u Marsylia z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
