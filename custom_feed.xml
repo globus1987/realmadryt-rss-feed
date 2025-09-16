@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Sep 2025 19:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 19:39:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trent Alexander-Arnold kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/142593-trent-alexander-arnold-kontuzjowany</link>
+        <pubDate>Tue, 16 Sep 2025 21:20:00 GMT</pubDate>
+        <description>Trent Alexander-Arnold zszedł z boiska z powodu kontuzji już w 5. minucie meczu Ligi Mistrzów z Marsylią.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Olympique Marsylia [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142580-de-zerbi-bez-jakosci-nie-wyjdziesz-stad-zywy</link>
         <pubDate>Tue, 16 Sep 2025 11:57:00 GMT</pubDate>
         <description>Roberto De Zerbi wziął udział w konferencji prasowej przed meczem 1. kolejki fazy grupowej Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi trenera Olympique'u Marsylia z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 16 września</title>
-        <link>https://www.realmadryt.pl/news/142579-kartka-z-kalendarza-16-wrzesnia</link>
-        <pubDate>Tue, 16 Sep 2025 11:27:00 GMT</pubDate>
-        <description>Urodziny byłego trenera, pogrom Realu Sociedad i wygrana w pierwszym meczu Ligi Mistrzów po zdobyciu La Décimy. Co działo się 16 września?</description>
     </item>
     
 </channel>
