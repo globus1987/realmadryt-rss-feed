@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Sep 2025 09:27:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Sep 2025 09:44:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 16 września</title>
+        <link>https://www.realmadryt.pl/news/142579-kartka-z-kalendarza-16-wrzesnia</link>
+        <pubDate>Tue, 16 Sep 2025 11:27:00 GMT</pubDate>
+        <description>Urodziny byłego trenera, pogrom Realu Sociedad i wygrana w pierwszym meczu Ligi Mistrzów po zdobyciu La Décimy. Co działo się 16 września?</description>
+    </item>
     
     <item>
         <title>Pierwsi i najwięksi</title>
@@ -83,13 +90,6 @@ Już dziś rozpoczyna się faza ligowa Champions League. O 21:00 swoje pierwsze 
         <link>https://www.realmadryt.pl/news/142568-prezes-marsylii-nigdy-bym-nawet-nie-marzyl-o-obiedzie-z-florentino</link>
         <pubDate>Mon, 15 Sep 2025 19:21:00 GMT</pubDate>
         <description>Prezes Olympique'u Marsylia, Pablo Longoria, udzielił wywiadu dziennikowi MARCA przed meczem z Realem Madryt w 1. kolejce Ligi Mistrzów. Poniżej przedstawiamy zapis tej rozmowy z hiszpańskim działaczem.</description>
-    </item>
-    
-    <item>
-        <title>Co znajdzie się w raporcie sędziowskim Realu wysłanym do FIFA?</title>
-        <link>https://www.realmadryt.pl/news/142567-co-znajdzie-sie-w-raporcie-sedziowskim-realu-wyslanym-do-fifa</link>
-        <pubDate>Mon, 15 Sep 2025 18:38:00 GMT</pubDate>
-        <description>Klub poprzez swoje media zapowiedział wysłanie FIFA raportu sędziowskiego o zdarzeniach w La Lidze. Dziennikarz COPE poinformował, co ma się w nim znaleźć.</description>
     </item>
     
 </channel>
