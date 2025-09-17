@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 11:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 11:39:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x07: Czy przeszarżowaliśmy?</title>
+        <link>https://www.realmadryt.pl/news/142614-podcast-7x07-czy-przeszarzowalismy</link>
+        <pubDate>Wed, 17 Sep 2025 13:30:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Olympique'em Marsylia.</description>
+    </item>
     
     <item>
         <title>Czy Real Madryt jest drużyną, która najczęściej otrzymuje rzuty karne w Lidze Mistrzów?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142592-kartka-z-kalendarza-17-wrzesnia</link>
         <pubDate>Wed, 17 Sep 2025 08:30:00 GMT</pubDate>
         <description>Ważne wygrane, początek pięknej drogi po La Décimę czy popis wychowanków na Stadio Olimpico w Rzymie. Co działo się 17 września?</description>
-    </item>
-    
-    <item>
-        <title>Komitet Arbitrów: Faul Huijsena był na żółtą, ale VAR nie powinien był interweniować ws. czerwieni [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142602-komitet-arbitrow-faul-huijsena-byl-na-zolta-ale-var-nie-powinien-byl-interweniowac-ws-czerwieni-video</link>
-        <pubDate>Wed, 17 Sep 2025 07:50:00 GMT</pubDate>
-        <description>Komitet Arbitrów odniósł się publicznie do czerwonej kartki pokazanej Deanowi Huijsenowi. Sytuację rozbito na dwa aspekty: decyzję boiskową i decyzję VAR-u.</description>
     </item>
     
 </channel>
