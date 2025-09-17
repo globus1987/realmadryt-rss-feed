@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 04:58:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 05:26:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 zwycięstw i 700 goli Realu Madryt w Lidze Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/142599-200-zwyciestw-i-700-goli-realu-madryt-w-lidze-mistrzow</link>
+        <pubDate>Wed, 17 Sep 2025 07:00:00 GMT</pubDate>
+        <description>Real Madryt jest pierwszym zespołem, który sięgnął po 200 wygranych i zdobył 700 bramek w Lidze Mistrzów od czasu zmiany formatu tych rozgrywek w 1992 roku</description>
+    </item>
     
     <item>
         <title>Courtois: Teraz trener bardzo naciska, by atakujący szybko wracali za piłką</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142593-trent-alexander-arnold-kontuzjowany</link>
         <pubDate>Tue, 16 Sep 2025 21:20:00 GMT</pubDate>
         <description>Trent Alexander-Arnold zszedł z boiska z powodu kontuzji już w 5. minucie meczu Ligi Mistrzów z Marsylią.</description>
-    </item>
-    
-    <item>
-        <title>Real znów przetrwał</title>
-        <link>https://www.realmadryt.pl/news/142589-real-znow-przetrwal</link>
-        <pubDate>Tue, 16 Sep 2025 20:55:00 GMT</pubDate>
-        <description>W pierwszym spotkaniu Ligi Mistrzów Real Madryt wygrał z Marsylią 2:1 po dwóch golach Kyliana Mbappé z rzutu karnego. Królewscy znów musieli kończyć mecz w dziesięciu. Tym razem arbiter wyrzucił z boiska Daniego Carvajala.</description>
     </item>
     
 </channel>
