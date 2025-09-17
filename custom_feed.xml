@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 10:56:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 11:19:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy Real Madryt jest drużyną, która najczęściej otrzymuje rzuty karne w Lidze Mistrzów?</title>
+        <link>https://www.realmadryt.pl/news/142612-czy-real-madryt-jest-druzyna-ktora-najczesciej-otrzymuje-rzuty-karne-w-lidze-mistrzow</link>
+        <pubDate>Wed, 17 Sep 2025 13:02:00 GMT</pubDate>
+        <description>Wpis MisterChipa pokazujący łączną liczbę karnych został wykorzystany do tezy, że w Lidze Mistrzów sędziowie sprzyjają Realowi, ale pomija kluczowy kontekst – liczbę rozegranych meczów. W rzeczywistości Królewscy otrzymuje karne rzadziej niż Bayern, Barcelona czy Manchester City.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Trent Alexander-Arnold kontuzjowany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142602-komitet-arbitrow-faul-huijsena-byl-na-zolta-ale-var-nie-powinien-byl-interweniowac-ws-czerwieni-video</link>
         <pubDate>Wed, 17 Sep 2025 07:50:00 GMT</pubDate>
         <description>Komitet Arbitrów odniósł się publicznie do czerwonej kartki pokazanej Deanowi Huijsenowi. Sytuację rozbito na dwa aspekty: decyzję boiskową i decyzję VAR-u.</description>
-    </item>
-    
-    <item>
-        <title>200 zwycięstw i 700 goli Realu Madryt w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/142599-200-zwyciestw-i-700-goli-realu-madryt-w-lidze-mistrzow</link>
-        <pubDate>Wed, 17 Sep 2025 07:00:00 GMT</pubDate>
-        <description>Real Madryt jest pierwszym zespołem, który sięgnął po 200 wygranych i zdobył 700 bramek w Lidze Mistrzów od czasu zmiany formatu tych rozgrywek w 1992 roku</description>
     </item>
     
 </channel>
