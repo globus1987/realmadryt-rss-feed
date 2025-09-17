@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 07:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 08:32:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé w trybie 76 goli</title>
+        <link>https://www.realmadryt.pl/news/142607-mbappe-w-trybie-76-goli</link>
+        <pubDate>Wed, 17 Sep 2025 10:31:00 GMT</pubDate>
+        <description>Kylian Mbappé po pięciu oficjalnych meczach w koszulce Realu Madryt ma na koncie sześć bramek. Utrzymując średnią na poziomie 1,2 bramki na mecz, sezon mógłby zakończyć z dorobkiem nawet 76 goli.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Dla mnie niewiele się zmieniło, bo u Ancelottiego też musiałem dużo bronić</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142590-real-madryt-2-1-marsylia-video</link>
         <pubDate>Tue, 16 Sep 2025 23:37:00 GMT</pubDate>
         <description>W pierwszym spotkaniu Ligi Mistrzów Real Madryt wygrał z Marsylią 2:1 po dwóch golach Kyliana Mbappé z rzutu karnego.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Mogliśmy uniknąć czerwonej kartki, będziemy musieli porozmawiać na ten temat</title>
-        <link>https://www.realmadryt.pl/news/142597-xabi-alonso-moglismy-uniknac-czerwonej-kartki-bedziemy-musieli-porozmawiac-na-ten-temat</link>
-        <pubDate>Tue, 16 Sep 2025 23:35:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu telewizji Movistar+ po meczu Ligi Mistrzów z Marsylią. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
