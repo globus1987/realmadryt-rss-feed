@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 18:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 18:54:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carreras wszedł z drzwiami</title>
+        <link>https://www.realmadryt.pl/news/142626-carreras-wszedl-z-drzwiami</link>
+        <pubDate>Wed, 17 Sep 2025 20:48:00 GMT</pubDate>
+        <description>22-letni defensor, który zanotował bardzo dobry mecz przeciwko Marsylii, jest jednym z najsilniejszych punktów Realu Madryt na stracie bieżącego sezonu.</description>
+    </item>
     
     <item>
         <title>Liverpool gra z Atlético, Bayern kontra Chelsea [LIVE]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142615-czy-komitet-apelacyjny-utrzyma-czerwona-kartke-huijsena</link>
         <pubDate>Wed, 17 Sep 2025 14:00:00 GMT</pubDate>
         <description>Do rozstrzygnięcia jest bezprecedensowa sytuacja, a Real Madryt ma już przygotowane stosowne odwołanie od tej decyzji do Komitetu Apelacyjnego.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x07: Czy przeszarżowaliśmy?</title>
-        <link>https://www.realmadryt.pl/news/142614-podcast-7x07-czy-przeszarzowalismy</link>
-        <pubDate>Wed, 17 Sep 2025 13:30:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Olympique'em Marsylia.</description>
     </item>
     
 </channel>
