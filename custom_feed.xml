@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 13:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 14:23:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Korytarz, który ma deprymować rywali</title>
+        <link>https://www.realmadryt.pl/news/142619-korytarz-ktory-ma-deprymowac-rywali</link>
+        <pubDate>Wed, 17 Sep 2025 16:13:00 GMT</pubDate>
+        <description>Real umieścił piętnaście Pucharów Europy na trasie biegnącej od parkingu dla autokarów aż do szatni.</description>
+    </item>
     
     <item>
         <title>„U Viníciusa dzieją się trzy rzeczy”</title>
         <link>https://www.realmadryt.pl/news/142617-u-viniciusa-dzieja-sie-trzy-rzeczy</link>
         <pubDate>Wed, 17 Sep 2025 15:30:00 GMT</pubDate>
-        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprowadzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat sytuacji Viníciusa.</description>
+        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprawdzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat sytuacji Viníciusa.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142609-fede-chyba-za-bardzo-uwierzylismy-ze-wszystko-idzie-po-naszej-mysli-i-to-nam-zaszkodzilo</link>
         <pubDate>Wed, 17 Sep 2025 10:50:00 GMT</pubDate>
         <description>Urugwajczyk po spotkaniu z Marsylią udzielił kilku wywiadów. Przedstawiamy najważniejsze wypowiedzi wicekapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé w trybie 76 goli</title>
-        <link>https://www.realmadryt.pl/news/142607-mbappe-w-trybie-76-goli</link>
-        <pubDate>Wed, 17 Sep 2025 10:31:00 GMT</pubDate>
-        <description>Kylian Mbappé po pięciu oficjalnych meczach w koszulce Realu Madryt ma na koncie sześć bramek. Utrzymując średnią na poziomie 1,2 bramki na mecz, sezon mógłby zakończyć z dorobkiem nawet 76 goli.</description>
     </item>
     
 </channel>
