@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Sep 2025 22:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 22:38:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142632-dzisiejsze-okladki</link>
+        <pubDate>Thu, 18 Sep 2025 00:26:00 GMT</pubDate>
+        <description>Mecze Ligi Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Carreras wszedł z drzwiami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142618-oficjalnie-komitet-dyscyplinarny-zawiesil-deana-huijsena-na-jeden-mecz</link>
         <pubDate>Wed, 17 Sep 2025 14:19:00 GMT</pubDate>
         <description>Real będzie odwoływał się do Komitetu Apelacyjnego.</description>
-    </item>
-    
-    <item>
-        <title>Czy Komitet Apelacyjny utrzyma czerwoną kartkę Huijsena?</title>
-        <link>https://www.realmadryt.pl/news/142615-czy-komitet-apelacyjny-utrzyma-czerwona-kartke-huijsena</link>
-        <pubDate>Wed, 17 Sep 2025 14:00:00 GMT</pubDate>
-        <description>Do rozstrzygnięcia jest bezprecedensowa sytuacja, a Real Madryt ma już przygotowane stosowne odwołanie od tej decyzji do Komitetu Apelacyjnego.</description>
     </item>
     
 </channel>
