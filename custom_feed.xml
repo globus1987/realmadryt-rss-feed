@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Sep 2025 22:20:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 22:40:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142660-dzisiejsze-okladki</link>
+        <pubDate>Fri, 19 Sep 2025 00:32:00 GMT</pubDate>
+        <description>Wygrana Barcelony to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Dziś losowanie fazy ligowej Ligi Mistrzyń</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142645-rodrygo-to-byl-jeden-z-najtrudniejszych-momentow-mojego-zycia</link>
         <pubDate>Thu, 18 Sep 2025 16:16:00 GMT</pubDate>
         <description>Brazylijski atakujący po spotkaniu z Marsylią rozmawiał z telewizją TNT Sports Brazil. Przedstawiamy wypowiedzi atakującego z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Dziś rewanż z Eintrachtem o Ligę Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/142644-dzis-rewanz-z-eintrachtem-o-lige-mistrzyn</link>
-        <pubDate>Thu, 18 Sep 2025 16:08:00 GMT</pubDate>
-        <description>W rewanżowym meczu trzeciej rundy kwalifikacji do fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Di Stéfano z Eintrachtem. Początek meczu o godzinie 20:00.</description>
     </item>
     
 </channel>
