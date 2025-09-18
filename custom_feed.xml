@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Sep 2025 11:19:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 11:39:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142640-dzisiejszy-trening</link>
+        <pubDate>Thu, 18 Sep 2025 13:26:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do sobotniego meczu z Espanyolem.</description>
+    </item>
     
     <item>
         <title>Luis Enrique i jego nowy pomysł, który w Hiszpanii jest zakazany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142630-arbeloa-decyzje-sedziow-juz-mnie-nawet-nie-zaskakuja-video</link>
         <pubDate>Thu, 18 Sep 2025 07:00:00 GMT</pubDate>
         <description>Trener Castilli po raz drugi w ciągu kilku dni nie wytrzymał i na gorąco skomentował kontrowersyjną decyzję sędziego po przegranym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Xabi wytłumaczył Viníciusowi decyzję o pozostawieniu go na ławce</title>
-        <link>https://www.realmadryt.pl/news/142633-chiringuito-xabi-wytlumaczyl-viniciusowi-decyzje-o-pozostawieniu-go-na-lawce</link>
-        <pubDate>Thu, 18 Sep 2025 05:30:00 GMT</pubDate>
-        <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich bliskimi. Przedstawiamy wypowiedzi tego dziennikarza na temat odczuć Viníciusa po meczu z Marsylią.</description>
     </item>
     
 </channel>
