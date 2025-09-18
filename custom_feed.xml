@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Sep 2025 09:55:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 10:25:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nieustanna przemiana Fede Valverde</title>
+        <link>https://www.realmadryt.pl/news/142638-nieustanna-przemiana-fede-valverde</link>
+        <pubDate>Thu, 18 Sep 2025 12:10:00 GMT</pubDate>
+        <description>Urugwajski pomocnik został niejako zmuszony do zmiany roli, by dostosować się do nowej koncepcji gry Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Simeone: Wie pan, co to znaczy 90 minut nieustannych wyzwisk?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142632-dzisiejsze-okladki</link>
         <pubDate>Thu, 18 Sep 2025 00:26:00 GMT</pubDate>
         <description>Mecze Ligi Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Carreras wszedł z drzwiami</title>
-        <link>https://www.realmadryt.pl/news/142626-carreras-wszedl-z-drzwiami</link>
-        <pubDate>Wed, 17 Sep 2025 20:48:00 GMT</pubDate>
-        <description>22-letni defensor, który zanotował bardzo dobry mecz przeciwko Marsylii, jest jednym z najsilniejszych punktów Realu Madryt na starcie bieżącego sezonu.</description>
     </item>
     
 </channel>
