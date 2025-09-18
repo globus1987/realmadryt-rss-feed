@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Sep 2025 21:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 22:20:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś losowanie fazy ligowej Ligi Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/142659-dzis-losowanie-fazy-ligowej-ligi-mistrzyn</link>
+        <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
+        <description>Dziś punktualnie w południe odbędzie się losowanie fazy ligowej Ligi Mistrzyń. Każdy zespół rozegra sześć spotkań z sześcioma różnymi rywalami.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: UEFA publicznie tłumaczy decyzje VAR-u w Lidze Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142644-dzis-rewanz-z-eintrachtem-o-lige-mistrzyn</link>
         <pubDate>Thu, 18 Sep 2025 16:08:00 GMT</pubDate>
         <description>W rewanżowym meczu trzeciej rundy kwalifikacji do fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Di Stéfano z Eintrachtem. Początek meczu o godzinie 20:00.</description>
-    </item>
-    
-    <item>
-        <title>El Español i El Mundo: Syn Negreiry zaprzeczył w sądzie, że Barcelona płaciła ojcu za jego raporty</title>
-        <link>https://www.realmadryt.pl/news/142643-el-espanol-i-el-mundo-syn-negreiry-zaprzeczyl-w-sadzie-ze-barcelona-placila-ojcu-za-jego-raporty</link>
-        <pubDate>Thu, 18 Sep 2025 14:33:00 GMT</pubDate>
-        <description>Dzisiaj zeznania w tak zwanej Sprawie Negreiry składa szereg świadków i podejrzanych. Do mediów wyciekły już pierwsze zeznania syna Negreiry, które nie są korzystne dla byłego wiceszefa sędziów i Barcelony.</description>
     </item>
     
 </channel>
