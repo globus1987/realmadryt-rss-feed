@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Sep 2025 10:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 10:43:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Luis Enrique i jego nowy pomysł, który w Hiszpanii jest zakazany</title>
+        <link>https://www.realmadryt.pl/news/142639-luis-enrique-i-jego-nowy-pomysl-ktory-w-hiszpanii-jest-zakazany</link>
+        <pubDate>Thu, 18 Sep 2025 12:40:00 GMT</pubDate>
+        <description>W pierwszej połowie wczorajszego meczu trener PSG znów siedział na trybunie prasowej zamiast na ławce.</description>
+    </item>
     
     <item>
         <title>Nieustanna przemiana Fede Valverde</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142633-chiringuito-xabi-wytlumaczyl-viniciusowi-decyzje-o-pozostawieniu-go-na-lawce</link>
         <pubDate>Thu, 18 Sep 2025 05:30:00 GMT</pubDate>
         <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich bliskimi. Przedstawiamy wypowiedzi tego dziennikarza na temat odczuć Viníciusa po meczu z Marsylią.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142632-dzisiejsze-okladki</link>
-        <pubDate>Thu, 18 Sep 2025 00:26:00 GMT</pubDate>
-        <description>Mecze Ligi Mistrzów to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
