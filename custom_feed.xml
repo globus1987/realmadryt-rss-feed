@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 22:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 22:40:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142694-dzisiejsze-okladki</link>
+        <pubDate>Sat, 20 Sep 2025 00:36:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i dokonania Rashforda to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Wczoraj to nie był moment na rozmowę z Viníciusem, trzeba mieć intuicję</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142676-kadra-na-espanyol</link>
         <pubDate>Fri, 19 Sep 2025 15:06:00 GMT</pubDate>
         <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Espanyolem. Bask powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Dončić: Chciałbym zakończyć karierę w Realu Madryt, oni mnie wychowali</title>
-        <link>https://www.realmadryt.pl/news/142679-doncic-chcialbym-zakonczyc-kariere-w-realu-madryt-oni-mnie-wychowali</link>
-        <pubDate>Fri, 19 Sep 2025 14:43:00 GMT</pubDate>
-        <description>Słoweniec złożył ważną deklarację.</description>
     </item>
     
 </channel>
