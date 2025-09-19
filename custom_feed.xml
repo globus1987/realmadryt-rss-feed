@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 04:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 05:23:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dodatkowa opcja</title>
+        <link>https://www.realmadryt.pl/news/142652-dodatkowa-opcja</link>
+        <pubDate>Fri, 19 Sep 2025 07:00:00 GMT</pubDate>
+        <description>Brazylijczyk ma być gotowy na mecz z Espanyolem lub najpóźniej na starcie z Levante.</description>
+    </item>
     
     <item>
         <title>Mbappé: Złota Piłka? Obejrzę ją w telewizji, oby wygrał Dembélé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142648-oficjalnie-jose-mourinho-trenerem-benfiki</link>
         <pubDate>Thu, 18 Sep 2025 16:50:00 GMT</pubDate>
         <description>Portugalczyk po ponad ośmiu latach spotka się z Realem Madryt w oficjalnym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Nowe ujęcie agresji na graczu Castilli [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142647-nowe-ujecie-agresji-na-graczu-castilli-video</link>
-        <pubDate>Thu, 18 Sep 2025 16:44:00 GMT</pubDate>
-        <description>Telewizja La Sexta pokazała nowe ujęcie ataku na gracza Castilli, który po interwencji VAR-u light nie zakończył się czerwoną kartką.</description>
     </item>
     
 </channel>
