@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 07:23:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 07:39:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Barcelona wróci na Montjuïc, bo Camp Nou wciąż nie jest gotowe</title>
+        <link>https://www.realmadryt.pl/news/142665-marca-barcelona-wroci-na-montjuic-bo-camp-nou-wciaz-nie-jest-gotowe</link>
+        <pubDate>Fri, 19 Sep 2025 09:35:00 GMT</pubDate>
+        <description>Stadionowego zamieszania w Katalonii ciąg dalszy.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 19 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142654-huijsen-piekna-reklama-hiszpanskiej-pilki</link>
         <pubDate>Thu, 18 Sep 2025 20:07:00 GMT</pubDate>
         <description>Zawodnik Realu Madryt nie krył niezadowolenia z decyzji Komitetu Apelacyjnego.</description>
-    </item>
-    
-    <item>
-        <title>Czwartkowe mecze Ligi Mistrzów: Wygrane City i Barcelony</title>
-        <link>https://www.realmadryt.pl/news/142646-czwartkowe-mecze-ligi-mistrzow-wygrane-city-i-barcelony</link>
-        <pubDate>Thu, 18 Sep 2025 20:00:00 GMT</pubDate>
-        <description>Pierwsza kolejka Ligi Mistrzów wyjątkowo kończyła się w czwartek. Swoje spotkania wygrały między innymi Barcelona czy Manchester City, a wysokiej porażki doznał najbliższy rywal Królewskich.</description>
     </item>
     
 </channel>
