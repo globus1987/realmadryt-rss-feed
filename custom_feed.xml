@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 15:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 15:42:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mistrzowie przetrwania</title>
+        <link>https://www.realmadryt.pl/news/142682-mistrzowie-przetrwania</link>
+        <pubDate>Fri, 19 Sep 2025 17:33:00 GMT</pubDate>
+        <description>Królewscy zgarnęli 6 punktów w dwóch ostatnich meczach, choć przez 76 minut grali o jednego zawodnika mniej.</description>
+    </item>
     
     <item>
         <title>Kadra Espanyolu na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142674-oficjalnie-mastantuono-nie-otrzymal-powolania-na-mundial-u-20-w-chile</link>
         <pubDate>Fri, 19 Sep 2025 12:45:00 GMT</pubDate>
         <description>Argentyńczyk oficjalnie zostaje w Madrycie.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV: Każdy mecz Realu jest jak wspinaczka na Everest w samej koszulce i w adidasach</title>
-        <link>https://www.realmadryt.pl/news/142673-real-madrid-tv-kazdy-mecz-realu-jest-jak-wspinaczka-na-everest-w-samej-koszulce-i-w-adidasach</link>
-        <pubDate>Fri, 19 Sep 2025 12:21:00 GMT</pubDate>
-        <description>Klubowa telewizja była bardzo krytyczne wobec ostatnich wydarzeń w La Lidze. Oficjalne medium Królewskich w studio przed dzisiejszym treningiem skupiło się na kilku momentach z tego sezonu.</description>
     </item>
     
 </channel>
