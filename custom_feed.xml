@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 12:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 13:32:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Espanyol</title>
+        <link>https://www.realmadryt.pl/news/142676-kadra-na-espanyol</link>
+        <pubDate>Fri, 19 Sep 2025 15:06:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Espanyolem. Bask powołał 23 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Dončić: Chciałbym zakończyć karierę w Realu Madryt, oni mnie wychowali</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142666-obejrzyj-mecz-z-espanyolem-w-sts-tv</link>
         <pubDate>Fri, 19 Sep 2025 11:00:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Mona Lisa</title>
-        <link>https://www.realmadryt.pl/news/142667-mona-lisa</link>
-        <pubDate>Fri, 19 Sep 2025 10:40:00 GMT</pubDate>
-        <description>„Uważam za ryzykanctwo przerabianie Viníciusa na kogoś, kim nie jest, ale Xabi Alonso wie, co robi”, pisze w swoim felietonie na łamach ABC Juanma Rodríguez.</description>
     </item>
     
 </channel>
