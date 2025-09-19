@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 22:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 22:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy roztrwonili wysoką przewagę i przegrali</title>
+        <link>https://www.realmadryt.pl/news/142695-krolewscy-roztrwonili-wysoka-przewage-i-przegrali</link>
+        <pubDate>Sat, 20 Sep 2025 00:44:00 GMT</pubDate>
+        <description>Real Madryt nie zdołał awansować do finału turnieju EncestaRías, mimo że przez większość meczu prowadził.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142683-trybunal-administracyjny-ds-sportu-odrzucil-wniosek-realu-o-tymczasowe-wstrzymanie-wykonania-kary-huijsena</link>
         <pubDate>Fri, 19 Sep 2025 15:50:00 GMT</pubDate>
         <description>Hiszpan na pewno nie zagra z Espanyolem.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Espanyol</title>
-        <link>https://www.realmadryt.pl/news/142676-kadra-na-espanyol</link>
-        <pubDate>Fri, 19 Sep 2025 15:06:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Espanyolem. Bask powołał 23 piłkarzy.</description>
     </item>
     
 </channel>
