@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Sep 2025 08:54:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 09:26:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obejrzyj mecz z Espanyolem w STS TV!</title>
+        <link>https://www.realmadryt.pl/news/142666-obejrzyj-mecz-z-espanyolem-w-sts-tv</link>
+        <pubDate>Fri, 19 Sep 2025 11:00:00 GMT</pubDate>
+        <description>#współpracareklamowa #reklamaSTS</description>
+    </item>
     
     <item>
         <title>Mona Lisa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142660-dzisiejsze-okladki</link>
         <pubDate>Fri, 19 Sep 2025 00:32:00 GMT</pubDate>
         <description>Wygrana Barcelony to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Dziś losowanie fazy ligowej Ligi Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/142659-dzis-losowanie-fazy-ligowej-ligi-mistrzyn</link>
-        <pubDate>Fri, 19 Sep 2025 00:00:00 GMT</pubDate>
-        <description>Dziś punktualnie w południe odbędzie się losowanie fazy ligowej Ligi Mistrzyń. Każdy zespół rozegra sześć spotkań z sześcioma różnymi rywalami.</description>
     </item>
     
 </channel>
