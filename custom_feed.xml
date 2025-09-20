@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Sep 2025 22:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 23:20:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142724-dzisiejsze-okladki</link>
+        <pubDate>Sun, 21 Sep 2025 00:55:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewscy wygrywają w ostatnim sprawdzanie przed Superpucharem Hiszpanii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142712-kylian-mbappe-mvp-meczu-z-espanyolem</link>
         <pubDate>Sat, 20 Sep 2025 18:12:00 GMT</pubDate>
         <description>Francuski napastnik został wyróżniony w meczu Realu Madryt z Espanyolem.</description>
-    </item>
-    
-    <item>
-        <title>Real Xabiego robi swoje</title>
-        <link>https://www.realmadryt.pl/news/142711-real-xabiego-robi-swoje</link>
-        <pubDate>Sat, 20 Sep 2025 16:10:00 GMT</pubDate>
-        <description>W meczu 5. kolejki La Ligi Real Madryt wygrał u siebie z Espanyolem 2:0 po golach Édera Militão i Kyliana Mbappé.</description>
     </item>
     
 </channel>
