@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Sep 2025 15:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 16:26:27 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Espanyol [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/142711-real-madryt-espanyol-live</link>
+        <title>Real Madryt 2:0 Espanyol [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/142713-real-madryt-2-0-espanyol-video</link>
+        <pubDate>Sat, 20 Sep 2025 18:23:00 GMT</pubDate>
+        <description>W meczu 5. kolejki La Ligi Real Madryt wygrał u siebie z Espanyolem 2:0 po golach Édera Militão i Kyliana Mbappé.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Espanyolem</title>
+        <link>https://www.realmadryt.pl/news/142710-ocen-pilkarzy-po-meczu-z-espanyolem</link>
+        <pubDate>Sat, 20 Sep 2025 18:15:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Kylian Mbappé MVP meczu z Espanyolem</title>
+        <link>https://www.realmadryt.pl/news/142712-kylian-mbappe-mvp-meczu-z-espanyolem</link>
+        <pubDate>Sat, 20 Sep 2025 18:12:00 GMT</pubDate>
+        <description>Francuski napastnik został wyróżniony w meczu Realu Madryt z Espanyolem.</description>
+    </item>
+    
+    <item>
+        <title>Real Xabiego robi swoje</title>
+        <link>https://www.realmadryt.pl/news/142711-real-xabiego-robi-swoje</link>
         <pubDate>Sat, 20 Sep 2025 16:10:00 GMT</pubDate>
-        <description>Od 16:15 trwa mecz 5. kolejki La Ligi między Realem Madryt a Espanyolem.</description>
+        <description>W meczu 5. kolejki La Ligi Real Madryt wygrał u siebie z Espanyolem 2:0 po golach Édera Militão i Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/142701-wojenny-terminarz-realu-madryt-32-dni-i-12-afer</link>
         <pubDate>Sat, 20 Sep 2025 10:14:00 GMT</pubDate>
         <description>Krucjata Królewskich przeciwko Hiszpańskiej Federacji Piłkarskiej, sędziom i La Lidze przyniosła już całą kolekcję kontrowersji w zaledwie miesiąc rywalizacji.</description>
-    </item>
-    
-    <item>
-        <title>AS: Vinícius obniżył oczekiwania, Real czeka</title>
-        <link>https://www.realmadryt.pl/news/142700-as-vinicius-obnizyl-oczekiwania-real-czeka</link>
-        <pubDate>Sat, 20 Sep 2025 09:59:00 GMT</pubDate>
-        <description>Porozumienie było niemal dopięte od strony finansowej, stanowiska prawie się pokrywały, ale wszystko się posypało po ostatnim spotkaniu przedstawicieli w Madrycie, już po rozegraniu Klubowego Mundialu.</description>
-    </item>
-    
-    <item>
-        <title>Luca Zidane będzie reprezentował Algierię</title>
-        <link>https://www.realmadryt.pl/news/142699-luca-zidane-bedzie-reprezentowal-algierie</link>
-        <pubDate>Sat, 20 Sep 2025 09:44:00 GMT</pubDate>
-        <description>Wychowanek Realu jest obecnie bramkarzem Granady.</description>
-    </item>
-    
-    <item>
-        <title>„W sprawie Huijsena najpierw zadzwonił do nas Juni, potem Xabi; gdy pojawia się Real Madryt…”</title>
-        <link>https://www.realmadryt.pl/news/142698-w-sprawie-huijsena-najpierw-zadzwonil-do-nas-juni-potem-xabi-gdy-pojawia-sie-real-madryt</link>
-        <pubDate>Sat, 20 Sep 2025 09:40:00 GMT</pubDate>
-        <description>Huijsen to największa perełka w stajni Ali Barata, superagenta, który tego lata domknął 15 transakcji w 7 ligach o łącznej wartości czterystu milionów euro. Przedstawiamy pełne tłumaczenie wywiadu, który przeprowadził z nim dziennik AS.</description>
     </item>
     
 </channel>
