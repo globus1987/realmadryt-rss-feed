@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Sep 2025 06:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 07:20:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Metoda „na nowicjusza”</title>
+        <link>https://www.realmadryt.pl/news/142690-metoda-na-nowicjusza</link>
+        <pubDate>Sat, 20 Sep 2025 09:09:00 GMT</pubDate>
+        <description>Każdy głupi może mieć problem, ale nie każdy mądry jest w stanie go rozwiązać.</description>
+    </item>
     
     <item>
         <title>Dmitrović ostoją Espanyolu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142686-oficjalnie-lotte-keukelaar-nowa-zawodniczka-realu</link>
         <pubDate>Fri, 19 Sep 2025 19:29:00 GMT</pubDate>
         <description>Młoda Holenderka podpisała długą umowę z Królewskimi.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 5. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/142680-telewizyjny-terminarz-5-kolejki-la-ligi</link>
-        <pubDate>Fri, 19 Sep 2025 18:25:00 GMT</pubDate>
-        <description>Przed nami 5. kolejka La Ligi. Real Madryt zagra u siebie z Espanyolem. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
