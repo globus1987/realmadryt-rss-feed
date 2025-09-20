@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Sep 2025 06:33:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 06:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dmitrović ostoją Espanyolu</title>
+        <link>https://www.realmadryt.pl/news/142696-dmitrovic-ostoja-espanyolu</link>
+        <pubDate>Sat, 20 Sep 2025 08:51:00 GMT</pubDate>
+        <description>33-latek jest kluczowym zawodnikiem Papużek. Na razie jego forma przerasta wszelkie oczekiwania.</description>
+    </item>
     
     <item>
         <title>Dolan: Wielu widzi we mnie bad boya, ale jestem dobrym człowiekiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142680-telewizyjny-terminarz-5-kolejki-la-ligi</link>
         <pubDate>Fri, 19 Sep 2025 18:25:00 GMT</pubDate>
         <description>Przed nami 5. kolejka La Ligi. Real Madryt zagra u siebie z Espanyolem. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Mistrzowie przetrwania</title>
-        <link>https://www.realmadryt.pl/news/142682-mistrzowie-przetrwania</link>
-        <pubDate>Fri, 19 Sep 2025 17:33:00 GMT</pubDate>
-        <description>Królewscy zgarnęli 6 punktów w dwóch ostatnich meczach, choć przez 76 minut grali o jednego zawodnika mniej.</description>
     </item>
     
 </channel>
