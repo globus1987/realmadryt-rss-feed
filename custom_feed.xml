@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Sep 2025 13:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Sep 2025 14:20:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Espanyol [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/142711-real-madryt-espanyol-live</link>
+        <pubDate>Sat, 20 Sep 2025 16:10:00 GMT</pubDate>
+        <description>Od 16:15 trwa mecz 5. kolejki La Ligi między Realem Madryt a Espanyolem.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Espanyolem [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142698-w-sprawie-huijsena-najpierw-zadzwonil-do-nas-juni-potem-xabi-gdy-pojawia-sie-real-madryt</link>
         <pubDate>Sat, 20 Sep 2025 09:40:00 GMT</pubDate>
         <description>Huijsen to największa perełka w stajni Ali Barata, superagenta, który tego lata domknął 15 transakcji w 7 ligach o łącznej wartości czterystu milionów euro. Przedstawiamy pełne tłumaczenie wywiadu, który przeprowadził z nim dziennik AS.</description>
-    </item>
-    
-    <item>
-        <title>El Hilali: Na Bernabéu jedziemy po zwycięstwo</title>
-        <link>https://www.realmadryt.pl/news/142697-el-hilali-na-bernabeu-jedziemy-po-zwyciestwo</link>
-        <pubDate>Sat, 20 Sep 2025 09:24:00 GMT</pubDate>
-        <description>Omar El Hilali udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełne tłumaczenie rozmowy z obrońcą Espanyolu.</description>
     </item>
     
 </channel>
