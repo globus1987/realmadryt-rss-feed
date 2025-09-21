@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Sep 2025 05:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 06:34:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Asencio: Bycie tutaj to najlepsze, co może się przytrafić człowiekowi pod względem piłkarskim</title>
+        <link>https://www.realmadryt.pl/news/142722-asencio-bycie-tutaj-to-najlepsze-co-moze-sie-przytrafic-czlowiekowi-pod-wzgledem-pilkarskim</link>
+        <pubDate>Sun, 21 Sep 2025 08:00:00 GMT</pubDate>
+        <description>Raúl Asencio udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Espanyolem. Przedstawiamy wypowiedzi stopera Królewskich.</description>
+    </item>
     
     <item>
         <title>Sprawa Negreiry, niesprawiedliwość kary dla Huijsena, komitety wstydu i Javier Tebas – nieudany filmowiec – ze swoimi wiecznymi kazaniami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142714-lozano-strzelaja-takie-dwa-gole-i-czlowiekowi-robi-sie-glupio</link>
         <pubDate>Sat, 20 Sep 2025 18:27:00 GMT</pubDate>
         <description>Pol Lozano udzielił wywiadu mediom po przegranym 0:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi piłkarza Espanyolu z murawy Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:0 Espanyol [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142713-real-madryt-2-0-espanyol-video</link>
-        <pubDate>Sat, 20 Sep 2025 18:23:00 GMT</pubDate>
-        <description>W meczu 5. kolejki La Ligi Real Madryt wygrał u siebie z Espanyolem 2:0 po golach Édera Militão i Kyliana Mbappé.</description>
     </item>
     
 </channel>
