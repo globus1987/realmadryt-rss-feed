@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Sep 2025 18:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 18:53:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>5. kolejka: Barcelona podejmuje Getafe</title>
+        <link>https://www.realmadryt.pl/news/142739-5-kolejka-barcelona-podejmuje-getafe</link>
+        <pubDate>Sun, 21 Sep 2025 20:45:00 GMT</pubDate>
+        <description>Na Estadi Johan Cruyff drużyna Hansiego Flicka zmierzy się z Getafe.</description>
+    </item>
     
     <item>
         <title>Trzecia porażka Castilli z rzędu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142728-marca-upamecano-marzy-o-grze-dla-realu</link>
         <pubDate>Sun, 21 Sep 2025 08:35:00 GMT</pubDate>
         <description>Stoperowi pozostaje niecały rok umowy z Bayernem.</description>
-    </item>
-    
-    <item>
-        <title>Asencio: Bycie tutaj to najlepsze, co może się przytrafić człowiekowi pod względem piłkarskim</title>
-        <link>https://www.realmadryt.pl/news/142722-asencio-bycie-tutaj-to-najlepsze-co-moze-sie-przytrafic-czlowiekowi-pod-wzgledem-pilkarskim</link>
-        <pubDate>Sun, 21 Sep 2025 08:00:00 GMT</pubDate>
-        <description>Raúl Asencio udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Espanyolem. Przedstawiamy wypowiedzi stopera Królewskich.</description>
     </item>
     
 </channel>
