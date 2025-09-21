@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Sep 2025 22:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 22:53:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142743-dzisiejsze-okladki</link>
+        <pubDate>Mon, 22 Sep 2025 00:43:00 GMT</pubDate>
+        <description>Wygrana Barcelony i dokonania hiszpańskich sportowców to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Flick: Moje słowa nie miały nic wspólnego z Realem Madryt ani z żadnym innym klubem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142731-real-przechodzi-z-lewej-na-prawa</link>
         <pubDate>Sun, 21 Sep 2025 10:43:00 GMT</pubDate>
         <description>Zespół, który w sezonie 2024/25 przeciążał flankę Viníciusa (nawet do 70 procent ataków), teraz lepiej równoważy grę: częściej korzysta z prawego skrzydła i coraz bardziej opiera rozegranie na Mastantuono.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Espanyolem</title>
-        <link>https://www.realmadryt.pl/news/142729-oceny-zawodnikow-po-meczu-z-espanyolem</link>
-        <pubDate>Sun, 21 Sep 2025 10:15:00 GMT</pubDate>
-        <description>Real Madryt wygrał 2:0 z Espanyolem w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
