@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Sep 2025 08:42:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 08:55:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real przechodzi z lewej na prawą</title>
+        <link>https://www.realmadryt.pl/news/142731-real-przechodzi-z-lewej-na-prawa</link>
+        <pubDate>Sun, 21 Sep 2025 10:43:00 GMT</pubDate>
+        <description>Zespół, który w sezonie 2024/25 przeciążał flankę Viníciusa (nawet do 70 procent ataków), teraz lepiej równoważy grę: częściej korzysta z prawego skrzydła i coraz bardziej opiera rozegranie na Mastantuono.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Espanyolem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142719-militao-to-wyjatkowy-gol-bo-takie-strzaly-nie-zawsze-wychodza</link>
         <pubDate>Sat, 20 Sep 2025 19:24:00 GMT</pubDate>
         <description>Éder Militão udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Espanyolem. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Manolo: Jeśli nie zagrasz perfekcyjnego meczu, nie możesz wygrać na Santiago Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/142718-manolo-jesli-nie-zagrasz-perfekcyjnego-meczu-nie-mozesz-wygrac-na-santiago-bernabeu</link>
-        <pubDate>Sat, 20 Sep 2025 19:04:00 GMT</pubDate>
-        <description>Manolo González stawił się na konferencji prasowej po granym 0:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi trenera Espanyolu.</description>
     </item>
     
 </channel>
