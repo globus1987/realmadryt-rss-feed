@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Sep 2025 11:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Sep 2025 11:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142734-dzisiejszy-trening</link>
+        <pubDate>Sun, 21 Sep 2025 13:48:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do wtorkowego meczu z Levante.</description>
+    </item>
     
     <item>
         <title>„Czy Valverde pozostanie niezbędny dla Xabiego?”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142717-xabi-alonso-kiedy-rywal-zostawia-ci-malo-miejsca-trzeba-tez-uderzac-z-dystansu</link>
         <pubDate>Sun, 21 Sep 2025 06:00:00 GMT</pubDate>
         <description>Xabi Alonso udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Espanyolem. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142724-dzisiejsze-okladki</link>
-        <pubDate>Sun, 21 Sep 2025 00:55:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
