@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 12:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 13:33:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Levante</title>
+        <link>https://www.realmadryt.pl/news/142755-kadra-na-levante</link>
+        <pubDate>Mon, 22 Sep 2025 14:55:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na trzech zawodników pierwszego zespołu podczas spotkania z Levante. Bask powołał 24 piłkarzy.</description>
+    </item>
+    
+    <item>
+        <title>Calero: Vinícius? Wolałbym nie wchodzić na pole minowe</title>
+        <link>https://www.realmadryt.pl/news/142759-calero-vinicius-wolalbym-nie-wchodzic-na-pole-minowe</link>
+        <pubDate>Mon, 22 Sep 2025 14:54:00 GMT</pubDate>
+        <description>Trener Levante pojawił się na konferencji prasowej przed jutrzejszym spotkaniem z Realem Madryt. Przedstawiamy jego najważniejsze wypowiedzi z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>MARCA: Łunin odrzucił latem kilka ofert z innych klubów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142747-ogromna-przemiana-bellinghama</link>
         <pubDate>Mon, 22 Sep 2025 11:00:00 GMT</pubDate>
         <description>Anglik rozegrał pierwsze minuty w tym sezonie przeciwko Espanyolowi i wyglądał zdecydowanie lżej niż w poprzednich rozgrywkach.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Chus Mateo selekcjonerem reprezentacji Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/142746-oficjalnie-chus-mateo-selekcjonerem-reprezentacji-hiszpanii</link>
-        <pubDate>Mon, 22 Sep 2025 10:10:00 GMT</pubDate>
-        <description>Były trener Realu Madryt zastępuje obecnego.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt nie pojawi się na gali Złotej Piłki, gdzie w tym roku też może dojść do niespodzianki</title>
-        <link>https://www.realmadryt.pl/news/142745-real-madryt-nie-pojawi-sie-na-gali-zlotej-pilki-gdzie-w-tym-roku-tez-moze-dojsc-do-niespodzianki</link>
-        <pubDate>Mon, 22 Sep 2025 09:41:00 GMT</pubDate>
-        <description>Oficjalna delegacja klubu nie przyjedzie w poniedziałek do Théâtre du Châtelet w Paryżu, podobnie jak rok temu. Spór wokół Viníciusa wciąż trwa.</description>
     </item>
     
 </channel>
