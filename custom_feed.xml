@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 11:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 11:40:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Powrót do przeszłości</title>
+        <link>https://www.realmadryt.pl/news/142754-powrot-do-przeszlosci</link>
+        <pubDate>Mon, 22 Sep 2025 13:29:00 GMT</pubDate>
+        <description>Pod względem samej gry Vinícius na starcie sezonu 2025/26 notuje liczby sprzed pięciu lat. W sezonie 2020/21 w pierwszych sześciu meczach rozegrał 312 minut do 349 w sezonie obecnym.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Nie robię wielkiej sprawy ze zdenerwowania Viníciusa, to normalne</title>
+        <link>https://www.realmadryt.pl/news/142751-xabi-alonso-nie-robie-wielkiej-sprawy-ze-zdenerwowania-viniciusa-to-normalne</link>
+        <pubDate>Mon, 22 Sep 2025 13:24:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Levante w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>Valdano: Vinícius powinien być nieco ostrożniejszy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142744-chiringuito-vinicius-moze-odejsc-z-realu-madryt-juz-w-styczniu</link>
         <pubDate>Mon, 22 Sep 2025 08:07:00 GMT</pubDate>
         <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich otoczeniem. Przedstawiamy wypowiedzi tego dziennikarza na temat aktualnej sytuacji Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/142741-pichichi-zamora-asistencias</link>
-        <pubDate>Mon, 22 Sep 2025 07:25:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 5. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj odbędzie się gala Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/142740-dzisiaj-odbedzie-sie-gala-zlotej-pilki</link>
-        <pubDate>Mon, 22 Sep 2025 05:30:00 GMT</pubDate>
-        <description>Królewscy nie pojawią się w Paryżu, gdzie główna nagroda powinna trafić do Dembélé, ale po ubiegłorocznej farsie można spodziewać się wszystkiego.</description>
     </item>
     
 </channel>
