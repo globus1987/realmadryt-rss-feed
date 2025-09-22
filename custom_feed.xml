@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 05:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 05:42:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/142741-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 22 Sep 2025 07:25:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 5. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Dzisiaj odbędzie się gala Złotej Piłki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142732-okdiario-albert-soler-dopuscil-do-przedawnienia-w-sprawie-negreiry-po-przejsciu-z-barcelony-do-wyzszej-rady-sportu</link>
         <pubDate>Sun, 21 Sep 2025 11:17:00 GMT</pubDate>
         <description>Były członek zarządu Barçy wiedział o płatnościach na rzecz Negreiry i zachował milczenie, będąc już dyrektorem generalnym Wyższej Rady Sportu, która czuwa nad prawidłowym funkcjonowaniem całego sportu w Hiszpanii. Na łamach Okdiario opisuje to Alejandro Peinado. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé wciąż nie do powstrzymania</title>
-        <link>https://www.realmadryt.pl/news/142725-mbappe-wciaz-nie-do-powstrzymania</link>
-        <pubDate>Sun, 21 Sep 2025 11:06:00 GMT</pubDate>
-        <description>Kylian Mbappé w spotkaniu z Espanyolem znów trafił do siatki i w tym momencie ma na koncie siedem bramek w sześciu meczach.</description>
     </item>
     
 </channel>
