@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 08:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 09:30:53 GMT</lastBuildDate>
     
     <item>
-        <title>MARCA: Chus Mateo zostanie selekcjonerem reprezentacji Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/142746-marca-chus-mateo-zostanie-selekcjonerem-reprezentacji-hiszpanii</link>
+        <title>Ogromna przemiana Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/142747-ogromna-przemiana-bellinghama</link>
+        <pubDate>Mon, 22 Sep 2025 11:00:00 GMT</pubDate>
+        <description>Anglik rozegrał pierwsze minuty w tym sezonie przeciwko Espanyolowi i wyglądał zdecydowanie lżej niż w poprzednich rozgrywkach.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Chus Mateo selekcjonerem reprezentacji Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/142746-oficjalnie-chus-mateo-selekcjonerem-reprezentacji-hiszpanii</link>
         <pubDate>Mon, 22 Sep 2025 10:10:00 GMT</pubDate>
-        <description>Były trener Realu Madryt zastąpi obecnego.</description>
+        <description>Były trener Realu Madryt zastępuje obecnego.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142736-trzecia-porazka-castilli-z-rzedu</link>
         <pubDate>Sun, 21 Sep 2025 15:51:00 GMT</pubDate>
         <description>Castilla przegrała z rezerwami Osasuny. Królewscy dalej nie potrafią rozwiązać problemów z ofensywą i zakończyli mecz bez trafienia. Rywale w jednym przypadku byli skuteczni i to im wystarczyło.</description>
-    </item>
-    
-    <item>
-        <title>Obrona gwarancją sukcesu</title>
-        <link>https://www.realmadryt.pl/news/142735-obrona-gwarancja-sukcesu</link>
-        <pubDate>Sun, 21 Sep 2025 14:31:00 GMT</pubDate>
-        <description>Real Madryt jest w tym sezonie jak mur, przez który trudno się przebić. W pięciu pierwszych kolejkach La Ligi zespół Xabiego Alonso stracił tylko dwa gole.</description>
     </item>
     
 </channel>
