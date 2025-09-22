@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 03:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 03:47:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiaj odbędzie się gala Złotej Piłki</title>
+        <link>https://www.realmadryt.pl/news/142740-dzisiaj-odbedzie-sie-gala-zlotej-pilki</link>
+        <pubDate>Mon, 22 Sep 2025 05:30:00 GMT</pubDate>
+        <description>Królewscy nie pojawią się w Paryżu, gdzie główna nagroda powinna trafić do Dembélé, ale po ubiegłorocznej farsie można spodziewać się wszystkiego.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142725-mbappe-wciaz-nie-do-powstrzymania</link>
         <pubDate>Sun, 21 Sep 2025 11:06:00 GMT</pubDate>
         <description>Kylian Mbappé w spotkaniu z Espanyolem znów trafił do siatki i w tym momencie ma na koncie siedem bramek w sześciu meczach.</description>
-    </item>
-    
-    <item>
-        <title>Real przechodzi z lewej na prawą</title>
-        <link>https://www.realmadryt.pl/news/142731-real-przechodzi-z-lewej-na-prawa</link>
-        <pubDate>Sun, 21 Sep 2025 10:43:00 GMT</pubDate>
-        <description>Zespół, który w sezonie 2024/25 przeciążał flankę Viníciusa (nawet do 70 procent ataków), teraz lepiej równoważy grę: częściej korzysta z prawego skrzydła i coraz bardziej opiera rozegranie na Mastantuono.</description>
     </item>
     
 </channel>
