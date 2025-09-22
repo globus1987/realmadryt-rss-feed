@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 22:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 22:41:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142772-dzisiejsze-okladki</link>
+        <pubDate>Tue, 23 Sep 2025 00:37:00 GMT</pubDate>
+        <description>Gala Złotej Piłki i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Ousmane Dembélé zdobywcą Złotej Piłki 2025</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142758-marca-lunin-odrzucil-latem-kilka-ofert-z-innych-klubow</link>
         <pubDate>Mon, 22 Sep 2025 14:41:00 GMT</pubDate>
         <description>Bramkarz zdecydował się zostać w Realu, chociaż nie ma szans na regularną grę.</description>
-    </item>
-    
-    <item>
-        <title>Isidro Díaz de Mera na Levante</title>
-        <link>https://www.realmadryt.pl/news/142756-isidro-diaz-de-mera-na-levante</link>
-        <pubDate>Mon, 22 Sep 2025 14:29:00 GMT</pubDate>
-        <description>36-latek prowadzi spotkania La Ligi od 2020 roku. W niedzielę po raz dziesiąty poprowadzi mecz z udziałem Realu Madryt.</description>
     </item>
     
 </channel>
