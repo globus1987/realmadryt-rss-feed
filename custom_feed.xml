@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Sep 2025 15:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 16:32:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gala Złotej Piłki [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/142761-gala-zlotej-pilki-na-zywo</link>
+        <pubDate>Mon, 22 Sep 2025 18:31:00 GMT</pubDate>
+        <description>Zapraszamy na naszą relację live z gali Złotej Piłki w Paryżu. Na bieżąco podamy zwycięzców wszystkich nagród, pełne klasyfikacje czy najciekawsze wypowiedzi. Wszystko w jednym miejscu, przejrzyście i bez chaosu informacyjnego.</description>
+    </item>
+    
+    <item>
+        <title>Caroline Weir poleciała do Paryża jako jedyna przedstawicielka Realu Madryt… i zajęła 30. miejsce</title>
+        <link>https://www.realmadryt.pl/news/142765-caroline-weir-poleciala-do-paryza-jako-jedyna-przedstawicielka-realu-madryt-i-zajela-30-miejsce</link>
+        <pubDate>Mon, 22 Sep 2025 18:14:00 GMT</pubDate>
+        <description>Szkotka zajęta ostatnie miejsce wśród nominowanych piłkarek do kobiecej Złotej Piłki.</description>
+    </item>
     
     <item>
         <title>Agent Viníciusa odbył dwugodzinne spotkanie z przedstawicielami Realu w Valdebebas</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142750-ostatni-trening-przed-levante</link>
         <pubDate>Mon, 22 Sep 2025 13:04:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do wtorkowego meczu z Levante.</description>
-    </item>
-    
-    <item>
-        <title>PSG chciało przełożyć mecz z Marsylią, aby pojawić się na gali Złotej Piłki</title>
-        <link>https://www.realmadryt.pl/news/142752-psg-chcialo-przelozyc-mecz-z-marsylia-aby-pojawic-sie-na-gali-zlotej-pilki</link>
-        <pubDate>Mon, 22 Sep 2025 12:54:00 GMT</pubDate>
-        <description>Paryski klub chciał przełożyć francuski Klasyk na godzinę 15:00, ale LFP odrzuciła tę propozycję. Ultrasi PSG mają zamiar zebrać się przy Théâtre du Châtelet z okazji Złotej Piłki.</description>
-    </item>
-    
-    <item>
-        <title>Rosell: Prezesi Komitetu Arbitrów zawsze otwarcie deklarowali, że są zagorzałymi kibicami Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/142749-rosell-prezesi-komitetu-arbitrow-zawsze-otwarcie-deklarowali-ze-sa-zagorzalymi-kibicami-realu-madryt</link>
-        <pubDate>Mon, 22 Sep 2025 11:47:00 GMT</pubDate>
-        <description>Były prezes Barcelony zaprzecza, jakoby klub otrzymywał przychylne traktowanie.</description>
     </item>
     
 </channel>
