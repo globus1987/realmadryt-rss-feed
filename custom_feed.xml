@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Sep 2025 22:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 22:40:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142801-dzisiejsze-okladki</link>
+        <pubDate>Wed, 24 Sep 2025 00:35:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i kontuzja Gaviego to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Jeśli to utrzymamy, to możemy wiele wygrać w tym sezonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142789-oficjalnie-barcelona-zagra-z-realem-sociedad-na-montjuic</link>
         <pubDate>Tue, 23 Sep 2025 17:55:00 GMT</pubDate>
         <description>Stadionowego zamieszania w Katalonii ciąg dalszy.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé – cichy lider, który nadaje ton szatni</title>
-        <link>https://www.realmadryt.pl/news/142788-mbappe-cichy-lider-ktory-nadaje-ton-szatni</link>
-        <pubDate>Tue, 23 Sep 2025 17:28:00 GMT</pubDate>
-        <description>Real Madryt Xabiego gra w rytmie francuskiej gwiazdy, która trafiła do Królewskich w sposób nietypowy jak na swój status.</description>
     </item>
     
 </channel>
