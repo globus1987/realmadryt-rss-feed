@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Sep 2025 21:21:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 21:38:41 GMT</lastBuildDate>
     
     <item>
-        <title>Levante – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/142793-levante-real-madryt-live</link>
+        <title>Vinícius MVP meczu z Levante</title>
+        <link>https://www.realmadryt.pl/news/142794-vinicius-mvp-meczu-z-levante</link>
+        <pubDate>Tue, 23 Sep 2025 23:23:00 GMT</pubDate>
+        <description>Vinícius Júnior został wyróżniony po wyjazdowym meczu Realu Madryt z Levante.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Levante</title>
+        <link>https://www.realmadryt.pl/news/142795-ocen-pilkarzy-po-meczu-z-levante</link>
+        <pubDate>Tue, 23 Sep 2025 23:23:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Z rotacjami i na mokradłach też bez wpadki</title>
+        <link>https://www.realmadryt.pl/news/142793-z-rotacjami-i-na-mokradlach-tez-bez-wpadki</link>
         <pubDate>Tue, 23 Sep 2025 21:25:00 GMT</pubDate>
-        <description>W meczu 6. kolejki La Ligi Real Madryt prowadzi na wyjeździe z Levante 4:1 po golach Viníciusa Júniora, Franco Mastantuono i Kyliana Mbappé.</description>
+        <description>W meczu 6. kolejki La Ligi Real Madryt wygrał na wyjeździe z Levante 4:1 po golach Viníciusa Júniora, Franco Mastantuono i Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142784-obejrzyj-mecz-z-levante-w-sts-tv</link>
         <pubDate>Tue, 23 Sep 2025 14:12:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Walencji</title>
-        <link>https://www.realmadryt.pl/news/142783-krolewscy-sa-juz-w-walencji</link>
-        <pubDate>Tue, 23 Sep 2025 13:22:00 GMT</pubDate>
-        <description>24 powołanych zawodników dotarło już do Walencji, gdzie Królewscy zmierzą się dzisiaj wieczorem z Levante w szóstej kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Bez zagrożonych zawieszeniem na sobotnie derby Madrytu</title>
-        <link>https://www.realmadryt.pl/news/142782-bez-zagrozonych-zawieszeniem-na-sobotnie-derby-madrytu</link>
-        <pubDate>Tue, 23 Sep 2025 13:09:00 GMT</pubDate>
-        <description>Po pięciu ligowych kolejkach można zacząć przypatrywać się kwestii zawieszeń za kartki. Niedługo Królewskich czekają derby Madrytu, a w październiku Klasyk z Barceloną.</description>
     </item>
     
 </channel>
