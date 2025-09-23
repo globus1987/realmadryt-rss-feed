@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Sep 2025 19:19:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Sep 2025 19:39:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Levante – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/142793-levante-real-madryt-live</link>
+        <pubDate>Tue, 23 Sep 2025 21:25:00 GMT</pubDate>
+        <description>Trwa mecz 6. kolejki pomiędzy Levante a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Levante [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142782-bez-zagrozonych-zawieszeniem-na-sobotnie-derby-madrytu</link>
         <pubDate>Tue, 23 Sep 2025 13:09:00 GMT</pubDate>
         <description>Po pięciu ligowych kolejkach można zacząć przypatrywać się kwestii zawieszeń za kartki. Niedługo Królewskich czekają derby Madrytu, a w październiku Klasyk z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Syn Negreiry rozbija alibi Barcelony i pudła: zeznanie sądowe stoi w sprzeczności z konferencją prasową Laporty</title>
-        <link>https://www.realmadryt.pl/news/142775-syn-negreiry-rozbija-alibi-barcelony-i-pudla-zeznanie-sadowe-stoi-w-sprzecznosci-z-konferencja-prasowa-laporty</link>
-        <pubDate>Tue, 23 Sep 2025 12:20:00 GMT</pubDate>
-        <description>Zeznania Javiera Enríqueza Romero przed sędzią obalają narrację prezesa Barcelony, który w 2023 roku bronił niewinności klubu, prezentując pudła rzekomo wypełnione raportami w sprawie Negreiry. Aktualną sytuację na łamach El Español opisują Jorge Calabrés i David Vicente. Przedstawiamy pełne tłumaczenie ich tekstu.</description>
     </item>
     
 </channel>
