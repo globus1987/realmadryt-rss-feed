@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 11:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 12:52:07 GMT</lastBuildDate>
     
     <item>
-        <title>ESPN: Pierwszy ligowy Klasyk w niedzielę o 16:15</title>
-        <link>https://www.realmadryt.pl/news/142818-espn-pierwszy-ligowy-klasyk-w-niedziele-o-16-15</link>
+        <title>Podcast 7x08: Czego oczekujemy od pierwszego wielkiego meczu?</title>
+        <link>https://www.realmadryt.pl/news/142817-podcast-7x08-czego-oczekujemy-od-pierwszego-wielkiego-meczu</link>
+        <pubDate>Wed, 24 Sep 2025 14:15:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po ostatnich zwycięstwach oraz przed derbami Madrytu.</description>
+    </item>
+    
+    <item>
+        <title>Pierwszy ligowy Klasyk w niedzielę o 16:15</title>
+        <link>https://www.realmadryt.pl/news/142818-pierwszy-ligowy-klasyk-w-niedziele-o-16-15</link>
         <pubDate>Wed, 24 Sep 2025 13:52:00 GMT</pubDate>
         <description>Stacja telewizyjna zapowiada mecz Realu z Barceloną w Madrycie.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142807-fifa-analizuje-zawiadomienie-w-sprawie-korupcji-sedziowskiej-sa-dowody-manipulacji-w-meczach-przeciwko-realowi</link>
         <pubDate>Wed, 24 Sep 2025 09:44:00 GMT</pubDate>
         <description>W piśmie złożonym do FIFA przez organizację Manos Limpias zebrano obszerną dokumentację, która – zdaniem wnoszących zawiadomienie – dowodzi, że niektórzy sędziowie działają na niekorzyść Królewskich. Sytuację na łamach portalu El Debate opisał Alejandro Entrambasaguas. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dzień wolny</title>
-        <link>https://www.realmadryt.pl/news/142804-krolewscy-maja-dzien-wolny</link>
-        <pubDate>Wed, 24 Sep 2025 09:30:00 GMT</pubDate>
-        <description>Po meczu z Levante dzisiaj zawodnicy otrzymali dzień wolny. Kolejny mecz rozegrają za trzy dni.</description>
     </item>
     
 </channel>
