@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 08:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 09:26:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Levante</title>
+        <link>https://www.realmadryt.pl/news/142808-oceny-zawodnikow-po-meczu-z-levante</link>
+        <pubDate>Wed, 24 Sep 2025 11:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał 4:1 z Levante w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Real trafił z transferami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142798-xabi-alonso-czasami-0-2-to-wynik-wprowadzajacy-w-blad</link>
         <pubDate>Tue, 23 Sep 2025 23:55:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się na konferencji prasowej po meczu z Levante w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Estadio Ciutat de València.</description>
-    </item>
-    
-    <item>
-        <title>Elgezabal: Takim przeciwnikom nie możesz zostawiać miejsca, bo cię zabiją</title>
-        <link>https://www.realmadryt.pl/news/142797-elgezabal-takim-przeciwnikom-nie-mozesz-zostawiac-miejsca-bo-cie-zabija</link>
-        <pubDate>Tue, 23 Sep 2025 23:49:00 GMT</pubDate>
-        <description>Unai Elgezabal udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 1:4 meczu z Realem Madryt. Przedstawiamy wypowiedzi kapitana Levante.</description>
     </item>
     
 </channel>
