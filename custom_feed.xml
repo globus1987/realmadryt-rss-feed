@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 11:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 11:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>ESPN: Pierwszy ligowy Klasyk w niedzielę o 16:15</title>
+        <link>https://www.realmadryt.pl/news/142818-espn-pierwszy-ligowy-klasyk-w-niedziele-o-16-15</link>
+        <pubDate>Wed, 24 Sep 2025 13:52:00 GMT</pubDate>
+        <description>Stacja telewizyjna zapowiada mecz Realu z Barceloną w Madrycie.</description>
+    </item>
+    
+    <item>
+        <title>Specjalista od stałych fragmentów gry Jesús Rueda dołączył do sztabu Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/142816-specjalista-od-stalych-fragmentow-gry-jesus-rueda-dolaczyl-do-sztabu-realu-madryt</link>
+        <pubDate>Wed, 24 Sep 2025 13:40:00 GMT</pubDate>
+        <description>Były trener od stałych fragmentów u Borjy Jiméneza latem dołączył do Królewskich. Rueda stał za zwycięstwami Leganés nad Barceloną i Atlético.</description>
+    </item>
     
     <item>
         <title>MARCA: Barça nie sprowadzi nikogo w miejsce kontuzjowanego Gaviego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142804-krolewscy-maja-dzien-wolny</link>
         <pubDate>Wed, 24 Sep 2025 09:30:00 GMT</pubDate>
         <description>Po meczu z Levante dzisiaj zawodnicy otrzymali dzień wolny. Kolejny mecz rozegrają za trzy dni.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 24 września</title>
-        <link>https://www.realmadryt.pl/news/142799-kartka-z-kalendarza-24-wrzesnia</link>
-        <pubDate>Wed, 24 Sep 2025 08:40:00 GMT</pubDate>
-        <description>Porażka z Barceloną, wysokie zwycięstwo z Rayo Vallecano i pierwszy gol Varane'a oraz garść nagród indywidualnych dla zawodników Realu Madryt. Co działo się 24 września?</description>
-    </item>
-    
-    <item>
-        <title>Ceballos: Widzimy coraz więcej założeń, jakich chce trener</title>
-        <link>https://www.realmadryt.pl/news/142806-ceballos-widzimy-coraz-wiecej-zalozen-jakich-chce-trener</link>
-        <pubDate>Wed, 24 Sep 2025 07:50:00 GMT</pubDate>
-        <description>Dani Ceballos udzielił wywiadu RealMadridTV po meczu La Ligi z Levante. Przedstawiamy wypowiedzi pomocnika z tej rozmowy na Estadi Ciutat de València.</description>
     </item>
     
 </channel>
