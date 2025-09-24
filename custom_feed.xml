@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 08:33:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 08:55:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real trafił z transferami</title>
+        <link>https://www.realmadryt.pl/news/142809-real-trafil-z-transferami</link>
+        <pubDate>Wed, 24 Sep 2025 10:37:00 GMT</pubDate>
+        <description>Od 2019 roku i czasów Sergio Ramosa nikt w jednym meczu nie odzyskał tylu piłek co Carreras. Wrażenie robi charakter Huijsena i Mastantuono. Cała trójka przebiła najśmielsze prognozy.</description>
+    </item>
     
     <item>
         <title>FIFA analizuje zawiadomienie w sprawie korupcji sędziowskiej: „Są dowody manipulacji w meczach przeciwko Realowi”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142797-elgezabal-takim-przeciwnikom-nie-mozesz-zostawiac-miejsca-bo-cie-zabija</link>
         <pubDate>Tue, 23 Sep 2025 23:49:00 GMT</pubDate>
         <description>Unai Elgezabal udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 1:4 meczu z Realem Madryt. Przedstawiamy wypowiedzi kapitana Levante.</description>
-    </item>
-    
-    <item>
-        <title>Levante 1:4 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142796-levante-1-4-real-madryt-video</link>
-        <pubDate>Tue, 23 Sep 2025 23:43:00 GMT</pubDate>
-        <description>W meczu 6. kolejki La Ligi Real Madryt wygrał na wyjeździe z Levante 4:1 po golach Viníciusa Júniora, Franco Mastantuono i Kyliana Mbappé.</description>
     </item>
     
 </channel>
