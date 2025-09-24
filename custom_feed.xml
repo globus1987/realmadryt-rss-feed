@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 07:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 07:41:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/142804-krolewscy-maja-dzien-wolny</link>
+        <pubDate>Wed, 24 Sep 2025 09:30:00 GMT</pubDate>
+        <description>Po meczu z Levante dzisiaj zawodnicy otrzymali dzień wolny. Kolejny mecz rozegrają za trzy dni.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 24 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142794-vinicius-mvp-meczu-z-levante</link>
         <pubDate>Tue, 23 Sep 2025 23:23:00 GMT</pubDate>
         <description>Vinícius Júnior został wyróżniony po wyjazdowym meczu Realu Madryt z Levante.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Levante</title>
-        <link>https://www.realmadryt.pl/news/142795-ocen-pilkarzy-po-meczu-z-levante</link>
-        <pubDate>Tue, 23 Sep 2025 23:23:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
