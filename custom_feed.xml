@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 06:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 06:55:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 24 września</title>
+        <link>https://www.realmadryt.pl/news/142799-kartka-z-kalendarza-24-wrzesnia</link>
+        <pubDate>Wed, 24 Sep 2025 08:40:00 GMT</pubDate>
+        <description>Porażka z Barceloną, wysokie zwycięstwo z Rayo Vallecano i pierwszy gol Varane'a oraz garść nagród indywidualnych dla zawodników Realu Madryt. Co działo się 24 września?</description>
+    </item>
     
     <item>
         <title>Ceballos: Widzimy coraz więcej założeń, jakich chce trener</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142795-ocen-pilkarzy-po-meczu-z-levante</link>
         <pubDate>Tue, 23 Sep 2025 23:23:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Z rotacjami i na mokradłach też bez wpadki</title>
-        <link>https://www.realmadryt.pl/news/142793-z-rotacjami-i-na-mokradlach-tez-bez-wpadki</link>
-        <pubDate>Tue, 23 Sep 2025 21:25:00 GMT</pubDate>
-        <description>W meczu 6. kolejki La Ligi Real Madryt wygrał na wyjeździe z Levante 4:1 po golach Viníciusa Júniora, Franco Mastantuono i Kyliana Mbappé.</description>
     </item>
     
 </channel>
