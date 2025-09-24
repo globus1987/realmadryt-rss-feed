@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 12:52:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 13:32:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Coś podobnego zdarzyło się już 23 września…</title>
+        <link>https://www.realmadryt.pl/news/142819-cos-podobnego-zdarzylo-sie-juz-23-wrzesnia</link>
+        <pubDate>Wed, 24 Sep 2025 15:30:00 GMT</pubDate>
+        <description>Obaj strzelili swoje pierwsze gole dla Realu tego samego dnia... w odstępie 72 lat.</description>
+    </item>
     
     <item>
         <title>Podcast 7x08: Czego oczekujemy od pierwszego wielkiego meczu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142809-real-trafil-z-transferami</link>
         <pubDate>Wed, 24 Sep 2025 10:37:00 GMT</pubDate>
         <description>Od 2019 roku i czasów Sergio Ramosa nikt w jednym meczu nie odzyskał tylu piłek co Carreras. Wrażenie robi charakter Huijsena i Mastantuono. Cała trójka przebiła najśmielsze prognozy.</description>
-    </item>
-    
-    <item>
-        <title>FIFA analizuje zawiadomienie w sprawie korupcji sędziowskiej: „Są dowody manipulacji w meczach przeciwko Realowi”</title>
-        <link>https://www.realmadryt.pl/news/142807-fifa-analizuje-zawiadomienie-w-sprawie-korupcji-sedziowskiej-sa-dowody-manipulacji-w-meczach-przeciwko-realowi</link>
-        <pubDate>Wed, 24 Sep 2025 09:44:00 GMT</pubDate>
-        <description>W piśmie złożonym do FIFA przez organizację Manos Limpias zebrano obszerną dokumentację, która – zdaniem wnoszących zawiadomienie – dowodzi, że niektórzy sędziowie działają na niekorzyść Królewskich. Sytuację na łamach portalu El Debate opisał Alejandro Entrambasaguas. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
     </item>
     
 </channel>
