@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 09:26:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 09:43:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Wyniki dają ci potwierdzenie, że droga jest dobra</title>
+        <link>https://www.realmadryt.pl/news/142810-xabi-alonso-wyniki-daja-ci-potwierdzenie-ze-droga-jest-dobra</link>
+        <pubDate>Wed, 24 Sep 2025 11:29:00 GMT</pubDate>
+        <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji po wygranym 4:1 meczu z Levante na Ciutat de Valencia. Przedstawiamy zapis rozmowy z trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Levante</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142800-vinicius-jesli-to-utrzymamy-to-mozemy-wiele-wygrac-w-tym-sezonie</link>
         <pubDate>Wed, 24 Sep 2025 00:08:00 GMT</pubDate>
         <description>Vinícius Júnior udzielił wywiadu dla klubowej telewizji po wygranym 4:1 meczu z Levante. Przedstawiamy wypowiedzi MVP tego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Czasami 0:2 to wynik wprowadzający w błąd</title>
-        <link>https://www.realmadryt.pl/news/142798-xabi-alonso-czasami-0-2-to-wynik-wprowadzajacy-w-blad</link>
-        <pubDate>Tue, 23 Sep 2025 23:55:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się na konferencji prasowej po meczu z Levante w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Estadio Ciutat de València.</description>
     </item>
     
 </channel>
