@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Sep 2025 22:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 22:53:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142832-dzisiejsze-okladki</link>
+        <pubDate>Thu, 25 Sep 2025 00:49:00 GMT</pubDate>
+        <description>Wygrana Atlético i sytuacja przed meczem Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rozpoczęto montaż napisu „Bernabéu” na fasadzie stadionu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142816-specjalista-od-stalych-fragmentow-gry-jesus-rueda-dolaczyl-do-sztabu-realu-madryt</link>
         <pubDate>Wed, 24 Sep 2025 13:40:00 GMT</pubDate>
         <description>Były trener od stałych fragmentów u Borjy Jiméneza latem dołączył do Królewskich. Rueda stał za zwycięstwami Leganés nad Barceloną i Atlético.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Barça nie sprowadzi nikogo w miejsce kontuzjowanego Gaviego</title>
-        <link>https://www.realmadryt.pl/news/142815-marca-barca-nie-sprowadzi-nikogo-w-miejsce-kontuzjowanego-gaviego</link>
-        <pubDate>Wed, 24 Sep 2025 13:11:00 GMT</pubDate>
-        <description>Katalończycy uważają, że należy pozostać przy obecnej kadrze.</description>
     </item>
     
 </channel>
