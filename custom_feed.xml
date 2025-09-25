@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Sep 2025 07:54:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 08:32:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 września</title>
+        <link>https://www.realmadryt.pl/news/142834-kartka-z-kalendarza-25-wrzesnia</link>
+        <pubDate>Thu, 25 Sep 2025 10:20:00 GMT</pubDate>
+        <description>Koncert znanego piosenkarza na Bernabéu, wyrzucenie z drużyny wychowanka za ugryzienie sędziego, urodziny byłego trenera i piłkarzy oraz dwa pewnie wygrane spotkania. Co działo się 25 września?</description>
+    </item>
+    
+    <item>
+        <title>AS: Na derby Madrytu Komitet Arbitrów po raz pierwszy w historii zerwie z zasadą terytorialności</title>
+        <link>https://www.realmadryt.pl/news/142837-as-na-derby-madrytu-komitet-arbitrow-po-raz-pierwszy-w-historii-zerwie-z-zasada-terytorialnosci</link>
+        <pubDate>Thu, 25 Sep 2025 10:04:00 GMT</pubDate>
+        <description>Za VAR mają odpowiadać sędziowie ze stolicy Hiszpanii, a arbitrem głównym spotkania ma być Javier Alberola Rojas.</description>
+    </item>
     
     <item>
         <title>Vinícius wygrał w sądzie z przedsiębiorcą, który zarejestrował znak towarowy z jego imieniem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142827-rozpoczeto-montaz-napisu-bernabeu-na-fasadzie-stadionu</link>
         <pubDate>Wed, 24 Sep 2025 22:01:00 GMT</pubDate>
         <description>Real Madryt rozpoczął montaż nazwy stadionu na fasadzie od strony Paseo de la Castellana.</description>
-    </item>
-    
-    <item>
-        <title>Kajrat myślami już przy Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/142826-kajrat-myslami-juz-przy-realu-madryt</link>
-        <pubDate>Wed, 24 Sep 2025 21:34:00 GMT</pubDate>
-        <description>Kajrat Ałmaty może już myśleć o wtorkowym meczu z Realem Madryt, gdyż jego ligowy mecz został przełożony na październik. W pierwszym w historii klubu domowym meczu Ligi Mistrzów Stadion Centralny w Ałmatach wypełni się po brzegi.</description>
-    </item>
-    
-    <item>
-        <title>6. kolejka: Atlético wygrywa z Rayo po remontadzie i hat-tricku Juliána Álvareza</title>
-        <link>https://www.realmadryt.pl/news/142825-6-kolejka-atletico-wygrywa-z-rayo-po-remontadzie-i-hat-tricku-juliana-alvareza</link>
-        <pubDate>Wed, 24 Sep 2025 20:45:00 GMT</pubDate>
-        <description>Rojiblancos na trzy dni przed derbami z Realem wygrali swój mecz po remontadzie. Zespół Diego Simeone ostatecznie podejdzie do sobotniego meczu z 9 punktami straty do lidera.</description>
     </item>
     
 </channel>
