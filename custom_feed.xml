@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Sep 2025 11:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 12:53:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/142843-dzisiejszy-trening</link>
+        <pubDate>Thu, 25 Sep 2025 14:15:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do sobotniego meczu z Atlético Madryt.</description>
+    </item>
     
     <item>
         <title>MARCA: Real Madryt zatrudnił fizjoterapeutę… z Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142828-llull-mam-nadzieje-ze-bedziemy-mogli-swietowac-zdobycie-pierwszego-tytulu</link>
         <pubDate>Thu, 25 Sep 2025 08:40:00 GMT</pubDate>
         <description>Sergio Llull udzielił wywiadu dla klubowej telewizji przed Superpucharem Endesa. Mówił o tym, że drużyna już nie może się doczekać początku sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Kapitan Levante: Vinícius? Nie chcę nadawać temu znaczenia</title>
-        <link>https://www.realmadryt.pl/news/142831-kapitan-levante-vinicius-nie-chce-nadawac-temu-znaczenia</link>
-        <pubDate>Thu, 25 Sep 2025 07:50:00 GMT</pubDate>
-        <description>Unai Elgezabal po wtorkowym meczu z Realem Madryt zaskarżył zachowania jego atakującego. Po środowym treningu nie chciał doprecyzować, o co dokładnie mu chodziło.</description>
     </item>
     
 </channel>
