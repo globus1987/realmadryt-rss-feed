@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Sep 2025 15:26:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Sep 2025 15:44:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Times: UEFA planuje głosowanie nad zawieszeniem Izraela</title>
+        <link>https://www.realmadryt.pl/news/142848-the-times-uefa-planuje-glosowanie-nad-zawieszeniem-izraela</link>
+        <pubDate>Thu, 25 Sep 2025 17:31:00 GMT</pubDate>
+        <description>Federacja znalazła się pod ogromną presją po wzrastających protestach w tej sprawie, a także stwierdzeniu przez Komisję Śledczą ONZ, że Izrael dopuścił się ludobójstwa na Palestyńczykach w Strefie Gazy. Poniższy tekst to tłumaczenie publikacji The Times.</description>
+    </item>
     
     <item>
         <title>Niegościnne Metropolitano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142834-kartka-z-kalendarza-25-wrzesnia</link>
         <pubDate>Thu, 25 Sep 2025 10:20:00 GMT</pubDate>
         <description>Koncert znanego piosenkarza na Bernabéu, wyrzucenie z drużyny wychowanka za ugryzienie sędziego, urodziny byłego trenera i piłkarzy oraz dwa pewnie wygrane spotkania. Co działo się 25 września?</description>
-    </item>
-    
-    <item>
-        <title>AS: Na derby Madrytu Komitet Arbitrów po raz pierwszy w historii zerwie z zasadą terytorialności</title>
-        <link>https://www.realmadryt.pl/news/142837-as-na-derby-madrytu-komitet-arbitrow-po-raz-pierwszy-w-historii-zerwie-z-zasada-terytorialnosci</link>
-        <pubDate>Thu, 25 Sep 2025 10:04:00 GMT</pubDate>
-        <description>Za VAR mają odpowiadać sędziowie ze stolicy Hiszpanii, a arbitrem głównym spotkania ma być Javier Alberola Rojas.</description>
     </item>
     
 </channel>
