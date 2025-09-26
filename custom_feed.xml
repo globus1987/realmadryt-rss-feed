@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Sep 2025 22:21:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 22:40:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142894-dzisiejsze-okladki</link>
+        <pubDate>Sat, 27 Sep 2025 00:22:00 GMT</pubDate>
+        <description>Derby Madrytu i kontuzje Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Bardzo lubię oglądać uśmiechniętego Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142875-oficjalnie-joan-garcia-przejdzie-artroskopie-kolana</link>
         <pubDate>Fri, 26 Sep 2025 16:45:00 GMT</pubDate>
         <description>Podstawowy bramkarz Barcelony doznał kontuzji kolana. Jego występ w Klasyku stoi pod ogromnym znakiem zapytania.</description>
-    </item>
-    
-    <item>
-        <title>Tylko jeden z ostatnich pięciu trenerów Realu wygrał swoje pierwsze derby Madrytu</title>
-        <link>https://www.realmadryt.pl/news/142874-tylko-jeden-z-ostatnich-pieciu-trenerow-realu-wygral-swoje-pierwsze-derby-madrytu</link>
-        <pubDate>Fri, 26 Sep 2025 16:32:00 GMT</pubDate>
-        <description>W sobotę pierwsze derby Alonso w roli trenera drużyny ze stolicy Hiszpanii.</description>
     </item>
     
 </channel>
