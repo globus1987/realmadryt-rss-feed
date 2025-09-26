@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Sep 2025 05:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 05:54:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/142862-pichichi-zamora-asistencias</link>
+        <pubDate>Fri, 26 Sep 2025 07:50:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 6. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>„Nowy porządek Xabiego Alonso”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142848-the-times-uefa-planuje-glosowanie-nad-zawieszeniem-izraela</link>
         <pubDate>Thu, 25 Sep 2025 17:31:00 GMT</pubDate>
         <description>Federacja znalazła się pod ogromną presją po wzrastających protestach w tej sprawie, a także stwierdzeniu przez Komisję Śledczą ONZ, że Izrael dopuścił się ludobójstwa na Palestyńczykach w Strefie Gazy. Poniższy tekst to tłumaczenie publikacji The Times.</description>
-    </item>
-    
-    <item>
-        <title>Niegościnne Metropolitano</title>
-        <link>https://www.realmadryt.pl/news/142846-niegoscinne-metropolitano</link>
-        <pubDate>Thu, 25 Sep 2025 17:05:00 GMT</pubDate>
-        <description>Stadion Atlético udaje się zdobyć Królewskim niezwykle rzadko.</description>
     </item>
     
 </channel>
