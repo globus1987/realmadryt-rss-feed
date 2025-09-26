@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Sep 2025 10:43:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 10:57:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Real Madryt definitywnie wygrał sprawę z Komisją Europejską</title>
+        <link>https://www.realmadryt.pl/news/142870-oficjalnie-real-madryt-definitywnie-wygral-sprawe-z-komisja-europejska</link>
+        <pubDate>Fri, 26 Sep 2025 12:45:00 GMT</pubDate>
+        <description>Klub potwierdził, że wygrał sprawę o rzekomą pomoc ze strony państwa. Miasto Madryt musi zwrócić mu ponad 20 milionów euro [insiderzy mówią w sumie o kwocie 23,5 miliona euro]. Przedstawiamy pełny komunikat klubu w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Javier Alberola na Atlético</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142863-dzisiejsze-okladki</link>
         <pubDate>Fri, 26 Sep 2025 01:27:00 GMT</pubDate>
         <description>Sukcesy Hiszpanów i remontada Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madrid TV: Dla Huijsena i Viníciusa czerwone tak, dla Koke i Raphinhi nie [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142855-real-madrid-tv-dla-huijsena-i-viniciusa-czerwone-tak-dla-koke-i-raphinhi-nie-video</link>
-        <pubDate>Fri, 26 Sep 2025 00:02:00 GMT</pubDate>
-        <description>Królewscy wracają z saldem czerwonych kartek i pokazują przykłady, dlaczego statystyka wygląda w ich przypadku tak niekorzystnie.</description>
     </item>
     
 </channel>
