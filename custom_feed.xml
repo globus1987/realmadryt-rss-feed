@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Sep 2025 11:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 12:51:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Atlético</title>
+        <link>https://www.realmadryt.pl/news/142871-kadra-realu-madryt-na-atletico</link>
+        <pubDate>Fri, 26 Sep 2025 14:21:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na trzech zawodników pierwszego zespołu podczas spotkania z Atlético Madryt. Bask powołał 23 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Trzech piłkarzy nie trenowało z grupą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142862-pichichi-zamora-asistencias</link>
         <pubDate>Fri, 26 Sep 2025 07:50:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 6. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>„Nowy porządek Xabiego Alonso”</title>
-        <link>https://www.realmadryt.pl/news/142854-nowy-porzadek-xabiego-alonso</link>
-        <pubDate>Fri, 26 Sep 2025 07:00:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat pracy Xabiego Alonso i nadchodzących derbów Madrytu. Przedstawiamy refleksje dziennikarza.</description>
     </item>
     
 </channel>
