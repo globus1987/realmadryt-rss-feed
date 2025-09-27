@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Sep 2025 05:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 06:31:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Superpuchar pierwszym wyzwaniem</title>
+        <link>https://www.realmadryt.pl/news/142892-superpuchar-pierwszym-wyzwaniem</link>
+        <pubDate>Sat, 27 Sep 2025 08:30:00 GMT</pubDate>
+        <description>Real Madryt zainauguruje sezon meczem z Tenerife w ramach półfinału Ligi Endesa. Królewscy będą chcieli odzyskać puchar, który rok temu stracili na rzecz Unicajy.</description>
+    </item>
     
     <item>
         <title>Lider na przełamanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142882-zlota-pilka-dembele-zdobyl-73-pierwsze-miejsca-a-yamal-tylko-11</link>
         <pubDate>Fri, 26 Sep 2025 19:43:00 GMT</pubDate>
         <description>Francuzi zgodnie z zapowiedziami przedstawili punktację Złotej Piłki. Pierwsze dwa miejsca dzieli w tym roku kilka razy więcej punktów niż rok temu.</description>
-    </item>
-    
-    <item>
-        <title>Obejrzyj derby z Atlético w STS TV!</title>
-        <link>https://www.realmadryt.pl/news/142879-obejrzyj-derby-z-atletico-w-sts-tv</link>
-        <pubDate>Fri, 26 Sep 2025 18:00:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
     </item>
     
 </channel>
