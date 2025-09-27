@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Sep 2025 21:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 22:21:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142916-dzisiejsze-okladki</link>
+        <pubDate>Sun, 28 Sep 2025 00:15:00 GMT</pubDate>
+        <description>Porażka Realu Madryt w derbach to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Remontada do finału</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142906-atletico-upokarza-real-na-metropolitano</link>
         <pubDate>Sat, 27 Sep 2025 16:09:00 GMT</pubDate>
         <description>W meczu 7. kolejki La Ligi Real Madryt przegrał z Atlético Madryt 2:5.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Atlético [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/142903-rozgrzewka-przed-atletico-na-zywo</link>
-        <pubDate>Sat, 27 Sep 2025 15:02:00 GMT</pubDate>
-        <description>Królewscy około 15:40 wybiegną na rozgrzewkę na Riyadh Air Metropolitano, gdzie rozegrają mecz z Atlético Madryt. Pierwszy gwizdek arbitra wybrzmi o 16:15.</description>
     </item>
     
 </channel>
