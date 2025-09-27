@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Sep 2025 03:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 04:27:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przebaczać jak najrzadziej</title>
+        <link>https://www.realmadryt.pl/news/142880-przebaczac-jak-najrzadziej</link>
+        <pubDate>Sat, 27 Sep 2025 06:00:00 GMT</pubDate>
+        <description>Bóg wybacza, kibic Realu Madryt… też, ale oby nie musiał akurat dziś.</description>
+    </item>
     
     <item>
         <title>Atlético Madryt – Real Madryt: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142877-oficjalnie-tvp-wykupilo-sublicencje-na-pokazywanie-ligi-mistrzow</link>
         <pubDate>Fri, 26 Sep 2025 17:06:00 GMT</pubDate>
         <description>Prawa do rozgrywek w Polsce posiada CANAL+, ale w kolejnym roku sublicencję na jeden mecz w kolejce wykupiła Telewizja Polska.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Raphinha z kontuzją mięśniową</title>
-        <link>https://www.realmadryt.pl/news/142876-oficjalnie-raphinha-z-kontuzja-miesniowa</link>
-        <pubDate>Fri, 26 Sep 2025 16:55:00 GMT</pubDate>
-        <description>Lider ataku Barcelony doznał kontuzji mięśniowej. Jego występ w Klasyku nie wydaje się zagrożony.</description>
     </item>
     
 </channel>
