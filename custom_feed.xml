@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Sep 2025 05:40:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 05:53:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lider na przełamanie</title>
+        <link>https://www.realmadryt.pl/news/142893-lider-na-przelamanie</link>
+        <pubDate>Sat, 27 Sep 2025 07:50:00 GMT</pubDate>
+        <description>Osłabiona Castilla po trzech porażkach z rzędu zmierzy się z niepokonaną drużyną Tenerife. Na pierwszy rzut oka nie wygląda to optymistycznie dla Królewskich, ale Arbeloa i jego podopieczni są w stanie sprawdzić niespodziankę.</description>
+    </item>
     
     <item>
         <title>Blisko 1000 funkcjonariuszy zabezpieczy derby Madrytu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142879-obejrzyj-derby-z-atletico-w-sts-tv</link>
         <pubDate>Fri, 26 Sep 2025 18:00:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Arteta: Kiedy pojawił się szum, zapytałem o to Salibę i powiedział, że chce zostać</title>
-        <link>https://www.realmadryt.pl/news/142878-arteta-kiedy-pojawil-sie-szum-zapytalem-o-to-salibe-i-powiedzial-ze-chce-zostac</link>
-        <pubDate>Fri, 26 Sep 2025 17:53:00 GMT</pubDate>
-        <description>Trener Arsenalu pojawił się na konferencji prasowej przed meczem z Newcastle. Przedstawiamy wypowiedzi Mikela Artety na temat Williama Saliby i zainteresowania nim ze strony Realu Madryt.</description>
     </item>
     
 </channel>
