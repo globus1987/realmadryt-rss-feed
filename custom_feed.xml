@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Sep 2025 17:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 18:31:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nokaut w pierwszej połowie</title>
+        <link>https://www.realmadryt.pl/news/142912-nokaut-w-pierwszej-polowie</link>
+        <pubDate>Sat, 27 Sep 2025 20:30:00 GMT</pubDate>
+        <description>W 5. kolejce Primera Federación Castilla przegrała z Tenerife 1:3. Królewscy byli nieobecni w pierwszej połowie, za co drogo zapłacili. Przełamali za to strzelecką niemoc, chociaż jest to niewielkie pocieszenie.</description>
+    </item>
     
     <item>
         <title>Carvajal: Czasami dostanie takiego dzwona jest dobre, aby się obudzić</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142902-siodme-wyzwanie-simeone</link>
         <pubDate>Sat, 27 Sep 2025 13:41:00 GMT</pubDate>
         <description>Diego Simeone jest trenerem Atlético Madryt już od prawie 14 lat. W tym czasie w Realu Madryt dochodziło do ośmiu zmian szkoleniowców, a Xabi Alonso będzie dla Argentyńczyka siódmym rywalem w derbach Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>Dziennikarz z Polski w Złotej Piłce postawił na Lamine'a Yamala</title>
-        <link>https://www.realmadryt.pl/news/142900-dziennikarz-z-polski-w-zlotej-pilce-postawil-na-laminea-yamala</link>
-        <pubDate>Sat, 27 Sep 2025 12:05:00 GMT</pubDate>
-        <description>France Football i L'Équipe opbulikowały dzisiaj dokładne głosy 100 elektorów głosujących w Złotej Piłce. Poznaliśmy także głosy przedstawiciela Polski.</description>
     </item>
     
 </channel>
