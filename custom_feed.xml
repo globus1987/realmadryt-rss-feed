@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 06:33:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 06:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 28 września</title>
+        <link>https://www.realmadryt.pl/news/142890-kartka-z-kalendarza-28-wrzesnia</link>
+        <pubDate>Sun, 28 Sep 2025 08:40:00 GMT</pubDate>
+        <description>Urodziny legendarnego siatkarza Realu Madryt, śmierć legendarnego piłkarza i porażki Carlo Ancelottiego. Co działo się 28 września?</description>
+    </item>
     
     <item>
         <title>Simeone: Dzisiaj podobało mi się wszystko</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142908-julian-alvarez-dzis-w-koncu-bylismy-skuteczni</link>
         <pubDate>Sat, 27 Sep 2025 18:41:00 GMT</pubDate>
         <description>Julián Álvarez udzielił wywiadu dla DAZN po wygranym 5:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi piłkarza Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Atlético Madryt 5:2 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142907-atletico-madryt-5-2-real-madryt-video</link>
-        <pubDate>Sat, 27 Sep 2025 18:40:00 GMT</pubDate>
-        <description></description>
     </item>
     
 </channel>
