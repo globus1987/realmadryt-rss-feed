@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 19:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 19:53:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valencia z Superpucharem Endesa</title>
+        <link>https://www.realmadryt.pl/news/142936-valencia-z-superpucharem-endesa</link>
+        <pubDate>Sun, 28 Sep 2025 21:47:00 GMT</pubDate>
+        <description>Koszykarze dołączyli do pozostałych drużyn Realu Madryt i również zakończyli ten weekend porażką. Po zaciętym spotkaniu ulegli Valencii, która po raz drugi w historii zdobyła Superpuchar Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Kazachstanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142924-sedziowski-debiutant-na-mecz-z-kairatem</link>
         <pubDate>Sun, 28 Sep 2025 11:38:00 GMT</pubDate>
         <description>Wtorkowy mecz w Kazachstanie poprowadzi Królewskim sędzia, z którym spotkają się po raz pierwszy.</description>
-    </item>
-    
-    <item>
-        <title>O pierwszy tytuł w sezonie</title>
-        <link>https://www.realmadryt.pl/news/142923-o-pierwszy-tytul-w-sezonie</link>
-        <pubDate>Sun, 28 Sep 2025 11:14:00 GMT</pubDate>
-        <description>Real Madryt i Valencia zmierzą się dzisiaj ze sobą w meczu, którego stawką jest Superpuchar Hiszpanii. Królewscy mają szansę na jedenasty taki tytuł, a Valencia – na drugi.</description>
     </item>
     
 </channel>
