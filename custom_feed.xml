@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 08:27:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 08:43:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Atlético Madryt</title>
+        <link>https://www.realmadryt.pl/news/142919-oceny-zawodnikow-po-meczu-z-atletico-madryt</link>
+        <pubDate>Sun, 28 Sep 2025 10:40:00 GMT</pubDate>
+        <description>Real Madryt przegrał 2:5 z Atlético Madryt. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 28 września</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142909-barrios-derby-zawsze-przezywa-sie-w-wyjatkowy-sposob</link>
         <pubDate>Sat, 27 Sep 2025 18:50:00 GMT</pubDate>
         <description>Pablo Barrios udzielił wywiadu dla DAZN po wygranym 5:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi piłkarza Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Julián Álvarez: Dziś w końcu byliśmy skuteczni</title>
-        <link>https://www.realmadryt.pl/news/142908-julian-alvarez-dzis-w-koncu-bylismy-skuteczni</link>
-        <pubDate>Sat, 27 Sep 2025 18:41:00 GMT</pubDate>
-        <description>Julián Álvarez udzielił wywiadu dla DAZN po wygranym 5:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi piłkarza Atlético.</description>
     </item>
     
 </channel>
