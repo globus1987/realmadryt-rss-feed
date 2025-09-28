@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 15:38:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 15:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie żyje José Araquistáin</title>
+        <link>https://www.realmadryt.pl/news/142932-nie-zyje-jose-araquistain</link>
+        <pubDate>Sun, 28 Sep 2025 17:44:00 GMT</pubDate>
+        <description>Klub żegna zasłużonego golkipera.</description>
+    </item>
     
     <item>
         <title>Barcelona – Sociedad: Katalończycy chcą przejąć pozycję lidera [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142920-scariolo-brakowalo-nam-plynnosci-ale-defensywa-byla-naprawde-dobra</link>
         <pubDate>Sun, 28 Sep 2025 10:48:00 GMT</pubDate>
         <description>Sergio Scariolo podsumował pierwszy mecz po powrocie do Realu Madryt. Przyznał, że drużynie brakuje jeszcze płynności, ale pochwalił defensywę oraz grę Gabriela Decka.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Atlético Madryt</title>
-        <link>https://www.realmadryt.pl/news/142919-oceny-zawodnikow-po-meczu-z-atletico-madryt</link>
-        <pubDate>Sun, 28 Sep 2025 10:40:00 GMT</pubDate>
-        <description>Real Madryt przegrał 2:5 z Atlético Madryt. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek</description>
     </item>
     
 </channel>
