@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 09:22:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 09:39:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sędziowski debiutant na mecz z Kairatem</title>
+        <link>https://www.realmadryt.pl/news/142924-sedziowski-debiutant-na-mecz-z-kairatem</link>
+        <pubDate>Sun, 28 Sep 2025 11:38:00 GMT</pubDate>
+        <description>Wtorkowy mecz w Kazachstanie poprowadzi Królewskim sędzia, z którym spotkają się po raz pierwszy.</description>
+    </item>
     
     <item>
         <title>O pierwszy tytuł w sezonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142915-remontada-do-finalu</link>
         <pubDate>Sat, 27 Sep 2025 23:14:00 GMT</pubDate>
         <description>Real Madryt pokonał Tenerife i zagra w finale Superpucharu. Nie był to najlepszy występ Królewskich, ale udało się odrobić stratę i przechylić szalę zwycięstwa na swoją korzyść.</description>
-    </item>
-    
-    <item>
-        <title>7. kolejka: Villarreal umacnia się na podium przed wizytą na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/142914-7-kolejka-villarreal-umacnia-sie-na-podium-przed-wizyta-na-bernabeu</link>
-        <pubDate>Sat, 27 Sep 2025 22:54:00 GMT</pubDate>
-        <description>Królewscy po bolesnej porażce pozostają liderem w oczekiwaniu na niedzielny mecz Barcelony. Ich kolejny rywal umocnił się za to na podium.</description>
     </item>
     
 </channel>
