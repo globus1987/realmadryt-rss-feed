@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 22:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 22:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142940-dzisiejsze-okladki</link>
+        <pubDate>Mon, 29 Sep 2025 00:41:00 GMT</pubDate>
+        <description>Tytuł mistrza świata hiszpańskiego motocyklisty oraz wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bramkarz Sociedadu: Sędzia przyznał się do błędu na korzyść Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142927-krolewscy-leca-do-almat-flightradar</link>
         <pubDate>Sun, 28 Sep 2025 13:53:00 GMT</pubDate>
         <description>Real Madryt rozpoczął już lot do Azji na mecz europejskiej Ligi Mistrzów. Podróż potrwa ponad 7 godzin.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Kajrat Ałmaty</title>
-        <link>https://www.realmadryt.pl/news/142926-kadra-realu-madryt-na-kajrat-almaty</link>
-        <pubDate>Sun, 28 Sep 2025 13:03:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z Kajratem Ałmaty. Bask powołał 22 piłkarzy.</description>
     </item>
     
 </channel>
