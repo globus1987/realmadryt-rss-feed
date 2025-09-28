@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 03:15:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 03:47:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Atlético strzeliło Realowi 5 goli pierwszy raz od… 75 lat</title>
+        <link>https://www.realmadryt.pl/news/142917-atletico-strzelilo-realowi-5-goli-pierwszy-raz-od-75-lat</link>
+        <pubDate>Sun, 28 Sep 2025 05:30:00 GMT</pubDate>
+        <description>Sobotnia porażka Realu Madryt to jednocześnie historyczne i już nazywane legendarnym zwycięstwo sąsiadów.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142905-ocen-pilkarzy-po-meczu-z-atletico-madryt</link>
         <pubDate>Sat, 27 Sep 2025 18:24:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Atlético upokarza Real na Metropolitano</title>
-        <link>https://www.realmadryt.pl/news/142906-atletico-upokarza-real-na-metropolitano</link>
-        <pubDate>Sat, 27 Sep 2025 16:09:00 GMT</pubDate>
-        <description>W meczu 7. kolejki La Ligi Real Madryt przegrał z Atlético Madryt 2:5.</description>
     </item>
     
 </channel>
