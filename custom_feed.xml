@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 04:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 05:24:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Militão i Carvajal zakończyli derby z urazami</title>
+        <link>https://www.realmadryt.pl/news/142918-militao-i-carvajal-zakonczyli-derby-z-urazami</link>
+        <pubDate>Sun, 28 Sep 2025 07:00:00 GMT</pubDate>
+        <description>Królewscy zakończyli przegrane derby z przynajmniej dwoma piłkarzami narzekającymi na problemy fizyczne.</description>
+    </item>
     
     <item>
         <title>Atlético strzeliło Realowi 5 goli pierwszy raz od… 75 lat</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142904-julian-alvarez-wybrany-mvp-meczu-realu-z-atletico</link>
         <pubDate>Sat, 27 Sep 2025 18:29:00 GMT</pubDate>
         <description>To rywal został wyróżniony po wyjazdowym meczu Realu Madryt z Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Atlético Madryt</title>
-        <link>https://www.realmadryt.pl/news/142905-ocen-pilkarzy-po-meczu-z-atletico-madryt</link>
-        <pubDate>Sat, 27 Sep 2025 18:24:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
