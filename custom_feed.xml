@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 10:53:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 11:17:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra Realu Madryt na Kajrat Ałmaty</title>
+        <link>https://www.realmadryt.pl/news/142926-kadra-realu-madryt-na-kajrat-almaty</link>
+        <pubDate>Sun, 28 Sep 2025 13:03:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z Kajratem Ałmaty. Bask powołał 22 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Trening regeneracyjny w Valdebebas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142917-atletico-strzelilo-realowi-5-goli-pierwszy-raz-od-75-lat</link>
         <pubDate>Sun, 28 Sep 2025 05:30:00 GMT</pubDate>
         <description>Sobotnia porażka Realu Madryt to jednocześnie historyczne i już nazywane legendarnym zwycięstwo sąsiadów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142916-dzisiejsze-okladki</link>
-        <pubDate>Sun, 28 Sep 2025 00:15:00 GMT</pubDate>
-        <description>Porażka Realu Madryt w derbach to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
