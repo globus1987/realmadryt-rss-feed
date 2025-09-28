@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 11:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 12:46:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Bayern pytał latem o Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/142928-marca-bayern-pytal-latem-o-rodrygo</link>
+        <pubDate>Sun, 28 Sep 2025 14:35:00 GMT</pubDate>
+        <description>Królewscy nie zamierzali negocjować odejścia napastnika.</description>
+    </item>
+    
+    <item>
+        <title>Królewscy lecą do Ałmat [FlightRadar]</title>
+        <link>https://www.realmadryt.pl/news/142927-krolewscy-leca-do-almat-flightradar</link>
+        <pubDate>Sun, 28 Sep 2025 13:53:00 GMT</pubDate>
+        <description>Real Madryt rozpoczął już lot do Azji na mecz europejskiej Ligi Mistrzów. Podróż potrwa ponad 10 godzin.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Kajrat Ałmaty</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142913-simeone-dzisiaj-podobalo-mi-sie-wszystko</link>
         <pubDate>Sun, 28 Sep 2025 07:50:00 GMT</pubDate>
         <description>Trener Atlético Madryt, Diego Simeone, spotkał się z dziennikarzami po rozbiciu Realu Madryt w derbach Madrytu. Poniżej przedstawiamy zapis wypowiedzi argentyńskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Militão i Carvajal zakończyli derby z urazami</title>
-        <link>https://www.realmadryt.pl/news/142918-militao-i-carvajal-zakonczyli-derby-z-urazami</link>
-        <pubDate>Sun, 28 Sep 2025 07:00:00 GMT</pubDate>
-        <description>Królewscy zakończyli przegrane derby z przynajmniej dwoma piłkarzami narzekającymi na problemy fizyczne.</description>
-    </item>
-    
-    <item>
-        <title>Atlético strzeliło Realowi 5 goli pierwszy raz od… 75 lat</title>
-        <link>https://www.realmadryt.pl/news/142917-atletico-strzelilo-realowi-5-goli-pierwszy-raz-od-75-lat</link>
-        <pubDate>Sun, 28 Sep 2025 05:30:00 GMT</pubDate>
-        <description>Sobotnia porażka Realu Madryt to jednocześnie historyczne i już nazywane legendarnym zwycięstwo sąsiadów.</description>
     </item>
     
 </channel>
