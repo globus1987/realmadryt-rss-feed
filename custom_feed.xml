@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 10:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 10:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trening regeneracyjny w Valdebebas</title>
+        <link>https://www.realmadryt.pl/news/142925-trening-regeneracyjny-w-valdebebas</link>
+        <pubDate>Sun, 28 Sep 2025 12:42:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
+    </item>
     
     <item>
         <title>Sędziowski debiutant na mecz z Kairatem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142916-dzisiejsze-okladki</link>
         <pubDate>Sun, 28 Sep 2025 00:15:00 GMT</pubDate>
         <description>Porażka Realu Madryt w derbach to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Remontada do finału</title>
-        <link>https://www.realmadryt.pl/news/142915-remontada-do-finalu</link>
-        <pubDate>Sat, 27 Sep 2025 23:14:00 GMT</pubDate>
-        <description>Real Madryt pokonał Tenerife i zagra w finale Superpucharu. Nie był to najlepszy występ Królewskich, ale udało się odrobić stratę i przechylić szalę zwycięstwa na swoją korzyść.</description>
     </item>
     
 </channel>
