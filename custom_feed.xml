@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Sep 2025 18:30:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 18:53:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bezbramkowy remis piłkarek na Teneryfie</title>
+        <link>https://www.realmadryt.pl/news/142934-bezbramkowy-remis-pilkarek-na-teneryfie</link>
+        <pubDate>Sun, 28 Sep 2025 20:48:00 GMT</pubDate>
+        <description>W meczu 5. kolejki Ligi F piłkarki Realu Madryt bezbramkowo zremisowały na Heliodoro Rodríguez López z Costa Adeje Tenerife.</description>
+    </item>
     
     <item>
         <title>Wyniki meczów z wielkimi rywalami podważają pracę Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142922-oficjalnie-krolewscy-poleca-do-kazachstanu-juz-dzisiaj</link>
         <pubDate>Sun, 28 Sep 2025 11:11:00 GMT</pubDate>
         <description>Królewscy potwierdzili, że już dzisiaj wylecą na wtorkowy mecz Ligi Mistrzów. Na miejsce dolecą po kilku godzinach.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Dani Carvajal kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/142921-oficjalnie-dani-carvajal-kontuzjowany</link>
-        <pubDate>Sun, 28 Sep 2025 10:56:00 GMT</pubDate>
-        <description>Klub poinformował o kontuzji kapitana.</description>
     </item>
     
 </channel>
