@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Sep 2025 18:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 18:54:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Były sędzia: Komitet Arbitrów zmieniał kryteria na podstawie ocen mediów</title>
+        <link>https://www.realmadryt.pl/news/142959-byly-sedzia-komitet-arbitrow-zmienial-kryteria-na-podstawie-ocen-mediow</link>
+        <pubDate>Mon, 29 Sep 2025 20:51:00 GMT</pubDate>
+        <description>Xavier Estrada Fernández to były hiszpański sędzia, który aktywnie komentuje wydarzenia w środowisku, bierze udział w Sprawie Negreiry i nawet wydał w tej sprawie książkę. Teraz wygłosił bardzo zaskakujące wypowiedzi na antenie programu Jijantes u influencera Gerarda Romero. Przedstawiamy jego słowa o wpływie ocen medialnych na działanie Komitetu Arbitrów.</description>
+    </item>
     
     <item>
         <title>AS: Valencia pozywa Netflixa za fragment filmu „Baila, Vini”</title>
         <link>https://www.realmadryt.pl/news/142958-as-valencia-pozywa-netflixa-za-fragment-filmu-baila-vini</link>
         <pubDate>Mon, 29 Sep 2025 20:17:00 GMT</pubDate>
-        <description>Klub domaga się od sądu odszkodowania za „naruszenie dobrego imienia” i sprostowania informacji z części dokumentu.</description>
+        <description>Klub domaga się odszkodowania za „naruszenie dobrego imienia” i sprostowania informacji z części dokumentu.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142947-huijsen-przepraszam-za-ten-weekend</link>
         <pubDate>Mon, 29 Sep 2025 13:45:00 GMT</pubDate>
         <description>Defensor Realu Madryt przeprosił za swój słaby występ w derbach z Atlético poprzez wpis w mediach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Valdano: Miałem odczucie, że jeśli Real podłączy się do meczu, to wyciągnie to spotkanie</title>
-        <link>https://www.realmadryt.pl/news/142945-valdano-mialem-odczucie-ze-jesli-real-podlaczy-sie-do-meczu-to-wyciagnie-to-spotkanie</link>
-        <pubDate>Mon, 29 Sep 2025 12:35:00 GMT</pubDate>
-        <description>Jorge Valdano to stały ekspert telewizji Movistar+. Argentyńczyk to były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i ekspert. Przedstawiamy jego ocenę derbów Madrytu.</description>
     </item>
     
 </channel>
