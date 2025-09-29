@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Sep 2025 03:09:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Sep 2025 03:45:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan dnia Realu Madryt w Kazachstanie</title>
+        <link>https://www.realmadryt.pl/news/142943-plan-dnia-realu-madryt-w-kazachstanie</link>
+        <pubDate>Mon, 29 Sep 2025 05:30:00 GMT</pubDate>
+        <description>Królewscy dotarli do Kazachstanu już wczoraj, chociaż mecz Ligi Mistrzów rozegrają tam dopiero jutro. Dzisiaj czeka ich trening na stadionie meczowym, a usłyszymy także wypowiedzi trenera.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142928-marca-bayern-pytal-latem-o-rodrygo</link>
         <pubDate>Sun, 28 Sep 2025 14:35:00 GMT</pubDate>
         <description>Królewscy nie zamierzali negocjować odejścia napastnika.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy lecą do Ałmat [FlightRadar]</title>
-        <link>https://www.realmadryt.pl/news/142927-krolewscy-leca-do-almat-flightradar</link>
-        <pubDate>Sun, 28 Sep 2025 13:53:00 GMT</pubDate>
-        <description>Real Madryt rozpoczął już lot do Azji na mecz europejskiej Ligi Mistrzów. Podróż potrwa ponad 7 godzin.</description>
     </item>
     
 </channel>
