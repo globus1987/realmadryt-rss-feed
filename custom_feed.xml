@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Sep 2025 07:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 08:34:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 września</title>
+        <link>https://www.realmadryt.pl/news/142971-kartka-z-kalendarza-30-wrzesnia</link>
+        <pubDate>Tue, 30 Sep 2025 10:15:00 GMT</pubDate>
+        <description>Oficjalne otwarcie ośrodka w Valdebebas, urodziny byłego piłkarza i byłego trenera oraz słodko-gorzki początek wspaniałej przygody Cristiano Ronaldo, Santiago Bernabéu i Ligi Mistrzów. Co działo się 30 września?</description>
+    </item>
     
     <item>
         <title>Jorginho: Wszyscy oczekują, że przegramy 0:10</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142966-dzisiejsze-okladki</link>
         <pubDate>Tue, 30 Sep 2025 00:19:00 GMT</pubDate>
         <description>Mecz Realu Madryt w Lidze Mistrzów i przekaz z Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Czasami trzeba zrobić krok do tyłu, by potem zrobić dwa do przodu</title>
-        <link>https://www.realmadryt.pl/news/142956-xabi-alonso-czasami-trzeba-zrobic-krok-do-tylu-by-potem-zrobic-dwa-do-przodu</link>
-        <pubDate>Tue, 30 Sep 2025 00:00:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Kajratem Ałmaty w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Stadionie Centralnym w Kazachstanie.</description>
     </item>
     
 </channel>
