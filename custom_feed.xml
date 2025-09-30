@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Sep 2025 11:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 12:54:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kapitan Courtois</title>
+        <link>https://www.realmadryt.pl/news/142979-kapitan-courtois</link>
+        <pubDate>Tue, 30 Sep 2025 14:48:00 GMT</pubDate>
+        <description>Valverde ma odpocząć w meczu z Kajratem, więc Belg zadebiutuje jako kapitan Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Klopp: Nie chcę już więcej pracować jako trener</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142929-wygnanie</link>
         <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
         <description>Za jakiś czas pewnie nam przejdzie, ale kara musi być.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt ma problem z „wielkimi”</title>
-        <link>https://www.realmadryt.pl/news/142970-real-madryt-ma-problem-z-wielkimi</link>
-        <pubDate>Tue, 30 Sep 2025 08:47:00 GMT</pubDate>
-        <description>Porażka z Atlético rozdrapuje ranę i ma słaby bilans w starciach z najmocniejszymi ekipami.</description>
     </item>
     
 </channel>
