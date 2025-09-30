@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Sep 2025 05:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 06:37:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rusza Euroliga</title>
+        <link>https://www.realmadryt.pl/news/142963-rusza-euroliga</link>
+        <pubDate>Tue, 30 Sep 2025 08:30:00 GMT</pubDate>
+        <description>W 1. kolejce Euroligi Real Madryt zagra na wyjeździe z Virtusem. Po nieudanym weekendzie w Superpucharze Hiszapnii podopieczni Scariolo szybko mają okazję, by zatrzeć złe wrażenie.</description>
+    </item>
+    
+    <item>
+        <title>Wyjaśnienia dyrektora Barçy: Raporty sporządzał syn Negreiry</title>
+        <link>https://www.realmadryt.pl/news/142961-wyjasnienia-dyrektora-barcy-raporty-sporzadzal-syn-negreiry</link>
+        <pubDate>Tue, 30 Sep 2025 08:11:00 GMT</pubDate>
+        <description>Były członek zarządu Barçy wiedział o płatnościach na rzecz Negreiry i zachował milczenie, będąc już dyrektorem generalnym Wyższej Rady Sportu, która czuwa nad prawidłowym funkcjonowaniem całego sportu w Hiszpanii. Przedstawiamy jego wrześniowe wyjaśnienia w roli podejrzanego przed sędzią śledczą.</description>
+    </item>
     
     <item>
         <title>MARCA: Komitet Arbitrów twierdzi, że sędziowanie w derbach było dobre</title>
         <link>https://www.realmadryt.pl/news/142962-marca-komitet-arbitrow-twierdzi-ze-sedziowanie-w-derbach-bylo-dobre</link>
         <pubDate>Tue, 30 Sep 2025 07:50:00 GMT</pubDate>
-        <description>Jak twierdzi hiszpański dziennik, w ocenie Komitetu Technicznego Sędziów wszystkie kontrowersyjne sytuacje podczas derbów zostały prawidłowo ocenione przez Alberolę Rojasa i jego pomocników.</description>
+        <description>Jak twierdzi hiszpański dziennik, w ocenie Komitetu Technicznego Arbitrów wszystkie kontrowersyjne sytuacje podczas derbów zostały prawidłowo ocenione przez Alberolę Rojasa i jego pomocników.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142958-as-valencia-pozywa-netflixa-za-fragment-filmu-baila-vini</link>
         <pubDate>Mon, 29 Sep 2025 20:17:00 GMT</pubDate>
         <description>Klub domaga się odszkodowania za „naruszenie dobrego imienia” i sprostowania informacji z części dokumentu.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham wrócił, a Real stracił rytm</title>
-        <link>https://www.realmadryt.pl/news/142955-bellingham-wrocil-a-real-stracil-rytm</link>
-        <pubDate>Mon, 29 Sep 2025 19:16:00 GMT</pubDate>
-        <description>Xabi Alonso postawił w derbach na Jude'a Bellinghama i decyzja ta nie pomogła zespołowi. Real Madryt zagrał znacznie gorzej nie tylko w ataku, ale także w obronie.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy odbyli trening w Kazachstanie</title>
-        <link>https://www.realmadryt.pl/news/142954-krolewscy-odbyli-trening-w-kazachstanie</link>
-        <pubDate>Mon, 29 Sep 2025 17:49:00 GMT</pubDate>
-        <description>Królewscy mają już za sobą zajęcia przed wtorkowym meczem fazy ligowej Ligi Mistrzów z Kajratem Ałmaty. Tradycyjnie przy okazji spotkań wyjazdowych zespół ćwiczył na obiekcie rywala.</description>
     </item>
     
 </channel>
