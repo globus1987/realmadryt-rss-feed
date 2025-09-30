@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Sep 2025 13:33:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 13:54:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt pogratulował Alcarazowi triumfu w Tokio</title>
+        <link>https://www.realmadryt.pl/news/142980-real-madryt-pogratulowal-alcarazowi-triumfu-w-tokio</link>
+        <pubDate>Tue, 30 Sep 2025 15:47:00 GMT</pubDate>
+        <description>Hiszpański tenisista nie zatrzymuje się i teraz wygrał turniej w Tokio. Królewscy oczywiście złożyli mu gratulacje.</description>
+    </item>
     
     <item>
         <title>Kapitan Courtois</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142972-marca-ani-uefa-ani-fifa-nie-planuja-zawieszac-izraela</link>
         <pubDate>Tue, 30 Sep 2025 09:12:00 GMT</pubDate>
         <description>Ani UEFA, ani FIFA nie mają natychmiastowych planów, by kluby i reprezentacja tego kraju przestały rywalizować.</description>
-    </item>
-    
-    <item>
-        <title>Wygnanie</title>
-        <link>https://www.realmadryt.pl/news/142929-wygnanie</link>
-        <pubDate>Tue, 30 Sep 2025 09:00:00 GMT</pubDate>
-        <description>Za jakiś czas pewnie nam przejdzie, ale kara musi być.</description>
     </item>
     
 </channel>
