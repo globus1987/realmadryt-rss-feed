@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Sep 2025 21:53:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 22:22:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/142998-dzisiejsze-okladki</link>
+        <pubDate>Wed, 01 Oct 2025 00:21:00 GMT</pubDate>
+        <description>Hat-trick Mbappé i mecz Barcelony z Paris Saint-Germain to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>W Eurolidze też falstart</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142984-ceballos-musimy-oczyscic-nasz-wizerunek</link>
         <pubDate>Tue, 30 Sep 2025 18:24:00 GMT</pubDate>
         <description>Dani Ceballos na godzinę przed meczem Ligi Mistrzów z Kajratem Ałmaty udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi pomocnika Realu Madryt na Stadionie Centralnym.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Dlaczego grają Vini i Mbappé? Czują się dobrze i są gotowi do gry</title>
-        <link>https://www.realmadryt.pl/news/142982-xabi-alonso-dlaczego-graja-vini-i-mbappe-czuja-sie-dobrze-i-sa-gotowi-do-gry</link>
-        <pubDate>Tue, 30 Sep 2025 18:12:00 GMT</pubDate>
-        <description>Xabi Alonso na godzinę przed meczem Ligi Mistrzów z Kajratem Ałmaty udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Stadionie Centralnym.</description>
     </item>
     
 </channel>
