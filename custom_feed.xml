@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 17:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 18:35:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trzech graczy Realu powołanych na zgrupowanie Brazylii w Azji</title>
+        <link>https://www.realmadryt.pl/news/143016-trzech-graczy-realu-powolanych-na-zgrupowanie-brazylii-w-azji</link>
+        <pubDate>Wed, 01 Oct 2025 20:28:00 GMT</pubDate>
+        <description>Brazylijczycy zakończyli już eliminacje do mundialu. Teraz rozegrają sparingi... w Azji.</description>
+    </item>
+    
+    <item>
+        <title>Środowe mecze Ligi Mistrzów: Barça podejmuje PSG, grają też najbliżsi rywale Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/143015-srodowe-mecze-ligi-mistrzow-barca-podejmuje-psg-graja-tez-najblizsi-rywale-realu-madryt</link>
+        <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
+        <description>Królewscy zakończyli wtorek jako wiceliderzy Ligi Mistrzów i jedna z trzech ekip z kompletem punktów. Teraz mogą ze spokojem obserwować środowe poczynania rywali.</description>
+    </item>
     
     <item>
         <title>Güler Najlepszym Piłkarzem U-23 La Ligi we wrześniu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143005-oceny-zawodnikow-po-meczu-z-kajratem</link>
         <pubDate>Wed, 01 Oct 2025 11:00:00 GMT</pubDate>
         <description>Real Madryt wygrał 5:0 z Karjatem w Lidze Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 1 października</title>
-        <link>https://www.realmadryt.pl/news/143002-kartka-z-kalendarza-1-pazdziernika</link>
-        <pubDate>Wed, 01 Oct 2025 10:40:00 GMT</pubDate>
-        <description>Urodziny brazylijskiego pomocnika i mecze w fazie grupowej Ligi Mistrzów. Co działo się 1 października?</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Rodrygo ma więcej płynności w ruchach, obrotach i zejściach na lewej stronie</title>
-        <link>https://www.realmadryt.pl/news/142996-xabi-alonso-rodrygo-ma-wiecej-plynnosci-w-ruchach-obrotach-i-zejsciach-na-lewej-stronie</link>
-        <pubDate>Wed, 01 Oct 2025 10:20:00 GMT</pubDate>
-        <description>Xabi Alonso po spotkaniu Ligi Mistrzów z Kajratem Ałmaty udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Stadionie Centralnym.</description>
     </item>
     
 </channel>
