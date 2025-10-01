@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 09:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 09:57:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niespodziewane napięcie wokół Valverde</title>
+        <link>https://www.realmadryt.pl/news/143006-niespodziewane-napiecie-wokol-valverde</link>
+        <pubDate>Wed, 01 Oct 2025 11:45:00 GMT</pubDate>
+        <description>Ławka i cichy gest wywołały najbardziej zagadkowy moment jego pobytu w Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Kajratem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142998-dzisiejsze-okladki</link>
         <pubDate>Wed, 01 Oct 2025 00:21:00 GMT</pubDate>
         <description>Hat-trick Mbappé i mecz Barcelony z Paris Saint-Germain to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>W Eurolidze też falstart</title>
-        <link>https://www.realmadryt.pl/news/142994-w-eurolidze-tez-falstart</link>
-        <pubDate>Tue, 30 Sep 2025 23:04:00 GMT</pubDate>
-        <description>Koszykarze rozpoczynają sezon w słabym stylu. Po przegranym Superpucharze dzisiaj nie byli w stanie sprostać Virtusowi na inaugurację Euroligi. Fatalnie wyglądała skuteczność madrytczyków na obwodzie.</description>
     </item>
     
 </channel>
