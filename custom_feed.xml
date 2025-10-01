@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 14:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 14:45:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 11. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/143011-terminarz-11-kolejki-la-ligi</link>
+        <pubDate>Wed, 01 Oct 2025 16:43:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 11. kolejki, w której Królewscy zagrają u siebie z Valencią.</description>
+    </item>
     
     <item>
         <title>Fede: Wiem, że zagrałem słabe mecze, jestem tego świadomy i naprawdę jest mi przykro</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/142997-pichichi-zamora-asistencias</link>
         <pubDate>Wed, 01 Oct 2025 09:20:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 7. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy wrócili do Madrytu o 8 rano i mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/143003-krolewscy-wrocili-do-madrytu-o-8-rano-i-maja-dzis-wolne</link>
-        <pubDate>Wed, 01 Oct 2025 08:55:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
