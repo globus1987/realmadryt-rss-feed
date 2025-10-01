@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 10:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 10:45:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé w rytmie Cristiano</title>
+        <link>https://www.realmadryt.pl/news/143004-mbappe-w-rytmie-cristiano</link>
+        <pubDate>Wed, 01 Oct 2025 12:30:00 GMT</pubDate>
+        <description>13 goli w pierwszych 9 meczach sezonu Francuza.</description>
+    </item>
     
     <item>
         <title>Niespodziewane napięcie wokół Valverde</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143000-na-kogo-zdenerwowal-sie-vinicius-przy-swojej-zmianie-video</link>
         <pubDate>Wed, 01 Oct 2025 05:30:00 GMT</pubDate>
         <description>Pytanie na konferencji prasowej do trenera wskazało, że Brazylijczyk nie był zadowolony ze swojej zmiany. Po spotkaniu pokazano obrazki z jego zejścia na ławkę.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/142998-dzisiejsze-okladki</link>
-        <pubDate>Wed, 01 Oct 2025 00:21:00 GMT</pubDate>
-        <description>Hat-trick Mbappé i mecz Barcelony z Paris Saint-Germain to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
