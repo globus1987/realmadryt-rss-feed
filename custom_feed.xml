@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 22:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 23:21:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143023-dzisiejsze-okladki</link>
+        <pubDate>Thu, 02 Oct 2025 00:57:00 GMT</pubDate>
+        <description>Oświadczenie Federico Valverde i porażka Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Valverde dwa tygodnie temu: Ustaliliśmy z trenerem, że nie wrócę na prawą obronę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143004-mbappe-w-rytmie-cristiano</link>
         <pubDate>Wed, 01 Oct 2025 12:30:00 GMT</pubDate>
         <description>13 goli w pierwszych 9 meczach sezonu Francuza.</description>
-    </item>
-    
-    <item>
-        <title>Niespodziewane napięcie wokół Valverde</title>
-        <link>https://www.realmadryt.pl/news/143006-niespodziewane-napiecie-wokol-valverde</link>
-        <pubDate>Wed, 01 Oct 2025 11:45:00 GMT</pubDate>
-        <description>Ławka i cichy gest wywołały najbardziej zagadkowy moment jego pobytu w Realu Madryt.</description>
     </item>
     
 </channel>
