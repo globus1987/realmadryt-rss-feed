@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 21:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 22:23:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde dwa tygodnie temu: Ustaliliśmy z trenerem, że nie wrócę na prawą obronę</title>
+        <link>https://www.realmadryt.pl/news/143014-valverde-dwa-tygodnie-temu-ustalilismy-z-trenerem-ze-nie-wroce-na-prawa-obrone</link>
+        <pubDate>Thu, 02 Oct 2025 00:04:00 GMT</pubDate>
+        <description>Sytuacja wokół Federico Valverde i jego niechęci do gry na prawej obronie rozgrzała środowisko Realu Madryt po wygranej nad Kajratem Ałmaty. Dla pełnego kontekstu przedstawiamy wypowiedzi Urugwajczyka w tej sprawie z ostatnich dwóch tygodni.</description>
+    </item>
     
     <item>
         <title>Trzech graczy Realu powołanych na zgrupowanie Brazylii w Azji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143006-niespodziewane-napiecie-wokol-valverde</link>
         <pubDate>Wed, 01 Oct 2025 11:45:00 GMT</pubDate>
         <description>Ławka i cichy gest wywołały najbardziej zagadkowy moment jego pobytu w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Kajratem</title>
-        <link>https://www.realmadryt.pl/news/143005-oceny-zawodnikow-po-meczu-z-kajratem</link>
-        <pubDate>Wed, 01 Oct 2025 11:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał 5:0 z Karjatem w Lidze Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
