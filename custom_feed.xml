@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 01 Oct 2025 06:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 07:25:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/142997-pichichi-zamora-asistencias</link>
+        <pubDate>Wed, 01 Oct 2025 09:20:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 7. kolejce La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>Królewscy wrócili do Madrytu o 8 rano i mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/143003-krolewscy-wrocili-do-madrytu-o-8-rano-i-maja-dzis-wolne</link>
+        <pubDate>Wed, 01 Oct 2025 08:55:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>L’Équipe: Liverpool złożył Konaté nową ofertę przedłużenia umowy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/142989-fran-garcia-czerpiemy-z-goli-kyliana-a-on-czerpie-z-formy-calej-druzyny</link>
         <pubDate>Tue, 30 Sep 2025 21:19:00 GMT</pubDate>
         <description>Fran García udzielił wywiadu mediom po wygranym 5:0 meczu z Kajratem Ałmaty. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kajrat Ałmaty 0:5 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/142988-kajrat-almaty-0-5-real-madryt-video</link>
-        <pubDate>Tue, 30 Sep 2025 21:10:00 GMT</pubDate>
-        <description>W meczu 2. kolejki fazy ligowej Champions League Real Madryt wygrał na wyjeździe z Kajratem Ałmaty 5:0 po golach Kyliana Mbappé (3), Eduardo Camavingi i Brahima Díaza.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Trzeba iść dalej, mając w pamięci to, co wydarzyło się w ten weekend</title>
-        <link>https://www.realmadryt.pl/news/142987-mbappe-trzeba-isc-dalej-majac-w-pamieci-to-co-wydarzylo-sie-w-ten-weekend</link>
-        <pubDate>Tue, 30 Sep 2025 20:55:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielił wywiadu dla telewizji Movistar+ po wygranym 5:0 meczu Ligi Mistrzów z Kajratem Ałmaty. Przedstawiamy wypowiedzi napastnika Realu Madryt.</description>
     </item>
     
 </channel>
