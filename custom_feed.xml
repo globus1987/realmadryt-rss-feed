@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Oct 2025 13:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 13:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim chce więcej</title>
+        <link>https://www.realmadryt.pl/news/143036-brahim-chce-wiecej</link>
+        <pubDate>Thu, 02 Oct 2025 15:42:00 GMT</pubDate>
+        <description>Pomocnik wierzy, że może być podstawowym graczem Realu.</description>
+    </item>
     
     <item>
         <title>Zmartwienia Bellinghama</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143027-hiszpania-u-20-dalej-bez-zwyciestwa-skrot</link>
         <pubDate>Thu, 02 Oct 2025 10:14:00 GMT</pubDate>
         <description>Hiszpania U-20 zdobyła tylko jeden punkt w dwóch meczach na mistrzostwach świata. W ostatniej kolejce zagra o awans z Brazylią.</description>
-    </item>
-    
-    <item>
-        <title>Urugwaj może zwolnić Valverde z październikowych meczów towarzyskich</title>
-        <link>https://www.realmadryt.pl/news/143025-urugwaj-moze-zwolnic-valverde-z-pazdziernikowych-meczow-towarzyskich</link>
-        <pubDate>Thu, 02 Oct 2025 09:48:00 GMT</pubDate>
-        <description>Spotkania zostaną rozegrane w Malezji i niewykluczone, że piłkarz Realu Madryt nie będzie musiał lecieć na zgrupowanie reprezentacji.</description>
     </item>
     
 </channel>
