@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Oct 2025 08:53:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 09:25:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Valverde się pomylił”</title>
+        <link>https://www.realmadryt.pl/news/143028-valverde-sie-pomylil</link>
+        <pubDate>Thu, 02 Oct 2025 11:16:00 GMT</pubDate>
+        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprawdzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat sytuacji Fede Valverde.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: Postaramy się za każdym razem prezentować lepszą wersję naszej drużyny</title>
+        <link>https://www.realmadryt.pl/news/143020-scariolo-postaramy-sie-za-kazdym-razem-prezentowac-lepsza-wersje-naszej-druzyny</link>
+        <pubDate>Thu, 02 Oct 2025 11:13:00 GMT</pubDate>
+        <description>Sergio Scariolo i David Krämer rozmawiali z klubowymi mediami przed spotkaniem z Olympiakosem w Eurolidze. Trener przypominał, że drużyna potrzebuje jeszcze czasu na zgranie się.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 2 października</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143023-dzisiejsze-okladki</link>
         <pubDate>Thu, 02 Oct 2025 00:57:00 GMT</pubDate>
         <description>Oświadczenie Federico Valverde i porażka Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Valverde dwa tygodnie temu: Ustaliliśmy z trenerem, że nie wrócę na prawą obronę</title>
-        <link>https://www.realmadryt.pl/news/143014-valverde-dwa-tygodnie-temu-ustalilismy-z-trenerem-ze-nie-wroce-na-prawa-obrone</link>
-        <pubDate>Thu, 02 Oct 2025 00:04:00 GMT</pubDate>
-        <description>Sytuacja wokół Federico Valverde i jego niechęci do gry na prawej obronie rozgrzała środowisko Realu Madryt po wygranej nad Kajratem Ałmaty. Dla pełnego kontekstu przedstawiamy wypowiedzi Urugwajczyka w tej sprawie z ostatnich dwóch tygodni.</description>
-    </item>
-    
-    <item>
-        <title>Trzech graczy Realu powołanych na zgrupowanie Brazylii w Azji</title>
-        <link>https://www.realmadryt.pl/news/143016-trzech-graczy-realu-powolanych-na-zgrupowanie-brazylii-w-azji</link>
-        <pubDate>Wed, 01 Oct 2025 20:28:00 GMT</pubDate>
-        <description>Brazylijczycy zakończyli już eliminacje do mundialu. Teraz rozegrają sparingi... w Azji.</description>
     </item>
     
 </channel>
