@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Oct 2025 03:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 03:40:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo naciska na Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/143019-rodrygo-naciska-na-viniciusa</link>
+        <pubDate>Thu, 02 Oct 2025 05:30:00 GMT</pubDate>
+        <description>Rodrygo pokazał się z dobrej strony w trakcie 20 minut, jakie otrzymał w meczu z Kajratem Ałmaty. Brazylijczyk naciska na Viníciusa i staje się pełnoprawną opcją na lewe skrzydło.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143007-vinicius-i-valverde-wystawiaja-xabiego-alonso-na-probe</link>
         <pubDate>Wed, 01 Oct 2025 13:15:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat znaczenia Fede Valverde i Viníciusa dla Xabiego Alonso. Przedstawiamy refleksje dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé w rytmie Cristiano</title>
-        <link>https://www.realmadryt.pl/news/143004-mbappe-w-rytmie-cristiano</link>
-        <pubDate>Wed, 01 Oct 2025 12:30:00 GMT</pubDate>
-        <description>13 goli w pierwszych 9 meczach sezonu Francuza.</description>
     </item>
     
 </channel>
