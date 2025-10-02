@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Oct 2025 07:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 08:32:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 2 października</title>
+        <link>https://www.realmadryt.pl/news/143026-kartka-z-kalendarza-2-pazdziernika</link>
+        <pubDate>Thu, 02 Oct 2025 10:20:00 GMT</pubDate>
+        <description>Urodziny byłego bramkarza i mecze Ligi Mistrzów. Co działo się 2 października?</description>
+    </item>
+    
+    <item>
+        <title>Hiszpania U-20 dalej bez zwycięstwa [SKRÓT]</title>
+        <link>https://www.realmadryt.pl/news/143027-hiszpania-u-20-dalej-bez-zwyciestwa-skrot</link>
+        <pubDate>Thu, 02 Oct 2025 10:14:00 GMT</pubDate>
+        <description>Hiszpania U-20 zdobyła tylko jeden punkt w dwóch meczach na mistrzostwach świata. W ostatniej kolejce zagra o awans z Brazylią.</description>
+    </item>
     
     <item>
         <title>Urugwaj może zwolnić Valverde z październikowych meczów towarzyskich</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143016-trzech-graczy-realu-powolanych-na-zgrupowanie-brazylii-w-azji</link>
         <pubDate>Wed, 01 Oct 2025 20:28:00 GMT</pubDate>
         <description>Brazylijczycy zakończyli już eliminacje do mundialu. Teraz rozegrają sparingi... w Azji.</description>
-    </item>
-    
-    <item>
-        <title>Środowe mecze Ligi Mistrzów: Barça gorsza od PSG, a Villarreal zremisował z Juventusem</title>
-        <link>https://www.realmadryt.pl/news/143015-srodowe-mecze-ligi-mistrzow-barca-gorsza-od-psg-a-villarreal-zremisowal-z-juventusem</link>
-        <pubDate>Wed, 01 Oct 2025 20:00:00 GMT</pubDate>
-        <description>Ostatecznie po drugiej kolejce komplet punktów ma sześć ekip, wśród nich wiceliderujący Królewscy.</description>
-    </item>
-    
-    <item>
-        <title>Güler Najlepszym Piłkarzem U-23 La Ligi we wrześniu</title>
-        <link>https://www.realmadryt.pl/news/143013-gueler-najlepszym-pilkarzem-u-23-la-ligi-we-wrzesniu</link>
-        <pubDate>Wed, 01 Oct 2025 18:33:00 GMT</pubDate>
-        <description>Turek zdobył we wrześniu dwie bramki i zapisał na swoim koncie dwie asysty, dzięki czemu został wybrany najlepszym piłkarzem La Ligi do lat 23.</description>
     </item>
     
 </channel>
