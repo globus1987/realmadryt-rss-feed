@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Oct 2025 09:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 09:41:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Carvajal celuje w Klasyk</title>
+        <link>https://www.realmadryt.pl/news/143029-as-carvajal-celuje-w-klasyk</link>
+        <pubDate>Thu, 02 Oct 2025 11:30:00 GMT</pubDate>
+        <description>W Valdebebas panuje optymizm, że Hiszpan wróci szybciej niż zakładano.</description>
+    </item>
     
     <item>
         <title>„Valverde się pomylił”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143019-rodrygo-naciska-na-viniciusa</link>
         <pubDate>Thu, 02 Oct 2025 05:30:00 GMT</pubDate>
         <description>Rodrygo pokazał się z dobrej strony w trakcie 20 minut, jakie otrzymał w meczu z Kajratem Ałmaty. Brazylijczyk naciska na Viníciusa i staje się pełnoprawną opcją na lewe skrzydło.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143023-dzisiejsze-okladki</link>
-        <pubDate>Thu, 02 Oct 2025 00:57:00 GMT</pubDate>
-        <description>Oświadczenie Federico Valverde i porażka Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
