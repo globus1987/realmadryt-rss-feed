@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 02 Oct 2025 07:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 07:39:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trudny sprawdzian dla koszykarzy</title>
+        <link>https://www.realmadryt.pl/news/143021-trudny-sprawdzian-dla-koszykarzy</link>
+        <pubDate>Thu, 02 Oct 2025 09:30:00 GMT</pubDate>
+        <description>W 2. kolejce Euroligi Real Madryt zagra z Olympiakosem. Królewscy debiutują przed własną publicznością i będą próbowali rozwiać pierwsze wątpliwości, które pojawiły się wokół zespołu.</description>
+    </item>
     
     <item>
         <title>Jaime Barroso puka do drzwi Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143012-oficjalnie-kibice-atletico-rzucili-przedmiotem-na-murawe-a-fani-realu-obrazali-simeone</link>
         <pubDate>Wed, 01 Oct 2025 17:09:00 GMT</pubDate>
         <description>La Liga zgłosiła dziesięć nienawistnych zachowań z sobotnich derbów Madrytu. Połowa należy do fanów Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 11. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/143011-terminarz-11-kolejki-la-ligi</link>
-        <pubDate>Wed, 01 Oct 2025 16:43:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 11. kolejki, w której Królewscy zagrają u siebie z Valencią.</description>
     </item>
     
 </channel>
