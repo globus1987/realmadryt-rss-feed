@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Oct 2025 06:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 06:54:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Opta zmieniła swojego faworyta do wygrania Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/143043-opta-zmienila-swojego-faworyta-do-wygrania-ligi-mistrzow</link>
+        <pubDate>Fri, 03 Oct 2025 08:40:00 GMT</pubDate>
+        <description>Firma analityczna zaktualizowała swoje słynne wyliczenia dotyczące zwycięzcy Ligi Mistrzów. Królewscy na razie nie są uważani za największych faworytów.</description>
+    </item>
     
     <item>
         <title>The Athletic: Alisson nie zagra z Realem Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143037-kolejne-testy-mappingu-na-fasadzie-bernabeu-video</link>
         <pubDate>Thu, 02 Oct 2025 17:31:00 GMT</pubDate>
         <description>Real Madryt wciąż pracuje nad nowym Santiago Bernabéu. Teraz w największym stopniu widać to po testach fasady.</description>
-    </item>
-    
-    <item>
-        <title>Brahim chce więcej</title>
-        <link>https://www.realmadryt.pl/news/143036-brahim-chce-wiecej</link>
-        <pubDate>Thu, 02 Oct 2025 15:42:00 GMT</pubDate>
-        <description>Pomocnik wierzy, że może być podstawowym graczem Realu.</description>
     </item>
     
 </channel>
