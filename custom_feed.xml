@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Oct 2025 11:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 12:50:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Villarreal</title>
+        <link>https://www.realmadryt.pl/news/143059-kadra-na-villarreal</link>
+        <pubDate>Fri, 03 Oct 2025 14:47:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Villarrealem. Bask powołał 22 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Nikt nigdy nie powiedział mi, że nie chce grać na jakiejś pozycji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143043-opta-zmienila-swojego-faworyta-do-wygrania-ligi-mistrzow</link>
         <pubDate>Fri, 03 Oct 2025 08:40:00 GMT</pubDate>
         <description>Firma analityczna zaktualizowała swoje słynne wyliczenia dotyczące zwycięzcy Ligi Mistrzów. Królewscy na razie nie są uważani za największych faworytów.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Alisson nie zagra z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/143048-the-athletic-alisson-nie-zagra-z-realem-madryt</link>
-        <pubDate>Fri, 03 Oct 2025 07:50:00 GMT</pubDate>
-        <description>Podstawowy bramkarz The Reds wypada na dłuższy czas i ma przegapić także mecz z Realem Madryt w Lidze Mistrzów.</description>
     </item>
     
 </channel>
