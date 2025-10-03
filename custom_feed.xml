@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Oct 2025 22:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 22:40:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143079-dzisiejsze-okladki</link>
+        <pubDate>Sat, 04 Oct 2025 00:30:00 GMT</pubDate>
+        <description>Powołania do reprezentacji i nadchodzący mecz Realu z Villarrealem to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Reprezentacja wycofuje Lamine'a Yamala ze zgrupowania i wbija szpilkę Barcelonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143061-courtois-powolany-do-reprezentacji</link>
         <pubDate>Fri, 03 Oct 2025 15:21:00 GMT</pubDate>
         <description>Bramkarz Realu Madryt uda się na zgrupowanie reprezentacji Belgii, którą czekają dwa mecze w ramach kwalifikacji do Mistrzostw Świata.</description>
-    </item>
-    
-    <item>
-        <title>Tuchel: Bellinghamowi po prostu brakuje rytmu</title>
-        <link>https://www.realmadryt.pl/news/143060-tuchel-bellinghamowi-po-prostu-brakuje-rytmu</link>
-        <pubDate>Fri, 03 Oct 2025 14:56:00 GMT</pubDate>
-        <description>Thomas Tuchel, selekcjoner reprezentacji Anglii, wziął udział w konferencji prasowej po ogłoszeniu kadry na najbliższe mecze swojej drużyny. Część pytań dotyczyła braku powołania dla Jude’a Bellinghama. Poniżej możecie zapoznać się z wybranymi fragmentami spotkania Niemca z mediami.</description>
     </item>
     
 </channel>
