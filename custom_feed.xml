@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 03 Oct 2025 13:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 14:23:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé zawodnikiem na Pięć Gwiazdek za wrzesień</title>
+        <link>https://www.realmadryt.pl/news/143063-mbappe-zawodnikiem-na-piec-gwiazdek-za-wrzesien</link>
+        <pubDate>Fri, 03 Oct 2025 16:06:00 GMT</pubDate>
+        <description>Francuz zwyciężył w głosowaniu fanów i został uznany za najlepszego gracza Realu Madryt w ostatnim miesiącu.</description>
+    </item>
     
     <item>
         <title>Łunin bez powołania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143052-ceballos-fizycznie-czuje-sie-duzo-lepiej</link>
         <pubDate>Fri, 03 Oct 2025 10:15:00 GMT</pubDate>
         <description>Po wczorajszym treningu Dani Ceballos udzielił krótkiego wywiadu dla klubowej telewizji, w którym podzielił się swoimi odczuciami z osiągnięcia 150 zwycięstw z Realem Madryt. Przedstawiamy wypowiedzi pomocnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 października</title>
-        <link>https://www.realmadryt.pl/news/143049-kartka-z-kalendarza-3-pazdziernika</link>
-        <pubDate>Fri, 03 Oct 2025 10:00:00 GMT</pubDate>
-        <description>Urodziny jednego z założycieli włoskiego klubu, którego nazwisko kojarzy każdy kibic na świecie, debiut legendarnego kapitana, dwie goleady zespołu prowadzonego przez José Mourinho i porażka podopiecznych Carlo Ancelottiego. Co działo się 3 października?</description>
     </item>
     
 </channel>
