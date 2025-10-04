@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Oct 2025 06:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 06:53:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guillermo Cuadra na Villarreal</title>
+        <link>https://www.realmadryt.pl/news/143078-guillermo-cuadra-na-villarreal</link>
+        <pubDate>Sat, 04 Oct 2025 08:50:00 GMT</pubDate>
+        <description>Guillermo Cuadra (Fernández) poprowadzi mecz Realu Madryt z Villarrealem. Jak dotychczas radził sobie 41-latek?</description>
+    </item>
     
     <item>
         <title>Marcelino: Real Madryt po bolesnej porażce jest bardziej niebezpieczny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143065-rafa-marin-czeka-na-starcie-z-bylym-klubem</link>
         <pubDate>Fri, 03 Oct 2025 17:01:00 GMT</pubDate>
         <description>Wychowanek Realu jest jednym z najlepszych obrońców początku tego sezonu La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Lamine Yamal kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/143064-oficjalnie-lamine-yamal-kontuzjowany</link>
-        <pubDate>Fri, 03 Oct 2025 16:48:00 GMT</pubDate>
-        <description>Lamine Yamal ponownie jest kontuzjowany. Skrzydłowy Barcelony przegapi najbliższy mecz i nie uda się także na zgrupowanie reprezentacji Hiszpanii. Na Klasyk powinien być jednak gotowy.</description>
     </item>
     
 </channel>
