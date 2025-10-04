@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Oct 2025 07:38:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 07:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niesamowity duet</title>
+        <link>https://www.realmadryt.pl/news/143081-niesamowity-duet</link>
+        <pubDate>Sat, 04 Oct 2025 09:47:00 GMT</pubDate>
+        <description>Arda jest najlepszym partnerem Kyliana. W tym sezonie Turek zaliczył już pięć asyst przy trafieniach Francuza.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 4 października</title>
+        <link>https://www.realmadryt.pl/news/143077-kartka-z-kalendarza-4-pazdziernika</link>
+        <pubDate>Sat, 04 Oct 2025 09:40:00 GMT</pubDate>
+        <description>Urodziny byłego zawodnika, trenera i działacza w jednej osobie, ogranie Francuzów z udziałem Raymonda Kopy, hołd dla Juanito i pamiętne starcie Navasa z Marcelo. Co działo się 4 października?</description>
+    </item>
     
     <item>
         <title>Marcelino tylko raz wygrał z Realem na Bernabéu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143069-kylian-mbappe-pilkarzem-miesiaca-la-ligi</link>
         <pubDate>Fri, 03 Oct 2025 18:38:00 GMT</pubDate>
         <description>Napastnik Realu strzela ostatnio w prawie każdym meczu.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono powołany do reprezentacji Argentyny</title>
-        <link>https://www.realmadryt.pl/news/143067-mastantuono-powolany-do-reprezentacji-argentyny</link>
-        <pubDate>Fri, 03 Oct 2025 18:25:00 GMT</pubDate>
-        <description>Selekcjoner reprezentacji Argentyny ponownie znalazł miejsce wśród powołanych dla Franco Mastantuono. Atakujący Realu Madryt będzie mógł powiększyć swój dorobek występów w kadrze.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Villarrealu na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/143066-kadra-villarrealu-na-mecz-z-realem</link>
-        <pubDate>Fri, 03 Oct 2025 18:05:00 GMT</pubDate>
-        <description>Trener Villarrealu nie będzie mógł w dalszym ciągu liczyć na kilku ważnych zawodników. Do Madrytu nie przyjadą między innymi Juan Foyth, Ayoze Pérez czy Gerard Moreno.</description>
     </item>
     
 </channel>
