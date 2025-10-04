@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Oct 2025 18:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 19:16:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Villarreal [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/143097-real-madryt-villarreal-live</link>
+        <pubDate>Sat, 04 Oct 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa domowy mecz Realu Madryt z Villarrealem w ramach 8. kolejki La Ligi.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Villarrealem [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143082-plan-naprawczy</link>
         <pubDate>Sat, 04 Oct 2025 11:30:00 GMT</pubDate>
         <description>Po pierwsze nie zepsuć bardziej. Potem może uda się nawet coś naprawić.</description>
-    </item>
-    
-    <item>
-        <title>Mikautadze, następca Forlána i Rossiego</title>
-        <link>https://www.realmadryt.pl/news/143085-mikautadze-nastepca-forlana-i-rossiego</link>
-        <pubDate>Sat, 04 Oct 2025 11:26:00 GMT</pubDate>
-        <description>Georges Mikautadze jest zawodnikiem, dla którego sprowadzenia Villarreal zdecydował się pobić własny rekord transferowy. Gruzin ma zostać następcą wielkich napastników tego klubu, takich jak Forlán, Rossi czy Gerard Moreno.</description>
     </item>
     
 </channel>
