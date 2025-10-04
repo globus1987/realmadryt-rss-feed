@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Oct 2025 09:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 09:53:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick zostaje sam</title>
+        <link>https://www.realmadryt.pl/news/143086-endrick-zostaje-sam</link>
+        <pubDate>Sat, 04 Oct 2025 11:44:00 GMT</pubDate>
+        <description>Endrick jest jedynym zdrowym zawodnikiem z pola, który nie zadebiutował jeszcze u Xabiego Alonso. Brazylijski napastnik ma za sobą w sumie 137 dni bez oficjalnego meczu.</description>
+    </item>
     
     <item>
         <title>Plan naprawczy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143076-real-madryt-villarreal-przewidywane-sklady</link>
         <pubDate>Sat, 04 Oct 2025 06:00:00 GMT</pubDate>
         <description>Real Madryt rozegra dzisiaj kolejne spotkanie i tym razem zmierzy się z Villarrealem. Dziś również należy spodziewać się zmian w wyjściowej jedenastce, choć trudno nazwać to rotacją.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Wszyscy będą ważni, każdy będzie miał swój moment</title>
-        <link>https://www.realmadryt.pl/news/143071-xabi-alonso-wszyscy-beda-wazni-kazdy-bedzie-mial-swoj-moment</link>
-        <pubDate>Sat, 04 Oct 2025 02:30:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Villarrealem w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
