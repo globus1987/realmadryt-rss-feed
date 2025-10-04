@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Oct 2025 15:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 15:39:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz złych wspomnień</title>
+        <link>https://www.realmadryt.pl/news/143092-mecz-zlych-wspomnien</link>
+        <pubDate>Sat, 04 Oct 2025 17:35:00 GMT</pubDate>
+        <description>Trzy ostatnie wizyty Villarrealu na Santiago Bernabéu pełne były złych i kontrowersyjnych zdarzeń. Od incydentu Fede Valverde z Álexem Baeną po poważne kontuzje Davida Alaby i Daniego Carvajala.</description>
+    </item>
     
     <item>
         <title>Flick: Nie wiemy, czy Lamine będzie mógł zagrać w Klasyku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143073-guardiola-rodri-prosze-spojrzec-co-stalo-sie-z-carvajalem-w-realu</link>
         <pubDate>Sat, 04 Oct 2025 10:30:00 GMT</pubDate>
         <description>Pep Guardiola wziął udział w konferencji prasowej przed meczem z Brentfordem i odniósł się do kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Niesamowity duet</title>
-        <link>https://www.realmadryt.pl/news/143081-niesamowity-duet</link>
-        <pubDate>Sat, 04 Oct 2025 09:47:00 GMT</pubDate>
-        <description>Arda jest najlepszym partnerem Kyliana. W tym sezonie Turek zaliczył już pięć asyst przy trafieniach Francuza.</description>
     </item>
     
 </channel>
