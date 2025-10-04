@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 04 Oct 2025 09:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Oct 2025 09:38:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan naprawczy</title>
+        <link>https://www.realmadryt.pl/news/143082-plan-naprawczy</link>
+        <pubDate>Sat, 04 Oct 2025 11:30:00 GMT</pubDate>
+        <description>Po pierwsze nie zepsuć bardziej. Potem może uda się nawet coś naprawić.</description>
+    </item>
+    
+    <item>
+        <title>Mikautadze, następca Forlána i Rossiego</title>
+        <link>https://www.realmadryt.pl/news/143085-mikautadze-nastepca-forlana-i-rossiego</link>
+        <pubDate>Sat, 04 Oct 2025 11:26:00 GMT</pubDate>
+        <description>Georges Mikautadze jest zawodnikiem, dla którego sprowadzenia Villarreal zdecydował się pobić własny rekord transferowy. Gruzik ma zostać następcą wielkich napastników tego klubu, takich jak Forlán, Rossi czy Gerard Moreno.</description>
+    </item>
     
     <item>
         <title>Gonzalo powołany do młodzieżowej reprezentacji Hiszpanii</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143071-xabi-alonso-wszyscy-beda-wazni-kazdy-bedzie-mial-swoj-moment</link>
         <pubDate>Sat, 04 Oct 2025 02:30:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Villarrealem w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143079-dzisiejsze-okladki</link>
-        <pubDate>Sat, 04 Oct 2025 00:30:00 GMT</pubDate>
-        <description>Powołania do reprezentacji i nadchodzący mecz Realu z Villarrealem to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Reprezentacja wycofuje Lamine'a Yamala ze zgrupowania i wbija szpilkę Barcelonie</title>
-        <link>https://www.realmadryt.pl/news/143074-reprezentacja-wycofuje-laminea-yamala-ze-zgrupowania-i-wbija-szpilke-barcelonie</link>
-        <pubDate>Fri, 03 Oct 2025 22:11:00 GMT</pubDate>
-        <description>Hiszpański reprezentant Barcelony nie zagra w meczach z Gruzją i Bułgarią.</description>
     </item>
     
 </channel>
