@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 06:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 07:20:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historia nieszczęśliwej miłości Achrafa i Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/143112-historia-nieszczesliwej-milosci-achrafa-i-realu-madryt</link>
+        <pubDate>Sun, 05 Oct 2025 09:18:00 GMT</pubDate>
+        <description>Minęło pięć lat od odejścia obrońcy, ale jego pragnienie powrotu pozostaje. Niemożliwa do wygrania rywalizacja z Carvajalem i potrzeba zarobku przez Real były powodami sprzedaży Hakimiego.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: W derbach zagraliśmy źle, ale kiedy grasz co trzy dni, to kolejne mecze przychodzą bardzo szybko</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143101-vinicius-chce-osiagac-za-kazdym-razem-coraz-wiecej</link>
         <pubDate>Sat, 04 Oct 2025 23:11:00 GMT</pubDate>
         <description>Vinícius Júnior udzielił wywiadu z murawy dla klubowej telewizji po wygranym 3:1 meczu z Villarrealem. Przedstawiamy wypowiedzi napastnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/143098-vinicius-mvp-meczu-z-villarrealem</link>
-        <pubDate>Sat, 04 Oct 2025 23:02:00 GMT</pubDate>
-        <description>Vinícius Júnior został wyróżniony po domowym meczu Realu Madryt z Villarrealem.</description>
     </item>
     
 </channel>
