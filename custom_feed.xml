@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 13:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 14:19:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po przełamanie złej passy</title>
+        <link>https://www.realmadryt.pl/news/143124-po-przelamanie-zlej-passy</link>
+        <pubDate>Sun, 05 Oct 2025 16:00:00 GMT</pubDate>
+        <description>W 6. kolejce Primera Federación Castilla zagra na wyjeździe z Ponferradiną. Oba zespoły mają za sobą passę czterech meczów bez wygranej i ich celem jest ucieczka ze strefy spadkowej.</description>
+    </item>
     
     <item>
         <title>Sevilla – Barcelona: Katalończycy chcą odzyskać pozycję lidera [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143114-nielatwo-jest-jednoczesnie-wygrywac-i-przekonywac-wszystkich</link>
         <pubDate>Sun, 05 Oct 2025 10:57:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat meczu Realu Madryt z Villarrealem. Przedstawiamy refleksje dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 5 października</title>
-        <link>https://www.realmadryt.pl/news/143113-kartka-z-kalendarza-5-pazdziernika</link>
-        <pubDate>Sun, 05 Oct 2025 10:11:00 GMT</pubDate>
-        <description>Spektakularna remontada po bardzo kiepskim meczu w Walencji, dwa triumfy koszykarzy i kontuzja Carvajala. Co działo się 5 października?</description>
     </item>
     
 </channel>
