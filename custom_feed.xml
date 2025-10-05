@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 08:27:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 5 października</title>
+        <link>https://www.realmadryt.pl/news/143113-kartka-z-kalendarza-5-pazdziernika</link>
+        <pubDate>Sun, 05 Oct 2025 10:11:00 GMT</pubDate>
+        <description>Spektakularna remontada po bardzo kiepskim meczu w Walencji, dwa triumfy koszykarzy i kontuzja Carvajala. Co działo się 5 października?</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: O karnym zdecydowali zawodnicy, ale pierwszym wykonawcą jest Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143103-dazn-pierwsze-odczucia-ws-urazu-mbappe-sa-dobre</link>
         <pubDate>Sat, 04 Oct 2025 23:21:00 GMT</pubDate>
         <description>Poznaliśmy pierwszej informacje w sprawie możliwego urazu Francuza.</description>
-    </item>
-    
-    <item>
-        <title>Comesaña: Aby podyktować taki rzut karny, potrzeba czegoś więcej</title>
-        <link>https://www.realmadryt.pl/news/143102-comesana-aby-podyktowac-taki-rzut-karny-potrzeba-czegos-wiecej</link>
-        <pubDate>Sat, 04 Oct 2025 23:14:00 GMT</pubDate>
-        <description>Santi Comesaña udzielił wywiadu dla DAZN po przegranym 1:3 meczu z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi piłkarza Villarrealu.</description>
     </item>
     
 </channel>
