@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 21:53:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 22:21:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143136-dzisiejsze-okladki</link>
+        <pubDate>Mon, 06 Oct 2025 00:11:00 GMT</pubDate>
+        <description>Porażka Barcelony to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé jest już we Francji, gdzie obejrzał gola swojego brata przeciwko PSG [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143120-dostepni-pilkarze-otrzymali-dzien-wolny</link>
         <pubDate>Sun, 05 Oct 2025 14:13:00 GMT</pubDate>
         <description>Spora część zawodników Realu Madryt wyjeżdża na zgrupowania swoich reprezentacji, a Xabi Alonso wróci do pracy z dostępnymi zawodnikami jutro o godzinie 11:00.</description>
-    </item>
-    
-    <item>
-        <title>Foyth: Jeśli powiem, co myślę, to mnie zawieszą</title>
-        <link>https://www.realmadryt.pl/news/143119-foyth-jesli-powiem-co-mysle-to-mnie-zawiesza</link>
-        <pubDate>Sun, 05 Oct 2025 13:10:00 GMT</pubDate>
-        <description>Nieobecny defensor Villarrealu skomentował pracę sędziów wczorajszego meczu z Realem Madryt za pośrednictwem mediów społecznościowych.</description>
     </item>
     
 </channel>
