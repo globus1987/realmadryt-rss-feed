@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 05:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 06:33:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carreras: Mój styl gry zależy od tego, z kim się mierzymy</title>
+        <link>https://www.realmadryt.pl/news/143111-carreras-moj-styl-gry-zalezy-od-tego-z-kim-sie-mierzymy</link>
+        <pubDate>Sun, 05 Oct 2025 08:29:00 GMT</pubDate>
+        <description>Lewy defensor Realu Madryt po spotkaniu z Villarrealem udzielił wywiadu klubowej telewizji. Przedstawiamy, co miał do powiedzenia.</description>
+    </item>
     
     <item>
         <title>Początek walki o obronę tytułu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143096-ocen-pilkarzy-po-meczu-z-villarrealem</link>
         <pubDate>Sat, 04 Oct 2025 22:58:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Powrót do względnej normalności</title>
-        <link>https://www.realmadryt.pl/news/143097-powrot-do-wzglednej-normalnosci</link>
-        <pubDate>Sat, 04 Oct 2025 20:55:00 GMT</pubDate>
-        <description>W meczu 8. kolejki La Ligi Real Madryt wygrał z Villarrealem 3:1 po golach Viníciusa Júniora (dwóch) i Kyliana Mbappé.</description>
     </item>
     
 </channel>
