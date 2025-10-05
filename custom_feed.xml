@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 11:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 12:45:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejna parada do oprawienia w ramkę</title>
+        <link>https://www.realmadryt.pl/news/143121-kolejna-parada-do-oprawienia-w-ramke</link>
+        <pubDate>Sun, 05 Oct 2025 14:36:00 GMT</pubDate>
+        <description>Belg uratował Królewskich, gdy na tablicy widniał bezbramkowy remis.</description>
+    </item>
+    
+    <item>
+        <title>Dostępni piłkarze otrzymali dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/143120-dostepni-pilkarze-otrzymali-dzien-wolny</link>
+        <pubDate>Sun, 05 Oct 2025 14:13:00 GMT</pubDate>
+        <description>Spora część zawodników Realu Madryt wyjeżdża na zgrupowania swoich reprezentacji, a Xabi Alonso wróci do pracy z dostępnymi zawodnikami jutro o godzinie 11:00.</description>
+    </item>
     
     <item>
         <title>Foyth: Jeśli powiem, co myślę, to mnie zawieszą</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143112-historia-nieszczesliwej-milosci-achrafa-i-realu-madryt</link>
         <pubDate>Sun, 05 Oct 2025 09:18:00 GMT</pubDate>
         <description>Minęło pięć lat od odejścia obrońcy, ale jego pragnienie powrotu pozostaje. Niemożliwa do wygrania rywalizacja z Carvajalem i potrzeba zarobku przez Real były powodami sprzedaży Hakimiego.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: W derbach zagraliśmy źle, ale kiedy grasz co trzy dni, to kolejne mecze przychodzą bardzo szybko</title>
-        <link>https://www.realmadryt.pl/news/143104-tchouameni-w-derbach-zagralismy-zle-ale-kiedy-grasz-co-trzy-dni-to-kolejne-mecze-przychodza-bardzo-szybko</link>
-        <pubDate>Sun, 05 Oct 2025 08:40:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni udzielił wywiadu klubowej telewizji po wygranym 3:1 meczu z Villarrealem na Santiago Bernabéu. Przedstawiamy wypowiedzi piłkarza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Carreras: Mój styl gry zależy od tego, z kim się mierzymy</title>
-        <link>https://www.realmadryt.pl/news/143111-carreras-moj-styl-gry-zalezy-od-tego-z-kim-sie-mierzymy</link>
-        <pubDate>Sun, 05 Oct 2025 08:29:00 GMT</pubDate>
-        <description>Lewy defensor Realu Madryt po spotkaniu z Villarrealem udzielił wywiadu klubowej telewizji. Przedstawiamy, co miał do powiedzenia.</description>
     </item>
     
 </channel>
