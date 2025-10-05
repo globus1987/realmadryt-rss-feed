@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 09:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 09:39:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Abalde: Obrona musi być kluczowa</title>
+        <link>https://www.realmadryt.pl/news/143116-abalde-obrona-musi-byc-kluczowa</link>
+        <pubDate>Sun, 05 Oct 2025 11:30:00 GMT</pubDate>
+        <description>Alberto Abalde wypowiadał się dla klubowej telewizji przed meczem z Gran Canarią na inaugurację Ligi Endesa. Podkreślał, że kluczową rolę musi odegrać defensywa.</description>
+    </item>
     
     <item>
         <title>Nadal: Porażka w derbach była wysoka, ale wszyscy odebrali ją tak, jakby to był koniec świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143107-dzisiejsze-okladki</link>
         <pubDate>Sun, 05 Oct 2025 00:40:00 GMT</pubDate>
         <description>Wygrana Realu Madryt, mecz Barcelony i kontuzja Lamine'a Yamala to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Bardzo podobała mi się gra Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/143105-xabi-alonso-bardzo-podobala-mi-sie-gra-viniciusa</link>
-        <pubDate>Sat, 04 Oct 2025 23:51:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu klubowej telewizji po wygranym 3:1 meczu z Villarrealem na Santiago Bernabéu. Przedstawiamy wypowiedzi trenera Królewskich.</description>
     </item>
     
 </channel>
