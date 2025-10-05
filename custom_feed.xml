@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 05 Oct 2025 20:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 20:40:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Niektóre rzeczy zrobiliśmy bardzo dobrze, a inne wymagają poprawy</title>
+        <link>https://www.realmadryt.pl/news/143131-scariolo-niektore-rzeczy-zrobilismy-bardzo-dobrze-a-inne-wymagaja-poprawy</link>
+        <pubDate>Sun, 05 Oct 2025 22:35:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował krótko wygrane spotkanie z Gran Canarią. Przyznał, że jego podopieczni nieco za szybko uznali ten mecz za wygrany.</description>
+    </item>
     
     <item>
         <title>Przełamanie Castilli, znakomity Palacios</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143110-marcelino-nie-bede-sie-wypowiadal-o-arbitrze</link>
         <pubDate>Sun, 05 Oct 2025 12:04:00 GMT</pubDate>
         <description>Trener Villarrealu, Marcelino García Toral, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/143117-oceny-zawodnikow-po-meczu-z-villarrealem</link>
-        <pubDate>Sun, 05 Oct 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał 3:1 z Villarrealem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek</description>
     </item>
     
 </channel>
