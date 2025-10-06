@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Oct 2025 21:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 22:22:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143154-dzisiejsze-okladki</link>
+        <pubDate>Tue, 07 Oct 2025 00:01:00 GMT</pubDate>
+        <description>Wywiad z Rodrygo i echa porażek Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Partnerka Mouriño: Uciekam z Bernabéu, zanim mnie okradną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143138-podcast-7x10-co-z-fede-valverde</link>
         <pubDate>Mon, 06 Oct 2025 14:20:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po ostatnich zwycięstwach.</description>
-    </item>
-    
-    <item>
-        <title>Dostępni piłkarze trenowali w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/143139-dostepni-pilkarze-trenowali-w-valdebebas</link>
-        <pubDate>Mon, 06 Oct 2025 14:12:00 GMT</pubDate>
-        <description>Dostępni zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli pracę w tygodniu przeznaczonym dla reprezentacji.</description>
     </item>
     
 </channel>
