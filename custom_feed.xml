@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Oct 2025 05:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 05:54:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/143135-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 06 Oct 2025 07:50:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 8. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Rodri nabawił się kolejnej kontuzji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143122-8-kolejka-barca-rozbita-lewandowski-marnuje-kluczowego-karnego-real-liderem-video</link>
         <pubDate>Sun, 05 Oct 2025 15:06:00 GMT</pubDate>
         <description>Katalończycy grali w Andaluzji z jasnym celem odzyskania pozycji lidera, ale źle rozpoczęli mecz i zapłacili za to drogą cenę.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo na inaugurację ligi</title>
-        <link>https://www.realmadryt.pl/news/143123-zwyciestwo-na-inauguracje-ligi</link>
-        <pubDate>Sun, 05 Oct 2025 14:52:00 GMT</pubDate>
-        <description>Real Madryt pokonał Gran Canarię w 1. kolejce Ligi Endesa. Królewscy prowadzili niemal przez cały czas rywalizacji i zasłużenie odnieśli zwycięstwo.</description>
     </item>
     
 </channel>
