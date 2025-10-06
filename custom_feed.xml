@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Oct 2025 17:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 17:54:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé pracował z fizjoterapeutami reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/143148-mbappe-pracowal-z-fizjoterapeutami-reprezentacji</link>
+        <pubDate>Mon, 06 Oct 2025 19:41:00 GMT</pubDate>
+        <description>Atakujący na razie pozostaje poza treningami reprezentacji. Kolejne informacje w jego sprawie możemy otrzymać jutro.</description>
+    </item>
     
     <item>
         <title>Obrona, która daje spokój</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143075-37-oficjalny-zlot-kibicow-realu-madryt-w-polsce-gliwice-2025</link>
         <pubDate>Mon, 06 Oct 2025 13:25:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 6 października</title>
-        <link>https://www.realmadryt.pl/news/143134-kartka-z-kalendarza-6-pazdziernika</link>
-        <pubDate>Mon, 06 Oct 2025 10:20:00 GMT</pubDate>
-        <description>Urodziny byłego zawodnika, debiut jednego z najlepszych napastników w historii, dotkliwa porażka i wyjątkowy mecz kobiet. Co działo się 6 października?</description>
     </item>
     
 </channel>
