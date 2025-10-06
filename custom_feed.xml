@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Oct 2025 22:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 22:40:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo cz.1: Byłem dogadany z Barceloną… ale zadzwonił Real Madryt</title>
+        <link>https://www.realmadryt.pl/news/143155-rodrygo-cz-1-bylem-dogadany-z-barcelona-ale-zadzwonil-real-madryt</link>
+        <pubDate>Tue, 07 Oct 2025 00:39:00 GMT</pubDate>
+        <description>Rodrygo Goes udzielił wywiadu Tomásowi Roncero z Asa, przebywając na zgrupowaniu reprezentacji Brazylii w Seulu w Korei Południowej. Przedstawiamy pierwszą część jego tłumaczenia.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143140-fede-valverde-bez-powolania-do-reprezentacji</link>
         <pubDate>Mon, 06 Oct 2025 14:48:00 GMT</pubDate>
         <description>Selekcjoner reprezentacji Urugwaju ogłosił listę powołanych na mecze towarzyskie z Dominikaną i Uzbekistanem. W kadrze nie ma Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x10: Co z Fede Valverde?</title>
-        <link>https://www.realmadryt.pl/news/143138-podcast-7x10-co-z-fede-valverde</link>
-        <pubDate>Mon, 06 Oct 2025 14:20:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po ostatnich zwycięstwach.</description>
     </item>
     
 </channel>
