@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Oct 2025 17:22:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 17:41:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obrona, która daje spokój</title>
+        <link>https://www.realmadryt.pl/news/143147-obrona-ktora-daje-spokoj</link>
+        <pubDate>Mon, 06 Oct 2025 19:38:00 GMT</pubDate>
+        <description>Real Madryt odzyskał solidność w defensywie. Co prawda z Atlético drużyna straciła aż pięć bramek, ale w pozostałych siedmiu ligowych meczach Thibaut Courtois wyjmował piłkę z siatki tylko cztery razy.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: UEFA sprzeciwia się ligowym meczom za granicą… ale zatwierdza wnioski z Hiszpanii i Włoch</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143134-kartka-z-kalendarza-6-pazdziernika</link>
         <pubDate>Mon, 06 Oct 2025 10:20:00 GMT</pubDate>
         <description>Urodziny byłego zawodnika, debiut jednego z najlepszych napastników w historii, dotkliwa porażka i wyjątkowy mecz kobiet. Co działo się 6 października?</description>
-    </item>
-    
-    <item>
-        <title>Madryckie media potwierdzają rozmowy Superligi z UEFA</title>
-        <link>https://www.realmadryt.pl/news/143130-madryckie-media-potwierdzaja-rozmowy-superligi-z-uefa</link>
-        <pubDate>Mon, 06 Oct 2025 09:30:00 GMT</pubDate>
-        <description>Pierwsi informacje o rozmowach Superligi z UEFA podali dziennikarze zbliżeni do Barcelony. Teraz wszystko potwierdzają także media w Madrycie.</description>
     </item>
     
 </channel>
