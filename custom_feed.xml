@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 06 Oct 2025 23:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Oct 2025 23:39:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo cz.2: Miałem bardzo trudny moment, nie czułem się dobrze ani fizycznie, ani psychicznie</title>
+        <link>https://www.realmadryt.pl/news/143156-rodrygo-cz-2-mialem-bardzo-trudny-moment-nie-czulem-sie-dobrze-ani-fizycznie-ani-psychicznie</link>
+        <pubDate>Tue, 07 Oct 2025 01:35:00 GMT</pubDate>
+        <description>Rodrygo Goes udzielił wywiadu Tomásowi Roncero z Asa, przebywając na zgrupowaniu reprezentacji Brazylii w Seulu w Korei Południowej. Przedstawiamy drugą (ostatnią) część jego tłumaczenia.</description>
+    </item>
     
     <item>
         <title>Rodrygo cz.1: Byłem dogadany z Barceloną… ale zadzwonił Real Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143141-czy-trent-wroci-do-gry-juz-za-dwa-tygodnie</link>
         <pubDate>Mon, 06 Oct 2025 14:51:00 GMT</pubDate>
         <description>Internet obiegła informacja, że Anglik wróci do gry już po przerwie na reprezentacje. Niestety nie wydaje się prawdziwa. Przedstawiamy analizę tej sytuacji.</description>
-    </item>
-    
-    <item>
-        <title>Fede Valverde bez powołania do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/143140-fede-valverde-bez-powolania-do-reprezentacji</link>
-        <pubDate>Mon, 06 Oct 2025 14:48:00 GMT</pubDate>
-        <description>Selekcjoner reprezentacji Urugwaju ogłosił listę powołanych na mecze towarzyskie z Dominikaną i Uzbekistanem. W kadrze nie ma Fede Valverde.</description>
     </item>
     
 </channel>
