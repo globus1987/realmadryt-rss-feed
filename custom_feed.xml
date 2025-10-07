@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Oct 2025 22:22:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 22:41:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwiędłe kwiaty przyszłości</title>
+        <link>https://www.realmadryt.pl/news/143175-zwiedle-kwiaty-przyszlosci</link>
+        <pubDate>Wed, 08 Oct 2025 00:38:00 GMT</pubDate>
+        <description>Poniższy tekst dla portalu La Galerna napisał Antonio Valderrama. Przedstawiamy jego pełne tłumaczenie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143167-problem-ktory-mozna-bylo-przewidziec</link>
         <pubDate>Tue, 07 Oct 2025 14:49:00 GMT</pubDate>
         <description>Endrick i Gonzalo są zmuszeni do dzielenia między sobą i tak niewielkiej liczby minut. Ich sytuacja może zmienić się dopiero w zimowym okienku transferowym.</description>
-    </item>
-    
-    <item>
-        <title>Mur obronny</title>
-        <link>https://www.realmadryt.pl/news/143166-mur-obronny</link>
-        <pubDate>Tue, 07 Oct 2025 14:07:00 GMT</pubDate>
-        <description>Królewscy są najlepszą drużyną w La Lidze nie tylko od względem wyników, ale i zatrzymywania uderzeń rywali.</description>
     </item>
     
 </channel>
