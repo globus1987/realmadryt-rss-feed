@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Oct 2025 21:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 22:22:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143182-dzisiejsze-okladki</link>
+        <pubDate>Wed, 08 Oct 2025 00:18:00 GMT</pubDate>
+        <description>Plany Realu Madryt i Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hiszpania U-20 w ćwierćfinale mistrzostw świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143166-mur-obronny</link>
         <pubDate>Tue, 07 Oct 2025 14:07:00 GMT</pubDate>
         <description>Królewscy są najlepszą drużyną w La Lidze nie tylko od względem wyników, ale i zatrzymywania uderzeń rywali.</description>
-    </item>
-    
-    <item>
-        <title>El Mundo: Reforma prawa dot. koncertów na Bernabéu na razie stoi</title>
-        <link>https://www.realmadryt.pl/news/143165-el-mundo-reforma-prawa-dot-koncertow-na-bernabeu-na-razie-stoi</link>
-        <pubDate>Tue, 07 Oct 2025 14:00:00 GMT</pubDate>
-        <description>Już w czerwcu podano, że madryccy politycy pracują nad modyfikacją Prawa O Spektaklach Publicznych i Aktywnościach Rekreacyjnych, by poluzować restrykcyjne przepisy dotyczące hałasu. Celem jest zagwarantowanie efektów finansowych generowanych przez wizyty gwiazd muzyki czy wyścig F1. Teraz jednak projekt ma mieć pewne problemy.</description>
     </item>
     
 </channel>
