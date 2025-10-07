@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Oct 2025 09:26:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 09:43:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 12. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/143160-terminarz-12-kolejki-la-ligi</link>
+        <pubDate>Tue, 07 Oct 2025 11:42:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 12. kolejki, w której Królewscy zagrają na wyjeździe z Rayo Vallecano.</description>
+    </item>
+    
+    <item>
+        <title>Álvarez de Mon: Florentino dąży do modelu właścicielskiego na wzór Bayernu</title>
+        <link>https://www.realmadryt.pl/news/143159-alvarez-de-mon-florentino-dazy-do-modelu-wlascicielskiego-na-wzor-bayernu</link>
+        <pubDate>Tue, 07 Oct 2025 11:37:00 GMT</pubDate>
+        <description>Prezes Realu Madryt niezmiennie pracuje nad rewolucją własnościową klubu. Hiszpan szuka struktury, która jego zdaniem najlepiej ochroni Królewskich.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 7 października</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143149-partnerka-mourino-uciekam-z-bernabeu-zanim-mnie-okradna</link>
         <pubDate>Mon, 06 Oct 2025 20:30:00 GMT</pubDate>
         <description>Delfina Silva, partnerka Santiago Mouriño, opublikowała wpis, w którym zasugerowała, jakoby drużyna jej ukochanego została okradziona w meczu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé pracował z fizjoterapeutami reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/143148-mbappe-pracowal-z-fizjoterapeutami-reprezentacji</link>
-        <pubDate>Mon, 06 Oct 2025 19:41:00 GMT</pubDate>
-        <description>Atakujący na razie pozostaje poza treningami reprezentacji. Kolejne informacje w jego sprawie możemy otrzymać jutro.</description>
-    </item>
-    
-    <item>
-        <title>Obrona, która daje spokój</title>
-        <link>https://www.realmadryt.pl/news/143147-obrona-ktora-daje-spokoj</link>
-        <pubDate>Mon, 06 Oct 2025 19:38:00 GMT</pubDate>
-        <description>Real Madryt odzyskał solidność w defensywie. Co prawda z Atlético drużyna straciła aż pięć bramek, ale w pozostałych siedmiu ligowych meczach Thibaut Courtois wyjmował piłkę z siatki tylko cztery razy.</description>
     </item>
     
 </channel>
