@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 07 Oct 2025 15:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 15:44:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde: Dosyć mocno cieszyła mnie gra jako boczny obrońca</title>
+        <link>https://www.realmadryt.pl/news/143169-valverde-dosyc-mocno-cieszyla-mnie-gra-jako-boczny-obronca</link>
+        <pubDate>Tue, 07 Oct 2025 17:36:00 GMT</pubDate>
+        <description>Federico Valverde udzielił krótkiego wywiadu przy wyjeździe z ośrodka w Valdebebas po dzisiejszym treningu.</description>
+    </item>
     
     <item>
         <title>Trent kontra wątpliwości Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143157-kartka-z-kalendarza-7-pazdziernika</link>
         <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
         <description>Urodziny byłego piłkarza i trenera Realu Madryt oraz Klasyk z popisem strzeleckim Messiego i Cristiano. Co działo się 7 października?</description>
-    </item>
-    
-    <item>
-        <title>Happy birthday, Trent!</title>
-        <link>https://www.realmadryt.pl/news/143158-happy-birthday-trent</link>
-        <pubDate>Tue, 07 Oct 2025 10:20:00 GMT</pubDate>
-        <description>Trent Alexander-Arnold obchodzi dziś 27. urodziny. Czego życzymy Anglikowi?</description>
     </item>
     
 </channel>
