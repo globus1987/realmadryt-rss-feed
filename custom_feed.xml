@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Oct 2025 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 22:23:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143209-dzisiejsze-okladki</link>
+        <pubDate>Thu, 09 Oct 2025 00:07:00 GMT</pubDate>
+        <description>Wywiady na wyłączność i plany Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>De Jong: Wyjazd do Miami nie jest fair w kontekście rozgrywek</title>
+        <link>https://www.realmadryt.pl/news/143208-de-jong-wyjazd-do-miami-nie-jest-fair-w-kontekscie-rozgrywek</link>
+        <pubDate>Thu, 09 Oct 2025 00:01:00 GMT</pubDate>
+        <description>Trzeci kapitan Barcelony skrytykował inicjatywę z wywiezieniem wyjazdowego meczu jego drużyny z Villarrealem do Miami. Przedstawiamy jego wypowiedź ze zgrupowania reprezentacji Holandii.</description>
+    </item>
     
     <item>
         <title>Real Madryt 6:2 AS Roma [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143193-krolewskie-rozpoczynaja-faze-ligowa-ligi-mistrzyn</link>
         <pubDate>Wed, 08 Oct 2025 14:29:00 GMT</pubDate>
         <description>W meczu 1. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Romą. Początek meczu o godzinie 18:45 (transmisja na platformie Disney+).</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Huijsen z kontuzją mięśnia płaszczkowatego</title>
-        <link>https://www.realmadryt.pl/news/143192-oficjalnie-huijsen-z-kontuzja-miesnia-plaszczkowatego</link>
-        <pubDate>Wed, 08 Oct 2025 14:07:00 GMT</pubDate>
-        <description>Klub potwierdza, że Hiszpan wypada z gry.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/143191-dzisiejszy-trening</link>
-        <pubDate>Wed, 08 Oct 2025 13:00:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej.</description>
     </item>
     
 </channel>
