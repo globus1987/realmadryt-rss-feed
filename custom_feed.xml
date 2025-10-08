@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Oct 2025 17:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 17:41:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: La Liga wywozi mecz Villarrealu z Barceloną do Miami</title>
+        <link>https://www.realmadryt.pl/news/143198-oficjalnie-la-liga-wywozi-mecz-villarrealu-z-barcelona-do-miami</link>
+        <pubDate>Wed, 08 Oct 2025 19:38:00 GMT</pubDate>
+        <description>La Liga potwierdziła oficjalnie, że wywozi ligowy mecz Villarrealu z Barceloną do Miami. Przedstawiamy komunikat w tej sprawie.</description>
+    </item>
     
     <item>
         <title>The Times: Netflix i inne platformy mogą wejść do przetargów na pokazywanie Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143187-al-khelaifi-zmienia-nazwe-i-logo-europejskiego-stowarzyszenia-klubow-do-ktorego-moze-wrocic-barcelona</link>
         <pubDate>Wed, 08 Oct 2025 11:35:00 GMT</pubDate>
         <description>Sternik PSG zmienia nazwę i odświeża historyczną ECA, której jest prezesem, na EFC. Laporta w Rzymie razem z nim. Superliga się chwieje.</description>
-    </item>
-    
-    <item>
-        <title>Gerrard: Real Madryt zgłosił się po mnie, gdy trenerem był Mourinho – na serio – i uderzyło mi to do głowy</title>
-        <link>https://www.realmadryt.pl/news/143186-gerrard-real-madryt-zglosil-sie-po-mnie-gdy-trenerem-byl-mourinho-na-serio-i-uderzylo-mi-to-do-glowy</link>
-        <pubDate>Wed, 08 Oct 2025 11:01:00 GMT</pubDate>
-        <description>Steven Gerrard udzielił wywiadu Rio Ferdinandowi, który pod koniec rozmowy zapytał legendę Liverpoolu o Xabiego Alonso i Trenta.</description>
     </item>
     
 </channel>
