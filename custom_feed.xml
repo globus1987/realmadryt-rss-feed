@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Oct 2025 10:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 11:20:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/143191-dzisiejszy-trening</link>
+        <pubDate>Wed, 08 Oct 2025 13:00:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali pracę podczas przerwy reprezentacyjnej.</description>
+    </item>
     
     <item>
         <title>Militão: Myślałem o tym, żeby przestać grać w piłkę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143178-kibice-villarrealu-popieraja-wywiezienie-meczu-z-barcelona-do-miami</link>
         <pubDate>Wed, 08 Oct 2025 07:00:00 GMT</pubDate>
         <description>Zrzeszenie oficjalnych fanklubów Villarrealu wystosowało komunikat w sprawie poparcia wywiezienia meczu La Ligi z Barceloną do Stanów Zjednoczonych. W weekend ta sama grupa skarżyła się na sędziowanie w meczu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Plettenberg: Guéhi marzy o Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/143183-plettenberg-guehi-marzy-o-realu-madryt</link>
-        <pubDate>Wed, 08 Oct 2025 05:30:00 GMT</pubDate>
-        <description>Królewscy stale łączeni są szczególnie z francuskimi stoperami w kontekście wzmocnienia tej pozycji w kolejnym roku. Teraz wspomniano opcji angielskiej.</description>
     </item>
     
 </channel>
