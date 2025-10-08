@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 08 Oct 2025 11:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 12:53:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie rozpoczynają fazę ligową Ligi Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/143193-krolewskie-rozpoczynaja-faze-ligowa-ligi-mistrzyn</link>
+        <pubDate>Wed, 08 Oct 2025 14:29:00 GMT</pubDate>
+        <description>W meczu 1. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Romą. Początek meczu o godzinie 18:45 (transmisja na platformie Disney+).</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Huijsen z kontuzją mięśnia płaszczkowatego</title>
+        <link>https://www.realmadryt.pl/news/143192-oficjalnie-huijsen-z-kontuzja-miesnia-plaszczkowatego</link>
+        <pubDate>Wed, 08 Oct 2025 14:07:00 GMT</pubDate>
+        <description>Klub potwierdza, że Hiszpan wypada z gry.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143180-rodrygo-jestem-inna-osoba-z-powodu-tego-co-przeszedlem</link>
         <pubDate>Wed, 08 Oct 2025 08:40:00 GMT</pubDate>
         <description>Rodrygo Goes pojawił się na konferencji prasowej na zgrupowaniu reprezentacji Brazylii. Przedstawiamy jego wypowiedzi z tego spotkania z dziennikarzami w Korei Południowej.</description>
-    </item>
-    
-    <item>
-        <title>„Musimy zaprezentować naszą najlepszą wersję”</title>
-        <link>https://www.realmadryt.pl/news/143179-musimy-zaprezentowac-nasza-najlepsza-wersje</link>
-        <pubDate>Wed, 08 Oct 2025 07:50:00 GMT</pubDate>
-        <description>Pau Quesada i María Méndez wzięli udział w konferencji prasowej przed pierwszym meczem fazy ligowej Ligi Mistrzyń z Romą. Przedstawiamy wypowiedzi trenera i defensorki Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Kibice Villarrealu popierają wywiezienie meczu z Barceloną do Miami</title>
-        <link>https://www.realmadryt.pl/news/143178-kibice-villarrealu-popieraja-wywiezienie-meczu-z-barcelona-do-miami</link>
-        <pubDate>Wed, 08 Oct 2025 07:00:00 GMT</pubDate>
-        <description>Zrzeszenie oficjalnych fanklubów Villarrealu wystosowało komunikat w sprawie poparcia wywiezienia meczu La Ligi z Barceloną do Stanów Zjednoczonych. W weekend ta sama grupa skarżyła się na sędziowanie w meczu z Realem Madryt.</description>
     </item>
     
 </channel>
