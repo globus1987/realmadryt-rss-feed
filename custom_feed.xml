@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 Oct 2025 21:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 22:22:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143240-dzisiejsze-okladki</link>
+        <pubDate>Fri, 10 Oct 2025 00:22:00 GMT</pubDate>
+        <description>Plany Realu Madryt i działania Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Wolny transfer stopera priorytetem Realu na kolejne lato</title>
+        <link>https://www.realmadryt.pl/news/143231-marca-wolny-transfer-stopera-priorytetem-realu-na-kolejne-lato</link>
+        <pubDate>Fri, 10 Oct 2025 00:01:00 GMT</pubDate>
+        <description>Ibrahima Konaté, Dayot Upamecano i Marc Guéhi to główne cele transferowe Realu Madryt na kolejne. Kontrakty każdego z nich wygasają po obecnym sezonie, co wpisuje się w taktykę transferową Królewskich.</description>
+    </item>
     
     <item>
         <title>Pewna wygrana, bezbłędny Okeke</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143224-mbappe-mialem-cos-z-kostka-ale-powiedzialem-ze-chce-przyjechac-i-zagrac</link>
         <pubDate>Thu, 09 Oct 2025 13:15:00 GMT</pubDate>
         <description>Kylian Mbappé wziął udział w konferencji prasowej przed piątkowym meczem reprezentacji Francji z Azerbejdżanem. Przedstawiamy najważniejsze wypowiedzi atakującego Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Chcę publicznie przeprosić, nie zachowałem się najlepiej i zawiodłem</title>
-        <link>https://www.realmadryt.pl/news/143223-vinicius-chce-publicznie-przeprosic-nie-zachowalem-sie-najlepiej-i-zawiodlem</link>
-        <pubDate>Thu, 09 Oct 2025 12:33:00 GMT</pubDate>
-        <description>Brazylijczyk opublikował w mediach społecznościowych wpis, w którym poinformował, że ze swojej winy rozstał się z partnerką.</description>
-    </item>
-    
-    <item>
-        <title>Joan García z coraz mniejszymi szansami na występ w Klasyku</title>
-        <link>https://www.realmadryt.pl/news/143222-joan-garcia-z-coraz-mniejszymi-szansami-na-wystep-w-klasyku</link>
-        <pubDate>Thu, 09 Oct 2025 11:52:00 GMT</pubDate>
-        <description>Barcelona nie będzie zmuszać swojego bramkarza, by ten zagrał z Realem. Klub nie chce ryzykować nawrotu kontuzji.</description>
     </item>
     
 </channel>
