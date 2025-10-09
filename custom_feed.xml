@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 Oct 2025 11:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 11:40:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>W domu Viníciusa wybuchł pożar</title>
+        <link>https://www.realmadryt.pl/news/143225-w-domu-viniciusa-wybuchl-pozar</link>
+        <pubDate>Thu, 09 Oct 2025 13:24:00 GMT</pubDate>
+        <description>Na szczęście nic się nikomu nie stało.</description>
+    </item>
     
     <item>
         <title>Mbappé: Miałem coś z kostką, ale powiedziałem, że chcę przyjechać i zagrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143211-valdano-mbappe-to-najinteligentniejszy-pilkarz-jakiego-poznalem</link>
         <pubDate>Thu, 09 Oct 2025 09:40:00 GMT</pubDate>
         <description>Jorge Valdano to były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i ekspert w różnych hiszpańskich mediach. Teraz ogłosił, że udało mu się przeprowadzić wywiad z Kylianem Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Marcos Llorente: Triumf z Realem jest bardziej ekscytujący od pokonania Barcelony</title>
-        <link>https://www.realmadryt.pl/news/143216-marcos-llorente-triumf-z-realem-jest-bardziej-ekscytujacy-od-pokonania-barcelony</link>
-        <pubDate>Thu, 09 Oct 2025 09:34:00 GMT</pubDate>
-        <description>Przebywający na zgrupowaniu reprezentacji Hiszpanii zawodnik Los Rojiblancos w programie El Partidazo w radiu COPE między innymi skomentował ostatnią wygraną nad Realem oraz szanse swojej drużyny na wygranie mistrzostwa Hiszpanii.</description>
     </item>
     
 </channel>
