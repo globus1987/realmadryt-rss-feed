@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 09 Oct 2025 05:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Oct 2025 05:55:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dyrektor Atlético: O Superlidze mówi się tylko w Hiszpanii z powodu Realu i jego prezesa</title>
+        <link>https://www.realmadryt.pl/news/143207-dyrektor-atletico-o-superlidze-mowi-sie-tylko-w-hiszpanii-z-powodu-realu-i-jego-prezesa</link>
+        <pubDate>Thu, 09 Oct 2025 07:50:00 GMT</pubDate>
+        <description>Miguel Ángel Gil Marín, dyrektor generalny Atlético Madryt, to członek Komitetu Wykonawczego UEFA i członek zarządu European Football Clubs (EFC, wcześniej Europejskie Stowarzyszenie Klubów, czyli ECA). Przedstawiamy jego wypowiedzi z okazji Walnego Zgromadzenia tej drugiej organizacji.</description>
+    </item>
     
     <item>
         <title>Mastantuono: Messi to najlepszy trener, jakiego możesz mieć na boisku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143197-the-times-netflix-i-inne-platformy-moga-wejsc-do-przetargow-na-pokazywanie-ligi-mistrzow</link>
         <pubDate>Wed, 08 Oct 2025 18:44:00 GMT</pubDate>
         <description>W ostatnich dniach w Barcelonie i Madrycie podawano, że UEFA może przejąć od Superligi pomysł z pokazywaniem meczów Ligi Mistrzów na darmowej platformie. Inne źródła informują jednak, że rozpoczynają się przetargi na nowy cykl rozgrywkowy i będą one prowadzone w tradycyjny sposób.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie rozgromiły Romę na Di Stéfano</title>
-        <link>https://www.realmadryt.pl/news/143195-krolewskie-rozgromily-rome-na-di-stefano</link>
-        <pubDate>Wed, 08 Oct 2025 18:40:00 GMT</pubDate>
-        <description>W meczu 1. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt pokonały na Estadio Alfredo Di Stéfano Romę 6:2. Dublety zdobyły Alba Redondo i Caroilne Weir, a po jednym trafieniu dołożyły Maëlle Lakrar i Eva Navarro. Linda Caicedo zanotowała trzy asysty.</description>
     </item>
     
 </channel>
