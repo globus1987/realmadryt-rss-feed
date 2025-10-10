@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 Oct 2025 12:52:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 13:32:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carreras i Asencio ponownie razem</title>
+        <link>https://www.realmadryt.pl/news/143253-carreras-i-asencio-ponownie-razem</link>
+        <pubDate>Fri, 10 Oct 2025 15:14:00 GMT</pubDate>
+        <description>Obaj piłkarze trafili do szkółki w tym samym sezonie i po pięciu latach spotkali się w Valdebebas już jako piłkarze pierwszego zespołu.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé: Nie możemy odwracać wzroku od tematu zdrowia psychicznego</title>
+        <link>https://www.realmadryt.pl/news/143255-mbappe-nie-mozemy-odwracac-wzroku-od-tematu-zdrowia-psychicznego</link>
+        <pubDate>Fri, 10 Oct 2025 14:53:00 GMT</pubDate>
+        <description>Jorge Valdano to były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i ekspert w różnych hiszpańskich mediach. Teraz ogłosił, że udało mu się przeprowadzić wywiad z Kylianem Mbappé, który Movistar+ wyemituje w całości w niedzielę. Na razie pokazywane są jego zapowiedzi.</description>
+    </item>
     
     <item>
         <title>Bellingham: Były momenty, gdy czułem się bezbronny, wątpiłem w siebie i potrzebowałem z kimś porozmawiać</title>
@@ -28,10 +42,10 @@
     </item>
     
     <item>
-        <title>Brazylia prowadzi z Koreą Południową, dublet Rodrygo [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/143245-brazylia-prowadzi-z-korea-poludniowa-dublet-rodrygo-live</link>
+        <title>Brazylia wysoko wygrywa z Koreą Południową, dublet Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/143245-brazylia-wysoko-wygrywa-z-korea-poludniowa-dublet-rodrygo</link>
         <pubDate>Fri, 10 Oct 2025 12:45:00 GMT</pubDate>
-        <description>Brazylia rozgrywa dzisiaj mecz towarzyski z Koreą Południową.</description>
+        <description>Brazylia ustrzeliła manitę w towarzyskim meczu z Koreą Południową i wygrała 5:0. Dublet zanotował Rodrygo, a Vinícius dorzucił po jednym golu i asyście.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143247-scaloni-franco-czuje-sie-dobrze-i-zapewne-zagra-w-jednym-z-dwoch-meczow-a-moze-w-obu</link>
         <pubDate>Fri, 10 Oct 2025 10:20:00 GMT</pubDate>
         <description>Lionel Scaloni wziął udział w konferencji prasowej przed meczem z Wenezuelą. Selekcjoner reprezentacji Argentyny został zapytany o piłkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 10 października</title>
-        <link>https://www.realmadryt.pl/news/143236-kartka-z-kalendarza-10-pazdziernika</link>
-        <pubDate>Fri, 10 Oct 2025 10:19:00 GMT</pubDate>
-        <description>Pierwsze trafienie Paco Gento, pierwsze wybory po wojnie domowej, urodziny byłego obrońcy i wygrana Benzemy w Lidze Narodów. Co działo się 10 października?</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo: Zagrałbym na boku obrony, na stoperze czy nawet w bramce, gdyby mnie o to poproszono</title>
-        <link>https://www.realmadryt.pl/news/143246-gonzalo-zagralbym-na-boku-obrony-na-stoperze-czy-nawet-w-bramce-gdyby-mnie-o-to-poproszono</link>
-        <pubDate>Fri, 10 Oct 2025 10:02:00 GMT</pubDate>
-        <description>Gonzalo García udzielił wywiadu w programi El Larguero na antenie Cadena SER. Przedstawiamy najważniejsze wypowiedzi napastnika Realu Madryt.</description>
     </item>
     
 </channel>
