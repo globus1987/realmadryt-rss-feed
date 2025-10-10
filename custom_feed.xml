@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 10 Oct 2025 05:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 05:55:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Reuters: UEFA utrzymuje status quo w sprawie Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/143235-reuters-uefa-utrzymuje-status-quo-w-sprawie-ligi-mistrzow</link>
+        <pubDate>Fri, 10 Oct 2025 07:50:00 GMT</pubDate>
+        <description>UEFA odbyła rozmowy z przedstawicielami Superligi, spółką A22 Sports Management, ale twierdzi, że nie ma planów zmiany formatu swoich elitarnych rozgrywek.</description>
+    </item>
     
     <item>
         <title>Francuskie media: Mbappé zagra od pierwszej minuty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143227-gonzalo-arbeloa-pokazywal-mi-nagrania-benzemy-cristiano-czy-haalanda</link>
         <pubDate>Thu, 09 Oct 2025 14:48:00 GMT</pubDate>
         <description>Gonzalo García udzielił wywiadu dziennikowi El País. Przedstawiamy pełne tłumaczenie tej rozmowy z napastnikiem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: My, kluby będące w projekcie Superligi, musimy wrócić do UEFA</title>
-        <link>https://www.realmadryt.pl/news/143226-laporta-my-kluby-bedace-w-projekcie-superligi-musimy-wrocic-do-uefa</link>
-        <pubDate>Thu, 09 Oct 2025 13:58:00 GMT</pubDate>
-        <description>Prezes Barcelony odniósł się do bieżących spraw podczas 19. edycji Open Day Fundacji Cruyffa.</description>
     </item>
     
 </channel>
