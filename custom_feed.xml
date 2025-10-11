@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 Oct 2025 07:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 07:53:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chema na ustach wszystkich</title>
+        <link>https://www.realmadryt.pl/news/143270-chema-na-ustach-wszystkich</link>
+        <pubDate>Sat, 11 Oct 2025 09:48:00 GMT</pubDate>
+        <description>Królewscy mając prawa do zawodnika, zacierają ręce, bo widzą jak ten radzi sobie w Bundeslidze.</description>
+    </item>
     
     <item>
         <title>Real Madryt U-12 powalczy o wyjście z grupy na turnieju FC Futures</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143257-gol-i-asysta-gonzalo-w-hiszpanii-u-21-video</link>
         <pubDate>Fri, 10 Oct 2025 22:54:00 GMT</pubDate>
         <description>Gonzalo García strzelił dzisiaj swoją pierwszą bramkę w trzecim występie w reprezentacji Hiszpanii U-21. Zanim trafił do siatki zanotował asystę przy golu Simo. Na murawie spędził 45 minut.</description>
-    </item>
-    
-    <item>
-        <title>Eliminacje do mundialu: Mbappé z golem, asystą… i prośbą o zmianę!!!; Bezrobotny Courtois</title>
-        <link>https://www.realmadryt.pl/news/143256-eliminacje-do-mundialu-mbappe-z-golem-asysta-i-prosba-o-zmiane-bezrobotny-courtois</link>
-        <pubDate>Fri, 10 Oct 2025 19:28:00 GMT</pubDate>
-        <description>W piątek wieczorem do walki w eliminacjach do mundialu stanęły dwie reprezentacje z graczami Królewskich. Wszyscy pojawili się na boisku. Główna informacja to świetny występ Kyliana Mbappé, w którym atakujący na koniec sam poprosił o zmianę, bo najprawdopodobniej znowu poczuł coś w prawej kostce.</description>
     </item>
     
 </channel>
