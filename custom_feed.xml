@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 11 Oct 2025 22:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 22:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143283-dzisiejsze-okladki</link>
+        <pubDate>Sun, 12 Oct 2025 00:48:00 GMT</pubDate>
+        <description>Wygrana reprezentacji Hiszpanii i stan zdrowia Kyliana Mbappé to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Turcja rozbija Bułgarię, gol i dwie asysty Gülera [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143267-kartka-z-kalendarza-11-pazdziernika</link>
         <pubDate>Sat, 11 Oct 2025 10:20:00 GMT</pubDate>
         <description>Wygrana koszykarzy z zespołem z NBA, historyczny mecz na Stadionie Narodowym, w którym zagrał Toni Kroos, a także mecz Ligi Mistrzów z Szachtarem. Co działo się 11 października?</description>
-    </item>
-    
-    <item>
-        <title>Chema na ustach wszystkich</title>
-        <link>https://www.realmadryt.pl/news/143270-chema-na-ustach-wszystkich</link>
-        <pubDate>Sat, 11 Oct 2025 09:48:00 GMT</pubDate>
-        <description>Królewscy mając prawa do zawodnika, zacierają ręce, bo widzą jak ten radzi sobie w Bundeslidze.</description>
     </item>
     
 </channel>
