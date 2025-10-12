@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Oct 2025 10:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 11:18:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pięć dni, które zmieniły kierunek Realu</title>
+        <link>https://www.realmadryt.pl/news/143294-piec-dni-ktore-zmienily-kierunek-realu</link>
+        <pubDate>Sun, 12 Oct 2025 13:10:00 GMT</pubDate>
+        <description>W świecie piłki dochodzi nieraz do sytuacji, w przypadku których trudno wytłumaczyć, co dokładnie dzieje się w danym momencie. Tak naprawdę w rzeczywistości wiele kwestii rozwiązuje się w naturalny sposób, zwłaszcza w przypadku transferów. Mowa tu również o tych dotyczących trenerów.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé: Mam nadzieję, że ludzie będą śnić o mnie tak, jak śnią o Cristiano</title>
+        <link>https://www.realmadryt.pl/news/143293-mbappe-mam-nadzieje-ze-ludzie-beda-snic-o-mnie-tak-jak-snia-o-cristiano</link>
+        <pubDate>Sun, 12 Oct 2025 13:01:00 GMT</pubDate>
+        <description>Jorge Valdano to były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i ekspert w różnych hiszpańskich mediach. Teraz ogłosił, że udało mu się przeprowadzić wywiad z Kylianem Mbappé, który Movistar+ wyemituje w całości dzisiaj. Na razie pokazywane są jego zapowiedzi.</description>
+    </item>
     
     <item>
         <title>Nico Paz stawia kolejne kroki naprzód</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143280-wydostac-sie-ze-strefy-spadkowej</link>
         <pubDate>Sun, 12 Oct 2025 07:00:00 GMT</pubDate>
         <description>W 7. kolejce Primera Federación Castilla zmierzy się z Pontevedrą. Jeśli w tej rywalizacji uda się wygrać, Królewscy wystrzelą w górę tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Kontuzje nie dają wytchnienia</title>
-        <link>https://www.realmadryt.pl/news/143284-kontuzje-nie-daja-wytchnienia</link>
-        <pubDate>Sun, 12 Oct 2025 05:30:00 GMT</pubDate>
-        <description>Huijsen, Mbappé i Mastantuono wrócili ze zgrupowań z urazami. Do tego jest czterech kontuzjowanych, choć Carvajal ma szanse zdążyć na Klasyk.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143283-dzisiejsze-okladki</link>
-        <pubDate>Sun, 12 Oct 2025 00:48:00 GMT</pubDate>
-        <description>Wygrana reprezentacji Hiszpanii i stan zdrowia Kyliana Mbappé to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
