@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Oct 2025 20:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 20:53:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Pokazaliśmy nasze dwa oblicza</title>
+        <link>https://www.realmadryt.pl/news/143307-scariolo-pokazalismy-nasze-dwa-oblicza</link>
+        <pubDate>Sun, 12 Oct 2025 22:44:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował krótko przegrane spotkanie z Baskonią. Powiedział, że drużyna miała dwa oblicze. Jedno z nich pokazała w pierwszej połowie, a drugie zaprezentowała po zmianie stron.</description>
+    </item>
     
     <item>
         <title>Przegrana koszykarzy po remontadzie Baskonii</title>
@@ -28,10 +35,10 @@
     </item>
     
     <item>
-        <title>Alaba gra z Rumunią, Polska z Litwą [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/143302-alaba-gra-z-rumunia-polska-z-litwa-live</link>
+        <title>Porażka Austrii w ostatniej akcji meczu, Polska lepsza od Litwy</title>
+        <link>https://www.realmadryt.pl/news/143302-porazka-austrii-w-ostatniej-akcji-meczu-polska-lepsza-od-litwy</link>
         <pubDate>Sun, 12 Oct 2025 20:00:00 GMT</pubDate>
-        <description>O 20:45 rozpoczną się kolejne interesujące nas mecze kwalifikacji do Mistrzostw Świata. W pierwszym składzie reprezentacji Austrii ponownie znalazł się David Alaba, który rozpoczyna to spotkanie w roli kapitana.</description>
+        <description>David Alaba rozegrał całe spotkanie w barwach reprezentacji Austrii, która przegrała na wyjeździe z Rumunią 0:1. Mimo porażki pozostaje na czele grupy H. Polska wygrała za to z Litwą, dzięki czemu odskoczyła Finlandii i traci do Holandii trzy punkty.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143296-mbappe-wzory-bycia-kapitanem-ramos-marquinhos-i-lloris</link>
         <pubDate>Sun, 12 Oct 2025 15:16:00 GMT</pubDate>
         <description>Kylian Mbappé wziął udział w reportażu programu Téléfoot w telewizji TF1 na temat liderowania i kapitanów reprezentacji Francji. Przedstawiamy jego wypowiedzi z tego materiału.</description>
-    </item>
-    
-    <item>
-        <title>Deschamps: Mbappé został trafiony dokładnie tam, gdzie wcześniej go bolało</title>
-        <link>https://www.realmadryt.pl/news/143295-deschamps-mbappe-zostal-trafiony-dokladnie-tam-gdzie-wczesniej-go-bolalo</link>
-        <pubDate>Sun, 12 Oct 2025 14:54:00 GMT</pubDate>
-        <description>Selekcjoner Francji skomentował sytuację swojego kapitana, którego w sobotę zwolnił ze zgrupowania.</description>
     </item>
     
 </channel>
