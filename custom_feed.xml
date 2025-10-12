@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Oct 2025 14:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 14:40:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zidane: Na pewno wrócę do trenowania</title>
+        <link>https://www.realmadryt.pl/news/143297-zidane-na-pewno-wroce-do-trenowania</link>
+        <pubDate>Sun, 12 Oct 2025 16:22:00 GMT</pubDate>
+        <description>Zinédine Zidane był jednym z gości festwialu sportu w Trydencie. Przedstawiamy wypowiedzi byłego trenera Realu Madryt na temat jego przyszłości.</description>
+    </item>
     
     <item>
         <title>Mbappé: Wzory bycia kapitanem? Ramos, Marquinhos i Lloris</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143285-endrick-tak-byl-uczony-aby-patrzec-tylko-na-bramke</link>
         <pubDate>Sun, 12 Oct 2025 10:07:00 GMT</pubDate>
         <description>Pierwszy trener Endricka w Palmeirasie, Eduardo Alemão, udzielił wywiadu dziennikowi AS. Poniżej przedstawiamy zapis tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Dylemat Camavingi</title>
-        <link>https://www.realmadryt.pl/news/143286-dylemat-camavingi</link>
-        <pubDate>Sun, 12 Oct 2025 09:20:00 GMT</pubDate>
-        <description>Eduardo Camavinga powinien się zacząć poważnie zastanawiać nad tym, która pozycja na boisku daje mu większe szanse na wyjazd na przyszłoroczny mundial. Wobec problemów z miejscem w środku pola powraca temat lewej obrony.</description>
     </item>
     
 </channel>
