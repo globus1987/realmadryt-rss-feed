@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Oct 2025 19:17:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 19:39:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przegrana koszykarzy po remontadzie Baskonii</title>
+        <link>https://www.realmadryt.pl/news/143305-przegrana-koszykarzy-po-remontadzie-baskonii</link>
+        <pubDate>Sun, 12 Oct 2025 21:20:00 GMT</pubDate>
+        <description>W 2. kolejce Ligi Endesa Real Madryt przegrał z Baskonią, mimo że w pierwszej połowie Królewscy byli stroną wyraźnie lepszą. Zawiodła ofensywna gra po zmianie stron.</description>
+    </item>
     
     <item>
         <title>Mbappé cz.2: Udzielam niewielu wywiadów? Najważniejsze i najlepsze, co mogę robić, to działać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143295-deschamps-mbappe-zostal-trafiony-dokladnie-tam-gdzie-wczesniej-go-bolalo</link>
         <pubDate>Sun, 12 Oct 2025 14:54:00 GMT</pubDate>
         <description>Selekcjoner Francji skomentował sytuację swojego kapitana, którego w sobotę zwolnił ze zgrupowania.</description>
-    </item>
-    
-    <item>
-        <title>Pięć dni, które zmieniły kierunek Realu</title>
-        <link>https://www.realmadryt.pl/news/143294-piec-dni-ktore-zmienily-kierunek-realu</link>
-        <pubDate>Sun, 12 Oct 2025 13:10:00 GMT</pubDate>
-        <description>W świecie piłki dochodzi nieraz do sytuacji, w przypadku których trudno wytłumaczyć, co dokładnie dzieje się w danym momencie. Tak naprawdę w rzeczywistości wiele kwestii rozwiązuje się w naturalny sposób, zwłaszcza w przypadku transferów. Mowa tu również o tych dotyczących trenerów.</description>
     </item>
     
 </channel>
