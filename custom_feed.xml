@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Oct 2025 03:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 03:42:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kontuzje nie dają wytchnienia</title>
+        <link>https://www.realmadryt.pl/news/143284-kontuzje-nie-daja-wytchnienia</link>
+        <pubDate>Sun, 12 Oct 2025 05:30:00 GMT</pubDate>
+        <description>Huijsen, Mbappé i Mastantuono wrócili ze zgrupowań z urazami. Do tego jest czterech kontuzjowanych, choć Carvajal ma szanse zdążyć na Klasyk.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143271-media-mbappe-przeszedl-juz-badania-w-madrycie</link>
         <pubDate>Sat, 11 Oct 2025 10:59:00 GMT</pubDate>
         <description>Kibice Realu mogą poczuć ulgę, gdyż Kylian ma być gotowy na najbliższy mecz ligowy.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 11 października</title>
-        <link>https://www.realmadryt.pl/news/143267-kartka-z-kalendarza-11-pazdziernika</link>
-        <pubDate>Sat, 11 Oct 2025 10:20:00 GMT</pubDate>
-        <description>Wygrana koszykarzy z zespołem z NBA, historyczny mecz na Stadionie Narodowym, w którym zagrał Toni Kroos, a także mecz Ligi Mistrzów z Szachtarem. Co działo się 11 października?</description>
     </item>
     
 </channel>
