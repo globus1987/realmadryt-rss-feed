@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 12 Oct 2025 15:21:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Oct 2025 15:39:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trudny wyjazd do Vitorii</title>
+        <link>https://www.realmadryt.pl/news/143299-trudny-wyjazd-do-vitorii</link>
+        <pubDate>Sun, 12 Oct 2025 17:35:00 GMT</pubDate>
+        <description>W 2. kolejce Ligi Endesa Real Madryt zagra z Baskonią, która do tej pory przegrała wszystkie mecze w tym sezonie. Królewscy w ostatnich spotkaniach rozkręcali się i dzisiaj przejdą kolejną trudną próbę.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: W tym meczu dojrzałość zawodników zostanie wystawiona na próbę</title>
+        <link>https://www.realmadryt.pl/news/143282-scariolo-w-tym-meczu-dojrzalosc-zawodnikow-zostanie-wystawiona-na-probe</link>
+        <pubDate>Sun, 12 Oct 2025 17:30:00 GMT</pubDate>
+        <description>Sergio Scariolo wypowiadał się przed ligowym meczem z Baskonią. W pozytywnych słowach wypowiadał się o rywalach, którzy w tym sezonie przegrali wszystkie spotkania, mimo że dobrze się zaprezentowali w starciach z Panathinaikosem i Olympiakosem.</description>
+    </item>
     
     <item>
         <title>Drugie zwycięstwo z rzędu Castilli</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143289-gueler-nowa-ikona-w-turcji</link>
         <pubDate>Sun, 12 Oct 2025 12:09:00 GMT</pubDate>
         <description>Arda błysnął z Bułgarią golem i dwiema asystami. Z każdym meczem jest coraz ważniejszy dla swojej reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>Kolumbia wyrzuciła Hiszpanię z Mundialu U-20 [SKRÓT]</title>
-        <link>https://www.realmadryt.pl/news/143288-kolumbia-wyrzucila-hiszpanie-z-mundialu-u-20-skrot</link>
-        <pubDate>Sun, 12 Oct 2025 11:37:00 GMT</pubDate>
-        <description>Kolumbia i Hiszpania stworzyły bardzo ciekawe i emocjonujące widowisko na mistrzostwach świata do lat 20. Ostatecznie po hat-tricku Villarreala awansowała drużyna z Ameryki Południowej.</description>
-    </item>
-    
-    <item>
-        <title>El Confidencial: Raúl nie dostał przedłużenia umowy, które obiecał mu Florentino Pérez</title>
-        <link>https://www.realmadryt.pl/news/143287-el-confidencial-raul-nie-dostal-przedluzenia-umowy-ktore-obiecal-mu-florentino-perez</link>
-        <pubDate>Sun, 12 Oct 2025 11:04:00 GMT</pubDate>
-        <description>Odejście Ancelottiego i powrót Xabiego Alonso przyczyniły się też do zmiany na ławce trenerskiej Castilli, gdzie Raúl miał chcieć zostać i tak też zakomunikował to prezesowi.</description>
     </item>
     
 </channel>
