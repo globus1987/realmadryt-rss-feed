@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Oct 2025 21:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 22:22:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143339-dzisiejsze-okladki</link>
+        <pubDate>Tue, 14 Oct 2025 00:19:00 GMT</pubDate>
+        <description>Mecz Hiszpanii i wywiad z Alexią to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>The Athletic: UEFA wprowadza zmiany w kolejce otwierającej daną edycję Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/143338-the-athletic-uefa-wprowadza-zmiany-w-kolejce-otwierajacej-dana-edycje-ligi-mistrzow</link>
+        <pubDate>Tue, 14 Oct 2025 00:00:00 GMT</pubDate>
+        <description>Obrońca tytułu w 1. kolejce fazy ligowej jako jedyny zagra we wtorek.</description>
+    </item>
     
     <item>
         <title>Brazylijskie media: Ancelotti przetestuje Viníciusa na środku ataku</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143313-telegraph-arsenal-inspiruje-sie-realem-madryt-przy-projekcie-przebudowy-emirates-stadium</link>
         <pubDate>Mon, 13 Oct 2025 13:45:00 GMT</pubDate>
         <description>Kanonierzy chcą powiększyć pojemność i możliwości swojego stadionu. Ich inspiracją jest przebudowa stadionu Realu Madryt oraz wynikające z niej wyniki finansowe klubu.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo odżył w reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/143316-rodrygo-odzyl-w-reprezentacji</link>
-        <pubDate>Mon, 13 Oct 2025 13:00:00 GMT</pubDate>
-        <description>Ancelotti przywraca Brazylijczyka do najlepszej formy. „To był trudny okres, ale jestem nową osobą i chciałem to pokazać” – powiedział po dublecie.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Mecz w Miami? W Superpucharze stadiony wypełniały się kibicami Realu</title>
-        <link>https://www.realmadryt.pl/news/143323-tebas-mecz-w-miami-w-superpucharze-stadiony-wypelnialy-sie-kibicami-realu</link>
-        <pubDate>Mon, 13 Oct 2025 12:59:00 GMT</pubDate>
-        <description>Javier Tebas pojawił się na prezentacji filmu dokumentalnego o La Liga Genuine Moeve, czyli rozgrywkach dla osób z niepełnosprawnością intelektualną. Przedstawiamy wypowiedzi prezesa La Ligi z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
