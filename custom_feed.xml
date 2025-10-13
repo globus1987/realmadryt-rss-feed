@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Oct 2025 22:22:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 22:41:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois stał się viralem… próbując złapać szczura [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/143340-courtois-stal-sie-viralem-probujac-zlapac-szczura-video</link>
+        <pubDate>Tue, 14 Oct 2025 00:32:00 GMT</pubDate>
+        <description>Zdjęcie bramkarza Królewskich ze zwierzęciem obiegło Internet. Ostatecznie z murawy intruza przepędził atakujący rywali.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
         <link>https://www.realmadryt.pl/news/143339-dzisiejsze-okladki</link>
         <pubDate>Tue, 14 Oct 2025 00:19:00 GMT</pubDate>
-        <description>Mecz Hiszpanii i wywiad z Alexią to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+        <description>Mecz Hiszpanii i sytuacja zdrowotna Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143324-the-athletic-carvajal-i-trent-moga-wrocic-na-klasyk-z-barcelona</link>
         <pubDate>Mon, 13 Oct 2025 16:43:00 GMT</pubDate>
         <description>Mario Cortegana opublikował raport medyczny z informacjami dotyczącymi graczy Realu Madryt z problemami zdrowotnymi.</description>
-    </item>
-    
-    <item>
-        <title>Telegraph: Arsenal inspiruje się Realem Madryt przy projekcie przebudowy Emirates Stadium</title>
-        <link>https://www.realmadryt.pl/news/143313-telegraph-arsenal-inspiruje-sie-realem-madryt-przy-projekcie-przebudowy-emirates-stadium</link>
-        <pubDate>Mon, 13 Oct 2025 13:45:00 GMT</pubDate>
-        <description>Kanonierzy chcą powiększyć pojemność i możliwości swojego stadionu. Ich inspiracją jest przebudowa stadionu Realu Madryt oraz wynikające z niej wyniki finansowe klubu.</description>
     </item>
     
 </channel>
