@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Oct 2025 08:57:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 09:31:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy po pięciu dniach przerwy wrócą jutro do treningów</title>
+        <link>https://www.realmadryt.pl/news/143320-krolewscy-po-pieciu-dniach-przerwy-wroca-jutro-do-treningow</link>
+        <pubDate>Mon, 13 Oct 2025 11:20:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Być albo nie być Superligi, podatki do zapłacenia przez socios i nieokreślona sukcesja Florentino</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143307-scariolo-pokazalismy-nasze-dwa-oblicza</link>
         <pubDate>Sun, 12 Oct 2025 22:44:00 GMT</pubDate>
         <description>Sergio Scariolo podsumował krótko przegrane spotkanie z Baskonią. Powiedział, że drużyna miała dwa oblicze. Jedno z nich pokazała w pierwszej połowie, a drugie zaprezentowała po zmianie stron.</description>
-    </item>
-    
-    <item>
-        <title>Przegrana koszykarzy po remontadzie Baskonii</title>
-        <link>https://www.realmadryt.pl/news/143305-przegrana-koszykarzy-po-remontadzie-baskonii</link>
-        <pubDate>Sun, 12 Oct 2025 21:20:00 GMT</pubDate>
-        <description>W 2. kolejce Ligi Endesa Real Madryt przegrał z Baskonią, mimo że w pierwszej połowie Królewscy byli stroną wyraźnie lepszą. Zawiodła ofensywna gra po zmianie stron.</description>
     </item>
     
 </channel>
