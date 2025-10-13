@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 13 Oct 2025 10:29:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 10:47:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Olmo z kontuzją mięśniową</title>
+        <link>https://www.realmadryt.pl/news/143322-oficjalnie-olmo-z-kontuzja-miesniowa</link>
+        <pubDate>Mon, 13 Oct 2025 12:46:00 GMT</pubDate>
+        <description>Katalończycy wykonali badania atakującego, który opuścił zgrupowanie Hiszpanii z oznakami urazu mięśniowego. Ostatecznie jego występ w Klasyku nie jest wykluczony.</description>
+    </item>
     
     <item>
         <title>Mieli być duetem na lata, a pozostało tylko wspomnienie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143310-camavinga-zaliczy-dzisiaj-pierwszy-wystep-od-poczatku-od-prawie-pol-roku</link>
         <pubDate>Mon, 13 Oct 2025 05:30:00 GMT</pubDate>
         <description>Francuzi wskazują, że pomocnik Królewskich może wyjść dzisiaj od pierwszej minuty w starciu eliminacji do mundialu. Byłby to jego pierwszy występ od początku w jakichkolwiek rozgrywkach od blisko pół roku.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143309-dzisiejsze-okladki</link>
-        <pubDate>Mon, 13 Oct 2025 00:13:00 GMT</pubDate>
-        <description>Wywiad z Kylianem Mbappé i sytuacja Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
