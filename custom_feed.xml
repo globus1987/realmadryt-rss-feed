@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Oct 2025 10:47:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 11:20:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Francuzi krytykują Camavingę</title>
+        <link>https://www.realmadryt.pl/news/143351-francuzi-krytykuja-camavinge</link>
+        <pubDate>Tue, 14 Oct 2025 13:05:00 GMT</pubDate>
+        <description>Gra pomocnika nie przypadła do gustu jego rodakom.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Robert Lewandowski kontuzjowany</title>
@@ -14,8 +21,8 @@
     </item>
     
     <item>
-        <title>Brazylia gra z Japonią, Vinícius od pierwszej minuty [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/143350-brazylia-gra-z-japonia-vinicius-od-pierwszej-minuty-na-zywo</link>
+        <title>Brazylia prowadzi z Japonią, Vinícius gra na „dziewiątce” [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/143350-brazylia-prowadzi-z-japonia-vinicius-gra-na-dziewiatce-na-zywo</link>
         <pubDate>Tue, 14 Oct 2025 12:15:00 GMT</pubDate>
         <description>Canarinhos rozgrywają dzisiaj sparingowy mecz z Japonią w Tokio. Vinícius gra od początku, Militão i Rodrygo zaczynają na ławce.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143336-kartka-z-kalendarza-14-pazdziernika</link>
         <pubDate>Tue, 14 Oct 2025 09:30:00 GMT</pubDate>
         <description>Urodziny legendarnego zawodnika, mecz reprezentacji Polski na Santiago Bernabéu i ligowe zwycięstwa Królewskich. Co działo się 14 października?</description>
-    </item>
-    
-    <item>
-        <title>Protesty Realu przyniosły efekty</title>
-        <link>https://www.realmadryt.pl/news/143335-protesty-realu-przyniosly-efekty</link>
-        <pubDate>Tue, 14 Oct 2025 08:40:00 GMT</pubDate>
-        <description>Od czasu, gdy Real zagroził, że nie pojawi się na boisku, nie rozegrał ani jednego meczu, przed którym odpoczywałby krócej niż 72 godziny.</description>
     </item>
     
 </channel>
