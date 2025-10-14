@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Oct 2025 22:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 22:41:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143363-dzisiejsze-okladki</link>
+        <pubDate>Wed, 15 Oct 2025 00:37:00 GMT</pubDate>
+        <description>Wygrana Hiszpanów i kontuzja Lewandowskiego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko z kompletem zwycięstw w eliminacjach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143350-brazylia-przegrala-z-japonia-zagrali-vinicius-i-rodrygo</link>
         <pubDate>Tue, 14 Oct 2025 12:15:00 GMT</pubDate>
         <description>Canarinhos przegrali dzisiaj w sparingowym spotkaniu z Japonią. Vinícius grał przez niecałą godzinę, a przez ponad pół godziny na boisku przebywał Rodrygo. Żaden z nich nie trafił do siatki. Militão przesiedział cały mecz na ławce.</description>
-    </item>
-    
-    <item>
-        <title>BILD: Rüdiger prawdopodobnie odejdzie po sezonie</title>
-        <link>https://www.realmadryt.pl/news/143349-bild-ruediger-prawdopodobnie-odejdzie-po-sezonie</link>
-        <pubDate>Tue, 14 Oct 2025 11:50:00 GMT</pubDate>
-        <description>Axel Hesse i Tobias Altschäffl z dziennika BILD twierdzą, że Rüdiger odejdzie z Realu Madryt po zakończeniu bieżącego sezonu.</description>
     </item>
     
 </channel>
