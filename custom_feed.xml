@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Oct 2025 10:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 10:47:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Robert Lewandowski kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/143352-oficjalnie-robert-lewandowski-kontuzjowany</link>
+        <pubDate>Tue, 14 Oct 2025 12:31:00 GMT</pubDate>
+        <description>Polak niemal na pewno nie zagra w Klasyku</description>
+    </item>
     
     <item>
         <title>Brazylia gra z Japonią, Vinícius od pierwszej minuty [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143335-protesty-realu-przyniosly-efekty</link>
         <pubDate>Tue, 14 Oct 2025 08:40:00 GMT</pubDate>
         <description>Od czasu, gdy Real zagroził, że nie pojawi się na boisku, nie rozegrał ani jednego meczu, przed którym odpoczywałby krócej niż 72 godziny.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Cestero jest dla mnie obecnie najlepszą „6” w Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/143334-arbeloa-cestero-jest-dla-mnie-obecnie-najlepsza-6-w-hiszpanii</link>
-        <pubDate>Tue, 14 Oct 2025 07:50:00 GMT</pubDate>
-        <description>Jorge Cestero robi błyskawiczną karierę w Castilli. Środkowego pomocnika miało nie być w kadrze rezerw, ale pojawił się w niej na prośbę Arbeloi. Teraz wydaje się, że była to trafiona decyzja.</description>
     </item>
     
 </channel>
