@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 14 Oct 2025 11:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Oct 2025 12:55:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znamy ceny biletów na Klasyk</title>
+        <link>https://www.realmadryt.pl/news/143353-znamy-ceny-biletow-na-klasyk</link>
+        <pubDate>Tue, 14 Oct 2025 13:58:00 GMT</pubDate>
+        <description>Real Madryt udostępnił już na swojej stronie internetowej cennik na długo oczekiwany mecz z Barceloną. Będą one znacznie droższe od tych na starcie z Juventusem, które odbędzie się kilka dni wcześniej.</description>
+    </item>
     
     <item>
         <title>Francuzi krytykują Camavingę</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Brazylia prowadzi z Japonią, Vinícius gra na „dziewiątce” [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/143350-brazylia-prowadzi-z-japonia-vinicius-gra-na-dziewiatce-na-zywo</link>
+        <title>Brazylia przegrała z Japonią, zagrali Vinícius i Rodrygo</title>
+        <link>https://www.realmadryt.pl/news/143350-brazylia-przegrala-z-japonia-zagrali-vinicius-i-rodrygo</link>
         <pubDate>Tue, 14 Oct 2025 12:15:00 GMT</pubDate>
-        <description>Canarinhos rozgrywają dzisiaj sparingowy mecz z Japonią w Tokio. Vinícius gra od początku, Militão i Rodrygo zaczynają na ławce.</description>
+        <description>Canarinhos przegrali dzisiaj w sparingowym spotkaniu z Brazylią. Vinícius grał przez niecałą godzinę, a przez ponad pół godziny na boisku przebywał Rodrygo. Żadne z nich nie trafił do siatki. Militão przesiedział cały mecz na ławce.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143337-plan-juvenil-arbeloi</link>
         <pubDate>Tue, 14 Oct 2025 10:20:00 GMT</pubDate>
         <description>Álvaro Arbeloa nie na żadnych obaw przed sięganiem po młodych zawodników. Tylko raz w tym sezonie ligowym średnia piłkarzy w jego zespole przekroczyła 20 lat.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 14 października</title>
-        <link>https://www.realmadryt.pl/news/143336-kartka-z-kalendarza-14-pazdziernika</link>
-        <pubDate>Tue, 14 Oct 2025 09:30:00 GMT</pubDate>
-        <description>Urodziny legendarnego zawodnika, mecz reprezentacji Polski na Santiago Bernabéu i ligowe zwycięstwa Królewskich. Co działo się 14 października?</description>
     </item>
     
 </channel>
