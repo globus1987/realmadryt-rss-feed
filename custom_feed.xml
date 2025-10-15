@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 Oct 2025 03:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 03:45:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Mbappé i Mastantuono będą gotowi na mecz z Getafe</title>
+        <link>https://www.realmadryt.pl/news/143360-marca-mbappe-i-mastantuono-beda-gotowi-na-mecz-z-getafe</link>
+        <pubDate>Wed, 15 Oct 2025 05:30:00 GMT</pubDate>
+        <description>Wczoraj obaj nie trenowali z drużyną, ale nie dolega im nic poważnego.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143352-oficjalnie-robert-lewandowski-kontuzjowany</link>
         <pubDate>Tue, 14 Oct 2025 12:31:00 GMT</pubDate>
         <description>Polak niemal na pewno nie zagra w Klasyku</description>
-    </item>
-    
-    <item>
-        <title>Brazylia przegrała z Japonią, zagrali Vinícius i Rodrygo</title>
-        <link>https://www.realmadryt.pl/news/143350-brazylia-przegrala-z-japonia-zagrali-vinicius-i-rodrygo</link>
-        <pubDate>Tue, 14 Oct 2025 12:15:00 GMT</pubDate>
-        <description>Canarinhos przegrali dzisiaj w sparingowym spotkaniu z Japonią. Vinícius grał przez niecałą godzinę, a przez ponad pół godziny na boisku przebywał Rodrygo. Żaden z nich nie trafił do siatki. Militão przesiedział cały mecz na ławce.</description>
     </item>
     
 </channel>
