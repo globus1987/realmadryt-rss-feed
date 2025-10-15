@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 Oct 2025 06:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 07:25:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 października</title>
+        <link>https://www.realmadryt.pl/news/143365-kartka-z-kalendarza-15-pazdziernika</link>
+        <pubDate>Wed, 15 Oct 2025 09:11:00 GMT</pubDate>
+        <description>Urodziny byłych pomocników, wysokie zwycięstwa z Betisem, derby Madrytu i popis Ronaldo oraz śmierć zdobywcy bardzo ważnej bramki. Co działo się 15 października?</description>
+    </item>
     
     <item>
         <title>Serbski tydzień w Eurolidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143342-mbappe-kane-i-haaland-pedza-po-zloty-but</link>
         <pubDate>Tue, 14 Oct 2025 15:10:00 GMT</pubDate>
         <description>Początek sezonu w wykonaniu tej trójki przywołuje czasy wielkich pojedynków Cristiano i Messiego.</description>
-    </item>
-    
-    <item>
-        <title>Znamy ceny biletów na Klasyk</title>
-        <link>https://www.realmadryt.pl/news/143353-znamy-ceny-biletow-na-klasyk</link>
-        <pubDate>Tue, 14 Oct 2025 13:58:00 GMT</pubDate>
-        <description>Real Madryt udostępnił już na swojej stronie internetowej cennik na długo oczekiwany mecz z Barceloną. Będą one znacznie droższe od tych na starcie z Juventusem, które odbędzie się kilka dni wcześniej.</description>
     </item>
     
 </channel>
