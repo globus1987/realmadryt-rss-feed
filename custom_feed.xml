@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 15 Oct 2025 22:21:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 22:40:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143386-dzisiejsze-okladki</link>
+        <pubDate>Thu, 16 Oct 2025 00:39:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Zwiększa się liczba minut z dobrą koszykówką</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143373-marca-barcelona-obwinia-lewandowskiego-o-poglebienie-urazu</link>
         <pubDate>Wed, 15 Oct 2025 12:57:00 GMT</pubDate>
         <description>Zdaniem hiszpańskiego dziennika Barcelona uważa, że Polak doprowadził do pogłębienia urazu, przez który ma wypaść z gry na miesiąc i przegapić między innymi spotkanie z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>AS: Kapitanowie czekali na spotkanie, a La Liga, Barcelona i Villarreal się nie pojawiły</title>
-        <link>https://www.realmadryt.pl/news/143372-as-kapitanowie-czekali-na-spotkanie-a-la-liga-barcelona-i-villarreal-sie-nie-pojawily</link>
-        <pubDate>Wed, 15 Oct 2025 12:47:00 GMT</pubDate>
-        <description>La Liga, Villarreal i Barcelona nie stawiły się we wtorek na zwołane przez piłkarzy spotkanie dotyczące meczów w USA. Władze ligi twierdzą, że są chętne do rozmów i mają dobrą wolę, lecz kapitanowie odbierają to jako wystawienie do wiatru.</description>
     </item>
     
 </channel>
