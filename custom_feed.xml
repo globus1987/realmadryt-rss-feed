@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 16 Oct 2025 22:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 22:40:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143410-dzisiejsze-okladki</link>
+        <pubDate>Fri, 17 Oct 2025 00:23:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Paris Saint-Germain 1:2 Real Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143396-el-mundo-sedzia-widzi-znamiona-dwoch-przestepstw-przy-transferze-griezmanna-do-barcelony</link>
         <pubDate>Thu, 16 Oct 2025 14:18:00 GMT</pubDate>
         <description>Atlético „zgłosiło sprawę do Hiszpańskiej Federacji Piłkarskiej, ponieważ miało istotne przesłanki, że klub negocjował z zawodnikiem bezpośrednio między lutym a marcem 2019 roku”.</description>
-    </item>
-    
-    <item>
-        <title>Courtois, Alaba i Gonzalo trenowali z drużyną</title>
-        <link>https://www.realmadryt.pl/news/143395-courtois-alaba-i-gonzalo-trenowali-z-druzyna</link>
-        <pubDate>Thu, 16 Oct 2025 13:57:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
     </item>
     
 </channel>
