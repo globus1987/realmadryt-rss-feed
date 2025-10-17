@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 17 Oct 2025 21:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 22:22:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143433-dzisiejsze-okladki</link>
+        <pubDate>Sat, 18 Oct 2025 00:15:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Mamy przed sobą długą drogę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143421-totti-przy-transferze-do-realu-brakowalo-tylko-mojego-podpisu</link>
         <pubDate>Fri, 17 Oct 2025 13:42:00 GMT</pubDate>
         <description>Francesco Totti tym razem na łamach Prime Sport wspomniał o tym, jak w 2004 roku mógł trafić do stolicy Hiszpanii. Przedstawiamy najważniejsze wypowiedzi legendy Romy.</description>
-    </item>
-    
-    <item>
-        <title>„Florentino przepadał za Moratą, ale on chciał za wszelką cenę wyjechać z Madrytu”</title>
-        <link>https://www.realmadryt.pl/news/143420-florentino-przepadal-za-morata-ale-on-chcial-za-wszelka-cene-wyjechac-z-madrytu</link>
-        <pubDate>Fri, 17 Oct 2025 13:19:00 GMT</pubDate>
-        <description>Beppe Bozzo to włoski agent piłkarski i pośrednik transferowy, od lat jedna z najważniejszych postaci na rynku we Włoszech. Prowadził kariery i transfery wielu znanych zawodników, m.in. Cassano, Grosso, Quagliarelli, Gilardino, Perrotty i Bernardeschiego. To on – wraz z Juanmą Lópezem – sprowadził Álvaro Moratę do Juventusu w 2014 roku, a później uczestniczył też w jego przenosinach do Milanu. Tym razem udzielił wywiadu dla gazety Tuttosport. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
     </item>
     
 </channel>
