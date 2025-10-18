@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 18 Oct 2025 22:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 22:53:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143466-dzisiejsze-okladki</link>
+        <pubDate>Sun, 19 Oct 2025 00:42:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Barcelona odwoła się od kartek Flicka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143444-xabi-alonso-jestesmy-przeciwni-temu-meczowi-w-miami-bo-uwazamy-ze-wypacza-rozgrywki</link>
         <pubDate>Sat, 18 Oct 2025 13:25:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Getafe w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Getafe</title>
-        <link>https://www.realmadryt.pl/news/143443-ostatni-trening-przed-getafe</link>
-        <pubDate>Sat, 18 Oct 2025 13:07:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
     </item>
     
 </channel>
