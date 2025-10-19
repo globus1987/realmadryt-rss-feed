@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Oct 2025 10:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 10:54:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jak być Kylianem Mbappé</title>
+        <link>https://www.realmadryt.pl/news/143446-jak-byc-kylianem-mbappe</link>
+        <pubDate>Sun, 19 Oct 2025 12:45:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na Francuza, z którym przeprowadzał ostatnio wywiad.</description>
+    </item>
     
     <item>
         <title>Wygraj drukarkę HP Smart Tank i koszulki Realu Madryt! Uwolnij swoją kreatywność w nowym konkursie!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143460-xabi-alonso-jude-jest-znakomitym-pilkarzem-i-jest-nam-potrzebny</link>
         <pubDate>Sun, 19 Oct 2025 05:30:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Getafe w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143466-dzisiejsze-okladki</link>
-        <pubDate>Sun, 19 Oct 2025 00:42:00 GMT</pubDate>
-        <description>Sytuacja w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
