@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Oct 2025 09:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 09:53:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Powrót Nico i Chemy jest bardzo poważnie rozważany</title>
+        <link>https://www.realmadryt.pl/news/143472-marca-powrot-nico-i-chemy-jest-bardzo-powaznie-rozwazany</link>
+        <pubDate>Sun, 19 Oct 2025 11:41:00 GMT</pubDate>
+        <description>Wejście Gonzalo do pierwszej drużyny nie będzie ostatnim. Nazwiska wciąż się pojawiają, a choć nie ma jeszcze ostatecznej decyzji, plan zakłada większą obecność zawodników z akademii w przyszłym sezonie.</description>
+    </item>
     
     <item>
         <title>Abalde: Ciągle mamy wiele do poprawy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143464-marca-barcelona-odwola-sie-od-kartek-flicka</link>
         <pubDate>Sun, 19 Oct 2025 00:22:00 GMT</pubDate>
         <description>Hiszpański dziennik przekazuje, że prawnicy Barcelony już przygotowują odwołanie od kartek ujrzanych przez Hansiego Flicka.</description>
-    </item>
-    
-    <item>
-        <title>Flick: Gest Kozakiewicza? Nie wiedziałem, że to zrobiłem</title>
-        <link>https://www.realmadryt.pl/news/143458-flick-gest-kozakiewicza-nie-wiedzialem-ze-to-zrobilem</link>
-        <pubDate>Sat, 18 Oct 2025 20:49:00 GMT</pubDate>
-        <description>Na konferencji prasowej po wygranym 2:1 meczu z Gironą Hansi Flick odniósł się do swojej czerwonej kartki, wykonanego gestu Kozakiewicza i tego, że nie będzie mógł zasiąść na ławce w najbliższym spotkaniu z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Barcelony.</description>
     </item>
     
 </channel>
