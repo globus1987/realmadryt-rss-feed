@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Oct 2025 22:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 23:21:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143494-dzisiejsze-okladki</link>
+        <pubDate>Mon, 20 Oct 2025 01:02:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Bordalás: Vinícius podszedł do mnie i powiedział: „Bardzo dobra zmiana”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143480-royston-drenthe-doznal-udaru</link>
         <pubDate>Sun, 19 Oct 2025 19:20:00 GMT</pubDate>
         <description>O kłopotach zdrowotnych 38-letniego Holendra poinformowała jego drużyna oldboyów.</description>
-    </item>
-    
-    <item>
-        <title>Alaba chce znów być sobą</title>
-        <link>https://www.realmadryt.pl/news/143473-alaba-chce-znow-byc-soba</link>
-        <pubDate>Sun, 19 Oct 2025 17:25:00 GMT</pubDate>
-        <description>Obrońca wraca po przerwie reprezentacyjnej, pragnąc zbuntować się przeciwko etykietce „piątego stopera” w hierarchii. Czuje, że dostając minuty, może być ważną postacią drużyny. Nie odczuwa już bólu; jego kontuzja już się zagoiła.</description>
     </item>
     
 </channel>
