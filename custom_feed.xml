@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 19 Oct 2025 13:40:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 13:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois praktycznie nie do przejścia z Getafe</title>
+        <link>https://www.realmadryt.pl/news/143468-courtois-praktycznie-nie-do-przejscia-z-getafe</link>
+        <pubDate>Sun, 19 Oct 2025 15:45:00 GMT</pubDate>
+        <description>Thibaut Courtois w swoich dotychczasowych meczach z Getafe zanotował aż 15 czystych kont. Los Azulones to jeden z ulubionych rywali belgijskiego golkipera.</description>
+    </item>
     
     <item>
         <title>Castilla wychodzi na prostą [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143455-sukces-w-granicach-mozliwosci</link>
         <pubDate>Sun, 19 Oct 2025 10:45:00 GMT</pubDate>
         <description>Prawdziwy sukces nie zawsze musi ładnie wyglądać i bić po oczach.</description>
-    </item>
-    
-    <item>
-        <title>Po trzecie zwycięstwo z rzędu</title>
-        <link>https://www.realmadryt.pl/news/143457-po-trzecie-zwyciestwo-z-rzedu</link>
-        <pubDate>Sun, 19 Oct 2025 10:30:00 GMT</pubDate>
-        <description>W 8. kolejce Primera Federación Castilla wybierze się do Galicji na mecz z Ourense. Królewscy walczą o trzecią wygraną z rzędu, natomiast ich rywale jeszcze do tej pory pozostają bez zwycięstwa.</description>
     </item>
     
 </channel>
