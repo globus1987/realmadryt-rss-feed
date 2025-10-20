@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Oct 2025 22:23:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 22:41:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143516-dzisiejsze-okladki</link>
+        <pubDate>Tue, 21 Oct 2025 00:34:00 GMT</pubDate>
+        <description>Mecze w Lidze Mistrzów to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Sąd przyznał rację mieszkańcom i zablokował budowę parkingów przy Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143500-deco-sedziowie-w-meczach-z-nami-zawsze-sa-bardziej-rygorystyczni</link>
         <pubDate>Mon, 20 Oct 2025 11:42:00 GMT</pubDate>
         <description>Deco, dyrektor sportowy Barcelony, omówił bieżącą sytuację drużyny po Walnym Zgromadzeniu.</description>
-    </item>
-    
-    <item>
-        <title>Slavko Vinčić na Juventus</title>
-        <link>https://www.realmadryt.pl/news/143499-slavko-vincic-na-juventus</link>
-        <pubDate>Mon, 20 Oct 2025 11:37:00 GMT</pubDate>
-        <description>Słoweniec będzie rozjemcą w meczu Realu Madryt z Juventusem. Dla Słoweńca będzie to trzeci mecz z udziałem Królewskich.</description>
     </item>
     
 </channel>
