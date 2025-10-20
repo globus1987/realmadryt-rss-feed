@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Oct 2025 19:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 19:40:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sąd przyznał rację mieszkańcom i zablokował budowę parkingów przy Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/143511-sad-przyznal-racje-mieszkancom-i-zablokowal-budowe-parkingow-przy-bernabeu</link>
+        <pubDate>Mon, 20 Oct 2025 21:25:00 GMT</pubDate>
+        <description>Wyższy Trybunał Sprawiedliwości Madrytu unieważnił koncesję na parking, który Real Madryt chciał zbudować obok swojego stadionu.</description>
+    </item>
     
     <item>
         <title>MARCA: Endrick myśli o wypożyczeniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143499-slavko-vincic-na-juventus</link>
         <pubDate>Mon, 20 Oct 2025 11:37:00 GMT</pubDate>
         <description>Słoweniec będzie rozjemcą w meczu Realu Madryt z Juventusem. Dla Słoweńca będzie to trzeci mecz z udziałem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/143498-oceny-zawodnikow-po-meczu-z-getafe</link>
-        <pubDate>Mon, 20 Oct 2025 11:30:00 GMT</pubDate>
-        <description>Real Madryt wygrał 1:0 z Getafe w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
