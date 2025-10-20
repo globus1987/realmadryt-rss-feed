@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Oct 2025 06:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 07:27:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 20 października</title>
+        <link>https://www.realmadryt.pl/news/143488-kartka-z-kalendarza-20-pazdziernika</link>
+        <pubDate>Mon, 20 Oct 2025 09:18:00 GMT</pubDate>
+        <description>Przedwczesna śmierć piłkarza, pierwszy dublet Hugo Sáncheza i gorzki koniec fatalnej passy za czasów Lopeteguiego. Co działo się 20 października?</description>
+    </item>
     
     <item>
         <title>Carreras: Na takich stadionach trzeba umieć rywalizować w odpowiedni sposób</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143485-ocen-pilkarzy-po-meczu-z-getafe</link>
         <pubDate>Sun, 19 Oct 2025 23:00:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Real wyrwał komplet na Coliseum</title>
-        <link>https://www.realmadryt.pl/news/143482-real-wyrwal-komplet-na-coliseum</link>
-        <pubDate>Sun, 19 Oct 2025 20:55:00 GMT</pubDate>
-        <description>W meczu dziewiątej kolejki La Ligi Real Madryt wygrał na wyjeździe z Getafe 1:0 po trafieniu Kyliana Mbappé. Gospodarze kończyli to spotkanie w dziewięciu po dwóch czerwonych kartkach.</description>
     </item>
     
 </channel>
