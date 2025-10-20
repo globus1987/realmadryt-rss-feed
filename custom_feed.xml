@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Oct 2025 07:27:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 07:42:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fede: Ten tydzień jest jednym z tych, w których każdy piłkarz chce grać</title>
+        <link>https://www.realmadryt.pl/news/143495-fede-ten-tydzien-jest-jednym-z-tych-w-ktorych-kazdy-pilkarz-chce-grac</link>
+        <pubDate>Mon, 20 Oct 2025 09:31:00 GMT</pubDate>
+        <description>Fede Valverdze udzielił wywiadu dla klubowej telewizji po wygranym 1:0 meczu z Getafe na Coliseum. Przedstawiamy wypowiedzi kapitana Realu Madryt w tym spotkaniu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 20 października</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143483-mbappe-mvp-meczu-z-getafe</link>
         <pubDate>Sun, 19 Oct 2025 23:03:00 GMT</pubDate>
         <description>Kylian Mbappé został wyróżniony po wyjazdowym meczu Realu Madryt z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/143485-ocen-pilkarzy-po-meczu-z-getafe</link>
-        <pubDate>Sun, 19 Oct 2025 23:00:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
