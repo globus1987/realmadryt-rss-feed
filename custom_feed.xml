@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Oct 2025 16:32:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 16:55:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Endrick myśli o wypożyczeniu</title>
+        <link>https://www.realmadryt.pl/news/143509-marca-endrick-mysli-o-wypozyczeniu</link>
+        <pubDate>Mon, 20 Oct 2025 18:43:00 GMT</pubDate>
+        <description>Brazylijczyk jest jedynym piłkarzem z pola, który nie zagrał w tym sezonie dla Realu Madryt.</description>
+    </item>
     
     <item>
         <title>MARCA: Nawrót kontuzji u Rachada Fettala</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143498-oceny-zawodnikow-po-meczu-z-getafe</link>
         <pubDate>Mon, 20 Oct 2025 11:30:00 GMT</pubDate>
         <description>Real Madryt wygrał 1:0 z Getafe w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 13. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/143497-terminarz-13-kolejki-la-ligi</link>
-        <pubDate>Mon, 20 Oct 2025 10:33:00 GMT</pubDate>
-        <description>La Liga opublikowała terminarz 13. kolejki, w której Królewscy zagrają na wyjeździe z Elche.</description>
     </item>
     
 </channel>
