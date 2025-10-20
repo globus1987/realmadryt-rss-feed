@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 20 Oct 2025 07:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 08:34:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 13. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/143497-terminarz-13-kolejki-la-ligi</link>
+        <pubDate>Mon, 20 Oct 2025 10:33:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 13. kolejki, w której Królewscy zagrają na wyjeździe z Elche.</description>
+    </item>
+    
+    <item>
+        <title>Kiko Femenía: Sędziowie dają się nabierać na faule Viníciusa, na ten sposób gry, więc będzie to robił dalej</title>
+        <link>https://www.realmadryt.pl/news/143496-kiko-femenia-sedziowie-daja-sie-nabierac-na-faule-viniciusa-na-ten-sposob-gry-wiec-bedzie-to-robil-dalej</link>
+        <pubDate>Mon, 20 Oct 2025 10:08:00 GMT</pubDate>
+        <description>Po wczorajszym spotkaniu dziennikarze Chiringuito zaczepili trzech graczy Getafe i pytali ich o kontrowersyjne sytuacje. Wypowiedzieli udzielili Adrián Liso, Kiko Femenía i Álex Sancris</description>
+    </item>
     
     <item>
         <title>Fede: Ten tydzień jest jednym z tych, w których każdy piłkarz chce grać</title>
         <link>https://www.realmadryt.pl/news/143495-fede-ten-tydzien-jest-jednym-z-tych-w-ktorych-kazdy-pilkarz-chce-grac</link>
         <pubDate>Mon, 20 Oct 2025 09:31:00 GMT</pubDate>
-        <description>Fede Valverdze udzielił wywiadu dla klubowej telewizji po wygranym 1:0 meczu z Getafe na Coliseum. Przedstawiamy wypowiedzi kapitana Realu Madryt w tym spotkaniu.</description>
+        <description>Fede Valverde udzielił wywiadu dla klubowej telewizji po wygranym 1:0 meczu z Getafe na Coliseum. Przedstawiamy wypowiedzi kapitana Realu Madryt w tym spotkaniu.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143484-getafe-0-1-real-madryt-video</link>
         <pubDate>Sun, 19 Oct 2025 23:17:00 GMT</pubDate>
         <description>W meczu dziewiątej kolejki La Ligi Real Madryt wygrał na wyjeździe z Getafe 1:0 po trafieniu Kyliana Mbappé. Gospodarze kończyli to spotkanie w dziewięciu po dwóch czerwonych kartkach.</description>
-    </item>
-    
-    <item>
-        <title>Djené: Zasłużyliśmy na więcej</title>
-        <link>https://www.realmadryt.pl/news/143486-djene-zasluzylismy-na-wiecej</link>
-        <pubDate>Sun, 19 Oct 2025 23:16:00 GMT</pubDate>
-        <description>Dakonam Djené udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 0:1 meczu z Realem Madryt na Coliseum. Przedstawiamy wypowiedzi kapitana Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/143483-mbappe-mvp-meczu-z-getafe</link>
-        <pubDate>Sun, 19 Oct 2025 23:03:00 GMT</pubDate>
-        <description>Kylian Mbappé został wyróżniony po wyjazdowym meczu Realu Madryt z Getafe.</description>
     </item>
     
 </channel>
