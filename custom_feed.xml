@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 Oct 2025 21:23:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 21:39:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>„FC Barcelona szanuje i podporządkowuje się decyzji o odwołaniu meczu z Villarrealem w Miami”</title>
+        <link>https://www.realmadryt.pl/news/143553-fc-barcelona-szanuje-i-podporzadkowuje-sie-decyzji-o-odwolaniu-meczu-z-villarrealem-w-miami</link>
+        <pubDate>Tue, 21 Oct 2025 23:28:00 GMT</pubDate>
+        <description>Katalończycy wydali oficjalny komunikat.</description>
+    </item>
     
     <item>
         <title>Villarreal jest wściekły na La Ligę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143534-laporta-niech-real-robi-co-chce-my-pojedziemy-zagrac-do-miami</link>
         <pubDate>Tue, 21 Oct 2025 15:28:00 GMT</pubDate>
         <description>Prezes Barcelony rozmawiał z dziennikarzami przed meczem z Olympiakosem. Przedstawiamy najważniejsze wypowiedzi Joana Laporty.</description>
-    </item>
-    
-    <item>
-        <title>Dziwny przypadek Thiago Pitarcha</title>
-        <link>https://www.realmadryt.pl/news/143532-dziwny-przypadek-thiago-pitarcha</link>
-        <pubDate>Tue, 21 Oct 2025 14:28:00 GMT</pubDate>
-        <description>Trudna sytuacja młodego talentu Realu Madryt.</description>
     </item>
     
 </channel>
