@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 Oct 2025 11:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 12:55:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziwny przypadek Thiago Pitarcha</title>
+        <link>https://www.realmadryt.pl/news/143532-dziwny-przypadek-thiago-pitarcha</link>
+        <pubDate>Tue, 21 Oct 2025 14:28:00 GMT</pubDate>
+        <description>Trudna sytuacja młodego talentu Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Ani Huijsen, ani Trent, ani Carvajal raczej nie będą gotowi na Juventus</title>
@@ -21,10 +28,10 @@
     </item>
     
     <item>
-        <title>Courtois: Nigdy nie czułem, że nas faworyzowano – raczej odwrotnie</title>
-        <link>https://www.realmadryt.pl/news/143529-courtois-nigdy-nie-czulem-ze-nas-faworyzowano-raczej-odwrotnie</link>
+        <title>Courtois: Odkąd jestem w Realu Madryt, nigdy nie czułem, żeby nam pomagano – prędzej odwrotnie</title>
+        <link>https://www.realmadryt.pl/news/143529-courtois-odkad-jestem-w-realu-madryt-nigdy-nie-czulem-zeby-nam-pomagano-predzej-odwrotnie</link>
         <pubDate>Tue, 21 Oct 2025 13:29:00 GMT</pubDate>
-        <description>Thibaut Courtois pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Juventusem w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi bramkarza Realu Madryt z tego spotkania z dziennikarzami w Valdebebas.</description>
+        <description>Thibaut Courtois pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Juventusem w Lidze Mistrzów. Przedstawiamy pełny zapis konferencji z prasowej z bramkarzem Realu Madryt w Valdebebas.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143520-ifab-znow-rozwaza-prawo-wengera-przy-spalonych</link>
         <pubDate>Tue, 21 Oct 2025 10:15:00 GMT</pubDate>
         <description>IFAB wraca do pomysłu nowej interpretacji spalonego. Pozycja byłaby nieprawidłowa tylko wtedy, gdy między atakującym a obrońcą istniałby wyraźny odstęp.</description>
-    </item>
-    
-    <item>
-        <title>„Podczas rozmów kapitanów Carvajal kilkukrotnie podkreślał, że protest jest jego zdaniem niewystarczający”</title>
-        <link>https://www.realmadryt.pl/news/143518-podczas-rozmow-kapitanow-carvajal-kilkukrotnie-podkreslal-ze-protest-jest-jego-zdaniem-niewystarczajacy</link>
-        <pubDate>Tue, 21 Oct 2025 10:00:00 GMT</pubDate>
-        <description>Jak wyglądały rozmowy między zawodnikami i co dalej?</description>
     </item>
     
 </channel>
