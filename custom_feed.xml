@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 Oct 2025 20:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 21:23:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Villarreal jest wściekły na La Ligę</title>
+        <link>https://www.realmadryt.pl/news/143551-villarreal-jest-wsciekly-na-la-lige</link>
+        <pubDate>Tue, 21 Oct 2025 23:17:00 GMT</pubDate>
+        <description>Tak się kończy bratanie z Javierem Tebasem.</description>
+    </item>
+    
+    <item>
+        <title>Real nie opublikował kadry na mecz z Juventusem</title>
+        <link>https://www.realmadryt.pl/news/143542-real-nie-opublikowal-kadry-na-mecz-z-juventusem</link>
+        <pubDate>Tue, 21 Oct 2025 23:01:00 GMT</pubDate>
+        <description>Listę powołanych poznamy dopiero w dniu spotkania. Wątpliwości dotyczą dwóch piłkarzy.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Mecz Villarrealu z Barceloną nie odbędzie się w Miami!</title>
@@ -35,10 +49,10 @@
     </item>
     
     <item>
-        <title>Barça rozbiła Olympiakos; Atleti gra na Emirates, a City na La Cerámice [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/143539-barca-rozbila-olympiakos-atleti-gra-na-emirates-a-city-na-la-ceramice-na-zywo</link>
+        <title>Barça rozbiła Olympiakos, Arsenal zmiótł Atlético, a City pokonało Villarreal</title>
+        <link>https://www.realmadryt.pl/news/143539-barca-rozbila-olympiakos-arsenal-zmiotl-atletico-a-city-pokonalo-villarreal</link>
         <pubDate>Tue, 21 Oct 2025 18:30:00 GMT</pubDate>
-        <description>Ruszyła 3. kolejka Ligi Mistrzów.</description>
+        <description>Za nami wtorkowe mecze 3. kolejki Ligi Mistrzów.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143532-dziwny-przypadek-thiago-pitarcha</link>
         <pubDate>Tue, 21 Oct 2025 14:28:00 GMT</pubDate>
         <description>Trudna sytuacja młodego talentu Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Ani Huijsen, ani Trent, ani Carvajal raczej nie będą gotowi na Juventus</title>
-        <link>https://www.realmadryt.pl/news/143528-xabi-alonso-ani-huijsen-ani-trent-ani-carvajal-raczej-nie-beda-gotowi-na-juventus</link>
-        <pubDate>Tue, 21 Oct 2025 13:50:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Juventusem w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Media: Alaba nie zagra w Klasyku</title>
-        <link>https://www.realmadryt.pl/news/143530-media-alaba-nie-zagra-w-klasyku</link>
-        <pubDate>Tue, 21 Oct 2025 13:40:00 GMT</pubDate>
-        <description>Dziennikarze zgodnie podają, że Austriak nie ma szans na występ z Barceloną. Oceniane są przypadki Alexandra-Arnolda i Carvajala.</description>
     </item>
     
 </channel>
