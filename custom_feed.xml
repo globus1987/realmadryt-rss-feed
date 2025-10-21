@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 21 Oct 2025 10:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 11:20:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed Juventusem</title>
+        <link>https://www.realmadryt.pl/news/143527-ostatni-trening-przed-juventusem</link>
+        <pubDate>Tue, 21 Oct 2025 12:59:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Ferran Torres ostatecznie jest już gotowy do gry</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143517-ramos-licze-ze-real-wygra-w-klasyku-a-moj-brat-kiki-zagra-swietny-mecz</link>
         <pubDate>Tue, 21 Oct 2025 08:52:00 GMT</pubDate>
         <description>Juanfe Sanz, dziennikarz Chiringuito udał się do Meksyku, gdzie spotkał Sergio Ramosa i mógł z nim chwilę porozmawiać. Przedstawiamy pełny zapis tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/143515-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 21 Oct 2025 08:18:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 9. kolejce La Ligi.</description>
     </item>
     
 </channel>
