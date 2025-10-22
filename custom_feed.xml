@@ -4,7 +4,35 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Oct 2025 20:56:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 21:19:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Wyciągniemy wnioski z błędów</title>
+        <link>https://www.realmadryt.pl/news/143583-scariolo-wyciagniemy-wnioski-z-bledow</link>
+        <pubDate>Wed, 22 Oct 2025 23:18:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował krótko przegrane spotkanie z Maccabi Tel Awiw. Pochwalił zawodników za powrót do meczu po fatalnej drugiej kwarcie i zapowiedział, że drużyna wyciągnie wnioski z popełnionych błędów.</description>
+    </item>
+    
+    <item>
+        <title>Courtois: Juventus to nie jest mały zespół</title>
+        <link>https://www.realmadryt.pl/news/143582-courtois-juventus-to-nie-jest-maly-zespol</link>
+        <pubDate>Wed, 22 Oct 2025 23:10:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po wygranym 1:0 meczu z Juventusem w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi bramkarza Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Arda Güler MVP meczu z Juventusem</title>
+        <link>https://www.realmadryt.pl/news/143581-arda-gueler-mvp-meczu-z-juventusem</link>
+        <pubDate>Wed, 22 Oct 2025 23:06:00 GMT</pubDate>
+        <description>Dobra forma Turka w meczu z Włochami została doecniona przez ekspertów.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Juventusem</title>
+        <link>https://www.realmadryt.pl/news/143579-ocen-pilkarzy-po-meczu-z-juventusem</link>
+        <pubDate>Wed, 22 Oct 2025 22:59:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
     
     <item>
         <title>Wyjazdowa niemoc trwa</title>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/143572-burmistrz-madrytu-uznaje-za-stracony-jeden-z-parkingow-przy-bernabeu</link>
         <pubDate>Wed, 22 Oct 2025 17:10:00 GMT</pubDate>
         <description>Martínez-Almeida uważa, że „nie ma większego sensu wracać do projektu” przy ulicy Padre Damián. Za rozsądny uznaje natomiast parking przy Paseo de la Castellana.</description>
-    </item>
-    
-    <item>
-        <title>„Villarreal pragnie wyrazić głębokie niezadowolenie z La Ligi z powodu złego zarządzania organizacją meczu z Barceloną”</title>
-        <link>https://www.realmadryt.pl/news/143571-villarreal-pragnie-wyrazic-glebokie-niezadowolenie-z-la-ligi-z-powodu-zlego-zarzadzania-organizacja-meczu-z-barcelona</link>
-        <pubDate>Wed, 22 Oct 2025 17:05:00 GMT</pubDate>
-        <description>Żółta Łódź Podwodna wydała oficjalny komunikat w sprawie odwołanego meczu w Miami.</description>
-    </item>
-    
-    <item>
-        <title>Soto: Arbiter na Klasyk będzie doświadczony i zaliczy dobre zawody</title>
-        <link>https://www.realmadryt.pl/news/143570-soto-arbiter-na-klasyk-bedzie-doswiadczony-i-zaliczy-dobre-zawody</link>
-        <pubDate>Wed, 22 Oct 2025 15:27:00 GMT</pubDate>
-        <description>Fran Soto, szef Komitetu Technicznego Arbitrów (CTA), podzielił się swoimi odczuciami w związku ze zbliżającym się Klasykiem. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono, obsesja Xabiego, która wciąż nie do końca przekonuje</title>
-        <link>https://www.realmadryt.pl/news/143564-mastantuono-obsesja-xabiego-ktora-wciaz-nie-do-konca-przekonuje</link>
-        <pubDate>Wed, 22 Oct 2025 15:08:00 GMT</pubDate>
-        <description>Nikt nie podważa pozycji Argentyńczyka na prawej flance, ale jego gra pozostawia część kibiców Królewskich nie do końca przekonanych.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Euroliga wraca do Izraela</title>
-        <link>https://www.realmadryt.pl/news/143569-oficjalnie-euroliga-wraca-do-izraela</link>
-        <pubDate>Wed, 22 Oct 2025 14:55:00 GMT</pubDate>
-        <description>Euroliga szybko zareagowała na ostatnie wydarzenia w Strefie Gazy i ogłosiła, że od 1 grudnia tego roku mecze ponownie będą rozgrywane na terytorium Izraela, a konkretnie w Tel Awiwie.</description>
     </item>
     
 </channel>
