@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Oct 2025 05:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 05:56:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mendilibar: Biała ręka? Nie chcę mieć z tutejszymi sprawami nic wspólnego</title>
+        <link>https://www.realmadryt.pl/news/143557-mendilibar-biala-reka-nie-chce-miec-z-tutejszymi-sprawami-nic-wspolnego</link>
+        <pubDate>Wed, 22 Oct 2025 07:48:00 GMT</pubDate>
+        <description>José Luis Mendilibar wziął udział w konferencji prasowej po wczorajszej porażce z Barceloną w Lidze Mistrzów. Przedstawiamy najciekawszy fragment tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Mbappé i „klątwa Juventusu”, którą przełamał tylko Cristiano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143539-barca-rozbila-olympiakos-arsenal-zmiotl-atletico-a-city-pokonalo-villarreal</link>
         <pubDate>Tue, 21 Oct 2025 18:30:00 GMT</pubDate>
         <description>Za nami wtorkowe mecze 3. kolejki Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Motta: Real Madryt jest w dużo lepszej formie niż Juventus</title>
-        <link>https://www.realmadryt.pl/news/143538-motta-real-madryt-jest-w-duzo-lepszej-formie-niz-juventus</link>
-        <pubDate>Tue, 21 Oct 2025 17:22:00 GMT</pubDate>
-        <description>Marco Motta, były gracz Juventusu a obecnie trener jednej z drużyn młodzieżowych w madryckim Rayo Alcobendas, udzielił wywiadu dziennikowi AS przed jutrzejszym spotkaniem Realu Madryt z Juventusem w Lidze Mistrzów. Przedstawiamy rozmowę z Włochem.</description>
     </item>
     
 </channel>
