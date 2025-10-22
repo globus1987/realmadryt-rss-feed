@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Oct 2025 22:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 22:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143591-dzisiejsze-okladki</link>
+        <pubDate>Thu, 23 Oct 2025 00:39:00 GMT</pubDate>
+        <description>Wygrana Realu i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Arda Güler: Czuję się bardzo ważny dzięki Xabiemu, który mi ufa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143576-europejski-klasyk-dla-realu</link>
         <pubDate>Wed, 22 Oct 2025 20:55:00 GMT</pubDate>
         <description>W trzecim meczu fazy ligowej Champions Leagu Real Madryt wygrał u siebie z Juventusem 1:0. Jedyną bramkę zdobył Jude Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Dyrektor generalny Villarrealu: Wygląda na to, że Real Madryt jest przeciwko wszystkiemu</title>
-        <link>https://www.realmadryt.pl/news/143578-dyrektor-generalny-villarrealu-wyglada-na-to-ze-real-madryt-jest-przeciwko-wszystkiemu</link>
-        <pubDate>Wed, 22 Oct 2025 20:06:00 GMT</pubDate>
-        <description>Roig Negueroles, dyrektor generalny Villarrealu, rozmawiał z Radio MARCA o odwołanym meczu w Miami. Przedstawiamy jego najważniejsze wypowiedzi.</description>
     </item>
     
 </channel>
