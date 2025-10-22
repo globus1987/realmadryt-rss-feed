@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 22 Oct 2025 11:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 11:54:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Juventus</title>
+        <link>https://www.realmadryt.pl/news/143531-kadra-na-juventus</link>
+        <pubDate>Wed, 22 Oct 2025 13:43:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu podczas spotkania z Włochami. Bask powołał 21 piłkarzy.</description>
+    </item>
     
     <item>
         <title>„Javier Tebas powinien podać się do dymisji, tak po prostu nie można się kompromitować”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143535-carvajal-w-klasyku-mamy-ogromna-chec-rewanzu</link>
         <pubDate>Wed, 22 Oct 2025 10:08:00 GMT</pubDate>
         <description>Dani Carvajal udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Juventus lubi ostatnio zaskakiwać Real na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/143549-juventus-lubi-ostatnio-zaskakiwac-real-na-bernabeu</link>
-        <pubDate>Wed, 22 Oct 2025 10:00:00 GMT</pubDate>
-        <description>Los Blancos wygrali tylko jedno z ostatnich czterech spotkań z Juve w Madrycie.</description>
     </item>
     
 </channel>
