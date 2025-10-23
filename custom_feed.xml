@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 08:57:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 09:29:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tebas: Piłkarze Realu Madryt potrafią tylko mówić: „wypaczona, wypaczona, wypaczona”</title>
+        <link>https://www.realmadryt.pl/news/143598-tebas-pilkarze-realu-madryt-potrafia-tylko-mowic-wypaczona-wypaczona-wypaczona</link>
+        <pubDate>Thu, 23 Oct 2025 11:26:00 GMT</pubDate>
+        <description>Prezes La Ligi po raz pierwszy szerzej wypowiedział się na temat odwołanego meczu w Miami. Przedstawiamy najważniejsze wypowiedzi Javiera Tebasa.</description>
+    </item>
     
     <item>
         <title>„To nie jest dobry znak, że Courtois odgrywa coraz ważniejszą rolę”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143586-xabi-alonso-jude-potrzebowal-takiego-meczu-po-kontuzji</link>
         <pubDate>Wed, 22 Oct 2025 23:45:00 GMT</pubDate>
         <description>Xabi Alonso udzielił wywiadu dla telewizji Movistar+ po wygranym 1:0 meczu z Juventusem. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 1:0 Juventus [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/143585-real-madryt-1-0-juventus-video</link>
-        <pubDate>Wed, 22 Oct 2025 23:32:00 GMT</pubDate>
-        <description>W meczu trzeciej kolejki Ligi Mistrzów Real Madryt wygrał na własnym boisku z Juventusem 1:0 po trafieniu Jude'a Bellinghama.</description>
     </item>
     
 </channel>
