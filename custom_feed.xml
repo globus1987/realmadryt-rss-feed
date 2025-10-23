@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 03:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 03:44:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Moje interwencje? Tak pomagam zespołowi i chcę to robić jak najdłużej</title>
+        <link>https://www.realmadryt.pl/news/143588-courtois-moje-interwencje-tak-pomagam-zespolowi-i-chce-to-robic-jak-najdluzej</link>
+        <pubDate>Thu, 23 Oct 2025 05:30:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu klubowej telewizji po wygranym 1:0 meczu z Juventusem w Lidze Mistrzów. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143580-wyjazdowa-niemoc-trwa</link>
         <pubDate>Wed, 22 Oct 2025 22:28:00 GMT</pubDate>
         <description>Real Madryt przegrał w Belgradzie z Maccabi Tel Awiw i dalej jest zespołem bez wyjazdowego zwycięstwa. Królewskim zabrakło szczęścia w końcówce, bo wcześniej byli w stanie odrobić dużą stratę.</description>
-    </item>
-    
-    <item>
-        <title>Europejski klasyk dla Realu</title>
-        <link>https://www.realmadryt.pl/news/143576-europejski-klasyk-dla-realu</link>
-        <pubDate>Wed, 22 Oct 2025 20:55:00 GMT</pubDate>
-        <description>W trzecim meczu fazy ligowej Champions Leagu Real Madryt wygrał u siebie z Juventusem 1:0. Jedyną bramkę zdobył Jude Bellingham.</description>
     </item>
     
 </channel>
