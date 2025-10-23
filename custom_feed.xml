@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 14:26:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 14:47:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Figo: Real jest delikatnym faworytem Klasyku</title>
+        <link>https://www.realmadryt.pl/news/143606-figo-real-jest-delikatnym-faworytem-klasyku</link>
+        <pubDate>Thu, 23 Oct 2025 16:40:00 GMT</pubDate>
+        <description>Luís Figo udzielił wywiadu dla hiszpańskiego bukmachera Betfair, którego jest ambasadorem. Przedstawiamy przemyślenia Portugalczyka na temat zbliżajacego się meczu Realu Madryt z Barceloną.</description>
+    </item>
     
     <item>
         <title>Czterech stoperów i dwa miejsca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143595-bellingham-w-zeszlym-roku-nie-gralismy-tak-dobrze-takze-przeze-mnie</link>
         <pubDate>Thu, 23 Oct 2025 09:31:00 GMT</pubDate>
         <description>Jude Bellingham po wczorajszym meczu rozmawiał z Alessandro Del Piero dla CBS Sports. Przedstawiamy pełny zapis tej rozmowy Anglia z Włochem.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Jeśli myślisz, że twoja liga jest najlepsza na świecie, nie musisz jeździć gdzie indziej</title>
-        <link>https://www.realmadryt.pl/news/143594-courtois-jesli-myslisz-ze-twoja-liga-jest-najlepsza-na-swiecie-nie-musisz-jezdzic-gdzie-indziej</link>
-        <pubDate>Thu, 23 Oct 2025 09:15:00 GMT</pubDate>
-        <description>Thibaut Courtois po wczorajszym spotkaniu z Juventusem rozmawiał z dziennikarzami również w strefie mieszanej. Przedstawiamy najważniejsze wypowiedzi bramkarza Realu Madryt.</description>
     </item>
     
 </channel>
