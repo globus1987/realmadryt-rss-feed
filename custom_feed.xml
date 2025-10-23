@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 04:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 05:25:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Wyłapaliśmy błędy i je poprawimy</title>
+        <link>https://www.realmadryt.pl/news/143592-xabi-alonso-wylapalismy-bledy-i-je-poprawimy</link>
+        <pubDate>Thu, 23 Oct 2025 07:25:00 GMT</pubDate>
+        <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 1:0 meczu z Juventusem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Courtois: Moje interwencje? Tak pomagam zespołowi i chcę to robić jak najdłużej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143579-ocen-pilkarzy-po-meczu-z-juventusem</link>
         <pubDate>Wed, 22 Oct 2025 22:59:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Wyjazdowa niemoc trwa</title>
-        <link>https://www.realmadryt.pl/news/143580-wyjazdowa-niemoc-trwa</link>
-        <pubDate>Wed, 22 Oct 2025 22:28:00 GMT</pubDate>
-        <description>Real Madryt przegrał w Belgradzie z Maccabi Tel Awiw i dalej jest zespołem bez wyjazdowego zwycięstwa. Królewskim zabrakło szczęścia w końcówce, bo wcześniej byli w stanie odrobić dużą stratę.</description>
     </item>
     
 </channel>
