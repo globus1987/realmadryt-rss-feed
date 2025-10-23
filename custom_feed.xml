@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 05:55:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 06:38:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Butragueño: Potrafiliśmy cierpieć bez piłki</title>
+        <link>https://www.realmadryt.pl/news/143590-butragueno-potrafilismy-cierpiec-bez-pilki</link>
+        <pubDate>Thu, 23 Oct 2025 08:18:00 GMT</pubDate>
+        <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wywiadu dla klubowej telewizji po wygranej z Juventusem w Lidze Mistrzów. Przedstawiamy słowa działacza.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Wyłapaliśmy błędy i je poprawimy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143581-arda-gueler-mvp-meczu-z-juventusem</link>
         <pubDate>Wed, 22 Oct 2025 23:06:00 GMT</pubDate>
         <description>Dobra forma Turka w meczu z Włochami została doecniona przez ekspertów.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Juventusem</title>
-        <link>https://www.realmadryt.pl/news/143579-ocen-pilkarzy-po-meczu-z-juventusem</link>
-        <pubDate>Wed, 22 Oct 2025 22:59:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
