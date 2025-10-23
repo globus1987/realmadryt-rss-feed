@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 09:29:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 09:46:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Juventusem</title>
+        <link>https://www.realmadryt.pl/news/143597-oceny-zawodnikow-po-meczu-z-juventusem</link>
+        <pubDate>Thu, 23 Oct 2025 11:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał 1:0 z Juventusem w Lidze Mistrzów. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Tebas: Piłkarze Realu Madryt potrafią tylko mówić: „wypaczona, wypaczona, wypaczona”</title>
@@ -28,8 +35,8 @@
     </item>
     
     <item>
-        <title>Courtois: Jeśli myślisz, że twoja liga jest najlepsza na świecie, nie musisz jeździć gdzie indziej, żeby rozgrywać swoje mecze</title>
-        <link>https://www.realmadryt.pl/news/143594-courtois-jesli-myslisz-ze-twoja-liga-jest-najlepsza-na-swiecie-nie-musisz-jezdzic-gdzie-indziej-zeby-rozgrywac-swoje-mecze</link>
+        <title>Courtois: Jeśli myślisz, że twoja liga jest najlepsza na świecie, nie musisz jeździć gdzie indziej</title>
+        <link>https://www.realmadryt.pl/news/143594-courtois-jesli-myslisz-ze-twoja-liga-jest-najlepsza-na-swiecie-nie-musisz-jezdzic-gdzie-indziej</link>
         <pubDate>Thu, 23 Oct 2025 09:15:00 GMT</pubDate>
         <description>Thibaut Courtois po wczorajszym spotkaniu z Juventusem rozmawiał z dziennikarzami również w strefie mieszanej. Przedstawiamy najważniejsze wypowiedzi bramkarza Realu Madryt.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143589-cope-asencio-wstepnie-bez-kontuzji</link>
         <pubDate>Thu, 23 Oct 2025 00:04:00 GMT</pubDate>
         <description>Raúl Asencio nie dokończył meczu z Juventusem, ale wstępnie nie jest kontuzjowany.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Jude potrzebował takiego meczu po kontuzji</title>
-        <link>https://www.realmadryt.pl/news/143586-xabi-alonso-jude-potrzebowal-takiego-meczu-po-kontuzji</link>
-        <pubDate>Wed, 22 Oct 2025 23:45:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu dla telewizji Movistar+ po wygranym 1:0 meczu z Juventusem. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
