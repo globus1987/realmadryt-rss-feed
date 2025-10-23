@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 23 Oct 2025 10:28:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 10:45:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/143602-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 23 Oct 2025 12:43:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>De Jong nie trenował z drużyną na trzy dni przed Klasykiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143592-xabi-alonso-wylapalismy-bledy-i-je-poprawimy</link>
         <pubDate>Thu, 23 Oct 2025 07:25:00 GMT</pubDate>
         <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 1:0 meczu z Juventusem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Moje interwencje? Tak pomagam zespołowi i chcę to robić jak najdłużej</title>
-        <link>https://www.realmadryt.pl/news/143588-courtois-moje-interwencje-tak-pomagam-zespolowi-i-chce-to-robic-jak-najdluzej</link>
-        <pubDate>Thu, 23 Oct 2025 05:30:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu klubowej telewizji po wygranym 1:0 meczu z Juventusem w Lidze Mistrzów. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
     </item>
     
 </channel>
