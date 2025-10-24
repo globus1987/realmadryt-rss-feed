@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 Oct 2025 03:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 03:43:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt zamyka drzwi przez Klasykiem</title>
+        <link>https://www.realmadryt.pl/news/143610-real-madryt-zamyka-drzwi-przez-klasykiem</link>
+        <pubDate>Fri, 24 Oct 2025 05:30:00 GMT</pubDate>
+        <description>Real Madryt w dwunastu ostatnich meczach zanotował sześć czystych kont. Poza pracą całego zespołu duża w tym zasługa wybitnie się spisującego Thibaut Courtois.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143602-krolewscy-maja-dzis-wolne</link>
         <pubDate>Thu, 23 Oct 2025 12:43:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>De Jong nie trenował z drużyną na trzy dni przed Klasykiem</title>
-        <link>https://www.realmadryt.pl/news/143601-de-jong-nie-trenowal-z-druzyna-na-trzy-dni-przed-klasykiem</link>
-        <pubDate>Thu, 23 Oct 2025 12:12:00 GMT</pubDate>
-        <description>Kolejne problemy rywali?</description>
     </item>
     
 </channel>
