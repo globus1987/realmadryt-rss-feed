@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 24 Oct 2025 21:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 22:24:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143649-dzisiejsze-okladki</link>
+        <pubDate>Sat, 25 Oct 2025 00:04:00 GMT</pubDate>
+        <description>Zbliżający się Klasyk to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telesport: Bruno Fernando o krok od Partizana</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143635-the-athletic-raphinha-nie-zagra-w-klasyku-i-wypada-z-gry-na-kolejny-miesiac</link>
         <pubDate>Fri, 24 Oct 2025 16:33:00 GMT</pubDate>
         <description>Brazylijczykowi odnowił się uraz mięśniowy.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x11: Test bardziej mentalny niż piłkarski?</title>
-        <link>https://www.realmadryt.pl/news/143633-podcast-7x11-test-bardziej-mentalny-niz-pilkarski</link>
-        <pubDate>Fri, 24 Oct 2025 16:10:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich przed Klasykiem z Barceloną.</description>
     </item>
     
 </channel>
