@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Oct 2025 16:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 17:19:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klasyk między ofiarami</title>
+        <link>https://www.realmadryt.pl/news/143653-klasyk-miedzy-ofiarami</link>
+        <pubDate>Sat, 25 Oct 2025 19:02:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat zbliżającego Klasyku.</description>
+    </item>
     
     <item>
         <title>Kadra Barcelony na Klasyk z Realem Madryt</title>
         <link>https://www.realmadryt.pl/news/143663-kadra-barcelony-na-klasyk-z-realem-madryt</link>
         <pubDate>Sat, 25 Oct 2025 18:10:00 GMT</pubDate>
-        <description>Katalończycy polecą do stolicy sześciu piłkarzy. Gotowy do gry ma być za to Jules Koundé.</description>
+        <description>Katalończycy polecą do stolicy siedmiu piłkarzy. Gotowy do gry ma być za to Jules Koundé.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143652-as-endrick-zaczyna-sluchac-ofert</link>
         <pubDate>Sat, 25 Oct 2025 10:07:00 GMT</pubDate>
         <description>Endrick ma dość swojej obecnej sytuacji w Realu Madryt i zaczyna słuchać ofert wypożyczenia już w zimowym okienku transferowym. Brazylijczyk pozostaje obok Ferlanda Mendy'ego jedynym zawodnikiem, który wciąż nie zadebiutował u Xabiego Alonso.</description>
-    </item>
-    
-    <item>
-        <title>222 zł za gola Realu w Klasyku!</title>
-        <link>https://www.realmadryt.pl/news/143655-222-zl-za-gola-realu-w-klasyku</link>
-        <pubDate>Sat, 25 Oct 2025 10:00:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
     </item>
     
 </channel>
