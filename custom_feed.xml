@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 25 Oct 2025 07:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 07:39:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 października</title>
+        <link>https://www.realmadryt.pl/news/143615-kartka-z-kalendarza-25-pazdziernika</link>
+        <pubDate>Sat, 25 Oct 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, domowe zwycięstwa z Barceloną i porażka w Lipsku. Co działo się 25 października?</description>
+    </item>
     
     <item>
         <title>Trener Espanyolu: Mecz w Miami? Nie ma problemu, bo przecież nie było za to żadnych pieniędzy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143641-hansi-flick-nie-poprowadzi-barcy-z-lawki-w-klasyku</link>
         <pubDate>Fri, 24 Oct 2025 19:25:00 GMT</pubDate>
         <description>Ostatnie możliwe odwołanie Katalończyków na drodze sportowej nie przyniosło skutku, co oznacza, że jej trener obejrzy niedzielny Klasyk poza ławką rezerwowych. W tej strefie oraz na konferencji prasowej zastąpi go jego asystent.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 10. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/143638-telewizyjny-terminarz-10-kolejki-la-ligi</link>
-        <pubDate>Fri, 24 Oct 2025 18:55:00 GMT</pubDate>
-        <description>Rusza 10. kolejka La Ligi. Real Madryt w niedzielę zagra w niej w domu z Barceloną. Gdzie obejrzeć ten mecz i pozostałe spotkania z tej serii spotkań?</description>
     </item>
     
 </channel>
