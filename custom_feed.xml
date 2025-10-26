@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 14:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 15:22:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – FC Barcelona [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/143690-real-madryt-fc-barcelona-live</link>
+        <pubDate>Sun, 26 Oct 2025 16:10:00 GMT</pubDate>
+        <description>Od 16:15 trwa mecz między Realem Madryt a Barceloną na Santiago Bernabéu w ramach 10. kolejki La Ligi.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Barceloną [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143679-carreras-nadzieja-realu-madryt-na-powstrzymanie-laminea-yamala</link>
         <pubDate>Sun, 26 Oct 2025 10:00:00 GMT</pubDate>
         <description>Lewy obrońca, drugi najdroższy defensor w historii Realu Madryt, błyszczał w Benfice w meczach z Barceloną w poprzednim sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Flick w poszukiwaniu swojej manity</title>
-        <link>https://www.realmadryt.pl/news/143677-flick-w-poszukiwaniu-swojej-manity</link>
-        <pubDate>Sun, 26 Oct 2025 09:30:00 GMT</pubDate>
-        <description>Hansi Flick wygrał wszystkie swoje cztery dotychczasowe Klasyki. Dzisiaj na Santiago Bernabéu poszuka manity.</description>
     </item>
     
 </channel>
