@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 07:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 08:29:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 26 października</title>
+        <link>https://www.realmadryt.pl/news/143616-kartka-z-kalendarza-26-pazdziernika</link>
+        <pubDate>Sun, 26 Oct 2025 09:00:00 GMT</pubDate>
+        <description>Urodziny byłego zawodnika, wygrana z Górnikiem Zabrze, porażka na Camp Nou i lanie w Klasyku u siebie. Co działo się 26 października?</description>
+    </item>
     
     <item>
         <title>Gdzie obejrzeć Klasyk?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143653-klasyk-miedzy-ofiarami</link>
         <pubDate>Sat, 25 Oct 2025 19:02:00 GMT</pubDate>
         <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat zbliżającego Klasyku.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Barcelony na Klasyk z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/143663-kadra-barcelony-na-klasyk-z-realem-madryt</link>
-        <pubDate>Sat, 25 Oct 2025 18:10:00 GMT</pubDate>
-        <description>Katalończycy polecą do stolicy bez siedmiu piłkarzy. Gotowy do gry ma być za to Jules Koundé.</description>
     </item>
     
 </channel>
