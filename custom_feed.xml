@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 09:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 10:24:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klasyk z brytyjskim akcentem</title>
+        <link>https://www.realmadryt.pl/news/143678-klasyk-z-brytyjskim-akcentem</link>
+        <pubDate>Sun, 26 Oct 2025 11:00:00 GMT</pubDate>
+        <description>Dzisiaj po raz pierwszy w historii Klasyków na boisku może się pojawić trzech angielskich piłkarzy. Jude Bellingham i Marcus Rashford wyjdą w pierwszym składzie, a Trent Alexander-Arnold powinien zacząć na ławce rezerwowych.</description>
+    </item>
+    
+    <item>
+        <title>Szansa na ligowy rekord</title>
+        <link>https://www.realmadryt.pl/news/143683-szansa-na-ligowy-rekord</link>
+        <pubDate>Sun, 26 Oct 2025 10:54:00 GMT</pubDate>
+        <description>W 4. kolejce Ligi Endesa Real Madryt zmierzy się z Manresą. Królewscy mają w tym spotkaniu szansę na ustanowienie rekordu liczby zwycięstw z rzędu u siebie w lidze. Jeśli pokonają Katalończyków, będą mieć 34 kolejne wygrane na koncie.</description>
+    </item>
     
     <item>
         <title>Llull: Manresa będzie trudnym rywalem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143674-real-madryt-fc-barcelona-przewidywane-sklady</link>
         <pubDate>Sun, 26 Oct 2025 01:44:00 GMT</pubDate>
         <description>Królewscy podchodzą do Klasyku z tylko dwoma nieobecnymi i wątpliwością dotyczącą ostatniego elementu w jedenastce. Rywale przyjechali do stolicy mocno osłabieni.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143673-dzisiejsze-okladki</link>
-        <pubDate>Sun, 26 Oct 2025 00:24:00 GMT</pubDate>
-        <description>Klasyk to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Mój Real dobrze gra w piłkę, mi się podoba</title>
-        <link>https://www.realmadryt.pl/news/143665-xabi-alonso-moj-real-dobrze-gra-w-pilke-mi-sie-podoba</link>
-        <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym Klasykiem z Barceloną w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
