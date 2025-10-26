@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 21:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 21:39:42 GMT</lastBuildDate>
     
     <item>
-        <title>Scarioli: Rekord zwycięstw? To wspólna praca wielu ludzi</title>
-        <link>https://www.realmadryt.pl/news/143705-scarioli-rekord-zwyciestw-to-wspolna-praca-wielu-ludzi</link>
+        <title>Mundo Deportivo: Oczywisty karny po faulu Carvajala na Araújo</title>
+        <link>https://www.realmadryt.pl/news/143706-mundo-deportivo-oczywisty-karny-po-faulu-carvajala-na-araujo</link>
+        <pubDate>Sun, 26 Oct 2025 22:22:00 GMT</pubDate>
+        <description>Kataloński dziennik twierdzi, że Barcelona została skrzywdzona przez Soto Grado, który w doliczonym czasie gry nie podyktował rzutu karnego po starciu Daniego Carvajala z Ronaldem Araújo.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: Rekord zwycięstw? To wspólna praca wielu ludzi</title>
+        <link>https://www.realmadryt.pl/news/143705-scariolo-rekord-zwyciestw-to-wspolna-praca-wielu-ludzi</link>
         <pubDate>Sun, 26 Oct 2025 22:13:00 GMT</pubDate>
         <description>Sergio Scariolo podsumował krótko wygrane spotkanie z Manresą. Odniósł się między innymi do rekordu zwycięstw (34 domowe wygrane z rzędu w lidze), ale chwalił też grę rywala.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143692-carvajal-wynik-jest-zbyt-niski</link>
         <pubDate>Sun, 26 Oct 2025 18:39:00 GMT</pubDate>
         <description>Dani Carvajal udzielił wywiadu z murawy dla klubowej telewizji po wygranym 2:1 meczu z Barceloną. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP Klasyku</title>
-        <link>https://www.realmadryt.pl/news/143691-mbappe-mvp-klasyku</link>
-        <pubDate>Sun, 26 Oct 2025 18:32:00 GMT</pubDate>
-        <description>Kylian Mbappé został wyróżniony po domowym meczu Realu Madryt z Barceloną.</description>
     </item>
     
 </channel>
