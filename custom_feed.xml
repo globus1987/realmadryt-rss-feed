@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 05:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 06:35:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czy już się da?</title>
+        <link>https://www.realmadryt.pl/news/143669-czy-juz-sie-da</link>
+        <pubDate>Sun, 26 Oct 2025 07:30:00 GMT</pubDate>
+        <description>Czasami zwyczajnie się nie da, ponieważ wszechświat ma na ciebie inny plan.</description>
+    </item>
+    
+    <item>
+        <title>Barcelona może wyrównać oficjalny bilans Klasyków</title>
+        <link>https://www.realmadryt.pl/news/143667-barcelona-moze-wyrownac-oficjalny-bilans-klasykow</link>
+        <pubDate>Sun, 26 Oct 2025 07:00:00 GMT</pubDate>
+        <description>Ostatnia seria Katalończyków pozwoliła im doskoczyć do Królewskich w bilansie oficjalnych Klasyków. Poza tym Barcelona może wyrównać dzisiaj swoją najlepszą serię zwycięstw w tych meczach, przy czym ogólny rekord w tym względzie należy do Królewskich.</description>
+    </item>
     
     <item>
         <title>Laporta: Real poprzez jego telewizję wpływa na sędziów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143666-carreras-ochroni-real-przed-yamalem</link>
         <pubDate>Sat, 25 Oct 2025 15:57:00 GMT</pubDate>
         <description>Lewy obrońca ostatnio radzi sobie trochę gorzej, ale teraz przed nim zadanie zatrzymania Lamine. Dokonał już tego dwukrotnie w barwach Benfiki, także mimo kontrowersyjnego rzutu karnego.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Barcelonę</title>
-        <link>https://www.realmadryt.pl/news/143664-kadra-na-barcelone</link>
-        <pubDate>Sat, 25 Oct 2025 14:56:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na dwóch zawodników pierwszego zespołu podczas spotkania z Katalończykami. Bask powołał 24 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Słowa Lamine'a Yamala? Dla nas liczy się boisko</title>
-        <link>https://www.realmadryt.pl/news/143659-xabi-alonso-slowa-laminea-yamala-dla-nas-liczy-sie-boisko</link>
-        <pubDate>Sat, 25 Oct 2025 13:48:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym Klasykiem z Barceloną w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
