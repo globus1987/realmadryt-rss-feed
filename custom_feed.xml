@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 18:33:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 18:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni: Słowa Yamala? Mnie się to podoba</title>
+        <link>https://www.realmadryt.pl/news/143697-tchouameni-slowa-yamala-mnie-sie-to-podoba</link>
+        <pubDate>Sun, 26 Oct 2025 19:45:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni spotkał się z dziennikarzami w strefie mieszanej po wygranym 2:1 meczu z Barceloną. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Chłopacy potrzebowali tego odczucia możliwości wygrania wielkiego meczu</title>
+        <link>https://www.realmadryt.pl/news/143696-xabi-alonso-chlopacy-potrzebowali-tego-odczucia-mozliwosci-wygrania-wielkiego-meczu</link>
+        <pubDate>Sun, 26 Oct 2025 19:42:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej po Klasyku z Barceloną w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
+    </item>
     
     <item>
         <title>De Jong: Lamine nie powiedział, że Real kradnie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143680-obejrzyj-klasyk-w-sts-tv</link>
         <pubDate>Sun, 26 Oct 2025 13:09:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Pachnie karnym</title>
-        <link>https://www.realmadryt.pl/news/143685-pachnie-karnym</link>
-        <pubDate>Sun, 26 Oct 2025 12:49:00 GMT</pubDate>
-        <description>W bieżącym sezonie w meczach Realu Madryt i Barcelony sędziowie odgwizdują najwięcej rzutów karnych. Jak będzie dzisiejszego popołudnia na Bernabéu?</description>
-    </item>
-    
-    <item>
-        <title>Bez zagrożonych zawieszeniem za żółte kartki</title>
-        <link>https://www.realmadryt.pl/news/143676-bez-zagrozonych-zawieszeniem-za-zolte-kartki</link>
-        <pubDate>Sun, 26 Oct 2025 11:30:00 GMT</pubDate>
-        <description>Po pierwszych ligowych kolejkach można zacząć przypatrywać się kwestii zawieszeń za kartki. Dzisiaj Królewskich czeka starcie z wiceliderem bez groźby zawieszenia na kolejne spotkanie.</description>
     </item>
     
 </channel>
