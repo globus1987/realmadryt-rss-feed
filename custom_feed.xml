@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 26 Oct 2025 11:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Oct 2025 11:53:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pachnie karnym</title>
+        <link>https://www.realmadryt.pl/news/143685-pachnie-karnym</link>
+        <pubDate>Sun, 26 Oct 2025 12:49:00 GMT</pubDate>
+        <description>W bieżącym sezonie w meczach Realu Madryt i Barcelony sędziowie odgwizdują najwięcej rzutów karnych. Jak będzie dzisiejszego popołudnia na Bernabéu?</description>
+    </item>
     
     <item>
         <title>Bez zagrożonych zawieszeniem za żółte kartki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143667-barcelona-moze-wyrownac-oficjalny-bilans-klasykow</link>
         <pubDate>Sun, 26 Oct 2025 07:00:00 GMT</pubDate>
         <description>Ostatnia seria Katalończyków pozwoliła im doskoczyć do Królewskich w bilansie oficjalnych Klasyków. Poza tym Barcelona może wyrównać dzisiaj swoją najlepszą serię zwycięstw w tych meczach, przy czym ogólny rekord w tym względzie należy do Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Real poprzez jego telewizję wpływa na sędziów</title>
-        <link>https://www.realmadryt.pl/news/143670-laporta-real-poprzez-jego-telewizje-wplywa-na-sedziow</link>
-        <pubDate>Sun, 26 Oct 2025 06:02:00 GMT</pubDate>
-        <description>Joan Laporta w weekend wziął udział w Kongresie Fanklubów Barcelony z Andaluzji, Ceuty i Melilli. Przedstawiamy wypowiedzi prezesa Barcelony do zgromadzonych fanów.</description>
     </item>
     
 </channel>
