@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 11:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 12:55:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zmarł José Manuel Ochotorena</title>
+        <link>https://www.realmadryt.pl/news/143717-zmarl-jose-manuel-ochotorena</link>
+        <pubDate>Mon, 27 Oct 2025 13:52:00 GMT</pubDate>
+        <description>Królewscy w oficjalnym komunikacie składają kondolencje.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 października</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143710-dzisiejsze-okladki</link>
         <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
         <description>Zwycięstwo Realu Madryt w Klasyku to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Lamine Yamal po meczu zapraszał „na zewnątrz” Carvajala, Courtois i Viniego [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/143708-lamine-yamal-po-meczu-zapraszal-na-zewnatrz-carvajala-courtois-i-viniego-video</link>
-        <pubDate>Sun, 26 Oct 2025 23:32:00 GMT</pubDate>
-        <description>Movistar+ oraz szczególnie DAZN, platforma pokazująca w Hiszpanii niedzielny mecz Realu Madryt z Barceloną, pokazały pierwsze kulisy spotkania, w tym przepychanki po zakończeniu meczu.</description>
     </item>
     
 </channel>
