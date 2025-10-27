@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 13:55:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 14:27:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/143720-oceny-zawodnikow-po-meczu-z-barcelona</link>
+        <pubDate>Mon, 27 Oct 2025 15:15:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:1 z Barceloną. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>Podcast 7x12: Teraz my gadamy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143714-ojciec-laminea-yamala-widzimy-sie-w-barcelonie</link>
         <pubDate>Mon, 27 Oct 2025 07:00:00 GMT</pubDate>
         <description>Ojciec gwiazdora Barcelony był bardzo aktywny po Klasyku przegranym przez zespół jego syna.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: To było partidazo w wykonaniu całego zespołu</title>
-        <link>https://www.realmadryt.pl/news/143699-bellingham-to-bylo-partidazo-w-wykonaniu-calego-zespolu</link>
-        <pubDate>Mon, 27 Oct 2025 05:30:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Barceloną. Przedstawiamy zapis tej rozmowy z zawodnikiem Realu Madryt.</description>
     </item>
     
 </channel>
