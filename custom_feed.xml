@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 16:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 16:57:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wenger: To było starcie mężczyzn z chłopcami</title>
+        <link>https://www.realmadryt.pl/news/143725-wenger-to-bylo-starcie-mezczyzn-z-chlopcami</link>
+        <pubDate>Mon, 27 Oct 2025 17:41:00 GMT</pubDate>
+        <description>Niedzielny Klasyk na Santiago Bernabéu spotyka się z dużym oddźwiękiem wśród osób związanych z europejskim futbolem. Swój pogląd na wynik meczu Realu Madryt z Barceloną przedstawił Arsène Wenger.</description>
+    </item>
     
     <item>
         <title>Pierwsze wielkie zwycięstwo Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143709-xabi-alonso-to-zwyciestwo-ma-inna-wage-niz-tylko-trzy-punkty</link>
         <pubDate>Mon, 27 Oct 2025 10:30:00 GMT</pubDate>
         <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Barceloną. Przedstawiamy zapis tej rozmowy z trenerem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>200 ligowych wygranych Carvajala w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/143712-200-ligowych-wygranych-carvajala-w-realu-madryt</link>
-        <pubDate>Mon, 27 Oct 2025 09:45:00 GMT</pubDate>
-        <description>W meczu z Barceloną Dani Carvajal sięgnął po 200. zwycięstwo z Realem Madryt w La Lidze.</description>
     </item>
     
 </channel>
