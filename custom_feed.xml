@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 12:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 13:36:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x12: Teraz my gadamy</title>
+        <link>https://www.realmadryt.pl/news/143718-podcast-7x12-teraz-my-gadamy</link>
+        <pubDate>Mon, 27 Oct 2025 14:10:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy wygraną Królewskich w Klasyku z Barceloną.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius: Staramy się wszystko równoważyć, ale nie zawsze jest to możliwe</title>
+        <link>https://www.realmadryt.pl/news/143719-vinicius-staramy-sie-wszystko-rownowazyc-ale-nie-zawsze-jest-to-mozliwe</link>
+        <pubDate>Mon, 27 Oct 2025 14:06:00 GMT</pubDate>
+        <description>Vinícius Júnior po Klasyku z Barceloną udzielił wywiadu zespołowi Realu Madryt od sociali. Przedstawiamy wypowiedzi Brazylijczyka z tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Zmarł José Manuel Ochotorena</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143699-bellingham-to-bylo-partidazo-w-wykonaniu-calego-zespolu</link>
         <pubDate>Mon, 27 Oct 2025 05:30:00 GMT</pubDate>
         <description>Jude Bellingham udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Barceloną. Przedstawiamy zapis tej rozmowy z zawodnikiem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Zawsze ja! Odchodzę z drużyny!</title>
-        <link>https://www.realmadryt.pl/news/143711-vinicius-zawsze-ja-odchodze-z-druzyny</link>
-        <pubDate>Mon, 27 Oct 2025 00:16:00 GMT</pubDate>
-        <description>Platforma DAZN opublikowała okrzyki Brazylijczyka przy jego złości z decyzji trenera o zdjęciu go z boiska.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143710-dzisiejsze-okladki</link>
-        <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
-        <description>Zwycięstwo Realu Madryt w Klasyku to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
