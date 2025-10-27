@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 07:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 07:42:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sorg: Atmosfera mogła trochę wpłynąć na Lamine'a</title>
+        <link>https://www.realmadryt.pl/news/143701-sorg-atmosfera-mogla-troche-wplynac-na-laminea</link>
+        <pubDate>Mon, 27 Oct 2025 08:30:00 GMT</pubDate>
+        <description>Marcus Sorg pojawił się na konferencji prasowej po Klasyku z Realem Madryt w La Lidze. Przedstawiamy wszystkie wypowiedzi asystenta trenera Barcelony z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Trener wykonał niewiarygodną pracę z planem na mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143703-camavinga-nowa-pozycja-odblokowana-prawy-skrzydlowy</link>
         <pubDate>Sun, 26 Oct 2025 21:24:00 GMT</pubDate>
         <description>Eduardo Camavinga wystąpił od pierwszej minuty w meczu z Barceloną, jednak był ustawiony na prawej stronie, co mogło zaskoczyć nie tylko kibiców, ale i jego samego. Po meczu skomentował swoją grę na nowej pozycji.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze pokonali Manresę i pobili rekord Barcelony</title>
-        <link>https://www.realmadryt.pl/news/143702-koszykarze-pokonali-manrese-i-pobili-rekord-barcelony</link>
-        <pubDate>Sun, 26 Oct 2025 21:06:00 GMT</pubDate>
-        <description>W 4. kolejce Ligi Endesa Real Madryt pokonał Manresę. Było to zwycięstwo wyjątkowe, ponieważ dzięki niemu Królewscy pobili rekord Barcelony i mają obecnie na koncie 34 wygrane mecze z rzędu we własnej hali w lidze.</description>
     </item>
     
 </channel>
