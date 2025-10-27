@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 16:57:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 17:24:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carvajal krytykowany przez dziennikarzy za „napaść” na Lamine'a Yamala</title>
+        <link>https://www.realmadryt.pl/news/143726-carvajal-krytykowany-przez-dziennikarzy-za-napasc-na-laminea-yamala</link>
+        <pubDate>Mon, 27 Oct 2025 18:23:00 GMT</pubDate>
+        <description>Zgodnie z oczekiwaniami zachowanie kapitana Realu Madryt względem gwiazdora Barcelony atakującego Królewskich spotkało się ze zmartwieniem o los reprezentacji. Przedstawiamy wypowiedzi liderów opinii z rozgłośni radiowych. Podkreślmy, że w hierarchi obecnej kadry Carvajal to trzeci kapitan za Moratą i Rodrim.</description>
+    </item>
     
     <item>
         <title>Wenger: To było starcie mężczyzn z chłopcami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143713-200-meczow-ceballosa-w-realu-madryt</link>
         <pubDate>Mon, 27 Oct 2025 11:01:00 GMT</pubDate>
         <description>W meczu z Barceloną Dani Ceballos rozegrał swój 200. mecz w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: To zwycięstwo ma inną wagę niż tylko trzy punkty</title>
-        <link>https://www.realmadryt.pl/news/143709-xabi-alonso-to-zwyciestwo-ma-inna-wage-niz-tylko-trzy-punkty</link>
-        <pubDate>Mon, 27 Oct 2025 10:30:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Barceloną. Przedstawiamy zapis tej rozmowy z trenerem Realu Madryt.</description>
     </item>
     
 </channel>
