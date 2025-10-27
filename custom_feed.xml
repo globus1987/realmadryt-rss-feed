@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 27 Oct 2025 22:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Oct 2025 23:22:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143735-dzisiejsze-okladki</link>
+        <pubDate>Tue, 28 Oct 2025 00:09:00 GMT</pubDate>
+        <description>Echa Klasyku to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Bellingham do sędziego i Pedriego: „To nie jest czerwona kartka nawet z Negreirą” [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/143732-bellingham-do-sedziego-i-pedriego-to-nie-jest-czerwona-kartka-nawet-z-negreira-video</link>
+        <pubDate>Tue, 28 Oct 2025 00:03:00 GMT</pubDate>
+        <description>Program El Día Después w telewizji Movistar+ pokazał kulisy meczu Realu Madryt z Barceloną. Przedstawiamy ich pełne tłumaczenie.</description>
+    </item>
     
     <item>
         <title>Vinícius do ławki Barcelony: „Do domu!” [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143721-media-klub-zostawia-temat-viniciusa-w-rekach-xabiego-alonso</link>
         <pubDate>Mon, 27 Oct 2025 16:02:00 GMT</pubDate>
         <description>Madryckie media wystosowują pierwsze informacje w sprawie reakcji klubu na zachowanie Brazylijczyka w niedzielnym Klasyku przy zejściu z boiska.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/143720-oceny-zawodnikow-po-meczu-z-barcelona</link>
-        <pubDate>Mon, 27 Oct 2025 15:15:00 GMT</pubDate>
-        <description>Real Madryt wygrał 2:1 z Barceloną. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x12: Teraz my gadamy</title>
-        <link>https://www.realmadryt.pl/news/143718-podcast-7x12-teraz-my-gadamy</link>
-        <pubDate>Mon, 27 Oct 2025 14:10:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy wygraną Królewskich w Klasyku z Barceloną.</description>
     </item>
     
 </channel>
