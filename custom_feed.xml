@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 28 Oct 2025 23:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 23:41:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143765-dzisiejsze-okladki</link>
+        <pubDate>Wed, 29 Oct 2025 00:27:00 GMT</pubDate>
+        <description>Powrót Bellinghama, wygrana piłkarek i gala Espanyolu to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Obrona w drugiej połowie była bardzo poniżej akceptowalnego poziomu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143749-dlaczego-elyaz-zidane-opuscil-real-madryt</link>
         <pubDate>Tue, 28 Oct 2025 16:42:00 GMT</pubDate>
         <description>Dwóch gwiazdorów obecnej Castilli nie pozwoliło mu na awans do zespołu rezerw.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono sprowadzony na ziemię</title>
-        <link>https://www.realmadryt.pl/news/143748-mastantuono-sprowadzony-na-ziemie</link>
-        <pubDate>Tue, 28 Oct 2025 15:07:00 GMT</pubDate>
-        <description>Ostatni tydzień był bardzo trudno dla Franco Mastantuono, który zaliczył zaledwie 6 minut w meczu z Juventusem i nie powąchał murawy w swoim pierwszym Klasyku.</description>
     </item>
     
 </channel>
