@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Oct 2025 06:58:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 07:27:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alex Len o krok od Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/143768-alex-len-o-krok-od-realu-madryt</link>
+        <pubDate>Wed, 29 Oct 2025 08:04:00 GMT</pubDate>
+        <description>Ukrainiec ma zastąpić Bruno Fernando.</description>
+    </item>
     
     <item>
         <title>IFAB analizuje wprowadzenie VAR-u ws. drugich żółtych kartek i odliczania przy wznowieniach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143754-spelnione-proroctwo</link>
         <pubDate>Tue, 28 Oct 2025 19:49:00 GMT</pubDate>
         <description>Trener po porażce w derbach Madrytu przyrzekał, że tamta wpadka będzie nauczką dla zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos: Transfer do Realu odmienił moje życie</title>
-        <link>https://www.realmadryt.pl/news/143753-ceballos-transfer-do-realu-odmienil-moje-zycie</link>
-        <pubDate>Tue, 28 Oct 2025 18:53:00 GMT</pubDate>
-        <description>Dani Ceballos udzielił wywiadu dla klubowej telewizji z okazji rozegrania 200 meczów w barwach Realu Madryt. Przedstawiamy wypowiedzi pomocnika z tej rozmowy.</description>
     </item>
     
 </channel>
