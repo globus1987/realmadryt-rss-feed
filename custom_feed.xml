@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Oct 2025 23:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 23:41:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143796-dzisiejsze-okladki</link>
+        <pubDate>Thu, 30 Oct 2025 00:41:00 GMT</pubDate>
+        <description>Sytuacje Viníciusa i Pedriego to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pechowy remis Castilli z Southampton</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143780-dzisiejszy-trening</link>
         <pubDate>Wed, 29 Oct 2025 13:39:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Przepraszam madridistas, kolegów, klub i prezesa</title>
-        <link>https://www.realmadryt.pl/news/143779-vinicius-przepraszam-madridistas-kolegow-klub-i-prezesa</link>
-        <pubDate>Wed, 29 Oct 2025 13:33:00 GMT</pubDate>
-        <description>Vinícius Júnior opublikował wpis w mediach społecznościowych, w którym przeprasza za swoje zachowanie przy zmianie podczas niedzielnego Klasyku.</description>
     </item>
     
 </channel>
