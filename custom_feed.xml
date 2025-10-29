@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 29 Oct 2025 22:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 22:43:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pechowy remis Castilli z Southampton</title>
+        <link>https://www.realmadryt.pl/news/143795-pechowy-remis-castilli-z-southampton</link>
+        <pubDate>Wed, 29 Oct 2025 23:34:00 GMT</pubDate>
+        <description>Castilla podzieliła się punktami z Southampton w 2. kolejce Premier League International Cup. Arbeloa posłał do boju zmienników, którzy rozegrali dobre spotkanie, dopiero końcówka spotkania była zdecydowanie na korzyść Anglików.</description>
+    </item>
     
     <item>
         <title>Liverpool przegrał szósty z siedmiu ostatnich meczów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143779-vinicius-przepraszam-madridistas-kolegow-klub-i-prezesa</link>
         <pubDate>Wed, 29 Oct 2025 13:33:00 GMT</pubDate>
         <description>Vinícius Júnior opublikował wpis w mediach społecznościowych, w którym przeprasza za swoje zachowanie przy zmianie podczas niedzielnego Klasyku.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Łunin zawieszony na jeden mecz</title>
-        <link>https://www.realmadryt.pl/news/143778-oficjalnie-lunin-zawieszony-na-jeden-mecz</link>
-        <pubDate>Wed, 29 Oct 2025 13:16:00 GMT</pubDate>
-        <description>Ukrainiec nie będzie dostępny na spotkanie z Valencią.</description>
     </item>
     
 </channel>
