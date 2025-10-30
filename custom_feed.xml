@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Oct 2025 07:25:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 07:40:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pojedynek z obrońcą tytułu</title>
+        <link>https://www.realmadryt.pl/news/143793-pojedynek-z-obronca-tytulu</link>
+        <pubDate>Thu, 30 Oct 2025 08:30:00 GMT</pubDate>
+        <description>W 8. kolejce Euroligi Real Madryt podejmie Fenerbahçe. Po ostatniej porażce z Bayernem Królewscy spadli do drugiej połówki tabeli, a dzisiejszy rywal, przynajmniej teoretycznie, prezentuje się lepiej niż Bawarczycy.</description>
+    </item>
     
     <item>
         <title>Architekt Bernabéu: Temat hałasu zostanie rozwiązany w ciągu dwóch miesięcy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143784-oficjalnie-pedri-wypada-z-gry-na-kilka-tygodni</link>
         <pubDate>Wed, 29 Oct 2025 15:46:00 GMT</pubDate>
         <description>Hiszpan jest zawieszony na najbliższy mecz, ale dodatkowo doznał kontuzji wykluczającej go z kolejnych spotkań. Katalończycy zmagają się obecnie z wieloma urazami.</description>
-    </item>
-    
-    <item>
-        <title>La Liga doniesie na cztery nienawistne zachowania kibiców Realu Madryt w Klasyku</title>
-        <link>https://www.realmadryt.pl/news/143783-la-liga-doniesie-na-cztery-nienawistne-zachowania-kibicow-realu-madryt-w-klasyku</link>
-        <pubDate>Wed, 29 Oct 2025 15:29:00 GMT</pubDate>
-        <description>La Liga zgłosiła cztery nienawistne zachowania z niedzielnego Klasyku. Wszystkie dotyczą kibiców Królewskich.</description>
     </item>
     
 </channel>
