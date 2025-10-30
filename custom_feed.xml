@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Oct 2025 07:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 08:33:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 października</title>
+        <link>https://www.realmadryt.pl/news/143794-kartka-z-kalendarza-30-pazdziernika</link>
+        <pubDate>Thu, 30 Oct 2025 09:15:00 GMT</pubDate>
+        <description>Wysokie zwycięstwa z Atlético i Sevillą, zasłabnięcie De la Reda i ważny dzień dla Garetha Bale'a. Co działo się 30 października?</description>
+    </item>
     
     <item>
         <title>Pojedynek z obrońcą tytułu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143785-romano-endrick-jest-otwarty-na-wypozyczenie-do-lyonu</link>
         <pubDate>Wed, 29 Oct 2025 15:56:00 GMT</pubDate>
         <description>Brazylijczyk wobec braku minut ma opuścić Real zimą.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Pedri wypada z gry na kilka tygodni</title>
-        <link>https://www.realmadryt.pl/news/143784-oficjalnie-pedri-wypada-z-gry-na-kilka-tygodni</link>
-        <pubDate>Wed, 29 Oct 2025 15:46:00 GMT</pubDate>
-        <description>Hiszpan jest zawieszony na najbliższy mecz, ale dodatkowo doznał kontuzji wykluczającej go z kolejnych spotkań. Katalończycy zmagają się obecnie z wieloma urazami.</description>
     </item>
     
 </channel>
