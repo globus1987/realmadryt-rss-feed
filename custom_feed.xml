@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 30 Oct 2025 22:53:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 23:22:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143819-dzisiejsze-okladki</link>
+        <pubDate>Fri, 31 Oct 2025 00:12:00 GMT</pubDate>
+        <description>Praca Xabiego Alonso to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Koszykarze rozbili mistrza Euroligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143805-as-nowa-umowa-dla-viniciusa-nie-jest-jeszcze-przesadzona</link>
         <pubDate>Thu, 30 Oct 2025 13:49:00 GMT</pubDate>
         <description>Kontrakt Brazylijczyka wygasa w 2027 roku, a rozmowy o jego przedłużeniu kontraktu utknęły w martwym punkcie latem. Zarówno klub, jak i zawodnik są otwarci na dalszą współpracę.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/143804-dzisiejszy-trening</link>
-        <pubDate>Thu, 30 Oct 2025 13:31:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do kolejnego meczu.</description>
     </item>
     
 </channel>
