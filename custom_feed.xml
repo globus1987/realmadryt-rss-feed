@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Oct 2025 16:56:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 17:25:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Labirynt Łunina</title>
+        <link>https://www.realmadryt.pl/news/143842-labirynt-lunina</link>
+        <pubDate>Fri, 31 Oct 2025 18:11:00 GMT</pubDate>
+        <description>Andrij Łunin, który został zawieszony na mecz z Valencią, znalazł się w trudnej sytuacji. Jest świadomy, że nie szans w rywalizacji z Thibaut Courtois, a najbliższą potencjalną szansą może być dopiero Puchar Króla. W tych rozgrywkach Królewscy zadebiutują jednak dopiero w grudniu.</description>
+    </item>
     
     <item>
         <title>Mbappé: Chcę podziękować wszystkim madridistas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143829-napiety-listopad-dla-las-blancas</link>
         <pubDate>Fri, 31 Oct 2025 13:00:00 GMT</pubDate>
         <description>W nadchodzącym miesiącu Królewskie czeka m.in. spotkanie z Barceloną w Lidze F i dwa mecze w Lidze Mistrzyń.</description>
-    </item>
-    
-    <item>
-        <title>Kylian Mbappé odbiera Złoty But [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/143828-kylian-mbappe-odbiera-zloty-but-na-zywo</link>
-        <pubDate>Fri, 31 Oct 2025 13:00:00 GMT</pubDate>
-        <description>Od 13:30 atakujący Królewskich będzie odbierać swoją nagrodę indywidualną za poprzedni sezon. Zapraszamy na transmisje z tego wydarzenia.</description>
     </item>
     
 </channel>
