@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Oct 2025 23:23:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 23:38:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143852-dzisiejsze-okladki</link>
+        <pubDate>Sat, 01 Nov 2025 00:23:00 GMT</pubDate>
+        <description>Złoty But Kyliana Mbappé i powrót Barcelony na Camp Nou to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Po wielkiej wygranej czasami odpuszczasz, a my tego nie chcemy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143838-kadra-realu-madryt-na-valencie</link>
         <pubDate>Fri, 31 Oct 2025 16:19:00 GMT</pubDate>
         <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Nietoperzami. Bask powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt pokazał nowe logo Bernabéu [ANKIETA]</title>
-        <link>https://www.realmadryt.pl/news/143837-real-madryt-pokazal-nowe-logo-bernabeu-ankieta</link>
-        <pubDate>Fri, 31 Oct 2025 15:08:00 GMT</pubDate>
-        <description>Klub rozpoczął promocję nowego logo stadionu. Niezmiennie też promuje skróconą nazwę obiektu.</description>
     </item>
     
 </channel>
