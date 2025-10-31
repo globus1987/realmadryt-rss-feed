@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Oct 2025 03:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 04:32:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Z Valencią na alibi</title>
+        <link>https://www.realmadryt.pl/news/143814-z-valencia-na-alibi</link>
+        <pubDate>Fri, 31 Oct 2025 05:30:00 GMT</pubDate>
+        <description>Ewentualna ławka dla Viníciusa w meczu z Valencią nie byłaby ostatecznym wyrokiem. Xabi Alonso może odstawić Brazylijczyka pod płaszczykiem rotacji przed kolejnym meczem z Liverpoolem.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143806-xabi-alonso-kopiuje-pomysl-mourinho</link>
         <pubDate>Thu, 30 Oct 2025 14:21:00 GMT</pubDate>
         <description>Real Madryt nie będzie trenował na Anfield, lecz rano przed podróżą popracuje w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>AS: Nowa umowa dla Viníciusa nie jest jeszcze przesądzona</title>
-        <link>https://www.realmadryt.pl/news/143805-as-nowa-umowa-dla-viniciusa-nie-jest-jeszcze-przesadzona</link>
-        <pubDate>Thu, 30 Oct 2025 13:49:00 GMT</pubDate>
-        <description>Kontrakt Brazylijczyka wygasa w 2027 roku, a rozmowy o jego przedłużeniu kontraktu utknęły w martwym punkcie latem. Zarówno klub, jak i zawodnik są otwarci na dalszą współpracę.</description>
     </item>
     
 </channel>
