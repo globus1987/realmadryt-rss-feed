@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Oct 2025 17:25:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 17:42:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tureckie dobro narodowe</title>
+        <link>https://www.realmadryt.pl/news/143843-tureckie-dobro-narodowe</link>
+        <pubDate>Fri, 31 Oct 2025 18:30:00 GMT</pubDate>
+        <description>Arda Güler wywołuje w swojej ojczyźnie ogromną ekscytację. Tureccy kibice chcą, aby 20-latek spędził w Madrycie całą swoją karierę.</description>
+    </item>
     
     <item>
         <title>Labirynt Łunina</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143830-oficjalnie-allianz-arena-camp-nou-i-wembley-kandydatami-do-przyjecia-finalow-ligi-mistrzow</link>
         <pubDate>Fri, 31 Oct 2025 13:02:00 GMT</pubDate>
         <description>UEFA ogłosiła przyjęcie kandydatur do zorganizowania swoich klubowych finałów w latach 2028 i 2029. Najbliższe dwa finały Ligi Mistrzów odbędą się w Budapeszcie i Madrycie.</description>
-    </item>
-    
-    <item>
-        <title>Napięty listopad dla Las Blancas</title>
-        <link>https://www.realmadryt.pl/news/143829-napiety-listopad-dla-las-blancas</link>
-        <pubDate>Fri, 31 Oct 2025 13:00:00 GMT</pubDate>
-        <description>W nadchodzącym miesiącu Królewskie czeka m.in. spotkanie z Barceloną w Lidze F i dwa mecze w Lidze Mistrzyń.</description>
     </item>
     
 </channel>
