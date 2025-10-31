@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 31 Oct 2025 12:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 13:34:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Najważniejsza jest drużyna</title>
+        <link>https://www.realmadryt.pl/news/143833-mbappe-najwazniejsza-jest-druzyna</link>
+        <pubDate>Fri, 31 Oct 2025 14:21:00 GMT</pubDate>
+        <description>Kylian Mbappé odebrał dzisiaj Złoty But. Przedstawiamy jego przemówienie po otrzymaniu statuetki.</description>
+    </item>
+    
+    <item>
+        <title>Kylian Mbappé odebrał Złoty But</title>
+        <link>https://www.realmadryt.pl/news/143832-kylian-mbappe-odebral-zloty-but</link>
+        <pubDate>Fri, 31 Oct 2025 14:02:00 GMT</pubDate>
+        <description>Atakujący Królewskich odebrał swoją nagrodę indywidualną za poprzedni sezon.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Allianz Arena, Camp Nou i Wembley kandydatami do przyjęcia finałów Ligi Mistrzów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143821-marca-bernabeu-stanie-sie-swiatecznym-parkiem-z-atrakcjami</link>
         <pubDate>Fri, 31 Oct 2025 09:30:00 GMT</pubDate>
         <description>Stadion Królewskich w okresie świątecznym szykuje specjalne pokazy i spektakle tematyczne, podaje dziennik MARCA.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: VAR light w trzeciej lidze rozszerzony o uprawnienia czwartego sędziego</title>
-        <link>https://www.realmadryt.pl/news/143820-oficjalnie-var-light-w-trzeciej-lidze-rozszerzony-o-uprawnienia-czwartego-sedziego</link>
-        <pubDate>Fri, 31 Oct 2025 08:40:00 GMT</pubDate>
-        <description>Od tego sezonu w trzecioligowej Primera Federación i kobiecej Lidze F drużyny mogą dwukrotnie (lub więcej razy, jeśli będą mieli rację) wysłać sędziego do obejrzenia powtórki.</description>
-    </item>
-    
-    <item>
-        <title>Trenerka językowa Trenta: Tak wygląda prawdziwy profesjonalizm [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/143817-trenerka-jezykowa-trenta-tak-wyglada-prawdziwy-profesjonalizm-video</link>
-        <pubDate>Fri, 31 Oct 2025 07:50:00 GMT</pubDate>
-        <description>Trenerka językowa Anglika pochwaliła się jego postępami w nauce hiszpańskiego.</description>
     </item>
     
 </channel>
