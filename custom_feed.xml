@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Nov 2025 11:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 11:53:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bez zagrożonych zawieszeniem za kartki</title>
+        <link>https://www.realmadryt.pl/news/143861-bez-zagrozonych-zawieszeniem-za-kartki</link>
+        <pubDate>Sat, 01 Nov 2025 12:52:00 GMT</pubDate>
+        <description>Chociaż w Klasyku sędzia pokazał mnóstwo żółtych kartek, to Królewscy wciąż pozostają bez zagrożenia zawieszeniem za kartki w La Lidze.</description>
+    </item>
+    
+    <item>
+        <title>Valencia nigdy nie wygrała dwóch wyjazdowych meczów z rzędu z Realem</title>
+        <link>https://www.realmadryt.pl/news/143860-valencia-nigdy-nie-wygrala-dwoch-wyjazdowych-meczow-z-rzedu-z-realem</link>
+        <pubDate>Sat, 01 Nov 2025 12:47:00 GMT</pubDate>
+        <description>W poprzednim sezonie Valencia przerwała passę 16 domowych meczów bez porażki Realu Madryt. Los Ches stoją dzisiaj jednak przed jeszcze większym wyzwaniem, ponieważ nigdy nie wygrali dwóch kolejnych meczów na obiekcie Królewskich.</description>
+    </item>
     
     <item>
         <title>Mbappé: Jestem dumny, że mogę walczyć dla tego herbu, tego klubu i tych kibiców</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143854-media-w-trakcie-klasyku-na-bernabeu-zmarl-jeden-z-kibicow</link>
         <pubDate>Sat, 01 Nov 2025 07:00:00 GMT</pubDate>
         <description>Izraelski fanklub poinformował, że w trakcie niedzielnego Klasyku na Bernabéu zmarł jeden z jego członków. Wiadomość podają dalej madryckie media.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Valencia: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/143853-real-madryt-valencia-przewidywane-sklady</link>
-        <pubDate>Sat, 01 Nov 2025 03:24:00 GMT</pubDate>
-        <description>Królewscy podchodzą do kolejnego meczu z czterema nieobecnymi. Spodziewane są pewne zmiany, a uwagę skupi decyzja dotycząca Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143852-dzisiejsze-okladki</link>
-        <pubDate>Sat, 01 Nov 2025 00:23:00 GMT</pubDate>
-        <description>Złoty But Kyliana Mbappé i powrót Barcelony na Camp Nou to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
