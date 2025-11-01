@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Nov 2025 02:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 03:18:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Valencia: Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/143853-real-madryt-valencia-przewidywane-sklady</link>
+        <pubDate>Sat, 01 Nov 2025 03:24:00 GMT</pubDate>
+        <description>Królewscy podchodzą do kolejnego meczu z czterema nieobecnymi. Spodziewane są pewne zmiany, a uwagę skupi decyzja dotycząca Viníciusa.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143839-bellingham-pokazuje-kly</link>
         <pubDate>Fri, 31 Oct 2025 16:59:00 GMT</pubDate>
         <description>W dwóch ostatnich meczach pokazał swoją najlepszą wersję.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Valencię</title>
-        <link>https://www.realmadryt.pl/news/143838-kadra-realu-madryt-na-valencie</link>
-        <pubDate>Fri, 31 Oct 2025 16:19:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Nietoperzami. Bask powołał 23 piłkarzy.</description>
     </item>
     
 </channel>
