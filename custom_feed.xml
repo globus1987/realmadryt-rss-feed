@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 01 Nov 2025 09:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 09:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Motywujący niedosyt</title>
+        <link>https://www.realmadryt.pl/news/143848-motywujacy-niedosyt</link>
+        <pubDate>Sat, 01 Nov 2025 10:40:00 GMT</pubDate>
+        <description>Nawet jeśli masz dużo, ludzka natura często sprawia, że i tak chcesz jeszcze więcej.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Mbappé drugi raz z rzędu piłkarzem miesiąca w La Lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143844-klub-viniciusa-bedzie-gral-w-antyrasizmowej-koszulce</link>
         <pubDate>Fri, 31 Oct 2025 19:00:00 GMT</pubDate>
         <description>Alverca, portugalski klub piłkarski będący własnością piłkarza Realu Madryt, wykorzysta swój trzeci zestaw strojów, aby przekazać przesłanie o „równości i szacunku”.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 11. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/143831-telewizyjny-terminarz-11-kolejki-la-ligi</link>
-        <pubDate>Fri, 31 Oct 2025 19:00:00 GMT</pubDate>
-        <description>Przed nami 11. kolejka La Ligi. Real Madryt zagra u siebie z Valencią. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
