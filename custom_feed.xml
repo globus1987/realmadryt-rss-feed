@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 23:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 23:39:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x13: Podejmują decyzje</title>
+        <link>https://www.realmadryt.pl/news/143908-podcast-7x13-podejmuja-decyzje</link>
+        <pubDate>Mon, 03 Nov 2025 00:29:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich przed meczem z Liverpoolem.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143896-trent-jesli-strzelilbym-liverpoolowi-nie-swietowalbym-video</link>
         <pubDate>Sun, 02 Nov 2025 14:36:00 GMT</pubDate>
         <description>Trent Alexander-Arnold udzielił wywiadu Prime Video Sport przed meczem Ligi Mistrzów z Liverpoolem. Przedstawiamy najważniejsze wypowiedzi obrońcy Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/143895-oceny-zawodnikow-po-meczu-z-valencia</link>
-        <pubDate>Sun, 02 Nov 2025 13:37:00 GMT</pubDate>
-        <description>Real Madryt wygrał 4:0 z Valencią. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
