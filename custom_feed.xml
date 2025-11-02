@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 03:58:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 04:31:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy uważasz, że Xabi Alonso traktował Endricka niesprawiedliwie?</title>
+        <link>https://www.realmadryt.pl/news/143882-glos-kibica-czy-uwazasz-ze-xabi-alonso-traktowal-endricka-niesprawiedliwie</link>
+        <pubDate>Sun, 02 Nov 2025 05:30:00 GMT</pubDate>
+        <description>Rozpoczynamy nowy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Kolejna próba wyjazdowego przełamania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143870-valencia-zmiazdzona-na-bernabeu</link>
         <pubDate>Sat, 01 Nov 2025 20:55:00 GMT</pubDate>
         <description>W meczu 11. kolejki La Ligi Real Madryt wygrał na Bernabéu z Valencią 4:0. Bramki zdobyli Kylian Mbappé (dwie), Jude Bellingham i Álvaro Carreras.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Valencią [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/143866-rozgrzewka-przed-valencia-na-zywo</link>
-        <pubDate>Sat, 01 Nov 2025 20:15:00 GMT</pubDate>
-        <description>Królewscy po 20:20 wybiegną na murawę i rozpoczną rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Valencią. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
     </item>
     
 </channel>
