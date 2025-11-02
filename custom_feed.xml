@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 19:53:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 20:24:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Występ Gülera na Anfield niezagrożony</title>
+        <link>https://www.realmadryt.pl/news/143905-marca-wystep-guelera-na-anfield-niezagrozony</link>
+        <pubDate>Sun, 02 Nov 2025 21:05:00 GMT</pubDate>
+        <description>Turecki pomocnik nie wyszedł na drugą połowę sobotniego meczu z Valencią z powodu skręcenia kostki, które według Joel Del Río z dziennika MARCA finalnie nie okazało się zbyt poważne.</description>
+    </item>
     
     <item>
         <title>Castilla wskakuje na podium</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143894-fanatik-real-doplacil-fenerbahce-kolejne-2-miliony-euro-za-transfer-guelera</link>
         <pubDate>Sun, 02 Nov 2025 13:06:00 GMT</pubDate>
         <description>Turek zaliczył wczoraj 75 występ w Realu, co miało też finansowe konsekwencje.</description>
-    </item>
-    
-    <item>
-        <title>Prawa obrona znów dla Fede</title>
-        <link>https://www.realmadryt.pl/news/143893-prawa-obrona-znow-dla-fede</link>
-        <pubDate>Sun, 02 Nov 2025 13:03:00 GMT</pubDate>
-        <description>Urugwajczyk znów zagrał na prawej stronie defensywy, tym razem przeciwko Valencii. To już 24. mecz Fede na tej pozycji.</description>
     </item>
     
 </channel>
