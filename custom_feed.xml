@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 08:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 09:23:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Deck: Musimy robi swoje</title>
+        <link>https://www.realmadryt.pl/news/143867-deck-musimy-robi-swoje</link>
+        <pubDate>Sun, 02 Nov 2025 10:20:00 GMT</pubDate>
+        <description>Gabriel Deck wypowiadał się przed spotkaniem z Saragossą. Mówił o tym, że drużyna musi na wyjazdach grać tak konsekwentnie, jak to robi przed własnymi kibicami.</description>
+    </item>
+    
+    <item>
+        <title>Mijatović: Nowa umowa Viníciusa? Jeśli chce zarabiać tyle, co Mbappé, to popełnia błąd</title>
+        <link>https://www.realmadryt.pl/news/143887-mijatovic-nowa-umowa-viniciusa-jesli-chce-zarabiac-tyle-co-mbappe-to-popelnia-blad</link>
+        <pubDate>Sun, 02 Nov 2025 10:06:00 GMT</pubDate>
+        <description>Predrag Mijatović, były piłkarz i dyrektor sportowy Realu Madryt, pojawił się w programie Carrusel Deportivo na antenie Cadena SER. Czarnogórzec odniósł się do sytuacji Viníciusa oraz formy innych piłkarzy Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 2 listopada</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143878-xabi-alonso-pierwszym-wykonawca-karnych-jest-mbappe-potem-podejmuja-decyzje</link>
         <pubDate>Sat, 01 Nov 2025 23:58:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się na konferencji prasowej po meczu z Valencią w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Carreras: Gra tutaj to szaleństwo</title>
-        <link>https://www.realmadryt.pl/news/143877-carreras-gra-tutaj-to-szalenstwo</link>
-        <pubDate>Sat, 01 Nov 2025 23:33:00 GMT</pubDate>
-        <description>Álvaro Carreras udzielił wywiadu dla klubowej telewizji po wygranym 4:0 meczu z Valencią. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 4:0 Valencia [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/143872-real-madryt-4-0-valencia-video</link>
-        <pubDate>Sat, 01 Nov 2025 23:20:00 GMT</pubDate>
-        <description>W meczu 11. kolejki La Ligi Real Madryt wygrał na Bernabéu z Valencią 4:0. Bramki zdobyli Kylian Mbappé (dwie), Jude Bellingham i Álvaro Carreras.</description>
     </item>
     
 </channel>
