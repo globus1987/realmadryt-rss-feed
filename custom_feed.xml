@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 14:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 15:22:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Karl Etta Eyong na radarze Realu i Barcelony</title>
+        <link>https://www.realmadryt.pl/news/143900-media-karl-etta-eyong-na-radarze-realu-i-barcelony</link>
+        <pubDate>Sun, 02 Nov 2025 15:56:00 GMT</pubDate>
+        <description>Napastnik Levante jest jednym z odkryć początku tego sezonu La Ligi.</description>
+    </item>
     
     <item>
         <title>Szansa na ligowe podium</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143890-istvan-kovacs-na-liverpool</link>
         <pubDate>Sun, 02 Nov 2025 11:27:00 GMT</pubDate>
         <description>István Kovács poprowadzi wtorkowy mecz między Liverpoolem a Realem Madryt. Będzie to jego piąte spotkanie z udziałem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Fortea nie zagra przez kilka tygodni</title>
-        <link>https://www.realmadryt.pl/news/143889-marca-fortea-nie-zagra-przez-kilka-tygodni</link>
-        <pubDate>Sun, 02 Nov 2025 10:41:00 GMT</pubDate>
-        <description>Prawy obrońca doznał kontuzji kostki w meczu z Southampton.</description>
     </item>
     
 </channel>
