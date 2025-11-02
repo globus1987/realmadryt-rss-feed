@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 10:24:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 10:41:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>István Kovács na Liverpool</title>
+        <link>https://www.realmadryt.pl/news/143890-istvan-kovacs-na-liverpool</link>
+        <pubDate>Sun, 02 Nov 2025 11:27:00 GMT</pubDate>
+        <description>István Kovács poprowadzi wtorkowy mecz między Liverpoolem a Realem Madryt. Będzie to jego piąte spotkanie z udziałem Królewskich.</description>
+    </item>
     
     <item>
         <title>MARCA: Fortea nie zagra przez kilka tygodni</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143882-glos-kibica-czy-uwazasz-ze-xabi-alonso-traktowal-endricka-niesprawiedliwie</link>
         <pubDate>Sun, 02 Nov 2025 05:30:00 GMT</pubDate>
         <description>Rozpoczynamy nowy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Kolejna próba wyjazdowego przełamania</title>
-        <link>https://www.realmadryt.pl/news/143868-kolejna-proba-wyjazdowego-przelamania</link>
-        <pubDate>Sun, 02 Nov 2025 01:44:00 GMT</pubDate>
-        <description>W 5. kolejce Ligi Endesa Real Madryt zmierzy się na wyjeździe z Saragossą. Będzie to szósty wyjazd w tym sezonie, a Królewscy ciągle pozostają bez wygranej na obcym terenie.</description>
     </item>
     
 </channel>
