@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 19:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 19:38:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla wskakuje na podium</title>
+        <link>https://www.realmadryt.pl/news/143904-castilla-wskakuje-na-podium</link>
+        <pubDate>Sun, 02 Nov 2025 20:32:00 GMT</pubDate>
+        <description>W 10. kolejce Primera Federación Castilla pokonała Talaverę 1:0. Dzięki temu zwycięstwu wskoczyła na najniższy stopień podium.</description>
+    </item>
     
     <item>
         <title>Scariolo: To było solidne spotkanie</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>FC Barcelona – Elche CF: Katalończycy muszą wygrać [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/143901-fc-barcelona-elche-cf-katalonczycy-musza-wygrac-na-zywo</link>
+        <title>11. kolejka: Barcelona pozostaje 5 punktów za Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/143901-11-kolejka-barcelona-pozostaje-5-punktow-za-realem-madryt</link>
         <pubDate>Sun, 02 Nov 2025 17:35:00 GMT</pubDate>
-        <description>Katalończycy muszą bezwzględnie podnieść się po Klasyku i wygrać mecz z będącym w pierwszej połowie tabeli Elche, by utrzymać się w pogoni za liderującym Realem Madryt.</description>
+        <description>Katalończycy chcieli podnieść się po Klasyku i ostatecznie wygrali mecz z będącym w pierwszej połowie tabeli Elche.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143893-prawa-obrona-znow-dla-fede</link>
         <pubDate>Sun, 02 Nov 2025 13:03:00 GMT</pubDate>
         <description>Urugwajczyk znów zagrał na prawej stronie defensywy, tym razem przeciwko Valencii. To już 24. mecz Fede na tej pozycji.</description>
-    </item>
-    
-    <item>
-        <title>Xabi: Kiedy funkcjonujemy jako drużyna, to wytwarza się bardzo dobra energia</title>
-        <link>https://www.realmadryt.pl/news/143892-xabi-kiedy-funkcjonujemy-jako-druzyna-to-wytwarza-sie-bardzo-dobra-energia</link>
-        <pubDate>Sun, 02 Nov 2025 12:56:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji po wygranym 4:0 meczu z Valencią. Przedstawiamy zapis rozmowy z trenerem Realu Madryt.</description>
     </item>
     
 </channel>
