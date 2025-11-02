@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 22:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 23:22:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143907-dzisiejsze-okladki</link>
+        <pubDate>Mon, 03 Nov 2025 00:00:00 GMT</pubDate>
+        <description>Odrodzenie Jude'a Bellinghama i wygrana Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Marcelo: W BARCELONIE zawsze dzieje się to samo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143895-oceny-zawodnikow-po-meczu-z-valencia</link>
         <pubDate>Sun, 02 Nov 2025 13:37:00 GMT</pubDate>
         <description>Real Madryt wygrał 4:0 z Valencią. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Corberán: Poza pierwszymi 15 minutami nie było wielu pozytywów</title>
-        <link>https://www.realmadryt.pl/news/143885-corberan-poza-pierwszymi-15-minutami-nie-bylo-wielu-pozytywow</link>
-        <pubDate>Sun, 02 Nov 2025 13:16:00 GMT</pubDate>
-        <description>Trener Valencii, Carlos Corberán, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
     </item>
     
 </channel>
