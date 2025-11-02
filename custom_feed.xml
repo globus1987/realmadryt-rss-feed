@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 11:18:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 11:39:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Długi rozbrat z Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/143891-dlugi-rozbrat-z-bernabeu</link>
+        <pubDate>Sun, 02 Nov 2025 12:30:00 GMT</pubDate>
+        <description>Po trzech meczach z rzędu na Bernabéu Real Madryt czeka długi rozbrat ze swoim obiektem.</description>
+    </item>
     
     <item>
         <title>István Kovács na Liverpool</title>
@@ -28,8 +35,8 @@
     </item>
     
     <item>
-        <title>Deck: Musimy robi swoje</title>
-        <link>https://www.realmadryt.pl/news/143867-deck-musimy-robi-swoje</link>
+        <title>Deck: Musimy robić swoje</title>
+        <link>https://www.realmadryt.pl/news/143867-deck-musimy-robic-swoje</link>
         <pubDate>Sun, 02 Nov 2025 10:20:00 GMT</pubDate>
         <description>Gabriel Deck wypowiadał się przed spotkaniem z Saragossą. Mówił o tym, że drużyna musi na wyjazdach grać tak konsekwentnie, jak to robi przed własnymi kibicami.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143884-liverpool-pokonal-aston-ville-video</link>
         <pubDate>Sun, 02 Nov 2025 07:00:00 GMT</pubDate>
         <description>The Reds przełamali serię dwóch porażek z rzędu i wygrali w ostatnim starciu przed podjęciem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czy uważasz, że Xabi Alonso traktował Endricka niesprawiedliwie?</title>
-        <link>https://www.realmadryt.pl/news/143882-glos-kibica-czy-uwazasz-ze-xabi-alonso-traktowal-endricka-niesprawiedliwie</link>
-        <pubDate>Sun, 02 Nov 2025 05:30:00 GMT</pubDate>
-        <description>Rozpoczynamy nowy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
