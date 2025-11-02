@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 09:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 09:39:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pressingowy potwór</title>
+        <link>https://www.realmadryt.pl/news/143888-pressingowy-potwor</link>
+        <pubDate>Sun, 02 Nov 2025 10:38:00 GMT</pubDate>
+        <description>W pięciu najmocniejszych ligach Europy Real Madryt jest zespołem, który zaliczył najwięcej odbiorów piłki w ostatniej tercji boiska. Pod wodzą Xabiego Alonso nikt nie jest zwolniony z pracy w pressingu.</description>
+    </item>
     
     <item>
         <title>Deck: Musimy robi swoje</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143880-dzisiejsze-okladki</link>
         <pubDate>Sun, 02 Nov 2025 00:49:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Pierwszym wykonawcą karnych jest Mbappé… Potem podejmują decyzje</title>
-        <link>https://www.realmadryt.pl/news/143878-xabi-alonso-pierwszym-wykonawca-karnych-jest-mbappe-potem-podejmuja-decyzje</link>
-        <pubDate>Sat, 01 Nov 2025 23:58:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się na konferencji prasowej po meczu z Valencią w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
     </item>
     
 </channel>
