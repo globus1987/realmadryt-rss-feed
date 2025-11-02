@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 02 Nov 2025 09:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 09:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Fortea nie zagra przez kilka tygodni</title>
+        <link>https://www.realmadryt.pl/news/143889-marca-fortea-nie-zagra-przez-kilka-tygodni</link>
+        <pubDate>Sun, 02 Nov 2025 10:41:00 GMT</pubDate>
+        <description>Prawy obrońca doznał kontuzji kostki w meczu z Southampton.</description>
+    </item>
     
     <item>
         <title>Pressingowy potwór</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143868-kolejna-proba-wyjazdowego-przelamania</link>
         <pubDate>Sun, 02 Nov 2025 01:44:00 GMT</pubDate>
         <description>W 5. kolejce Ligi Endesa Real Madryt zmierzy się na wyjeździe z Saragossą. Będzie to szósty wyjazd w tym sezonie, a Królewscy ciągle pozostają bez wygranej na obcym terenie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143880-dzisiejsze-okladki</link>
-        <pubDate>Sun, 02 Nov 2025 00:49:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
