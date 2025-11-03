@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Nov 2025 22:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 23:24:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143939-dzisiejsze-okladki</link>
+        <pubDate>Tue, 04 Nov 2025 00:10:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Liverpoolem i plany Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Terminarz 15. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143924-bellingham-i-mbappe-w-jedenastce-sezonu-fifpro</link>
         <pubDate>Mon, 03 Nov 2025 16:19:00 GMT</pubDate>
         <description>Międzynarodowa Federacja Piłkarzy Zawodowych ogłosiła swoją jedenastkę sezonu. Od dwóch lat FIFPro organizuje ten plebiscyt bez udziału FIFA.</description>
-    </item>
-    
-    <item>
-        <title>Van Dijk: Wrogie przyjęcie Trenta? Nie będę tego komentować</title>
-        <link>https://www.realmadryt.pl/news/143923-van-dijk-wrogie-przyjecie-trenta-nie-bede-tego-komentowac</link>
-        <pubDate>Mon, 03 Nov 2025 16:06:00 GMT</pubDate>
-        <description>Virgil Van Dijk wyszedł do dziennikarzy po meczu z Aston Villą. Przedstawiamy wypowiedzi kapitana Liverpoolu z tej rozmowy w strefie mieszanej.</description>
     </item>
     
 </channel>
