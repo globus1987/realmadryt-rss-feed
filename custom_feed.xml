@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Nov 2025 20:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 21:23:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 15. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/143934-terminarz-15-kolejki-la-ligi</link>
+        <pubDate>Mon, 03 Nov 2025 21:58:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 15. kolejki, w której Królewscy zagrają u siebie z Celtą Vigo.</description>
+    </item>
     
     <item>
         <title>Przedstawiciele Realu złożyli kwiaty ku pamięci Diogo Joty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143923-van-dijk-wrogie-przyjecie-trenta-nie-bede-tego-komentowac</link>
         <pubDate>Mon, 03 Nov 2025 16:06:00 GMT</pubDate>
         <description>Virgil Van Dijk wyszedł do dziennikarzy po meczu z Aston Villą. Przedstawiamy wypowiedzi kapitana Liverpoolu z tej rozmowy w strefie mieszanej.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius postrachem Liverpoolu</title>
-        <link>https://www.realmadryt.pl/news/143922-vinicius-postrachem-liverpoolu</link>
-        <pubDate>Mon, 03 Nov 2025 15:54:00 GMT</pubDate>
-        <description>Liverpool jest ulubioną „ofiarą” Viniego w meczach Ligi Mistrzów.</description>
     </item>
     
 </channel>
