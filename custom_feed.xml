@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Nov 2025 16:56:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 17:25:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Liverpoolu</title>
+        <link>https://www.realmadryt.pl/news/143925-krolewscy-sa-juz-w-liverpoolu</link>
+        <pubDate>Mon, 03 Nov 2025 18:15:00 GMT</pubDate>
+        <description>Real Madryt po prawie 2-godzinnej podróży dotarł do Anglii. Dzisiaj odbędzie się jeszcze konferencja prasowa.</description>
+    </item>
     
     <item>
         <title>Bellingham i Mbappé w jedenastce sezonu FIFPro</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143913-czy-arda-gueler-trenuje-z-grupa-na-zywo</link>
         <pubDate>Mon, 03 Nov 2025 12:22:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym meczem ligowym w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 listopada</title>
-        <link>https://www.realmadryt.pl/news/143914-kartka-z-kalendarza-3-listopada</link>
-        <pubDate>Mon, 03 Nov 2025 09:30:00 GMT</pubDate>
-        <description>Pierwszy gol Viníciusa, wejście smoka w wykonaniu Nacho, decydujący gol Rodrygo i urodziny byłego bramkarza. Co działo się 3 listopada?</description>
     </item>
     
 </channel>
