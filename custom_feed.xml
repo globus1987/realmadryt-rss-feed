@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 03 Nov 2025 23:24:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 23:40:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Wirtz to jeden z powodów, dzięki którym jestem w obecnym miejscu</title>
+        <link>https://www.realmadryt.pl/news/143937-xabi-alonso-wirtz-to-jeden-z-powodow-dzieki-ktorym-jestem-w-obecnym-miejscu</link>
+        <pubDate>Tue, 04 Nov 2025 00:32:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Liverpoolem w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Anfield.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143925-krolewscy-sa-juz-w-liverpoolu</link>
         <pubDate>Mon, 03 Nov 2025 18:15:00 GMT</pubDate>
         <description>Real Madryt po prawie 2-godzinnej podróży dotarł do Anglii. Dzisiaj odbędzie się jeszcze konferencja prasowa.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham i Mbappé w jedenastce sezonu FIFPro</title>
-        <link>https://www.realmadryt.pl/news/143924-bellingham-i-mbappe-w-jedenastce-sezonu-fifpro</link>
-        <pubDate>Mon, 03 Nov 2025 16:19:00 GMT</pubDate>
-        <description>Międzynarodowa Federacja Piłkarzy Zawodowych ogłosiła swoją jedenastkę sezonu. Od dwóch lat FIFPro organizuje ten plebiscyt bez udziału FIFA.</description>
     </item>
     
 </channel>
