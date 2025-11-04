@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Nov 2025 21:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 22:24:38 GMT</lastBuildDate>
     
     <item>
-        <title>Liverpool – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/143958-liverpool-real-madryt-live</link>
+        <title>Liverpool 1:0 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/143962-liverpool-1-0-real-madryt-video</link>
+        <pubDate>Tue, 04 Nov 2025 23:17:00 GMT</pubDate>
+        <description>W meczu 4. kolejki fazy ligowej Champions League Real Madryt przegrał na wyjeździe z Liverpoolem 0:1. Jedyną bramkę w tym meczu zdobył Alexis Mac Allister.</description>
+    </item>
+    
+    <item>
+        <title>Fede: To dla nas ciężki cios</title>
+        <link>https://www.realmadryt.pl/news/143964-fede-to-dla-nas-ciezki-cios</link>
+        <pubDate>Tue, 04 Nov 2025 23:15:00 GMT</pubDate>
+        <description>Fede Valverde udzielił wypowiedzi z murawy dla telewizji Movistar+ po przegranym 0:1 meczu z Liverpoolem. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Mac Allister MVP meczu na Anfield</title>
+        <link>https://www.realmadryt.pl/news/143961-mac-allister-mvp-meczu-na-anfield</link>
+        <pubDate>Tue, 04 Nov 2025 23:08:00 GMT</pubDate>
+        <description>Bardzo dobra dyspozycja Alexisa Mac Allistera w meczu Liverpoolu z Realem Madryt została doceniona przez ekspertów.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Liverpoolem</title>
+        <link>https://www.realmadryt.pl/news/143960-ocen-pilkarzy-po-meczu-z-liverpoolem</link>
+        <pubDate>Tue, 04 Nov 2025 22:56:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Krok w tył</title>
+        <link>https://www.realmadryt.pl/news/143958-krok-w-tyl</link>
         <pubDate>Tue, 04 Nov 2025 20:55:00 GMT</pubDate>
-        <description>W meczu 4. kolejki fazy ligowej Champions League Real Madryt gra na wyjeździe z Liverpoolem.</description>
+        <description>W meczu 4. kolejki fazy ligowej Champions League Real Madryt przegrał na wyjeździe z Liverpoolem 0:1. Jedyną bramkę w tym meczu zdobył Alexis Mac Allister.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/143946-firmino-jestem-fanem-viniego-i-uwielbiam-go-jako-pilkarza</link>
         <pubDate>Tue, 04 Nov 2025 14:50:00 GMT</pubDate>
         <description>Roberto Firmino udzielił krótkiego wywiadu dziennikowi MARCA. Przedstawiamy pełen tłumaczenie tej rozmowy z piłkarzem Al-Sadd.</description>
-    </item>
-    
-    <item>
-        <title>Dlaczego młodzi piłkarze zmagają się z pubalgią?</title>
-        <link>https://www.realmadryt.pl/news/143952-dlaczego-mlodzi-pilkarze-zmagaja-sie-z-pubalgia</link>
-        <pubDate>Tue, 04 Nov 2025 14:00:00 GMT</pubDate>
-        <description>Franco Mastantuono, Lamine Yamal i Nico Williams zmagają się z jedną z najboleśniejszych, najbardziej ograniczających i uciążliwych kontuzji w piłce. Albert Ortega w reportażu na łamach El Confidencial tłumaczy przyczyny pubalgii po rozmowie z dwójką znanych lekarzy. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Carragher: Cieszę się, że nie muszę grać przeciwko Mbappé</title>
-        <link>https://www.realmadryt.pl/news/143947-carragher-ciesze-sie-ze-nie-musze-grac-przeciwko-mbappe</link>
-        <pubDate>Tue, 04 Nov 2025 13:10:00 GMT</pubDate>
-        <description>Jamie Carragher udzielił wywiadu dziennikowi AS. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Zdewastowano mural Trenta w Liverpoolu: „Żegnaj, szczurze”</title>
-        <link>https://www.realmadryt.pl/news/143944-zdewastowano-mural-trenta-w-liverpoolu-zegnaj-szczurze</link>
-        <pubDate>Tue, 04 Nov 2025 12:21:00 GMT</pubDate>
-        <description>Przykry incydent przed dzisiejszym meczem na Anfield.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé do Viníciusa przed karnym: „Ty?” [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/143951-mbappe-do-viniciusa-przed-karnym-ty-video</link>
-        <pubDate>Tue, 04 Nov 2025 11:59:00 GMT</pubDate>
-        <description>Program El Día Después w telewizji Movistar+ pokazał kulisy meczu Realu Madryt z Valencią. Przedstawiamy ich pełne tłumaczenie.</description>
     </item>
     
 </channel>
