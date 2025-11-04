@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Nov 2025 19:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 20:29:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Liverpool – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/143958-liverpool-real-madryt-live</link>
+        <pubDate>Tue, 04 Nov 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 4. kolejki fazy ligowej Champions League pomiędzy Liverpoolem a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Camavinga zagra z prawej strony, ale piłkarze mają elastyczność</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143951-mbappe-do-viniciusa-przed-karnym-ty-video</link>
         <pubDate>Tue, 04 Nov 2025 11:59:00 GMT</pubDate>
         <description>Program El Día Después w telewizji Movistar+ pokazał kulisy meczu Realu Madryt z Valencią. Przedstawiamy ich pełne tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Bez zagrożonych zawieszeniem za kartki w Europie</title>
-        <link>https://www.realmadryt.pl/news/143950-bez-zagrozonych-zawieszeniem-za-kartki-w-europie</link>
-        <pubDate>Tue, 04 Nov 2025 11:32:00 GMT</pubDate>
-        <description>Na razie żaden z piłkarzy Królewskich nie obejrzał więcej niż jednej kartki w europejskich pucharach.</description>
     </item>
     
 </channel>
