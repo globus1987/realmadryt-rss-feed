@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Nov 2025 23:24:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 23:40:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143969-dzisiejsze-okladki</link>
+        <pubDate>Wed, 05 Nov 2025 00:38:00 GMT</pubDate>
+        <description>Porażka Realu Madryt to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Ręka Tchouaméniego „blisko ciała w naturalnej pozycji”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143955-mbappe-blisko-symbolicznej-granicy-i-przebicia-messiego-oraz-cristiano</link>
         <pubDate>Tue, 04 Nov 2025 16:40:00 GMT</pubDate>
         <description>Francuz stoi u granicy 400 goli w karierze. Dobija do niej w zdecydowanie najmłodszym wieku w porównaniu do wielkich strzelców z ostatnich dwóch dekad.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Ocena Xabiego? To proste – celująca</title>
-        <link>https://www.realmadryt.pl/news/143954-arbeloa-ocena-xabiego-to-proste-celujaca</link>
-        <pubDate>Tue, 04 Nov 2025 16:27:00 GMT</pubDate>
-        <description>Álvaro Arbeloa rozmawiał z dziennikarzami, którzy pytali go o ocenę pracy Xabiego Alonso w Realu Madryt. Odpowiedź była oczywiście bardzo pozytywna.</description>
     </item>
     
 </channel>
