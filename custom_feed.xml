@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 04 Nov 2025 10:30:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Nov 2025 10:55:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bez zagrożonych zawieszeniem za kartki w Europie</title>
+        <link>https://www.realmadryt.pl/news/143950-bez-zagrozonych-zawieszeniem-za-kartki-w-europie</link>
+        <pubDate>Tue, 04 Nov 2025 11:32:00 GMT</pubDate>
+        <description>Na razie żaden z piłkarzy Królewskich nie obejrzał więcej niż jednej kartki w europejskich pucharach.</description>
+    </item>
     
     <item>
         <title>222 zł za gola Realu z Liverpoolem!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143941-liverpool-real-madryt-przewidywane-sklady</link>
         <pubDate>Tue, 04 Nov 2025 02:23:00 GMT</pubDate>
         <description>Królewscy podchodzą do kolejnego meczu z czterema nieobecnymi. Spodziewany jest powrót do ustawienia z czterema pomocnikami.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Wirtz to jeden z powodów, dzięki którym jestem w obecnym miejscu</title>
-        <link>https://www.realmadryt.pl/news/143937-xabi-alonso-wirtz-to-jeden-z-powodow-dzieki-ktorym-jestem-w-obecnym-miejscu</link>
-        <pubDate>Tue, 04 Nov 2025 00:32:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Liverpoolem w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Anfield.</description>
     </item>
     
 </channel>
