@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 06:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 06:57:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy ręka jak ta Tchouaméniego powinna być karana rzutem karnym?</title>
+        <link>https://www.realmadryt.pl/news/143970-glos-kibica-czy-reka-jak-ta-tchouameniego-powinna-byc-karana-rzutem-karnym</link>
+        <pubDate>Wed, 05 Nov 2025 07:50:00 GMT</pubDate>
+        <description>Rozpoczynamy nowy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Carreras: Zabrakło nam trochę bardziej agresywnej gry</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143958-krok-w-tyl</link>
         <pubDate>Tue, 04 Nov 2025 20:55:00 GMT</pubDate>
         <description>W meczu 4. kolejki fazy ligowej Champions League Real Madryt przegrał na wyjeździe z Liverpoolem 0:1. Jedyną bramkę w tym meczu zdobył Alexis Mac Allister.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Camavinga zagra z prawej strony, ale piłkarze mają elastyczność</title>
-        <link>https://www.realmadryt.pl/news/143959-xabi-alonso-camavinga-zagra-z-prawej-strony-ale-pilkarze-maja-elastycznosc</link>
-        <pubDate>Tue, 04 Nov 2025 20:24:00 GMT</pubDate>
-        <description>Xabi Alonso na godzinę przed meczem Ligi Mistrzów z Liverpoolem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Anfield.</description>
     </item>
     
 </channel>
