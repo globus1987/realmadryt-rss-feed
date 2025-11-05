@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 07:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 07:42:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde: Pierwsza połowa była dosyć dobra</title>
+        <link>https://www.realmadryt.pl/news/143971-valverde-pierwsza-polowa-byla-dosyc-dobra</link>
+        <pubDate>Wed, 05 Nov 2025 08:40:00 GMT</pubDate>
+        <description>Federico Valverde wyszedł do dziennikarzy w strefie mieszanej po meczu z Liverpoolem. Przedstawiamy wypowiedzi zawodnika Realu Madryt z Anfield.</description>
+    </item>
+    
+    <item>
+        <title>Van Dijk: Czyli wtedy strzeliłeś dwa gole, a teraz przeprowadzasz ze mną wywiad?</title>
+        <link>https://www.realmadryt.pl/news/143974-van-dijk-czyli-wtedy-strzeliles-dwa-gole-a-teraz-przeprowadzasz-ze-mna-wywiad</link>
+        <pubDate>Wed, 05 Nov 2025 08:38:00 GMT</pubDate>
+        <description>Virgil van Dijk rozmawiał po wczorajszym spotkaniu z Michałem Żyro. Przedstawiamy pełny zapis tej rozmowy dla CANAL+.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy ręka jak ta Tchouaméniego powinna być karana rzutem karnym?</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143961-mac-allister-mvp-meczu-na-anfield</link>
         <pubDate>Tue, 04 Nov 2025 23:08:00 GMT</pubDate>
         <description>Bardzo dobra dyspozycja Alexisa Mac Allistera w meczu Liverpoolu z Realem Madryt została doceniona przez ekspertów.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Liverpoolem</title>
-        <link>https://www.realmadryt.pl/news/143960-ocen-pilkarzy-po-meczu-z-liverpoolem</link>
-        <pubDate>Tue, 04 Nov 2025 22:56:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Krok w tył</title>
-        <link>https://www.realmadryt.pl/news/143958-krok-w-tyl</link>
-        <pubDate>Tue, 04 Nov 2025 20:55:00 GMT</pubDate>
-        <description>W meczu 4. kolejki fazy ligowej Champions League Real Madryt przegrał na wyjeździe z Liverpoolem 0:1. Jedyną bramkę w tym meczu zdobył Alexis Mac Allister.</description>
     </item>
     
 </channel>
