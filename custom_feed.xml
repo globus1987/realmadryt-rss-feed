@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 07:42:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 07:55:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni: Czasem decydują detale</title>
+        <link>https://www.realmadryt.pl/news/143975-tchouameni-czasem-decyduja-detale</link>
+        <pubDate>Wed, 05 Nov 2025 08:51:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni rozmawiał po wczorajszym spotkaniu z Michałem Żyro. Przedstawiamy pełny zapis tej rozmowy dla CANAL+.</description>
+    </item>
     
     <item>
         <title>Valverde: Pierwsza połowa była dosyć dobra</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143964-fede-to-dla-nas-ciezki-cios</link>
         <pubDate>Tue, 04 Nov 2025 23:15:00 GMT</pubDate>
         <description>Fede Valverde udzielił wypowiedzi z murawy dla telewizji Movistar+ po przegranym 0:1 meczu z Liverpoolem. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Mac Allister MVP meczu na Anfield</title>
-        <link>https://www.realmadryt.pl/news/143961-mac-allister-mvp-meczu-na-anfield</link>
-        <pubDate>Tue, 04 Nov 2025 23:08:00 GMT</pubDate>
-        <description>Bardzo dobra dyspozycja Alexisa Mac Allistera w meczu Liverpoolu z Realem Madryt została doceniona przez ekspertów.</description>
     </item>
     
 </channel>
