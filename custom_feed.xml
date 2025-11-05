@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 17:56:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 18:38:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Walne Zgromadzenie odbędzie się 23 listopada</title>
+        <link>https://www.realmadryt.pl/news/143994-oficjalnie-walne-zgromadzenie-odbedzie-sie-23-listopada</link>
+        <pubDate>Wed, 05 Nov 2025 19:33:00 GMT</pubDate>
+        <description>Klub potwierdził datę Walnego Zgromadzenia, które podsumuje poprzedni sezon pod względem finansowym i przedstawi kondycję klubu. Przedstawiamy komunikat Królewskich.</description>
+    </item>
     
     <item>
         <title>Zachłysnąłem się Huijsenem, a teraz mam czkawkę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143980-krolewscy-maja-dzis-wolne</link>
         <pubDate>Wed, 05 Nov 2025 11:43:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Nie mogę niczego zarzucić drużynie</title>
-        <link>https://www.realmadryt.pl/news/143973-xabi-alonso-nie-moge-niczego-zarzucic-druzynie</link>
-        <pubDate>Wed, 05 Nov 2025 11:00:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się na konferencji prasowej po meczu Ligi Mistrzów z Liverpoolem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Anfield.</description>
     </item>
     
 </channel>
