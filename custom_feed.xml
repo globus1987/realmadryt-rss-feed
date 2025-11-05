@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 10:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 10:48:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/143980-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Wed, 05 Nov 2025 11:43:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Nie mogę niczego zarzucić drużynie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143968-carreras-zabraklo-nam-troche-bardziej-agresywnej-gry</link>
         <pubDate>Wed, 05 Nov 2025 07:00:00 GMT</pubDate>
         <description>Álvaro Carreras udzielił wywiadu dla telewizji Movistar+ po przegranym 0:1 meczu z Liverpoolem. Przedstawiamy wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Być może faul przed golem nie był potrzebny</title>
-        <link>https://www.realmadryt.pl/news/143967-courtois-byc-moze-faul-przed-golem-nie-byl-potrzebny</link>
-        <pubDate>Wed, 05 Nov 2025 05:30:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po przegranym 0:1 meczu z Liverpoolem. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
     </item>
     
 </channel>
