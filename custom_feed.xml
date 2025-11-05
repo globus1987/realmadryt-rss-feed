@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 09:53:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 10:29:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Nie mogę niczego zarzucić drużynie</title>
+        <link>https://www.realmadryt.pl/news/143973-xabi-alonso-nie-moge-niczego-zarzucic-druzynie</link>
+        <pubDate>Wed, 05 Nov 2025 11:00:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się na konferencji prasowej po meczu Ligi Mistrzów z Liverpoolem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Anfield.</description>
+    </item>
     
     <item>
         <title>Xabi ma problem z prawą stroną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143967-courtois-byc-moze-faul-przed-golem-nie-byl-potrzebny</link>
         <pubDate>Wed, 05 Nov 2025 05:30:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po przegranym 0:1 meczu z Liverpoolem. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Zamysł Viníciusa to odejście po sezonie, otwierają się drzwi do Premier League</title>
-        <link>https://www.realmadryt.pl/news/143972-chiringuito-zamysl-viniciusa-to-odejscie-po-sezonie-otwieraja-sie-drzwi-do-premier-league</link>
-        <pubDate>Wed, 05 Nov 2025 01:57:00 GMT</pubDate>
-        <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich otoczeniem. Przedstawiamy wypowiedzi tego dziennikarza na temat aktualnej sytuacji Viníciusa po meczu z Liverpoolem.</description>
     </item>
     
 </channel>
