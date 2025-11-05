@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 23:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 23:54:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/143999-dzisiejsze-okladki</link>
+        <pubDate>Thu, 06 Nov 2025 00:51:00 GMT</pubDate>
+        <description>Remis Barcelony to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Środowe mecze Ligi Mistrzów: Wygrane City i Interu, tylko remis Barçy w Brugii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143982-oceny-zawodnikow-po-meczu-z-liverpoolem</link>
         <pubDate>Wed, 05 Nov 2025 13:30:00 GMT</pubDate>
         <description>Real Madryt przegrał 0:1 z Liverpoolem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x14: Czy to był wyrównany mecz?!</title>
-        <link>https://www.realmadryt.pl/news/143981-podcast-7x14-czy-to-byl-wyrownany-mecz</link>
-        <pubDate>Wed, 05 Nov 2025 12:59:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Liverpoolem.</description>
     </item>
     
 </channel>
