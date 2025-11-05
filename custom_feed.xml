@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 09:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 09:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi ma problem z prawą stroną</title>
+        <link>https://www.realmadryt.pl/news/143979-xabi-ma-problem-z-prawa-strona</link>
+        <pubDate>Wed, 05 Nov 2025 10:44:00 GMT</pubDate>
+        <description>Trener szukał na tej flance nowego rozwiązania z Camavingą, ale tym razem się nie sprawdziło.</description>
+    </item>
     
     <item>
         <title>„To była walka dwóch bokserów, których dzieliła różnica kilku kategorii wagowych”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143972-chiringuito-zamysl-viniciusa-to-odejscie-po-sezonie-otwieraja-sie-drzwi-do-premier-league</link>
         <pubDate>Wed, 05 Nov 2025 01:57:00 GMT</pubDate>
         <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich otoczeniem. Przedstawiamy wypowiedzi tego dziennikarza na temat aktualnej sytuacji Viníciusa po meczu z Liverpoolem.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143969-dzisiejsze-okladki</link>
-        <pubDate>Wed, 05 Nov 2025 00:38:00 GMT</pubDate>
-        <description>Porażka Realu Madryt to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
