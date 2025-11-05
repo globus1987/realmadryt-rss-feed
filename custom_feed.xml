@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 18:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 19:22:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Środowe mecze Ligi Mistrzów: Grają City, Barça i Inter</title>
+        <link>https://www.realmadryt.pl/news/143992-srodowe-mecze-ligi-mistrzow-graja-city-barca-i-inter</link>
+        <pubDate>Wed, 05 Nov 2025 20:00:00 GMT</pubDate>
+        <description>Po wtorkowych meczach tylko dwie ekipy mają maksymalną liczbę punktów. W środę dołączyć może do nich trzeci zespół. Królewscy czekają na rozstrzygnięcia i swoje nowe miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Walne Zgromadzenie odbędzie się 23 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143981-podcast-7x14-czy-to-byl-wyrownany-mecz</link>
         <pubDate>Wed, 05 Nov 2025 12:59:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Liverpoolem.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/143980-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Wed, 05 Nov 2025 11:43:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
