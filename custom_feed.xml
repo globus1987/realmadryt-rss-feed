@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 05 Nov 2025 13:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 14:27:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pomeczowe uprzejmości na Anfield [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/143985-pomeczowe-uprzejmosci-na-anfield-video</link>
+        <pubDate>Wed, 05 Nov 2025 15:24:00 GMT</pubDate>
+        <description>Program Chiringuito pokazał kulisy meczu z Liverpoolem z perspektywy strefy mieszanej z widokiem na strefę między szatniami obu ekip.</description>
+    </item>
+    
+    <item>
+        <title>Real nie potrafi grać piłką</title>
+        <link>https://www.realmadryt.pl/news/143984-real-nie-potrafi-grac-pilka</link>
+        <pubDate>Wed, 05 Nov 2025 15:01:00 GMT</pubDate>
+        <description>Porażka w Liverpoolu pokazuje, że poziom konkurencyjności Realu Madryt nie zmienił się wystarczająco w porównaniu z ubiegłym rokiem. Zmienił się styl, ale nie efektywność.</description>
+    </item>
     
     <item>
         <title>AS: Walne Zgromadzenie Realu Madryt odbędzie się w weekend 22–23 listopada</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/143976-bellingham-wynik-oddaje-przebieg-meczu-minimalnie-byli-lepsi</link>
         <pubDate>Wed, 05 Nov 2025 09:22:00 GMT</pubDate>
         <description>Jude Bellingham rozmawiał po wczorajszym spotkaniu z jednym z angielskich dziennikarzy. Przedstawiamy pełny zapis tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Czasem decydują detale</title>
-        <link>https://www.realmadryt.pl/news/143975-tchouameni-czasem-decyduja-detale</link>
-        <pubDate>Wed, 05 Nov 2025 08:51:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni rozmawiał po wczorajszym spotkaniu z Michałem Żyro. Przedstawiamy pełny zapis tej rozmowy dla CANAL+.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Pierwsza połowa była dosyć dobra</title>
-        <link>https://www.realmadryt.pl/news/143971-valverde-pierwsza-polowa-byla-dosyc-dobra</link>
-        <pubDate>Wed, 05 Nov 2025 08:40:00 GMT</pubDate>
-        <description>Federico Valverde wyszedł do dziennikarzy w strefie mieszanej po meczu z Liverpoolem. Przedstawiamy wypowiedzi zawodnika Realu Madryt z Anfield.</description>
     </item>
     
 </channel>
