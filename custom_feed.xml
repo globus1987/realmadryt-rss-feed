@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Nov 2025 16:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 17:29:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Alaba powołany do reprezentacji</title>
+        <link>https://www.realmadryt.pl/news/144013-alaba-powolany-do-reprezentacji</link>
+        <pubDate>Thu, 06 Nov 2025 18:28:00 GMT</pubDate>
+        <description>Reprezentacja Austrii z Davidem Alabą wśród powołanych zagra wkrótce z Cyprem oraz Bośnią i Hercegowiną</description>
+    </item>
     
     <item>
         <title>Courtois z nominacją do nagrody The Best dla bramkarza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143997-oficjalnie-florentino-perez-podsumowal-rok-pracy-klubowej-fundacji</link>
         <pubDate>Thu, 06 Nov 2025 11:49:00 GMT</pubDate>
         <description></description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso powiela błędy, przez które zwolniono Ancelottiego</title>
-        <link>https://www.realmadryt.pl/news/144003-xabi-alonso-powiela-bledy-przez-ktore-zwolniono-ancelottiego</link>
-        <pubDate>Thu, 06 Nov 2025 11:00:00 GMT</pubDate>
-        <description>Mimo zwycięstwa w Klasyku trener Realu nie przekonuje w meczach prawdy, podejmując decyzje przypominające ostatni sezon Włocha na ławce Królewskich.</description>
     </item>
     
 </channel>
