@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Nov 2025 11:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 12:55:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/144004-dzisiejszy-trening</link>
+        <pubDate>Thu, 06 Nov 2025 13:35:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Aurélien Tchouaméni kontuzjowany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143991-czasami-w-realu-madryt-chodzi-bardziej-o-zarzadzanie-pilkarzami-niz-tylko-o-taktyke</link>
         <pubDate>Thu, 06 Nov 2025 05:30:00 GMT</pubDate>
         <description>Gareth Bale i Thierry Henry skomentowali pracę Xabiego Alonso w przedmeczowym studiu do meczu Liverpoolu z Realem Madryt. Przedstawiamy ich komentarze.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/143999-dzisiejsze-okladki</link>
-        <pubDate>Thu, 06 Nov 2025 00:51:00 GMT</pubDate>
-        <description>Remis Barcelony to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
