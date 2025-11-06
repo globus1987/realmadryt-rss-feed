@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Nov 2025 11:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 11:41:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lato, które odmieniło Courtois</title>
+        <link>https://www.realmadryt.pl/news/144002-lato-ktore-odmienilo-courtois</link>
+        <pubDate>Thu, 06 Nov 2025 12:34:00 GMT</pubDate>
+        <description>Jego praca w okresie przygotowawczym przynosi teraz owoce. W klubie pod koniec poprzedniego sezonu uznano, że nie trzeba sprowadzać bramkarza z absolutnego topu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Florentino Pérez podsumował rok pracy klubowej Fundacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143992-srodowe-mecze-ligi-mistrzow-wygrane-city-i-interu-tylko-remis-barcy-w-brugii</link>
         <pubDate>Wed, 05 Nov 2025 20:00:00 GMT</pubDate>
         <description>Po środowych meczach 4. kolejki fazy ligowej tylko trzy ekipy mają maksymalną liczbę punktów. Królewscy pomimo porażki utrzymują się w pierwszej ósemce.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Walne Zgromadzenie odbędzie się 23 listopada</title>
-        <link>https://www.realmadryt.pl/news/143994-oficjalnie-walne-zgromadzenie-odbedzie-sie-23-listopada</link>
-        <pubDate>Wed, 05 Nov 2025 19:33:00 GMT</pubDate>
-        <description>Klub potwierdził datę Walnego Zgromadzenia, które podsumuje poprzedni sezon pod względem finansowym i przedstawi kondycję klubu. Przedstawiamy komunikat Królewskich.</description>
     </item>
     
 </channel>
