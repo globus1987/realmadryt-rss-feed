@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Nov 2025 23:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 23:40:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144023-dzisiejsze-okladki</link>
+        <pubDate>Fri, 07 Nov 2025 00:25:00 GMT</pubDate>
+        <description>Plany Realu Madryt i Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Prezes Rayo: Filmik Lecha jest żałosny, Cristiano czy Messi nie robili żadnego problemu [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144007-mbappe-i-camavinga-powolani-do-reprezentacji-francji</link>
         <pubDate>Thu, 06 Nov 2025 15:44:00 GMT</pubDate>
         <description>Dwóch zawodników Realu Madryt znalazło się w kadrze Francuzów na mecze z Ukrainą i Azerbejdżanem.</description>
-    </item>
-    
-    <item>
-        <title>Pedrerol: Panuje wielkie zdziwienie wprowadzeniem Trenta</title>
-        <link>https://www.realmadryt.pl/news/144006-pedrerol-panuje-wielkie-zdziwienie-wprowadzeniem-trenta</link>
-        <pubDate>Thu, 06 Nov 2025 14:13:00 GMT</pubDate>
-        <description>Piłkarze mają być zszokowani tym, że Xabi wpuścił obrońcę na Anfield, które było do niego wrogo nastawione.</description>
     </item>
     
 </channel>
