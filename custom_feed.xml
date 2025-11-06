@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Nov 2025 16:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 16:59:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois z nominacją do nagrody The Best dla bramkarza</title>
+        <link>https://www.realmadryt.pl/news/144012-courtois-z-nominacja-do-nagrody-the-best-dla-bramkarza</link>
+        <pubDate>Thu, 06 Nov 2025 17:58:00 GMT</pubDate>
+        <description>Bramkarz Królewskich został nominowany do nagrody The Best w swojej kategorii.</description>
+    </item>
+    
+    <item>
+        <title>Siedmiu graczy Realu nominowanych do jedenastki FIFA The Best</title>
+        <link>https://www.realmadryt.pl/news/144011-siedmiu-graczy-realu-nominowanych-do-jedenastki-fifa-the-best</link>
+        <pubDate>Thu, 06 Nov 2025 17:51:00 GMT</pubDate>
+        <description>FIFA ogłosiła nazwiska 88 zawodników nominowanych do FIFA The Best Men's 11 za sezon 2024/25. Na liście znalazło się 7 piłkarzy Realu Madryt. Rok temu w finalnym składzie znalazło się 5 zawodników Królewskich.</description>
+    </item>
     
     <item>
         <title>Tylko jeden gracz Realu nominowany do nagrody The Best</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144003-xabi-alonso-powiela-bledy-przez-ktore-zwolniono-ancelottiego</link>
         <pubDate>Thu, 06 Nov 2025 11:00:00 GMT</pubDate>
         <description>Mimo zwycięstwa w Klasyku trener Realu nie przekonuje w meczach prawdy, podejmując decyzje przypominające ostatni sezon Włocha na ławce Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>CIES: Mastantuono 4. nastolatkiem pod względem wartości transferowej na świecie</title>
-        <link>https://www.realmadryt.pl/news/143993-cies-mastantuono-4-nastolatkiem-pod-wzgledem-wartosci-transferowej-na-swiecie</link>
-        <pubDate>Thu, 06 Nov 2025 10:20:00 GMT</pubDate>
-        <description>Dwóch graczy Realu Madryt znalazło się wśród najwyżej wycenianych nastolatków na świecie.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 6 listopada</title>
-        <link>https://www.realmadryt.pl/news/143998-kartka-z-kalendarza-6-listopada</link>
-        <pubDate>Thu, 06 Nov 2025 09:30:00 GMT</pubDate>
-        <description>Wysoka wygrana z Osasuną, remis z Borussią Dortmund i jeden z najlepszych meczów sezonu 2019/20. Co działo się 6 listopada?</description>
     </item>
     
 </channel>
