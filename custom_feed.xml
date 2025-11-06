@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 06 Nov 2025 11:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 11:54:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Aurélien Tchouaméni kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/144005-oficjalnie-aurelien-tchouameni-kontuzjowany</link>
+        <pubDate>Thu, 06 Nov 2025 12:52:00 GMT</pubDate>
+        <description>Francuz wypada z gry i nie zagra w najbliższych spotkaniach.</description>
+    </item>
     
     <item>
         <title>Lato, które odmieniło Courtois</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/143999-dzisiejsze-okladki</link>
         <pubDate>Thu, 06 Nov 2025 00:51:00 GMT</pubDate>
         <description>Remis Barcelony to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Środowe mecze Ligi Mistrzów: Wygrane City i Interu, tylko remis Barçy w Brugii</title>
-        <link>https://www.realmadryt.pl/news/143992-srodowe-mecze-ligi-mistrzow-wygrane-city-i-interu-tylko-remis-barcy-w-brugii</link>
-        <pubDate>Wed, 05 Nov 2025 20:00:00 GMT</pubDate>
-        <description>Po środowych meczach 4. kolejki fazy ligowej tylko trzy ekipy mają maksymalną liczbę punktów. Królewscy pomimo porażki utrzymują się w pierwszej ósemce.</description>
     </item>
     
 </channel>
