@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 18:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 19:20:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Alonso testuje Mendy'ego jako stopera</title>
+        <link>https://www.realmadryt.pl/news/144042-marca-alonso-testuje-mendyego-jako-stopera</link>
+        <pubDate>Fri, 07 Nov 2025 20:06:00 GMT</pubDate>
+        <description>Trener zorganizował wczoraj mecz towarzyski z Castillą w Valdebebas. Z Rayo możemy zobaczyć Fran Garcíę od pierwszej minuty.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 12. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144029-wyniki-konkursu-od-hp-polska-kto-wygral-drukarke-oraz-koszulki</link>
         <pubDate>Fri, 07 Nov 2025 11:01:00 GMT</pubDate>
         <description>Poznaliśmy zwycięzców konkursu.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham powołany do reprezentacji</title>
-        <link>https://www.realmadryt.pl/news/144028-bellingham-powolany-do-reprezentacji</link>
-        <pubDate>Fri, 07 Nov 2025 10:59:00 GMT</pubDate>
-        <description>Thomas Tuchel tym razem znalazł uznanie dla pomocnika Realu Madryt. Anglia zagra w najbliższych dniach z Serbią i Albanią.</description>
     </item>
     
 </channel>
