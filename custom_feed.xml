@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 07:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 08:34:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 7 listopada</title>
+        <link>https://www.realmadryt.pl/news/144021-kartka-z-kalendarza-7-listopada</link>
+        <pubDate>Fri, 07 Nov 2025 09:30:00 GMT</pubDate>
+        <description>Morderstwo byłego zawodnika Realu Madryt, legendarny mecz koszykarzy, derby Madrytu i pierwsza wygrana Santiago Solariego w Lidze Mistrzów. Co działo się 7 listopada?</description>
+    </item>
     
     <item>
         <title>La Liga wprowadza do gry zimową piłkę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144013-alaba-powolany-do-reprezentacji</link>
         <pubDate>Thu, 06 Nov 2025 18:28:00 GMT</pubDate>
         <description>Reprezentacja Austrii z Davidem Alabą wśród powołanych zagra wkrótce z Cyprem oraz Bośnią i Hercegowiną</description>
-    </item>
-    
-    <item>
-        <title>Courtois z nominacją do nagrody The Best dla bramkarza</title>
-        <link>https://www.realmadryt.pl/news/144012-courtois-z-nominacja-do-nagrody-the-best-dla-bramkarza</link>
-        <pubDate>Thu, 06 Nov 2025 17:58:00 GMT</pubDate>
-        <description>Bramkarz Królewskich został nominowany do nagrody The Best w swojej kategorii.</description>
     </item>
     
 </channel>
