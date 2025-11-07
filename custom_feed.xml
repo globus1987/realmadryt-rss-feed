@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 07:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 07:41:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga wprowadza do gry zimową piłkę</title>
+        <link>https://www.realmadryt.pl/news/144018-la-liga-wprowadza-do-gry-zimowa-pilke</link>
+        <pubDate>Fri, 07 Nov 2025 08:40:00 GMT</pubDate>
+        <description>Od tej kolejki do gry w Hiszpanii wchodzi zimowa piłka w innym kolorze. Przedstawiamy komunikat La Ligi w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Pierwszy Klasyk w sezonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144012-courtois-z-nominacja-do-nagrody-the-best-dla-bramkarza</link>
         <pubDate>Thu, 06 Nov 2025 17:58:00 GMT</pubDate>
         <description>Bramkarz Królewskich został nominowany do nagrody The Best w swojej kategorii.</description>
-    </item>
-    
-    <item>
-        <title>Siedmiu graczy Realu nominowanych do jedenastki FIFA The Best</title>
-        <link>https://www.realmadryt.pl/news/144011-siedmiu-graczy-realu-nominowanych-do-jedenastki-fifa-the-best</link>
-        <pubDate>Thu, 06 Nov 2025 17:51:00 GMT</pubDate>
-        <description>FIFA ogłosiła nazwiska 88 zawodników nominowanych do FIFA The Best Men's 11 za sezon 2024/25. Na liście znalazło się 7 piłkarzy Realu Madryt. Rok temu w finalnym składzie znalazło się 5 zawodników Królewskich.</description>
     </item>
     
 </channel>
