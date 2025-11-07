@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 10:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 10:53:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen powołany do reprezentacji Hiszpanii</title>
+        <link>https://www.realmadryt.pl/news/144030-huijsen-powolany-do-reprezentacji-hiszpanii</link>
+        <pubDate>Fri, 07 Nov 2025 11:45:00 GMT</pubDate>
+        <description>Reprezentacja Hiszpanii rozegra w tym miesiącu dwa spotkania.</description>
+    </item>
     
     <item>
         <title>Wyniki konkursu od HP Polska. Kto wygrał drukarkę oraz koszulki?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144017-van-de-ven-kolejnym-stoperem-laczonym-z-realem</link>
         <pubDate>Fri, 07 Nov 2025 05:30:00 GMT</pubDate>
         <description>24-latek to kolejny ze stoperów łączonych z Królewskimi w sytuacji, w której zespół najpewniej opuszczą dwaj środkowi obrońcy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144023-dzisiejsze-okladki</link>
-        <pubDate>Fri, 07 Nov 2025 00:25:00 GMT</pubDate>
-        <description>Plany Realu Madryt i Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
