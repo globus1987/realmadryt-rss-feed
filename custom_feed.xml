@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 23:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 23:40:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144048-dzisiejsze-okladki</link>
+        <pubDate>Sat, 08 Nov 2025 00:26:00 GMT</pubDate>
+        <description>Wyniki finansowe Realu Madryt, wywiad z Jacobo Ramónem i powrót Barcelony na Camp Nou to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Rozwijamy się tak, jak zakładaliśmy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144033-mecz-realu-madryt-z-manchesterem-city-w-telewizji-polskiej</link>
         <pubDate>Fri, 07 Nov 2025 15:17:00 GMT</pubDate>
         <description>Prawa do pokazywania jednego meczu w kolejce Ligi Mistrzów ma Telewizja Polska.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Real nie wypełnił budżetu ws. Bernabéu, ale pobił rekord przychodowy</title>
-        <link>https://www.realmadryt.pl/news/144032-oficjalnie-real-nie-wypelnil-budzetu-ws-bernabeu-ale-pobil-rekord-przychodowy</link>
-        <pubDate>Fri, 07 Nov 2025 15:14:00 GMT</pubDate>
-        <description>Klub wysłał delegatom na Walne Zgromadzenie szczegółowe dane finansowe. Przedstawiamy najważniejsze informacje.</description>
     </item>
     
 </channel>
