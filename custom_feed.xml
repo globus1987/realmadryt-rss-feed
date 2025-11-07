@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 09:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 09:44:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Emocjonalnie i historycznie ten mecz przyciąga większe zainteresowanie</title>
+        <link>https://www.realmadryt.pl/news/144022-scariolo-emocjonalnie-i-historycznie-ten-mecz-przyciaga-wieksze-zainteresowanie</link>
+        <pubDate>Fri, 07 Nov 2025 10:44:00 GMT</pubDate>
+        <description>Sergio Scariolo wziął udział w konferencji prasowej przed spotkaniem z Barceloną. Mówił o tym, że występy Tavaresa, Krämera i Okeke stoją pod znakiem zapytania.</description>
+    </item>
     
     <item>
         <title>Trener Rayo pokłócił się z kapitanem i wyjechał ze stadionu bez konferencji prasowej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144016-media-tuchel-powola-bellinghama-na-listopadowe-mecze-reprezentacji</link>
         <pubDate>Thu, 06 Nov 2025 21:17:00 GMT</pubDate>
         <description>Bellingham nie dostał powołania na październikowe mecze reprezentacji po powrocie do gry po kontuzji, co wywołało spore kontrowersje. W tym miesiącu ma jednak udać się na zgrupowanie Synów Albionu.</description>
-    </item>
-    
-    <item>
-        <title>Dyrektor Almeríi: Arribas był tego lata bardzo blisko odejścia do Arabii Saudyjskiej</title>
-        <link>https://www.realmadryt.pl/news/144015-dyrektor-almerii-arribas-byl-tego-lata-bardzo-blisko-odejscia-do-arabii-saudyjskiej</link>
-        <pubDate>Thu, 06 Nov 2025 20:26:00 GMT</pubDate>
-        <description>Mohamed El Assy udzielił wywiadu Diario de Almería, w którym między innymi zdradził szczegóły niedoszłego odejścia wychowanka Królewskich.</description>
     </item>
     
 </channel>
