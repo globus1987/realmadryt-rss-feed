@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 07 Nov 2025 03:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 04:30:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Van de Ven kolejnym stoperem łączonym z Realem</title>
+        <link>https://www.realmadryt.pl/news/144017-van-de-ven-kolejnym-stoperem-laczonym-z-realem</link>
+        <pubDate>Fri, 07 Nov 2025 05:30:00 GMT</pubDate>
+        <description>24-latek to kolejny ze stoperów łączonych z Królewskimi w sytuacji, w której zespół najpewniej opuszczą dwaj środkowi obrońcy.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144008-el-confidencial-sprzeciw-zarzadu-odsuwa-zmiane-struktury-wlascicielskiej</link>
         <pubDate>Thu, 06 Nov 2025 15:57:00 GMT</pubDate>
         <description>Nieprzychylne prezesowi Królewskich źródło zarzuca mu, że próbował przeprowadzić zmianę struktury właścicielskiej bez uwzględnienia głosu socios i poprzez wykorzystanie modelu niezgodnego ze statutem klubu. Na razie nie ma informacji</description>
-    </item>
-    
-    <item>
-        <title>Mbappé i Camavinga powołani do reprezentacji Francji</title>
-        <link>https://www.realmadryt.pl/news/144007-mbappe-i-camavinga-powolani-do-reprezentacji-francji</link>
-        <pubDate>Thu, 06 Nov 2025 15:44:00 GMT</pubDate>
-        <description>Dwóch zawodników Realu Madryt znalazło się w kadrze Francuzów na mecze z Ukrainą i Azerbejdżanem.</description>
     </item>
     
 </channel>
