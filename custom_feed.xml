@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Nov 2025 09:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 10:24:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Jacobo Ramón: Powrót do Realu to marzenie</title>
+        <link>https://www.realmadryt.pl/news/144051-jacobo-ramon-powrot-do-realu-to-marzenie</link>
+        <pubDate>Sat, 08 Nov 2025 10:55:00 GMT</pubDate>
+        <description>Wychowanek Realu Madryt, który latem odszedł do Como, udzielił wywiadu dziennikowi AS. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
+    </item>
     
     <item>
         <title>De la Fuente: Starcie Carvajala z Yamalem? Reprezentacja to rodzina</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144042-marca-alonso-testuje-mendyego-jako-stopera</link>
         <pubDate>Fri, 07 Nov 2025 20:06:00 GMT</pubDate>
         <description>Trener zorganizował wczoraj mecz towarzyski z Castillą w Valdebebas. Z Rayo możemy zobaczyć Fran Garcíę od pierwszej minuty.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 12. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/144035-telewizyjny-terminarz-12-kolejki-la-ligi</link>
-        <pubDate>Fri, 07 Nov 2025 19:39:00 GMT</pubDate>
-        <description>Przed nami 12. kolejka La Ligi. Real Madryt zagra na wyjeździe z Rayo Vallecano. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
