@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Nov 2025 23:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 23:39:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144070-dzisiejsze-okladki</link>
+        <pubDate>Sun, 09 Nov 2025 00:38:00 GMT</pubDate>
+        <description>Mecze Realu Madryt i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Fede wraca na swoje miejsce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144053-camavinga-przejmuje-stery</link>
         <pubDate>Sat, 08 Nov 2025 11:26:00 GMT</pubDate>
         <description>Kontuzja Auréliena da mu szansę na grę na pozycji cofniętego rozgrywającego.</description>
-    </item>
-    
-    <item>
-        <title>Jacobo Ramón: Powrót do Realu to marzenie</title>
-        <link>https://www.realmadryt.pl/news/144051-jacobo-ramon-powrot-do-realu-to-marzenie</link>
-        <pubDate>Sat, 08 Nov 2025 10:55:00 GMT</pubDate>
-        <description>Wychowanek Realu Madryt, który latem odszedł do Como, udzielił wywiadu dziennikowi AS. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
     </item>
     
 </channel>
