@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 08 Nov 2025 03:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 04:30:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Slot: Pomogło nam to, że Real grał tak, jak się tego spodziewaliśmy</title>
+        <link>https://www.realmadryt.pl/news/144050-slot-pomoglo-nam-to-ze-real-gral-tak-jak-sie-tego-spodziewalismy</link>
+        <pubDate>Sat, 08 Nov 2025 05:30:00 GMT</pubDate>
+        <description>Arne Slot pojawił się na konferencji prasowej przed niedzielnym meczem z Manchesterem City. Przedstawiamy wypowiedzi trenera Liverpoolu dotyczące Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144034-brahim-powolany-do-reprezentacji</link>
         <pubDate>Fri, 07 Nov 2025 15:20:00 GMT</pubDate>
         <description>Marokańczyków czekają dwa mecze towarzyskie.</description>
-    </item>
-    
-    <item>
-        <title>Mecz Realu Madryt z Manchesterem City w Telewizji Polskiej</title>
-        <link>https://www.realmadryt.pl/news/144033-mecz-realu-madryt-z-manchesterem-city-w-telewizji-polskiej</link>
-        <pubDate>Fri, 07 Nov 2025 15:17:00 GMT</pubDate>
-        <description>Prawa do pokazywania jednego meczu w kolejce Ligi Mistrzów ma Telewizja Polska.</description>
     </item>
     
 </channel>
