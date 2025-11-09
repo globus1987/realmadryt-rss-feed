@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Nov 2025 21:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 22:22:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: To jest bardzo cenne zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/144093-scariolo-to-jest-bardzo-cenne-zwyciestwo</link>
+        <pubDate>Sun, 09 Nov 2025 22:58:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował krótko zwycięskie spotkanie z Joventutem. Powiedział, że to nie był piękny mecz i w dobrych słowach wypowiedział się o Łeniu.</description>
+    </item>
     
     <item>
         <title>MARCA: Jutro badania Valverde i Courtois</title>
@@ -28,8 +35,8 @@
     </item>
     
     <item>
-        <title>12. kolejka: Barça prowadzi na Balaídos; hattrick Lewandowskiego</title>
-        <link>https://www.realmadryt.pl/news/144086-12-kolejka-barca-prowadzi-na-balaidos-hattrick-lewandowskiego</link>
+        <title>12. kolejka: Barça wygrywa na Balaídos i odrabia dwa punkty do Realu</title>
+        <link>https://www.realmadryt.pl/news/144086-12-kolejka-barca-wygrywa-na-balaidos-i-odrabia-dwa-punkty-do-realu</link>
         <pubDate>Sun, 09 Nov 2025 20:40:00 GMT</pubDate>
         <description>Na Estadio Balaídos drużyna Hansiego Flicka mierzy się z Celtą Vigo.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144084-batalla-mielismy-okazje-by-zdobyc-trzy-punkty</link>
         <pubDate>Sun, 09 Nov 2025 18:28:00 GMT</pubDate>
         <description>Augusto Batalla udzielił wywiadu z murawy dla platofrmy DAZN po zremisowanym 0:0 meczu z Realem Madryt. Przedstawimy wypowiedzi bramkarza Rayo Vallecano.</description>
-    </item>
-    
-    <item>
-        <title>Bez odpowiedzi</title>
-        <link>https://www.realmadryt.pl/news/144080-bez-odpowiedzi</link>
-        <pubDate>Sun, 09 Nov 2025 16:10:00 GMT</pubDate>
-        <description>W meczu 12. kolejki La Ligi Real Madryt zremisował bezbramkowo z Rayo Vallecano. Było to ostatnie spotkanie przed zgrupowaniami reprezentacji.</description>
     </item>
     
 </channel>
