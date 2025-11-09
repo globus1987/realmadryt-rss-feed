@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Nov 2025 19:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 20:25:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po remisie z Rayo</title>
+        <link>https://www.realmadryt.pl/news/144090-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie-z-rayo</link>
+        <pubDate>Sun, 09 Nov 2025 20:58:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po bezbramkowym remisie z Rayo w Vallecas. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>12. kolejka: Barça goni Real na Balaídos</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144079-real-zagra-z-rayo-w-trzecim-komplecie-strojow</link>
         <pubDate>Sun, 09 Nov 2025 15:16:00 GMT</pubDate>
         <description>Dziś długo oczekiwany debiut niebieskiej koszulki.</description>
-    </item>
-    
-    <item>
-        <title>Rayo Vallecano – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/144078-rayo-vallecano-real-madryt-znamy-sklady</link>
-        <pubDate>Sun, 09 Nov 2025 15:00:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w meczu La Ligi z Rayo. Spotkanie rozpocznie się o 16:15 na Campo de Fútbol de Vallecas.</description>
     </item>
     
 </channel>
