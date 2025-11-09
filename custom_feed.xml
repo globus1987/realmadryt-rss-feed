@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Nov 2025 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 08:29:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ciekawostka</title>
+        <link>https://www.realmadryt.pl/news/144065-ciekawostka</link>
+        <pubDate>Sun, 09 Nov 2025 09:00:00 GMT</pubDate>
+        <description>Czy wiedziałeś, że…?</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy Courtois to najlepszy bramkarz w historii Realu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144056-ostatni-trening-przed-rayo</link>
         <pubDate>Sat, 08 Nov 2025 13:15:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Rekordowa strata finansowa sekcji koszykarskiej</title>
-        <link>https://www.realmadryt.pl/news/144055-rekordowa-strata-finansowa-sekcji-koszykarskiej</link>
-        <pubDate>Sat, 08 Nov 2025 12:10:00 GMT</pubDate>
-        <description>Real Madryt opublikował wyniki finansowe klubu. Zawierają się tam również dane dotyczące sekcji koszykarskiej. Wyraźnie widać, że w tym sezonie klub postanowił sporo zainwestować w przebudowę drużyny.</description>
     </item>
     
 </channel>
