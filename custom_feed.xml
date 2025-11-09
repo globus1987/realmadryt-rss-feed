@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Nov 2025 08:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 09:22:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po szóste zwycięstwo z rzędu</title>
+        <link>https://www.realmadryt.pl/news/144061-po-szoste-zwyciestwo-z-rzedu</link>
+        <pubDate>Sun, 09 Nov 2025 10:00:00 GMT</pubDate>
+        <description>W 11. kolejce Primera Federación Castilla zagra na wyjeździe z Méridą. Królewscy mają za sobą znakomitą passę pięciu kolejnych zwycięstw.</description>
+    </item>
     
     <item>
         <title>Ciekawostka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144057-xabi-alonso-rodrygo-moze-grac-na-prawej-stronie-i-w-srodku</link>
         <pubDate>Sat, 08 Nov 2025 13:24:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Rayo Vallecano w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Rayo</title>
-        <link>https://www.realmadryt.pl/news/144056-ostatni-trening-przed-rayo</link>
-        <pubDate>Sat, 08 Nov 2025 13:15:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
     </item>
     
 </channel>
