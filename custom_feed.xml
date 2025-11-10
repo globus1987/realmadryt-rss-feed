@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Nov 2025 08:57:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 09:32:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Eduardo!</title>
+        <link>https://www.realmadryt.pl/news/144099-wszystkiego-najlepszego-eduardo</link>
+        <pubDate>Mon, 10 Nov 2025 10:00:00 GMT</pubDate>
+        <description>Dziś swoje 23. urodziny obchodzi Eduardo Camavinga. Z tej okazji życzymy mu dalszego rozwoju w obecnym tempie i, co za tym idzie, kolejnych sukcesów w białej koszulce.</description>
+    </item>
     
     <item>
         <title>Niepokój z powodu niespodziewanego załamania formy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144089-bellingham-musimy-trzymac-sie-razem</link>
         <pubDate>Sun, 09 Nov 2025 19:58:00 GMT</pubDate>
         <description>Jude Bellingham opublikował wpis na Instagramie, w którym podzielił się swoimi odczuciami po bezbramkowym remisie z Rayo Vallecano.</description>
-    </item>
-    
-    <item>
-        <title>Liverpool zmiażdżony przez City</title>
-        <link>https://www.realmadryt.pl/news/144087-liverpool-zmiazdzony-przez-city</link>
-        <pubDate>Sun, 09 Nov 2025 19:29:00 GMT</pubDate>
-        <description>W meczu 11. kolejki Premier League Manchester City ograł Liverpool 3:0. Oba zespoły to bezpośredni rywale Królewskich w fazie ligowej Champions League. W ubiegły wtorek Real Madryt przegrał na Anfield 0:1, a 10 grudnia ugości Obywateli na Bernabéu.</description>
     </item>
     
 </channel>
