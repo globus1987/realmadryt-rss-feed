@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Nov 2025 10:30:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 10:54:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/144100-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 10 Nov 2025 11:52:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 12. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, Eduardo!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144086-12-kolejka-barca-wygrywa-na-balaidos-i-odrabia-dwa-punkty-do-realu</link>
         <pubDate>Sun, 09 Nov 2025 20:40:00 GMT</pubDate>
         <description>Na Estadio Balaídos drużyna Hansiego Flicka mierzy się z Celtą Vigo.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Musimy trzymać się razem</title>
-        <link>https://www.realmadryt.pl/news/144089-bellingham-musimy-trzymac-sie-razem</link>
-        <pubDate>Sun, 09 Nov 2025 19:58:00 GMT</pubDate>
-        <description>Jude Bellingham opublikował wpis na Instagramie, w którym podzielił się swoimi odczuciami po bezbramkowym remisie z Rayo Vallecano.</description>
     </item>
     
 </channel>
