@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Nov 2025 11:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 11:54:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Fede Valverde kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/144103-oficjalnie-fede-valverde-kontuzjowany</link>
+        <pubDate>Mon, 10 Nov 2025 12:53:00 GMT</pubDate>
+        <description>Urugwajczyk wypada z gry i nie zagra w najbliższych spotkaniach.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Rayo</title>
+        <link>https://www.realmadryt.pl/news/144102-oceny-zawodnikow-po-meczu-z-rayo</link>
+        <pubDate>Mon, 10 Nov 2025 12:50:00 GMT</pubDate>
+        <description>Real Madryt zremisował 0:0 z Rayo w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144091-trzecie-wyjazdowe-zwyciestwo-z-rzedu</link>
         <pubDate>Sun, 09 Nov 2025 21:36:00 GMT</pubDate>
         <description>W 6. kolejce Ligi Endesa Real Madryt pokonał Joventut i zbliżył się do pozycji lidera. Królewscy rozegrali przeciętne spotkanie, ale i tak zdołali pokonać Katalończyków.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po remisie z Rayo</title>
-        <link>https://www.realmadryt.pl/news/144090-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie-z-rayo</link>
-        <pubDate>Sun, 09 Nov 2025 20:58:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po bezbramkowym remisie z Rayo w Vallecas. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
-    </item>
-    
-    <item>
-        <title>12. kolejka: Barça wygrywa na Balaídos i odrabia dwa punkty do Realu</title>
-        <link>https://www.realmadryt.pl/news/144086-12-kolejka-barca-wygrywa-na-balaidos-i-odrabia-dwa-punkty-do-realu</link>
-        <pubDate>Sun, 09 Nov 2025 20:40:00 GMT</pubDate>
-        <description>Na Estadio Balaídos drużyna Hansiego Flicka mierzy się z Celtą Vigo.</description>
     </item>
     
 </channel>
