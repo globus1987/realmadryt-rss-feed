@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 10 Nov 2025 22:57:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 23:25:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144116-dzisiejsze-okladki</link>
+        <pubDate>Tue, 11 Nov 2025 00:13:00 GMT</pubDate>
+        <description>Sytuacja w Atlético i wizyta Messiego na Camp Nou to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>ESPN: Rodrygo myśli o odejściu w styczniu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144100-pichichi-zamora-asistencias</link>
         <pubDate>Mon, 10 Nov 2025 11:52:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 12. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Wszystkiego najlepszego, Eduardo!</title>
-        <link>https://www.realmadryt.pl/news/144099-wszystkiego-najlepszego-eduardo</link>
-        <pubDate>Mon, 10 Nov 2025 10:00:00 GMT</pubDate>
-        <description>Dziś swoje 23. urodziny obchodzi Eduardo Camavinga. Z tej okazji życzymy mu dalszego rozwoju w obecnym tempie i, co za tym idzie, kolejnych sukcesów w białej koszulce.</description>
     </item>
     
 </channel>
