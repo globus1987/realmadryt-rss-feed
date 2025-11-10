@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 09 Nov 2025 23:53:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 02:08:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144096-dzisiejsze-okladki</link>
+        <pubDate>Mon, 10 Nov 2025 00:58:00 GMT</pubDate>
+        <description>Mecze Realu Madryt i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: To jest bardzo cenne zwycięstwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144083-batalla-mvp-meczu-w-vallecas</link>
         <pubDate>Sun, 09 Nov 2025 18:28:00 GMT</pubDate>
         <description>Augusto Batalla został wyróżniony po meczu Rayo Vallecano z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Batalla: Mieliśmy okazje, by zdobyć trzy punkty</title>
-        <link>https://www.realmadryt.pl/news/144084-batalla-mielismy-okazje-by-zdobyc-trzy-punkty</link>
-        <pubDate>Sun, 09 Nov 2025 18:28:00 GMT</pubDate>
-        <description>Augusto Batalla udzielił wywiadu z murawy dla platofrmy DAZN po zremisowanym 0:0 meczu z Realem Madryt. Przedstawimy wypowiedzi bramkarza Rayo Vallecano.</description>
     </item>
     
 </channel>
