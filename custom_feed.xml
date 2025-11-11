@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Nov 2025 06:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 07:27:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo otrzymał nagrody za swój zeszły sezon w Castilli</title>
+        <link>https://www.realmadryt.pl/news/144113-gonzalo-otrzymal-nagrody-za-swoj-zeszly-sezon-w-castilli</link>
+        <pubDate>Tue, 11 Nov 2025 08:18:00 GMT</pubDate>
+        <description>Napastnik strzelił 25 goli dla Castilli w sezonie 2024/25.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Jak oceniasz dotychczasową pracę Xabiego w Realu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144105-oficjalnie-thibaut-courtois-kontuzjowany</link>
         <pubDate>Mon, 10 Nov 2025 13:40:00 GMT</pubDate>
         <description>We wczorajszym meczu z Rayo Vallecano Thibaut Courtois doznał kontuzji. Klub opublikował oficjalny komunikat w sprawie stanu zdrowia Belga.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/144104-dzisiejszy-trening</link>
-        <pubDate>Mon, 10 Nov 2025 13:17:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli pierwszy trening w tym tygodniu.</description>
     </item>
     
 </channel>
