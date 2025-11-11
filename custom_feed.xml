@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Nov 2025 11:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 12:55:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/144126-dzisiejszy-trening</link>
+        <pubDate>Tue, 11 Nov 2025 13:24:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli kolejny trening w tym tygodniu.</description>
+    </item>
+    
+    <item>
+        <title>Przerwa na przemyślenia</title>
+        <link>https://www.realmadryt.pl/news/144125-przerwa-na-przemyslenia</link>
+        <pubDate>Tue, 11 Nov 2025 13:00:00 GMT</pubDate>
+        <description>Przerwa na reprezentacje dobrze zrobi Realowi Madryt. Trudno nie zauważyć, że zespół wpadł w dołek, a trener ma kilka rzeczy do poukładania. Na szczęście dla Xabiego, ma on teraz trochę czasu, by przemyśleć pewne sprawy, pisze Pablo Polo z Marki.</description>
+    </item>
     
     <item>
         <title>Gonzalo i Endrick zamrożeni</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144113-gonzalo-otrzymal-nagrody-za-swoj-zeszly-sezon-w-castilli</link>
         <pubDate>Tue, 11 Nov 2025 08:18:00 GMT</pubDate>
         <description>Napastnik strzelił 25 goli dla Castilli w sezonie 2024/25.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Jak oceniasz dotychczasową pracę Xabiego w Realu?</title>
-        <link>https://www.realmadryt.pl/news/144115-glos-kibica-jak-oceniasz-dotychczasowa-prace-xabiego-w-realu</link>
-        <pubDate>Tue, 11 Nov 2025 07:25:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Casemiro: Nie przekazałbym pałeczki Viníciusowi ani Rodrygo</title>
-        <link>https://www.realmadryt.pl/news/144111-casemiro-nie-przekazalbym-paleczki-viniciusowi-ani-rodrygo</link>
-        <pubDate>Tue, 11 Nov 2025 05:30:00 GMT</pubDate>
-        <description>Pomocnik Manchesteru United udzielił wywiadu brazylijskiej telewizji Globo. Przedstawiamy wypowiedzi pośrednio i bezpośrednio dotyczące Realu Madryt, w którego graczem był przez prawie dziesięć lat.</description>
     </item>
     
 </channel>
