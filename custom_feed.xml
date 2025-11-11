@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Nov 2025 23:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 23:40:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144140-dzisiejsze-okladki</link>
+        <pubDate>Wed, 12 Nov 2025 00:37:00 GMT</pubDate>
+        <description>Zamieszanie wokół Lamine'a Yamala i ewentualny powrót Messiego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Musimy wyciągnąć wnioski z błędów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144126-dzisiejszy-trening</link>
         <pubDate>Tue, 11 Nov 2025 13:24:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli kolejny trening w tym tygodniu.</description>
-    </item>
-    
-    <item>
-        <title>Przerwa na przemyślenia</title>
-        <link>https://www.realmadryt.pl/news/144125-przerwa-na-przemyslenia</link>
-        <pubDate>Tue, 11 Nov 2025 13:00:00 GMT</pubDate>
-        <description>Przerwa na reprezentacje dobrze zrobi Realowi Madryt. Trudno nie zauważyć, że zespół wpadł w dołek, a trener ma kilka rzeczy do poukładania. Na szczęście dla Xabiego, ma on teraz trochę czasu, by przemyśleć pewne sprawy, pisze Pablo Polo z Marki.</description>
     </item>
     
 </channel>
