@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Nov 2025 21:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 22:25:16 GMT</lastBuildDate>
     
     <item>
-        <title>Piłkarki grają z Paris FC [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/144134-pilkarki-graja-z-paris-fc-na-zywo</link>
+        <title>Porażka w Walencji</title>
+        <link>https://www.realmadryt.pl/news/144137-porazka-w-walencji</link>
+        <pubDate>Tue, 11 Nov 2025 23:08:00 GMT</pubDate>
+        <description>W 10. kolejce Euroligi Real Madryt przegrał na wyjeździe z Valencią. Królewscy nie rozegrali najlepszego spotkania, a bez tego nie ma co myśleć o pokonaniu drużyny Pedro Martíneza.</description>
+    </item>
+    
+    <item>
+        <title>Piłkarki remisują z Paris FC po golu w ostatniej akcji meczu</title>
+        <link>https://www.realmadryt.pl/news/144134-pilkarki-remisuja-z-paris-fc-po-golu-w-ostatniej-akcji-meczu</link>
         <pubDate>Tue, 11 Nov 2025 20:50:00 GMT</pubDate>
-        <description>Od godziny 21:00 piłkarki Realu Madryt grają na Estadio Alfredo Di Stéfano z Paris FC w 3. kolejce fazy ligowej Ligi Mistrzyń.</description>
+        <description>W meczu 3. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zremisowały na Estadio Di Stéfano z Paris FC 1:1. Paryżanki wyszły na prowadzenie w pierwszej połowie po pewnie wykonanym rzucie karnym przez Lorénę Azzaro. W 8. minucie doliczonego czasu gry bramkę wyrównującą zdobyła Caroline Weir.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144124-gonzalo-i-endrick-zamrozeni</link>
         <pubDate>Tue, 11 Nov 2025 12:36:00 GMT</pubDate>
         <description>Mimo zatkanej ofensywy Gonzalo i Endrick nie pojawili się w starciach z Liverpoolem i Rayo nawet na minutę. Wychowanek w tym sezonie spędził na boisku 108 minut, Brazylijczyk zaś 11. Bez rasowego środkowego napastnika wrzutki przestają być bronią zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Plan na Mastantuono</title>
-        <link>https://www.realmadryt.pl/news/144123-plan-na-mastantuono</link>
-        <pubDate>Tue, 11 Nov 2025 11:58:00 GMT</pubDate>
-        <description>Klub podchodzi z rozwagą do urazu Franco Mastantuono. Nikt nie próbuje wyznaczać konkretnej daty powrotu Argentyńczyka do gry. Piłkarz w trakcie rehabilitacji ma się skupiać jednocześnie nad wzmacnianiem mięśni od środka.</description>
     </item>
     
 </channel>
