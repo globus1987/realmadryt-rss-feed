@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Nov 2025 07:56:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 08:35:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 listopada</title>
+        <link>https://www.realmadryt.pl/news/144114-kartka-z-kalendarza-11-listopada</link>
+        <pubDate>Tue, 11 Nov 2025 09:09:00 GMT</pubDate>
+        <description>Śmierć ważnej postaci w historii Realu Madryt oraz dwa pełne emocji spotkania ligowe. Co działo się 11 listopada?</description>
+    </item>
     
     <item>
         <title>Gonzalo otrzymał nagrody za swój zeszły sezon w Castilli</title>
@@ -28,8 +35,8 @@
     </item>
     
     <item>
-        <title>Vinícius po zmianach Xabiego: „Wygląda na to, że dziś nie chcemy wygrać”</title>
-        <link>https://www.realmadryt.pl/news/144117-vinicius-po-zmianach-xabiego-wyglada-na-to-ze-dzis-nie-chcemy-wygrac</link>
+        <title>Vinícius w trakcie meczu z Rayo: „Wygląda na to, że dziś nie chcemy wygrać”</title>
+        <link>https://www.realmadryt.pl/news/144117-vinicius-w-trakcie-meczu-z-rayo-wyglada-na-to-ze-dzis-nie-chcemy-wygrac</link>
         <pubDate>Tue, 11 Nov 2025 01:36:00 GMT</pubDate>
         <description>Program El Día Después w telewizji Movistar+ pokazał kulisy meczu Rayo z Realem Madryt, a kamera byłą skupiona niemal tylko na Viníciusie. Przedstawiamy ich pełne tłumaczenie.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144106-as-komitet-arbitrow-uwaza-ze-faule-na-bellinghamie-i-mbappe-to-nie-rzuty-karne</link>
         <pubDate>Mon, 10 Nov 2025 16:58:00 GMT</pubDate>
         <description>Real Madryt domagał się dwóch rzutów karnych za pociągnięcia w meczu z Rayo, lecz zdaniem CTA to za mało, by je odgwizdać.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Thibaut Courtois kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/144105-oficjalnie-thibaut-courtois-kontuzjowany</link>
-        <pubDate>Mon, 10 Nov 2025 13:40:00 GMT</pubDate>
-        <description>We wczorajszym meczu z Rayo Vallecano Thibaut Courtois doznał kontuzji. Klub opublikował oficjalny komunikat w sprawie stanu zdrowia Belga.</description>
     </item>
     
 </channel>
