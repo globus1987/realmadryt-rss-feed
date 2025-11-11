@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 11 Nov 2025 15:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 16:33:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Nie chce im się ani przeciwko wielkim, ani przeciwko małym”</title>
+        <link>https://www.realmadryt.pl/news/144131-nie-chce-im-sie-ani-przeciwko-wielkim-ani-przeciwko-malym</link>
+        <pubDate>Tue, 11 Nov 2025 17:26:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat formy Realu Madryt. Przedstawiamy opinię dziennikarza.</description>
+    </item>
+    
+    <item>
+        <title>Ancelotti: Endrick musi zastanowić się, co będzie dla niego najlepsze</title>
+        <link>https://www.realmadryt.pl/news/144130-ancelotti-endrick-musi-zastanowic-sie-co-bedzie-dla-niego-najlepsze</link>
+        <pubDate>Tue, 11 Nov 2025 16:49:00 GMT</pubDate>
+        <description>Carlo Ancelotti udzielił wywiadu dla brazylijskiego magazynu PLACAR, w którym mówił m.in. o przyszłości Endricka i szansach napastnika na powołanie na przyszłoroczny mundial. Przedstawiamy wypowiedzi selekcjonera Brazylijczyków.</description>
+    </item>
     
     <item>
         <title>Asencio się odkuł</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144120-oficjalnie-hiszpania-wyraza-niezadowolenie-i-zwalnia-laminea-yamala-ze-zgrupowania</link>
         <pubDate>Tue, 11 Nov 2025 11:00:00 GMT</pubDate>
         <description>Hiszpańska Federacja Piłkarska oficjalnie wyraziła swoje niezadowolenie i poinformowała o tym, że piłkarz Barcelony opuszcza zgrupowanie.</description>
-    </item>
-    
-    <item>
-        <title>Fabrizio Romano: Nie ma żadnego porozumienia między Realem a Upamecano</title>
-        <link>https://www.realmadryt.pl/news/144119-fabrizio-romano-nie-ma-zadnego-porozumienia-miedzy-realem-a-upamecano</link>
-        <pubDate>Tue, 11 Nov 2025 10:51:00 GMT</pubDate>
-        <description>Dziennikarz dementuje ostatnie doniesienia.</description>
-    </item>
-    
-    <item>
-        <title>„Jesteśmy bardzo blisko oglądania tego Realu, który chcemy”</title>
-        <link>https://www.realmadryt.pl/news/144112-jestesmy-bardzo-blisko-ogladania-tego-realu-ktory-chcemy</link>
-        <pubDate>Tue, 11 Nov 2025 10:51:00 GMT</pubDate>
-        <description>Pau Quesada i Naomie Feller wzięli udział w konferencji prasowej przed meczem 3. kolejki fazy ligowej Ligi Mistrzyń z Paris FC, który odbędzie się dziś o godzinie 21:00 na Estadio Alfredo Di Stéfano. Przedstawiamy wypowiedzi trenera i zawodniczki Królewskich.</description>
     </item>
     
 </channel>
