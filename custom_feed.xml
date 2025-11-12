@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Nov 2025 03:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 04:33:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger coraz bliżej powrotu</title>
+        <link>https://www.realmadryt.pl/news/144135-ruediger-coraz-blizej-powrotu</link>
+        <pubDate>Wed, 12 Nov 2025 05:30:00 GMT</pubDate>
+        <description>Powrót Antonio Rüdigera jest coraz bliżej. Niewykluczone, że 32-letni niemiecki stoper powołanie otrzyma już na zaplanowany na 23 listopada wyjazdowy mecz z Elche.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144128-po-trzecie-zwyciestwo-w-lidze-mistrzyn</link>
         <pubDate>Tue, 11 Nov 2025 15:19:00 GMT</pubDate>
         <description>W meczu 3. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt podejmą na Estadio Alfredo Di Stéfano Paris FC. Początek meczu o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/144126-dzisiejszy-trening</link>
-        <pubDate>Tue, 11 Nov 2025 13:24:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli kolejny trening w tym tygodniu.</description>
     </item>
     
 </channel>
