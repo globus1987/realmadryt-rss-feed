@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Nov 2025 11:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 11:41:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen potrzebuje wsparcia</title>
+        <link>https://www.realmadryt.pl/news/144144-huijsen-potrzebuje-wsparcia</link>
+        <pubDate>Wed, 12 Nov 2025 12:26:00 GMT</pubDate>
+        <description>Stoper szuka wsparcia u drużyny i sztabu szkoleniowego, by wyjść z dołka.</description>
+    </item>
     
     <item>
         <title>„Oglądanie tego Realu Madryt trochę nuży, co oni właściwie chcą grać?”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144133-globo-lyon-domyka-porozumienie-z-realem-w-sprawie-wypozyczenia-endricka</link>
         <pubDate>Tue, 11 Nov 2025 18:56:00 GMT</pubDate>
         <description>Brazylijskie media donoszą, że napastnik jest już o krok od przenosin do Francji.</description>
-    </item>
-    
-    <item>
-        <title>Courtois poleciał na zgrupowanie reprezentacji i… wrócił do Madrytu</title>
-        <link>https://www.realmadryt.pl/news/144132-courtois-polecial-na-zgrupowanie-reprezentacji-i-wrocil-do-madrytu</link>
-        <pubDate>Tue, 11 Nov 2025 18:23:00 GMT</pubDate>
-        <description>Belgijscy lekarze uznali, że chcą sami przebadać golkipera.</description>
     </item>
     
 </channel>
