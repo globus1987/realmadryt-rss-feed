@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Nov 2025 11:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 12:56:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x15: Chcieliśmy pozytywnie…</title>
+        <link>https://www.realmadryt.pl/news/144146-podcast-7x15-chcielismy-pozytywnie</link>
+        <pubDate>Wed, 12 Nov 2025 13:14:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Rayo Vallecano.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144137-porazka-w-walencji</link>
         <pubDate>Tue, 11 Nov 2025 23:08:00 GMT</pubDate>
         <description>W 10. kolejce Euroligi Real Madryt przegrał na wyjeździe z Valencią. Królewscy nie rozegrali najlepszego spotkania, a bez tego nie ma co myśleć o pokonaniu drużyny Pedro Martíneza.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki remisują z Paris FC po golu w ostatniej akcji meczu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/144134-pilkarki-remisuja-z-paris-fc-po-golu-w-ostatniej-akcji-meczu-video</link>
-        <pubDate>Tue, 11 Nov 2025 20:50:00 GMT</pubDate>
-        <description>W meczu 3. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zremisowały na Estadio Di Stéfano z Paris FC 1:1. Paryżanki wyszły na prowadzenie w pierwszej połowie po pewnie wykonanym rzucie karnym przez Lorénę Azzaro. W 8. minucie doliczonego czasu gry bramkę wyrównującą zdobyła Caroline Weir.</description>
     </item>
     
 </channel>
