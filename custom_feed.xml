@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Nov 2025 17:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 17:57:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 16. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/144153-terminarz-16-kolejki-la-ligi</link>
+        <pubDate>Wed, 12 Nov 2025 18:56:00 GMT</pubDate>
+        <description>La Liga opublikowała terminarz 16. kolejki, w której Królewscy zagrają na wyjeździe z Deportivo Alavés.</description>
+    </item>
     
     <item>
         <title>Problemy Realu Madryt w Vallecas [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144142-laporta-relacje-z-realem-nie-sa-dobre</link>
         <pubDate>Wed, 12 Nov 2025 10:55:00 GMT</pubDate>
         <description>Joan Laporta udzielił wywiadu dla Catalunya Ràdio. Przedstawiamy najważniejsze wypowiedzi prezesa Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>ABC: Klub i szatnia dystansują się od Xabiego</title>
-        <link>https://www.realmadryt.pl/news/144141-abc-klub-i-szatnia-dystansuja-sie-od-xabiego</link>
-        <pubDate>Wed, 12 Nov 2025 10:26:00 GMT</pubDate>
-        <description>To, za co go zatrudniono, styl z Leverkusen, który pokazał też z Realem na Klubowym Mundialu, poszło w zapomnienie. Afera z Viníciusem po Klasyku osłabiła pozycję trenera w części zespołu, a do tego wracają stare nawyki. Florentino Pérez i José Ángel Sánchez nie wsparli Alonso w sporze z Brazylijczykiem, co podkopało jego autorytet.</description>
     </item>
     
 </channel>
