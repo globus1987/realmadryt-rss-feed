@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Nov 2025 11:41:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 11:54:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/144145-dzisiejszy-trening</link>
+        <pubDate>Wed, 12 Nov 2025 12:44:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli kolejny trening w tym tygodniu.</description>
+    </item>
     
     <item>
         <title>Huijsen potrzebuje wsparcia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144134-pilkarki-remisuja-z-paris-fc-po-golu-w-ostatniej-akcji-meczu-video</link>
         <pubDate>Tue, 11 Nov 2025 20:50:00 GMT</pubDate>
         <description>W meczu 3. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zremisowały na Estadio Di Stéfano z Paris FC 1:1. Paryżanki wyszły na prowadzenie w pierwszej połowie po pewnie wykonanym rzucie karnym przez Lorénę Azzaro. W 8. minucie doliczonego czasu gry bramkę wyrównującą zdobyła Caroline Weir.</description>
-    </item>
-    
-    <item>
-        <title>Globo: Lyon domyka porozumienie z Realem w sprawie wypożyczenia Endricka</title>
-        <link>https://www.realmadryt.pl/news/144133-globo-lyon-domyka-porozumienie-z-realem-w-sprawie-wypozyczenia-endricka</link>
-        <pubDate>Tue, 11 Nov 2025 18:56:00 GMT</pubDate>
-        <description>Brazylijskie media donoszą, że napastnik jest już o krok od przenosin do Francji.</description>
     </item>
     
 </channel>
