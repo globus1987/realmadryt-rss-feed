@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 12 Nov 2025 05:57:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 06:40:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy lubisz Viníciusa?</title>
+        <link>https://www.realmadryt.pl/news/144136-glos-kibica-czy-lubisz-viniciusa</link>
+        <pubDate>Wed, 12 Nov 2025 07:25:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Rüdiger coraz bliżej powrotu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144127-jedenastu-madridistas-powolanych-do-reprezentacji</link>
         <pubDate>Tue, 11 Nov 2025 15:20:00 GMT</pubDate>
         <description>Jedenastu piłkarzy Realu Madryt zostało powołanych na listopadowe zgrupowania reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>Po trzecie zwycięstwo w Lidze Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/144128-po-trzecie-zwyciestwo-w-lidze-mistrzyn</link>
-        <pubDate>Tue, 11 Nov 2025 15:19:00 GMT</pubDate>
-        <description>W meczu 3. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt podejmą na Estadio Alfredo Di Stéfano Paris FC. Początek meczu o godzinie 21:00.</description>
     </item>
     
 </channel>
