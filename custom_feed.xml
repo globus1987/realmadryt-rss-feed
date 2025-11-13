@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Nov 2025 07:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 08:36:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejny trudny sprawdzian</title>
+        <link>https://www.realmadryt.pl/news/144158-kolejny-trudny-sprawdzian</link>
+        <pubDate>Thu, 13 Nov 2025 09:20:00 GMT</pubDate>
+        <description>W 11. kolejce Euroligi Real Madryt zmierzy się z Panathinaikosem. Na własnym parkiecie Królewscy są niepokonani i będą próbowali utrzymać ten status.</description>
+    </item>
+    
+    <item>
+        <title>Huijsen: Uważam, że za bardzo krytykujecie Viníciusa i momentami to już przesada</title>
+        <link>https://www.realmadryt.pl/news/144165-huijsen-uwazam-ze-za-bardzo-krytykujecie-viniciusa-i-momentami-to-juz-przesada</link>
+        <pubDate>Thu, 13 Nov 2025 09:14:00 GMT</pubDate>
+        <description>Dean Huijsen udzielił wywiadu dla Radio MARCA. Przedstawiamy najważniejsze wypowiedzi obrońcy Realu Madryt.</description>
+    </item>
     
     <item>
         <title>De la Fuente: Słowa Lamine'a, że Real kradnie? Trzeba bardzo uważać, by nie obrażać</title>
@@ -14,8 +28,8 @@
     </item>
     
     <item>
-        <title>Romano: Real Madryt ma pełne zaufanie do Xabiego Alonso</title>
-        <link>https://www.realmadryt.pl/news/144163-romano-real-madryt-ma-pelne-zaufanie-do-xabiego-alonso</link>
+        <title>Fabrizio Romano: Real Madryt ma pełne zaufanie do Xabiego Alonso</title>
+        <link>https://www.realmadryt.pl/news/144163-fabrizio-romano-real-madryt-ma-pelne-zaufanie-do-xabiego-alonso</link>
         <pubDate>Thu, 13 Nov 2025 07:50:00 GMT</pubDate>
         <description>Słynny Włoch potwierdzający transfery wystosował komentarz w sprawie plotek dotyczących sytuacji Xabiego Alonso. Przedstawiamy jego wypowiedzi i informacje.</description>
     </item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144152-problemy-realu-madryt-w-vallecas-video</link>
         <pubDate>Wed, 12 Nov 2025 18:42:00 GMT</pubDate>
         <description>Program El Día Después w telewizji Movistar+ pokazał dodatkowe kulisy meczu Rayo z Realem Madryt. Przedstawiamy ich pełne tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Z Ancelottim robimy postępy, on pozwala nam czuć się swobodnie</title>
-        <link>https://www.realmadryt.pl/news/144151-vinicius-z-ancelottim-robimy-postepy-on-pozwala-nam-czuc-sie-swobodnie</link>
-        <pubDate>Wed, 12 Nov 2025 17:20:00 GMT</pubDate>
-        <description>Vinícius wypowiedział się na temat pracy z Carlo Ancelottim w reprezentacji Brazylii. Przedstawiamy komentarze atakującego Realu Madryt z rozmowy ze związkowymi mediami.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Güler ma ofensywniejszą pozycję, jest innym typem zawodnika niż ja</title>
-        <link>https://www.realmadryt.pl/news/144150-kroos-gueler-ma-ofensywniejsza-pozycje-jest-innym-typem-zawodnika-niz-ja</link>
-        <pubDate>Wed, 12 Nov 2025 16:58:00 GMT</pubDate>
-        <description>Toni Kroos to współzałożyciel Icon League, w której mierzą się drużyny piłkarskie prowadzone przez influencerów i sławne osoby. Przedstawiamy wypowiedzi Niemca z dnia meczowego tej organizacji z rozmowy ze Sport1.</description>
     </item>
     
 </channel>
