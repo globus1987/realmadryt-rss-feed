@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Nov 2025 23:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 23:54:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Relacja z Xabim? Ludzie dużo gadają, za dużo… Jesteśmy zjednoczeni</title>
+        <link>https://www.realmadryt.pl/news/144184-mbappe-relacja-z-xabim-ludzie-duzo-gadaja-za-duzo-jestesmy-zjednoczeni</link>
+        <pubDate>Fri, 14 Nov 2025 00:50:00 GMT</pubDate>
+        <description>Kylian Mbappé po meczu Francji z Ukrainą wyszedł do mediów. Przedstawiamy najważniejsze wypowiedzi atakującego Realu Madryt, w tym komentarz po hiszpańsku o sytuacji w klubie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144171-odskocznia-od-trudnej-codziennosci-w-klubie</link>
         <pubDate>Thu, 13 Nov 2025 17:26:00 GMT</pubDate>
         <description>Napastnik nie dostał ani minuty w trzech ostatnich meczach Realu Madryt i chce wykorzystać przerwę reprezentacyjną, aby wrócić do formy.</description>
-    </item>
-    
-    <item>
-        <title>RMC: Camavinga skreślony z kadry na wieczorny mecz, dalsze decyzje po nim</title>
-        <link>https://www.realmadryt.pl/news/144170-rmc-camavinga-skreslony-z-kadry-na-wieczorny-mecz-dalsze-decyzje-po-nim</link>
-        <pubDate>Thu, 13 Nov 2025 16:55:00 GMT</pubDate>
-        <description>Francuz został skreślony z kadry na wieczorny mecz, a po nim może zostać wydana decyzja o zwolnieniu go ze zgrupowania. Dziennikarz RMC pisze już wprost o kontuzji mięśniowej.</description>
     </item>
     
 </channel>
