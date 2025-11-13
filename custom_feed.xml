@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 13 Nov 2025 14:43:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Nov 2025 15:29:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zagadkowy przypadek Frana Garcíi</title>
+        <link>https://www.realmadryt.pl/news/144169-zagadkowy-przypadek-frana-garcii</link>
+        <pubDate>Thu, 13 Nov 2025 16:25:00 GMT</pubDate>
+        <description>Lewy obrońca błyszczał na Klubowym Mundialu, a po nim zniknął całkowicie z planów Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Valverde jedzie na oparach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144159-camavinga-nie-trenowal-na-zgrupowaniu-kadry-przez-bol-miesniowy</link>
         <pubDate>Thu, 13 Nov 2025 05:30:00 GMT</pubDate>
         <description>Pomocnik nie trenował w ostatnich dwóch dniach z grupą i dzisiaj nie wystąpi przeciwko Ukrainie. To jego kolejne problemy zdrowotne w tym roku.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144161-dzisiejsze-okladki</link>
-        <pubDate>Thu, 13 Nov 2025 00:30:00 GMT</pubDate>
-        <description>Wywiady z Davidem Villą, Carlo Ancelottim i Carlosem Alcarazem to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
