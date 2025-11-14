@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Nov 2025 11:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 11:40:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Mbappé zwolniony ze zgrupowania z powodu urazu</title>
+        <link>https://www.realmadryt.pl/news/144189-oficjalnie-mbappe-zwolniony-ze-zgrupowania-z-powodu-urazu</link>
+        <pubDate>Fri, 14 Nov 2025 12:36:00 GMT</pubDate>
+        <description>Kapitan Francji został zwolniony z drugiego meczu eliminacji do mundialu. Federacja informuje o problemach zdrowotnych.</description>
+    </item>
     
     <item>
         <title>„Gdy zabrakło kary dla Viníciusa, piłkarze wyczuli utratę autorytetu ze strony trenera”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144181-scariolo-autokrytyka-za-pierwsza-polowe-i-gratulacje-za-druga</link>
         <pubDate>Thu, 13 Nov 2025 23:43:00 GMT</pubDate>
         <description>Sergio Scariolo wziął udział w konferencji prasowej po meczu z Panathinaikosem. Pogratulował swoim zawodnikom za drugą połowę, ale nie był zadowolony z pierwszej części, kiedy rywale zbudowali sobie przewagę.</description>
-    </item>
-    
-    <item>
-        <title>Pierwsza porażka we własnej hali</title>
-        <link>https://www.realmadryt.pl/news/144180-pierwsza-porazka-we-wlasnej-hali</link>
-        <pubDate>Thu, 13 Nov 2025 23:01:00 GMT</pubDate>
-        <description>W 11. kolejce Euroligi Real Madryt przegrał z Panathinaikosem. Królewscy byli drużyną wyraźnie słabszą w pierwszej połowie, a później nie potrafili odrobić strat.</description>
     </item>
     
 </channel>
