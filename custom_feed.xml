@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Nov 2025 22:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 23:24:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144199-dzisiejsze-okladki</link>
+        <pubDate>Sat, 15 Nov 2025 00:08:00 GMT</pubDate>
+        <description>Mecz Hiszpanii w eliminacjach do mundialu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Hiszpania U-21 gromi San Marino [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144178-pilkarki-niepokonane-od-13-spotkan</link>
         <pubDate>Fri, 14 Nov 2025 08:50:00 GMT</pubDate>
         <description>Już w sobotę o godzinie 16:00 piłkarki Realu Madryt zagrają na Estadi Olímpic Lluís Companys z Barceloną. Podopieczne Paua Quesady polecą do Barcelony z serią 13 meczów bez porażki.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czy podoba ci się przebudowane Bernabéu?</title>
-        <link>https://www.realmadryt.pl/news/144185-glos-kibica-czy-podoba-ci-sie-przebudowane-bernabeu</link>
-        <pubDate>Fri, 14 Nov 2025 08:00:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
