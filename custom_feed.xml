@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 14 Nov 2025 07:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 07:55:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarki niepokonane od 13 spotkań</title>
+        <link>https://www.realmadryt.pl/news/144178-pilkarki-niepokonane-od-13-spotkan</link>
+        <pubDate>Fri, 14 Nov 2025 08:50:00 GMT</pubDate>
+        <description>Już w sobotę o godzinie 16:00 piłkarki Realu Madryt zagrają na Estadi Olímpic Lluís Companys z Barceloną. Podopieczne Paua Quesady polecą do Barcelony z serią 13 meczów bez porażki.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy podoba ci się przebudowane Bernabéu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144175-gol-ricea-przeciwko-realowi-nominowany-do-nagrody-puskasa-video</link>
         <pubDate>Thu, 13 Nov 2025 19:13:00 GMT</pubDate>
         <description>Federacja dzisiaj podała 11 kandydatów do miana bramki roku. Królewscy pozostali bez nominacji, przy czym na liście znalazło się jedno z trafień ich rywali w bezpośrednim starciu.</description>
-    </item>
-    
-    <item>
-        <title>ESPN: Real rozważa zorganizowanie kolejnej pretemporady poza Stanami Zjednoczonymi</title>
-        <link>https://www.realmadryt.pl/news/144173-espn-real-rozwaza-zorganizowanie-kolejnej-pretemporady-poza-stanami-zjednoczonymi</link>
-        <pubDate>Thu, 13 Nov 2025 17:51:00 GMT</pubDate>
-        <description>Los Blancos poważnie myślą nad zmianą miejsca letnich przygotowań do sezonu.</description>
     </item>
     
 </channel>
