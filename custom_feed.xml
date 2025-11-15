@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Nov 2025 15:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 16:28:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla lepsza od Cacereño</title>
+        <link>https://www.realmadryt.pl/news/144217-castilla-lepsza-od-cacereno</link>
+        <pubDate>Sat, 15 Nov 2025 17:15:00 GMT</pubDate>
+        <description>W 12. kolejce Primera Federación Castilla pokonała Cacereño 2:0. Królewscy długo nie potrafili przełamać defensywy rywali. Musieli na to poczekać do ostatniego kwadransa.</description>
+    </item>
+    
+    <item>
+        <title>Eliminacje do mundialu: Güler od początku, a Huijsen i Alaba poza kadrami meczowymi [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/144216-eliminacje-do-mundialu-gueler-od-poczatku-a-huijsen-i-alaba-poza-kadrami-meczowymi-na-zywo</link>
+        <pubDate>Sat, 15 Nov 2025 17:03:00 GMT</pubDate>
+        <description>Od godziny 18:00 swoje mecze rozgrywają reprezentacje, do których powołania otrzymali zawodnicy Królewskich. Ostatecznie na murawie będziemy mogli obejrzeć tylko jednego z nich.</description>
+    </item>
     
     <item>
         <title>Vinícius, Rodrygo i Militão w wyjściowym składzie [NA ŻYWO]</title>
         <link>https://www.realmadryt.pl/news/144215-vinicius-rodrygo-i-militao-w-wyjsciowym-skladzie-na-zywo</link>
         <pubDate>Sat, 15 Nov 2025 16:16:00 GMT</pubDate>
-        <description>Brazylia ma do rozegrania ma mecze towarzyskie podczas tego okienka reprezentacyjnego. Dzisiaj w Londynie zmierzy się z Senegalem.</description>
+        <description>Brazylia ma do rozegrania ma mecze towarzyskie podczas tego okienka reprezentacyjnego. Dzisiaj w Londynie mierzy się z Senegalem.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144206-wrocic-na-zwycieska-sciezke</link>
         <pubDate>Sat, 15 Nov 2025 11:05:00 GMT</pubDate>
         <description>W 12. kolejce Primera Federación Castilla na Di Stéfano zagra z Cacereño. Dla piłkarzy Arbeloi jest to szansa, by odzyskać równowagę po poprzedniej wpadce z Méridą.</description>
-    </item>
-    
-    <item>
-        <title>Sold out w Gironie</title>
-        <link>https://www.realmadryt.pl/news/144202-sold-out-w-gironie</link>
-        <pubDate>Sat, 15 Nov 2025 10:46:00 GMT</pubDate>
-        <description>Na Real Madryt w ostatni weekend listopada będzie czekać wypełnione Montilivi w Gironie.</description>
-    </item>
-    
-    <item>
-        <title>Mastantuono utrzymuje wiarę w mundial</title>
-        <link>https://www.realmadryt.pl/news/144203-mastantuono-utrzymuje-wiare-w-mundial</link>
-        <pubDate>Sat, 15 Nov 2025 10:27:00 GMT</pubDate>
-        <description>Franco Mastantuono mimo ostatnich przeciwności zdrowotnych utrzymuje wiarę w wyjazd na przyszłoroczny mundial. Argentyńczyk skupia się obecnie na tym, aby bez presji i bez pośpiechu wrócić do stuprocentowej sprawności.</description>
     </item>
     
 </channel>
