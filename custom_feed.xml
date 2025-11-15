@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Nov 2025 11:19:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 11:39:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Xabi Alonso potrzebuje, aby klub stanął po jego stronie”</title>
+        <link>https://www.realmadryt.pl/news/144211-xabi-alonso-potrzebuje-aby-klub-stanal-po-jego-stronie</link>
+        <pubDate>Sat, 15 Nov 2025 12:23:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat sytuacji Xabiego Alonso. Przedstawiamy opinię dziennikarza.</description>
+    </item>
     
     <item>
         <title>Media: Huijsen przeszedł badania przez dyskomfort mięśniowy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144201-glos-kibica-czy-futbol-reprezentacyjny-moglby-dla-ciebie-nie-istniec</link>
         <pubDate>Sat, 15 Nov 2025 07:50:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Po meczu NFL dojdzie do wymiany murawy na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/144195-marca-po-meczu-nfl-dojdzie-do-wymiany-murawy-na-bernabeu</link>
-        <pubDate>Sat, 15 Nov 2025 07:00:00 GMT</pubDate>
-        <description>Po niedzielnym meczu NFL klub rozpocznie operację wymiany murawy, która ma rozwiązać wszelkie dotychczasowe problemy z boiskiem.</description>
     </item>
     
 </channel>
