@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Nov 2025 06:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 06:53:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy futbol reprezentacyjny mógłby dla ciebie nie istnieć?</title>
+        <link>https://www.realmadryt.pl/news/144201-glos-kibica-czy-futbol-reprezentacyjny-moglby-dla-ciebie-nie-istniec</link>
+        <pubDate>Sat, 15 Nov 2025 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>MARCA: Po meczu NFL dojdzie do wymiany murawy na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144189-oficjalnie-mbappe-zwolniony-ze-zgrupowania-z-powodu-urazu</link>
         <pubDate>Fri, 14 Nov 2025 12:36:00 GMT</pubDate>
         <description>Kapitan Francji został zwolniony z drugiego meczu eliminacji do mundialu. Federacja informuje o problemach zdrowotnych.</description>
-    </item>
-    
-    <item>
-        <title>„Gdy zabrakło kary dla Viníciusa, piłkarze wyczuli utratę autorytetu ze strony trenera”</title>
-        <link>https://www.realmadryt.pl/news/144188-gdy-zabraklo-kary-dla-viniciusa-pilkarze-wyczuli-utrate-autorytetu-ze-strony-trenera</link>
-        <pubDate>Fri, 14 Nov 2025 11:47:00 GMT</pubDate>
-        <description>Edu Aguirre prowadził nocne Chiringuito pod nieobecność Josepa Pedrerola. Przedstawiamy jego komentarze w sprawie sytuacji w szatni Realu Madryt.</description>
     </item>
     
 </channel>
