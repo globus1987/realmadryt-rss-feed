@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Nov 2025 09:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 09:53:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sold out w Gironie</title>
+        <link>https://www.realmadryt.pl/news/144202-sold-out-w-gironie</link>
+        <pubDate>Sat, 15 Nov 2025 10:46:00 GMT</pubDate>
+        <description>Na Real Madryt w ostatni weekend listopada będzie czekać wypełnione Montilivi w Gironie.</description>
+    </item>
     
     <item>
         <title>Mastantuono utrzymuje wiarę w mundial</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144196-maroko-wygralo-z-mozambikiem-i-srubuje-rekord-video</link>
         <pubDate>Fri, 14 Nov 2025 22:06:00 GMT</pubDate>
         <description>Kadra z północy Afryki skromnie zwyciężyła w domowym meczu towarzyskim, a zawodnik Realu spędził na murawie 74 minuty.</description>
-    </item>
-    
-    <item>
-        <title>Fuentes: Wszystko wskazuje, że zawieszenie Cristiano obejmie mundial</title>
-        <link>https://www.realmadryt.pl/news/144193-fuentes-wszystko-wskazuje-ze-zawieszenie-cristiano-obejmie-mundial</link>
-        <pubDate>Fri, 14 Nov 2025 17:22:00 GMT</pubDate>
-        <description>Poznaliśmy pierwsze informacje w sprawie możliwej kary Cristiano Ronaldo za jego zachowanie z Irlandią. Wiadomości nie są dobre dla legendy Realu Madryt.</description>
     </item>
     
 </channel>
