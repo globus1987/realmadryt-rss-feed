@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 15 Nov 2025 22:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Nov 2025 23:22:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144227-dzisiejsze-okladki</link>
+        <pubDate>Sun, 16 Nov 2025 00:20:00 GMT</pubDate>
+        <description>Wirtualny awans Hiszpanii na mundial to główny temat na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>De la Fuente: Huijsen ma małe dolegliwości, w niedzielę z Realem ocenimy jego stan</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144211-xabi-alonso-potrzebuje-aby-klub-stanal-po-jego-stronie</link>
         <pubDate>Sat, 15 Nov 2025 12:23:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat sytuacji Xabiego Alonso. Przedstawiamy opinię dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Media: Huijsen przeszedł badania przez dyskomfort mięśniowy</title>
-        <link>https://www.realmadryt.pl/news/144210-media-huijsen-przeszedl-badania-przez-dyskomfort-miesniowy</link>
-        <pubDate>Sat, 15 Nov 2025 12:12:00 GMT</pubDate>
-        <description>Poranna decyzja o wyłączeniu stopera Królewskich z meczu kadry ma podłoże zdrowotne, podają madryckie media.</description>
     </item>
     
 </channel>
