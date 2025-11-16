@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Nov 2025 18:33:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 18:53:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wygrana bez przekonania</title>
+        <link>https://www.realmadryt.pl/news/144241-wygrana-bez-przekonania</link>
+        <pubDate>Sun, 16 Nov 2025 19:39:00 GMT</pubDate>
+        <description>W 7. kolejce Ligi Endesa Real Madryt pokonał Bilbao, jednak gra nie była w pełni zadowalająca. Sergio Scariolo ciągle ma nad czym pracować.</description>
+    </item>
     
     <item>
         <title>Florentino Pérez przyjął gości i celebrytów na meczu NFL [VIDEO]</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Eliminacje do mundialu: Bellingham od początku w barwach Anglii [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/144239-eliminacje-do-mundialu-bellingham-od-poczatku-w-barwach-anglii-na-zywo</link>
+        <title>Eliminacje do mundialu: Dobry występ Bellinghama w wygranej Anglii [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/144239-eliminacje-do-mundialu-dobry-wystep-bellinghama-w-wygranej-anglii-video</link>
         <pubDate>Sun, 16 Nov 2025 17:00:00 GMT</pubDate>
-        <description>Pomocnik Królewskich występuje od pierwszej minuty w meczu kadry, która ma już zapewniony awans na mundial.</description>
+        <description>Pomocnik Królewskich wystąpił od pierwszej minuty w meczu kadry, która ma już zapewniony awans na mundial. Zaliczył dobre spotkanie i pomógł sobie w walce o powołanie na mundial.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144230-kraemer-to-jest-liga-endesa-i-powinnismy-szanowac-kazdego-rywala</link>
         <pubDate>Sun, 16 Nov 2025 12:30:00 GMT</pubDate>
         <description>David Krämer udzielił krótkiej wypowiedzi przed spotkaniem z Bilbao Basket w Lidze Endesa. Mówił, że trzeba powtórzyć postawę, jaką zaprezentowała drużyna w drugiej połowie meczu z Panathinaikosem.</description>
-    </item>
-    
-    <item>
-        <title>El País: Florentino chce stworzyć nową spółkę i zachować dotychczasową strukturę klubu</title>
-        <link>https://www.realmadryt.pl/news/144229-el-pais-florentino-chce-stworzyc-nowa-spolke-i-zachowac-dotychczasowa-strukture-klubu</link>
-        <pubDate>Sun, 16 Nov 2025 11:49:00 GMT</pubDate>
-        <description>Dziennikarz El País podał nowe informacje w sprawie zmian struktury właścicielskiej planowanych przez prezesa Realu Madryt.</description>
     </item>
     
 </channel>
