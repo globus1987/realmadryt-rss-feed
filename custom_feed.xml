@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Nov 2025 08:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 09:24:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 16 listopada</title>
+        <link>https://www.realmadryt.pl/news/144220-kartka-z-kalendarza-16-listopada</link>
+        <pubDate>Sun, 16 Nov 2025 10:20:00 GMT</pubDate>
+        <description>Zwycięstwo z Barceloną, wędrówka śladami „pierwszego Polaka w Realu”, który Polakiem nie był oraz wręczenie szczególnych odznak dla legendarnych postaci Królewskich. Co działo się 16 listopada?</description>
+    </item>
     
     <item>
         <title>Valdano: Nie chodzi o to, że mało biegają, a o to, że wolno myślą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144217-castilla-lepsza-od-cacereno</link>
         <pubDate>Sat, 15 Nov 2025 17:15:00 GMT</pubDate>
         <description>W 12. kolejce Primera Federación Castilla pokonała Cacereño 2:0. Królewscy długo nie potrafili przełamać defensywy rywali. Musieli na to poczekać do ostatniego kwadransa.</description>
-    </item>
-    
-    <item>
-        <title>Eliminacje do mundialu: 88 minuta Gülera w wygranej Turcji; Huijsen i Alaba poza kadrami meczowymi</title>
-        <link>https://www.realmadryt.pl/news/144216-eliminacje-do-mundialu-88-minuta-guelera-w-wygranej-turcji-huijsen-i-alaba-poza-kadrami-meczowymi</link>
-        <pubDate>Sat, 15 Nov 2025 17:03:00 GMT</pubDate>
-        <description>W wieczornych meczach eliminacji do mundialu ostatecznie na murawie oglądaliśmy tylko jednego z graczy Królewskich. Pozostała dwójka z różnych powodów pozostała poza kadrami meczowymi.</description>
     </item>
     
 </channel>
