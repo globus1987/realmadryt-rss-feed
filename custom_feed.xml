@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 16 Nov 2025 22:54:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 23:22:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144247-dzisiejsze-okladki</link>
+        <pubDate>Mon, 17 Nov 2025 00:12:00 GMT</pubDate>
+        <description>Mecz NFL na Bernabéu i plany Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Huijsen zwolniony ze zgrupowania reprezentacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144235-arbeloa-znow-liczy-na-alvaro-leive</link>
         <pubDate>Sun, 16 Nov 2025 13:24:00 GMT</pubDate>
         <description>20-latek odzyskuje zaufanie Arbeloi po „wygnaniu” do Realu Madryt C.</description>
-    </item>
-    
-    <item>
-        <title>Raport medyczny Realu Madryt przed poniedziałkowym powrotem do treningów</title>
-        <link>https://www.realmadryt.pl/news/144234-raport-medyczny-realu-madryt-przed-poniedzialkowym-powrotem-do-treningow</link>
-        <pubDate>Sun, 16 Nov 2025 13:12:00 GMT</pubDate>
-        <description>Dostępni zawodnicy w poniedziałek wznowią treningi w Valdebebas. Tak prezentuje się sytuacja zdrowotna Królewskich na tydzień przed kolejnym meczem.</description>
     </item>
     
 </channel>
