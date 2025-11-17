@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 17 Nov 2025 23:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Nov 2025 23:42:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144272-dzisiejsze-okladki</link>
+        <pubDate>Tue, 18 Nov 2025 00:27:00 GMT</pubDate>
+        <description>Mecz Hiszpanii, wywiad z Karimem Benzemą i powrót Barcelony na Camp Nou to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé żąda od PSG 253 milionów euro, klub odpowiada żądaniem 440 milionów euro od gracza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144259-oficjalnie-barcelona-wraca-do-gry-w-la-lidze-na-camp-nou</link>
         <pubDate>Mon, 17 Nov 2025 15:59:00 GMT</pubDate>
         <description>Katalończycy po 7 meczach domowych na innych stadionach wracają do gry na Camp Nou. Ostatni raz wystąpili tam w maju 2023 roku.</description>
-    </item>
-    
-    <item>
-        <title>Benzema: Mbappé może wygrać Ligę Mistrzów, ale nie sam</title>
-        <link>https://www.realmadryt.pl/news/144258-benzema-mbappe-moze-wygrac-lige-mistrzow-ale-nie-sam</link>
-        <pubDate>Mon, 17 Nov 2025 15:35:00 GMT</pubDate>
-        <description>Karim Benzema udzielił wywiadu na wyłączność dla dziennika AS, który w całości ukaże się na łamach tego portalu w nadchodzących godzinach. Przedstawiamy pierwsze opublikowane fragmenty rozmowy z legendą Realu Madryt.</description>
     </item>
     
 </channel>
