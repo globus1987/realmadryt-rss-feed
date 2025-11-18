@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Nov 2025 03:57:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 04:33:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Daily Mail: Tuchel nie powinien powoływać Bellinghama na mundial</title>
+        <link>https://www.realmadryt.pl/news/144275-daily-mail-tuchel-nie-powinien-powolywac-bellinghama-na-mundial</link>
+        <pubDate>Tue, 18 Nov 2025 05:30:00 GMT</pubDate>
+        <description>Craig Hope to główny reporter Daily Mail od futbolu. Przedstawiamy jego komentarz w sprawie sytuacji Jude'a Bellinghama w reprezentacji Anglii.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144260-florentino-musi-wyjasnic-dlaczego-zmienia-strukture-wlascicielska-i-co-zyska-inwestor</link>
         <pubDate>Mon, 17 Nov 2025 17:12:00 GMT</pubDate>
         <description>Dziennikarz El País, który podał nowe informacje w sprawie zmian struktury właścicielskiej planowanych przez prezesa Realu Madryt, był gościem radia SER. Przedstawiamy jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Barcelona wraca do gry w La Lidze na Camp Nou</title>
-        <link>https://www.realmadryt.pl/news/144259-oficjalnie-barcelona-wraca-do-gry-w-la-lidze-na-camp-nou</link>
-        <pubDate>Mon, 17 Nov 2025 15:59:00 GMT</pubDate>
-        <description>Katalończycy po 7 meczach domowych na innych stadionach wracają do gry na Camp Nou. Ostatni raz wystąpili tam w maju 2023 roku.</description>
     </item>
     
 </channel>
