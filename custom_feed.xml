@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Nov 2025 23:39:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 23:53:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144293-dzisiejsze-okladki</link>
+        <pubDate>Wed, 19 Nov 2025 00:41:00 GMT</pubDate>
+        <description>Awans Hiszpanii na mundial to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko rozbiło Ugandę w sparingu [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144278-trump-wywoluje-mundialowy-chaos</link>
         <pubDate>Tue, 18 Nov 2025 11:41:00 GMT</pubDate>
         <description>Na zaledwie siedem miesięcy przed rozpoczęciem turnieju prezydent USA grozi odebraniem prawa organizacji meczów miastom rządzonym przez demokratów. FIFA znalazła się na poważnym rozdrożu.</description>
-    </item>
-    
-    <item>
-        <title>Davide Ancelotti: Real Madryt w chaosie jest najlepszy na świecie</title>
-        <link>https://www.realmadryt.pl/news/144277-davide-ancelotti-real-madryt-w-chaosie-jest-najlepszy-na-swiecie</link>
-        <pubDate>Tue, 18 Nov 2025 10:50:00 GMT</pubDate>
-        <description>Davide Ancelotti udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełne tłumaczenie tej rozmowy z trenerem Botafogo.</description>
     </item>
     
 </channel>
