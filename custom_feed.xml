@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 18 Nov 2025 16:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 16:59:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Łunin z oświadczeniem przeciwko kłamstwom ukraińskich dziennikarzy</title>
+        <link>https://www.realmadryt.pl/news/144283-lunin-z-oswiadczeniem-przeciwko-klamstwom-ukrainskich-dziennikarzy</link>
+        <pubDate>Tue, 18 Nov 2025 17:58:00 GMT</pubDate>
+        <description>Ukraińskie media zaczęły podawać informację, że Andrij Łunin odmawia powołań do reprezentacji, dopóki nie otrzyma gwarancji gry w pierwszym składzie. Przedstawiamy oświadczenie bramkarza Królewskich w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Dyrektor NBA na Europę: Nie mogę się doczekać dnia, w którym zagramy mecz NBA na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144275-daily-mail-tuchel-nie-powinien-powolywac-bellinghama-na-mundial</link>
         <pubDate>Tue, 18 Nov 2025 05:30:00 GMT</pubDate>
         <description>Craig Hope to główny reporter Daily Mail od futbolu. Przedstawiamy jego komentarz w sprawie sytuacji Jude'a Bellinghama w reprezentacji Anglii.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144272-dzisiejsze-okladki</link>
-        <pubDate>Tue, 18 Nov 2025 00:27:00 GMT</pubDate>
-        <description>Mecz Hiszpanii, wywiad z Karimem Benzemą i powrót Barcelony na Camp Nou to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
