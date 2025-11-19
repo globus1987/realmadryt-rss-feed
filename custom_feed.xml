@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Nov 2025 16:36:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 16:58:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chust: Dzięki Realowi Madryt jestem tym, kim jestem</title>
+        <link>https://www.realmadryt.pl/news/144310-chust-dzieki-realowi-madryt-jestem-tym-kim-jestem</link>
+        <pubDate>Wed, 19 Nov 2025 17:55:00 GMT</pubDate>
+        <description>Víctor Chust, wychowanek Realu Madryt i zarazem obecny defensor Elche, wziął udział konferencji prasowej przed ligowym meczem obu drużyn.</description>
+    </item>
     
     <item>
         <title>Były superagent Bale'a objęty dochodzeniem w sprawie gwałtów i niewolnictwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144289-tuchel-teraz-moja-praca-bedzie-kontakt-z-takimi-graczami-jak-trent</link>
         <pubDate>Wed, 19 Nov 2025 10:30:00 GMT</pubDate>
         <description>Selekcjoner Anglii wymienił obrońcę Królewskich jako przykład walki o powołanie na mundial.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Barcelona wraca na Camp Nou w Lidze Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/144301-oficjalnie-barcelona-wraca-na-camp-nou-w-lidze-mistrzow</link>
-        <pubDate>Wed, 19 Nov 2025 09:55:00 GMT</pubDate>
-        <description>Barcelona potwierdziła powrót na Camp Nou w rozgrywkach UEFA, która w swoim regulaminie zabrania zmiany obiektu w trakcie fazy ligowej.</description>
     </item>
     
 </channel>
