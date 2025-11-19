@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 19 Nov 2025 22:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 23:24:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144324-dzisiejsze-okladki</link>
+        <pubDate>Thu, 20 Nov 2025 00:11:00 GMT</pubDate>
+        <description>Wywiady z graczami Atlético to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>„Ponownie oklaskiwałbym Ronaldinho, ale nie Lamine'a Yamala”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144305-oficjalnie-eder-militao-kontuzjowany</link>
         <pubDate>Wed, 19 Nov 2025 14:52:00 GMT</pubDate>
         <description>Brazylijczyk wypada z gry i nie zagra w najbliższych spotkaniach.</description>
-    </item>
-    
-    <item>
-        <title>Rozpoczęto montaż nowej murawy na Bernabéu [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/144308-rozpoczeto-montaz-nowej-murawy-na-bernabeu-video</link>
-        <pubDate>Wed, 19 Nov 2025 14:29:00 GMT</pubDate>
-        <description>Zgodnie z zapowiedziami, Królewscy rozpoczęli wymianę murawy na swoim stadionie.</description>
     </item>
     
 </channel>
