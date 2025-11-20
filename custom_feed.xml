@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Nov 2025 08:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 09:30:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Raúl Asencio z wielką szansą</title>
+        <link>https://www.realmadryt.pl/news/144317-raul-asencio-z-wielka-szansa</link>
+        <pubDate>Thu, 20 Nov 2025 10:00:00 GMT</pubDate>
+        <description>Wychowanek, którego rola jeszcze we wrześniu była mocno podważana, teraz pozostaje głównym zdrowym stoperem Królewskich. To wszystko po bardzo dobrym występie w Vallecas.</description>
+    </item>
     
     <item>
         <title>O powrót do dziesiątki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144315-krolewskie-przegraly-z-arsenalem-na-meadow-park</link>
         <pubDate>Wed, 19 Nov 2025 20:50:00 GMT</pubDate>
         <description>W meczu 4. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt przegrały na Meadow Park z Arsenalem 1:2, choć do przerwy prowadziły 1:0. Jedyną bramkę dla Las Blancas zdobyła Caroline Weir.</description>
-    </item>
-    
-    <item>
-        <title>ESPN: Real już żałuje, że nie starał się mocniej o Estêvão</title>
-        <link>https://www.realmadryt.pl/news/144314-espn-real-juz-zaluje-ze-nie-staral-sie-mocniej-o-estevao</link>
-        <pubDate>Wed, 19 Nov 2025 19:53:00 GMT</pubDate>
-        <description>The Blues wierzą, iż Brazylijczyk w ciągu trzech najbliższych lat może stać się jednym z 10 najlepszych piłkarzy na świecie.</description>
     </item>
     
 </channel>
