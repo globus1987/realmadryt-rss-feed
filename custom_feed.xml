@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Nov 2025 22:23:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 22:42:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo po zaciętej walce</title>
+        <link>https://www.realmadryt.pl/news/144343-zwyciestwo-po-zacietej-walce</link>
+        <pubDate>Thu, 20 Nov 2025 23:28:00 GMT</pubDate>
+        <description>W 12. kolejce Euroligi Real Madryt pokonał Žalgiris i wrócił, przynajmniej tymczasowo, do czołowej dziesiątki. Wygrana nie przyszła Królewskim łatwo, bo goście zawiesili poprzeczkę bardzo wysoko.</description>
+    </item>
     
     <item>
         <title>Przebudowana stacja metra przy stadionie uzyska nową nazwę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144330-bettoni-nie-trzeba-wyciagac-bata-zeby-pilkarz-robil-to-czego-od-niego-wymagasz</link>
         <pubDate>Thu, 20 Nov 2025 12:51:00 GMT</pubDate>
         <description>David Bettoni, który był asystentem Zinédine'a Zidane'a, udzielił wywiadu dla Chiringuito. Przedstawiamy fragmenty tej rozmowy, które dotychczas ukazały się w programie.</description>
-    </item>
-    
-    <item>
-        <title>Wszystko wskazuje na Nico Paza</title>
-        <link>https://www.realmadryt.pl/news/144329-wszystko-wskazuje-na-nico-paza</link>
-        <pubDate>Thu, 20 Nov 2025 11:20:00 GMT</pubDate>
-        <description>Argentyńczyk wciąż dokłada argumentów, by zasłużyć na powrót do Madrytu przyszłego lata. Odkupienie go kosztuje dziewięć milionów euro.</description>
     </item>
     
 </channel>
