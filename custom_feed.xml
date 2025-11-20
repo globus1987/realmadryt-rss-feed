@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 20 Nov 2025 22:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Nov 2025 23:23:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144344-dzisiejsze-okladki</link>
+        <pubDate>Fri, 21 Nov 2025 00:00:00 GMT</pubDate>
+        <description>Informacje o Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zwycięstwo po zaciętej walce</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144318-scariolo-zagramy-z-jedna-z-najlepszych-druzyn-pierwszej-czesci-sezonu-w-eurolidze</link>
         <pubDate>Thu, 20 Nov 2025 13:39:00 GMT</pubDate>
         <description>Sergio Scariolo rozmawiał z dziennikarzami przed spotkaniem z Žalgirisem w Eurolidze. Mówił o tym, że do końca nie jest pewny wyboru meczowej kadry ze względu na stan fizyczny swoich podopiecznych.</description>
-    </item>
-    
-    <item>
-        <title>Bettoni: Nie trzeba wyciągać bata, żeby piłkarz robił to, czego od niego wymagasz</title>
-        <link>https://www.realmadryt.pl/news/144330-bettoni-nie-trzeba-wyciagac-bata-zeby-pilkarz-robil-to-czego-od-niego-wymagasz</link>
-        <pubDate>Thu, 20 Nov 2025 12:51:00 GMT</pubDate>
-        <description>David Bettoni, który był asystentem Zinédine'a Zidane'a, udzielił wywiadu dla Chiringuito. Przedstawiamy fragmenty tej rozmowy, które dotychczas ukazały się w programie.</description>
     </item>
     
 </channel>
