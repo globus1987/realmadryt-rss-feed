@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Nov 2025 22:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 23:24:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144370-dzisiejsze-okladki</link>
+        <pubDate>Sat, 22 Nov 2025 00:16:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wyraźna porażka Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144354-pieciu-pilkarzy-nie-trenowalo-z-druzyna</link>
         <pubDate>Fri, 21 Nov 2025 13:28:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli kolejny trening w tym tygodniu.</description>
-    </item>
-    
-    <item>
-        <title>Posucha bez goli Mbappé</title>
-        <link>https://www.realmadryt.pl/news/144355-posucha-bez-goli-mbappe</link>
-        <pubDate>Fri, 21 Nov 2025 12:54:00 GMT</pubDate>
-        <description>Real Madryt ma wyraźne kłopoty, kiedy Mbappé nie wpisuje się na listę strzelców. Uzależnienie drużyny od bramek Francuza było aż nadto widoczne w dwóch ostatnich spotkaniach.</description>
     </item>
     
 </channel>
