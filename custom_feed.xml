@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 21 Nov 2025 05:58:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 06:42:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy Polska awansuje na mundial?</title>
+        <link>https://www.realmadryt.pl/news/144345-glos-kibica-czy-polska-awansuje-na-mundial</link>
+        <pubDate>Fri, 21 Nov 2025 07:00:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Leonardo: Trzeba było pozwolić Mbappé odejść już w 2021 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144332-font-miedzy-messim-a-florentino-laporta-wybral-florentino</link>
         <pubDate>Thu, 20 Nov 2025 15:11:00 GMT</pubDate>
         <description>Víctor Font, kandydat w wyborach na prezesa Barcelony z 2021 roku (drugi pod względem liczby głosów, z poparciem około 16 tysięcy socios) i lider ponad platformy Nosaltres, zaprezentowanej w miniony poniedziałek na Fira de Barcelona, rozmawiał dzisiaj z dziennikarzami SER Catalunya. Przedstawiamy jego najważniejsze wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Baraże do Mistrzostw Świata 2026: Turcja z Rumunią, a Polska z Albanią</title>
-        <link>https://www.realmadryt.pl/news/144331-baraze-do-mistrzostw-swiata-2026-turcja-z-rumunia-a-polska-z-albania</link>
-        <pubDate>Thu, 20 Nov 2025 14:39:00 GMT</pubDate>
-        <description>Poznaliśmy wszystkie pary w barażowych spotkaniach oraz ewentualnych gospodarzy finałowych starć.</description>
     </item>
     
 </channel>
