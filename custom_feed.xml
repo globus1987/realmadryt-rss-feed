@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Nov 2025 14:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 14:54:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Elche</title>
+        <link>https://www.realmadryt.pl/news/144381-kadra-na-elche</link>
+        <pubDate>Sat, 22 Nov 2025 15:49:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu podczas spotkania z Elche. Bask powołał 20 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Francisco José Hernández Maeso na Elche</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144371-batalia-brahima</link>
         <pubDate>Sat, 22 Nov 2025 09:24:00 GMT</pubDate>
         <description>Brahim Díaz z pełną motywacją podchodzi do końcówki 2025 roku. Po udanych występach w reprezentacji Maroka teraz chce wywalczyć u Xabiego Alonso miejsce w ofensywie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 22 listopada</title>
-        <link>https://www.realmadryt.pl/news/144362-kartka-z-kalendarza-22-listopada</link>
-        <pubDate>Sat, 22 Nov 2025 09:09:00 GMT</pubDate>
-        <description>Zwycięstwa w Lidze Mistrzów, urodziny byłego trenera i inauguracja lodowiska w miasteczku sportowym Królewskich. Co działo się 22 listopada?</description>
     </item>
     
 </channel>
