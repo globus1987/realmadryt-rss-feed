@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Nov 2025 04:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 04:46:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trybunał Administracyjny ds. Sportu wszczął postępowanie wobec Tebasa</title>
+        <link>https://www.realmadryt.pl/news/144368-trybunal-administracyjny-ds-sportu-wszczal-postepowanie-wobec-tebasa</link>
+        <pubDate>Sat, 22 Nov 2025 05:30:00 GMT</pubDate>
+        <description>Trybunał Administracyjny ds. Sportu wszczął postępowanie wobec prezesa La Ligi za ujawnienie poufnych danych finansowych Barcelony.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144356-alaba-zmaga-sie-z-przeciazeniem-miesniowym</link>
         <pubDate>Fri, 21 Nov 2025 14:14:00 GMT</pubDate>
         <description>Austriak raczej nie będzie mógł zagrać w niedzielnym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Pięciu piłkarzy nie trenowało z drużyną</title>
-        <link>https://www.realmadryt.pl/news/144354-pieciu-pilkarzy-nie-trenowalo-z-druzyna</link>
-        <pubDate>Fri, 21 Nov 2025 13:28:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas i odbyli kolejny trening w tym tygodniu.</description>
     </item>
     
 </channel>
