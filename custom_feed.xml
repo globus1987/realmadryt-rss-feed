@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 22 Nov 2025 23:24:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 23:41:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144390-dzisiejsze-okladki</link>
+        <pubDate>Sun, 23 Nov 2025 00:35:00 GMT</pubDate>
+        <description>Hiszpania w finale Pucharu Davisa, mecz Realu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maledon rozdaje karty, Hezonja odżywa i Real wygrywa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144377-wyjazd-do-ostatniej-druzyny-w-tabeli</link>
         <pubDate>Sat, 22 Nov 2025 11:32:00 GMT</pubDate>
         <description>W 8. kolejce Ligi Endesa Real Madryt zmierzy się z Granadą. W przypadku zwycięstwa Królewscy przynajmniej na jeden dzień wskoczą na pozycję lidera.</description>
-    </item>
-    
-    <item>
-        <title>Abalde: Granada do każdego meczu podchodzi jak do finału</title>
-        <link>https://www.realmadryt.pl/news/144376-abalde-granada-do-kazdego-meczu-podchodzi-jak-do-finalu</link>
-        <pubDate>Sat, 22 Nov 2025 11:07:00 GMT</pubDate>
-        <description>Alberto Abalde wypowiadał się przed wyjazdowym spotkaniem z Granadą w Lidze Endesa. Mówił między innymi o tym, jak rywale podejdą do tej rywalizacji.</description>
     </item>
     
 </channel>
