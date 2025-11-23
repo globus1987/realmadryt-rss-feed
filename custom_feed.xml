@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Nov 2025 14:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 14:54:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fran i Asencio spotkali się z kibicami</title>
+        <link>https://www.realmadryt.pl/news/144402-fran-i-asencio-spotkali-sie-z-kibicami</link>
+        <pubDate>Sun, 23 Nov 2025 15:46:00 GMT</pubDate>
+        <description>Po przylocie do Elche i zameldowaniu w hotelu Fran García i Raúl Asencio wyszli do kibiców.</description>
+    </item>
+    
+    <item>
+        <title>Ostatni dzwonek dla Ceballosa</title>
+        <link>https://www.realmadryt.pl/news/144403-ostatni-dzwonek-dla-ceballosa</link>
+        <pubDate>Sun, 23 Nov 2025 15:46:00 GMT</pubDate>
+        <description>Hiszpan wciąż walczy o miejsce w środku pola Realu Madryt, mimo że jak dotąd rozegrał jedynie 26% dostępnych minut. Pomocnik wierzy, że kilka dobrych występów może odwrócić jego sytuację i ponownie otworzyć drzwi do pierwszego składu.</description>
+    </item>
     
     <item>
         <title>Wszystkie punkty omawiane na Zwyczajnym Walnym Zgromadzeniu zatwierdzone praktycznie jednomyślnie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144386-nie-pojsc-do-piekla</link>
         <pubDate>Sun, 23 Nov 2025 10:00:00 GMT</pubDate>
         <description>Raz można, dwa – już nie zawsze. Za trzecim natomiast idzie się prosto do piekła.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 23 listopada</title>
-        <link>https://www.realmadryt.pl/news/144363-kartka-z-kalendarza-23-listopada</link>
-        <pubDate>Sun, 23 Nov 2025 09:09:00 GMT</pubDate>
-        <description>Świński łeb rzucony w stronę Figo, wymuszenie czerwonych kartek Ramosa i Alonso oraz wysokie wyjazdowe zwycięstwa Królewskich. Co działo się 23 listopada?</description>
-    </item>
-    
-    <item>
-        <title>Álvaro Rodríguez: Jeśli strzelę Realowi gola, chyba będę go celebrował</title>
-        <link>https://www.realmadryt.pl/news/144391-alvaro-rodriguez-jesli-strzele-realowi-gola-chyba-bede-go-celebrowal</link>
-        <pubDate>Sun, 23 Nov 2025 09:00:00 GMT</pubDate>
-        <description>Były napastnik Los Blancos udzielił wywiadu dziennikowi AS. Kibice Królewskich mogą go wspominać choćby z gola w derbach Madrytu z sezonu 2022/23, gdy Urugwajczyk swoim trafieniem dał drużynie remis. Dziś Álvaro gra w ataku Elche.</description>
     </item>
     
 </channel>
