@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Nov 2025 23:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 23:54:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144417-dzisiejsze-okladki</link>
+        <pubDate>Mon, 24 Nov 2025 00:47:00 GMT</pubDate>
+        <description>Porażka Realu Madryt i jego Walne Zgromadzenie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Drużyna w żadnym momencie się nie poddała</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144403-ostatni-dzwonek-dla-ceballosa</link>
         <pubDate>Sun, 23 Nov 2025 15:46:00 GMT</pubDate>
         <description>Hiszpan wciąż walczy o miejsce w środku pola Realu Madryt, mimo że jak dotąd rozegrał jedynie 26% dostępnych minut. Pomocnik wierzy, że kilka dobrych występów może odwrócić jego sytuację i ponownie otworzyć drzwi do pierwszego składu.</description>
-    </item>
-    
-    <item>
-        <title>Wszystkie punkty omawiane na Zwyczajnym Walnym Zgromadzeniu zatwierdzone praktycznie jednomyślnie</title>
-        <link>https://www.realmadryt.pl/news/144401-wszystkie-punkty-omawiane-na-zwyczajnym-walnym-zgromadzeniu-zatwierdzone-praktycznie-jednomyslnie</link>
-        <pubDate>Sun, 23 Nov 2025 15:17:00 GMT</pubDate>
-        <description>Socios zatwierdzili sprawozdanie finansowe za rok obrotowy 2024/2025, budżet na sezon 2025/2026 oraz składki członkowskie na sezon 2026/2027.</description>
     </item>
     
 </channel>
