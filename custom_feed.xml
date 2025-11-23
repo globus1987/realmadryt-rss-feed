@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Nov 2025 22:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 22:43:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Elche 2:2 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/144411-elche-2-2-real-madryt-video</link>
+        <pubDate>Sun, 23 Nov 2025 23:31:00 GMT</pubDate>
+        <description>Real Madryt zremisował z Elche na Estadio Manuel Martínez Valero 2:2. Gole dla Królewskich strzelili Dean Huijsen i Jude Bellingham.</description>
+    </item>
     
     <item>
         <title>Iñaki Peña MVP meczu w Vallecas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144400-oficjalnie-przeprosiny-realu-madryt-za-ogromny-blad-podczas-zwyczajnego-walnego-zgromadzenia</link>
         <pubDate>Sun, 23 Nov 2025 15:03:00 GMT</pubDate>
         <description>Królewscy w oficjalnym komunikacie przeprosili za dużą wpadkę.</description>
-    </item>
-    
-    <item>
-        <title>Obejrzyj mecz z Elche w STS TV!</title>
-        <link>https://www.realmadryt.pl/news/144399-obejrzyj-mecz-z-elche-w-sts-tv</link>
-        <pubDate>Sun, 23 Nov 2025 14:37:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
     </item>
     
 </channel>
