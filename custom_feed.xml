@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 23 Nov 2025 21:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 22:25:01 GMT</lastBuildDate>
     
     <item>
-        <title>Elche – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/144407-elche-real-madryt-live</link>
+        <title>Iñaki Peña MVP meczu w Vallecas</title>
+        <link>https://www.realmadryt.pl/news/144410-inaki-pena-mvp-meczu-w-vallecas</link>
+        <pubDate>Sun, 23 Nov 2025 23:20:00 GMT</pubDate>
+        <description>Iñaki Peña został wyróżniony po meczu Elche z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Iñaki Peña: Zderzenie z Viníciusem to sytuacja w grze</title>
+        <link>https://www.realmadryt.pl/news/144409-inaki-pena-zderzenie-z-viniciusem-to-sytuacja-w-grze</link>
+        <pubDate>Sun, 23 Nov 2025 23:12:00 GMT</pubDate>
+        <description>Iñaki Peña udzielił wywiadu z murawy dla telewizji Movistar+ po zremisowanym 2:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Elche.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Elche</title>
+        <link>https://www.realmadryt.pl/news/144408-ocen-pilkarzy-po-meczu-z-elche</link>
+        <pubDate>Sun, 23 Nov 2025 23:01:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>To jest kryzys</title>
+        <link>https://www.realmadryt.pl/news/144407-to-jest-kryzys</link>
         <pubDate>Sun, 23 Nov 2025 20:55:00 GMT</pubDate>
-        <description>Od 21:00 na Estadio Manuel Martínez Valero trwa mecz 13. kolejki La Ligi pomiędzy Elche a Realem Madryt.</description>
+        <description>Real Madryt zremisował z Elche na Estadio Manuel Martínez Valero 2:2. Gole dla Królewskich strzelili Dean Huijsen i Jude Bellingham.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/144399-obejrzyj-mecz-z-elche-w-sts-tv</link>
         <pubDate>Sun, 23 Nov 2025 14:37:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Florentino: Ci, którzy mówią, że chcę opuścić klub, że chcę przekształcić go w fundację… To absurd</title>
-        <link>https://www.realmadryt.pl/news/144396-florentino-ci-ktorzy-mowia-ze-chce-opuscic-klub-ze-chce-przeksztalcic-go-w-fundacje-to-absurd</link>
-        <pubDate>Sun, 23 Nov 2025 13:35:00 GMT</pubDate>
-        <description>Po wygłoszeniu przemówienia podczas Zwyczajnego Walnego Zgromadzenia Florentino Pérez odpowiadał też na pytania socios. Przedstawiam najważniejsze odpowiedzi prezesa Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: Florentino z roku na rok przebija samego siebie</title>
-        <link>https://www.realmadryt.pl/news/144398-tebas-florentino-z-roku-na-rok-przebija-samego-siebie</link>
-        <pubDate>Sun, 23 Nov 2025 13:15:00 GMT</pubDate>
-        <description>Prezes La Ligi szybko odpowiedział w mediach społecznościowych na wystąpienie Florentino Péreza podczas Zwyczajnego Walnego Zgromadzenia.</description>
-    </item>
-    
-    <item>
-        <title>„Preferuję inteligentnych zawodników, dlatego wolę Rodrygo niż Viníciusa”</title>
-        <link>https://www.realmadryt.pl/news/144397-preferuje-inteligentnych-zawodnikow-dlatego-wole-rodrygo-niz-viniciusa</link>
-        <pubDate>Sun, 23 Nov 2025 12:38:00 GMT</pubDate>
-        <description>Elche po raz ostatni pokonało Real Madryt aż 47 lat temu. Wówczas w 1978 roku jednym z bohaterów był Lorenzo Antón, który strzelił pierwszego gola w meczu, który ostatecznie zakończył się zwycięstwem gospodarzy 3:1. Teraz w przeddzień starcia swojego byłego klubu z Królewskimi udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
