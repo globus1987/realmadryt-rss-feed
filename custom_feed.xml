@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 23:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 23:41:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144440-dzisiejsze-okladki</link>
+        <pubDate>Tue, 25 Nov 2025 00:37:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Nadal: Vinícius musi zrozumieć, kto jest autorytetem i musi ten autorytet szanować</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144422-labirynt-viniciusa</link>
         <pubDate>Mon, 24 Nov 2025 13:23:00 GMT</pubDate>
         <description>Zdaniem Marki rozpoczynanie przez Viniego meczów z ławki i czysto „profesjonalne” relacje z Xabim odbijają się w temacie przedłużenia kontraktu z Brazylijczykiem, do czego pozostaje wciąż daleka droga.</description>
-    </item>
-    
-    <item>
-        <title>Sarabia: To był absolutnie klarowny faul Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/144421-sarabia-to-byl-absolutnie-klarowny-faul-viniciusa</link>
-        <pubDate>Mon, 24 Nov 2025 12:11:00 GMT</pubDate>
-        <description>Po wczorajszym spotkaniu trener Elche rozmawiał z dziennikarzami. Przedstawiamy najważniejsze wypowiedzi Edera Sarabii.</description>
     </item>
     
 </channel>
