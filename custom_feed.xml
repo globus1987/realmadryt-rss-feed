@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 08:58:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 09:35:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 24 listopada</title>
+        <link>https://www.realmadryt.pl/news/144412-kartka-z-kalendarza-24-listopada</link>
+        <pubDate>Mon, 24 Nov 2025 10:30:00 GMT</pubDate>
+        <description>Dwie bolesne porażki w lidze, urodziny byłego skrzydłowego i wygrana z Atlético na… Metropolitano. Co działo się 24 listopada?</description>
+    </item>
     
     <item>
         <title>Iñaki Peña zmienił zdanie: „Dla mnie to jest faul Viníciusa”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144407-to-jest-kryzys</link>
         <pubDate>Sun, 23 Nov 2025 20:55:00 GMT</pubDate>
         <description>Real Madryt zremisował z Elche na Estadio Manuel Martínez Valero 2:2. Gole dla Królewskich strzelili Dean Huijsen i Jude Bellingham.</description>
-    </item>
-    
-    <item>
-        <title>Elche – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/144406-elche-real-madryt-znamy-sklady</link>
-        <pubDate>Sun, 23 Nov 2025 19:41:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w meczu La Ligi z Elche. Spotkanie rozpocznie się o 21:00 na Estadio Manuel Martínez Valero.</description>
     </item>
     
 </channel>
