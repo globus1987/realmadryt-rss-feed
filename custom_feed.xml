@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 12:56:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 13:38:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/144425-dzisiejszy-trening</link>
+        <pubDate>Mon, 24 Nov 2025 14:32:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Olympiakosem.</description>
+    </item>
+    
+    <item>
+        <title>Słodko-gorzki wieczór Trenta</title>
+        <link>https://www.realmadryt.pl/news/144424-slodko-gorzki-wieczor-trenta</link>
+        <pubDate>Mon, 24 Nov 2025 14:25:00 GMT</pubDate>
+        <description>Stałe fragmenty Trenta Alexandra-Arnolda uratowały zespół przed porażką z Elche. Gdy plan trenera nie działał, drużyna szukała na boisku Anglika w nadziei, że ten znajdzie rozwiązanie. Wczoraj Trent miał najwięcej kontaktów z piłką, ale nie ustrzegł się również błędów i zanotował łącznie aż 25 strat.</description>
+    </item>
+    
+    <item>
+        <title>Real Xabiego zaczyna budzić wątpliwości w wielu aspektach</title>
+        <link>https://www.realmadryt.pl/news/144423-real-xabiego-zaczyna-budzic-watpliwosci-w-wielu-aspektach</link>
+        <pubDate>Mon, 24 Nov 2025 14:14:00 GMT</pubDate>
+        <description>Real od czasu wygranej w Klasyku stracił formę. Brak dobrych kontaktów między zawodnikami a sztabem oraz wyniki i zachowanie zespołu podczas meczów budzą obawy.</description>
+    </item>
     
     <item>
         <title>Labirynt Viníciusa</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/144414-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie-z-elche</link>
         <pubDate>Mon, 24 Nov 2025 05:25:00 GMT</pubDate>
         <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po zremisowanym 2:2 meczu z Elche. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144417-dzisiejsze-okladki</link>
-        <pubDate>Mon, 24 Nov 2025 00:47:00 GMT</pubDate>
-        <description>Remis Realu Madryt i jego Walne Zgromadzenie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Drużyna w żadnym momencie się nie poddała</title>
-        <link>https://www.realmadryt.pl/news/144413-xabi-alonso-druzyna-w-zadnym-momencie-sie-nie-poddala</link>
-        <pubDate>Sun, 23 Nov 2025 23:49:00 GMT</pubDate>
-        <description>Xabi Alonso wziął udział w konferencji prasowej po zremisowanym 2:2 meczu z Elche. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Elche 2:2 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/144411-elche-2-2-real-madryt-video</link>
-        <pubDate>Sun, 23 Nov 2025 23:31:00 GMT</pubDate>
-        <description>Real Madryt zremisował z Elche na Estadio Manuel Martínez Valero 2:2. Gole dla Królewskich strzelili Dean Huijsen i Jude Bellingham.</description>
     </item>
     
 </channel>
