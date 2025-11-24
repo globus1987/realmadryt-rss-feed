@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 09:54:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 10:31:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Michael Oliver na Olympiakos</title>
+        <link>https://www.realmadryt.pl/news/144420-michael-oliver-na-olympiakos</link>
+        <pubDate>Mon, 24 Nov 2025 11:12:00 GMT</pubDate>
+        <description>UEFA wybrała angielskich sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Michael Oliver, a za wideoweryfikację odpowiadać będzie Andrew Dallas.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Elche</title>
+        <link>https://www.realmadryt.pl/news/144419-oceny-zawodnikow-po-meczu-z-elche</link>
+        <pubDate>Mon, 24 Nov 2025 11:00:00 GMT</pubDate>
+        <description>Real Madryt zremisował 2:2 z Elche w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 24 listopada</title>
@@ -45,7 +59,7 @@
         <title>Dzisiejsze okładki</title>
         <link>https://www.realmadryt.pl/news/144417-dzisiejsze-okladki</link>
         <pubDate>Mon, 24 Nov 2025 00:47:00 GMT</pubDate>
-        <description>Porażka Realu Madryt i jego Walne Zgromadzenie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+        <description>Remis Realu Madryt i jego Walne Zgromadzenie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144409-inaki-pena-zderzenie-z-viniciusem-to-sytuacja-w-grze</link>
         <pubDate>Sun, 23 Nov 2025 23:12:00 GMT</pubDate>
         <description>Iñaki Peña udzielił wywiadu z murawy dla telewizji Movistar+ po zremisowanym 2:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Elche.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Elche</title>
-        <link>https://www.realmadryt.pl/news/144408-ocen-pilkarzy-po-meczu-z-elche</link>
-        <pubDate>Sun, 23 Nov 2025 23:01:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>To jest kryzys</title>
-        <link>https://www.realmadryt.pl/news/144407-to-jest-kryzys</link>
-        <pubDate>Sun, 23 Nov 2025 20:55:00 GMT</pubDate>
-        <description>Real Madryt zremisował z Elche na Estadio Manuel Martínez Valero 2:2. Gole dla Królewskich strzelili Dean Huijsen i Jude Bellingham.</description>
     </item>
     
 </channel>
