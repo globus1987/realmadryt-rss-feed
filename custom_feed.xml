@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 07:43:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 07:56:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Iñaki Peña zmienił zdanie: „Dla mnie to jest faul Viníciusa”</title>
+        <link>https://www.realmadryt.pl/news/144418-inaki-pena-zmienil-zdanie-dla-mnie-to-jest-faul-viniciusa</link>
+        <pubDate>Mon, 24 Nov 2025 08:48:00 GMT</pubDate>
+        <description>Iñaki Peña po wczorajszym meczu wziął udział w konferencji prasowej, gdzie inaczej ocenił zdarzenie z piłkarzem Realu Madryt niż podczas rozmowy na murawie.</description>
+    </item>
     
     <item>
         <title>Rodrygo ustępuje tylko Mariano: 29 meczów z rzędu bez gola</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144406-elche-real-madryt-znamy-sklady</link>
         <pubDate>Sun, 23 Nov 2025 19:41:00 GMT</pubDate>
         <description>Wiemy już, kto wystąpi od pierwszej minuty w meczu La Ligi z Elche. Spotkanie rozpocznie się o 21:00 na Estadio Manuel Martínez Valero.</description>
-    </item>
-    
-    <item>
-        <title>100 meczów Weir w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/144405-100-meczow-weir-w-realu-madryt</link>
-        <pubDate>Sun, 23 Nov 2025 18:49:00 GMT</pubDate>
-        <description>W niedzielnym spotkaniu z Eibarem Caroline Elspeth Lillias Weir rozegrała swoje 100. spotkanie w barwach Realu Madryt.</description>
     </item>
     
 </channel>
