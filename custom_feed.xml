@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 10:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 11:23:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sarabia: To był absolutnie klarowny faul Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/144421-sarabia-to-byl-absolutnie-klarowny-faul-viniciusa</link>
+        <pubDate>Mon, 24 Nov 2025 12:11:00 GMT</pubDate>
+        <description>Po wczorajszym spotkaniu trener Elche rozmawiał z dziennikarzami. Przedstawiamy najważniejsze wypowiedzi Edera Sarabii.</description>
+    </item>
     
     <item>
         <title>Michael Oliver na Olympiakos</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144410-inaki-pena-mvp-meczu-na-martinez-valero</link>
         <pubDate>Sun, 23 Nov 2025 23:20:00 GMT</pubDate>
         <description>Iñaki Peña został wyróżniony po meczu Elche z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Iñaki Peña: Zderzenie z Viníciusem to sytuacja w grze</title>
-        <link>https://www.realmadryt.pl/news/144409-inaki-pena-zderzenie-z-viniciusem-to-sytuacja-w-grze</link>
-        <pubDate>Sun, 23 Nov 2025 23:12:00 GMT</pubDate>
-        <description>Iñaki Peña udzielił wywiadu z murawy dla telewizji Movistar+ po zremisowanym 2:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Elche.</description>
     </item>
     
 </channel>
