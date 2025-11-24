@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 24 Nov 2025 04:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 04:54:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po remisie z Elche</title>
+        <link>https://www.realmadryt.pl/news/144414-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie-z-elche</link>
+        <pubDate>Mon, 24 Nov 2025 05:25:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po zremisowanym 2:2 meczu z Elche. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144402-fran-i-asencio-spotkali-sie-z-kibicami</link>
         <pubDate>Sun, 23 Nov 2025 15:46:00 GMT</pubDate>
         <description>Po przylocie do Elche i zameldowaniu w hotelu Fran García i Raúl Asencio wyszli do kibiców.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni dzwonek dla Ceballosa</title>
-        <link>https://www.realmadryt.pl/news/144403-ostatni-dzwonek-dla-ceballosa</link>
-        <pubDate>Sun, 23 Nov 2025 15:46:00 GMT</pubDate>
-        <description>Hiszpan wciąż walczy o miejsce w środku pola Realu Madryt, mimo że jak dotąd rozegrał jedynie 26% dostępnych minut. Pomocnik wierzy, że kilka dobrych występów może odwrócić jego sytuację i ponownie otworzyć drzwi do pierwszego składu.</description>
     </item>
     
 </channel>
