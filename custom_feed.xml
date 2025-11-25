@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Nov 2025 23:26:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 23:42:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144469-dzisiejsze-okladki</link>
+        <pubDate>Wed, 26 Nov 2025 00:32:00 GMT</pubDate>
+        <description>Mecze Ligi Mistrzów to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: To wielkie zwycięstwo z wielu powodów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144431-scariolo-to-jest-dobry-moment-zeby-mierzyc-sie-z-najlepszymi</link>
         <pubDate>Tue, 25 Nov 2025 14:52:00 GMT</pubDate>
         <description>Sergio Scariolo wziął udział w konferencji prasowej przed spotkaniem z Hapoelem Tel Awiw w Eurolidze. Mówił o tym, że drużyna jest gotowa na rywalizację z liderem.</description>
-    </item>
-    
-    <item>
-        <title>„Jest za dużo informacji o rywalu, za dużo wideo, za dużo interwencji asystentów”</title>
-        <link>https://www.realmadryt.pl/news/144453-jest-za-duzo-informacji-o-rywalu-za-duzo-wideo-za-duzo-interwencji-asystentow</link>
-        <pubDate>Tue, 25 Nov 2025 13:30:00 GMT</pubDate>
-        <description>José Luis Sánchez to główny dziennikarz La Sexty od Realu Madryt. Przedstawiamy jego komentarze z kanałów Chiringuito w sprawie sytuacji Królewskich.</description>
     </item>
     
 </channel>
