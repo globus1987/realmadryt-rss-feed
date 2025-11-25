@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Nov 2025 08:59:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 09:33:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 listopada</title>
+        <link>https://www.realmadryt.pl/news/144435-kartka-z-kalendarza-25-listopada</link>
+        <pubDate>Tue, 25 Nov 2025 10:00:00 GMT</pubDate>
+        <description>Urodziny byłego pomocnika, skandaliczne sędziowanie na Camp Nou, początek legendarnej przyśpiewki i szalony mecz we Lwowie. Co działo się 25 listopada?</description>
+    </item>
     
     <item>
         <title>Figo: Nigdy nie wiedziałem zawodnika, który gra po to, by przegrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144429-oficjalnie-linda-caicedo-przedluzyla-kontrakt-do-2031-roku</link>
         <pubDate>Mon, 24 Nov 2025 18:31:00 GMT</pubDate>
         <description>Bardzo ważny ruch w kobiecej sekcji Realu Madryt. Klub oficjalnie poinformował o przedłużeniu kontraktu z jedną z najlepszych piłkarek, Lindą Caicedo, do 2031 roku.</description>
-    </item>
-    
-    <item>
-        <title>Superliga składa pozew przeciwko UEFA na kwotę 4,5 miliarda euro i domaga się uznania nowych rozgrywek</title>
-        <link>https://www.realmadryt.pl/news/144428-superliga-sklada-pozew-przeciwko-uefa-na-kwote-4-5-miliarda-euro-i-domaga-sie-uznania-nowych-rozgrywek</link>
-        <pubDate>Mon, 24 Nov 2025 16:39:00 GMT</pubDate>
-        <description>A22, promotor Superligi, wzywa na piśmie Aleksandra Čeferina, prezesa UEFA, do wykonania wyroków i zatwierdzenia nowych rozgrywek.</description>
     </item>
     
 </channel>
