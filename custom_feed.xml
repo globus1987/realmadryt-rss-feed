@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 25 Nov 2025 07:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 07:43:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>¡Feliz cumpleaños, Xabi!</title>
+        <link>https://www.realmadryt.pl/news/144441-feliz-cumpleanos-xabi</link>
+        <pubDate>Tue, 25 Nov 2025 08:39:00 GMT</pubDate>
+        <description>Wszystkiego najlepszego, trenerze!</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144426-sedzia-var-sytuacja-viniciusa-i-inakiego-peni-to-akcja-przypadkowa-zwykly-element-gry</link>
         <pubDate>Mon, 24 Nov 2025 15:18:00 GMT</pubDate>
         <description>Juanfe Sanz, dziennikarz El Chiringuito, oglądał wczorajsze spotkanie między Elche a Realem Madryt w Las Rozas w towarzystwie dyrektora VAR-u, Prieto Iglesiasa, którego pytał o gola Bellinghama. Juanfe Sanz przed i po mecz mógł wejść do sali VOR i zobaczyć pracę arbitrów, a po spotkaniu zapytał też o tę samą sytuację Mario Melero Lópeza, który był arbitrem VAR.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/144425-dzisiejszy-trening</link>
-        <pubDate>Mon, 24 Nov 2025 14:32:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Olympiakosem.</description>
     </item>
     
 </channel>
