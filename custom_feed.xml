@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Nov 2025 09:54:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 10:30:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Misterny plan</title>
+        <link>https://www.realmadryt.pl/news/144458-misterny-plan</link>
+        <pubDate>Wed, 26 Nov 2025 11:00:00 GMT</pubDate>
+        <description>Plan może wydawać się fajny, ale gdy przychodzi do jego realizacji, nie zawsze musi iść jak z płatka.</description>
+    </item>
     
     <item>
         <title>Komitet Arbitrów nie ocenił publicznie akcji z meczu Realu z Elche</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144463-janakopulos-nie-ma-slow-na-to-aby-opisac-real-madryt</link>
         <pubDate>Tue, 25 Nov 2025 21:40:00 GMT</pubDate>
         <description>Stelios Janakopulos to żywa legenda greckiego futbolu. W 2004 roku razem z reprezentacją Grecji wygrał EURO, a w Olympiakosie zdobył 87 bramek stając się trzecim najlepszym strzelcem w historii klubu. Teraz w przeddzień starcia ekipy z Pireusu z Realem Madryt udzielił wywiadu dziennikowi MARCA.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięstwo z liderem</title>
-        <link>https://www.realmadryt.pl/news/144465-zwyciestwo-z-liderem</link>
-        <pubDate>Tue, 25 Nov 2025 21:36:00 GMT</pubDate>
-        <description>W 13. kolejce Euroligi Real Madryt pokonał na wyjeździe Hapoel Tel Awiw. Mecz był bardzo wyrównany, ale Królewscy zasłużyli na wygraną.</description>
     </item>
     
 </channel>
