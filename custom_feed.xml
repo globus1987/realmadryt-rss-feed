@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Nov 2025 23:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 23:53:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144494-dzisiejsze-okladki</link>
+        <pubDate>Thu, 27 Nov 2025 00:41:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i echa porażki Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Mbappé: Jesteśmy bardzo szczęśliwi, że mamy w drużynie takiego zawodnika jak Vini</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144483-juvenil-a-liderem-debiut-syna-marcelo-video</link>
         <pubDate>Wed, 26 Nov 2025 18:46:00 GMT</pubDate>
         <description>W 5. kolejce Ligi Młodzieżowej Real Madryt pokonał Olympiakos 2:0 i awansował na pozycję lidera. Królewscy długo się męczyli z defensywą rywali, ale w końcu zdołali ją przełamać w ostatnim kwadransie meczu.</description>
-    </item>
-    
-    <item>
-        <title>AS: Bellingham zmaga się z przeciążeniem łydki</title>
-        <link>https://www.realmadryt.pl/news/144481-as-bellingham-zmaga-sie-z-przeciazeniem-lydki</link>
-        <pubDate>Wed, 26 Nov 2025 17:07:00 GMT</pubDate>
-        <description>Anglik ma zmagać się z dolegliwościami mięśniowymi i jego występ w wieczornym meczu stanął pod znakiem zapytania.</description>
     </item>
     
 </channel>
