@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 26 Nov 2025 19:53:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 20:28:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Olympiakos – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/144485-olympiakos-real-madryt-live</link>
+        <pubDate>Wed, 26 Nov 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 5. kolejki fazy ligowej Champions League pomiędzy Olympiakosem a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Olympiakos – Real Madryt: Znamy składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144458-misterny-plan</link>
         <pubDate>Wed, 26 Nov 2025 11:00:00 GMT</pubDate>
         <description>Plan może wydawać się fajny, ale gdy przychodzi do jego realizacji, nie zawsze musi iść jak z płatka.</description>
-    </item>
-    
-    <item>
-        <title>Komitet Arbitrów nie ocenił publicznie akcji z meczu Realu z Elche</title>
-        <link>https://www.realmadryt.pl/news/144472-komitet-arbitrow-nie-ocenil-publicznie-akcji-z-meczu-realu-z-elche</link>
-        <pubDate>Wed, 26 Nov 2025 10:10:00 GMT</pubDate>
-        <description>Komitet Techniczny Arbitrów ostatecznie nie odniósł się sytuacji z meczu Realu Madryt z Elche w najnowszym odcinku tak zwanego „Czasu rewizji”.</description>
     </item>
     
 </channel>
