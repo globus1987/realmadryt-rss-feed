@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 05:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 06:40:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Która z formacji Realu Madryt najpilniej wymaga poprawy?</title>
+        <link>https://www.realmadryt.pl/news/144500-glos-kibica-ktora-z-formacji-realu-madryt-najpilniej-wymaga-poprawy</link>
+        <pubDate>Thu, 27 Nov 2025 07:00:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Asencio zagrał z problemami mięśniowymi i dotknięty rodzinną tragedią</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144485-wygrana-ktora-niczego-nie-wyjasnia</link>
         <pubDate>Wed, 26 Nov 2025 20:55:00 GMT</pubDate>
         <description>Real Madryt wygrał na wyjeździe z Olympiakosem 4:3 w meczu 5. kolejki fazy ligowej Champions League. Wszystkie gole dla Królewskich zdobył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Olympiakos – Real Madryt: Znamy składy</title>
-        <link>https://www.realmadryt.pl/news/144482-olympiakos-real-madryt-znamy-sklady</link>
-        <pubDate>Wed, 26 Nov 2025 19:39:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Stadionie im. Jeorjosa Karaiskakisa.</description>
     </item>
     
 </channel>
