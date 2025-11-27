@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 11:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 12:56:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obrona zaczyna pękać</title>
+        <link>https://www.realmadryt.pl/news/144505-obrona-zaczyna-pekac</link>
+        <pubDate>Thu, 27 Nov 2025 13:35:00 GMT</pubDate>
+        <description>Real Madryt, który zmaga się z licznymi absencjami w formacji defensywnej, stracił 5 bramek w 2 ostatnich spotkaniach. Braki widoczne są szczególnie w grze w powietrzu.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Olympiakosem</title>
         <link>https://www.realmadryt.pl/news/144506-oceny-zawodnikow-po-meczu-z-olympiakosem</link>
         <pubDate>Thu, 27 Nov 2025 12:43:00 GMT</pubDate>
-        <description>Real Madryt wygrał 4:2 z Olympiakosem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+        <description>Real Madryt wygrał 4:3 z Olympiakosem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144497-asencio-zagral-z-problemami-miesniowymi-i-dotkniety-rodzinna-tragedia</link>
         <pubDate>Thu, 27 Nov 2025 05:30:00 GMT</pubDate>
         <description>Hiszpan został zmieniony w drugiej połowie, co wywołało konsternację wśród wielu kibiców. Stoper grał jednak z problemami fizycznymi oraz przeżywał rodzinną tragedię.</description>
-    </item>
-    
-    <item>
-        <title>Aguirre: Xabi Alonso zbliżył się do piłkarzy i zapytał, jak może się poprawić</title>
-        <link>https://www.realmadryt.pl/news/144495-aguirre-xabi-alonso-zblizyl-sie-do-pilkarzy-i-zapytal-jak-moze-sie-poprawic</link>
-        <pubDate>Thu, 27 Nov 2025 00:54:00 GMT</pubDate>
-        <description>Edu Aguirre to główny dziennikarz Chiringuito od Realu Madryt. Przedstawiamy jego nocne informacje w sprawie sytuacji Xabiego Alonso.</description>
     </item>
     
 </channel>
