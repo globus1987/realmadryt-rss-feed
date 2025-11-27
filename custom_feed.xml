@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 22:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 23:24:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144514-dzisiejsze-okladki</link>
+        <pubDate>Fri, 28 Nov 2025 00:20:00 GMT</pubDate>
+        <description>Mecz kobiecej Hiszpanii i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kroos: Bernabéu to perfekcyjne miejsce, by otrzymać to odznaczenie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144501-kartka-z-kalendarza-27-listopada</link>
         <pubDate>Thu, 27 Nov 2025 11:10:00 GMT</pubDate>
         <description>Wybór prezesa, którego brakuje na oficjalnych listach, urodziny kolejnego z rodu Gento, bolesna porażka w Düsseldorfie, dwie wygrane w Lidze Mistrzów i przegrana na Anfield. Co działo się 27 listopada?</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Nie jestem świeżakiem i wiem, że droga nie zawsze jest usłana różami</title>
-        <link>https://www.realmadryt.pl/news/144499-xabi-alonso-nie-jestem-swiezakiem-i-wiem-ze-droga-nie-zawsze-jest-uslana-rozami</link>
-        <pubDate>Thu, 27 Nov 2025 10:20:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej po spotkaniu z Olympiakosem w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Stadionie im. Jeorjosa Karaiskakisa w Pireusie.</description>
     </item>
     
 </channel>
