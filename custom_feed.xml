@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 10:30:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 10:54:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/144504-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 27 Nov 2025 11:50:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 27 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144492-mbappe-jestesmy-bardzo-szczesliwi-ze-mamy-w-druzynie-takiego-zawodnika-jak-vini</link>
         <pubDate>Thu, 27 Nov 2025 00:02:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu dla klubowej telewizji po wygranym 4:3 meczu z Olympiakosem. Przedstawiamy zapis rozmowy z francuskim napastnikiem.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga nie zszedł z powodu kontuzji</title>
-        <link>https://www.realmadryt.pl/news/144491-camavinga-nie-zszedl-z-powodu-kontuzji</link>
-        <pubDate>Wed, 26 Nov 2025 23:36:00 GMT</pubDate>
-        <description>Eduardo Camavinga już w przerwie zakończył swój udział w meczu z Olympiakosem.</description>
     </item>
     
 </channel>
