@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 11:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 11:54:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Olympiakosem</title>
+        <link>https://www.realmadryt.pl/news/144506-oceny-zawodnikow-po-meczu-z-olympiakosem</link>
+        <pubDate>Thu, 27 Nov 2025 12:43:00 GMT</pubDate>
+        <description>Real Madryt wygrał 4:2 z Olympiakosem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>Vinícius w odsłonie, która zmusza Xabiego Alonso do zmiany planu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144495-aguirre-xabi-alonso-zblizyl-sie-do-pilkarzy-i-zapytal-jak-moze-sie-poprawic</link>
         <pubDate>Thu, 27 Nov 2025 00:54:00 GMT</pubDate>
         <description>Edu Aguirre to główny dziennikarz Chiringuito od Realu Madryt. Przedstawiamy jego nocne informacje w sprawie sytuacji Xabiego Alonso.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144494-dzisiejsze-okladki</link>
-        <pubDate>Thu, 27 Nov 2025 00:41:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i odbudowa Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
