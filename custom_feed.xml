@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 07:29:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 07:44:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé: Ludzie muszą gadać o Realu, ale jako piłkarze musimy chronić kolegów, trenera i sztab</title>
+        <link>https://www.realmadryt.pl/news/144498-mbappe-ludzie-musza-gadac-o-realu-ale-jako-pilkarze-musimy-chronic-kolegow-trenera-i-sztab</link>
+        <pubDate>Thu, 27 Nov 2025 08:40:00 GMT</pubDate>
+        <description>Kylian po meczu z Olympiakosem w Lidze Mistrzów wyszedł do dziennikarzy w strefie mieszanej. Przedstawiamy jego wypowiedzi dla dziennikarzy radiowych i telewizyjnych.</description>
+    </item>
     
     <item>
         <title>Camavinga: Zespół jest zjednoczony bardziej niż kiedykolwiek</title>
         <link>https://www.realmadryt.pl/news/144493-camavinga-zespol-jest-zjednoczony-bardziej-niz-kiedykolwiek</link>
         <pubDate>Thu, 27 Nov 2025 07:50:00 GMT</pubDate>
-        <description>Eduardo Camavinga udzielił wywiadu dla telewizji Movistar+ po wygrany 4:3 meczu z Olympiakosem. Przedstawiamy zapis rozmowy z pomocnikiem Królewskich.</description>
+        <description>Eduardo Camavinga udzielił wywiadu dla telewizji Movistar+ po wygranym 4:3 meczu z Olympiakosem. Przedstawiamy zapis rozmowy z pomocnikiem Królewskich.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144487-mbappe-musimy-dawac-z-siebie-wszystko-dla-tego-herbu</link>
         <pubDate>Wed, 26 Nov 2025 23:17:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu z murawy dla telewizji Movistar+ po wygranym 4:3 meczu z Olympiakosem. Przedstawiamy wypowiedzi autora wszystkich bramek Realu Madryt w tym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Olympiakosem</title>
-        <link>https://www.realmadryt.pl/news/144486-ocen-pilkarzy-po-meczu-z-olympiakosem</link>
-        <pubDate>Wed, 26 Nov 2025 22:57:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
     </item>
     
 </channel>
