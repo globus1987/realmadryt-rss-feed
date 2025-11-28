@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Nov 2025 11:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 11:41:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé piłkarzem tygodnia w Lidze Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/144523-mbappe-pilkarzem-tygodnia-w-lidze-mistrzow</link>
+        <pubDate>Fri, 28 Nov 2025 12:25:00 GMT</pubDate>
+        <description>Francuz został wybrany najlepszym zawodnikiem 5. serii gier w Lidze Mistrzów i znalazł się oczywiście w najlepszej jedenastce kolejki.</description>
+    </item>
     
     <item>
         <title>Trzy filary problemu Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144513-kroos-bernabeu-to-perfekcyjne-miejsce-by-otrzymac-to-odznaczenie</link>
         <pubDate>Thu, 27 Nov 2025 21:09:00 GMT</pubDate>
         <description>Toni Kroos udzielił wywiadu dla klubowej telewizji po odebraniu Krzyża Kawalerskiego Orderu Zasługi Niemiec na Bernabéu. Przedstawiamy wypowiedzi byłego pomocnika Realu Madryt z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Kroos odznaczony Krzyżem Kawalerskim Orderu Zasługi Niemiec na Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/144512-kroos-odznaczony-krzyzem-kawalerskim-orderu-zaslugi-niemiec-na-bernabeu</link>
-        <pubDate>Thu, 27 Nov 2025 19:26:00 GMT</pubDate>
-        <description>Były piłkarz Królewskich odebrał wyróżnienie od władz swojego kraju, a całe wydarzenie zorganizowano na stadionie Realu Madryt.</description>
     </item>
     
 </channel>
