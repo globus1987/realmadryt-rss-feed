@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 27 Nov 2025 23:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 02:01:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziwny grecki przypadek Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/144515-dziwny-grecki-przypadek-bellinghama</link>
+        <pubDate>Fri, 28 Nov 2025 01:37:00 GMT</pubDate>
+        <description>Wysłannik ABC do Grecji podkreśla, że Anglik miał zmagać się z problemami mięśniowymi, ale wszedł na boisko na ostatnie pół godziny przy dwóch bramkach przewagi. Od powrotu po kontuzji błysnął tylko w Klasyku.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144504-krolewscy-maja-dzis-wolne</link>
         <pubDate>Thu, 27 Nov 2025 11:50:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 27 listopada</title>
-        <link>https://www.realmadryt.pl/news/144501-kartka-z-kalendarza-27-listopada</link>
-        <pubDate>Thu, 27 Nov 2025 11:10:00 GMT</pubDate>
-        <description>Wybór prezesa, którego brakuje na oficjalnych listach, urodziny kolejnego z rodu Gento, bolesna porażka w Düsseldorfie, dwie wygrane w Lidze Mistrzów i przegrana na Anfield. Co działo się 27 listopada?</description>
     </item>
     
 </channel>
