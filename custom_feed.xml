@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Nov 2025 23:24:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 23:40:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144535-dzisiejsze-okladki</link>
+        <pubDate>Sat, 29 Nov 2025 00:27:00 GMT</pubDate>
+        <description>Remis kobiecej Hiszpanii i słowa Joana Laporty to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 14. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144521-kroos-i-marcelo-porownuja-swoj-real-do-obecnego-video</link>
         <pubDate>Fri, 28 Nov 2025 10:57:00 GMT</pubDate>
         <description>Toni Kroos i Marcelo ponownie zagrali razem w barwach zespołu Berlin Underdogs w Icon League w Bremie. Przy okazji promocji spotkania w mediach społecznościowych były pomocnik i obrońca Realu Madryt porównywali swój zespół z ekipą Xabiego Alonso. Przedstawiamy odpowiedzi Niemca i Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé zaprzecza uzależnieniu, które widać gołym okiem</title>
-        <link>https://www.realmadryt.pl/news/144519-mbappe-zaprzecza-uzaleznieniu-ktore-widac-golym-okiem</link>
-        <pubDate>Fri, 28 Nov 2025 09:50:00 GMT</pubDate>
-        <description>Jego 22 gole to 55 procent wszystkich bramek Realu, a w Lidze Mistrzów ten odsetek rośnie do 75 procent.</description>
     </item>
     
 </channel>
