@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 28 Nov 2025 11:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Nov 2025 12:54:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/144524-dzisiejszy-trening</link>
+        <pubDate>Fri, 28 Nov 2025 13:11:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Gironą.</description>
+    </item>
     
     <item>
         <title>Mbappé piłkarzem tygodnia w Lidze Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144514-dzisiejsze-okladki</link>
         <pubDate>Fri, 28 Nov 2025 00:20:00 GMT</pubDate>
         <description>Mecz kobiecej Hiszpanii i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Kroos: Bernabéu to perfekcyjne miejsce, by otrzymać to odznaczenie</title>
-        <link>https://www.realmadryt.pl/news/144513-kroos-bernabeu-to-perfekcyjne-miejsce-by-otrzymac-to-odznaczenie</link>
-        <pubDate>Thu, 27 Nov 2025 21:09:00 GMT</pubDate>
-        <description>Toni Kroos udzielił wywiadu dla klubowej telewizji po odebraniu Krzyża Kawalerskiego Orderu Zasługi Niemiec na Bernabéu. Przedstawiamy wypowiedzi byłego pomocnika Realu Madryt z tej rozmowy.</description>
     </item>
     
 </channel>
