@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Nov 2025 08:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 09:26:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 29 listopada</title>
+        <link>https://www.realmadryt.pl/news/144531-kartka-z-kalendarza-29-listopada</link>
+        <pubDate>Sat, 29 Nov 2025 10:20:00 GMT</pubDate>
+        <description>Mecze z Barceloną z różnym skutkiem, a łącznie trzy wygrane i dwie porażki. Co działo się 29 listopada?</description>
+    </item>
     
     <item>
         <title>Tchouaméni stawia stempel na każdej akcji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144529-mbappe-chroni-druzyne-nie-tylko-na-boisku</link>
         <pubDate>Fri, 28 Nov 2025 17:54:00 GMT</pubDate>
         <description>Napastnik daje zrozumienia, że jego celem jest bronienie dobrego imienia zespołu nie tylko podczas swojej pracy na murawie.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham zmusza Xabiego do główkowania</title>
-        <link>https://www.realmadryt.pl/news/144528-bellingham-zmusza-xabiego-do-glowkowania</link>
-        <pubDate>Fri, 28 Nov 2025 17:20:00 GMT</pubDate>
-        <description>Najnowsza zmiana taktyki przez trenera stawia pod znakiem zapytania rolę Jude'a w drużynie.</description>
     </item>
     
 </channel>
