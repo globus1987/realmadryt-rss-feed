@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Nov 2025 08:33:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 08:55:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni stawia stempel na każdej akcji</title>
+        <link>https://www.realmadryt.pl/news/144540-tchouameni-stawia-stempel-na-kazdej-akcji</link>
+        <pubDate>Sat, 29 Nov 2025 09:50:00 GMT</pubDate>
+        <description>Real Madryt powrócił na zwycięską ścieżkę dzięki powrotowi Francuza. W Grecji był piłkarzem Królewskich, który wykonał najwięcej celnych podań i był najbardziej zaangażowany w grę.</description>
+    </item>
     
     <item>
         <title>„Vinícius zasnął na filmiku Xabiego, jak my zasypiamy przy meczach Realu Xabiego”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144528-bellingham-zmusza-xabiego-do-glowkowania</link>
         <pubDate>Fri, 28 Nov 2025 17:20:00 GMT</pubDate>
         <description>Najnowsza zmiana taktyki przez trenera stawia pod znakiem zapytania rolę Jude'a w drużynie.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: La Liga z podobną wartością praw telewizyjnych na Hiszpanię do 2032 roku</title>
-        <link>https://www.realmadryt.pl/news/144527-oficjalnie-la-liga-z-podobna-wartoscia-praw-telewizyjnych-na-hiszpanie-do-2032-roku</link>
-        <pubDate>Fri, 28 Nov 2025 16:32:00 GMT</pubDate>
-        <description>La Liga poinformowała, że przyznała prawa do transmisji meczów swoich rozgrywek w cyklu od 2027 do 2032 roku. Wartość praw w Primera División zalicza minimalny wzrost. Porównania do Premier League wypadają bardzo słabo. Przetarg w Polsce na kolejne sezony nie został jeszcze publicznie rozstrzygnięty.</description>
     </item>
     
 </channel>
