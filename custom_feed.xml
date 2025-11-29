@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Nov 2025 10:44:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 10:57:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Raúl Asencio zmaga się z infekcją przewodu pokarmowego</title>
+        <link>https://www.realmadryt.pl/news/144543-oficjalnie-raul-asencio-zmaga-sie-z-infekcja-przewodu-pokarmowego</link>
+        <pubDate>Sat, 29 Nov 2025 11:55:00 GMT</pubDate>
+        <description>Obrońca najpewniej nie będzie mógł zagrać z Gironą.</description>
+    </item>
     
     <item>
         <title>Kwadrans ostatniego treningu przed Gironą [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144535-dzisiejsze-okladki</link>
         <pubDate>Sat, 29 Nov 2025 00:27:00 GMT</pubDate>
         <description>Remis kobiecej Hiszpanii i słowa Joana Laporty to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 14. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/144530-telewizyjny-terminarz-14-kolejki-la-ligi</link>
-        <pubDate>Fri, 28 Nov 2025 20:00:00 GMT</pubDate>
-        <description>Przed nami 14. kolejka La Ligi. Real Madryt zagra na wyjeździe z Gironą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
