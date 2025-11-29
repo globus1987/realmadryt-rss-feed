@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 29 Nov 2025 23:24:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 23:41:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144553-dzisiejsze-okladki</link>
+        <pubDate>Sun, 30 Nov 2025 00:31:00 GMT</pubDate>
+        <description>Wygrana Barcelony i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real nie opublikował kadry na mecz z Gironą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144540-tchouameni-stawia-stempel-na-kazdej-akcji</link>
         <pubDate>Sat, 29 Nov 2025 09:50:00 GMT</pubDate>
         <description>Real Madryt powrócił na zwycięską ścieżkę dzięki powrotowi Francuza. W Grecji był piłkarzem Królewskich, który wykonał najwięcej celnych podań i był najbardziej zaangażowany w grę.</description>
-    </item>
-    
-    <item>
-        <title>„Vinícius zasnął na filmiku Xabiego, jak my zasypiamy przy meczach Realu Xabiego”</title>
-        <link>https://www.realmadryt.pl/news/144538-vinicius-zasnal-na-filmiku-xabiego-jak-my-zasypiamy-przy-meczach-realu-xabiego</link>
-        <pubDate>Sat, 29 Nov 2025 09:30:00 GMT</pubDate>
-        <description>Ignacio Ruiz-Quintano to hiszpański felietonista, który jest krytykiem politycznym, kulturowym i sportowym. Przedstawiamy jego tekst dla dziennika ABC.</description>
     </item>
     
 </channel>
