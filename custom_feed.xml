@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 13:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 14:23:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Blaski i cienie Trenta</title>
+        <link>https://www.realmadryt.pl/news/144561-blaski-i-cienie-trenta</link>
+        <pubDate>Sun, 30 Nov 2025 15:00:00 GMT</pubDate>
+        <description>Alexander-Arnold wskoczył do wyjściowego składu i pokazał niezwykłą precyzję w podaniach, jednak powroty pod własną bramkę są jego piętą achillesową.</description>
+    </item>
     
     <item>
         <title>Pilny uczeń</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144554-girona-real-madryt-przewidywane-sklady</link>
         <pubDate>Sun, 30 Nov 2025 07:25:00 GMT</pubDate>
         <description>Real Madryt rozegra dzisiaj kolejne spotkanie i tym razem zmierzy się z Gironą. Dziś również należy spodziewać się zmian w wyjściowej jedenastce.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Potrzebujemy ciągłości</title>
-        <link>https://www.realmadryt.pl/news/144549-xabi-alonso-potrzebujemy-ciaglosci</link>
-        <pubDate>Sun, 30 Nov 2025 05:30:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Gironą w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
