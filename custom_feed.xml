@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 09:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 10:26:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Gironę</title>
+        <link>https://www.realmadryt.pl/news/144546-kadra-na-girone</link>
+        <pubDate>Sun, 30 Nov 2025 11:10:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas spotkania z Gironą. Bask powołał 22 piłkarzy.</description>
+    </item>
+    
+    <item>
+        <title>Rüdiger: Tuchel to był trener, który utorował mi drogę do tego, żeby dziś grać dla Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/144560-ruediger-tuchel-to-byl-trener-ktory-utorowal-mi-droge-do-tego-zeby-dzis-grac-dla-realu-madryt</link>
+        <pubDate>Sun, 30 Nov 2025 11:00:00 GMT</pubDate>
+        <description>Obrońca był gościem niemieckiego YouTubera Florian Malburg, który prowadzi kanał o koszulkach piłkarskich. Przedstawiamy pełny zapis tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Boiskowa retoryka</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144547-14-kolejka-barca-wygrala-z-deportivo-alaves</link>
         <pubDate>Sat, 29 Nov 2025 16:00:00 GMT</pubDate>
         <description>Drużyna Hansiego Flicka podejmowała na Camp Nou Deportivo Alavés i została tymczasowym liderem La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Míchel: Real Madryt to najlepsza drużyna La Ligi i ma najlepszego piłkarza</title>
-        <link>https://www.realmadryt.pl/news/144548-michel-real-madryt-to-najlepsza-druzyna-la-ligi-i-ma-najlepszego-pilkarza</link>
-        <pubDate>Sat, 29 Nov 2025 15:48:00 GMT</pubDate>
-        <description>Trener Girony, Míchel, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 14. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi madryckiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Pojawia się sporo populistycznych haseł, ale skupmy się na wygrywaniu w zasłużony sposób</title>
-        <link>https://www.realmadryt.pl/news/144545-xabi-alonso-pojawia-sie-sporo-populistycznych-hasel-ale-skupmy-sie-na-wygrywaniu-w-zasluzony-sposob</link>
-        <pubDate>Sat, 29 Nov 2025 13:35:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Gironą w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
