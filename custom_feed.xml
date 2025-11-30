@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 08:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 09:25:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Boiskowa retoryka</title>
+        <link>https://www.realmadryt.pl/news/144552-boiskowa-retoryka</link>
+        <pubDate>Sun, 30 Nov 2025 10:15:00 GMT</pubDate>
+        <description>W niektórych okolicznościach przyjęło się, że nie wypada mówić wprost tego, co się myśli.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 30 listopada</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144545-xabi-alonso-pojawia-sie-sporo-populistycznych-hasel-ale-skupmy-sie-na-wygrywaniu-w-zasluzony-sposob</link>
         <pubDate>Sat, 29 Nov 2025 13:35:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Gironą w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Gironą</title>
-        <link>https://www.realmadryt.pl/news/144544-ostatni-trening-przed-girona</link>
-        <pubDate>Sat, 29 Nov 2025 13:27:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Gironą.</description>
     </item>
     
 </channel>
