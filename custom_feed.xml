@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 07:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 08:31:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 listopada</title>
+        <link>https://www.realmadryt.pl/news/144559-kartka-z-kalendarza-30-listopada</link>
+        <pubDate>Sun, 30 Nov 2025 09:30:00 GMT</pubDate>
+        <description>Zwycięstwo w pucharach z monachijczykami, urodziny byłego koszykarza i hat-trick Garetha Bale'a. Co działo się 30 listopada?</description>
+    </item>
     
     <item>
         <title>Gaspart: Florentino to Negreira hiszpańskiego futbolu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144544-ostatni-trening-przed-girona</link>
         <pubDate>Sat, 29 Nov 2025 13:27:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Gironą.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Raúl Asencio zmaga się z infekcją przewodu pokarmowego</title>
-        <link>https://www.realmadryt.pl/news/144543-oficjalnie-raul-asencio-zmaga-sie-z-infekcja-przewodu-pokarmowego</link>
-        <pubDate>Sat, 29 Nov 2025 11:55:00 GMT</pubDate>
-        <description>Obrońca najpewniej nie będzie mógł zagrać z Gironą.</description>
     </item>
     
 </channel>
