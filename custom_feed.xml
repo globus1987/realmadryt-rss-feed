@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 15:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 16:31:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obejrzyj mecz z Gironą w STS TV!</title>
+        <link>https://www.realmadryt.pl/news/144567-obejrzyj-mecz-z-girona-w-sts-tv</link>
+        <pubDate>Sun, 30 Nov 2025 17:30:00 GMT</pubDate>
+        <description>#współpracareklamowa #reklamaSTS</description>
+    </item>
+    
+    <item>
+        <title>Álvaro Leiva – czerwona kartka w sobotę, gol w niedzielę</title>
+        <link>https://www.realmadryt.pl/news/144566-alvaro-leiva-czerwona-kartka-w-sobote-gol-w-niedziele</link>
+        <pubDate>Sun, 30 Nov 2025 17:00:00 GMT</pubDate>
+        <description>Dla Leivy był to słodko-gorzki weekend. W sobotę otrzymał kontrowersyjną czerwoną kartkę, a w niedzielę wpisał się na listę strzelców i pomógł Realowi Madryt C w zdobyciu punktu.</description>
+    </item>
     
     <item>
         <title>Camavinga i Mendy spotkali się z kibicami</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144552-boiskowa-retoryka</link>
         <pubDate>Sun, 30 Nov 2025 10:15:00 GMT</pubDate>
         <description>W niektórych okolicznościach przyjęło się, że nie wypada mówić wprost tego, co się myśli.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 30 listopada</title>
-        <link>https://www.realmadryt.pl/news/144559-kartka-z-kalendarza-30-listopada</link>
-        <pubDate>Sun, 30 Nov 2025 09:30:00 GMT</pubDate>
-        <description>Zwycięstwo w pucharach z monachijczykami, urodziny byłego koszykarza i hat-trick Garetha Bale'a. Co działo się 30 listopada?</description>
-    </item>
-    
-    <item>
-        <title>Gaspart: Florentino to Negreira hiszpańskiego futbolu</title>
-        <link>https://www.realmadryt.pl/news/144557-gaspart-florentino-to-negreira-hiszpanskiego-futbolu</link>
-        <pubDate>Sun, 30 Nov 2025 08:47:00 GMT</pubDate>
-        <description>Joan Gaspart, były prezes Barcelony, który rozpoczął proceder opłacania wiceszefa Komitetu Arbitrów, w ostrym tonie skomentował ostatnie wystąpienie Florentino Péreza. Przedstawiamy zapis jego najważniejszych wypowiedzi dla SER Catalunya.</description>
     </item>
     
 </channel>
