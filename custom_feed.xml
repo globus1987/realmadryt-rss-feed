@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 11:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 12:50:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Katalonii</title>
+        <link>https://www.realmadryt.pl/news/144564-krolewscy-sa-juz-w-katalonii</link>
+        <pubDate>Sun, 30 Nov 2025 13:19:00 GMT</pubDate>
+        <description>22 powołanych zawodników dotarło już do Girony, gdzie Królewscy zmierzą się dzisiaj z Katalończykami.</description>
+    </item>
     
     <item>
         <title>Machín: Aby wygrać z Realem Madryt, trzeba zagrać bez strachu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144553-dzisiejsze-okladki</link>
         <pubDate>Sun, 30 Nov 2025 00:31:00 GMT</pubDate>
         <description>Wygrana Barcelony i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real nie opublikował kadry na mecz z Gironą</title>
-        <link>https://www.realmadryt.pl/news/144550-real-nie-opublikowal-kadry-na-mecz-z-girona</link>
-        <pubDate>Sat, 29 Nov 2025 19:30:00 GMT</pubDate>
-        <description>Listę powołanych poznamy dopiero w dniu spotkania. Wątpliwości dotyczą jednego piłkarza.</description>
     </item>
     
 </channel>
