@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 30 Nov 2025 12:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 13:31:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pilny uczeń</title>
+        <link>https://www.realmadryt.pl/news/144562-pilny-uczen</link>
+        <pubDate>Sun, 30 Nov 2025 14:10:00 GMT</pubDate>
+        <description>Anglik zadaje trenerowi mnóstwo pytań, aby się doskonalić.</description>
+    </item>
     
     <item>
         <title>Królewscy są już w Katalonii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144549-xabi-alonso-potrzebujemy-ciaglosci</link>
         <pubDate>Sun, 30 Nov 2025 05:30:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Gironą w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144553-dzisiejsze-okladki</link>
-        <pubDate>Sun, 30 Nov 2025 00:31:00 GMT</pubDate>
-        <description>Wygrana Barcelony i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
