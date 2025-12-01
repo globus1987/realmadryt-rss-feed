@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Dec 2025 09:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 09:43:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Gironą</title>
+        <link>https://www.realmadryt.pl/news/144584-oceny-zawodnikow-po-meczu-z-girona</link>
+        <pubDate>Mon, 01 Dec 2025 10:20:00 GMT</pubDate>
+        <description>Real Madryt zremisował 1:1 z Gironą w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 1 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144574-girona-1-1-real-madryt-video</link>
         <pubDate>Sun, 30 Nov 2025 23:17:00 GMT</pubDate>
         <description>W meczu 14. kolejki La Ligi Real Madryt zremisował na wyjeździe z Gironą 1:1. Jedyną bramkę dla Królewskich zdobył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Ounahi MVP meczu na Montilivi</title>
-        <link>https://www.realmadryt.pl/news/144572-ounahi-mvp-meczu-na-montilivi</link>
-        <pubDate>Sun, 30 Nov 2025 23:11:00 GMT</pubDate>
-        <description>Azzedine Ounahi został wyróżniony po meczu Girony z Realem Madryt.</description>
     </item>
     
 </channel>
