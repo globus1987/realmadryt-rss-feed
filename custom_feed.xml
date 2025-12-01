@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Dec 2025 22:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 23:27:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144599-dzisiejsze-okladki</link>
+        <pubDate>Tue, 02 Dec 2025 00:27:00 GMT</pubDate>
+        <description>Mecz Barcelony z Atlético i sytuacja w Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Niebezpieczne widmo Lopeteguiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144586-real-madrid-tv-real-ma-cztery-punkty-mniej-przez-synalkow-negreiry</link>
         <pubDate>Mon, 01 Dec 2025 11:51:00 GMT</pubDate>
         <description>Klubowa telewizja była bardzo krytyczne wobec ostatnich wydarzeń w La Lidze. Oficjalne medium Królewskich w studio po wczorajszym meczu przeanalizowało sędziowanie w meczu z Gironą.</description>
-    </item>
-    
-    <item>
-        <title>Tebas: FC Barcelona okazuje La Lidze znacznie więcej szacunku niż Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/144585-tebas-fc-barcelona-okazuje-la-lidze-znacznie-wiecej-szacunku-niz-real-madryt</link>
-        <pubDate>Mon, 01 Dec 2025 11:17:00 GMT</pubDate>
-        <description>Javier Tebas udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełny zapisy tej rozmowy z prezesem La Ligi.</description>
     </item>
     
 </channel>
