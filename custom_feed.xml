@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Dec 2025 10:34:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 10:55:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madrid TV: Real ma cztery punkty mniej przez „synalków” Negreiry</title>
+        <link>https://www.realmadryt.pl/news/144586-real-madrid-tv-real-ma-cztery-punkty-mniej-przez-synalkow-negreiry</link>
+        <pubDate>Mon, 01 Dec 2025 11:51:00 GMT</pubDate>
+        <description>Klubowa telewizja była bardzo krytyczne wobec ostatnich wydarzeń w La Lidze. Oficjalne medium Królewskich w studio po wczorajszym meczu przeanalizowało sędziowanie w meczu z Gironą.</description>
+    </item>
     
     <item>
         <title>Tebas: FC Barcelona okazuje La Lidze znacznie więcej szacunku niż Real Madryt</title>
         <link>https://www.realmadryt.pl/news/144585-tebas-fc-barcelona-okazuje-la-lidze-znacznie-wiecej-szacunku-niz-real-madryt</link>
         <pubDate>Mon, 01 Dec 2025 11:17:00 GMT</pubDate>
-        <description>Florentino Pérez udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełny zapisy tej rozmowy z prezesem La Ligi.</description>
+        <description>Javier Tebas udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełny zapisy tej rozmowy z prezesem La Ligi.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144573-xabi-alonso-nie-mam-zawodnikom-nic-do-zarzucenia</link>
         <pubDate>Sun, 30 Nov 2025 23:40:00 GMT</pubDate>
         <description>Xabi Alonso wziął udział w konferencji prasowej po zremisowanym 1:1 meczu z Gironą. Przedstawiamy wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo wyrównał rekord Mariano: 30 meczów z rzędu bez gola</title>
-        <link>https://www.realmadryt.pl/news/144575-rodrygo-wyrownal-rekord-mariano-30-meczow-z-rzedu-bez-gola</link>
-        <pubDate>Sun, 30 Nov 2025 23:20:00 GMT</pubDate>
-        <description>Trwa fatalna seria Brazylijczyka.</description>
     </item>
     
 </channel>
