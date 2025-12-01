@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Dec 2025 13:58:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 14:33:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>MN: Sergio Ramos zaoferowany Milanowi</title>
+        <link>https://www.realmadryt.pl/news/144591-mn-sergio-ramos-zaoferowany-milanowi</link>
+        <pubDate>Mon, 01 Dec 2025 14:58:00 GMT</pubDate>
+        <description>Agenci obrońcy szukają mu klubu, w którym mógłby jeszcze powalczyć o powołanie na mundial.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144578-glos-kibica-czy-nadal-wierzysz-w-projekt-xabiego-alonso</link>
         <pubDate>Mon, 01 Dec 2025 07:25:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po remisie z Gironą</title>
-        <link>https://www.realmadryt.pl/news/144576-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie-z-girona</link>
-        <pubDate>Mon, 01 Dec 2025 05:30:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po zremisowanym 1:1 meczu z Gironą. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
     </item>
     
 </channel>
