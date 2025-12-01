@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Dec 2025 12:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 13:43:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/144590-dzisiejszy-trening</link>
+        <pubDate>Mon, 01 Dec 2025 14:37:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Athletikiem.</description>
+    </item>
+    
+    <item>
+        <title>Podcast 7x17: Spirala pesymizmu</title>
+        <link>https://www.realmadryt.pl/news/144589-podcast-7x17-spirala-pesymizmu</link>
+        <pubDate>Mon, 01 Dec 2025 14:14:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Gironą.</description>
+    </item>
     
     <item>
         <title>ABC: Klub domaga się od Xabiego pilnej reakcji, którą na zewnątrz przykrywa pozorami cierpliwości</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144576-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-remisie-z-girona</link>
         <pubDate>Mon, 01 Dec 2025 05:30:00 GMT</pubDate>
         <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po zremisowanym 1:1 meczu z Gironą. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
-    </item>
-    
-    <item>
-        <title>Pedrerol: W Realu Madryt w ogóle nie biorą pod uwagę żadnej zmiany trenera</title>
-        <link>https://www.realmadryt.pl/news/144581-pedrerol-w-realu-madryt-w-ogole-nie-biora-pod-uwage-zadnej-zmiany-trenera</link>
-        <pubDate>Mon, 01 Dec 2025 01:04:00 GMT</pubDate>
-        <description>Josep Pedrerol w swoim nocnym Chiringuito skomentował sytuację Xabiego Alonso. Przedstawiamy wypowiedzi prowadzącego z jego informacji na wyłączność.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144580-dzisiejsze-okladki</link>
-        <pubDate>Mon, 01 Dec 2025 00:45:00 GMT</pubDate>
-        <description>Remis Realu Madryt i świętowanie w Katalonii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
