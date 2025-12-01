@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 01 Dec 2025 07:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Dec 2025 08:39:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144582-kartka-z-kalendarza-1-grudnia</link>
+        <pubDate>Mon, 01 Dec 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny jednego z założycieli Królewskich, mecz na Metropolitano w roli gospodarza, wyjątkowy mecz w Tokio oraz wygrane z Espanyolem i Racingiem. Co działo się 1 grudnia?</description>
+    </item>
+    
+    <item>
+        <title>„Real bez futbolu, bez chęci i bez duszy”</title>
+        <link>https://www.realmadryt.pl/news/144583-real-bez-futbolu-bez-checi-i-bez-duszy</link>
+        <pubDate>Mon, 01 Dec 2025 08:50:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat wczorajszego meczu Realu Madryt. Przedstawiamy opinię dziennikarza.</description>
+    </item>
     
     <item>
         <title>Míchel: Rodrygo potyka się przy dryblingu, to nie jest rzut karny</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144572-ounahi-mvp-meczu-na-montilivi</link>
         <pubDate>Sun, 30 Nov 2025 23:11:00 GMT</pubDate>
         <description>Azzedine Ounahi został wyróżniony po meczu Girony z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Gazzaniga: Mieliśmy więcej sytuacji od nich</title>
-        <link>https://www.realmadryt.pl/news/144571-gazzaniga-mielismy-wiecej-sytuacji-od-nich</link>
-        <pubDate>Sun, 30 Nov 2025 23:10:00 GMT</pubDate>
-        <description>Paulo Gazzaniga udzielił wywiadu z murawy dla telewizji Movistar+ po zremisowanym 1:1 meczu z Realem Madryt. Przedstawiamy wypowiedzi bramkarza Girony.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Gironą</title>
-        <link>https://www.realmadryt.pl/news/144570-ocen-pilkarzy-po-meczu-z-girona</link>
-        <pubDate>Sun, 30 Nov 2025 23:05:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
