@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Dec 2025 07:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 07:34:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/144597-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 02 Dec 2025 08:18:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 14. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Arda Güler czy Jude Bellingham? Kto powinien grać od początku?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144589-podcast-7x17-spirala-pesymizmu</link>
         <pubDate>Mon, 01 Dec 2025 14:14:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Gironą.</description>
-    </item>
-    
-    <item>
-        <title>ABC: Klub domaga się od Xabiego pilnej reakcji, którą na zewnątrz przykrywa pozorami cierpliwości</title>
-        <link>https://www.realmadryt.pl/news/144588-abc-klub-domaga-sie-od-xabiego-pilnej-reakcji-ktora-na-zewnatrz-przykrywa-pozorami-cierpliwosci</link>
-        <pubDate>Mon, 01 Dec 2025 13:49:00 GMT</pubDate>
-        <description>Bilbao, Vigo i City zadecydują o przyszłości Alonso jako trenera Realu Madryt. W klubowych gabinetach wciąż wierzą w Baska, ale słabe wyniki z listopada stawiają go na krawędzi przepaści.</description>
     </item>
     
 </channel>
