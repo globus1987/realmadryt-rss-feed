@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 02 Dec 2025 07:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 08:38:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Raúl: Chcę wrócić do domu</title>
+        <link>https://www.realmadryt.pl/news/144602-raul-chce-wrocic-do-domu</link>
+        <pubDate>Tue, 02 Dec 2025 09:22:00 GMT</pubDate>
+        <description>Raúl González Blanco został wyróżniony nagrodą za całokształt kariery podczas wczorajszej gali dziennika AS. Przedstawiamy wypowiedzi byłego napastnika i trenera Realu Madryt ze sceny.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 2 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144601-kartka-z-kalendarza-2-grudnia</link>
+        <pubDate>Tue, 02 Dec 2025 09:11:00 GMT</pubDate>
+        <description>Debiut legendarnego pomocnika, transfer holenderskiego napastnika, udany powrót Jesé i kompromitacja Królewskich poza boiskiem. Co działo się 2 grudnia?</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144591-mn-sergio-ramos-zaoferowany-milanowi</link>
         <pubDate>Mon, 01 Dec 2025 14:58:00 GMT</pubDate>
         <description>Agenci obrońcy szukają mu klubu, w którym mógłby jeszcze powalczyć o powołanie na mundial.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/144590-dzisiejszy-trening</link>
-        <pubDate>Mon, 01 Dec 2025 14:37:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Athletikiem.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x17: Spirala pesymizmu</title>
-        <link>https://www.realmadryt.pl/news/144589-podcast-7x17-spirala-pesymizmu</link>
-        <pubDate>Mon, 01 Dec 2025 14:14:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po meczu z Gironą.</description>
     </item>
     
 </channel>
