@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Dec 2025 13:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 13:49:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Rachad Fettal nie wróci już do gry w tym roku</title>
+        <link>https://www.realmadryt.pl/news/144633-marca-rachad-fettal-nie-wroci-juz-do-gry-w-tym-roku</link>
+        <pubDate>Wed, 03 Dec 2025 14:42:00 GMT</pubDate>
+        <description>Atakującego drużyny rezerw zobaczymy na boisku najpewniej w styczniu.</description>
+    </item>
     
     <item>
         <title>Rüdiger i plan powrotu, który padł na starcie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144627-dzisiejsze-okladki</link>
         <pubDate>Wed, 03 Dec 2025 00:36:00 GMT</pubDate>
         <description>Wygrane Hiszpanek i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Bilbao</title>
-        <link>https://www.realmadryt.pl/news/144622-krolewscy-sa-juz-w-bilbao</link>
-        <pubDate>Tue, 02 Dec 2025 20:20:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt dotarli do Kraju Basków, gdzie jutro zagrają z Athletikiem.</description>
     </item>
     
 </channel>
