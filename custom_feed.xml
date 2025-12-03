@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Dec 2025 19:42:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 19:55:27 GMT</lastBuildDate>
     
     <item>
-        <title>Athletic – Real Madryt [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/144637-athletic-real-madryt-live</link>
+        <title>Oceń piłkarzy po meczu z Athletikiem</title>
+        <link>https://www.realmadryt.pl/news/144638-ocen-pilkarzy-po-meczu-z-athletikiem</link>
+        <pubDate>Wed, 03 Dec 2025 20:53:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé MVP meczu na San Mamés</title>
+        <link>https://www.realmadryt.pl/news/144639-mbappe-mvp-meczu-na-san-mames</link>
+        <pubDate>Wed, 03 Dec 2025 20:53:00 GMT</pubDate>
+        <description>Kylian Mbappé został wyróżniony po meczu Athleticu z Realem Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Nareszcie trochę spokoju</title>
+        <link>https://www.realmadryt.pl/news/144637-nareszcie-troche-spokoju</link>
         <pubDate>Wed, 03 Dec 2025 18:55:00 GMT</pubDate>
-        <description>Od 19:00 na San Mamés trwa mecz 19. kolejki La Ligi rozgrywany awansem. Athletic Club podejmuje Real Madryt.</description>
+        <description>W meczu 19. kolejki La Ligi rozgrywanym awansem Real Madryt wygrał na wyjeździe z Athletikiem 3:0. Gole dla Królewskich strzelili Kylian Mbappé (dwa) i Eduardo Camavinga.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144628-xabi-alonso-w-oczekiwaniu-na-grudzien-i-superpuchar-hiszpanii</link>
         <pubDate>Wed, 03 Dec 2025 11:32:00 GMT</pubDate>
         <description>Po trzech kolejnych remisach Xabi Alonso wciąż ma zaufanie zarządu. Kluczowy dla przyszłości trenera będzie jednak Superpuchar Hiszpanii</description>
-    </item>
-    
-    <item>
-        <title>Czyja wina?</title>
-        <link>https://www.realmadryt.pl/news/144620-czyja-wina</link>
-        <pubDate>Wed, 03 Dec 2025 10:04:00 GMT</pubDate>
-        <description>Nieistniejąca legenda głosi, że gdy ktoś bez winy faktycznie zdecydował się rzucić kamieniem, w głowę dostał nim trener.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 3 grudnia</title>
-        <link>https://www.realmadryt.pl/news/144624-kartka-z-kalendarza-3-grudnia</link>
-        <pubDate>Wed, 03 Dec 2025 09:09:00 GMT</pubDate>
-        <description>Urodziny byłych zawodników, śmierć koszykarza, wygrana w Japonii i Złota Piłka dla Modricia. Co działo się 3 grudnia?</description>
     </item>
     
 </channel>
