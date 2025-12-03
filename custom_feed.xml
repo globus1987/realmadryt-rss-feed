@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Dec 2025 23:23:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 23:41:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144653-dzisiejsze-okladki</link>
+        <pubDate>Thu, 04 Dec 2025 00:26:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo pobił rekord Mariano: 31 meczów z rzędu bez gola</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144636-rozgrzewka-przed-athletikiem-na-zywo</link>
         <pubDate>Wed, 03 Dec 2025 18:15:00 GMT</pubDate>
         <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na San Mamés, gdzie za kilkadziesiąt minut zaczną mecz z Athletikiem. Pierwszy gwizdek arbitra wybrzmi o 19:00.</description>
-    </item>
-    
-    <item>
-        <title>Mendieta: Myślę, że w Realu Madryt nie zobaczymy drużyny, której chce Xabi Alonso</title>
-        <link>https://www.realmadryt.pl/news/144635-mendieta-mysle-ze-w-realu-madryt-nie-zobaczymy-druzyny-ktorej-chce-xabi-alonso</link>
-        <pubDate>Wed, 03 Dec 2025 17:49:00 GMT</pubDate>
-        <description>Były pomocnik Valencii i Barcelony, Gaizka Mendieta, udzielił wywiadu dla dziennika AS. W jego trakcie poruszył tematy związane z bieżącymi problemami Xabiego Alonso i jego Realu Madryt.</description>
     </item>
     
 </channel>
