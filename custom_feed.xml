@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Dec 2025 07:53:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 08:37:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 3 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144624-kartka-z-kalendarza-3-grudnia</link>
+        <pubDate>Wed, 03 Dec 2025 09:09:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, śmierć koszykarza, wygrana w Japonii i Złota Piłka dla Modricia. Co działo się 3 grudnia?</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy Bellingham, Vinícius i Mbappé powinni grać razem?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144613-ostatni-trening-przed-athletikiem</link>
         <pubDate>Tue, 02 Dec 2025 18:03:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Athletikiem.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Na San Mamés nie będzie ultimatum wobec Xabiego Alonso</title>
-        <link>https://www.realmadryt.pl/news/144617-marca-na-san-mames-nie-bedzie-ultimatum-wobec-xabiego-alonso</link>
-        <pubDate>Tue, 02 Dec 2025 17:45:00 GMT</pubDate>
-        <description>Wynik jutrzejszego spotkania nie przesądzi o przyszłości trenera.</description>
     </item>
     
 </channel>
