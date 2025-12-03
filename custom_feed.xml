@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 03 Dec 2025 11:56:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 13:01:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rüdiger i plan powrotu, który padł na starcie</title>
+        <link>https://www.realmadryt.pl/news/144632-ruediger-i-plan-powrotu-ktory-padl-na-starcie</link>
+        <pubDate>Wed, 03 Dec 2025 13:40:00 GMT</pubDate>
+        <description>Po niemal 100 dniach od odniesienia kontuzji niemiecki stoper musiał wrócić do pełnej gotowości meczowej wcześniej, niż pierwotnie zakładano.</description>
+    </item>
+    
+    <item>
+        <title>Listopadowa zapaść energii</title>
+        <link>https://www.realmadryt.pl/news/144631-listopadowa-zapasc-energii</link>
+        <pubDate>Wed, 03 Dec 2025 13:04:00 GMT</pubDate>
+        <description>David Álvarez z El País przyjrzał się listopadowej zapaści Królewskich, która kosztowała ich utratę pozycji lidera La Ligi. Przedstawiamy jego wnioski.</description>
+    </item>
     
     <item>
         <title>Sneijder: Jestem dosyć pewny, że Mbappé wygra Złotą Piłkę za ten sezon</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144622-krolewscy-sa-juz-w-bilbao</link>
         <pubDate>Tue, 02 Dec 2025 20:20:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt dotarli do Kraju Basków, gdzie jutro zagrają z Athletikiem.</description>
-    </item>
-    
-    <item>
-        <title>19. kolejka: Barcelona wygrała z Atlético i ucieka Realowi</title>
-        <link>https://www.realmadryt.pl/news/144623-19-kolejka-barcelona-wygrala-z-atletico-i-ucieka-realowi</link>
-        <pubDate>Tue, 02 Dec 2025 20:12:00 GMT</pubDate>
-        <description>W rozgrywanym awansem meczu 19. kolejki La Ligi Barcelona pokonała Atlético Madryt 3:1 po bramkach Raphinhi, Daniego Olmo i Ferrana Torresa, którzy odpowiedzieli na trafienie Álexa Baeny.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Athleticu na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/144621-kadra-athleticu-na-mecz-z-realem</link>
-        <pubDate>Tue, 02 Dec 2025 20:06:00 GMT</pubDate>
-        <description>Ernesto Valverde ogłosił listę powołanych na jutrzejszą potyczkę z Realem Madryt.</description>
     </item>
     
 </channel>
