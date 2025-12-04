@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Dec 2025 22:57:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 23:27:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144674-dzisiejsze-okladki</link>
+        <pubDate>Fri, 05 Dec 2025 00:22:00 GMT</pubDate>
+        <description>Wypowiedzi Marcelo i Joana Laporty to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>W poniedziałek losowanie Pucharu Króla z udziałem Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/144673-w-poniedzialek-losowanie-pucharu-krola-z-udzialem-realu-madryt</link>
+        <pubDate>Fri, 05 Dec 2025 00:08:00 GMT</pubDate>
+        <description>Wczoraj zakończyła się druga runda Pucharu Króla. Od trzeciej fazy do gry wejdą Królewscy, a ten mecz odbędzie się za dwa tygodnie.</description>
+    </item>
     
     <item>
         <title>Scariolo: Rozegraliśmy wielką drugą połowę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144659-xabi-znalazl-sposob-4-4-2-w-obronie-i-3-5-2-w-ataku</link>
         <pubDate>Thu, 04 Dec 2025 11:55:00 GMT</pubDate>
         <description>Trener znalazł idealną formułę dla swojego Realu Madryt w Bilbao, co może stać się punktem zwrotnym na resztę sezonu. Wyjściowe 4-4-2, które w ataku zmieniało się w 3-5-2, pozwoliło wydobyć maksimum z każdego zawodnika.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé może pobić kolejny rekord Cristiano w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/144657-mbappe-moze-pobic-kolejny-rekord-cristiano-w-realu-madryt</link>
-        <pubDate>Thu, 04 Dec 2025 11:05:00 GMT</pubDate>
-        <description>Kylian, mając 55 goli w 55 meczach w 2025 roku, traci już tylko cztery trafienia do wyrównania dorobku 59 bramek z 2013 roku autorstwa CR7, piłkarza z największą liczbą goli w jednym roku kalendarzowym w historii klubu.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Najprawdopodobniej był to najpełniejszy mecz, jaki rozegraliśmy</title>
-        <link>https://www.realmadryt.pl/news/144643-xabi-alonso-najprawdopodobniej-byl-to-najpelniejszy-mecz-jaki-rozegralismy</link>
-        <pubDate>Thu, 04 Dec 2025 10:20:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się na konferencji prasowej po meczu La Ligi z Athletikiem. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na San Mamés.</description>
     </item>
     
 </channel>
