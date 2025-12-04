@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Dec 2025 10:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 11:26:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Athletikiem</title>
+        <link>https://www.realmadryt.pl/news/144660-oceny-zawodnikow-po-meczu-z-athletikiem</link>
+        <pubDate>Thu, 04 Dec 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał 3:0 z Athletikiem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>Xabi znalazł sposób: 4-4-2 w obronie i 3-5-2 w ataku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144655-pedrerol-raport-sedziowski-realu-jest-prawie-gotowy-i-na-dniach-zostanie-przekazany-fifa</link>
         <pubDate>Thu, 04 Dec 2025 02:57:00 GMT</pubDate>
         <description>Josep Pedrerol w swoim nocnym Chiringuito skomentował zapowiadany raport sędziowski Realu Madryt. Przedstawiamy wypowiedzi prowadzącego w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144653-dzisiejsze-okladki</link>
-        <pubDate>Thu, 04 Dec 2025 00:26:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i sytuacja Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
