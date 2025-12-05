@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Dec 2025 23:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 23:41:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144696-dzisiejsze-okladki</link>
+        <pubDate>Sat, 06 Dec 2025 00:26:00 GMT</pubDate>
+        <description>Losowanie grup mundialu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 15. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144681-huijsen-znow-zaczyna-od-nowa</link>
         <pubDate>Fri, 05 Dec 2025 14:10:00 GMT</pubDate>
         <description>Powrót Rüdigera i Édera Militão na boisko na nowo ustawił młodego stopera w hierarchii oraz przeorganizował układ sił w defensywie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Trent: Jestem naprawdę zdruzgotany</title>
-        <link>https://www.realmadryt.pl/news/144682-trent-jestem-naprawde-zdruzgotany</link>
-        <pubDate>Fri, 05 Dec 2025 13:18:00 GMT</pubDate>
-        <description>Angielski piłkarz zamieścił w mediach społecznościowych wpis, w którym zapowiedział powrót do gry w przyszłym roku.</description>
     </item>
     
 </channel>
