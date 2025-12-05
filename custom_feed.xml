@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 04 Dec 2025 23:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 02:09:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Laporta: Real Madryt wpadł w panikę, widząc odrodzenie Barçy</title>
+        <link>https://www.realmadryt.pl/news/144675-laporta-real-madryt-wpadl-w-panike-widzac-odrodzenie-barcy</link>
+        <pubDate>Fri, 05 Dec 2025 02:25:00 GMT</pubDate>
+        <description>Joan Laporta w czwartek był gościem wydawcy La Vanguardii w ramach specjalnych wykładów. Przedstawiamy wypowiedzi prezesa Barcelony powiązane z Realem Madryt. Przepraszamy za pewne opóźnienie z ich opublikowaniem, ale chcieliśmy przekazać ich pełną wersję, gdyż rozmowa z gospodarzami trwała ponad 1,5 godziny i tradycyjnie wiele źródeł pomija ogromne części wypowiedzi, które naszym zdaniem mają dużą wartość.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144660-oceny-zawodnikow-po-meczu-z-athletikiem</link>
         <pubDate>Thu, 04 Dec 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt wygrał 3:0 z Athletikiem. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Xabi znalazł sposób: 4-4-2 w obronie i 3-5-2 w ataku</title>
-        <link>https://www.realmadryt.pl/news/144659-xabi-znalazl-sposob-4-4-2-w-obronie-i-3-5-2-w-ataku</link>
-        <pubDate>Thu, 04 Dec 2025 11:55:00 GMT</pubDate>
-        <description>Trener znalazł idealną formułę dla swojego Realu Madryt w Bilbao, co może stać się punktem zwrotnym na resztę sezonu. Wyjściowe 4-4-2, które w ataku zmieniało się w 3-5-2, pozwoliło wydobyć maksimum z każdego zawodnika.</description>
     </item>
     
 </channel>
