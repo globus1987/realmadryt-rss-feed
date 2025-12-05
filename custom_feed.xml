@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 05 Dec 2025 12:56:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 13:37:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen znów zaczyna od nowa</title>
+        <link>https://www.realmadryt.pl/news/144681-huijsen-znow-zaczyna-od-nowa</link>
+        <pubDate>Fri, 05 Dec 2025 14:10:00 GMT</pubDate>
+        <description>Powrót Rüdigera i Édera Militão na boisko na nowo ustawił młodego stopera w hierarchii oraz przeorganizował układ sił w defensywie Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Trent: Jestem naprawdę zdruzgotany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144667-dzisiaj-odbedzie-sie-losowanie-grup-i-drabinki-mundialu</link>
         <pubDate>Fri, 05 Dec 2025 05:30:00 GMT</pubDate>
         <description>Dzisiaj odbędzie się losowanie grup i drabinki przyszłorocznego mundialu. Miejsce na turnieju ma już dziesięć z dwunastu reprezentacji, w których grają piłkarze Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Real Madryt wpadł w panikę, widząc odrodzenie Barçy</title>
-        <link>https://www.realmadryt.pl/news/144675-laporta-real-madryt-wpadl-w-panike-widzac-odrodzenie-barcy</link>
-        <pubDate>Fri, 05 Dec 2025 02:25:00 GMT</pubDate>
-        <description>Joan Laporta w czwartek był gościem wydawcy La Vanguardii w ramach specjalnych wykładów. Przedstawiamy wypowiedzi prezesa Barcelony powiązane z Realem Madryt. Przepraszamy za pewne opóźnienie z ich opublikowaniem, ale chcieliśmy przekazać ich pełną wersję, gdyż rozmowa z gospodarzami trwała ponad 1,5 godziny i tradycyjnie wiele źródeł pomija ogromne części wypowiedzi, które naszym zdaniem mają dużą wartość.</description>
     </item>
     
 </channel>
