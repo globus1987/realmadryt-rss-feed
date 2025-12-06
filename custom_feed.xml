@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Dec 2025 15:24:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 15:41:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koniec miłości</title>
+        <link>https://www.realmadryt.pl/news/144712-koniec-milosci</link>
+        <pubDate>Sat, 06 Dec 2025 16:33:00 GMT</pubDate>
+        <description>Florentino Pérez i Joan Laporta umiejętnie balansowali w swojej relacji. Teraz głównymi przeszkodami są Superliga i sprawa Negreiry, które wyznaczają różne drogi dla obu klubów.</description>
+    </item>
     
     <item>
         <title>MARCA: Dłuższa pauza Manu Serrano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144700-tebas-trudno-wymyslic-tyle-rzeczy-ile-wymysla-real-madryt</link>
         <pubDate>Sat, 06 Dec 2025 11:11:00 GMT</pubDate>
         <description>Prezes La Ligi tradycyjnie wystosował wpis atakujący Real Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 6 grudnia</title>
-        <link>https://www.realmadryt.pl/news/144693-kartka-z-kalendarza-6-grudnia</link>
-        <pubDate>Sat, 06 Dec 2025 09:30:00 GMT</pubDate>
-        <description>Pierwszy gol Sergio Ramosa w Realu Madryt, Isco i Asensio ciągnący wózek, sensacyjna porażka w Pucharze UEFA i wygrana na Camp Nou. Co działo się 6 grudnia?</description>
     </item>
     
 </channel>
