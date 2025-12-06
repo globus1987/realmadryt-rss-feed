@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Dec 2025 11:53:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 12:51:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Oby Vini dopełnił jutro dobre odczucia jakimś golem</title>
+        <link>https://www.realmadryt.pl/news/144705-xabi-alonso-oby-vini-dopelnil-jutro-dobre-odczucia-jakims-golem</link>
+        <pubDate>Sat, 06 Dec 2025 13:46:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
+    
+    <item>
+        <title>Camavinga trenował z grupą</title>
+        <link>https://www.realmadryt.pl/news/144704-camavinga-trenowal-z-grupa</link>
+        <pubDate>Sat, 06 Dec 2025 13:27:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli i jednocześnie zakończyli przygotowania do meczu z Athletikiem.</description>
+    </item>
     
     <item>
         <title>Trent dołącza do grona „pechowców”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144695-tuchel-na-mundialu-musimy-brac-pod-uwage-pozostawianie-zmiennikow-w-szatni</link>
         <pubDate>Sat, 06 Dec 2025 05:30:00 GMT</pubDate>
         <description>Thomas Tuchel wystosował komentarze z okazji losowania grup mundialu. Przedstawiamy wypowiedzi selekcjonera Anglii dla mediów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144696-dzisiejsze-okladki</link>
-        <pubDate>Sat, 06 Dec 2025 00:26:00 GMT</pubDate>
-        <description>Losowanie grup mundialu to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 15. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/144692-telewizyjny-terminarz-15-kolejki-la-ligi</link>
-        <pubDate>Fri, 05 Dec 2025 21:53:00 GMT</pubDate>
-        <description>Dziś rozpoczęła się 15. kolejka La Ligi. Real Madryt zagra w niedzielę u siebie z Celtą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
