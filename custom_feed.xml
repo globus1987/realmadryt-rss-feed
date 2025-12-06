@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Dec 2025 07:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 07:53:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>La Liga nie widzi problemu w przegranej sprawie sądowej z Realem Madryt</title>
+        <link>https://www.realmadryt.pl/news/144697-la-liga-nie-widzi-problemu-w-przegranej-sprawie-sadowej-z-realem-madryt</link>
+        <pubDate>Sat, 06 Dec 2025 08:40:00 GMT</pubDate>
+        <description>La Liga odpowiedziała na komunikat Realu Madryt dotyczący zwycięstwa w sprawie podziału pieniędzy z praw telewizyjnych. Do jej oświadczenia dodajemy komentarz jednego z prawników analizujących hiszpański futbol.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy popierasz działania Realu Madryt atakujące hiszpańskich sędziów?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144687-laporta-ja-nie-mowie-o-innych-klubach-ale-real-cierpi-na-barcelonitis</link>
         <pubDate>Fri, 05 Dec 2025 17:00:00 GMT</pubDate>
         <description>Joan Laporta przyjął dzisiaj dziennikarzy na corocznym spotkaniu świątecznym. Przedstawiamy wypowiedzi prezesa Barcelony, których udzielił Chiringuito.</description>
-    </item>
-    
-    <item>
-        <title>Rodri nie będzie gotowy na weekend i może opuścić mecz z Realem Madryt</title>
-        <link>https://www.realmadryt.pl/news/144685-rodri-nie-bedzie-gotowy-na-weekend-i-moze-opuscic-mecz-z-realem-madryt</link>
-        <pubDate>Fri, 05 Dec 2025 16:27:00 GMT</pubDate>
-        <description>Obywatele w ostatnim meczu przed przyjazdem do Madrytu podejmą w sobotę Sunderland. Poza kadrą kolejny raz zostanie przedostatni zdobywca Złotej Piłki.</description>
     </item>
     
 </channel>
