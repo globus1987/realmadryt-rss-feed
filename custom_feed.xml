@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 06 Dec 2025 23:24:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Dec 2025 23:41:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144720-dzisiejsze-okladki</link>
+        <pubDate>Sun, 07 Dec 2025 00:37:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Salah: Klub rzuca mnie na pożarcie, ktoś chce, żebym poniósł całą winę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144707-kadra-realu-madryt-na-celte-vigo</link>
         <pubDate>Sat, 06 Dec 2025 14:59:00 GMT</pubDate>
         <description>Xabi Alonso nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z Celtą Vigo. Bask powołał 22 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Oby Vini dopełnił jutro dobre odczucia jakimś golem</title>
-        <link>https://www.realmadryt.pl/news/144705-xabi-alonso-oby-vini-dopelnil-jutro-dobre-odczucia-jakims-golem</link>
-        <pubDate>Sat, 06 Dec 2025 13:46:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
