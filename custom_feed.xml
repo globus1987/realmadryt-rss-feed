@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Dec 2025 21:53:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 22:24:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Borja Iglesias MVP meczu na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/144747-borja-iglesias-mvp-meczu-na-bernabeu</link>
+        <pubDate>Sun, 07 Dec 2025 23:21:00 GMT</pubDate>
+        <description>Borja Iglesias został wyróżniony po meczu Realu Madryt z Celtą Vigo.</description>
+    </item>
+    
+    <item>
+        <title>Borja Iglesias: W futbolu czasami dzieją się rzeczy, których nie potrafisz wyjaśnić</title>
+        <link>https://www.realmadryt.pl/news/144746-borja-iglesias-w-futbolu-czasami-dzieja-sie-rzeczy-ktorych-nie-potrafisz-wyjasnic</link>
+        <pubDate>Sun, 07 Dec 2025 23:17:00 GMT</pubDate>
+        <description>Borja Iglesias udzielił wywiadu dla telewizji Movistar+ po wygranym 2:0 meczu z Realem Madryt. Przedstawiamy wypowiedzi napastnika Celty.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Celtą Vigo</title>
+        <link>https://www.realmadryt.pl/news/144743-ocen-pilkarzy-po-meczu-z-celta-vigo</link>
+        <pubDate>Sun, 07 Dec 2025 23:05:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
     
     <item>
         <title>Militão zszedł z boiska z kontuzją</title>
@@ -14,10 +35,10 @@
     </item>
     
     <item>
-        <title>Real Madryt – Celta [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/144742-real-madryt-celta-live</link>
+        <title>Bernabéu nie zasłoniło problemów</title>
+        <link>https://www.realmadryt.pl/news/144742-bernabeu-nie-zaslonilo-problemow</link>
         <pubDate>Sun, 07 Dec 2025 20:55:00 GMT</pubDate>
-        <description>Od 21:00 na Bernabéu trwa mecz 15. kolejki La Ligi, w którym Real Madryt podejmuje Celtę Vigo.</description>
+        <description>W meczu 15. kolejki La Ligi Real Madryt przegrał z Celtą Vigo 0:2.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/144735-sergio-ramos-potwierdza-odejscie-z-monterrey</link>
         <pubDate>Sun, 07 Dec 2025 14:50:00 GMT</pubDate>
         <description>Monterrey Sergio Ramosa odpadło w półfinale ligi Apertura, a po końcowym gwizdku były zawodnik Realu Madryt potwierdził, że opuszcza Meksyk.</description>
-    </item>
-    
-    <item>
-        <title>Jeden piłkarz zagrożony zawieszeniem za kartki w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/144734-jeden-pilkarz-zagrozony-zawieszeniem-za-kartki-w-la-lidze</link>
-        <pubDate>Sun, 07 Dec 2025 13:43:00 GMT</pubDate>
-        <description>Jeden piłkarz musi uważać na zawieszenie za kartki, a trzech kolejnych jest blisko tej granicy.</description>
-    </item>
-    
-    <item>
-        <title>Guti: Mbappé widzę bliżej poziomu Messiego i Cristiano niż Lamine'a</title>
-        <link>https://www.realmadryt.pl/news/144726-guti-mbappe-widze-blizej-poziomu-messiego-i-cristiano-niz-laminea</link>
-        <pubDate>Sun, 07 Dec 2025 13:19:00 GMT</pubDate>
-        <description>Guti udzielił wywiadu dziennikowi AS, aby dokładnie przeanalizować wszystkie bieżące tematy związane z Realem Madryt. Poniżej przedstawiamy zapis tej rozmowy z byłym hiszpańskim pomocnikiem.</description>
-    </item>
-    
-    <item>
-        <title>AS: Przyszłość Rüdigera pozostaje niewiadomą i każdy scenariusz jest możliwy</title>
-        <link>https://www.realmadryt.pl/news/144733-as-przyszlosc-ruedigera-pozostaje-niewiadoma-i-kazdy-scenariusz-jest-mozliwy</link>
-        <pubDate>Sun, 07 Dec 2025 13:13:00 GMT</pubDate>
-        <description>Umowa Antonio Rüdigera wygasa 30 czerwca 2026 roku i jego przyszłość na Santiago Bernabéu pozostaje na ten moment wielką niewiadomą.</description>
     </item>
     
 </channel>
