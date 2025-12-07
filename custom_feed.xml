@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Dec 2025 06:55:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 07:25:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kolejny trudny wyjazd</title>
+        <link>https://www.realmadryt.pl/news/144701-kolejny-trudny-wyjazd</link>
+        <pubDate>Sun, 07 Dec 2025 08:00:00 GMT</pubDate>
+        <description>W 9. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Tenerife. To kolejny etap bardzo wymagającego terminarza. Niektórzy zawodnicy tacy jak Campazzo czy Deck przelecieli w ciągu ostatnich 10 dni ponad 31 tysięcy kilometrów.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Początek meczów mundialu od 18:00 do 6:00 czasu polskiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144712-koniec-milosci</link>
         <pubDate>Sat, 06 Dec 2025 16:33:00 GMT</pubDate>
         <description>Florentino Pérez i Joan Laporta umiejętnie balansowali w swojej relacji. Teraz głównymi przeszkodami są Superliga i sprawa Negreiry, które wyznaczają różne drogi dla obu klubów.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Dłuższa pauza Manu Serrano</title>
-        <link>https://www.realmadryt.pl/news/144711-marca-dluzsza-pauza-manu-serrano</link>
-        <pubDate>Sat, 06 Dec 2025 15:38:00 GMT</pubDate>
-        <description>Obrońca doznał kontuzji w meczu z Evertonem i będzie niezdolny do gry przez około dwa miesiące.</description>
     </item>
     
 </channel>
