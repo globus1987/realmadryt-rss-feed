@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Dec 2025 11:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 11:39:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla zagra z Zamorą</title>
+        <link>https://www.realmadryt.pl/news/144732-castilla-zagra-z-zamora</link>
+        <pubDate>Sun, 07 Dec 2025 12:31:00 GMT</pubDate>
+        <description>Castilla ma dzisiaj szansę, by zrównać się punktami z wiceliderem. Bilans bramkowy sprawia, że trudno będzie wskoczyć na drugie miejsce, ale to w tym momencie nie jest kluczowe. Trzy punkty sprawiłyby, że sytuacja w tabeli będzie znakomita.</description>
+    </item>
     
     <item>
         <title>Koniec tułaczki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144724-real-madryt-celta-vigo-przewidywane-sklady</link>
         <pubDate>Sun, 07 Dec 2025 07:00:00 GMT</pubDate>
         <description>Królewscy rozgrywają ważny mecz ligowy na trzy dni przed podjęciem Manchesteru City w Lidze Mistrzów. Madryckie media są wyjątkowo zgodne co do jedenastki na dzisiejsze spotkanie.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Najważniejsze, by stworzyć stałe rozwiązania w grze i by one się nie rozpływały</title>
-        <link>https://www.realmadryt.pl/news/144709-xabi-alonso-najwazniejsze-by-stworzyc-stale-rozwiazania-w-grze-i-by-one-sie-nie-rozplywaly</link>
-        <pubDate>Sun, 07 Dec 2025 05:30:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
