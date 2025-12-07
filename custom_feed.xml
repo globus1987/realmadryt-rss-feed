@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Dec 2025 10:55:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 11:20:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Koniec tułaczki</title>
+        <link>https://www.realmadryt.pl/news/144731-koniec-tulaczki</link>
+        <pubDate>Sun, 07 Dec 2025 12:00:00 GMT</pubDate>
+        <description>Zapowiedź meczu z Celtą Vigo.</description>
+    </item>
     
     <item>
         <title>Mbappé już jest postrachem Celty</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144709-xabi-alonso-najwazniejsze-by-stworzyc-stale-rozwiazania-w-grze-i-by-one-sie-nie-rozplywaly</link>
         <pubDate>Sun, 07 Dec 2025 05:30:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144720-dzisiejsze-okladki</link>
-        <pubDate>Sun, 07 Dec 2025 00:37:00 GMT</pubDate>
-        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
