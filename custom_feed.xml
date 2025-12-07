@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 07 Dec 2025 19:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Dec 2025 20:28:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Celta [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/144742-real-madryt-celta-live</link>
+        <pubDate>Sun, 07 Dec 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 na Bernabéu trwa mecz 15. kolejki La Ligi, w którym Real Madryt podejmuje Celtę Vigo.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Celtą Vigo [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144725-starfelt-mbappe-nie-jest-nie-do-zatrzymania</link>
         <pubDate>Sun, 07 Dec 2025 12:57:00 GMT</pubDate>
         <description>Obrońca Celty Vigo, Carl Starfelt, udzielił wywiadu dla dziennika AS w przeddzień starcia z Realem Madryt. Poniżej przedstawiamy zapis tej rozmowy ze szwedzkim zawodnikiem.</description>
-    </item>
-    
-    <item>
-        <title>Castilla zagra z Zamorą</title>
-        <link>https://www.realmadryt.pl/news/144732-castilla-zagra-z-zamora</link>
-        <pubDate>Sun, 07 Dec 2025 12:31:00 GMT</pubDate>
-        <description>Castilla ma dzisiaj szansę, by zrównać się punktami z wiceliderem. Bilans bramkowy sprawia, że trudno będzie wskoczyć na drugie miejsce, ale to w tym momencie nie jest kluczowe. Trzy punkty sprawiłyby, że sytuacja w tabeli będzie znakomita.</description>
     </item>
     
 </channel>
