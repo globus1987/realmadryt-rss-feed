@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Dec 2025 12:59:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 13:42:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x18: Kto jest winny, że nie biegają?</title>
+        <link>https://www.realmadryt.pl/news/144762-podcast-7x18-kto-jest-winny-ze-nie-biegaja</link>
+        <pubDate>Mon, 08 Dec 2025 14:40:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po porażce z Celtą Vigo.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Militão kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/144760-oficjalnie-militao-kontuzjowany</link>
+        <pubDate>Mon, 08 Dec 2025 14:16:00 GMT</pubDate>
+        <description>Real Madryt wydał oficjalny komunikat ws. stanu zdrowia Brazylijczyka, który wpada na najbliższe miesiące.</description>
+    </item>
+    
+    <item>
+        <title>Xabi i Real, czyli kiedy projekt upada przez szatnię</title>
+        <link>https://www.realmadryt.pl/news/144759-xabi-i-real-czyli-kiedy-projekt-upada-przez-szatnie</link>
+        <pubDate>Mon, 08 Dec 2025 14:09:00 GMT</pubDate>
+        <description>Juan Ignacio García-Ochoa z dziennika MARCA stwierdza, że problem Realu Madryt Xabiego Alonso nie wynika z aspektów czysto piłkarskich. Lub wynika nie tylko z nich. Przedstawiamy tekst dziennikarza na temat upadku Królewskich w ostatnich tygodniach.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Mecze z City to prawdziwe klasyki Ligi Mistrzów</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/144750-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce-z-celta</link>
         <pubDate>Mon, 08 Dec 2025 01:17:00 GMT</pubDate>
         <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po przegranym 0:2 meczu z Celtą. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144751-dzisiejsze-okladki</link>
-        <pubDate>Mon, 08 Dec 2025 00:59:00 GMT</pubDate>
-        <description>Porażka Realu Madryt to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Czy rozumiem, że kibice mówią o zwolnieniu? Musimy patrzeć przed siebie</title>
-        <link>https://www.realmadryt.pl/news/144745-xabi-alonso-czy-rozumiem-ze-kibice-mowia-o-zwolnieniu-musimy-patrzec-przed-siebie</link>
-        <pubDate>Mon, 08 Dec 2025 00:10:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej po meczu z Celtą Vigo w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 0:2 Celta [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/144748-real-madryt-0-2-celta-video</link>
-        <pubDate>Sun, 07 Dec 2025 23:26:00 GMT</pubDate>
-        <description>W meczu 15. kolejki La Ligi Real Madryt przegrał u siebie z Celtą Vigo 0:2. Oba gole dla gości zdobył wprowadzony z ławki rezerwowych Williot Swedberg.</description>
     </item>
     
 </channel>
