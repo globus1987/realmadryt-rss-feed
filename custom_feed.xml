@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Dec 2025 09:57:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 10:34:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Clément Turpin na City</title>
+        <link>https://www.realmadryt.pl/news/144756-clement-turpin-na-city</link>
+        <pubDate>Mon, 08 Dec 2025 11:34:00 GMT</pubDate>
+        <description>UEFA wybrała francuskich sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Clément Turpin, a za wideoweryfikację odpowiadać będzie Jérôme Brisard.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 8 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144746-borja-iglesias-w-futbolu-czasami-dzieja-sie-rzeczy-ktorych-nie-potrafisz-wyjasnic</link>
         <pubDate>Sun, 07 Dec 2025 23:17:00 GMT</pubDate>
         <description>Borja Iglesias udzielił wywiadu dla telewizji Movistar+ po wygranym 2:0 meczu z Realem Madryt. Przedstawiamy wypowiedzi napastnika Celty.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Celtą Vigo</title>
-        <link>https://www.realmadryt.pl/news/144743-ocen-pilkarzy-po-meczu-z-celta-vigo</link>
-        <pubDate>Sun, 07 Dec 2025 23:05:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
     </item>
     
 </channel>
