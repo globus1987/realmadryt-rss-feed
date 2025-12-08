@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Dec 2025 22:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 23:25:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś losowanie 1/16 finału Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/144769-dzis-losowanie-1-16-finalu-pucharu-krola</link>
+        <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+        <description>Dzisiaj o godzinie 13:00 rozpocznie się ceremonia losowania par 1/16 finału Copa del Rey.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144775-dzisiejsze-okladki</link>
+        <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+        <description>Przyszłość Xabiego Alonso i mecz Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo do sędziego: „Musisz okazać szacunek! Spójrz, gdzie jesteś!” [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144760-oficjalnie-militao-kontuzjowany</link>
         <pubDate>Mon, 08 Dec 2025 14:16:00 GMT</pubDate>
         <description>Real Madryt wydał oficjalny komunikat ws. stanu zdrowia Brazylijczyka, który wpada na najbliższe miesiące.</description>
-    </item>
-    
-    <item>
-        <title>Xabi i Real, czyli kiedy projekt upada przez szatnię</title>
-        <link>https://www.realmadryt.pl/news/144759-xabi-i-real-czyli-kiedy-projekt-upada-przez-szatnie</link>
-        <pubDate>Mon, 08 Dec 2025 14:09:00 GMT</pubDate>
-        <description>Juan Ignacio García-Ochoa z dziennika MARCA stwierdza, że problem Realu Madryt Xabiego Alonso nie wynika z aspektów czysto piłkarskich. Lub wynika nie tylko z nich. Przedstawiamy tekst dziennikarza na temat upadku Królewskich w ostatnich tygodniach.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo: Mecze z City to prawdziwe klasyki Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/144758-rodrygo-mecze-z-city-to-prawdziwe-klasyki-ligi-mistrzow</link>
-        <pubDate>Mon, 08 Dec 2025 12:36:00 GMT</pubDate>
-        <description>Rodrygo Goes udzielił wywiadu dla oficjalnych mediów UEFA, w którym wspomniał spotkania z Manchesterem City z ubiegłych sezonów. Przedstawiamy wypowiedzi Brazylijczyka.</description>
     </item>
     
 </channel>
