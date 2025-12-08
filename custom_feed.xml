@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Dec 2025 05:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 06:45:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Kto ponosi największą winę za porażkę z Celtą Vigo?</title>
+        <link>https://www.realmadryt.pl/news/144752-glos-kibica-kto-ponosi-najwieksza-wine-za-porazke-z-celta-vigo</link>
+        <pubDate>Mon, 08 Dec 2025 07:45:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Courtois: Nie ma czasu na użalanie się, ale jest czas na wyciągnięcie wniosków</title>
+        <link>https://www.realmadryt.pl/news/144755-courtois-nie-ma-czasu-na-uzalanie-sie-ale-jest-czas-na-wyciagniecie-wnioskow</link>
+        <pubDate>Mon, 08 Dec 2025 07:00:00 GMT</pubDate>
+        <description>Wpis Belga to pierwszy jakikolwiek komentarz z drużyny po niedzielnej porażce.</description>
+    </item>
     
     <item>
         <title>Carvajal do sędziego: Prezentujecie taki poziom i potem płaczecie na konferencji</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144742-bernabeu-nie-zaslonilo-problemow</link>
         <pubDate>Sun, 07 Dec 2025 20:55:00 GMT</pubDate>
         <description>W meczu 15. kolejki La Ligi Real Madryt przegrał u siebie z Celtą Vigo 0:2. Oba gole dla gości zdobył wprowadzony z ławki rezerwowych Williot Swedberg.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Celtą Vigo [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/144741-rozgrzewka-przed-celta-vigo-na-zywo</link>
-        <pubDate>Sun, 07 Dec 2025 20:15:00 GMT</pubDate>
-        <description>Królewscy wybiegli już na murawę i rozpoczęli rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Celtą Vigo. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Celta Vigo: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/144738-real-madryt-celta-vigo-znamy-sklady</link>
-        <pubDate>Sun, 07 Dec 2025 19:40:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym spotkaniu w tym sezonie. Mecz rozpocznie się o godzinie 21:00 na Bernabéu.</description>
     </item>
     
 </channel>
