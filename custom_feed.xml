@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 08 Dec 2025 13:57:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 14:32:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Mbappé ma złamany palec</title>
+        <link>https://www.realmadryt.pl/news/144764-cope-mbappe-ma-zlamany-palec</link>
+        <pubDate>Mon, 08 Dec 2025 15:11:00 GMT</pubDate>
+        <description>We wczorajszym meczu Kylian Mbappé doznał kontuzji… palca.</description>
+    </item>
+    
+    <item>
+        <title>Sesja regeneracyjna w Valdebebas</title>
+        <link>https://www.realmadryt.pl/news/144763-sesja-regeneracyjna-w-valdebebas</link>
+        <pubDate>Mon, 08 Dec 2025 14:57:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli zakończyli przygotowania do meczu z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Podcast 7x18: Kto jest winny, że nie biegają?</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144755-courtois-nie-ma-czasu-na-uzalanie-sie-ale-jest-czas-na-wyciagniecie-wnioskow</link>
         <pubDate>Mon, 08 Dec 2025 07:00:00 GMT</pubDate>
         <description>Wpis Belga to pierwszy jakikolwiek komentarz z drużyny po niedzielnej porażce.</description>
-    </item>
-    
-    <item>
-        <title>Carvajal do sędziego: Prezentujecie taki poziom i potem płaczecie na konferencji</title>
-        <link>https://www.realmadryt.pl/news/144753-carvajal-do-sedziego-prezentujecie-taki-poziom-i-potem-placzecie-na-konferencji</link>
-        <pubDate>Mon, 08 Dec 2025 05:00:00 GMT</pubDate>
-        <description>W nocy Federacja zamieściła ostateczny protokół sędziowski z niedzielnego meczu Królewskich. Przedstawiamy uzasadnienie wszystkich kar, jakie zostały wystosowane przez arbitra.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce z Celtą</title>
-        <link>https://www.realmadryt.pl/news/144750-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce-z-celta</link>
-        <pubDate>Mon, 08 Dec 2025 01:17:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po przegranym 0:2 meczu z Celtą. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
     </item>
     
 </channel>
