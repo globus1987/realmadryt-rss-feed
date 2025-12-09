@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Dec 2025 10:55:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 11:26:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarki grają dziś z Wolfsburgiem w Lidze Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/144788-pilkarki-graja-dzis-z-wolfsburgiem-w-lidze-mistrzyn</link>
+        <pubDate>Tue, 09 Dec 2025 12:11:00 GMT</pubDate>
+        <description>W meczu 5. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Wolfsburgiem. Początek spotkania o godzinie 21:00.</description>
+    </item>
+    
+    <item>
+        <title>Media: Mbappé ma problemy mięśniowe, jego występ z City pod znakiem zapytania</title>
+        <link>https://www.realmadryt.pl/news/144787-media-mbappe-ma-problemy-miesniowe-jego-wystep-z-city-pod-znakiem-zapytania</link>
+        <pubDate>Tue, 09 Dec 2025 11:56:00 GMT</pubDate>
+        <description>Francuz nie wyszedł na ostatni trening przed meczem z City. Media podają, że będzie trudno o jego występ w tym spotkaniu.</description>
+    </item>
     
     <item>
         <title>KWADRANS TRENINGU: Camavinga i Mbappé nie pracują z drużyną [NA ŻYWO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144777-glos-kibica-czy-sprowadzilbys-sergio-ramosa-na-last-dance</link>
         <pubDate>Tue, 09 Dec 2025 07:50:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/144774-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 09 Dec 2025 06:00:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 15. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Pedrerol: Ani Zidane, ani Klopp, cel Realu to utrzymanie Xabiego Alonso</title>
-        <link>https://www.realmadryt.pl/news/144778-pedrerol-ani-zidane-ani-klopp-cel-realu-to-utrzymanie-xabiego-alonso</link>
-        <pubDate>Tue, 09 Dec 2025 05:30:00 GMT</pubDate>
-        <description>Josep Pedrerol w swoim nocnym Chiringuito skomentował sytuację trenera Xabiego Alonso. Przedstawiamy wypowiedzi prowadzącego w tej sprawie.</description>
     </item>
     
 </channel>
