@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Dec 2025 04:50:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 05:27:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/144774-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 09 Dec 2025 06:00:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 15. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Pedrerol: Ani Zidane, ani Klopp, cel Realu to utrzymanie Xabiego Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144765-footy-headlines-real-na-sezon-2026-27-otrzyma-stroj-zaprojektowany-przez-y-3</link>
         <pubDate>Mon, 08 Dec 2025 15:49:00 GMT</pubDate>
         <description>W kolejnej kampanii Królewscy mają znów zagrać w specjalnym komplecie od japońskiego projektanta Yohjiego Yamamoto.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Mbappé ma złamany palec</title>
-        <link>https://www.realmadryt.pl/news/144764-cope-mbappe-ma-zlamany-palec</link>
-        <pubDate>Mon, 08 Dec 2025 15:11:00 GMT</pubDate>
-        <description>We wczorajszym meczu Kylian Mbappé doznał kontuzji… palca.</description>
     </item>
     
 </channel>
