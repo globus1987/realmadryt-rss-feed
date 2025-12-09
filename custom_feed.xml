@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Dec 2025 22:56:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Dec 2025 23:26:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144806-dzisiejsze-okladki</link>
+        <pubDate>Wed, 10 Dec 2025 00:18:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Manchesterem City i wygrana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Królewskie wygrywają z Wolfsburgiem w Lidze Mistrzyń! [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144788-pilkarki-graja-dzis-z-wolfsburgiem-w-lidze-mistrzyn</link>
         <pubDate>Tue, 09 Dec 2025 12:11:00 GMT</pubDate>
         <description>W meczu 5. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Wolfsburgiem. Początek spotkania o godzinie 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Media: Mbappé ma problemy mięśniowe, jego występ z City pod znakiem zapytania</title>
-        <link>https://www.realmadryt.pl/news/144787-media-mbappe-ma-problemy-miesniowe-jego-wystep-z-city-pod-znakiem-zapytania</link>
-        <pubDate>Tue, 09 Dec 2025 11:56:00 GMT</pubDate>
-        <description>Francuz nie wyszedł na ostatni trening przed meczem z City. Media podają, że będzie trudno o jego występ w tym spotkaniu.</description>
     </item>
     
 </channel>
