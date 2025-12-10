@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 08:37:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 09:02:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144804-kartka-z-kalendarza-10-grudnia</link>
+        <pubDate>Wed, 10 Dec 2025 10:00:00 GMT</pubDate>
+        <description>Mecz z Polakami w siatkówkę, urodziny byłego napastnika i dwa emocjonujące mecze u siebie. Co działo się 10 grudnia?</description>
+    </item>
     
     <item>
         <title>Chiringuito: Słowa Guardioli o sikaniu dotyczyły Xabiego… i jego niechęci do Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144801-guardiola-wiadomosc-dla-xabiego-niech-sika-swoim</link>
         <pubDate>Tue, 09 Dec 2025 21:06:00 GMT</pubDate>
         <description>Pep Guardiola pojawił się na konferencji prasowej przed środowym meczem z Realem Madryt. Przedstawiamy zapis tego spotkania trenera Manchesteru City z tego spotkania z dziennikarzami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Wtorkowe mecze Ligi Mistrzów: Wygrane Bayernu i Barçy oraz Liverpoolu nad Interem</title>
-        <link>https://www.realmadryt.pl/news/144795-wtorkowe-mecze-ligi-mistrzow-wygrane-bayernu-i-barcy-oraz-liverpoolu-nad-interem</link>
-        <pubDate>Tue, 09 Dec 2025 18:30:00 GMT</pubDate>
-        <description>Szóstą serię spotkań otworzył dzień z teoretycznie jednym hitem oraz występami dwóch innych gigantów. Królewscy na razie zostają w czołówce.</description>
     </item>
     
 </channel>
