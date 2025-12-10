@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 09 Dec 2025 23:54:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 02:09:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Manchester City: Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/144808-real-madryt-manchester-city-przewidywane-sklady</link>
+        <pubDate>Wed, 10 Dec 2025 02:01:00 GMT</pubDate>
+        <description>Królewscy rozpoczynają środę w oczekiwaniu na wynik testu sprawnościowego Kyliana Mbappé. Wtorek kończyli ze złymi odczuciami w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -63,8 +70,8 @@
     </item>
     
     <item>
-        <title>L’Équipe: Mbappé ma problem z kolanem, jutro ostateczna decyzja</title>
-        <link>https://www.realmadryt.pl/news/144793-l-equipe-mbappe-ma-problem-z-kolanem-jutro-ostateczna-decyzja</link>
+        <title>L’Équipe: Mbappé ma problem z kolanem, w środę ostateczna decyzja</title>
+        <link>https://www.realmadryt.pl/news/144793-l-equipe-mbappe-ma-problem-z-kolanem-w-srode-ostateczna-decyzja</link>
         <pubDate>Tue, 09 Dec 2025 16:49:00 GMT</pubDate>
         <description>Francuz ma odczuwać spory ból i chociaż jutro przejdzie ostatni test sprawnościowy, to jego występ stoi pod ogromnym znakiem zapytania.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144789-osmiu-pilkarzy-nie-trenowalo-z-druzyna</link>
         <pubDate>Tue, 09 Dec 2025 13:13:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki grają dziś z Wolfsburgiem w Lidze Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/144788-pilkarki-graja-dzis-z-wolfsburgiem-w-lidze-mistrzyn</link>
-        <pubDate>Tue, 09 Dec 2025 12:11:00 GMT</pubDate>
-        <description>W meczu 5. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt zagrają na Estadio Alfredo Di Stéfano z Wolfsburgiem. Początek spotkania o godzinie 21:00.</description>
     </item>
     
 </channel>
