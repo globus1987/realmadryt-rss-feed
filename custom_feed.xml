@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 19:42:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 19:55:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Manchester City [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/144823-real-madryt-manchester-city-live</link>
+        <pubDate>Wed, 10 Dec 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 na Bernabéu trwa mecz pomiędzy Realem Madryt a Manchesterem City w ramach 6. kolejki fazy ligowej Champions League.</description>
+    </item>
     
     <item>
         <title>Vinícius: Wszyscy jesteśmy z trenerem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144815-mijatovic-nie-potrzeba-kolejnej-supergwiazdy-trzeba-tylko-karmic-bestie-ktora-jest-mbappe</link>
         <pubDate>Wed, 10 Dec 2025 13:40:00 GMT</pubDate>
         <description>Predrag Mijatović, który obecnie jest wiceprezesem Partizana, udzielił wywiadu dziennikowi MARCA. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Jeden piłkarz zagrożony zawieszeniem</title>
-        <link>https://www.realmadryt.pl/news/144816-jeden-pilkarz-zagrozony-zawieszeniem</link>
-        <pubDate>Wed, 10 Dec 2025 13:02:00 GMT</pubDate>
-        <description>Tylko jeden zawodnik Realu Madryt może przegapić kolejne spotkanie fazy ligowej Ligi Mistrzów, jeśli w dzisiejszym starciu z Manchesterem City obejrzy żółtą kartkę.</description>
     </item>
     
 </channel>
