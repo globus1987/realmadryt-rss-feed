@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 23:24:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 23:41:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144835-dzisiejsze-okladki</link>
+        <pubDate>Thu, 11 Dec 2025 00:37:00 GMT</pubDate>
+        <description>Porażka Realu Madryt to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Raúl Asencio: Być może zasłużyliśmy na coś więcej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144822-oficjalnie-carvajal-endrick-i-carreras-zawieszeni-na-dwa-mecze</link>
         <pubDate>Wed, 10 Dec 2025 19:46:00 GMT</pubDate>
         <description>Nie zagrają z Deportivo Alavés i Sevillą.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Manchester City: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/144821-real-madryt-manchester-city-znamy-sklady</link>
-        <pubDate>Wed, 10 Dec 2025 19:39:00 GMT</pubDate>
-        <description>Xabi Alonso odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Bernabéu.</description>
     </item>
     
 </channel>
