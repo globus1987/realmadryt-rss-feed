@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 09:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 09:35:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Na ratunek projektu</title>
+        <link>https://www.realmadryt.pl/news/144799-na-ratunek-projektu</link>
+        <pubDate>Wed, 10 Dec 2025 10:30:00 GMT</pubDate>
+        <description>Znów te same herby, tylko okoliczności inne.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 10 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144802-real-nie-opublikowal-kadry-na-mecz-z-city</link>
         <pubDate>Tue, 09 Dec 2025 21:28:00 GMT</pubDate>
         <description>Listę powołanych poznamy najpewniej dopiero w dniu spotkania. Wątpliwości dotyczą jednego kluczowego piłkarza.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Wiadomość dla Xabiego? Niech sika swoim</title>
-        <link>https://www.realmadryt.pl/news/144801-guardiola-wiadomosc-dla-xabiego-niech-sika-swoim</link>
-        <pubDate>Tue, 09 Dec 2025 21:06:00 GMT</pubDate>
-        <description>Pep Guardiola pojawił się na konferencji prasowej przed środowym meczem z Realem Madryt. Przedstawiamy zapis tego spotkania trenera Manchesteru City z tego spotkania z dziennikarzami na Bernabéu.</description>
     </item>
     
 </channel>
