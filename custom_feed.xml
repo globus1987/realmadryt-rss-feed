@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 19:26:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 19:42:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius: Wszyscy jesteśmy z trenerem</title>
+        <link>https://www.realmadryt.pl/news/144825-vinicius-wszyscy-jestesmy-z-trenerem</link>
+        <pubDate>Wed, 10 Dec 2025 20:35:00 GMT</pubDate>
+        <description>Vinícius Júnior na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi zawodnika Realu Madryt na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Mbappé nie miał dobrych odczuć i jeśli wejdzie, to istnieje ryzyko</title>
         <link>https://www.realmadryt.pl/news/144824-xabi-alonso-mbappe-nie-mial-dobrych-odczuc-i-jesli-wejdzie-to-istnieje-ryzyko</link>
         <pubDate>Wed, 10 Dec 2025 20:25:00 GMT</pubDate>
-        <description>Xabi Alonso na godzinę przed meczem Ligi Mistrzów z Manchesterem  udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Bernabéu.</description>
+        <description>Xabi Alonso na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Bernabéu.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144816-jeden-pilkarz-zagrozony-zawieszeniem</link>
         <pubDate>Wed, 10 Dec 2025 13:02:00 GMT</pubDate>
         <description>Tylko jeden zawodnik Realu Madryt może przegapić kolejne spotkanie fazy ligowej Ligi Mistrzów, jeśli w dzisiejszym starciu z Manchesterem City obejrzy żółtą kartkę.</description>
-    </item>
-    
-    <item>
-        <title>222 zł za gola Realu z City!</title>
-        <link>https://www.realmadryt.pl/news/144812-222-zl-za-gola-realu-z-city</link>
-        <pubDate>Wed, 10 Dec 2025 12:30:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
     </item>
     
 </channel>
