@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 10:33:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 10:57:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bale: W Madrycie wcale nie grałem aż tak dużo w golfa, ale ludzie wierzą w to, co czytają</title>
+        <link>https://www.realmadryt.pl/news/144811-bale-w-madrycie-wcale-nie-gralem-az-tak-duzo-w-golfa-ale-ludzie-wierza-w-to-co-czytaja</link>
+        <pubDate>Wed, 10 Dec 2025 11:50:00 GMT</pubDate>
+        <description>Gareth Bale udzielił wywiadu brytyjskiemu magazynowi GQ. Przedstawiamy pełne tłumaczenie tej rozmowy.</description>
+    </item>
     
     <item>
         <title>Silva: Spodziewam się wielkiego Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144808-real-madryt-manchester-city-przewidywane-sklady</link>
         <pubDate>Wed, 10 Dec 2025 02:01:00 GMT</pubDate>
         <description>Królewscy rozpoczynają środę w oczekiwaniu na wynik testu sprawnościowego Kyliana Mbappé. Wtorek kończyli ze złymi odczuciami w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/144806-dzisiejsze-okladki</link>
-        <pubDate>Wed, 10 Dec 2025 00:18:00 GMT</pubDate>
-        <description>Mecz Realu Madryt z Manchesterem City i wygrana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
