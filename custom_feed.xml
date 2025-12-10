@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 09:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 10:33:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Silva: Spodziewam się wielkiego Realu</title>
+        <link>https://www.realmadryt.pl/news/144800-silva-spodziewam-sie-wielkiego-realu</link>
+        <pubDate>Wed, 10 Dec 2025 11:15:00 GMT</pubDate>
+        <description>Bernardo Silva wziął udział w konferencji prasowej przed meczem 6. kolejki fazy ligowej Ligi Mistrzów z Realem Madryt. Przedstawiamy wypowiedzi zawodnika Manchesteru City z tego spotkania z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Endrick może zagrać przeciwko Manchesterowi City?</title>
@@ -31,7 +38,7 @@
         <title>Chiringuito: Słowa Guardioli o sikaniu dotyczyły Xabiego… i jego niechęci do Viníciusa</title>
         <link>https://www.realmadryt.pl/news/144809-chiringuito-slowa-guardioli-o-sikaniu-dotyczyly-xabiego-i-jego-niecheci-do-viniciusa</link>
         <pubDate>Wed, 10 Dec 2025 09:10:00 GMT</pubDate>
-        <description>Słowa trenera Manchesteru City wzbudziły duże emocje w Hiszpanii. W Chiringuito przekazano, ze mogły mieć bardzo konkretny podtekst.</description>
+        <description>Słowa trenera Manchesteru City wzbudziły duże emocje w Hiszpanii. W Chiringuito przekazano, że mogły mieć bardzo konkretny podtekst.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144806-dzisiejsze-okladki</link>
         <pubDate>Wed, 10 Dec 2025 00:18:00 GMT</pubDate>
         <description>Mecz Realu Madryt z Manchesterem City i wygrana Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Królewskie wygrywają z Wolfsburgiem w Lidze Mistrzyń! [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/144805-krolewskie-wygrywaja-z-wolfsburgiem-w-lidze-mistrzyn-video</link>
-        <pubDate>Tue, 09 Dec 2025 23:34:00 GMT</pubDate>
-        <description>W meczu 5. kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt pokonały na Estadio Alfredo Di Stéfano VfL Wolfsburg 2:0. Bramki dla Królewskich zdobyły María Méndez i Linda Caicedo.</description>
     </item>
     
 </channel>
