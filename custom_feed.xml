@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 10 Dec 2025 13:49:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 14:30:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Proces nad projektem Xabiego Alonso</title>
+        <link>https://www.realmadryt.pl/news/144814-proces-nad-projektem-xabiego-alonso</link>
+        <pubDate>Wed, 10 Dec 2025 15:00:00 GMT</pubDate>
+        <description>City Guardioli będzie miarą dla baskijskiego trenera, który stoi na krawędzi utraty stanowiska. Liczne problemy mięśniowe budzą niepokój w klubie, który odsunął specjalistę od przygotowania fizycznego od pierwszej drużyny, by zrobić miejsce sztabowi Alonso.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Manchester City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144809-chiringuito-slowa-guardioli-o-sikaniu-dotyczyly-xabiego-i-jego-niecheci-do-viniciusa</link>
         <pubDate>Wed, 10 Dec 2025 09:10:00 GMT</pubDate>
         <description>Słowa trenera Manchesteru City wzbudziły duże emocje w Hiszpanii. W Chiringuito przekazano, że mogły mieć bardzo konkretny podtekst.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 1/16 finału Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/144810-terminarz-1-16-finalu-pucharu-krola</link>
-        <pubDate>Wed, 10 Dec 2025 08:42:00 GMT</pubDate>
-        <description>Hiszpańska Federacja Piłkarska potwierdziła terminy meczów 1/16 finału Pucharu Króla. Real Madryt zmierzy się w tej rundzie z trzecioligową Talaverą.</description>
     </item>
     
 </channel>
