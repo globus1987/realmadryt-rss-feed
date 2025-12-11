@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 10:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 11:27:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Tydzień z dwoma meczami u siebie jest wyjątkowy</title>
+        <link>https://www.realmadryt.pl/news/144833-scariolo-tydzien-z-dwoma-meczami-u-siebie-jest-wyjatkowy</link>
+        <pubDate>Thu, 11 Dec 2025 12:10:00 GMT</pubDate>
+        <description>Sergio Scariolo wypowiadał się przed spotkaniem z Baskonią w Eurolidze. Przypomniał pierwsze spotkanie z tym rywalem w tym sezonie, kiedy w Lidze Endesa Królewscy roztrwonili dużą przewagę i przegrali.</description>
+    </item>
     
     <item>
         <title>Trzy mecze przed ostatecznym egzaminem dla Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144838-courtois-gol-na-1-1-to-troche-moj-blad</link>
         <pubDate>Thu, 11 Dec 2025 07:00:00 GMT</pubDate>
         <description>Thibaut Courtois po meczu Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Czasami gra pozwala ci znaleźć gola, a czasem gol pozwala ci znaleźć grę</title>
-        <link>https://www.realmadryt.pl/news/144837-guardiola-czasami-gra-pozwala-ci-znalezc-gola-a-czasem-gol-pozwala-ci-znalezc-gre</link>
-        <pubDate>Thu, 11 Dec 2025 05:30:00 GMT</pubDate>
-        <description>Pep Guardiola po meczu z Realem Madryt udzielił wywiadów Movistar+, CBS i TNT. Przedstawiamy najważniejsze wypowiedzi trenera Manchesteru City z tych rozmów.</description>
     </item>
     
 </channel>
