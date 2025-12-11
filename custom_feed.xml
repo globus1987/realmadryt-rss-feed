@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 11:57:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 13:03:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Manchesterem City</title>
+        <link>https://www.realmadryt.pl/news/144848-oceny-zawodnikow-po-meczu-z-manchesterem-city</link>
+        <pubDate>Thu, 11 Dec 2025 13:30:00 GMT</pubDate>
+        <description>Real Madryt przegrał 1:2 z Manchesterem City. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
+    
+    <item>
+        <title>Zatrważająca indolencja strzelecka</title>
+        <link>https://www.realmadryt.pl/news/144847-zatrwazajaca-indolencja-strzelecka</link>
+        <pubDate>Thu, 11 Dec 2025 13:15:00 GMT</pubDate>
+        <description>W spotkaniu z Manchesterem City Real Madryt oddał tylko jeden strzał w światło bramki. To najgorszy wynik Królewskich w meczu Champions League na Bernabéu od sezonu 2003/2004.</description>
+    </item>
     
     <item>
         <title>Scariolo: Tydzień z dwoma meczami u siebie jest wyjątkowy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144839-haaland-chce-sie-grac-w-tym-miejscu</link>
         <pubDate>Thu, 11 Dec 2025 08:15:00 GMT</pubDate>
         <description>Erling Haaland udzielił wywiadów stacjom CBS i TNT po meczu z Realem Madryt. Przedstawiamy wypowiedzi napastnika City z tych rozmów.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czy Xabi Alonso powinien dalej prowadzić Real Madryt?</title>
-        <link>https://www.realmadryt.pl/news/144841-glos-kibica-czy-xabi-alonso-powinien-dalej-prowadzic-real-madryt</link>
-        <pubDate>Thu, 11 Dec 2025 07:30:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Gol na 1:1 to trochę mój błąd</title>
-        <link>https://www.realmadryt.pl/news/144838-courtois-gol-na-1-1-to-troche-moj-blad</link>
-        <pubDate>Thu, 11 Dec 2025 07:00:00 GMT</pubDate>
-        <description>Thibaut Courtois po meczu Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
