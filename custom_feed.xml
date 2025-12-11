@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 07:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 07:37:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Haaland: Chce się grać w tym miejscu</title>
+        <link>https://www.realmadryt.pl/news/144839-haaland-chce-sie-grac-w-tym-miejscu</link>
+        <pubDate>Thu, 11 Dec 2025 08:15:00 GMT</pubDate>
+        <description>Erling Haaland udzielił wywiadów stacjom CBS i TNT po meczu z Realem Madryt. Przedstawiamy wypowiedzi napastnika City z tych rozmów.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy Xabi Alonso powinien dalej prowadzić Real Madryt?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144826-ocen-pilkarzy-po-meczu-z-manchesterem-city</link>
         <pubDate>Wed, 10 Dec 2025 22:59:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Real pokazał twarz, ale to za mało</title>
-        <link>https://www.realmadryt.pl/news/144823-real-pokazal-twarz-ale-to-za-malo</link>
-        <pubDate>Wed, 10 Dec 2025 20:55:00 GMT</pubDate>
-        <description>W meczu 6. kolejki fazy ligowej Champions League Real Madryt przegrał na Bernabéu z Manchesterem City 1:2. Jedyną bramkę dla gospodarzy zdobył Rodrygo Goes.</description>
     </item>
     
 </channel>
