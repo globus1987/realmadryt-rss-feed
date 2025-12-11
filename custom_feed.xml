@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 19:32:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 19:53:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Lorenzo Zúñiga z powołaniem na Puchar Narodów Afryki</title>
+        <link>https://www.realmadryt.pl/news/144856-oficjalnie-lorenzo-zuniga-z-powolaniem-na-puchar-narodow-afryki</link>
+        <pubDate>Thu, 11 Dec 2025 20:37:00 GMT</pubDate>
+        <description>Atakujący pojedzie na turniej jako reprezentant Gwinei Równikowej.</description>
+    </item>
     
     <item>
         <title>Sky Sport: Zidane faworytem Florentino do zastąpienia Xabiego Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144846-trzy-mecze-przed-ostatecznym-egzaminem-dla-xabiego</link>
         <pubDate>Thu, 11 Dec 2025 11:25:00 GMT</pubDate>
         <description>Jeszcze kilka dni temu za kluczowy uznawano wyjazd do Arabii Saudyjskiej na Superpuchar Hiszpanii. Teraz mówi się o meczach z Alavés, Talaverą i Sevillą jako o momencie podjęcia decyzji.</description>
-    </item>
-    
-    <item>
-        <title>Henry: Szkoda mi Xabiego Alonso, wcześniej miał zespół, który chciał słuchać tego, co ma im do przekazania</title>
-        <link>https://www.realmadryt.pl/news/144845-henry-szkoda-mi-xabiego-alonso-wczesniej-mial-zespol-ktory-chcial-sluchac-tego-co-ma-im-do-przekazania</link>
-        <pubDate>Thu, 11 Dec 2025 10:40:00 GMT</pubDate>
-        <description>Podczas przedmeczowego studia w CBS Sports Golazo Thierry Henry i Jamie Carragher podzielili się ciekawymi spostrzeżeniami na temat sytuacji Xabiego Alonso. Przedstawiamy najważniejszy fragment z tej dyskusji.</description>
     </item>
     
 </channel>
