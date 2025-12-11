@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 07:37:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 07:53:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Przedłużyć dobrą passę</title>
+        <link>https://www.realmadryt.pl/news/144834-przedluzyc-dobra-passe</link>
+        <pubDate>Thu, 11 Dec 2025 08:50:00 GMT</pubDate>
+        <description>W 15. kolejce Euroligi Real Madryt zagra na własnym parkiecie z Baskonią. Królewscy w przypadku wygranej mają szansę na spory awans w tabeli.</description>
+    </item>
     
     <item>
         <title>Haaland: Chce się grać w tym miejscu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144827-rodrygo-dzis-jestesmy-bardzo-sfrustrowani</link>
         <pubDate>Wed, 10 Dec 2025 23:18:00 GMT</pubDate>
         <description>Rodrygo Goes udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 1:2 meczu z Manchesterem City. Przedstawiamy wypowiedzi autora jedynej bramki dla Królewskich w tym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Manchesterem City</title>
-        <link>https://www.realmadryt.pl/news/144826-ocen-pilkarzy-po-meczu-z-manchesterem-city</link>
-        <pubDate>Wed, 10 Dec 2025 22:59:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
     </item>
     
 </channel>
