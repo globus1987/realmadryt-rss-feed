@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 08:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 09:00:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 11 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144836-kartka-z-kalendarza-11-grudnia</link>
+        <pubDate>Thu, 11 Dec 2025 10:00:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza Barcelony i Realu, niesamowita remontada z Borussią Mönchengladbach i przyznanie wyjątkowego tytułu Królewskim. Co działo się 11 grudnia?</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Wy na zewnątrz malujecie to na swój sposób, ale trzeba dużo spokoju</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144832-raul-asencio-byc-moze-zasluzylismy-na-cos-wiecej</link>
         <pubDate>Wed, 10 Dec 2025 23:40:00 GMT</pubDate>
         <description>Raúl Asencio udzielił wywiadu dla telewizji Movistar+ po przegranym 1:2 meczu z Manchesterem City. Przedstawiamy zapis rozmowy ze stoperem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Nie można niczego nikomu zarzucić</title>
-        <link>https://www.realmadryt.pl/news/144831-xabi-alonso-nie-mozna-niczego-nikomu-zarzucic</link>
-        <pubDate>Wed, 10 Dec 2025 23:37:00 GMT</pubDate>
-        <description>Xabi Alonso po meczu Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
