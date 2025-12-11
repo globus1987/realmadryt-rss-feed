@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 11 Dec 2025 23:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 23:43:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144863-dzisiejsze-okladki</link>
+        <pubDate>Fri, 12 Dec 2025 00:31:00 GMT</pubDate>
+        <description>Wywiad z Juliánem Alvarezem i nowy kontrakt Erica Garcíi to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: To było ważne zwycięstwo</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144849-the-athletic-posada-alonso-na-razie-nie-jest-zagrozona</link>
         <pubDate>Thu, 11 Dec 2025 15:25:00 GMT</pubDate>
         <description>Dermot Corrigan i Mario Cortegana z The Athletic przekazali informacje o odczuciach w Realu Madryt po porażce z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Manchesterem City</title>
-        <link>https://www.realmadryt.pl/news/144848-oceny-zawodnikow-po-meczu-z-manchesterem-city</link>
-        <pubDate>Thu, 11 Dec 2025 13:30:00 GMT</pubDate>
-        <description>Real Madryt przegrał 1:2 z Manchesterem City. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
