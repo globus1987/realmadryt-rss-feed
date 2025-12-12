@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 12 Dec 2025 22:46:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 23:25:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144886-dzisiejsze-okladki</link>
+        <pubDate>Sat, 13 Dec 2025 00:01:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt, zeznania prezesa Barcelony i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Sivera: Jeśli będziemy skuteczni w obu polach karnych, możemy wygrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144873-as-ruediger-i-camavinga-nie-zagraja-z-alaves-wystep-valverde-i-mbappe-pod-znakiem-zapytania</link>
         <pubDate>Fri, 12 Dec 2025 13:45:00 GMT</pubDate>
         <description>Xabi Alonso ma coraz więcej problemów przed niedzielnym spotkaniem.</description>
-    </item>
-    
-    <item>
-        <title>Wielu piłkarzy nie trenowało z zespołem</title>
-        <link>https://www.realmadryt.pl/news/144871-wielu-pilkarzy-nie-trenowalo-z-zespolem</link>
-        <pubDate>Fri, 12 Dec 2025 13:24:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Deportivo Alavés.</description>
     </item>
     
 </channel>
