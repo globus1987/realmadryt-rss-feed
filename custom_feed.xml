@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 13 Dec 2025 04:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 04:41:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius cofnął się o 5 lat</title>
+        <link>https://www.realmadryt.pl/news/144885-vinicius-cofnal-sie-o-5-lat</link>
+        <pubDate>Sat, 13 Dec 2025 05:30:00 GMT</pubDate>
+        <description>Brazylijczyk ma serię 12 występów w klubie bez gola. To wyrównanie jego trzeciej najgorszej serii w klubie. Te najgorsze miały miejsce 4 i 5 lat temu.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144872-podcast-7x19-czy-umierasz-z-viniciusem</link>
         <pubDate>Fri, 12 Dec 2025 13:54:00 GMT</pubDate>
         <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po porażce z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>AS: Rüdiger i Camavinga nie zagrają z Alavés; występ Valverde i Mbappé pod znakiem zapytania</title>
-        <link>https://www.realmadryt.pl/news/144873-as-ruediger-i-camavinga-nie-zagraja-z-alaves-wystep-valverde-i-mbappe-pod-znakiem-zapytania</link>
-        <pubDate>Fri, 12 Dec 2025 13:45:00 GMT</pubDate>
-        <description>Xabi Alonso ma coraz więcej problemów przed niedzielnym spotkaniem.</description>
     </item>
     
 </channel>
