@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Dec 2025 15:55:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 16:32:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni zagrożony zawieszeniem w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/144925-tchouameni-zagrozony-zawieszeniem-w-la-lidze</link>
+        <pubDate>Sun, 14 Dec 2025 17:27:00 GMT</pubDate>
+        <description>Francuz musi dzisiaj uważać, jeśli nie chce przegapić kolejnego spotkania z Sevillą.</description>
+    </item>
     
     <item>
         <title>Wraca stary problem z intensywnością w Realu: „Musimy odzyskać zagubioną duszę”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144909-jak-masz-na-imie</link>
         <pubDate>Sun, 14 Dec 2025 10:00:00 GMT</pubDate>
         <description>A teraz proszę ładnie się przedstawić przed milionami słuchaczy.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 14 grudnia</title>
-        <link>https://www.realmadryt.pl/news/144914-kartka-z-kalendarza-14-grudnia</link>
-        <pubDate>Sun, 14 Dec 2025 09:09:00 GMT</pubDate>
-        <description>Oficjalna inauguracja Estadio Santiago Bernabéu, urodziny byłego napastnika i transfer nieznanego jeszcze w Europie napastnika z Argentyny. Co działo się 14 grudnia?</description>
     </item>
     
 </channel>
