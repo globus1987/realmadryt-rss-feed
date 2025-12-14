@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Dec 2025 07:54:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 08:33:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 14 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144914-kartka-z-kalendarza-14-grudnia</link>
+        <pubDate>Sun, 14 Dec 2025 09:09:00 GMT</pubDate>
+        <description>Oficjalna inauguracja Estadio Santiago Bernabéu, urodziny byłego napastnika i transfer nieznanego jeszcze w Europie napastnika z Argentyny. Co działo się 14 grudnia?</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy sędziowie dobrze ocenili sytuację z nieuznanym golem Osasuny na Camp Nou?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144902-oficjalnie-real-madryt-zlozyl-kondolencje-po-smierci-gabriela-masfurrolla</link>
         <pubDate>Sat, 13 Dec 2025 16:53:00 GMT</pubDate>
         <description>Gabriela Masfurroll odszedł w wieku 72 lat.</description>
-    </item>
-    
-    <item>
-        <title>Castilla żegna rok na Di Stéfano zwycięstwem</title>
-        <link>https://www.realmadryt.pl/news/144901-castilla-zegna-rok-na-di-stefano-zwyciestwem</link>
-        <pubDate>Sat, 13 Dec 2025 16:24:00 GMT</pubDate>
-        <description>W 16. kolejce Primera Federación Castilla pokonała Guadalajarę 3:1. Dzięki temu Królewscy przynajmniej do jutra pozostaną na drugim miejscu w tabeli.</description>
     </item>
     
 </channel>
