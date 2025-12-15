@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Dec 2025 17:42:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 17:57:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dyrektor Bayeru: Xabi został pozostawiony sam sobie</title>
+        <link>https://www.realmadryt.pl/news/144959-dyrektor-bayeru-xabi-zostal-pozostawiony-sam-sobie</link>
+        <pubDate>Mon, 15 Dec 2025 18:50:00 GMT</pubDate>
+        <description>Fernando Carro, dyrektor generalny Bayeru Leverkusen, udzielił wywiadu niemieckiej telewizji Sky przed sobotnim meczem Aptekarzy z 1. FC Köln, w którym był pytany o sytuację Xabiego Alonso. Przedstawiamy opinię działacza Bayeru.</description>
+    </item>
     
     <item>
         <title>AS: Rodrygo będzie gotowy na mecz z Talaverą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144948-oceny-zawodnikow-po-meczu-z-deportivo-alaves</link>
         <pubDate>Mon, 15 Dec 2025 11:55:00 GMT</pubDate>
         <description>Real Madryt wygrał 2:1 z Deportivo Alavés w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>200 zwycięstw Courtois i 100 ligowych meczów Rüdigera w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/144943-200-zwyciestw-courtois-i-100-ligowych-meczow-ruedigera-w-realu-madryt</link>
-        <pubDate>Mon, 15 Dec 2025 11:48:00 GMT</pubDate>
-        <description>Wczorajszy, wygrany 2:1 mecz z Deportivo Alavés na Mendizorrozie był wyjątkowy dla Thibaut Courtois i Antonio Rüdigera.</description>
     </item>
     
 </channel>
