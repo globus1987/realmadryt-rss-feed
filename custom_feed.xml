@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Dec 2025 10:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 10:58:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Deportivo Alavés</title>
+        <link>https://www.realmadryt.pl/news/144948-oceny-zawodnikow-po-meczu-z-deportivo-alaves</link>
+        <pubDate>Mon, 15 Dec 2025 11:55:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:1 z Deportivo Alavés w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>200 zwycięstw Courtois i 100 ligowych meczów Rüdigera w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/144943-200-zwyciestw-courtois-i-100-ligowych-meczow-ruedigera-w-realu-madryt</link>
+        <pubDate>Mon, 15 Dec 2025 11:48:00 GMT</pubDate>
+        <description>Wczorajszy, wygrany 2:1 mecz z Deportivo Alavés na Mendizorrozie był wyjątkowy dla Thibaut Courtois i Antonio Rüdigera.</description>
+    </item>
     
     <item>
         <title>Chiringuito: Endrick dołączy do Lyonu jeszcze w grudniu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144941-dzisiejsze-okladki</link>
         <pubDate>Mon, 15 Dec 2025 01:05:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Sędzia powiedział, że kontakt był lekki</title>
-        <link>https://www.realmadryt.pl/news/144937-courtois-sedzia-powiedzial-ze-kontakt-byl-lekki</link>
-        <pubDate>Mon, 15 Dec 2025 00:29:00 GMT</pubDate>
-        <description>Thibaut Courtois udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu z Deportivo Alavés. Przedstawiamy wypowiedzi bramkarza Królewskich, który w spotkaniu z Baskami sięgnął po swoje 200. zwycięstwo w klubie.</description>
-    </item>
-    
-    <item>
-        <title>Antonio Blanco: Wykonaliśmy wielki wysiłek</title>
-        <link>https://www.realmadryt.pl/news/144936-antonio-blanco-wykonalismy-wielki-wysilek</link>
-        <pubDate>Sun, 14 Dec 2025 23:57:00 GMT</pubDate>
-        <description>Anotnio Blanco udzielił wywiadu z murawy dla platformy DAZN po przegranym 1:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi kapitana Deportivo Alavés.</description>
     </item>
     
 </channel>
