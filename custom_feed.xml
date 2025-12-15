@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Dec 2025 08:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 09:02:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/144945-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Mon, 15 Dec 2025 10:01:00 GMT</pubDate>
+        <description>Po wczorajszym spotkaniu z Deportivo Alavés dzisiaj zawodnicy otrzymali dzień wolny. Najbliższy mecz rozegrają w środę.</description>
+    </item>
     
     <item>
         <title>Vinícius rozstrzygnął mecz i wysłał sygnał wraz z Xabim Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144932-kylian-mbappe-mvp-meczu-na-mendizorrozie</link>
         <pubDate>Sun, 14 Dec 2025 23:00:00 GMT</pubDate>
         <description>Kylian Mbappé został wyróżniony po meczu Realu Madryt z Deportivo Alavés.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Deportivo Alavés</title>
-        <link>https://www.realmadryt.pl/news/144930-ocen-pilkarzy-po-meczu-z-deportivo-alaves</link>
-        <pubDate>Sun, 14 Dec 2025 22:58:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
