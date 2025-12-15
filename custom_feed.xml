@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 14 Dec 2025 23:55:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 02:20:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144941-dzisiejsze-okladki</link>
+        <pubDate>Mon, 15 Dec 2025 01:05:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Courtois: Sędzia powiedział, że kontakt był lekki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144927-talavera-wygrywa-przed-meczem-z-realem-video</link>
         <pubDate>Sun, 14 Dec 2025 18:56:00 GMT</pubDate>
         <description>Trzy punkty po remontadzie zapewnił jej… wychowanek Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni zagrożony zawieszeniem w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/144925-tchouameni-zagrozony-zawieszeniem-w-la-lidze</link>
-        <pubDate>Sun, 14 Dec 2025 17:27:00 GMT</pubDate>
-        <description>Francuz musi dzisiaj uważać, jeśli nie chce przegapić kolejnego spotkania z Sevillą.</description>
     </item>
     
 </channel>
