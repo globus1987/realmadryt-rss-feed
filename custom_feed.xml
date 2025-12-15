@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 15 Dec 2025 22:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 23:27:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/144968-dzisiejsze-okladki</link>
+        <pubDate>Tue, 16 Dec 2025 00:23:00 GMT</pubDate>
+        <description>Wypowiedzi prezesa Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Mecze Pucharu Króla w Eleven Sports</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144951-pedrerol-co-chce-grac-real-xabiego-tego-nie-wie-nikt</link>
         <pubDate>Mon, 15 Dec 2025 14:13:00 GMT</pubDate>
         <description>Josep Pedrerol w swoim nocnym Chiringuito skomentował sytuację Xabiego Alonso. Przedstawiamy wypowiedzi prowadzącego.</description>
-    </item>
-    
-    <item>
-        <title>Iturralde González: Szef sędziów wysyła komunikat, żeby VAR wchodził coraz rzadziej</title>
-        <link>https://www.realmadryt.pl/news/144950-iturralde-gonzalez-szef-sedziow-wysyla-komunikat-zeby-var-wchodzil-coraz-rzadziej</link>
-        <pubDate>Mon, 15 Dec 2025 13:54:00 GMT</pubDate>
-        <description>Eduardo Iturralde González był gościem programu Carrusel Deportivo na antenie Cadena SER. Przedstawiamy najważniejsze wypowiedzi byłego arbitra.</description>
     </item>
     
 </channel>
