@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 08:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 09:01:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 16 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144970-kartka-z-kalendarza-16-grudnia</link>
+        <pubDate>Tue, 16 Dec 2025 10:00:00 GMT</pubDate>
+        <description>Dwa mecze na klubowym mundialu, urodziny byłego obrońcy i Klasyk z czerwoną kartką dla Ronalda Koemana. Co działo się 16 grudnia?</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144958-as-rodrygo-bedzie-gotowy-na-mecz-z-talavera</link>
         <pubDate>Mon, 15 Dec 2025 18:05:00 GMT</pubDate>
         <description>Atakujący będzie gotowy na dwa ostatnie spotkania Realu w 2025 roku.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Sergio Reguilón piłkarzem Interu Miami</title>
-        <link>https://www.realmadryt.pl/news/144957-oficjalnie-sergio-reguilon-pilkarzem-interu-miami</link>
-        <pubDate>Mon, 15 Dec 2025 17:52:00 GMT</pubDate>
-        <description>Lewy obrońca pozostawał bez klubu od lipca.</description>
     </item>
     
 </channel>
