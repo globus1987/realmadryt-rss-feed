@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 18:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 19:01:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona rozpoczyna grę w Pucharze Króla [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/144988-barcelona-rozpoczyna-gre-w-pucharze-krola-live</link>
+        <pubDate>Tue, 16 Dec 2025 20:00:00 GMT</pubDate>
+        <description>Obrońca Pucharu Króla z poprzedniego sezonu, FC Barcelona, rozpoczyna grę w tej edycji od 3. rundy. Pierwszym rywalem Katalończyków będzie trzecioligowa Guadalajara.</description>
+    </item>
     
     <item>
         <title>Komitet Arbitrów: Prawidłowo niepodyktowany karny na Viníciusie i prawidłowo anulowany gol Osasuny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144983-sad-pracy-nakazal-psg-wyplate-61-milionow-euro-kylianowi-mbappe</link>
         <pubDate>Tue, 16 Dec 2025 13:42:00 GMT</pubDate>
         <description>Kylian wygrał sprawę z byłym klubem, ale wyrok nie jest jeszcze prawomocny.</description>
-    </item>
-    
-    <item>
-        <title>Arbitrzy odpowiadają Florentino: „Sędziowanie nie może być wykorzystywane jako wymówka”</title>
-        <link>https://www.realmadryt.pl/news/144982-arbitrzy-odpowiadaja-florentino-sedziowanie-nie-moze-byc-wykorzystywane-jako-wymowka</link>
-        <pubDate>Tue, 16 Dec 2025 13:35:00 GMT</pubDate>
-        <description>Hiszpańskie Stowarzyszenie Sędziów Piłkarskich opublikowało obszerny komunikat wymierzony w Florentino Péreza po jego wtorkowych wypowiedziach. Prezes ponownie odniósł się do sprawy Negreiry. Organizacja broni też kolegi, Pablo Gonzáleza Fuertesa, krytykowanego za słowa z konferencji przed finałem Pucharu Króla oraz za to, że w minioną niedzielę nie zasygnalizował rzutu karnego po faulu na Viníciusie.</description>
     </item>
     
 </channel>
