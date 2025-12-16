@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 19:53:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 20:32:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real nie opublikował kadry na mecz z Talaverę</title>
+        <link>https://www.realmadryt.pl/news/144996-real-nie-opublikowal-kadry-na-mecz-z-talavere</link>
+        <pubDate>Tue, 16 Dec 2025 21:00:00 GMT</pubDate>
+        <description>Listę powołanych poznamy dopiero w dniu spotkania. Wątpliwości mogą dotyczyć kilku piłkarzy.</description>
+    </item>
     
     <item>
         <title>Pau Quesada: Po zakończeniu meczu zobaczymy, czy jesteśmy w pierwszej czwórce</title>
@@ -17,7 +24,7 @@
         <title>Barcelona rozpoczyna grę w Pucharze Króla [LIVE]</title>
         <link>https://www.realmadryt.pl/news/144988-barcelona-rozpoczyna-gre-w-pucharze-krola-live</link>
         <pubDate>Tue, 16 Dec 2025 20:00:00 GMT</pubDate>
-        <description>Obrońca Pucharu Króla z poprzedniego sezonu, FC Barcelona, rozpoczyna grę w tej edycji od 3. rundy. Pierwszym rywalem Katalończyków będzie trzecioligowa Guadalajara.</description>
+        <description>Obrońca Pucharu Króla z poprzedniego sezonu, FC Barcelona, rozpoczyna grę w tej edycji od 3. rundy. Pierwszym rywalem Katalończyków jest trzecioligowa Guadalajara.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144985-brahim-dotarl-na-zgrupowanie-reprezentacji-maroka</link>
         <pubDate>Tue, 16 Dec 2025 15:23:00 GMT</pubDate>
         <description>Zawodnik Realu Madryt nie pomoże drużynie Xabiego Alonso w najbliższych meczach.</description>
-    </item>
-    
-    <item>
-        <title>Donnarumma z nagrodą The Best dla najlepszego bramkarza</title>
-        <link>https://www.realmadryt.pl/news/144984-donnarumma-z-nagroda-the-best-dla-najlepszego-bramkarza</link>
-        <pubDate>Tue, 16 Dec 2025 14:54:00 GMT</pubDate>
-        <description>Courtois był jednym z nominowanych.</description>
     </item>
     
 </channel>
