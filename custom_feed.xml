@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 13:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 14:32:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brahim dotarł na zgrupowanie reprezentacji Maroka</title>
+        <link>https://www.realmadryt.pl/news/144985-brahim-dotarl-na-zgrupowanie-reprezentacji-maroka</link>
+        <pubDate>Tue, 16 Dec 2025 15:23:00 GMT</pubDate>
+        <description>Zawodnik Realu Madryt nie pomoże drużynie Xabiego Alonso w najbliższych meczach.</description>
+    </item>
+    
+    <item>
+        <title>Donnarumma z nagrodą The Best dla najlepszego bramkarza</title>
+        <link>https://www.realmadryt.pl/news/144984-donnarumma-z-nagroda-the-best-dla-najlepszego-bramkarza</link>
+        <pubDate>Tue, 16 Dec 2025 14:54:00 GMT</pubDate>
+        <description>Courtois był jednym z nominowanych.</description>
+    </item>
     
     <item>
         <title>Sąd pracy nakazał PSG wypłatę 61 milionów euro Kylianowi Mbappé!</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144972-trening-otwarty-dla-socios-30-grudnia</link>
         <pubDate>Tue, 16 Dec 2025 10:45:00 GMT</pubDate>
         <description>Pięć dni przed pierwszym meczem po przerwie świątecznej Real Madryt zorganizuje otwarty trening dla socios, którzy otrzymają wejściówki na Estadio Alfredo Di Stéfano.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Do zakończenia mundialu nie będzie rozmów w sprawie nowej umowy Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/144974-chiringuito-do-zakonczenia-mundialu-nie-bedzie-rozmow-w-sprawie-nowej-umowy-viniciusa</link>
-        <pubDate>Tue, 16 Dec 2025 10:25:00 GMT</pubDate>
-        <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich otoczeniem. Przedstawiamy wypowiedzi tego dziennikarza na temat aktualnej sytuacji Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiaj odbędzie się gala The Best</title>
-        <link>https://www.realmadryt.pl/news/144973-dzisiaj-odbedzie-sie-gala-the-best</link>
-        <pubDate>Tue, 16 Dec 2025 10:12:00 GMT</pubDate>
-        <description>Kylian Mbappé jest jednym z nominowanych do głównej nagrody, ale faworytem do zwycięstwa jest Ousmane Dembélé.</description>
     </item>
     
 </channel>
