@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 07:53:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 08:39:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/144964-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 16 Dec 2025 09:09:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 16. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Pełne zeznania Laporty w sprawie Negreiry oraz odpowiedzi byłych trenerów Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144957-oficjalnie-sergio-reguilon-pilkarzem-interu-miami</link>
         <pubDate>Mon, 15 Dec 2025 17:52:00 GMT</pubDate>
         <description>Lewy obrońca pozostawał bez klubu od lipca.</description>
-    </item>
-    
-    <item>
-        <title>Enzo Alves z premierowym powołaniem do Castilli</title>
-        <link>https://www.realmadryt.pl/news/144956-enzo-alves-z-premierowym-powolaniem-do-castilli</link>
-        <pubDate>Mon, 15 Dec 2025 17:23:00 GMT</pubDate>
-        <description>Młody napastnik po raz pierwszy dostał powołanie do Castilli. Już czeka na jutrzejszy mecz z City, w ramach Premier League International Cup.</description>
     </item>
     
 </channel>
