@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 09:41:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 09:57:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd do Mediolanu</title>
+        <link>https://www.realmadryt.pl/news/144963-wyjazd-do-mediolanu</link>
+        <pubDate>Tue, 16 Dec 2025 10:45:00 GMT</pubDate>
+        <description>W 16. kolejce Euroligi Real Madryt zmierzy się na wyjeździe z Olimpią Mediolan. Oba zespoły dzieli w tabeli tylko jedno zwycięstwo, więc stawka spotkania jest wysoka, bo Włosi w tym momencie są poza czołową dziesiątką.</description>
+    </item>
+    
+    <item>
+        <title>Trening otwarty dla socios 30 grudnia</title>
+        <link>https://www.realmadryt.pl/news/144972-trening-otwarty-dla-socios-30-grudnia</link>
+        <pubDate>Tue, 16 Dec 2025 10:45:00 GMT</pubDate>
+        <description>Pięć dni przed pierwszym meczem po przerwie świątecznej Real Madryt zorganizuje otwarty trening dla socios, którzy otrzymają wejściówki na Estadio Alfredo Di Stéfano.</description>
+    </item>
     
     <item>
         <title>Chiringuito: Do zakończenia mundialu nie będzie rozmów w sprawie nowej umowy Viníciusa</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/144968-dzisiejsze-okladki</link>
         <pubDate>Tue, 16 Dec 2025 00:23:00 GMT</pubDate>
         <description>Wypowiedzi prezesa Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mecze Pucharu Króla w Eleven Sports</title>
-        <link>https://www.realmadryt.pl/news/144962-oficjalnie-mecze-pucharu-krola-w-eleven-sports</link>
-        <pubDate>Mon, 15 Dec 2025 19:45:00 GMT</pubDate>
-        <description>Mecze Pucharu Króla w tym i kolejnych sezonach będą pokazywane w Eleven Sports, które pokazuje także część meczów La Ligi. Pierwszy mecz Królewskich już pojutrze.</description>
-    </item>
-    
-    <item>
-        <title>AS: Wątpliwości pozostają mimo ulgi po zdobyciu trzech punktów</title>
-        <link>https://www.realmadryt.pl/news/144960-as-watpliwosci-pozostaja-mimo-ulgi-po-zdobyciu-trzech-punktow</link>
-        <pubDate>Mon, 15 Dec 2025 19:26:00 GMT</pubDate>
-        <description>Zwycięstwo przyszło, ale nie poprawa w grze ani w odczuciach. Do końca 2025 roku zostały dwa mecze i będą one rozstrzygające.</description>
     </item>
     
 </channel>
