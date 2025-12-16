@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 16 Dec 2025 22:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 23:26:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145005-dzisiejsze-okladki</link>
+        <pubDate>Wed, 17 Dec 2025 00:24:00 GMT</pubDate>
+        <description>Sprawa Negreiry, mecz Realu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Druga kwarta nałożyła na nasze barki zbyt duży ciężar</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/144989-znajome-twarze-w-talaverze</link>
         <pubDate>Tue, 16 Dec 2025 17:40:00 GMT</pubDate>
         <description>W Talaverze jest obecnie pięć osób z przeszłością w Realu Madryt – zawodnicy Luis Sánchez, Arturo Molina, Fran Rodríguez i David Cuenca oraz dyrektor sportowy klubu, Toni García.</description>
-    </item>
-    
-    <item>
-        <title>Sandroni: Pasja to jedyny aspekt, w którym być może przerastamy Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/144987-sandroni-pasja-to-jedyny-aspekt-w-ktorym-byc-moze-przerastamy-real-madryt</link>
-        <pubDate>Tue, 16 Dec 2025 17:15:00 GMT</pubDate>
-        <description>Trener Talavery, Alejandro Sandroni, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 1/16 finału Pucharze Króla. Poniżej przedstawiamy zapis wypowiedzi argentyńskiego szkoleniowca.</description>
     </item>
     
 </channel>
