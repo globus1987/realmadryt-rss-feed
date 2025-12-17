@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Dec 2025 10:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:56:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarki walczą o TOP4 w Lidze Mistrzyń</title>
+        <link>https://www.realmadryt.pl/news/145008-pilkarki-walcza-o-top4-w-lidze-mistrzyn</link>
+        <pubDate>Wed, 17 Dec 2025 11:40:00 GMT</pubDate>
+        <description>W meczu ostatniej kolejki fazy ligowej Ligi Mistrzyń piłkarki Realu Madryt, które zachowują szansę na bezpośredni awans do ćwierćfinałów rozgrywek, zmierzą się na De Grolsch Veste z Twente. Początek meczu o godzinie 21:00.</description>
+    </item>
     
     <item>
         <title>Między dwoma pożarami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145005-dzisiejsze-okladki</link>
         <pubDate>Wed, 17 Dec 2025 00:24:00 GMT</pubDate>
         <description>Sprawa Negreiry, mecz Realu i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Druga kwarta nałożyła na nasze barki zbyt duży ciężar</title>
-        <link>https://www.realmadryt.pl/news/145002-scariolo-druga-kwarta-nalozyla-na-nasze-barki-zbyt-duzy-ciezar</link>
-        <pubDate>Tue, 16 Dec 2025 23:42:00 GMT</pubDate>
-        <description>Sergio Scariolo podsumował przegrane spotkanie z Olympią Mediolan. Przyznał, że jego podopieczni słabo się zaprezentowali w drugiej kwarcie.</description>
     </item>
     
 </channel>
