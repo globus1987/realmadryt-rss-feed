@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Dec 2025 19:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 20:32:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Talavera – Real Madryt [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/145018-talavera-real-madryt-live</link>
+        <pubDate>Wed, 17 Dec 2025 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 3. rundy Pucharu Króla, w którym Real Madryt mierzy się na wyjeździe z Talaverą.</description>
+    </item>
     
     <item>
         <title>Talavera – Real Madryt: Znamy składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145010-real-od-dzis-juz-bez-dodatkowej-naszywki</link>
         <pubDate>Wed, 17 Dec 2025 10:50:00 GMT</pubDate>
         <description>Znaczek zwycięzcy Pucharu Interkontynentalnego nie pojawi się dziś na koszulce Realu Madryt. Nowego triumfatora powinniśmy poznać tuż przed potyczką z Talaverą.</description>
-    </item>
-    
-    <item>
-        <title>Marzenie kontra obowiązek</title>
-        <link>https://www.realmadryt.pl/news/144995-marzenie-kontra-obowiazek</link>
-        <pubDate>Wed, 17 Dec 2025 10:50:00 GMT</pubDate>
-        <description>Któż z nas nigdy nie marzył o wygranej na loterii?</description>
     </item>
     
 </channel>
