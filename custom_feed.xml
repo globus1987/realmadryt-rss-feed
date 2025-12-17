@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Dec 2025 09:57:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 10:35:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Między dwoma pożarami</title>
+        <link>https://www.realmadryt.pl/news/145009-miedzy-dwoma-pozarami</link>
+        <pubDate>Wed, 17 Dec 2025 11:02:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat Florentino Péreza, sprawy Negreiry i Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Real od dziś już bez dodatkowej naszywki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145002-scariolo-druga-kwarta-nalozyla-na-nasze-barki-zbyt-duzy-ciezar</link>
         <pubDate>Tue, 16 Dec 2025 23:42:00 GMT</pubDate>
         <description>Sergio Scariolo podsumował przegrane spotkanie z Olympią Mediolan. Przyznał, że jego podopieczni słabo się zaprezentowali w drugiej kwarcie.</description>
-    </item>
-    
-    <item>
-        <title>Zwycięska passa przerwana</title>
-        <link>https://www.realmadryt.pl/news/144999-zwycieska-passa-przerwana</link>
-        <pubDate>Tue, 16 Dec 2025 23:14:00 GMT</pubDate>
-        <description>W 16. kolejce Euroligi Real Madryt przegrał z Olimpią Mediolan. Królewskich znów zawiodła skuteczność rzutów za trzy punkty i ich sytuacja w tabeli uległa pogorszeniu.</description>
     </item>
     
 </channel>
