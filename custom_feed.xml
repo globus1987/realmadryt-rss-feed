@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Dec 2025 23:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 23:44:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145027-dzisiejsze-okladki</link>
+        <pubDate>Thu, 18 Dec 2025 00:40:00 GMT</pubDate>
+        <description>Wygrane Realu Madryt i kobiecej Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Zmarnowana szansa Las Blancas [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145013-jest-temat-ktory-laczy-beniteza-lopeteguiego-i-xabiego-alonso</link>
         <pubDate>Wed, 17 Dec 2025 12:46:00 GMT</pubDate>
         <description>Antón Meana skomentował w radiu sytuację Xabiego Alonso. Przedstawiamy wypowiedzi dziennikarza radia SER.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Asencio zmaga się z gorączką</title>
-        <link>https://www.realmadryt.pl/news/145012-oficjalnie-asencio-zmaga-sie-z-goraczka</link>
-        <pubDate>Wed, 17 Dec 2025 12:38:00 GMT</pubDate>
-        <description>Środkowy obrońca Realu Madryt nie uda się na dzisiejszy mecz w 1/16 finału Pucharu Króla.</description>
     </item>
     
 </channel>
