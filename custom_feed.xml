@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 17 Dec 2025 11:27:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 11:45:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Asencio zmaga się z gorączką</title>
+        <link>https://www.realmadryt.pl/news/145012-oficjalnie-asencio-zmaga-sie-z-goraczka</link>
+        <pubDate>Wed, 17 Dec 2025 12:38:00 GMT</pubDate>
+        <description>Środkowy obrońca Realu Madryt nie uda się na dzisiejszy mecz w 1/16 finału Pucharu Króla.</description>
+    </item>
     
     <item>
         <title>Kadra na Talaverę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145004-glos-kibica-czy-xabi-alonso-powinien-dokonac-wielu-rotacji-na-mecz-z-talavera</link>
         <pubDate>Wed, 17 Dec 2025 08:18:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Talavera – Real Madryt: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/145000-talavera-real-madryt-przewidywane-sklady</link>
-        <pubDate>Wed, 17 Dec 2025 07:30:00 GMT</pubDate>
-        <description>Real Madryt rozegra dziś swój pierwszy mecz w tej edycji Pucharu Króla. Rywalem Królewskich będzie trzecioligowa Talavera. Na kogo postawi Xabi Alonso?</description>
     </item>
     
 </channel>
