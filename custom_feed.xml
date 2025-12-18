@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Dec 2025 22:27:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 22:46:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Świetny mecz Maledona, wymęczone zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/145051-swietny-mecz-maledona-wymeczone-zwyciestwo</link>
+        <pubDate>Thu, 18 Dec 2025 23:46:00 GMT</pubDate>
+        <description>W 17. kolejce Ligi Endesa Real Madryt pokonał Paris Basketball i awansował przez to, przynajmniej do jutra, na szóste miejsce w tabeli. Bardzo dobre spotkanie rozegrał Théo Maledon.</description>
+    </item>
     
     <item>
         <title>Odwołany debiut Pitarcha</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145039-alaba-mendy-i-camavinga-przez-czesc-zajec-trenowali-z-zespolem</link>
         <pubDate>Thu, 18 Dec 2025 14:34:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Sevillą.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Talaverą</title>
-        <link>https://www.realmadryt.pl/news/145038-oceny-zawodnikow-po-meczu-z-talavera</link>
-        <pubDate>Thu, 18 Dec 2025 13:07:00 GMT</pubDate>
-        <description>Real Madryt wygrał 3:2 z Talaverą. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
