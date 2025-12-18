@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Dec 2025 19:28:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 19:41:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Odwołany debiut Pitarcha</title>
+        <link>https://www.realmadryt.pl/news/145049-odwolany-debiut-pitarcha</link>
+        <pubDate>Thu, 18 Dec 2025 20:30:00 GMT</pubDate>
+        <description>Thiago Pitarch był o krok od swojego oficjalnego debiutu w Realu Madryt. Niespodziewana końcówka meczu z Talaverą zmieniła jednak wstępne plany Xabiego Alonso.</description>
+    </item>
     
     <item>
         <title>Mastantuono nie podnosi głowy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145038-oceny-zawodnikow-po-meczu-z-talavera</link>
         <pubDate>Thu, 18 Dec 2025 13:07:00 GMT</pubDate>
         <description>Real Madryt wygrał 3:2 z Talaverą. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>„Służby medyczne mówią mi, że będą manipulować prezesem, żeby przekonać go, że zwariowałam, a potem żeby mnie wyrzucił”</title>
-        <link>https://www.realmadryt.pl/news/145037-sluzby-medyczne-mowia-mi-ze-beda-manipulowac-prezesem-zeby-przekonac-go-ze-zwariowalam-a-potem-zeby-mnie-wyrzucil</link>
-        <pubDate>Thu, 18 Dec 2025 12:45:00 GMT</pubDate>
-        <description>Itziar González udzielił bardzo mocnego wywiadu dziennikowi MARCA. Przedstawiamy pełne tłumaczenie tej rozmowy z byłą dietetyczką Realu Madryt.</description>
     </item>
     
 </channel>
