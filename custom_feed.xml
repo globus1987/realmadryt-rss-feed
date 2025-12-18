@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Dec 2025 22:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 23:26:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145053-dzisiejsze-okladki</link>
+        <pubDate>Fri, 19 Dec 2025 00:19:00 GMT</pubDate>
+        <description>Pogoń Mbappé za Cristiano i wywiad z Joselu to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: Pojawiło się zmęczenie, ale zawodnicy zacisnęli zęby</title>
+        <link>https://www.realmadryt.pl/news/145052-scariolo-pojawilo-sie-zmeczenie-ale-zawodnicy-zacisneli-zeby</link>
+        <pubDate>Fri, 19 Dec 2025 00:13:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował krótko zwycięskie spotkanie z Paris Basketball. Chwalił występy Facundo Campazzo i Théo Maledona.</description>
+    </item>
     
     <item>
         <title>Świetny mecz Maledona, wymęczone zwycięstwo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145041-mbappe-o-gola-od-rekordu-bramek-cristiano-dla-realu-w-roku-kalendarzowym</link>
         <pubDate>Thu, 18 Dec 2025 15:18:00 GMT</pubDate>
         <description>Francuz dwoma golami zbliżył się na jedną bramkę do historycznego osiągnięcia Cristiano Ronaldo. Jego liczby w porównaniu do reszty zespołu są stratosferyczne.</description>
-    </item>
-    
-    <item>
-        <title>Barcelona podała ceny biletów VIP na wiosenny Klasyk na Camp Nou</title>
-        <link>https://www.realmadryt.pl/news/145040-barcelona-podala-ceny-biletow-vip-na-wiosenny-klasyk-na-camp-nou</link>
-        <pubDate>Thu, 18 Dec 2025 14:58:00 GMT</pubDate>
-        <description>Kibice mogą już rezerwować sobie najbardziej komfortowe miejsca na majowy pojedynek.</description>
-    </item>
-    
-    <item>
-        <title>Alaba, Mendy i Camavinga przez część zajęć trenowali z zespołem</title>
-        <link>https://www.realmadryt.pl/news/145039-alaba-mendy-i-camavinga-przez-czesc-zajec-trenowali-z-zespolem</link>
-        <pubDate>Thu, 18 Dec 2025 14:34:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do meczu z Sevillą.</description>
     </item>
     
 </channel>
