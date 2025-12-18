@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 18 Dec 2025 09:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 09:42:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 18 grudnia</title>
+        <link>https://www.realmadryt.pl/news/145026-kartka-z-kalendarza-18-grudnia</link>
+        <pubDate>Thu, 18 Dec 2025 10:20:00 GMT</pubDate>
+        <description>Urodziny dwóch byłych piłkarzy Realu Madryt, zdobycie klubowego mistrzostwa świata i bezbramkowy Klasyk. Co działo się 18 grudnia?</description>
+    </item>
     
     <item>
         <title>Mecz z obowiązkiem wygranej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145024-xabi-alonso-wyjezdzam-zadowolony-i-uradowany</link>
         <pubDate>Wed, 17 Dec 2025 23:36:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się na konferencji prasowej po meczu Pucharu Króla z Talaverą. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na stadionie El Prado.</description>
-    </item>
-    
-    <item>
-        <title>Talavera 2:3 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145023-talavera-2-3-real-madryt-video</link>
-        <pubDate>Wed, 17 Dec 2025 23:24:00 GMT</pubDate>
-        <description>Real Madryt wygrał na wyjeździe z Talaverą 3:2. Bramki dla Królewskich strzelili Kylian Mbappé (dwie) i Manu Farrando (samobój).</description>
     </item>
     
 </channel>
