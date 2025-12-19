@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Dec 2025 07:53:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 08:37:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 19 grudnia</title>
+        <link>https://www.realmadryt.pl/news/145050-kartka-z-kalendarza-19-grudnia</link>
+        <pubDate>Fri, 19 Dec 2025 09:30:00 GMT</pubDate>
+        <description>Urodziny byłych piłkarzy i koszykarzy, ale też byłego kapitana, słynna już kartka z błędami sędziego, zwycięstwo w Pucharze Króla i dwie wygrane Królewskich, w tym hat-trick Garetha Bale'a. Co działo się 19 grudnia?</description>
+    </item>
     
     <item>
         <title>„Florentino dzisiaj żałuje, że Xabi nie wykorzystuje Pintusa”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145047-marca-xabi-przeprosil-valdepenasa-po-spotkaniu-z-alaves</link>
         <pubDate>Thu, 18 Dec 2025 18:45:00 GMT</pubDate>
         <description>Trener w prywatnej rozmowie wyjaśnił zawodnikowi, o co dokładnie mu chodziło.</description>
-    </item>
-    
-    <item>
-        <title>ABC: Już tylko dyrektor generalny utrzymuje Xabiego Alonso na stanowisku trenera Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145046-abc-juz-tylko-dyrektor-generalny-utrzymuje-xabiego-alonso-na-stanowisku-trenera-realu-madryt</link>
-        <pubDate>Thu, 18 Dec 2025 18:38:00 GMT</pubDate>
-        <description>Dwie ostatnie wygrane zamiast wzmocnić pozycję trenera to jeszcze pogłębiły wątpliwości prezesa Królewskich. Dzisiaj nikt w klubie nie może zagwarantować, że Xabi Alonso rozpocznie nowy rok jako trener Realu Madryt.</description>
     </item>
     
 </channel>
