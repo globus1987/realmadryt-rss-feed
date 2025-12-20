@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Dec 2025 17:54:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 18:34:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Brak skuteczności i porażka Castilli</title>
+        <link>https://www.realmadryt.pl/news/145094-brak-skutecznosci-i-porazka-castilli</link>
+        <pubDate>Sat, 20 Dec 2025 19:04:00 GMT</pubDate>
+        <description>W 17. kolejce Primera Federación Castilla przegrała 0:1 z Celtą Fortuna. Królewscy byli dzisiaj wyjątkowo nieskuteczni i przez 15 minut musieli sobie radzić w osłabieniu.</description>
+    </item>
     
     <item>
         <title>Tchouaméni zagrożony zawieszeniem w La Lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145079-zakonczenie-roku-dla-castilli</link>
         <pubDate>Sat, 20 Dec 2025 10:51:00 GMT</pubDate>
         <description>W 17. kolejce Ligi Endesa Castilla zmierzy się z drugą drużyną Celty Vigo, z którą sąsiaduje w tabeli. Zwycięzca tego pojedynku nowy rok przywita na ligowym podium.</description>
-    </item>
-    
-    <item>
-        <title>I tak źle, i tak niedobrze</title>
-        <link>https://www.realmadryt.pl/news/145081-i-tak-zle-i-tak-niedobrze</link>
-        <pubDate>Sat, 20 Dec 2025 10:00:00 GMT</pubDate>
-        <description>Czy da się wygrać i przegrać jednocześnie? Z technicznego punktu widzenia nie za bardzo. W praktyce jednak nic nie jest aż tak czarno-białe.</description>
     </item>
     
 </channel>
