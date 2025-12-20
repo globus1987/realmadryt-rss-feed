@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 19 Dec 2025 23:54:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 02:03:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145082-dzisiejsze-okladki</link>
+        <pubDate>Sat, 20 Dec 2025 01:03:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real nie opublikował kadry na mecz z Sevillą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145065-xabi-alonso-u-mnie-wszystko-w-porzadku-mam-nadzieje-ze-u-was-tez</link>
         <pubDate>Fri, 19 Dec 2025 13:17:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Sevillą w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Sevillą</title>
-        <link>https://www.realmadryt.pl/news/145064-ostatni-trening-przed-sevilla</link>
-        <pubDate>Fri, 19 Dec 2025 12:59:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Sevillą.</description>
     </item>
     
 </channel>
