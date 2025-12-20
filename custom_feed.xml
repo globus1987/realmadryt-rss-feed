@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Dec 2025 10:28:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 10:45:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Joselu: Zespół czuł, co znaczy nosić koszulkę Realu, dziś nie wiem, czy to gdzieś nie zniknęło</title>
+        <link>https://www.realmadryt.pl/news/145086-joselu-zespol-czul-co-znaczy-nosic-koszulke-realu-dzis-nie-wiem-czy-to-gdzies-nie-zniknelo</link>
+        <pubDate>Sat, 20 Dec 2025 11:42:00 GMT</pubDate>
+        <description>Joselu udzielił wywiadu dziennikowi AS. Przedstawiamy pełne tłumaczenie tej rozmowy z byłym napastnikiem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Zakończenie roku dla Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145073-telewizyjny-terminarz-17-kolejki-la-ligi</link>
         <pubDate>Fri, 19 Dec 2025 20:00:00 GMT</pubDate>
         <description>Dziś rozpocznie się 17. kolejka La Ligi. Real Madryt zagra jutro u siebie z Sevillą. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Muñiz Ruiz na Sevillę</title>
-        <link>https://www.realmadryt.pl/news/145074-muniz-ruiz-na-seville</link>
-        <pubDate>Fri, 19 Dec 2025 18:41:00 GMT</pubDate>
-        <description>34-latek po raz piąty spotka się na boisku z Realem Madryt. Sędzią VAR będzie Javier Iglesias Villanueva.</description>
     </item>
     
 </channel>
