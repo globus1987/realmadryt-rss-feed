@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Dec 2025 11:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 11:40:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé o dwa gole od historii</title>
+        <link>https://www.realmadryt.pl/news/145085-mbappe-o-dwa-gole-od-historii</link>
+        <pubDate>Sat, 20 Dec 2025 12:33:00 GMT</pubDate>
+        <description>Kylian Mbappé może w meczu z Sevillą pobić rekord strzelecki Cristiano w Realu Madryt w roku kalendarzowym.</description>
+    </item>
     
     <item>
         <title>Joselu: Zespół czuł, co znaczy nosić koszulkę Realu, dziś nie wiem, czy to gdzieś nie zniknęło</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145075-florentino-tutaj-trzeba-walczyc-do-konca-i-o-to-was-prosze</link>
         <pubDate>Fri, 19 Dec 2025 20:40:00 GMT</pubDate>
         <description>Pierwsze drużyny piłki nożnej mężczyzn i kobiet oraz koszykówki spotkały się na świątecznym obiedzie, który odbył się w hali koszykarskiej w Valdebebas. Wydarzeniu przewodniczył Florentino Pérez, a uczestniczyli w nim także prezes honorowy Pirri oraz kilku członków zarządu. Podczas spotkania głos zabrał prezes Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 17. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/145073-telewizyjny-terminarz-17-kolejki-la-ligi</link>
-        <pubDate>Fri, 19 Dec 2025 20:00:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 17. kolejka La Ligi. Real Madryt zagra jutro u siebie z Sevillą. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
