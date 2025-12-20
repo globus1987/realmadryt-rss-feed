@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Dec 2025 16:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 17:22:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni zagrożony zawieszeniem w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/145088-tchouameni-zagrozony-zawieszeniem-w-la-lidze</link>
+        <pubDate>Sat, 20 Dec 2025 18:22:00 GMT</pubDate>
+        <description>Francuz musi dzisiaj uważać, jeśli nie chce przegapić kolejnego spotkania z Betisem.</description>
+    </item>
     
     <item>
         <title>Sevilla nie wygrała na Bernabéu od 2008 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145081-i-tak-zle-i-tak-niedobrze</link>
         <pubDate>Sat, 20 Dec 2025 10:00:00 GMT</pubDate>
         <description>Czy da się wygrać i przegrać jednocześnie? Z technicznego punktu widzenia nie za bardzo. W praktyce jednak nic nie jest aż tak czarno-białe.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 20 grudnia</title>
-        <link>https://www.realmadryt.pl/news/145078-kartka-z-kalendarza-20-grudnia</link>
-        <pubDate>Sat, 20 Dec 2025 09:57:00 GMT</pubDate>
-        <description>Urodziny byłego zawodnika, wstydliwa porażka w sezonie Fabio Capello, zwycięstwo z San Lorenzo i rozbicie Rayo. Co działo się 20 grudnia?</description>
     </item>
     
 </channel>
