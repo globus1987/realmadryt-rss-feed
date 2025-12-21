@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 06:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 07:27:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Butragueño: Kylian osiągnął niesamowity wynik i sprawił, że znów wspominamy naszą legendę, Cristiano</title>
+        <link>https://www.realmadryt.pl/news/145112-butragueno-kylian-osiagnal-niesamowity-wynik-i-sprawil-ze-znow-wspominamy-nasza-legende-cristiano</link>
+        <pubDate>Sun, 21 Dec 2025 08:18:00 GMT</pubDate>
+        <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Sevillą na Santiago Bernabéu. Przedstawiamy wypowiedzi działacza.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy kibice na Bernabéu powinni gwizdać na własnych piłkarzy?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145101-bellingham-mvp-meczu-z-sevilla</link>
         <pubDate>Sat, 20 Dec 2025 23:01:00 GMT</pubDate>
         <description>Jude Bellingham został wyróżniony po meczu Realu Madryt z Sevillą.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Sevillą</title>
-        <link>https://www.realmadryt.pl/news/145100-ocen-pilkarzy-po-meczu-z-sevilla</link>
-        <pubDate>Sat, 20 Dec 2025 23:01:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
