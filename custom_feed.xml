@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 09:44:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 09:57:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś rusza Puchar Narodów Afryki 2025</title>
+        <link>https://www.realmadryt.pl/news/145095-dzis-rusza-puchar-narodow-afryki-2025</link>
+        <pubDate>Sun, 21 Dec 2025 10:51:00 GMT</pubDate>
+        <description>Przez niecały miesiąc najlepsze afrykańskie reprezentacje będą rywalizować w Maroku o wygranie najważniejszego turnieju na kontynencie. W ich kadrach znalazło się dwóch zawodników Realu Madryt: Brahim Díaz i Loren Zúñiga.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 21 grudnia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145104-mbappe-oddamy-zycie-za-ten-herb</link>
         <pubDate>Sat, 20 Dec 2025 23:17:00 GMT</pubDate>
         <description>Kylian Mbappé udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Sevillą. Przedstawiamy wypowiedzi napastnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Agoumé: Zawsze ta sama historia!</title>
-        <link>https://www.realmadryt.pl/news/145103-agoume-zawsze-ta-sama-historia</link>
-        <pubDate>Sat, 20 Dec 2025 23:09:00 GMT</pubDate>
-        <description>Lucien Agoumé udzielił wywiadu telewizji Movistar+ po przegranym 0:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi gracza Sevilli z murawy Santiago Bernabéu.</description>
     </item>
     
 </channel>
