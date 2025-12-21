@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 08:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 09:27:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 21 grudnia</title>
+        <link>https://www.realmadryt.pl/news/145110-kartka-z-kalendarza-21-grudnia</link>
+        <pubDate>Sun, 21 Dec 2025 10:00:00 GMT</pubDate>
+        <description>Urodziny byłego zawodnika, towarzyskie spotkanie z reprezentacją Hiszpanii, debiut Paco Buyo w kadrze i dwa transfery defensywnych pomocników. Co działo się 21 grudnia?</description>
+    </item>
     
     <item>
         <title>Czas decyzji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145103-agoume-zawsze-ta-sama-historia</link>
         <pubDate>Sat, 20 Dec 2025 23:09:00 GMT</pubDate>
         <description>Lucien Agoumé udzielił wywiadu telewizji Movistar+ po przegranym 0:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi gracza Sevilli z murawy Santiago Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé wyrównał rekord Cristiano</title>
-        <link>https://www.realmadryt.pl/news/145102-mbappe-wyrownal-rekord-cristiano</link>
-        <pubDate>Sat, 20 Dec 2025 23:07:00 GMT</pubDate>
-        <description>Kylian Mbappé w meczu z Sevillą wyrównał rekord strzelecki Cristiano w Realu Madryt w roku kalendarzowym.</description>
     </item>
     
 </channel>
