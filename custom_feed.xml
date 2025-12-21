@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 20 Dec 2025 23:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 02:23:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145113-dzisiejsze-okladki</link>
+        <pubDate>Sun, 21 Dec 2025 00:59:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Jestem gotowy na to, co przyjdzie w 2026 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145097-krolewskie-z-pewnym-awansem-w-pucharze-krolowej</link>
         <pubDate>Sat, 20 Dec 2025 21:19:00 GMT</pubDate>
         <description>W meczu 1/8 finału Pucharu Królowej piłkarki Realu Madryt wygrały na wyjeździe z Espanyolem 4:0. Dubletami popisały się Linda Caicedo i Iris Ashley.</description>
-    </item>
-    
-    <item>
-        <title>Wymęczona wygrana w Katalonii</title>
-        <link>https://www.realmadryt.pl/news/145098-wymeczona-wygrana-w-katalonii</link>
-        <pubDate>Sat, 20 Dec 2025 21:07:00 GMT</pubDate>
-        <description>W 11. kolejce Ligi Endesa Real Madryt pokonał Lleidę i umocnił się na prowadzeniu w Lidze Endesa. Katalończycy sprawili madrytczykom dużo problemów i Scariolo nie mógł tak rotować składem, jakby tego chciał.</description>
     </item>
     
 </channel>
