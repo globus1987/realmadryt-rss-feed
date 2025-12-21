@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 07:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 08:34:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czas decyzji</title>
+        <link>https://www.realmadryt.pl/news/145115-czas-decyzji</link>
+        <pubDate>Sun, 21 Dec 2025 09:09:00 GMT</pubDate>
+        <description>Real Madryt w dalszym ciągu budzi wątpliwości wokół swojej gry i przygotowania fizycznego. Przed Xabim Alonso 18 dni do Superpucharu Hiszpanii, który wyda na nim ostateczny wyrok.</description>
+    </item>
     
     <item>
         <title>Butragueño: Kylian osiągnął niesamowity wynik i sprawił, że znów wspominamy naszą legendę, Cristiano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145102-mbappe-wyrownal-rekord-cristiano</link>
         <pubDate>Sat, 20 Dec 2025 23:07:00 GMT</pubDate>
         <description>Kylian Mbappé w meczu z Sevillą wyrównał rekord strzelecki Cristiano w Realu Madryt w roku kalendarzowym.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham MVP meczu z Sevillą</title>
-        <link>https://www.realmadryt.pl/news/145101-bellingham-mvp-meczu-z-sevilla</link>
-        <pubDate>Sat, 20 Dec 2025 23:01:00 GMT</pubDate>
-        <description>Jude Bellingham został wyróżniony po meczu Realu Madryt z Sevillą.</description>
     </item>
     
 </channel>
