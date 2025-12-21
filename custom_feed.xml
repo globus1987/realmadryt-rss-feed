@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 11:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 11:40:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Klub i włodarze nadal stoją po stronie Viníciusa, choć czują niepokój</title>
+        <link>https://www.realmadryt.pl/news/145117-as-klub-i-wlodarze-nadal-stoja-po-stronie-viniciusa-choc-czuja-niepokoj</link>
+        <pubDate>Sun, 21 Dec 2025 12:30:00 GMT</pubDate>
+        <description>Napięta atmosfera wokół Viníciusa niepokoi władze, które chcą uniknąć samozadowolenia w zespole.</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Sevillą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145107-courtois-trzy-punkty-sa-wazne-ale-musimy-poprawic-nasza-gre</link>
         <pubDate>Sat, 20 Dec 2025 23:52:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Sevillą na Santiago Bernabéu. Przedstawiamy wypowiedzi bramkarza Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius usuwa zdjęcie profilowe na Instagramie w barwach Realu i dodaje enigmatyczny wpis</title>
-        <link>https://www.realmadryt.pl/news/145106-vinicius-usuwa-zdjecie-profilowe-na-instagramie-w-barwach-realu-i-dodaje-enigmatyczny-wpis</link>
-        <pubDate>Sat, 20 Dec 2025 23:50:00 GMT</pubDate>
-        <description>Brazylijczyk daje coś do zrozumienia?</description>
     </item>
     
 </channel>
