@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 16:32:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 16:54:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x20: Real wygrywa, Xabi przegrywa?</title>
+        <link>https://www.realmadryt.pl/news/145119-podcast-7x20-real-wygrywa-xabi-przegrywa</link>
+        <pubDate>Sun, 21 Dec 2025 17:37:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po ostatnich zwycięstwach</description>
+    </item>
     
     <item>
         <title>17 kolejka: Barcelona prowadzi z Villarrealem [Trwa 2. połowa]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145105-xabi-alonso-jestem-gotowy-na-to-co-przyjdzie-w-2026-roku</link>
         <pubDate>Sun, 21 Dec 2025 00:27:00 GMT</pubDate>
         <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 2:0 meczu z Sevillą. Przedstawiamy zapis tego spotkania z dziennikarzami trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:0 Sevilla [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145109-real-madryt-2-0-sevilla-video</link>
-        <pubDate>Sun, 21 Dec 2025 00:07:00 GMT</pubDate>
-        <description>W meczu 17. kolejki La Ligi Real Madryt wygrał u siebie z Sevillą 2:0. Bramki dla Królewskich zdobyli Jude Bellingham i Kylian Mbappé.</description>
     </item>
     
 </channel>
