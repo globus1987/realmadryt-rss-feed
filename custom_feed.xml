@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 21 Dec 2025 23:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 23:43:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145125-dzisiejsze-okladki</link>
+        <pubDate>Mon, 22 Dec 2025 00:41:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko wygrało z Komorami w meczu otwarcia Pucharu Narodów Afryki [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145114-almeyda-nie-jestem-zadnym-klaunem-z-cyrku-mam-swoja-historie-w-pilce-i-jako-czlowiek</link>
         <pubDate>Sun, 21 Dec 2025 05:30:00 GMT</pubDate>
         <description>Matías Almeyda stawił się na konferencji prasowej po przegranym 0:2 meczu z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi trenera Sevilli.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145113-dzisiejsze-okladki</link>
-        <pubDate>Sun, 21 Dec 2025 00:59:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
