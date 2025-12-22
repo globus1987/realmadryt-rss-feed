@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Dec 2025 09:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 10:33:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zimowa przerwa w strefie spadkowej</title>
+        <link>https://www.realmadryt.pl/news/145123-zimowa-przerwa-w-strefie-spadkowej</link>
+        <pubDate>Mon, 22 Dec 2025 11:00:00 GMT</pubDate>
+        <description>Po 16 kolejkach Real Madryt C znajduje się w strefie spadkowej. Powtarza się sytuacja sprzed roku, kiedy pracę stracił poprzedni szkoleniowiec.</description>
+    </item>
     
     <item>
         <title>„Można zmniejszyć poziom wyciszenia Bernabéu o połowę”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145116-oceny-zawodnikow-po-meczu-z-sevilla</link>
         <pubDate>Sun, 21 Dec 2025 11:40:00 GMT</pubDate>
         <description>Real Madryt wygrał 2:0 z Sevillą w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Dziś rusza Puchar Narodów Afryki 2025</title>
-        <link>https://www.realmadryt.pl/news/145095-dzis-rusza-puchar-narodow-afryki-2025</link>
-        <pubDate>Sun, 21 Dec 2025 10:51:00 GMT</pubDate>
-        <description>Przez niecały miesiąc najlepsze afrykańskie reprezentacje będą rywalizować w Maroku o wygranie najważniejszego turnieju na kontynencie. W ich kadrach znalazło się dwóch zawodników Realu Madryt: Brahim Díaz i Loren Zúñiga.</description>
     </item>
     
 </channel>
