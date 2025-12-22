@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Dec 2025 10:55:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 11:25:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso kupuje czas, ale drużyna wciąż pozostaje nieobecna</title>
+        <link>https://www.realmadryt.pl/news/145128-xabi-alonso-kupuje-czas-ale-druzyna-wciaz-pozostaje-nieobecna</link>
+        <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
+        <description>Real Madryt odniósł skromne zwycięstwo nad Sevillą, która nie miała determinacji w obu polach karnych. Los Blancos nie rozwiązują swoich problemów, a Bernabéu traci cierpliwość. Mecz z innej perspektywy na łamach El Confidencial opisuje Ángel del Riego. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
+    </item>
     
     <item>
         <title>Zimowa przerwa w strefie spadkowej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145117-as-klub-i-wlodarze-nadal-stoja-po-stronie-viniciusa-choc-czuja-niepokoj</link>
         <pubDate>Sun, 21 Dec 2025 12:30:00 GMT</pubDate>
         <description>Napięta atmosfera wokół Viníciusa niepokoi władze, które chcą uniknąć samozadowolenia w zespole.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Sevillą</title>
-        <link>https://www.realmadryt.pl/news/145116-oceny-zawodnikow-po-meczu-z-sevilla</link>
-        <pubDate>Sun, 21 Dec 2025 11:40:00 GMT</pubDate>
-        <description>Real Madryt wygrał 2:0 z Sevillą w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
