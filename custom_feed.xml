@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 22 Dec 2025 23:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 23:43:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145145-dzisiejsze-okladki</link>
+        <pubDate>Tue, 23 Dec 2025 00:31:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>L’Équipe: Lyon porozumiał się z Realem w sprawie Endricka</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145128-xabi-alonso-kupuje-czas-ale-druzyna-wciaz-pozostaje-nieobecna</link>
         <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
         <description>Real Madryt odniósł skromne zwycięstwo nad Sevillą, która nie miała determinacji w obu polach karnych. Los Blancos nie rozwiązują swoich problemów, a Bernabéu traci cierpliwość. Mecz z innej perspektywy na łamach El Confidencial opisuje Ángel del Riego. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Zimowa przerwa w strefie spadkowej</title>
-        <link>https://www.realmadryt.pl/news/145123-zimowa-przerwa-w-strefie-spadkowej</link>
-        <pubDate>Mon, 22 Dec 2025 11:00:00 GMT</pubDate>
-        <description>Po 16 kolejkach Real Madryt C znajduje się w strefie spadkowej. Powtarza się sytuacja sprzed roku, kiedy pracę stracił poprzedni szkoleniowiec.</description>
     </item>
     
 </channel>
