@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Dec 2025 06:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 07:30:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/145146-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 23 Dec 2025 08:18:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 17. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy Xabi Alonso utrzyma się na stanowisku do końca sezonu?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145132-oficjalnie-mecze-superpucharu-hiszpanii-w-eleven-sports</link>
         <pubDate>Mon, 22 Dec 2025 14:16:00 GMT</pubDate>
         <description>Mecze Superpucharu Hiszpanii w tym i kolejnych sezonach będą pokazywane w Eleven Sports, które transmituje także rozgrywki Pucharu Króla oraz mecze La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Real Madryt z najwyższymi wpływami z praw telewizyjnych w Hiszpanii za ostatni sezon</title>
-        <link>https://www.realmadryt.pl/news/145130-oficjalnie-real-madryt-z-najwyzszymi-wplywami-z-praw-telewizyjnych-w-hiszpanii-za-ostatni-sezon</link>
-        <pubDate>Mon, 22 Dec 2025 14:00:00 GMT</pubDate>
-        <description>La Liga rozdziela 1 432 miliony euro z praw telewizyjnych. Real Madryt i Barcelona otrzymują mniej niż w poprzednim sezonie</description>
     </item>
     
 </channel>
