@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Dec 2025 07:47:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 08:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 grudnia</title>
+        <link>https://www.realmadryt.pl/news/145144-kartka-z-kalendarza-23-grudnia</link>
+        <pubDate>Tue, 23 Dec 2025 09:09:00 GMT</pubDate>
+        <description>Wygrany i przegrany Klasyk, urodziny legendarnego piłkarza i trenera oraz transfer uzdolnionego brazylijskiego obrońcy. Co działo się 23 grudnia?</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145133-asencio-szatnia-jest-w-stu-procentach-z-xabim</link>
         <pubDate>Mon, 22 Dec 2025 15:18:00 GMT</pubDate>
         <description>Raúl Asencio rozmawiał z dziennikarzami podczas pobytu na Wyspach Kanaryjskich. Przedstawiamy najważniejsze wypowiedzi obrońcy Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mecze Superpucharu Hiszpanii w Eleven Sports</title>
-        <link>https://www.realmadryt.pl/news/145132-oficjalnie-mecze-superpucharu-hiszpanii-w-eleven-sports</link>
-        <pubDate>Mon, 22 Dec 2025 14:16:00 GMT</pubDate>
-        <description>Mecze Superpucharu Hiszpanii w tym i kolejnych sezonach będą pokazywane w Eleven Sports, które transmituje także rozgrywki Pucharu Króla oraz mecze La Ligi.</description>
     </item>
     
 </channel>
