@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Dec 2025 11:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 11:44:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Między posuchą strzelecką a gwizdami</title>
+        <link>https://www.realmadryt.pl/news/145152-miedzy-posucha-strzelecka-a-gwizdami</link>
+        <pubDate>Tue, 23 Dec 2025 12:26:00 GMT</pubDate>
+        <description>Miniony rok był wręcz fatalny dla Viníciusa Júniora, który w 61 rozegranych meczach zdobył zaledwie 13 bramek.</description>
+    </item>
     
     <item>
         <title>Camavinga o filmiku Movistar+: Zostawcie go w spokoju, nie mówiłem o nim</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145139-poswiecenie-bellinghama</link>
         <pubDate>Tue, 23 Dec 2025 05:30:00 GMT</pubDate>
         <description>Jude Bellingham zagrał z Sevillą mimo przeciążenia mięśniowego, z jakim zmagał się przed rozpoczęciem meczu. Anglik ostatecznie odegrał kluczową rolę, otworzył wynik spotkania i jest na drodze do odszukania regularności.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145145-dzisiejsze-okladki</link>
-        <pubDate>Tue, 23 Dec 2025 00:31:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
