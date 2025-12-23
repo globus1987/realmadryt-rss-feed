@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Dec 2025 03:47:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 04:42:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Poświęcenie Bellinghama</title>
+        <link>https://www.realmadryt.pl/news/145139-poswiecenie-bellinghama</link>
+        <pubDate>Tue, 23 Dec 2025 05:30:00 GMT</pubDate>
+        <description>Jude Bellingham zagrał z Sevillą mimo przeciążenia mięśniowego, z jakim zmagał się przed rozpoczęciem meczu. Anglik ostatecznie odegrał kluczową rolę, otworzył wynik spotkania i jest na drodze do odszukania regularności.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145129-marca-kibice-wspieraja-xabiego-i-pokazuja-drzwi-viniciusowi</link>
         <pubDate>Mon, 22 Dec 2025 13:00:00 GMT</pubDate>
         <description>Hiszpański dziennik sporządził ankietę, w której kibice stwierdzili, że to piłkarze w największym stopniu odpowiadają za obecny obraz zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso kupuje czas, ale drużyna wciąż pozostaje nieobecna</title>
-        <link>https://www.realmadryt.pl/news/145128-xabi-alonso-kupuje-czas-ale-druzyna-wciaz-pozostaje-nieobecna</link>
-        <pubDate>Mon, 22 Dec 2025 12:00:00 GMT</pubDate>
-        <description>Real Madryt odniósł skromne zwycięstwo nad Sevillą, która nie miała determinacji w obu polach karnych. Los Blancos nie rozwiązują swoich problemów, a Bernabéu traci cierpliwość. Mecz z innej perspektywy na łamach El Confidencial opisuje Ángel del Riego. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
     </item>
     
 </channel>
