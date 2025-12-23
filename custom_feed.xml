@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 23 Dec 2025 22:45:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 23:25:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145169-dzisiejsze-okladki</link>
+        <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+        <description>Wywiady to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oświetlenia fasady Bernabéu z okazji świątecznego parku rozrywki [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145153-jak-dziala-mechanizm-trzeciego-zawodnika-i-dlaczego-jest-tak-wazny-w-budowaniu-akcji</link>
         <pubDate>Tue, 23 Dec 2025 13:45:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Manex Rezola pierwszym zimowym wzmocnieniem</title>
-        <link>https://www.realmadryt.pl/news/145142-manex-rezola-pierwszym-zimowym-wzmocnieniem</link>
-        <pubDate>Tue, 23 Dec 2025 12:54:00 GMT</pubDate>
-        <description></description>
     </item>
     
 </channel>
