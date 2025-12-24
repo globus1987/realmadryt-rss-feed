@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Dec 2025 11:55:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 12:57:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Huijsen – mundial na szali</title>
+        <link>https://www.realmadryt.pl/news/145176-huijsen-mundial-na-szali</link>
+        <pubDate>Wed, 24 Dec 2025 13:12:00 GMT</pubDate>
+        <description>Pozycja Deana Huijsena w reprezentacji Hiszpanii w ostatnich tygodniach uległa zdecydowanemu pogorszeniu. Stoper Królewskich musi odzyskać swój najlepszy poziom, aby ponownie móc myśleć o powołaniu na mundial.</description>
+    </item>
     
     <item>
         <title>FIFA ogłosiła podział nagród finansowych za mundial</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145166-marca-xabi-alonso-chce-opierac-gre-ofensywna-na-rodrygo</link>
         <pubDate>Wed, 24 Dec 2025 05:30:00 GMT</pubDate>
         <description>Zaufanie trenera przyniosło w końcu dobrą wersję Brazylijczyka. Oczekiwania szkoleniowca są jednak jeszcze większe.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145169-dzisiejsze-okladki</link>
-        <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
-        <description>Wywiady to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
