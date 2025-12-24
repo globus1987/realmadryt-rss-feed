@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 24 Dec 2025 22:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 23:25:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145185-dzisiejsze-okladki</link>
+        <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+        <description>Pierwszy dzień świąt Bożego Narodzenia to jeden z trzech dni w roku (obok 1 stycznia i Wielkiej Soboty), gdy w większości Hiszpanii nie można kupić prasy. Dzienniki publikują jednak swoje okładki: MARCA wypuszcza edycję internetową całej gazety, a katalońskie dzienniki pokazują pierwsze strony na dwa dni.</description>
+    </item>
     
     <item>
         <title>„Mbappé potrzebuje otoczenia go podobnym towarzystwem, jakie miał Cristiano”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145172-as-diego-martinez-przedluzyl-kontrakt-do-2030-roku</link>
         <pubDate>Wed, 24 Dec 2025 10:41:00 GMT</pubDate>
         <description>Według informacji hiszpańskiego dziennika Real Madryt przedłużył kontrakt z jednym z najbardziej utalentowanych zawodników w szkółce do 2030 roku.</description>
-    </item>
-    
-    <item>
-        <title>Del Bosque: Łatwiej jest być w Realu Madryt niż w innych drużynach</title>
-        <link>https://www.realmadryt.pl/news/145170-del-bosque-latwiej-jest-byc-w-realu-madryt-niz-w-innych-druzynach</link>
-        <pubDate>Wed, 24 Dec 2025 10:30:00 GMT</pubDate>
-        <description>Vicente del Bosque udzielił kilku wypowiedzi dla mediów w związku z nagrodą María de Villota 2025 za swoje osiągnięcia w Realu Madryt i reprezentacji Hiszpanii. Poniżej przedstawiamy ich zapis.</description>
     </item>
     
 </channel>
