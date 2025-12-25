@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Dec 2025 22:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 23:25:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145206-dzisiejsze-okladki</link>
+        <pubDate>Fri, 26 Dec 2025 00:00:00 GMT</pubDate>
+        <description>Wypożyczenie Endricka i świąteczne wywiady to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pierwsze zdjęcia domowej koszulki na nowy sezon [FOTO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145191-odzyskac-najlepszego-valverde</link>
         <pubDate>Thu, 25 Dec 2025 13:10:00 GMT</pubDate>
         <description>Xabi Alonso stawia sobie za cel odzyskanie najlepszej wersji Fede Valverde. Jak dotąd pod rządami Baska nie mieliśmy jeszcze okazji jej ujrzeć. Nie brakowało natomiast tarć spowodowanych wystawianiem Urugwajczyka na prawej obronie.</description>
-    </item>
-    
-    <item>
-        <title>Świąteczne wyzwania [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145189-swiateczne-wyzwania-video</link>
-        <pubDate>Thu, 25 Dec 2025 11:17:00 GMT</pubDate>
-        <description>Dani Carvajal, Éder Militão, Fede Valverde i Dani Ceballos wzięli udział w klubowych wyzwaniach, które związane są ze Świętami Bożego Narodzenia.</description>
     </item>
     
 </channel>
