@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Dec 2025 13:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 14:27:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rok Mbappédependencii</title>
+        <link>https://www.realmadryt.pl/news/145194-rok-mbappedependencii</link>
+        <pubDate>Thu, 25 Dec 2025 15:19:00 GMT</pubDate>
+        <description>59 bramek zdobytych przez Kylian Mbappé w 2025 roku mocno kontrastuje z dorobkiem strzeleckim pozostałych zawodników Królewskich w ostatnich 12 miesiącach.</description>
+    </item>
     
     <item>
         <title>Odkupienie Tchouaméniego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145181-chiringuito-vinicius-po-raz-pierwszy-czuje-ze-nie-ma-wsparcia-kibicow</link>
         <pubDate>Thu, 25 Dec 2025 07:00:00 GMT</pubDate>
         <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich otoczeniem. Przedstawiamy wypowiedzi tego dziennikarza na temat aktualnej sytuacji Viníciusa po gwizdach na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145185-dzisiejsze-okladki</link>
-        <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
-        <description>Pierwszy dzień świąt Bożego Narodzenia to jeden z trzech dni w roku (obok 1 stycznia i Wielkiej Soboty), gdy w większości Hiszpanii nie można kupić prasy. Dzienniki publikują jednak swoje okładki: MARCA wypuszcza edycję internetową całej gazety, a katalońskie dzienniki pokazują pierwsze strony na dwa dni.</description>
     </item>
     
 </channel>
