@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 25 Dec 2025 14:46:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 15:27:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Atlético sprzedało Javiego Galána</title>
+        <link>https://www.realmadryt.pl/news/145195-atletico-sprzedalo-javiego-galana</link>
+        <pubDate>Thu, 25 Dec 2025 15:53:00 GMT</pubDate>
+        <description>Sąsiedzi pozbyli się rzadko wykorzystywanego zawodnika na dwa tygodnie przed następnymi derbami.</description>
+    </item>
     
     <item>
         <title>Rok Mbappédependencii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145182-glos-kibica-najlepszy-pilkarz-pierwszej-czesci-sezonu</link>
         <pubDate>Thu, 25 Dec 2025 08:00:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Chiringuito: Vinícius po raz pierwszy czuje, że nie ma wsparcia kibiców</title>
-        <link>https://www.realmadryt.pl/news/145181-chiringuito-vinicius-po-raz-pierwszy-czuje-ze-nie-ma-wsparcia-kibicow</link>
-        <pubDate>Thu, 25 Dec 2025 07:00:00 GMT</pubDate>
-        <description>Marcos Benito to dziennikarz Chiringuito, który utrzymuje bliskie relacje z Brazylijczykami z Realu Madryt i ich otoczeniem. Przedstawiamy wypowiedzi tego dziennikarza na temat aktualnej sytuacji Viníciusa po gwizdach na Bernabéu.</description>
     </item>
     
 </channel>
