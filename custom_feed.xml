@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 26 Dec 2025 22:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 23:25:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145229-dzisiejsze-okladki</link>
+        <pubDate>Sat, 27 Dec 2025 00:10:00 GMT</pubDate>
+        <description>Wycena Kyliana Mbappé i wypowiedzi Roberta Lewandowskiego to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>SER: Real ruszy po Vitinhę w przypadku odejścia Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/145223-ser-real-ruszy-po-vitinhe-w-przypadku-odejscia-viniciusa</link>
+        <pubDate>Sat, 27 Dec 2025 00:01:00 GMT</pubDate>
+        <description>Według dziennikarza Pacojó Delgado z radia SER Real Madryt będzie chciał sprowadzić pomocnika PSG, jeśli ostatecznie Vini nie przedłuży umowy i zostanie sprzedany latem przyszłego roku.</description>
+    </item>
     
     <item>
         <title>Maroko zremisowało z Mali [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145211-leboeuf-mbappe-nie-moze-porownywac-sie-do-zidanea</link>
         <pubDate>Fri, 26 Dec 2025 12:24:00 GMT</pubDate>
         <description>Frank Lebœuf to były reprezentant Francji, a także były zawodnik Strasbourga, Marsylii czy Chelsea. Teraz udzielił wywiadu portalowi Goal. Przedstawiamy jego najważniejsze wypowiedzi związane z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Zdajemy sobie sprawę, że zmierzymy się z wicemistrzem Euroligi</title>
-        <link>https://www.realmadryt.pl/news/145207-scariolo-zdajemy-sobie-sprawe-ze-zmierzymy-sie-z-wicemistrzem-euroligi</link>
-        <pubDate>Fri, 26 Dec 2025 11:55:00 GMT</pubDate>
-        <description>Sergio Scariolo rozmawiał z dziennikarzami przed spotkaniem z Monaco w Eurolidze. W pozytywnych słowach wypowiadał się o rywalu i mówił o tym, na co jego podopieczni muszą zwrócić szczególną uwagę.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 26 grudnia</title>
-        <link>https://www.realmadryt.pl/news/145208-kartka-z-kalendarza-26-grudnia</link>
-        <pubDate>Fri, 26 Dec 2025 10:30:00 GMT</pubDate>
-        <description>Urodziny byłego trenera koszykarzy i byłego zawodnika, a także niecodzienna informacja o dwóch nowych zawodnikach. Co działo się 26 grudnia?</description>
     </item>
     
 </channel>
