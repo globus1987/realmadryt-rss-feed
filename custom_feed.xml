@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 27 Dec 2025 22:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 23:27:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145247-dzisiejsze-okladki</link>
+        <pubDate>Sun, 28 Dec 2025 00:07:00 GMT</pubDate>
+        <description>Osiągnięcie Thibaut Courtois i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Realu Madryt U-12 rozgrywa drugi mecz w turnieju FC Futures [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145218-dokument-superstadion-realu-madryt-dostepny-na-youtubie-video</link>
         <pubDate>Sat, 27 Dec 2025 12:00:00 GMT</pubDate>
         <description>National Geographic zamieścił na YouTubie pełny dokument „Superstadion Realu Madryt”, który w telewizji premierę miał rok temu.</description>
-    </item>
-    
-    <item>
-        <title>Ancelotti: Dostosuj się i zbuduj system, w którym zawodnicy i cała drużyna czują się komfortowo</title>
-        <link>https://www.realmadryt.pl/news/145220-ancelotti-dostosuj-sie-i-zbuduj-system-w-ktorym-zawodnicy-i-cala-druzyna-czuja-sie-komfortowo</link>
-        <pubDate>Sat, 27 Dec 2025 11:10:00 GMT</pubDate>
-        <description>Carlo Ancelotti udzielił wywiadu brytyjskiemu TNT Sports. Przedstawiamy wypowiedzi byłego trenera Realu Madryt i obecnego selekcjonera Brazylii z tej rozmowy.</description>
     </item>
     
 </channel>
