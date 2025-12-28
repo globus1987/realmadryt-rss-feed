@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Dec 2025 09:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 09:46:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowy rok, nowe życie?</title>
+        <link>https://www.realmadryt.pl/news/145240-nowy-rok-nowe-zycie</link>
+        <pubDate>Sun, 28 Dec 2025 10:45:00 GMT</pubDate>
+        <description>Real Madryt zakończył rok zwycięstwem z Sevillą, co jednak nie zamazuje ogólnego obrazu ostatnich tygodni.</description>
+    </item>
     
     <item>
         <title>„Mówiłam, że słodkie wypieki na śniadanie nie są dobre, a oni odpowiadali, że tak wygrali 15 Lig Mistrzów”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145236-gol-i-asysta-nico-paza-trafienie-jacobo-ramona-video</link>
         <pubDate>Sat, 27 Dec 2025 17:34:00 GMT</pubDate>
         <description>W meczu 17. kolejki Serie A Como pewnie wygrało na wyjeździe z Lecce 3:0, a bohaterami gości byli zawodnicy związani z Realem Madryt: Nico Paz i Jacobo Ramón. Bramki można obejrzeć po naciśnięciu w nazwisko zawodnika pod wynikiem, na dole artykułu.</description>
-    </item>
-    
-    <item>
-        <title>Nowy rok, nowy Camavinga?</title>
-        <link>https://www.realmadryt.pl/news/145235-nowy-rok-nowy-camavinga</link>
-        <pubDate>Sat, 27 Dec 2025 15:48:00 GMT</pubDate>
-        <description>Trener marzy, by pomocnik wszedł w nowy rok wypoczęty fizycznie i psychicznie. Potrzebuje go jako zmiennika dla Tchouaméniego i Valverde.</description>
     </item>
     
 </channel>
