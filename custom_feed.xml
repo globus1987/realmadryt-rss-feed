@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Dec 2025 10:47:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 11:22:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalny komunikat Realu Madryt ws. śmierci byłego wiceprezesa Barcelony</title>
+        <link>https://www.realmadryt.pl/news/145252-oficjalny-komunikat-realu-madryt-ws-smierci-bylego-wiceprezesa-barcelony</link>
+        <pubDate>Sun, 28 Dec 2025 11:47:00 GMT</pubDate>
+        <description>Królewscy wystosowali komunikat z kondolencjami.</description>
+    </item>
     
     <item>
         <title>Kroos: Xabi Alonso? Nie możesz myśleć – to jest mój projekt w Realu, tak chcę grać za rok czy dwa lata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145247-dzisiejsze-okladki</link>
         <pubDate>Sun, 28 Dec 2025 00:07:00 GMT</pubDate>
         <description>Osiągnięcie Thibaut Courtois i plany Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Realu Madryt U-12 rozgrywa drugi mecz w turnieju FC Futures [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/145239-realu-madryt-u-12-rozgrywa-drugi-mecz-w-turnieju-fc-futures-na-zywo</link>
-        <pubDate>Sat, 27 Dec 2025 19:45:00 GMT</pubDate>
-        <description>Drużyna U-12 Realu Madryt bierze udział w tradycyjnej zimowej edycji turnieju FC Futures (poprzednia nazwa Promises).</description>
     </item>
     
 </channel>
