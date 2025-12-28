@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Dec 2025 22:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 23:25:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145271-dzisiejsze-okladki</link>
+        <pubDate>Mon, 29 Dec 2025 00:14:00 GMT</pubDate>
+        <description>Wywiady to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Dziś Królewscy wracają do treningów</title>
+        <link>https://www.realmadryt.pl/news/145265-dzis-krolewscy-wracaja-do-treningow</link>
+        <pubDate>Mon, 29 Dec 2025 00:01:00 GMT</pubDate>
+        <description>Dzisiejszego popołudnia piłkarze Realu Madryt odbędą pierwszy trening po świątecznych urlopach.</description>
+    </item>
     
     <item>
         <title>Scariolo: Trzeba bardzo docenić to zwycięstwo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145255-pierwsze-zdjecie-i-pelna-wizualizacja-wyjazdowej-koszulki-na-nowy-sezon</link>
         <pubDate>Sun, 28 Dec 2025 15:15:00 GMT</pubDate>
         <description>W Internecie pojawiły się pierwsze zdjęcia oraz pełne wizualizacje dotyczące wyjazdowej koszulki na sezon 2026/27.</description>
-    </item>
-    
-    <item>
-        <title>Realu Madryt U-12 wyszedł z grupy na turnieju FC Futures [AKTUALIZACJA]</title>
-        <link>https://www.realmadryt.pl/news/145253-realu-madryt-u-12-wyszedl-z-grupy-na-turnieju-fc-futures-aktualizacja</link>
-        <pubDate>Sun, 28 Dec 2025 13:00:00 GMT</pubDate>
-        <description>Drużyna U-12 Realu Madryt bierze udział w tradycyjnej zimowej edycji turnieju FC Futures (poprzednia nazwa Promises). Po południu rozegra ostatni mecz fazy grupowej. // AKTUALIZACJA: Królewscy wygrali i wyszli z grupy.</description>
-    </item>
-    
-    <item>
-        <title>Pożegnanie roku w Movistar Arenie</title>
-        <link>https://www.realmadryt.pl/news/145249-pozegnanie-roku-w-movistar-arenie</link>
-        <pubDate>Sun, 28 Dec 2025 12:30:00 GMT</pubDate>
-        <description>W 12. kolejce Ligi Endesa Real Madryt zmierzy się z Unicają. Będzie to ostatni mecz w 2025 roku w Movistar Arenie i jednocześnie przedostatni ogółem, bo Królewskich czeka jeszcze wyjazd do Murcji.</description>
     </item>
     
 </channel>
