@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 28 Dec 2025 06:41:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 06:59:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Priorytet w działaniu Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145248-glos-kibica-priorytet-w-dzialaniu-realu-madryt</link>
+        <pubDate>Sun, 28 Dec 2025 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Dyrektor sportowy Al-Ittihad: Transfer Viníciusa do Arabii Saudyjskiej jest możliwy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145232-marca-rachad-fettal-wraca-do-gry</link>
         <pubDate>Sat, 27 Dec 2025 15:12:00 GMT</pubDate>
         <description>Po czterech miesiącach absencji 20-letni napastnik dostał od lekarzy pozwolenie na grę. Arbeloa będzie mógł liczyć na Rachada w pierwszym meczu ligowym nowego roku.</description>
-    </item>
-    
-    <item>
-        <title>Realu Madryt U-12 rozpoczyna zmagania w turnieju FC Futures [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/145231-realu-madryt-u-12-rozpoczyna-zmagania-w-turnieju-fc-futures-na-zywo</link>
-        <pubDate>Sat, 27 Dec 2025 13:58:00 GMT</pubDate>
-        <description>Drużyna U-12 Realu Madryt rozpoczyna międzynarodową edycję turnieju FC Futures (poprzednia nazwa Promises).</description>
     </item>
     
 </channel>
