@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 29 Dec 2025 22:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 23:26:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145291-dzisiejsze-okladki</link>
+        <pubDate>Tue, 30 Dec 2025 00:06:00 GMT</pubDate>
+        <description>Wywiad z Vitinhą i powrót Barcelony do treningów to najważniejsze tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt U-12 zajmuje 3. miejsce w turnieju FC Futures [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145274-real-madryt-u-12-przegral-po-karnych-w-polfinale-fc-futures-aktualizacja</link>
         <pubDate>Mon, 29 Dec 2025 11:19:00 GMT</pubDate>
         <description>Drużyna U-12 Realu Madryt bierze udział w tradycyjnej zimowej edycji turnieju FC Futures (poprzednia nazwa Promises). Dzisiaj w południe rozgrywa swój półfinał.</description>
-    </item>
-    
-    <item>
-        <title>Asystent Ancelottiego: Xabi Alonso jest obecnie najlepszym możliwym trenerem dla Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145273-asystent-ancelottiego-xabi-alonso-jest-obecnie-najlepszym-mozliwym-trenerem-dla-realu-madryt</link>
-        <pubDate>Mon, 29 Dec 2025 11:08:00 GMT</pubDate>
-        <description>Francesco Mauri to asystent Carlo Ancelottiego od przygotowania fizycznego i stałych fragmentów. Teraz pracuje z Włochem w reprezentacji Brazylii. Przedstawiamy jego wypowiedzi z rozmowy z Asem.</description>
     </item>
     
 </channel>
