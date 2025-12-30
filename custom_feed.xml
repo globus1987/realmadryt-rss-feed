@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Dec 2025 09:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 10:32:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ramos zaczyna poszukiwania nowej drużyny</title>
+        <link>https://www.realmadryt.pl/news/145282-ramos-zaczyna-poszukiwania-nowej-druzyny</link>
+        <pubDate>Tue, 30 Dec 2025 11:10:00 GMT</pubDate>
+        <description>Hiszpan szuka nowych wyzywań, a kolejny klub chce znaleźć jeszcze w styczniu.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Real Madryt złożył kondolencje po śmierci Enrique Collara</title>
+        <link>https://www.realmadryt.pl/news/145297-oficjalnie-real-madryt-zlozyl-kondolencje-po-smierci-enrique-collara</link>
+        <pubDate>Tue, 30 Dec 2025 10:57:00 GMT</pubDate>
+        <description>Królewscy wystosowali oficjalny komunikat z wyrazami współczucia.</description>
+    </item>
     
     <item>
         <title>AS: Rüdiger nadal nie dostał propozycji nowego kontraktu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145288-opta-tylko-tottenham-stracil-wiecej-goli-od-realu-w-2025-roku</link>
         <pubDate>Tue, 30 Dec 2025 05:30:00 GMT</pubDate>
         <description>Konto statystyczne Opty przedstawiło szokującą w kontekście Królewskich liczbę za kończący się rok, która obnaża ich defensywę.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145291-dzisiejsze-okladki</link>
-        <pubDate>Tue, 30 Dec 2025 00:06:00 GMT</pubDate>
-        <description>Wywiad z Vitinhą, plany Realu Madryt i powrót Barcelony do treningów to najważniejsze tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt U-12 zajmuje 3. miejsce w turnieju FC Futures [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145290-real-madryt-u-12-zajmuje-3-miejsce-w-turnieju-fc-futures-video</link>
-        <pubDate>Mon, 29 Dec 2025 23:30:00 GMT</pubDate>
-        <description>W meczu o 3. miejsce XXIX Międzynarodowego Turnieju LaLiga FC Futures Real Madryt U-12 pokonał 5:2 Valencię. Hugo Fernández, kapitan Królewskich, zakończył turniej z nagrodą króla strzelców.</description>
     </item>
     
 </channel>
