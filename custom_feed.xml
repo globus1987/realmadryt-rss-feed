@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 30 Dec 2025 16:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 17:32:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Szczególny przypadek Carvajala</title>
+        <link>https://www.realmadryt.pl/news/145316-szczegolny-przypadek-carvajala</link>
+        <pubDate>Tue, 30 Dec 2025 18:15:00 GMT</pubDate>
+        <description>Przedłużenie kontraktów Alaby i Rüdigera wydaje się skomplikowaną sprawą. Inaczej jest jednak w przypadku Daniego Carvajala. Kapitan pomimo swojego wieku i wątpliwości tyczących się jego stanu fizycznego ma sporo argumentów przemawiających na jego korzyść.</description>
+    </item>
     
     <item>
         <title>AS: Real Madryt nie jest zainteresowany Rúbenem Nevesem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145306-rodrygo-aby-real-madryt-zawsze-wygrywal</link>
         <pubDate>Tue, 30 Dec 2025 13:22:00 GMT</pubDate>
         <description>Rodrygo Goes udzielił wywiadu dla klubowej telewizji po zakończeniu otwartego treningu na Estadio Alfredo Di Stéfano. Przedstawiamy zapis rozmowy z Brazylijczykiem.</description>
-    </item>
-    
-    <item>
-        <title>Raúl Asencio: Żegnanie roku z kibicami to coś pięknego</title>
-        <link>https://www.realmadryt.pl/news/145305-raul-asencio-zegnanie-roku-z-kibicami-to-cos-pieknego</link>
-        <pubDate>Tue, 30 Dec 2025 13:08:00 GMT</pubDate>
-        <description>Raúl Asencio udzielił wywiadu dla klubowej telewizji po zakończeniu otwartego treningu na Estadio Alfredo Di Stéfano. Przedstawiamy zapis rozmowy z Hiszpanem.</description>
     </item>
     
 </channel>
