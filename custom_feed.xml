@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Dec 2025 14:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 15:28:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Suwerenna publiczność</title>
+        <link>https://www.realmadryt.pl/news/145344-suwerenna-publicznosc</link>
+        <pubDate>Wed, 31 Dec 2025 16:00:00 GMT</pubDate>
+        <description>Ignacio Ruiz-Quintano to hiszpański felietonista, który jest krytykiem politycznym, kulturowym i sportowym. Przedstawiamy jego tekst dla dziennika ABC.</description>
+    </item>
     
     <item>
         <title>Trzy finały Xabiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145328-kartka-z-kalendarza-31-grudnia</link>
         <pubDate>Wed, 31 Dec 2025 09:30:00 GMT</pubDate>
         <description>Urodziny byłych zawodników, wygrana z Valencią i zwycięstwo w koszykarskich derbach Madrytu. Co działo się 31 grudnia?</description>
-    </item>
-    
-    <item>
-        <title>Komendant policji „ukarany” za przelew od Mbappé</title>
-        <link>https://www.realmadryt.pl/news/145320-komendant-policji-ukarany-za-przelew-od-mbappe</link>
-        <pubDate>Wed, 31 Dec 2025 08:40:00 GMT</pubDate>
-        <description>Francuskie media podają, że częściowo rozstrzygnęła się sprawa darowizny piłkarza Realu Madryt dla pięciu policjantów. W sumie atakujący przelał im swego czasu aż 180 tysięcy euro.</description>
     </item>
     
 </channel>
