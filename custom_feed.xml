@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Dec 2025 09:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 09:54:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>67 meczów, zero tytułów</title>
+        <link>https://www.realmadryt.pl/news/145330-67-meczow-zero-tytulow</link>
+        <pubDate>Wed, 31 Dec 2025 10:42:00 GMT</pubDate>
+        <description>Królewscy pobili klubowy rekord rozegranych meczów w jednym roku kalendarzowym. Drużyna ma za sobą 67 spotkań w pięciu rozgrywkach, ale wynik ten nie przełożył się na ani jedno trofeum.</description>
+    </item>
     
     <item>
         <title>Infantino: Analizujemy przepis o spalonym</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145316-szczegolny-przypadek-carvajala</link>
         <pubDate>Tue, 30 Dec 2025 18:15:00 GMT</pubDate>
         <description>Przedłużenie kontraktów Alaby i Rüdigera wydaje się skomplikowaną sprawą. Inaczej jest jednak w przypadku Daniego Carvajala. Kapitan pomimo swojego wieku i wątpliwości tyczących się jego stanu fizycznego ma sporo argumentów przemawiających na jego korzyść.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real Madryt nie jest zainteresowany Rúbenem Nevesem</title>
-        <link>https://www.realmadryt.pl/news/145315-as-real-madryt-nie-jest-zainteresowany-rubenem-nevesem</link>
-        <pubDate>Tue, 30 Dec 2025 17:58:00 GMT</pubDate>
-        <description>Portugalczyk to gorące nazwisko transferowe 2026 roku. Saudyjczycy chcą przedłużyć z nim umowę, ale do drzwi pomocnika puka już kilka europejskich klubów. AS podkreśla, że nie ma wśród nich Realu Madryt.</description>
     </item>
     
 </channel>
