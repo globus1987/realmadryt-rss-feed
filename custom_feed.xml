@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Dec 2025 03:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 04:42:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guéhi wciąż na radarze Królewskich</title>
+        <link>https://www.realmadryt.pl/news/145317-guehi-wciaz-na-radarze-krolewskich</link>
+        <pubDate>Wed, 31 Dec 2025 05:30:00 GMT</pubDate>
+        <description>Marc Guéhi stał się jedną z głównych opcji rozważanych przez Real Madryt na środek obrony. Jak donosi AS, Królewscy zorientowali się już w sytuacji zawodnika i w razie potrzeby uruchomią kontakty z jego otoczeniem. Kontrakt 25-latka wygasa z końcem czerwca 2026 roku.</description>
+    </item>
     
     <item>
         <title>Scariolo: Od początku utrzymywaliśmy kontrolę nad meczem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145311-courtois-nie-mozemy-pozwolic-sobie-na-kolejny-rok-bez-tytulow</link>
         <pubDate>Tue, 30 Dec 2025 16:13:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu dla klubowej telewizji po zakończeniu otwartego treningu na Estadio Alfredo Di Stéfano. Przedstawiamy zapis rozmowy z Belgiem.</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo: Jestem bardzo szczęśliwy, że spełniłem marzenie o byciu zawodnikiem pierwszej drużyny</title>
-        <link>https://www.realmadryt.pl/news/145310-gonzalo-jestem-bardzo-szczesliwy-ze-spelnilem-marzenie-o-byciu-zawodnikiem-pierwszej-druzyny</link>
-        <pubDate>Tue, 30 Dec 2025 16:09:00 GMT</pubDate>
-        <description>Gonzalo García udzielił wywiadu dla klubowej telewizji po zakończeniu otwartego treningu na Estadio Alfredo Di Stéfano. Przedstawiamy zapis rozmowy z wychowankiem.</description>
     </item>
     
 </channel>
