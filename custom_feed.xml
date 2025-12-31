@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 31 Dec 2025 12:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 13:38:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Kylian Mbappé kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/145340-oficjalnie-kylian-mbappe-kontuzjowany</link>
+        <pubDate>Wed, 31 Dec 2025 14:15:00 GMT</pubDate>
+        <description>Francuz wypada z gry na kilka tygodni.</description>
+    </item>
     
     <item>
         <title>Czterech piłkarzy nie pracowało z drużyną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145325-glos-kibica-ocena-konczacego-sie-roku</link>
         <pubDate>Wed, 31 Dec 2025 07:50:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>SER: Brahim z porozumieniem ws. przedłużenia kontraktu</title>
-        <link>https://www.realmadryt.pl/news/145327-ser-brahim-z-porozumieniem-ws-przedluzenia-kontraktu</link>
-        <pubDate>Wed, 31 Dec 2025 07:00:00 GMT</pubDate>
-        <description>Atakujący to wyróżniający się zawodnik Pucharu Narodów Afryki. 26-latek ma już porozumienie z Realem Madryt w sprawie przedłużenia umowy, donosi kolejne źródło.</description>
     </item>
     
 </channel>
