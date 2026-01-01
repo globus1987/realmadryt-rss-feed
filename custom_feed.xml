@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Jan 2026 14:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 14:47:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Styczeń miesiącem szkółki</title>
+        <link>https://www.realmadryt.pl/news/145351-styczen-miesiacem-szkolki</link>
+        <pubDate>Thu, 01 Jan 2026 15:30:00 GMT</pubDate>
+        <description>Real Madryt postanowił zadbać o szkółkę. Działacze dokonali kilku znaczących transferów oraz zdecydowali się zająć kontraktami wielu piłkarzy. Obsesją Królewskich jest Liga Młodzieżowa oraz walka o awans Castilli.</description>
+    </item>
     
     <item>
         <title>Doradca Laporty: Real też stosuje dźwignie, ale tam nikt nie chce o tym mówić</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145352-dzisiejsze-okladki</link>
         <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
         <description>Kontuzja Kyliana Mbappé to główny temat noworocznej wirtualnej okładki Marki.</description>
-    </item>
-    
-    <item>
-        <title>Bardzo świadoma decyzja Endricka</title>
-        <link>https://www.realmadryt.pl/news/145350-bardzo-swiadoma-decyzja-endricka</link>
-        <pubDate>Wed, 31 Dec 2025 21:12:00 GMT</pubDate>
-        <description>Endrick po przeanalizowaniu ofert z innych klubów nie miał wątpliwości, że Lyon będzie idealnym wyborem, który pozwoli mu zachować szanse na wyjazd na Mundial.</description>
     </item>
     
 </channel>
