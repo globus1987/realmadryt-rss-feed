@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Jan 2026 04:57:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 05:36:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/145339-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 01 Jan 2026 06:30:00 GMT</pubDate>
+        <description>Xabi Alonso dał wolne swoim podopiecznym w Nowy Rok i drużyna wróci do pracy jutro.</description>
+    </item>
     
     <item>
         <title>Carvajal, Rüdiger i Alaba weszli w ostatnie półrocza swoich kontraktów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145338-czterech-pilkarzy-nie-pracowalo-z-druzyna</link>
         <pubDate>Wed, 31 Dec 2025 13:07:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie kontynuowali przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Roberto Carlos trafił do szpitala</title>
-        <link>https://www.realmadryt.pl/news/145335-roberto-carlos-trafil-do-szpitala</link>
-        <pubDate>Wed, 31 Dec 2025 12:16:00 GMT</pubDate>
-        <description>AS informuje, że Roberto Carlos, który obecnie jest ambasadorem Realu Madryt przeszedł badanie, które wykazało u niego nieprawidłowe działanie serca.</description>
     </item>
     
 </channel>
