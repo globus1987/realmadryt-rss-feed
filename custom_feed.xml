@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Jan 2026 18:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 19:24:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Siedem lat pozyskiwania młodych</title>
+        <link>https://www.realmadryt.pl/news/145353-siedem-lat-pozyskiwania-mlodych</link>
+        <pubDate>Thu, 01 Jan 2026 20:00:00 GMT</pubDate>
+        <description>Kees Smit (19 lat) jako potencjalny przyszły mózg zespołu Królewskich wpisuje się w plan działania nakreślony przez klub: poszukiwanie młodych talentów na dekadę.</description>
+    </item>
     
     <item>
         <title>Palacios puka do drzwi pierwszego zespołu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145343-glos-kibica-priorytety-na-nowy-rok</link>
         <pubDate>Thu, 01 Jan 2026 07:30:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy mają dziś wolne</title>
-        <link>https://www.realmadryt.pl/news/145339-krolewscy-maja-dzis-wolne</link>
-        <pubDate>Thu, 01 Jan 2026 06:30:00 GMT</pubDate>
-        <description>Xabi Alonso dał wolne swoim podopiecznym w Nowy Rok i drużyna wróci do pracy jutro.</description>
     </item>
     
 </channel>
