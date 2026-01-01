@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 01 Jan 2026 22:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 23:27:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145365-dzisiejsze-okladki</link>
+        <pubDate>Fri, 02 Jan 2026 00:04:00 GMT</pubDate>
+        <description>Reportaż o Antonio Rüdigerze, Dakar i słabe noworoczne samopoczucie Lamine'a Yamala to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Athenea: Florentino bardzo mocno stawia na kobiecy futbol w Hiszpanii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145332-vozpopuli-niepokoj-i-tarcia-w-sprawie-wewnetrznej-reformy-florentino-pereza</link>
         <pubDate>Thu, 01 Jan 2026 09:30:00 GMT</pubDate>
         <description>Prace nad dopuszczeniem inwestorów prywatnych oraz kryzys sportowy podsycają debatę na temat nowej wewnętrznej struktury i jej kluczowych postaci, opisuje Vozpópuli.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 1 stycznia</title>
-        <link>https://www.realmadryt.pl/news/145346-kartka-z-kalendarza-1-stycznia</link>
-        <pubDate>Thu, 01 Jan 2026 08:30:00 GMT</pubDate>
-        <description>Jedyna czerwona kartka Di Stéfano, mecze z Barceloną, Espanyolem i Racingiem oraz urodziny byłego snajpera z Chorwacji. Co działo się 1 stycznia?</description>
     </item>
     
 </channel>
