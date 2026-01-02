@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Jan 2026 09:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 10:30:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Odmieniony Betis</title>
+        <link>https://www.realmadryt.pl/news/145359-odmieniony-betis</link>
+        <pubDate>Fri, 02 Jan 2026 11:27:00 GMT</pubDate>
+        <description>W niedzielę Betis odwiedzi Santiago Bernabéu, jednak w praktyce nie będzie to ta sama drużyna, która w zeszłym roku poległa w Madrycie 0:2.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 2 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145358-palacios-puka-do-drzwi-pierwszego-zespolu</link>
         <pubDate>Thu, 01 Jan 2026 17:30:00 GMT</pubDate>
         <description>W niedzielę Królewscy wrócą do ligowych zmagań. Gospodarze już na starcie roku będą mieli jednak do rozwiązania kilka kłopotów w ofensywie. Kontuzji doznał Mbappé, na Puchar Narodów Afryki udał się Brahim, a na wypożyczenie odszedł Endrick. Niewykluczone, że Xabi w tej sytuacji będzie szukał posiłków w Castilli.</description>
-    </item>
-    
-    <item>
-        <title>Marcelo cz.2: Nie zamieniłbym swoich pięciu Lig Mistrzów na jeden mundial</title>
-        <link>https://www.realmadryt.pl/news/145354-marcelo-cz-2-nie-zamienilbym-swoich-pieciu-lig-mistrzow-na-jeden-mundial</link>
-        <pubDate>Thu, 01 Jan 2026 16:30:00 GMT</pubDate>
-        <description>Iker Casillas od kilku miesięcy na swoim kanale YouTube prowadzi cykl programów pod nazwą: Bajo los Palos (Między Słupkami). Na początku grudnia gościem byłego kapitana Realu Madryt był Marcelo. Poniżej przedstawiamy drugą część rozmowy z Brazylijczykiem.</description>
     </item>
     
 </channel>
