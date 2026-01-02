@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Jan 2026 15:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 16:34:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Roberto Carlos wyszedł ze szpitala</title>
+        <link>https://www.realmadryt.pl/news/145377-roberto-carlos-wyszedl-ze-szpitala</link>
+        <pubDate>Fri, 02 Jan 2026 17:24:00 GMT</pubDate>
+        <description>Brazylijczyk poinformował, że zakończył pobyt w szpitalu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Endrick nie zagra z Monaco</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145364-dubaj-na-zakonczenie-pierwszej-rundy</link>
         <pubDate>Fri, 02 Jan 2026 10:00:00 GMT</pubDate>
         <description>W 19. kolejce Euroligi Real Madryt zagra z Dubajem. Stawką tego pojedynku jest miejsce w górnej części tabeli na półmetku sezonu zasadniczego.</description>
-    </item>
-    
-    <item>
-        <title>Figo cz.1: Widzę Pedrerola i mówię sobie: „Jak ten gość może wygadywać tyle kłamstw?”</title>
-        <link>https://www.realmadryt.pl/news/145362-figo-cz-1-widze-pedrerola-i-mowie-sobie-jak-ten-gosc-moze-wygadywac-tyle-klamstw</link>
-        <pubDate>Fri, 02 Jan 2026 09:30:00 GMT</pubDate>
-        <description>Iker Casillas od kilku miesięcy na swoim kanale YouTube prowadzi cykl programów pod nazwą: Bajo los Palos (Między Słupkami). Jakiś czas temu gościem byłego kapitana Realu Madryt był Luís Figo. Poniżej przedstawiamy pierwszą część rozmowy z Portugalczykiem.</description>
     </item>
     
 </channel>
