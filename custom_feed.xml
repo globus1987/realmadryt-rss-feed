@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 02 Jan 2026 22:47:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 23:26:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145384-dzisiejsze-okladki</link>
+        <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
+        <description>Derby Barcelony to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Wielka remontada na początek roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145371-ronaldo-luxemburgo-wylecial-z-realu-bo-sciagal-mnie-w-kazdym-meczu</link>
         <pubDate>Fri, 02 Jan 2026 12:46:00 GMT</pubDate>
         <description>Ronaldo Nazário był gościem brazylijskiego programu Charla Podcast, w którym wspomniał czasy, gdy trenerem Realu Madryt był Vanderlei Luxemburgo. Przedstawiamy słowa byłego legendarnego napastnika.</description>
-    </item>
-    
-    <item>
-        <title>„Realowi brakuje jakości w środku pola oraz rozgrywającego”</title>
-        <link>https://www.realmadryt.pl/news/145370-realowi-brakuje-jakosci-w-srodku-pola-oraz-rozgrywajacego</link>
-        <pubDate>Fri, 02 Jan 2026 12:11:00 GMT</pubDate>
-        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat środka pola Realu Madryt. Przedstawiamy opinię dziennikarza.</description>
     </item>
     
 </channel>
