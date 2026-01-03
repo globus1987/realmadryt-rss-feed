@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Jan 2026 09:29:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 09:45:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 3 stycznia</title>
+        <link>https://www.realmadryt.pl/news/145389-kartka-z-kalendarza-3-stycznia</link>
+        <pubDate>Sat, 03 Jan 2026 10:45:00 GMT</pubDate>
+        <description>Śmierć byłego zawodnika, transfer młodego Włocha z Romy, remontada z Málagą w Pucharze Króla i ostatni mecz Rafy Beníteza. Co działo się 3 stycznia?</description>
+    </item>
     
     <item>
         <title>Cerezo: Karny Juliána to był ogromny błąd, który bardzo drogo nas kosztował, złożyliśmy skargę do UEFA</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145379-brahim-w-najlepszej-jedenastce-fazy-grupowej-pucharu-narodow-afryki</link>
         <pubDate>Fri, 02 Jan 2026 19:33:00 GMT</pubDate>
         <description>Zawodnik Królewskich na razie jest współliderem klasyfikacji strzelców.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 18. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/145376-telewizyjny-terminarz-18-kolejki-la-ligi</link>
-        <pubDate>Fri, 02 Jan 2026 19:00:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 18. kolejka La Ligi. Real Madryt zagra w niedzielę u siebie z Betisem. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
