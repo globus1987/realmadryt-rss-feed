@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Jan 2026 22:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 23:25:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145412-dzisiejsze-okladki</link>
+        <pubDate>Sun, 04 Jan 2026 00:21:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Xabi Alonso: Mocno wierzę w tych, którzy wyjdą na boisko</title>
+        <link>https://www.realmadryt.pl/news/145401-xabi-alonso-mocno-wierze-w-tych-ktorzy-wyjda-na-boisko</link>
+        <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
+        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Betisem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>COPE: Huijsen z przeciążeniem mięśniowym</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145395-xabi-alonso-kiedy-moze-wrocic-mbappe-oto-jest-pytanie-nie-wiem</link>
         <pubDate>Sat, 03 Jan 2026 13:32:00 GMT</pubDate>
         <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z  Betisem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Huijsen nie trenował z zespołem</title>
-        <link>https://www.realmadryt.pl/news/145396-huijsen-nie-trenowal-z-zespolem</link>
-        <pubDate>Sat, 03 Jan 2026 13:05:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Betisem.</description>
-    </item>
-    
-    <item>
-        <title>Hernández Hernández na Betis</title>
-        <link>https://www.realmadryt.pl/news/145397-hernandez-hernandez-na-betis</link>
-        <pubDate>Sat, 03 Jan 2026 12:46:00 GMT</pubDate>
-        <description>43-latek z Wysp Kanaryjskich poprowadzi jutrzejszy mecz Realu Madryt z Betisem. Sędzią VAR będzie Juan Luis Pulido Santana.</description>
     </item>
     
 </channel>
