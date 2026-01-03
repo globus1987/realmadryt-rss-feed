@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Jan 2026 19:40:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 19:53:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Gonzalo zostaje sam</title>
+        <link>https://www.realmadryt.pl/news/145405-gonzalo-zostaje-sam</link>
+        <pubDate>Sat, 03 Jan 2026 20:53:00 GMT</pubDate>
+        <description>Kontuzja Kyliana Mbappé i odejście Endricka na nowo otwierają drzwi do pierwszego składu przed Gonzalo.</description>
+    </item>
     
     <item>
         <title>Brahim pisze historię na Pucharze Narodów Afryki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145391-kwadrans-ostatniego-treningu-przed-betisem-video</link>
         <pubDate>Sat, 03 Jan 2026 11:38:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym meczem w La Lidze w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Antony przyjedzie na Bernabéu z osobistym celem</title>
-        <link>https://www.realmadryt.pl/news/145392-antony-przyjedzie-na-bernabeu-z-osobistym-celem</link>
-        <pubDate>Sat, 03 Jan 2026 11:10:00 GMT</pubDate>
-        <description>Skrzydłowy chciałby zaprezentować się jak najlepiej w meczu z Realem Madryt, aby wysłać wiadomość włoskiemu trenerowi z myślą o mundialu.</description>
     </item>
     
 </channel>
