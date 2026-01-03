@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 03 Jan 2026 11:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 11:54:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hernández Hernández na Betis</title>
+        <link>https://www.realmadryt.pl/news/145397-hernandez-hernandez-na-betis</link>
+        <pubDate>Sat, 03 Jan 2026 12:46:00 GMT</pubDate>
+        <description>43-latek z Wysp Kanaryjskich poprowadzi jutrzejszy mecz Realu Madryt z Betisem. Sędzią VAR będzie Juan Luis Pulido Santana.</description>
+    </item>
     
     <item>
         <title>Scariolo: Drużyna wykonała niesamowity wysiłek w drugiej połowie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145381-trzy-tygodnie-czy-powrot-juz-na-superpuchar-sprzeczne-informacje-ws-kontuzji-mbappe</link>
         <pubDate>Sat, 03 Jan 2026 05:30:00 GMT</pubDate>
         <description>Francuskie i hiszpańskie media cały czas przekazują zupełnie inny obraz kontuzji napastnika Królewskich. Na razie w Madrycie utrzymują, że w następnym tygodniu 27-latek poleci z zespołem na Superpuchar Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145384-dzisiejsze-okladki</link>
-        <pubDate>Sat, 03 Jan 2026 00:00:00 GMT</pubDate>
-        <description>Derby Barcelony to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
