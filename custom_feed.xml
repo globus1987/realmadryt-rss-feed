@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 23:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 23:44:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145449-dzisiejsze-okladki</link>
+        <pubDate>Mon, 05 Jan 2026 00:39:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Niko Mihić ponownie został szefem sztabu medycznego Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145433-gonzalo-mvp-meczu-z-betisem</link>
         <pubDate>Sun, 04 Jan 2026 18:19:00 GMT</pubDate>
         <description>Gonzalo García został wyróżniony po meczu Realu Madryt z Betisem.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Betisem</title>
-        <link>https://www.realmadryt.pl/news/145431-ocen-pilkarzy-po-meczu-z-betisem</link>
-        <pubDate>Sun, 04 Jan 2026 18:12:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
