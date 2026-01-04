@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 06:43:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 07:01:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Drugi Klasyk w sezonie</title>
+        <link>https://www.realmadryt.pl/news/145410-drugi-klasyk-w-sezonie</link>
+        <pubDate>Sun, 04 Jan 2026 07:50:00 GMT</pubDate>
+        <description>W 14. kolejce Ligi Endesa Real Madryt podejmie Barcelonę. Katalończycy odżyli w ostatnich tygodniach i gonią czołówkę, natomiast Madrytczycy niezależnie od wyniku utrzyma się na szczycie tabeli.</description>
+    </item>
     
     <item>
         <title>Castilla wraca do gry i walki o podium</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145404-brahim-pisze-historie-na-pucharze-narodow-afryki</link>
         <pubDate>Sat, 03 Jan 2026 20:03:00 GMT</pubDate>
         <description>Brahim jest pierwszym Marokańczykiem od 1976 roku, który strzelił gola w trzech kolejnych meczach Pucharu Narodów Afryki. Walczy o złoto, które od 50 lat pozostaje poza zasięgiem Lwów Atlasu.</description>
-    </item>
-    
-    <item>
-        <title>18. kolejka: Barcelona wygrywa derby i ucieka na 7 punktów</title>
-        <link>https://www.realmadryt.pl/news/145403-18-kolejka-barcelona-wygrywa-derby-i-ucieka-na-7-punktow</link>
-        <pubDate>Sat, 03 Jan 2026 20:00:00 GMT</pubDate>
-        <description>Katalończycy rozpoczynaali grę w nowym roku z 4 punktami przewagi nad Realem Madryt i bardzo rozgrzanymi derbami Barcelony. Po trudnym spotkaniu powiększyli swoją przewagę o 3 oczka.</description>
     </item>
     
 </channel>
