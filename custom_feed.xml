@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 04:58:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 05:35:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Reset czy iluzja?</title>
+        <link>https://www.realmadryt.pl/news/145383-reset-czy-iluzja</link>
+        <pubDate>Sun, 04 Jan 2026 06:00:00 GMT</pubDate>
+        <description>Nowy rok, stare problemy do rozwiązania.</description>
+    </item>
     
     <item>
         <title>MARCA: Rodri wrócił do gry… także ku radości Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145394-1200-meczow-llulla-w-realu-madryt</link>
         <pubDate>Sat, 03 Jan 2026 15:30:00 GMT</pubDate>
         <description>Sergio Llull zapisuje kolejne rozdziały w historii Realu Madryt. Ma już na koncie 1200 meczów w białej koszulce, a będzie ich jeszcze więcej.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Betisu na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/145400-kadra-betisu-na-mecz-z-realem</link>
-        <pubDate>Sat, 03 Jan 2026 14:41:00 GMT</pubDate>
-        <description>Do kadry Andaluzyjczyków wraca dwóch obrońców, ale na Bernabéu zabraknie aż czterech piłkarzy.</description>
     </item>
     
 </channel>
