@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 19:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 19:40:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lennart Karl: W pewnym momencie kariery chcę trafić do Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145442-lennart-karl-w-pewnym-momencie-kariery-chce-trafic-do-realu-madryt</link>
+        <pubDate>Sun, 04 Jan 2026 20:37:00 GMT</pubDate>
+        <description>17-letni Niemiec jasno mówi o swoich marzeniach.</description>
+    </item>
+    
+    <item>
+        <title>Ostatni mecz Atlético przed Superpucharem [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/145441-ostatni-mecz-atletico-przed-superpucharem-live</link>
+        <pubDate>Sun, 04 Jan 2026 20:30:00 GMT</pubDate>
+        <description>Od 21:00 Atlético mierzy się na wyjeździe z Realem Sociedad. W najbliższy czwartek Madrytczycy zagrają w derbach stolicy w Dżuddzie w półfinale Superpucharu Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Pellegrini: Najbardziej mnie wkurza to, że straciliśmy dwie bramki po stałych fragmentach</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145430-gonzalo-rozbil-betis</link>
         <pubDate>Sun, 04 Jan 2026 16:10:00 GMT</pubDate>
         <description>W meczu 18. kolejki La Ligi Real Madryt wygrał z Realem Betis 5:1. Trzy gole strzelił Gonzalo García, a po jednym trafieniu zaliczyli Raúl Asencio i Fran García.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Brakowało nam trochę cierpliwości w ataku</title>
-        <link>https://www.realmadryt.pl/news/145429-scariolo-brakowalo-nam-troche-cierpliwosci-w-ataku</link>
-        <pubDate>Sun, 04 Jan 2026 15:55:00 GMT</pubDate>
-        <description>Sergio Scariolo podsumował krótko ligową porażkę z Barceloną. Chwalił grę rywala i mówił, że jego drużyna musi poprawić grę w obronie.</description>
-    </item>
-    
-    <item>
-        <title>Obejrzyj mecz z Betisem w STS TV!</title>
-        <link>https://www.realmadryt.pl/news/145428-obejrzyj-mecz-z-betisem-w-sts-tv</link>
-        <pubDate>Sun, 04 Jan 2026 15:13:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
     </item>
     
 </channel>
