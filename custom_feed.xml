@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 11:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 11:54:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Betis</title>
+        <link>https://www.realmadryt.pl/news/145398-kadra-na-betis</link>
+        <pubDate>Sun, 04 Jan 2026 12:46:00 GMT</pubDate>
+        <description>Xabi Alonso nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z Betisem. Bask powołał 22 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Ponowne spotkanie Pellegriniego i Xabiego Alonso</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145409-scariolo-takie-spotkania-wystawiaja-cie-na-probe</link>
         <pubDate>Sun, 04 Jan 2026 08:10:00 GMT</pubDate>
         <description>Sergio Scariolo i Alberto Abalde udzielili wypowiedzi przed spotkaniem z Barceloną w Lidze Endesa. Obaj podkreślali, że to będzie trudny test z uwagi na siłę i możliwości rywala.</description>
-    </item>
-    
-    <item>
-        <title>Drugi Klasyk w sezonie</title>
-        <link>https://www.realmadryt.pl/news/145410-drugi-klasyk-w-sezonie</link>
-        <pubDate>Sun, 04 Jan 2026 07:50:00 GMT</pubDate>
-        <description>W 14. kolejce Ligi Endesa Real Madryt podejmie Barcelonę. Katalończycy odżyli w ostatnich tygodniach i gonią czołówkę, natomiast Madrytczycy niezależnie od wyniku utrzyma się na szczycie tabeli.</description>
     </item>
     
 </channel>
