@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 07:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 07:33:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Takie spotkania wystawiają cię na próbę</title>
+        <link>https://www.realmadryt.pl/news/145409-scariolo-takie-spotkania-wystawiaja-cie-na-probe</link>
+        <pubDate>Sun, 04 Jan 2026 08:10:00 GMT</pubDate>
+        <description>Sergio Scariolo i Alberto Abalde udzielili wypowiedzi przed spotkaniem z Barceloną w Lidze Endesa. Obaj podkreślali</description>
+    </item>
     
     <item>
         <title>Drugi Klasyk w sezonie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145405-gonzalo-zostaje-sam</link>
         <pubDate>Sat, 03 Jan 2026 20:53:00 GMT</pubDate>
         <description>Kontuzja Kyliana Mbappé i odejście Endricka na nowo otwierają drzwi do pierwszego składu przed Gonzalo.</description>
-    </item>
-    
-    <item>
-        <title>Brahim pisze historię na Pucharze Narodów Afryki</title>
-        <link>https://www.realmadryt.pl/news/145404-brahim-pisze-historie-na-pucharze-narodow-afryki</link>
-        <pubDate>Sat, 03 Jan 2026 20:03:00 GMT</pubDate>
-        <description>Brahim jest pierwszym Marokańczykiem od 1976 roku, który strzelił gola w trzech kolejnych meczach Pucharu Narodów Afryki. Walczy o złoto, które od 50 lat pozostaje poza zasięgiem Lwów Atlasu.</description>
     </item>
     
 </channel>
