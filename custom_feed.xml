@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 21:55:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 22:27:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Niko Mihić ponownie został szefem sztabu medycznego Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145444-niko-mihic-ponownie-zostal-szefem-sztabu-medycznego-realu-madryt</link>
+        <pubDate>Sun, 04 Jan 2026 23:13:00 GMT</pubDate>
+        <description>Lekarz wraca na poprzednie stanowisko.</description>
+    </item>
     
     <item>
         <title>Lennart Karl: W pewnym momencie kariery chcę trafić do Realu Madryt</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Ostatni mecz Atlético przed Superpucharem [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/145441-ostatni-mecz-atletico-przed-superpucharem-live</link>
+        <title>18. kolejka: Remis Atlético w ostatnim meczu przed Superpucharem</title>
+        <link>https://www.realmadryt.pl/news/145441-18-kolejka-remis-atletico-w-ostatnim-meczu-przed-superpucharem</link>
         <pubDate>Sun, 04 Jan 2026 20:30:00 GMT</pubDate>
-        <description>Od 21:00 Atlético mierzy się na wyjeździe z Realem Sociedad. W najbliższy czwartek Madrytczycy zagrają w derbach stolicy w Dżuddzie w półfinale Superpucharu Hiszpanii.</description>
+        <description>Najbliższy rywal Realu Madryt, Atlético zremisowało na wyjeździe z Realem Sociedad 1:1. W najbliższy czwartek drużyna Diego Simeone zagra w derbach stolicy w Dżuddzie w półfinale Superpucharu Hiszpanii.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145431-ocen-pilkarzy-po-meczu-z-betisem</link>
         <pubDate>Sun, 04 Jan 2026 18:12:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo rozbił Betis</title>
-        <link>https://www.realmadryt.pl/news/145430-gonzalo-rozbil-betis</link>
-        <pubDate>Sun, 04 Jan 2026 16:10:00 GMT</pubDate>
-        <description>W meczu 18. kolejki La Ligi Real Madryt wygrał z Realem Betis 5:1. Trzy gole strzelił Gonzalo García, a po jednym trafieniu zaliczyli Raúl Asencio i Fran García.</description>
     </item>
     
 </channel>
