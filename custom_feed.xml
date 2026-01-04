@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 13:34:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 13:53:40 GMT</lastBuildDate>
     
     <item>
-        <title>Wielki powrót Rachada, zwycięstwo Castilli</title>
-        <link>https://www.realmadryt.pl/news/145426-wielki-powrot-rachada-zwyciestwo-castilli</link>
+        <title>Koniec wielkich serii</title>
+        <link>https://www.realmadryt.pl/news/145427-koniec-wielkich-serii</link>
+        <pubDate>Sun, 04 Jan 2026 14:45:00 GMT</pubDate>
+        <description>W 14. kolejce Ligi Endesa Real Madryt przegrał z Barceloną. To zakończyło dwie znakomite serie Królewskich: 37 ligowych zwycięstw u siebie z rzędu i 9 wygranych Klasyków z rzędu.</description>
+    </item>
+    
+    <item>
+        <title>Znakomity powrót Rachada, zwycięstwo Castilli</title>
+        <link>https://www.realmadryt.pl/news/145426-znakomity-powrot-rachada-zwyciestwo-castilli</link>
         <pubDate>Sun, 04 Jan 2026 14:12:00 GMT</pubDate>
         <description>W 18. kolejce Primera Federación Castilla pokonała Arenteiro 2:0. Po kontuzji wrócił Rachad i od razu dał drużynie gola i asystę.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145418-dziesiec-lat-od-zmiany-trenera-ktora-zapoczatkowala-nowa-epoke-w-realu-madryt</link>
         <pubDate>Sun, 04 Jan 2026 08:51:00 GMT</pubDate>
         <description>4 stycznia 2016 roku Real Madryt ogłosił zwolnienie Hiszpana i awans Francuza.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Rodri jako ten wyczekiwany rozgrywający</title>
-        <link>https://www.realmadryt.pl/news/145415-glos-kibica-rodri-jako-ten-wyczekiwany-rozgrywajacy</link>
-        <pubDate>Sun, 04 Jan 2026 08:40:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
