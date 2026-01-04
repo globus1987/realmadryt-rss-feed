@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 09:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 09:44:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt z niepewnością czeka na przyjęcie Viníciusa przez Santiago Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/145419-real-madryt-z-niepewnoscia-czeka-na-przyjecie-viniciusa-przez-santiago-bernabeu</link>
+        <pubDate>Sun, 04 Jan 2026 10:40:00 GMT</pubDate>
+        <description>Czy Brazylijczyk znowu zostanie wygwizdany?</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 4 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145413-real-madryt-betis-przewidywane-sklady</link>
         <pubDate>Sun, 04 Jan 2026 02:03:00 GMT</pubDate>
         <description>Real Madryt rozegra dziś swój pierwszy mecz w nowym roku. Sytuacja kadrowa nie poprawiła się za bardzo względem ostatniego spotkania.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145412-dzisiejsze-okladki</link>
-        <pubDate>Sun, 04 Jan 2026 00:21:00 GMT</pubDate>
-        <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
