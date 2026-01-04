@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 16:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 17:25:24 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Betis [LIVE]</title>
-        <link>https://www.realmadryt.pl/news/145430-real-madryt-betis-live</link>
+        <title>Gonzalo MVP meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/145433-gonzalo-mvp-meczu-z-betisem</link>
+        <pubDate>Sun, 04 Jan 2026 18:19:00 GMT</pubDate>
+        <description>Gonzalo García został wyróżniony po meczu Realu Madryt z Betisem.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Betisem</title>
+        <link>https://www.realmadryt.pl/news/145431-ocen-pilkarzy-po-meczu-z-betisem</link>
+        <pubDate>Sun, 04 Jan 2026 18:12:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Gonzalo rozbił Betis</title>
+        <link>https://www.realmadryt.pl/news/145430-gonzalo-rozbil-betis</link>
         <pubDate>Sun, 04 Jan 2026 16:10:00 GMT</pubDate>
-        <description>Od 16:15 trwa mecz 18. kolejki La Ligi, w którym Real Madryt gra z Realem Betis.</description>
+        <description>W meczu 18. kolejki La Ligi Real Madryt wygrał z Realem Betis 5:1. Trzy gole strzelił Gonzalo García, a po jednym trafieniu zaliczyli Raúl Asencio i Fran García.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145424-carvajal-mysli-tylko-o-realu-madryt</link>
         <pubDate>Sun, 04 Jan 2026 11:20:00 GMT</pubDate>
         <description>Kapitan miał już na stole konkretne oferty, ale nie bierze pod uwagę wyjazdu do odległego miejsca poza poważną, sportową rywalizacją.</description>
-    </item>
-    
-    <item>
-        <title>Istnieje życie bez Mbappé</title>
-        <link>https://www.realmadryt.pl/news/145423-istnieje-zycie-bez-mbappe</link>
-        <pubDate>Sun, 04 Jan 2026 11:09:00 GMT</pubDate>
-        <description>Od przyjścia Francuza do klubu Królewscy ponieśli tylko jedną porażkę, gdy atakującego nie było na boisku ani przez minutę.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Ramos i inwestorzy oferują 400 milionów euro za zakup Sevilli</title>
-        <link>https://www.realmadryt.pl/news/145422-the-athletic-ramos-i-inwestorzy-oferuja-400-milionow-euro-za-zakup-sevilli</link>
-        <pubDate>Sun, 04 Jan 2026 10:49:00 GMT</pubDate>
-        <description>Cały proces wydaje się dość skomplikowany.</description>
     </item>
     
 </channel>
