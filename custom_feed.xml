@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 04 Jan 2026 08:57:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jan 2026 09:28:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 4 stycznia</title>
+        <link>https://www.realmadryt.pl/news/145421-kartka-z-kalendarza-4-stycznia</link>
+        <pubDate>Sun, 04 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Urodziny byłych piłkarzy, remis z Atlético, porażka z Valencią i początek ery Zidane'a w Realu Madryt. Co działo się 4 stycznia?</description>
+    </item>
     
     <item>
         <title>Tchouaméni zagrożony zawieszeniem w La Lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145412-dzisiejsze-okladki</link>
         <pubDate>Sun, 04 Jan 2026 00:21:00 GMT</pubDate>
         <description>Mecz Realu Madryt i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: Mocno wierzę w tych, którzy wyjdą na boisko</title>
-        <link>https://www.realmadryt.pl/news/145401-xabi-alonso-mocno-wierze-w-tych-ktorzy-wyjda-na-boisko</link>
-        <pubDate>Sun, 04 Jan 2026 00:00:00 GMT</pubDate>
-        <description>Xabi Alonso pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Betisem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
