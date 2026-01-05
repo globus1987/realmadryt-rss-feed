@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Jan 2026 04:09:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 05:06:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Xabi Alonso: Ten, kto zasługuje, dostaje szansę</title>
+        <link>https://www.realmadryt.pl/news/145443-xabi-alonso-ten-kto-zasluguje-dostaje-szanse</link>
+        <pubDate>Mon, 05 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 5:1 meczu z Betisem. Przedstawiamy zapis tego spotkania z dziennikarzami z trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145432-fede-musimy-poprawic-sie-w-tym-aspekcie-kiedy-tracimy-koncentracje</link>
         <pubDate>Sun, 04 Jan 2026 18:26:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu z murawy dla klubowej telewizji po wygranym 5:1 meczu z Betisem. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Gonzalo MVP meczu z Betisem</title>
-        <link>https://www.realmadryt.pl/news/145433-gonzalo-mvp-meczu-z-betisem</link>
-        <pubDate>Sun, 04 Jan 2026 18:19:00 GMT</pubDate>
-        <description>Gonzalo García został wyróżniony po meczu Realu Madryt z Betisem.</description>
     </item>
     
 </channel>
