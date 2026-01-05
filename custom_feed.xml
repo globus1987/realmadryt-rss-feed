@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Jan 2026 13:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 13:52:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Capello: Sędziowie to mafia</title>
+        <link>https://www.realmadryt.pl/news/145453-capello-sedziowie-to-mafia</link>
+        <pubDate>Mon, 05 Jan 2026 14:30:00 GMT</pubDate>
+        <description>Fabio Capello udzielił wywiadu dziennikowi MARCA. Przedstawiamy pełne tłumaczenie tej rozmowy z byłym trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145443-xabi-alonso-ten-kto-zasluguje-dostaje-szanse</link>
         <pubDate>Mon, 05 Jan 2026 05:30:00 GMT</pubDate>
         <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 5:1 meczu z Betisem. Przedstawiamy zapis tego spotkania z dziennikarzami z trenerem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145449-dzisiejsze-okladki</link>
-        <pubDate>Mon, 05 Jan 2026 00:39:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
