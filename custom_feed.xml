@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Jan 2026 20:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 21:29:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Chelsea zainteresowana Viníciusem?</title>
+        <link>https://www.realmadryt.pl/news/145462-chelsea-zainteresowana-viniciusem</link>
+        <pubDate>Mon, 05 Jan 2026 21:58:00 GMT</pubDate>
+        <description>The Guardian w sekcji plotkowo-transferowej spekuluje na temat przyszłości Viníciusa, którego kontrakt z Realem Madryt obowiązuje do lata 2027 roku.</description>
+    </item>
     
     <item>
         <title>Pula nagród za Superpuchar Hiszpanii wzrosła o ponad 3 miliony euro</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145439-150-ligowych-zwyciestw-viniciusa</link>
         <pubDate>Mon, 05 Jan 2026 11:40:00 GMT</pubDate>
         <description>We wczorajszym spotkaniu Brazylijczyk zanotował 150. zwycięstwo w LaLidze w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Betisem</title>
-        <link>https://www.realmadryt.pl/news/145452-oceny-zawodnikow-po-meczu-z-betisem</link>
-        <pubDate>Mon, 05 Jan 2026 11:10:00 GMT</pubDate>
-        <description>Real Madryt wygrał 5:1 z Betisem w La Lidze. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
