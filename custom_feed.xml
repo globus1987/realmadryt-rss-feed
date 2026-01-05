@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Jan 2026 11:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 13:02:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/145455-dzisiejszy-trening</link>
+        <pubDate>Mon, 05 Jan 2026 13:28:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Atlético Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Mamy ostatni element układanki! Skompletuj hasła i wygraj drukarkę HP w finale konkursu!</title>
+        <link>https://www.realmadryt.pl/news/145454-mamy-ostatni-element-ukladanki-skompletuj-hasla-i-wygraj-drukarke-hp-w-finale-konkursu</link>
+        <pubDate>Mon, 05 Jan 2026 13:15:00 GMT</pubDate>
+        <description>Konkurs dobiega końca.</description>
+    </item>
     
     <item>
         <title>Camavinga zmienia środek pola</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145449-dzisiejsze-okladki</link>
         <pubDate>Mon, 05 Jan 2026 00:39:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i sytuacja w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Niko Mihić ponownie został szefem sztabu medycznego Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145444-niko-mihic-ponownie-zostal-szefem-sztabu-medycznego-realu-madryt</link>
-        <pubDate>Sun, 04 Jan 2026 23:13:00 GMT</pubDate>
-        <description>Lekarz wraca na poprzednie stanowisko.</description>
-    </item>
-    
-    <item>
-        <title>Lennart Karl: W pewnym momencie kariery chcę trafić do Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145442-lennart-karl-w-pewnym-momencie-kariery-chce-trafic-do-realu-madryt</link>
-        <pubDate>Sun, 04 Jan 2026 20:37:00 GMT</pubDate>
-        <description>17-letni Niemiec jasno mówi o swoich marzeniach.</description>
     </item>
     
 </channel>
