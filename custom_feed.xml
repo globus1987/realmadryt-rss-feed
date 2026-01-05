@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 05 Jan 2026 08:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 09:40:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/145448-pichichi-zamora-asistencias</link>
+        <pubDate>Mon, 05 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 18. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 5 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145438-maroko-w-cwiercfinale-pucharu-narodow-afryki-video</link>
         <pubDate>Sun, 04 Jan 2026 19:07:00 GMT</pubDate>
         <description>Kadra Lwów Atlasu awansowała do kolejnej rundy PNA dzięki bramce pomocnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: W dzisiejszym futbolu stałe fragmenty są kluczowe</title>
-        <link>https://www.realmadryt.pl/news/145436-xabi-alonso-w-dzisiejszym-futbolu-stale-fragmenty-sa-kluczowe</link>
-        <pubDate>Sun, 04 Jan 2026 18:50:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu dla klubowej telewizji po wygranym 5:1 meczu z Betisem. Przedstawiamy zapis rozmowy z trenerem Realu Madryt.</description>
     </item>
     
 </channel>
