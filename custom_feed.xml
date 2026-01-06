@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Jan 2026 03:50:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 04:45:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Bayern nie jest zadowolony po słowach Karla o Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145465-bayern-nie-jest-zadowolony-po-slowach-karla-o-realu-madryt</link>
+        <pubDate>Tue, 06 Jan 2026 05:30:00 GMT</pubDate>
+        <description>W Niemczech zapanowała konsternacja z powodu wypowiedzi 17-latka.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145454-mamy-ostatni-element-ukladanki-skompletuj-hasla-i-wygraj-drukarke-hp-w-finale-konkursu</link>
         <pubDate>Mon, 05 Jan 2026 13:15:00 GMT</pubDate>
         <description>Konkurs dobiega końca.</description>
-    </item>
-    
-    <item>
-        <title>Camavinga zmienia środek pola</title>
-        <link>https://www.realmadryt.pl/news/145450-camavinga-zmienia-srodek-pola</link>
-        <pubDate>Mon, 05 Jan 2026 12:30:00 GMT</pubDate>
-        <description>Xabi Alonso może się cieszyć ze świetnego występu pomocnika.</description>
     </item>
     
 </channel>
