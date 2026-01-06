@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Jan 2026 13:49:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 14:30:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy wylecieli do Dżuddy</title>
+        <link>https://www.realmadryt.pl/news/145485-krolewscy-wylecieli-do-dzuddy</link>
+        <pubDate>Tue, 06 Jan 2026 15:20:00 GMT</pubDate>
+        <description>24 powołanych zawodników jest już w drodze do Arabii Saudyjskiej, gdzie Królewscy zmierzą się w czwartek z Atlético w półfinale Superpucharu Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Mateo Busquets Ferrer na półfinał z Atlético</title>
+        <link>https://www.realmadryt.pl/news/145484-mateo-busquets-ferrer-na-polfinal-z-atletico</link>
+        <pubDate>Tue, 06 Jan 2026 14:54:00 GMT</pubDate>
+        <description>32-letni arbiter poprowadzi czwartkowe derby Madrytu. Będzie to dla niego dopiero siódmy mecz z udziałem Realu i czwarty z Atlético.</description>
+    </item>
     
     <item>
         <title>Davide Ancelotti: Zastąpienie Xabiego? Nic z tych rzeczy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145467-kartka-z-kalendarza-6-stycznia</link>
         <pubDate>Tue, 06 Jan 2026 10:50:00 GMT</pubDate>
         <description>Urodziny byłych zawodników, emocjonujące mecze z Realem Sociedad i transfer młodego Hiszpana z Manchesteru City. Co działo się 6 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Latem Xabi prosił o wzmocnienia w środku pola, ale klub był zadowolony z kadry</title>
-        <link>https://www.realmadryt.pl/news/145475-the-athletic-latem-xabi-prosil-o-wzmocnienia-w-srodku-pola-ale-klub-byl-zadowolony-z-kadry</link>
-        <pubDate>Tue, 06 Jan 2026 10:16:00 GMT</pubDate>
-        <description>Zimą transferu pomocnika też nie będzie.</description>
-    </item>
-    
-    <item>
-        <title>The Guardian: Real obserwuje Adama Whartona</title>
-        <link>https://www.realmadryt.pl/news/145474-the-guardian-real-obserwuje-adama-whartona</link>
-        <pubDate>Tue, 06 Jan 2026 09:55:00 GMT</pubDate>
-        <description>The Guardian w sekcji plotkowo-transferowej pisze o zainteresowaniu Realu Madryt Adamem Whartonem, 21-letnim pomocniku Crystal Palace.</description>
     </item>
     
 </channel>
