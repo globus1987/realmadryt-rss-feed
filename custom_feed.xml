@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Jan 2026 07:54:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 08:40:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 21. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/145466-terminarz-21-kolejki-la-ligi</link>
+        <pubDate>Tue, 06 Jan 2026 09:09:00 GMT</pubDate>
+        <description>La Liga przedstawiła dokładny harmonogram 20. kolejki tego sezonu. Real zagra w niej u siebie z Levante.</description>
+    </item>
+    
+    <item>
+        <title>Erasmus z przyszłością</title>
+        <link>https://www.realmadryt.pl/news/145472-erasmus-z-przyszloscia</link>
+        <pubDate>Tue, 06 Jan 2026 08:57:00 GMT</pubDate>
+        <description>Jacobo Ramón, Chema Andrés i Nico Paz są dla Królewskich na pozyskanie świetnych piłkarzy za niewielkie pieniądze. Decyzja w sprawie Nico została już podjęta. Całkowity koszt powrotu tego trio wyniósłby około 30 milionów euro.</description>
+    </item>
     
     <item>
         <title>Vinícius do Xabiego: „Powiedz Gonzalo, że ma czasem podać, nie zawsze, ale chociaż raz”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145459-lyon-moze-nie-zaplacic-ani-euro-za-wypozyczenie-endricka-ale-jest-jeden-warunek</link>
         <pubDate>Mon, 05 Jan 2026 16:03:00 GMT</pubDate>
         <description>Napastnik musi grać od pierwszej minuty, a wtedy koszt wypożyczenia będzie malał co pięć spotkań.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mecz z Maccabi Tel Awiw bez publiczności</title>
-        <link>https://www.realmadryt.pl/news/145458-oficjalnie-mecz-z-maccabi-tel-awiw-bez-publicznosci</link>
-        <pubDate>Mon, 05 Jan 2026 15:51:00 GMT</pubDate>
-        <description>Real Madryt i Maccabi Tel Awiw zagrają ze sobą w Movistar Arenie przy pustych trybunach. Królewscy poinformowali o tym w oficjalnym komunikacie.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Mbappé nie zagra w półfinale Superpucharu Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/145456-the-athletic-mbappe-nie-zagra-w-polfinale-superpucharu-hiszpanii</link>
-        <pubDate>Mon, 05 Jan 2026 15:30:00 GMT</pubDate>
-        <description>Pod znakiem zapytania stoi występ Francuza w ewentualnym finale.</description>
     </item>
     
 </channel>
