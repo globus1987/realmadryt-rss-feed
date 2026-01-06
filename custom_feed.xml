@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Jan 2026 09:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 10:34:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy lecą dzisiaj do Dżuddy</title>
+        <link>https://www.realmadryt.pl/news/145476-krolewscy-leca-dzisiaj-do-dzuddy</link>
+        <pubDate>Tue, 06 Jan 2026 11:10:00 GMT</pubDate>
+        <description>Dzisiaj lot, jutro trening, a pojutrze półfinałowy mecz.</description>
+    </item>
+    
+    <item>
+        <title>Startuje runda rewanżowa Euroligi</title>
+        <link>https://www.realmadryt.pl/news/145464-startuje-runda-rewanzowa-euroligi</link>
+        <pubDate>Tue, 06 Jan 2026 10:57:00 GMT</pubDate>
+        <description>W 20. kolejce Euroligi Real Madryt zagra na wyjeździe z ASVEL-em. Pierwsze spotkanie Królewscy wygrali, a dzisiaj będą mieli okazję zmierzyć się między innymi z Thomasem Heurtelem.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 6 stycznia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145465-bayern-nie-jest-zadowolony-po-slowach-karla-o-realu-madryt</link>
         <pubDate>Tue, 06 Jan 2026 05:30:00 GMT</pubDate>
         <description>W Niemczech zapanowała konsternacja z powodu wypowiedzi 17-latka.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145469-dzisiejsze-okladki</link>
-        <pubDate>Tue, 06 Jan 2026 00:48:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i transfer Cancelo do Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Chelsea zainteresowana Viníciusem?</title>
-        <link>https://www.realmadryt.pl/news/145462-chelsea-zainteresowana-viniciusem</link>
-        <pubDate>Mon, 05 Jan 2026 21:58:00 GMT</pubDate>
-        <description>The Guardian w sekcji plotkowo-transferowej spekuluje na temat przyszłości Viníciusa, którego kontrakt z Realem Madryt obowiązuje do lata 2027 roku.</description>
     </item>
     
 </channel>
