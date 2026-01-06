@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 06 Jan 2026 23:28:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 23:44:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145497-dzisiejsze-okladki</link>
+        <pubDate>Wed, 07 Jan 2026 00:29:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i transfer Cancelo do Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Byliśmy zniesmaczeni porażką sprzed kilku dni</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145483-davide-ancelotti-zastapienie-xabiego-nic-z-tych-rzeczy</link>
         <pubDate>Tue, 06 Jan 2026 13:39:00 GMT</pubDate>
         <description>Davide Ancelotti oglądał z wysokości trybun niedzielne zwycięstwo Realu Madryt z Sevillą. Po meczu były drugi trener Królewskich został złapany przez reportera Chiringuito i udzielił krótkiego wywiadu, w którym mówił o swoich planach na przyszłość i ocenił bieżącą sytuację zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Superpuchar Hiszpanii</title>
-        <link>https://www.realmadryt.pl/news/145477-kadra-na-superpuchar-hiszpanii</link>
-        <pubDate>Tue, 06 Jan 2026 13:32:00 GMT</pubDate>
-        <description>Xabi Alonso nie będzie mógł liczyć na trzech zawodników pierwszego zespołu podczas spotkań w Arabii Saudyjskiej. Bask powołał 24 piłkarzy.</description>
     </item>
     
 </channel>
