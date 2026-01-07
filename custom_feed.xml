@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Jan 2026 11:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 11:46:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Xabi gra w tym tygodniu o wszystko</title>
+        <link>https://www.realmadryt.pl/news/145502-as-xabi-gra-w-tym-tygodniu-o-wszystko</link>
+        <pubDate>Wed, 07 Jan 2026 12:37:00 GMT</pubDate>
+        <description>Superpuchar Hiszpanii przesądzi o losie trenera.</description>
+    </item>
     
     <item>
         <title>Zwrot, którego nikt się nie spodziewał</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145490-gdzie-obejrzec-superpuchar-hiszpanii</link>
         <pubDate>Tue, 06 Jan 2026 18:39:00 GMT</pubDate>
         <description>Jutro rozpocznie się turniej o Superpuchar Hiszpanii. Real Madryt zagra w czwartek z Atlético. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>AS: Superpuchar Hiszpanii w 2027 roku ma zostać rozegrany w Dosze</title>
-        <link>https://www.realmadryt.pl/news/145489-as-superpuchar-hiszpanii-w-2027-roku-ma-zostac-rozegrany-w-dosze</link>
-        <pubDate>Tue, 06 Jan 2026 17:33:00 GMT</pubDate>
-        <description>Turniej wyjątkowo ma przenieść się do Kataru.</description>
     </item>
     
 </channel>
