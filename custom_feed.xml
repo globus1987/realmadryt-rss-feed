@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Jan 2026 05:56:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 06:47:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Kto wygra Superpuchar Hiszpanii?</title>
+        <link>https://www.realmadryt.pl/news/145498-glos-kibica-kto-wygra-superpuchar-hiszpanii</link>
+        <pubDate>Wed, 07 Jan 2026 07:25:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Dzisiaj losowanie 1/8 finału Pucharu Króla</title>
@@ -17,7 +24,7 @@
         <title>Dzisiejsze okładki</title>
         <link>https://www.realmadryt.pl/news/145497-dzisiejsze-okladki</link>
         <pubDate>Wed, 07 Jan 2026 00:29:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i transfer Cancelo do Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+        <description>Superpuchar Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145485-krolewscy-wylecieli-do-dzuddy</link>
         <pubDate>Tue, 06 Jan 2026 15:20:00 GMT</pubDate>
         <description>24 powołanych zawodników jest już w drodze do Arabii Saudyjskiej, gdzie Królewscy zmierzą się w czwartek z Atlético w półfinale Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mateo Busquets Ferrer na półfinał z Atlético</title>
-        <link>https://www.realmadryt.pl/news/145484-mateo-busquets-ferrer-na-polfinal-z-atletico</link>
-        <pubDate>Tue, 06 Jan 2026 14:54:00 GMT</pubDate>
-        <description>32-letni arbiter poprowadzi czwartkowe derby Madrytu. Będzie to dla niego dopiero siódmy mecz z udziałem Realu i czwarty z Atlético.</description>
     </item>
     
 </channel>
