@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Jan 2026 11:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 13:01:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>W 1/8 finału Pucharu Króla z Albacete!</title>
+        <link>https://www.realmadryt.pl/news/145501-w-1-8-finalu-pucharu-krola-z-albacete</link>
+        <pubDate>Wed, 07 Jan 2026 12:55:00 GMT</pubDate>
+        <description>Królewscy poznali dzisiaj rywala, z którym zmierzą się tuż po powrocie z Arabii Saudyjskiej.</description>
+    </item>
     
     <item>
         <title>AS: Xabi gra w tym tygodniu o wszystko</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145493-krolewscy-sa-juz-w-dzuddzie</link>
         <pubDate>Tue, 06 Jan 2026 20:13:00 GMT</pubDate>
         <description>Zespół dotarł do Arabii Saudyjskiej, gdzie w czwartek powalczy o awans do finału Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Gdzie obejrzeć Superpuchar Hiszpanii?</title>
-        <link>https://www.realmadryt.pl/news/145490-gdzie-obejrzec-superpuchar-hiszpanii</link>
-        <pubDate>Tue, 06 Jan 2026 18:39:00 GMT</pubDate>
-        <description>Jutro rozpocznie się turniej o Superpuchar Hiszpanii. Real Madryt zagra w czwartek z Atlético. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
