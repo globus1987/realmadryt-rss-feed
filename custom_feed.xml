@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Jan 2026 03:51:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 04:47:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiaj losowanie 1/8 finału Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/145488-dzisiaj-losowanie-1-8-finalu-pucharu-krola</link>
+        <pubDate>Wed, 07 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Na kogo mogą trafić Królewscy?</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145484-mateo-busquets-ferrer-na-polfinal-z-atletico</link>
         <pubDate>Tue, 06 Jan 2026 14:54:00 GMT</pubDate>
         <description>32-letni arbiter poprowadzi czwartkowe derby Madrytu. Będzie to dla niego dopiero siódmy mecz z udziałem Realu i czwarty z Atlético.</description>
-    </item>
-    
-    <item>
-        <title>Davide Ancelotti: Zastąpienie Xabiego? Nic z tych rzeczy</title>
-        <link>https://www.realmadryt.pl/news/145483-davide-ancelotti-zastapienie-xabiego-nic-z-tych-rzeczy</link>
-        <pubDate>Tue, 06 Jan 2026 13:39:00 GMT</pubDate>
-        <description>Davide Ancelotti oglądał z wysokości trybun niedzielne zwycięstwo Realu Madryt z Sevillą. Po meczu były drugi trener Królewskich został złapany przez reportera Chiringuito i udzielił krótkiego wywiadu, w którym mówił o swoich planach na przyszłość i ocenił bieżącą sytuację zespołu.</description>
     </item>
     
 </channel>
