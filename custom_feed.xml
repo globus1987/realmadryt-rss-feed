@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Jan 2026 08:39:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 09:02:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwrot, którego nikt się nie spodziewał</title>
+        <link>https://www.realmadryt.pl/news/145500-zwrot-ktorego-nikt-sie-nie-spodziewal</link>
+        <pubDate>Wed, 07 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Od poczucia, że jest na uboczu, do ponownego stania się kluczowym piłkarzem. Brazylijczyk odradza się w momencie, gdy wątpliwości były największe, a czas znów przyznaje rację Xabiemu Alonso.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 7 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145489-as-superpuchar-hiszpanii-w-2027-roku-ma-zostac-rozegrany-w-dosze</link>
         <pubDate>Tue, 06 Jan 2026 17:33:00 GMT</pubDate>
         <description>Turniej wyjątkowo ma przenieść się do Kataru.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Wszyscy wrócili w doskonałej formie i to jest najważniejsze</title>
-        <link>https://www.realmadryt.pl/news/145487-courtois-wszyscy-wrocili-w-doskonalej-formie-i-to-jest-najwazniejsze</link>
-        <pubDate>Tue, 06 Jan 2026 16:38:00 GMT</pubDate>
-        <description>Bramkarz Realu odebrał statuetkę dla najlepszego piłkarza grudnia przyznawaną przez sponsora klubu, browar Mahou, po głosowaniu kibiców.</description>
     </item>
     
 </channel>
