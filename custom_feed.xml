@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 07 Jan 2026 23:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 02:20:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145523-dzisiejsze-okladki</link>
+        <pubDate>Thu, 08 Jan 2026 00:51:00 GMT</pubDate>
+        <description>Wygrana Barcelony i derby Madrytu w Superpucharze Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Butragueño: Derby to wyrównane mecze, w których decydują detale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145508-koke-gramy-polfinal-z-realem-madryt-i-zostawimy-na-boisku-zycie-zeby-wygrac</link>
         <pubDate>Wed, 07 Jan 2026 16:42:00 GMT</pubDate>
         <description>Koke pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Realem Madryt w Superpucharze Hiszpanii. Przedstawiamy najważniejsze wypowiedzi pomocnika Atlético Madryt z tego spotkania z dziennikarzami w Dżuddzie.</description>
-    </item>
-    
-    <item>
-        <title>Kolejne zamieszanie z terminarzem na horyzoncie</title>
-        <link>https://www.realmadryt.pl/news/145504-kolejne-zamieszanie-z-terminarzem-na-horyzoncie</link>
-        <pubDate>Wed, 07 Jan 2026 14:32:00 GMT</pubDate>
-        <description>Jeśli drużyna awansuje do finału Superpucharu Hiszpanii, to pojawi się kolejny problem.</description>
     </item>
     
 </channel>
