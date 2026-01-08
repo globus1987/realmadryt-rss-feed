@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Jan 2026 10:58:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 11:29:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po rewanż przy pustych trybunach</title>
+        <link>https://www.realmadryt.pl/news/145520-po-rewanz-przy-pustych-trybunach</link>
+        <pubDate>Thu, 08 Jan 2026 12:01:00 GMT</pubDate>
+        <description>W 21. kolejce Euroligi Real Madryt podejmie Maccabi Tel Awiw. To spotkanie odbędzie się bez udziału publiczności.</description>
+    </item>
     
     <item>
         <title>Piłkarze na mundialu będą mieć realistyczne „awatary AI” wykorzystywane przez VAR przy decyzjach o spalonym</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145523-dzisiejsze-okladki</link>
         <pubDate>Thu, 08 Jan 2026 00:51:00 GMT</pubDate>
         <description>Wygrana Barcelony i derby Madrytu w Superpucharze Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Butragueño: Derby to wyrównane mecze, w których decydują detale</title>
-        <link>https://www.realmadryt.pl/news/145517-butragueno-derby-to-wyrownane-mecze-w-ktorych-decyduja-detale</link>
-        <pubDate>Wed, 07 Jan 2026 20:50:00 GMT</pubDate>
-        <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wywiadu dla klubowej telewizji po losowaniu Pucharu Króla. Przedstawiamy wypowiedzi popularnego Sępa, który analizował też czwartkowe derby w Superpucharze Hiszpanii.</description>
     </item>
     
 </channel>
