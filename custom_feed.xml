@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Jan 2026 14:33:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 14:59:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Rüdiger jest gotowy do gry z Atlético</title>
+        <link>https://www.realmadryt.pl/news/145530-marca-ruediger-jest-gotowy-do-gry-z-atletico</link>
+        <pubDate>Thu, 08 Jan 2026 15:58:00 GMT</pubDate>
+        <description>Dobre wieści w sprawie Niemca.</description>
+    </item>
     
     <item>
         <title>Real zagra z Albacete we wtorek lub w środę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145491-legalna-zemsta</link>
         <pubDate>Thu, 08 Jan 2026 09:09:00 GMT</pubDate>
         <description>Knucie zemsty na całe szczęście najlepiej wychodzi najczęściej w myślach. W sporcie jednak można dokonać jej bez obaw o prawne i społeczne konsekwencje.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: W jakim ustawieniu z Atlético?</title>
-        <link>https://www.realmadryt.pl/news/145521-glos-kibica-w-jakim-ustawieniu-z-atletico</link>
-        <pubDate>Thu, 08 Jan 2026 08:18:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
