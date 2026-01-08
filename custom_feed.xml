@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 08 Jan 2026 23:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 23:56:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145553-dzisiejsze-okladki</link>
+        <pubDate>Fri, 09 Jan 2026 00:45:00 GMT</pubDate>
+        <description>Wygrana Realu i Klasyk w Superpucharze Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Asencio, Rüdiger i Rodrygo mogą nie zagrać w finale</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145537-fede-potrafilismy-cierpiec-razem</link>
         <pubDate>Thu, 08 Jan 2026 22:18:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu z murawy dla klubowej telewizji po wygranym półfinale Superpucharu Hiszpanii z Atlético. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Atlético Madryt</title>
-        <link>https://www.realmadryt.pl/news/145534-ocen-pilkarzy-po-meczu-z-atletico-madryt</link>
-        <pubDate>Thu, 08 Jan 2026 22:02:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
