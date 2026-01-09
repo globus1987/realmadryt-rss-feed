@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Jan 2026 09:02:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 09:43:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Atlético Madryt</title>
+        <link>https://www.realmadryt.pl/news/145558-oceny-zawodnikow-po-meczu-z-atletico-madryt</link>
+        <pubDate>Fri, 09 Jan 2026 10:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:1 z Atlético Madryt w półfinale Superpucharu Hiszpanii. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Carreras: Gra na stoperze? Nie ma problemu</title>
+        <link>https://www.realmadryt.pl/news/145555-carreras-gra-na-stoperze-nie-ma-problemu</link>
+        <pubDate>Fri, 09 Jan 2026 10:08:00 GMT</pubDate>
+        <description>Álvaro Carreras udzielił wywiadu dla telewizji Movistar+ po wygranym półfinale Superpucharu Hiszpanii z Atlético Madryt. Przedstawiamy wypowiedzi defensora Królewskich.</description>
+    </item>
     
     <item>
         <title>Feliz aniversário, Rodrygo!</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145550-vinicius-odpowiedzial-cholo-przegrales-kolejna-rywalizacje-pucharowa</link>
         <pubDate>Thu, 08 Jan 2026 23:57:00 GMT</pubDate>
         <description>Brazylijczyk skomentował wpis na Instagramie.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso: To nie jest zachowanie godne sportowca, to, co mu powiedział Simeone</title>
-        <link>https://www.realmadryt.pl/news/145549-xabi-alonso-to-nie-jest-zachowanie-godne-sportowca-to-co-mu-powiedzial-simeone</link>
-        <pubDate>Thu, 08 Jan 2026 23:39:00 GMT</pubDate>
-        <description>Xabi Alonso wziął udział w konferencji prasowej po wygranym 2:1 meczu z Atlético Madryt. Przedstawiamy zapis tego spotkania z dziennikarzami z trenerem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Gra bez kibiców? Mam nadzieję, że to się nie powtórzy</title>
-        <link>https://www.realmadryt.pl/news/145548-scariolo-gra-bez-kibicow-mam-nadzieje-ze-to-sie-nie-powtorzy</link>
-        <pubDate>Thu, 08 Jan 2026 23:36:00 GMT</pubDate>
-        <description>Sergio Scariolo wziął udział w konferencji prasowej po zwycięstwie z Maccabi. Wypowiedział się w temacie braku kibiców i mówił o rozwoju drużyny.</description>
     </item>
     
 </channel>
