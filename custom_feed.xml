@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Jan 2026 22:28:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 22:48:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>L'Équipe: Mbappé może zagrać w finale z blokadą</title>
+        <link>https://www.realmadryt.pl/news/145576-lequipe-mbappe-moze-zagrac-w-finale-z-blokada</link>
+        <pubDate>Fri, 09 Jan 2026 23:30:00 GMT</pubDate>
+        <description>Decyzja zapadnie jutro po treningu.</description>
+    </item>
     
     <item>
         <title>Mbappé jest już w Dżuddzie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145562-terminarz-1-8-finalu-pucharu-krola</link>
         <pubDate>Fri, 09 Jan 2026 13:19:00 GMT</pubDate>
         <description>Znamy dokładny terminarz 1/8 finału Pucharu Króla. W tej rundzie Królewscy zagrają na wyjeździe z Albacete.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni gwizdek! Zostały godziny, by zgarnąć drukarkę HP i koszulkę Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/145561-ostatni-gwizdek-zostaly-godziny-by-zgarnac-drukarke-hp-i-koszulke-realu-madryt</link>
-        <pubDate>Fri, 09 Jan 2026 13:15:00 GMT</pubDate>
-        <description>W sobotę zakończenie konkursu!</description>
     </item>
     
 </channel>
