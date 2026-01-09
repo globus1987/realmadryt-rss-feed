@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Jan 2026 21:46:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jan 2026 22:28:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé jest już w Dżuddzie</title>
+        <link>https://www.realmadryt.pl/news/145572-mbappe-jest-juz-w-dzuddzie</link>
+        <pubDate>Fri, 09 Jan 2026 22:49:00 GMT</pubDate>
+        <description>Jutro Francuz ma trenować z zespołem, a po zajęciach zapadnie decyzja o tym, czy jest gotowy na grę w finale z Barceloną.</description>
+    </item>
     
     <item>
         <title>Endrick: Ja nie odchodzę z Realu, to tylko przerwa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145561-ostatni-gwizdek-zostaly-godziny-by-zgarnac-drukarke-hp-i-koszulke-realu-madryt</link>
         <pubDate>Fri, 09 Jan 2026 13:15:00 GMT</pubDate>
         <description>W sobotę zakończenie konkursu!</description>
-    </item>
-    
-    <item>
-        <title>Valverde odpala armatę</title>
-        <link>https://www.realmadryt.pl/news/145559-valverde-odpala-armate</link>
-        <pubDate>Fri, 09 Jan 2026 12:40:00 GMT</pubDate>
-        <description>Po sześciu latach Fede Valverde znów był bohaterem superpucharowego starcia z Atlético Madryt w Arabii Saudyjskiej. I jak wcześniej zasłynął z faulu na Álvaro Moracie, tak wczoraj popisał się golazo po potężnym strzale z dystansu.</description>
     </item>
     
 </channel>
