@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 23:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 23:43:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145606-dzisiejsze-okladki</link>
+        <pubDate>Sun, 11 Jan 2026 00:26:00 GMT</pubDate>
+        <description>Klasyk w Superpucharze Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Florentino Pérez dołączył do drużyny w Arabii Saudyjskiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145595-gdzie-obejrzec-final-superpucharu-hiszpanii</link>
         <pubDate>Sat, 10 Jan 2026 17:55:00 GMT</pubDate>
         <description>Jutro odbędzie się finał Superpucharu Hiszpanii, w którym Barcelona zmierzy się z Realem Madryt. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Eric García: Tamten mecz ligowy to coś, co zostaje w głowie, coś, co zabolało</title>
-        <link>https://www.realmadryt.pl/news/145592-eric-garcia-tamten-mecz-ligowy-to-cos-co-zostaje-w-glowie-cos-co-zabolalo</link>
-        <pubDate>Sat, 10 Jan 2026 16:53:00 GMT</pubDate>
-        <description>Eric García wziął udział w konferencji prasowej przed finałem Superpucharu Hiszpanii w Dżuddzie. Przedstawiamy pełen zapis tego spotkania obrońcy Barcelony z dziennikarzami.</description>
     </item>
     
 </channel>
