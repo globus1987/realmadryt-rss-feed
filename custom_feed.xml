@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 11:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 12:54:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Czwarty z rzędu Klasyk w finale Superpucharu</title>
+        <link>https://www.realmadryt.pl/news/145589-czwarty-z-rzedu-klasyk-w-finale-superpucharu</link>
+        <pubDate>Sat, 10 Jan 2026 13:14:00 GMT</pubDate>
+        <description>Real Madryt i Barcelona czwarty raz z rządu zagrają ze sobą w finale Superpucharu Hiszpanii w Arabii Saudyjskiej.</description>
+    </item>
+    
+    <item>
+        <title>Tajemniczy przypadek Huijsena</title>
+        <link>https://www.realmadryt.pl/news/145588-tajemniczy-przypadek-huijsena</link>
+        <pubDate>Sat, 10 Jan 2026 12:55:00 GMT</pubDate>
+        <description>Dean Huijsen w dalszym ciągu nie rozegrał ani jednej minuty w 2026 roku. Na przestrzeni ostatnich dziesięciu meczów Realu Madryt na boisku pojawił się tylko trzykrotnie.</description>
+    </item>
     
     <item>
         <title>Neymar: Arda Güler to najlepszy pomocnik na świecie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145579-el-pais-pomyslem-realu-w-polfinale-bylo-granie-dalekich-podan-od-courtois</link>
         <pubDate>Sat, 10 Jan 2026 08:56:00 GMT</pubDate>
         <description>Real Madryt awansował do finału po meczu, w którym Courtois posłał najwięcej podań na ponad 30 metrów.</description>
-    </item>
-    
-    <item>
-        <title>Benzema będzie wspierał Real z trybun podczas finału</title>
-        <link>https://www.realmadryt.pl/news/145574-benzema-bedzie-wspieral-real-z-trybun-podczas-finalu</link>
-        <pubDate>Sat, 10 Jan 2026 08:18:00 GMT</pubDate>
-        <description>Francuz chce też odwiedzić drużynę w hotelu.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czy Mbappé powinien zagrać w finale z blokadą?</title>
-        <link>https://www.realmadryt.pl/news/145577-glos-kibica-czy-mbappe-powinien-zagrac-w-finale-z-blokada</link>
-        <pubDate>Sat, 10 Jan 2026 07:25:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
