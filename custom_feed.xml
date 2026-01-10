@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 13:33:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 13:53:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>COPE: Rodrygo będzie gotowy na finał, a Rüdiger walczy z czasem</title>
+        <link>https://www.realmadryt.pl/news/145591-cope-rodrygo-bedzie-gotowy-na-final-a-ruediger-walczy-z-czasem</link>
+        <pubDate>Sat, 10 Jan 2026 14:47:00 GMT</pubDate>
+        <description>Najnowszy raport na temat stanu zdrowia graczy</description>
+    </item>
     
     <item>
         <title>Terminarz 22. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145581-final-bez-uprzejmosci</link>
         <pubDate>Sat, 10 Jan 2026 09:58:00 GMT</pubDate>
         <description>Żadna z drużyn nie ma do drugiej już stosunku, w jakim zdawała się żyć lata temu. Sprawa Negreiry była decydującym czynnikiem w rozpadzie dialogu, porozumienia i wspólnych celów.</description>
-    </item>
-    
-    <item>
-        <title>Hansi Flick królem finałów</title>
-        <link>https://www.realmadryt.pl/news/145580-hansi-flick-krolem-finalow</link>
-        <pubDate>Sat, 10 Jan 2026 09:14:00 GMT</pubDate>
-        <description>Niemiec nie wie, co to znaczy przegrać finał. Wygrał ich w sumie siedem, pięć z Bayernem Monachium i dwa z Barceloną.</description>
     </item>
     
 </channel>
