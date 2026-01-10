@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 09:29:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 09:45:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Flick: Chcemy grać jak Barça, a styl Barçy jest inny niż styl Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145582-flick-chcemy-grac-jak-barca-a-styl-barcy-jest-inny-niz-styl-realu-madryt</link>
+        <pubDate>Sat, 10 Jan 2026 10:35:00 GMT</pubDate>
+        <description>Trener Barcelony wziął udział w konferencji prasowej. Przedstawiamy pełen zapis tego spotkania Hansiego Flicka z dziennikarzami w Dżuddzie.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 10 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145571-endrick-ja-nie-odchodze-z-realu-to-tylko-przerwa</link>
         <pubDate>Fri, 09 Jan 2026 22:22:00 GMT</pubDate>
         <description>Endrick udzielił krótkiego wywiadu dla Reutersa. Przedstawiamy najważniejsze wypowiedzi Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Maroko wygrało z Kamerunem i awansowało do półfinału PNA [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145570-maroko-wygralo-z-kamerunem-i-awansowalo-do-polfinalu-pna-video</link>
-        <pubDate>Fri, 09 Jan 2026 22:07:00 GMT</pubDate>
-        <description>W ćwierćfinale Lwy Atlasu mierzyły się z Nieposkromionymi Lwami i pewnie wygrały. Brahim zdobył swoją piątą bramkę w piątym meczu turnieju i kończył mecz z bólem uda.</description>
     </item>
     
 </channel>
