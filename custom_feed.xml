@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 09 Jan 2026 23:57:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 02:20:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145578-dzisiejsze-okladki</link>
+        <pubDate>Sat, 10 Jan 2026 00:58:00 GMT</pubDate>
+        <description>Przylot Kyliana Mbappé i Klasyk w Superpucharze Hiszpanii to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>L'Équipe: Mbappé może zagrać w finale z blokadą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145563-marca-real-nie-kupi-nikogo-zima</link>
         <pubDate>Fri, 09 Jan 2026 14:02:00 GMT</pubDate>
         <description>Nawet plaga kontuzji w obronie nie przekonuje klubu do przeprowadzenia transferów w zimowym okienku.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 1/8 finału Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/145562-terminarz-1-8-finalu-pucharu-krola</link>
-        <pubDate>Fri, 09 Jan 2026 13:19:00 GMT</pubDate>
-        <description>Znamy dokładny terminarz 1/8 finału Pucharu Króla. W tej rundzie Królewscy zagrają na wyjeździe z Albacete.</description>
     </item>
     
 </channel>
