@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 07:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 08:35:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Hansi Flick królem finałów</title>
+        <link>https://www.realmadryt.pl/news/145580-hansi-flick-krolem-finalow</link>
+        <pubDate>Sat, 10 Jan 2026 09:14:00 GMT</pubDate>
+        <description>Niemiec nie wie, co to znaczy przegrać finał. Wygrał ich w sumie siedem, pięć z Bayernem Monachium i dwa z Barceloną.</description>
+    </item>
+    
+    <item>
+        <title>El País: Pomysłem Realu w półfinale było granie dalekich podań od Courtois</title>
+        <link>https://www.realmadryt.pl/news/145579-el-pais-pomyslem-realu-w-polfinale-bylo-granie-dalekich-podan-od-courtois</link>
+        <pubDate>Sat, 10 Jan 2026 08:56:00 GMT</pubDate>
+        <description>Real Madryt awansował do finału po meczu, w którym Courtois posłał najwięcej podań na ponad 30 metrów.</description>
+    </item>
     
     <item>
         <title>Benzema będzie wspierał Real z trybun podczas finału</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145568-tebas-vinicius-i-simeone-to-tylko-anegdota-co-weekend-zdarza-sie-mnostwo-takich-historii</link>
         <pubDate>Fri, 09 Jan 2026 22:02:00 GMT</pubDate>
         <description>Javier Tebas spotkał się z dziennikarzami w Dżuddzie i odpowiedział na kilka pytań.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening w Dżuddzie</title>
-        <link>https://www.realmadryt.pl/news/145567-dzisiejszy-trening-w-dzuddzie</link>
-        <pubDate>Fri, 09 Jan 2026 18:24:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Dżuddzie, gdzie rozpoczęli przygotowania do meczu z Barceloną</description>
-    </item>
-    
-    <item>
-        <title>Atlético broni Simeone: „Zastanawiające, ile czasu niektórzy poświęcają na analizowanie czyjejś reakcji…”</title>
-        <link>https://www.realmadryt.pl/news/145566-atletico-broni-simeone-zastanawiajace-ile-czasu-niektorzy-poswiecaja-na-analizowanie-czyjejs-reakcji</link>
-        <pubDate>Fri, 09 Jan 2026 18:04:00 GMT</pubDate>
-        <description>Madrycki klub zamieścił dzisiaj wpis w mediach społecznościowych.</description>
     </item>
     
 </channel>
