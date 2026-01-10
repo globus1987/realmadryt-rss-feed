@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 19:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 19:40:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wysoka porażka Castilli</title>
+        <link>https://www.realmadryt.pl/news/145603-wysoka-porazka-castilli</link>
+        <pubDate>Sat, 10 Jan 2026 20:30:00 GMT</pubDate>
+        <description>W 19. kolejce Primera Federación Castilla przegrała 1:4 z Arenasem Getxo. O wszystkim zdecydowała pierwsza połowa, w której gospodarze aż czterokrotnie trafili do siatki.</description>
+    </item>
     
     <item>
         <title>COPE: Wszystko wskazuje na to, że Rüdiger będzie mógł zagrać z Barceloną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145591-cope-rodrygo-bedzie-gotowy-na-final-a-ruediger-walczy-z-czasem</link>
         <pubDate>Sat, 10 Jan 2026 14:47:00 GMT</pubDate>
         <description>Najnowszy raport na temat stanu zdrowia graczy</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 22. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/145590-terminarz-22-kolejki-la-ligi</link>
-        <pubDate>Sat, 10 Jan 2026 14:33:00 GMT</pubDate>
-        <description>La Liga przedstawiła dokładny harmonogram 22. kolejki tego sezonu. Real zagra w niej na własnym boisku z Rayo Vallecano.</description>
     </item>
     
 </channel>
