@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 10 Jan 2026 12:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 13:33:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 22. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/145590-terminarz-22-kolejki-la-ligi</link>
+        <pubDate>Sat, 10 Jan 2026 14:33:00 GMT</pubDate>
+        <description>La Liga przedstawiła dokładny harmonogram 22. kolejki tego sezonu. Real zagra w niej na własnym boisku z Rayo Vallecano.</description>
+    </item>
     
     <item>
         <title>Czwarty z rzędu Klasyk w finale Superpucharu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145580-hansi-flick-krolem-finalow</link>
         <pubDate>Sat, 10 Jan 2026 09:14:00 GMT</pubDate>
         <description>Niemiec nie wie, co to znaczy przegrać finał. Wygrał ich w sumie siedem, pięć z Bayernem Monachium i dwa z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>El País: Pomysłem Realu w półfinale było granie dalekich podań od Courtois</title>
-        <link>https://www.realmadryt.pl/news/145579-el-pais-pomyslem-realu-w-polfinale-bylo-granie-dalekich-podan-od-courtois</link>
-        <pubDate>Sat, 10 Jan 2026 08:56:00 GMT</pubDate>
-        <description>Real Madryt awansował do finału po meczu, w którym Courtois posłał najwięcej podań na ponad 30 metrów.</description>
     </item>
     
 </channel>
