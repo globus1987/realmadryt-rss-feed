@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 13:34:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 13:54:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Uwaga na Raphinhę</title>
+        <link>https://www.realmadryt.pl/news/145616-uwaga-na-raphinhe</link>
+        <pubDate>Sun, 11 Jan 2026 14:49:00 GMT</pubDate>
+        <description>Skrzydłowy ominął jesienny Klasyk, ale do dzisiejszego podchodzi w doskonałej formie i znów, podobnie jak rok temu, chce zostać MVP Superpucharu Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Przelewy Barcelony na 8,4 miliona euro dla Negreiry: cień nad Klasykiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145611-as-real-negocjuje-przedluzenie-umow-z-emirates-i-adidasem</link>
         <pubDate>Sun, 11 Jan 2026 09:16:00 GMT</pubDate>
         <description>Cel jest jasny: żeby koszulka była warta 300 milionów euro.</description>
-    </item>
-    
-    <item>
-        <title>Nie trofeum, lecz rywal</title>
-        <link>https://www.realmadryt.pl/news/145605-nie-trofeum-lecz-rywal</link>
-        <pubDate>Sun, 11 Jan 2026 09:09:00 GMT</pubDate>
-        <description>Każdy wie, jak to działa, a i tak wszyscy chcą dać się nabrać. I tak naprawdę nic w tym złego.</description>
     </item>
     
 </channel>
