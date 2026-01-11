@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 11:41:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 11:54:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Superpuchar Hiszpanii rośnie</title>
+        <link>https://www.realmadryt.pl/news/145612-superpuchar-hiszpanii-rosnie</link>
+        <pubDate>Sun, 11 Jan 2026 12:42:00 GMT</pubDate>
+        <description>Od tego sezonu Superpuchar Hiszpanii zwiększa swoje gabaryty. Nowe trofeum mierzy 67 centymetrów i waży 13 kilogramów.</description>
+    </item>
     
     <item>
         <title>Umocnić się na pozycji lidera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145608-fc-barcelona-real-madryt-przewidywane-sklady</link>
         <pubDate>Sun, 11 Jan 2026 05:30:00 GMT</pubDate>
         <description>Real Madryt zagra dzisiaj z Barceloną w finale Superpucharu Hiszpanii. Na kogo postawi Xabi Alonso?</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145606-dzisiejsze-okladki</link>
-        <pubDate>Sun, 11 Jan 2026 00:26:00 GMT</pubDate>
-        <description>Klasyk w Superpucharze Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
