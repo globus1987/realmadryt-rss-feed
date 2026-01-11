@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 21:25:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 21:42:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>FC Barcelona 3:2 Real Madryt [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/145631-fc-barcelona-3-2-real-madryt-video</link>
+        <pubDate>Sun, 11 Jan 2026 22:30:00 GMT</pubDate>
+        <description>Real Madryt przegrał w finale Superpucharu Hiszpanii z Barceloną 2:3. Gole dla Królewskich strzelili Vinícius Júnior i Gonzalo García.</description>
+    </item>
     
     <item>
         <title>Lewandowski: Wygraliśmy jako drużyna</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145616-uwaga-na-raphinhe</link>
         <pubDate>Sun, 11 Jan 2026 14:49:00 GMT</pubDate>
         <description>Skrzydłowy ominął jesienny Klasyk, ale do dzisiejszego podchodzi w doskonałej formie i znów, podobnie jak rok temu, chce zostać MVP Superpucharu Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Przelewy Barcelony na 8,4 miliona euro dla Negreiry: cień nad Klasykiem</title>
-        <link>https://www.realmadryt.pl/news/145619-przelewy-barcelony-na-8-4-miliona-euro-dla-negreiry-cien-nad-klasykiem</link>
-        <pubDate>Sun, 11 Jan 2026 14:05:00 GMT</pubDate>
-        <description>Sąd w Barcelonie od prawie trzech lat bada przelewy Barcelony na łączną kwotę 8,4 miliona euro do firm powiązanych z José Maríą Enríquezem Negreirą, byłym wiceprzewodniczącym Komitetu Technicznego Arbitrów. Sprawa może w najbliższych miesiącach wejść na etap procesu karnego, a jednocześnie coraz mocniej zatruwa relacje między Barceloną a Realem Madryt – zwłaszcza przed finałem Superpucharu Hiszpanii w Arabii Saudyjskiej. Mimo zapewnień o legalności płatności wciąż nie ma jasnej odpowiedzi, co Barcelona faktycznie otrzymała lub czego oczekiwała w zamian. Wszystko to na łamach The Athletic opisuje Dermot Corrigan. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
     </item>
     
 </channel>
