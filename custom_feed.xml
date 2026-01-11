@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 18:39:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 18:58:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>FC Barcelona – Real Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/145627-fc-barcelona-real-madryt-na-zywo</link>
+        <pubDate>Sun, 11 Jan 2026 19:55:00 GMT</pubDate>
+        <description>Od 20:00 polskiego czasu trwa finał Superpucharu Hiszpanii, w którym FC Barcelona mierzy się z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso:  To będzie intensywny mecz z różnymi momentami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145612-superpuchar-hiszpanii-rosnie</link>
         <pubDate>Sun, 11 Jan 2026 12:42:00 GMT</pubDate>
         <description>Od tego sezonu Superpuchar Hiszpanii zwiększa swoje gabaryty. Nowe trofeum mierzy 67 centymetrów i waży 13 kilogramów.</description>
-    </item>
-    
-    <item>
-        <title>Umocnić się na pozycji lidera</title>
-        <link>https://www.realmadryt.pl/news/145621-umocnic-sie-na-pozycji-lidera</link>
-        <pubDate>Sun, 11 Jan 2026 12:04:00 GMT</pubDate>
-        <description>W 15. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Andorrą. Królewscy po wczorajszej porażce Valencii mają szansę na umocnienie się na pozycji lidera.</description>
     </item>
     
 </channel>
