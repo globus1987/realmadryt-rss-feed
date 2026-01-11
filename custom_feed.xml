@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 10:48:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 11:23:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Umocnić się na pozycji lidera</title>
+        <link>https://www.realmadryt.pl/news/145621-umocnic-sie-na-pozycji-lidera</link>
+        <pubDate>Sun, 11 Jan 2026 12:04:00 GMT</pubDate>
+        <description>W 15. kolejce Ligi Endesa Real Madryt zagra na wyjeździe z Andorrą. Królewscy po wczorajszej porażce Valencii mają szansę na umocnienie się na pozycji lidera.</description>
+    </item>
+    
+    <item>
+        <title>Krzyżujące się dorastanie Viníciusa i Lamine’a</title>
+        <link>https://www.realmadryt.pl/news/145615-krzyzujace-sie-dorastanie-viniciusa-i-lamine-a</link>
+        <pubDate>Sun, 11 Jan 2026 11:51:00 GMT</pubDate>
+        <description>Obaj żyją w świetle reflektorów od 16. roku życia. „Trzeba mieć dobrze ustawione otoczenie”, podkreślają eksperci. Przejęli „7” i „10” w Realu Madryt i Barcelonie, a dziś zmierzą się w kolejnym Klasyku.</description>
+    </item>
     
     <item>
         <title>Łeń: Trener kładzie duży nacisk na dobrą grą defensywną</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145606-dzisiejsze-okladki</link>
         <pubDate>Sun, 11 Jan 2026 00:26:00 GMT</pubDate>
         <description>Klasyk w Superpucharze Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Florentino Pérez dołączył do drużyny w Arabii Saudyjskiej</title>
-        <link>https://www.realmadryt.pl/news/145604-florentino-perez-dolaczyl-do-druzyny-w-arabii-saudyjskiej</link>
-        <pubDate>Sat, 10 Jan 2026 23:15:00 GMT</pubDate>
-        <description>Prezes dotarł dzisiaj do Dżuddy.</description>
-    </item>
-    
-    <item>
-        <title>Wysoka porażka Castilli</title>
-        <link>https://www.realmadryt.pl/news/145603-wysoka-porazka-castilli</link>
-        <pubDate>Sat, 10 Jan 2026 20:30:00 GMT</pubDate>
-        <description>W 19. kolejce Primera Federación Castilla przegrała 1:4 z Arenasem Getxo. O wszystkim zdecydowała pierwsza połowa, w której gospodarze aż czterokrotnie trafili do siatki.</description>
     </item>
     
 </channel>
