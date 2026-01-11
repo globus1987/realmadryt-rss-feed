@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 20:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 21:25:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lewandowski: Wygraliśmy jako drużyna</title>
+        <link>https://www.realmadryt.pl/news/145630-lewandowski-wygralismy-jako-druzyna</link>
+        <pubDate>Sun, 11 Jan 2026 22:20:00 GMT</pubDate>
+        <description>Robert Lewandowski udzielił wypowiedzi z murawy dla telewizji Movistar+ po wygranym 3:2 finale Superpucharu Hiszpanii z Realem Madryt. Przedstawiamy wypowiedzi napastnika Barcelony.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Barceloną</title>
+        <link>https://www.realmadryt.pl/news/145626-ocen-pilkarzy-po-meczu-z-barcelona</link>
+        <pubDate>Sun, 11 Jan 2026 22:15:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
     
     <item>
         <title>Koszykarze umocnili się na pozycji lidera Ligi Endesa</title>
@@ -14,10 +28,10 @@
     </item>
     
     <item>
-        <title>FC Barcelona – Real Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/145627-fc-barcelona-real-madryt-na-zywo</link>
+        <title>Superpuchar Hiszpanii dla Barcelony</title>
+        <link>https://www.realmadryt.pl/news/145627-superpuchar-hiszpanii-dla-barcelony</link>
         <pubDate>Sun, 11 Jan 2026 19:55:00 GMT</pubDate>
-        <description>Od 20:00 polskiego czasu trwa finał Superpucharu Hiszpanii, w którym FC Barcelona mierzy się z Realem Madryt.</description>
+        <description>Real Madryt przegrał w finale Superpucharu Hiszpanii z Barceloną 2:3. Gole dla Królewskich strzelili Vinícius Júnior i Gonzalo García.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145619-przelewy-barcelony-na-8-4-miliona-euro-dla-negreiry-cien-nad-klasykiem</link>
         <pubDate>Sun, 11 Jan 2026 14:05:00 GMT</pubDate>
         <description>Sąd w Barcelonie od prawie trzech lat bada przelewy Barcelony na łączną kwotę 8,4 miliona euro do firm powiązanych z José Maríą Enríquezem Negreirą, byłym wiceprzewodniczącym Komitetu Technicznego Arbitrów. Sprawa może w najbliższych miesiącach wejść na etap procesu karnego, a jednocześnie coraz mocniej zatruwa relacje między Barceloną a Realem Madryt – zwłaszcza przed finałem Superpucharu Hiszpanii w Arabii Saudyjskiej. Mimo zapewnień o legalności płatności wciąż nie ma jasnej odpowiedzi, co Barcelona faktycznie otrzymała lub czego oczekiwała w zamian. Wszystko to na łamach The Athletic opisuje Dermot Corrigan. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Chodzi o to, by znaleźć odpowiednie nastawienie</title>
-        <link>https://www.realmadryt.pl/news/145623-bellingham-chodzi-o-to-by-znalezc-odpowiednie-nastawienie</link>
-        <pubDate>Sun, 11 Jan 2026 14:04:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu dla klubowej telewizji po zakończeniu wczorajszego treningu. Przedstawiamy zapis rozmowy z pomocnikiem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Carreras kontra Balde, czyli pojedynek o mundial</title>
-        <link>https://www.realmadryt.pl/news/145622-carreras-kontra-balde-czyli-pojedynek-o-mundial</link>
-        <pubDate>Sun, 11 Jan 2026 13:22:00 GMT</pubDate>
-        <description>Álvaro Carreras i Alejandro Balde znaleźli się na szerokiej liście zawodników, którzy mogą być powołani na tegoroczny mundial przez Luisa de la Fuente, choć selekcjoner wciąż stawia wyżej na Marca Cucurellę i Alejandro Grimaldo. Dzisiejsze El Clásico może okazać się dla nich idealną sceną do walki o miejsce w reprezentacji.</description>
     </item>
     
 </channel>
