@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 11:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 12:55:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Carreras kontra Balde, czyli pojedynek o mundial</title>
+        <link>https://www.realmadryt.pl/news/145622-carreras-kontra-balde-czyli-pojedynek-o-mundial</link>
+        <pubDate>Sun, 11 Jan 2026 13:22:00 GMT</pubDate>
+        <description>Álvaro Carreras i Alejandro Balde znaleźli się na szerokiej liście zawodników, którzy mogą być powołani na tegoroczny mundial przez Luisa de la Fuente, choć selekcjoner wciąż stawia wyżej na Marca Cucurellę i Alejandro Grimaldo. Dzisiejsze El Clásico może okazać się dla nich idealną sceną do walki o miejsce w reprezentacji.</description>
+    </item>
     
     <item>
         <title>Superpuchar Hiszpanii rośnie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145607-glos-kibica-kto-wygra-w-finale-superpucharu-hiszpanii</link>
         <pubDate>Sun, 11 Jan 2026 07:25:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>FC Barcelona – Real Madryt: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/145608-fc-barcelona-real-madryt-przewidywane-sklady</link>
-        <pubDate>Sun, 11 Jan 2026 05:30:00 GMT</pubDate>
-        <description>Real Madryt zagra dzisiaj z Barceloną w finale Superpucharu Hiszpanii. Na kogo postawi Xabi Alonso?</description>
     </item>
     
 </channel>
