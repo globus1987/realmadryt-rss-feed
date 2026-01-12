@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Jan 2026 13:03:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 13:53:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x21: Trudno zaakceptować rzeczywistość</title>
+        <link>https://www.realmadryt.pl/news/145650-podcast-7x21-trudno-zaakceptowac-rzeczywistosc</link>
+        <pubDate>Mon, 12 Jan 2026 14:52:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po porażce w Superpucharze Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Simeone: Przepraszam pana Florentino i pana Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145639-flick-przez-caly-mecz-gralismy-w-naszym-stylu</link>
         <pubDate>Mon, 12 Jan 2026 05:30:00 GMT</pubDate>
         <description>Hansi Flick wziął udział w konferencji prasowej po wygranym 3:2 finale Superpucharu Hiszpanii z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi trenera Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145643-dzisiejsze-okladki</link>
-        <pubDate>Mon, 12 Jan 2026 01:17:00 GMT</pubDate>
-        <description>Klasyk w Superpucharze Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
