@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Jan 2026 16:46:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 17:30:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Álvaro Arbeloa nowym trenerem Realu Madryt!</title>
+        <link>https://www.realmadryt.pl/news/145656-oficjalnie-alvaro-arbeloa-nowym-trenerem-realu-madryt</link>
+        <pubDate>Mon, 12 Jan 2026 18:21:00 GMT</pubDate>
+        <description>Szkoleniowiec Castilli przejmuje pierwszy zespół.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Xabi Alonso odchodzi z Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145655-oficjalnie-xabi-alonso-odchodzi-z-realu-madryt</link>
+        <pubDate>Mon, 12 Jan 2026 18:12:00 GMT</pubDate>
+        <description>Przedstawiamy komunikat Realu Madryt w sprawie trenera Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>AS: De Jong przyznał sędziemu rację ws. czerwonej kartki</title>
+        <link>https://www.realmadryt.pl/news/145654-as-de-jong-przyznal-sedziemu-racje-ws-czerwonej-kartki</link>
+        <pubDate>Mon, 12 Jan 2026 17:47:00 GMT</pubDate>
+        <description>Kapitan Barcelony początkowo mocno protestował wobec wyrzucenia go z boiska, ale madrycka gazeta podaje, że ostatecznie przyznał sędziom rację.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Pokazaliśmy charakter, ale się nie udało</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/145646-laporta-zaskoczylo-mnie-ze-nie-ustawili-nam-szpaleru</link>
         <pubDate>Mon, 12 Jan 2026 11:08:00 GMT</pubDate>
         <description>Joan Laporta był gościem RAC1. Przedstawiamy najważniejsze wypowiedzi prezesa Barcelony</description>
-    </item>
-    
-    <item>
-        <title>AS: Superpuchar daje oddech Xabiemu, od którego wymaga się poprawy przygotowania fizycznego</title>
-        <link>https://www.realmadryt.pl/news/145645-as-superpuchar-daje-oddech-xabiemu-od-ktorego-wymaga-sie-poprawy-przygotowania-fizycznego</link>
-        <pubDate>Mon, 12 Jan 2026 10:10:00 GMT</pubDate>
-        <description>Mimo porażki z Barceloną posada szkoleniowca nie jest zagrożona. To czas analizy i szukania rozwiązań problemów zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Barceloną</title>
-        <link>https://www.realmadryt.pl/news/145644-oceny-zawodnikow-po-meczu-z-barcelona</link>
-        <pubDate>Mon, 12 Jan 2026 09:45:00 GMT</pubDate>
-        <description>Real Madryt przegrał 2:3 z Barceloną w finale Superpucharu Hiszpanii. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 12 stycznia</title>
-        <link>https://www.realmadryt.pl/news/145637-kartka-z-kalendarza-12-stycznia</link>
-        <pubDate>Mon, 12 Jan 2026 09:09:00 GMT</pubDate>
-        <description>Urodziny byłych piłkarzy, pierwszy mecz reprezentacji po wojnie domowej, porażka z Atlético, trzecia Złota Piłka Cristiano Ronaldo, finał Superpucharu pod znakiem faulu Valverde i skutecznie wykonywanych jedenastek i mecze z Barceloną. Co działo się 12 stycznia?</description>
     </item>
     
 </channel>
