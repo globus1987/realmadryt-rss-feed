@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Jan 2026 22:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 23:23:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145665-dzisiejsze-okladki</link>
+        <pubDate>Tue, 13 Jan 2026 00:09:00 GMT</pubDate>
+        <description>Zwolnienie Xabiego Alonso to główny temat na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Zaliczony sprawdzian w Castilli</title>
+        <link>https://www.realmadryt.pl/news/145663-zaliczony-sprawdzian-w-castilli</link>
+        <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+        <description>Álvaro Arbeloa w Castilli udowodnił, że jest w stanie sprostać trudnemu wyzwaniu. Rozwinął drużynę i dawał szansę zawodnikom, którzy byli wcześniej skreślani czy wracali po długich kontuzjach. Po kiepskim początku Castilla zaczęła prezentować dobry futbol.</description>
+    </item>
     
     <item>
         <title>ESPN: Joselu Sánchez zwolniony z Realu Madryt C</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145652-the-athletic-posada-xabiego-alonso-nie-jest-zagrozona</link>
         <pubDate>Mon, 12 Jan 2026 16:44:00 GMT</pubDate>
         <description>Bask zostaje w klubie pomimo wczorajszej porażki w finale z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>Czy Real Madryt powinien był ustawić szpaler Barcelonie? [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145651-czy-real-madryt-powinien-byl-ustawic-szpaler-barcelonie-video</link>
-        <pubDate>Mon, 12 Jan 2026 15:51:00 GMT</pubDate>
-        <description>Po Klasyku jednym z głównych tematów był szpaler, którego Real Madryt nie ustawił oczekującej go Barcelonie przed wręczeniem jej członkom medali, pucharków i trofeum za wygrany finał.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x21: Trudno zaakceptować rzeczywistość</title>
-        <link>https://www.realmadryt.pl/news/145650-podcast-7x21-trudno-zaakceptowac-rzeczywistosc</link>
-        <pubDate>Mon, 12 Jan 2026 14:52:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po porażce w Superpucharze Hiszpanii.</description>
     </item>
     
 </channel>
