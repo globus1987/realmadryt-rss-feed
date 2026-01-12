@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 11 Jan 2026 23:56:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 02:29:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145643-dzisiejsze-okladki</link>
+        <pubDate>Mon, 12 Jan 2026 01:17:00 GMT</pubDate>
+        <description>Klasyk w Superpucharze Hiszpanii to najważniejsza kwestia poruszana na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Fermín do trybun: Ryj i ssijcie! [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/145641-fermin-do-trybun-ryj-i-ssijcie-video</link>
+        <pubDate>Mon, 12 Jan 2026 00:57:00 GMT</pubDate>
+        <description>Po wygranym Superpucharze Hiszpanii młodzi piłkarze Barcelony dali upust swoim emocjom.</description>
+    </item>
     
     <item>
         <title>Courtois: Detale były przeciwko nam</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145627-superpuchar-hiszpanii-dla-barcelony</link>
         <pubDate>Sun, 11 Jan 2026 19:55:00 GMT</pubDate>
         <description>Real Madryt przegrał w finale Superpucharu Hiszpanii z Barceloną 2:3. Gole dla Królewskich strzelili Vinícius Júnior i Gonzalo García.</description>
-    </item>
-    
-    <item>
-        <title>Xabi Alonso:  To będzie intensywny mecz z różnymi momentami</title>
-        <link>https://www.realmadryt.pl/news/145628-xabi-alonso-to-bedzie-intensywny-mecz-z-roznymi-momentami</link>
-        <pubDate>Sun, 11 Jan 2026 19:28:00 GMT</pubDate>
-        <description>Xabi Alonso udzielił wywiadu dla telewizji Movistar+ po przyjeździe Królewskich na King Abdullah Sports City. Przedstawiamy ostatnie wypowiedzi szkoleniowca Realu Madryt przed meczem z Barceloną.</description>
-    </item>
-    
-    <item>
-        <title>FC Barcelona – Real Madryt: Znamy składy! [AKTUALIZACJA!]</title>
-        <link>https://www.realmadryt.pl/news/145625-fc-barcelona-real-madryt-znamy-sklady-aktualizacja</link>
-        <pubDate>Sun, 11 Jan 2026 18:45:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w finale Superpucharu Hiszpanii. Spotkanie rozpocznie się o 20:00 na King Abdullah Sports City Stadium.</description>
     </item>
     
 </channel>
