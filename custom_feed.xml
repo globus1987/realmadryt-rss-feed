@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 12 Jan 2026 04:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 05:00:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Flick: Przez cały mecz graliśmy w naszym stylu</title>
+        <link>https://www.realmadryt.pl/news/145639-flick-przez-caly-mecz-gralismy-w-naszym-stylu</link>
+        <pubDate>Mon, 12 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Hansi Flick wziął udział w konferencji prasowej po wygranym 3:2 finale Superpucharu Hiszpanii z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi trenera Barcelony.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145629-koszykarze-umocnili-sie-na-pozycji-lidera-ligi-endesa</link>
         <pubDate>Sun, 11 Jan 2026 20:35:00 GMT</pubDate>
         <description>W 15. kolejce Ligi Endesa Real Madryt pokonał Andorrę i powiększył przewagę nad drugą w tabeli Valencią. Wygrana nie przyszła łatwo, ale Królewskich można tłumaczyć długą serią spotkań w krótkim czasie.</description>
-    </item>
-    
-    <item>
-        <title>Superpuchar Hiszpanii dla Barcelony</title>
-        <link>https://www.realmadryt.pl/news/145627-superpuchar-hiszpanii-dla-barcelony</link>
-        <pubDate>Sun, 11 Jan 2026 19:55:00 GMT</pubDate>
-        <description>Real Madryt przegrał w finale Superpucharu Hiszpanii z Barceloną 2:3. Gole dla Królewskich strzelili Vinícius Júnior i Gonzalo García.</description>
     </item>
     
 </channel>
