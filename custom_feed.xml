@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Jan 2026 06:47:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:31:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Decyzja Realu o zmianie trenera</title>
+        <link>https://www.realmadryt.pl/news/145669-glos-kibica-decyzja-realu-o-zmianie-trenera</link>
+        <pubDate>Tue, 13 Jan 2026 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Romano: Real Madryt może odzyskać Endricka do 20 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145655-oficjalnie-xabi-alonso-odchodzi-z-realu-madryt</link>
         <pubDate>Mon, 12 Jan 2026 18:12:00 GMT</pubDate>
         <description>Przedstawiamy komunikat Realu Madryt w sprawie trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>AS: De Jong przyznał sędziemu rację ws. czerwonej kartki</title>
-        <link>https://www.realmadryt.pl/news/145654-as-de-jong-przyznal-sedziemu-racje-ws-czerwonej-kartki</link>
-        <pubDate>Mon, 12 Jan 2026 17:47:00 GMT</pubDate>
-        <description>Kapitan Barcelony początkowo mocno protestował wobec wyrzucenia go z boiska, ale madrycka gazeta podaje, że ostatecznie przyznał sędziom rację.</description>
     </item>
     
 </channel>
