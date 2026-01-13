@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Jan 2026 07:31:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 07:54:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Piłkarsko to był jeden z najgorszych Realów Madryt w historii”</title>
+        <link>https://www.realmadryt.pl/news/145671-pilkarsko-to-byl-jeden-z-najgorszych-realow-madryt-w-historii</link>
+        <pubDate>Tue, 13 Jan 2026 08:52:00 GMT</pubDate>
+        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprawdzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat odejścia Xabiego Alonso.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius wyrównał rekord Realu Madryt z udziałami bramkowymi w finałach</title>
+        <link>https://www.realmadryt.pl/news/145666-vinicius-wyrownal-rekord-realu-madryt-z-udzialami-bramkowymi-w-finalach</link>
+        <pubDate>Tue, 13 Jan 2026 08:40:00 GMT</pubDate>
+        <description>Brazylijczyk trafieniem w niedzielnym finale wyrównał rekord udziałów bramkowych w finałach rozgrywanych przez Real Madryt.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Decyzja Realu o zmianie trenera</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145657-bilans-xabiego-alonso-w-realu-madryt</link>
         <pubDate>Mon, 12 Jan 2026 19:08:00 GMT</pubDate>
         <description>Era Baska na czele Realu Madryt potrwała 232 dni i 35 meczów.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Álvaro Arbeloa nowym trenerem Realu Madryt!</title>
-        <link>https://www.realmadryt.pl/news/145656-oficjalnie-alvaro-arbeloa-nowym-trenerem-realu-madryt</link>
-        <pubDate>Mon, 12 Jan 2026 18:21:00 GMT</pubDate>
-        <description>Szkoleniowiec Castilli przejmuje pierwszy zespół.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Xabi Alonso odchodzi z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145655-oficjalnie-xabi-alonso-odchodzi-z-realu-madryt</link>
-        <pubDate>Mon, 12 Jan 2026 18:12:00 GMT</pubDate>
-        <description>Przedstawiamy komunikat Realu Madryt w sprawie trenera Realu Madryt.</description>
     </item>
     
 </channel>
