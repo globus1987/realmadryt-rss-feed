@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Jan 2026 11:29:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 11:47:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy trening pod wodzą Álvaro Arbeloi</title>
+        <link>https://www.realmadryt.pl/news/145678-pierwszy-trening-pod-wodza-alvaro-arbeloi</link>
+        <pubDate>Tue, 13 Jan 2026 12:43:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Albacete Balompié.</description>
+    </item>
+    
+    <item>
+        <title>Klopp: Zwolnienie Xabiego? Nie ma to absolutnie nic wspólnego ze mną i w ogóle mnie nie dotyczy</title>
+        <link>https://www.realmadryt.pl/news/145677-klopp-zwolnienie-xabiego-nie-ma-to-absolutnie-nic-wspolnego-ze-mna-i-w-ogole-mnie-nie-dotyczy</link>
+        <pubDate>Tue, 13 Jan 2026 12:31:00 GMT</pubDate>
+        <description>Jürgen Klopp udzielił wywiadu telewizji Servus TV należącej do Red Bulla, dla którego teraz pracuje jako dyrektor ds. globalnego nadzoru nad rozwojem klubów należących do tej firmy. Przedstawiamy jego wypowiedzi dotyczące Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Xabi Alonso: Dziękuję przede wszystkim kibicom oraz madridismo za zaufanie i wsparcie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145669-glos-kibica-decyzja-realu-o-zmianie-trenera</link>
         <pubDate>Tue, 13 Jan 2026 07:50:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Romano: Real Madryt może odzyskać Endricka do 20 stycznia</title>
-        <link>https://www.realmadryt.pl/news/145667-romano-real-madryt-moze-odzyskac-endricka-do-20-stycznia</link>
-        <pubDate>Tue, 13 Jan 2026 07:00:00 GMT</pubDate>
-        <description>Słynny Włoch potwierdzający transfery wystosował aktualizację w sprawie brazylijskiego napastnika należącego do Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Jak będzie wyglądać pierwszy dzień Arbeloi na czele pierwszej drużyny?</title>
-        <link>https://www.realmadryt.pl/news/145668-jak-bedzie-wygladac-pierwszy-dzien-arbeloi-na-czele-pierwszej-druzyny</link>
-        <pubDate>Tue, 13 Jan 2026 05:30:00 GMT</pubDate>
-        <description>Nowy trener Królewskich przedstawi się dzisiaj piłkarzom, ale także kibicom i dziennikarzom. Nie ma przy tym informacji, by doszło do oficjalnej prezentacji.</description>
     </item>
     
 </channel>
