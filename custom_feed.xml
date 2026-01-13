@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 13 Jan 2026 23:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jan 2026 23:44:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145702-dzisiejsze-okladki</link>
+        <pubDate>Wed, 14 Jan 2026 00:39:00 GMT</pubDate>
+        <description>Prezentacja Álvaro Arbeloi w Realu Madryt to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Fabien Causeur zakończył karierę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145686-chlopcy-arbeloi</link>
         <pubDate>Tue, 13 Jan 2026 16:05:00 GMT</pubDate>
         <description>Na awansie Arbeloi w dużej mierze może skorzystać Gonzalo, który już gra w pierwszym zespole, a szanse mogą dostać także Thiago Pitarch, Cestero, Joan Martínez, Palacios i Manuel Ángel.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Będę Álvaro Arbeloą, bo gdybym chciał być José Mourinho, to poniósłbym spektakularną porażkę</title>
-        <link>https://www.realmadryt.pl/news/145685-arbeloa-bede-alvaro-arbeloa-bo-gdybym-chcial-byc-jose-mourinho-to-ponioslbym-spektakularna-porazke</link>
-        <pubDate>Tue, 13 Jan 2026 15:28:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed meczem z Albacete w Pucharze Króla. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas. To pierwsza konferencja prasowa Hiszpana na czele pierwszej drużyny.</description>
     </item>
     
 </channel>
