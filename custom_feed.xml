@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Jan 2026 21:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 22:30:25 GMT</lastBuildDate>
     
     <item>
-        <title>Albacete – Real Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/145717-albacete-real-madryt-na-zywo</link>
+        <title>Jefté: Walczyliśmy jak suk**syny</title>
+        <link>https://www.realmadryt.pl/news/145719-jefte-walczylismy-jak-suk-syny</link>
+        <pubDate>Wed, 14 Jan 2026 23:29:00 GMT</pubDate>
+        <description>Jefté Betancor udzielił wywiadu z murawy dla hiszpańskiej telewizji TVE po wyeliminowaniu Realu Madryt z Pucharu Króla. Przedstawiamy wypowiedzi napastnika kata Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Albacete</title>
+        <link>https://www.realmadryt.pl/news/145718-ocen-pilkarzy-po-meczu-z-albacete</link>
+        <pubDate>Wed, 14 Jan 2026 23:04:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Wstyd</title>
+        <link>https://www.realmadryt.pl/news/145717-wstyd</link>
         <pubDate>Wed, 14 Jan 2026 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz 1/8 finału Pucharu Króla, w którym Albacete Balompié mierzy się z Realem Madryt.</description>
+        <description>Real Madryt żegna się z Pucharem Króla po porażce 2:3 z Albacete. Bramki dla Królewskich zdobyli Franco Mastantuono i Gonzalo García.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145708-lorenzo-aguado-jestesmy-gotowi-aby-sprawic-niespodzianke</link>
         <pubDate>Wed, 14 Jan 2026 12:15:00 GMT</pubDate>
         <description>Prawy obrońca Albacete, Lorenzo Aguado, piętnaście lat swojego życia spędził w Valdebebas, które opuścił ostatniego lata. Teraz w przeddzień starcia w Copa del Rey ze swoim byłym klubem udzielił wywiadu dziennikowi AS.</description>
-    </item>
-    
-    <item>
-        <title>Vallejo: Cristiano nie odcinał się od innych, bardzo nam pomagał dbać o siebie</title>
-        <link>https://www.realmadryt.pl/news/145709-vallejo-cristiano-nie-odcinal-sie-od-innych-bardzo-nam-pomagal-dbac-o-siebie</link>
-        <pubDate>Wed, 14 Jan 2026 11:26:00 GMT</pubDate>
-        <description>Jesús Vallejo udzielił wywiadu dziennikowi El Mundo. Przedstawiamy pełne tłumaczenie tej rozmowy z byłym obrońcą Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Złamany projekt</title>
-        <link>https://www.realmadryt.pl/news/145690-zlamany-projekt</link>
-        <pubDate>Wed, 14 Jan 2026 10:30:00 GMT</pubDate>
-        <description>Początek nie zwiastował katastrofy. Nikt też jednak nie powiedział, że ta katastrofa jest ostateczna.</description>
     </item>
     
 </channel>
