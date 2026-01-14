@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Jan 2026 23:24:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 23:43:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145725-dzisiejsze-okladki</link>
+        <pubDate>Thu, 15 Jan 2026 00:33:00 GMT</pubDate>
+        <description>Odpadnięcie Realu Madryt z Pucharu Króla to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Maroko w finale Pucharu Narodów Afryki [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145713-arbeloa-w-2019-roku-barca-byla-doskonala-ale-grali-z-siatka-bezpieczenstwa</link>
         <pubDate>Wed, 14 Jan 2026 14:45:00 GMT</pubDate>
         <description>Álvaro Arbeloa po zakończeniu kariery piłkarza i w trakcie przygotowania do roli trenera pełnił rolę ambasadora Królewskich. W tamtym okresie kilkukrotnie odwiedzał nocny program Chiringuito jako gość i ekspert. Teraz Chiringuito przypomniało jego najważniejsze wypowiedzi z tamtego okresu. Przedstawiamy ich tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Albacete</title>
-        <link>https://www.realmadryt.pl/news/145712-krolewscy-sa-juz-w-albacete</link>
-        <pubDate>Wed, 14 Jan 2026 14:33:00 GMT</pubDate>
-        <description>Los Blancos są już w Albacete, gdzie dziś powalczą o ćwierćfinał Pucharu Króla z miejscowym Albacete Balompié.</description>
     </item>
     
 </channel>
