@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Jan 2026 19:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 20:29:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Albacete – Real Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/145717-albacete-real-madryt-na-zywo</link>
+        <pubDate>Wed, 14 Jan 2026 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 1/8 finału Pucharu Króla, w którym Albacete Balompié mierzy się z Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Albacete – Real Madryt: Znamy składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145690-zlamany-projekt</link>
         <pubDate>Wed, 14 Jan 2026 10:30:00 GMT</pubDate>
         <description>Początek nie zwiastował katastrofy. Nikt też jednak nie powiedział, że ta katastrofa jest ostateczna.</description>
-    </item>
-    
-    <item>
-        <title>Brahim powalczy dziś o finał Pucharu Narodów Afryki</title>
-        <link>https://www.realmadryt.pl/news/145658-brahim-powalczy-dzis-o-final-pucharu-narodow-afryki</link>
-        <pubDate>Wed, 14 Jan 2026 10:00:00 GMT</pubDate>
-        <description>Marokańczycy zagrają wieczorem z Nigerią.</description>
     </item>
     
 </channel>
