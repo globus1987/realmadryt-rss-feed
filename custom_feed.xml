@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Jan 2026 09:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 09:44:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Złamany projekt</title>
+        <link>https://www.realmadryt.pl/news/145690-zlamany-projekt</link>
+        <pubDate>Wed, 14 Jan 2026 10:30:00 GMT</pubDate>
+        <description>Początek nie zwiastował katastrofy. Nikt też jednak nie powiedział, że ta katastrofa jest ostateczna.</description>
+    </item>
     
     <item>
         <title>Brahim powalczy dziś o finał Pucharu Narodów Afryki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145704-pilkarze-po-pierwszym-dniu-z-arbeloa-to-mocno-przypominalo-treningi-ancelottiego-i-zidanea</link>
         <pubDate>Wed, 14 Jan 2026 02:15:00 GMT</pubDate>
         <description>Edu Aguirre to główny dziennikarz Chiringuito od Realu Madryt. Przedstawiamy jego nocne informacje w sprawie pierwszego dnia pracy nowego trenera.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145702-dzisiejsze-okladki</link>
-        <pubDate>Wed, 14 Jan 2026 00:39:00 GMT</pubDate>
-        <description>Prezentacja Álvaro Arbeloi w Realu Madryt to główny temat na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
