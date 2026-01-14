@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Jan 2026 10:45:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 11:28:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lorenzo Aguado: Jesteśmy gotowi, aby sprawić niespodziankę</title>
+        <link>https://www.realmadryt.pl/news/145708-lorenzo-aguado-jestesmy-gotowi-aby-sprawic-niespodzianke</link>
+        <pubDate>Wed, 14 Jan 2026 12:15:00 GMT</pubDate>
+        <description>Prawy obrońca Albacete, Lorenzo Aguado, piętnaście lat swojego życia spędził w Valdebebas, które opuścił ostatniego lata. Teraz w przeddzień starcia w Copa del Rey ze swoim byłym klubem udzielił wywiadu dziennikowi AS.</description>
+    </item>
     
     <item>
         <title>Vallejo: Cristiano nie odcinał się od innych, bardzo nam pomagał dbać o siebie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145705-albacete-real-madryt-przewidywany-sklad</link>
         <pubDate>Wed, 14 Jan 2026 07:00:00 GMT</pubDate>
         <description>Real Madryt rozegra dziś swój pierwszy mecz z nowym trenerem. Niezmienna pozostaje fatalna sytuacja zdrowotna.</description>
-    </item>
-    
-    <item>
-        <title>Sky: Klopp rozważyłby pracę dla Realu Madryt w przypadku konkretnego zainteresowania</title>
-        <link>https://www.realmadryt.pl/news/145701-sky-klopp-rozwazylby-prace-dla-realu-madryt-w-przypadku-konkretnego-zainteresowania</link>
-        <pubDate>Wed, 14 Jan 2026 05:30:00 GMT</pubDate>
-        <description>Sam Niemiec regularnie zapewnia, że absolutnie nie myśli o powrocie do trenowania, ale źródło z jego kraju utrzymuje, że jeśli Królewscy wyrażą poważne zainteresowanie, to były szkoleniowiec Liverpoolu pomyśli o powrocie na ławkę trenerską.</description>
     </item>
     
 </channel>
