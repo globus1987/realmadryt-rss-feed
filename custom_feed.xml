@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 14 Jan 2026 14:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 15:00:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Víctor García Verdura na Albacete</title>
+        <link>https://www.realmadryt.pl/news/145714-victor-garcia-verdura-na-albacete</link>
+        <pubDate>Wed, 14 Jan 2026 15:45:00 GMT</pubDate>
+        <description>31-latek po raz czwarty w swojej karierze spotka się na boisku z Realem Madryt. Sędzią VAR będzie Iván Caparrós Hernández.</description>
+    </item>
     
     <item>
         <title>„Brazylijski Fenomen”. Poznaj historię Ronaldo Luísa Nazário de Limy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145698-kartka-z-kalendarza-14-stycznia</link>
         <pubDate>Wed, 14 Jan 2026 09:30:00 GMT</pubDate>
         <description>Niespodziewany transfer Duńczyka, ligowy debiut Higuaína, gest Capello, wyjazdowa wygrana z Mallorcą i hat-trick Viniego w Klasyku. Co działo się 14 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Arbeloa podpisał nowy kontrakt</title>
-        <link>https://www.realmadryt.pl/news/145706-marca-arbeloa-podpisal-nowy-kontrakt</link>
-        <pubDate>Wed, 14 Jan 2026 09:02:00 GMT</pubDate>
-        <description>Umowa nie obowiązuje tylko do końca trwającego sezonu.</description>
     </item>
     
 </channel>
