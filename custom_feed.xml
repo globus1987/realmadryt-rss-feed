@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Jan 2026 05:56:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:47:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Real Madryt coraz bliżej NBA Europe</title>
+        <link>https://www.realmadryt.pl/news/145722-as-real-madryt-coraz-blizej-nba-europe</link>
+        <pubDate>Thu, 15 Jan 2026 07:00:00 GMT</pubDate>
+        <description>Real Madryt ma coraz mniej czasu na podjęcie decyzji: NBA czy Euroliga. AS donosi, że Madrytczycy skłaniają się ku pierwszej opcji.</description>
+    </item>
     
     <item>
         <title>Carreño: Real Madryt już sonduje różnych trenerów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145715-media-vallejo-jednak-nie-zagra-z-realem-madryt</link>
         <pubDate>Wed, 14 Jan 2026 16:42:00 GMT</pubDate>
         <description>Były piłkarz Królewskich nie będzie mógł wystąpić dziś wieczorem.</description>
-    </item>
-    
-    <item>
-        <title>Víctor García Verdura na Albacete</title>
-        <link>https://www.realmadryt.pl/news/145714-victor-garcia-verdura-na-albacete</link>
-        <pubDate>Wed, 14 Jan 2026 15:45:00 GMT</pubDate>
-        <description>31-latek po raz czwarty w swojej karierze spotka się na boisku z Realem Madryt. Sędzią VAR będzie Iván Caparrós Hernández.</description>
     </item>
     
 </channel>
