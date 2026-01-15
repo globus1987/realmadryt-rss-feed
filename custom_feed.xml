@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Jan 2026 08:40:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 09:02:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piqué wyśmiał debiut Arbeloi w Realu</title>
+        <link>https://www.realmadryt.pl/news/145730-pique-wysmial-debiut-arbeloi-w-realu</link>
+        <pubDate>Thu, 15 Jan 2026 09:40:00 GMT</pubDate>
+        <description>„Niech to trafi do wszystkich mediów krajowych i międzynarodowych!… Piqué właśnie wyśmiał Álvaro Arbeloę”.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 15 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145719-jefte-walczylismy-jak-suk-syny</link>
         <pubDate>Wed, 14 Jan 2026 23:29:00 GMT</pubDate>
         <description>Jefté Betancor udzielił wywiadu z murawy dla hiszpańskiej telewizji TVE po wyeliminowaniu Realu Madryt z Pucharu Króla. Przedstawiamy wypowiedzi napastnika kata Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Albacete</title>
-        <link>https://www.realmadryt.pl/news/145718-ocen-pilkarzy-po-meczu-z-albacete</link>
-        <pubDate>Wed, 14 Jan 2026 23:04:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
     </item>
     
 </channel>
