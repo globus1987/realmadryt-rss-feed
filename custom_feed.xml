@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Jan 2026 07:54:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 08:40:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 stycznia</title>
+        <link>https://www.realmadryt.pl/news/145721-kartka-z-kalendarza-15-stycznia</link>
+        <pubDate>Thu, 15 Jan 2026 09:30:00 GMT</pubDate>
+        <description>Wielki mecz z Sevillą Zidane'a-piłkarza i porażka z Sevillą Zidane'a-trenera, starcie z Atlético, wygrany Klasyk i śmierć legendarnego piłkarza. Co działo się 15 stycznia?</description>
+    </item>
     
     <item>
         <title>Trener Albacete: To spełnione marzenie stanąć naprzeciw najlepszego klubu i wygrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145718-ocen-pilkarzy-po-meczu-z-albacete</link>
         <pubDate>Wed, 14 Jan 2026 23:04:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Wstyd</title>
-        <link>https://www.realmadryt.pl/news/145717-wstyd</link>
-        <pubDate>Wed, 14 Jan 2026 20:55:00 GMT</pubDate>
-        <description>Real Madryt żegna się z Pucharem Króla po porażce 2:3 z Albacete. Bramki dla Królewskich zdobyli Franco Mastantuono i Gonzalo García.</description>
     </item>
     
 </channel>
