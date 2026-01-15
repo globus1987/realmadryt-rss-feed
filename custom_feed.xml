@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Jan 2026 09:58:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 10:36:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Florentino kibic, Florentino prezes</title>
+        <link>https://www.realmadryt.pl/news/145732-florentino-kibic-florentino-prezes</link>
+        <pubDate>Thu, 15 Jan 2026 11:22:00 GMT</pubDate>
+        <description>„Real Madryt nosi ślady decyzji prezesa na każdym kroku i teraz, gdy Xabiego już nie ma, to właśnie on pierwszy musi przyjąć wedrykt z trybun Santiago Bernabéu”, zapowiada swój tekst Rafa Cabeleira, felietonista El País.</description>
+    </item>
     
     <item>
         <title>Vinícius był rasistowsko obrażany przed meczem z Albacete, a Courtois zareagował</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145723-arbeloa-jestem-odpowiedzialny-i-winny</link>
         <pubDate>Thu, 15 Jan 2026 00:05:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się na konferencji prasowej po meczu Pucharu Króla z Albacete. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Estádio Carlos Belmonte.</description>
-    </item>
-    
-    <item>
-        <title>Albacete 3:2 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145720-albacete-3-2-real-madryt-video</link>
-        <pubDate>Wed, 14 Jan 2026 23:41:00 GMT</pubDate>
-        <description>Real Madryt żegna się z Pucharem Króla po porażce 2:3 z Albacete. Bramki dla Królewskich zdobyli Franco Mastantuono i Gonzalo García.</description>
     </item>
     
 </channel>
