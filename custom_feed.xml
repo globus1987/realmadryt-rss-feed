@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 15 Jan 2026 13:52:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 14:32:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x22: Inny klub</title>
+        <link>https://www.realmadryt.pl/news/145738-podcast-7x22-inny-klub</link>
+        <pubDate>Thu, 15 Jan 2026 15:24:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po odpadnięciu z Pucharu Króla.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Albacete</title>
+        <link>https://www.realmadryt.pl/news/145739-oceny-zawodnikow-po-meczu-z-albacete</link>
+        <pubDate>Thu, 15 Jan 2026 15:09:00 GMT</pubDate>
+        <description>Real Madryt przegrał 2:3 z Albacete i odpadł z Pucharu Króla. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>Endrick: Florentino zrozumiał moje pragnienie o regularnej grze</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145727-trener-albacete-to-spelnione-marzenie-stanac-naprzeciw-najlepszego-klubu-i-wygrac</link>
         <pubDate>Thu, 15 Jan 2026 08:40:00 GMT</pubDate>
         <description>Alberto González udzielił wywiadu hiszpańskiej telewizji publicznej po wygranej nad Realem Madryt. Przedstawiamy wypowiedzi trenera Albacete ze strefy mieszanej na Estadio Carlos Belmonte.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Wiara w Arbeloę</title>
-        <link>https://www.realmadryt.pl/news/145728-glos-kibica-wiara-w-arbeloe</link>
-        <pubDate>Thu, 15 Jan 2026 07:50:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real Madryt coraz bliżej NBA Europe</title>
-        <link>https://www.realmadryt.pl/news/145722-as-real-madryt-coraz-blizej-nba-europe</link>
-        <pubDate>Thu, 15 Jan 2026 07:00:00 GMT</pubDate>
-        <description>Real Madryt ma coraz mniej czasu na podjęcie decyzji: NBA czy Euroliga. AS donosi, że Madrytczycy skłaniają się ku pierwszej opcji.</description>
     </item>
     
 </channel>
