@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 16 Jan 2026 07:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 08:38:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 16 stycznia</title>
+        <link>https://www.realmadryt.pl/news/145749-kartka-z-kalendarza-16-stycznia</link>
+        <pubDate>Fri, 16 Jan 2026 09:30:00 GMT</pubDate>
+        <description>Rezygnacja Calderóna, urodziny byłego bramkarza, debiut Gravesena, nieudany mecz z Leganés zakończony… awansem oraz wygrana z Athletikiem. Co działo się 16 stycznia?</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Sąd nad Florentino</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145740-as-rayane-bounida-na-celowniku-realu-i-barcelony</link>
         <pubDate>Thu, 15 Jan 2026 17:02:00 GMT</pubDate>
         <description>19-letni Belg ma być celem obu hiszpańskich klubów na letnie okienko transferowe.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x22: Inny klub</title>
-        <link>https://www.realmadryt.pl/news/145738-podcast-7x22-inny-klub</link>
-        <pubDate>Thu, 15 Jan 2026 15:24:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po odpadnięciu z Pucharu Króla.</description>
     </item>
     
 </channel>
