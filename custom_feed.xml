@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 07:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 07:56:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pierwszy dzień na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/145784-pierwszy-dzien-na-bernabeu</link>
+        <pubDate>Sat, 17 Jan 2026 08:46:00 GMT</pubDate>
+        <description>Wszyscy trenerzy w drugiej kadencji Florentino Péreza wygrywali swoje pierwsze mecze na Santiago Bernabéu. Dzisiaj do swojego pierwszego poważnego egzaminu podchodzi Álvaro Arbeloa.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 17 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145778-barcelona-rozbita-w-euroligowym-klasyku</link>
         <pubDate>Fri, 16 Jan 2026 22:52:00 GMT</pubDate>
         <description>W 22. kolejce Euroligi Real Madryt wysoko pokonał Barcelonę. Królewscy byli wyraźnie lepszą drużyną przez cały mecz. Dzięki temu zwycięstwu przeskoczyli odwiecznego rywala w tabeli.</description>
-    </item>
-    
-    <item>
-        <title>Gol Ansu Fatiego nie uratował Monaco</title>
-        <link>https://www.realmadryt.pl/news/145775-gol-ansu-fatiego-nie-uratowal-monaco</link>
-        <pubDate>Fri, 16 Jan 2026 20:59:00 GMT</pubDate>
-        <description>W meczu 18. kolejki Ligue 1 Monaco przegrało u siebie z Lorient 1:3. Jedyną bramkę dla gospodarzy strzelił Ansu Fati, który w drugiej połowie wszedł z ławki rezerwowych.</description>
     </item>
     
 </channel>
