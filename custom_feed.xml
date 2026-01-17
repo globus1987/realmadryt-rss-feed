@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 11:22:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 11:41:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Levante: Znamy składy!</title>
+        <link>https://www.realmadryt.pl/news/145787-real-madryt-levante-znamy-sklady</link>
+        <pubDate>Sat, 17 Jan 2026 12:30:00 GMT</pubDate>
+        <description>Álvaro Arbeloa odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w meczu La Ligi z Levante. Mecz rozpocznie się o godzinie 14:00 na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Real Madryt złożył kondolencje po śmierci prezesa Fiorentiny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145779-w-madrycie-wywieszono-serie-transparentow-atakujacych-florentino-pereza</link>
         <pubDate>Sat, 17 Jan 2026 00:02:00 GMT</pubDate>
         <description>Różne komunikaty atakujące prezesa Królewskich pojawiły się w różnych częściach stolicy Hiszpanii przed meczem z Levante, doniosło pierwsze radio COPE.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Opowiedziałem piłkarzom anegdotę o ich kapitanie</title>
-        <link>https://www.realmadryt.pl/news/145767-arbeloa-opowiedzialem-pilkarzom-anegdote-o-ich-kapitanie</link>
-        <pubDate>Sat, 17 Jan 2026 00:01:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się na wczoraj konferencji prasowej przed dzisiejszym meczem z Levante w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
