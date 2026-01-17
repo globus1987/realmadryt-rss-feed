@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 05:46:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:40:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>SER: Kibice z sektora z dopingiem wiedzą, że jeśli będą gwizdać, to mogą już nie wrócić na stadion</title>
+        <link>https://www.realmadryt.pl/news/145783-ser-kibice-z-sektora-z-dopingiem-wiedza-ze-jesli-beda-gwizdac-to-moga-juz-nie-wrocic-na-stadion</link>
+        <pubDate>Sat, 17 Jan 2026 07:00:00 GMT</pubDate>
+        <description>Radio SER przekazało swoje informacje w sprawie przekazu klubu dla kibiców z sektora z dopingiem.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy i kiedy gwizdać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145757-telewizyjny-terminarz-20-kolejki-la-ligi</link>
         <pubDate>Fri, 16 Jan 2026 20:00:00 GMT</pubDate>
         <description>Dziś rozpocznie się 20. kolejka La Ligi. Real Madryt zagra w sobotę u siebie z Levante. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Castro: Zamieszanie w Realu Madryt? Mam wystarczająco dużo pracy tutaj</title>
-        <link>https://www.realmadryt.pl/news/145773-castro-zamieszanie-w-realu-madryt-mam-wystarczajaco-duzo-pracy-tutaj</link>
-        <pubDate>Fri, 16 Jan 2026 19:21:00 GMT</pubDate>
-        <description>Trener Levante, Luís Castro, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 20. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi portugalskiego szkoleniowca.</description>
     </item>
     
 </channel>
