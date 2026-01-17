@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 12:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 13:33:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Levante [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/145789-real-madryt-levante-na-zywo</link>
+        <pubDate>Sat, 17 Jan 2026 13:55:00 GMT</pubDate>
+        <description>Od 14:00 na Bernabéu trwa mecz między Realem Madryt a Levante w ramach 20. kolejki La Ligi. To drugie spotkanie Álvaro Arbeloi w roli trenera Królewskich.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Levante [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145781-scariolo-dobry-mecz-i-dobre-zwyciestwo</link>
         <pubDate>Sat, 17 Jan 2026 00:22:00 GMT</pubDate>
         <description>Sergio Scariolo podsumował zwycięskie spotkanie z Barceloną. Wyróżnił grę w obronie i pochwalił Garubę. Powiedział też kilka słów o Causeurze, który pojawił się na trybunach Movistar Areny.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145780-dzisiejsze-okladki</link>
-        <pubDate>Sat, 17 Jan 2026 00:15:00 GMT</pubDate>
-        <description>Mecz Realu Madryt i odejścia w Barcelonie to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
