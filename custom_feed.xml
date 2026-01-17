@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 04:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 04:53:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy i kiedy gwizdać</title>
+        <link>https://www.realmadryt.pl/news/145776-glos-kibica-czy-i-kiedy-gwizdac</link>
+        <pubDate>Sat, 17 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Levante: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145773-castro-zamieszanie-w-realu-madryt-mam-wystarczajaco-duzo-pracy-tutaj</link>
         <pubDate>Fri, 16 Jan 2026 19:21:00 GMT</pubDate>
         <description>Trener Levante, Luís Castro, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 20. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi portugalskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Media: Marc Guéhi dołączy do Manchesteru City</title>
-        <link>https://www.realmadryt.pl/news/145771-media-marc-guehi-dolaczy-do-manchesteru-city</link>
-        <pubDate>Fri, 16 Jan 2026 18:22:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że 25-letni obrońca reprezentacji Anglii nie zagra w jednym klubie z Jude'em Bellinghamem i Trentem Alexandrem-Arnoldem. Marc Guéhi nie będzie czekał na koniec kontraktu z Crystal Palace i już teraz ma trafić do Manchesteru City.</description>
     </item>
     
 </channel>
