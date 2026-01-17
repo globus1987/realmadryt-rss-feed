@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 22:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 23:25:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145810-dzisiejsze-okladki</link>
+        <pubDate>Sun, 18 Jan 2026 00:14:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>GŁOS KIBICA: Karny na Kylianie Mbappé</title>
+        <link>https://www.realmadryt.pl/news/145808-glos-kibica-karny-na-kylianie-mbappe</link>
+        <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Szalone dwie godziny Álvaro Leivy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145794-asencio-czulismy-ze-mamy-dlug-wobec-naszych-kibicow</link>
         <pubDate>Sat, 17 Jan 2026 16:15:00 GMT</pubDate>
         <description>Raúl Asencio udzielił wywiadu z murawy dla klubowej telewizji po wygranym 2:0 meczu z Levante. Przedstawiamy wypowiedzi stopera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler MVP meczu z Levante</title>
-        <link>https://www.realmadryt.pl/news/145793-arda-gueler-mvp-meczu-z-levante</link>
-        <pubDate>Sat, 17 Jan 2026 16:05:00 GMT</pubDate>
-        <description>Arda Güler został wyróżniony po meczu Realu Madryt z Levante.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Levante</title>
-        <link>https://www.realmadryt.pl/news/145791-ocen-pilkarzy-po-meczu-z-levante</link>
-        <pubDate>Sat, 17 Jan 2026 15:59:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
     </item>
     
 </channel>
