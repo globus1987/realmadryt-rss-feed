@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 19:23:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x23: Czy we wtorek też gwiżdżemy?</title>
+        <link>https://www.realmadryt.pl/news/145804-podcast-7x23-czy-we-wtorek-tez-gwizdzemy</link>
+        <pubDate>Sat, 17 Jan 2026 20:18:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po wygranej nad Levante.</description>
+    </item>
     
     <item>
         <title>350 meczów Fede w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145790-pilkarki-wygraly-z-levante-video</link>
         <pubDate>Sat, 17 Jan 2026 14:42:00 GMT</pubDate>
         <description>W meczu 16. kolejki Ligi F piłkarki Realu Madryt wygrały w Ciudad Deportiva de Buñol z Levante 2:1. Obie bramki dla Las Blancas zdobyła Athenea del Castillo.</description>
-    </item>
-    
-    <item>
-        <title>Poprawny wynik w złych czasach</title>
-        <link>https://www.realmadryt.pl/news/145789-poprawny-wynik-w-zlych-czasach</link>
-        <pubDate>Sat, 17 Jan 2026 13:55:00 GMT</pubDate>
-        <description>W meczu 20. kolejki La Ligi Real Madryt wygrał z Levante 2:0. Bramki zdobyli Kylian Mbappé i Raúl Asencio.</description>
     </item>
     
 </channel>
