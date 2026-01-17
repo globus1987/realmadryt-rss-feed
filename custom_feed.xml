@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 17 Jan 2026 19:23:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 19:40:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Szalone dwie godziny Álvaro Leivy</title>
+        <link>https://www.realmadryt.pl/news/145805-szalone-dwie-godziny-alvaro-leivy</link>
+        <pubDate>Sat, 17 Jan 2026 20:23:00 GMT</pubDate>
+        <description>Skrzydłowy obserwował zwycięstwo pierwszej drużyny z ławki rezerwowych i natychmiast ruszył w drogę, by spróbować ratować losy Realu Madryt C. Zszedł z La Ligi do Segundy RFEF.</description>
+    </item>
     
     <item>
         <title>Podcast 7x23: Czy we wtorek też gwiżdżemy?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145791-ocen-pilkarzy-po-meczu-z-levante</link>
         <pubDate>Sat, 17 Jan 2026 15:59:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarki wygrały z Levante [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145790-pilkarki-wygraly-z-levante-video</link>
-        <pubDate>Sat, 17 Jan 2026 14:42:00 GMT</pubDate>
-        <description>W meczu 16. kolejki Ligi F piłkarki Realu Madryt wygrały w Ciudad Deportiva de Buñol z Levante 2:1. Obie bramki dla Las Blancas zdobyła Athenea del Castillo.</description>
     </item>
     
 </channel>
