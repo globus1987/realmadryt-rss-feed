@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 16:56:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 17:25:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dobre decyzje Arbeloi</title>
+        <link>https://www.realmadryt.pl/news/145821-dobre-decyzje-arbeloi</link>
+        <pubDate>Sun, 18 Jan 2026 18:13:00 GMT</pubDate>
+        <description>Dziennik MARCA opisuje, że Arbeloa zmienił oblicze sobotniego starcia z Levante, wprowadzając w drugiej połowie na plac gry Gülera, Mastantuono i Ceballosa. Trener zmodyfikował środek pola, który wcześniej nie był w stanie zarządzać grą.</description>
+    </item>
     
     <item>
         <title>Piłkarze Realu Madryt życzą powodzenia Brahimowi [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145803-dzis-wielki-final-pucharu-narodow-afryki</link>
         <pubDate>Sun, 18 Jan 2026 09:20:00 GMT</pubDate>
         <description>Maroko kontra Senegal dziś o 20:00.</description>
-    </item>
-    
-    <item>
-        <title>Nowa rozdział w Castilli</title>
-        <link>https://www.realmadryt.pl/news/145809-nowa-rozdzial-w-castilli</link>
-        <pubDate>Sun, 18 Jan 2026 08:40:00 GMT</pubDate>
-        <description>W 20. kolejce Primera Federación Castilla podejmie Méridę. Będzie to pierwsze spotkanie rundy rewanżowej i jednocześnie debiut Juliána Lópeza de Lermy w roli trenera rezerw Realu Madryt.</description>
     </item>
     
 </channel>
