@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 08:57:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 09:29:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mecz na szczycie Ligi Endesa</title>
+        <link>https://www.realmadryt.pl/news/145800-mecz-na-szczycie-ligi-endesa</link>
+        <pubDate>Sun, 18 Jan 2026 10:00:00 GMT</pubDate>
+        <description>W 16. kolejce Ligi Endesa Real Madryt zagra z Valencią. Będzie to spotkanie o pozycję lidera. W przypadku zwycięstwa Królewscy zagwarantują sobie pierwsze miejsce na półmetku sezonu zasadniczego.</description>
+    </item>
     
     <item>
         <title>Dziś wielki finał Pucharu Narodów Afryki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145801-czy-vinicius-rozplakal-sie-tuz-przed-wyjsciem-na-mecz-video</link>
         <pubDate>Sat, 17 Jan 2026 17:42:00 GMT</pubDate>
         <description>Głównie konta socialowe ogłosiły, że Brazylijczyk rozpłakał się przed meczem i musiał być pocieszany przez kolegów i trenerów. Przedstawiamy pełne spojrzenie na sytuację.=</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Vinícius oddaje to, kim jest gracz Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145792-arbeloa-vinicius-oddaje-to-kim-jest-gracz-realu-madryt</link>
-        <pubDate>Sat, 17 Jan 2026 17:21:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się na konferencji prasowej po meczu La Ligi z Levante. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
     </item>
     
 </channel>
