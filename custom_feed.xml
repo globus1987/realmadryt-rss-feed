@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 07:57:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 08:36:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dziś wielki finał Pucharu Narodów Afryki</title>
+        <link>https://www.realmadryt.pl/news/145803-dzis-wielki-final-pucharu-narodow-afryki</link>
+        <pubDate>Sun, 18 Jan 2026 09:20:00 GMT</pubDate>
+        <description>Maroko kontra Senegal dziś o 20:00.</description>
+    </item>
     
     <item>
         <title>Nowa rozdział w Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145792-arbeloa-vinicius-oddaje-to-kim-jest-gracz-realu-madryt</link>
         <pubDate>Sat, 17 Jan 2026 17:21:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się na konferencji prasowej po meczu La Ligi z Levante. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Ceballos: Trener chce pressingu po stracie, czego brakowało nam w ostatnich meczach</title>
-        <link>https://www.realmadryt.pl/news/145799-ceballos-trener-chce-pressingu-po-stracie-czego-brakowalo-nam-w-ostatnich-meczach</link>
-        <pubDate>Sat, 17 Jan 2026 17:18:00 GMT</pubDate>
-        <description>Dani Ceballos udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Levante. Przedstawiamy wypowiedzi pomocnika Królewskich.</description>
     </item>
     
 </channel>
