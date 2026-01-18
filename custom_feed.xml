@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 06:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 06:59:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Powrót na Bernabéu to coś pięknego</title>
+        <link>https://www.realmadryt.pl/news/145807-arbeloa-powrot-na-bernabeu-to-cos-pieknego</link>
+        <pubDate>Sun, 18 Jan 2026 07:50:00 GMT</pubDate>
+        <description>Álvaro Arbeloa udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Levante. Przedstawiamy zapis tej rozmowy z trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>El Confidencial: Ten telefon Florentino uratował Laportę i wskrzesił Barçę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145797-ivan-romero-walczylismy-do-ostatniej-minuty</link>
         <pubDate>Sat, 17 Jan 2026 16:34:00 GMT</pubDate>
         <description>Iván Romero udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 0:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi gracza Levante.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni nie zagra z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/145796-tchouameni-nie-zagra-z-villarrealem</link>
-        <pubDate>Sat, 17 Jan 2026 16:31:00 GMT</pubDate>
-        <description>Przed meczem z Levante dwóch piłkarzy było zagrożonych pauzą w kolejnym spotkaniu. Jeszcze w pierwszej połowie sędzia ukarał Auréliena Tchouaméniego żółtą kartką, co oznacza, że Francuza zabraknie w najbliższej potyczce ligowej.</description>
     </item>
     
 </channel>
