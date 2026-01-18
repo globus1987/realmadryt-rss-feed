@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 03:59:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 04:49:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Wśród zawodników istnieje poczucie, że kibice są z nimi tylko wtedy, gdy idzie im dobrze”</title>
+        <link>https://www.realmadryt.pl/news/145811-wsrod-zawodnikow-istnieje-poczucie-ze-kibice-sa-z-nimi-tylko-wtedy-gdy-idzie-im-dobrze</link>
+        <pubDate>Sun, 18 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Arancha Rodríguez to dziennikarka COPE zawsze wiązana z obozem prezesa Realu Madryt. Przedstawiamy jej komentarze w sprawie meczu Realu Madryt z Levante i gwizdów na piłkarzy.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145795-real-madryt-2-0-levante-video</link>
         <pubDate>Sat, 17 Jan 2026 16:23:00 GMT</pubDate>
         <description>W meczu 20. kolejki La Ligi Real Madryt wygrał z Levante 2:0. Bramki zdobyli Kylian Mbappé i Raúl Asencio.</description>
-    </item>
-    
-    <item>
-        <title>Asencio: Czuliśmy, że mamy dług wobec naszych kibiców</title>
-        <link>https://www.realmadryt.pl/news/145794-asencio-czulismy-ze-mamy-dlug-wobec-naszych-kibicow</link>
-        <pubDate>Sat, 17 Jan 2026 16:15:00 GMT</pubDate>
-        <description>Raúl Asencio udzielił wywiadu z murawy dla klubowej telewizji po wygranym 2:0 meczu z Levante. Przedstawiamy wypowiedzi stopera Realu Madryt.</description>
     </item>
     
 </channel>
