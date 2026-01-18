@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 07:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 07:44:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nowa rozdział w Castilli</title>
+        <link>https://www.realmadryt.pl/news/145809-nowa-rozdzial-w-castilli</link>
+        <pubDate>Sun, 18 Jan 2026 08:40:00 GMT</pubDate>
+        <description>W 20. kolejce Primera Federación Castilla podejmie Méridę. Będzie to pierwsze spotkanie rundy rewanżowej i jednocześnie debiut Juliána Lópeza de Lermy w roli trenera rezerw Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Powrót na Bernabéu to coś pięknego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145799-ceballos-trener-chce-pressingu-po-stracie-czego-brakowalo-nam-w-ostatnich-meczach</link>
         <pubDate>Sat, 17 Jan 2026 17:18:00 GMT</pubDate>
         <description>Dani Ceballos udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Levante. Przedstawiamy wypowiedzi pomocnika Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Iván Romero: Walczyliśmy do ostatniej minuty</title>
-        <link>https://www.realmadryt.pl/news/145797-ivan-romero-walczylismy-do-ostatniej-minuty</link>
-        <pubDate>Sat, 17 Jan 2026 16:34:00 GMT</pubDate>
-        <description>Iván Romero udzielił wywiadu z murawy dla telewizji Movistar+ po przegranym 0:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi gracza Levante.</description>
     </item>
     
 </channel>
