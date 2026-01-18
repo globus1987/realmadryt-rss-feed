@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 13:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 14:25:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pedro Morata: Florentino (lub jego protegowany) będzie mieć rywala w kolejnych wyborach</title>
+        <link>https://www.realmadryt.pl/news/145818-pedro-morata-florentino-lub-jego-protegowany-bedzie-miec-rywala-w-kolejnych-wyborach</link>
+        <pubDate>Sun, 18 Jan 2026 15:15:00 GMT</pubDate>
+        <description>Pedro Morata to dziennikarz Marki i radia COPE z Walencji, który zajmuje się sprawami organizacyjnymi i finansowymi w hiszpańskim futbolu. Przedstawiamy pełne tłumaczenie jego felietonu, w którym ponownie bardzo krytycznie ocenia działania Florentino Péreza i ogłasza, że w najbliższych wyborach pojawi się dla niego kontrkandydat.</description>
+    </item>
     
     <item>
         <title>Wszystkiego najlepszego, Éder!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145807-arbeloa-powrot-na-bernabeu-to-cos-pieknego</link>
         <pubDate>Sun, 18 Jan 2026 07:50:00 GMT</pubDate>
         <description>Álvaro Arbeloa udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Levante. Przedstawiamy zapis tej rozmowy z trenerem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>El Confidencial: Ten telefon Florentino uratował Laportę i wskrzesił Barçę</title>
-        <link>https://www.realmadryt.pl/news/145806-el-confidencial-ten-telefon-florentino-uratowal-laporte-i-wskrzesil-barce</link>
-        <pubDate>Sun, 18 Jan 2026 07:00:00 GMT</pubDate>
-        <description>Internetowy dziennik stale podważający prezesa Realu Madryt opublikował artykuł, który reklamuje stwierdzeniem: Joan Laporta jest prezesem Barcelony w dużej mierze dzięki Florentino Pérezowi.</description>
     </item>
     
 </channel>
