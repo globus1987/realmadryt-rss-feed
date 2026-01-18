@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 18 Jan 2026 23:44:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 23:57:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145831-dzisiejsze-okladki</link>
+        <pubDate>Mon, 19 Jan 2026 00:47:00 GMT</pubDate>
+        <description>Porażka Barcelony to główny temat na poniedziałkowych okładkach najpopularniejszych dzienników sportowych z Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Brahim królem strzelców Pucharu Narodów Afryki 2025</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145817-wszystkiego-najlepszego-eder</link>
         <pubDate>Sun, 18 Jan 2026 13:46:00 GMT</pubDate>
         <description>Dziś swoje 28. urodziny obchodzi Éder Militão. Jak niestety niemal co roku, życzyć możemy mu w pierwszej kolejności wyłącznie powrotu do zdrowia, a następnie do optymalnej formy.</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger i Rodrygo ciągle trenują indywidualnie</title>
-        <link>https://www.realmadryt.pl/news/145816-ruediger-i-rodrygo-ciagle-trenuja-indywidualnie</link>
-        <pubDate>Sun, 18 Jan 2026 13:09:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli boiskowe przygotowania do meczu z Monaco.</description>
     </item>
     
 </channel>
