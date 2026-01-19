@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Jan 2026 17:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 18:43:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>247 złotych za wygraną Realu Madryt w meczu z Monaco</title>
+        <link>https://www.realmadryt.pl/news/145852-247-zlotych-za-wygrana-realu-madryt-w-meczu-z-monaco</link>
+        <pubDate>Mon, 19 Jan 2026 19:30:00 GMT</pubDate>
+        <description>#współpracareklamowa #reklamaSTS</description>
+    </item>
     
     <item>
         <title>Kehrer: Kylian jest coraz dojrzalszym zawodnikiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145842-vinicius-do-arbeloi-dla-mnie-grzywna-jest-lepsza-video</link>
         <pubDate>Mon, 19 Jan 2026 12:56:00 GMT</pubDate>
         <description>Media nagrały wyjście na dzisiejszy trening, wyłapując fragment rozmowy Brazylijczyka z trenerem.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Monaco na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/145841-kadra-monaco-na-mecz-z-realem</link>
-        <pubDate>Mon, 19 Jan 2026 12:55:00 GMT</pubDate>
-        <description>Poznaliśmy kadrę AS Monaco na jutrzejszy mecz z Realem Madryt w ramach 7. kolejki fazy ligowej Champions League. Lista nieobecnych jest bardzo długa.</description>
     </item>
     
 </channel>
