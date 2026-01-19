@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 19 Jan 2026 22:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 23:28:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145857-dzisiejsze-okladki</link>
+        <pubDate>Tue, 20 Jan 2026 00:09:00 GMT</pubDate>
+        <description>Konferencja Kyliana Mbappé i odejście Ter Stegena to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Nico Paz z kolejnymi dwoma golami w Serie A [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145843-poznalismy-pary-cwiercfinalowe-pucharu-krola</link>
         <pubDate>Mon, 19 Jan 2026 13:47:00 GMT</pubDate>
         <description>W Las Rozas rozlosowano pary 1/4 finału Copa del Rey. Królewscy odpadli z rywalizacji o to trofeum po porażce w poprzedniej rundzie z Albacete.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Jeśli jako trener Realu Madryt chcę zdobywać tytuły, potrzebuję Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/145839-arbeloa-jesli-jako-trener-realu-madryt-chce-zdobywac-tytuly-potrzebuje-viniciusa</link>
-        <pubDate>Mon, 19 Jan 2026 13:41:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się na konferencji prasowej przed meczem z Monaco w Lidze Mistrzów. Przedstawiamy pierwsze wypowiedzi trenera Realu Madryt z tego spotkania dziennikarzami w Valdebebas. Pełnego zapisu tradycyjnie należy spodziewać się w dniu meczu.</description>
     </item>
     
 </channel>
