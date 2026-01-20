@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Jan 2026 05:59:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 06:52:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy dzisiaj gwiżdżemy?</title>
+        <link>https://www.realmadryt.pl/news/145859-glos-kibica-czy-dzisiaj-gwizdzemy</link>
+        <pubDate>Tue, 20 Jan 2026 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Meana: Neves jest chętny na dołączenie do Realu, ale Florentino nie jest jego zwolennikiem</title>
+        <link>https://www.realmadryt.pl/news/145862-meana-neves-jest-chetny-na-dolaczenie-do-realu-ale-florentino-nie-jest-jego-zwolennikiem</link>
+        <pubDate>Tue, 20 Jan 2026 07:00:00 GMT</pubDate>
+        <description>Antón Meana przywołał sytuację Rúbena Nevesa i jego chęci na dołączenie do Realu Madryt. Przedstawiamy wypowiedzi dziennikarza radia SER, który zajmuje się głównie Realem Madryt i hiszpańską reprezentacją.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Gwizdy osłabiają drużynę, osłabiają Real Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145847-oficjalnie-marc-guehi-nowym-pilkarzem-manchesteru-city</link>
         <pubDate>Mon, 19 Jan 2026 16:47:00 GMT</pubDate>
         <description>Reprezentant Anglii podpisał umowę z The Citizens.</description>
-    </item>
-    
-    <item>
-        <title>Brahim: Będzie mi trudno powstać, bo ta rana szybko się nie zagoi</title>
-        <link>https://www.realmadryt.pl/news/145846-brahim-bedzie-mi-trudno-powstac-bo-ta-rana-szybko-sie-nie-zagoi</link>
-        <pubDate>Mon, 19 Jan 2026 16:27:00 GMT</pubDate>
-        <description>Pomocnik Realu Madryt zwrócił się do kibiców w emocjonalnym wpisie.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Monaco</title>
-        <link>https://www.realmadryt.pl/news/145845-kadra-realu-madryt-na-monaco</link>
-        <pubDate>Mon, 19 Jan 2026 15:35:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na 7 zawodników pierwszego zespołu podczas kolejnego spotkania w Lidze Mistrzów. Hiszpan powołał 20 piłkarzy.</description>
     </item>
     
 </channel>
