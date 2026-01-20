@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Jan 2026 22:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 23:30:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145895-dzisiejsze-okladki</link>
+        <pubDate>Wed, 21 Jan 2026 00:28:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony w Pradze to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Vinícius: Nie chcę być w centrum uwagi z powodu spraw pozaboiskowych</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145880-fiu-fiu</link>
         <pubDate>Tue, 20 Jan 2026 20:55:00 GMT</pubDate>
         <description>W meczu 7. kolejki fazy ligowej Champions League Real Madryt wygrał z AS Monaco 6:1. Dwa gole strzelił Kylian Mbappé, a po jednym dorzucili Franco Mastantuono, Vinícius Júnior i Jude Bellingham. Bramkę samobójczą zdobył Thilo Kehrer.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Fede i Edu dadzą nam wiele rzeczy na bokach obrony</title>
-        <link>https://www.realmadryt.pl/news/145881-arbeloa-fede-i-edu-dadza-nam-wiele-rzeczy-na-bokach-obrony</link>
-        <pubDate>Tue, 20 Jan 2026 20:32:00 GMT</pubDate>
-        <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Monaco udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Bernabéu.</description>
     </item>
     
 </channel>
