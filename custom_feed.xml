@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Jan 2026 09:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 10:42:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po szóste zwycięstwo z rzędu</title>
+        <link>https://www.realmadryt.pl/news/145865-po-szoste-zwyciestwo-z-rzedu</link>
+        <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
+        <description>W 23. kolejce Euroligi Real Madryt podejmie Olimpię Mediolan. Ostatni raz oba zespoły grały ze sobą w grudniu i górą byli Włosi.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 20 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145857-dzisiejsze-okladki</link>
         <pubDate>Tue, 20 Jan 2026 00:09:00 GMT</pubDate>
         <description>Konferencja Kyliana Mbappé i odejście Ter Stegena to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Nico Paz z kolejnymi dwoma golami w Serie A [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/145854-nico-paz-z-kolejnymi-dwoma-golami-w-serie-a-video</link>
-        <pubDate>Mon, 19 Jan 2026 23:12:00 GMT</pubDate>
-        <description>Argentyńczyk znowu trafił do siatki i pomógł Como wrócić na zwycięską ścieżkę. Stale spekuluje się o jego letnim powrocie do Realu Madryt.</description>
     </item>
     
 </channel>
