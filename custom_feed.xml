@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Jan 2026 10:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 11:01:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pogba próbuje, ale nie może wrócić do gry</title>
+        <link>https://www.realmadryt.pl/news/145863-pogba-probuje-ale-nie-moze-wrocic-do-gry</link>
+        <pubDate>Tue, 20 Jan 2026 11:56:00 GMT</pubDate>
+        <description>Francuz nie przyjedzie z Monaco do Madrytu, marzenie o mundialu się oddala, a on sam przechodzi trudny moment psychiczny, bo nie potrafi wrócić na boisko w sposób, który dawałby jakiekolwiek gwarancje.</description>
+    </item>
     
     <item>
         <title>Po szóste zwycięstwo z rzędu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145860-real-madryt-monaco-przewidywane-sklady</link>
         <pubDate>Tue, 20 Jan 2026 02:41:00 GMT</pubDate>
         <description>Real Madryt wraca dzisiaj do gry w Lidze Mistrzów. Sytuacja kadrowa wciąż pozostaje bardzo delikatna z powodu wielu urazów i problemów fizycznych.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/145857-dzisiejsze-okladki</link>
-        <pubDate>Tue, 20 Jan 2026 00:09:00 GMT</pubDate>
-        <description>Konferencja Kyliana Mbappé i odejście Ter Stegena to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
