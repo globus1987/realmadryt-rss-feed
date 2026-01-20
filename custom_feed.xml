@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Jan 2026 20:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 21:29:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Raúl Asencio z urazem?</title>
+        <link>https://www.realmadryt.pl/news/145885-raul-asencio-z-urazem</link>
+        <pubDate>Tue, 20 Jan 2026 22:27:00 GMT</pubDate>
+        <description>Raúl Asencio nie wyszedł nad drugą połowę meczu z Monaco. Pierwsze informacje mówią o bólu w kości piszczelowej.</description>
+    </item>
     
     <item>
         <title>Królewskie pokonują Atlético i zagrają w finale Superpucharu Hiszpanii [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145873-terminarz-23-kolejki-la-ligi</link>
         <pubDate>Tue, 20 Jan 2026 14:11:00 GMT</pubDate>
         <description>La Liga przedstawiła dokładny harmonogram 23. kolejki tego sezonu, w której Królewscy odwiedzą Walencję.</description>
-    </item>
-    
-    <item>
-        <title>Gdzie obejrzeć mecz z Monaco?</title>
-        <link>https://www.realmadryt.pl/news/145872-gdzie-obejrzec-mecz-z-monaco</link>
-        <pubDate>Tue, 20 Jan 2026 13:58:00 GMT</pubDate>
-        <description>Prawa do pokazywania Ligi Mistrzów w Polsce ma CANAL+. Dzisiejszy mecz Realu Madryt skomentują Rafał Dębiński i Marcin Żewłakow.</description>
     </item>
     
 </channel>
