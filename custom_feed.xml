@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 20 Jan 2026 15:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 15:49:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Papież Leon XIV pojawi się w czerwcu na Santiago Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/145876-papiez-leon-xiv-pojawi-sie-w-czerwcu-na-santiago-bernabeu</link>
+        <pubDate>Tue, 20 Jan 2026 16:24:00 GMT</pubDate>
+        <description>44 lata temu mszę odprawiał tu też Jan Paweł II.</description>
+    </item>
     
     <item>
         <title>Real Madryt – AS Monaco. Transmisja za darmo. Gdzie oglądać?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145865-po-szoste-zwyciestwo-z-rzedu</link>
         <pubDate>Tue, 20 Jan 2026 11:00:00 GMT</pubDate>
         <description>W 23. kolejce Euroligi Real Madryt podejmie Olimpię Mediolan. Ostatni raz oba zespoły grały ze sobą w grudniu i górą byli Włosi.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 20 stycznia</title>
-        <link>https://www.realmadryt.pl/news/145856-kartka-z-kalendarza-20-stycznia</link>
-        <pubDate>Tue, 20 Jan 2026 10:30:00 GMT</pubDate>
-        <description>Śmierć byłego koszykarza i trenera, wygrane derby z Atlético w lidze i Pucharze Króla, spektakularny występ na Estadio Mestalla i Alcoyanazo. Co działo się 20 stycznia?</description>
     </item>
     
 </channel>
