@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Jan 2026 09:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 09:55:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Chcę napastników świeżych do atakowania, a nie wracających za bocznymi obrońcami</title>
+        <link>https://www.realmadryt.pl/news/145900-arbeloa-chce-napastnikow-swiezych-do-atakowania-a-nie-wracajacych-za-bocznymi-obroncami</link>
+        <pubDate>Wed, 21 Jan 2026 10:30:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się wczoraj na konferencji prasowej po meczu z Monaco w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt dziennikarzami na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 21 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145895-dzisiejsze-okladki</link>
         <pubDate>Wed, 21 Jan 2026 00:28:00 GMT</pubDate>
         <description>Wygrana Realu Madryt i mecz Barcelony w Pradze to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius: Nie chcę być w centrum uwagi z powodu spraw pozaboiskowych</title>
-        <link>https://www.realmadryt.pl/news/145892-vinicius-nie-chce-byc-w-centrum-uwagi-z-powodu-spraw-pozaboiskowych</link>
-        <pubDate>Tue, 20 Jan 2026 23:43:00 GMT</pubDate>
-        <description>Vinícius po meczu Ligi Mistrzów z Monaco udzielił wywiadu mediom UEFA. Przedstawiamy wypowiedzi atakującego Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
