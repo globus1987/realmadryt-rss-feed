@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Jan 2026 07:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 08:44:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>100 meczów Frana Garcíi w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145903-100-meczow-frana-garcii-w-realu-madryt</link>
+        <pubDate>Wed, 21 Jan 2026 09:05:00 GMT</pubDate>
+        <description>Po wczorajszym meczu z Monaco boczny obrońca może pochwalić się 100 występami w koszulce z herbem Królewskich na piersi.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé bez litości wobec swojego byłego klubu</title>
+        <link>https://www.realmadryt.pl/news/145893-mbappe-bez-litosci-wobec-swojego-bylego-klubu</link>
+        <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
+        <description>Kylian Mbappé ma na koncie 11 bramek w 6 meczach Ligi Mistrzów. Obecny rytm strzelecki Francuza przypomina ten najlepszy Cristiano Ronaldo.</description>
+    </item>
     
     <item>
         <title>AS: Agent Viníciusa w Madrycie – nowa umowa coraz bliżej</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145890-real-madryt-6-1-monaco-video</link>
         <pubDate>Tue, 20 Jan 2026 23:37:00 GMT</pubDate>
         <description>W meczu 7. kolejki fazy ligowej Champions League Real Madryt wygrał z AS Monaco 6:1. Dwa gole strzelił Kylian Mbappé, a po jednym dorzucili Franco Mastantuono, Vinícius Júnior i Jude Bellingham. Bramkę samobójczą zdobył Thilo Kehrer.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy roznieśli Olimpię</title>
-        <link>https://www.realmadryt.pl/news/145891-krolewscy-rozniesli-olimpie</link>
-        <pubDate>Tue, 20 Jan 2026 23:32:00 GMT</pubDate>
-        <description>Koszykarze Sergio Scariolo odnieśli szóstą wygraną z rzędu i wskoczyli na czwarte miejsce w Eurolidze.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Ten mecz wygrali piłkarze swoim wysiłkiem i jakością</title>
-        <link>https://www.realmadryt.pl/news/145886-arbeloa-ten-mecz-wygrali-pilkarze-swoim-wysilkiem-i-jakoscia</link>
-        <pubDate>Tue, 20 Jan 2026 23:18:00 GMT</pubDate>
-        <description>Álvaro Arbeloa po meczu Ligi Mistrzów z Monaco udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
