@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Jan 2026 07:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 07:57:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Agent Viníciusa w Madrycie – nowa umowa coraz bliżej</title>
+        <link>https://www.realmadryt.pl/news/145902-as-agent-viniciusa-w-madrycie-nowa-umowa-coraz-blizej</link>
+        <pubDate>Wed, 21 Jan 2026 08:44:00 GMT</pubDate>
+        <description>Obecność Federico Peñi na trybunach Santiago Bernabéu sugeruje, że przedłużenie umowy z Brazylijczykiem może przyspieszyć.</description>
+    </item>
     
     <item>
         <title>Mesonero: Każdy chłopak marzy o debiucie w Realu Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145886-arbeloa-ten-mecz-wygrali-pilkarze-swoim-wysilkiem-i-jakoscia</link>
         <pubDate>Tue, 20 Jan 2026 23:18:00 GMT</pubDate>
         <description>Álvaro Arbeloa po meczu Ligi Mistrzów z Monaco udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt z tej rozmowy na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z Monaco</title>
-        <link>https://www.realmadryt.pl/news/145889-vinicius-mvp-meczu-z-monaco</link>
-        <pubDate>Tue, 20 Jan 2026 23:15:00 GMT</pubDate>
-        <description>Bardzo dobra dyspozycja Vinícius Júnior w meczu Realu Madryt z Monaco została doceniona przez ekspertów.</description>
     </item>
     
 </channel>
