@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Jan 2026 14:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 15:15:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trochę rock&rolla</title>
+        <link>https://www.realmadryt.pl/news/145912-troche-rock-rolla</link>
+        <pubDate>Wed, 21 Jan 2026 16:10:00 GMT</pubDate>
+        <description>Real w starciu z Monaco rozegrał niewątpliwie jeden z najlepszych meczów w sezonie, o ile nie najlepszy. Bernabéu było świadkiem elektryzującej potyczki, gdzie gra toczyła się pod oboma polami karnymi. Koniec końców zadecydowała piłkarska jakość, zwłaszcza Viniciusa i Mbappé, oraz postawa Courtois.</description>
+    </item>
+    
+    <item>
+        <title>Courtois: Rywale mieli swoje momenty, ale broniliśmy dobrze</title>
+        <link>https://www.realmadryt.pl/news/145911-courtois-rywale-mieli-swoje-momenty-ale-bronilismy-dobrze</link>
+        <pubDate>Wed, 21 Jan 2026 15:57:00 GMT</pubDate>
+        <description>Thibaut Courtois po meczu Ligi Mistrzów z Monaco udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Uścisk wart więcej niż tysiąc słów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145903-100-meczow-frana-garcii-w-realu-madryt</link>
         <pubDate>Wed, 21 Jan 2026 09:05:00 GMT</pubDate>
         <description>Po wczorajszym meczu z Monaco boczny obrońca może pochwalić się 100 występami w koszulce z herbem Królewskich na piersi.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé bez litości wobec swojego byłego klubu</title>
-        <link>https://www.realmadryt.pl/news/145893-mbappe-bez-litosci-wobec-swojego-bylego-klubu</link>
-        <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
-        <description>Kylian Mbappé ma na koncie 11 bramek w 6 meczach Ligi Mistrzów. Obecny rytm strzelecki Francuza przypomina ten najlepszy Cristiano Ronaldo.</description>
-    </item>
-    
-    <item>
-        <title>AS: Agent Viníciusa w Madrycie – nowa umowa coraz bliżej</title>
-        <link>https://www.realmadryt.pl/news/145902-as-agent-viniciusa-w-madrycie-nowa-umowa-coraz-blizej</link>
-        <pubDate>Wed, 21 Jan 2026 08:44:00 GMT</pubDate>
-        <description>Obecność Federico Peñi na trybunach Santiago Bernabéu sugeruje, że przedłużenie umowy z Brazylijczykiem może przyspieszyć.</description>
     </item>
     
 </channel>
