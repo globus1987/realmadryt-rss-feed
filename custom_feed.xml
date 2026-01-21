@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 21 Jan 2026 23:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 23:40:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145923-dzisiejsze-okladki</link>
+        <pubDate>Thu, 22 Jan 2026 00:29:00 GMT</pubDate>
+        <description>Sytuacja Viníciusa i wygrana Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Media: Asencio od dawna gra z… pękniętym piszczelem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145908-krolewscy-maja-dzis-wolne</link>
         <pubDate>Wed, 21 Jan 2026 13:16:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Monaco</title>
-        <link>https://www.realmadryt.pl/news/145907-oceny-zawodnikow-po-meczu-z-monaco</link>
-        <pubDate>Wed, 21 Jan 2026 12:47:00 GMT</pubDate>
-        <description>Real Madryt wygrał 6:1 z Monaco. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
