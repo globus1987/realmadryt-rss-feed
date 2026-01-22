@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Jan 2026 22:57:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 23:30:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145950-dzisiejsze-okladki</link>
+        <pubDate>Fri, 23 Jan 2026 00:20:00 GMT</pubDate>
+        <description>Przygotowania do meczu Realu Madryt i wybory w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: Pierwsza połowa była wyjątkowa</title>
+        <link>https://www.realmadryt.pl/news/145949-scariolo-pierwsza-polowa-byla-wyjatkowa</link>
+        <pubDate>Fri, 23 Jan 2026 00:16:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował wygrane spotkanie z Monaco. Chwalił drużynę przede wszystkim za postawę w pierwszej połowie.</description>
+    </item>
     
     <item>
         <title>Koszykarze nie zwalniają i wskakują na podium</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145937-mourinho-zagramy-z-realem-madryt-na-sto-procent</link>
         <pubDate>Thu, 22 Jan 2026 15:07:00 GMT</pubDate>
         <description>Portugalczyk podczas konferencji prasowej po meczu z Juventusem został zapytany o mecz z Królewskimi.</description>
-    </item>
-    
-    <item>
-        <title>200 meczów Misy w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/145935-200-meczow-misy-w-realu-madryt</link>
-        <pubDate>Thu, 22 Jan 2026 14:44:00 GMT</pubDate>
-        <description>Spotkanie z Atlético było 200. występem Misy w koszulce z herbem Królewskich na piersi.</description>
-    </item>
-    
-    <item>
-        <title>Te same plotki od 13 lat</title>
-        <link>https://www.realmadryt.pl/news/145934-te-same-plotki-od-13-lat</link>
-        <pubDate>Thu, 22 Jan 2026 14:28:00 GMT</pubDate>
-        <description>Choć to Álvaro Arbeloa został mianowany nowym trenerem Realu Madryt, uniknięcie plotek o przejęciu drużyny przez Jürgena Kloppa było niemożliwe. Nazwisko Niemca w kontekście prowadzenia Królewskich przewija się z przerwami od 13 lat.</description>
     </item>
     
 </channel>
