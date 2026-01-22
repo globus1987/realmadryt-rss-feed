@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Jan 2026 07:56:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 08:45:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 22 stycznia</title>
+        <link>https://www.realmadryt.pl/news/145922-kartka-z-kalendarza-22-stycznia</link>
+        <pubDate>Thu, 22 Jan 2026 09:30:00 GMT</pubDate>
+        <description>Rozgromienie Elche, urodziny byłego obrońcy, zwycięstwa z Athletikiem i Unionistas oraz transfer Martina Ødegaarda. Co działo się 22 stycznia?</description>
+    </item>
     
     <item>
         <title>„Vinícius? To nie jest sytuacja jak z ofertą dla Ramosa”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145912-troche-rock-rolla</link>
         <pubDate>Wed, 21 Jan 2026 16:10:00 GMT</pubDate>
         <description>Real w starciu z Monaco rozegrał niewątpliwie jeden z najlepszych meczów w sezonie, o ile nie najlepszy. Bernabéu było świadkiem elektryzującej potyczki, gdzie gra toczyła się pod oboma polami karnymi. Koniec końców zadecydowała piłkarska jakość, zwłaszcza Viniciusa i Mbappé, oraz postawa Courtois.</description>
-    </item>
-    
-    <item>
-        <title>Courtois: Rywale mieli swoje momenty, ale broniliśmy dobrze</title>
-        <link>https://www.realmadryt.pl/news/145911-courtois-rywale-mieli-swoje-momenty-ale-bronilismy-dobrze</link>
-        <pubDate>Wed, 21 Jan 2026 15:57:00 GMT</pubDate>
-        <description>Thibaut Courtois po meczu Ligi Mistrzów z Monaco udzielił wywiadu Movistar+. Przedstawiamy wypowiedzi bramkarza Realu Madryt z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
