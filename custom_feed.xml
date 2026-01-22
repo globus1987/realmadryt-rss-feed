@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 22 Jan 2026 13:08:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 13:56:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>200 meczów Misy w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/145935-200-meczow-misy-w-realu-madryt</link>
+        <pubDate>Thu, 22 Jan 2026 14:44:00 GMT</pubDate>
+        <description>Spotkanie z Atlético było 200. występem Misy w koszulce z herbem Królewskich na piersi.</description>
+    </item>
+    
+    <item>
+        <title>Te same plotki od 13 lat</title>
+        <link>https://www.realmadryt.pl/news/145934-te-same-plotki-od-13-lat</link>
+        <pubDate>Thu, 22 Jan 2026 14:28:00 GMT</pubDate>
+        <description>Choć to Álvaro Arbeloa został mianowany nowym trenerem Realu Madryt, uniknięcie plotek o przejęciu drużyny przez Jürgena Kloppa było niemożliwe. Nazwisko Niemca w kontekście prowadzenia Królewskich przewija się z przerwami od 13 lat.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Barcelona potwierdziła kontuzję mięśniową Pedriego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145927-vinicius-to-nie-jest-sytuacja-jak-z-oferta-dla-ramosa</link>
         <pubDate>Thu, 22 Jan 2026 08:40:00 GMT</pubDate>
         <description>Toño García i Antón Meana na łamach Cadena SER podzielili się informacjami na temat aktualnej sytuacji Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czas decyzji</title>
-        <link>https://www.realmadryt.pl/news/145924-glos-kibica-czas-decyzji</link>
-        <pubDate>Thu, 22 Jan 2026 07:50:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>El País: Z Monaco wykonano najwięcej pressów od września 2019 roku</title>
-        <link>https://www.realmadryt.pl/news/145918-el-pais-z-monaco-wykonano-najwiecej-pressow-od-wrzesnia-2019-roku</link>
-        <pubDate>Thu, 22 Jan 2026 07:00:00 GMT</pubDate>
-        <description>David Álvarez z El País często zagłębia się w taktyczne aspekty gry Królewskich. Teraz podaje, że w meczu z Monaco drużyna wykonała 258 pressingów, co jest najlepszym wynikiem od ponad 6 lat.</description>
     </item>
     
 </channel>
