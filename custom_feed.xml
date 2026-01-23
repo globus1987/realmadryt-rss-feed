@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Jan 2026 23:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 23:47:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/145978-dzisiejsze-okladki</link>
+        <pubDate>Sat, 24 Jan 2026 00:33:00 GMT</pubDate>
+        <description>Klasyk w Superpucharze Hiszpanii kobiet i mecz Realu Madryt to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Arbeloa wierzy w Trenta i czeka na jego powrót</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145960-arbeloa-pilkarze-sa-nastawieni-na-prace-i-przyjeli-mnie-z-otwartymi-ramionami</link>
         <pubDate>Fri, 23 Jan 2026 13:25:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Villarrealem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/145962-ostatni-trening-przed-villarrealem</link>
-        <pubDate>Fri, 23 Jan 2026 12:51:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do meczu z Villarrealem.</description>
     </item>
     
 </channel>
