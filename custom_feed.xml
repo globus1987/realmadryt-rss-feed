@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Jan 2026 13:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 13:53:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>César Soto Grado na Villarreal</title>
+        <link>https://www.realmadryt.pl/news/145964-cesar-soto-grado-na-villarreal</link>
+        <pubDate>Fri, 23 Jan 2026 14:20:00 GMT</pubDate>
+        <description>45-letni sędzia poprowadzi sobotnie spotkanie Villarrealu z Realem Madryt. Arbitrem VAR będzie Mario Melero López.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Piłkarze są nastawieni na pracę i przyjęli mnie z otwartymi ramionami</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145944-jaki-cel-ma-sensor-ktory-pojawil-sie-na-ramieniu-ardy-guelera</link>
         <pubDate>Fri, 23 Jan 2026 07:30:00 GMT</pubDate>
         <description>Jedną z sensacji wtorkowego meczu z Monaco było ramię tureckiego pomocnika, na którym pojawił się malutki sensor. Francuzi tłumaczą, o co w nim chodzi.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Real na 99% dołączy do NBA Europe</title>
-        <link>https://www.realmadryt.pl/news/145954-cope-real-na-99-dolaczy-do-nba-europe</link>
-        <pubDate>Fri, 23 Jan 2026 06:55:00 GMT</pubDate>
-        <description></description>
     </item>
     
 </channel>
