@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 23 Jan 2026 13:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 14:33:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Théo Maledon kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/145968-oficjalnie-theo-maledon-kontuzjowany</link>
+        <pubDate>Fri, 23 Jan 2026 15:30:00 GMT</pubDate>
+        <description>Francuz wypada z gry i nie zagra w najbliższych tygodniach.</description>
+    </item>
+    
+    <item>
+        <title>Kadra na Villarreal</title>
+        <link>https://www.realmadryt.pl/news/145963-kadra-na-villarreal</link>
+        <pubDate>Fri, 23 Jan 2026 15:01:00 GMT</pubDate>
+        <description>Álvaro Arbeloa nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z trzecim zespołem w tabeli. Hiszpan powołał 22 piłkarzy.</description>
+    </item>
     
     <item>
         <title>César Soto Grado na Villarreal</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/145957-vinicius-zawodnikiem-tygodnia-ligi-mistrzow</link>
         <pubDate>Fri, 23 Jan 2026 09:08:00 GMT</pubDate>
         <description>Vinícius został wybrany najlepszym zawodnikiem siódmego tygodnia Ligi Mistrzów i znalazł się oczywiście w najlepszej jedenastce kolejki.</description>
-    </item>
-    
-    <item>
-        <title>Mourinho: Zaskakuje mnie, że trenerzy bez historii dostają do trenowania najważniejsze drużyny na świecie</title>
-        <link>https://www.realmadryt.pl/news/145952-mourinho-zaskakuje-mnie-ze-trenerzy-bez-historii-dostaja-do-trenowania-najwazniejsze-druzyny-na-swiecie</link>
-        <pubDate>Fri, 23 Jan 2026 08:20:00 GMT</pubDate>
-        <description>Hiszpańskie, ale nie tylko, media wyciągnęły wypowiedź José Mourinho na konferencji prasowej przed środowym meczem jego Benfiki z Juventusem. Hiszpanie zastanawiają się, czy jego słowa dotyczyły nowego trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Jaki cel ma sensor, który pojawił się na ramieniu Ardy Gülera?</title>
-        <link>https://www.realmadryt.pl/news/145944-jaki-cel-ma-sensor-ktory-pojawil-sie-na-ramieniu-ardy-guelera</link>
-        <pubDate>Fri, 23 Jan 2026 07:30:00 GMT</pubDate>
-        <description>Jedną z sensacji wtorkowego meczu z Monaco było ramię tureckiego pomocnika, na którym pojawił się malutki sensor. Francuzi tłumaczą, o co w nim chodzi.</description>
     </item>
     
 </channel>
