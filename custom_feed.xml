@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 07:29:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:44:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie typy #1</title>
+        <link>https://www.realmadryt.pl/news/145976-krolewskie-typy-1</link>
+        <pubDate>Sat, 24 Jan 2026 08:30:00 GMT</pubDate>
+        <description>Wybrani redaktorzy przedstawiają swoje typy na najbliższe dni i razem z STS czekają na wasze kupony. #współpraca</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Kto na prawe skrzydło?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145965-psg-nie-bedzie-juz-na-sile-zatrzymywac-pilkarzy</link>
         <pubDate>Fri, 23 Jan 2026 16:20:00 GMT</pubDate>
         <description>Paryżanie nie będą już przepłacać pensji, by przedłużać umowy lub sprowadzać piłkarzy. Przedłużenie kontraktu Dembélé może utknąć w martwym punkcie przez kwestie finansowe.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Théo Maledon kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/145968-oficjalnie-theo-maledon-kontuzjowany</link>
-        <pubDate>Fri, 23 Jan 2026 15:30:00 GMT</pubDate>
-        <description>Francuz wypada z gry i nie zagra w najbliższych tygodniach.</description>
     </item>
     
 </channel>
