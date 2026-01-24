@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 23:43:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 23:56:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146011-dzisiejsze-okladki</link>
+        <pubDate>Sun, 25 Jan 2026 00:45:00 GMT</pubDate>
+        <description>Wygrana Realu, mecz Barcelony i wynik finału Superpucharu Hiszpanii kobiet to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Courtois: Coraz lepiej rozumiemy to, co przekazuje nam trener</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145993-villarreal-real-madryt-znamy-sklady</link>
         <pubDate>Sat, 24 Jan 2026 19:30:00 GMT</pubDate>
         <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Villarrealem. Spotkanie rozpocznie się o 21:00 na Estadio de la Ceràmica.</description>
-    </item>
-    
-    <item>
-        <title>Cel – przetrwać bez Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/145988-cel-przetrwac-bez-tchouameniego</link>
-        <pubDate>Sat, 24 Jan 2026 17:30:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni jest nieocenionym graczem Królewskich od startu rozgrywek i jego dotychczasowe trzy absencje zakończyły się boleśnie dla drużyny. Dzisiaj Francuz pauzuje za kartki, co znacznie zwiększa poziom trudności Álvaro Arbeloi.</description>
     </item>
     
 </channel>
