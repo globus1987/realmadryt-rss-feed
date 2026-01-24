@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 15:27:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 15:44:41 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ścieżka dźwiękowa złości</title>
+        <link>https://www.realmadryt.pl/news/145991-sciezka-dzwiekowa-zlosci</link>
+        <pubDate>Sat, 24 Jan 2026 16:30:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat postawy kibiców na stadionie.</description>
+    </item>
     
     <item>
         <title>Nieprzyjemne wyjazdowe starcia z Villarrealem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145977-as-bryan-bugarin-przedluzyl-kontrakt-do-2028-roku</link>
         <pubDate>Sat, 24 Jan 2026 11:42:00 GMT</pubDate>
         <description>AS donosi, że Real Madryt przedłużył umowę z Bryanem Bugarínem. Młody zawodnik związał się z klubem do 2028 roku.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé nadal w rytmie Cristiano</title>
-        <link>https://www.realmadryt.pl/news/145972-mbappe-nadal-w-rytmie-cristiano</link>
-        <pubDate>Sat, 24 Jan 2026 10:51:00 GMT</pubDate>
-        <description>Na mecz przed końcem zrównał się z rekordem strzeleckim na tym etapie rozgrywek, należącym do Portugalczyka z sezonu 2015/16: 11 bramek.</description>
     </item>
     
 </channel>
