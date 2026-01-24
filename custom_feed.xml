@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 14:46:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 15:27:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nieprzyjemne wyjazdowe starcia z Villarrealem</title>
+        <link>https://www.realmadryt.pl/news/145921-nieprzyjemne-wyjazdowe-starcia-z-villarrealem</link>
+        <pubDate>Sat, 24 Jan 2026 16:05:00 GMT</pubDate>
+        <description>Królewscy wygrali tylko dwa z ostatnich dziewięciu spotkań na Estadio de la Cerámica w lidze.</description>
+    </item>
     
     <item>
         <title>Kadra Villarrealu na mecz z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145972-mbappe-nadal-w-rytmie-cristiano</link>
         <pubDate>Sat, 24 Jan 2026 10:51:00 GMT</pubDate>
         <description>Na mecz przed końcem zrównał się z rekordem strzeleckim na tym etapie rozgrywek, należącym do Portugalczyka z sezonu 2015/16: 11 bramek.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 24 stycznia</title>
-        <link>https://www.realmadryt.pl/news/145982-kartka-z-kalendarza-24-stycznia</link>
-        <pubDate>Sat, 24 Jan 2026 10:00:00 GMT</pubDate>
-        <description>Urodziny byłych zawodników, zwycięstwo z Córdobą i kompromitacja w Pucharze Króla. Co działo się 24 stycznia?</description>
     </item>
     
 </channel>
