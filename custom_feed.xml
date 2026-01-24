@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 08:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 09:30:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 24 stycznia</title>
+        <link>https://www.realmadryt.pl/news/145982-kartka-z-kalendarza-24-stycznia</link>
+        <pubDate>Sat, 24 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników, zwycięstwo z Córdobą i kompromitacja w Pucharze Króla. Co działo się 24 stycznia?</description>
+    </item>
     
     <item>
         <title>Etykieta kontra skład</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145969-obejrzyj-mecz-z-villarrealem-w-sts-tv</link>
         <pubDate>Fri, 23 Jan 2026 18:00:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>„Nie jesteśmy dumni z tego, że stawiamy Real Madryt przed sądem”</title>
-        <link>https://www.realmadryt.pl/news/145956-nie-jestesmy-dumni-z-tego-ze-stawiamy-real-madryt-przed-sadem</link>
-        <pubDate>Fri, 23 Jan 2026 17:10:00 GMT</pubDate>
-        <description>Głos zabrał przedstawiciel Poszkodowanych przez Bernabéu.</description>
     </item>
     
 </channel>
