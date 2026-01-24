@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 22:27:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 22:46:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Panenka dla Brahima</title>
+        <link>https://www.realmadryt.pl/news/146005-panenka-dla-brahima</link>
+        <pubDate>Sat, 24 Jan 2026 23:46:00 GMT</pubDate>
+        <description>Kylian Mbappé wykorzystał rzut karny w stylu Panenki i zadedykował swoje trafienie Brahimowi Díazowi. W obecnym sezonie francuski atakujących zdobył w sumie 34 bramki.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Vinícius i Mbappé to dwaj najlepsi gracze na świecie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145992-the-athletic-w-tym-roku-kolejny-mecz-nfl-na-santiago-bernabeu</link>
         <pubDate>Sat, 24 Jan 2026 16:58:00 GMT</pubDate>
         <description>Futbol amerykański ponownie zagości na stadionie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Ścieżka dźwiękowa złości</title>
-        <link>https://www.realmadryt.pl/news/145991-sciezka-dzwiekowa-zlosci</link>
-        <pubDate>Sat, 24 Jan 2026 16:30:00 GMT</pubDate>
-        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat postawy kibiców na stadionie.</description>
     </item>
     
 </channel>
