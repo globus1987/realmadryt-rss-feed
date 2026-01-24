@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 06:59:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 07:29:12 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Kto na prawe skrzydło?</title>
+        <link>https://www.realmadryt.pl/news/145980-glos-kibica-kto-na-prawe-skrzydlo</link>
+        <pubDate>Sat, 24 Jan 2026 08:18:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Villarreal – Real Madryt: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145968-oficjalnie-theo-maledon-kontuzjowany</link>
         <pubDate>Fri, 23 Jan 2026 15:30:00 GMT</pubDate>
         <description>Francuz wypada z gry i nie zagra w najbliższych tygodniach.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na Villarreal</title>
-        <link>https://www.realmadryt.pl/news/145963-kadra-na-villarreal</link>
-        <pubDate>Fri, 23 Jan 2026 15:01:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas spotkania z trzecim zespołem w tabeli. Hiszpan powołał 22 piłkarzy.</description>
     </item>
     
 </channel>
