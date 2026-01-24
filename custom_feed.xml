@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 10:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 11:23:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Garuba: W styczniu uderzyliśmy pięścią w stół</title>
+        <link>https://www.realmadryt.pl/news/145984-garuba-w-styczniu-uderzylismy-piescia-w-stol</link>
+        <pubDate>Sat, 24 Jan 2026 12:14:00 GMT</pubDate>
+        <description>Usman Garuba wypowiadał się przed spotkaniem z Breogánem w Lidze Endesa. Mówił między innymi o tym, że celem jest podtrzymanie ostatniej passy.</description>
+    </item>
     
     <item>
         <title>AS: Bryan Bugarín przedłużył kontrakt do 2028 roku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145971-arbeloa-zrywa-ze-zwyczajem-xabiego-i-mourinho</link>
         <pubDate>Fri, 23 Jan 2026 20:26:00 GMT</pubDate>
         <description>Hiszpan woli trenować w kraju rywala w przeddzień meczu Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 21. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/145967-telewizyjny-terminarz-21-kolejki-la-ligi</link>
-        <pubDate>Fri, 23 Jan 2026 20:00:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 21. kolejka La Ligi. Real Madryt zagra w sobotę na wyjeździe z Villarrealem. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
