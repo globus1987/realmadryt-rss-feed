@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 22:46:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 23:26:18 GMT</lastBuildDate>
     
     <item>
-        <title>Panenka dla Brahima</title>
-        <link>https://www.realmadryt.pl/news/146005-panenka-dla-brahima</link>
+        <title>Courtois: Coraz lepiej rozumiemy to, co przekazuje nam trener</title>
+        <link>https://www.realmadryt.pl/news/146007-courtois-coraz-lepiej-rozumiemy-to-co-przekazuje-nam-trener</link>
+        <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Villarrealem na Estadio de la Cerámica. Przedstawiamy wypowiedzi bramkarza Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Panenka dla Brahima: „To dla ciebie, to dla ciebie”</title>
+        <link>https://www.realmadryt.pl/news/146005-panenka-dla-brahima-to-dla-ciebie-to-dla-ciebie</link>
         <pubDate>Sat, 24 Jan 2026 23:46:00 GMT</pubDate>
         <description>Kylian Mbappé wykorzystał rzut karny w stylu Panenki i zadedykował swoje trafienie Brahimowi Díazowi. W obecnym sezonie francuski atakujących zdobył w sumie 34 bramki.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145988-cel-przetrwac-bez-tchouameniego</link>
         <pubDate>Sat, 24 Jan 2026 17:30:00 GMT</pubDate>
         <description>Aurélien Tchouaméni jest nieocenionym graczem Królewskich od startu rozgrywek i jego dotychczasowe trzy absencje zakończyły się boleśnie dla drużyny. Dzisiaj Francuz pauzuje za kartki, co znacznie zwiększa poziom trudności Álvaro Arbeloi.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: W tym roku kolejny mecz NFL na Santiago Bernabéu</title>
-        <link>https://www.realmadryt.pl/news/145992-the-athletic-w-tym-roku-kolejny-mecz-nfl-na-santiago-bernabeu</link>
-        <pubDate>Sat, 24 Jan 2026 16:58:00 GMT</pubDate>
-        <description>Futbol amerykański ponownie zagości na stadionie Realu Madryt.</description>
     </item>
     
 </channel>
