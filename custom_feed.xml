@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 24 Jan 2026 07:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 08:36:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Etykieta kontra skład</title>
+        <link>https://www.realmadryt.pl/news/145966-etykieta-kontra-sklad</link>
+        <pubDate>Sat, 24 Jan 2026 09:09:00 GMT</pubDate>
+        <description>Dobrze mieć świadomość, że czasami mimo wszystko można jeszcze trafić na produkt zawierający w sobie sto procent tegoż produktu.</description>
+    </item>
     
     <item>
         <title>Królewskie typy #1</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145956-nie-jestesmy-dumni-z-tego-ze-stawiamy-real-madryt-przed-sadem</link>
         <pubDate>Fri, 23 Jan 2026 17:10:00 GMT</pubDate>
         <description>Głos zabrał przedstawiciel Poszkodowanych przez Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>PSG nie będzie już na siłę zatrzymywać piłkarzy</title>
-        <link>https://www.realmadryt.pl/news/145965-psg-nie-bedzie-juz-na-sile-zatrzymywac-pilkarzy</link>
-        <pubDate>Fri, 23 Jan 2026 16:20:00 GMT</pubDate>
-        <description>Paryżanie nie będą już przepłacać pensji, by przedłużać umowy lub sprowadzać piłkarzy. Przedłużenie kontraktu Dembélé może utknąć w martwym punkcie przez kwestie finansowe.</description>
     </item>
     
 </channel>
