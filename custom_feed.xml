@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 14:28:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 14:47:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>21. kolejka: Barcelona goni Real w meczu z beniaminkiem</title>
+        <link>https://www.realmadryt.pl/news/146019-21-kolejka-barcelona-goni-real-w-meczu-z-beniaminkiem</link>
+        <pubDate>Sun, 25 Jan 2026 15:45:00 GMT</pubDate>
+        <description>Drużyna Hansiego Flicka podejmuje na Camp Nou ostatni zespół w tabeli.</description>
+    </item>
     
     <item>
         <title>Podcast 7x24: Czas ruszyć dalej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145998-scariolo-rozegralismy-bardzo-dobra-druga-polowe</link>
         <pubDate>Sun, 25 Jan 2026 10:04:00 GMT</pubDate>
         <description>Sergio Scariolo podsumował zwycięskie spotkanie z Breogánem. Wytłumaczył nieobecności Tavaresa i Abalde i pochwalił drużynę za grę w drugiej połowie.</description>
-    </item>
-    
-    <item>
-        <title>Prowokacje z trybun La Cerámiki tylko napędziły Viníciusa</title>
-        <link>https://www.realmadryt.pl/news/146004-prowokacje-z-trybun-la-ceramiki-tylko-napedzily-viniciusa</link>
-        <pubDate>Sun, 25 Jan 2026 10:00:00 GMT</pubDate>
-        <description>Brazylijczyk napędził akcję na 0:1 po kolejnej świetnej indywidualnej szarży, odpowiadając w ten sposób na przyśpiewki z Estadio de la Cerámica.</description>
     </item>
     
 </channel>
