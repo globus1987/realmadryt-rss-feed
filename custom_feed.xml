@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 06:46:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 07:27:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy podobała ci się gra Realu Madryt?</title>
+        <link>https://www.realmadryt.pl/news/146010-glos-kibica-czy-podobala-ci-sie-gra-realu-madryt</link>
+        <pubDate>Sun, 25 Jan 2026 08:18:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Valverde: Kiedy nie mamy piłki, to wszyscy sobie pomagamy i biegamy jeden za drugiego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145997-krolewskie-przegraly-w-finale-superpucharu-hiszpanii</link>
         <pubDate>Sat, 24 Jan 2026 21:01:00 GMT</pubDate>
         <description>Barcelona wygrała dwoma golami na SkyFi Castalia i była skuteczniejszym lepszym zespołem na boisku.</description>
-    </item>
-    
-    <item>
-        <title>Wracamy do gry</title>
-        <link>https://www.realmadryt.pl/news/145994-wracamy-do-gry</link>
-        <pubDate>Sat, 24 Jan 2026 20:55:00 GMT</pubDate>
-        <description>W meczu 21. kolejki La Ligi Real Madryt wygrał na wyjeździe z Villarrealem 2:0. Obie bramki zdobył Kylian Mbappé.</description>
     </item>
     
 </channel>
