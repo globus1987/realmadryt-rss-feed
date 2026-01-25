@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 07:58:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 08:37:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 25 stycznia</title>
+        <link>https://www.realmadryt.pl/news/146003-kartka-z-kalendarza-25-stycznia</link>
+        <pubDate>Sun, 25 Jan 2026 09:30:00 GMT</pubDate>
+        <description>Spotkania z Barceloną, urodziny byłych piłkarzy, mecz na wodzie, wypożyczenie napastnika Manchesteru City, odkupienie bramkarza i pierwszy hat-trick Kyliana Mbappé. Co działo się 25 stycznia?</description>
+    </item>
     
     <item>
         <title>Oceny zawodników po meczu z Villarrealem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145999-moleiro-oni-zmuszaja-cie-do-maksymalnego-wysilku-to-swietny-zespol</link>
         <pubDate>Sat, 24 Jan 2026 23:05:00 GMT</pubDate>
         <description>Alberto Moleiro po zakończeniu spotkania udzielił wywiadu dla telewizji Movistar. Przedstawiamy najważniejsze wypowiedzi zawodnika Villarrealu.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/145995-ocen-pilkarzy-po-meczu-z-villarrealem</link>
-        <pubDate>Sat, 24 Jan 2026 22:58:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
