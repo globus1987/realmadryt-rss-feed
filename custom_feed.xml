@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 11:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 11:42:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Foyth zerwał ścięgno Achillesa</title>
+        <link>https://www.realmadryt.pl/news/146018-oficjalnie-foyth-zerwal-sciegno-achillesa</link>
+        <pubDate>Sun, 25 Jan 2026 12:38:00 GMT</pubDate>
+        <description>Koniec sezonu dla stopera Villarrealu.</description>
+    </item>
+    
+    <item>
+        <title>Starcie z liderem</title>
+        <link>https://www.realmadryt.pl/news/146017-starcie-z-liderem</link>
+        <pubDate>Sun, 25 Jan 2026 12:29:00 GMT</pubDate>
+        <description>W 21. kolejce Primera Federación Castilla zagra na wyjeździe z Tenerife. Kanaryjczycy są liderem z dużą przewagą nad resztą stawki, więc dla Królewskich będzie to trudne wyzwanie.</description>
+    </item>
     
     <item>
         <title>Wpływ Arbeloi widać już gołym okiem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146009-valverde-kiedy-nie-mamy-pilki-to-wszyscy-sobie-pomagamy-i-biegamy-jeden-za-drugiego</link>
         <pubDate>Sun, 25 Jan 2026 07:25:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Villarrealem na Estadio de la Cerámica. Przedstawiamy wypowiedzi piłkarza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Po zajęciach wielu piłkarzy chce zostać dłużej, trenować dalej, pracować dalej</title>
-        <link>https://www.realmadryt.pl/news/146006-arbeloa-po-zajeciach-wielu-pilkarzy-chce-zostac-dluzej-trenowac-dalej-pracowac-dalej</link>
-        <pubDate>Sun, 25 Jan 2026 05:30:00 GMT</pubDate>
-        <description>Álvaro Arbeloa wziął udział w konferencji prasowej po wygranym 2:0 meczu z Villarrealem. Przedstawiamy zapis tego spotkania z dziennikarzami z trenerem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146011-dzisiejsze-okladki</link>
-        <pubDate>Sun, 25 Jan 2026 00:45:00 GMT</pubDate>
-        <description>Wygrana Realu, mecz Barcelony i wynik finału Superpucharu Hiszpanii kobiet to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
