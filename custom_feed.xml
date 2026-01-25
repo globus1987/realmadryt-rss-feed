@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 09:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 10:30:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Liverpool skontaktował się z Xabim Alonso</title>
+        <link>https://www.realmadryt.pl/news/146015-as-liverpool-skontaktowal-sie-z-xabim-alonso</link>
+        <pubDate>Sun, 25 Jan 2026 11:29:00 GMT</pubDate>
+        <description>The Reds rozmawiali z przedstawicielami byłego trenera Realu Madryt, aby zapytać, czy Xabi byłby chętny objąć klub, gdyby nadarzyła się taka okazja. Odpowiedź była twierdząca.</description>
+    </item>
+    
+    <item>
+        <title>Marcelino: Zagraliśmy dobrze poza dwoma błędami</title>
+        <link>https://www.realmadryt.pl/news/146008-marcelino-zagralismy-dobrze-poza-dwoma-bledami</link>
+        <pubDate>Sun, 25 Jan 2026 11:14:00 GMT</pubDate>
+        <description>Trener Villarrealu, Marcelino García Toral, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>To, co Laporta zrozumiał we współczesnej piłce, a z czego Florentino zrezygnował w Realu Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146007-courtois-coraz-lepiej-rozumiemy-to-co-przekazuje-nam-trener</link>
         <pubDate>Sun, 25 Jan 2026 00:00:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Villarrealem na Estadio de la Cerámica. Przedstawiamy wypowiedzi bramkarza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Panenka dla Brahima: „To dla ciebie, to dla ciebie”</title>
-        <link>https://www.realmadryt.pl/news/146005-panenka-dla-brahima-to-dla-ciebie-to-dla-ciebie</link>
-        <pubDate>Sat, 24 Jan 2026 23:46:00 GMT</pubDate>
-        <description>Kylian Mbappé wykorzystał rzut karny w stylu Panenki i zadedykował swoje trafienie Brahimowi Díazowi. W obecnym sezonie francuski atakujących zdobył w sumie 34 bramki.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Vinícius i Mbappé to dwaj najlepsi gracze na świecie</title>
-        <link>https://www.realmadryt.pl/news/146002-arbeloa-vinicius-i-mbappe-to-dwaj-najlepsi-gracze-na-swiecie</link>
-        <pubDate>Sat, 24 Jan 2026 23:26:00 GMT</pubDate>
-        <description>Álvaro Arbeloa udzielił wywiadu klubowej telewizji po wygranym 2:0 meczu z Villarrealem na Estadio de la Cerámica. Przedstawiamy wypowiedzi trenera Królewskich.</description>
     </item>
     
 </channel>
