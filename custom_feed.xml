@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 16:57:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 17:27:30 GMT</lastBuildDate>
     
     <item>
-        <title>21. kolejka: Barcelona prowadzi z beniaminkiem [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146019-21-kolejka-barcelona-prowadzi-z-beniaminkiem-na-zywo</link>
+        <title>Powtórka z rozrywki</title>
+        <link>https://www.realmadryt.pl/news/146023-powtorka-z-rozrywki</link>
+        <pubDate>Sun, 25 Jan 2026 18:15:00 GMT</pubDate>
+        <description>W 21. kolejce Primera Federación Castilla przegrała z Tenerife 2:4. Królewscy byli o krok od odrobienia trzybramkowej straty, ale zabrakło im trochę szczęścia.</description>
+    </item>
+    
+    <item>
+        <title>21. kolejka: Barcelona wróciła na fotel lidera</title>
+        <link>https://www.realmadryt.pl/news/146019-21-kolejka-barcelona-wrocila-na-fotel-lidera</link>
         <pubDate>Sun, 25 Jan 2026 15:45:00 GMT</pubDate>
-        <description>Drużyna Hansiego Flicka podejmuje na Camp Nou ostatni zespół w tabeli.</description>
+        <description>Drużyna Hansiego Flicka podejmowała na Camp Nou ostatni zespół w tabeli i odniosła zwycięstwo.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146013-to-co-laporta-zrozumial-we-wspolczesnej-pilce-a-z-czego-florentino-zrezygnowal-w-realu-madryt</link>
         <pubDate>Sun, 25 Jan 2026 10:50:00 GMT</pubDate>
         <description>Różnice między zarządzaniem Realem a Barceloną przedstawia na łamach El Confidencial w swoim felietonie Albert Ortega. Przedstawiamy pełne tłumaczenie jego tekstu.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Rozegraliśmy bardzo dobrą drugą połowę</title>
-        <link>https://www.realmadryt.pl/news/145998-scariolo-rozegralismy-bardzo-dobra-druga-polowe</link>
-        <pubDate>Sun, 25 Jan 2026 10:04:00 GMT</pubDate>
-        <description>Sergio Scariolo podsumował zwycięskie spotkanie z Breogánem. Wytłumaczył nieobecności Tavaresa i Abalde i pochwalił drużynę za grę w drugiej połowie.</description>
     </item>
     
 </channel>
