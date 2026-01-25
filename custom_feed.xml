@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 12:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 13:39:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Podcast 7x24: Czas ruszyć dalej</title>
+        <link>https://www.realmadryt.pl/news/146021-podcast-7x24-czas-ruszyc-dalej</link>
+        <pubDate>Sun, 25 Jan 2026 14:36:00 GMT</pubDate>
+        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po wygranych nad Monaco i Villarrealem.</description>
+    </item>
+    
+    <item>
+        <title>Schira: Mario Gila bliski transferu do Milanu za 20 milionów euro</title>
+        <link>https://www.realmadryt.pl/news/146022-schira-mario-gila-bliski-transferu-do-milanu-za-20-milionow-euro</link>
+        <pubDate>Sun, 25 Jan 2026 14:22:00 GMT</pubDate>
+        <description>Milan i Lazio są bliskie porozumienie w sprawie transferu Mario Gili w letnim okienku transferowym. Kwota operacji ma wynieść 20 milionów euro, z czego połowa trafi do Realu Madryt, który posiada 50% praw do hiszpańskiego defensora.</description>
+    </item>
+    
+    <item>
+        <title>Królewscy rozpoczęli przygotowania do meczu z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146020-krolewscy-rozpoczeli-przygotowania-do-meczu-z-benfica</link>
+        <pubDate>Sun, 25 Jan 2026 14:04:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do środowego meczu z Benficą.</description>
+    </item>
     
     <item>
         <title>Real Madryt jest numerem jeden na świecie pod względem przychodów, ale bez swoich dźwigni straciłby ponad 300 milionów</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/146004-prowokacje-z-trybun-la-ceramiki-tylko-napedzily-viniciusa</link>
         <pubDate>Sun, 25 Jan 2026 10:00:00 GMT</pubDate>
         <description>Brazylijczyk napędził akcję na 0:1 po kolejnej świetnej indywidualnej szarży, odpowiadając w ten sposób na przyśpiewki z Estadio de la Cerámica.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 25 stycznia</title>
-        <link>https://www.realmadryt.pl/news/146003-kartka-z-kalendarza-25-stycznia</link>
-        <pubDate>Sun, 25 Jan 2026 09:30:00 GMT</pubDate>
-        <description>Spotkania z Barceloną, urodziny byłych piłkarzy, mecz na wodzie, wypożyczenie napastnika Manchesteru City, odkupienie bramkarza i pierwszy hat-trick Kyliana Mbappé. Co działo się 25 stycznia?</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/146012-oceny-zawodnikow-po-meczu-z-villarrealem</link>
-        <pubDate>Sun, 25 Jan 2026 08:45:00 GMT</pubDate>
-        <description>Real Madryt wygrał w La Lidze z Villarrealem 2:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czy podobała ci się gra Realu Madryt?</title>
-        <link>https://www.realmadryt.pl/news/146010-glos-kibica-czy-podobala-ci-sie-gra-realu-madryt</link>
-        <pubDate>Sun, 25 Jan 2026 08:18:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
