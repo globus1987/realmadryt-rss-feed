@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 08:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 09:31:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Rozegraliśmy bardzo dobrą drugą połowę</title>
+        <link>https://www.realmadryt.pl/news/145998-scariolo-rozegralismy-bardzo-dobra-druga-polowe</link>
+        <pubDate>Sun, 25 Jan 2026 10:04:00 GMT</pubDate>
+        <description>Sergio Scariolo podsumował zwycięskie spotkanie z Breogánem. Wytłumaczył nieobecności Tavaresa i Abalde i pochwalił drużynę za grę w drugiej połowie.</description>
+    </item>
+    
+    <item>
+        <title>Prowokacje z trybun La Cerámiki tylko napędziły Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/146004-prowokacje-z-trybun-la-ceramiki-tylko-napedzily-viniciusa</link>
+        <pubDate>Sun, 25 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Brazylijczyk napędził akcję na 0:1 po kolejnej świetnej indywidualnej szarży, odpowiadając w ten sposób na przyśpiewki z Estadio de la Cerámica.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 25 stycznia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146001-villarreal-0-2-real-madryt-video</link>
         <pubDate>Sat, 24 Jan 2026 23:14:00 GMT</pubDate>
         <description>W meczu 21. kolejki La Ligi Real Madryt wygrał na wyjeździe z Villarrealem 2:0. Obie bramki zdobył Kylian Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé MVP meczu z Villarrealem</title>
-        <link>https://www.realmadryt.pl/news/146000-mbappe-mvp-meczu-z-villarrealem</link>
-        <pubDate>Sat, 24 Jan 2026 23:08:00 GMT</pubDate>
-        <description>Kylian Mbappé został wyróżniony po meczu Realu Madryt z Villarrealem.</description>
-    </item>
-    
-    <item>
-        <title>Moleiro: Oni zmuszają cię do maksymalnego wysiłku, to świetny zespół</title>
-        <link>https://www.realmadryt.pl/news/145999-moleiro-oni-zmuszaja-cie-do-maksymalnego-wysilku-to-swietny-zespol</link>
-        <pubDate>Sat, 24 Jan 2026 23:05:00 GMT</pubDate>
-        <description>Alberto Moleiro po zakończeniu spotkania udzielił wywiadu dla telewizji Movistar. Przedstawiamy najważniejsze wypowiedzi zawodnika Villarrealu.</description>
     </item>
     
 </channel>
