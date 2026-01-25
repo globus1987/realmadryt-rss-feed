@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 04:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 05:01:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Po zajęciach wielu piłkarzy chce zostać dłużej, trenować dalej, pracować dalej</title>
+        <link>https://www.realmadryt.pl/news/146006-arbeloa-po-zajeciach-wielu-pilkarzy-chce-zostac-dluzej-trenowac-dalej-pracowac-dalej</link>
+        <pubDate>Sun, 25 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Álvaro Arbeloa wziął udział w konferencji prasowej po wygranym 2:0 meczu z Villarrealem. Przedstawiamy zapis tego spotkania z dziennikarzami z trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/145996-znakomity-hezonja-kolejna-wygrana-koszykarzy</link>
         <pubDate>Sat, 24 Jan 2026 20:49:00 GMT</pubDate>
         <description>W 17. kolejce Ligi Endesa Real Madryt pokonał Breogán. Królewscy różnicę zrobili w ostatniej kwarcie, bo wcześniej Galisyjczycy stawiali czoła faworytowi.</description>
-    </item>
-    
-    <item>
-        <title>Villarreal – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/145993-villarreal-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 24 Jan 2026 19:30:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Villarrealem. Spotkanie rozpocznie się o 21:00 na Estadio de la Ceràmica.</description>
     </item>
     
 </channel>
