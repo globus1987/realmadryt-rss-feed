@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 25 Jan 2026 23:27:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 23:45:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146030-dzisiejsze-okladki</link>
+        <pubDate>Mon, 26 Jan 2026 00:31:00 GMT</pubDate>
+        <description>Wygrana Barcelony i forma Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Spacerek Benfiki przed meczem z Realem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146016-wplyw-arbeloi-widac-juz-golym-okiem</link>
         <pubDate>Sun, 25 Jan 2026 12:20:00 GMT</pubDate>
         <description>Pierwsze oznaki poprawy po jego przyjściu stały się widoczne już po zaledwie dwóch tygodniach.</description>
-    </item>
-    
-    <item>
-        <title>AS: Liverpool skontaktował się z Xabim Alonso</title>
-        <link>https://www.realmadryt.pl/news/146015-as-liverpool-skontaktowal-sie-z-xabim-alonso</link>
-        <pubDate>Sun, 25 Jan 2026 11:29:00 GMT</pubDate>
-        <description>The Reds rozmawiali z przedstawicielami byłego trenera Realu Madryt, aby zapytać, czy Xabi byłby chętny objąć klub, gdyby nadarzyła się taka okazja. Odpowiedź była twierdząca.</description>
     </item>
     
 </channel>
