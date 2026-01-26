@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 05:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 06:50:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy wypożyczenie zimą Endricka było dobrą decyzją?</title>
+        <link>https://www.realmadryt.pl/news/146026-glos-kibica-czy-wypozyczenie-zima-endricka-bylo-dobra-decyzja</link>
+        <pubDate>Mon, 26 Jan 2026 07:25:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Piłkarze Realu Madryt wreszcie dostali to, czego chcieli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146018-oficjalnie-foyth-zerwal-sciegno-achillesa</link>
         <pubDate>Sun, 25 Jan 2026 12:38:00 GMT</pubDate>
         <description>Koniec sezonu dla stopera Villarrealu.</description>
-    </item>
-    
-    <item>
-        <title>Starcie z liderem</title>
-        <link>https://www.realmadryt.pl/news/146017-starcie-z-liderem</link>
-        <pubDate>Sun, 25 Jan 2026 12:29:00 GMT</pubDate>
-        <description>W 21. kolejce Primera Federación Castilla zagra na wyjeździe z Tenerife. Kanaryjczycy są liderem z dużą przewagą nad resztą stawki, więc dla Królewskich będzie to trudne wyzwanie.</description>
     </item>
     
 </channel>
