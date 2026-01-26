@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 10:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 10:47:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt zrywa z zależnością</title>
+        <link>https://www.realmadryt.pl/news/146032-real-madryt-zrywa-z-zaleznoscia</link>
+        <pubDate>Mon, 26 Jan 2026 11:21:00 GMT</pubDate>
+        <description>W sobotę Królewscy odnieśli pierwszą wygraną w tym sezonie bez Auréliena Tchouaméniego na boisku.</description>
+    </item>
     
     <item>
         <title>Davide Massa na Benficę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146023-powtorka-z-rozrywki</link>
         <pubDate>Sun, 25 Jan 2026 18:15:00 GMT</pubDate>
         <description>W 21. kolejce Primera Federación Castilla przegrała z Tenerife 2:4. Królewscy byli o krok od odrobienia trzybramkowej straty, ale zabrakło im trochę szczęścia.</description>
-    </item>
-    
-    <item>
-        <title>21. kolejka: Barcelona wróciła na fotel lidera</title>
-        <link>https://www.realmadryt.pl/news/146019-21-kolejka-barcelona-wrocila-na-fotel-lidera</link>
-        <pubDate>Sun, 25 Jan 2026 15:45:00 GMT</pubDate>
-        <description>Drużyna Hansiego Flicka podejmowała na Camp Nou ostatni zespół w tabeli i odniosła zwycięstwo.</description>
     </item>
     
 </channel>
