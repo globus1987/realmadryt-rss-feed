@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 11:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 13:04:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/146037-dzisiejszy-trening</link>
+        <pubDate>Mon, 26 Jan 2026 13:33:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie kontynnuowali przygotowania do środowego meczu z Benficą.</description>
+    </item>
+    
+    <item>
+        <title>Błyskawiczna kariera Cherifa w szkółce</title>
+        <link>https://www.realmadryt.pl/news/146028-blyskawiczna-kariera-cherifa-w-szkolce</link>
+        <pubDate>Mon, 26 Jan 2026 13:03:00 GMT</pubDate>
+        <description>Moctar Cherif przez pierwsze pół roku w szkółce Realu Madryt zaliczył dwa awanse. Zaczynał w Juvenilu C, przeszedł przez Juvenil B, a ostatnio zadebiutował w Juvenilu A. Był też bliski występu w Castilli.</description>
+    </item>
     
     <item>
         <title>Spotkanie z Mourinho dla nostalgików bezczelności, dumy i gniewu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146030-dzisiejsze-okladki</link>
         <pubDate>Mon, 26 Jan 2026 00:31:00 GMT</pubDate>
         <description>Wygrana Barcelony i forma Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Spacerek Benfiki przed meczem z Realem</title>
-        <link>https://www.realmadryt.pl/news/146025-spacerek-benfiki-przed-meczem-z-realem</link>
-        <pubDate>Sun, 25 Jan 2026 21:04:00 GMT</pubDate>
-        <description>Trzy dni przed meczem przeciwko Realowi Madryt Benfica odniosła wysokie zwycięstwo w lidze. Dublet ustrzelił Wangelis Pawlidis.</description>
-    </item>
-    
-    <item>
-        <title>Hat-trick Endricka z FC Metz! [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146024-hat-trick-endricka-z-fc-metz-video</link>
-        <pubDate>Sun, 25 Jan 2026 19:19:00 GMT</pubDate>
-        <description>Brazylijczyk dał popis w dzisiejszym spotkaniu przeciwko FC Metz i trzykrotnie trafił do siatki.</description>
     </item>
     
 </channel>
