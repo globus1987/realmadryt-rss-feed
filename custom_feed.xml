@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 17:53:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 18:48:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Plan na Lizbonę</title>
+        <link>https://www.realmadryt.pl/news/146045-plan-na-lizbone</link>
+        <pubDate>Mon, 26 Jan 2026 19:24:00 GMT</pubDate>
+        <description>We wtorek w południe drużyna wyleci do Lizbony, gdzie w środę zagra z Benficą w ostatnim meczu fazy ligowej Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>La Liga dotrzymuje groźby: sprawa 15-sekundowego protestu piłkarzy trafi do sądu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146036-davide-massa-na-benfice</link>
         <pubDate>Mon, 26 Jan 2026 10:30:00 GMT</pubDate>
         <description>Ostatni mecz Królewskich w fazie ligowej Ligi Mistrzów poprowadzi arbiter, który tylko raz sędziował spotkanie Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 26 stycznia</title>
-        <link>https://www.realmadryt.pl/news/146033-kartka-z-kalendarza-26-stycznia</link>
-        <pubDate>Mon, 26 Jan 2026 10:00:00 GMT</pubDate>
-        <description>Urodziny byłego trenera, Míchel w roli bramkarza oraz zwycięstwa z Sevillą, Realem Valladolid i Atlético. Co działo się 26 stycznia?</description>
     </item>
     
 </channel>
