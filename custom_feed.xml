@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 13:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 13:55:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Liczby potwierdzają poprawę</title>
+        <link>https://www.realmadryt.pl/news/146038-liczby-potwierdzaja-poprawe</link>
+        <pubDate>Mon, 26 Jan 2026 14:24:00 GMT</pubDate>
+        <description>Pod wodzą nowego trenera zespół poprawił się praktycznie we wszystkich aspektach.</description>
+    </item>
     
     <item>
         <title>Dzisiejszy trening</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146031-pilkarze-realu-madryt-wreszcie-dostali-to-czego-chcieli</link>
         <pubDate>Mon, 26 Jan 2026 05:30:00 GMT</pubDate>
         <description>Po raz kolejny wyszło na jaw, jaką władzę potrafią czasem sprawować zawodnicy nad wszystkim, co ich otacza.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146030-dzisiejsze-okladki</link>
-        <pubDate>Mon, 26 Jan 2026 00:31:00 GMT</pubDate>
-        <description>Wygrana Barcelony i forma Realu to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
