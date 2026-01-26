@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 22:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 23:31:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146055-dzisiejsze-okladki</link>
+        <pubDate>Tue, 27 Jan 2026 00:31:00 GMT</pubDate>
+        <description>Sytuacja w Realu i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Louzán: Finał Mistrzostw Świata zostanie rozegrany w Hiszpanii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146028-blyskawiczna-kariera-cherifa-w-szkolce</link>
         <pubDate>Mon, 26 Jan 2026 13:03:00 GMT</pubDate>
         <description>Moctar Cherif przez pierwsze pół roku w szkółce Realu Madryt zaliczył dwa awanse. Zaczynał w Juvenilu C, przeszedł przez Juvenil B, a ostatnio zadebiutował w Juvenilu A. Był też bliski występu w Castilli.</description>
-    </item>
-    
-    <item>
-        <title>Spotkanie z Mourinho dla nostalgików bezczelności, dumy i gniewu</title>
-        <link>https://www.realmadryt.pl/news/146029-spotkanie-z-mourinho-dla-nostalgikow-bezczelnosci-dumy-i-gniewu</link>
-        <pubDate>Mon, 26 Jan 2026 12:12:00 GMT</pubDate>
-        <description>Orfeo Suárez, redaktor naczelny działu sportowego w Madrycie i felietonista dziennika El Mundo, podzielił się swoimi spostrzeżeniami na temat José Mourinho. Przedstawiamy pełen tłumaczenie jego tekstu.</description>
     </item>
     
 </channel>
