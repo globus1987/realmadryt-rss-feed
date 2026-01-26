@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 15:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 16:43:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa skupia się na Bellinghamie</title>
+        <link>https://www.realmadryt.pl/news/146042-arbeloa-skupia-sie-na-bellinghamie</link>
+        <pubDate>Mon, 26 Jan 2026 17:33:00 GMT</pubDate>
+        <description>Klub i szkoleniowiec pracują nad tym, aby Jude uzupełniał się z Gülerem.</description>
+    </item>
+    
+    <item>
+        <title>Endrick szaleje w Lyonie</title>
+        <link>https://www.realmadryt.pl/news/146041-endrick-szaleje-w-lyonie</link>
+        <pubDate>Mon, 26 Jan 2026 16:51:00 GMT</pubDate>
+        <description>Napastnik wypożyczony z Realu był decydujący we wszystkich trzech meczach, jakie do tej pory rozegrał dla Lyonu.</description>
+    </item>
     
     <item>
         <title>Królewskie typy #1 – wyniki</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146027-dublet-arnu-w-debiucie</link>
         <pubDate>Mon, 26 Jan 2026 09:09:00 GMT</pubDate>
         <description>Real Madryt C wygrał mecz po prawie trzech miesiącach przerwy. Pomogły w tym dwa gole Arnu, który w ten sposób zadebiutował w barwach Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Były selekcjoner reprezentacji Hiszpanii został zwolniony w Rosji za nadużywanie ChatGPT</title>
-        <link>https://www.realmadryt.pl/news/146034-byly-selekcjoner-reprezentacji-hiszpanii-zostal-zwolniony-w-rosji-za-naduzywanie-chatgpt</link>
-        <pubDate>Mon, 26 Jan 2026 08:18:00 GMT</pubDate>
-        <description>To był jeden z powodów, przez które w Soczi zrezygnowano Hiszpana. Andriej Orłow, były dyrektor klubu, przyznał, że układał wyjściowe jedenastki za pomocą tego narzędzia.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Czy wypożyczenie zimą Endricka było dobrą decyzją?</title>
-        <link>https://www.realmadryt.pl/news/146026-glos-kibica-czy-wypozyczenie-zima-endricka-bylo-dobra-decyzja</link>
-        <pubDate>Mon, 26 Jan 2026 07:25:00 GMT</pubDate>
-        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
