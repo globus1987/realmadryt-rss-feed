@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 08:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 09:41:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Davide Massa na Benficę</title>
+        <link>https://www.realmadryt.pl/news/146036-davide-massa-na-benfice</link>
+        <pubDate>Mon, 26 Jan 2026 10:30:00 GMT</pubDate>
+        <description>Ostatni mecz Królewskich w fazie ligowej Ligi Mistrzów poprowadzi arbiter, który tylko raz sędziował spotkanie Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 26 stycznia</title>
+        <link>https://www.realmadryt.pl/news/146033-kartka-z-kalendarza-26-stycznia</link>
+        <pubDate>Mon, 26 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Urodziny byłego trenera, Míchel w roli bramkarza oraz zwycięstwa z Sevillą, Realem Valladolid i Atlético. Co działo się 26 stycznia?</description>
+    </item>
     
     <item>
         <title>Valdano: Nie uwierzymy, że dobra forma fizyczna Realu przyszła po tygodniu pracy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146019-21-kolejka-barcelona-wrocila-na-fotel-lidera</link>
         <pubDate>Sun, 25 Jan 2026 15:45:00 GMT</pubDate>
         <description>Drużyna Hansiego Flicka podejmowała na Camp Nou ostatni zespół w tabeli i odniosła zwycięstwo.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x24: Czas ruszyć dalej</title>
-        <link>https://www.realmadryt.pl/news/146021-podcast-7x24-czas-ruszyc-dalej</link>
-        <pubDate>Sun, 25 Jan 2026 14:36:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po wygranych nad Monaco i Villarrealem.</description>
-    </item>
-    
-    <item>
-        <title>Schira: Mario Gila bliski transferu do Milanu za 20 milionów euro</title>
-        <link>https://www.realmadryt.pl/news/146022-schira-mario-gila-bliski-transferu-do-milanu-za-20-milionow-euro</link>
-        <pubDate>Sun, 25 Jan 2026 14:22:00 GMT</pubDate>
-        <description>Milan i Lazio są bliskie porozumienie w sprawie transferu Mario Gili w letnim okienku transferowym. Kwota operacji ma wynieść 20 milionów euro, z czego połowa trafi do Realu Madryt, który posiada 50% praw do hiszpańskiego defensora.</description>
     </item>
     
 </channel>
