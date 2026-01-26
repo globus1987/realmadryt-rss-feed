@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 14:36:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 15:02:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie typy #1 – wyniki</title>
+        <link>https://www.realmadryt.pl/news/146040-krolewskie-typy-1-wyniki</link>
+        <pubDate>Mon, 26 Jan 2026 16:00:00 GMT</pubDate>
+        <description>Jak poszło nam i wam?</description>
+    </item>
     
     <item>
         <title>Liczby potwierdzają poprawę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146026-glos-kibica-czy-wypozyczenie-zima-endricka-bylo-dobra-decyzja</link>
         <pubDate>Mon, 26 Jan 2026 07:25:00 GMT</pubDate>
         <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarze Realu Madryt wreszcie dostali to, czego chcieli</title>
-        <link>https://www.realmadryt.pl/news/146031-pilkarze-realu-madryt-wreszcie-dostali-to-czego-chcieli</link>
-        <pubDate>Mon, 26 Jan 2026 05:30:00 GMT</pubDate>
-        <description>Po raz kolejny wyszło na jaw, jaką władzę potrafią czasem sprawować zawodnicy nad wszystkim, co ich otacza.</description>
     </item>
     
 </channel>
