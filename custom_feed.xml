@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 26 Jan 2026 06:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 07:34:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Były selekcjoner reprezentacji Hiszpanii został zwolniony w Rosji za nadużywanie ChatGPT</title>
+        <link>https://www.realmadryt.pl/news/146034-byly-selekcjoner-reprezentacji-hiszpanii-zostal-zwolniony-w-rosji-za-naduzywanie-chatgpt</link>
+        <pubDate>Mon, 26 Jan 2026 08:18:00 GMT</pubDate>
+        <description>To był jeden z powodów, przez które w Soczi zrezygnowano Hiszpana. Andriej Orłow, były dyrektor klubu, przyznał, że układał wyjściowe jedenastki za pomocą tego narzędzia.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy wypożyczenie zimą Endricka było dobrą decyzją?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146014-real-madryt-jest-numerem-jeden-na-swiecie-pod-wzgledem-przychodow-ale-bez-swoich-dzwigni-stracilby-ponad-300-milionow</link>
         <pubDate>Sun, 25 Jan 2026 13:30:00 GMT</pubDate>
         <description>Pedro Morata to dziennikarz Marki i radia COPE z Walencji, który zajmuje się sprawami organizacyjnymi i finansowymi w hiszpańskim futbolu. Przedstawiamy pełne tłumaczenie jego felietonu, w którym kolejny raz bardzo krytycznie ocenia działania Florentino Péreza.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Foyth zerwał ścięgno Achillesa</title>
-        <link>https://www.realmadryt.pl/news/146018-oficjalnie-foyth-zerwal-sciegno-achillesa</link>
-        <pubDate>Sun, 25 Jan 2026 12:38:00 GMT</pubDate>
-        <description>Koniec sezonu dla stopera Villarrealu.</description>
     </item>
     
 </channel>
