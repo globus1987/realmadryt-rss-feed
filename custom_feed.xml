@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Jan 2026 05:58:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 06:51:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Przyszłość Asencio</title>
+        <link>https://www.realmadryt.pl/news/146053-glos-kibica-przyszlosc-asencio</link>
+        <pubDate>Tue, 27 Jan 2026 07:25:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Endrick odradza się w Lyonie: telefon od Ancelottiego i rozmowa z Florentino</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146038-liczby-potwierdzaja-poprawe</link>
         <pubDate>Mon, 26 Jan 2026 14:24:00 GMT</pubDate>
         <description>Pod wodzą nowego trenera zespół poprawił się praktycznie we wszystkich aspektach.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/146037-dzisiejszy-trening</link>
-        <pubDate>Mon, 26 Jan 2026 13:33:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie kontynnuowali przygotowania do środowego meczu z Benficą.</description>
     </item>
     
 </channel>
