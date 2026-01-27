@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 27 Jan 2026 07:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 08:45:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/146052-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 27 Jan 2026 09:09:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 21. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Enzo Alves podpisał profesjonalny kontrakt z Realem Madryt</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146043-list-otwarty-roberta-moreno-oto-fakty-ktore-obalaja-wersje-o-sztucznej-inteligencji</link>
         <pubDate>Mon, 26 Jan 2026 18:31:00 GMT</pubDate>
         <description>Były selekcjoner dementuje ostatnie informacje.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa skupia się na Bellinghamie</title>
-        <link>https://www.realmadryt.pl/news/146042-arbeloa-skupia-sie-na-bellinghamie</link>
-        <pubDate>Mon, 26 Jan 2026 17:33:00 GMT</pubDate>
-        <description>Klub i szkoleniowiec pracują nad tym, aby Jude uzupełniał się z Gülerem.</description>
     </item>
     
 </channel>
