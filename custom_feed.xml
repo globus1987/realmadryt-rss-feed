@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Jan 2026 19:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 19:58:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Benfica – Real Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/146096-benfica-real-madryt-na-zywo</link>
+        <pubDate>Wed, 28 Jan 2026 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 8. kolejki fazy ligowej Champions League pomiędzy Benficą a Realem Madryt.</description>
+    </item>
     
     <item>
         <title>Aktualna tabela Ligi Mistrzów [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146085-gdzie-obejrzec-ostatnia-kolejke-fazy-ligowej-champions-league</link>
         <pubDate>Wed, 28 Jan 2026 11:00:00 GMT</pubDate>
         <description>Mecz Królewskich z Benficą skomentują Michał Mitrut i Marcin Baszczyński.</description>
-    </item>
-    
-    <item>
-        <title>Mourinho: Niektórzy byli piłkarze są wyjątkowi i Arbeloa jest dla mnie wyjątkowy</title>
-        <link>https://www.realmadryt.pl/news/146075-mourinho-niektorzy-byli-pilkarze-sa-wyjatkowi-i-arbeloa-jest-dla-mnie-wyjatkowy</link>
-        <pubDate>Wed, 28 Jan 2026 10:20:00 GMT</pubDate>
-        <description>José Mourinho dzień przed meczem udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Benfiki opublikowane przez hiszpańskiego nadawcę.</description>
     </item>
     
 </channel>
