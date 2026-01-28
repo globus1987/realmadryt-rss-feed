@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Jan 2026 08:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 09:19:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Special One</title>
+        <link>https://www.realmadryt.pl/news/146073-the-special-one</link>
+        <pubDate>Wed, 28 Jan 2026 10:00:00 GMT</pubDate>
+        <description>Życie wspomnieniami nie ma większego sensu. Nie oznacza to jednak, że o niektórych rzeczach powinno się zapominać.</description>
+    </item>
+    
+    <item>
+        <title>Najtrudniejsza remontada Carvajala</title>
+        <link>https://www.realmadryt.pl/news/146087-najtrudniejsza-remontada-carvajala</link>
+        <pubDate>Wed, 28 Jan 2026 09:55:00 GMT</pubDate>
+        <description>Dani Carvajal pojawia się w kadrze meczowej od 4 stycznia, jednak przez ten czas rozegrał tylko 27 minut. W perspektywie kolejnych miesięcy koniec kontraktu i mundial.</description>
+    </item>
     
     <item>
         <title>Arbeloa do Pintusa: Trzeba ich przekonać, że to nie jest kwestia fizyczności [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146076-koniec-zwycieskiej-passy</link>
         <pubDate>Tue, 27 Jan 2026 23:42:00 GMT</pubDate>
         <description>W 25. kolejce Euroligi Real Madryt przegrał z Paris Basketball. Zakończyła się w ten sposób zwycięska passa Królewskich, którzy przypłacą to wypadnięciem z podium.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt trenował na stadionie Benfiki</title>
-        <link>https://www.realmadryt.pl/news/146072-real-madryt-trenowal-na-stadionie-benfiki</link>
-        <pubDate>Tue, 27 Jan 2026 21:50:00 GMT</pubDate>
-        <description>Królewscy mają już za sobą zajęcia przed środowym meczem fazy ligowej Ligi Mistrzów z Benficą. Zespół wrócił do tradycji z zajęciami na stadionie rywala.</description>
-    </item>
-    
-    <item>
-        <title>Otamendi: Real to nie tylko Mbappé</title>
-        <link>https://www.realmadryt.pl/news/146070-otamendi-real-to-nie-tylko-mbappe</link>
-        <pubDate>Tue, 27 Jan 2026 20:22:00 GMT</pubDate>
-        <description>Nicolás Otamendi stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 8. kolejki fazy ligowej Ligi Mistrzów. Poniżej przedstawiamy zapis wypowiedzi zawodnika Benfiki.</description>
     </item>
     
 </channel>
