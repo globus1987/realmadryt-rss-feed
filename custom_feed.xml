@@ -4,20 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 28 Jan 2026 21:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 22:35:20 GMT</lastBuildDate>
     
     <item>
-        <title>Benfica – Real Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146096-benfica-real-madryt-na-zywo</link>
-        <pubDate>Wed, 28 Jan 2026 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa mecz 8. kolejki fazy ligowej Champions League pomiędzy Benficą a Realem Madryt.</description>
+        <title>Arbeloa: Widzieliśmy, o co gramy i ewidentnie to nas przerosło</title>
+        <link>https://www.realmadryt.pl/news/146099-arbeloa-widzielismy-o-co-gramy-i-ewidentnie-to-nas-przeroslo</link>
+        <pubDate>Wed, 28 Jan 2026 23:35:00 GMT</pubDate>
+        <description>Álvaro Arbeloa udzielił wywiadu dla telewizji Movistar+ po przegranym 2:4 meczu z Benficą w ostatniej kolejce fazy ligowej Ligi Mistrzów. Przedstawiamy zapis rozmowy z trenerem Realu Madryt.</description>
     </item>
     
     <item>
-        <title>Aktualna tabela Ligi Mistrzów [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146093-aktualna-tabela-ligi-mistrzow-na-zywo</link>
+        <title>Oceń piłkarzy po meczu z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146098-ocen-pilkarzy-po-meczu-z-benfica</link>
+        <pubDate>Wed, 28 Jan 2026 23:06:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt nie dojechał</title>
+        <link>https://www.realmadryt.pl/news/146096-real-madryt-nie-dojechal</link>
+        <pubDate>Wed, 28 Jan 2026 20:55:00 GMT</pubDate>
+        <description>W meczu 8. kolejki fazy ligowej Champions League Benfica wygrała z Realem Madryt 4:2. Oba gole dla Królewskich strzelił Kylian Mbappé. Drużyna Álvaro Arbeloi zakończyła tę część rozgrywek na 9. miejscu i zagra w play-offach o 1/8 finału.</description>
+    </item>
+    
+    <item>
+        <title>Real zagra w barażach z Bodø/Glimt lub Benficą</title>
+        <link>https://www.realmadryt.pl/news/146093-real-zagra-w-barazach-z-bodo-glimt-lub-benfica</link>
         <pubDate>Wed, 28 Jan 2026 20:15:00 GMT</pubDate>
-        <description>Dziś kończy się faza ligowa Champions League. Niezależnie od tego, czy Królewscy wylądują w TOP8, czy będą grać w fazie play-off, dziś poznamy zarys drabinki fazy pucharowej.</description>
+        <description>Dziś zakończyła się faza ligowa Champions League. Real Madryt wypadł poza najlepszą ósemkę, co oznacza, że będzie grać w fazie play-off o 1/8 finału Ligi Mistrzów.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146083-jeden-pilkarz-zagrozony-zawieszeniem-za-kartki-w-lidze-mistrzow</link>
         <pubDate>Wed, 28 Jan 2026 12:42:00 GMT</pubDate>
         <description>Dwóch zawodników przegapiło już mecz fazy ligowej Ligi Mistrzów z powodu zawieszenia za kartki. Teraz trzeci gracz jest zagrożony zawieszeniem na kolejne spotkanie.</description>
-    </item>
-    
-    <item>
-        <title>Javi García: Widzę Real Madryt, który gra z przyjemnością i to jest zasługa Arbeloi</title>
-        <link>https://www.realmadryt.pl/news/146084-javi-garcia-widze-real-madryt-ktory-gra-z-przyjemnoscia-i-to-jest-zasluga-arbeloi</link>
-        <pubDate>Wed, 28 Jan 2026 11:51:00 GMT</pubDate>
-        <description>Javi García, wychowanek Realu Madryt, który grał też dla Benfiki czy Manchesteru City, udzielił wywiadu dziennikowi MARCA. Przedstawiamy pełne tłumaczenie tej rozmowy z Hiszpanem.</description>
-    </item>
-    
-    <item>
-        <title>Gdzie obejrzeć ostatnią kolejkę fazy ligowej Champions League?</title>
-        <link>https://www.realmadryt.pl/news/146085-gdzie-obejrzec-ostatnia-kolejke-fazy-ligowej-champions-league</link>
-        <pubDate>Wed, 28 Jan 2026 11:00:00 GMT</pubDate>
-        <description>Mecz Królewskich z Benficą skomentują Michał Mitrut i Marcin Baszczyński.</description>
     </item>
     
 </channel>
