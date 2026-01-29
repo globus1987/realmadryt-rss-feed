@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 23:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:43:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146130-dzisiejsze-okladki</link>
+        <pubDate>Fri, 30 Jan 2026 00:16:00 GMT</pubDate>
+        <description>Losowanie play-offów Ligi Mistrzów i wywiad z Joanem Garcíą to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Rodrygo: Przepraszam kibiców, klub, moich kolegów i trenera</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146114-terminarz-24-kolejki-la-ligi</link>
         <pubDate>Thu, 29 Jan 2026 11:44:00 GMT</pubDate>
         <description>La Liga przedstawiła dokładny harmonogram 24. kolejki tego sezonu, w której Królewscy podejmą Real Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Media: Benzema odmawia gry dla Al-Ittihad</title>
-        <link>https://www.realmadryt.pl/news/146113-media-benzema-odmawia-gry-dla-al-ittihad</link>
-        <pubDate>Thu, 29 Jan 2026 11:02:00 GMT</pubDate>
-        <description>Francuski napastnik miał odmówić dalszej gry dla Saudyjczyków z powodu niezadowalającej propozycji nowego kontraktu.</description>
     </item>
     
 </channel>
