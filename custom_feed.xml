@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 05:33:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 06:27:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Na kogo wolisz trafić w play-offach 1/16 finału Ligi Mistrzów?</title>
+        <link>https://www.realmadryt.pl/news/146104-glos-kibica-na-kogo-wolisz-trafic-w-play-offach-1-16-finalu-ligi-mistrzow</link>
+        <pubDate>Thu, 29 Jan 2026 07:00:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Królewscy otrzymali dzień wolny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146097-tchouameni-o-co-prosi-trener-zeby-wygrac-mecz</link>
         <pubDate>Wed, 28 Jan 2026 20:13:00 GMT</pubDate>
         <description>Aurélien Tchouaméni na godzinę przed meczem Ligi Mistrzów z Benficą udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi pomocnika Realu Madryt na Estádio da Luz.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Mecze są naszymi treningami</title>
-        <link>https://www.realmadryt.pl/news/146094-arbeloa-mecze-sa-naszymi-treningami</link>
-        <pubDate>Wed, 28 Jan 2026 20:08:00 GMT</pubDate>
-        <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Benficą udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Estádio da Luz.</description>
     </item>
     
 </channel>
