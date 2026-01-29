@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 10:48:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 11:37:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Obraz marazmu Realu</title>
+        <link>https://www.realmadryt.pl/news/146115-obraz-marazmu-realu</link>
+        <pubDate>Thu, 29 Jan 2026 11:54:00 GMT</pubDate>
+        <description>Real Madryt zagrał w rosyjską ruletkę przy akcji bramkowej Trubina… z trzema piłkarzami, którzy nie bronili i dwoma, którzy nikogo nie kryli.</description>
+    </item>
     
     <item>
         <title>Terminarz 24. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146105-krolewscy-otrzymali-dzien-wolny</link>
         <pubDate>Thu, 29 Jan 2026 05:30:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146103-dzisiejsze-okladki</link>
-        <pubDate>Thu, 29 Jan 2026 01:04:00 GMT</pubDate>
-        <description>Porażka Realu Madryt i awans Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
