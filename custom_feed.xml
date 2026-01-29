@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 02:47:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:43:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy otrzymali dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/146105-krolewscy-otrzymali-dzien-wolny</link>
+        <pubDate>Thu, 29 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146094-arbeloa-mecze-sa-naszymi-treningami</link>
         <pubDate>Wed, 28 Jan 2026 20:08:00 GMT</pubDate>
         <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Benficą udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Estádio da Luz.</description>
-    </item>
-    
-    <item>
-        <title>Benfica – Real Madryt: Znamy składy</title>
-        <link>https://www.realmadryt.pl/news/146091-benfica-real-madryt-znamy-sklady</link>
-        <pubDate>Wed, 28 Jan 2026 19:29:00 GMT</pubDate>
-        <description>Álvaro Arbeloa odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Estádio da Luz.</description>
     </item>
     
 </channel>
