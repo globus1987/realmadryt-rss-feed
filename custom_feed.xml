@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 09:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 10:48:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 24. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/146114-terminarz-24-kolejki-la-ligi</link>
+        <pubDate>Thu, 29 Jan 2026 11:44:00 GMT</pubDate>
+        <description>La Liga przedstawiła dokładny harmonogram 24. kolejki tego sezonu, w której Królewscy podejmą Real Sociedad.</description>
+    </item>
+    
+    <item>
+        <title>Media: Benzema odmawia gry dla Al-Ittihad</title>
+        <link>https://www.realmadryt.pl/news/146113-media-benzema-odmawia-gry-dla-al-ittihad</link>
+        <pubDate>Thu, 29 Jan 2026 11:02:00 GMT</pubDate>
+        <description>Francuski napastnik miał odmówić dalszej gry dla Saudyjczyków z powodu niezadowalającej propozycji nowego kontraktu.</description>
+    </item>
     
     <item>
         <title>Álvarez de Mon: Unai Emery pierwszym kandydatem w razie zmiany trenera</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146103-dzisiejsze-okladki</link>
         <pubDate>Thu, 29 Jan 2026 01:04:00 GMT</pubDate>
         <description>Porażka Realu Madryt i awans Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Zagraliśmy fatalnie? To prawda</title>
-        <link>https://www.realmadryt.pl/news/146102-mbappe-zagralismy-fatalnie-to-prawda</link>
-        <pubDate>Thu, 29 Jan 2026 00:28:00 GMT</pubDate>
-        <description>Kylian Mbappé udzielał wywiadów dla stacji radiowych w strefie mieszanej po porażce z Benficą. Przedstawiamy wypowiedzi napastnika Realu Madryt z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham: Sami doprowadziliśmy siebie do tej sytuacji</title>
-        <link>https://www.realmadryt.pl/news/146101-bellingham-sami-doprowadzilismy-siebie-do-tej-sytuacji</link>
-        <pubDate>Wed, 28 Jan 2026 23:58:00 GMT</pubDate>
-        <description>Jude Bellingham udzielił wywiadu Movistar+ po meczu z Benficą. Przedstawiamy wszystkie wypowiedzi pomocnika Realu Madryt z tej rozmowy. Anglik odpowiadał po angielsku.</description>
     </item>
     
 </channel>
