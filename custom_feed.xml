@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 11:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 12:01:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146116-oceny-zawodnikow-po-meczu-z-benfica</link>
+        <pubDate>Thu, 29 Jan 2026 12:45:00 GMT</pubDate>
+        <description>Real Madryt przegrał 2:4 z Benficą. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>Obraz marazmu Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146104-glos-kibica-na-kogo-wolisz-trafic-w-play-offach-1-16-finalu-ligi-mistrzow</link>
         <pubDate>Thu, 29 Jan 2026 07:00:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy otrzymali dzień wolny</title>
-        <link>https://www.realmadryt.pl/news/146105-krolewscy-otrzymali-dzien-wolny</link>
-        <pubDate>Thu, 29 Jan 2026 05:30:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
     </item>
     
 </channel>
