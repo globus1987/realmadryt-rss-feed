@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 07:25:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 08:01:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Fede: Do naszej pierwszej bramki graliśmy dobrze</title>
+        <link>https://www.realmadryt.pl/news/146110-fede-do-naszej-pierwszej-bramki-gralismy-dobrze</link>
+        <pubDate>Thu, 29 Jan 2026 08:49:00 GMT</pubDate>
+        <description>Fede Valverde udzielił wywiadu dla portugalskiej stacji Sport TV po przegranym 2:4 meczu z Benficą. Urugwajczyk odpowiedział też na jedno pytanie w drodze do autokaru. Przedstawiamy refleksje kapitana.</description>
+    </item>
+    
+    <item>
+        <title>Mbappé: To nie kwestia jakości ani taktyki, to kwestia, by mieć więcej chęci niż przeciwnik</title>
+        <link>https://www.realmadryt.pl/news/146107-mbappe-to-nie-kwestia-jakosci-ani-taktyki-to-kwestia-by-miec-wiecej-checi-niz-przeciwnik</link>
+        <pubDate>Thu, 29 Jan 2026 08:40:00 GMT</pubDate>
+        <description>Kylian Mbappé wyszedł do dziennikarzy telewizyjnych w strefie mieszanej po porażce z Benficą. Przedstawiamy wypowiedzi napastnika Realu Madryt z tego spotkania z mediami.</description>
+    </item>
     
     <item>
         <title>Arda Güler po zmianie: „Zawsze ja, zawsze mnie”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146099-arbeloa-widzielismy-o-co-gramy-i-ewidentnie-to-nas-przeroslo</link>
         <pubDate>Wed, 28 Jan 2026 23:35:00 GMT</pubDate>
         <description>Álvaro Arbeloa udzielił wywiadu dla telewizji Movistar+ po przegranym 2:4 meczu z Benficą w ostatniej kolejce fazy ligowej Ligi Mistrzów. Przedstawiamy zapis rozmowy z trenerem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Benficą</title>
-        <link>https://www.realmadryt.pl/news/146098-ocen-pilkarzy-po-meczu-z-benfica</link>
-        <pubDate>Wed, 28 Jan 2026 23:06:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt nie dojechał</title>
-        <link>https://www.realmadryt.pl/news/146096-real-madryt-nie-dojechal</link>
-        <pubDate>Wed, 28 Jan 2026 20:55:00 GMT</pubDate>
-        <description>W meczu 8. kolejki fazy ligowej Champions League Benfica wygrała z Realem Madryt 4:2. Oba gole dla Królewskich strzelił Kylian Mbappé. Drużyna Álvaro Arbeloi zakończyła tę część rozgrywek na 9. miejscu i zagra w play-offach o 1/8 finału.</description>
     </item>
     
 </channel>
