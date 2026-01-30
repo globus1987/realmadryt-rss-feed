@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Jan 2026 17:07:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 17:52:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Odłączeni”</title>
+        <link>https://www.realmadryt.pl/news/146144-odlaczeni</link>
+        <pubDate>Fri, 30 Jan 2026 18:52:00 GMT</pubDate>
+        <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście dzieli się swoimi przemyśleniami na temat piłkarzy Realu Madryt. Przedstawiamy tłumaczenie tekstu dziennikarza.</description>
+    </item>
+    
+    <item>
+        <title>Güler nadal nie rozgrywa pełnych meczów</title>
+        <link>https://www.realmadryt.pl/news/146143-gueler-nadal-nie-rozgrywa-pelnych-meczow</link>
+        <pubDate>Fri, 30 Jan 2026 18:46:00 GMT</pubDate>
+        <description>Turek eksplodował, gdy został zmieniony przez Arbeloę w Lizbonie. Pomocnik nie zaskarbił sobie całkowitego zaufania trenerów Realu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Dwóch niezawodnych</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146129-do-trzech-razy-sztuka</link>
         <pubDate>Fri, 30 Jan 2026 10:00:00 GMT</pubDate>
         <description>W 22. kolejce Primera Federación Castilla zmierzy się z drugą drużyną Osasuny. Będzie to trzecie spotkanie pod wodzą Juliána Lópeza de Lermy, który ciągle czeka na debiutanckie zwycięstwo.</description>
-    </item>
-    
-    <item>
-        <title>Nowa Liga Mistrzów nie leży Realowi</title>
-        <link>https://www.realmadryt.pl/news/146126-nowa-liga-mistrzow-nie-lezy-realowi</link>
-        <pubDate>Fri, 30 Jan 2026 09:30:00 GMT</pubDate>
-        <description>Podobne liczby i podobny finisz. Real Madryt znów nie awansował do 1/8 finału bezpośrednio po fazie ligowej.</description>
-    </item>
-    
-    <item>
-        <title>Campos: Modrić podziękował mi za nasz czas w Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/146125-campos-modric-podziekowal-mi-za-nasz-czas-w-realu-madryt</link>
-        <pubDate>Fri, 30 Jan 2026 08:40:00 GMT</pubDate>
-        <description>MARCA przeprowadziła wywiad z Luisem Camposem, dyrektorem sportowym Paris Saint-Germain. Przedstawiamy najważniejsze wypowiedzi działacza z tej rozmowy dotyczące Realu Madryt oraz projektu PSG.</description>
     </item>
     
 </channel>
