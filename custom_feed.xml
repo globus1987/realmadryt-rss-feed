@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Jan 2026 23:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 23:41:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146154-dzisiejsze-okladki</link>
+        <pubDate>Sat, 31 Jan 2026 00:08:00 GMT</pubDate>
+        <description>Awans Carlosa Alcaraza do finału Australian Open to główny temat na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Endrick: Moja pozycja to nie prawa strona, a „koszulka numer 9”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146139-dzisiejszy-trening</link>
         <pubDate>Fri, 30 Jan 2026 13:57:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do środowego meczu z Rayo Vallecano.</description>
-    </item>
-    
-    <item>
-        <title>Vozpópuli: W lutym decyzja o możliwym zawieszeniu Tebasa</title>
-        <link>https://www.realmadryt.pl/news/146128-vozpopuli-w-lutym-decyzja-o-mozliwym-zawieszeniu-tebasa</link>
-        <pubDate>Fri, 30 Jan 2026 13:24:00 GMT</pubDate>
-        <description>Decyzja organu dyscyplinarnego w sprawie skargi zmierzającej do zdyskwalifikowania prezesa La Ligi spodziewana jest w lutym.</description>
     </item>
     
 </channel>
