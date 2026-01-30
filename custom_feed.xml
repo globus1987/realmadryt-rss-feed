@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Jan 2026 19:37:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 19:59:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Castilla znów gubi punkty</title>
+        <link>https://www.realmadryt.pl/news/146150-castilla-znow-gubi-punkty</link>
+        <pubDate>Fri, 30 Jan 2026 20:59:00 GMT</pubDate>
+        <description>W 22. kolejce Primera Federación Castilla zremisował z rezerwami Osasuny. Z tego wyniku Królewscy nie mogą być zadowoleni, bo przez ponad połowę spotkania grali z przewagą zawodnika. Debiut w drugiej drużynie zaliczył Arnu.</description>
+    </item>
     
     <item>
         <title>Dlaczego pierwszy kontakt z piłką decyduje o jakości całej akcji?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146135-w-1-16-finalu-ligi-mistrzow-z-benfica</link>
         <pubDate>Fri, 30 Jan 2026 11:50:00 GMT</pubDate>
         <description>Królewscy poznali dzisiaj najbliższego rywala w Lidze Mistrzów. Oba spotkania 1/16 finału Champions League zostaną rozegrane w lutym.</description>
-    </item>
-    
-    <item>
-        <title>„Stare duchy, te same przywary, zmienia się jeden trener za drugim, ale piłkarze wciąż pokazują te same symptomy”</title>
-        <link>https://www.realmadryt.pl/news/146136-stare-duchy-te-same-przywary-zmienia-sie-jeden-trener-za-drugim-ale-pilkarze-wciaz-pokazuja-te-same-symptomy</link>
-        <pubDate>Fri, 30 Jan 2026 11:10:00 GMT</pubDate>
-        <description>Znany hiszpański dziennikarz, Manu Carreño, który wielokrotnie przekazywał sprawdzone informacje na temat Realu Madryt, na łamach Cadena SER podzielił się swoją opinią na temat obecnej sytuacji w klubie.</description>
     </item>
     
 </channel>
