@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Jan 2026 11:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 13:13:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/146139-dzisiejszy-trening</link>
+        <pubDate>Fri, 30 Jan 2026 13:57:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do środowego meczu z Rayo Vallecano.</description>
+    </item>
+    
+    <item>
+        <title>Vozpópuli: W lutym decyzja o możliwym zawieszeniu Tebasa</title>
+        <link>https://www.realmadryt.pl/news/146128-vozpopuli-w-lutym-decyzja-o-mozliwym-zawieszeniu-tebasa</link>
+        <pubDate>Fri, 30 Jan 2026 13:24:00 GMT</pubDate>
+        <description>Decyzja organu dyscyplinarnego w sprawie skargi zmierzającej do zdyskwalifikowania prezesa La Ligi spodziewana jest w lutym.</description>
+    </item>
     
     <item>
         <title>Pedja: Mbappé jest wybitnym piłkarzem, ale nie jest liderem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146133-real-po-raz-pierwszy-przyznal-ze-plan-odnowy-srodka-pola-sie-nie-powiodl</link>
         <pubDate>Fri, 30 Jan 2026 05:30:00 GMT</pubDate>
         <description>Antón Meana przekazał informacje od swoich źródeł w klubie. Przedstawiamy wypowiedzi dziennikarza radia SER, który zajmuje się głównie Realem Madryt i hiszpańską reprezentacją.</description>
-    </item>
-    
-    <item>
-        <title>AS: Real Madryt nie dokona zimą żadnego transferu</title>
-        <link>https://www.realmadryt.pl/news/146134-as-real-madryt-nie-dokona-zima-zadnego-transferu</link>
-        <pubDate>Fri, 30 Jan 2026 03:24:00 GMT</pubDate>
-        <description>Ostatni raz Królewscy działali zimą aż 7 lat temu. Teraz nie ruszyli na rynek pomimo wielkiej krytyki i zmiany trenera.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146130-dzisiejsze-okladki</link>
-        <pubDate>Fri, 30 Jan 2026 00:16:00 GMT</pubDate>
-        <description>Losowanie play-offów Ligi Mistrzów i wywiad z Joanem Garcíą to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
