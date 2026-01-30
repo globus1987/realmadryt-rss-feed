@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 30 Jan 2026 08:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 09:49:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 30 stycznia</title>
+        <link>https://www.realmadryt.pl/news/146131-kartka-z-kalendarza-30-stycznia</link>
+        <pubDate>Fri, 30 Jan 2026 10:30:00 GMT</pubDate>
+        <description>Urodziny dwóch wychowanków, piętka Gutiego i fantastyczny pierwszy Klasyk w wykonaniu Varane'a. Co działo się 30 stycznia?</description>
+    </item>
+    
+    <item>
+        <title>Do trzech razy sztuka?</title>
+        <link>https://www.realmadryt.pl/news/146129-do-trzech-razy-sztuka</link>
+        <pubDate>Fri, 30 Jan 2026 10:00:00 GMT</pubDate>
+        <description>W 22. kolejce Primera Federación Castilla zmierzy się z drugą drużyną Osasuny. Będzie to trzecie spotkanie pod wodzą Juliána Lópeza de Lermy, który ciągle czeka na debiutanckie zwycięstwo.</description>
+    </item>
     
     <item>
         <title>Nowa Liga Mistrzów nie leży Realowi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146122-jak-mourinho-ogral-arbeloe</link>
         <pubDate>Thu, 29 Jan 2026 19:19:00 GMT</pubDate>
         <description>Zespół Portugalczyka nie musiał być częściej przy piłce, by być groźniejszym od rywala.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé sam nie da rady</title>
-        <link>https://www.realmadryt.pl/news/146121-mbappe-sam-nie-da-rady</link>
-        <pubDate>Thu, 29 Jan 2026 17:51:00 GMT</pubDate>
-        <description>Dwa przebłyski geniuszu Kyliana nie zdołały zapobiec katastrofie Królewskich w Lizbonie. Francuz zdobył 49,3% bramek Realu Madryt w tym sezonie. Cristiano nigdy nie miał odsetka wyższego niż 37,6%.</description>
-    </item>
-    
-    <item>
-        <title>Szczegóły piątkowego losowania play-offów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/146120-szczegoly-piatkowego-losowania-play-offow-ligi-mistrzow</link>
-        <pubDate>Thu, 29 Jan 2026 16:55:00 GMT</pubDate>
-        <description>UEFA przedstawiła szczegóły piątkowego losowania play-offów Ligi Mistrzów. Przedstawiamy ściągawkę Federacji.</description>
     </item>
     
 </channel>
