@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 29 Jan 2026 23:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 02:48:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Real Madryt nie dokona zimą żadnego transferu</title>
+        <link>https://www.realmadryt.pl/news/146134-as-real-madryt-nie-dokona-zima-zadnego-transferu</link>
+        <pubDate>Fri, 30 Jan 2026 03:24:00 GMT</pubDate>
+        <description>Ostatni raz Królewscy działali zimą aż 7 lat temu. Teraz nie ruszyli na rynek pomimo wielkiej krytyki i zmiany trenera.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146115-obraz-marazmu-realu</link>
         <pubDate>Thu, 29 Jan 2026 11:54:00 GMT</pubDate>
         <description>Real Madryt zagrał w rosyjską ruletkę przy akcji bramkowej Trubina… z trzema piłkarzami, którzy nie bronili i dwoma, którzy nikogo nie kryli.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 24. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146114-terminarz-24-kolejki-la-ligi</link>
-        <pubDate>Thu, 29 Jan 2026 11:44:00 GMT</pubDate>
-        <description>La Liga przedstawiła dokładny harmonogram 24. kolejki tego sezonu, w której Królewscy podejmą Real Sociedad.</description>
     </item>
     
 </channel>
