@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Jan 2026 19:27:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 19:45:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>Barcelona gra z Elche [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/146171-barcelona-gra-z-elche-na-zywo</link>
+        <pubDate>Sat, 31 Jan 2026 20:30:00 GMT</pubDate>
+        <description>Barcelona mierzy się na wyjeździe z Elche. Jeśli wygra, powiększy przewagę nad Realem Madryt do czterech punktów.</description>
+    </item>
     
     <item>
         <title>Mourinho: To, co zrobił Courtois, było nie z tego świata</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146157-kwestia-oczekiwan</link>
         <pubDate>Sat, 31 Jan 2026 10:45:00 GMT</pubDate>
         <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat postawy kibiców na stadionie.</description>
-    </item>
-    
-    <item>
-        <title>Sytuacja Ceballosa jest coraz gorsza</title>
-        <link>https://www.realmadryt.pl/news/146165-sytuacja-ceballosa-jest-coraz-gorsza</link>
-        <pubDate>Sat, 31 Jan 2026 10:32:00 GMT</pubDate>
-        <description>Pomocnik, przyzwyczajony do zaczynania od zera z każdym trenerem, po przyjściu Arbeloi jeszcze stracił na znaczeniu.</description>
     </item>
     
 </channel>
