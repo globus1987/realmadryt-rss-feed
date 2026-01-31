@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Jan 2026 23:32:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 23:56:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146178-dzisiejsze-okladki</link>
+        <pubDate>Sun, 01 Feb 2026 00:47:00 GMT</pubDate>
+        <description>Mecz Realu, wygrana Barcelony i finał Australian Open to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Rayo Vallecano: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146159-ruediger-i-trent-trenowali-z-druzyna</link>
         <pubDate>Sat, 31 Jan 2026 12:51:00 GMT</pubDate>
         <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do niedzielnego meczu z Rayo Vallecano.</description>
-    </item>
-    
-    <item>
-        <title>Iñigo Pérez: To niebezpieczne, gdy Real Madryt przegrywa swój poprzedni mecz</title>
-        <link>https://www.realmadryt.pl/news/146166-inigo-perez-to-niebezpieczne-gdy-real-madryt-przegrywa-swoj-poprzedni-mecz</link>
-        <pubDate>Sat, 31 Jan 2026 12:10:00 GMT</pubDate>
-        <description>Trener Rayo Vallecano, Iñigo Pérez, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 22. kolejki La Ligi. Poniżej przedstawiamy zapis wypowiedzi nawarskiego szkoleniowca.</description>
     </item>
     
 </channel>
