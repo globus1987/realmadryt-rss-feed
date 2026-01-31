@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Jan 2026 04:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 05:23:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>L’Équipe: Mbappé czuje się coraz bardziej osamotniony</title>
+        <link>https://www.realmadryt.pl/news/146153-l-equipe-mbappe-czuje-sie-coraz-bardziej-osamotniony</link>
+        <pubDate>Sat, 31 Jan 2026 05:30:00 GMT</pubDate>
+        <description>Francuzi pochylili się przed zaskakująco mocnymi wypowiedziami napastnika po przegranym meczu z Benficą.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146140-butragueno-naszym-celem-jest-awans-do-1-8-finalu</link>
         <pubDate>Fri, 30 Jan 2026 16:41:00 GMT</pubDate>
         <description>Emilio Butragueño, dyrektor ds. Relacji Instytucjonalnych Realu Madryt, udzielił wywiadu dla klubowej telewizji po losowaniu baraży o awans do 1/8 finału Ligi Mistrzów. Przedstawiamy przemyślenia popularnego Sępa.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/146139-dzisiejszy-trening</link>
-        <pubDate>Fri, 30 Jan 2026 13:57:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie rozpoczęli przygotowania do środowego meczu z Rayo Vallecano.</description>
     </item>
     
 </channel>
