@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Jan 2026 09:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 09:59:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kwestia oczekiwań</title>
+        <link>https://www.realmadryt.pl/news/146157-kwestia-oczekiwan</link>
+        <pubDate>Sat, 31 Jan 2026 10:45:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat postawy kibiców na stadionie.</description>
+    </item>
     
     <item>
         <title>Sytuacja Ceballosa jest coraz gorsza</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146152-endrick-moja-pozycja-to-nie-prawa-strona-a-koszulka-numer-9</link>
         <pubDate>Fri, 30 Jan 2026 21:50:00 GMT</pubDate>
         <description>Endrick udzielił wywiadu L’Équipe. Przedstawiamy najważniejsze wypowiedzi Brazylijczyka z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Real Madryt nie otrzyma dostępu do informacji finansowych Barcelony</title>
-        <link>https://www.realmadryt.pl/news/146151-oficjalnie-real-madryt-nie-otrzyma-dostepu-do-informacji-finansowych-barcelony</link>
-        <pubDate>Fri, 30 Jan 2026 21:22:00 GMT</pubDate>
-        <description>Katalońskie media podają, że sędzia śledcza prowadząca Sprawę Negreiry odrzuciła ostatni wniosek Realu Madryt, który zażądał udostępnienia przez Barcelonę serii informacji finansowych, w tym audytów i budżetów na określone sezony.</description>
     </item>
     
 </channel>
