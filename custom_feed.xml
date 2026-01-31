@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Jan 2026 06:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 06:58:58 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Wracamy do gwizdania?</title>
+        <link>https://www.realmadryt.pl/news/146155-glos-kibica-wracamy-do-gwizdania</link>
+        <pubDate>Sat, 31 Jan 2026 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Dziennikarz przypomina, jak Mourinho zamknął go na „rozmowę wychowawczą” na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146142-dwoch-niezawodnych</link>
         <pubDate>Fri, 30 Jan 2026 17:09:00 GMT</pubDate>
         <description>Kylian i Thibaut pozostają jedynymi nadziejami Realu, w którym panuje nerwowa atmosfera. Francuz nie zwalnia tempa i ma już 36 bramek w tym sezonie. Belg obronił siedem strzałów w Lizbonie, a jeszcze więcej na Anfield.</description>
-    </item>
-    
-    <item>
-        <title>Dokładny terminarz 1/16 finału Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/146141-dokladny-terminarz-1-16-finalu-ligi-mistrzow</link>
-        <pubDate>Fri, 30 Jan 2026 17:06:00 GMT</pubDate>
-        <description>UEFA oficjalnie potwierdziła terminy spotkań 1/16 finału Ligi Mistrzów. Na dzień meczowy przypadają cztery spotkania, a trzy z nich rozpoczną się o tej samej porze.</description>
     </item>
     
 </channel>
