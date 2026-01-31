@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 31 Jan 2026 09:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 09:44:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sytuacja Ceballosa jest coraz gorsza</title>
+        <link>https://www.realmadryt.pl/news/146165-sytuacja-ceballosa-jest-coraz-gorsza</link>
+        <pubDate>Sat, 31 Jan 2026 10:32:00 GMT</pubDate>
+        <description>Pomocnik, przyzwyczajony do zaczynania od zera z każdym trenerem, po przyjściu Arbeloi jeszcze stracił na znaczeniu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 31 stycznia</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146151-oficjalnie-real-madryt-nie-otrzyma-dostepu-do-informacji-finansowych-barcelony</link>
         <pubDate>Fri, 30 Jan 2026 21:22:00 GMT</pubDate>
         <description>Katalońskie media podają, że sędzia śledcza prowadząca Sprawę Negreiry odrzuciła ostatni wniosek Realu Madryt, który zażądał udostępnienia przez Barcelonę serii informacji finansowych, w tym audytów i budżetów na określone sezony.</description>
-    </item>
-    
-    <item>
-        <title>Castilla znów gubi punkty</title>
-        <link>https://www.realmadryt.pl/news/146150-castilla-znow-gubi-punkty</link>
-        <pubDate>Fri, 30 Jan 2026 20:59:00 GMT</pubDate>
-        <description>W 22. kolejce Primera Federación Castilla zremisował z rezerwami Osasuny. Z tego wyniku Królewscy nie mogą być zadowoleni, bo przez ponad połowę spotkania grali z przewagą zawodnika. Debiut w drugiej drużynie zaliczył Arnu.</description>
     </item>
     
 </channel>
