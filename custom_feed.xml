@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 18:54:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 19:31:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Nie jestem Gandalfem Białym</title>
+        <link>https://www.realmadryt.pl/news/146197-arbeloa-nie-jestem-gandalfem-bialym</link>
+        <pubDate>Sun, 01 Feb 2026 20:00:00 GMT</pubDate>
+        <description>Álvaro Arbeloa wziął udział w konferencji prasowej po wygranym 2:1 meczu z Rayo. Przedstawiamy zapis tego spotkania z dziennikarzami z trenerem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Pep Chavarría: Dziś to jeden z najsmutniejszych dni, kiedy schodzę z boiska</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146190-ocen-pilkarzy-po-meczu-z-rayo</link>
         <pubDate>Sun, 01 Feb 2026 16:10:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Bellingham zszedł z boiska z kontuzją uda</title>
-        <link>https://www.realmadryt.pl/news/146189-bellingham-zszedl-z-boiska-z-kontuzja-uda</link>
-        <pubDate>Sun, 01 Feb 2026 14:18:00 GMT</pubDate>
-        <description>Anglika może czekać kilkutygodniowa przerwa w grze.</description>
     </item>
     
 </channel>
