@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 05:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:08:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Real zaczyna planować sezon 2026/27</title>
+        <link>https://www.realmadryt.pl/news/146177-as-real-zaczyna-planowac-sezon-2026-27</link>
+        <pubDate>Sun, 01 Feb 2026 06:51:00 GMT</pubDate>
+        <description>Działacze i trenerzy są zgodni, że potrzebne są pewne zmiany, choć unikają słowa „czystka”.</description>
+    </item>
     
     <item>
         <title>Wymagania nie są wygórowane</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146149-el-confidencial-wszczeto-postepowanie-upadlosciowe-wobec-zarzadcy-sky-baru</link>
         <pubDate>Sat, 31 Jan 2026 14:04:00 GMT</pubDate>
         <description>Loża SuperVIP na Santiago Bernabéu pozostaje zamknięta i nie ma informacji o jej otwarciu. Zamiast tego otrzymaliśmy informację o kolejnych problemach zarządcy tego lokalu.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Oczekuję, że Bernabéu będzie jutro z drużyną</title>
-        <link>https://www.realmadryt.pl/news/146160-arbeloa-oczekuje-ze-bernabeu-bedzie-jutro-z-druzyna</link>
-        <pubDate>Sat, 31 Jan 2026 13:13:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Rayo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
