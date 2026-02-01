@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 23:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 23:58:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146208-dzisiejsze-okladki</link>
+        <pubDate>Mon, 02 Feb 2026 00:37:00 GMT</pubDate>
+        <description>Wygrana Alcaraza w Australian Open i triumf Realu z Rayo to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Nie mogę oczekiwać więcej od drużyny w takim meczu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146193-real-madryt-2-1-rayo-vallecano-video</link>
         <pubDate>Sun, 01 Feb 2026 16:35:00 GMT</pubDate>
         <description>W meczu 22. kolejki La Ligi Real Madryt wygrał z Rayo Vallecano 2:1 po golach Viníciusa Júniora i Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>De Frutos MVP meczu Realu z Rayo</title>
-        <link>https://www.realmadryt.pl/news/146192-de-frutos-mvp-meczu-realu-z-rayo</link>
-        <pubDate>Sun, 01 Feb 2026 16:27:00 GMT</pubDate>
-        <description>Jorge de Frutos został wyróżniony po meczu Realu Madryt z Rayo.</description>
     </item>
     
 </channel>
