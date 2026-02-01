@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 08:41:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 09:15:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 lutego</title>
+        <link>https://www.realmadryt.pl/news/146176-kartka-z-kalendarza-1-lutego</link>
+        <pubDate>Sun, 01 Feb 2026 10:00:00 GMT</pubDate>
+        <description>Urodziny byłych zawodników oraz zwycięstwa z Realem Valladolid i Atlético Madryt. Co działo się 1 lutego?</description>
+    </item>
     
     <item>
         <title>30 lat od jedynego zwycięstwa Rayo na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146162-zachwianie-mastantuono</link>
         <pubDate>Sat, 31 Jan 2026 16:40:00 GMT</pubDate>
         <description>Franco Mastantuono po dwóch dobrych występach z Levante i Villarrealem zanotował fatalne zawody w Lizbonie. Argentyńczyk w dalszym ciągu nie potrafi odnaleźć regularności i stabilizacji swojej formy.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Cieszę się, że sędzia zatrzasnął Realowi drzwi przed nosem</title>
-        <link>https://www.realmadryt.pl/news/146169-laporta-ciesze-sie-ze-sedzia-zatrzasnal-realowi-drzwi-przed-nosem</link>
-        <pubDate>Sat, 31 Jan 2026 15:49:00 GMT</pubDate>
-        <description>Joan Laporta zabrał głos po obiedzie władz klubowych przed meczem z Elche. Prezes Barcelony wypowiedział się o spotkaniu, ale wysłał też sygnał po postanowieniu sędziego prowadzącego sprawę Negreiry, w którym odrzucono wniosek złożony przez Real Madryt dotyczący zbadania wszystkich audytów oraz raportów Barcelony z lat 2003–2021.</description>
     </item>
     
 </channel>
