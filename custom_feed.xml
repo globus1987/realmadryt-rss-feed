@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 11:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 11:35:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Rayo Vallecano: Znamy składy!</title>
+        <link>https://www.realmadryt.pl/news/146185-real-madryt-rayo-vallecano-znamy-sklady</link>
+        <pubDate>Sun, 01 Feb 2026 12:27:00 GMT</pubDate>
+        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Rayo. Spotkanie rozpocznie się o 14:00 na Santiago Bernabéu.</description>
+    </item>
+    
+    <item>
+        <title>NBA konsultuje z Dončiciem stworzenie nowej ligi</title>
+        <link>https://www.realmadryt.pl/news/146186-nba-konsultuje-z-donciciem-stworzenie-nowej-ligi</link>
+        <pubDate>Sun, 01 Feb 2026 12:15:00 GMT</pubDate>
+        <description>Luka Dončić pełni rolę konsultanta dla NBA w projekcie stworzenia nowej ligi w Europie. Na razie ciągle istnieje wiele niewiadomych, co jest bezpośrednio związane z przyszłością koszykarskiego Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Vinícius i Mastantuono muszą uważać</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146177-as-real-zaczyna-planowac-sezon-2026-27</link>
         <pubDate>Sun, 01 Feb 2026 06:51:00 GMT</pubDate>
         <description>Działacze i trenerzy są zgodni, że potrzebne są pewne zmiany, choć unikają słowa „czystka”.</description>
-    </item>
-    
-    <item>
-        <title>Wymagania nie są wygórowane</title>
-        <link>https://www.realmadryt.pl/news/146174-wymagania-nie-sa-wygorowane</link>
-        <pubDate>Sun, 01 Feb 2026 06:00:00 GMT</pubDate>
-        <description>O 14:00 Real Madryt rozpocznie potyczkę z Rayo Vallecano.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146178-dzisiejsze-okladki</link>
-        <pubDate>Sun, 01 Feb 2026 00:47:00 GMT</pubDate>
-        <description>Mecz Realu, wygrana Barcelony i finał Australian Open to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
