@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 06:08:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 07:06:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy Arbeloa powinien publicznie krytykować piłkarzy?</title>
+        <link>https://www.realmadryt.pl/news/146175-glos-kibica-czy-arbeloa-powinien-publicznie-krytykowac-pilkarzy</link>
+        <pubDate>Sun, 01 Feb 2026 07:42:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>AS: Real zaczyna planować sezon 2026/27</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146167-kadra-na-rayo</link>
         <pubDate>Sat, 31 Jan 2026 14:21:00 GMT</pubDate>
         <description>Álvaro Arbeloa nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas ligowego spotkania z Rayo Vallecano. Hiszpan powołał 21 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>El Confidencial: Wszczęto postępowanie upadłościowe wobec zarządcy Sky Baru</title>
-        <link>https://www.realmadryt.pl/news/146149-el-confidencial-wszczeto-postepowanie-upadlosciowe-wobec-zarzadcy-sky-baru</link>
-        <pubDate>Sat, 31 Jan 2026 14:04:00 GMT</pubDate>
-        <description>Loża SuperVIP na Santiago Bernabéu pozostaje zamknięta i nie ma informacji o jej otwarciu. Zamiast tego otrzymaliśmy informację o kolejnych problemach zarządcy tego lokalu.</description>
     </item>
     
 </channel>
