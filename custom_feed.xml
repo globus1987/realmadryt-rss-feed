@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Feb 2026 03:23:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 05:12:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wymagania nie są wygórowane</title>
+        <link>https://www.realmadryt.pl/news/146174-wymagania-nie-sa-wygorowane</link>
+        <pubDate>Sun, 01 Feb 2026 06:00:00 GMT</pubDate>
+        <description>O 14:00 Real Madryt rozpocznie potyczkę z Rayo Vallecano.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146160-arbeloa-oczekuje-ze-bernabeu-bedzie-jutro-z-druzyna</link>
         <pubDate>Sat, 31 Jan 2026 13:13:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Rayo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Rüdiger i Trent trenowali z drużyną</title>
-        <link>https://www.realmadryt.pl/news/146159-ruediger-i-trent-trenowali-z-druzyna</link>
-        <pubDate>Sat, 31 Jan 2026 12:51:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt pojawili się dzisiaj w Valdebebas, gdzie zakończyli przygotowania do niedzielnego meczu z Rayo Vallecano.</description>
     </item>
     
 </channel>
