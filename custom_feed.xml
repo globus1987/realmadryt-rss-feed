@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Feb 2026 06:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 07:30:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Rzut karny na Brahimie</title>
+        <link>https://www.realmadryt.pl/news/146207-glos-kibica-rzut-karny-na-brahimie</link>
+        <pubDate>Mon, 02 Feb 2026 08:18:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>A Bola: Cristiano Ronaldo bojkotuje dzisiejszy mecz Al-Nassr</title>
+        <link>https://www.realmadryt.pl/news/146210-a-bola-cristiano-ronaldo-bojkotuje-dzisiejszy-mecz-al-nassr</link>
+        <pubDate>Mon, 02 Feb 2026 08:03:00 GMT</pubDate>
+        <description>Portugalczyk nie pojawi się na boisku.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Rayo</title>
+        <link>https://www.realmadryt.pl/news/146205-oceny-zawodnikow-po-meczu-z-rayo</link>
+        <pubDate>Mon, 02 Feb 2026 07:25:00 GMT</pubDate>
+        <description>Real Madryt wygrał w La Lidze z Rayo Vallecano 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Pathé Ciss zmienia zdanie i przeprasza Ceballosa: „Przyznaję, że to była czerwona kartka”</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/146198-niewykorzystany-rzut-karny-nico-paza-w-98-minucie-video</link>
         <pubDate>Sun, 01 Feb 2026 17:40:00 GMT</pubDate>
         <description>W meczu 23. kolejki Serie A Como bezbramkowo zremisowało z Atalantą 0:0. Gospodarze mogą być rozczarowani, bo stworzyli mnóstwo sytuacji, a w doliczonym czasie gry nie wykorzystali rzutu karnego.</description>
-    </item>
-    
-    <item>
-        <title>L’Équipe: Benzema może odejść do Al-Hilal</title>
-        <link>https://www.realmadryt.pl/news/146196-l-equipe-benzema-moze-odejsc-do-al-hilal</link>
-        <pubDate>Sun, 01 Feb 2026 17:15:00 GMT</pubDate>
-        <description>Karim zamieni jeden arabski klub na drugi?</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: To wygrana, w którą włożyliśmy dużo serca i ducha</title>
-        <link>https://www.realmadryt.pl/news/146195-arbeloa-to-wygrana-w-ktora-wlozylismy-duzo-serca-i-ducha</link>
-        <pubDate>Sun, 01 Feb 2026 16:57:00 GMT</pubDate>
-        <description>Álvaro Arbeloa udzielił wywiadu klubowej telewizji po wygranym 2:1 meczu z Rayo na Santiago Bernabéu. Przedstawiamy wypowiedzi szkoleniowca Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Fede: Myślę, że rozegraliśmy wielki mecz</title>
-        <link>https://www.realmadryt.pl/news/146194-fede-mysle-ze-rozegralismy-wielki-mecz</link>
-        <pubDate>Sun, 01 Feb 2026 16:38:00 GMT</pubDate>
-        <description>Fede Valverde udzielił wywiadu z murawy dla klubowej telewizji po wygranym 2:1 meczy z Rayo. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
     </item>
     
 </channel>
