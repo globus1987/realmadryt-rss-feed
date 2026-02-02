@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Feb 2026 03:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 05:09:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pathé Ciss zmienia zdanie i przeprasza Ceballosa: „Przyznaję, że to była czerwona kartka”</title>
+        <link>https://www.realmadryt.pl/news/146206-pathe-ciss-zmienia-zdanie-i-przeprasza-ceballosa-przyznaje-ze-to-byla-czerwona-kartka</link>
+        <pubDate>Mon, 02 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Po meczu piłkarz Rayo nie był przekonany, że sędzia podjął dobrą decyzję, ale w domu nie miał już wątpliwości.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146194-fede-mysle-ze-rozegralismy-wielki-mecz</link>
         <pubDate>Sun, 01 Feb 2026 16:38:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu z murawy dla klubowej telewizji po wygranym 2:1 meczy z Rayo. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 2:1 Rayo Vallecano [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146193-real-madryt-2-1-rayo-vallecano-video</link>
-        <pubDate>Sun, 01 Feb 2026 16:35:00 GMT</pubDate>
-        <description>W meczu 22. kolejki La Ligi Real Madryt wygrał z Rayo Vallecano 2:1 po golach Viníciusa Júniora i Kyliana Mbappé.</description>
     </item>
     
 </channel>
