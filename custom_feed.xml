@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Feb 2026 16:34:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 17:38:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kapitan na trudne czasy</title>
+        <link>https://www.realmadryt.pl/news/146244-kapitan-na-trudne-czasy</link>
+        <pubDate>Tue, 03 Feb 2026 18:04:00 GMT</pubDate>
+        <description>Urugwajczyk podejmie wyzwanie, jakim będzie przywrócenie drużyny do łask kibiców.</description>
+    </item>
+    
+    <item>
+        <title>MARCA: Ramos może wrócić do Sevilli… jako piłkarz</title>
+        <link>https://www.realmadryt.pl/news/146243-marca-ramos-moze-wrocic-do-sevilli-jako-pilkarz</link>
+        <pubDate>Tue, 03 Feb 2026 17:35:00 GMT</pubDate>
+        <description>Hiszpan raz jeszcze zagra na Estadio Ramón Sánchez Pizjuán?</description>
+    </item>
     
     <item>
         <title>Laporta: Wygląda to tak, jakby sprzyjano klubowi, który ma telewizję zajmującą się opowiadaniem rzeczy nie na miejscu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146233-pichichi-zamora-asistencias</link>
         <pubDate>Tue, 03 Feb 2026 08:18:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 22. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Największa legenda XXI wieku</title>
-        <link>https://www.realmadryt.pl/news/146234-glos-kibica-najwieksza-legenda-xxi-wieku</link>
-        <pubDate>Tue, 03 Feb 2026 07:25:00 GMT</pubDate>
-        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>SER: Real Madryt czeka na gest Vitinhi, by wykonać pierwszy krok</title>
-        <link>https://www.realmadryt.pl/news/146235-ser-real-madryt-czeka-na-gest-vitinhi-by-wykonac-pierwszy-krok</link>
-        <pubDate>Tue, 03 Feb 2026 05:30:00 GMT</pubDate>
-        <description>Piłkarz ma możliwość odejścia dzięki prywatnej klauzuli w umowie z Paris Saint-Germain, ale to Portugalczyk musi poinformować, że jest klub zainteresowany jego pozyskaniem.</description>
     </item>
     
 </channel>
