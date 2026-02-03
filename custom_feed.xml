@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Feb 2026 07:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 07:56:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/146233-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 03 Feb 2026 08:18:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 22. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Największa legenda XXI wieku</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146222-vinicius-jest-nietykalny</link>
         <pubDate>Mon, 02 Feb 2026 17:41:00 GMT</pubDate>
         <description>Álvaro Arbeloa prowadził Królewskich już w sześciu meczach i w każdym z nich Vinícius rozegrał komplet minut. Atakujący jest nietykalny dla nowego szkoleniowca, ale nie wystąpi na Mestalli z powodu zawieszenia za kartki.</description>
-    </item>
-    
-    <item>
-        <title>The Telegraph: Xabi Alonso jednym z kandydatów do zastąpienia Guardioli w City</title>
-        <link>https://www.realmadryt.pl/news/146221-the-telegraph-xabi-alonso-jednym-z-kandydatow-do-zastapienia-guardioli-w-city</link>
-        <pubDate>Mon, 02 Feb 2026 16:44:00 GMT</pubDate>
-        <description>Pep może odejść po tym sezonie, a Bask jest jednym z głównych faworytów, by zająć jego stanowisko.</description>
     </item>
     
 </channel>
