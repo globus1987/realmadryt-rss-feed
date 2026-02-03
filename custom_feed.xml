@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Feb 2026 14:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 15:33:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Laporta: Wygląda to tak, jakby sprzyjano klubowi, który ma telewizję zajmującą się opowiadaniem rzeczy nie na miejscu</title>
+        <link>https://www.realmadryt.pl/news/146242-laporta-wyglada-to-tak-jakby-sprzyjano-klubowi-ktory-ma-telewizje-zajmujaca-sie-opowiadaniem-rzeczy-nie-na-miejscu</link>
+        <pubDate>Tue, 03 Feb 2026 16:07:00 GMT</pubDate>
+        <description>Przed oficjalnym obiadem działaczy Albacete i Barcelony prezes klubu z Katalonii zatrzymał się przy dziennikarzach. Został zapytany o bieżące sprawy sędziowskie, ze szczególnym naciskiem na rzuty karne podyktowane dla Realu Madryt oraz debatę o możliwych naciskach na arbitrów.</description>
+    </item>
     
     <item>
         <title>Dwa życia Courtois</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146235-ser-real-madryt-czeka-na-gest-vitinhi-by-wykonac-pierwszy-krok</link>
         <pubDate>Tue, 03 Feb 2026 05:30:00 GMT</pubDate>
         <description>Piłkarz ma możliwość odejścia dzięki prywatnej klauzuli w umowie z Paris Saint-Germain, ale to Portugalczyk musi poinformować, że jest klub zainteresowany jego pozyskaniem.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146236-dzisiejsze-okladki</link>
-        <pubDate>Tue, 03 Feb 2026 00:46:00 GMT</pubDate>
-        <description>Słowa Alcaraza i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
