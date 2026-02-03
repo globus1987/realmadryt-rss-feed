@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Feb 2026 12:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 13:36:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwa życia Courtois</title>
+        <link>https://www.realmadryt.pl/news/146241-dwa-zycia-courtois</link>
+        <pubDate>Tue, 03 Feb 2026 14:21:00 GMT</pubDate>
+        <description>Santiago Siguero z Marki zauważa, że belgijski bramkarz Realu Madryt ma średnio ponad dwa razy więcej pracy w Lidze Mistrzów niż w Primera División.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: Wszystkie wyjazdowe mecze są trudne, a to należy do tych najtrudniejszych</title>
+        <link>https://www.realmadryt.pl/news/146229-scariolo-wszystkie-wyjazdowe-mecze-sa-trudne-a-to-nalezy-do-tych-najtrudniejszych</link>
+        <pubDate>Tue, 03 Feb 2026 13:20:00 GMT</pubDate>
+        <description>Sergio Scariolo wziął udział w konferencji prasowej przed meczem z Panathinaikosem. Potwierdził, że Deck został w Madrycie. Mówił również, że kluczowa będzie obrona strefy podkoszowej.</description>
+    </item>
     
     <item>
         <title>Trudny wyjazd do Aten</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146236-dzisiejsze-okladki</link>
         <pubDate>Tue, 03 Feb 2026 00:46:00 GMT</pubDate>
         <description>Słowa Alcaraza i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Real nie kupił nikogo w zimowym okienku transferowym</title>
-        <link>https://www.realmadryt.pl/news/146232-real-nie-kupil-nikogo-w-zimowym-okienku-transferowym</link>
-        <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-        <description>Bez niespodzianek.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Karim Benzema piłkarzem Al-Hilal</title>
-        <link>https://www.realmadryt.pl/news/146230-oficjalnie-karim-benzema-pilkarzem-al-hilal</link>
-        <pubDate>Mon, 02 Feb 2026 22:21:00 GMT</pubDate>
-        <description>Legenda Realu zmieniła klub.</description>
     </item>
     
 </channel>
