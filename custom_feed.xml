@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Feb 2026 23:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 23:44:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146280-dzisiejsze-okladki</link>
+        <pubDate>Thu, 05 Feb 2026 00:21:00 GMT</pubDate>
+        <description>Powrót Trenta w Realu Madryt i pochwały dla Lamine'a Yamala to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Endrick z kolejnym golem we Francji [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146264-vinicius-do-kibicow-juz-wystarczy-jestesmy-w-grze-video</link>
         <pubDate>Wed, 04 Feb 2026 17:09:00 GMT</pubDate>
         <description>Program El Día Después w telewizji Movistar+ pokazał kulisy meczu Realu Madryt z Rayo Vallecano. Przedstawiamy ich pełne tłumaczenie.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy trenowali dziś w maskach</title>
-        <link>https://www.realmadryt.pl/news/146263-krolewscy-trenowali-dzis-w-maskach</link>
-        <pubDate>Wed, 04 Feb 2026 14:54:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do niedzielnego spotkania z Valencią. Razem z drużyną nie trenowało trzech zawodników.</description>
     </item>
     
 </channel>
