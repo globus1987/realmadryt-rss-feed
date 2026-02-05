@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Feb 2026 18:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 19:07:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trzecia wyjazdowa porażka z rzędu</title>
+        <link>https://www.realmadryt.pl/news/146296-trzecia-wyjazdowa-porazka-z-rzedu</link>
+        <pubDate>Thu, 05 Feb 2026 19:23:00 GMT</pubDate>
+        <description>W 27. kolejce Euroligi Real Madryt przegrał z Dubajem. Królewscy prezentowali się dobrze w pierwszej połowie i przez część trzeciej kwarty, jednak później roztrwonili to, co wypracowali.</description>
+    </item>
     
     <item>
         <title>ABC: Szatnia i część kierownictwa Realu zaczyna już wątpić w kompetencje Arbeloi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146286-11-lat-od-ostatniego-decydujacego-karnego-w-lidze</link>
         <pubDate>Thu, 05 Feb 2026 11:50:00 GMT</pubDate>
         <description>Od bramki Bale'a w meczu z Cordobą w 2015 roku Real Madryt nie wygrał meczu ligowego po wykorzystaniu rzutu karnego po 85. minucie. Najwięcej takich triumfów odniosła zaś Barcelona.</description>
-    </item>
-    
-    <item>
-        <title>Flamengo o przyszłości Viníciusa: „Nie musielibyśmy nic płacić Realowi Madryt”</title>
-        <link>https://www.realmadryt.pl/news/146285-flamengo-o-przyszlosci-viniciusa-nie-musielibysmy-nic-placic-realowi-madryt</link>
-        <pubDate>Thu, 05 Feb 2026 11:31:00 GMT</pubDate>
-        <description>Plotki na temat przyszłości brazylijskiej gwiazdy Królewskich nie ustają.</description>
     </item>
     
 </channel>
