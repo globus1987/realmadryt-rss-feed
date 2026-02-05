@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Feb 2026 09:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 10:03:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Klasyk w ćwierćfinale Pucharu Królowej</title>
+        <link>https://www.realmadryt.pl/news/146284-klasyk-w-cwiercfinale-pucharu-krolowej</link>
+        <pubDate>Thu, 05 Feb 2026 10:40:00 GMT</pubDate>
+        <description>W ćwierćfinale Pucharu Królowej piłkarki Realu Madryt podejmą na Estadio Alfredo Di Stéfano Barcelonę. Początek meczu, który przesądzi o losach awansu, o godzinie 21:00.</description>
+    </item>
     
     <item>
         <title>Wyjazd do Dubaju</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146271-zagramy-bez-zadnych-kompleksow-i-wyjdziemy-po-zwyciestwo</link>
         <pubDate>Wed, 04 Feb 2026 21:09:00 GMT</pubDate>
         <description>Pau Quesada i Maëlle Lakrar udzielili wywiadów dla klubowej telewizji przed czwartkowym meczem ćwierćfinału Pucharu Królowej z Barceloną na Estadio Alfredo Di Stéfano (21:00). Przedstawiamy wypowiedzi trenera i stoperki Realu Madryt przed starciem z Barçą.</description>
-    </item>
-    
-    <item>
-        <title>Cristiano ogłosił, że wrócił do treningów z Al-Nassr</title>
-        <link>https://www.realmadryt.pl/news/146270-cristiano-oglosil-ze-wrocil-do-treningow-z-al-nassr</link>
-        <pubDate>Wed, 04 Feb 2026 20:21:00 GMT</pubDate>
-        <description>Portugalczyk po burzliwym okresie wrócił do treningów. Wydaje się, że jego bunt dobiega końca, chociaż ostateczne potwierdzenie otrzymamy dopiero w piątek.</description>
     </item>
     
 </channel>
