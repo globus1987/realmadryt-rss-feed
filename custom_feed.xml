@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Feb 2026 23:02:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 23:42:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146302-dzisiejsze-okladki</link>
+        <pubDate>Fri, 06 Feb 2026 00:24:00 GMT</pubDate>
+        <description>Wygrana Atlético i plany Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Barcelona rozbiła Królewskie na Di Stéfano</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146289-panstwowy-organ-wystosowal-propozycje-kary-za-rzucenie-bananem-w-viniciusa</link>
         <pubDate>Thu, 05 Feb 2026 14:32:00 GMT</pubDate>
         <description>Władze wystosowały już propozycję kary dla autora rasistowskiego zachowania w trakcie meczu Królewskich z Albacete.</description>
-    </item>
-    
-    <item>
-        <title>Hazard: Powiedziałem Sarriemu, że nie chcę być jak Cristiano</title>
-        <link>https://www.realmadryt.pl/news/146288-hazard-powiedzialem-sarriemu-ze-nie-chce-byc-jak-cristiano</link>
-        <pubDate>Thu, 05 Feb 2026 14:08:00 GMT</pubDate>
-        <description>Eden Hazard przebywa we Włoszech, gdzie promuje swoje wina. Przedstawiamy wypowiedzi byłego piłkarza Realu Madryt z rozmowy z La Gazzettą dello Sport.</description>
     </item>
     
 </channel>
