@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Feb 2026 13:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 14:28:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sekret Endricka</title>
+        <link>https://www.realmadryt.pl/news/146315-sekret-endricka</link>
+        <pubDate>Fri, 06 Feb 2026 14:53:00 GMT</pubDate>
+        <description>Osobisty trener, kucharz, ochroniarz, opieka Roc Nation… Gwiazda żyje wyłącznie dla futbolu.</description>
+    </item>
     
     <item>
         <title>AS: Rodrygo zmaga się z przeciążeniem mięśniowym po testach Pintusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146309-liga-saudyjska-ostrzega-cristiano-w-zwiazku-z-jego-strajkiem</link>
         <pubDate>Fri, 06 Feb 2026 09:18:00 GMT</pubDate>
         <description>„Żadna osoba, niezależnie od tego, jak ważna by była, nie podejmuje decyzji wykraczających poza własny klub”.</description>
-    </item>
-    
-    <item>
-        <title>„Wypychanie Bellinghama okazało się stratą cennego czasu i teraz to się zemściło”</title>
-        <link>https://www.realmadryt.pl/news/146303-wypychanie-bellinghama-okazalo-sie-strata-cennego-czasu-i-teraz-to-sie-zemscilo</link>
-        <pubDate>Fri, 06 Feb 2026 08:40:00 GMT</pubDate>
-        <description>Martin Samuel 13-krotnie zdobywał nagrodę sportowego dziennikarza roku w Anglii. Teraz jest jednym z głównych dziennikarzy The Times i cenionym felietonistą. Przedstawiamy jego tekst o kontuzji Jude'a Bellinghama. Należy podkreślić, że Samuel już wcześniej bardzo krytycznie wypowiadał się o pracy Tuchela w Anglii. Z drugiej strony, coraz więcej głosów w Anglii twierdzi, że Bellingham nie powinien być powołany na mundial.</description>
     </item>
     
 </channel>
