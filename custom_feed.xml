@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Feb 2026 18:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 19:04:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>L'Équipe: Mbappé nasłał komornika na PSG</title>
+        <link>https://www.realmadryt.pl/news/146323-lequipe-mbappe-naslal-komornika-na-psg</link>
+        <pubDate>Fri, 06 Feb 2026 19:19:00 GMT</pubDate>
+        <description>Paris Saint-Germain zostało w piątek odwiedzone przez komornika, który złożył w siedzibie klubu wezwanie do zapłaty kwoty, jaką klub wciąż jest winien Kylianowi Mbappé w ramach sporu trwającego między obiema stronami od momentu odejścia zawodnika jako wolnego gracza latem 2024 roku. W tym przypadku chodzi o kwotę blisko sześciu milionów euro.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Rodrygo Goes kontuzjowany</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146314-radio-marca-ramos-chcial-zagrac-w-sevilli-za-darmo-a-teraz-jest-blisko-marsylii</link>
         <pubDate>Fri, 06 Feb 2026 11:17:00 GMT</pubDate>
         <description>Co dalej z karierą legendy Realu Madryt?</description>
-    </item>
-    
-    <item>
-        <title>Fede wraca do środka</title>
-        <link>https://www.realmadryt.pl/news/146310-fede-wraca-do-srodka</link>
-        <pubDate>Fri, 06 Feb 2026 10:37:00 GMT</pubDate>
-        <description>Eksperymenty dobiegły końca i w niedzielnym starciu z Valencią Fede Valverde ma wrócić do gry w drugiej linii, obok Camavingi i Tchouaméniego.</description>
     </item>
     
 </channel>
