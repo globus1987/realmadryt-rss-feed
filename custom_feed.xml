@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Feb 2026 23:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 23:42:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146329-dzisiejsze-okladki</link>
+        <pubDate>Sat, 07 Feb 2026 00:23:00 GMT</pubDate>
+        <description>Otwarcie zimowych Igrzysk Olimpijskich i nowa umowa Fermína to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>L'Équipe: Mbappé nasłał komornika na PSG</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146313-vinicius-wchodzi-na-wyzsze-obroty-dwa-tygodnie-pracy-nad-forma</link>
         <pubDate>Fri, 06 Feb 2026 12:08:00 GMT</pubDate>
         <description>Brazylijczyk realizuje indywidualny plan, który ma poprawić jego formę fizyczną i odpowiednio przygotować go na pozostałą część sezonu.</description>
-    </item>
-    
-    <item>
-        <title>Radio MARCA: Ramos chciał zagrać w Sevilli za darmo, a teraz jest blisko Marsylii</title>
-        <link>https://www.realmadryt.pl/news/146314-radio-marca-ramos-chcial-zagrac-w-sevilli-za-darmo-a-teraz-jest-blisko-marsylii</link>
-        <pubDate>Fri, 06 Feb 2026 11:17:00 GMT</pubDate>
-        <description>Co dalej z karierą legendy Realu Madryt?</description>
     </item>
     
 </channel>
