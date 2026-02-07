@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Feb 2026 22:47:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 23:37:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146354-dzisiejsze-okladki</link>
+        <pubDate>Sun, 08 Feb 2026 00:19:00 GMT</pubDate>
+        <description>Mistrzostwo Europy Hiszpanii w futsalu i wygrana Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Endrick wyleciał z boiska za bezpośrednią czerwoną kartkę [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146342-oficjalnie-fc-barcelona-wycofuje-sie-z-superligi</link>
         <pubDate>Sat, 07 Feb 2026 12:40:00 GMT</pubDate>
         <description>Real Madryt zostaje sam.</description>
-    </item>
-    
-    <item>
-        <title>Powrót na Mestallę z wątpliwościami</title>
-        <link>https://www.realmadryt.pl/news/146341-powrot-na-mestalle-z-watpliwosciami</link>
-        <pubDate>Sat, 07 Feb 2026 12:39:00 GMT</pubDate>
-        <description>Stoper nie przeżywa najlepszego momentu. Powrót Rüdigera może jeszcze pogorszyć jego sytuację lub też ją poprawić.</description>
     </item>
     
 </channel>
