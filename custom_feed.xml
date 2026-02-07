@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Feb 2026 13:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 13:54:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Javier Alberola Rojas na Valencię</title>
+        <link>https://www.realmadryt.pl/news/146336-javier-alberola-rojas-na-valencie</link>
+        <pubDate>Sat, 07 Feb 2026 14:53:00 GMT</pubDate>
+        <description>Jutrzejszy mecz Realu Madryt z Valencią poprowadzi arbiter pochodzący z Toledo. Dotychczas sędziował siedemnaście spotkań z udziałem Królewskich.</description>
+    </item>
     
     <item>
         <title>Terminarz 26. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146327-co-obejrzec-w-weekend-poza-meczem-realu-madryt</link>
         <pubDate>Sat, 07 Feb 2026 09:30:00 GMT</pubDate>
         <description>Przedstawiamy wam nasze propozycje meczowe na ten weekend powiązane z Królewskimi poza spotkaniem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius i Bellingham z burzliwymi wspomnieniami z Mestalii</title>
-        <link>https://www.realmadryt.pl/news/146334-vinicius-i-bellingham-z-burzliwymi-wspomnieniami-z-mestalii</link>
-        <pubDate>Sat, 07 Feb 2026 09:27:00 GMT</pubDate>
-        <description>Real Madryt zagra w Walencji bez dwójki zawodników, którzy wyróżnili się w ostatnich wyjazdowych pojedynkach z Nietoperzami.</description>
     </item>
     
 </channel>
