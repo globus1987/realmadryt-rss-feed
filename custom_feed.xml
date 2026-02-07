@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Feb 2026 11:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 11:55:44 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: FC Barcelona wyfocuje się z Superligi</title>
+        <link>https://www.realmadryt.pl/news/146342-oficjalnie-fc-barcelona-wyfocuje-sie-z-superligi</link>
+        <pubDate>Sat, 07 Feb 2026 12:40:00 GMT</pubDate>
+        <description>Real Madryt zostaje sam.</description>
+    </item>
+    
+    <item>
+        <title>Powrót na Mestallę z wątpliwościami</title>
+        <link>https://www.realmadryt.pl/news/146341-powrot-na-mestalle-z-watpliwosciami</link>
+        <pubDate>Sat, 07 Feb 2026 12:39:00 GMT</pubDate>
+        <description>Stoper nie przeżywa najlepszego momentu. Powrót Rüdigera może jeszcze pogorszyć jego sytuację lub też ją poprawić.</description>
+    </item>
     
     <item>
         <title>Trybuna stadionu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146324-zagadka-carvajala</link>
         <pubDate>Sat, 07 Feb 2026 08:40:00 GMT</pubDate>
         <description>Dani Carvajal ma za sobą pełny miesiąc pełnej gotowości do gry, aby prawie w ogóle nie pojawia się na murawie. Na szali Hiszpana jest walka o wyjazd na mundial i przedłużenie kontraktu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Atak bez Viníciusa, Rodrygo i Bellinghama</title>
-        <link>https://www.realmadryt.pl/news/146326-glos-kibica-atak-bez-viniciusa-rodrygo-i-bellinghama</link>
-        <pubDate>Sat, 07 Feb 2026 07:50:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt w czołówce rankingu drużyn najlepiej grających piłką</title>
-        <link>https://www.realmadryt.pl/news/146328-real-madryt-w-czolowce-rankingu-druzyn-najlepiej-grajacych-pilka</link>
-        <pubDate>Sat, 07 Feb 2026 07:00:00 GMT</pubDate>
-        <description>Obserwatorium CIES tym razem przedstawiło zestawienie drużyn najlepiej grających piłką. Królewscy znaleźli się w czołówce wśród 5 topowych lig w Europie.</description>
     </item>
     
 </channel>
