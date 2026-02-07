@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Feb 2026 02:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 04:43:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Enzo: Jestem bardzo szczęśliwy w Chelsea</title>
+        <link>https://www.realmadryt.pl/news/146325-enzo-jestem-bardzo-szczesliwy-w-chelsea</link>
+        <pubDate>Sat, 07 Feb 2026 05:30:00 GMT</pubDate>
+        <description>W Hiszpanii odżyły plotki na temat sprowadzenia Argentyńczyka jako rozwiązania do środka pola. Sam pomocnik w najnowszym wywiadzie podkreślił, że czuje się dobrze w Londynie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146312-zle-przygotowanie-fizyczne-to-niezawodna-mantra-florentino</link>
         <pubDate>Fri, 06 Feb 2026 12:59:00 GMT</pubDate>
         <description>Carlos Carpio, zastępca redaktora naczelnego dziennika MARCA, w najnowszym tekście zastanawia się, czy obecne problemy drużyny są aby napewno związane ze złym przygotowaniem fizycznym i czy Pintus będzie lekiem na całego zło. Przedstawiamy tłumaczenie tekstu dziennikarza.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius wchodzi na wyższe obroty: dwa tygodnie pracy nad formą</title>
-        <link>https://www.realmadryt.pl/news/146313-vinicius-wchodzi-na-wyzsze-obroty-dwa-tygodnie-pracy-nad-forma</link>
-        <pubDate>Fri, 06 Feb 2026 12:08:00 GMT</pubDate>
-        <description>Brazylijczyk realizuje indywidualny plan, który ma poprawić jego formę fizyczną i odpowiednio przygotować go na pozostałą część sezonu.</description>
     </item>
     
 </channel>
