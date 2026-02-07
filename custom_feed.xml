@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Feb 2026 21:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 21:43:24 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick wyleciał z boiska za bezpośrednią czerwoną kartkę [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/146352-endrick-wylecial-z-boiska-za-bezposrednia-czerwona-kartke-video</link>
+        <pubDate>Sat, 07 Feb 2026 22:32:00 GMT</pubDate>
+        <description>Brazylijczyk tym razem zapisał się w protokole sędziowskim, ale dwiema kartkami za dwa faule: jedną żółtą i następnie bezpośrednią czerwoną.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Real Madryt złożył kondolencje po śmierci Manolína Bueno</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146341-powrot-na-mestalle-z-watpliwosciami</link>
         <pubDate>Sat, 07 Feb 2026 12:39:00 GMT</pubDate>
         <description>Stoper nie przeżywa najlepszego momentu. Powrót Rüdigera może jeszcze pogorszyć jego sytuację lub też ją poprawić.</description>
-    </item>
-    
-    <item>
-        <title>Trybuna stadionu</title>
-        <link>https://www.realmadryt.pl/news/146335-trybuna-stadionu</link>
-        <pubDate>Sat, 07 Feb 2026 12:10:00 GMT</pubDate>
-        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat postawy kibiców na stadionie.</description>
     </item>
     
 </channel>
