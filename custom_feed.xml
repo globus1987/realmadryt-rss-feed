@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 08:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 09:38:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kapitan Odpowiedzialność</title>
+        <link>https://www.realmadryt.pl/news/146295-kapitan-odpowiedzialnosc</link>
+        <pubDate>Sun, 08 Feb 2026 10:00:00 GMT</pubDate>
+        <description>Trudno jest podnieść na barki ponad sto kilogramów. Jeszcze trudniej jest jednak nosić na nich odpowiedzialność. Na szczęście istnieją ludzie, którzy mają ku temu naturalne predyspozycje.</description>
+    </item>
     
     <item>
         <title>Feliz: Musimy wierzyć w tę drużynę bardziej niż kiedykolwiek</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146348-realowi-brakuje-wolnych-cristiano</link>
         <pubDate>Sat, 07 Feb 2026 19:20:00 GMT</pubDate>
         <description>Od odejścia Portugalczyka w 2018 roku w Realu Madryt nie ma pewnego specjalisty od wykonywania rzutów wolnych. Z Cristiano Królewscy strzelali średnio 6 goli z wolnych na sezon. Bez Cristiano ta średnia wynosi zaledwie 1,6.</description>
-    </item>
-    
-    <item>
-        <title>23. kolejka: Barcelona wygrywa i znowu odskakuje na 4 punkty od Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/146347-23-kolejka-barcelona-wygrywa-i-znowu-odskakuje-na-4-punkty-od-realu-madryt</link>
-        <pubDate>Sat, 07 Feb 2026 15:26:00 GMT</pubDate>
-        <description>Katalończycy rozgrywają swój mecz przed Realem Madryt i ponownie odskoczyli na 4 punkty, narzucając presję na Królewskich.</description>
     </item>
     
 </channel>
