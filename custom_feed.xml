@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 11:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 11:38:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>A miał to być ten moment</title>
+        <link>https://www.realmadryt.pl/news/146365-a-mial-to-byc-ten-moment</link>
+        <pubDate>Sun, 08 Feb 2026 12:03:00 GMT</pubDate>
+        <description>Pod nieobecność Viníciusa, to właśnie Rodrygo miał zagrać na lewej flance w starciu z Valencią. Mógł to być jego wieczór, ale wszystko przekreśliła kontuzja. W tym sezonie rozegrał zaledwie 35% możliwych minut.</description>
+    </item>
     
     <item>
         <title>Kadra Realu Madryt na Valencię</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146358-vinicius-dzisiaj-pauzuje-za-kartki-a-zagrozony-jest-kolejny-gracz</link>
         <pubDate>Sun, 08 Feb 2026 08:20:00 GMT</pubDate>
         <description>Brazylijczyk dzisiaj pauzuje z powodu nadmiaru żółtych kartek, a kolejny zawodnik jest zagrożony takim zawieszeniem.</description>
-    </item>
-    
-    <item>
-        <title>Trudny wyjazd do Galicji</title>
-        <link>https://www.realmadryt.pl/news/146351-trudny-wyjazd-do-galicji</link>
-        <pubDate>Sun, 08 Feb 2026 07:30:00 GMT</pubDate>
-        <description>W 23. kolejce Primera Federación Castilla zmierzy się z Pontevedrą. Celem drużyny rezerw jest wygranie pierwszego meczu pod wodzą Juliána Lópeza de Lermy.</description>
     </item>
     
 </channel>
