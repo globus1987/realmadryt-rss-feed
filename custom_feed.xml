@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 03:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 05:16:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Najbardziej wrogi teren w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/146356-glos-kibica-najbardziej-wrogi-teren-w-la-lidze</link>
+        <pubDate>Sun, 08 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Valencia – Real Madryt: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146339-arbeloa-dwa-dni-wolnego-to-byl-tydzien-z-duzymi-obciazeniami</link>
         <pubDate>Sat, 07 Feb 2026 13:30:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Valencią w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Ostatni trening przed Valencią</title>
-        <link>https://www.realmadryt.pl/news/146340-ostatni-trening-przed-valencia</link>
-        <pubDate>Sat, 07 Feb 2026 12:57:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do niedzielnego spotkania z Valencią.</description>
     </item>
     
 </channel>
