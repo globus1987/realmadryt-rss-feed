@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 21:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 22:00:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Valencią</title>
+        <link>https://www.realmadryt.pl/news/146378-ocen-pilkarzy-po-meczu-z-valencia</link>
+        <pubDate>Sun, 08 Feb 2026 22:52:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
     
     <item>
         <title>Scariolo: To było pozytywne popołudnie</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>Valencia – Real Madryt [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146379-valencia-real-madryt-na-zywo</link>
+        <title>Mestalla podbita bez błysku</title>
+        <link>https://www.realmadryt.pl/news/146379-mestalla-podbita-bez-blysku</link>
         <pubDate>Sun, 08 Feb 2026 20:55:00 GMT</pubDate>
-        <description>Od 21:00 na Estadio Mestalla trwa mecz między Valencią a Realem Madryt w ramach 23. kolejki La Ligi.</description>
+        <description>W meczu 23. kolejki La Ligi Real Madryt wygrał z Valencią na Estadio Mestalla 2:0 po golach Álvaro Carrerasa i Kyliana Mbappé.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146369-najgorszy-stadion-dla-krolewskich-w-ostatniej-dekadzie</link>
         <pubDate>Sun, 08 Feb 2026 14:18:00 GMT</pubDate>
         <description>Na żadnym innym terenie Real Madryt nie doznał tak wielu porażek (5) w ostatnich 11 wyjazdach.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Walencji</title>
-        <link>https://www.realmadryt.pl/news/146368-krolewscy-sa-juz-w-walencji</link>
-        <pubDate>Sun, 08 Feb 2026 14:06:00 GMT</pubDate>
-        <description>Piłkarze i sztab szkoleniowy dotarli już do Walencji, gdzie dziś zagrają o ligowe punkty.</description>
     </item>
     
 </channel>
