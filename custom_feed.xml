@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 11:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 11:56:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trener Lyonu: To tak naprawdę zastraszanie młodego zawodnika</title>
+        <link>https://www.realmadryt.pl/news/146366-trener-lyonu-to-tak-naprawde-zastraszanie-mlodego-zawodnika</link>
+        <pubDate>Sun, 08 Feb 2026 12:54:00 GMT</pubDate>
+        <description>Czerwona kartka Brazylijczyka wywołała wiele reakcji, w tym jego trener stanął w jego obronie. Brazylijczyka czeka jednak przerwa w grze.</description>
+    </item>
     
     <item>
         <title>A miał to być ten moment</title>
@@ -17,7 +24,7 @@
         <title>Kadra Realu Madryt na Valencię</title>
         <link>https://www.realmadryt.pl/news/146344-kadra-realu-madryt-na-valencie</link>
         <pubDate>Sun, 08 Feb 2026 11:43:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na czterech (POLICZYĆ!!!) zawodników pierwszego zespołu podczas ligowego spotkania z Valencią. Hiszpan powołał 22 piłkarzy.</description>
+        <description>Álvaro Arbeloa nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas ligowego spotkania z Valencią. Hiszpan powołał 22 piłkarzy.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146357-szalony-kurs-10-00-na-gola-mbappe-z-valencia</link>
         <pubDate>Sun, 08 Feb 2026 09:00:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius dzisiaj pauzuje za kartki, a zagrożony jest kolejny gracz</title>
-        <link>https://www.realmadryt.pl/news/146358-vinicius-dzisiaj-pauzuje-za-kartki-a-zagrozony-jest-kolejny-gracz</link>
-        <pubDate>Sun, 08 Feb 2026 08:20:00 GMT</pubDate>
-        <description>Brazylijczyk dzisiaj pauzuje z powodu nadmiaru żółtych kartek, a kolejny zawodnik jest zagrożony takim zawieszeniem.</description>
     </item>
     
 </channel>
