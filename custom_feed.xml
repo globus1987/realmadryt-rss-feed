@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 11:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 13:08:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy są już w Walencji</title>
+        <link>https://www.realmadryt.pl/news/146368-krolewscy-sa-juz-w-walencji</link>
+        <pubDate>Sun, 08 Feb 2026 14:06:00 GMT</pubDate>
+        <description>Piłkarze i sztab szkoleniowy dotarli już do Walencji, gdzie dziś zagrają o ligowe punkty.</description>
+    </item>
+    
+    <item>
+        <title>AS: Endrick i Paz wróca do Realu Madryt, główny cel na lato to Vitinha</title>
+        <link>https://www.realmadryt.pl/news/146367-as-endrick-i-paz-wroca-do-realu-madryt-glowny-cel-na-lato-to-vitinha</link>
+        <pubDate>Sun, 08 Feb 2026 13:42:00 GMT</pubDate>
+        <description>Priorytety Królewskich na lato to dwóch stoperów i środkowy pomocnik. Dyrektor Asa w swojej informacji twierdzi, że głównym celem pozostaje Vitinha, przy czym pewne na razie są jedynie powroty piłkarzy, którzy odchodzili z Realu w poszukiwaniu minut.</description>
+    </item>
     
     <item>
         <title>Trener Lyonu: To tak naprawdę zastraszanie młodego zawodnika</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146295-kapitan-odpowiedzialnosc</link>
         <pubDate>Sun, 08 Feb 2026 10:00:00 GMT</pubDate>
         <description>Trudno jest podnieść na barki ponad sto kilogramów. Jeszcze trudniej jest jednak nosić na nich odpowiedzialność. Na szczęście istnieją ludzie, którzy mają ku temu naturalne predyspozycje.</description>
-    </item>
-    
-    <item>
-        <title>Feliz: Musimy wierzyć w tę drużynę bardziej niż kiedykolwiek</title>
-        <link>https://www.realmadryt.pl/news/146353-feliz-musimy-wierzyc-w-te-druzyne-bardziej-niz-kiedykolwiek</link>
-        <pubDate>Sun, 08 Feb 2026 09:30:00 GMT</pubDate>
-        <description>Andrés Feliz wypowiadał się przed spotkaniem z Granadą w Lidze Endesa. Mówił o tym, że drużyna musi się pozbierać po wyjazdowych porażkach.</description>
-    </item>
-    
-    <item>
-        <title>Szalony kurs 10.00 na gola Mbappe z Valencią!</title>
-        <link>https://www.realmadryt.pl/news/146357-szalony-kurs-10-00-na-gola-mbappe-z-valencia</link>
-        <pubDate>Sun, 08 Feb 2026 09:00:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
     </item>
     
 </channel>
