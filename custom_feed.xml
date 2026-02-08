@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 06:26:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 07:23:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius dzisiaj pauzuje za kartki, a zagrożony jest kolejny gracz</title>
+        <link>https://www.realmadryt.pl/news/146358-vinicius-dzisiaj-pauzuje-za-kartki-a-zagrozony-jest-kolejny-gracz</link>
+        <pubDate>Sun, 08 Feb 2026 08:20:00 GMT</pubDate>
+        <description>Brazylijczyk dzisiaj pauzuje z powodu nadmiaru żółtych kartek, a kolejny zawodnik jest zagrożony takim zawieszeniem.</description>
+    </item>
+    
+    <item>
+        <title>Trudny wyjazd do Galicji</title>
+        <link>https://www.realmadryt.pl/news/146351-trudny-wyjazd-do-galicji</link>
+        <pubDate>Sun, 08 Feb 2026 07:30:00 GMT</pubDate>
+        <description>W 23. kolejce Primera Federación Castilla zmierzy się z Pontevedrą. Celem drużyny rezerw jest wygranie pierwszego meczu pod wodzą Juliána Lópeza de Lermy.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Nie jest ważne tylko wystawianie najlepszej jedenastki, ale też wystawienie najlepszej na dany mecz</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146345-obejrzyj-mecz-realu-i-barcelony-w-sts-tv</link>
         <pubDate>Sat, 07 Feb 2026 15:00:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Javier Alberola Rojas na Valencię</title>
-        <link>https://www.realmadryt.pl/news/146336-javier-alberola-rojas-na-valencie</link>
-        <pubDate>Sat, 07 Feb 2026 14:53:00 GMT</pubDate>
-        <description>Jutrzejszy mecz Realu Madryt z Valencią poprowadzi arbiter pochodzący z Toledo. Dotychczas sędziował siedemnaście spotkań z udziałem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 26. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146343-terminarz-26-kolejki-la-ligi</link>
-        <pubDate>Sat, 07 Feb 2026 13:32:00 GMT</pubDate>
-        <description>La Liga przedstawiła dokładny harmonogram 26. kolejki tego sezonu, w której Królewscy podejmą Getafe.</description>
     </item>
     
 </channel>
