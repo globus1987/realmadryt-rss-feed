@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 05:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 06:26:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Nie jest ważne tylko wystawianie najlepszej jedenastki, ale też wystawienie najlepszej na dany mecz</title>
+        <link>https://www.realmadryt.pl/news/146349-arbeloa-nie-jest-wazne-tylko-wystawianie-najlepszej-jedenastki-ale-tez-wystawienie-najlepszej-na-dany-mecz</link>
+        <pubDate>Sun, 08 Feb 2026 07:00:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się wczoraj aj na konferencji prasowej przed dzisiejszym spotkaniem z Valencią w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Najbardziej wrogi teren w La Lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146343-terminarz-26-kolejki-la-ligi</link>
         <pubDate>Sat, 07 Feb 2026 13:32:00 GMT</pubDate>
         <description>La Liga przedstawiła dokładny harmonogram 26. kolejki tego sezonu, w której Królewscy podejmą Getafe.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Dwa dni wolnego? To był tydzień z dużymi obciążeniami</title>
-        <link>https://www.realmadryt.pl/news/146339-arbeloa-dwa-dni-wolnego-to-byl-tydzien-z-duzymi-obciazeniami</link>
-        <pubDate>Sat, 07 Feb 2026 13:30:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Valencią w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
