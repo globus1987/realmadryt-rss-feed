@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 06:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 07:43:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Arbeloa vs Carvajal?</title>
+        <link>https://www.realmadryt.pl/news/146394-glos-kibica-arbeloa-vs-carvajal</link>
+        <pubDate>Mon, 09 Feb 2026 08:40:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Królewscy otrzymali dzień wolny</title>
+        <link>https://www.realmadryt.pl/news/146393-krolewscy-otrzymali-dzien-wolny</link>
+        <pubDate>Mon, 09 Feb 2026 07:50:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt tym razem dostali jeden dzień wolny i do pracy wrócą we wtorek, gdy rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Czy potrzeba nam rozgrywającego? To nie jest mój problem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146381-carreras-mvp-meczu-na-mestalli</link>
         <pubDate>Sun, 08 Feb 2026 23:01:00 GMT</pubDate>
         <description>Álvaro Carreras został wyróżniony po meczu Valencii z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/146378-ocen-pilkarzy-po-meczu-z-valencia</link>
-        <pubDate>Sun, 08 Feb 2026 22:52:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: To było pozytywne popołudnie</title>
-        <link>https://www.realmadryt.pl/news/146380-scariolo-to-bylo-pozytywne-popoludnie</link>
-        <pubDate>Sun, 08 Feb 2026 22:06:00 GMT</pubDate>
-        <description>Sergio Scariolo wypowiadał się po zwycięskim spotkaniu z Granadą. Mówił o tym, że drużyna miała lepsze i gorsze momenty, ale był zadowolony z tego, że mógł pozwolić kluczowym graczom na odpoczynek.</description>
     </item>
     
 </channel>
