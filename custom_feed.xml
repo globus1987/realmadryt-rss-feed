@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 03:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 05:17:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>Media: Carvajal zapewnia, że jest gotowy do gry; coś dzieje się między nim a Arbeloą [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/146391-media-carvajal-zapewnia-ze-jest-gotowy-do-gry-cos-dzieje-sie-miedzy-nim-a-arbeloa-video</link>
+        <pubDate>Mon, 09 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Dziennikarze znaleźli potencjalny nowy konflikt w zespole Realu Madryt: chodzi o brak gry kapitana, który w teorii jest dostępny dla trenerów od początku roku kalendarzowego.</description>
+    </item>
     
     <item>
         <title>Mbappé o arbitrze: Wielki pajac [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146379-mestalla-podbita-bez-blysku</link>
         <pubDate>Sun, 08 Feb 2026 20:55:00 GMT</pubDate>
         <description>W meczu 23. kolejki La Ligi Real Madryt wygrał z Valencią na Estadio Mestalla 2:0 po golach Álvaro Carrerasa i Kyliana Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Valencią [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146376-rozgrzewka-przed-valencia-na-zywo</link>
-        <pubDate>Sun, 08 Feb 2026 20:00:00 GMT</pubDate>
-        <description>Królewscy po 20:20 wybiegną na murawę i rozpoczną rozgrzewkę na Mestalli, gdzie za kilkadziesiąt minut zaczną mecz z Valencią. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
     </item>
     
 </channel>
