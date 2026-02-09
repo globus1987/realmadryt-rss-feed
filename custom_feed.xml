@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Feb 2026 23:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé o arbitrze: Wielki pajac [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/146390-mbappe-o-arbitrze-wielki-pajac-video</link>
+        <pubDate>Mon, 09 Feb 2026 00:59:00 GMT</pubDate>
+        <description>Hiszpańskie telewizje przedstawiły dialog Francuza z arbitrem i określenie sędziego ze strony piłkarza Królewskich.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146376-rozgrzewka-przed-valencia-na-zywo</link>
         <pubDate>Sun, 08 Feb 2026 20:00:00 GMT</pubDate>
         <description>Królewscy po 20:20 wybiegną na murawę i rozpoczną rozgrzewkę na Mestalli, gdzie za kilkadziesiąt minut zaczną mecz z Valencią. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Valencia – Real Madryt: Znamy składy</title>
-        <link>https://www.realmadryt.pl/news/146375-valencia-real-madryt-znamy-sklady</link>
-        <pubDate>Sun, 08 Feb 2026 19:35:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Valencią. Spotkanie rozpocznie się o 21:00 na Estadio Mestalla.</description>
     </item>
     
 </channel>
