@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 12:33:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 14:02:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Niewielu mamy tu przyjaciół, lojalność jest w cenie”</title>
+        <link>https://www.realmadryt.pl/news/146403-niewielu-mamy-tu-przyjaciol-lojalnosc-jest-w-cenie</link>
+        <pubDate>Mon, 09 Feb 2026 15:00:00 GMT</pubDate>
+        <description>Dani Ceballos udostępnił w mediach społecznościowych grafikę z tajemnicznym przesłaniem, która wydaje się mieć wiele wspólnego z jego obecną sytuacją w kadrze.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Laporta przestał być prezesem Barcelony</title>
+        <link>https://www.realmadryt.pl/news/146402-oficjalnie-laporta-przestal-byc-prezesem-barcelony</link>
+        <pubDate>Mon, 09 Feb 2026 13:54:00 GMT</pubDate>
+        <description>Barcelona wkroczyła dzisiaj oficjalnie w proces wyborczy, a jej dotychczasowy prezes formalnie ustąpił ze stanowiska.</description>
+    </item>
     
     <item>
         <title>The Athletic: Carvajal był „wk***iony”, że nie zagrał z Valencią</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146394-glos-kibica-arbeloa-vs-carvajal</link>
         <pubDate>Mon, 09 Feb 2026 08:40:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy otrzymali dzień wolny</title>
-        <link>https://www.realmadryt.pl/news/146393-krolewscy-otrzymali-dzien-wolny</link>
-        <pubDate>Mon, 09 Feb 2026 07:50:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt tym razem dostali jeden dzień wolny i do pracy wrócą we wtorek, gdy rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Czy potrzeba nam rozgrywającego? To nie jest mój problem</title>
-        <link>https://www.realmadryt.pl/news/146392-tchouameni-czy-potrzeba-nam-rozgrywajacego-to-nie-jest-moj-problem</link>
-        <pubDate>Mon, 09 Feb 2026 07:00:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni wyszedł do mediów w strefie mieszanej po meczu z Valencią w La Lidze. Przedstawiamy wypowiedzi pomocnika Realu Madryt z Mestalli.</description>
     </item>
     
 </channel>
