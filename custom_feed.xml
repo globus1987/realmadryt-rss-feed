@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 05:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 06:43:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni: Czy potrzeba nam rozgrywającego? To nie jest mój problem</title>
+        <link>https://www.realmadryt.pl/news/146392-tchouameni-czy-potrzeba-nam-rozgrywajacego-to-nie-jest-moj-problem</link>
+        <pubDate>Mon, 09 Feb 2026 07:00:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni wyszedł do mediów w strefie mieszanej po meczu z Valencią w La Lidze. Przedstawiamy wypowiedzi pomocnika Realu Madryt z Mestalli.</description>
+    </item>
     
     <item>
         <title>Media: Carvajal zapewnia, że jest gotowy do gry; coś dzieje się między nim a Arbeloą [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146380-scariolo-to-bylo-pozytywne-popoludnie</link>
         <pubDate>Sun, 08 Feb 2026 22:06:00 GMT</pubDate>
         <description>Sergio Scariolo wypowiadał się po zwycięskim spotkaniu z Granadą. Mówił o tym, że drużyna miała lepsze i gorsze momenty, ale był zadowolony z tego, że mógł pozwolić kluczowym graczom na odpoczynek.</description>
-    </item>
-    
-    <item>
-        <title>Mestalla podbita bez błysku</title>
-        <link>https://www.realmadryt.pl/news/146379-mestalla-podbita-bez-blysku</link>
-        <pubDate>Sun, 08 Feb 2026 20:55:00 GMT</pubDate>
-        <description>W meczu 23. kolejki La Ligi Real Madryt wygrał z Valencią na Estadio Mestalla 2:0 po golach Álvaro Carrerasa i Kyliana Mbappé.</description>
     </item>
     
 </channel>
