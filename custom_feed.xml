@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 22:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 23:46:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146414-dzisiejsze-okladki</link>
+        <pubDate>Tue, 10 Feb 2026 00:33:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt i wybory w Barcelonie to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Radio MARCA: Carvajal przeczuwa, że nie dostanie oferty nowego kontraktu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146399-krolewskie-typy-3-wyniki</link>
         <pubDate>Mon, 09 Feb 2026 12:32:00 GMT</pubDate>
         <description>Wybrani redaktorzy przedstawiają swoje typy na najbliższe dni i razem z STS czekają na wasze kupony. #współpraca</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Valencią</title>
-        <link>https://www.realmadryt.pl/news/146398-oceny-zawodnikow-po-meczu-z-valencia</link>
-        <pubDate>Mon, 09 Feb 2026 12:30:00 GMT</pubDate>
-        <description>Real Madryt wygrał 2:0 z Valencią. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
