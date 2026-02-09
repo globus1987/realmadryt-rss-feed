@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 15:12:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 16:15:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa przywrócił porządek</title>
+        <link>https://www.realmadryt.pl/news/146405-arbeloa-przywrocil-porzadek</link>
+        <pubDate>Mon, 09 Feb 2026 17:12:00 GMT</pubDate>
+        <description>Trener nie szuka zmian na siłę. Chce wystawiać swoich graczy tam, gdzie ci czują się najlepiej.</description>
+    </item>
+    
+    <item>
+        <title>Davide Ancelotti: Xabi nie miał czasu, by znaleźć równowagę defensywną</title>
+        <link>https://www.realmadryt.pl/news/146404-davide-ancelotti-xabi-nie-mial-czasu-by-znalezc-rownowage-defensywna</link>
+        <pubDate>Mon, 09 Feb 2026 17:04:00 GMT</pubDate>
+        <description>Davide Ancelotti udzielił wywiadu platformie DAZN. Jego pierwsze zapowiedzi opublikowano przy okazji meczu Realu Madryt z Valencią. Przedstawiamy opublikowane wypowiedzi byłego asystenta trenera Realu Madryt i obecnie asystenta Carlo Ancelottiego w reprezentacji Brazylii.</description>
+    </item>
     
     <item>
         <title>„Niewielu mamy tu przyjaciół, lojalność jest w cenie”</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146387-kartka-z-kalendarza-9-lutego</link>
         <pubDate>Mon, 09 Feb 2026 10:20:00 GMT</pubDate>
         <description>Wysokie wygrane z Espanyolem i Osasuną, niezwykły finał Pucharu Króla, mecz reprezentacji w Madrycie i pokonanie Atlético na Wanda Metropolitano. Co działo się 9 lutego?</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Nigdy nie wiadomo, czy Mbappé nie przebije Cristiano</title>
-        <link>https://www.realmadryt.pl/news/146386-arbeloa-nigdy-nie-wiadomo-czy-mbappe-nie-przebije-cristiano</link>
-        <pubDate>Mon, 09 Feb 2026 09:30:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się iaj na konferencji prasowej po meczu z Valencią w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Arbeloa vs Carvajal?</title>
-        <link>https://www.realmadryt.pl/news/146394-glos-kibica-arbeloa-vs-carvajal</link>
-        <pubDate>Mon, 09 Feb 2026 08:40:00 GMT</pubDate>
-        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
