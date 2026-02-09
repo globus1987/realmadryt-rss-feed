@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 09:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 10:42:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>David Jiménez: Wszystko jest łatwiejsze, gdy otaczają cię najlepsi na świecie</title>
+        <link>https://www.realmadryt.pl/news/146396-david-jimenez-wszystko-jest-latwiejsze-gdy-otaczaja-cie-najlepsi-na-swiecie</link>
+        <pubDate>Mon, 09 Feb 2026 11:40:00 GMT</pubDate>
+        <description>David Jiménez wyszedł w pierwszym składzie Realu Madryt na wczorajszy mecz z Valencią na Mestalii. Po spotkaniu podzielił się swoimi odczuciami w rozmowie dla klubowych mediów.</description>
+    </item>
+    
+    <item>
+        <title>Corberán: Pierwsza bramka nie powinna zostać uznana</title>
+        <link>https://www.realmadryt.pl/news/146395-corberan-pierwsza-bramka-nie-powinna-zostac-uznana</link>
+        <pubDate>Mon, 09 Feb 2026 10:57:00 GMT</pubDate>
+        <description>Trener Valencii, Carlos Corberán, spotkał się z dziennikarzami po porażce z Realem Madryt. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>Kibic Realu zwyzywany i opluty na Mestalli [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146388-carreras-poprowadzilem-pilke-bez-wiekszego-namyslu-i-strzelilem</link>
         <pubDate>Sun, 08 Feb 2026 23:56:00 GMT</pubDate>
         <description>Álvaro Carreras udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Valencią. Przedstawiamy wypowiedzi obrońcy Realu Madryt, autora pierwszej bramki na Mestalli.</description>
-    </item>
-    
-    <item>
-        <title>Benfica wymęczyła wygraną z Alvercą [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146385-benfica-wymeczyla-wygrana-z-alverca-video</link>
-        <pubDate>Sun, 08 Feb 2026 23:39:00 GMT</pubDate>
-        <description>W meczu 21. kolejki ligi portugalskiej Benfica pokonała u siebie Alvercę 2:1. Bramki dla rywala Realu Madryt w Lidze Mistrzów zdobyli Andreas Schjelderup i Anísio Cabral.</description>
-    </item>
-    
-    <item>
-        <title>Valencia 0:2 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146384-valencia-0-2-real-madryt-video</link>
-        <pubDate>Sun, 08 Feb 2026 23:19:00 GMT</pubDate>
-        <description>W meczu 23. kolejki La Ligi Real Madryt wygrał z Valencią na Estadio Mestalla 2:0 po golach Álvaro Carrerasa i Kyliana Mbappé.</description>
     </item>
     
 </channel>
