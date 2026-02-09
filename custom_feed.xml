@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Feb 2026 10:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 11:33:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie typy #3 – wyniki</title>
+        <link>https://www.realmadryt.pl/news/146399-krolewskie-typy-3-wyniki</link>
+        <pubDate>Mon, 09 Feb 2026 12:32:00 GMT</pubDate>
+        <description>Wybrani redaktorzy przedstawiają swoje typy na najbliższe dni i razem z STS czekają na wasze kupony. #współpraca</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Valencią</title>
+        <link>https://www.realmadryt.pl/news/146398-oceny-zawodnikow-po-meczu-z-valencia</link>
+        <pubDate>Mon, 09 Feb 2026 12:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał 2:0 z Valencią. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
     
     <item>
         <title>David Jiménez: Wszystko jest łatwiejsze, gdy otaczają cię najlepsi na świecie</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146390-mbappe-o-arbitrze-wielki-pajac-video</link>
         <pubDate>Mon, 09 Feb 2026 00:59:00 GMT</pubDate>
         <description>Hiszpańskie telewizje przedstawiły dialog Francuza z arbitrem i określenie sędziego ze strony piłkarza Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146389-dzisiejsze-okladki</link>
-        <pubDate>Mon, 09 Feb 2026 00:29:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i dymisja prezesa Barcelony to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Carreras: Poprowadziłem piłkę bez większego namysłu i strzeliłem</title>
-        <link>https://www.realmadryt.pl/news/146388-carreras-poprowadzilem-pilke-bez-wiekszego-namyslu-i-strzelilem</link>
-        <pubDate>Sun, 08 Feb 2026 23:56:00 GMT</pubDate>
-        <description>Álvaro Carreras udzielił wywiadu dla klubowej telewizji po wygranym 2:0 meczu z Valencią. Przedstawiamy wypowiedzi obrońcy Realu Madryt, autora pierwszej bramki na Mestalli.</description>
     </item>
     
 </channel>
