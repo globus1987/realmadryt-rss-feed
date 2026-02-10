@@ -4,7 +4,35 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Feb 2026 09:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 10:12:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/146413-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 10 Feb 2026 11:10:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 23. kolejce La Ligi.</description>
+    </item>
+    
+    <item>
+        <title>Vozpópuli: Laporta wysłał do sądu list w obronie Tebasa</title>
+        <link>https://www.realmadryt.pl/news/146419-vozpopuli-laporta-wyslal-do-sadu-list-w-obronie-tebasa</link>
+        <pubDate>Tue, 10 Feb 2026 10:48:00 GMT</pubDate>
+        <description>Trybunał Administracyjny ds. Sportu (TAD) wchodzi w decydującą fazę postępowania wszczętego przeciwko Javierowi Tebasowi w związku z domniemanym „bardzo poważnym” naruszeniem polegającym na rozpowszechnieniu informacji dotyczących Barcelony uznawanych za poufne. W obronie prezesa La Ligi stanął Joan Laporta.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 10 lutego</title>
+        <link>https://www.realmadryt.pl/news/146417-kartka-z-kalendarza-10-lutego</link>
+        <pubDate>Tue, 10 Feb 2026 10:20:00 GMT</pubDate>
+        <description>Pierwszy ligowy mecz Realu, piłkarz Królewskich oklaskiwany na Camp Nou, niesłychany wyczyn Morientesa, spektakularne mecze na Santiago Bernabéu, hat-trick Cristiano i fantastyczny mecz Viniego. Co działo się 10 lutego?</description>
+    </item>
+    
+    <item>
+        <title>„O tym, jak Laporta wykiwał Florentino”</title>
+        <link>https://www.realmadryt.pl/news/146418-o-tym-jak-laporta-wykiwal-florentino</link>
+        <pubDate>Tue, 10 Feb 2026 10:11:00 GMT</pubDate>
+        <description>Tomàs Andreu, dziennikarz katalońskiego Sportu, opublikował tekst, w którym podsumował kadencję Joana Laporty w kontekście zbudowania przez Katalończyka wyrachowanej realcji z Florentino Pérezem. Przedstawiamy tłumaczenie tego artykułu.</description>
+    </item>
     
     <item>
         <title>The Athletic: Huijsen gra bez żadnych problemów fizycznych</title>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/146408-dzieciaki-zatrzymaly-valencie</link>
         <pubDate>Mon, 09 Feb 2026 22:00:00 GMT</pubDate>
         <description>Arbeloa wystawił na Estadio Mestalla linię obrony równie młodą, co w tym sezonie niespotykaną.</description>
-    </item>
-    
-    <item>
-        <title>Agent Endricka: On wróci do Realu Madryt, ale co dalej? Nie mogę tego przewidzieć</title>
-        <link>https://www.realmadryt.pl/news/146407-agent-endricka-on-wroci-do-realu-madryt-ale-co-dalej-nie-moge-tego-przewidziec</link>
-        <pubDate>Mon, 09 Feb 2026 20:19:00 GMT</pubDate>
-        <description>Thiago Freitas to dyrektor operacyjny brazylijskiego oddziału agencji Roc Nation, która prowadzi interesy Endricka. Teraz agent udzielił wywiadu arabskiemu kanałowi Win Win. Przedstawiamy jego wypowiedzi na temat napastnika Realu Madryt wypożyczonego do Olympique'u Lyon.</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Carvajal i Rüdiger przeszli dodatkowe badania w Londynie</title>
-        <link>https://www.realmadryt.pl/news/146406-the-athletic-carvajal-i-ruediger-przeszli-dodatkowe-badania-w-londynie</link>
-        <pubDate>Mon, 09 Feb 2026 18:00:00 GMT</pubDate>
-        <description>The Athletic twierdzi, że obaj obrońcy wybrali się na specjalne badania do Londynu. Ich wyniki były pozytywne.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa przywrócił porządek</title>
-        <link>https://www.realmadryt.pl/news/146405-arbeloa-przywrocil-porzadek</link>
-        <pubDate>Mon, 09 Feb 2026 17:12:00 GMT</pubDate>
-        <description>Trener nie szuka zmian na siłę. Chce wystawiać swoich graczy tam, gdzie ci czują się najlepiej.</description>
-    </item>
-    
-    <item>
-        <title>Davide Ancelotti: Xabi nie miał czasu, by znaleźć równowagę defensywną</title>
-        <link>https://www.realmadryt.pl/news/146404-davide-ancelotti-xabi-nie-mial-czasu-by-znalezc-rownowage-defensywna</link>
-        <pubDate>Mon, 09 Feb 2026 17:04:00 GMT</pubDate>
-        <description>Davide Ancelotti udzielił wywiadu platformie DAZN. Jego pierwsze zapowiedzi opublikowano przy okazji meczu Realu Madryt z Valencią. Przedstawiamy opublikowane wypowiedzi byłego asystenta trenera Realu Madryt i obecnie asystenta Carlo Ancelottiego w reprezentacji Brazylii.</description>
     </item>
     
 </channel>
