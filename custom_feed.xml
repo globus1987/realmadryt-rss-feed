@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Feb 2026 22:50:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 23:47:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Piłkarze Realu Madryt spotkali się na kolacji</title>
+        <link>https://www.realmadryt.pl/news/146436-pilkarze-realu-madryt-spotkali-sie-na-kolacji</link>
+        <pubDate>Wed, 11 Feb 2026 00:42:00 GMT</pubDate>
+        <description>We wtorek wieczorem w ścisłym centrum Madrytu odbyła się kolacja pierwszej drużyny Realu Madryt. Zorganizował ją Vinícius.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146435-dzisiejsze-okladki</link>
+        <pubDate>Wed, 11 Feb 2026 00:23:00 GMT</pubDate>
+        <description>Sytuacja Realu Madryt, półfinał Pucharu Króla i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Doszło do rozmowy Arbeloi z Carvajalem</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146419-vozpopuli-laporta-wyslal-do-sadu-list-w-obronie-tebasa</link>
         <pubDate>Tue, 10 Feb 2026 10:48:00 GMT</pubDate>
         <description>Trybunał Administracyjny ds. Sportu (TAD) wchodzi w decydującą fazę postępowania wszczętego przeciwko Javierowi Tebasowi w związku z domniemanym „bardzo poważnym” naruszeniem polegającym na rozpowszechnieniu informacji dotyczących Barcelony uznawanych za poufne. W obronie prezesa La Ligi stanął Joan Laporta.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 10 lutego</title>
-        <link>https://www.realmadryt.pl/news/146417-kartka-z-kalendarza-10-lutego</link>
-        <pubDate>Tue, 10 Feb 2026 10:20:00 GMT</pubDate>
-        <description>Pierwszy ligowy mecz Realu, piłkarz Królewskich oklaskiwany na Camp Nou, niesłychany wyczyn Morientesa, spektakularne mecze na Santiago Bernabéu, hat-trick Cristiano i fantastyczny mecz Viniego. Co działo się 10 lutego?</description>
-    </item>
-    
-    <item>
-        <title>„O tym, jak Laporta wykiwał Florentino”</title>
-        <link>https://www.realmadryt.pl/news/146418-o-tym-jak-laporta-wykiwal-florentino</link>
-        <pubDate>Tue, 10 Feb 2026 10:11:00 GMT</pubDate>
-        <description>Tomàs Andreu, dziennikarz katalońskiego Sportu, opublikował tekst, w którym podsumował kadencję Joana Laporty w kontekście zbudowania przez Katalończyka wyrachowanej realcji z Florentino Pérezem. Przedstawiamy tłumaczenie tego artykułu.</description>
     </item>
     
 </channel>
