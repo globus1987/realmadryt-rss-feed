@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Feb 2026 23:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 23:53:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146462-dzisiejsze-okladki</link>
+        <pubDate>Thu, 12 Feb 2026 00:17:00 GMT</pubDate>
+        <description>Porozumienie Realu Madryt z UEFA to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Co może zawierać porozumienie Realu Madryt z UEFA?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146430-oficjalnie-mestalla-obrazala-madridistas-mbappe-oraz-arbeloe</link>
         <pubDate>Wed, 11 Feb 2026 16:28:00 GMT</pubDate>
         <description>La Liga zgłosiła serię nienawistnych zachowań z niedzielnego meczu na Mestalli. Wszystkie dotyczą kibiców gospodarzy.</description>
-    </item>
-    
-    <item>
-        <title>Dončić może być „rywalem” Realu Madryt w nowej NBA Europe</title>
-        <link>https://www.realmadryt.pl/news/146448-doncic-moze-byc-rywalem-realu-madryt-w-nowej-nba-europe</link>
-        <pubDate>Wed, 11 Feb 2026 15:52:00 GMT</pubDate>
-        <description>Honorowy socio Królewskich ma być częścią grupy inwestorskiej, która zamierza kupić drużynę, jaka ma potencjalnie rywalizować z Realem Madryt w rozgrywkach NBA Europe.</description>
     </item>
     
 </channel>
