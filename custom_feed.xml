@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Feb 2026 05:16:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:40:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Álvarez de Mon: Pauza Bellinghama może wydłużyć się nawet do 2 miesięcy</title>
+        <link>https://www.realmadryt.pl/news/146431-alvarez-de-mon-pauza-bellinghama-moze-wydluzyc-sie-nawet-do-2-miesiecy</link>
+        <pubDate>Wed, 11 Feb 2026 07:00:00 GMT</pubDate>
+        <description>Początkowo spekulowano o przerwie Anglika wynoszącej miesiąc, ale jeden z głównych informatorów w środowisku Realu Madryt przekazał dużo gorsze prognozy.</description>
+    </item>
     
     <item>
         <title>„Chociaż strzelasz gole, nie grasz lepiej niż reszta drużyny”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146420-trzech-pilkarzy-nie-trenowalo-z-grupa</link>
         <pubDate>Tue, 10 Feb 2026 13:36:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do sobotniego spotkania z Realem Sociedad.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/146413-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 10 Feb 2026 11:10:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 23. kolejce La Ligi.</description>
     </item>
     
 </channel>
