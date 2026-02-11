@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Feb 2026 03:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 05:16:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>„Chociaż strzelasz gole, nie grasz lepiej niż reszta drużyny”</title>
+        <link>https://www.realmadryt.pl/news/146438-chociaz-strzelasz-gole-nie-grasz-lepiej-niz-reszta-druzyny</link>
+        <pubDate>Wed, 11 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Juanfe Sanz, jeden ze stałych dziennikarzy nocnego telewizyjnego Chiringuito, przekazał w programie historię o starciu w szatni Realu Madryt w przerwie styczniowego meczu z Levante, pamiętnego pierwszego z wygwizdywaniem piłkarzy przez Bernabéu. Przedstawiamy jego wypowiedzi.</description>
+    </item>
     
     <item>
         <title>Piłkarze Realu Madryt spotkali się na kolacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146413-pichichi-zamora-asistencias</link>
         <pubDate>Tue, 10 Feb 2026 11:10:00 GMT</pubDate>
         <description>Podsumowanie najważniejszych indywidualnych statystyk po 23. kolejce La Ligi.</description>
-    </item>
-    
-    <item>
-        <title>Vozpópuli: Laporta wysłał do sądu list w obronie Tebasa</title>
-        <link>https://www.realmadryt.pl/news/146419-vozpopuli-laporta-wyslal-do-sadu-list-w-obronie-tebasa</link>
-        <pubDate>Tue, 10 Feb 2026 10:48:00 GMT</pubDate>
-        <description>Trybunał Administracyjny ds. Sportu (TAD) wchodzi w decydującą fazę postępowania wszczętego przeciwko Javierowi Tebasowi w związku z domniemanym „bardzo poważnym” naruszeniem polegającym na rozpowszechnieniu informacji dotyczących Barcelony uznawanych za poufne. W obronie prezesa La Ligi stanął Joan Laporta.</description>
     </item>
     
 </channel>
