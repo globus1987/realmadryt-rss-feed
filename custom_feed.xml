@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Feb 2026 10:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 11:31:52 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Alaba również zdenerwowany swoją sytuacją</title>
+        <link>https://www.realmadryt.pl/news/146442-marca-alaba-rowniez-zdenerwowany-swoja-sytuacja</link>
+        <pubDate>Wed, 11 Feb 2026 12:10:00 GMT</pubDate>
+        <description>Austriacki stoper miał przekazać Arbeloi swoje niezadowolenie z powodu niewielkiej liczby minut, które otrzymuje.</description>
+    </item>
+    
+    <item>
+        <title>TyC Sports: Real Madryt zainteresowany Cristianem Romero</title>
+        <link>https://www.realmadryt.pl/news/146432-tyc-sports-real-madryt-zainteresowany-cristianem-romero</link>
+        <pubDate>Wed, 11 Feb 2026 11:59:00 GMT</pubDate>
+        <description>W ojczyźnie stopera podano, że ten jest niezadowolony z działań swojego klubu i dodatkowo jest obserwowany przez Królewskich.</description>
+    </item>
     
     <item>
         <title>David Jiménez pasuje do Realu</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146436-pilkarze-realu-madryt-spotkali-sie-na-kolacji</link>
         <pubDate>Wed, 11 Feb 2026 00:42:00 GMT</pubDate>
         <description>We wtorek wieczorem w ścisłym centrum Madrytu odbyła się kolacja pierwszej drużyny Realu Madryt. Zorganizowali ją Vinícius i Mbappé.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146435-dzisiejsze-okladki</link>
-        <pubDate>Wed, 11 Feb 2026 00:23:00 GMT</pubDate>
-        <description>Sytuacja Realu Madryt, półfinał Pucharu Króla i plany Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Doszło do rozmowy Arbeloi z Carvajalem</title>
-        <link>https://www.realmadryt.pl/news/146429-marca-doszlo-do-rozmowy-arbeloi-z-carvajalem</link>
-        <pubDate>Tue, 10 Feb 2026 20:29:00 GMT</pubDate>
-        <description>Gazeta donosi, że dzisiaj doszło do spotkania trenera z kapitanem, by wyjaśnić sytuację zawodnika i złagodzić napięcie powstałe po meczu z Valencią.</description>
     </item>
     
 </channel>
