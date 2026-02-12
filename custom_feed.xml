@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Feb 2026 23:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 23:48:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146491-dzisiejsze-okladki</link>
+        <pubDate>Fri, 13 Feb 2026 00:30:00 GMT</pubDate>
+        <description>Wygrana Atlético nad Barceloną to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Półautomatyczny spalony nie zadziałał przy golu Barcelony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146473-ceferin-porozumienie-z-realem-chodzi-tylko-o-jednosc-a-nie-o-wladze</link>
         <pubDate>Thu, 12 Feb 2026 14:12:00 GMT</pubDate>
         <description>Aleksander Čeferin pojawił się na konferencji prasowej po 50. Kongresie UEFA. Przedstawiamy wypowiedzi prezesa UEFA z tego wydarzenia.</description>
-    </item>
-    
-    <item>
-        <title>Real Sociedad jeszcze nie przegrał w 2026 roku</title>
-        <link>https://www.realmadryt.pl/news/146472-real-sociedad-jeszcze-nie-przegral-w-2026-roku</link>
-        <pubDate>Thu, 12 Feb 2026 14:08:00 GMT</pubDate>
-        <description>Klub z San Sebastián po słabym 2025 roku, w nowym nie dał się jeszcze pokonać. Jest o krok od finału Copa del Rey, a w lidze wygrał między innymi z Barceloną.</description>
     </item>
     
 </channel>
