@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Feb 2026 06:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 07:34:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Największa skaza Florentino</title>
+        <link>https://www.realmadryt.pl/news/146463-glos-kibica-najwieksza-skaza-florentino</link>
+        <pubDate>Thu, 12 Feb 2026 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Mbappé próbuje podążać bramkową drogą Cristiano</title>
@@ -80,14 +87,7 @@
         <title>Mbappé deklasuje kolegów pod względem udziałów bramkowych</title>
         <link>https://www.realmadryt.pl/news/146451-mbappe-deklasuje-kolegow-pod-wzgledem-udzialow-bramkowych</link>
         <pubDate>Wed, 11 Feb 2026 18:31:00 GMT</pubDate>
-        <description>Kylian Mbappé prowadzi w klasyfikacji kanadyjskiej La Ligi, a drugi w Realu Vinícius jest daleko w tyle za Francuzem. Na krajowym podwórku Kylian jest odpowiedzialny za ponad połowę bramek całego zespołu.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 27. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146450-terminarz-27-kolejki-la-ligi</link>
-        <pubDate>Wed, 11 Feb 2026 17:25:00 GMT</pubDate>
-        <description>La Liga przedstawiła dokładny harmonogram 27. kolejki tego sezonu, w której Królewscy zagrają na wyjeździe z Celtą.</description>
+        <description>Kylian Mbappé prowadzi w klasyfikacji kanadyjskiej La Ligi, a drugi w Realu Vinícius jest daleko w tyle za Francuzem. Na krajowym podwórku Kylian jest odpowiedzialny za prawie połowę bramek całego zespołu.</description>
     </item>
     
 </channel>
