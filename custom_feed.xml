@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Feb 2026 06:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 07:16:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Mbappé vs Cristiano</title>
+        <link>https://www.realmadryt.pl/news/146493-glos-kibica-mbappe-vs-cristiano</link>
+        <pubDate>Fri, 13 Feb 2026 07:45:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>„Już po kilku dniach Arbeloa miał w gabinecie zawodnika, który przyszedł się poskarżyć”</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146478-oficjalnie-tuchel-przedluzyl-umowe-z-angielska-reprezentacja</link>
         <pubDate>Thu, 12 Feb 2026 19:19:00 GMT</pubDate>
         <description>Selekcjoner Jude'a Bellinghama i Trenta Alexandra-Arnolda przedłużył umowę na okres wykraczający poza zbliżający się mundial.</description>
-    </item>
-    
-    <item>
-        <title>Arda Güler dementuje zarzuty o mobbing ze strony kolegów z Realu Madryt</title>
-        <link>https://www.realmadryt.pl/news/146476-arda-gueler-dementuje-zarzuty-o-mobbing-ze-strony-kolegow-z-realu-madryt</link>
-        <pubDate>Thu, 12 Feb 2026 17:29:00 GMT</pubDate>
-        <description>Arda Güler odpowiedział na Instagramie na wypowiedzi Serhata Pekmeziego, byłego skauta Fenerbahçe, który w 2021 roku sprowadził go do Stambułu. Pomocnik całkowicie im zaprzecza.</description>
     </item>
     
 </channel>
