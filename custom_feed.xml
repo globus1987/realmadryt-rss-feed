@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Feb 2026 23:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 02:55:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Raúl!</title>
+        <link>https://www.realmadryt.pl/news/146426-wszystkiego-najlepszego-raul</link>
+        <pubDate>Fri, 13 Feb 2026 00:56:00 GMT</pubDate>
+        <description>Dziś swoje 23. urodziny obchodzi Raúl Asencio. Życzymy mu z tej okazji dalszego równie błyskawicznego rozwoju i udowadniania, że wychowankowie mogą wnieść coś do pierwszego zespołu częściej niż raz na sto lat.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146474-decyzja-o-tym-ze-sergio-ramos-nie-gra-w-sevilli-jest-tylko-moja</link>
         <pubDate>Thu, 12 Feb 2026 15:46:00 GMT</pubDate>
         <description>Prezes Sevilli skomentował sytuację swojego klubu, jego sprzedaż oraz zablokowany, jak się okazuje przez niego, powrót Sergio Ramosa. Przedstawiamy jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Čeferin: Porozumienie z Realem? Chodzi tylko o jedność, a nie o władzę</title>
-        <link>https://www.realmadryt.pl/news/146473-ceferin-porozumienie-z-realem-chodzi-tylko-o-jednosc-a-nie-o-wladze</link>
-        <pubDate>Thu, 12 Feb 2026 14:12:00 GMT</pubDate>
-        <description>Aleksander Čeferin pojawił się na konferencji prasowej po 50. Kongresie UEFA. Przedstawiamy wypowiedzi prezesa UEFA z tego wydarzenia.</description>
     </item>
     
 </channel>
