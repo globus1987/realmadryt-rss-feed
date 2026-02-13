@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Feb 2026 08:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 09:03:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 13 lutego</title>
+        <link>https://www.realmadryt.pl/news/146485-kartka-z-kalendarza-13-lutego</link>
+        <pubDate>Fri, 13 Feb 2026 09:40:00 GMT</pubDate>
+        <description>Pierwszy Superpuchar Hiszpanii dla koszykarzy, mecze Ligi Mistrzów z Manchesterem i Ajaxem oraz wygrane spotkania ligowe z czerwonymi kartkami dla Casillasa i Varane'a. Co działo się 13 lutego?</description>
+    </item>
     
     <item>
         <title>Po wyjazdowe przełamanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146477-polfinal-pucharu-krola-atletico-zmiotlo-barcelone-z-planszy-video</link>
         <pubDate>Thu, 12 Feb 2026 20:00:00 GMT</pubDate>
         <description>Real Madryt odpadł z Pucharu Króla w 1/8 finału po porażce z drugoligowym Albacete. Dzisiaj w półfinałach tych rozgrywek zmierzyli się dwaj najwięksi rywale Królewskich w La Lidze. Doszło do pogromu.</description>
-    </item>
-    
-    <item>
-        <title>UEFA i Unia Europejska pozostają przeciwko ligowym meczom za granicą</title>
-        <link>https://www.realmadryt.pl/news/146481-uefa-i-unia-europejska-pozostaja-przeciwko-ligowym-meczom-za-granica</link>
-        <pubDate>Thu, 12 Feb 2026 19:51:00 GMT</pubDate>
-        <description>Na Kongresie UEFA mówcy podjęli kolejny raz temat pomysłu rozgrywania meczów ligowych poza granicami danego kraju. Liderem takich inicjatyw jest La Liga, jej prezes Javier Tebas oraz Barcelona.</description>
     </item>
     
 </channel>
