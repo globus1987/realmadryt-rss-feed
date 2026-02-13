@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Feb 2026 23:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 23:45:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146514-dzisiejsze-okladki</link>
+        <pubDate>Sat, 14 Feb 2026 00:07:00 GMT</pubDate>
+        <description>Mecz Realu Madryt z Sociedadem i echa porażki Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Castilla wygrywa rzutem na taśmę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146499-ceballos-z-kolejnym-cytatem-motywacyjnym-prosto-z-super-bowl</link>
         <pubDate>Fri, 13 Feb 2026 16:14:00 GMT</pubDate>
         <description>Hiszpan wystosował kolejny motywacyjny wpis w mediach społecznościowych.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Mecz z Atlético z Barceloną? Nie mam nic do skomentowania, zapytajcie Barcelonę i Flicka</title>
-        <link>https://www.realmadryt.pl/news/146497-arbeloa-mecz-z-atletico-z-barcelona-nie-mam-nic-do-skomentowania-zapytajcie-barcelone-i-flicka</link>
-        <pubDate>Fri, 13 Feb 2026 13:22:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Sociedadem w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
