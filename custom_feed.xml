@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 09:49:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 10:35:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sociedad powalczy o swoje tysięczne zwycięstwo w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/146521-sociedad-powalczy-o-swoje-tysieczne-zwyciestwo-w-la-lidze</link>
+        <pubDate>Sat, 14 Feb 2026 11:06:00 GMT</pubDate>
+        <description>La Real byłby ósmym klubem w historii La Ligi z taką liczbą triumfów.</description>
+    </item>
+    
+    <item>
+        <title>Szara stabilność</title>
+        <link>https://www.realmadryt.pl/news/146479-szara-stabilnosc</link>
+        <pubDate>Sat, 14 Feb 2026 11:01:00 GMT</pubDate>
+        <description>Niniejszy tekst nie będzie ani dobry, ani zły. Można powiedzieć, że będzie średni, choć jego autor dał z siebie wszystko, czyli 40%.</description>
+    </item>
     
     <item>
         <title>Arbeloa wskazuje na młody wiek defensywy, porównując ją do… trzeciej ligi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146514-dzisiejsze-okladki</link>
         <pubDate>Sat, 14 Feb 2026 00:07:00 GMT</pubDate>
         <description>Mecz Realu Madryt z Sociedadem i echa porażki Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Castilla wygrywa rzutem na taśmę</title>
-        <link>https://www.realmadryt.pl/news/146513-castilla-wygrywa-rzutem-na-tasme</link>
-        <pubDate>Fri, 13 Feb 2026 23:40:00 GMT</pubDate>
-        <description>W 24. kolejce Primera Federación Castilla wygrała z Bilbao Athletic 2:1. Królewscy stracili gola na początku, ale byli w stanie odrobić straty i odnieść pierwsze od miesiąca zwycięstwo.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze wygrali w Belgradzie</title>
-        <link>https://www.realmadryt.pl/news/146512-koszykarze-wygrali-w-belgradzie</link>
-        <pubDate>Fri, 13 Feb 2026 23:02:00 GMT</pubDate>
-        <description>W 28. kolejce Euroligi Real Madryt pokonał na wyjeździe Partizan. Królewscy mieli za sobą trzy porażki z rzędu w tych rozgrywkach w obcych halach i w końcu zdołali to zmienić, co poprawiło ich sytuację w tabeli.</description>
     </item>
     
 </channel>
