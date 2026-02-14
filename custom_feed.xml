@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 07:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 07:54:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewskie typy #4</title>
+        <link>https://www.realmadryt.pl/news/146516-krolewskie-typy-4</link>
+        <pubDate>Sat, 14 Feb 2026 08:30:00 GMT</pubDate>
+        <description>Wybrani redaktorzy przedstawiają swoje typy na najbliższe dni i razem z STS czekają na wasze kupony. #współpraca</description>
+    </item>
     
     <item>
         <title>Courtois: Mój ulubiony mecz to finał w Paryżu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146506-as-spotkanie-florentino-ceferina-i-al-khelaifiego-odblokowalo-sytuacje</link>
         <pubDate>Fri, 13 Feb 2026 18:19:00 GMT</pubDate>
         <description>Dziennikarz zbliżony do zarządu Królewskich zapewnia, że porozumienie nie jest pełne ani ostateczne, a rozmowy trwają. Wszystko jednak na drodze do polepszenia futbolu.</description>
-    </item>
-    
-    <item>
-        <title>Moretto: Milan interesuje się Valdepeñasem</title>
-        <link>https://www.realmadryt.pl/news/146504-moretto-milan-interesuje-sie-valdepenasem</link>
-        <pubDate>Fri, 13 Feb 2026 17:48:00 GMT</pubDate>
-        <description>Obrońca Castilli ma już za sobą debiut w pierwszej drużynie.</description>
     </item>
     
 </channel>
