@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 22:59:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 23:35:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146539-dzisiejsze-okladki</link>
+        <pubDate>Sun, 15 Feb 2026 00:28:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i skarga Barcelony to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Oyarzabal: To nie był nasz najlepszy mecz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146526-zaskarzajacy-prezesa-la-ligi-dostalem-ok-od-panow-laporty-i-florentino</link>
         <pubDate>Sat, 14 Feb 2026 14:46:00 GMT</pubDate>
         <description>Prezes centrum szkoleniowego CENAFE stwierdził publicznie, że przed zaskarżaniem prezesa La Ligi zyskał przychylność prezesa Barcelony, prezesa Realu Madryt i samego rządu.</description>
-    </item>
-    
-    <item>
-        <title>Obejrzyj mecz Realu Madryt w STS TV!</title>
-        <link>https://www.realmadryt.pl/news/146508-obejrzyj-mecz-realu-madryt-w-sts-tv</link>
-        <pubDate>Sat, 14 Feb 2026 14:30:00 GMT</pubDate>
-        <description>Obejrzyj mecz Realu i Barcelony w STS TV!</description>
     </item>
     
 </channel>
