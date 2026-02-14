@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 04:24:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 05:31:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Jak ktoś nie jest zadowolony, to przychodzi na szarą kanapę i rozmawiamy</title>
+        <link>https://www.realmadryt.pl/news/146502-arbeloa-jak-ktos-nie-jest-zadowolony-to-przychodzi-na-szara-kanape-i-rozmawiamy</link>
+        <pubDate>Sat, 14 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Sociedadem w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Real Sociedad: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146501-po-pierwsza-wygrana-z-nowym-trenerem</link>
         <pubDate>Fri, 13 Feb 2026 16:29:00 GMT</pubDate>
         <description>W 24. kolejce Primera Federación Castilla zmierzy się z drugą drużyną Athleticu. Dla Królewskich jest to piąte podejście, by odnieść pierwsze zwycięstwo z nowym trenerem.</description>
-    </item>
-    
-    <item>
-        <title>Moretto: Osasuna odrzuciła 25-milionową ofertę za Muñoza</title>
-        <link>https://www.realmadryt.pl/news/146500-moretto-osasuna-odrzucila-25-milionowa-oferte-za-munoza</link>
-        <pubDate>Fri, 13 Feb 2026 16:25:00 GMT</pubDate>
-        <description>Piłkarz sprzedany ze szkółki Królewskich generuje coraz większe zainteresowanie, a Real Madryt wciąż posiada do niego serię praw.</description>
     </item>
     
 </channel>
