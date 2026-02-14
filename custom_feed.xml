@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 11:00:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 11:37:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dwie twarze Gonzalo</title>
+        <link>https://www.realmadryt.pl/news/146522-dwie-twarze-gonzalo</link>
+        <pubDate>Sat, 14 Feb 2026 12:07:00 GMT</pubDate>
+        <description>Wychowanek nie zdobył żadnej bramki w trakcie 574 minut z Kylianem na boisku, a gdy Francuz był poza grą, trafił do siatki 10 razy w ciągu 800 minut.</description>
+    </item>
     
     <item>
         <title>Sociedad powalczy o swoje tysięczne zwycięstwo w La Lidze</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146517-real-madryt-real-sociedad-przewidywane-sklady</link>
         <pubDate>Sat, 14 Feb 2026 01:52:00 GMT</pubDate>
         <description>Real Madryt wraca dzisiaj do gry w La Lidze. Sytuacja kadrowa ustabilizowała się, a po zawieszeniu do gry wraca Vinícius.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146514-dzisiejsze-okladki</link>
-        <pubDate>Sat, 14 Feb 2026 00:07:00 GMT</pubDate>
-        <description>Mecz Realu Madryt z Sociedadem i echa porażki Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
