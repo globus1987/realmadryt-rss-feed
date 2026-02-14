@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 21:35:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 21:57:20 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Real Sociedad [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146530-real-madryt-real-sociedad-na-zywo</link>
+        <title>Oceń piłkarzy po meczu z Sociedadem</title>
+        <link>https://www.realmadryt.pl/news/146531-ocen-pilkarzy-po-meczu-z-sociedadem</link>
+        <pubDate>Sat, 14 Feb 2026 22:56:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Walentynkowy spacer</title>
+        <link>https://www.realmadryt.pl/news/146530-walentynkowy-spacer</link>
         <pubDate>Sat, 14 Feb 2026 20:55:00 GMT</pubDate>
-        <description>Na Bernabéu trwa mecz między Realem Madryt a Realem Sociedad w ramach 24. kolejki La Ligi.</description>
+        <description>W meczu 24. kolejki Real Madryt wygrał z Realem Sociedad 4:1. Bramki dla Królewskich zdobyli Gonzalo García, Vinícius Júnior (dwie) i Fede Valverde.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146522-dwie-twarze-gonzalo</link>
         <pubDate>Sat, 14 Feb 2026 12:07:00 GMT</pubDate>
         <description>Wychowanek nie zdobył żadnej bramki w trakcie 574 minut z Kylianem na boisku, a gdy Francuz był poza grą, trafił do siatki 10 razy w ciągu 800 minut.</description>
-    </item>
-    
-    <item>
-        <title>Sociedad powalczy o swoje tysięczne zwycięstwo w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/146521-sociedad-powalczy-o-swoje-tysieczne-zwyciestwo-w-la-lidze</link>
-        <pubDate>Sat, 14 Feb 2026 11:06:00 GMT</pubDate>
-        <description>La Real byłby ósmym klubem w historii La Ligi z taką liczbą triumfów.</description>
     </item>
     
 </channel>
