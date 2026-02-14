@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 19:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 19:55:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Real Sociedad [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/146530-real-madryt-real-sociedad-na-zywo</link>
+        <pubDate>Sat, 14 Feb 2026 20:55:00 GMT</pubDate>
+        <description>Na Bernabéu trwa mecz między Realem Madryt a Realem Sociedad w ramach 24. kolejki La Ligi.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Sociedadem [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146521-sociedad-powalczy-o-swoje-tysieczne-zwyciestwo-w-la-lidze</link>
         <pubDate>Sat, 14 Feb 2026 11:06:00 GMT</pubDate>
         <description>La Real byłby ósmym klubem w historii La Ligi z taką liczbą triumfów.</description>
-    </item>
-    
-    <item>
-        <title>Szara stabilność</title>
-        <link>https://www.realmadryt.pl/news/146479-szara-stabilnosc</link>
-        <pubDate>Sat, 14 Feb 2026 11:01:00 GMT</pubDate>
-        <description>Niniejszy tekst nie będzie ani dobry, ani zły. Można powiedzieć, że będzie średni, choć jego autor dał z siebie wszystko, czyli 40%.</description>
     </item>
     
 </channel>
