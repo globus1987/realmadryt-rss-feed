@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Feb 2026 23:58:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 03:17:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Drugi karny na Viníciusie</title>
+        <link>https://www.realmadryt.pl/news/146543-glos-kibica-drugi-karny-na-viniciusie</link>
+        <pubDate>Sun, 15 Feb 2026 01:46:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146527-oficjalnie-barcelona-wyslala-do-federacji-skarge-ws-sedziowania</link>
         <pubDate>Sat, 14 Feb 2026 16:00:00 GMT</pubDate>
         <description>Barcelona poinformowała, że wysłała formalną skargę do Federacji na sędziowanie w półfinale Pucharu Króla z Atlético. Przedstawiamy pełny komunikat Katalończyków.</description>
-    </item>
-    
-    <item>
-        <title>Zaskarżający prezesa La Ligi: Dostałem ok od panów Laporty i Florentino</title>
-        <link>https://www.realmadryt.pl/news/146526-zaskarzajacy-prezesa-la-ligi-dostalem-ok-od-panow-laporty-i-florentino</link>
-        <pubDate>Sat, 14 Feb 2026 14:46:00 GMT</pubDate>
-        <description>Prezes centrum szkoleniowego CENAFE stwierdził publicznie, że przed zaskarżaniem prezesa La Ligi zyskał przychylność prezesa Barcelony, prezesa Realu Madryt i samego rządu.</description>
     </item>
     
 </channel>
