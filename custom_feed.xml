@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Feb 2026 06:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 07:08:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: Chcemy dołożyć kolejne zwycięstwa, by walczyć o ligę</title>
+        <link>https://www.realmadryt.pl/news/146541-courtois-chcemy-dolozyc-kolejne-zwyciestwa-by-walczyc-o-lige</link>
+        <pubDate>Sun, 15 Feb 2026 07:45:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu dla klubowej telewizji po wygranym 4:1 spotkaniu z Realem Sociedad. Przedstawiamy zapis rozmowy z bramkarzem Królewskich.</description>
+    </item>
     
     <item>
         <title>Gonzalo: Strzeliłem gola, ale też zmarnowałem jedną świetną sytuację</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146530-walentynkowy-spacer</link>
         <pubDate>Sat, 14 Feb 2026 20:55:00 GMT</pubDate>
         <description>W meczu 24. kolejki Real Madryt wygrał z Realem Sociedad 4:1. Bramki dla Królewskich zdobyli Gonzalo García, Vinícius Júnior (dwie) i Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Rozgrzewka przed Sociedadem [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146529-rozgrzewka-przed-sociedadem-na-zywo</link>
-        <pubDate>Sat, 14 Feb 2026 20:00:00 GMT</pubDate>
-        <description>Królewscy po 20:20 wybiegną na murawę i rozpoczną rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Sociedadem. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
     </item>
     
 </channel>
