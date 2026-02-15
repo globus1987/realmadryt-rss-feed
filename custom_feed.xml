@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Feb 2026 21:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 21:58:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: To było bardzo ważne zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/146562-scariolo-to-bylo-bardzo-wazne-zwyciestwo</link>
+        <pubDate>Sun, 15 Feb 2026 22:54:00 GMT</pubDate>
+        <description>Sergio Scariolo wziął udział w konferencji prasowej po wygranej z Unicają. Był zadowolony z reakcji podopiecznych w drugiej połowie.</description>
+    </item>
     
     <item>
         <title>Efektowna remontada koszykarzy, znakomity Hezonja</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146546-trent-jest-rozwiazaniem-video</link>
         <pubDate>Sun, 15 Feb 2026 11:38:00 GMT</pubDate>
         <description>Obrońca zagrywanymi przez siebie piłkami daje Realowi nowe możliwości.</description>
-    </item>
-    
-    <item>
-        <title>Garuba: To jest bardzo ważny mecz przed Pucharem Króla</title>
-        <link>https://www.realmadryt.pl/news/146547-garuba-to-jest-bardzo-wazny-mecz-przed-pucharem-krola</link>
-        <pubDate>Sun, 15 Feb 2026 11:30:00 GMT</pubDate>
-        <description>Usman Garuba wypowiadał się przed meczem z Unicają. Mówił o tym, że ten pojedynek może być istotny dla odpowiedniego nastawienia przed Pucharem Króla.</description>
     </item>
     
 </channel>
