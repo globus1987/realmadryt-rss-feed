@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Feb 2026 23:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 23:43:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146564-dzisiejsze-okladki</link>
+        <pubDate>Mon, 16 Feb 2026 00:10:00 GMT</pubDate>
+        <description>Porażka Atlético, mecz Realu Madryt w Lizbonie i mecz Barcelony z Gironą to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius: Najczęściej wychodzimy razem z Kylianem, Camavingą i Mendym [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/146563-vinicius-najczesciej-wychodzimy-razem-z-kylianem-camavinga-i-mendym-video</link>
+        <pubDate>Mon, 16 Feb 2026 00:02:00 GMT</pubDate>
+        <description>Brazylijczyk spędził dzień z Ibaiem Llanosem, najpopularniejszym hiszpańskim streamerem, z okazji promocji swoich nowych butów Nike. Przedstawiamy najważniejsze wypowiedzi z półgodzinnego materiału Hiszpana.</description>
+    </item>
     
     <item>
         <title>Scariolo: To było bardzo ważne zwycięstwo</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146552-oceny-zawodnikow-po-meczu-z-sociedadem</link>
         <pubDate>Sun, 15 Feb 2026 12:35:00 GMT</pubDate>
         <description>Real Madryt wygrał 4:1 z Realem Sociedad. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Przetarcie przed Pucharem Króla</title>
-        <link>https://www.realmadryt.pl/news/146549-przetarcie-przed-pucharem-krola</link>
-        <pubDate>Sun, 15 Feb 2026 11:40:00 GMT</pubDate>
-        <description>W 20. kolejce Ligi Endesa Real Madryt zmierzy się z Unicają. Niezależnie od wyniku Królewscy pozostaną na pierwszym miejscu w tabeli, a w przyszłym tygodniu czeka ich Puchar Króla, w którym również zagrają z Unicają.</description>
-    </item>
-    
-    <item>
-        <title>Trent jest rozwiązaniem [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146546-trent-jest-rozwiazaniem-video</link>
-        <pubDate>Sun, 15 Feb 2026 11:38:00 GMT</pubDate>
-        <description>Obrońca zagrywanymi przez siebie piłkami daje Realowi nowe możliwości.</description>
     </item>
     
 </channel>
