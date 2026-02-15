@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Feb 2026 08:42:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 09:15:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Valverde: Za nami tygodnie, w których przełknęliśmy dużo gó*na</title>
+        <link>https://www.realmadryt.pl/news/146542-valverde-za-nami-tygodnie-w-ktorych-przelknelismy-duzo-go-na</link>
+        <pubDate>Sun, 15 Feb 2026 10:00:00 GMT</pubDate>
+        <description>Federico Valverde wyszedł do dziennikarzy w strefie mieszanej po meczu z Realem Sociedad. Przedstawiamy wypowiedzi Urugwajczyka z tej rozmowy na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 15 lutego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146533-real-madryt-4-1-real-sociedad-video</link>
         <pubDate>Sat, 14 Feb 2026 23:06:00 GMT</pubDate>
         <description>W meczu 24. kolejki Real Madryt wygrał z Realem Sociedad 4:1. Bramki dla Królewskich zdobyli Gonzalo García, Vinícius Júnior (dwie) i Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius MVP meczu z Realem Sociedad</title>
-        <link>https://www.realmadryt.pl/news/146532-vinicius-mvp-meczu-z-realem-sociedad</link>
-        <pubDate>Sat, 14 Feb 2026 22:59:00 GMT</pubDate>
-        <description>Vinícius Júnior został wyróżniony po meczu Realu Madryt z Realem Sociedad.</description>
     </item>
     
 </channel>
