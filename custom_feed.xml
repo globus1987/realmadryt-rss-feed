@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Feb 2026 09:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 09:55:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Błąd Huijsena? Nie jest łatwo być obrońcą w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/146544-arbeloa-blad-huijsena-nie-jest-latwo-byc-obronca-w-realu-madryt</link>
+        <pubDate>Sun, 15 Feb 2026 10:45:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się na konferencji prasowej po meczu z Sociedadem w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt dziennikarzami na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Valverde: Za nami tygodnie, w których przełknęliśmy dużo gó*na</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146534-fede-cala-druzyna-rozegrala-swietny-mecz</link>
         <pubDate>Sat, 14 Feb 2026 23:17:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu z murawy dla klubowej telewizji po wygranym 4:1 meczu z Realem Sociedad na Estadio Santiago Bernabéu. Przedstawiamy wypowiedzi kapitana Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt 4:1 Real Sociedad [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146533-real-madryt-4-1-real-sociedad-video</link>
-        <pubDate>Sat, 14 Feb 2026 23:06:00 GMT</pubDate>
-        <description>W meczu 24. kolejki Real Madryt wygrał z Realem Sociedad 4:1. Bramki dla Królewskich zdobyli Gonzalo García, Vinícius Júnior (dwie) i Fede Valverde.</description>
     </item>
     
 </channel>
