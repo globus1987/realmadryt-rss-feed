@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Feb 2026 10:34:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 11:28:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Benficę</title>
+        <link>https://www.realmadryt.pl/news/146570-kadra-na-benfice</link>
+        <pubDate>Mon, 16 Feb 2026 11:35:00 GMT</pubDate>
+        <description>Álvaro Arbeloa nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas wyjazdowego spotkania z Benficą. Hiszpan powołał 24 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Vinícius wrócił do wykorzystywania karnych, stosując nową metodę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146562-scariolo-to-bylo-bardzo-wazne-zwyciestwo</link>
         <pubDate>Sun, 15 Feb 2026 22:54:00 GMT</pubDate>
         <description>Sergio Scariolo wziął udział w konferencji prasowej po wygranej z Unicają. Był zadowolony z reakcji podopiecznych w drugiej połowie.</description>
-    </item>
-    
-    <item>
-        <title>Efektowna remontada koszykarzy, znakomity Hezonja</title>
-        <link>https://www.realmadryt.pl/news/146560-efektowna-remontada-koszykarzy-znakomity-hezonja</link>
-        <pubDate>Sun, 15 Feb 2026 21:17:00 GMT</pubDate>
-        <description>W 20. kolejce Ligi Endesa Real Madryt pokonał Unicaję, chociaż w połowie meczu nic na to nie wskazywało. Królewscy pod wodzą Hezonji wrócili do spotkania i okazali się lepsi w końcówce.</description>
     </item>
     
 </channel>
