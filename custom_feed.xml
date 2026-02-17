@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Feb 2026 11:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 11:55:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>The Athletic: Arbeloa ma kontrakt do końca następnego sezonu</title>
+        <link>https://www.realmadryt.pl/news/146597-the-athletic-arbeloa-ma-kontrakt-do-konca-nastepnego-sezonu</link>
+        <pubDate>Tue, 17 Feb 2026 12:17:00 GMT</pubDate>
+        <description>Mario Cortegana i Guillermo Rai z The Athletic przekazali swój cotygodniowy raport o stanie Realu Madryt. Przedstawiamy ich najważniejsze komentarze i informacje.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Nico Williams wypada na czas nieokreślony</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146592-benfica-real-madryt-przewidywane-sklady</link>
         <pubDate>Tue, 17 Feb 2026 02:12:00 GMT</pubDate>
         <description>Real Madryt wraca dzisiaj do gry w Lidze Mistrzów. Drużyna poleciała do Lizbony bez czterech piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146589-dzisiejsze-okladki</link>
-        <pubDate>Tue, 17 Feb 2026 00:26:00 GMT</pubDate>
-        <description>Mecz Realu Madryt z Benficą i porażka Barcelony to główne tematy na wtorkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
