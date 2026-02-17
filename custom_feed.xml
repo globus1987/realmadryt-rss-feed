@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Feb 2026 07:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 08:05:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 17 lutego</title>
+        <link>https://www.realmadryt.pl/news/146594-kartka-z-kalendarza-17-lutego</link>
+        <pubDate>Tue, 17 Feb 2026 09:00:00 GMT</pubDate>
+        <description>Pierwszy ligowy Klasyk, mecze piłkarzy i koszykarzy z Barceloną i pierwszy mecz Ligi Mistrzów Zidane'a. Co działo się 17 lutego?</description>
+    </item>
+    
+    <item>
+        <title>Trzech podstawowych piłkarzy zagrożonych zawieszeniem na rewanż</title>
+        <link>https://www.realmadryt.pl/news/146593-trzech-podstawowych-pilkarzy-zagrozonych-zawieszeniem-na-rewanz</link>
+        <pubDate>Tue, 17 Feb 2026 08:30:00 GMT</pubDate>
+        <description>Dwóch piłkarzy pauzuje dzisiaj z powodu czerwonej kartki, a kolejnych trzech jest zagrożonych zawieszeniem na rewanż za żółte kartki.</description>
+    </item>
     
     <item>
         <title>Pichichi, Zamora, Asistencias</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146578-arbeloa-naszym-celem-nie-jest-tylko-wyeliminowanie-benfiki-ale-wygranie-calej-ligi-mistrzow</link>
         <pubDate>Mon, 16 Feb 2026 19:38:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Benficą w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami na Estádio da Luz w Lizbonie. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
-    </item>
-    
-    <item>
-        <title>Przed Gonzalo otworzyła się szansa wyjazdu na mundial?</title>
-        <link>https://www.realmadryt.pl/news/146583-przed-gonzalo-otworzyla-sie-szansa-wyjazdu-na-mundial</link>
-        <pubDate>Mon, 16 Feb 2026 19:13:00 GMT</pubDate>
-        <description>Wychowanek Realu Madryt jest kandydatem do pojechania z kadrą La Roja na tegoroczne mistrzostwa świata wobec poważnej kontuzji Omorodiona.</description>
-    </item>
-    
-    <item>
-        <title>Mourinho: Ludzie szanują mnie za to, że dałem Realowi wszystko, co miałem</title>
-        <link>https://www.realmadryt.pl/news/146577-mourinho-ludzie-szanuja-mnie-za-to-ze-dalem-realowi-wszystko-co-mialem</link>
-        <pubDate>Mon, 16 Feb 2026 16:05:00 GMT</pubDate>
-        <description>José Mourinho pojawił się na konferencji prasowej przed meczem Ligi Mistrzów z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi trenera Benfiki z tego spotkania z dziennikarzami.</description>
     </item>
     
 </channel>
