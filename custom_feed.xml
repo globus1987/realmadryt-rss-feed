@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Feb 2026 03:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 05:05:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Remis w ciemno</title>
+        <link>https://www.realmadryt.pl/news/146590-glos-kibica-remis-w-ciemno</link>
+        <pubDate>Tue, 17 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia postaramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Benfica – Real Madryt: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146575-krolewskie-typy-4-wyniki</link>
         <pubDate>Mon, 16 Feb 2026 14:03:00 GMT</pubDate>
         <description>Wybrani redaktorzy przedstawiają swoje typy na najbliższe dni i razem z STS czekają na wasze kupony. #współpraca</description>
-    </item>
-    
-    <item>
-        <title>Lucas Vázquez coraz ważniejszy dla Bayeru</title>
-        <link>https://www.realmadryt.pl/news/146574-lucas-vazquez-coraz-wazniejszy-dla-bayeru</link>
-        <pubDate>Mon, 16 Feb 2026 13:39:00 GMT</pubDate>
-        <description>Były gracz Królewskich w ostatnich czterech meczach strzelił jednego gola i zaliczył dwie asysty.</description>
     </item>
     
 </channel>
