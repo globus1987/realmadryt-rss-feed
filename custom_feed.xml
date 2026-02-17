@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Feb 2026 14:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 15:28:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: UEFA odświeżyła kryteria sędziowskie przed fazą pucharową Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/146600-oficjalnie-uefa-odswiezyla-kryteria-sedziowskie-przed-faza-pucharowa-ligi-mistrzow</link>
+        <pubDate>Tue, 17 Feb 2026 15:47:00 GMT</pubDate>
+        <description>Dyrektor sędziowski UEFA Roberto Rosetti przedstawił kluczowe wytyczne na środek sezonu od wyższych standardów ochrony zawodników przez jaśniejsze zasady korzystania z VAR po wzmocnioną komunikację z kapitanami drużyn. Przedstawiamy pełny komunikat UEFA w tej sprawie.</description>
+    </item>
     
     <item>
         <title>Laporta: Będzie to liga przeciwko wszystkiemu i wszystkim, bo są tacy, którzy nie chcą, żebyśmy ją wygrali</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146593-trzech-podstawowych-pilkarzy-zagrozonych-zawieszeniem-na-rewanz</link>
         <pubDate>Tue, 17 Feb 2026 08:30:00 GMT</pubDate>
         <description>Dwóch piłkarzy pauzuje dzisiaj z powodu czerwonej kartki, a kolejnych trzech jest zagrożonych zawieszeniem na rewanż za żółte kartki.</description>
-    </item>
-    
-    <item>
-        <title>Pichichi, Zamora, Asistencias</title>
-        <link>https://www.realmadryt.pl/news/146587-pichichi-zamora-asistencias</link>
-        <pubDate>Tue, 17 Feb 2026 07:50:00 GMT</pubDate>
-        <description>Podsumowanie najważniejszych indywidualnych statystyk po 24. kolejce La Ligi.</description>
     </item>
     
 </channel>
