@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Feb 2026 23:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 23:47:21 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146647-dzisiejsze-okladki</link>
+        <pubDate>Thu, 19 Feb 2026 00:32:00 GMT</pubDate>
+        <description>Remis Atlético i sytuacja Lamine'a Yamala to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Nico Paz z golem na San Siro [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146632-kick-it-out-o-komentarzach-mourinho-to-forma-gaslightingu</link>
         <pubDate>Wed, 18 Feb 2026 14:28:00 GMT</pubDate>
         <description>Kick It Out to angielska organizacja, która działa w sektorach piłkarskim, edukacyjnym i społecznym, przeciwstawiając się dyskryminacji, zachęcając do praktyk włączających i pracując na rzecz pozytywnych zmian. Teraz wystosował komunikat w sprawie wypowiedzi trenera José Mourinho po meczu z Realem Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Trent: Jestem bardzo dumny z reakcji drużyny i klubu</title>
-        <link>https://www.realmadryt.pl/news/146631-trent-jestem-bardzo-dumny-z-reakcji-druzyny-i-klubu</link>
-        <pubDate>Wed, 18 Feb 2026 14:15:00 GMT</pubDate>
-        <description>Trent Alexander-Arnold po meczu z Benficą udzielił wywiadu CBS. Przedstawiamy jego wypowiedzi z tej rozmowy.</description>
     </item>
     
 </channel>
