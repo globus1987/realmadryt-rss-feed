@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Feb 2026 06:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 07:30:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Camavinga: Takie rzeczy ranią Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/146615-camavinga-takie-rzeczy-rania-viniciusa</link>
+        <pubDate>Wed, 18 Feb 2026 07:50:00 GMT</pubDate>
+        <description>Eduardo Camavinga udzielił wywiadu telewizji Movistar+ po wygranym 1:0 meczu z Benficą w Lizbonie. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Henry: Zobaczmy, jak wielkim mężczyzną jest Prestianni - powiedz, co powiedziałeś</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146609-fede-jestem-dumny-z-viniego-i-kolegow-ktorzy-go-bronili</link>
         <pubDate>Tue, 17 Feb 2026 23:33:00 GMT</pubDate>
         <description>Fede Valverde udzielił wywiadu z murawy dla telewizji Movistar+ po wygranym 1:0 meczu z Benficą w Lizbonie. Przedstawiamy zapis rozmowy z kapitanem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Problemy z kolanami nie pozwalają Mbappé być gotowym na 100%</title>
-        <link>https://www.realmadryt.pl/news/146608-arbeloa-problemy-z-kolanami-nie-pozwalaja-mbappe-byc-gotowym-na-100</link>
-        <pubDate>Tue, 17 Feb 2026 23:31:00 GMT</pubDate>
-        <description>Álvaro Arbeloa po meczu Ligi Mistrzów z Benficą udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Estádio da Luz.</description>
     </item>
     
 </channel>
