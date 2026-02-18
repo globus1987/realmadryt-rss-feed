@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Feb 2026 07:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 08:06:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Zawsze będziemy po stronie Viníciusa</title>
+        <link>https://www.realmadryt.pl/news/146621-arbeloa-zawsze-bedziemy-po-stronie-viniciusa</link>
+        <pubDate>Wed, 18 Feb 2026 08:40:00 GMT</pubDate>
+        <description>Álvaro Arbeloa po meczu Ligi Mistrzów z Benficą pojawił się na konferencji prasowej. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Estádio da Luz.</description>
+    </item>
     
     <item>
         <title>Camavinga: Takie rzeczy ranią Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146610-tchouameni-vini-powiedzial-ze-tamten-facet-nazwal-go-malpa</link>
         <pubDate>Tue, 17 Feb 2026 23:36:00 GMT</pubDate>
         <description>Aurélien Tchouaméni udzielił wywiadu telewizji Movistar+ po wygranym 1:0 meczu z Benficą w Lizbonie. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Fede: Jestem dumny z Viniego i kolegów, którzy go bronili</title>
-        <link>https://www.realmadryt.pl/news/146609-fede-jestem-dumny-z-viniego-i-kolegow-ktorzy-go-bronili</link>
-        <pubDate>Tue, 17 Feb 2026 23:33:00 GMT</pubDate>
-        <description>Fede Valverde udzielił wywiadu z murawy dla telewizji Movistar+ po wygranym 1:0 meczu z Benficą w Lizbonie. Przedstawiamy zapis rozmowy z kapitanem Realu Madryt.</description>
     </item>
     
 </channel>
