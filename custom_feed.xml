@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Feb 2026 08:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Feb 2026 09:05:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 18 lutego</title>
+        <link>https://www.realmadryt.pl/news/146616-kartka-z-kalendarza-18-lutego</link>
+        <pubDate>Wed, 18 Feb 2026 09:30:00 GMT</pubDate>
+        <description>Urodziny byłego piłkarza, wygrane z Schalke i Betisem oraz prezentacja brazylijskiego talentu. Co działo się 18 lutego?</description>
+    </item>
     
     <item>
         <title>Arbeloa: Zawsze będziemy po stronie Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146611-benfica-0-1-real-madryt-video</link>
         <pubDate>Tue, 17 Feb 2026 23:56:00 GMT</pubDate>
         <description>W pierwszym meczu barażowym Ligi Mistrzów Real Madryt wygrał z Benficą 1:0 po golu Viníciusa.</description>
-    </item>
-    
-    <item>
-        <title>Tchouaméni: Vini powiedział, że tamten facet nazwał go „małpą”</title>
-        <link>https://www.realmadryt.pl/news/146610-tchouameni-vini-powiedzial-ze-tamten-facet-nazwal-go-malpa</link>
-        <pubDate>Tue, 17 Feb 2026 23:36:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni udzielił wywiadu telewizji Movistar+ po wygranym 1:0 meczu z Benficą w Lizbonie. Przedstawiamy wypowiedzi pomocnika Realu Madryt.</description>
     </item>
     
 </channel>
