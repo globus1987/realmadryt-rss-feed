@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Feb 2026 11:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 13:26:09 GMT</lastBuildDate>
+    
+    <item>
+        <title>Sesja regeneracyjna w Valdebebas</title>
+        <link>https://www.realmadryt.pl/news/146658-sesja-regeneracyjna-w-valdebebas</link>
+        <pubDate>Thu, 19 Feb 2026 13:30:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu.</description>
+    </item>
     
     <item>
         <title>Terminarz 28. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146649-glos-kibica-wypowiedzi-mourinho</link>
         <pubDate>Thu, 19 Feb 2026 07:50:00 GMT</pubDate>
         <description>Kontynuujemy cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Nauczyli się wspaniale nurkować do basenu; Nasi gracze nie zajmują się prowokowaniem kibiców</title>
-        <link>https://www.realmadryt.pl/news/146650-laporta-nauczyli-sie-wspaniale-nurkowac-do-basenu-nasi-gracze-nie-zajmuja-sie-prowokowaniem-kibicow</link>
-        <pubDate>Thu, 19 Feb 2026 07:00:00 GMT</pubDate>
-        <description>Joan Laporta aktywnie prowadzi kampanię wyborczą w walce o reelekcję na prezesa Barcelony. Były sternik klubu wczoraj odwiedził Gironę, gdzie zaatakował sędziów i oczywiście niebezpośrednio Real Madryt. Przedstawiamy jego najważniejsze wypowiedzi z tego spotkania z socios. Podkreślamy, że Laporta wypowiada te słowa jako kandydat na prezesa, a nie prezes i nie należy oczekiwać nałożenia na niego kar za podważanie uczciwości i zamiarów arbitrów.</description>
     </item>
     
 </channel>
