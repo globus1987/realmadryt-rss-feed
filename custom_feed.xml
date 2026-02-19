@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Feb 2026 06:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 07:16:30 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Wypowiedzi Mourinho</title>
+        <link>https://www.realmadryt.pl/news/146649-glos-kibica-wypowiedzi-mourinho</link>
+        <pubDate>Thu, 19 Feb 2026 07:50:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Laporta: Nauczyli się wspaniale nurkować do basenu; Nasi gracze nie zajmują się prowokowaniem kibiców</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146635-oficjalny-komunikat-benfiki-ws-zdarzen-w-meczu-z-realem-madryt</link>
         <pubDate>Wed, 18 Feb 2026 15:07:00 GMT</pubDate>
         <description>Benfica wystosowała oficjalny komunikat w sprawie meczu z Realem Madryt. Przedstawiamy jego treść.</description>
-    </item>
-    
-    <item>
-        <title>Mbappé: Nigdy nie możesz powiedzieć, że chłopak z numerem 25 to mój kolega po fachu</title>
-        <link>https://www.realmadryt.pl/news/146634-mbappe-nigdy-nie-mozesz-powiedziec-ze-chlopak-z-numerem-25-to-moj-kolega-po-fachu</link>
-        <pubDate>Wed, 18 Feb 2026 14:57:00 GMT</pubDate>
-        <description>Kylian Mbappé rozmawiał z dziennikarzami w strefie mieszanej po wygranym 1:0 meczu z Benficą. Przedstawiamy wypowiedzi atakującego Realu Madryt dla hiszpańskich dziennikarzy radiowych.</description>
     </item>
     
 </channel>
