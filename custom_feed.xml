@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Feb 2026 22:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 23:37:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146670-dzisiejsze-okladki</link>
+        <pubDate>Fri, 20 Feb 2026 00:25:00 GMT</pubDate>
+        <description>Medale Hiszpanów na zimowych Igrzyskach Olimpijskich to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: W sobotę czeka nas zupełnie inne spotkanie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146658-sesja-regeneracyjna-w-valdebebas</link>
         <pubDate>Thu, 19 Feb 2026 13:30:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 28. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146657-terminarz-28-kolejki-la-ligi</link>
-        <pubDate>Thu, 19 Feb 2026 12:36:00 GMT</pubDate>
-        <description>La Liga przedstawiła dokładny harmonogram 28. kolejki tego sezonu, w której Królewscy zagrają w domu z Elche.</description>
     </item>
     
 </channel>
