@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 19 Feb 2026 20:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 21:40:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>A Bola: Benfica złożyła skargę do UEFA na Federico Valverde</title>
+        <link>https://www.realmadryt.pl/news/146666-a-bola-benfica-zlozyla-skarge-do-uefa-na-federico-valverde</link>
+        <pubDate>Thu, 19 Feb 2026 22:09:00 GMT</pubDate>
+        <description>Chodzi o zachowanie urugwajskiego pomocnika w starciu Samuelem Dahlem w końcówce drugiej połowy.</description>
+    </item>
     
     <item>
         <title>Rozpoczęto montaż drugiego pierścienia LED na Bernabéu [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146655-tebas-jestem-prawdziwym-madridista-ale-to-nie-oznacza-podazania-za-aktualnym-prezesem-realu-jak-za-mesjaszem</link>
         <pubDate>Thu, 19 Feb 2026 12:03:00 GMT</pubDate>
         <description>Javier Tebas udzielił wywiadu dziennikowi ABC. Przedstawiamy najważniejsze wypowiedzi prezesa La Ligi z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Z obrońcą tytułu na inaugurację Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/146643-z-obronca-tytulu-na-inauguracje-pucharu-krola</link>
-        <pubDate>Thu, 19 Feb 2026 12:00:00 GMT</pubDate>
-        <description>W ćwierćfinale koszykarskiego Pucharu Króla Real Madryt zmierzy się z Unicają. Andaluzyjczycy bronią tytułu zdobytego przed rokiem, a Królewscy chcą odzyskać to trofeum.</description>
     </item>
     
 </channel>
