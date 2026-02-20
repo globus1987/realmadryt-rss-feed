@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Feb 2026 10:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 11:38:23 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius znów jest piłkarskim liderem Realu</title>
+        <link>https://www.realmadryt.pl/news/146682-vinicius-znow-jest-pilkarskim-liderem-realu</link>
+        <pubDate>Fri, 20 Feb 2026 12:20:00 GMT</pubDate>
+        <description>11 goli i 11 asyst Brazylijczyka w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Navas: Byłem świadkiem godzin, które Zidane poświęcał Viníciusowi po treningach</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146672-benfica-tv-atakuje-viniciusa-i-mbappe-oraz-wyciaga-oskarzenie-o-rasizm-wobec-valverde</link>
         <pubDate>Fri, 20 Feb 2026 04:25:00 GMT</pubDate>
         <description>Benfica posiada swoją telewizję, w której w programie publicystycznym wystosowano komentarze dotyczące meczu Benfiki z Realem Madryt. Pokazano je w nocnym Chiringuito.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146670-dzisiejsze-okladki</link>
-        <pubDate>Fri, 20 Feb 2026 00:25:00 GMT</pubDate>
-        <description>Medale Hiszpanów na zimowych Igrzyskach Olimpijskich to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
