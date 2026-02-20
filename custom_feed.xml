@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Feb 2026 23:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 23:44:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146714-dzisiejsze-okladki</link>
+        <pubDate>Sat, 21 Feb 2026 00:13:00 GMT</pubDate>
+        <description>Plany Realu Madryt i sytuacja Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Gdybym miał kociołek Panoramiksa, by odzyskać Bellinghama, zrobiłbym to od razu tu i teraz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146701-lisci-mecz-z-realem-traktujemy-jak-final</link>
         <pubDate>Fri, 20 Feb 2026 19:13:00 GMT</pubDate>
         <description>Alessio Lisci wziął udział w konferencji prasowej przed meczem z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi trenera Osasuny z tego spotkania z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Osasuny na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/146698-kadra-osasuny-na-mecz-z-realem</link>
-        <pubDate>Fri, 20 Feb 2026 18:50:00 GMT</pubDate>
-        <description>Trener jutrzejszego rywala Realu Madryt nie może liczyć na dwóch zawodników, którzy są kontuzjowani.</description>
     </item>
     
 </channel>
