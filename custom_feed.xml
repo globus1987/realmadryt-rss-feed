@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Feb 2026 17:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 18:26:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Lisci: Mecz z Realem traktujemy jak finał</title>
+        <link>https://www.realmadryt.pl/news/146701-lisci-mecz-z-realem-traktujemy-jak-final</link>
+        <pubDate>Fri, 20 Feb 2026 19:13:00 GMT</pubDate>
+        <description>Alessio Lisci wziął udział w konferencji prasowej przed meczem z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi trenera Osasuny z tego spotkania z dziennikarzami.</description>
+    </item>
+    
+    <item>
+        <title>Kadra Osasuny na mecz z Realem</title>
+        <link>https://www.realmadryt.pl/news/146698-kadra-osasuny-na-mecz-z-realem</link>
+        <pubDate>Fri, 20 Feb 2026 18:50:00 GMT</pubDate>
+        <description>Trener jutrzejszego rywala Realu Madryt nie może liczyć na dwóch zawodników, którzy są kontuzjowani.</description>
+    </item>
     
     <item>
         <title>Alejandro Quintero González na Osasunę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146686-terminarz-cwiercfinalow-ligi-mistrzyn</link>
         <pubDate>Fri, 20 Feb 2026 13:51:00 GMT</pubDate>
         <description>W ćwierćfinale Ligi Mistrzyń piłkarki Realu Madryt zmierzą się z Barceloną. UEFA podała dziś dokładne terminy obu spotkań.</description>
-    </item>
-    
-    <item>
-        <title>Jesé: Nie wierzę, że Vinícius robiłby cyrk tylko dlatego, że miał taką ochotę</title>
-        <link>https://www.realmadryt.pl/news/146684-jese-nie-wierze-ze-vinicius-robilby-cyrk-tylko-dlatego-ze-mial-taka-ochote</link>
-        <pubDate>Fri, 20 Feb 2026 13:10:00 GMT</pubDate>
-        <description>Jesé Rodríguez udzielił wywiadu w programie El Larguerdo w Cadena SER. Przedstawiamy pełne tłumaczenie tej rozmowy z piłkarzem Las Palmas.</description>
-    </item>
-    
-    <item>
-        <title>Vinícius znów jest piłkarskim liderem Realu</title>
-        <link>https://www.realmadryt.pl/news/146682-vinicius-znow-jest-pilkarskim-liderem-realu</link>
-        <pubDate>Fri, 20 Feb 2026 12:20:00 GMT</pubDate>
-        <description>11 goli i 11 asyst Brazylijczyka w tym sezonie.</description>
     </item>
     
 </channel>
