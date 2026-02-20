@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Feb 2026 21:43:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 21:59:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Znamy półfinalistów Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/146712-znamy-polfinalistow-pucharu-krola</link>
+        <pubDate>Fri, 20 Feb 2026 22:58:00 GMT</pubDate>
+        <description>Valencia, Real Madryt, Baskonia oraz Barcelona zostały w grze o koszykarski Puchar Króla. Półfinały zostaną rozegrane już jutro.</description>
+    </item>
+    
+    <item>
+        <title>Manchester United kolejnym rywalem Castilli</title>
+        <link>https://www.realmadryt.pl/news/146704-manchester-united-kolejnym-rywalem-castilli</link>
+        <pubDate>Fri, 20 Feb 2026 22:50:00 GMT</pubDate>
+        <description>Castilla poznała przeciwnika w ćwierćfinale Premier League International Cup. Został nim Manchester United. Królewscy polecą do Anglii w marcu, ale konkretna data jeszcze nie została wybrana.</description>
+    </item>
     
     <item>
         <title>A Bola: Benfica zidentyfikowała dwóch rasistów z trybun, którzy naśladowali małpę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146695-oficjalnie-huijsen-kontuzjowany</link>
         <pubDate>Fri, 20 Feb 2026 18:17:00 GMT</pubDate>
         <description>Hiszpan ma problemy mięśniowe i najpewniej nie wystąpi przeciwko Osasunie.</description>
-    </item>
-    
-    <item>
-        <title>Czy Mbappé trenuje z drużyną? [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146681-czy-mbappe-trenuje-z-druzyna-video</link>
-        <pubDate>Fri, 20 Feb 2026 17:49:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym meczem w La Lidze w tym sezonie.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Oskarżanie ofiary o bycie prowokatorem jest nieuzasadnione</title>
-        <link>https://www.realmadryt.pl/news/146692-arbeloa-oskarzanie-ofiary-o-bycie-prowokatorem-jest-nieuzasadnione</link>
-        <pubDate>Fri, 20 Feb 2026 17:22:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się na konferencji prasowej przed meczem z Osasuną w La Lidze. Przedstawiamy pierwsze wypowiedzi trenera Realu Madryt z tego spotkania dziennikarzami w Valdebebas. Pełnego zapisu tradycyjnie należy spodziewać się w dniu meczu.</description>
     </item>
     
 </channel>
