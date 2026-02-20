@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 20 Feb 2026 18:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 19:21:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ostatni trening przed meczem z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/146693-ostatni-trening-przed-meczem-z-osasuna</link>
+        <pubDate>Fri, 20 Feb 2026 20:00:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
+    </item>
+    
+    <item>
+        <title>Telewizyjny terminarz 25. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/146696-telewizyjny-terminarz-25-kolejki-la-ligi</link>
+        <pubDate>Fri, 20 Feb 2026 20:00:00 GMT</pubDate>
+        <description>Dziś rozpocznie się 25. kolejka La Ligi. Real Madryt zagra w sobotę na wyjeździe z Osasuną. Gdzie obejrzeć to spotkanie?</description>
+    </item>
+    
+    <item>
+        <title>Kadra Realu Madryt na Osasunę</title>
+        <link>https://www.realmadryt.pl/news/146694-kadra-realu-madryt-na-osasune</link>
+        <pubDate>Fri, 20 Feb 2026 19:53:00 GMT</pubDate>
+        <description>Álvaro Arbeloa nie będzie mógł liczyć na czterech zawodników pierwszego zespołu podczas ligowego spotkania z Osasuną. Hiszpan powołał 22 piłkarzy.</description>
+    </item>
     
     <item>
         <title>Lisci: Mecz z Realem traktujemy jak finał</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/146690-mourinho-emocjonalnie-bardzo-trudno-bylo-zarzadzac-wszystkim-co-sie-wydarzylo-i-nadal-sie-dzieje</link>
         <pubDate>Fri, 20 Feb 2026 15:07:00 GMT</pubDate>
         <description>Portugalczyk rozmawiał z klubowymi mediami przed ligowym spotkaniem z AVS. Przedstawiamy pełny zapis tej rozmowy z Portugalczykiem.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Asencio przeszedł ekspresowe leczenie i jest gotowy do gry</title>
-        <link>https://www.realmadryt.pl/news/146689-marca-asencio-przeszedl-ekspresowe-leczenie-i-jest-gotowy-do-gry</link>
-        <pubDate>Fri, 20 Feb 2026 14:16:00 GMT</pubDate>
-        <description>Środkowy obrońca uniknął poważniejszego urazu dzięki ekspresowemu leczeniu i jest już gotowy do powrotu.</description>
-    </item>
-    
-    <item>
-        <title>Kompany: Mourinho popełnił ogromny błąd i coś, czego nie powinniśmy akceptować</title>
-        <link>https://www.realmadryt.pl/news/146688-kompany-mourinho-popelnil-ogromny-blad-i-cos-czego-nie-powinnismy-akceptowac</link>
-        <pubDate>Fri, 20 Feb 2026 14:05:00 GMT</pubDate>
-        <description>Vincent Kompany skomentował sytuację z przerwaniem meczu Benfiki z Realem Madryt. Przedstawiamy pełną wypowiedź trenera Bayernu Monachium w tej sprawie.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz ćwierćfinałów Ligi Mistrzyń</title>
-        <link>https://www.realmadryt.pl/news/146686-terminarz-cwiercfinalow-ligi-mistrzyn</link>
-        <pubDate>Fri, 20 Feb 2026 13:51:00 GMT</pubDate>
-        <description>W ćwierćfinale Ligi Mistrzyń piłkarki Realu Madryt zmierzą się z Barceloną. UEFA podała dziś dokładne terminy obu spotkań.</description>
     </item>
     
 </channel>
