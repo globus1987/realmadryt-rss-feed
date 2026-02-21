@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Feb 2026 02:48:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 04:42:46 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Carvajal w jedenastce</title>
+        <link>https://www.realmadryt.pl/news/146718-glos-kibica-carvajal-w-jedenastce</link>
+        <pubDate>Sat, 21 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Kontynuujemy cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Osasuna – Real Madryt: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146693-ostatni-trening-przed-meczem-z-osasuna</link>
         <pubDate>Fri, 20 Feb 2026 20:00:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do kolejnego meczu.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 25. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146696-telewizyjny-terminarz-25-kolejki-la-ligi</link>
-        <pubDate>Fri, 20 Feb 2026 20:00:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 25. kolejka La Ligi. Real Madryt zagra w sobotę na wyjeździe z Osasuną. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
