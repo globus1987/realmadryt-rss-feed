@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Feb 2026 22:59:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 23:34:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/146735-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce-z-osasuna</link>
+        <pubDate>Sun, 22 Feb 2026 00:22:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po przegranym 1:2 meczu z Osasuną. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo: To był mecz, który zapisał się w historii Pucharu Króla</title>
+        <link>https://www.realmadryt.pl/news/146739-scariolo-to-byl-mecz-ktory-zapisal-sie-w-historii-pucharu-krola</link>
+        <pubDate>Sun, 22 Feb 2026 00:13:00 GMT</pubDate>
+        <description>Sergio Scariolo wziął udział w konferencji prasowej po wygranym spotkaniu z Valencią. Był oczywiście zadowolony ze zwycięstwa i przyznał, że ten pojedynek przejdzie do historii rozgrywek.</description>
+    </item>
     
     <item>
         <title>Osłabiona Castilla nie utrzymała prowadzenia</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146727-osasuna-real-madryt-znamy-sklady</link>
         <pubDate>Sat, 21 Feb 2026 17:06:00 GMT</pubDate>
         <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Osasuną. Spotkanie rozpocznie się o 18:30 na El Sadar.</description>
-    </item>
-    
-    <item>
-        <title>Sześć punktów od rekordu</title>
-        <link>https://www.realmadryt.pl/news/146719-szesc-punktow-od-rekordu</link>
-        <pubDate>Sat, 21 Feb 2026 15:50:00 GMT</pubDate>
-        <description>Álvaro Arbeloa notuje obecnie passę pięciu ligowych zwycięstw z rzędu. Trener Królewskich może zaliczyć najlepsze wejście w ligowe rozgrywki w całej historii klubu.</description>
-    </item>
-    
-    <item>
-        <title>Gdy koszulka zasłania wszystko</title>
-        <link>https://www.realmadryt.pl/news/146724-gdy-koszulka-zaslania-wszystko</link>
-        <pubDate>Sat, 21 Feb 2026 15:01:00 GMT</pubDate>
-        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami na temat wydarzeń w meczu Królewskich z Benficą.</description>
     </item>
     
 </channel>
