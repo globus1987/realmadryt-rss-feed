@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Feb 2026 09:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 09:46:00 GMT</lastBuildDate>
+    
+    <item>
+        <title>Trzech piłkarzy zagrożonych zawieszeniem w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/146710-trzech-pilkarzy-zagrozonych-zawieszeniem-w-la-lidze</link>
+        <pubDate>Sat, 21 Feb 2026 10:30:00 GMT</pubDate>
+        <description>Trzech piłkarzy jest zagrożonych zawieszeniem za kartki w La Lidze, ale dzisiaj dostępnych jest tylko dwóch z nich.</description>
+    </item>
     
     <item>
         <title>Scariolo: Zdajemy sobie sprawę ze skali trudności tego zadania</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146714-dzisiejsze-okladki</link>
         <pubDate>Sat, 21 Feb 2026 00:13:00 GMT</pubDate>
         <description>Plany Realu Madryt i sytuacja Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Gdybym miał kociołek Panoramiksa, by odzyskać Bellinghama, zrobiłbym to od razu tu i teraz</title>
-        <link>https://www.realmadryt.pl/news/146702-arbeloa-gdybym-mial-kociolek-panoramiksa-by-odzyskac-bellinghama-zrobilbym-to-od-razu-tu-i-teraz</link>
-        <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się wczoraj na konferencji prasowej przed dzisiejszym spotkaniem z Osasuną w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
