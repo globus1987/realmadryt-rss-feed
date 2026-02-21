@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Feb 2026 23:34:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 23:56:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146742-dzisiejsze-okladki</link>
+        <pubDate>Sun, 22 Feb 2026 00:34:00 GMT</pubDate>
+        <description>Porażka Realu i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce z Osasuną</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146728-obejrzyj-mecz-z-osasuna-w-sts-tv</link>
         <pubDate>Sat, 21 Feb 2026 18:00:00 GMT</pubDate>
         <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>Osasuna – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/146727-osasuna-real-madryt-znamy-sklady</link>
-        <pubDate>Sat, 21 Feb 2026 17:06:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Osasuną. Spotkanie rozpocznie się o 18:30 na El Sadar.</description>
     </item>
     
 </channel>
