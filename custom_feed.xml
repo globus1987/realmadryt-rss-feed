@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 21 Feb 2026 17:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 17:44:32 GMT</lastBuildDate>
+    
+    <item>
+        <title>Osasuna – Real Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/146726-osasuna-real-madryt-na-zywo</link>
+        <pubDate>Sat, 21 Feb 2026 18:25:00 GMT</pubDate>
+        <description>Od 18:30 trwa mecz 25. kolejki La Ligi pomiędzy Osasuną a Realem Madryt. W przypadku wygranej na El Sadar Królewscy przynajmniej do jutra powiększą przewagę nad drugą w tabeli Barceloną do pięciu punktów.</description>
+    </item>
     
     <item>
         <title>Obejrzyj mecz z Osasuną w STS TV!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146710-trzech-pilkarzy-zagrozonych-zawieszeniem-w-la-lidze</link>
         <pubDate>Sat, 21 Feb 2026 10:30:00 GMT</pubDate>
         <description>Trzech piłkarzy jest zagrożonych zawieszeniem za kartki w La Lidze, ale dzisiaj dostępnych jest tylko dwóch z nich.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Zdajemy sobie sprawę ze skali trudności tego zadania</title>
-        <link>https://www.realmadryt.pl/news/146709-scariolo-zdajemy-sobie-sprawe-ze-skali-trudnosci-tego-zadania</link>
-        <pubDate>Sat, 21 Feb 2026 10:00:00 GMT</pubDate>
-        <description>Sergio Scariolo wypowiadał się przed spotkaniem z Valencią w półfinale Pucharu Króla. W bardzo pozytywnych słowach wypowiadał się o rywalu, który pełni też funkcję gospodarza turnieju.</description>
     </item>
     
 </channel>
