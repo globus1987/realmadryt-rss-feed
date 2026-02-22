@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 05:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 07:01:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czego najbardziej brakuje tej drużynie?</title>
+        <link>https://www.realmadryt.pl/news/146737-glos-kibica-czego-najbardziej-brakuje-tej-druzynie</link>
+        <pubDate>Sun, 22 Feb 2026 07:25:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Ceballos: Biorę na siebie odpowiedzialność</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146730-ocen-pilkarzy-po-meczu-z-osasuna</link>
         <pubDate>Sat, 21 Feb 2026 20:31:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Lider nie był gotowy do rywalizacji</title>
-        <link>https://www.realmadryt.pl/news/146726-lider-nie-byl-gotowy-do-rywalizacji</link>
-        <pubDate>Sat, 21 Feb 2026 18:25:00 GMT</pubDate>
-        <description>W meczu 25. kolejki La Ligi Osasuna pokonała Real Madryt 2:1. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
     </item>
     
 </channel>
