@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 11:31:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 11:55:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Drużyna nie do rozszyfrowania</title>
+        <link>https://www.realmadryt.pl/news/146749-druzyna-nie-do-rozszyfrowania</link>
+        <pubDate>Sun, 22 Feb 2026 12:52:00 GMT</pubDate>
+        <description>Arbeloa po raz pierwszy przełknął gorycz porażki w lidze. Królewscy tym samym wystawili Barcelonie fotel lidera na tacy.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Dani Ceballos kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/146748-oficjalnie-dani-ceballos-kontuzjowany</link>
+        <pubDate>Sun, 22 Feb 2026 12:34:00 GMT</pubDate>
+        <description>Hiszpan wypada z gry i nie zagra w najbliższych tygodniach.</description>
+    </item>
+    
+    <item>
+        <title>Pierwsza porażka Arbeloi w La Lidze</title>
+        <link>https://www.realmadryt.pl/news/146747-pierwsza-porazka-arbeloi-w-la-lidze</link>
+        <pubDate>Sun, 22 Feb 2026 12:33:00 GMT</pubDate>
+        <description>La Liga były do wczoraj jedynymi rozgrywkami, w których Álvaro Arbeloa nie poniósł jeszcze porażki od momentu objęcia pierwszej drużyny. Przegrana z Osasuną nie tylko kończy passę Hiszpana, ale i daje możliwość Barcelonie powrotu na pierwsze miejsce w tabeli.</description>
+    </item>
     
     <item>
         <title>Po pierwszy tytuł w sezonie</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/146741-ceballos-biore-na-siebie-odpowiedzialnosc</link>
         <pubDate>Sun, 22 Feb 2026 05:30:00 GMT</pubDate>
         <description>Pomocnik Realu Madryt przeprosił za stratę, która skutkowała golem na 2:1 dla Osasuny.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146742-dzisiejsze-okladki</link>
-        <pubDate>Sun, 22 Feb 2026 00:34:00 GMT</pubDate>
-        <description>Porażka Realu i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce z Osasuną</title>
-        <link>https://www.realmadryt.pl/news/146735-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce-z-osasuna</link>
-        <pubDate>Sun, 22 Feb 2026 00:22:00 GMT</pubDate>
-        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po przegranym 1:2 meczu z Osasuną. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: To był mecz, który zapisał się w historii Pucharu Króla</title>
-        <link>https://www.realmadryt.pl/news/146739-scariolo-to-byl-mecz-ktory-zapisal-sie-w-historii-pucharu-krola</link>
-        <pubDate>Sun, 22 Feb 2026 00:13:00 GMT</pubDate>
-        <description>Sergio Scariolo wziął udział w konferencji prasowej po wygranym spotkaniu z Valencią. Był oczywiście zadowolony ze zwycięstwa i przyznał, że ten pojedynek przejdzie do historii rozgrywek.</description>
     </item>
     
 </channel>
