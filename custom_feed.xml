@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 02:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 04:56:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ceballos: Biorę na siebie odpowiedzialność</title>
+        <link>https://www.realmadryt.pl/news/146741-ceballos-biore-na-siebie-odpowiedzialnosc</link>
+        <pubDate>Sun, 22 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Pomocnik Realu Madryt przeprosił za stratę, która skutkowała golem na 2:1 dla Osasuny.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146726-lider-nie-byl-gotowy-do-rywalizacji</link>
         <pubDate>Sat, 21 Feb 2026 18:25:00 GMT</pubDate>
         <description>W meczu 25. kolejki La Ligi Osasuna pokonała Real Madryt 2:1. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>Obejrzyj mecz z Osasuną w STS TV!</title>
-        <link>https://www.realmadryt.pl/news/146728-obejrzyj-mecz-z-osasuna-w-sts-tv</link>
-        <pubDate>Sat, 21 Feb 2026 18:00:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
     </item>
     
 </channel>
