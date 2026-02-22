@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 10:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 10:59:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Po pierwszy tytuł w sezonie</title>
+        <link>https://www.realmadryt.pl/news/146746-po-pierwszy-tytul-w-sezonie</link>
+        <pubDate>Sun, 22 Feb 2026 11:34:00 GMT</pubDate>
+        <description>Real Madryt zagra w finale Pucharu Króla, pokonując bardzo trudną drogę, na której stały Unicaja i Valencia. Rywalem będzie Baskonia. Można było się spodziewać Klasyku, ale jednak klub z Vitorii pokazał, że potrafi stawić czoła wielkiemu rywalowi.</description>
+    </item>
     
     <item>
         <title>Jedenaście „finałów” przed Realem Madryt C</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146739-scariolo-to-byl-mecz-ktory-zapisal-sie-w-historii-pucharu-krola</link>
         <pubDate>Sun, 22 Feb 2026 00:13:00 GMT</pubDate>
         <description>Sergio Scariolo wziął udział w konferencji prasowej po wygranym spotkaniu z Valencią. Był oczywiście zadowolony ze zwycięstwa i przyznał, że ten pojedynek przejdzie do historii rozgrywek.</description>
-    </item>
-    
-    <item>
-        <title>Osłabiona Castilla nie utrzymała prowadzenia</title>
-        <link>https://www.realmadryt.pl/news/146738-oslabiona-castilla-nie-utrzymala-prowadzenia</link>
-        <pubDate>Sat, 21 Feb 2026 23:51:00 GMT</pubDate>
-        <description>W 25. kolejce Primera Federación Castilla podzieliła się punktami z Realem Avilés. Królewscy wyszli na prowadzenie dzięki trafieniu Zúñiga, lecz napastnik w drugiej połowie wyleciał z boiska, co rywale wykorzystali i doprowadzili do remisu.</description>
     </item>
     
 </channel>
