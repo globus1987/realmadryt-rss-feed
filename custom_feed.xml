@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 19:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 20:37:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Puchar Króla dla Baskonii</title>
+        <link>https://www.realmadryt.pl/news/146760-puchar-krola-dla-baskonii</link>
+        <pubDate>Sun, 22 Feb 2026 21:13:00 GMT</pubDate>
+        <description>Real Madryt przegrał drugi finał w tym sezonie. Rozegrał swój najgorszy mecz na tym turnieju, co wykorzystała znajdująca się w znakomitej formie Baskonia.</description>
+    </item>
     
     <item>
         <title>Tchouaméni rządzi w środku pola</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146749-druzyna-nie-do-rozszyfrowania</link>
         <pubDate>Sun, 22 Feb 2026 12:52:00 GMT</pubDate>
         <description>Arbeloa po raz pierwszy przełknął gorycz porażki w lidze. Królewscy tym samym wystawili Barcelonie fotel lidera na tacy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Dani Ceballos kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/146748-oficjalnie-dani-ceballos-kontuzjowany</link>
-        <pubDate>Sun, 22 Feb 2026 12:34:00 GMT</pubDate>
-        <description>Hiszpan wypada z gry i nie zagra w najbliższych tygodniach.</description>
     </item>
     
 </channel>
