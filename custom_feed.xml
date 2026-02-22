@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 08:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 09:14:42 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Osasuną</title>
+        <link>https://www.realmadryt.pl/news/146743-oceny-zawodnikow-po-meczu-z-osasuna</link>
+        <pubDate>Sun, 22 Feb 2026 10:02:00 GMT</pubDate>
+        <description>Real Madryt przegrał w La Lidze z Osasuną 1:2. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Benfica, a więc też najpewniej Mourinho, będzie trenować na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146732-osasuna-2-1-real-madryt-video</link>
         <pubDate>Sat, 21 Feb 2026 20:52:00 GMT</pubDate>
         <description>W meczu 25. kolejki La Ligi Real Madryt przegrał na wyjeździe z Osasuną 1:2. Jedyną bramkę dla Królewskich zdobył Vinícius Júnior.</description>
-    </item>
-    
-    <item>
-        <title>Niesamowity mecz i remontada, Hezonja bohaterem</title>
-        <link>https://www.realmadryt.pl/news/146731-niesamowity-mecz-i-remontada-hezonja-bohaterem</link>
-        <pubDate>Sat, 21 Feb 2026 20:51:00 GMT</pubDate>
-        <description>Real Madryt dokonał czegoś prawie niemożliwego, odrabiając stratę do Valencii. Najpierw po pierwszej kwarcie, a następnie w ostatnich minutach. Dzięki temu zagrają w wielkim finale Pucharu Króla.</description>
     </item>
     
 </channel>
