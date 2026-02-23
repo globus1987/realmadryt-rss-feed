@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 22 Feb 2026 23:59:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 03:15:38 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146765-dzisiejsze-okladki</link>
+        <pubDate>Mon, 23 Feb 2026 01:06:00 GMT</pubDate>
+        <description>Porażka Realu w Pucharze Króla i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Jesteśmy rozczarowani, Baskonia zasłużenie wygrała</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146750-dzisiejszy-trening</link>
         <pubDate>Sun, 22 Feb 2026 13:25:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do środowego spotkania z Benficą.</description>
-    </item>
-    
-    <item>
-        <title>„Jeśli Muñoz wróci do Realu, to tylko po to, żeby zostać w pierwszej drużynie”</title>
-        <link>https://www.realmadryt.pl/news/146751-jesli-munoz-wroci-do-realu-to-tylko-po-to-zeby-zostac-w-pierwszej-druzynie</link>
-        <pubDate>Sun, 22 Feb 2026 13:16:00 GMT</pubDate>
-        <description>Víctor Muñoz jest niewątpliwie jedną z rewelacji sezonu na hiszpańskich boiskach. Kataloński skrzydłowy był wczoraj kluczowym ogniwem Osasuny przy zwycięstwie z Realem Madryt. Dla Daniego Carvajala był on prawdziwym koszmarem.</description>
     </item>
     
 </channel>
