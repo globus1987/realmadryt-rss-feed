@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Feb 2026 08:30:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 09:37:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Slavko Vinčić na rewanż z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146769-slavko-vincic-na-rewanz-z-benfica</link>
+        <pubDate>Mon, 23 Feb 2026 10:10:00 GMT</pubDate>
+        <description>Słoweniec będzie sędzią meczu Realu Madryt z Benficą. Będzie to dla niego czwarte spotkanie z udziałem Królewskich.</description>
+    </item>
+    
+    <item>
+        <title>Kartka z kalendarza: 23 lutego</title>
+        <link>https://www.realmadryt.pl/news/146767-kartka-z-kalendarza-23-lutego</link>
+        <pubDate>Mon, 23 Feb 2026 10:00:00 GMT</pubDate>
+        <description>Udana remontada w Galicji, porażka u siebie z Getafe, hat-trick Šukera, urodziny ważnych piłkarzy w historii Królewskich i historyczne trafienie Modricia. Co działo się 23 lutego?</description>
+    </item>
     
     <item>
         <title>Marco Company z nową umową i 100 milionami euro klauzuli wykonu</title>
@@ -28,8 +42,8 @@
     </item>
     
     <item>
-        <title>GŁOS KIBICA: Czy uważasz, że Real Madryt zdobędzie w tym sezonie jakiś trofeum?</title>
-        <link>https://www.realmadryt.pl/news/146766-glos-kibica-czy-uwazasz-ze-real-madryt-zdobedzie-w-tym-sezonie-jakis-trofeum</link>
+        <title>GŁOS KIBICA: Czy uważasz, że Real Madryt zdobędzie w tym sezonie jakieś trofeum?</title>
+        <link>https://www.realmadryt.pl/news/146766-glos-kibica-czy-uwazasz-ze-real-madryt-zdobedzie-w-tym-sezonie-jakies-trofeum</link>
         <pubDate>Mon, 23 Feb 2026 07:25:00 GMT</pubDate>
         <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146758-getafe-na-bernabeu-bez-djene-video</link>
         <pubDate>Sun, 22 Feb 2026 19:55:00 GMT</pubDate>
         <description>Togijczyk nie zagra przeciwko Realowi Madryt z powodu czerwonej kartki otrzymanej dziś w starciu z Sevillą. Przerwa kapitana Getafe może potrwać nawet dłużej.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Raz im nie podarowano karnego za nurkowanie któregoś z nich i już narzekają</title>
-        <link>https://www.realmadryt.pl/news/146757-laporta-raz-im-nie-podarowano-karnego-za-nurkowanie-ktoregos-z-nich-i-juz-narzekaja</link>
-        <pubDate>Sun, 22 Feb 2026 15:54:00 GMT</pubDate>
-        <description>Joan Laporta pojawił się przed meczem z Levante w namiotach ustawionych przez jego sztab wokół stadionu, gdzie zbierane są podpisy. Były prezes Barcelony porozmawiał też z mediami i przedstawił swoją opinię na temat sędziowania w meczu Realu Madryt w Pampelunie.</description>
-    </item>
-    
-    <item>
-        <title>25. kolejka: Barcelona wygrywa z Levante i jest liderem</title>
-        <link>https://www.realmadryt.pl/news/146756-25-kolejka-barcelona-wygrywa-z-levante-i-jest-liderem</link>
-        <pubDate>Sun, 22 Feb 2026 15:45:00 GMT</pubDate>
-        <description>Katalończycy przeskakują Real w tabeli.</description>
     </item>
     
 </channel>
