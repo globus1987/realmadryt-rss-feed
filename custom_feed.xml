@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Feb 2026 09:37:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 10:35:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius znów jest decydujący</title>
+        <link>https://www.realmadryt.pl/news/146770-vinicius-znow-jest-decydujacy</link>
+        <pubDate>Mon, 23 Feb 2026 11:24:00 GMT</pubDate>
+        <description>Atakujący w 2026 roku pokazuje swoją najlepszą wersję, a zespół znów widzi w nim lidera.</description>
+    </item>
     
     <item>
         <title>Slavko Vinčić na rewanż z Benficą</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146759-tchouameni-rzadzi-w-srodku-pola</link>
         <pubDate>Sun, 22 Feb 2026 20:30:00 GMT</pubDate>
         <description>Aurélien Tchouaméni rozegrał bardzo dobre zawody na El Sadar i pomimo porażki całego potwierdził, że jest nietykalną postacią dla Álvaro Arbeloi.</description>
-    </item>
-    
-    <item>
-        <title>Getafe na Bernabéu bez Djené [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146758-getafe-na-bernabeu-bez-djene-video</link>
-        <pubDate>Sun, 22 Feb 2026 19:55:00 GMT</pubDate>
-        <description>Togijczyk nie zagra przeciwko Realowi Madryt z powodu czerwonej kartki otrzymanej dziś w starciu z Sevillą. Przerwa kapitana Getafe może potrwać nawet dłużej.</description>
     </item>
     
 </channel>
