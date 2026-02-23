@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 23 Feb 2026 23:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 23:47:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146788-dzisiejsze-okladki</link>
+        <pubDate>Tue, 24 Feb 2026 00:11:00 GMT</pubDate>
+        <description>Mecz Atlético Madryt i zawieszenie Prestianniego to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>AS: Prestianni i tak przyleci z drużyną do Madrytu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146773-plany-mourinho-chce-zabrac-glos-przed-meczem-przeprowadzi-trening-na-bernabeu-i-postawi-na-prestianniego</link>
         <pubDate>Mon, 23 Feb 2026 13:59:00 GMT</pubDate>
         <description>Trener wzmacnia pozycję Argentyńczyka po kontrowersjach i zmienia przygotowania, by psychicznie przygotować zespół na wrogą atmosferę w Madrycie.</description>
-    </item>
-    
-    <item>
-        <title>Rodrygo trenował z drużyną</title>
-        <link>https://www.realmadryt.pl/news/146772-rodrygo-trenowal-z-druzyna</link>
-        <pubDate>Mon, 23 Feb 2026 13:34:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do środowego spotkania z Benficą.</description>
     </item>
     
 </channel>
