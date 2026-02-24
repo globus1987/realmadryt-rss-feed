@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Feb 2026 11:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 11:56:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 29. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/146796-terminarz-29-kolejki-la-ligi</link>
+        <pubDate>Tue, 24 Feb 2026 12:40:00 GMT</pubDate>
+        <description>La Liga przedstawiła dokładny harmonogram 29. kolejki tego sezonu. Real zagra w niej na własnym boisku z Atlético Madryt.</description>
+    </item>
     
     <item>
         <title>Kwadrans ostatniego treningu przed Benficą [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146781-victor-munoz-pokazuje-swoj-potencjal-w-osasunie</link>
         <pubDate>Mon, 23 Feb 2026 18:15:00 GMT</pubDate>
         <description>Skrzydłowy błyszczy na El Sadar. Real Madryt ma możliwość odkupienia go za 8 milionów euro w ciągu najbliższych trzech sezonów.</description>
-    </item>
-    
-    <item>
-        <title>Laporta w swojej książce: „Największym skandalem jest to, że Real Madryt wyznaczał sędziów przez 70 lat”</title>
-        <link>https://www.realmadryt.pl/news/146780-laporta-w-swojej-ksiazce-najwiekszym-skandalem-jest-to-ze-real-madryt-wyznaczal-sedziow-przez-70-lat</link>
-        <pubDate>Mon, 23 Feb 2026 17:22:00 GMT</pubDate>
-        <description>Joan Laporta zaprezentował w poniedziałek swoją książkę „Tak uratowaliśmy Barçę”, którą będzie można kupić w hiszpańskich księgarniach od 24 lutego. Były prezes Barcelony opisuje w tej publikacji, jak wyglądało ostatnich pięć lat jego drugiej kadencji i jak musiał mierzyć się z chaotyczną sytuacją finansową, która wymagała niestandardowych rozwiązań, by ją uporządkować. Porusza też kulisy odejść Messiego, Koemana i Xaviego Hernándeza, a także cały temat Superligi.</description>
     </item>
     
 </channel>
