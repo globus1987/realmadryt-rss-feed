@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Feb 2026 23:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 23:47:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146810-dzisiejsze-okladki</link>
+        <pubDate>Wed, 25 Feb 2026 00:45:00 GMT</pubDate>
+        <description>Wygrana Atlético Madryt, mecz Realu Madryt i wybory w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Benfica trenowała na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146793-ostatni-trening-przed-benfica</link>
         <pubDate>Tue, 24 Feb 2026 12:57:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i zakończyli boiskowe przygotowania do środowego spotkania z Benficą.</description>
-    </item>
-    
-    <item>
-        <title>Terminarz 29. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146796-terminarz-29-kolejki-la-ligi</link>
-        <pubDate>Tue, 24 Feb 2026 12:40:00 GMT</pubDate>
-        <description>La Liga przedstawiła dokładny harmonogram 29. kolejki tego sezonu. Real zagra w niej na własnym boisku z Atlético Madryt.</description>
     </item>
     
 </channel>
