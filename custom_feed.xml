@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Feb 2026 20:49:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 21:43:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>Benfica trenowała na Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/146807-benfica-trenowala-na-bernabeu</link>
+        <pubDate>Tue, 24 Feb 2026 22:23:00 GMT</pubDate>
+        <description>Na murawie pojawili się Prestianni i Mourinho</description>
+    </item>
     
     <item>
         <title>L’Equipe: Mbappé nie zagra z Benficą i nie wiadomo, kiedy wróci na boisko</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146796-terminarz-29-kolejki-la-ligi</link>
         <pubDate>Tue, 24 Feb 2026 12:40:00 GMT</pubDate>
         <description>La Liga przedstawiła dokładny harmonogram 29. kolejki tego sezonu. Real zagra w niej na własnym boisku z Atlético Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Benficą [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146792-kwadrans-ostatniego-treningu-przed-benfica-video</link>
-        <pubDate>Tue, 24 Feb 2026 11:17:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym meczem w Lidze Mistrzów w tym sezonie.</description>
     </item>
     
 </channel>
