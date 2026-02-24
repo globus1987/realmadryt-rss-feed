@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Feb 2026 07:17:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 08:05:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/146787-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 24 Feb 2026 08:18:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 25. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Czy UEFA słusznie zawiesiła Prestianniego?</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146776-real-madryt-na-kuponie-przewodnik-po-legalnych-zakladach-bukmacherskich</link>
         <pubDate>Mon, 23 Feb 2026 15:29:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Gianluca Prestianni tymaczosowo zawieszony na mecz z Realem</title>
-        <link>https://www.realmadryt.pl/news/146775-oficjalnie-gianluca-prestianni-tymaczosowo-zawieszony-na-mecz-z-realem</link>
-        <pubDate>Mon, 23 Feb 2026 15:17:00 GMT</pubDate>
-        <description>Argentyńczyk nie pojawi się na Bernabéu i problem z głowy.</description>
     </item>
     
 </channel>
