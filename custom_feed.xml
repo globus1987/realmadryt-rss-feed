@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 24 Feb 2026 06:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 07:17:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Czy UEFA słusznie zawiesiła Prestianniego?</title>
+        <link>https://www.realmadryt.pl/news/146784-glos-kibica-czy-uefa-slusznie-zawiesila-prestianniego</link>
+        <pubDate>Tue, 24 Feb 2026 07:25:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>SER: Śledztwo UEFA wskazuje Prestianniego jako domniemanego sprawcę rasistowskiego incydentu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146775-oficjalnie-gianluca-prestianni-tymaczosowo-zawieszony-na-mecz-z-realem</link>
         <pubDate>Mon, 23 Feb 2026 15:17:00 GMT</pubDate>
         <description>Argentyńczyk nie pojawi się na Bernabéu i problem z głowy.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mourinho nie weźmie udziału w konferencji prasowej przed meczem z Realem</title>
-        <link>https://www.realmadryt.pl/news/146774-oficjalnie-mourinho-nie-wezmie-udzialu-w-konferencji-prasowej-przed-meczem-z-realem</link>
-        <pubDate>Mon, 23 Feb 2026 14:38:00 GMT</pubDate>
-        <description>Portugalski klub na oficjalnej stronie poinformował, że przed meczem Królewskimi z dziennikarzami na Estádio Santiago Bernabéu spotka się asystent Mou, João Tralhão.</description>
     </item>
     
 </channel>
