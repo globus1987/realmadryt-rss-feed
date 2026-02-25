@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Feb 2026 11:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 11:54:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Z Chelsea o ćwierćfinał Ligi Młodzieżowej</title>
+        <link>https://www.realmadryt.pl/news/146806-z-chelsea-o-cwiercfinal-ligi-mlodziezowej</link>
+        <pubDate>Wed, 25 Feb 2026 12:30:00 GMT</pubDate>
+        <description>Real Madryt do lat 19 zmierzy się z Chelsea w ramach 1/8 finału Ligi Młodzieżowej. Królewscy mają swoje problemy kadrowe, a o awansie zdecyduje dzisiejsze spotkanie.</description>
+    </item>
     
     <item>
         <title>Kadra na Benficę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146807-benfica-trenowala-na-bernabeu</link>
         <pubDate>Tue, 24 Feb 2026 22:23:00 GMT</pubDate>
         <description>Na murawie pojawili się Prestianni i Mourinho</description>
-    </item>
-    
-    <item>
-        <title>L’Equipe: Mbappé nie zagra z Benficą i nie wiadomo, kiedy wróci na boisko</title>
-        <link>https://www.realmadryt.pl/news/146804-l-equipe-mbappe-nie-zagra-z-benfica-i-nie-wiadomo-kiedy-wroci-na-boisko</link>
-        <pubDate>Tue, 24 Feb 2026 20:48:00 GMT</pubDate>
-        <description>Złe wieści w sprawie Francuza.</description>
     </item>
     
 </channel>
