@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Feb 2026 08:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 09:08:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wszystkiego najlepszego, Arda!</title>
+        <link>https://www.realmadryt.pl/news/146812-wszystkiego-najlepszego-arda</link>
+        <pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+        <description>Dziś 21. urodziny obchodzi Arda Güler. Turkowi życzymy z tej okazji przede wszystkim trofeów, rozwoju i wiary.</description>
+    </item>
+    
+    <item>
+        <title>Tryb losowy</title>
+        <link>https://www.realmadryt.pl/news/146798-tryb-losowy</link>
+        <pubDate>Wed, 25 Feb 2026 09:09:00 GMT</pubDate>
+        <description>Wszystko poszło nie tak.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Benfica: Przewidywane składy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146800-aursnes-nie-bede-nic-komentowal-w-sprawie-prestianniego</link>
         <pubDate>Tue, 24 Feb 2026 17:27:00 GMT</pubDate>
         <description>Fredrik Aursnes pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Realem Madryt w Lidze Mistrzów. Przedstawiamy najważniejsze wypowiedzi pomocnika Benfiki z tego spotkania z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Rui Costa: Prestianni jest dziś krzyżowany jako rasista, a ja gwarantuję, że on jest wszystkim, tylko nie rasistą</title>
-        <link>https://www.realmadryt.pl/news/146799-rui-costa-prestianni-jest-dzis-krzyzowany-jako-rasista-a-ja-gwarantuje-ze-on-jest-wszystkim-tylko-nie-rasista</link>
-        <pubDate>Tue, 24 Feb 2026 17:22:00 GMT</pubDate>
-        <description>Prezes Benfiki rozmawiał z mediami przed spotkaniem z Realem Madryt. Przedstawiamy najważniejsze wypowiedzi Portugalczyka.</description>
-    </item>
-    
-    <item>
-        <title>Khedira: Arbeloa jest czasami prowokujący, ale zawsze uczciwy</title>
-        <link>https://www.realmadryt.pl/news/146790-khedira-arbeloa-jest-czasami-prowokujacy-ale-zawsze-uczciwy</link>
-        <pubDate>Tue, 24 Feb 2026 15:05:00 GMT</pubDate>
-        <description>Były zawodnik Realu Madryt, Sami Khedira, jest twarzą wypożyczalni samochodowej Enterprise Rent-A-Car, która jest jednym ze sponsorów Ligi Europy i Ligi Konferencji. Przy okazji ostatniego eventu udzielił wywiadu dziennikowi AS.</description>
     </item>
     
 </channel>
