@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Feb 2026 19:28:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 20:00:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Benfica [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/146827-real-madryt-benfica-na-zywo</link>
+        <pubDate>Wed, 25 Feb 2026 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa rewanżowe starcie Realu Madryt z Benficą na Santiago Bernabéu. W pierwszym meczu Królewscy wygrali 1:0.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Pauza Mbappé będzie trochę dłuższa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146815-laporta-slowa-arbeloi-lepiej-zeby-ci-z-realu-siedzieli-cicho</link>
         <pubDate>Wed, 25 Feb 2026 13:49:00 GMT</pubDate>
         <description>Kandydat na prezesa Barcelony odpowiedział na wypowiedź trenera Realu Madryt. Przedstawiamy jego komentarze w rozmowie z Chiringuito.</description>
-    </item>
-    
-    <item>
-        <title>Z Chelsea o ćwierćfinał Ligi Młodzieżowej</title>
-        <link>https://www.realmadryt.pl/news/146806-z-chelsea-o-cwiercfinal-ligi-mlodziezowej</link>
-        <pubDate>Wed, 25 Feb 2026 12:30:00 GMT</pubDate>
-        <description>Real Madryt do lat 19 zmierzy się z Chelsea w ramach 1/8 finału Ligi Młodzieżowej. Królewscy mają swoje problemy kadrowe, a o awansie zdecyduje dzisiejsze spotkanie.</description>
     </item>
     
 </channel>
