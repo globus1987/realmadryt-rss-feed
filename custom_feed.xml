@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Feb 2026 22:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 23:36:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146839-dzisiejsze-okladki</link>
+        <pubDate>Thu, 26 Feb 2026 00:34:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i sytuacja Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Courtois: Nie gramy genialnie, ale najważniejsze było zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/146837-courtois-nie-gramy-genialnie-ale-najwazniejsze-bylo-zwyciestwo</link>
+        <pubDate>Thu, 26 Feb 2026 00:10:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu dla telewizji Movistar+ po wygranym 2:1 meczu z Benficą i awansie do 1/8 finału Ligi Mistrzów. Przedstawiamy zapis rozmowy z belgijskim bramkarzem.</description>
+    </item>
     
     <item>
         <title>Znamy wszystkich uczestników 1/8 finału Ligi Mistrzów</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146826-laporta-umowa-z-kongiem-prawa-czlowieka-lamane-sa-wszedzie-a-te-pieniadze-bardzo-nam-pomogly</link>
         <pubDate>Wed, 25 Feb 2026 20:04:00 GMT</pubDate>
         <description>Joan Laporta udzielił wywiadu w katalońskim programie telewizji RTVE, w którym skomentował kontrowersyjną umowę sponsorską z Demokratyczną Republiką Konga. Przedstawiamy przemyślenia kandydata na prezesa Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Benfica: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/146823-real-madryt-benfica-znamy-sklady</link>
-        <pubDate>Wed, 25 Feb 2026 19:25:00 GMT</pubDate>
-        <description>Álvaro Arbeloa odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w kolejnym meczu Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt w ćwierćfinale Ligi Młodzieżowej</title>
-        <link>https://www.realmadryt.pl/news/146822-real-madryt-w-cwiercfinale-ligi-mlodziezowej</link>
-        <pubDate>Wed, 25 Feb 2026 18:10:00 GMT</pubDate>
-        <description>W 1/8 finału Ligi Młodzieżowej Real Madryt do lat 19 pokonał rówieśników z Chelsea. Gola na wagę awansu strzelił Yáñez</description>
     </item>
     
 </channel>
