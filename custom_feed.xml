@@ -4,13 +4,34 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 25 Feb 2026 21:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 22:14:19 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Benfica [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146827-real-madryt-benfica-na-zywo</link>
+        <title>Tchouaméni MVP meczu z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146829-tchouameni-mvp-meczu-z-benfica</link>
+        <pubDate>Wed, 25 Feb 2026 23:05:00 GMT</pubDate>
+        <description>Bardzo dobra dyspozycja Auréliena Tchouaméniego w meczu Realu Madryt z Benficą została doceniona przez ekspertów.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146825-ocen-pilkarzy-po-meczu-z-benfica</link>
+        <pubDate>Wed, 25 Feb 2026 23:04:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Asencio opuścił boisko na noszach</title>
+        <link>https://www.realmadryt.pl/news/146830-asencio-opuscil-boisko-na-noszach</link>
+        <pubDate>Wed, 25 Feb 2026 22:53:00 GMT</pubDate>
+        <description>Raúl Asnecio nie był w stanie kontynuować gry po zderzeniu z Eduardo Camavingą.</description>
+    </item>
+    
+    <item>
+        <title>Awans bez spokoju</title>
+        <link>https://www.realmadryt.pl/news/146827-awans-bez-spokoju</link>
         <pubDate>Wed, 25 Feb 2026 20:55:00 GMT</pubDate>
-        <description>Od 21:00 trwa rewanżowe starcie Realu Madryt z Benficą na Santiago Bernabéu. W pierwszym meczu Królewscy wygrali 1:0.</description>
+        <description>W rewanżowym starciu barażowym Ligi Mistrzów Real Madryt wygrał z Benficą na Bernabéu 2:1 po golach Tchouaméniego i Viníciusa. W pierwszym meczu Królewscy wygrali 1:0, więc zapewnili sobie dziś awans do 1/8 finału.</description>
     </item>
     
     <item>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/146818-trzech-podstawowych-pilkarzy-zagrozonych-zawieszeniem-w-lidze-mistrzow</link>
         <pubDate>Wed, 25 Feb 2026 15:20:00 GMT</pubDate>
         <description>Jeden piłkarz pauzuje dzisiaj z powodu czerwonej kartki, a kolejnych czterech jest zagrożonych zawieszeniem na rewanż za żółte kartki.</description>
-    </item>
-    
-    <item>
-        <title>247 zł za wygraną Realu z Benficą!</title>
-        <link>https://www.realmadryt.pl/news/146817-247-zl-za-wygrana-realu-z-benfica</link>
-        <pubDate>Wed, 25 Feb 2026 14:51:00 GMT</pubDate>
-        <description>#współpracareklamowa #reklamaSTS</description>
-    </item>
-    
-    <item>
-        <title>SER: W kluczowych meczach Mbappé zawsze jest kontuzjowany</title>
-        <link>https://www.realmadryt.pl/news/146816-ser-w-kluczowych-meczach-mbappe-zawsze-jest-kontuzjowany</link>
-        <pubDate>Wed, 25 Feb 2026 14:40:00 GMT</pubDate>
-        <description>Antonio Romero, dziennikarz pokrywający informacje dotyczące Realu Madryt w programie Carrusel Deportivo w radiu SER, przekazał na antenie odczucia kibiców Królewskich po kolejnej absencji Francuza w ważnym spotkaniu.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Słowa Arbeloi? Lepiej, żeby ci z Realu siedzieli cicho</title>
-        <link>https://www.realmadryt.pl/news/146815-laporta-slowa-arbeloi-lepiej-zeby-ci-z-realu-siedzieli-cicho</link>
-        <pubDate>Wed, 25 Feb 2026 13:49:00 GMT</pubDate>
-        <description>Kandydat na prezesa Barcelony odpowiedział na wypowiedź trenera Realu Madryt. Przedstawiamy jego komentarze w rozmowie z Chiringuito.</description>
     </item>
     
 </channel>
