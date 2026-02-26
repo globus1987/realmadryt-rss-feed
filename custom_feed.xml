@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Feb 2026 22:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 23:37:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146870-dzisiejsze-okladki</link>
+        <pubDate>Fri, 27 Feb 2026 00:06:00 GMT</pubDate>
+        <description>Echa wygranej Realu Madryt i sytuacja Barcelony to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Dzisiaj losowanie 1/8 finału Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/146868-dzisiaj-losowanie-1-8-finalu-ligi-mistrzow</link>
+        <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+        <description>Dzisiaj w południe odbędzie się losowanie pełnej drabinki Ligi Mistrzów. Real Madryt może trafić na jednego z tylko dwóch rywali.</description>
+    </item>
     
     <item>
         <title>Scariolo: Gwizdy na mnie? Spodziewałem się tego</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146854-salzburger-nachrichten-klopp-latem-opusci-red-bulla</link>
         <pubDate>Thu, 26 Feb 2026 12:34:00 GMT</pubDate>
         <description>Austriacki dziennik podaje, że latem Red Bull i Klopp mogą rozwiązać kontrakt, który wstępnie obowiązywał do 2029 roku. Coraz głośniej mówi się o powrocie Niemca na ławkę trenerską.</description>
-    </item>
-    
-    <item>
-        <title>Cristiano Ronaldo kupuje 25 procent udziałów w Almeríi</title>
-        <link>https://www.realmadryt.pl/news/146853-cristiano-ronaldo-kupuje-25-procent-udzialow-w-almerii</link>
-        <pubDate>Thu, 26 Feb 2026 12:27:00 GMT</pubDate>
-        <description>Piłkarz zrobił to za pośrednictwem CR7 Sports Investments, nowej spółki zależnej jego firmy CR7 S.A.</description>
-    </item>
-    
-    <item>
-        <title>Vini w trybie galáctico</title>
-        <link>https://www.realmadryt.pl/news/146852-vini-w-trybie-galactico</link>
-        <pubDate>Thu, 26 Feb 2026 12:26:00 GMT</pubDate>
-        <description>Kiedy przychodzi faza pucharowa Ligi Mistrzów, Vinícius czuje się jak ryba w wodzie. Brazylijczyk trafiał do siatki w obu spotkaniach z Benficą i odegrał absolutnie kluczową rolę przy awansie.</description>
     </item>
     
 </channel>
