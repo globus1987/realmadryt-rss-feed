@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Feb 2026 19:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 19:55:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Benfica zaprzecza, że Prestianni przyznał się do winy</title>
+        <link>https://www.realmadryt.pl/news/146861-oficjalnie-benfica-zaprzecza-ze-prestianni-przyznal-sie-do-winy</link>
+        <pubDate>Thu, 26 Feb 2026 20:09:00 GMT</pubDate>
+        <description>Benfica zdementowała tabloidowe informacje mówiące o przyznaniu się jej zawodnika do winy w sprawie incydentu rasistowskiego. Przedstawiamy komunikat Portugalczyków.</description>
+    </item>
     
     <item>
         <title>Tebas: Kto ma kierować nowym Finansowym Fair Play? PSG? Al-Khelaïfi? To brzmi jak żart</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146851-widmo-kolejnego-dwumeczu-z-city</link>
         <pubDate>Thu, 26 Feb 2026 11:58:00 GMT</pubDate>
         <description>W kolejnej rundzie Ligi Mistrzów Real Madryt zmierzy się ze Sportingiem lub Manchesterem City. Choć w teorii szanse wylosowania każdego z tych rywali wynoszą 50%, to w praktyce ostatnie lata nieustannie kojarzyły Królewskich z ekipą Pepa Guardioli.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Benficą</title>
-        <link>https://www.realmadryt.pl/news/146850-oceny-zawodnikow-po-meczu-z-benfica</link>
-        <pubDate>Thu, 26 Feb 2026 11:00:00 GMT</pubDate>
-        <description>Real Madryt wygrał w Lidze Mistrzów z Benficą 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
