@@ -4,13 +4,20 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Feb 2026 00:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 03:11:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Asencio: Skończyło się tylko na strachu</title>
+        <link>https://www.realmadryt.pl/news/146842-asencio-skonczylo-sie-tylko-na-strachu</link>
+        <pubDate>Thu, 26 Feb 2026 01:31:00 GMT</pubDate>
+        <description>Hiszpan po pobycie w szpitalu w Valdebebas wysłał w nocy uspokajającą wiadomość.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
         <link>https://www.realmadryt.pl/news/146839-dzisiejsze-okladki</link>
         <pubDate>Thu, 26 Feb 2026 00:34:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i sytuacja Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+        <description>Wygrana Realu Madryt i wywiady z piłkarzami Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146824-arbeloa-pauza-mbappe-bedzie-troche-dluzsza</link>
         <pubDate>Wed, 25 Feb 2026 20:25:00 GMT</pubDate>
         <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Benficą udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Laporta: Umowa z Kongiem? Prawa człowieka łamane są wszędzie, a te pieniądze bardzo nam pomogły</title>
-        <link>https://www.realmadryt.pl/news/146826-laporta-umowa-z-kongiem-prawa-czlowieka-lamane-sa-wszedzie-a-te-pieniadze-bardzo-nam-pomogly</link>
-        <pubDate>Wed, 25 Feb 2026 20:04:00 GMT</pubDate>
-        <description>Joan Laporta udzielił wywiadu w katalońskim programie telewizji RTVE, w którym skomentował kontrowersyjną umowę sponsorską z Demokratyczną Republiką Konga. Przedstawiamy przemyślenia kandydata na prezesa Barcelony.</description>
     </item>
     
 </channel>
