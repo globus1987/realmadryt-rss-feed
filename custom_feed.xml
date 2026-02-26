@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Feb 2026 22:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 22:54:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Scariolo: Gwizdy na mnie? Spodziewałem się tego</title>
+        <link>https://www.realmadryt.pl/news/146869-scariolo-gwizdy-na-mnie-spodziewalem-sie-tego</link>
+        <pubDate>Thu, 26 Feb 2026 23:44:00 GMT</pubDate>
+        <description>Sergio Scariolo wziął udział w konferencji prasowej po zwycięstwie z Bayernem Monachium. Mówił o tym, że podobała mu się reakcja zespołu i odniósł się do gwizdów, które pojawiły się przed spotkaniem, gdy spiker wymawiał nazwisko trenera.</description>
+    </item>
+    
+    <item>
+        <title>Pewne i spokojne zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/146867-pewne-i-spokojne-zwyciestwo</link>
+        <pubDate>Thu, 26 Feb 2026 23:02:00 GMT</pubDate>
+        <description>W 29. kolejce Euroligi Real Madryt wygrał z Bayernem Monachium i umocnił swoją pozycję w czołowej czwórce. MVP spotkania został Mario Hezonja.</description>
+    </item>
     
     <item>
         <title>Oficjalnie: Benfica zaprzecza, że Prestianni przyznał się do winy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146852-vini-w-trybie-galactico</link>
         <pubDate>Thu, 26 Feb 2026 12:26:00 GMT</pubDate>
         <description>Kiedy przychodzi faza pucharowa Ligi Mistrzów, Vinícius czuje się jak ryba w wodzie. Brazylijczyk trafiał do siatki w obu spotkaniach z Benficą i odegrał absolutnie kluczową rolę przy awansie.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Widzę w drużynie chęć do reakcji</title>
-        <link>https://www.realmadryt.pl/news/146828-scariolo-widze-w-druzynie-chec-do-reakcji</link>
-        <pubDate>Thu, 26 Feb 2026 12:21:00 GMT</pubDate>
-        <description>Sergio Scariolo wziął udział w konferencji prasowej przed spotkaniem z Bayernem Monachium. Mówił przede wszystkim o tym, że drużyna musi się pozbierać po porażce w finale Pucharu Króla.</description>
-    </item>
-    
-    <item>
-        <title>Widmo kolejnego dwumeczu z City</title>
-        <link>https://www.realmadryt.pl/news/146851-widmo-kolejnego-dwumeczu-z-city</link>
-        <pubDate>Thu, 26 Feb 2026 11:58:00 GMT</pubDate>
-        <description>W kolejnej rundzie Ligi Mistrzów Real Madryt zmierzy się ze Sportingiem lub Manchesterem City. Choć w teorii szanse wylosowania każdego z tych rywali wynoszą 50%, to w praktyce ostatnie lata nieustannie kojarzyły Królewskich z ekipą Pepa Guardioli.</description>
     </item>
     
 </channel>
