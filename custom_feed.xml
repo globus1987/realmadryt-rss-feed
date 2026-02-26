@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 26 Feb 2026 09:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 10:08:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Benficą</title>
+        <link>https://www.realmadryt.pl/news/146850-oceny-zawodnikow-po-meczu-z-benfica</link>
+        <pubDate>Thu, 26 Feb 2026 11:00:00 GMT</pubDate>
+        <description>Real Madryt wygrał w Lidze Mistrzów z Benficą 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/146848-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Thu, 26 Feb 2026 10:40:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
+    
+    <item>
+        <title>Arbeloa: Jeśli chcemy nazwać dolegliwości Mbappé kontuzją, można to nazwać kontuzją</title>
+        <link>https://www.realmadryt.pl/news/146843-arbeloa-jesli-chcemy-nazwac-dolegliwosci-mbappe-kontuzja-mozna-to-nazwac-kontuzja</link>
+        <pubDate>Thu, 26 Feb 2026 10:10:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się na konferencji prasowej po meczu z Benficą w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Thiago Pitarch: Czujesz się, jakbyś miał na sobie gogle VR</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/146840-media-mourinho-obejrzal-mecz-w-autokarze-na-parkingu-bernabeu</link>
         <pubDate>Thu, 26 Feb 2026 07:00:00 GMT</pubDate>
         <description>Portugalczyk był zawieszony na rewanż z Realem Madryt. Ostatecznie przyjechał na stadion z drużyną... ale nie wysiadł z klubowego autokaru.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Real Madryt wyrzucił z trybun kibica wykonującego gesty nazistowskie</title>
-        <link>https://www.realmadryt.pl/news/146838-oficjalnie-real-madryt-wyrzucil-z-trybun-kibica-wykonujacego-gesty-nazistowskie</link>
-        <pubDate>Thu, 26 Feb 2026 05:30:00 GMT</pubDate>
-        <description>Klub wystosował komunikat w sprawie incydentu na trybunach przed meczem z Benficą. Przedstawiamy jego pełny treść.</description>
-    </item>
-    
-    <item>
-        <title>Asencio: Skończyło się tylko na strachu</title>
-        <link>https://www.realmadryt.pl/news/146842-asencio-skonczylo-sie-tylko-na-strachu</link>
-        <pubDate>Thu, 26 Feb 2026 01:31:00 GMT</pubDate>
-        <description>Hiszpan po pobycie w szpitalu w Valdebebas wysłał w nocy uspokajającą wiadomość.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146839-dzisiejsze-okladki</link>
-        <pubDate>Thu, 26 Feb 2026 00:34:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i wywiady z piłkarzami Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
