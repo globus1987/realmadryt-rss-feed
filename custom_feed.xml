@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 27 Feb 2026 23:01:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 23:40:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146893-dzisiejsze-okladki</link>
+        <pubDate>Sat, 28 Feb 2026 00:23:00 GMT</pubDate>
+        <description>Losowanie Ligi Mistrzów i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Telewizyjny terminarz 26. kolejki La Ligi</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146873-w-1-8-finalu-ligi-mistrzow-z-manchesterem-city</link>
         <pubDate>Fri, 27 Feb 2026 11:50:00 GMT</pubDate>
         <description>Królewscy poznali dzisiaj najbliższego rywala w Lidze Mistrzów. Oba spotkania 1/8 finału Champions League zostaną rozegrane w marcu.</description>
-    </item>
-    
-    <item>
-        <title>Neymar: Ten taniec był dla Viníciusa Júniora [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/146877-neymar-ten-taniec-byl-dla-viniciusa-juniora-video</link>
-        <pubDate>Fri, 27 Feb 2026 11:36:00 GMT</pubDate>
-        <description>Brazylijczyk strzelił gola i zatańczył jak Vinícius, a po meczu przyznał, że był to taniec dla piłkarza Realu.</description>
     </item>
     
 </channel>
