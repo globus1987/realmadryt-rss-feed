@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Feb 2026 04:09:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 05:04:59 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Trudniejsza strona drabinki? Teraz wszyscy mówią, że Bodø/Glimt jest top</title>
+        <link>https://www.realmadryt.pl/news/146894-guardiola-trudniejsza-strona-drabinki-teraz-wszyscy-mowia-ze-bodo-glimt-jest-top</link>
+        <pubDate>Sat, 28 Feb 2026 05:30:00 GMT</pubDate>
+        <description>Pep Guardiola pojawił się na konferencji prasowej przed sobotnim meczem z Leeds United. Przedstawiamy najważniejsze wypowiedzi z zamkniętej części konferencji z trenerem Manchesteru City, czyli rywalem Realu Madryt w 1/8 finału Ligi Mistrzów.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146878-dzisiejszy-trening</link>
         <pubDate>Fri, 27 Feb 2026 13:27:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do poniedziałkowego spotkania z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>W 1/8 finału Ligi Mistrzów z Manchesterem City!</title>
-        <link>https://www.realmadryt.pl/news/146873-w-1-8-finalu-ligi-mistrzow-z-manchesterem-city</link>
-        <pubDate>Fri, 27 Feb 2026 11:50:00 GMT</pubDate>
-        <description>Królewscy poznali dzisiaj najbliższego rywala w Lidze Mistrzów. Oba spotkania 1/8 finału Champions League zostaną rozegrane w marcu.</description>
     </item>
     
 </channel>
