@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Feb 2026 11:45:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 13:01:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé stanął w obronie Hakimiego w postępowaniu z zarzutem o gwałt</title>
+        <link>https://www.realmadryt.pl/news/146900-mbappe-stanal-w-obronie-hakimiego-w-postepowaniu-z-zarzutem-o-gwalt</link>
+        <pubDate>Sat, 28 Feb 2026 13:29:00 GMT</pubDate>
+        <description>Trwa oczekiwanie na proces w sprawie wychowanka Królewskich. W jego obronie w swoich zeznaniach stanął obecny atakujący Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Huijsen częściowo trenował z grupą</title>
+        <link>https://www.realmadryt.pl/news/146899-huijsen-czesciowo-trenowal-z-grupa</link>
+        <pubDate>Sat, 28 Feb 2026 13:12:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do poniedziałkowego spotkania z Getafe.</description>
+    </item>
     
     <item>
         <title>AS: Historia Kaki pogłębia wątpliwości ws. kolana Mbappé</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146894-guardiola-trudniejsza-strona-drabinki-teraz-wszyscy-mowia-ze-bodo-glimt-jest-top</link>
         <pubDate>Sat, 28 Feb 2026 05:30:00 GMT</pubDate>
         <description>Pep Guardiola pojawił się na konferencji prasowej przed sobotnim meczem z Leeds United. Przedstawiamy najważniejsze wypowiedzi z zamkniętej części konferencji z trenerem Manchesteru City, czyli rywalem Realu Madryt w 1/8 finału Ligi Mistrzów.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/146893-dzisiejsze-okladki</link>
-        <pubDate>Sat, 28 Feb 2026 00:23:00 GMT</pubDate>
-        <description>Losowanie Ligi Mistrzów i mecz Barcelony to główne tematy na sobotnich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 26. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/146888-telewizyjny-terminarz-26-kolejki-la-ligi</link>
-        <pubDate>Fri, 27 Feb 2026 20:10:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 26. kolejka La Ligi. Real Madryt zagra w poniedziałek u siebie z Getafe. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
