@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 28 Feb 2026 22:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 23:30:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146913-dzisiejsze-okladki</link>
+        <pubDate>Sun, 01 Mar 2026 00:10:00 GMT</pubDate>
+        <description>Sytuacja na Bliskim Wschodzie i hat-tricka Lamine'a Yamala to główne tematy na niedzielnych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Kandydat Laporta z gestem Kozakiewicza w trakcie przyśpiewki przeciwko Realowi Madryt [VIDEO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146897-arbeloi-koncza-sie-stoperzy</link>
         <pubDate>Sat, 28 Feb 2026 11:23:00 GMT</pubDate>
         <description>Po wypadnięciu Raúla Asencio w tym momencie Álvaro Arbeloa ma do dyspozycji tylko dwóch stoperów – Antonio Rüdigera i Davida Alabę. Szkółka również nie może zagwarantować żadnej siatki bezpieczeństwa.</description>
-    </item>
-    
-    <item>
-        <title>ESPN: Vinícius i Rodrygo pewniakami do wyjazdu na mundial</title>
-        <link>https://www.realmadryt.pl/news/146895-espn-vinicius-i-rodrygo-pewniakami-do-wyjazdu-na-mundial</link>
-        <pubDate>Sat, 28 Feb 2026 11:15:00 GMT</pubDate>
-        <description>Brazylijski oddział ESPN na początku lutego przekazał przecieki w sprawie kadry Brazylii na mundial. Na socialach podaje się zniekształconą listę względem faktycznego artykułu, który przedstawiamy w całości. Względem tych informacji dwóch graczy Królewskich to pewniaki, trzeci ma duże szanse na wyjazd, a wypożyczony Endrick musi jeszcze przekonać do siebie selekcjonera.</description>
     </item>
     
 </channel>
