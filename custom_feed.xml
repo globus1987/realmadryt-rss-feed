@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Mar 2026 09:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 09:45:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Teraz lepiej nie podawać terminów powrotu Mbappé</title>
+        <link>https://www.realmadryt.pl/news/146916-arbeloa-teraz-lepiej-nie-podawac-terminow-powrotu-mbappe</link>
+        <pubDate>Sun, 01 Mar 2026 10:44:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Getafe w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
+    </item>
     
     <item>
         <title>AS: Nikt już nie wątpi w nowy kontrakt Viníciusa</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146906-city-bez-haalanda-wygrywa-z-leeds</link>
         <pubDate>Sat, 28 Feb 2026 17:40:00 GMT</pubDate>
         <description>Obywatele to rywale Realu Madryt w Lidze Mistrzów. Przed pierwszym meczem z Królewskimi rozegrają trzy mecze w swoim kraju. Pierwszy z nich odbył się dzisiaj. Co ważne, bez Erlinga Haalanda.</description>
-    </item>
-    
-    <item>
-        <title>SER: Mbappé celuje w powrót na rewanż z City</title>
-        <link>https://www.realmadryt.pl/news/146905-ser-mbappe-celuje-w-powrot-na-rewanz-z-city</link>
-        <pubDate>Sat, 28 Feb 2026 17:03:00 GMT</pubDate>
-        <description>Po raz pierwszy madryckie media określiły możliwy czas nieobecności Francuza. Według tych informacji, powrotu napastnika należy oczekiwać najwcześniej na rewanż z Manchesterem City.</description>
     </item>
     
 </channel>
