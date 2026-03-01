@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Mar 2026 13:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 13:50:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Robert Lewandowski ze złamanym oczodołem</title>
+        <link>https://www.realmadryt.pl/news/146926-oficjalnie-robert-lewandowski-ze-zlamanym-oczodolem</link>
+        <pubDate>Sun, 01 Mar 2026 14:19:00 GMT</pubDate>
+        <description>Polski napastnik doznał złamania kości w sobotnim meczu ligowym. Katalończycy potwierdzili, że nie zagra we wtorkowym meczu Pucharu Króla.</description>
+    </item>
+    
+    <item>
+        <title>Castilla przegrywa, tracąc gola w końcówce</title>
+        <link>https://www.realmadryt.pl/news/146925-castilla-przegrywa-tracac-gola-w-koncowce</link>
+        <pubDate>Sun, 01 Mar 2026 14:15:00 GMT</pubDate>
+        <description>W 26. kolejce Primera Fedaración Castilla przegrała 0:1 z Ponferradiną. Królewscy stracili gola w ostatniej minucie podstawowego czasu gry.</description>
+    </item>
     
     <item>
         <title>Mourinho: Kocham Arbeloę, ale myślę, że to ja zająłem poprawne stanowisko, a nie on</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146912-ancelotti-pewnie-ze-chcialbym-wrocic-do-realu-ale-raczej-przedluze-umowe-z-brazylia</link>
         <pubDate>Sun, 01 Mar 2026 08:20:00 GMT</pubDate>
         <description>Carlo Ancelotti był gościem najnowszego odcinka programu Jorge Valdano. Przedstawiamy fragment rozmowy dotyczące pracy w Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Odzyskać miejsce w czołowej piątce</title>
-        <link>https://www.realmadryt.pl/news/146911-odzyskac-miejsce-w-czolowej-piatce</link>
-        <pubDate>Sun, 01 Mar 2026 07:30:00 GMT</pubDate>
-        <description>W 26. kolejce Primera Federación Castilla podejmie Ponferradinę. Królewscy świetnie spisują się na własnym stadionie, natomiast ich dzisiejsi rywale są jedną z najlepszych ekip na wyjazdach. To zwiastuje ciekawe spotkanie, szczególnie że oba zespoły dzielą w tabeli zaledwie dwa oczka.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Zaufanie do Alaby na Getafe</title>
-        <link>https://www.realmadryt.pl/news/146915-glos-kibica-zaufanie-do-alaby-na-getafe</link>
-        <pubDate>Sun, 01 Mar 2026 07:00:00 GMT</pubDate>
-        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
