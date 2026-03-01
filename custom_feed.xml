@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Mar 2026 07:47:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 08:40:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 1 marca</title>
+        <link>https://www.realmadryt.pl/news/146909-kartka-z-kalendarza-1-marca</link>
+        <pubDate>Sun, 01 Mar 2026 09:10:00 GMT</pubDate>
+        <description>Urodziny byłego trenera, zakrwawiona głowa Goyo Benito, starcie z Koemanem i Romário, pierwszy hat-trick Ronaldo, wyrzucenie Álvaro Benito z klubu i ostatni mecz na Bernabéu przed pandemią. Co działo się 1 marca?</description>
+    </item>
     
     <item>
         <title>Ancelotti: Pewnie, że chciałbym wrócić do Realu, ale raczej przedłużę umowę z Brazylią</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146904-oficjalnie-ifab-wprowadza-odliczanie-przy-autach-i-zmianach-czy-var-dla-blednych-drugich-zoltych-kartek</link>
         <pubDate>Sat, 28 Feb 2026 15:49:00 GMT</pubDate>
         <description>Międzynarodowa Rada Piłkarska poinformowała, że na dzisiejszym Walnym Zgromadzeniu zatwierdziła zmiany w przepisach gry w piłkę nożną na kolejny sezon.</description>
-    </item>
-    
-    <item>
-        <title>26. kolejka: Barcelona wygrywa i odskakuje na 4 punkty</title>
-        <link>https://www.realmadryt.pl/news/146903-26-kolejka-barcelona-wygrywa-i-odskakuje-na-4-punkty</link>
-        <pubDate>Sat, 28 Feb 2026 15:02:00 GMT</pubDate>
-        <description>Barcelona w tej kolejce rozgrywała swój mecz przed Realem Madryt i po zwycięstwie odskoczyła w tabeli na 4 punkty. Do Katalonii przyjechała tym razem trzecia ekipa w tabeli, która postawiła się liderowi tylko przez kilka minut.</description>
     </item>
     
 </channel>
