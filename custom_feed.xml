@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Mar 2026 22:58:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 23:33:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146935-dzisiejsze-okladki</link>
+        <pubDate>Mon, 02 Mar 2026 00:11:00 GMT</pubDate>
+        <description>Mecz Realu z Getafe oraz sytuacja Barcelony przed rewanżem z Atlético to główne tematy na poniedziałkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Endrick z 2 asystami, ale jego Lyon przegrywa w meczu na górze tabeli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146923-swiatelko-w-tunelu-dla-mariano</link>
         <pubDate>Sun, 01 Mar 2026 13:30:00 GMT</pubDate>
         <description>Mariano Díaz podpisał minionego lata kontrakt z Deportivo Alavés. W stolicy Kraju Basków napastnik liczył na odbudowanie kariery. Okazało się jednak, że obie strony wpadły w pułapkę.</description>
-    </item>
-    
-    <item>
-        <title>Niedoszły dubler Courtois</title>
-        <link>https://www.realmadryt.pl/news/146921-niedoszly-dubler-courtois</link>
-        <pubDate>Sun, 01 Mar 2026 11:30:00 GMT</pubDate>
-        <description>Latem 2023 roku Real Madryt chciał zakontraktować Davida Sorię. Na drodze do tego transferu stanął jednak Andrij Łunin, który postanowił pozostać w klubie.</description>
     </item>
     
 </channel>
