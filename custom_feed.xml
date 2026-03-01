@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 01 Mar 2026 03:18:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 05:07:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Rodrygo wraca do gry, ale ma jeden problem</title>
+        <link>https://www.realmadryt.pl/news/146914-rodrygo-wraca-do-gry-ale-ma-jeden-problem</link>
+        <pubDate>Sun, 01 Mar 2026 05:30:00 GMT</pubDate>
+        <description>Brazylijczyk wraca do gry po miesiącu przerwy spowodowanej urazem i zawieszeniem. Wszyscy marzą, by wrócił do formy z przełomu grudnia i stycznia, ale na jego drodze pojawił się spory problem.</description>
+    </item>
     
     <item>
         <title>Guardiola: Bardzo dziękujemy za mniej czasu na regenerację przed wyjazdem do Madrytu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146899-huijsen-czesciowo-trenowal-z-grupa</link>
         <pubDate>Sat, 28 Feb 2026 13:12:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do poniedziałkowego spotkania z Getafe.</description>
-    </item>
-    
-    <item>
-        <title>AS: Historia Kaki pogłębia wątpliwości ws. kolana Mbappé</title>
-        <link>https://www.realmadryt.pl/news/146898-as-historia-kaki-poglebia-watpliwosci-ws-kolana-mbappe</link>
-        <pubDate>Sat, 28 Feb 2026 12:31:00 GMT</pubDate>
-        <description>Brazylijczyk również grał z bólem kolana przed mundialem, by nie przegapić turnieju i mocno pogorszył jego stan. Wszystko ujawniło się dopiero w trakcie operacji.</description>
     </item>
     
 </channel>
