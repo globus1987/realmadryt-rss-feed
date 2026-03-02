@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Mar 2026 19:51:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 20:45:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Getafe [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/146954-real-madryt-getafe-na-zywo</link>
+        <pubDate>Mon, 02 Mar 2026 20:55:00 GMT</pubDate>
+        <description>Od 21:00 na Bernabéu trwa mecz 26. kolejki La Ligi pomiędzy Realem Madryt a Getafe.</description>
+    </item>
     
     <item>
         <title>Rozgrzewka przed Getafe [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146942-alvarez-de-mon-real-jest-przekonany-ze-uefa-wznowi-zawieszone-postepowanie-w-sprawie-negreiry</link>
         <pubDate>Mon, 02 Mar 2026 12:51:00 GMT</pubDate>
         <description>Ramón Álvarez de Mon, socio Realu Madryt, youtuber, prawnik i współpracownik hiszpańskich mediów, przekazał informacje w tak zwanej Sprawie Negreiry, czyli opłacania przez Barcelonę wiceszefa hiszpańskich sędziów przez okres przynajmniej 17 lat. Przedstawiamy jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 2 marca</title>
-        <link>https://www.realmadryt.pl/news/146941-kartka-z-kalendarza-2-marca</link>
-        <pubDate>Mon, 02 Mar 2026 11:00:00 GMT</pubDate>
-        <description>„Mourinho pokazuje, że jest autentycznym pajacem”, Di Stéfano otwiera warzywniak, Ramos całuje opaskę, Real ogrywa PSG, remisuje z Interem, przegrywa z Bayernem i Barceloną, a Gil Manzano czyni cuda. Co działo się 2 marca?</description>
     </item>
     
 </channel>
