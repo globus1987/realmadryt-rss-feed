@@ -4,13 +4,41 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Mar 2026 22:02:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 22:48:25 GMT</lastBuildDate>
     
     <item>
-        <title>Real Madryt – Getafe [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/146954-real-madryt-getafe-na-zywo</link>
+        <title>Real Madryt 0:1 Getafe [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/146958-real-madryt-0-1-getafe-video</link>
+        <pubDate>Mon, 02 Mar 2026 23:30:00 GMT</pubDate>
+        <description>W meczu 26. kolejki La Ligi Real Madryt przegrał na własnym boisku z Getafe 0:1.</description>
+    </item>
+    
+    <item>
+        <title>David Soria MVP meczu Realu z Getafe</title>
+        <link>https://www.realmadryt.pl/news/146957-david-soria-mvp-meczu-realu-z-getafe</link>
+        <pubDate>Mon, 02 Mar 2026 23:25:00 GMT</pubDate>
+        <description>David Soria został wyróżniony po meczu Realu Madryt z Getafe.</description>
+    </item>
+    
+    <item>
+        <title>Kiko Femenía: Zasłużyliśmy na zwycięstwo</title>
+        <link>https://www.realmadryt.pl/news/146955-kiko-femenia-zasluzylismy-na-zwyciestwo</link>
+        <pubDate>Mon, 02 Mar 2026 23:15:00 GMT</pubDate>
+        <description>Kiko Femenía udzielił wywiadu z murawy dla platformy DAZN po wygranym 1:0 meczu z Realem Madryt na Santiago Bernabéu. Przedstawiamy wypowiedzi gracza Getafe.</description>
+    </item>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z Getafe</title>
+        <link>https://www.realmadryt.pl/news/146953-ocen-pilkarzy-po-meczu-z-getafe</link>
+        <pubDate>Mon, 02 Mar 2026 23:08:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not w skali 1–6.</description>
+    </item>
+    
+    <item>
+        <title>Takimi meczami przegrywa się mistrzostwo</title>
+        <link>https://www.realmadryt.pl/news/146954-takimi-meczami-przegrywa-sie-mistrzostwo</link>
         <pubDate>Mon, 02 Mar 2026 20:55:00 GMT</pubDate>
-        <description>Od 21:00 na Bernabéu trwa mecz 26. kolejki La Ligi pomiędzy Realem Madryt a Getafe.</description>
+        <description>W meczu 26. kolejki La Ligi Real Madryt przegrał z Getafe 0:1.</description>
     </item>
     
     <item>
@@ -60,34 +88,6 @@
         <link>https://www.realmadryt.pl/news/146945-barcelona-napedza-remontade-nawiazaniami-do-tradycji-realu-madryt</link>
         <pubDate>Mon, 02 Mar 2026 16:18:00 GMT</pubDate>
         <description>Katalończycy we wtorek rozegrają pucharowy rewanż z Atlético Madryt, w którym chcą odrobić stratę 4 bramek. Klub przygotowuje mecz serią wpisów, które przywołują na myśl tradycję Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Trzech piłkarzy zagrożonych zawieszeniem w La Lidze</title>
-        <link>https://www.realmadryt.pl/news/146944-trzech-pilkarzy-zagrozonych-zawieszeniem-w-la-lidze</link>
-        <pubDate>Mon, 02 Mar 2026 14:01:00 GMT</pubDate>
-        <description>Trzech piłkarzy jest zagrożonych zawieszeniem za kartki w La Lidze przed wyjazdem do Vigo.</description>
-    </item>
-    
-    <item>
-        <title>Kadra Realu Madryt na Getafe</title>
-        <link>https://www.realmadryt.pl/news/146940-kadra-realu-madryt-na-getafe</link>
-        <pubDate>Mon, 02 Mar 2026 13:52:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na sześciu zawodników pierwszego zespołu podczas meczu z Getafe. Hiszpan powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Mbappé zaczął konsultacje z lekarzami spoza klubu</title>
-        <link>https://www.realmadryt.pl/news/146943-marca-mbappe-zaczal-konsultacje-z-lekarzami-spoza-klubu</link>
-        <pubDate>Mon, 02 Mar 2026 13:14:00 GMT</pubDate>
-        <description>Francuz opuścił Madryt, by skonsultować swoją sytuację zdrowotną z innymi lekarzami spoza klubu.</description>
-    </item>
-    
-    <item>
-        <title>Álvarez de Mon: Real jest przekonany, że UEFA wznowi zawieszone postępowanie w Sprawie Negreiry</title>
-        <link>https://www.realmadryt.pl/news/146942-alvarez-de-mon-real-jest-przekonany-ze-uefa-wznowi-zawieszone-postepowanie-w-sprawie-negreiry</link>
-        <pubDate>Mon, 02 Mar 2026 12:51:00 GMT</pubDate>
-        <description>Ramón Álvarez de Mon, socio Realu Madryt, youtuber, prawnik i współpracownik hiszpańskich mediów, przekazał informacje w tak zwanej Sprawie Negreiry, czyli opłacania przez Barcelonę wiceszefa hiszpańskich sędziów przez okres przynajmniej 17 lat. Przedstawiamy jego wypowiedzi.</description>
     </item>
     
 </channel>
