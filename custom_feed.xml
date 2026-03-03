@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Mar 2026 05:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 07:05:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Barcelona czy Atlético</title>
+        <link>https://www.realmadryt.pl/news/146966-glos-kibica-barcelona-czy-atletico</link>
+        <pubDate>Tue, 03 Mar 2026 07:50:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Żaden z piłkarzy Realu nie wypowiedział się w mediach po porażce z Getafe</title>
+        <link>https://www.realmadryt.pl/news/146962-zaden-z-pilkarzy-realu-nie-wypowiedzial-sie-w-mediach-po-porazce-z-getafe</link>
+        <pubDate>Tue, 03 Mar 2026 07:00:00 GMT</pubDate>
+        <description>Żaden z zawodników Realu Madryt nie udzielił wypowiedzi mediom po przegranym 0:1 meczu z Getafe. To już tradycyjny efekt modyfikacji ze strony La Ligi. Królewscy uznają je za nielegalne, ale powodem jest też wynik, bo nikt też nie wyszedł nawet do rozmowy z klubową telewizją.</description>
+    </item>
     
     <item>
         <title>Mecz na Bernabéu skończył się z okrzykami „Florentino do dymisji” [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146951-rozgrzewka-przed-getafe-na-zywo</link>
         <pubDate>Mon, 02 Mar 2026 20:10:00 GMT</pubDate>
         <description>Królewscy po 20:20 wybiegną na murawę i rozpoczną rozgrzewkę na Santiago Bernabéu, gdzie za kilkadziesiąt minut zaczną mecz z Getafe. Pierwszy gwizdek arbitra wybrzmi o 21:00.</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Getafe: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/146949-real-madryt-getafe-znamy-sklady</link>
-        <pubDate>Mon, 02 Mar 2026 19:20:00 GMT</pubDate>
-        <description>Álvaro Arbeloa odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w meczu La Ligi z Getafe. Mecz rozpocznie się o godzinie 21:00 na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalny komunikat Realu Madryt ws. kolana Kyliana Mbappé</title>
-        <link>https://www.realmadryt.pl/news/146950-oficjalny-komunikat-realu-madryt-ws-kolana-kyliana-mbappe</link>
-        <pubDate>Mon, 02 Mar 2026 19:08:00 GMT</pubDate>
-        <description>Klub wydał komunikat w sprawie stanu Francuza. Przedstawiamy jego pełną treść.</description>
     </item>
     
 </channel>
