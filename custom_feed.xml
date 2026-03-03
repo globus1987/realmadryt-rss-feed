@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 02 Mar 2026 23:34:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 00:01:11 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/146961-dzisiejsze-okladki</link>
+        <pubDate>Tue, 03 Mar 2026 00:49:00 GMT</pubDate>
+        <description>Porażka Realu Madryt to główny temat na wszystkich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Zasługiwaliśmy na gola, ale w futbolu nie wystarczy zasługiwać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146947-gueler-w-poszukiwaniu-gola</link>
         <pubDate>Mon, 02 Mar 2026 16:48:00 GMT</pubDate>
         <description>Ostatni raz pomocnik trafił do siatki pod koniec września, w derbach Madrytu.</description>
-    </item>
-    
-    <item>
-        <title>AS: Świetne relacje z Borussią otwierają Realowi drogę po Schlotterbecka</title>
-        <link>https://www.realmadryt.pl/news/146946-as-swietne-relacje-z-borussia-otwieraja-realowi-droge-po-schlotterbecka</link>
-        <pubDate>Mon, 02 Mar 2026 16:22:00 GMT</pubDate>
-        <description>Zarządy obu klubów od lat utrzymują bardzo dobre kontakty. „Nigdy nie lekceważyłbym Florentino. Jest na równi z Bernabéu, to wyjątkowy człowiek” – powiedział Watzke kilka lat temu w wywiadzie dla dziennika AS.</description>
     </item>
     
 </channel>
