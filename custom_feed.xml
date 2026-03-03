@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Mar 2026 11:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 12:01:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pichichi, Zamora, Asistencias</title>
+        <link>https://www.realmadryt.pl/news/146960-pichichi-zamora-asistencias</link>
+        <pubDate>Tue, 03 Mar 2026 12:50:00 GMT</pubDate>
+        <description>Podsumowanie najważniejszych indywidualnych statystyk po 26. kolejce La Ligi.</description>
+    </item>
     
     <item>
         <title>Satriano: Cały czas wierzyliśmy, że uda się wygrać</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146961-dzisiejsze-okladki</link>
         <pubDate>Tue, 03 Mar 2026 00:49:00 GMT</pubDate>
         <description>Porażka Realu Madryt to główny temat na wszystkich okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Zasługiwaliśmy na gola, ale w futbolu nie wystarczy zasługiwać</title>
-        <link>https://www.realmadryt.pl/news/146956-arbeloa-zaslugiwalismy-na-gola-ale-w-futbolu-nie-wystarczy-zaslugiwac</link>
-        <pubDate>Tue, 03 Mar 2026 00:07:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej po meczu z Getafe w La Lidze. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
     </item>
     
 </channel>
