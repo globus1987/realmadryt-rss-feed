@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 03 Mar 2026 09:53:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 10:51:29 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 3 marca</title>
+        <link>https://www.realmadryt.pl/news/146967-kartka-z-kalendarza-3-marca</link>
+        <pubDate>Tue, 03 Mar 2026 11:10:00 GMT</pubDate>
+        <description>Pierwszy mecz legendarnego prezesa, debiut wielkiego kapitana, remis w Düsseldorfie, kolejne gole Cristiano Ronaldo i śmierć Raymonda Kopaszewskiego. Co działo się 3 marca?</description>
+    </item>
     
     <item>
         <title>Otoczenie Mbappé dla Francuzów: Na ten moment nie planuje się żadnej operacji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/146958-real-madryt-0-1-getafe-video</link>
         <pubDate>Mon, 02 Mar 2026 23:30:00 GMT</pubDate>
         <description>W meczu 26. kolejki La Ligi Real Madryt przegrał na własnym boisku z Getafe 0:1.</description>
-    </item>
-    
-    <item>
-        <title>David Soria MVP meczu Realu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/146957-david-soria-mvp-meczu-realu-z-getafe</link>
-        <pubDate>Mon, 02 Mar 2026 23:25:00 GMT</pubDate>
-        <description>David Soria został wyróżniony po meczu Realu Madryt z Getafe.</description>
     </item>
     
 </channel>
