@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Mar 2026 23:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 23:53:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147018-dzisiejsze-okladki</link>
+        <pubDate>Thu, 05 Mar 2026 00:35:00 GMT</pubDate>
+        <description>Awans Sociedadu do finału Pucharu Króla i pochwały dla szkółki Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>MARCA: Lamini Fati może dostać powołanie na Celtę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147000-oficjalnie-kounde-i-balde-wypadaja-na-kilka-tygodni</link>
         <pubDate>Wed, 04 Mar 2026 15:19:00 GMT</pubDate>
         <description>Barcelona zaktualizowała swoją sytuację zdrowotną. Katalończycy w najbliższych tygodniach będą grać bez swoich dwóch podstawowych obrońców. Real Madryt traci do niej w La Lidze 4 punkty.</description>
-    </item>
-    
-    <item>
-        <title>Postępowanie wobec prezesa La Ligi zaczyna się od nowa</title>
-        <link>https://www.realmadryt.pl/news/146999-postepowanie-wobec-prezesa-la-ligi-zaczyna-sie-od-nowa</link>
-        <pubDate>Wed, 04 Mar 2026 14:59:00 GMT</pubDate>
-        <description>Pierwotnie podawano, że postępowanie wobec prezesa La Ligi zakończy się w lutym. Tymczasem daleko do jego rozwiązania.</description>
     </item>
     
 </channel>
