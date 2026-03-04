@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 04 Mar 2026 05:52:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 06:59:40 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Efekt zachowania Rüdigera</title>
+        <link>https://www.realmadryt.pl/news/146988-glos-kibica-efekt-zachowania-ruedigera</link>
+        <pubDate>Wed, 04 Mar 2026 07:50:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>L'Équipe: Mbappé nie zamierza już więcej poświęcać się dla drużyny i trenerów</title>
+        <link>https://www.realmadryt.pl/news/146985-lequipe-mbappe-nie-zamierza-juz-wiecej-poswiecac-sie-dla-druzyny-i-trenerow</link>
+        <pubDate>Wed, 04 Mar 2026 07:00:00 GMT</pubDate>
+        <description>Francuska gazeta podkreśla, że dodatkowe badania przeprowadzone we Francji pod kontrolą sztabu medycznego Realu Madryt, wykazały, że Kylian Mbappé wciąż cierpi na skręcenie lewego kolana, które jednak nie wymaga interwencji chirurgicznej. Data jego powrotu pozostaje nieznana.</description>
+    </item>
     
     <item>
         <title>Ilu piłkarzy może zabraknąć w meczu z Celtą Vigo?</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/146972-oficjalnie-rodrygo-z-zerwanym-wiezadlem-w-kolanie</link>
         <pubDate>Tue, 03 Mar 2026 16:16:00 GMT</pubDate>
         <description>Klub potwierdził poważną kontuzję Brazylijczyka.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Getafe</title>
-        <link>https://www.realmadryt.pl/news/146976-oceny-zawodnikow-po-meczu-z-getafe</link>
-        <pubDate>Tue, 03 Mar 2026 15:43:00 GMT</pubDate>
-        <description>Real Madryt przegrał 0:1 z Getafe. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Milla: Zawodnicy Realu są przytłoczeni</title>
-        <link>https://www.realmadryt.pl/news/146975-milla-zawodnicy-realu-sa-przytloczeni</link>
-        <pubDate>Tue, 03 Mar 2026 15:40:00 GMT</pubDate>
-        <description>Luis Milla, pomocnik Getafe, rozmawiał po wczorajszym meczu z Juanmą Castaño, reporterem radia COPE. Wypowiedzi zawodnika możecie przeczytać poniżej.</description>
     </item>
     
 </channel>
