@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Mar 2026 20:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 20:53:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tuttosport: Warunkiem Allegriego będzie Modrić w sztabie szkoleniowym</title>
+        <link>https://www.realmadryt.pl/news/147039-tuttosport-warunkiem-allegriego-bedzie-modric-w-sztabie-szkoleniowym</link>
+        <pubDate>Thu, 05 Mar 2026 21:25:00 GMT</pubDate>
+        <description>Zdaniem turyńskiego dziennika Massimiliano Allegri może rozpocząć rozmowy z Realem Madryt, jednak postawi swoje warunki. Jednym z nich jest powrót na Bernabéu Luki Modricia, choć w innej roli.</description>
+    </item>
     
     <item>
         <title>Figo: Kontuzja Mbappé? Kilka razy grałem mimo problemów i nie kończyło się to najlepiej</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147022-znaczenie-meczow-domowych-i-wyjazdowych-w-pilce-noznej</link>
         <pubDate>Thu, 05 Mar 2026 10:54:00 GMT</pubDate>
         <description>Artykuł sponsorowany</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Czy sezon bez tytułów będzie klęską? Myślę tylko o Celcie</title>
-        <link>https://www.realmadryt.pl/news/147020-arbeloa-czy-sezon-bez-tytulow-bedzie-kleska-mysle-tylko-o-celcie</link>
-        <pubDate>Thu, 05 Mar 2026 10:43:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się dzisiaj na konferencji prasowej przed jutrzejszym spotkaniem z Celtą Vigo w La Lidze. Przedstawiamy najważniejsze wypowiedzi trenera Realu Madryt z tego spotkania z dziennikarzami w Valdebebas. Pełny zapis pojawi się tradycyjnie w dniu meczu.</description>
     </item>
     
 </channel>
