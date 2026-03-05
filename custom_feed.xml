@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Mar 2026 05:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 06:32:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>ESPN: Rodrygo rozważał odejście po mundialu</title>
+        <link>https://www.realmadryt.pl/news/147010-espn-rodrygo-rozwazal-odejscie-po-mundialu</link>
+        <pubDate>Thu, 05 Mar 2026 07:00:00 GMT</pubDate>
+        <description>Brazylijski ESPN przekazuje najnowsze informacje w sprawie sytuacji Rodryo, w tym jego odczucia po kontuzji i plany na przyszłość.</description>
+    </item>
     
     <item>
         <title>The Athletic: Arbeloa nie ma pełnego poparcia całej drużyny</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147002-oficjalnie-mastantuono-zawieszony-za-zwrot-co-za-wstyd-co-za-je-ny-wstyd</link>
         <pubDate>Wed, 04 Mar 2026 16:11:00 GMT</pubDate>
         <description>Komitet Dyscypliny Hiszpańskiej Federacji Piłkarskiej wymierzył karę Argentyńczykowi za jego zwrot w kierunku sędziego.</description>
-    </item>
-    
-    <item>
-        <title>BILD: Zbliża się czas decyzji ws. Schlotterbecka</title>
-        <link>https://www.realmadryt.pl/news/147001-bild-zbliza-sie-czas-decyzji-ws-schlotterbecka</link>
-        <pubDate>Wed, 04 Mar 2026 15:33:00 GMT</pubDate>
-        <description>Zbliża się termin rozwiązania kwestii przyszłości lidera defensywy Borussii Dortmund. Niemcy cały czas łączą go z Realem Madryt.</description>
     </item>
     
 </channel>
