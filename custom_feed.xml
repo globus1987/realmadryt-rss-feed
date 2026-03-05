@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 05 Mar 2026 06:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 07:30:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Koniec Arbeloi?</title>
+        <link>https://www.realmadryt.pl/news/147016-glos-kibica-koniec-arbeloi</link>
+        <pubDate>Thu, 05 Mar 2026 07:50:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>ESPN: Rodrygo rozważał odejście po mundialu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147003-marca-bellingham-jest-w-londynie-z-mihiciem-a-mbappe-w-paryzu-walczy-o-szybszy-powrot</link>
         <pubDate>Wed, 04 Mar 2026 17:16:00 GMT</pubDate>
         <description>Anglik poleciał do Londynu z doktorem Mihiciem, by skonsultować uraz z innym specjalistą.</description>
-    </item>
-    
-    <item>
-        <title>Oficjalnie: Mastantuono zawieszony za zwrot „Co za wstyd, co za je**ny wstyd”</title>
-        <link>https://www.realmadryt.pl/news/147002-oficjalnie-mastantuono-zawieszony-za-zwrot-co-za-wstyd-co-za-je-ny-wstyd</link>
-        <pubDate>Wed, 04 Mar 2026 16:11:00 GMT</pubDate>
-        <description>Komitet Dyscypliny Hiszpańskiej Federacji Piłkarskiej wymierzył karę Argentyńczykowi za jego zwrot w kierunku sędziego.</description>
     </item>
     
 </channel>
