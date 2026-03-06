@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Mar 2026 19:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 20:40:25 GMT</lastBuildDate>
+    
+    <item>
+        <title>Celta Vigo – Real Madryt [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/147060-celta-vigo-real-madryt-na-zywo</link>
+        <pubDate>Fri, 06 Mar 2026 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 27. kolejki La Ligi, w której Real Madryt mierzy się na wyjeździe z Celtą Vigo.</description>
+    </item>
     
     <item>
         <title>Celta Vigo – Real Madryt: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147043-isidro-diaz-de-mera-escuderos-na-celte</link>
         <pubDate>Fri, 06 Mar 2026 10:50:00 GMT</pubDate>
         <description>36-latek prowadzi spotkania La Ligi od 2020 roku. Dziś po raz dwunasty poprowadzi mecz z udziałem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Spalona ziemia</title>
-        <link>https://www.realmadryt.pl/news/147032-spalona-ziemia</link>
-        <pubDate>Fri, 06 Mar 2026 10:00:00 GMT</pubDate>
-        <description>Czy może być tak źle, że trudno już znaleźć jakiekolwiek pocieszenie?</description>
     </item>
     
 </channel>
