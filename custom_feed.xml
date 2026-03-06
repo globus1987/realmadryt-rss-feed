@@ -4,7 +4,28 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Mar 2026 08:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 09:50:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>Isidro Díaz de Mera Escuderos na Celtę</title>
+        <link>https://www.realmadryt.pl/news/147043-isidro-diaz-de-mera-escuderos-na-celte</link>
+        <pubDate>Fri, 06 Mar 2026 10:50:00 GMT</pubDate>
+        <description>36-latek prowadzi spotkania La Ligi od 2020 roku. Dziś po raz dwunasty poprowadzi mecz z udziałem Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Spalona ziemia</title>
+        <link>https://www.realmadryt.pl/news/147032-spalona-ziemia</link>
+        <pubDate>Fri, 06 Mar 2026 10:00:00 GMT</pubDate>
+        <description>Czy może być tak źle, że trudno już znaleźć jakiekolwiek pocieszenie?</description>
+    </item>
+    
+    <item>
+        <title>„Arbeloa bardziej poprawił się w rzucaniu zdań rodem z poradnika motywacyjnego niż w piłkarskiej rzeczywistości zespołu”</title>
+        <link>https://www.realmadryt.pl/news/147052-arbeloa-bardziej-poprawil-sie-w-rzucaniu-zdan-rodem-z-poradnika-motywacyjnego-niz-w-pilkarskiej-rzeczywistosci-zespolu</link>
+        <pubDate>Fri, 06 Mar 2026 09:58:00 GMT</pubDate>
+        <description>Antonio Romero krytycznie wypowiedział się na temat trenera Realu Madryt podczas audycji El Larguero w Cadena SER.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 6 marca</title>
@@ -67,27 +88,6 @@
         <link>https://www.realmadryt.pl/news/147042-glos-kibica-ryzykowanie-zdrowiem-asencio</link>
         <pubDate>Fri, 06 Mar 2026 00:27:00 GMT</pubDate>
         <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/147047-dzisiejsze-okladki</link>
-        <pubDate>Fri, 06 Mar 2026 00:23:00 GMT</pubDate>
-        <description>Mecz Realu Madryt w Vigo i wywiady w Barcelonie to główne tematy na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Takie mecze są ważne dla układu w tabeli</title>
-        <link>https://www.realmadryt.pl/news/147046-scariolo-takie-mecze-sa-wazne-dla-ukladu-w-tabeli</link>
-        <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
-        <description>Sergio Scariolo wziął udział w konferencji prasowej po wygranym spotkaniu z Virtusem. Ponownie podkreślał, że było to trudne spotkanie ze względu na udział poszczególnych zawodników w meczach reprezentacji.</description>
-    </item>
-    
-    <item>
-        <title>Koszykarze lepsi od Virtusa</title>
-        <link>https://www.realmadryt.pl/news/147045-koszykarze-lepsi-od-virtusa</link>
-        <pubDate>Thu, 05 Mar 2026 23:17:00 GMT</pubDate>
-        <description>W 30. kolejce Euroligi Real Madryt pokonał Virtusa i umocnił swoją pozycję w czołówce tabeli. Może teraz spokojnie czekać na jutrzejsze odpowiedzi bezpośrednich rywali.</description>
     </item>
     
 </channel>
