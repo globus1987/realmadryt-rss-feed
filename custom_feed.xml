@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Mar 2026 23:34:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 23:59:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147071-dzisiejsze-okladki</link>
+        <pubDate>Sat, 07 Mar 2026 00:48:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Giráldez: Faul przed golem na 2:1 dla Realu był ewidentny</title>
+        <link>https://www.realmadryt.pl/news/147070-giraldez-faul-przed-golem-na-2-1-dla-realu-byl-ewidentny</link>
+        <pubDate>Sat, 07 Mar 2026 00:41:00 GMT</pubDate>
+        <description></description>
+    </item>
     
     <item>
         <title>Courtois: To nie był łatwy tydzień i wiedzieliśmy, że dziś musieliśmy zareagować</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147057-telewizyjny-terminarz-27-kolejki-la-ligi</link>
         <pubDate>Fri, 06 Mar 2026 15:19:00 GMT</pubDate>
         <description>Dziś rozpocznie się 27. kolejka La Ligi. Real Madryt zagra dziś na wyjeździe z Celtą Vigo. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>The Athletic: Bellingham i Mbappé nie zagrają w pierwszym meczu z City</title>
-        <link>https://www.realmadryt.pl/news/147056-the-athletic-bellingham-i-mbappe-nie-zagraja-w-pierwszym-meczu-z-city</link>
-        <pubDate>Fri, 06 Mar 2026 14:49:00 GMT</pubDate>
-        <description>Mario Cortegana i Guillermo Rai z The Athletic podali najnowsze informacje na temat stanu zdrowia obu piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Królewscy są już w Vigo</title>
-        <link>https://www.realmadryt.pl/news/147055-krolewscy-sa-juz-w-vigo</link>
-        <pubDate>Fri, 06 Mar 2026 14:39:00 GMT</pubDate>
-        <description>23 powołanych zawodników dotarło już do Vigo, gdzie Królewscy zmierzą się dzisiaj z Celtą.</description>
     </item>
     
 </channel>
