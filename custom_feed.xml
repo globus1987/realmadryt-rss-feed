@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 06 Mar 2026 22:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 23:34:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>Courtois: To nie był łatwy tydzień i wiedzieliśmy, że dziś musieliśmy zareagować</title>
+        <link>https://www.realmadryt.pl/news/147068-courtois-to-nie-byl-latwy-tydzien-i-wiedzielismy-ze-dzis-musielismy-zareagowac</link>
+        <pubDate>Sat, 07 Mar 2026 00:09:00 GMT</pubDate>
+        <description>Thibaut Courtois udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu wyjazdowym z Celtą. Przedstawiamy zapis rozmowy z bramkarzem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Borja Iglesias: Porażka w ostatniej akcji boli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147055-krolewscy-sa-juz-w-vigo</link>
         <pubDate>Fri, 06 Mar 2026 14:39:00 GMT</pubDate>
         <description>23 powołanych zawodników dotarło już do Vigo, gdzie Królewscy zmierzą się dzisiaj z Celtą.</description>
-    </item>
-    
-    <item>
-        <title>Radu: Optymizm przed meczem? Real Madryt to zawsze Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/147054-radu-optymizm-przed-meczem-real-madryt-to-zawsze-real-madryt</link>
-        <pubDate>Fri, 06 Mar 2026 14:33:00 GMT</pubDate>
-        <description>Bramkarz Celty Vigo, Ionuț Radu, udzielił wywiadu dziennikowi AS przed dzisiejszym meczem z Realem Madryt. Poniżej przedstawiamy zapis tej rozmowy z rumuńskim golkiperem.</description>
     </item>
     
 </channel>
