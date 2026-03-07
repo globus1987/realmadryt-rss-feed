@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 08:43:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 09:13:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 7 marca</title>
+        <link>https://www.realmadryt.pl/news/147073-kartka-z-kalendarza-7-marca</link>
+        <pubDate>Sat, 07 Mar 2026 10:00:00 GMT</pubDate>
+        <description>Ekspresowy gol Makaaya, mecz, w którym narodził się Kot z Odessy, kolejna wygrana w drodze po dwunasty Puchar Europy, trafienie Koemana w Klasyku i triumfy koszykarzy. Co działo się 7 marca?</description>
+    </item>
     
     <item>
         <title>2Playbook: Real Madryt przedłużył umowę z Emirates</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147062-tchouameni-mvp-meczu-z-celta</link>
         <pubDate>Fri, 06 Mar 2026 23:08:00 GMT</pubDate>
         <description>Aurélien Tchouaméni został wyróżniony po meczu Realu Madryt z Celtą.</description>
-    </item>
-    
-    <item>
-        <title>Oceń piłkarzy po meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/147061-ocen-pilkarzy-po-meczu-z-celta</link>
-        <pubDate>Fri, 06 Mar 2026 22:59:00 GMT</pubDate>
-        <description>Zapraszamy do wspólnego wystawiania not.</description>
     </item>
     
 </channel>
