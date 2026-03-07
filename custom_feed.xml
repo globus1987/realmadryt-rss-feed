@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 22:58:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 23:32:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147096-dzisiejsze-okladki</link>
+        <pubDate>Sun, 08 Mar 2026 00:24:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>27. kolejka: Wygrana Barcelony na San Mamés</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147083-trening-regeneracyjny-w-valdebebas</link>
         <pubDate>Sat, 07 Mar 2026 13:17:00 GMT</pubDate>
         <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do środowego spotkania z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>Pintus: Fede przytulił mnie po golu, bo zmarła moja mama</title>
-        <link>https://www.realmadryt.pl/news/147081-pintus-fede-przytulil-mnie-po-golu-bo-zmarla-moja-mama</link>
-        <pubDate>Sat, 07 Mar 2026 12:52:00 GMT</pubDate>
-        <description>Antonio Pintus zamieścił na Instagramie wpis, w którym podziękował Fede Valverde.</description>
     </item>
     
 </channel>
