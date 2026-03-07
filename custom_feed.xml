@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 16:59:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 17:33:13 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wraca „stary” Valverde</title>
+        <link>https://www.realmadryt.pl/news/147084-wraca-stary-valverde</link>
+        <pubDate>Sat, 07 Mar 2026 18:10:00 GMT</pubDate>
+        <description>Fede Valverde w 2026 roku wrócił do swojej bardziej ofensywnej wersji. Urugwajczyk odpowiada na oczekiwania Álvaro Arbeloi, który chce więcej bramek i asyst od swojego pomocnika.</description>
+    </item>
     
     <item>
         <title>Balaídos jest dla Realu niczym Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147076-oceny-zawodnikow-po-meczu-z-celta</link>
         <pubDate>Sat, 07 Mar 2026 11:15:00 GMT</pubDate>
         <description>Real Madryt wygrał w La Lidze z Celtą Vigo 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
-    </item>
-    
-    <item>
-        <title>Valdebebas daje więcej pod względem piłkarskim niż marketingowym</title>
-        <link>https://www.realmadryt.pl/news/147075-valdebebas-daje-wiecej-pod-wzgledem-pilkarskim-niz-marketingowym</link>
-        <pubDate>Sat, 07 Mar 2026 10:23:00 GMT</pubDate>
-        <description>José Felix Diaz, redaktor dziennika AS, dzieli się swoimi przemyśleniami na temat polityki Realu Madryt wobec swoich wychowanków.</description>
     </item>
     
 </channel>
