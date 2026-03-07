@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 14:58:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 15:33:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie ma Realu bez Tchouaméniego</title>
+        <link>https://www.realmadryt.pl/news/147085-nie-ma-realu-bez-tchouameniego</link>
+        <pubDate>Sat, 07 Mar 2026 16:30:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni potwierdza swoją świetną formę i w meczu z Celtą znów najlepszym graczem z pola Realu Madryt. W ostatnich pięciu meczach pomocnik trzykrotnie otrzymał wyróżnienie MVP.</description>
+    </item>
     
     <item>
         <title>Rachad Fettal blisko powrotu do gry</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147073-kartka-z-kalendarza-7-marca</link>
         <pubDate>Sat, 07 Mar 2026 10:00:00 GMT</pubDate>
         <description>Ekspresowy gol Makaaya, mecz, w którym narodził się Kot z Odessy, kolejna wygrana w drodze po dwunasty Puchar Europy, trafienie Koemana w Klasyku i triumfy koszykarzy. Co działo się 7 marca?</description>
-    </item>
-    
-    <item>
-        <title>2Playbook: Real Madryt przedłużył umowę z Emirates</title>
-        <link>https://www.realmadryt.pl/news/147066-2playbook-real-madryt-przedluzyl-umowe-z-emirates</link>
-        <pubDate>Sat, 07 Mar 2026 09:09:00 GMT</pubDate>
-        <description>Klub kierowany przez Florentino Péreza osiągnął w pierwszym półroczu sezonu 2025/26 przychody na poziomie 618 milionów euro, czyli o 2,8% mniej niż rok wcześniej. Zysk netto spadł z 29 milionów do 5 milionów euro z powodu wyższych wydatków na kadrę sportową.</description>
     </item>
     
 </channel>
