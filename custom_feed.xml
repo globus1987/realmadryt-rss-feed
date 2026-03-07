@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 13:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 13:49:54 GMT</lastBuildDate>
+    
+    <item>
+        <title>Enigmatyczny przekaz Arbeloi</title>
+        <link>https://www.realmadryt.pl/news/147082-enigmatyczny-przekaz-arbeloi</link>
+        <pubDate>Sat, 07 Mar 2026 14:08:00 GMT</pubDate>
+        <description>Álvaro Arbeloa po meczu z Celtą postanowił skierować pewien przekaz do nieobecnych w Vigo zawodników Realu Madryt. Trener ma być niezadowolony z nastawienia i zaangażowania niektórych ze swoich podopiecznych.</description>
+    </item>
     
     <item>
         <title>Trening regeneracyjny w Valdebebas</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147067-glos-kibica-kto-obok-viniciusa-w-meczu-z-city</link>
         <pubDate>Sat, 07 Mar 2026 07:25:00 GMT</pubDate>
         <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: To są momenty, w których widać zawodników Realu Madryt i dziś widziałem ich wielu</title>
-        <link>https://www.realmadryt.pl/news/147072-arbeloa-to-sa-momenty-w-ktorych-widac-zawodnikow-realu-madryt-i-dzis-widzialem-ich-wielu</link>
-        <pubDate>Sat, 07 Mar 2026 05:30:00 GMT</pubDate>
-        <description>Álvaro Arbeloa wziął udział w konferencji prasowej po wygranym 2:1 meczu z Celtą na Estadio Balaídos. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami.</description>
     </item>
     
 </channel>
