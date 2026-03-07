@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 15:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 16:38:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Balaídos jest dla Realu niczym Bernabéu</title>
+        <link>https://www.realmadryt.pl/news/147088-balaidos-jest-dla-realu-niczym-bernabeu</link>
+        <pubDate>Sat, 07 Mar 2026 17:20:00 GMT</pubDate>
+        <description>Real jest pierwszym klubem w historii Primera División, któremu udało się odnieść osiem kolejnych wyjazdowych zwycięstw na tym samym stadionie.</description>
+    </item>
     
     <item>
         <title>Nie ma Realu bez Tchouaméniego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147075-valdebebas-daje-wiecej-pod-wzgledem-pilkarskim-niz-marketingowym</link>
         <pubDate>Sat, 07 Mar 2026 10:23:00 GMT</pubDate>
         <description>José Felix Diaz, redaktor dziennika AS, dzieli się swoimi przemyśleniami na temat polityki Realu Madryt wobec swoich wychowanków.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 7 marca</title>
-        <link>https://www.realmadryt.pl/news/147073-kartka-z-kalendarza-7-marca</link>
-        <pubDate>Sat, 07 Mar 2026 10:00:00 GMT</pubDate>
-        <description>Ekspresowy gol Makaaya, mecz, w którym narodził się Kot z Odessy, kolejna wygrana w drodze po dwunasty Puchar Europy, trafienie Koemana w Klasyku i triumfy koszykarzy. Co działo się 7 marca?</description>
     </item>
     
 </channel>
