@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 06:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 07:35:15 GMT</lastBuildDate>
+    
+    <item>
+        <title>Vinícius: Odczuwałem lekkie zmęczenie</title>
+        <link>https://www.realmadryt.pl/news/147069-vinicius-odczuwalem-lekkie-zmeczenie</link>
+        <pubDate>Sat, 07 Mar 2026 08:18:00 GMT</pubDate>
+        <description>Vinícius Júnior udzielił wywiadu klubowej telewizji po wygranym 2:1 meczu z Celtą na Balaidos. Przedstawiamy wypowiedzi atakującego Realu Madryt.</description>
+    </item>
     
     <item>
         <title>GŁOS KIBICA: Kto obok Viníciusa w meczu z City</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147060-to-jeszcze-nie-koniec</link>
         <pubDate>Fri, 06 Mar 2026 20:55:00 GMT</pubDate>
         <description>W meczu 27. kolejki La Ligi Real Madryt wygrał na wyjeździe z Celtą Vigo 2:1. Gole dla Królewskich strzelili Aurélien Tchouaméni i Fede Valverde.</description>
-    </item>
-    
-    <item>
-        <title>Celta Vigo – Real Madryt: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/147058-celta-vigo-real-madryt-znamy-sklady</link>
-        <pubDate>Fri, 06 Mar 2026 19:26:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Celtą Vigo. Spotkanie rozpocznie się o 21:00 na Estadio Balaídos.</description>
     </item>
     
 </channel>
