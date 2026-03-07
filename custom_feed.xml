@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 09:45:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 10:32:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>Wyjazd do Galicji</title>
+        <link>https://www.realmadryt.pl/news/147077-wyjazd-do-galicji</link>
+        <pubDate>Sat, 07 Mar 2026 11:16:00 GMT</pubDate>
+        <description>W 27. kolejce Primera Federación Castilla zmierzy się z Arenteiro. Królewscy potrzebują wygranej, by wrócić do czołówki. Rywale natomiast znajdują się w coraz trudniejszej sytuacji w kontekście walki o utrzymanie.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Celtą</title>
+        <link>https://www.realmadryt.pl/news/147076-oceny-zawodnikow-po-meczu-z-celta</link>
+        <pubDate>Sat, 07 Mar 2026 11:15:00 GMT</pubDate>
+        <description>Real Madryt wygrał w La Lidze z Celtą Vigo 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Valdebebas daje więcej pod względem piłkarskim niż marketingowym</title>
         <link>https://www.realmadryt.pl/news/147075-valdebebas-daje-wiecej-pod-wzgledem-pilkarskim-niz-marketingowym</link>
         <pubDate>Sat, 07 Mar 2026 10:23:00 GMT</pubDate>
-        <description>Miguel Gutiérrez, Álex Jiménez, Arribas, Gila, Nico Paz, Jacobo Ramón, Víctor Muñoz, Chema Andrés, Álvaro Rodríguez, Yusi, Obrador, Marvel…</description>
+        <description>José Felix Diaz, redaktor dziennika AS, dzieli się swoimi przemyśleniami na temat polityki Realu Madryt wobec swoich wychowanków.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147065-borja-iglesias-porazka-w-ostatniej-akcji-boli</link>
         <pubDate>Fri, 06 Mar 2026 23:29:00 GMT</pubDate>
         <description>Borja Iglesias udzielił wywiadu z murawy dla telewizji Movistar+ po przegranej 1:2 z Realem Madryt. Przedstawiamy wypowiedzi napastnika Celty.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Zasłużyliśmy na zwycięstwo pomimo wszystkiego, co wydarzyło się w trakcie meczu</title>
-        <link>https://www.realmadryt.pl/news/147064-arbeloa-zasluzylismy-na-zwyciestwo-pomimo-wszystkiego-co-wydarzylo-sie-w-trakcie-meczu</link>
-        <pubDate>Fri, 06 Mar 2026 23:24:00 GMT</pubDate>
-        <description>Álvaro Arbeloa udzielił wywiadu klubowej telewizji po wygranym 2:1 meczu z Celtą na Balaidos. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Celta Vigo 1:2 Real Madryt [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/147063-celta-vigo-1-2-real-madryt-video</link>
-        <pubDate>Fri, 06 Mar 2026 23:23:00 GMT</pubDate>
-        <description>W meczu 27. kolejki La Ligi Real Madryt wygrał na wyjeździe z Celtą Vigo 2:1. Gole dla Królewskich strzelili Aurélien Tchouaméni i Fede Valverde.</description>
     </item>
     
 </channel>
