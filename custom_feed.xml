@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 10:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 11:29:43 GMT</lastBuildDate>
+    
+    <item>
+        <title>AS: Mbappé i Bellingham celują w rewanż z City</title>
+        <link>https://www.realmadryt.pl/news/147079-as-mbappe-i-bellingham-celuja-w-rewanz-z-city</link>
+        <pubDate>Sat, 07 Mar 2026 12:01:00 GMT</pubDate>
+        <description>Obaj zawodnicy nie zdążą na pierwszy mecz z Manchesterem City, a realnym i osiągalnym celem jest ich występ na Etihad 17 marca.</description>
+    </item>
     
     <item>
         <title>Wyjazd do Galicji</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147068-courtois-to-nie-byl-latwy-tydzien-i-wiedzielismy-ze-dzis-musielismy-zareagowac</link>
         <pubDate>Sat, 07 Mar 2026 00:09:00 GMT</pubDate>
         <description>Thibaut Courtois udzielił wywiadu dla klubowej telewizji po wygranym 2:1 meczu wyjazdowym z Celtą. Przedstawiamy zapis rozmowy z bramkarzem Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Borja Iglesias: Porażka w ostatniej akcji boli</title>
-        <link>https://www.realmadryt.pl/news/147065-borja-iglesias-porazka-w-ostatniej-akcji-boli</link>
-        <pubDate>Fri, 06 Mar 2026 23:29:00 GMT</pubDate>
-        <description>Borja Iglesias udzielił wywiadu z murawy dla telewizji Movistar+ po przegranej 1:2 z Realem Madryt. Przedstawiamy wypowiedzi napastnika Celty.</description>
     </item>
     
 </channel>
