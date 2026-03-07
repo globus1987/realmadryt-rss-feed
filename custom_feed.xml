@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 17:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 17:56:26 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tylko remis Castilli</title>
+        <link>https://www.realmadryt.pl/news/147090-tylko-remis-castilli</link>
+        <pubDate>Sat, 07 Mar 2026 18:45:00 GMT</pubDate>
+        <description>W 27. kolejce Primera Federación Castilla podzieliła się punktami z Arenteiro. Debiut w tym spotkaniu zaliczył Alexis Ciria, który popisał się asystą przy trafieniu Roberto.</description>
+    </item>
     
     <item>
         <title>Wraca „stary” Valverde</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147077-wyjazd-do-galicji</link>
         <pubDate>Sat, 07 Mar 2026 11:16:00 GMT</pubDate>
         <description>W 27. kolejce Primera Federación Castilla zmierzy się z Arenteiro. Królewscy potrzebują wygranej, by wrócić do czołówki. Rywale natomiast znajdują się w coraz trudniejszej sytuacji w kontekście walki o utrzymanie.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Celtą</title>
-        <link>https://www.realmadryt.pl/news/147076-oceny-zawodnikow-po-meczu-z-celta</link>
-        <pubDate>Sat, 07 Mar 2026 11:15:00 GMT</pubDate>
-        <description>Real Madryt wygrał w La Lidze z Celtą Vigo 2:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
