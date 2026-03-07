@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 07 Mar 2026 04:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 05:11:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: To są momenty, w których widać zawodników Realu Madryt i dziś widziałem ich wielu</title>
+        <link>https://www.realmadryt.pl/news/147072-arbeloa-to-sa-momenty-w-ktorych-widac-zawodnikow-realu-madryt-i-dzis-widzialem-ich-wielu</link>
+        <pubDate>Sat, 07 Mar 2026 05:30:00 GMT</pubDate>
+        <description>Álvaro Arbeloa wziął udział w konferencji prasowej po wygranym 2:1 meczu z Celtą na Estadio Balaídos. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147059-moretto-real-chce-rodriego-a-city-o-tym-wie</link>
         <pubDate>Fri, 06 Mar 2026 19:06:00 GMT</pubDate>
         <description>Matteo Moretto to jeden z włoskich ekspertów na rynku transferowym. Tym razem we współpracy z Marcą podzielił się informacjami dotyczącymi piłkarza Manchesteru City.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 27. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/147057-telewizyjny-terminarz-27-kolejki-la-ligi</link>
-        <pubDate>Fri, 06 Mar 2026 15:19:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 27. kolejka La Ligi. Real Madryt zagra dziś na wyjeździe z Celtą Vigo. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
