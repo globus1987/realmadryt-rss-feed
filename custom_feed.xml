@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Mar 2026 19:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 20:35:28 GMT</lastBuildDate>
+    
+    <item>
+        <title>Zwycięstwo po zaciętej końcówce</title>
+        <link>https://www.realmadryt.pl/news/147111-zwyciestwo-po-zacietej-koncowce</link>
+        <pubDate>Sun, 08 Mar 2026 21:07:00 GMT</pubDate>
+        <description>W 21. kolejce Ligi Endesa Real Madryt pokonał Gran Canarię. Samo spotkanie miało różne fazy, na początku lepiej prezentowali się Kanaryjczycy, a później kontrolę przejęli Madrytczycy. Wszystko jednak rozstrzygało się w ostatniej akcji, którą wykorzystał Feliz.</description>
+    </item>
     
     <item>
         <title>AS: Rodri nie znajduje się w planach Realu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147101-wszystkiego-najlepszego-florentino</link>
         <pubDate>Sun, 08 Mar 2026 11:12:00 GMT</pubDate>
         <description>Dziś swoje 79. urodziny obchodzi prezes Realu Madryt, Florentino Pérez. Z tej okazji życzymy mu, by jak najdłużej budował potęgę Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>Nie żyje Vicente Paniagua</title>
-        <link>https://www.realmadryt.pl/news/147100-nie-zyje-vicente-paniagua</link>
-        <pubDate>Sun, 08 Mar 2026 11:05:00 GMT</pubDate>
-        <description>Królewscy oficjalnie złożyli kondolencje rodzinie i bliskim byłego koszykarza, który zmarł dzisiaj w wieku 78 lat.</description>
     </item>
     
 </channel>
