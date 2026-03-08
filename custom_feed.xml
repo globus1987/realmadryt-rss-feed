@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Mar 2026 14:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 14:59:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Powiew nadziei</title>
+        <link>https://www.realmadryt.pl/news/147108-powiew-nadziei</link>
+        <pubDate>Sun, 08 Mar 2026 15:54:00 GMT</pubDate>
+        <description>W 26. kolejce Segunda Federación Real Madryt C rozbił rezerwy Tenerife. To zwycięstwo było bardzo potrzebne drużynie, która desperacko walczy o utrzymanie.</description>
+    </item>
     
     <item>
         <title>Wyścig z czasem Mbappé</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147035-oficjalnie-city-nie-bedzie-trenowac-na-bernabeu</link>
         <pubDate>Sun, 08 Mar 2026 09:09:00 GMT</pubDate>
         <description>UEFA potwierdziła, że Manchester City już tradycyjnie nie będzie trenować na stadionie Realu Madryt przed pierwszym starciem 1/8 finału Ligi Mistrzów. Obywatele odbędą na stadionie jedynie konferencję prasową.</description>
-    </item>
-    
-    <item>
-        <title>„To było żenujące”</title>
-        <link>https://www.realmadryt.pl/news/147089-to-bylo-zenujace</link>
-        <pubDate>Sun, 08 Mar 2026 08:18:00 GMT</pubDate>
-        <description>Romain Saïss, 35-letni były już kapitan reprezentacji Maroka, w wywiadzie udzielonym kanałowi Colinterview nie gryzł się w język, krytykując Brahima Díaza za wykonanie rzutu karnego panenką w finale Pucharu Narodów Afryki 2025 i zmarnowanie go. Obrońca, z powodu kontuzji w pierwszym meczu grupowym, nie mógł wystąpić w przegranym spotkaniu z Senegalem (0:1), ale z trybun mocno przeżywał występ kolegów na ojczystych stadionach.</description>
     </item>
     
 </channel>
