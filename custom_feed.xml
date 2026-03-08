@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Mar 2026 11:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 13:06:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Ośmiu piłkarzy nie trenowało z drużyną</title>
+        <link>https://www.realmadryt.pl/news/147106-osmiu-pilkarzy-nie-trenowalo-z-druzyna</link>
+        <pubDate>Sun, 08 Mar 2026 13:20:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do środowego spotkania z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Wyjazd na Wyspy Kanaryjskie</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147094-as-carreras-moze-nie-zagrac-z-city-wroci-camavinga</link>
         <pubDate>Sun, 08 Mar 2026 05:30:00 GMT</pubDate>
         <description>Sześciu piłkarzy na pewno nie będzie gotowych do gry.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/147096-dzisiejsze-okladki</link>
-        <pubDate>Sun, 08 Mar 2026 00:24:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i wygrana Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
