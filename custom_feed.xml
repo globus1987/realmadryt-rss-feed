@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Mar 2026 08:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 09:15:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 8 marca</title>
+        <link>https://www.realmadryt.pl/news/147093-kartka-z-kalendarza-8-marca</link>
+        <pubDate>Sun, 08 Mar 2026 10:00:00 GMT</pubDate>
+        <description>Urodziny prezesa, ostatni mecz przed koronawirusem, pierwszy awans Zidane'a w Lidze Mistrzów i debiut polskiego sędziego na Bernabéu, remis na Highbury, dwusetny gol ligowy Raúla, urodziny pierwszego Anglika w barwach Realu Madryt i notka, która rozpoczęła piękną historię koszykarskiego zespołu Królewskich. Co działo się 8 marca?</description>
+    </item>
     
     <item>
         <title>Oficjalnie: City nie będzie trenować na Bernabéu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147088-balaidos-jest-dla-realu-niczym-bernabeu</link>
         <pubDate>Sat, 07 Mar 2026 17:20:00 GMT</pubDate>
         <description>Real jest pierwszym klubem w historii Primera División, któremu udało się odnieść osiem kolejnych wyjazdowych zwycięstw na tym samym stadionie.</description>
-    </item>
-    
-    <item>
-        <title>Nie ma Realu bez Tchouaméniego</title>
-        <link>https://www.realmadryt.pl/news/147085-nie-ma-realu-bez-tchouameniego</link>
-        <pubDate>Sat, 07 Mar 2026 16:30:00 GMT</pubDate>
-        <description>Aurélien Tchouaméni potwierdza swoją świetną formę i w meczu z Celtą znów najlepszym graczem z pola Realu Madryt. W ostatnich pięciu meczach pomocnik trzykrotnie otrzymał wyróżnienie MVP.</description>
     </item>
     
 </channel>
