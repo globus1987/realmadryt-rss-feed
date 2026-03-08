@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 08 Mar 2026 23:34:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 23:58:10 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147115-dzisiejsze-okladki</link>
+        <pubDate>Mon, 09 Mar 2026 00:47:00 GMT</pubDate>
+        <description>Zbliżające się mecze Realu Madryt i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Scariolo: Rzut Feliza na zwycięstwo? To była akcja dla niego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147097-trener-z-la-fabriki-notuje-passe-40-zwyciestw-z-rzedu-w-lidze</link>
         <pubDate>Sun, 08 Mar 2026 12:00:00 GMT</pubDate>
         <description>Na ten bilans składają się wygrane z Cadete A, Juvenilem C i Juvenilem A, który prowadzi obecnie.</description>
-    </item>
-    
-    <item>
-        <title>Tavares: Kiedy gramy jako drużyna, jesteśmy nie do zatrzymania</title>
-        <link>https://www.realmadryt.pl/news/147102-tavares-kiedy-gramy-jako-druzyna-jestesmy-nie-do-zatrzymania</link>
-        <pubDate>Sun, 08 Mar 2026 11:51:00 GMT</pubDate>
-        <description>Edy Tavares rozmawiał z klubowymi mediami przed spotkaniem z Gran Canarią  w Lidze Endesa. Z szacunkiem wypowiadał się o rywali, który w lidze przechodzi przez trudne chwile.</description>
     </item>
     
 </channel>
