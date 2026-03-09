@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Mar 2026 22:48:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 23:35:33 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147138-dzisiejsze-okladki</link>
+        <pubDate>Tue, 10 Mar 2026 00:24:00 GMT</pubDate>
+        <description>Mecze w Lidze Mistrzów to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>„Cesc Fàbregas bardzo podoba się wpływowym działaczom Realu”</title>
+        <link>https://www.realmadryt.pl/news/147135-cesc-fabregas-bardzo-podoba-sie-wplywowym-dzialaczom-realu</link>
+        <pubDate>Tue, 10 Mar 2026 00:08:00 GMT</pubDate>
+        <description>Jorge Picón, były dziennikarz nieistniejącego już portalu Relevo, gościł w programie ElDesmarket portalu ElDesmarque, gdzie podzielił się swoimi informacjami na temat obsady stanowiska trenera Realu Madryt. Przedstawiamy wypowiedzi Hiszpana,</description>
+    </item>
     
     <item>
         <title>Tebas: Zobaczymy, czy od przyszłego sezonu uda nam się wdrożyć automatyczny spalony</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147121-wejscie-endricka-bylo-naprawde-dziwne-gral-tak-jakby-w-ogole-mu-nie-zalezalo</link>
         <pubDate>Mon, 09 Mar 2026 11:03:00 GMT</pubDate>
         <description>Brazylijczyk od ponad miesiąca nie trafił do siatki, a wczoraj był tylko zmiennikiem w meczu z Paris FC i pojawił się na murawie po przerwie.</description>
-    </item>
-    
-    <item>
-        <title>Maurizio Mariani na pierwszy mecz z City</title>
-        <link>https://www.realmadryt.pl/news/147120-maurizio-mariani-na-pierwszy-mecz-z-city</link>
-        <pubDate>Mon, 09 Mar 2026 10:54:00 GMT</pubDate>
-        <description>44-letni Włoch będzie głównym rozjemcą środowego meczu Realu Madryt z Manchesterem City. Będzie to trzecie spotkanie tego arbitra z udziałem Królewskich.</description>
-    </item>
-    
-    <item>
-        <title>„Otoczenie Mbappé przekazało nam, że nie wróci, dopóki nie będzie gotowy na 100%, jego celem jest mundial”</title>
-        <link>https://www.realmadryt.pl/news/147119-otoczenie-mbappe-przekazalo-nam-ze-nie-wroci-dopoki-nie-bedzie-gotowy-na-100-jego-celem-jest-mundial</link>
-        <pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
-        <description>Antoine Simonneau, korespondent L’Équipe w Hiszpanii, był gościem audycji Carrusel Deportivo na antenie Cadena SER. Przedstawiamy zapis rozmowy z Francuzem.</description>
     </item>
     
 </channel>
