@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 09 Mar 2026 11:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 13:21:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejszy trening</title>
+        <link>https://www.realmadryt.pl/news/147124-dzisiejszy-trening</link>
+        <pubDate>Mon, 09 Mar 2026 13:57:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i kontynuowali boiskowe przygotowania do środowego spotkania z Manchesterem City.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Álvaro Carreras kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/147125-oficjalnie-alvaro-carreras-kontuzjowany</link>
+        <pubDate>Mon, 09 Mar 2026 13:53:00 GMT</pubDate>
+        <description>Hiszpan wypada z gry i nie zagra w najbliższych spotkaniach.</description>
+    </item>
     
     <item>
         <title>Laporta: Flick wygrywa z tymi samymi zawodnikami, których miał Xavi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147116-xavi-powrot-messiego-byl-dogadany-ale-laporta-powiedzial-mi-ze-on-rozpeta-mu-wojne</link>
         <pubDate>Mon, 09 Mar 2026 01:00:00 GMT</pubDate>
         <description>Xavi Hernández udzielił wywiadu dla dziennika La Vanguardia. Przedstawiamy pełne tłumaczenie tej rozmowy z byłym piłkarzem i trenerem Barcelony.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/147115-dzisiejsze-okladki</link>
-        <pubDate>Mon, 09 Mar 2026 00:47:00 GMT</pubDate>
-        <description>Zbliżające się mecze Realu Madryt i Barcelony to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Scariolo: Rzut Feliza na zwycięstwo? To była akcja dla niego</title>
-        <link>https://www.realmadryt.pl/news/147113-scariolo-rzut-feliza-na-zwyciestwo-to-byla-akcja-dla-niego</link>
-        <pubDate>Sun, 08 Mar 2026 23:22:00 GMT</pubDate>
-        <description>Sergio Scariolo wypowiadał się po zwycięskim spotkaniu z Gran Canarią. Był zdenerwowany na drużynę za moment rozluźnienia, na który sobie pozwoliła przy wysokiej przewadze w trzeciej kwarcie.</description>
     </item>
     
 </channel>
