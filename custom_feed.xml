@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Mar 2026 05:53:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 07:01:31 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Wiara w wygraną z City</title>
+        <link>https://www.realmadryt.pl/news/147137-glos-kibica-wiara-w-wygrana-z-city</link>
+        <pubDate>Tue, 10 Mar 2026 07:25:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Nadchodzi moment Mendy'ego</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147123-laporta-flick-wygrywa-z-tymi-samymi-zawodnikami-ktorych-mial-xavi</link>
         <pubDate>Mon, 09 Mar 2026 11:45:00 GMT</pubDate>
         <description>Joan Laporta i Víctor Font wzięli dzisiaj udział w debacie, a najciekawszy jej moment dotyczył odpowiedzi na słowa Xaviego. Przedstawiamy, co dokładnie powiedział Laporta.</description>
-    </item>
-    
-    <item>
-        <title>Paradoks Courtois</title>
-        <link>https://www.realmadryt.pl/news/147122-paradoks-courtois</link>
-        <pubDate>Mon, 09 Mar 2026 11:36:00 GMT</pubDate>
-        <description>Thibaut Courtois częściej się mierzy z Manchesterem City jako zawodnik Realu Madryt niż robił to jako zawodnik Chelsea. Najbliższy dwumecz w Lidze Mistrzów będzie dla Belga odpowiednio 10. i 11. meczem z The Citizens w roli bramkarza Królewskich.</description>
     </item>
     
 </channel>
