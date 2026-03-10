@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Mar 2026 23:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 23:43:34 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147166-dzisiejsze-okladki</link>
+        <pubDate>Wed, 11 Mar 2026 00:35:00 GMT</pubDate>
+        <description><p>Wygrane Atlético i Barcelony oraz mecz Realu Madryt z City to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</p></description>
+    </item>
     
     <item>
         <title>Pochettino: Real? Futbol zaprowadzi cię tam, gdzie chce, a nie gdzie ty chcesz</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147152-kadra-manchesteru-city-na-real-madryt</link>
         <pubDate>Tue, 10 Mar 2026 16:06:00 GMT</pubDate>
         <description>Obywatele przylatują do Madrytu ze znacznie pomniejszoną listą nieobecnych. Pep Guardiola powołał 23 zawodników.</description>
-    </item>
-    
-    <item>
-        <title>Laporta przyznał, że dźwignia z Barça Studios była oszustwem</title>
-        <link>https://www.realmadryt.pl/news/147151-laporta-przyznal-ze-dzwignia-z-barca-studios-byla-oszustwem</link>
-        <pubDate>Tue, 10 Mar 2026 15:49:00 GMT</pubDate>
-        <description>Jedna z dźwigni Barcelony od lat tworzy wiele wątpliwości i pozwala wręcz podważać ostatnie sukcesy jej drużyny. Teraz były prezes klubu i kandydat do reelekcji sam potwierdził, że zrealizowano ją z nieuczciwym zamiarem.</description>
     </item>
     
 </channel>
