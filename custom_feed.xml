@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Mar 2026 18:34:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 19:31:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>Arbeloa: Trzeba wierzyć, bo jesteśmy Realem Madryt i to są nasze rozgrywki</title>
+        <link>https://www.realmadryt.pl/news/147179-arbeloa-trzeba-wierzyc-bo-jestesmy-realem-madryt-i-to-sa-nasze-rozgrywki</link>
+        <pubDate>Wed, 11 Mar 2026 20:21:00 GMT</pubDate>
+        <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Real Madryt – Manchester City: Znamy składy!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147171-przeczytaj-to-jeszcze-raz</link>
         <pubDate>Wed, 11 Mar 2026 10:08:00 GMT</pubDate>
         <description>Dziś przeprowadzimy mały eksperyment.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 11 marca</title>
-        <link>https://www.realmadryt.pl/news/147165-kartka-z-kalendarza-11-marca</link>
-        <pubDate>Wed, 11 Mar 2026 09:30:00 GMT</pubDate>
-        <description>Wyjątkowy mecz Hiszpanii w Madrycie, urodziny ważnych piłkarzy i powrót jednego z najlepszych trenerów w historii. Co działo się 11 marca?</description>
     </item>
     
 </channel>
