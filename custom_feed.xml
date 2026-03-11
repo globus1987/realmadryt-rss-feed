@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Mar 2026 21:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 22:01:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceń piłkarzy po meczu z City</title>
+        <link>https://www.realmadryt.pl/news/147181-ocen-pilkarzy-po-meczu-z-city</link>
+        <pubDate>Wed, 11 Mar 2026 22:57:00 GMT</pubDate>
+        <description>Zapraszamy do wspólnego wystawiania not.</description>
+    </item>
+    
+    <item>
+        <title>Valverde MVP meczu z City</title>
+        <link>https://www.realmadryt.pl/news/147184-valverde-mvp-meczu-z-city</link>
+        <pubDate>Wed, 11 Mar 2026 22:56:00 GMT</pubDate>
+        <description>Wspaniała dyspozycja Fede Valverde w meczu Realu Madryt z Manchesterem City została doceniona przez ekspertów.</description>
+    </item>
     
     <item>
         <title>Mendy nie wyszedł na drugą połowę</title>
@@ -14,10 +28,10 @@
     </item>
     
     <item>
-        <title>Real Madryt – Manchester City [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/147180-real-madryt-manchester-city-na-zywo</link>
+        <title>Szokujący niedosyt</title>
+        <link>https://www.realmadryt.pl/news/147180-szokujacy-niedosyt</link>
         <pubDate>Wed, 11 Mar 2026 20:55:00 GMT</pubDate>
-        <description>Trwa pierwszy mecz 1/8 finału Ligi Mistrzów pomiędzy Realem Madryt a Manchesterem City.</description>
+        <description>W pierwszym meczu 1/8 finału Ligi Mistrzów Real Madryt wygrał z Manchesterem City 3:0 po trzech trafieniach Fede Valverde.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147173-rodri-przylatuje-z-plotkami-o-transferze-kara-za-atak-na-sedziow-i-skargami-sasiadow</link>
         <pubDate>Wed, 11 Mar 2026 12:13:00 GMT</pubDate>
         <description>Hiszpański pomocnik przyjechał do Madrytu nie tylko z plotkami o jego transferze do Realu, ale także problemami pozaboiskowymi.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na City</title>
-        <link>https://www.realmadryt.pl/news/147147-kadra-na-city</link>
-        <pubDate>Wed, 11 Mar 2026 12:03:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na siedmiu zawodników pierwszego zespołu podczas spotkania z Manchesterem City. Hiszpan powołał 23 piłkarzy.</description>
-    </item>
-    
-    <item>
-        <title>Wybuch formy Thiago Pitarcha w 12 miesięcy: więź z Arbeloą i dwa tajne sparingi w Valdebebas</title>
-        <link>https://www.realmadryt.pl/news/147170-wybuch-formy-thiago-pitarcha-w-12-miesiecy-wiez-z-arbeloa-i-dwa-tajne-sparingi-w-valdebebas</link>
-        <pubDate>Wed, 11 Mar 2026 11:32:00 GMT</pubDate>
-        <description>Arbeloa od dawna widział u Thiago ogromny potencjał.</description>
     </item>
     
 </channel>
