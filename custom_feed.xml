@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 10 Mar 2026 23:59:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 02:46:18 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Stoperzy na Manchester City</title>
+        <link>https://www.realmadryt.pl/news/147169-glos-kibica-stoperzy-na-manchester-city</link>
+        <pubDate>Wed, 11 Mar 2026 02:48:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Real Madryt – Manchester City: Przewidywane składy</title>
+        <link>https://www.realmadryt.pl/news/147167-real-madryt-manchester-city-przewidywane-sklady</link>
+        <pubDate>Wed, 11 Mar 2026 02:40:00 GMT</pubDate>
+        <description>Real Madryt podchodzi do hitu 1/8 finału Ligi Mistrzów z serią nieobecnych, z których większość to piłkarze podstawowi. Przy tym wczoraj nie podano jeszcze kadry meczowej na to spotkanie.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147133-mastantuono-szuka-odkupienia</link>
         <pubDate>Tue, 10 Mar 2026 17:10:00 GMT</pubDate>
         <description>Argentyńczyk póki co nie spełnia oczekiwań i wobec zawieszenia na mecz z Elche jego szansą na odbicie się mogą być nadchodzące spotkania z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>MARCA: Real zakazał kibicom obrażania Guardioli</title>
-        <link>https://www.realmadryt.pl/news/147153-marca-real-zakazal-kibicom-obrazania-guardioli</link>
-        <pubDate>Tue, 10 Mar 2026 16:21:00 GMT</pubDate>
-        <description>Tym razem bez słynnej przyśpiewki?</description>
-    </item>
-    
-    <item>
-        <title>Kadra Manchesteru City na Real Madryt</title>
-        <link>https://www.realmadryt.pl/news/147152-kadra-manchesteru-city-na-real-madryt</link>
-        <pubDate>Tue, 10 Mar 2026 16:06:00 GMT</pubDate>
-        <description>Obywatele przylatują do Madrytu ze znacznie pomniejszoną listą nieobecnych. Pep Guardiola powołał 23 zawodników.</description>
     </item>
     
 </channel>
