@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 11 Mar 2026 23:42:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:45 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147191-dzisiejsze-okladki</link>
+        <pubDate>Thu, 12 Mar 2026 00:47:00 GMT</pubDate>
+        <description>Zwycięstwo Realu Madryt to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Guardiola: Nasz mecz nie był aż tak zły, jak sugeruje wynik</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147177-lequipe-real-ciagle-marzy-o-polaczeniu-mbappe-i-haalanda</link>
         <pubDate>Wed, 11 Mar 2026 16:57:00 GMT</pubDate>
         <description>Chociaż dzisiaj trudno to sobie wyobrazić, to Królewscy ciągle po cichu marzą o połączeniu Francuza z Norwegiem w swoim klubie, donoszą Francuzi przed wieczornym starcie z City.</description>
-    </item>
-    
-    <item>
-        <title>Ponad rok od ostatnich dwóch występów Mendy'ego z rzędu w jedenastce</title>
-        <link>https://www.realmadryt.pl/news/147176-ponad-rok-od-ostatnich-dwoch-wystepow-mendyego-z-rzedu-w-jedenastce</link>
-        <pubDate>Wed, 11 Mar 2026 16:13:00 GMT</pubDate>
-        <description>Wszystko wskazuje na to, że Francuz po raz drugi z rzędu zagra w wyjściowej jedenastce. Ostatni raz doszło do tego rok temu. Dwa pełne mecze z rzędu obrońca rozegrał jeszcze wcześniej.</description>
     </item>
     
 </channel>
