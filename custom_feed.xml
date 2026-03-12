@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Mar 2026 06:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 07:13:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Pozycja Valverde</title>
+        <link>https://www.realmadryt.pl/news/147195-glos-kibica-pozycja-valverde</link>
+        <pubDate>Thu, 12 Mar 2026 07:50:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Henry: Nie wiem, co oni wkładają w tę koszulkę</title>
+        <link>https://www.realmadryt.pl/news/147198-henry-nie-wiem-co-oni-wkladaja-w-te-koszulke</link>
+        <pubDate>Thu, 12 Mar 2026 07:17:00 GMT</pubDate>
+        <description>Thierry Henry, legendarny napastnik, jest teraz stałym ekspertem telewizji CBS. Przedstawiamy jego wypowiedzi po meczu Realu Madryt z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Thiago Pitarch: W Manchesterze trzeba zagrać tak samo, jak dziś</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147181-ocen-pilkarzy-po-meczu-z-city</link>
         <pubDate>Wed, 11 Mar 2026 22:57:00 GMT</pubDate>
         <description>Zapraszamy do wspólnego wystawiania not.</description>
-    </item>
-    
-    <item>
-        <title>Valverde MVP meczu z City</title>
-        <link>https://www.realmadryt.pl/news/147184-valverde-mvp-meczu-z-city</link>
-        <pubDate>Wed, 11 Mar 2026 22:56:00 GMT</pubDate>
-        <description>Wspaniała dyspozycja Fede Valverde w meczu Realu Madryt z Manchesterem City została doceniona przez ekspertów.</description>
-    </item>
-    
-    <item>
-        <title>Mendy nie wyszedł na drugą połowę</title>
-        <link>https://www.realmadryt.pl/news/147183-mendy-nie-wyszedl-na-druga-polowe</link>
-        <pubDate>Wed, 11 Mar 2026 22:11:00 GMT</pubDate>
-        <description>Ferland Mendy nie wyszedł na drugą połowę spotkania z Manchesterem City. Hiszpańscy dziennikarze twierdzą, że Francuz odczuwał skurcze.</description>
     </item>
     
 </channel>
