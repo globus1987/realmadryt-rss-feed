@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Mar 2026 22:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 23:35:49 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147224-dzisiejsze-okladki</link>
+        <pubDate>Fri, 13 Mar 2026 00:23:00 GMT</pubDate>
+        <description>Echa wygranej Realu Madryt to główny temat na piątkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Scariolo:  Nasz rozwój jest wyraźny</title>
+        <link>https://www.realmadryt.pl/news/147223-scariolo-nasz-rozwoj-jest-wyrazny</link>
+        <pubDate>Thu, 12 Mar 2026 23:56:00 GMT</pubDate>
+        <description><p>Sergio Scariolo wziął udział w konferencji prasowej po zwycięskim meczu z Valencią. Był zadowolony z postawy drużyny i jej rozwoju.</p></description>
+    </item>
     
     <item>
         <title>Endrick z golem na wagę remisu w Lidze Europy [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147208-to-trener-bramkarzy-realu-uwaza-ze-w-takich-akcjach-lepsza-jest-parada-nogami-video</link>
         <pubDate>Thu, 12 Mar 2026 15:40:00 GMT</pubDate>
         <description>Belg po kolejnej cudownej paradzie wskazał, że to efekt jego ciężkiej codziennej pracy. Potwierdza to też ekspert bramkarski.</description>
-    </item>
-    
-    <item>
-        <title>COPE: Tchouaméni nie jest kontuzjowany, uraz Mendy'ego raczej nie jest groźny</title>
-        <link>https://www.realmadryt.pl/news/147207-cope-tchouameni-nie-jest-kontuzjowany-uraz-mendyego-raczej-nie-jest-grozny</link>
-        <pubDate>Thu, 12 Mar 2026 15:06:00 GMT</pubDate>
-        <description>Francuski obrońca i tak może przegapić rewanż z City.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Zabrakło nam jednego szczegółu</title>
-        <link>https://www.realmadryt.pl/news/147206-guardiola-zabraklo-nam-jednego-szczegolu</link>
-        <pubDate>Thu, 12 Mar 2026 15:03:00 GMT</pubDate>
-        <description>Pep Guardiola pojawił się na konferencji prasowej po spotkaniu z Realem Madryt w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Manchesteru City z dziennikarzami na Bernabéu.</description>
     </item>
     
 </channel>
