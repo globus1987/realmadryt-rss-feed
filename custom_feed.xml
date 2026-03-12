@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Mar 2026 08:56:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 09:54:27 GMT</lastBuildDate>
+    
+    <item>
+        <title>Tchouaméni: Kiedy każdy gra na swoim poziomie, możemy osiągnąć wielkie rzeczy</title>
+        <link>https://www.realmadryt.pl/news/147200-tchouameni-kiedy-kazdy-gra-na-swoim-poziomie-mozemy-osiagnac-wielkie-rzeczy</link>
+        <pubDate>Thu, 12 Mar 2026 10:50:00 GMT</pubDate>
+        <description>Aurélien Tchouaméni udzielił wywiadu dla telewizji Movistar+ po wygranym 3:0 pierwszym meczu z Manchesterem City w 1/8 finału Ligi Mistrzów. Przedstawiamy zapis rozmowy z pomocnikiem Realu Madryt.</description>
+    </item>
+    
+    <item>
+        <title>Arbeloa: Zapytałem piłkarzy, czy oglądali „Dzień Świstaka”, ale nikt nie wiedział, co to jest</title>
+        <link>https://www.realmadryt.pl/news/147196-arbeloa-zapytalem-pilkarzy-czy-ogladali-dzien-swistaka-ale-nikt-nie-wiedzial-co-to-jest</link>
+        <pubDate>Thu, 12 Mar 2026 10:00:00 GMT</pubDate>
+        <description>Álvaro Arbeloa pojawił się na konferencji prasowej po spotkaniu z Manchesterem City w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
+    </item>
     
     <item>
         <title>Vinícius chciał oddać karnego Valverde, ale ten nie chciał strzelać [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147194-valverde-vini-zapytal-czy-chce-karnego-ale-z-kolegami-powiedzielismy-zeby-strzelal-on</link>
         <pubDate>Thu, 12 Mar 2026 02:36:00 GMT</pubDate>
         <description>Federico Valverde po meczu Ligi Mistrzów z Manchesterem City udzielił wywiadu TNT Sports Brasil. Przedstawiamy wypowiedzi Urugwajczyka z tej rozmowy.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/147191-dzisiejsze-okladki</link>
-        <pubDate>Thu, 12 Mar 2026 00:47:00 GMT</pubDate>
-        <description>Zwycięstwo Realu Madryt to główny temat na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Nasz mecz nie był aż tak zły, jak sugeruje wynik</title>
-        <link>https://www.realmadryt.pl/news/147189-guardiola-nasz-mecz-nie-byl-az-tak-zly-jak-sugeruje-wynik</link>
-        <pubDate>Wed, 11 Mar 2026 23:36:00 GMT</pubDate>
-        <description>Pep Guardiola po meczu Ligi Mistrzów z Realem Madryt udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Manchesteru City z tej rozmowy na Bernabéu.</description>
     </item>
     
 </channel>
