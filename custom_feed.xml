@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Mar 2026 09:54:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:50:50 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z City</title>
+        <link>https://www.realmadryt.pl/news/147202-oceny-zawodnikow-po-meczu-z-city</link>
+        <pubDate>Thu, 12 Mar 2026 11:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał w Lidze Mistrzów z Manchesterem City 3:0. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Tchouaméni: Kiedy każdy gra na swoim poziomie, możemy osiągnąć wielkie rzeczy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147192-courtois-przez-media-tworzy-sie-toksyczne-srodowisko-wsrod-kibicow-ktorzy-mysla-ze-robimy-co-nam-sie-podoba</link>
         <pubDate>Thu, 12 Mar 2026 05:30:00 GMT</pubDate>
         <description>Thibaut Courtois wyszedł do mediów w strefie mieszanej po zwycięstwie nad Manchesterem City. Przedstawiamy wypowiedzi bramkarza Realu Madryt dla dziennikarzy telewizyjnych i radiowych.</description>
-    </item>
-    
-    <item>
-        <title>Valverde: Vini zapytał, czy chcę karnego, ale z kolegami powiedzieliśmy, żeby strzelał on</title>
-        <link>https://www.realmadryt.pl/news/147194-valverde-vini-zapytal-czy-chce-karnego-ale-z-kolegami-powiedzielismy-zeby-strzelal-on</link>
-        <pubDate>Thu, 12 Mar 2026 02:36:00 GMT</pubDate>
-        <description>Federico Valverde po meczu Ligi Mistrzów z Manchesterem City udzielił wywiadu TNT Sports Brasil. Przedstawiamy wypowiedzi Urugwajczyka z tej rozmowy.</description>
     </item>
     
 </channel>
