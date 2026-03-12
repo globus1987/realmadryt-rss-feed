@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Thu, 12 Mar 2026 22:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 22:46:01 GMT</lastBuildDate>
+    
+    <item>
+        <title>Endrick z golem na wagę remisu w Lidze Europy [VIDEO]</title>
+        <link>https://www.realmadryt.pl/news/147222-endrick-z-golem-na-wage-remisu-w-lidze-europy-video</link>
+        <pubDate>Thu, 12 Mar 2026 23:27:00 GMT</pubDate>
+        <description>Brazylijczyk po ponad miesiącu znowu zapisał się na liście strzelców, tym razem w debiucie w Lidze Europy na hiszpańskiej ziemi.</description>
+    </item>
+    
+    <item>
+        <title>Udany rewanż na Valencii</title>
+        <link>https://www.realmadryt.pl/news/147221-udany-rewanz-na-valencii</link>
+        <pubDate>Thu, 12 Mar 2026 23:20:00 GMT</pubDate>
+        <description><p>W 31. kolejce Euroligi Real Madryt pokonał Valencię. Zrobił to w przekonujący sposób, dzięki temu uzyskał lepszy bilans meczów bezpośrednich. Jest to bardzo ważne, biorąc pod uwagę sytuację w tabeli.</p></description>
+    </item>
     
     <item>
         <title>Valverde show, czyli kulisy zwycięstwa z City [VIDEO]</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147206-guardiola-zabraklo-nam-jednego-szczegolu</link>
         <pubDate>Thu, 12 Mar 2026 15:03:00 GMT</pubDate>
         <description>Pep Guardiola pojawił się na konferencji prasowej po spotkaniu z Realem Madryt w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Manchesteru City z dziennikarzami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejszy trening</title>
-        <link>https://www.realmadryt.pl/news/147205-dzisiejszy-trening</link>
-        <pubDate>Thu, 12 Mar 2026 14:21:00 GMT</pubDate>
-        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do sobotniego spotkania z Elche.</description>
-    </item>
-    
-    <item>
-        <title>Podcast 7x28: Zasługa Realu czy wina City?</title>
-        <link>https://www.realmadryt.pl/news/147204-podcast-7x28-zasluga-realu-czy-wina-city</link>
-        <pubDate>Thu, 12 Mar 2026 14:08:00 GMT</pubDate>
-        <description>Zapraszamy do wysłuchania najnowszego odcinka podcastu portalu RealMadryt.pl, w którym komentujemy sytuację Królewskich po zwycięstwie nad Manchesterem City.</description>
     </item>
     
 </channel>
