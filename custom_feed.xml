@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Mar 2026 22:45:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 23:36:19 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147248-dzisiejsze-okladki</link>
+        <pubDate>Sat, 14 Mar 2026 00:31:00 GMT</pubDate>
+        <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Przydomowa strefa kibica i piłkarza. Zestawienie najlepszych bramek do piłki nożnej na sezon 2026</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147220-hiszpanie-wprowadzaja-do-transmisji-kamere-na-ciele-sedziego-glownego</link>
         <pubDate>Fri, 13 Mar 2026 12:10:00 GMT</pubDate>
         <description>Hiszpanie szykują się do wprowadzenia do transmisji obrazu z kamery na ciele sędziego głównego.</description>
-    </item>
-    
-    <item>
-        <title>Kwadrans ostatniego treningu przed Elche [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/147232-kwadrans-ostatniego-treningu-przed-elche-video</link>
-        <pubDate>Fri, 13 Mar 2026 11:19:00 GMT</pubDate>
-        <description>Zawodnicy Realu Madryt rozpoczęli właśnie ostatnie zajęcia przed kolejnym meczem w La Lidze w tym sezonie.</description>
     </item>
     
 </channel>
