@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Mar 2026 13:34:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 14:29:39 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oficjalnie: Ferland Mendy kontuzjowany</title>
+        <link>https://www.realmadryt.pl/news/147238-oficjalnie-ferland-mendy-kontuzjowany</link>
+        <pubDate>Fri, 13 Mar 2026 15:12:00 GMT</pubDate>
+        <description>Francuz wypada z gry i nie zagra w najbliższych spotkaniach.</description>
+    </item>
+    
+    <item>
+        <title>Guardiola: Mam swoją opinię o meczu w Madrycie i ona się nie zmienia tylko dlatego, że wynik był zły</title>
+        <link>https://www.realmadryt.pl/news/147237-guardiola-mam-swoja-opinie-o-meczu-w-madrycie-i-ona-sie-nie-zmienia-tylko-dlatego-ze-wynik-byl-zly</link>
+        <pubDate>Fri, 13 Mar 2026 14:41:00 GMT</pubDate>
+        <description>Pep Guardiola wziął udział w konferencji prasowej przed jutrzejszym meczem z West Hamem. Przedstawiamy pełen zapis tego spotkania trenera Manchesteru City z dziennikarzami.</description>
+    </item>
     
     <item>
         <title>AS: Argentyńczycy bojkotują Finalissimę</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147230-jak-arbeloa-zaskoczyl-guardiole</link>
         <pubDate>Fri, 13 Mar 2026 09:55:00 GMT</pubDate>
         <description>Tajną bronią był grad podań od Courtois do Valverde, by atakować prawą stroną.</description>
-    </item>
-    
-    <item>
-        <title>Bernardo: Nie przegraliśmy fizycznie, a przegraliśmy emocjonalnie</title>
-        <link>https://www.realmadryt.pl/news/147218-bernardo-nie-przegralismy-fizycznie-a-przegralismy-emocjonalnie</link>
-        <pubDate>Fri, 13 Mar 2026 09:30:00 GMT</pubDate>
-        <description>Bernardo Silva wyszedł do dziennikarzy po meczu z Realem Madryt. Przedstawiamy wypowiedzi kapitana Manchesteru City z tej rozmowy z mediami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 13 marca</title>
-        <link>https://www.realmadryt.pl/news/147228-kartka-z-kalendarza-13-marca</link>
-        <pubDate>Fri, 13 Mar 2026 09:07:00 GMT</pubDate>
-        <description>Pierwszy gol Casemiro, mistrzostwo Hiszpanii koszykarzy i urodziny piłkarza, którego poświęcenie pomogło w zdobyciu szóstego Pucharu Europy. Co działo się 13 marca?</description>
     </item>
     
 </channel>
