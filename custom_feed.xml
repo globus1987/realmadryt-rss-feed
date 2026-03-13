@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Mar 2026 05:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 07:06:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Wykonawcy karnych</title>
+        <link>https://www.realmadryt.pl/news/147226-glos-kibica-wykonawcy-karnych</link>
+        <pubDate>Fri, 13 Mar 2026 07:50:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
+    
+    <item>
+        <title>Vinícius twarzą kampanii promującej drugą koszulkę Brazylii na mundial</title>
+        <link>https://www.realmadryt.pl/news/147225-vinicius-twarza-kampanii-promujacej-druga-koszulke-brazylii-na-mundial</link>
+        <pubDate>Fri, 13 Mar 2026 07:00:00 GMT</pubDate>
+        <description>Brazylijczycy zaprezentowali swoją drugą koszulkę na mundial. Główną twarzą kampanii jest atakujący Królewskich.</description>
+    </item>
     
     <item>
         <title>Narodziny gwiazdy</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147211-valera-na-bernabeu-jedziemy-z-pelna-wiara</link>
         <pubDate>Thu, 12 Mar 2026 18:54:00 GMT</pubDate>
         <description>Zawodnik Elche, Germán Valera, podzielił się swoimi odczuciami przed sobotnim meczem z Realem Madryt na Santiago Bernabéu. Poniżej przedstawiamy zapis jego wypowiedzi.</description>
-    </item>
-    
-    <item>
-        <title>Moretto: Real wysłucha ofert za Camavingę</title>
-        <link>https://www.realmadryt.pl/news/147210-moretto-real-wyslucha-ofert-za-camavinge</link>
-        <pubDate>Thu, 12 Mar 2026 17:19:00 GMT</pubDate>
-        <description>Dziennikarz ujawnia, że klub nie uważa 23-letniego pomocnika za niezbędnego w swojej kadrze.</description>
-    </item>
-    
-    <item>
-        <title>RMC: Odczucia Mbappé są bardzo dobre, może wrócić do gry w rewanżu z City</title>
-        <link>https://www.realmadryt.pl/news/147209-rmc-odczucia-mbappe-sa-bardzo-dobre-moze-wrocic-do-gry-w-rewanzu-z-city</link>
-        <pubDate>Thu, 12 Mar 2026 16:38:00 GMT</pubDate>
-        <description>Odczucia piłkarza są bardzo dobre i wskazują, że jego powrót do gry może nastąpić już w następnym tygodniu.</description>
     </item>
     
 </channel>
