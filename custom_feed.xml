@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Fri, 13 Mar 2026 02:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:50:57 GMT</lastBuildDate>
+    
+    <item>
+        <title>Narodziny gwiazdy</title>
+        <link>https://www.realmadryt.pl/news/147213-narodziny-gwiazdy</link>
+        <pubDate>Fri, 13 Mar 2026 05:30:00 GMT</pubDate>
+        <description>Thiago Pitarch pokazał się z rewelacyjnej strony, wychodząc w pierwszym składzie na mecz Ligi Mistrzów z Manchesterem City. 18-letni pomocnik Królewskich umacnia swoją pozycję w jedenastce Realu Madryt, a w ostatnią środę pobił nawet rekord Raúla.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147209-rmc-odczucia-mbappe-sa-bardzo-dobre-moze-wrocic-do-gry-w-rewanzu-z-city</link>
         <pubDate>Thu, 12 Mar 2026 16:38:00 GMT</pubDate>
         <description>Odczucia piłkarza są bardzo dobre i wskazują, że jego powrót do gry może nastąpić już w następnym tygodniu.</description>
-    </item>
-    
-    <item>
-        <title>„To trener bramkarzy Realu uważa, że w takich akcjach lepsza jest parada nogami” [VIDEO]</title>
-        <link>https://www.realmadryt.pl/news/147208-to-trener-bramkarzy-realu-uwaza-ze-w-takich-akcjach-lepsza-jest-parada-nogami-video</link>
-        <pubDate>Thu, 12 Mar 2026 15:40:00 GMT</pubDate>
-        <description>Belg po kolejnej cudownej paradzie wskazał, że to efekt jego ciężkiej codziennej pracy. Potwierdza to też ekspert bramkarski.</description>
     </item>
     
 </channel>
