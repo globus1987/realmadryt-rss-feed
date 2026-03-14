@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 13:11:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 13:54:48 GMT</lastBuildDate>
+    
+    <item>
+        <title>Terminarz 30. kolejki La Ligi</title>
+        <link>https://www.realmadryt.pl/news/147257-terminarz-30-kolejki-la-ligi</link>
+        <pubDate>Sat, 14 Mar 2026 14:28:00 GMT</pubDate>
+        <description>La Liga przedstawiła dokładny harmonogram 30. kolejki tego sezonu, w której Królewscy zagrają na wyjeździe z Mallorcą.</description>
+    </item>
+    
+    <item>
+        <title>Rafa Mir: Graliśmy fantastycznie w pierwszej połowie sezonu, a teraz nie widać efektów</title>
+        <link>https://www.realmadryt.pl/news/147252-rafa-mir-gralismy-fantastycznie-w-pierwszej-polowie-sezonu-a-teraz-nie-widac-efektow</link>
+        <pubDate>Sat, 14 Mar 2026 14:17:00 GMT</pubDate>
+        <description>Rocío Guevara z dziennika MARCA przeprowadziła rozmowę z Rafą Mirem, czyli najlepszym strzelcem Elche w tym sezonie. Co miał do powiedzenia przed meczem z Realem Madryt?</description>
+    </item>
     
     <item>
         <title>Nie warto lekceważyć Realu Madryt</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147249-glos-kibica-kto-na-lewej-obronie-z-city</link>
         <pubDate>Sat, 14 Mar 2026 07:25:00 GMT</pubDate>
         <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Wierzymy, że Mbappé będzie gotowy na wyjazd do Manchesteru</title>
-        <link>https://www.realmadryt.pl/news/147245-arbeloa-wierzymy-ze-mbappe-bedzie-gotowy-na-wyjazd-do-manchesteru</link>
-        <pubDate>Sat, 14 Mar 2026 05:30:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się wczoraj na konferencji prasowej przed jutrzejszym spotkaniem z Elche. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami w Valdebebas.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/147248-dzisiejsze-okladki</link>
-        <pubDate>Sat, 14 Mar 2026 00:31:00 GMT</pubDate>
-        <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
     </item>
     
 </channel>
