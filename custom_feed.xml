@@ -4,13 +4,27 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 11:58:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 13:11:36 GMT</lastBuildDate>
+    
+    <item>
+        <title>Nie warto lekceważyć Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/147253-nie-warto-lekcewazyc-realu-madryt</link>
+        <pubDate>Sat, 14 Mar 2026 13:25:00 GMT</pubDate>
+        <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami po meczu z Manchesterem City.</description>
+    </item>
+    
+    <item>
+        <title>AS: Borussia próbuje przekonać Schlotterbecka lukratywnym kontraktem</title>
+        <link>https://www.realmadryt.pl/news/147256-as-borussia-probuje-przekonac-schlotterbecka-lukratywnym-kontraktem</link>
+        <pubDate>Sat, 14 Mar 2026 12:59:00 GMT</pubDate>
+        <description>BVB ma do zaoferowania swojemu obrońcy wielkie pieniądze i możliwość przyszłego odejścia na określonych warunkach.</description>
+    </item>
     
     <item>
         <title>Kadra na Elche</title>
         <link>https://www.realmadryt.pl/news/147239-kadra-na-elche</link>
         <pubDate>Sat, 14 Mar 2026 12:38:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na dziesięciu zawodników pierwszego zespołu podczas ligowego spotkania z Celtą. Hiszpan powołał 20 piłkarzy.</description>
+        <description>Álvaro Arbeloa nie będzie mógł liczyć na dziesięciu zawodników pierwszego zespołu podczas ligowego spotkania z Elche. Hiszpan powołał 20 piłkarzy.</description>
     </item>
     
     <item>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147248-dzisiejsze-okladki</link>
         <pubDate>Sat, 14 Mar 2026 00:31:00 GMT</pubDate>
         <description>Sytuacja w Realu Madryt i Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
-    </item>
-    
-    <item>
-        <title>Przydomowa strefa kibica i piłkarza. Zestawienie najlepszych bramek do piłki nożnej na sezon 2026</title>
-        <link>https://www.realmadryt.pl/news/147244-przydomowa-strefa-kibica-i-pilkarza-zestawienie-najlepszych-bramek-do-pilki-noznej-na-sezon-2026</link>
-        <pubDate>Fri, 13 Mar 2026 20:15:00 GMT</pubDate>
-        <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Telewizyjny terminarz 28. kolejki La Ligi</title>
-        <link>https://www.realmadryt.pl/news/147243-telewizyjny-terminarz-28-kolejki-la-ligi</link>
-        <pubDate>Fri, 13 Mar 2026 20:00:00 GMT</pubDate>
-        <description>Dziś rozpocznie się 28. kolejka La Ligi. Real Madryt zagra jutro u siebie z Elche. Gdzie obejrzeć to spotkanie?</description>
     </item>
     
 </channel>
