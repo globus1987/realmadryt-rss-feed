@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 13:54:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 14:36:22 GMT</lastBuildDate>
+    
+    <item>
+        <title>Pilne spotkanie Arbeloi z czterema piłkarzami</title>
+        <link>https://www.realmadryt.pl/news/147260-pilne-spotkanie-arbeloi-z-czterema-pilkarzami</link>
+        <pubDate>Sat, 14 Mar 2026 15:10:00 GMT</pubDate>
+        <description>Trener rozmawiał z najważniejszymi graczami, których ma do dyspozycji na dzisiejszy mecz, ale chciałby też, aby zagrali od pierwszej minuty we wtorek.</description>
+    </item>
+    
+    <item>
+        <title>Fran García wraca do łask</title>
+        <link>https://www.realmadryt.pl/news/147250-fran-garcia-wraca-do-lask</link>
+        <pubDate>Sat, 14 Mar 2026 15:08:00 GMT</pubDate>
+        <description>Wychowanek będzie podstawowym lewym defensorem Królewskich w najbliższych dniach. Po niedoszłym wypożyczeniu do Bournemouth jest zawodnikiem najrzadziej grającym u Arbeloi.</description>
+    </item>
     
     <item>
         <title>Terminarz 30. kolejki La Ligi</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147251-kartka-z-kalendarza-14-marca</link>
         <pubDate>Sat, 14 Mar 2026 09:09:00 GMT</pubDate>
         <description>Ostatni mecz Fauberta, urodziny byłych piłkarzy, śmierć trenera, koszykarskie triumfy, wysokie wygrane i transfer obrońcy z FC Porto. Co działo się 14 marca?</description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Elche: Przewidywane składy</title>
-        <link>https://www.realmadryt.pl/news/147246-real-madryt-elche-przewidywane-sklady</link>
-        <pubDate>Sat, 14 Mar 2026 08:18:00 GMT</pubDate>
-        <description>Real Madryt rozegra dzisiaj kolejne spotkanie i tym razem zmierzy się z Elche w La Lidze.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Kto na lewej obronie z City</title>
-        <link>https://www.realmadryt.pl/news/147249-glos-kibica-kto-na-lewej-obronie-z-city</link>
-        <pubDate>Sat, 14 Mar 2026 07:25:00 GMT</pubDate>
-        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
     </item>
     
 </channel>
