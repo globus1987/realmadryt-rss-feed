@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 08:17:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 09:00:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Morfina czy panaceum?</title>
+        <link>https://www.realmadryt.pl/news/147241-morfina-czy-panaceum</link>
+        <pubDate>Sat, 14 Mar 2026 10:00:00 GMT</pubDate>
+        <description>Wyobraźmy sobie świat bez wojen i chorób. Już? No dobrze, wróćmy więc do rzeczywistości.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 14 marca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147237-guardiola-mam-swoja-opinie-o-meczu-w-madrycie-i-ona-sie-nie-zmienia-tylko-dlatego-ze-wynik-byl-zly</link>
         <pubDate>Fri, 13 Mar 2026 14:41:00 GMT</pubDate>
         <description>Pep Guardiola wziął udział w konferencji prasowej przed jutrzejszym meczem z West Hamem. Przedstawiamy pełen zapis tego spotkania trenera Manchesteru City z dziennikarzami.</description>
-    </item>
-    
-    <item>
-        <title>AS: Argentyńczycy bojkotują Finalissimę</title>
-        <link>https://www.realmadryt.pl/news/147236-as-argentynczycy-bojkotuja-finalissime</link>
-        <pubDate>Fri, 13 Mar 2026 14:14:00 GMT</pubDate>
-        <description>Meczu prawdopodobnie w ogóle nie będzie.</description>
     </item>
     
 </channel>
