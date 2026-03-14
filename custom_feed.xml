@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 07:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 08:17:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 14 marca</title>
+        <link>https://www.realmadryt.pl/news/147251-kartka-z-kalendarza-14-marca</link>
+        <pubDate>Sat, 14 Mar 2026 09:09:00 GMT</pubDate>
+        <description>Ostatni mecz Fauberta, urodziny byłych piłkarzy, śmierć trenera, koszykarskie triumfy, wysokie wygrane i transfer obrońcy z FC Porto. Co działo się 14 marca?</description>
+    </item>
     
     <item>
         <title>Real Madryt – Elche: Przewidywane składy</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147236-as-argentynczycy-bojkotuja-finalissime</link>
         <pubDate>Fri, 13 Mar 2026 14:14:00 GMT</pubDate>
         <description>Meczu prawdopodobnie w ogóle nie będzie.</description>
-    </item>
-    
-    <item>
-        <title>Mendy nie zagra z Elche i z City</title>
-        <link>https://www.realmadryt.pl/news/147235-mendy-nie-zagra-z-elche-i-z-city</link>
-        <pubDate>Fri, 13 Mar 2026 14:07:00 GMT</pubDate>
-        <description>Francuz wypada z gry i nie wystąpi w najbliższych spotkaniach Realu Madryt.</description>
     </item>
     
 </channel>
