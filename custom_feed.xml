@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 19:34:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 19:58:17 GMT</lastBuildDate>
+    
+    <item>
+        <title>Real Madryt – Elche [LIVE]</title>
+        <link>https://www.realmadryt.pl/news/147266-real-madryt-elche-live</link>
+        <pubDate>Sat, 14 Mar 2026 20:55:00 GMT</pubDate>
+        <description>Od 21:00 trwa mecz 28. kolejki La Ligi między Realem Madryt a Elche.</description>
+    </item>
     
     <item>
         <title>Zaskakująco wysokie zwycięstwo osłabionej Castilli</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147253-nie-warto-lekcewazyc-realu-madryt</link>
         <pubDate>Sat, 14 Mar 2026 13:25:00 GMT</pubDate>
         <description>Jorge Valdano, były piłkarz, trener i dyrektor generalny Realu Madryt, a obecnie komentator i felietonista w dzienniku El País dzieli się swoimi przemyśleniami po meczu z Manchesterem City.</description>
-    </item>
-    
-    <item>
-        <title>AS: Borussia próbuje przekonać Schlotterbecka lukratywnym kontraktem</title>
-        <link>https://www.realmadryt.pl/news/147256-as-borussia-probuje-przekonac-schlotterbecka-lukratywnym-kontraktem</link>
-        <pubDate>Sat, 14 Mar 2026 12:59:00 GMT</pubDate>
-        <description>BVB ma do zaoferowania swojemu obrońcy wielkie pieniądze i możliwość przyszłego odejścia na określonych warunkach.</description>
     </item>
     
 </channel>
