@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 11:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 11:39:35 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kadra na Elche</title>
+        <link>https://www.realmadryt.pl/news/147239-kadra-na-elche</link>
+        <pubDate>Sat, 14 Mar 2026 12:38:00 GMT</pubDate>
+        <description>Álvaro Arbeloa nie będzie mógł liczyć na dziesięciu zawodników pierwszego zespołu podczas ligowego spotkania z Celtą. Hiszpan powołał 20 piłkarzy.</description>
+    </item>
+    
+    <item>
+        <title>Jesús Gil Manzano na Elche</title>
+        <link>https://www.realmadryt.pl/news/147255-jesus-gil-manzano-na-elche</link>
+        <pubDate>Sat, 14 Mar 2026 12:34:00 GMT</pubDate>
+        <description>42-latek prowadzi spotkania La Ligi od 2012 roku. Dziś po raz 56. poprowadzi mecz z udziałem Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Trudny wyjazd dla Castilli</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147243-telewizyjny-terminarz-28-kolejki-la-ligi</link>
         <pubDate>Fri, 13 Mar 2026 20:00:00 GMT</pubDate>
         <description>Dziś rozpocznie się 28. kolejka La Ligi. Real Madryt zagra jutro u siebie z Elche. Gdzie obejrzeć to spotkanie?</description>
-    </item>
-    
-    <item>
-        <title>Sarabia: Oglądaliśmy wiele z ostatnich meczów Realu i uczyliśmy się od jego rywali</title>
-        <link>https://www.realmadryt.pl/news/147242-sarabia-ogladalismy-wiele-z-ostatnich-meczow-realu-i-uczylismy-sie-od-jego-rywali</link>
-        <pubDate>Fri, 13 Mar 2026 17:12:00 GMT</pubDate>
-        <description>Trener Elche, Eder Sarabia, stawił się na konferencji prasowej przed meczem z Realem Madryt w ramach 28. kolejki La Ligi. Poniżej przedstawiamy najważniejsze wypowiedzi hiszpańskiego szkoleniowca.</description>
-    </item>
-    
-    <item>
-        <title>Długie macki Maroka: „nie” Iniesty, wątpliwości Xaviego, opcja z Alonso, naciski na Pitarcha i finał mundialu…</title>
-        <link>https://www.realmadryt.pl/news/147240-dlugie-macki-maroka-nie-iniesty-watpliwosci-xaviego-opcja-z-alonso-naciski-na-pitarcha-i-final-mundialu</link>
-        <pubDate>Fri, 13 Mar 2026 16:03:00 GMT</pubDate>
-        <description>Afrykański kraj wchodzi w coraz więcej obszarów futbolu u sąsiada: od piłkarzy po trenerów… I pociąga za sznurki, by zapewnić sobie finał mistrzostw świata. Marokańska federacja brała pod uwagę także Xabiego Alonso.</description>
     </item>
     
 </channel>
