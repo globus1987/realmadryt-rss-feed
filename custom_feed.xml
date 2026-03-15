@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 17:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:45:47 GMT</lastBuildDate>
+    
+    <item>
+        <title>MARCA: Mbappé i Carreras polecą z drużyną do Manchesteru</title>
+        <link>https://www.realmadryt.pl/news/147295-marca-mbappe-i-carreras-poleca-z-druzyna-do-manchesteru</link>
+        <pubDate>Sun, 15 Mar 2026 18:27:00 GMT</pubDate>
+        <description>W Madrycie może zostać Asencio, który zmaga się z dolegliwościami w łydce.</description>
+    </item>
     
     <item>
         <title>CONMEBOL odpowiedziało na komunikat UEFA ws. Finalissimy</title>
@@ -14,10 +21,10 @@
     </item>
     
     <item>
-        <title>28. kojeka: Barcelona podejmuje Sevillę [NA ŻYWO]</title>
-        <link>https://www.realmadryt.pl/news/147293-28-kojeka-barcelona-podejmuje-seville-na-zywo</link>
+        <title>28. kojeka: Barcelona wygrywa z Sevillą i odskakuje na cztery punkty</title>
+        <link>https://www.realmadryt.pl/news/147293-28-kojeka-barcelona-wygrywa-z-sevilla-i-odskakuje-na-cztery-punkty</link>
         <pubDate>Sun, 15 Mar 2026 15:45:00 GMT</pubDate>
-        <description>Katalończycy chcą znowu odskoczyć na 4 punkty.</description>
+        <description>Hattrick Raphinhi.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147282-150-meczow-brahima-w-realu-madryt</link>
         <pubDate>Sun, 15 Mar 2026 10:51:00 GMT</pubDate>
         <description>Mecz z Elche na Santiago Bernabéu był dla Brahima Díaza 150. występem w barwach Realu Madryt.</description>
-    </item>
-    
-    <item>
-        <title>Kartka z kalendarza: 15 marca</title>
-        <link>https://www.realmadryt.pl/news/147272-kartka-z-kalendarza-15-marca</link>
-        <pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
-        <description>Śmierć byłych piłkarzy i trenera, ogranie obrońcy Pucharu Europy i dublet Bale'a. Co działo się 15 marca?</description>
     </item>
     
 </channel>
