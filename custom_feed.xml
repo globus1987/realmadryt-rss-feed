@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 03:27:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:20:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>Güler: To było golazo!</title>
+        <link>https://www.realmadryt.pl/news/147279-gueler-to-bylo-golazo</link>
+        <pubDate>Sun, 15 Mar 2026 05:30:00 GMT</pubDate>
+        <description>Arda Güler udzielił wywiadu klubowej telewizji po wygranym 4:1 meczu z Elche. Przedstawiamy wypowiedzi zawodnika Królewskich.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147266-troche-magii</link>
         <pubDate>Sat, 14 Mar 2026 20:55:00 GMT</pubDate>
         <description>W meczu 28. kolejki La Ligi Real Madryt wygrał z Elche 4:1 po golach Antonio Rüdigera, Fede Valverde, Deana Huijsena i Ardy Gülera.</description>
-    </item>
-    
-    <item>
-        <title>Zaskakująco wysokie zwycięstwo osłabionej Castilli</title>
-        <link>https://www.realmadryt.pl/news/147267-zaskakujaco-wysokie-zwyciestwo-oslabionej-castilli</link>
-        <pubDate>Sat, 14 Mar 2026 20:21:00 GMT</pubDate>
-        <description><p>W 28. kolejce Primera Federación Castilla pokonała Lugo na wyjeździe 4:0. Królewscy zmagali się z długą listą braków i mieli do dyspozycji zaledwie 12 zawodników z kadry z powodu kontuzji i powołań do pierwszego zespołu.</p></description>
     </item>
     
 </channel>
