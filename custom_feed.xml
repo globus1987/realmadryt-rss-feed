@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 05:20:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 06:34:16 GMT</lastBuildDate>
+    
+    <item>
+        <title>GŁOS KIBICA: Wybór prezesa Barcelony</title>
+        <link>https://www.realmadryt.pl/news/147280-glos-kibica-wybor-prezesa-barcelony</link>
+        <pubDate>Sun, 15 Mar 2026 07:25:00 GMT</pubDate>
+        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
+    </item>
     
     <item>
         <title>Güler: To było golazo!</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147265-krolewskie-wygrywaja-w-san-sebastian-video</link>
         <pubDate>Sat, 14 Mar 2026 21:07:00 GMT</pubDate>
         <description>W meczu 22. kolejki Ligi F piłkarki Realu Madryt pokonały w Zubiecie Real Sociedad 3:0. Bramki dla Królewskich zdobyły Sandie Toletti, Sara Holmgaard i Eva Navarro.</description>
-    </item>
-    
-    <item>
-        <title>Trochę magii</title>
-        <link>https://www.realmadryt.pl/news/147266-troche-magii</link>
-        <pubDate>Sat, 14 Mar 2026 20:55:00 GMT</pubDate>
-        <description>W meczu 28. kolejki La Ligi Real Madryt wygrał z Elche 4:1 po golach Antonio Rüdigera, Fede Valverde, Deana Huijsena i Ardy Gülera.</description>
     </item>
     
 </channel>
