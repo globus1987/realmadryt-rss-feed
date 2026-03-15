@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 11:58:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 13:13:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Mbappé trenował z drużyną!</title>
+        <link>https://www.realmadryt.pl/news/147291-mbappe-trenowal-z-druzyna</link>
+        <pubDate>Sun, 15 Mar 2026 13:57:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj w Valdebebas i rozpoczęli boiskowe przygotowania do wtorkowego spotkania z Manchesterem City.</description>
+    </item>
+    
+    <item>
+        <title>Łeń: Czeka nas trudny mecz, nie oczekujemy spacerku</title>
+        <link>https://www.realmadryt.pl/news/147262-len-czeka-nas-trudny-mecz-nie-oczekujemy-spacerku</link>
+        <pubDate>Sun, 15 Mar 2026 13:11:00 GMT</pubDate>
+        <description>Ołeksij Łeń wypowiadał się przed meczem z Lleidą w Lidze Endesą. Mówił o tym, że wcale nie spodziewa się łatwego spotkania z niżej notowanym rywalem.</description>
+    </item>
     
     <item>
         <title>Clément Turpin na rewanż z City</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147284-real-szpital-madryt-czyli-223-absencje-a-bedzie-ich-znacznie-wiecej</link>
         <pubDate>Sun, 15 Mar 2026 08:52:00 GMT</pubDate>
         <description>Artykuł sponsorowany.</description>
-    </item>
-    
-    <item>
-        <title>Magiczny tydzień Valverde</title>
-        <link>https://www.realmadryt.pl/news/147283-magiczny-tydzien-valverde</link>
-        <pubDate>Sun, 15 Mar 2026 08:50:00 GMT</pubDate>
-        <description>Fede Valverde ma za sobą fantastyczny tydzień. W poprzedniej kolejce zapewnił drużynie trzy punkty na wyjeździe z Celtą, a w Lidze Mistrzów popisał się hat-trickiem. Wczoraj przeciwko Elche znów trafił do siatki.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Musimy być zespołem bardzo pokornym i bardzo zaangażowanym w pracę</title>
-        <link>https://www.realmadryt.pl/news/147275-arbeloa-musimy-byc-zespolem-bardzo-pokornym-i-bardzo-zaangazowanym-w-prace</link>
-        <pubDate>Sun, 15 Mar 2026 08:18:00 GMT</pubDate>
-        <description>Álvaro Arbeloa pojawił się na konferencji prasowej po spotkaniu z Elche w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
     </item>
     
 </channel>
