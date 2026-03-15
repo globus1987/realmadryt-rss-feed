@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 09:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 10:39:03 GMT</lastBuildDate>
+    
+    <item>
+        <title>150 meczów Brahima w Realu Madryt</title>
+        <link>https://www.realmadryt.pl/news/147282-150-meczow-brahima-w-realu-madryt</link>
+        <pubDate>Sun, 15 Mar 2026 10:51:00 GMT</pubDate>
+        <description>Mecz z Elche na Santiago Bernabéu był dla Brahima Díaza 150. występem w barwach Realu Madryt.</description>
+    </item>
     
     <item>
         <title>Kartka z kalendarza: 15 marca</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147276-yanez-debiut-na-bernabeu-i-asysta-trudno-to-opisac-nigdy-tego-nie-zapomne</link>
         <pubDate>Sun, 15 Mar 2026 00:44:00 GMT</pubDate>
         <description>Daniel Yáñez udzielił wywiadu klubowej telewizji po wygranym 4:1 meczu z Elche. Przedstawiamy wypowiedzi wychowanka Królewskich, który dziś zaliczył debiut na Santiago Bernabéu oraz zaliczył asystę przy golu Deana Huijsena.</description>
-    </item>
-    
-    <item>
-        <title>City remisuje przed meczem z Realem</title>
-        <link>https://www.realmadryt.pl/news/147277-city-remisuje-przed-meczem-z-realem</link>
-        <pubDate>Sun, 15 Mar 2026 00:42:00 GMT</pubDate>
-        <description>Drużyna Guardioli traci punkty w Premier League po remisie 1:1 z West Hamem.</description>
     </item>
     
 </channel>
