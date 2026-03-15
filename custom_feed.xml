@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 16:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 17:04:07 GMT</lastBuildDate>
+    
+    <item>
+        <title>CONMEBOL odpowiedziało na komunikat UEFA ws. Finalissimy</title>
+        <link>https://www.realmadryt.pl/news/147294-conmebol-odpowiedzialo-na-komunikat-uefa-ws-finalissimy</link>
+        <pubDate>Sun, 15 Mar 2026 17:42:00 GMT</pubDate>
+        <description>Argentyńczycy twierdzą, że problemem nie było miejsce, lecz termin.</description>
+    </item>
     
     <item>
         <title>28. kojeka: Barcelona podejmuje Sevillę [NA ŻYWO]</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147272-kartka-z-kalendarza-15-marca</link>
         <pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
         <description>Śmierć byłych piłkarzy i trenera, ogranie obrońcy Pucharu Europy i dublet Bale'a. Co działo się 15 marca?</description>
-    </item>
-    
-    <item>
-        <title>Guardiola: Jestem optymistą przed wtorkiem</title>
-        <link>https://www.realmadryt.pl/news/147286-guardiola-jestem-optymista-przed-wtorkiem</link>
-        <pubDate>Sun, 15 Mar 2026 09:19:00 GMT</pubDate>
-        <description>Trener Manchesteru City rozmawiał po meczu z dziennikarzami. Przedstawiamy najważniejsze wypowiedzi Katalończyka.</description>
     </item>
     
 </channel>
