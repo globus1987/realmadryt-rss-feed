@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sat, 14 Mar 2026 23:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 03:27:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147281-dzisiejsze-okladki</link>
+        <pubDate>Sun, 15 Mar 2026 01:09:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i wybory w Barcelonie to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Yáñez: Debiut na Bernabéu i asysta? Trudno to opisać, nigdy tego nie zapomnę</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147267-zaskakujaco-wysokie-zwyciestwo-oslabionej-castilli</link>
         <pubDate>Sat, 14 Mar 2026 20:21:00 GMT</pubDate>
         <description><p>W 28. kolejce Primera Federación Castilla pokonała Lugo na wyjeździe 4:0. Królewscy zmagali się z długą listą braków i mieli do dyspozycji zaledwie 12 zawodników z kadry z powodu kontuzji i powołań do pierwszego zespołu.</p></description>
-    </item>
-    
-    <item>
-        <title>Real Madryt – Elche: Znamy składy!</title>
-        <link>https://www.realmadryt.pl/news/147264-real-madryt-elche-znamy-sklady</link>
-        <pubDate>Sat, 14 Mar 2026 19:26:00 GMT</pubDate>
-        <description>Wiemy już, kto wystąpi od pierwszej minuty w ligowym spotkaniu z Elche. Spotkanie rozpocznie się o 21:00 na Santiago Bernabéu.</description>
     </item>
     
 </channel>
