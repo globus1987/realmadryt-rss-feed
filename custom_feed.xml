@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 11:02:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 11:41:02 GMT</lastBuildDate>
+    
+    <item>
+        <title>Clément Turpin na rewanż z City</title>
+        <link>https://www.realmadryt.pl/news/147290-clement-turpin-na-rewanz-z-city</link>
+        <pubDate>Sun, 15 Mar 2026 12:26:00 GMT</pubDate>
+        <description>UEFA wybrała francuskich sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Clément Turpin, a za wideoweryfikację odpowiadać będzie Jérôme Brisard.</description>
+    </item>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Elche</title>
+        <link>https://www.realmadryt.pl/news/147289-oceny-zawodnikow-po-meczu-z-elche</link>
+        <pubDate>Sun, 15 Mar 2026 12:20:00 GMT</pubDate>
+        <description>Real Madryt wygrał w La Lidze z Elche 4:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
+    </item>
     
     <item>
         <title>Koszykarze zagrają z Lleidą</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147275-arbeloa-musimy-byc-zespolem-bardzo-pokornym-i-bardzo-zaangazowanym-w-prace</link>
         <pubDate>Sun, 15 Mar 2026 08:18:00 GMT</pubDate>
         <description>Álvaro Arbeloa pojawił się na konferencji prasowej po spotkaniu z Elche w Lidze Mistrzów. Przedstawiamy zapis tego spotkania trenera Realu Madryt z dziennikarzami na Bernabéu.</description>
-    </item>
-    
-    <item>
-        <title>GŁOS KIBICA: Wybór prezesa Barcelony</title>
-        <link>https://www.realmadryt.pl/news/147280-glos-kibica-wybor-prezesa-barcelony</link>
-        <pubDate>Sun, 15 Mar 2026 07:25:00 GMT</pubDate>
-        <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Güler: To było golazo!</title>
-        <link>https://www.realmadryt.pl/news/147279-gueler-to-bylo-golazo</link>
-        <pubDate>Sun, 15 Mar 2026 05:30:00 GMT</pubDate>
-        <description>Arda Güler udzielił wywiadu klubowej telewizji po wygranym 4:1 meczu z Elche. Przedstawiamy wypowiedzi zawodnika Królewskich.</description>
     </item>
     
 </channel>
