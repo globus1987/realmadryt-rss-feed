@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 08:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 09:02:51 GMT</lastBuildDate>
+    
+    <item>
+        <title>Kartka z kalendarza: 15 marca</title>
+        <link>https://www.realmadryt.pl/news/147272-kartka-z-kalendarza-15-marca</link>
+        <pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
+        <description>Śmierć byłych piłkarzy i trenera, ogranie obrońcy Pucharu Europy i dublet Bale'a. Co działo się 15 marca?</description>
+    </item>
     
     <item>
         <title>Guardiola: Jestem optymistą przed wtorkiem</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147277-city-remisuje-przed-meczem-z-realem</link>
         <pubDate>Sun, 15 Mar 2026 00:42:00 GMT</pubDate>
         <description>Drużyna Guardioli traci punkty w Premier League po remisie 1:1 z West Hamem.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Po takiej nocy mogę umrzeć spokojnie</title>
-        <link>https://www.realmadryt.pl/news/147274-arbeloa-po-takiej-nocy-moge-umrzec-spokojnie</link>
-        <pubDate>Sat, 14 Mar 2026 23:54:00 GMT</pubDate>
-        <description>Álvaro Arbeloa udzielił wywiadu dla klubowej telewizji po wygranym 4:1 spotkaniu z Elche. Przedstawiamy wypowiedzi trenera Realu Madryt.</description>
     </item>
     
 </channel>
