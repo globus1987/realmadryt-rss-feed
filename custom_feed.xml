@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 14:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 15:03:08 GMT</lastBuildDate>
+    
+    <item>
+        <title>28. kojeka: Barcelona podejmuje Sevillę [NA ŻYWO]</title>
+        <link>https://www.realmadryt.pl/news/147293-28-kojeka-barcelona-podejmuje-seville-na-zywo</link>
+        <pubDate>Sun, 15 Mar 2026 15:45:00 GMT</pubDate>
+        <description>Katalończycy chcą znowu odskoczyć na 4 punkty.</description>
+    </item>
     
     <item>
         <title>Castilla zagra z Manchesterem United na Old Trafford</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147286-guardiola-jestem-optymista-przed-wtorkiem</link>
         <pubDate>Sun, 15 Mar 2026 09:19:00 GMT</pubDate>
         <description>Trener Manchesteru City rozmawiał po meczu z dziennikarzami. Przedstawiamy najważniejsze wypowiedzi Katalończyka.</description>
-    </item>
-    
-    <item>
-        <title>Aguado: Debiut na Bernabéu to niewytłumaczalne uczucie</title>
-        <link>https://www.realmadryt.pl/news/147278-aguado-debiut-na-bernabeu-to-niewytlumaczalne-uczucie</link>
-        <pubDate>Sun, 15 Mar 2026 09:09:00 GMT</pubDate>
-        <description>Diego Aguado udzielił wywiadu dla klubowej telewizji po wygranym spotkaniu z Elche, w którym zadebiutował w koszulce Realu Madryt na Bernabéu. Przedstawiamy zapis rozmowy z wychowankiem Królewskich.</description>
     </item>
     
 </channel>
