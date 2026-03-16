@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Mar 2026 20:22:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 21:06:56 GMT</lastBuildDate>
+    
+    <item>
+        <title>Drużyna trenowała na Etihad</title>
+        <link>https://www.realmadryt.pl/news/147324-druzyna-trenowala-na-etihad</link>
+        <pubDate>Mon, 16 Mar 2026 21:41:00 GMT</pubDate>
+        <description>Królewscy pojawili się dzisiaj na Etihad i zakończyli boiskowe przygotowania do wtorkowego spotkania z Manchesterem City.</description>
+    </item>
     
     <item>
         <title>Vinícius i Endrick powołani do reprezentacji Brazylii</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147309-pilkarze-manchesteru-city-nie-beda-dzis-trenowac</link>
         <pubDate>Mon, 16 Mar 2026 12:20:00 GMT</pubDate>
         <description>Pep Guardiola niespodziewanie dał wolne swoim graczom.</description>
-    </item>
-    
-    <item>
-        <title>Kadra na City</title>
-        <link>https://www.realmadryt.pl/news/147299-kadra-na-city</link>
-        <pubDate>Mon, 16 Mar 2026 10:08:00 GMT</pubDate>
-        <description>Álvaro Arbeloa nie będzie mógł liczyć na pięciu zawodników pierwszego zespołu podczas rewanżowego spotkania z Manchesterem City. Hiszpan powołał 25 piłkarzy.</description>
     </item>
     
 </channel>
