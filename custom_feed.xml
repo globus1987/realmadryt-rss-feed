@@ -4,11 +4,18 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Sun, 15 Mar 2026 23:44:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 01:02:24 GMT</lastBuildDate>
     
     <item>
-        <title>Oficjalnie: Joan Laporta ponownie prezesem Barcelony</title>
-        <link>https://www.realmadryt.pl/news/147304-oficjalnie-joan-laporta-ponownie-prezesem-barcelony</link>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147305-dzisiejsze-okladki</link>
+        <pubDate>Mon, 16 Mar 2026 01:11:00 GMT</pubDate>
+        <description>Sytuacja w Realu przed meczem z City, wygrana Bercelony i Laporty to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
+    
+    <item>
+        <title>Oficjalnie: Joan Laporta ponownie wybrany prezesem Barcelony</title>
+        <link>https://www.realmadryt.pl/news/147304-oficjalnie-joan-laporta-ponownie-wybrany-prezesem-barcelony</link>
         <pubDate>Mon, 16 Mar 2026 00:04:00 GMT</pubDate>
         <description>Barcelona nie zdecydowała się na zmianę. Joan Laporta wygrał wybory z dużą przewagą nad Víctorem Fontem i zapewnił sobie kolejną kadencję, która potrwa do 2031 roku.</description>
     </item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147290-clement-turpin-na-rewanz-z-city</link>
         <pubDate>Sun, 15 Mar 2026 12:26:00 GMT</pubDate>
         <description>UEFA wybrała francuskich sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Clément Turpin, a za wideoweryfikację odpowiadać będzie Jérôme Brisard.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Elche</title>
-        <link>https://www.realmadryt.pl/news/147289-oceny-zawodnikow-po-meczu-z-elche</link>
-        <pubDate>Sun, 15 Mar 2026 12:20:00 GMT</pubDate>
-        <description>Real Madryt wygrał w La Lidze z Elche 4:1. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6.</description>
     </item>
     
 </channel>
