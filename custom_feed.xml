@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Mar 2026 22:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 23:15:05 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147327-dzisiejsze-okladki</link>
+        <pubDate>Tue, 17 Mar 2026 00:10:00 GMT</pubDate>
+        <description>Mecz Realu Madryt i wydarzenia w Barcelonie po wyborach to najważniejsze kwestie poruszane na dzisiejszych okładkach największych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Drużyna trenowała na Etihad</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147310-krolewscy-sa-juz-w-manchesterze</link>
         <pubDate>Mon, 16 Mar 2026 13:03:00 GMT</pubDate>
         <description>Real Madryt dotarł do Manchesteru, gdzie jutro w starciu z City powalczy o awans do ćwiercfinału Ligi Mistrzów. Na dziś zaplanowano konferencję prasową z udziałem Arbeloi i jednego z zawodników oraz oficjalny trening na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Piłkarze Manchesteru City nie będą dziś trenować</title>
-        <link>https://www.realmadryt.pl/news/147309-pilkarze-manchesteru-city-nie-beda-dzis-trenowac</link>
-        <pubDate>Mon, 16 Mar 2026 12:20:00 GMT</pubDate>
-        <description>Pep Guardiola niespodziewanie dał wolne swoim graczom.</description>
     </item>
     
 </channel>
