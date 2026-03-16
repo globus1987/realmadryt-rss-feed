@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Mon, 16 Mar 2026 04:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:58:14 GMT</lastBuildDate>
+    
+    <item>
+        <title>Historia przemawia za Realem</title>
+        <link>https://www.realmadryt.pl/news/147301-historia-przemawia-za-realem</link>
+        <pubDate>Mon, 16 Mar 2026 05:30:00 GMT</pubDate>
+        <description>Żaden z rywali Królewskich w historii Ligi Mistrzów nie był w stanie odrobić strat po przegraniu pierwszego meczu 0:3.</description>
+    </item>
     
     <item>
         <title>Dzisiejsze okładki</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147262-len-czeka-nas-trudny-mecz-nie-oczekujemy-spacerku</link>
         <pubDate>Sun, 15 Mar 2026 13:11:00 GMT</pubDate>
         <description>Ołeksij Łeń wypowiadał się przed meczem z Lleidą w Lidze Endesą. Mówił o tym, że wcale nie spodziewa się łatwego spotkania z niżej notowanym rywalem.</description>
-    </item>
-    
-    <item>
-        <title>Clément Turpin na rewanż z City</title>
-        <link>https://www.realmadryt.pl/news/147290-clement-turpin-na-rewanz-z-city</link>
-        <pubDate>Sun, 15 Mar 2026 12:26:00 GMT</pubDate>
-        <description>UEFA wybrała francuskich sędziów na najbliższy mecz Realu Madryt w Lidze Mistrzów. Arbitrem głównym będzie Clément Turpin, a za wideoweryfikację odpowiadać będzie Jérôme Brisard.</description>
     </item>
     
 </channel>
