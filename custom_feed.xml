@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Mar 2026 23:17:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 23:56:53 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147354-dzisiejsze-okladki</link>
+        <pubDate>Wed, 18 Mar 2026 00:51:00 GMT</pubDate>
+        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych.</description>
+    </item>
     
     <item>
         <title>Guardiola: Chciałbym przeżyć ten mecz, grając jedenastu na jedenastu</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147342-courtois-to-bedzie-bardzo-trudny-wieczor-oni-zaczna-bardzo-mocno</link>
         <pubDate>Tue, 17 Mar 2026 20:28:00 GMT</pubDate>
         <description>Thibaut Courtois na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi bramkarza Realu Madryt na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Arbeloa: Myślę, że Mbappé dzisiaj zagra</title>
-        <link>https://www.realmadryt.pl/news/147340-arbeloa-mysle-ze-mbappe-dzisiaj-zagra</link>
-        <pubDate>Tue, 17 Mar 2026 20:21:00 GMT</pubDate>
-        <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Etihad Stadium.</description>
     </item>
     
 </channel>
