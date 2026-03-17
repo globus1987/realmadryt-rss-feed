@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Tue, 17 Mar 2026 22:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 23:17:06 GMT</lastBuildDate>
+    
+    <item>
+        <title>Guardiola: Chciałbym przeżyć ten mecz, grając jedenastu na jedenastu</title>
+        <link>https://www.realmadryt.pl/news/147352-guardiola-chcialbym-przezyc-ten-mecz-grajac-jedenastu-na-jedenastu</link>
+        <pubDate>Tue, 17 Mar 2026 23:47:00 GMT</pubDate>
+        <description>Pep Guardiola udzielił wypowiedzi telewizji Movistar+ po przegranym 1:2 meczu z Realem Madryt. Przedstawiamy wypowiedzi szkoleniowca Manchesteru City.</description>
+    </item>
     
     <item>
         <title>Łunin: Muszę być gotowy do gry w każdym spotkaniu i pomagać tak jak mogę</title>
@@ -31,7 +38,7 @@
         <title>Vinícius: Chcieliśmy ciężko pracować i wykorzystywać nasze szanse</title>
         <link>https://www.realmadryt.pl/news/147344-vinicius-chcielismy-ciezko-pracowac-i-wykorzystywac-nasze-szanse</link>
         <pubDate>Tue, 17 Mar 2026 23:22:00 GMT</pubDate>
-        <description>Vinícius udzielił wypowiedzi telewizji Movistar+ po zremisowanym 1:1 meczu z Manchesterem City. Przedstawiamy wypowiedzi piłkarza Realu Madryt z murawy Etihad.</description>
+        <description>Vinícius udzielił wypowiedzi telewizji Movistar+ po wygranym 2:1 meczu z Manchesterem City. Przedstawiamy wypowiedzi piłkarza Realu Madryt z murawy Etihad.</description>
     </item>
     
     <item>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147340-arbeloa-mysle-ze-mbappe-dzisiaj-zagra</link>
         <pubDate>Tue, 17 Mar 2026 20:21:00 GMT</pubDate>
         <description>Álvaro Arbeloa na godzinę przed meczem Ligi Mistrzów z Manchesterem City udzielił wywiadu telewizji Movistar+. Przedstawiamy wypowiedzi trenera Realu Madryt na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Manchester City – Real Madryt: Znamy składy</title>
-        <link>https://www.realmadryt.pl/news/147338-manchester-city-real-madryt-znamy-sklady</link>
-        <pubDate>Tue, 17 Mar 2026 19:25:00 GMT</pubDate>
-        <description>Álvaro Arbeloa odsłonił karty i wiemy już, kto wystąpi od pierwszej minuty w rewanżowym meczu 1/8 finału Ligi Mistrzów. Mecz rozpocznie się o godzinie 21:00 na Etihad Stadium.</description>
     </item>
     
 </channel>
