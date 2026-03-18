@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Mar 2026 22:57:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 23:37:55 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dokładny terminarz 1/4 finału Ligi Mistrzów</title>
+        <link>https://www.realmadryt.pl/news/147380-dokladny-terminarz-1-4-finalu-ligi-mistrzow</link>
+        <pubDate>Thu, 19 Mar 2026 00:12:00 GMT</pubDate>
+        <description>UEFA oficjalnie potwierdziła terminy spotkań 1/4 finału Ligi Mistrzów. Na dzień meczowy przypadają dwa spotkania i oba rozpoczną się o tej samej porze.</description>
+    </item>
     
     <item>
         <title>Marokańska federacja wydała oficjalny komunikat w sprawie walkowera z finału PNA</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147368-oceny-zawodnikow-po-meczu-z-manchesterem-city</link>
         <pubDate>Wed, 18 Mar 2026 13:30:00 GMT</pubDate>
         <description>Real Madryt wygrał1:2 z Manchesterem City. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
-    </item>
-    
-    <item>
-        <title>Real katem Guardioli</title>
-        <link>https://www.realmadryt.pl/news/147366-real-katem-guardioli</link>
-        <pubDate>Wed, 18 Mar 2026 13:13:00 GMT</pubDate>
-        <description>Real Madryt w trzecim kolejnym roku eliminuje City z Ligi Mistrzów i potwierdza, że jest „czarną bestią” dla Pepa Guardioli, który po raz 5. w swojej karierze zakończył swoją przygodę w Lidze Mistrzów na starciu z Królewskimi.</description>
     </item>
     
 </channel>
