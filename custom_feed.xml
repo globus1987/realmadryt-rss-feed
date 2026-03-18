@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Mar 2026 09:37:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 10:36:20 GMT</lastBuildDate>
+    
+    <item>
+        <title>Królewscy mają dziś wolne</title>
+        <link>https://www.realmadryt.pl/news/147364-krolewscy-maja-dzis-wolne</link>
+        <pubDate>Wed, 18 Mar 2026 11:15:00 GMT</pubDate>
+        <description>Zawodnicy Realu Madryt wrócą do pracy dopiero jutro i wówczas rozpoczną przygotowania do kolejnego meczu w tym sezonie.</description>
+    </item>
     
     <item>
         <title>Arbeloa: Nie odważyłbym się powiedzieć, że mogę wygrać w czymkolwiek z takim trenerem jak Guardiola</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147357-vinicius-w-poprzednim-sezonie-mnie-sprowokowali-i-uznalem-te-celebracje-za-konieczna</link>
         <pubDate>Wed, 18 Mar 2026 05:30:00 GMT</pubDate>
         <description>Vinícius po meczu Ligi Mistrzów z Manchesterem City udzielił wywiadu TNT Sports Brasil. Przedstawiamy wypowiedzi atakującego Realu Madryt z tej rozmowy na Etihad Stadium.</description>
-    </item>
-    
-    <item>
-        <title>Dzisiejsze okładki</title>
-        <link>https://www.realmadryt.pl/news/147354-dzisiejsze-okladki</link>
-        <pubDate>Wed, 18 Mar 2026 00:51:00 GMT</pubDate>
-        <description>Wygrana Realu Madryt i mecz Barcelony to główne tematy na środowych okładkach najpopularniejszych dzienników sportowych.</description>
     </item>
     
 </channel>
