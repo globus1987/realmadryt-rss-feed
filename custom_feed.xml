@@ -4,7 +4,21 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Mar 2026 11:32:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 12:35:37 GMT</lastBuildDate>
+    
+    <item>
+        <title>Oceny zawodników po meczu z Manchesterem City</title>
+        <link>https://www.realmadryt.pl/news/147368-oceny-zawodnikow-po-meczu-z-manchesterem-city</link>
+        <pubDate>Wed, 18 Mar 2026 13:30:00 GMT</pubDate>
+        <description>Real Madryt wygrał1:2 z Manchesterem City. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
+    </item>
+    
+    <item>
+        <title>Real katem Guardioli</title>
+        <link>https://www.realmadryt.pl/news/147366-real-katem-guardioli</link>
+        <pubDate>Wed, 18 Mar 2026 13:13:00 GMT</pubDate>
+        <description>Real Madryt w trzecim kolejnym roku eliminuje City z Ligi Mistrzów i potwierdza, że jest „czarną bestią” dla Pepa Guardioli, który po raz 5. w swojej karierze zakończył swoją przygodę w Lidze Mistrzów na starciu z Królewskimi.</description>
+    </item>
     
     <item>
         <title>Komplet Arbeloi z Mourinho i Guardiolą</title>
@@ -74,20 +88,6 @@
         <link>https://www.realmadryt.pl/news/147358-glos-kibica-cieszynka-viniciusa-do-kibicow-city</link>
         <pubDate>Wed, 18 Mar 2026 07:50:00 GMT</pubDate>
         <description>To cykl, w którym na starcie każdego dnia staramy się przedstawić kibicom Królewskich kwestię do rozstrzygnięcia oraz dyskusji. Zapraszamy do udziału.</description>
-    </item>
-    
-    <item>
-        <title>Trent: Nasi stoperzy byli absolutnie znakomici w obu meczach</title>
-        <link>https://www.realmadryt.pl/news/147360-trent-nasi-stoperzy-byli-absolutnie-znakomici-w-obu-meczach</link>
-        <pubDate>Wed, 18 Mar 2026 07:48:00 GMT</pubDate>
-        <description>Trent Alexander-Arnold udzielił wywiadu dla CBS Sports. Przedstawiamy pełne tłumaczenie tej rozmowy z Anglikiem.</description>
-    </item>
-    
-    <item>
-        <title>Sporting, Arsenal i PSG także z awansem do ćwierćfinałów Ligi Mistrzów</title>
-        <link>https://www.realmadryt.pl/news/147355-sporting-arsenal-i-psg-takze-z-awansem-do-cwiercfinalow-ligi-mistrzow</link>
-        <pubDate>Wed, 18 Mar 2026 07:00:00 GMT</pubDate>
-        <description>We wtorek poza Realem Madryt awans do ćwierćfinałów zapewniły sobie trzy inne ekipy. Rywala Królewskich poznamy dopiero dzisiaj.</description>
     </item>
     
 </channel>
