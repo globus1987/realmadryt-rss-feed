@@ -4,7 +4,14 @@
     <title>RealMadryt.pl custom feed</title>
     <link>https://www.realmadryt.pl/aktualnosci</link>
     <description>Custom feed from realmadryt.pl</description>
-    <lastBuildDate>Wed, 18 Mar 2026 23:37:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 00:01:04 GMT</lastBuildDate>
+    
+    <item>
+        <title>Dzisiejsze okładki</title>
+        <link>https://www.realmadryt.pl/news/147381-dzisiejsze-okladki</link>
+        <pubDate>Thu, 19 Mar 2026 00:39:00 GMT</pubDate>
+        <description>Awanse Atlético i Barcelony to główne tematy na czwartkowych okładkach najpopularniejszych dzienników sportowych w Hiszpanii.</description>
+    </item>
     
     <item>
         <title>Dokładny terminarz 1/4 finału Ligi Mistrzów</title>
@@ -81,13 +88,6 @@
         <link>https://www.realmadryt.pl/news/147370-napiecie-miedzy-guardiola-a-ruedigerem-odciagajacy-arbeloa-i-buziak-od-pepa-video</link>
         <pubDate>Wed, 18 Mar 2026 14:14:00 GMT</pubDate>
         <description>Pomeczowe ujęcia hiszpańskiej telewizji pokazały niespodziewanie duże napięcie między obrońcą Realu Madryt a trenerem Manchesteru City.</description>
-    </item>
-    
-    <item>
-        <title>Oceny zawodników po meczu z Manchesterem City</title>
-        <link>https://www.realmadryt.pl/news/147368-oceny-zawodnikow-po-meczu-z-manchesterem-city</link>
-        <pubDate>Wed, 18 Mar 2026 13:30:00 GMT</pubDate>
-        <description>Real Madryt wygrał1:2 z Manchesterem City. Poniżej prezentujemy oceny, jakie zawodnikom Królewskich wystawili redaktorzy i użytkownicy RealMadryt.pl. Skala 1–6. Autorem opisów jest @ElJarek.</description>
     </item>
     
 </channel>
